@@ -1,0 +1,187 @@
+import Image from "next/image";
+import Link from "next/link";
+
+const Comments: React.FC = () => {
+  return (
+    <>
+      <div className="comments-area">
+        <h3 className="comments-title">3 Comments:</h3>
+
+        <ol className="comment-list">
+          <li className="comment">
+            <div className="comment-body">
+              <footer className="comment-meta">
+                <div className="comment-author vcard">
+                  <Image
+                    src="/images/client/client-1.jpg"
+                    className="avatar"
+                    alt="image"
+                    width={300}
+                    height={300}
+                  />
+                  <b className="fn">John Jones</b>
+                </div>
+                <div className="comment-metadata">
+                  April 24, 2024 at 10:59 am
+                </div>
+              </footer>
+
+              <div className="comment-content">
+                <p>
+                  Lorem Ipsum has been the industry standard dummy text ever
+                  since the 1500s, when an unknown printer took a galley of type
+                  and scrambled it to make a type specimen.
+                </p>
+              </div>
+              <div className="reply">
+                <Link href="#" className="comment-reply-link">
+                  Reply
+                </Link>
+              </div>
+            </div>
+
+            <ol className="children">
+              <li className="comment">
+                <div className="comment-body">
+                  <footer className="comment-meta">
+                    <div className="comment-author vcard">
+                      <Image
+                        src="/images/client/client-2.jpg"
+                        className="avatar"
+                        alt="image"
+                        width={300}
+                        height={300}
+                      />
+                      <b className="fn">Steven Smith</b>
+                    </div>
+                    <div className="comment-metadata">
+                      April 24, 2024 at 10:59 am
+                    </div>
+                  </footer>
+                  <div className="comment-content">
+                    <p>
+                      Lorem Ipsum has been the industry standard dummy text
+                      ever since the 1500s, when an unknown printer took a
+                      galley of type and scrambled it to make a type specimen.
+                    </p>
+                  </div>
+                  <div className="reply">
+                    <Link href="#" className="comment-reply-link">
+                      Reply
+                    </Link>
+                  </div>
+                </div>
+              </li>
+            </ol>
+
+            <div className="comment-body">
+              <footer className="comment-meta">
+                <div className="comment-author vcard">
+                  <Image
+                    src="/images/client/client-3.jpg"
+                    className="avatar"
+                    alt="image"
+                    width={300}
+                    height={300}
+                  />
+                  <b className="fn">Sarah Taylor</b>
+                </div>
+                <div className="comment-metadata">
+                  April 24, 2024 at 10:59 am
+                </div>
+              </footer>
+              <div className="comment-content">
+                <p>
+                  Lorem Ipsum has been the industry standard dummy text ever
+                  since the 1500s, when an unknown printer took a galley of type
+                  and scrambled it to make a type specimen.
+                </p>
+              </div>
+              <div className="reply">
+                <Link href="#" className="comment-reply-link">
+                  Reply
+                </Link>
+              </div>
+            </div>
+          </li>
+        </ol>
+
+        <div className="comment-respond">
+          <h3 className="comment-reply-title">Leave a Reply</h3>
+
+          <form className="comment-form">
+            <p className="comment-notes">
+              <span id="email-notes">
+                Your email address will not be published.
+              </span>
+              Required fields are marked
+              <span className="required">*</span>
+            </p>
+            <p className="comment-form-author">
+              <label>
+                Name <span className="required">*</span>
+              </label>
+              <input
+                type="text"
+                id="author"
+                placeholder="Your Name*"
+                name="author"
+                required
+              />
+            </p>
+            <p className="comment-form-email">
+              <label>
+                Email <span className="required">*</span>
+              </label>
+              <input
+                type="email"
+                id="email"
+                placeholder="Your Email*"
+                name="email"
+                required
+              />
+            </p>
+            <p className="comment-form-url">
+              <label>Website</label>
+              <input type="url" id="url" placeholder="Website" name="url" />
+            </p>
+            <p className="comment-form-comment">
+              <label>Comment</label>
+              <textarea
+                name="comment"
+                id="comment"
+                cols={45}
+                placeholder="Your Comment..."
+                rows={5}
+                required
+              ></textarea>
+            </p>
+            <p className="comment-form-cookies-consent">
+              <input
+                type="checkbox"
+                value="yes"
+                name="comment-cookies-consent"
+                id="comment-cookies-consent"
+              />
+              <label htmlFor="comment-cookies-consent">
+                Save my name, email, and website in this browser for the next
+                time I comment.
+              </label>
+            </p>
+            <p className="form-submit">
+              <input
+                type="submit"
+                name="submit"
+                id="submit"
+                className="submit"
+                value="Post A Comment"
+              />
+            </p>
+          </form>
+        </div>
+      </div>
+    </>
+  );
+};
+
+export default Comments;
