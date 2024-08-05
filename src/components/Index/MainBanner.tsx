@@ -42,23 +42,8 @@ const MainBanner: React.FC = () => {
                                                 {service.CHORN_SERVICE_INFO.span}
                                             </p>
 
-                                            {/*<form*/}
-                                            {/*    className="banner-form"*/}
-                                            {/*    data-aos="fade-up"*/}
-                                            {/*    data-aos-duration="800"*/}
-                                            {/*    data-aos-delay="300"*/}
-                                            {/*    data-aos-once="true"*/}
-                                            {/*>*/}
-                                            {/*    <input*/}
-                                            {/*        type="email"*/}
-                                            {/*        className="form-control"*/}
-                                            {/*        placeholder="Enter your Email"*/}
-                                            {/*    />*/}
-                                            {/*    <button type="submit">Get Your Report</button>*/}
-                                            {/*</form>*/}
-
                                             <div className="option-item addition-pt-20">
-                                                <Link href="/contact-us" className="default-btn">
+                                                <Link href="/contact-chorn" className="default-btn">
                                                     Contact CHORN
                                                 </Link>
                                             </div>
