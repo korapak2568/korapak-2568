@@ -22,9 +22,9 @@ export default function Page() {
 
             <AboutContent/>
 
-            {/*<div className="pb-100">*/}
-            {/*    <Recommendations/>*/}
-            {/*</div>*/}
+            <div className="pb-100">
+                <Recommendations/>
+            </div>
 
             <WeWorkForIndustries/>
 
