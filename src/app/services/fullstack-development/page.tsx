@@ -8,6 +8,7 @@ import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries"
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import ServicesCardFullStack from "@/components/Services/fullstack-development/ServicesCardFullStack";
+import CloudExperience from "@/components/Common/CloudExperience";
 
 const Page = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -25,6 +26,9 @@ const Page = () => {
             />
 
             <ServicesCardFullStack/>
+
+            <CloudExperience/>
+
             <WeWorkForIndustries/>
             <Footer/>
         </>

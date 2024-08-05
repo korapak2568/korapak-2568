@@ -4,27 +4,30 @@ import PageBanner from "../../../components/Common/PageBanner";
 import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
 import ServicesCardFrontEnd from "../../../components/Services/frontend-development/ServicesCardFrontEnd";
+import CloudExperience from "@/components/Common/CloudExperience";
 
 const Page = () => {
-  return (
-    <>
-      <Navbar />
+    return (
+        <>
+            <Navbar/>
 
-      <PageBanner
-        pageTitle="Web Development Service"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Web Development"
-        BGImage="/images/page-banner/page-banner-1.jpg"
-      />
+            <PageBanner
+                pageTitle="Web Development Service"
+                homePageUrl="/"
+                homePageText="Home"
+                activePageText="Web Development"
+                BGImage="/images/page-banner/page-banner-1.jpg"
+            />
 
-      <ServicesCardFrontEnd />
+            <ServicesCardFrontEnd/>
 
-      <WeWorkForIndustries />
+            <CloudExperience/>
 
-      <Footer />
-    </>
-  );
+            <WeWorkForIndustries/>
+
+            <Footer/>
+        </>
+    );
 };
 
 export default Page;

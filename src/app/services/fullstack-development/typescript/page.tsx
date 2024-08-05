@@ -9,6 +9,7 @@ import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import ServicesDetailsTypeScript
     from "@/components/Services/fullstack-development/typescript/ServicesDetailsTypeScript";
+import CloudExperience from "@/components/Common/CloudExperience";
 
 const Page = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -26,6 +27,8 @@ const Page = () => {
             />
 
             <ServicesDetailsTypeScript/>
+
+            <CloudExperience/>
 
             <Footer/>
         </>

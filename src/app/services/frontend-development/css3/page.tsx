@@ -8,6 +8,7 @@ import RelatedServices from "../../../../components/Services/RelatedServices";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import ServicesDetailsCss3 from "@/components/Services/frontend-development/css3/ServicesDetailsCss3";
+import CloudExperience from "@/components/Common/CloudExperience";
 
 const Page = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -25,6 +26,8 @@ const Page = () => {
             />
 
             <ServicesDetailsCss3/>
+
+            <CloudExperience/>
 
             <Footer/>
         </>
