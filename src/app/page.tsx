@@ -1,53 +1,37 @@
+// src/app/page.tsx
 import Navbar from "../components/Layouts/Navbar";
 import MainBanner from "../components/Index/MainBanner";
 import Features from "../components/Index/Features";
 import AboutContent from "../components/Index/AboutContent";
-import ServicesStyleTwo from "../components/Common/ServicesStyleTwo";
-import DigitalExperience from "../components/Common/DigitalExperience";
-import FunFactsTwo from "../components/Common/FunFactsTwo";
-import PriceTableTwo from "../components/PricingPlans/PriceTableTwo";
-import TeamMemberStyleTwo from "../components/Common/TeamMemberStyleTwo";
-import Testimonials from "../components/Common/Testimonials";
-import WhatWeDoingBest from "../components/Index/WhatWeDoingBest";
-import LatestBlogPost from "../components/Common/LatestBlogPost";
+import FrontEndExperience from "../components/Common/FrontEndExperience";
+import FullStackExperience from "../components/Common/FullStackExperience";
+import CloudExperience from "../components/Common/CloudExperience";
+import Recommendations from "../components/Common/Recommendations";
 import SubscribeForm from "../components/Common/SubscribeForm";
-import Partners from "../components/Common/Partners";
 import Footer from "../components/Layouts/Footer";
 
 export default function Home() {
-  return (
-    <>
-      <Navbar />
+    return (
+        <>
+            <Navbar/>
 
-      <MainBanner />
+            <MainBanner/>
 
-      <Features />
+            <Features/>
 
-      <AboutContent />
+            <AboutContent/>
 
-      <ServicesStyleTwo />
+            <FrontEndExperience/>
 
-      <DigitalExperience />
+            <FullStackExperience/>
 
-      <FunFactsTwo />
+            <CloudExperience/>
 
-      <PriceTableTwo />
+            <Recommendations/>
 
-      <TeamMemberStyleTwo />
+            <SubscribeForm/>
 
-      <Testimonials />
-
-      <WhatWeDoingBest />
-
-      <LatestBlogPost />
-
-      <SubscribeForm />
-
-      <div className="pt-100">
-        <Partners />
-      </div>
-
-      <Footer />
-    </>
-  );
+            <Footer/>
+        </>
+    );
 }

@@ -4,7 +4,8 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-const ServicesCard: React.FC = () => {
+const ServicesCardFrontEnd: React.FC = () => {
+
   return (
     <>
       <div className="services-area pt-100 pb-70">
@@ -209,4 +210,4 @@ const ServicesCard: React.FC = () => {
   );
 };
 
-export default ServicesCard;
+export default ServicesCardFrontEnd;

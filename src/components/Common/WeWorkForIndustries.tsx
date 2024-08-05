@@ -1,88 +1,37 @@
 "use client";
-  
+
 import React from "react";
-import Link from "next/link";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {ILink} from "@/data/model/ILink";
 
 const WeWorkForIndustries: React.FC = () => {
-  return (
-    <>
-      <div className="industries-area pt-100 pb-70">
-        <div className="container">
-          <div className="section-title">
-            <span>We Work For Industries</span>
-            <h2>Helping Businesses in All Domains</h2>
-            <div className="bar"></div>
-          </div>
+    const service = useSelector((state: RootState) => state.service.value);
 
-          <div className="row">
-            <div className="col-lg-3 col-md-6">
-              <div className="single-industries-box">
-                <i className="flaticon-digital-marketing-2"></i>
-                <h3>Digital Marketing</h3>
-                <Link href="/services/details"></Link>
-              </div>
-            </div>
+    return (
+        <>
+            <div className="industries-area pt-100 pb-70">
+                <div className="container">
+                    <div className="section-title">
+                        <span>{service.BUSINESS_DOMAINS_INFO.span}</span>
+                        <h2>{service.BUSINESS_DOMAINS_INFO.title}</h2>
+                        <div className="bar"></div>
+                    </div>
 
-            <div className="col-lg-3 col-md-6">
-              <div className="single-industries-box">
-                <i className="flaticon-bank"></i>
-                <h3>Banking Services</h3>
-                <Link href="/services/details"></Link>
-              </div>
+                    <div className="row">
+                        {service.BUSINESS_DOMAINS_INFO.businessDomains.map((item: ILink, index: number) => (
+                            <div key={index} className="col-lg-3 col-md-6">
+                                <div className="single-industries-box">
+                                    <i className={item.icon}></i>
+                                    <h3>{item.label}</h3>
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                </div>
             </div>
-
-            <div className="col-lg-3 col-md-6">
-              <div className="single-industries-box">
-                <i className="flaticon-graduation-cap"></i>
-                <h3>Education Services</h3>
-                <Link href="/services/details"></Link>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-md-6">
-              <div className="single-industries-box">
-                <i className="flaticon-stock-market"></i>
-                <h3>Business Consult</h3>
-                <Link href="/services/details"></Link>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-md-6">
-              <div className="single-industries-box">
-                <i className="flaticon-employee"></i>
-                <h3>Entrepreneur</h3>
-                <Link href="/services/details"></Link>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-md-6">
-              <div className="single-industries-box">
-                <i className="flaticon-waiter"></i>
-                <h3>Restaurant</h3>
-                <Link href="/services/details"></Link>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-md-6">
-              <div className="single-industries-box">
-                <i className="flaticon-stethoscope"></i>
-                <h3>Health Services</h3>
-                <Link href="/services/details"></Link>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-md-6">
-              <div className="single-industries-box">
-                <i className="flaticon-user"></i>
-                <h3>Social Network</h3>
-                <Link href="/services/details"></Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </>
-  );
+        </>
+    );
 };
 
 export default WeWorkForIndustries;

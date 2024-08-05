@@ -54,19 +54,6 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
       text2: "DevOps and Testing"
     }
   },
-  // {
-  //   front: {
-  //     image: {
-  //       url: IMAGES.home202309.devopsAndTesting.bitbucket,
-  //       alt: "DevOps and Testing"
-  //     }
-  //   },
-  //   back: {
-  //     title: "CHORN",
-  //     text1: "BitBucket",
-  //     text2: "DevOps and Testing"
-  //   }
-  // },
   {
     front: {
       image: {
@@ -118,57 +105,5 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
       text1: "offers",
       text2: "DevOps and Testing"
     }
-  },
-  // {
-  //   front: {
-  //     image: {
-  //       url: IMAGES.home202309.devopsAndTesting.browsersTesting,
-  //       alt: "DevOps and Testing"
-  //     }
-  //   },
-  //   back: {
-  //     title: "CHORN",
-  //     text1: "offers",
-  //     text2: "DevOps and Testing"
-  //   }
-  // },
-  // {
-  //   front: {
-  //     image: {
-  //       url: IMAGES.home202309.devopsAndTesting.apiTesting,
-  //       alt: "DevOps and Testing"
-  //     }
-  //   },
-  //   back: {
-  //     title: "CHORN",
-  //     text1: "offers",
-  //     text2: "DevOps and Testing"
-  //   }
-  // },
-  // {
-  //   front: {
-  //     image: {
-  //       url: IMAGES.home202309.devopsAndTesting.regressionTesting,
-  //       alt: "DevOps and Testing"
-  //     }
-  //   },
-  //   back: {
-  //     title: "CHORN",
-  //     text1: "offers",
-  //     text2: "DevOps and Testing"
-  //   }
-  // },
-  // {
-  //   front: {
-  //     image: {
-  //       url: IMAGES.home202309.devopsAndTesting.systemIntegrationTesting,
-  //       alt: "DevOps and Testing"
-  //     }
-  //   },
-  //   back: {
-  //     title: "CHORN",
-  //     text1: "offers",
-  //     text2: "DevOps and Testing"
-  //   }
-  // }
+  }
 ]

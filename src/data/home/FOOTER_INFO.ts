@@ -1,0 +1,99 @@
+import {IFooters} from "@/data/model/IFooters";
+
+export const FOOTER_INFO: IFooters = {
+    logo: "/chorn-images/logo.png",
+    title: "CHORN",
+    link: "https://chorn.in.th/",
+    www: "www.chorn.in.th",
+    description: "CHORN is your innovation partner, delivering state-of-the-art software solutions, " +
+        "scalable websites for millions of users, and future-ready excellence. " +
+        "Elevate your digital presence with us.",
+    importantTitle: "Important Links",
+    featureTitle: "Featured Services",
+    infoTitle: "Information",
+    termOfService: {
+        label: "Terms of Service",
+        link: "/terms-of-service"
+    },
+    privacyPolicy: {
+        label: "Privacy Policy",
+        link: "/privacy-policy"
+    },
+    socialLinks: [
+        {
+            label: "GitHub",
+            link: "https://github.com/chorndev01",
+            icon: "bx bxl-github",
+            iconClass: "facebook",
+        },
+        {
+            label: "GitLab",
+            link: "",
+            icon: "bx bxl-gitlab",
+            iconClass: "pinterest",
+        },
+        {
+            label: "Linked",
+            link: "https://www.linkedin.com/company/chorn",
+            icon: "bx bxl-linkedin",
+            iconClass: "linkedin",
+        }
+    ],
+    importantLinks: [
+        {
+            label: "About Us",
+            link: "/about-chorn"
+        },
+        {
+            label: "Services",
+            link: "/services/web-development"
+        },
+        {
+            label: "Contact",
+            link: "/contact-chorn"
+        },
+        {
+            label: "Privacy Policy",
+            link: "/privacy-policy"
+        }
+    ],
+    featuredLinks: [
+        {
+            label: "Web Development",
+            link: "/services/web-development"
+        },
+        {
+            label: "Front End Development",
+            link: "/services/frontend-development"
+        },
+        {
+            label: "Full Stack Development",
+            link: "/services/fullstack-development"
+        },
+        {
+            label: "Mobile Development",
+            link: "/services/mobile-development"
+        },
+        {
+            label: "DevOps Testing",
+            link: "/services/devops-testing"
+        },
+    ],
+    infoLinks: [
+        {
+            label: "Email",
+            link: "contact@chorn.in.th",
+            icon: "flaticon-email-1",
+        },
+        {
+            label: "LINE",
+            link: "https://lin.ee/HzWJ2bJ",
+            icon: "flaticon-qr-code",
+        },
+        {
+            label: "Address",
+            link: "Chiang Mai, Thailand",
+            icon: "flaticon-pin",
+        },
+    ],
+}

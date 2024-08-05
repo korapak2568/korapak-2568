@@ -1,200 +1,163 @@
 "use client";
-  
+
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {ILink} from "@/data/model/ILink";
 
 const Footer: React.FC = () => {
-  const currentYear = new Date().getFullYear();
+    const currentYear = new Date().getFullYear();
+    const service = useSelector((state: RootState) => state.service.value);
 
-  return (
-    <>
-      <div className="footer-area pt-100 pb-70">
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-3 col-sm-6">
-              <div className="single-footer-widget">
-                <div className="logo">
-                  <Link href="/">
-                    <Image
-                      src="/images/logo.png"
-                      alt="image"
-                      width={150}
-                      height={31}
-                    />
-                  </Link>
+    return (
+        <>
+            <div className="footer-area pt-100 pb-70 addition-pb-0">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-3 col-sm-6">
+                            <div className="single-footer-widget">
+                                <div className="logo">
+                                    <Link href="/">
+                                        <Image
+                                            src={service.FOOTER_INFO.logo}
+                                            alt="image"
+                                            width={150}
+                                            height={31}
+                                        />
+                                    </Link>
+                                </div>
+
+                                <p>{service.FOOTER_INFO.description}</p>
+
+                                <ul className="social">
+                                    {service.FOOTER_INFO.socialLinks.map((item: ILink, index: number) => (
+                                        <li key={index}>
+                                            <a
+                                                href={item.link}
+                                                className={item.iconClass}
+                                                target="_blank"
+                                            >
+                                                <i className={item.icon}></i>
+                                            </a>
+                                        </li>
+                                    ))}
+                                    <li>
+                                        <Link
+                                            href={service.IMAGES.line.icon.link}
+                                            target="_blank"
+                                            rel="noopener noreferrer">
+                                            <Image
+                                                src={service.IMAGES.line.icon.path}
+                                                alt={service.IMAGES.line.icon.title}
+                                                width={40}
+                                                height={40}
+                                            />
+                                        </Link>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6">
+                            <div className="single-footer-widget pl-5">
+                                <h3>{service.FOOTER_INFO.importantTitle}</h3>
+                                <ul className="quick-links">
+                                    {service.FOOTER_INFO.importantLinks
+                                        .filter((item: ILink) => item.link !== undefined)
+                                        .map((item: ILink, index: number) => (
+                                            <li key={index}>
+                                                <Link href={item.link}>
+                                                    {item.label}
+                                                </Link>
+                                            </li>
+                                        ))}
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6">
+                            <div className="single-footer-widget pl-5">
+                                <h3>{service.FOOTER_INFO.featureTitle}</h3>
+                                <ul className="quick-links">
+                                    {service.FOOTER_INFO.featuredLinks
+                                        .filter((item: ILink) => item.link !== undefined)
+                                        .map((item: ILink, index: number) => (
+                                            <li key={index}>
+                                                <Link href={item.link}>
+                                                    {item.label}
+                                                </Link>
+                                            </li>
+                                        ))}
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6">
+                            <div className="single-footer-widget pl-5">
+                                <h3>{service.FOOTER_INFO.infoTitle}</h3>
+
+                                <ul className="footer-contact-info">
+                                    <li>
+                                        <i className="flaticon-email-1"></i>
+                                        <span>{service.FOOTER_INFO.infoLinks[0].label}</span>
+                                        <a href="mailto:contact@chorn.in.th">
+                                            {service.FOOTER_INFO.infoLinks[0].link}
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <i className="flaticon-pin"></i>
+                                        <span>{service.FOOTER_INFO.infoLinks[2].label}</span>
+                                        <a
+                                            href="https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu"
+                                            target="_blank"
+                                        >
+                                            {service.FOOTER_INFO.infoLinks[2].link}
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna
-                </p>
-
-                <ul className="social">
-                  <li>
-                    <a
-                      href="https://www.facebook.com/"
-                      className="facebook"
-                      target="_blank"
-                    >
-                      <i className="bx bxl-facebook"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://twitter.com/"
-                      className="twitter"
-                      target="_blank"
-                    >
-                      <i className="bx bxl-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.pinterest.com/"
-                      className="pinterest"
-                      target="_blank"
-                    >
-                      <i className="bx bxl-pinterest-alt"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/"
-                      className="linkedin"
-                      target="_blank"
-                    >
-                      <i className="bx bxl-instagram-alt"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.linkedin.com/"
-                      className="linkedin"
-                      target="_blank"
-                    >
-                      <i className="bx bxl-linkedin"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
             </div>
 
-            <div className="col-lg-3 col-sm-6">
-              <div className="single-footer-widget pl-5">
-                <h3>Important Links</h3>
+            <div className="copyright-area">
+                <div className="container">
+                    <div className="copyright-area-content">
+                        <div className="row align-items-center">
+                            <div className="col-lg-6 col-md-6">
+                                <p>
+                                    Copyright &copy; {currentYear} {service.FOOTER_INFO.title}.
+                                    All Rights Reserved
+                                    by{" "}
+                                    <a href={service.FOOTER_INFO.link} target="_blank">
+                                        {service.FOOTER_INFO.title}
+                                    </a>
+                                </p>
+                            </div>
 
-                <ul className="quick-links">
-                  <li>
-                    <Link href="/about-us/2">About Us</Link>
-                  </li>
-                  <li>
-                    <Link href="/portfolio/2">Portfolio</Link>
-                  </li>
-                  <li>
-                    <Link href="/services/2">Services</Link>
-                  </li>
-                  <li>
-                    <Link href="/blog/2">Blog</Link>
-                  </li>
-                  <li>
-                    <Link href="/contact-us">Contact</Link>
-                  </li>
-                  <li>
-                    <Link href="/privacy-policy">Privacy Policy</Link>
-                  </li>
-                </ul>
-              </div>
+                            <div className="col-lg-6 col-md-6">
+                                <ul>
+                                    <li>
+                                        <Link href={service.FOOTER_INFO.termOfService.link}>
+                                            {service.FOOTER_INFO.termOfService.label}
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link href={service.FOOTER_INFO.privacyPolicy.link}>
+                                            {service.FOOTER_INFO.privacyPolicy.label}
+                                        </Link>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-
-            <div className="col-lg-3 col-sm-6">
-              <div className="single-footer-widget pl-5">
-                <h3>Featured Services</h3>
-
-                <ul className="quick-links">
-                  <li>
-                    <Link href="/services/details">IT Management</Link>
-                  </li>
-                  <li>
-                    <Link href="/services/details">Development</Link>
-                  </li>
-                  <li>
-                    <Link href="/services/details">UI/UX Design</Link>
-                  </li>
-                  <li>
-                    <Link href="/services/details">Support Engineer</Link>
-                  </li>
-                  <li>
-                    <Link href="/services/details">Website Development</Link>
-                  </li>
-                  <li>
-                    <Link href="/services/details">App Development</Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-sm-6">
-              <div className="single-footer-widget pl-5">
-                <h3>Information</h3>
-
-                <ul className="footer-contact-info">
-                  <li>
-                    <i className="flaticon-call"></i>
-                    <span>Phone</span>
-                    <a href="tel:882569756">882-569-756</a>
-                  </li>
-                  <li>
-                    <i className="flaticon-email-1"></i>
-                    <span>Email</span>
-                    <a href="mailto:hello@renex.com">hello@renex.com</a>
-                  </li>
-                  <li>
-                    <i className="flaticon-pin"></i>
-                    <span>Address</span>
-                    <a
-                      href="https://www.google.com/maps/@51.5287718,-0.2416804,11z"
-                      target="_blank"
-                    >
-                      50 Nortambiya, UK.
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div className="copyright-area">
-        <div className="container">
-          <div className="copyright-area-content">
-            <div className="row align-items-center">
-              <div className="col-lg-6 col-md-6">
-                <p>
-                  Copyright &copy; {currentYear} Renex. All Rights Reserved by{" "}
-                  <a href="https://envytheme.com/" target="_blank">
-                    EnvyTheme
-                  </a>
-                </p>
-              </div>
-
-              <div className="col-lg-6 col-md-6">
-                <ul>
-                  <li>
-                    <Link href="/terms-of-service">Terms of Service</Link>
-                  </li>
-                  <li>
-                    <Link href="/privacy-policy">Privacy Policy</Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </>
-  );
+        </>
+    );
 };
 
 export default Footer;

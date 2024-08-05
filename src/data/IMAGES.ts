@@ -1,62 +1,81 @@
 export const IMAGES = {
-
-  logo: {
-    inline: 'assets/img/logo/chorn-logo-inline.png',
-    circle: 'assets/img/logo/chorn-logo-circle.png'
-  },
-
-  thumbnail: {
-    losAngeles: 'assets/img/about/107870.jpg'
-  },
-
-  rec: {
-    chornSky: 'assets/img/banner/khachornchit-sky.png',
-    rollsRoyce: 'assets/img/about/profile-1.jpeg',
-    losAngeles: 'assets/img/about/main/Los-Angeles.jpeg'
-  },
-
-  circle: {},
-
-  home202309: {
-    hero: "assets/design202309/cover-1.jpg",
-    fullStack: {
-      golang: "assets/design202309/full-stack/golang.png",
-      java: "assets/design202309/full-stack/java-springboot.png",
-      nodejs: "assets/design202309/full-stack/nodejs.png",
-      python: "assets/design202309/full-stack/python.png",
-      php: "assets/design202309/full-stack/php.png",
-      ruby: "assets/design202309/full-stack/ruby.png",
-      csharp: "assets/design202309/full-stack/c-sharp.png",
-      aspnet: "assets/design202309/full-stack/aspnet.png",
-      mvc: "assets/design202309/full-stack/mvc.png",
+    pageBanner: {
+        cover1: {
+            title: 'Cover-1',
+            path: '/chorn-images/page-banner/cover-1.jpg',
+        },
     },
-    frontEnd: {
-      angular: "assets/design202309/front-end/angular.png",
-      react: "assets/design202309/front-end/react.png",
-      vue: "assets/design202309/front-end/vue.png",
-      javascript: "assets/design202309/front-end/javascript.png",
-      typescript: "assets/design202309/front-end/typescript.png",
-      html: "assets/design202309/front-end/html.png",
-      css: "assets/design202309/front-end/css.png",
-      whatnext: "assets/design202309/front-end/what-next.png",
-      flutter: "assets/design202309/front-end/flutter.png",
+    line: {
+        qrcode: {
+            title: 'QR Code',
+            path: '/chorn-images/line/line-qr-code.jpg',
+        },
+        icon: {
+            title: 'LINE',
+            path: '/chorn-images/line/line-icon.png',
+            link: "https://lin.ee/HzWJ2bJ",
+        }
     },
-    devopsAndTesting: {
-      docker: "assets/design202309/devops-and-testing/Docker.png",
-      kubernetes: "assets/design202309/devops-and-testing/Kubernetes.png",
-      github: "assets/design202309/devops-and-testing/GitHub.png",
-      gitlab: "assets/design202309/devops-and-testing/GitLab.png",
-      bitbucket: "assets/design202309/devops-and-testing/BitBucket.png",
-      jenkins: "assets/design202309/devops-and-testing/Jenkins.png",
-      selenium: "assets/design202309/devops-and-testing/Selenium.png",
-      soapui: "assets/design202309/devops-and-testing/SoapUI.png",
-      postman: "assets/design202309/devops-and-testing/Postman.png",
-      browsersTesting: "assets/design202309/devops-and-testing/browser-testing.png",
-      apiTesting: "assets/design202309/devops-and-testing/api-testing.png",
-      regressionTesting: "assets/design202309/devops-and-testing/regression-testing.png",
-      systemIntegrationTesting: "assets/design202309/devops-and-testing/system-integration-testing.png"
+    serviceDetails: {
+        nextjs: {
+            title: 'Next.js',
+            path: '/chorn-images/services-details/frontend-development/service-detail-nextjs.png',
+        },
+        react: {
+            title: 'React',
+            path: '/chorn-images/services-details/frontend-development/service-detail-react.png',
+        },
+        angular: {
+            title: 'Angular',
+            path: '/chorn-images/services-details/frontend-development/service-detail-angular.png',
+        },
+        vue: {
+            title: 'Vue',
+            path: '/chorn-images/services-details/frontend-development/service-detail-vue.png',
+        },
+        html5: {
+            title: 'HTML5',
+            path: '/chorn-images/services-details/frontend-development/service-detail-html5.png',
+        },
+        css3: {
+            title: 'CSS3',
+            path: '/chorn-images/services-details/frontend-development/service-detail-css3.png',
+        },
+        nodejs: {
+            title: 'Node.js',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-nodejs.png',
+        },
+        typescript: {
+            title: 'TypeScript',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-typescript.png',
+        },
+        java: {
+            title: 'Java, Spring Boot, Kotlin',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-java-spring-boot-kotlin.png',
+        },
+        python: {
+            title: 'Python',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-python.png',
+        },
+        go: {
+            title: 'Go-lang',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-go.png',
+        },
+        php: {
+            title: 'PHP',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-php.png',
+        },
     },
-    office: "assets/design202309/office/office.jpg",
-    whatsapp: "assets/design202309/whatsapp/WhatsApp.jpg",
-  }
+    home202309: {
+        devopsAndTesting: {
+            docker: "",
+            kubernetes: "",
+            github: "",
+            gitlab: "",
+            jenkins: "",
+            postman: "",
+            selenium: "",
+            soapui: ""
+        }
+    }
 }
