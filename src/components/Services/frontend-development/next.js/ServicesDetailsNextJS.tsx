@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import ServiceSidebar from "../../ServiceSidebar";
+import ServiceSidebarFrontEnd from "../../ServiceSidebarFrontEnd";
 import ServiceFaqNextJS from "./ServiceFaqNextJS";
 import Image from "next/image";
 import {useSelector} from "react-redux";
@@ -58,7 +58,7 @@ const ServicesDetailsNextJS: React.FC = () => {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <ServiceSidebar/>
+                            <ServiceSidebarFrontEnd/>
                         </div>
                     </div>
                 </div>

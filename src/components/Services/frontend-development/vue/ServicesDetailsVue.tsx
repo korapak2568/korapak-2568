@@ -5,7 +5,7 @@ import ServiceFaqVue from "./ServiceFaqVue";
 import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import ServiceSidebar from "@/components/Services/ServiceSidebar";
+import ServiceSidebarFrontEnd from "@/components/Services/ServiceSidebarFrontEnd";
 
 const ServicesDetailsVue: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -58,7 +58,7 @@ const ServicesDetailsVue: React.FC = () => {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <ServiceSidebar/>
+                            <ServiceSidebarFrontEnd/>
                         </div>
                     </div>
                 </div>

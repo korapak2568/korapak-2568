@@ -66,16 +66,42 @@ export const IMAGES = {
             path: '/chorn-images/services-details/fullstack-development/service-detail-php.png',
         },
     },
-    home202309: {
-        devopsAndTesting: {
-            docker: "",
-            kubernetes: "",
-            github: "",
-            gitlab: "",
-            jenkins: "",
-            postman: "",
-            selenium: "",
-            soapui: ""
+    devopsTesting: {
+        docker: {
+            title: 'Docker',
+            path: '/chorn-images/services-details/devops-testing/service-detail-docker.png',
+        },
+        kubernetes: {
+            title: 'Kubernetes',
+            path: '/chorn-images/services-details/devops-testing/service-detail-kubernetes.png',
+        },
+        github: {
+            title: 'GitHub',
+            path: '/chorn-images/services-details/devops-testing/service-detail-github.png',
+        },
+        gitlab: {
+            title: 'GitLab',
+            path: '/chorn-images/services-details/devops-testing/service-detail-gitlab.png',
+        },
+        jenkins: {
+            title: 'Jenkins',
+            path: '/chorn-images/services-details/devops-testing/service-detail-jenkins.png',
+        },
+        postman: {
+            title: 'Postman',
+            path: '/chorn-images/services-details/devops-testing/service-detail-postman.png',
+        },
+        selenium: {
+            title: 'Selenium',
+            path: '/chorn-images/services-details/devops-testing/service-detail-selenium.png',
+        },
+        soapui: {
+            title: 'SOAPUI',
+            path: '/chorn-images/services-details/devops-testing/service-detail-soapui.png',
+        },
+        appium: {
+            title: 'Appium',
+            path: '/chorn-images/services-details/devops-testing/service-detail-appium.png',
         }
     }
 }

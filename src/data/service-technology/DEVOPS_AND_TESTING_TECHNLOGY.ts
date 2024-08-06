@@ -5,7 +5,7 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
   {
     front: {
       image: {
-        url: IMAGES.home202309.devopsAndTesting.docker,
+        url: IMAGES.devopsTesting.devopsAndTesting.docker,
         alt: "DevOps and Testing"
       }
     },
@@ -18,7 +18,7 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
   {
     front: {
       image: {
-        url: IMAGES.home202309.devopsAndTesting.kubernetes,
+        url: IMAGES.devopsTesting.devopsAndTesting.kubernetes,
         alt: "DevOps and Testing"
       }
     },
@@ -31,7 +31,7 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
   {
     front: {
       image: {
-        url: IMAGES.home202309.devopsAndTesting.github,
+        url: IMAGES.devopsTesting.devopsAndTesting.github,
         alt: "DevOps and Testing"
       }
     },
@@ -44,7 +44,7 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
   {
     front: {
       image: {
-        url: IMAGES.home202309.devopsAndTesting.gitlab,
+        url: IMAGES.devopsTesting.devopsAndTesting.gitlab,
         alt: "DevOps and Testing"
       }
     },
@@ -57,7 +57,7 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
   {
     front: {
       image: {
-        url: IMAGES.home202309.devopsAndTesting.jenkins,
+        url: IMAGES.devopsTesting.devopsAndTesting.jenkins,
         alt: "DevOps and Testing"
       }
     },
@@ -70,7 +70,7 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
   {
     front: {
       image: {
-        url: IMAGES.home202309.devopsAndTesting.postman,
+        url: IMAGES.devopsTesting.devopsAndTesting.postman,
         alt: "DevOps and Testing"
       }
     },
@@ -83,7 +83,7 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
   {
     front: {
       image: {
-        url: IMAGES.home202309.devopsAndTesting.selenium,
+        url: IMAGES.devopsTesting.devopsAndTesting.selenium,
         alt: "DevOps and Testing"
       }
     },
@@ -96,7 +96,7 @@ export const DEVOPS_AND_TESTING_TECHNLOGY: IFramework[] = [
   {
     front: {
       image: {
-        url: IMAGES.home202309.devopsAndTesting.soapui,
+        url: IMAGES.devopsTesting.devopsAndTesting.soapui,
         alt: "DevOps and Testing"
       }
     },

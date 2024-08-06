@@ -21,7 +21,7 @@ const Page = () => {
                 pageTitle={service.FRONT_END_EXPERIENCE_INFO.additions[1].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={service.FRONT_END_EXPERIENCE_INFO.additions[1].details[0].title}
+                activePageText={service.FRONT_END_EXPERIENCE_INFO.title}
                 BGImage={service.IMAGES.pageBanner.cover1.path}
             />
 

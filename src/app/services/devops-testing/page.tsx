@@ -3,28 +3,31 @@ import Navbar from "../../../components/Layouts/Navbar";
 import PageBanner from "../../../components/Common/PageBanner";
 import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
-import ServicesCardFrontEnd from "../../../components/Services/frontend-development/ServicesCardFrontEnd";
+import CloudExperience from "@/components/Common/CloudExperience";
+import ServicesCardDevOpsTesting from "@/components/Services/devops-testing/ServicesCardDevOpsTesting";
 
 const Page = () => {
-  return (
-    <>
-      <Navbar />
+    return (
+        <>
+            <Navbar/>
 
-      <PageBanner
-        pageTitle="DevOps and Testing"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="DevOps and Testing"
-        BGImage="/images/page-banner/page-banner-1.jpg"
-      />
+            <PageBanner
+                pageTitle="DevOps and Testing"
+                homePageUrl="/"
+                homePageText="Home"
+                activePageText="DevOps and Testing"
+                BGImage="/images/page-banner/page-banner-1.jpg"
+            />
 
-      {/*<ServicesCardFrontEnd />*/}
+            <ServicesCardDevOpsTesting/>
 
-      <WeWorkForIndustries />
+            <CloudExperience/>
 
-      <Footer />
-    </>
-  );
+            <WeWorkForIndustries/>
+
+            <Footer/>
+        </>
+    );
 };
 
 export default Page;

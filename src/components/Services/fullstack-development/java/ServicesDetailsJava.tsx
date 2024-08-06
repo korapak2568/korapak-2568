@@ -5,7 +5,7 @@ import ServiceFaqJava from "./ServiceFaqJava";
 import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import ServiceSidebar from "@/components/Services/ServiceSidebar";
+import ServiceSidebarFullStack from "@/components/Services/ServiceSidebarFullStack";
 
 const ServicesDetailsJava: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -59,7 +59,7 @@ const ServicesDetailsJava: React.FC = () => {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <ServiceSidebar/>
+                            <ServiceSidebarFullStack/>
                         </div>
                     </div>
                 </div>

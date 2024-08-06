@@ -8,7 +8,7 @@ import {IContentImage} from "@/data/model/IContentImage";
 import {useEffect, useState} from 'react';
 import Image from "next/image";
 
-const ServiceSidebar: React.FC = () => {
+const ServiceSidebarFullStack: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
     const [currentUrl, setCurrentUrl] = useState('');
 
@@ -21,27 +21,6 @@ const ServiceSidebar: React.FC = () => {
     return (
         <>
             <div className="services-details-information ml-10">
-                <ul className="services-list">
-                    {service.FRONT_END_EXPERIENCE_INFO.additions.map((item: IContentImage, index: number) => {
-                        if (currentUrl.includes(item.link)) {
-                            return (
-                                <li key={index}>
-                                    <Link href={item.link} className="active">
-                                        <i className="bx bx-code-alt"></i> {item.details[0].title}
-                                    </Link>
-                                </li>
-                            )
-                        }
-
-                        return (
-                            <li key={index}>
-                                <Link href={item.link}>
-                                    <i className="bx bx-code-alt"></i> {item.details[0].title}
-                                </Link>
-                            </li>
-                        )
-                    })}
-                </ul>
 
                 <ul className="services-list">
                     {service.FULL_STACK_FRAMEWORK_INFO.additions.map((item: IContentImage, index: number) => {
@@ -108,4 +87,4 @@ const ServiceSidebar: React.FC = () => {
     );
 };
 
-export default ServiceSidebar;
+export default ServiceSidebarFullStack;
