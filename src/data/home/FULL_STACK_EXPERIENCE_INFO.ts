@@ -173,9 +173,9 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Python",
             description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
-            image: "/chorn-images/services/fullstack-development/python.png",
+            image: "/chorn-images/services/fullstack-development/frameworks.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/python",
+            link: "/services/fullstack-development/frameworks",
             details: [
                 {
                     title: "Python",
@@ -220,7 +220,77 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
                     answer: "Yes, frameworks like Django and Flask make Python a powerful tool for web development."
                 }
             ],
-            icon: ""
+            icon: "",
+            frameworks: [
+                {
+                    name: "Django",
+                    overview: "Django is a high-level web framework that encourages rapid development and clean, pragmatic design.",
+                    strengths: [
+                        "Batteries-included: Comes with many built-in features like ORM, authentication, and an admin panel.",
+                        "Scalability: Suitable for large-scale applications.",
+                        "Security: Includes built-in protection against many common security threats."
+                    ],
+                    use_cases: [
+                        "Large-scale web applications",
+                        "e-commerce sites",
+                        "content management systems"
+                    ]
+                },
+                {
+                    name: "Flask",
+                    overview: "Flask is a micro web framework that provides the essentials to get a web application up and running without much boilerplate code.",
+                    strengths: [
+                        "Lightweight: Minimalistic and flexible.",
+                        "Extensible: Can be easily extended with various extensions.",
+                        "Easy to learn: Simple to understand and start with."
+                    ],
+                    use_cases: [
+                        "Small to medium-sized applications",
+                        "APIs",
+                        "prototyping"
+                    ]
+                },
+                {
+                    name: "FastAPI",
+                    overview: "FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.",
+                    strengths: [
+                        "Speed: Asynchronous support and high performance.",
+                        "Automatic docs: Generates OpenAPI and JSON Schema documentation.",
+                        "Type safety: Uses Python type hints for validation and serialization."
+                    ],
+                    use_cases: [
+                        "APIs",
+                        "microservices",
+                        "real-time applications"
+                    ]
+                },
+                {
+                    name: "Pyramid",
+                    overview: "Pyramid is a general-purpose web framework that is designed to make it easy to write web applications.",
+                    strengths: [
+                        "Flexibility: Can be used for both small and large applications.",
+                        "Customization: Highly configurable and modular.",
+                        "Security: Provides several security features."
+                    ],
+                    use_cases: [
+                        "Versatile applications ranging from microservices to large web applications"
+                    ]
+                },
+                {
+                    name: "Tornado",
+                    overview: "Tornado is a scalable, non-blocking web server and web application framework.",
+                    strengths: [
+                        "Performance: Designed for handling long-lived network connections.",
+                        "Real-time: Suitable for real-time web services.",
+                        "Scalability: Can handle thousands of simultaneous connections."
+                    ],
+                    use_cases: [
+                        "Real-time applications",
+                        "WebSockets",
+                        "long polling"
+                    ]
+                }
+            ]
         },
         {
             title: "GO",

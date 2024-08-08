@@ -1,5 +1,6 @@
 import {IDetail} from "@/data/model/IDetail";
 import {IFaq} from "@/data/model/IFaq";
+import {IFramework} from "@/data/model/IFramework";
 
 export interface IContentImage {
     title: string,
@@ -7,7 +8,8 @@ export interface IContentImage {
     image: string,
     readMore: string,
     link: string,
+    icon: string,
     details: IDetail[],
     faq: IFaq[],
-    icon: string
+    frameworks?: IFramework[]
 }
