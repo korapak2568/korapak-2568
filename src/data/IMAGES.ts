@@ -55,7 +55,7 @@ export const IMAGES = {
         },
         python: {
             title: 'Python',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-frameworks.png',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-python.png',
         },
         go: {
             title: 'Go-lang',

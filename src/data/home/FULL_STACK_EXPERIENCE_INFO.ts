@@ -173,9 +173,9 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Python",
             description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
-            image: "/chorn-images/services/fullstack-development/frameworks.png",
+            image: "/chorn-images/services/fullstack-development/python.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/frameworks",
+            link: "/services/fullstack-development/python",
             details: [
                 {
                     title: "Python",
