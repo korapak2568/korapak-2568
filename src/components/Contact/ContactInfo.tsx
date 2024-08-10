@@ -58,7 +58,7 @@ const ContactInfo: React.FC = () => {
                                 <h3>LINE</h3>
                                 <p>
                                     <a href="https://lin.ee/HzWJ2bJ" target={'_blank'}>
-                                        https://lin.ee/HzWJ2bJ
+                                        Connect LINE
                                     </a>
                                 </p>
                             </div>
