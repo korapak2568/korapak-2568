@@ -71,6 +71,10 @@ export const FOOTER_INFO: IFooters = {
             link: "/services/fullstack-development"
         },
         {
+            label: "Web3 Blockchain Smart Contract",
+            link: "/services/web3-blockchain-smart-contract-development",
+        },
+        {
             label: "Mobile Development",
             link: "/services/mobile-development"
         },
