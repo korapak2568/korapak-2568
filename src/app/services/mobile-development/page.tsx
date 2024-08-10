@@ -3,7 +3,6 @@ import Navbar from "../../../components/Layouts/Navbar";
 import PageBanner from "../../../components/Common/PageBanner";
 import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
-import ServicesCardFrontEnd from "../../../components/Services/frontend-development/ServicesCardFrontEnd";
 
 const Page = () => {
   return (
