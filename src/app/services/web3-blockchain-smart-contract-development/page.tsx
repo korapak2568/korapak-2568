@@ -11,14 +11,14 @@ const Page = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Services One"
+        pageTitle="Web3 Blockchain Smart Contract"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Services One"
+        activePageText="Web3 Blockchain Smart Contract"
         BGImage="/images/page-banner/page-banner-1.jpg"
       />
 
-      <ServicesCardFrontEnd />
+      {/*<ServicesCardFrontEnd />*/}
 
       <WeWorkForIndustries />
 
