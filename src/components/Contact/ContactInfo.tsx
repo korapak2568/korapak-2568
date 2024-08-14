@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 
@@ -13,6 +12,20 @@ const ContactInfo: React.FC = () => {
             <div className="contact-info-area pt-100 pb-70">
                 <div className="container">
                     <div className="row justify-content-center">
+                        <div className="col-lg-4 col-md-6 col-sm-6">
+                            <div className="contact-info-box">
+                                <div className="icon">
+                                    <i className="flaticon-call"></i>
+                                </div>
+
+                                <h3>Phone</h3>
+                                <p>
+                                    <div>Tel. +66 (0)52 000 548</div>
+                                    <div>Office Time: 08:30 - 17:30</div>
+                                </p>
+                            </div>
+                        </div>
+
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="contact-info-box">
                                 <div className="icon">
@@ -39,26 +52,6 @@ const ContactInfo: React.FC = () => {
                                         target="_blank"
                                     >
                                         Chiang Mai, Thailand
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box">
-                                <div className="icon">
-                                    <Image
-                                        src={service.IMAGES.line.icon.path}
-                                        alt={service.IMAGES.line.icon.title}
-                                        width={40}
-                                        height={40}
-                                    />
-                                </div>
-
-                                <h3>LINE</h3>
-                                <p>
-                                    <a href="https://lin.ee/HzWJ2bJ" target={'_blank'}>
-                                        Connect LINE
                                     </a>
                                 </p>
                             </div>

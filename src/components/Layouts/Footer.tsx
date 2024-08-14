@@ -102,10 +102,16 @@ const Footer: React.FC = () => {
                                     <li>
                                         <i className="flaticon-email-1"></i>
                                         <span>{service.FOOTER_INFO.infoLinks[0].label}</span>
-                                        <a href="mailto:contact@chorn.in.th">
-                                            {service.FOOTER_INFO.infoLinks[0].link}
-                                        </a>
+                                        <p>Tel: {service.FOOTER_INFO.infoLinks[0].link}</p>
+                                        <p>Office Time: 08:30 - 17:30</p>
                                     </li>
+
+                                    <li>
+                                        <i className="flaticon-email-1"></i>
+                                        <span>{service.FOOTER_INFO.infoLinks[1].label}</span>
+                                        <p>{service.FOOTER_INFO.infoLinks[1].link}</p>
+                                    </li>
+
                                     <li>
                                         <i className="flaticon-pin"></i>
                                         <span>{service.FOOTER_INFO.infoLinks[2].label}</span>

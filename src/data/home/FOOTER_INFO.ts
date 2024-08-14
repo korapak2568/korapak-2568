@@ -85,14 +85,14 @@ export const FOOTER_INFO: IFooters = {
     ],
     infoLinks: [
         {
+            label: "Phone",
+            link: "+66 (0)52 000 548",
+            icon: "flaticon-call",
+        },
+        {
             label: "Email",
             link: "contact@chorn.in.th",
             icon: "flaticon-email-1",
-        },
-        {
-            label: "LINE",
-            link: "https://lin.ee/HzWJ2bJ",
-            icon: "flaticon-qr-code",
         },
         {
             label: "Address",

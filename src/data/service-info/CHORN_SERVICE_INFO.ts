@@ -2,7 +2,7 @@ import { IServiceLegacy } from "../model/IServiceLegacy";
 
 export const CHORN_SERVICE_INFO: IServiceLegacy = {
   title: "Transform Business with CHORN",
-  span: "CHORN is your innovation partner, delivering state-of-the-art software solutions, scalable websites for millions of users, and future-ready excellence. Elevate your digital presence with us.",
+  span: "CHORN is your digital innovation partner, delivering state-of-the-art software solutions, scalable websites for millions of users, and future-ready excellence. Elevate your digital presence with us.",
   description: [],
   subTitle: "",
   additions: [
