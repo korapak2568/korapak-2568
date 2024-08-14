@@ -20,8 +20,8 @@ const ContactInfo: React.FC = () => {
 
                                 <h3>Phone</h3>
                                 <p>
-                                    <div>Tel. +66 (0)52 000 548</div>
-                                    <div>Office Time: 08:30 - 17:30</div>
+                                    <div><strong>Tel: </strong>+66 (0)52 000 548</div>
+                                    <div><strong>Mon-Fri: </strong>08:30 - 17:30</div>
                                 </p>
                             </div>
                         </div>

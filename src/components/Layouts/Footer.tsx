@@ -102,8 +102,8 @@ const Footer: React.FC = () => {
                                     <li>
                                         <i className="flaticon-email-1"></i>
                                         <span>{service.FOOTER_INFO.infoLinks[0].label}</span>
-                                        <p>Tel: {service.FOOTER_INFO.infoLinks[0].link}</p>
-                                        <p>Office Time: 08:30 - 17:30</p>
+                                        <p><strong>Tel: </strong>{service.FOOTER_INFO.infoLinks[0].link}</p>
+                                        <p><strong>Mon - Fri: </strong>08:30 - 17:30</p>
                                     </li>
 
                                     <li>
