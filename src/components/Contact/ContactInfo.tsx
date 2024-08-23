@@ -3,6 +3,7 @@
 import React from "react";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
+import Image from "next/image";
 
 const ContactInfo: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -54,6 +55,65 @@ const ContactInfo: React.FC = () => {
                                         Chiang Mai, Thailand
                                     </a>
                                 </p>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-4 col-md-6 col-sm-6">
+                            <div className="contact-info-box addition-contact-info-box">
+                                <div className="icon">
+                                    <i className="bx bxl-github"></i>
+                                </div>
+
+                                <h3>GitHub</h3>
+                                <p>
+                                    <a
+                                        href="https://github.com/chorn-github"
+                                        target="_blank"
+                                    >
+                                        CHORN GitHub
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-4 col-md-6 col-sm-6">
+                            <div className="contact-info-box addition-contact-info-box">
+                                <div className="icon">
+                                    <i className="bx bxl-linkedin"></i>
+                                </div>
+
+                                <h3>LinkedIn</h3>
+                                <p>
+                                    <a
+                                        href="https://www.linkedin.com/company/chorn"
+                                        target="_blank"
+                                    >
+                                        CHORN LinkedIn
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-4 col-md-6 col-sm-6">
+                            <div className="contact-info-box addition-contact-info-box">
+                                <div className="icon addition-line-icon">
+                                    <Image
+                                        src={service.IMAGES.line.icon.path}
+                                        alt={service.IMAGES.line.icon.title}
+                                        width={60}
+                                        height={60}
+                                    />
+                                </div>
+
+                                <h3>LINE</h3>
+                                <div>
+                                    <a
+                                        href={service.IMAGES.line.icon.link}
+                                        target="_blank"
+                                    >
+                                        CHORN LINE
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
