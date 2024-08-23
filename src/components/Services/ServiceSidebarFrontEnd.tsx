@@ -77,12 +77,6 @@ const ServiceSidebarFrontEnd: React.FC = () => {
                             </div>
                             <span>LINE:</span>
                             <a target={'_blank'} href="https://lin.ee/HzWJ2bJ">https://lin.ee/HzWJ2bJ</a>
-                            <Image
-                                src={service.IMAGES.line.qrcode.path}
-                                alt={service.IMAGES.line.qrcode.title}
-                                width={150}
-                                height={150}
-                            />
                         </li>
                     </ul>
                 </div>
