@@ -67,7 +67,7 @@ const ContactInfo: React.FC = () => {
                                 <h3>GitHub</h3>
                                 <p>
                                     <a
-                                        href="https://github.com/chorn-github"
+                                        href="https://github.com/chorn-hub"
                                         target="_blank"
                                     >
                                         CHORN Hub
