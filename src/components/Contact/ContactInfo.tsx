@@ -33,7 +33,7 @@ const ContactInfo: React.FC = () => {
                                     <i className="flaticon-email-1"></i>
                                 </div>
 
-                                <h3>Email Here</h3>
+                                <h3>Email</h3>
                                 <p>
                                     <a href="mailto:contact@chorn.in.th">contact@chorn.in.th</a>
                                 </p>
@@ -46,7 +46,7 @@ const ContactInfo: React.FC = () => {
                                     <i className="flaticon-pin"></i>
                                 </div>
 
-                                <h3>Location Here</h3>
+                                <h3>Location</h3>
                                 <p>
                                     <a
                                         href="https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu"
