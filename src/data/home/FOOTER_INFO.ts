@@ -22,13 +22,13 @@ export const FOOTER_INFO: IFooters = {
     socialLinks: [
         {
             label: "GitHub",
-            link: "https://github.com/chorn-github",
+            link: "https://github.com/chorn-hub",
             icon: "bx bxl-github",
             iconClass: "facebook",
         },
         {
             label: "GitLab",
-            link: "https://gitlab.com/chorn-gitlab",
+            link: "https://gitlab.com/chorn-lab",
             icon: "bx bxl-gitlab",
             iconClass: "pinterest",
         },
