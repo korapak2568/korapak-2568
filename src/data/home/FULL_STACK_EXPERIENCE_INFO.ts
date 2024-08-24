@@ -67,7 +67,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             icon: ""
         },
         {
-            title: ".NET Core",
+            title: ".NET Core, API",
             description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
             image: "/chorn-images/services/fullstack-development/dotnetcore.png",
             readMore: "Read More",
@@ -127,7 +127,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             icon: ""
         },
         {
-            title: "Java",
+            title: "Java, Spring Boot",
             description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
             image: "/chorn-images/services/fullstack-development/java-spring-boot-kotlin.png",
             readMore: "Read More",
@@ -179,14 +179,14 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             icon: ""
         },
         {
-            title: "Python",
+            title: "Python, Flask",
             description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
             image: "/chorn-images/services/fullstack-development/python.png",
             readMore: "Read More",
             link: "/services/fullstack-development/python",
             details: [
                 {
-                    title: "Python",
+                    title: "Python, Flask, Django",
                     description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
                     list: []
                 },
