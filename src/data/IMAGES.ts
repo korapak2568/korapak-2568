@@ -49,6 +49,10 @@ export const IMAGES = {
             title: 'TypeScript',
             path: '/chorn-images/services-details/fullstack-development/service-detail-typescript.png',
         },
+        dotnetcore: {
+            title: 'TypeScript',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-dotnetcore.png',
+        },
         java: {
             title: 'Java, Spring Boot, Kotlin',
             path: '/chorn-images/services-details/fullstack-development/service-detail-java-spring-boot-kotlin.png',

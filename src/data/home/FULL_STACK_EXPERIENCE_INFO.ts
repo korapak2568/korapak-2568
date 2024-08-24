@@ -67,53 +67,61 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             icon: ""
         },
         {
-            title: "TypeScript",
-            description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
-            image: "/chorn-images/services/fullstack-development/typescript.png",
+            title: ".NET Core",
+            description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
+            image: "/chorn-images/services/fullstack-development/dotnetcore.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/typescript",
+            link: "/services/fullstack-development/dotnetcore",
             details: [
                 {
-                    title: "TypeScript and JavaScript",
-                    description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
+                    title: ".NET Core Overview",
+                    description: ".NET Core is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
                     list: []
                 },
                 {
-                    title: "Enhanced Code Quality",
-                    description: "TypeScript's type-checking features ensure that potential errors are identified during the development phase, reducing runtime errors. This results in more reliable and maintainable code, especially for large-scale applications.",
+                    title: "ASP.NET Core",
+                    description: "ASP.NET Core is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It is particularly suited for building web applications, APIs, and microservices with a focus on performance, security, and scalability.",
                     list: [
-                        "Static typing",
-                        "Improved code quality",
-                        "Error checking",
-                        "JavaScript compatibility",
-                        "Enhanced IDE support",
-                        "Object-oriented features",
-                        "Large community"
+                        "Cross-platform",
+                        "High performance",
+                        "Built-in dependency injection",
+                        "Modular architecture",
+                        "Unified MVC and Web API framework",
+                        "Supports Razor Pages",
+                        "Secure authentication and authorization"
                     ]
                 },
                 {
-                    title: "Improved Developer Productivity",
-                    description: "With TypeScript, developers benefit from advanced features like type inference, interfaces, and generics. These features streamline the coding process, making it easier to understand and manage complex codebases, thus boosting productivity.",
+                    title: ".NET Core API",
+                    description: ".NET Core API provides developers with the tools to build RESTful services and APIs that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. Its lightweight, modular design ensures high performance and easy integration with other services.",
                     list: []
                 },
                 {
-                    title: "Seamless Integration",
-                    description: "TypeScript seamlessly integrates with modern JavaScript frameworks and libraries, such as React, Angular, and Vue.js. Its interoperability allows developers to gradually adopt TypeScript in existing projects without major rewrites, facilitating a smooth transition and immediate benefits.",
-                    list: []
+                    title: "C#.NET Core",
+                    description: "C#.NET Core is the primary language used for developing applications in .NET Core. Known for its simplicity, versatility, and modern features, C# allows developers to build robust, maintainable, and scalable applications with ease.",
+                    list: [
+                        "Modern syntax",
+                        "Object-oriented",
+                        "Rich standard library",
+                        "Supports asynchronous programming",
+                        "LINQ support",
+                        "Cross-platform compatibility",
+                        "Interoperability with other .NET languages"
+                    ]
                 }
             ],
             faq: [
                 {
-                    question: "What is TypeScript?",
-                    answer: "TypeScript is a superset of JavaScript that adds static typing and other features."
+                    question: "What is .NET Core?",
+                    answer: ".NET Core is an open-source, cross-platform framework for building modern applications that run on Windows, macOS, and Linux."
                 },
                 {
-                    question: "Why use TypeScript over JavaScript?",
-                    answer: "TypeScript provides static typing, which helps catch errors early and improve code quality."
+                    question: "What is ASP.NET Core used for?",
+                    answer: "ASP.NET Core is a framework for building web applications, APIs, and microservices with high performance and cross-platform capabilities."
                 },
                 {
-                    question: "Can TypeScript run in the browser?",
-                    answer: "TypeScript is compiled to JavaScript, which can run in any browser."
+                    question: "What makes C#.NET Core a good choice for development?",
+                    answer: "C# is a modern, versatile programming language that offers a wide range of features, making it ideal for developing scalable, maintainable applications in .NET Core."
                 }
             ],
             icon: ""
@@ -398,3 +406,56 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         },
     ]
 }
+
+// {
+//     title: "TypeScript",
+//         description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
+//     image: "/chorn-images/services/fullstack-development/typescript.png",
+//     readMore: "Read More",
+//     link: "/services/fullstack-development/typescript",
+//     details: [
+//     {
+//         title: "TypeScript and JavaScript",
+//         description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
+//         list: []
+//     },
+//     {
+//         title: "Enhanced Code Quality",
+//         description: "TypeScript's type-checking features ensure that potential errors are identified during the development phase, reducing runtime errors. This results in more reliable and maintainable code, especially for large-scale applications.",
+//         list: [
+//             "Static typing",
+//             "Improved code quality",
+//             "Error checking",
+//             "JavaScript compatibility",
+//             "Enhanced IDE support",
+//             "Object-oriented features",
+//             "Large community"
+//         ]
+//     },
+//     {
+//         title: "Improved Developer Productivity",
+//         description: "With TypeScript, developers benefit from advanced features like type inference, interfaces, and generics. These features streamline the coding process, making it easier to understand and manage complex codebases, thus boosting productivity.",
+//         list: []
+//     },
+//     {
+//         title: "Seamless Integration",
+//         description: "TypeScript seamlessly integrates with modern JavaScript frameworks and libraries, such as React, Angular, and Vue.js. Its interoperability allows developers to gradually adopt TypeScript in existing projects without major rewrites, facilitating a smooth transition and immediate benefits.",
+//         list: []
+//     }
+// ],
+//     faq: [
+//     {
+//         question: "What is TypeScript?",
+//         answer: "TypeScript is a superset of JavaScript that adds static typing and other features."
+//     },
+//     {
+//         question: "Why use TypeScript over JavaScript?",
+//         answer: "TypeScript provides static typing, which helps catch errors early and improve code quality."
+//     },
+//     {
+//         question: "Can TypeScript run in the browser?",
+//         answer: "TypeScript is compiled to JavaScript, which can run in any browser."
+//     }
+// ],
+//     icon: ""
+// },
