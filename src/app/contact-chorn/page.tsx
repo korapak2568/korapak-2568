@@ -7,25 +7,25 @@ import ContactInfo from "../../components/Contact/ContactInfo";
 import ContactForm from "../../components/Contact/ContactForm";
 
 export default function Page() {
-  return (
-    <>
-      <Navbar />
+    return (
+        <>
+            <Navbar/>
 
-      <PageBanner
-        pageTitle="Contact CHORN"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Contact CHORN"
-        BGImage="/images/page-banner/page-banner-4.jpg"
-      />
+            <PageBanner
+                pageTitle="Contact CHORN"
+                homePageUrl="/"
+                homePageText="Home"
+                activePageText="Contact CHORN"
+                BGImage="/images/page-banner/page-banner-4.jpg"
+            />
 
-      <ContactInfo />
+            <ContactInfo/>
 
-      <ContactForm />
+            <ContactForm/>
 
-      <SubscribeForm />
+            <SubscribeForm/>
 
-      <Footer />
-    </>
-  );
+            <Footer/>
+        </>
+    );
 }

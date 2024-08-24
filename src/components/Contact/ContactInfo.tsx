@@ -14,21 +14,20 @@ const ContactInfo: React.FC = () => {
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box addition-contact-info-box">
+                            <div className="contact-info-box">
                                 <div className="icon">
                                     <i className="flaticon-call"></i>
                                 </div>
 
-                                <h3>Phone</h3>
+                                <h3>Tel. 052-000-548</h3>
                                 <p>
-                                    <div><strong>Tel: </strong>+66 (0)52 000 548</div>
-                                    <div><strong>Mon-Fri: </strong>08:30 - 17:30</div>
+                                    Mon-Fri: 08:30 - 17:30
                                 </p>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box addition-contact-info-box">
+                            <div className="contact-info-box">
                                 <div className="icon">
                                     <i className="flaticon-email-1"></i>
                                 </div>
@@ -41,7 +40,7 @@ const ContactInfo: React.FC = () => {
                         </div>
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box addition-contact-info-box">
+                            <div className="contact-info-box">
                                 <div className="icon">
                                     <i className="flaticon-pin"></i>
                                 </div>
@@ -59,7 +58,7 @@ const ContactInfo: React.FC = () => {
                         </div>
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box addition-contact-info-box">
+                            <div className="contact-info-box">
                                 <div className="icon">
                                     <i className="bx bxl-github"></i>
                                 </div>
@@ -77,7 +76,7 @@ const ContactInfo: React.FC = () => {
                         </div>
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box addition-contact-info-box">
+                            <div className="contact-info-box">
                                 <div className="icon">
                                     <i className="bx bxl-linkedin"></i>
                                 </div>
@@ -95,7 +94,7 @@ const ContactInfo: React.FC = () => {
                         </div>
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box addition-contact-info-box">
+                            <div className="contact-info-box">
                                 <div className="icon addition-line-icon">
                                     <Image
                                         src={service.IMAGES.line.icon.path}
