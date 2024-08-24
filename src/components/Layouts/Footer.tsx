@@ -100,10 +100,11 @@ const Footer: React.FC = () => {
 
                                 <ul className="footer-contact-info">
                                     <li>
-                                        <i className="flaticon-email-1"></i>
-                                        <span>{service.FOOTER_INFO.infoLinks[0].label}</span>
-                                        <p><strong>Tel: </strong>{service.FOOTER_INFO.infoLinks[0].link}</p>
-                                        <p><strong>Mon - Fri: </strong>08:30 - 17:30</p>
+                                        <i className="flaticon-call"></i>
+                                        <span>{service.FOOTER_INFO.infoLinks[0].link}</span>
+                                        {/*<span>{service.FOOTER_INFO.infoLinks[0].label}</span>*/}
+                                        {/*<p><strong>Tel: </strong>{service.FOOTER_INFO.infoLinks[0].link}</p>*/}
+                                        <p>Mon-Fri: 08:30 - 17:30</p>
                                     </li>
 
                                     <li>
