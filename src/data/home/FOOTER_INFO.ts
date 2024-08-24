@@ -19,6 +19,10 @@ export const FOOTER_INFO: IFooters = {
         label: "Privacy Policy",
         link: "/privacy-policy"
     },
+    workplacePolicy: {
+        label: "Workplace Policy",
+        link: "/workplace-policy"
+    },
     socialLinks: [
         {
             label: "GitHub",

@@ -11,6 +11,7 @@ export interface IFooters {
     infoTitle: string;
     termOfService: ILink;
     privacyPolicy: ILink;
+    workplacePolicy: ILink;
     socialLinks: ILink[]
     importantLinks: ILink[]
     featuredLinks: ILink[]

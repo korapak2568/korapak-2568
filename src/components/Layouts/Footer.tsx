@@ -156,6 +156,11 @@ const Footer: React.FC = () => {
                                             {service.FOOTER_INFO.privacyPolicy.label}
                                         </Link>
                                     </li>
+                                    <li>
+                                        <Link href={service.FOOTER_INFO.workplacePolicy.link}>
+                                            {service.FOOTER_INFO.workplacePolicy.label}
+                                        </Link>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
