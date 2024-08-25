@@ -13,6 +13,7 @@ import {TERM_OF_SERVICE} from "@/data/home/TERM_OF_SERVICE";
 import {DEVOPS_TESTING_INFO} from "@/data/home/DEVOPS_TESTING_INFO";
 import {WORKPLACE_POLICY} from "@/data/home/WORKPLACE_POLICY";
 import {INDEX} from "@/data/home/INDEX";
+import {CONTACTS} from "@/data/home/CONTACTS";
 
 export const INFO = {
     CHORN_SERVICE_INFO: CHORN_SERVICE_INFO,
@@ -29,5 +30,6 @@ export const INFO = {
     TERM_OF_SERVICE: TERM_OF_SERVICE,
     DEVOPS_TESTING_INFO: DEVOPS_TESTING_INFO,
     WORKPLACE_POLICY: WORKPLACE_POLICY,
-    INDEX: INDEX
+    INDEX: INDEX,
+    CONTACTS: CONTACTS
 }
