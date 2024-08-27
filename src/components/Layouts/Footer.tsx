@@ -49,6 +49,7 @@ const Footer: React.FC = () => {
                                             target="_blank"
                                             rel="noopener noreferrer">
                                             <Image
+                                                className="addition-footer-line"
                                                 src={service.IMAGES.line.icon.path}
                                                 alt={service.IMAGES.line.icon.title}
                                                 width={40}
@@ -102,8 +103,6 @@ const Footer: React.FC = () => {
                                     <li>
                                         <i className="flaticon-call"></i>
                                         <span>{service.FOOTER_INFO.infoLinks[0].link}</span>
-                                        {/*<span>{service.FOOTER_INFO.infoLinks[0].label}</span>*/}
-                                        {/*<p><strong>Tel: </strong>{service.FOOTER_INFO.infoLinks[0].link}</p>*/}
                                         <p>Mon-Fri: 08:30 - 17:30</p>
                                     </li>
 
