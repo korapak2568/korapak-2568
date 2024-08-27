@@ -60,28 +60,8 @@ const AboutContent: React.FC = () => {
                                     </div>
                                 ))}
 
-                                {/*<div className="about-inner-content">*/}
-                                {/*    <div className="icon">*/}
-                                {/*        <i className="flaticon-check"></i>*/}
-                                {/*    </div>*/}
-                                {/*    <h4>{service.ABOUT_CONTENT_INFO.additions[2].title}</h4>*/}
-                                {/*    <p>*/}
-                                {/*        {service.ABOUT_CONTENT_INFO.additions[2].description}*/}
-                                {/*    </p>*/}
-                                {/*</div>*/}
-
-                                {/*<div className="about-inner-content">*/}
-                                {/*    <div className="icon">*/}
-                                {/*        <i className="flaticon-check"></i>*/}
-                                {/*    </div>*/}
-                                {/*    <h4>{service.ABOUT_CONTENT_INFO.additions[3].title}</h4>*/}
-                                {/*    <p>*/}
-                                {/*        {service.ABOUT_CONTENT_INFO.additions[3].description}*/}
-                                {/*    </p>*/}
-                                {/*</div>*/}
-
                                 <div className="about-btn">
-                                    <Link href="/about-us/2" className="default-btn">
+                                    <Link href="/contact-chorn" className="default-btn">
                                         Learn More
                                     </Link>
                                 </div>
