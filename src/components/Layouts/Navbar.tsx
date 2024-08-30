@@ -86,35 +86,6 @@ const Navbar: React.FC = () => {
                                 {/*    ></i>*/}
                                 {/*</div>*/}
 
-                                {/*{service.TOP_SOCIALS.map((item: ILink, index: number) => (*/}
-                                {/*    <div key={index} className="option-item mr-10">*/}
-                                {/*        <div className='social hover-rotate'>*/}
-                                {/*            <a*/}
-                                {/*                href={item.link}*/}
-                                {/*                className={item.iconClass}*/}
-                                {/*                target="_blank"*/}
-                                {/*            >*/}
-                                {/*                <i className={item.icon}></i>*/}
-                                {/*            </a>*/}
-                                {/*        </div>*/}
-                                {/*    </div>*/}
-                                {/*))}*/}
-
-                                {/*<div className="option-item">*/}
-                                {/*    <Link*/}
-                                {/*        href={service.IMAGES.line.icon.link}*/}
-                                {/*        target="_blank"*/}
-                                {/*        rel="noopener noreferrer">*/}
-                                {/*        <Image*/}
-                                {/*            className="addition-footer-line hover-rotate"*/}
-                                {/*            src={service.IMAGES.line.icon.path}*/}
-                                {/*            alt={service.IMAGES.line.icon.title}*/}
-                                {/*            width={30}*/}
-                                {/*            height={30}*/}
-                                {/*        />*/}
-                                {/*    </Link>*/}
-                                {/*</div>*/}
-
                                 <div className="option-item">
                                     <Link href="/contact-chorn" className="default-btn">
                                         Contact

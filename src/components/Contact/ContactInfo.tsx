@@ -20,7 +20,7 @@ const ContactInfo: React.FC = () => {
                                 <div className="contact-info-box">
                                     {
                                         item.isLINE ?
-                                            <div className="icon addition-img-icon">
+                                            <div className="icon addition-img-icon hover-rotate">
                                                 <Image
                                                     src={service.IMAGES.line.icon.path}
                                                     alt={service.IMAGES.line.icon.title}
@@ -28,7 +28,7 @@ const ContactInfo: React.FC = () => {
                                                     height={60}
                                                 />
                                             </div> :
-                                            <div className="icon">
+                                            <div className="icon hover-rotate">
                                                 <i className={item.icon}></i>
                                             </div>
                                     }
