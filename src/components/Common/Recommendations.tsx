@@ -42,7 +42,7 @@ const Recommendations: React.FC = () => {
                                     <div className="row">
                                         <div className="col-lg-6">
                                             <div
-                                                className="testimonial-image"
+                                                className="testimonial-image hover-rotate"
                                                 style={{
                                                     backgroundImage: `url(${item.image})`,
                                                 }}
@@ -52,10 +52,9 @@ const Recommendations: React.FC = () => {
                                         <div className="col-lg-6">
                                             <div className="testimonial-inner-content">
                                                 <div className="icon">
-                                                    <i className="flaticon-left-quotes-sign"></i>
+                                                    <i className="flaticon-left-quotes-sign hover-rotate"></i>
                                                 </div>
                                                 <p>{item.description}</p>
-
                                                 <div className="info-text">
                                                     <h4>{item.name}</h4>
                                                     <span>{item.role}</span>

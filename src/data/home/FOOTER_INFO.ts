@@ -27,19 +27,19 @@ export const FOOTER_INFO: IFooters = {
         {
             label: "GitHub",
             link: "https://github.com/chorn-hub",
-            icon: "bx bxl-github",
+            icon: "bx bxl-github hover-rotate",
             iconClass: "facebook",
         },
         {
             label: "GitLab",
             link: "https://gitlab.com/chorn-lab",
-            icon: "bx bxl-gitlab",
+            icon: "bx bxl-gitlab hover-rotate",
             iconClass: "pinterest",
         },
         {
             label: "Linked",
             link: "https://www.linkedin.com/company/chorn",
-            icon: "bx bxl-linkedin",
+            icon: "bx bxl-linkedin hover-rotate",
             iconClass: "linkedin",
         }
     ],
@@ -91,17 +91,17 @@ export const FOOTER_INFO: IFooters = {
         {
             label: "Phone",
             link: "+66 (0)52 000 548",
-            icon: "flaticon-call",
+            icon: "flaticon-call hover-rotate",
         },
         {
             label: "Email",
             link: "contact@chorn.in.th",
-            icon: "flaticon-email-1",
+            icon: "flaticon-email-1 hover-rotate",
         },
         {
             label: "Address",
             link: "Chiang Mai, Thailand",
-            icon: "flaticon-pin",
+            icon: "flaticon-pin hover-rotate",
         },
     ],
 }

@@ -49,7 +49,7 @@ const Footer: React.FC = () => {
                                             target="_blank"
                                             rel="noopener noreferrer">
                                             <Image
-                                                className="addition-footer-line"
+                                                className="addition-footer-line hover-rotate"
                                                 src={service.IMAGES.line.icon.path}
                                                 alt={service.IMAGES.line.icon.title}
                                                 width={40}
@@ -101,19 +101,19 @@ const Footer: React.FC = () => {
 
                                 <ul className="footer-contact-info">
                                     <li>
-                                        <i className="flaticon-call"></i>
+                                        <i className="flaticon-call hover-rotate"></i>
                                         <span>{service.FOOTER_INFO.infoLinks[0].link}</span>
                                         <p>Mon-Fri: 08:30 - 17:30</p>
                                     </li>
 
                                     <li>
-                                        <i className="flaticon-email-1"></i>
+                                        <i className="flaticon-email-1 hover-rotate"></i>
                                         <span>{service.FOOTER_INFO.infoLinks[1].label}</span>
                                         <p>{service.FOOTER_INFO.infoLinks[1].link}</p>
                                     </li>
 
                                     <li>
-                                        <i className="flaticon-pin"></i>
+                                        <i className="flaticon-pin hover-rotate"></i>
                                         <span>{service.FOOTER_INFO.infoLinks[2].label}</span>
                                         <a
                                             href="https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu"
