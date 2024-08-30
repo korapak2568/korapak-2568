@@ -5,8 +5,12 @@ import Link from "next/link";
 import Image from "next/image";
 import MenuItem from "./MenuItem";
 import {menus} from "../../../libs/menus";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {ILink} from "@/data/model/ILink";
 
 const Navbar: React.FC = () => {
+    const service = useSelector((state: RootState) => state.service.value);
     const [menu, setMenu] = useState(true);
     const toggleNavbar = () => {
         setMenu(!menu);
@@ -74,7 +78,7 @@ const Navbar: React.FC = () => {
                                 </ul>
                             </div>
 
-                            <div className="others-options d-flex align-items-center">
+                            <div className="others-options d-flex align-items-center mt-10">
                                 {/*<div className="option-item">*/}
                                 {/*    <i*/}
                                 {/*        className="search-btn flaticon-loupe"*/}
@@ -82,11 +86,40 @@ const Navbar: React.FC = () => {
                                 {/*    ></i>*/}
                                 {/*</div>*/}
 
+                                {service.TOP_SOCIALS.map((item: ILink, index: number) => (
+                                    <div key={index} className="option-item mr-10">
+                                        <div className='social hover-rotate'>
+                                            <a
+                                                href={item.link}
+                                                className={item.iconClass}
+                                                target="_blank"
+                                            >
+                                                <i className={item.icon}></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                ))}
+
                                 <div className="option-item">
-                                    <Link href="/contact-chorn" className="default-btn">
-                                        Contact
+                                    <Link
+                                        href={service.IMAGES.line.icon.link}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        <Image
+                                            className="addition-footer-line hover-rotate"
+                                            src={service.IMAGES.line.icon.path}
+                                            alt={service.IMAGES.line.icon.title}
+                                            width={30}
+                                            height={30}
+                                        />
                                     </Link>
                                 </div>
+
+                                {/*<div className="option-item">*/}
+                                {/*    <Link href="/contact-chorn" className="default-btn">*/}
+                                {/*        Contact*/}
+                                {/*    </Link>*/}
+                                {/*</div>*/}
                             </div>
                         </nav>
                     </div>
