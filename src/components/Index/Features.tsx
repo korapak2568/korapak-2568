@@ -40,7 +40,7 @@ const Features: React.FC = () => {
                                         <div key={index} className="col-lg-6 col-sm-6">
                                             <div className="single-features-box">
                                                 <div className="icon">
-                                                    <i className={addition.icon}></i>
+                                                    <i className={addition.icon + "  hover-rotate"}></i>
                                                 </div>
                                                 <h3>
                                                     <Link href={addition.link}>

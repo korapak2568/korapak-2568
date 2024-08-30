@@ -19,6 +19,7 @@ const CloudExperience: React.FC = () => {
                                 <div className="single-fun-fact-box">
                                     <div className="icon">
                                         <Image
+                                            className="hover-rotate"
                                             src={item.image}
                                             alt={item.title}
                                             width={75}

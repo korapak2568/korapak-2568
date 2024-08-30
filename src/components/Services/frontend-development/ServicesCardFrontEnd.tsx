@@ -22,6 +22,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                                     <div className="image">
                                         <Link href={addition.link}>
                                             <Image
+                                                className="hover-rotate"
                                                 src={addition.image}
                                                 alt="image"
                                                 width={130}

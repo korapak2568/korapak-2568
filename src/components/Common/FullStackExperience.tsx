@@ -29,6 +29,7 @@ const FullStackExperience: React.FC = () => {
                                     <Tab key={index}>
                                           <span>
                                               <Image
+                                                  className="hover-rotate"
                                                   src={item.image}
                                                   alt={item.title}
                                                   width={130}
