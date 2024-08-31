@@ -61,6 +61,10 @@ export const FOOTER_INFO: IFooters = {
             link: "/terms-of-service"
         },
         {
+            label: "Privacy Policy",
+            link: "/privacy-policy"
+        },
+        {
             label: "Workplace Policy",
             link: "/workplace-policy"
         }
