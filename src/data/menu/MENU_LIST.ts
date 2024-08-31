@@ -1,6 +1,5 @@
 import {IMenu} from "../model/IMenu";
 import {SUB_MENU_CHORN_SERVICES} from "./SUB_MENU_CHORN_SERVICES";
-import {SUB_MENU_CHORN_SERVICES_DETAILS} from "./SUB_MENU_CHORN_SERVICES_DETAILS";
 import {SUB_MENU_CUSTOM_SOFTWARE} from "./SUB_MENU_CUSTOM_SOFTWARE";
 
 export const MENU_LIST: IMenu[] = [

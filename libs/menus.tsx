@@ -4,7 +4,7 @@ export const menus = [
         link: "/",
     },
     {
-        label: "Services",
+        label: "CHORN Services",
         link: "#",
         submenu: [
             {
@@ -30,6 +30,58 @@ export const menus = [
             {
                 label: "DevOps Testing",
                 link: "/services/devops-testing",
+            },
+        ],
+    },
+    {
+        label: "Front-End",
+        link: "#",
+        submenu: [
+            {
+                label: "Next.js",
+                link: "/services/frontend-development/next.js",
+            },
+            {
+                label: "React",
+                link: "/services/frontend-development/react",
+            },
+            {
+                label: "Angular",
+                link: "/services/frontend-development/angular",
+            },
+            {
+                label: "Vue",
+                link: "/services/frontend-development/vue",
+            },
+        ],
+    },
+    {
+        label: "Full-Stack",
+        link: "#",
+        submenu: [
+            {
+                label: "Node.js",
+                link: "/services/fullstack-development/nodejs",
+            },
+            {
+                label: "Java & Spring Boot",
+                link: "/services/fullstack-development/java-spring-boot-kotlin",
+            },
+            {
+                label: ".NET Core API",
+                link: "/services/fullstack-development/dotnetcore",
+            },
+            {
+                label: "Go-Lang",
+                link: "/services/fullstack-development/go-lang",
+            },
+            {
+                label: "Python",
+                link: "/services/fullstack-development/python",
+            },
+            {
+                label: "PHP",
+                link: "/services/fullstack-development/php",
             },
         ],
     },

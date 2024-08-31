@@ -7,7 +7,6 @@ import MenuItem from "./MenuItem";
 import {menus} from "../../../libs/menus";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {ILink} from "@/data/model/ILink";
 
 const Navbar: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
