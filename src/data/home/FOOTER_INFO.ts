@@ -57,8 +57,12 @@ export const FOOTER_INFO: IFooters = {
             link: "/contact-chorn"
         },
         {
-            label: "Privacy Policy",
-            link: "/privacy-policy"
+            label: "Terms of Service",
+            link: "/terms-of-service"
+        },
+        {
+            label: "Workplace Policy",
+            link: "/workplace-policy"
         }
     ],
     featuredLinks: [
