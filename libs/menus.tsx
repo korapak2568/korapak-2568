@@ -4,7 +4,7 @@ export const menus = [
         link: "/",
     },
     {
-        label: "CHORN Services",
+        label: "Services",
         link: "#",
         submenu: [
             {
@@ -34,7 +34,7 @@ export const menus = [
         ],
     },
     {
-        label: "Front-End",
+        label: "Front End",
         link: "#",
         submenu: [
             {
@@ -56,7 +56,7 @@ export const menus = [
         ],
     },
     {
-        label: "Full-Stack",
+        label: "Full Stack",
         link: "#",
         submenu: [
             {
