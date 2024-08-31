@@ -12,15 +12,7 @@ export const menus = [
                 link: "/services/web-development",
             },
             {
-                label: "Front End Development",
-                link: "/services/frontend-development",
-            },
-            {
-                label: "Full Stack Development",
-                link: "/services/fullstack-development",
-            },
-            {
-                label: "Web3 Blockchain Smart Contract",
+                label: "Web3 & Blockchain",
                 link: "/services/web3-blockchain-smart-contract-development",
             },
             {
@@ -35,7 +27,7 @@ export const menus = [
     },
     {
         label: "Front End",
-        link: "#",
+        link: "/services/frontend-development",
         submenu: [
             {
                 label: "Next.js",
@@ -57,7 +49,7 @@ export const menus = [
     },
     {
         label: "Full Stack",
-        link: "#",
+        link: "/services/fullstack-development",
         submenu: [
             {
                 label: "Node.js",

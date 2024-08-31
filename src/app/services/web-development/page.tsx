@@ -5,6 +5,7 @@ import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
 import ServicesCardFrontEnd from "../../../components/Services/frontend-development/ServicesCardFrontEnd";
 import CloudExperience from "@/components/Common/CloudExperience";
+import ServicesCardFullStack from "@/components/Services/fullstack-development/ServicesCardFullStack";
 
 const Page = () => {
     return (
@@ -20,6 +21,8 @@ const Page = () => {
             />
 
             <ServicesCardFrontEnd/>
+
+            <ServicesCardFullStack/>
 
             <CloudExperience/>
 
