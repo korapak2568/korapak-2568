@@ -4,7 +4,6 @@ import React from "react";
 import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
-import RelatedServices from "../../../../components/Services/RelatedServices";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import ServicesDetailsJava from "@/components/Services/fullstack-development/java/ServicesDetailsJava";

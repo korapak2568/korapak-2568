@@ -55,7 +55,7 @@ export const IMAGES = {
         },
         java: {
             title: 'Java, Spring Boot, Kotlin',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-java-spring-boot-kotlin.png',
+            path: '/chorn-images/services-details/fullstack-development/service-detail-java-spring-boot.png',
         },
         python: {
             title: 'Python',

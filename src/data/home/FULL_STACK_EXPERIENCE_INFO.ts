@@ -129,12 +129,12 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Java, Spring Boot",
             description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
-            image: "/chorn-images/services/fullstack-development/java-spring-boot-kotlin.png",
+            image: "/chorn-images/services/fullstack-development/java-spring-boot.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/java-spring-boot-kotlin",
+            link: "/services/fullstack-development/java-spring-boot",
             details: [
                 {
-                    title: "Java, Spring Boot, Kotlin",
+                    title: "Java, Spring Boot",
                     description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
                     list: []
                 },

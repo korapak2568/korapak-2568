@@ -57,7 +57,7 @@ export const menus = [
             },
             {
                 label: "Java & Spring Boot",
-                link: "/services/fullstack-development/java-spring-boot-kotlin",
+                link: "/services/fullstack-development/java-spring-boot",
             },
             {
                 label: ".NET Core API",
