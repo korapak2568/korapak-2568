@@ -21,7 +21,7 @@ export const CONTACTS: IContact[] = [
     {
         isLINE: false,
         icon: "flaticon-call",
-        label: "052 - 000 548",
+        label: "+66 (0)52 000548",
         isLink: false,
         link: "",
         linkText: "Mon-  Fri : 08:30 - 17:30",

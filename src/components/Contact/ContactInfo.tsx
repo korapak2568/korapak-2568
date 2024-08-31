@@ -14,7 +14,6 @@ const ContactInfo: React.FC = () => {
             <div className="contact-info-area pt-100 pb-70">
                 <div className="container">
                     <div className="row justify-content-center">
-
                         {service.CONTACTS.map((item: IContact, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="contact-info-box">
@@ -43,7 +42,6 @@ const ContactInfo: React.FC = () => {
                                 </div>
                             </div>
                         ))}
-
                     </div>
                 </div>
             </div>
