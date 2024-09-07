@@ -1,4 +1,10 @@
 export const IMAGES = {
+    logo: {
+        circle: {
+            title: "CHORN",
+            path: "/chorn-images/logo/chorn-logo-circle.png"
+        }
+    },
     pageBanner: {
         cover1: {
             title: 'Cover-1',

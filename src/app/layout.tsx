@@ -19,7 +19,7 @@ import GoTop from "@/components/Layouts/GoTop";
 import React from "react";
 import ProviderWrapper from "../components/ProviderWrapper/ProviderWrapper";
 import Head from "next/head";
-import ConsentModal from "@/components/Concent/ConsentModal";
+import ConsentModal from "@/components/Consent/ConsentModal";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
