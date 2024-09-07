@@ -15,6 +15,7 @@ import {WORKPLACE_POLICY} from "@/data/home/WORKPLACE_POLICY";
 import {INDEX} from "@/data/home/INDEX";
 import {CONTACTS} from "@/data/home/CONTACTS";
 import {TOP_SOCIALS} from "@/data/home/TOP_SOCIALS";
+import {CONSENT_INFO} from "@/data/home/CONSENT_INFO";
 
 export const INFO = {
     CHORN_SERVICE_INFO: CHORN_SERVICE_INFO,
@@ -33,5 +34,6 @@ export const INFO = {
     WORKPLACE_POLICY: WORKPLACE_POLICY,
     INDEX: INDEX,
     CONTACTS: CONTACTS,
-    TOP_SOCIALS: TOP_SOCIALS
+    TOP_SOCIALS: TOP_SOCIALS,
+    CONSENT_INFO: CONSENT_INFO,
 }

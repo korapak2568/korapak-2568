@@ -1,5 +1,4 @@
 // src/app/layout.tsx
-
 import "../../styles/bootstrap.min.css";
 import "../../styles/animate.css";
 import "../../styles/boxicons.min.css";
@@ -20,6 +19,7 @@ import GoTop from "@/components/Layouts/GoTop";
 import React from "react";
 import ProviderWrapper from "../components/ProviderWrapper/ProviderWrapper";
 import Head from "next/head";
+import ConsentModal from "@/components/Concent/ConsentModal";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
@@ -28,18 +28,15 @@ export const metadata: Metadata = {
     description: "Custom Software Development Services",
 };
 
-export default function RootLayout({
-                                       children,
-                                   }: Readonly<{
-    children: React.ReactNode;
-}>) {
+export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
     return (
         <html lang="en">
         <Head>
-            <link rel="icon" href="/favicon.ico" />
+            <link rel="icon" href="/favicon.ico"/>
         </Head>
         <body className={dm_sans.className}>
         <ProviderWrapper>
+            <ConsentModal/>
             {children}
         </ProviderWrapper>
         <AosAnimation/>

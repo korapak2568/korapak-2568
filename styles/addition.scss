@@ -115,3 +115,83 @@
   animation: rotating 2s linear infinite;
 }
 
+.modal {
+  pointer-events: none;
+}
+
+.modal-dialog {
+  pointer-events: auto;
+}
+
+.modal-content {
+  width: 60%;
+  background-color: rgba(215, 215, 215, 0.9);
+  position: fixed;
+  bottom: 0;
+  z-index: 999999;
+  display: block;
+  left: 50%;
+  transform: translate(-50%, 0);
+  font-size: 14px;
+  border-radius: 5px;
+
+  @media (max-width: 1024px) {
+    width: 90%;
+    font-size: 13px;
+    padding: 10px;
+  }
+
+  @media (max-width: 576px) {
+    width: 95%;
+    font-size: 13px;
+    padding: 10px;
+  }
+}
+
+.add-cookie-left {
+  float: left;
+  padding-left: 30px;
+  padding-top: 10px;
+
+  @media (max-width: 1024px) {
+    padding-left: 10px; // Adjust padding for smaller screens
+    padding-top: 5px;
+  }
+}
+
+.add-cookie-right {
+  float: right;
+  padding-right: 30px;
+  padding-top: 2px;
+  padding-bottom: 10px;
+
+  @media (max-width: 1024px) {
+    padding-right: 10px; // Adjust padding for smaller screens
+  }
+
+  @media (max-width: 576px) {
+    padding-top: 10px;
+  }
+}
+
+.add-button {
+  background-color: #00bffd;
+  border-color: #00bffd;
+  cursor: pointer; // Ensure the pointer changes on hover
+
+  &:hover {
+    background-color: #fd7e14; // Slight hover color change for feedback
+    border-color: #fd7e14;
+  }
+}
+
+.a-privacy {
+  color: #007bff;
+  text-decoration: underline;
+  cursor: pointer; // Ensure cursor changes on hover for links
+  padding-left: 5px;
+
+  &:hover {
+    color: #0056b3; // Darker color on hover for feedback
+  }
+}
