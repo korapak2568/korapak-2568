@@ -1,10 +1,9 @@
-"use client";
+"use client"
 
 import React from "react";
 import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
-import RelatedServices from "../../../../components/Services/RelatedServices";
 import ServicesDetailsNextJS from "@/components/Services/frontend-development/next.js/ServicesDetailsNextJS";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";

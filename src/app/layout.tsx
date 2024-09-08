@@ -24,8 +24,36 @@ import ConsentModal from "@/components/Consent/ConsentModal";
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
 export const metadata: Metadata = {
-    title: "CHORN",
-    description: "Custom Software Development Services",
+    title: "CHORN | Digital Innovation & Custom Software Solutions",
+    description: "Transform your business with CHORN’s digital innovation expertise. We provide state-of-the-art software solutions, scalable websites, and cutting-edge technologies like Blockchain, Web3, and more.",
+    openGraph: {
+        title: "CHORN - Leading Digital Innovation & Custom Software Development",
+        description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
+        images: [
+            {
+                url: "/chorn-images/services/services-11.jpg",
+                width: 1200,
+                height: 630,
+                alt: "CHORN Homepage Banner",
+            },
+        ],
+        url: "https://chorn.in.th",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "CHORN | Transform Your Business with Custom Software Solutions",
+        description: "CHORN offers cutting-edge software development, scalable websites, and technology expertise in Blockchain, Web3, and more. Partner with us for future-ready solutions.",
+        images: ["/chorn-images/services/services-11.jpg"],
+    },
+    keywords: [
+        "CHORN", "custom software development", "software engineer", "software developer", "web developer",
+        "mobile developer", "frontend developer", "full stack developer", "react developer", "angular developer",
+        "java developer", "java spring boot developer", ".net core developer", "node.js developer", "php developer",
+        "API developer", "backend developer", "head of engineering", "director of engineering", "head of technology",
+        "system analyst", "software development manager", "full-stack development", "blockchain", "web3", "react.js",
+        "next.js", "spring boot", "digital innovation", "enterprise software", "scalable websites"
+    ],
 };
 
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {

@@ -1,10 +1,35 @@
-"use client"
-
 import Navbar from "../../components/Layouts/Navbar";
 import PageBanner from "../../components/Common/PageBanner";
 import Footer from "../../components/Layouts/Footer";
 import AboutContent from "../../components/AboutUs/AboutContent";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
+import type {Metadata} from "next";
+
+// Define metadata for the Contact page
+export const metadata: Metadata = {
+    title: "About Us | CHORN - Custom Software Development Experts",
+    description: "Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology.",
+    openGraph: {
+        title: "CHORN - Leaders in Custom Software Development",
+        description: "Explore CHORN's mission and expertise in delivering innovative software solutions across industries. Learn more about our journey.",
+        images: [
+            {
+                url: "/images/page-banner/page-banner-2.jpg",
+                width: 800,
+                height: 600,
+                alt: "CHORN About Banner Image",
+            },
+        ],
+        url: "https://chorn.in.th/about-chorn/",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "CHORN - Custom Software Solutions for Every Industry",
+        description: "Learn about CHORN's innovative software services and our impact across industries. Partner with us for cutting-edge solutions.",
+        images: ["/images/page-banner/page-banner-2.jpg"],
+    },
+};
 
 export default function Page() {
     return (

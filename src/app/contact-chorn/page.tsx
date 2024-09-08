@@ -5,6 +5,33 @@ import Footer from "../../components/Layouts/Footer";
 import SubscribeForm from "../../components/Common/SubscribeForm";
 import ContactInfo from "../../components/Contact/ContactInfo";
 import ContactForm from "../../components/Contact/ContactForm";
+import {Metadata} from "next";
+
+// Define metadata for the Contact page
+export const metadata: Metadata = {
+    title: "Contact Us | CHORN - Get in Touch for Custom Software Solutions",
+    description: "Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need.",
+    openGraph: {
+        title: "Contact CHORN - Custom Software Development Experts",
+        description: "Get in touch with CHORN for expert custom software development solutions. We're here to answer your questions and provide support.",
+        images: [
+            {
+                url: "/images/page-banner/page-banner-4.jpg",
+                width: 800,
+                height: 600,
+                alt: "Contact CHORN Banner Image",
+            },
+        ],
+        url: "https://chorn.in.th/contact-chorn/",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "Contact CHORN - Let's Build Something Great Together",
+        description: "Reach out to CHORN for custom software solutions tailored to your business needs. Contact us for inquiries or support.",
+        images: ["/images/page-banner/page-banner-4.jpg"],
+    },
+};
 
 export default function Page() {
     return (
