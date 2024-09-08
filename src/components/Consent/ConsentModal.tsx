@@ -69,7 +69,10 @@ const ConsentModal = () => {
                                         </div>
                                     </div>
                                     <div className="add-cookie-right">
-                                        <button className="btn btn-success add-button" onClick={handleAccept}>Accept
+                                        <button
+                                            className="btn btn-success add-button"
+                                            onClick={handleAccept}>
+                                            {service.CONSENT_INFO.buttonText}
                                         </button>
                                     </div>
                                 </div>
