@@ -14,7 +14,7 @@ export const metadata: Metadata = {
         description: "Explore CHORN's mission and expertise in delivering innovative software solutions across industries. Learn more about our journey.",
         images: [
             {
-                url: "/images/page-banner/page-banner-2.jpg",
+                url: "https://chorn.in.th/images/page-banner/page-banner-2.jpg",
                 width: 800,
                 height: 600,
                 alt: "CHORN About Banner Image",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "CHORN - Custom Software Solutions for Every Industry",
         description: "Learn about CHORN's innovative software services and our impact across industries. Partner with us for cutting-edge solutions.",
-        images: ["/images/page-banner/page-banner-2.jpg"],
+        images: ["https://chorn.in.th/images/page-banner/page-banner-2.jpg"],
     },
 };
 

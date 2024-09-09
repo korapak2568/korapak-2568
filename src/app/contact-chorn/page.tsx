@@ -16,7 +16,7 @@ export const metadata: Metadata = {
         description: "Get in touch with CHORN for expert custom software development solutions. We're here to answer your questions and provide support.",
         images: [
             {
-                url: "/images/page-banner/page-banner-4.jpg",
+                url: "https://chorn.in.th/images/page-banner/page-banner-4.jpg",
                 width: 800,
                 height: 600,
                 alt: "Contact CHORN Banner Image",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Contact CHORN - Let's Build Something Great Together",
         description: "Reach out to CHORN for custom software solutions tailored to your business needs. Contact us for inquiries or support.",
-        images: ["/images/page-banner/page-banner-4.jpg"],
+        images: ["https://chorn.in.th/images/page-banner/page-banner-4.jpg"],
     },
 };
 

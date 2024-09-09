@@ -16,7 +16,7 @@ export const metadata: Metadata = {
         description: "CHORN provides cutting-edge web development services with expertise in popular frameworks like Next.js, React, Angular, and more. We cater to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
         images: [
             {
-                url: "/chorn-images/metadata/frontend-development-services.png",
+                url: "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png",
                 width: 1200,
                 height: 630,
                 alt: "Web Development Services Banner",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Web Development Services | CHORN",
         description: "Discover CHORN’s expert web development services. From Next.js to Angular and beyond, we offer solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
-        images: ["/chorn-images/metadata/frontend-development-services.png"],
+        images: ["https://chorn.in.th/chorn-images/metadata/frontend-development-services.png"],
     },
     keywords: [
         "CHORN", "web development services", "Next.js", "React", "Angular", "Vue", "HTML5", "CSS3", "Node.js",
