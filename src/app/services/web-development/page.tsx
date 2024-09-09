@@ -32,7 +32,7 @@ export const metadata: Metadata = {
         images: ["https://chorn.in.th/chorn-images/metadata/frontend-development-services.png"],
     },
     keywords: [
-        "CHORN", "web development services", "Next.js", "React", "Angular", "Vue", "HTML5", "CSS3", "Node.js",
+        "CHORN", "web development services", "frontend developer", "backend developer", "Next.js", "React", "Angular", "Vue", "HTML5", "CSS3", "Node.js",
         ".NET Core API", "C#", "Java", "Spring Boot", "Python", "Flask", "Django", "Go-lang", "PHP", "Symfony",
         "Laravel", "AWS", "Azure", "GCP", "Digital Ocean", "Digital Marketing", "Blockchain", "DeFi",
         "Education Services", "E-Commerce", "Entrepreneur", "Restaurant", "Health Services", "Social Network"

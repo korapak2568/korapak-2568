@@ -16,7 +16,7 @@ force = true
 
 [[redirects]]
 from = "/back-end-development"
-to = "https://angular.chorn.in.th/back-end-development"
+to = "/services/fullstack-development/"
 status = 301
 force = true
 
@@ -28,13 +28,13 @@ force = true
 
 [[redirects]]
 from = "/front-end-development"
-to = "https://angular.chorn.in.th/front-end-development"
+to = "/services/frontend-development/"
 status = 301
 force = true
 
 [[redirects]]
 from = "/custom-software-development"
-to = "https://angular.chorn.in.th/custom-software-development"
+to = "/services/web-development/"
 status = 301
 force = true
 
@@ -52,7 +52,7 @@ force = true
 
 [[redirects]]
 from = "/single-page-application"
-to = "https://angular.chorn.in.th/single-page-application"
+to = "/services/frontend-development/"
 status = 301
 force = true
 
