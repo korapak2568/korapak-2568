@@ -1,6 +1,104 @@
 [build]
-    command = "yarn build"
-    publish = ".next"
+command = "yarn build"
+publish = "out"
 
-[[plugins]]
-    package = "@netlify/plugin-nextjs"
+[[redirects]]
+from = "/e-commerce-development"
+to = "https://angular.chorn.in.th/e-commerce-development"
+status = 301
+force = true
+
+[[redirects]]
+from = "/mvp"
+to = "https://angular.chorn.in.th/mvp"
+status = 301
+force = true
+
+[[redirects]]
+from = "/back-end-development"
+to = "https://angular.chorn.in.th/back-end-development"
+status = 301
+force = true
+
+[[redirects]]
+from = "/contact"
+to = "/contact-chorn"
+status = 301
+force = true
+
+[[redirects]]
+from = "/front-end-development"
+to = "https://angular.chorn.in.th/front-end-development"
+status = 301
+force = true
+
+[[redirects]]
+from = "/custom-software-development"
+to = "https://angular.chorn.in.th/custom-software-development"
+status = 301
+force = true
+
+[[redirects]]
+from = "/devops-and-testing"
+to = "/services/devops-testing/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/about-us/2"
+to = "/about-chorn"
+status = 301
+force = true
+
+[[redirects]]
+from = "/single-page-application"
+to = "https://angular.chorn.in.th/single-page-application"
+status = 301
+force = true
+
+[[redirects]]
+from = "/_next/static/media/7e6a2e30184bb114-s.p.woff2"
+to = "https://www.chorn.in.th/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/galleries"
+to = "/404"
+status = 301
+force = true
+
+[[redirects]]
+from = "/gits"
+to = "https://github.com/chorn-hub"
+status = 301
+force = true
+
+[[redirects]]
+from = "/microservices-technology"
+to = "https://angular.chorn.in.th/microservices-technology"
+status = 301
+force = true
+
+[[redirects]]
+from = "/responsive-web-design"
+to = "https://angular.chorn.in.th/responsive-web-design"
+status = 301
+force = true
+
+[[redirects]]
+from = "/scaling"
+to = "https://angular.chorn.in.th/scaling"
+status = 301
+force = true
+
+[[redirects]]
+from = "/src"
+to = "/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/*"
+to = "index.html"
+status = 200
