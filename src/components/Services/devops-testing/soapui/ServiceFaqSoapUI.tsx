@@ -10,8 +10,8 @@ import {
 } from "react-accessible-accordion";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IDetail} from "@/data/model/IDetail";
 import {IFaq} from "@/data/model/IFaq";
+import {sanitizeUUID} from "@/utils/chornUtils";
 
 const ServiceFaqSoapUI: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -23,7 +23,7 @@ const ServiceFaqSoapUI: React.FC = () => {
                     `${service.DEVOPS_TESTING_INFO.additions[7].faq[0].question}`
                 ]}>
                     {service.DEVOPS_TESTING_INFO.additions[7].faq.map((item: IFaq, index: number) => (
-                        <AccordionItem key={index} uuid={item.question}>
+                        <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
                                     <span>{item.question}</span>

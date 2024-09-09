@@ -26,6 +26,9 @@ const dm_sans = DM_Sans({subsets: ["latin"]});
 export const metadata: Metadata = {
     title: "CHORN | Digital Innovation & Custom Software Solutions",
     description: "Transform your business with CHORN’s digital innovation expertise. We provide state-of-the-art software solutions, scalable websites, and cutting-edge technologies like Blockchain, Web3, and more.",
+    icons: {
+        icon: '/favicon.ico',
+    },
     openGraph: {
         title: "CHORN - Leading Digital Innovation & Custom Software Development",
         description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
@@ -59,9 +62,6 @@ export const metadata: Metadata = {
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
     return (
         <html lang="en">
-        <Head>
-            <link rel="icon" href="/favicon.ico"/>
-        </Head>
         <body className={dm_sans.className}>
         <ProviderWrapper>
             <ConsentModal/>

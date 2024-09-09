@@ -61,8 +61,8 @@ const MainBanner: React.FC = () => {
                                             <Image
                                                 src="/chorn-images/services/services-11.jpg"
                                                 alt="image"
-                                                width={750}
-                                                height={650}
+                                                width={650}
+                                                height={500}
                                             />
                                         </div>
                                     </div>

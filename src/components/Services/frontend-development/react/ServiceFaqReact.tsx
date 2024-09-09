@@ -10,8 +10,8 @@ import {
 } from "react-accessible-accordion";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IDetail} from "@/data/model/IDetail";
 import {IFaq} from "@/data/model/IFaq";
+import {sanitizeUUID} from "@/utils/chornUtils";
 
 const ServiceFaqReact: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -22,7 +22,7 @@ const ServiceFaqReact: React.FC = () => {
                 <Accordion allowZeroExpanded
                            preExpanded={[`${service.FRONT_END_EXPERIENCE_INFO.additions[1].faq[0].question}`]}>
                     {service.FRONT_END_EXPERIENCE_INFO.additions[1].faq.map((item: IFaq, index: number) => (
-                        <AccordionItem key={index} uuid={item.question}>
+                        <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
                                     <span>{item.question}</span>

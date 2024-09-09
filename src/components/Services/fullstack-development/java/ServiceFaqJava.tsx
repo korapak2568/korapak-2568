@@ -11,6 +11,7 @@ import {
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {IFaq} from "@/data/model/IFaq";
+import {sanitizeUUID} from "@/utils/chornUtils";
 
 const ServiceFaqJava: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -22,7 +23,7 @@ const ServiceFaqJava: React.FC = () => {
                     `${service.FULL_STACK_FRAMEWORK_INFO.additions[2].faq[0].question}`
                 ]}>
                     {service.FULL_STACK_FRAMEWORK_INFO.additions[2].faq.map((item: IFaq, index: number) => (
-                        <AccordionItem key={index} uuid={item.question}>
+                        <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
                                     <span>{item.question}</span>
