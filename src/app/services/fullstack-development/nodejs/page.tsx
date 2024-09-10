@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Node.js Full Stack Development | CHORN",
     description: "CHORN offers Node.js full stack development services for building scalable and efficient applications.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/fullstack-development/nodejs/",
+    },
     openGraph: {
         title: "Node.js Development | CHORN",
         description: "Build scalable and high-performance applications with CHORN’s Node.js full stack development services.",

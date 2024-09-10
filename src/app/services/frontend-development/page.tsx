@@ -11,6 +11,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Frontend Development Services | CHORN",
     description: "CHORN provides expert frontend development services, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/frontend-development/",
+    },
     openGraph: {
         title: "Frontend Development Services | CHORN",
         description: "CHORN offers frontend development services using modern technologies like Next.js, React, Angular, Vue, HTML5, and CSS3 to build fast, responsive, and scalable websites.",

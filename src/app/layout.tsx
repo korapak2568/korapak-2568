@@ -28,6 +28,9 @@ export const metadata: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
+    alternates: {
+        canonical: 'https://chorn.in.th', // Add canonical URL here
+    },
     openGraph: {
         title: "CHORN - Leading Digital Innovation & Custom Software Development",
         description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
@@ -63,7 +66,9 @@ export const metadata: Metadata = {
         "software development chiangmai", "front end developer thailand", "full stack developer thailand",
         "director of engineering thailand", "head of engineering department thailand",
         "front end architecture", "full stack engineer", "web developer jobs in thailand", "head of software development",
-        "head of software development thailand", "head of software engineering", "head of software engineering thailand"
+        "head of software development thailand", "head of software engineering", "head of software engineering thailand",
+        "software outsourcing chiangmai", "software developer thailand", "software outsourcing services",
+        "software outsourcing companies", "microservices developer"
     ],
 };
 

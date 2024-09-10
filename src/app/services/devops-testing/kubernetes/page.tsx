@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Kubernetes DevOps Services | CHORN",
     description: "CHORN provides Kubernetes-based DevOps services for automating deployment, scaling, and management of containerized applications.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/devops-testing/kubernetes/",
+    },
     openGraph: {
         title: "Kubernetes DevOps Services | CHORN",
         description: "Optimize your infrastructure with CHORN’s Kubernetes DevOps services for automated scaling and management of applications.",

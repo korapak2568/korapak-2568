@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "DevOps & Testing Services | CHORN",
     description: "CHORN offers expert DevOps and testing services to streamline your software development process. Ensure high performance and quality with our continuous integration, automated testing, and cloud-based solutions.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/devops-testing/",
+    },
     openGraph: {
         title: "DevOps & Testing Services | CHORN",
         description: "Leverage CHORN’s DevOps and testing services to enhance your software delivery with automation, continuous integration, and reliable testing solutions.",

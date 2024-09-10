@@ -17,11 +17,11 @@ const ServicesDetailsTypeScript: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="services-details-desc">
-                                <h3>{service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[0].title}</h3>
-                                <p>{service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[0].description}</p>
+                                <h3>{service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[0].title}</h3>
+                                <p>{service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[0].description}</p>
 
-                                <h3>{service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[1].title}</h3>
-                                <p>{service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[1].description}</p>
+                                <h3>{service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[1].title}</h3>
+                                <p>{service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[1].description}</p>
 
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
@@ -38,7 +38,7 @@ const ServicesDetailsTypeScript: React.FC = () => {
 
                                         <div className="col-lg-6">
                                             <ul className="features-list">
-                                                {service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[1].list.map((item: string, index: number) => (
+                                                {service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[1].list.map((item: string, index: number) => (
                                                     <li key={index}>
                                                         <i className="flaticon-check"></i> {item}
                                                     </li>
@@ -48,11 +48,11 @@ const ServicesDetailsTypeScript: React.FC = () => {
                                     </div>
                                 </div>
 
-                                <h3>{service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[2].title}</h3>
-                                <p>{service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[2].description}</p>
+                                <h3>{service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[2].title}</h3>
+                                <p>{service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[2].description}</p>
 
-                                <h3>{service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[3].title}</h3>
-                                <p>{service.FULL_STACK_FRAMEWORK_INFO.additions[1].details[3].description}</p>
+                                <h3>{service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[3].title}</h3>
+                                <p>{service.FULL_STACK_FRAMEWORK_INFO.additions2[0].details[3].description}</p>
 
                                 <ServiceFaqTypeScript/>
                             </div>

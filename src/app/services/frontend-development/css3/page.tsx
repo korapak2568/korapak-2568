@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "CSS3 Development Services | CHORN",
     description: "Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/frontend-development/css3/",
+    },
     openGraph: {
         title: "CSS3 Development | CHORN",
         description: "CHORN offers CSS3 development services to create stylish and responsive web designs.",

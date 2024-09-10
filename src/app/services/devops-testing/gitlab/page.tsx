@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "GitLab DevOps Services | CHORN",
     description: "CHORN provides GitLab-based DevOps services for continuous integration, automation, and version control solutions.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/devops-testing/gitlab/",
+    },
     openGraph: {
         title: "GitLab DevOps Services | CHORN",
         description: "Boost your DevOps pipeline with CHORN’s GitLab services for CI/CD, version control, and automation.",

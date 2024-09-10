@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Go Full Stack Development | CHORN",
     description: "CHORN offers Go full stack development services for building efficient and scalable web applications.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/fullstack-development/go-lang/",
+    },
     openGraph: {
         title: "Go Development | CHORN",
         description: "Build efficient and scalable web applications with CHORN’s Go full stack development services.",

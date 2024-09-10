@@ -20,9 +20,9 @@ const ServiceFaqTypeScript: React.FC = () => {
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${service.FULL_STACK_FRAMEWORK_INFO.additions[1].faq[0].question}`
+                    `${service.FULL_STACK_FRAMEWORK_INFO.additions2[0].faq[0].question}`
                 ]}>
-                    {service.FULL_STACK_FRAMEWORK_INFO.additions[1].faq.map((item: IFaq, index: number) => (
+                    {service.FULL_STACK_FRAMEWORK_INFO.additions2[0].faq.map((item: IFaq, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>

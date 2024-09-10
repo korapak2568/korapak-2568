@@ -11,6 +11,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Full-Stack Development Services | CHORN",
     description: "CHORN offers expert full-stack development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/fullstack-development/",
+    },
     openGraph: {
         title: "Full-Stack Development Services | CHORN",
         description: "CHORN provides full-stack development services with expertise in Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build powerful and scalable applications for your business.",

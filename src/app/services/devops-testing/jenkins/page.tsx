@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Jenkins DevOps Services | CHORN",
     description: "CHORN offers Jenkins-based DevOps services for automating builds, testing, and deployment in your development pipeline.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/devops-testing/jenkins/",
+    },
     openGraph: {
         title: "Jenkins DevOps Services | CHORN",
         description: "Automate your development process with CHORN’s Jenkins DevOps services for continuous integration and deployment.",

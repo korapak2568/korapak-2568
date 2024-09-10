@@ -11,6 +11,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Contact Us | CHORN - Get in Touch for Custom Software Solutions",
     description: "Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need.",
+    alternates: {
+        canonical: "https://chorn.in.th/contact-chorn/",
+    },
     openGraph: {
         title: "Contact CHORN - Custom Software Development Experts",
         description: "Get in touch with CHORN for expert custom software development solutions. We're here to answer your questions and provide support.",

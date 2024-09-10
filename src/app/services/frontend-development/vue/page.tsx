@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Vue.js Development Services | CHORN",
     description: "CHORN specializes in Vue.js development to create interactive and scalable web applications.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/frontend-development/vue/",
+    },
     openGraph: {
         title: "Vue.js Development | CHORN",
         description: "Expert Vue.js development services by CHORN for building modern web applications.",

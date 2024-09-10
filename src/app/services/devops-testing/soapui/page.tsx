@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "SoapUI Testing Services | CHORN",
     description: "CHORN provides expert SoapUI testing services to ensure your web services and APIs are thoroughly tested and reliable.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/devops-testing/soapui/",
+    },
     openGraph: {
         title: "SoapUI Testing | CHORN",
         description: "Ensure the reliability of your APIs and web services with CHORN’s SoapUI testing services.",

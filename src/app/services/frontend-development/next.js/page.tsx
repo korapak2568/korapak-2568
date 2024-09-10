@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Next.js Development Services | CHORN",
     description: "Expert Next.js development services by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/frontend-development/next.js",
+    },
     openGraph: {
         title: "Next.js Development | CHORN",
         description: "CHORN offers specialized Next.js development services to create fast and scalable web applications.",

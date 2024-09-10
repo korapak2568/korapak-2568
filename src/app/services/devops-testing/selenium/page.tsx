@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Selenium Testing Services | CHORN",
     description: "CHORN offers comprehensive Selenium testing services to ensure the quality and performance of your applications through automated testing.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/devops-testing/selenium/",
+    },
     openGraph: {
         title: "Selenium Testing | CHORN",
         description: "Automate your application testing with CHORN’s Selenium services for robust and reliable results.",

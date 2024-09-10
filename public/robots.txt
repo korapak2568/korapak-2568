@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.chorn.in.th
+
+# Sitemaps
+Sitemap: https://www.chorn.in.th/sitemap.xml

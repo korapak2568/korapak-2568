@@ -404,58 +404,59 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             ],
             icon: ""
         },
+    ],
+    additions2: [
+        {
+            title: "TypeScript",
+            description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
+            image: "/chorn-images/services/fullstack-development/typescript.png",
+            readMore: "Read More",
+            link: "/services/fullstack-development/typescript",
+            details: [
+                {
+                    title: "TypeScript and JavaScript",
+                    description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
+                    list: []
+                },
+                {
+                    title: "Enhanced Code Quality",
+                    description: "TypeScript's type-checking features ensure that potential errors are identified during the development phase, reducing runtime errors. This results in more reliable and maintainable code, especially for large-scale applications.",
+                    list: [
+                        "Static typing",
+                        "Improved code quality",
+                        "Error checking",
+                        "JavaScript compatibility",
+                        "Enhanced IDE support",
+                        "Object-oriented features",
+                        "Large community"
+                    ]
+                },
+                {
+                    title: "Improved Developer Productivity",
+                    description: "With TypeScript, developers benefit from advanced features like type inference, interfaces, and generics. These features streamline the coding process, making it easier to understand and manage complex codebases, thus boosting productivity.",
+                    list: []
+                },
+                {
+                    title: "Seamless Integration",
+                    description: "TypeScript seamlessly integrates with modern JavaScript frameworks and libraries, such as React, Angular, and Vue.js. Its interoperability allows developers to gradually adopt TypeScript in existing projects without major rewrites, facilitating a smooth transition and immediate benefits.",
+                    list: []
+                }
+            ],
+            faq: [
+                {
+                    question: "What is TypeScript?",
+                    answer: "TypeScript is a superset of JavaScript that adds static typing and other features."
+                },
+                {
+                    question: "Why use TypeScript over JavaScript?",
+                    answer: "TypeScript provides static typing, which helps catch errors early and improve code quality."
+                },
+                {
+                    question: "Can TypeScript run in the browser?",
+                    answer: "TypeScript is compiled to JavaScript, which can run in any browser."
+                }
+            ],
+            icon: ""
+        },
     ]
 }
-
-// {
-//     title: "TypeScript",
-//         description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
-//     image: "/chorn-images/services/fullstack-development/typescript.png",
-//     readMore: "Read More",
-//     link: "/services/fullstack-development/typescript",
-//     details: [
-//     {
-//         title: "TypeScript and JavaScript",
-//         description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
-//         list: []
-//     },
-//     {
-//         title: "Enhanced Code Quality",
-//         description: "TypeScript's type-checking features ensure that potential errors are identified during the development phase, reducing runtime errors. This results in more reliable and maintainable code, especially for large-scale applications.",
-//         list: [
-//             "Static typing",
-//             "Improved code quality",
-//             "Error checking",
-//             "JavaScript compatibility",
-//             "Enhanced IDE support",
-//             "Object-oriented features",
-//             "Large community"
-//         ]
-//     },
-//     {
-//         title: "Improved Developer Productivity",
-//         description: "With TypeScript, developers benefit from advanced features like type inference, interfaces, and generics. These features streamline the coding process, making it easier to understand and manage complex codebases, thus boosting productivity.",
-//         list: []
-//     },
-//     {
-//         title: "Seamless Integration",
-//         description: "TypeScript seamlessly integrates with modern JavaScript frameworks and libraries, such as React, Angular, and Vue.js. Its interoperability allows developers to gradually adopt TypeScript in existing projects without major rewrites, facilitating a smooth transition and immediate benefits.",
-//         list: []
-//     }
-// ],
-//     faq: [
-//     {
-//         question: "What is TypeScript?",
-//         answer: "TypeScript is a superset of JavaScript that adds static typing and other features."
-//     },
-//     {
-//         question: "Why use TypeScript over JavaScript?",
-//         answer: "TypeScript provides static typing, which helps catch errors early and improve code quality."
-//     },
-//     {
-//         question: "Can TypeScript run in the browser?",
-//         answer: "TypeScript is compiled to JavaScript, which can run in any browser."
-//     }
-// ],
-//     icon: ""
-// },

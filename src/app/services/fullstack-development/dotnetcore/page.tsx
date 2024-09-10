@@ -11,6 +11,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: ".NET Core Full Stack Development | CHORN",
     description: "CHORN offers .NET Core full stack development services to build modern, scalable, and secure web applications.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/fullstack-development/dotnetcore/",
+    },
     openGraph: {
         title: ".NET Core Development | CHORN",
         description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core full stack development services.",

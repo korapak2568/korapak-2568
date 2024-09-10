@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Appium Testing Services | CHORN",
     description: "CHORN offers Appium testing services for automated mobile app testing across multiple platforms to ensure high-quality performance.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/devops-testing/appium/",
+    },
     openGraph: {
         title: "Appium Testing | CHORN",
         description: "Automate your mobile app testing with CHORN’s Appium services for comprehensive cross-platform testing.",

@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Postman API Testing Services | CHORN",
     description: "CHORN provides API testing services using Postman to ensure the reliability and performance of your web services.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/devops-testing/postman/",
+    },
     openGraph: {
         title: "Postman API Testing Services | CHORN",
         description: "Ensure your APIs function as expected with CHORN’s Postman-based API testing services.",

@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "Java Spring Boot Full Stack Development | CHORN",
     description: "CHORN offers Java Spring Boot full stack development services to build robust and scalable enterprise applications.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/fullstack-development/java-spring-boot/",
+    },
     openGraph: {
         title: "Java Spring Boot Development | CHORN",
         description: "Leverage CHORN’s Java Spring Boot full stack development services to build scalable, secure, and high-performance applications.",

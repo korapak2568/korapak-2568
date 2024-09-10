@@ -10,6 +10,9 @@ import {Metadata} from "next";
 export const metadata: Metadata = {
     title: "HTML5 Development Services | CHORN",
     description: "CHORN offers expert HTML5 development services to create responsive and engaging web applications.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/frontend-development/html5/",
+    },
     openGraph: {
         title: "HTML5 Development | CHORN",
         description: "Build modern and interactive web applications with CHORN’s HTML5 development services.",

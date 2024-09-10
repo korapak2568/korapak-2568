@@ -5,10 +5,13 @@ import AboutContent from "../../components/AboutUs/AboutContent";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import type {Metadata} from "next";
 
-// Define metadata for the Contact page
 export const metadata: Metadata = {
     title: "About Us | CHORN - Custom Software Development Experts",
-    description: "Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology.",
+    description: "Discover CHORN's innovative custom software development solutions and how we empower industries with " +
+        "cutting-edge technology.",
+    alternates: {
+        canonical: "https://chorn.in.th/about-chorn/",
+    },
     openGraph: {
         title: "CHORN - Leaders in Custom Software Development",
         description: "Explore CHORN's mission and expertise in delivering innovative software solutions across industries. Learn more about our journey.",
