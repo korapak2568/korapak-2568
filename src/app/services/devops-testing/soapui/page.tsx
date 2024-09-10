@@ -1,27 +1,55 @@
-"use client";
-
 import React from "react";
 import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsSoapUI from "@/components/Services/devops-testing/soapui/ServicesDetailsSoapUI";
+import {INFO} from "@/data/INFO";
+import {Metadata} from "next";
+
+export const metadata: Metadata = {
+    title: "SoapUI Testing Services | CHORN",
+    description: "CHORN provides expert SoapUI testing services to ensure your web services and APIs are thoroughly tested and reliable.",
+    openGraph: {
+        title: "SoapUI Testing | CHORN",
+        description: "Ensure the reliability of your APIs and web services with CHORN’s SoapUI testing services.",
+        images: [
+            {
+                url: "https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-soapui.png",
+                width: 500,
+                height: 500,
+                alt: "SoapUI Testing Banner"
+            }
+        ],
+        url: "https://chorn.in.th/services/devops-testing/soapui/",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "SoapUI Testing Services | CHORN",
+        description: "Optimize your API testing with CHORN’s SoapUI services for comprehensive and reliable web service testing.",
+        images: ["https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-soapui.png",],
+    },
+    keywords: [
+        "SoapUI testing", "API testing", "CHORN", "DevOps testing",
+        "web service testing", "reliable testing", "test automation",
+        "quality assurance", "software testing", "API reliability",
+        "testing services Thailand", "SoapUI services", "web application testing"
+    ]
+};
 
 const Page = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <Navbar/>
 
             <PageBanner
-                pageTitle={service.DEVOPS_TESTING_INFO.additions[7].details[0].title}
+                pageTitle={INFO.DEVOPS_TESTING_INFO.additions[7].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={service.DEVOPS_TESTING_INFO.title}
-                BGImage={service.IMAGES.pageBanner.cover1.path}
+                activePageText={INFO.DEVOPS_TESTING_INFO.title}
+                BGImage={INFO.IMAGES.pageBanner.cover1.path}
             />
 
             <ServicesDetailsSoapUI/>

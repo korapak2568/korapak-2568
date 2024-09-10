@@ -49,12 +49,19 @@ export const metadata: Metadata = {
         images: ["https://chorn.in.th/chorn-images/services/services-11.jpg"],
     },
     keywords: [
-        "CHORN", "custom software development", "software engineer", "software developer", "web developer",
-        "mobile developer", "frontend developer", "full stack developer", "react developer", "angular developer",
-        "java developer", "java spring boot developer", ".net core developer", "node.js developer", "php developer",
-        "API developer", "backend developer", "head of engineering", "director of engineering", "head of technology",
-        "system analyst", "software development manager", "full-stack development", "blockchain", "web3", "react.js",
-        "next.js", "spring boot", "digital innovation", "enterprise software", "scalable websites"
+        "CHORN", "custom software development", "custom software development companies", "software engineer",
+        "full stack developer", "frontend developer", "backend developer", "mobile developer", "web developer",
+        "react developer", "angular developer", "java developer", "node.js developer", ".net core developer",
+        "php developer", "API developer", "blockchain development", "web3", "digital innovation",
+        "enterprise software", "scalable websites", "software developer thailand", "software developer chiangmai",
+        "software developer bangkok", "software developer remote jobs", "software engineer thailand",
+        "head of engineering", "director of engineering", "IT project manager", "software development manager",
+        "head of technology", "system analyst", "full stack development", "spring boot", "next.js",
+        "react.js", "front end framework", "full stack web developer", "front end back end development",
+        "software development chiangmai", "front end developer thailand", "full stack developer thailand",
+        "director of engineering thailand", "head of engineering department thailand",
+        "front end architecture", "full stack engineer", "web developer jobs in thailand", "head of software development",
+        "head of software development thailand", "head of software engineering", "head of software engineering thailand"
     ],
 };
 

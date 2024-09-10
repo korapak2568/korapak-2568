@@ -1,28 +1,50 @@
-"use client";
-
 import React from "react";
 import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
-import RelatedServices from "../../../../components/Services/RelatedServices";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import ServicesDetailsCss3 from "@/components/Services/frontend-development/css3/ServicesDetailsCss3";
 import CloudExperience from "@/components/Common/CloudExperience";
+import {INFO} from "@/data/INFO";
+import {Metadata} from "next";
+
+export const metadata: Metadata = {
+    title: "CSS3 Development Services | CHORN",
+    description: "Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs.",
+    openGraph: {
+        title: "CSS3 Development | CHORN",
+        description: "CHORN offers CSS3 development services to create stylish and responsive web designs.",
+        images: [
+            {
+                url: "https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-css3.png",
+                width: 500,
+                height: 500,
+                alt: "CSS3 Development Banner"
+            }
+        ],
+        url: "https://chorn.in.th/services/frontend-development/css3/",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "CSS3 Development Services | CHORN",
+        description: "Create visually stunning web designs with CSS3. CHORN provides expert CSS3 development services.",
+        images: ["https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-css3.png"],
+    },
+    keywords: ["CSS3 development", "CSS3 services", "CHORN", "frontend development"]
+};
 
 const Page = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <Navbar/>
 
             <PageBanner
-                pageTitle={service.FRONT_END_EXPERIENCE_INFO.additions[5].details[0].title}
+                pageTitle={INFO.FRONT_END_EXPERIENCE_INFO.additions[5].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={service.FRONT_END_EXPERIENCE_INFO.title}
-                BGImage={service.IMAGES.pageBanner.cover1.path}
+                activePageText={INFO.FRONT_END_EXPERIENCE_INFO.title}
+                BGImage={INFO.IMAGES.pageBanner.cover1.path}
             />
 
             <ServicesDetailsCss3/>

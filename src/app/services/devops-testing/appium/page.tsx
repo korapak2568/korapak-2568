@@ -1,27 +1,55 @@
-"use client";
-
 import React from "react";
 import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsAppium from "@/components/Services/devops-testing/appium/ServicesDetailsAppium";
+import {INFO} from "@/data/INFO";
+import {Metadata} from "next";
+
+export const metadata: Metadata = {
+    title: "Appium Testing Services | CHORN",
+    description: "CHORN offers Appium testing services for automated mobile app testing across multiple platforms to ensure high-quality performance.",
+    openGraph: {
+        title: "Appium Testing | CHORN",
+        description: "Automate your mobile app testing with CHORN’s Appium services for comprehensive cross-platform testing.",
+        images: [
+            {
+                url: "https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-appium.png",
+                width: 500,
+                height: 500,
+                alt: "Appium Testing Banner"
+            }
+        ],
+        url: "https://chorn.in.th/services/devops-testing/appium/",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "Appium Testing Services | CHORN",
+        description: "Ensure your mobile apps perform flawlessly with CHORN’s Appium testing services for thorough and automated cross-platform testing.",
+        images: ["https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-appium.png",],
+    },
+    keywords: [
+        "Appium testing", "mobile app testing", "CHORN", "DevOps testing",
+        "cross-platform testing", "test automation", "quality assurance",
+        "mobile testing services", "software testing", "app performance",
+        "testing services Thailand", "Appium services", "mobile application testing"
+    ]
+};
 
 const Page = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <Navbar/>
 
             <PageBanner
-                pageTitle={service.DEVOPS_TESTING_INFO.additions[8].details[0].title}
+                pageTitle={INFO.DEVOPS_TESTING_INFO.additions[8].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={service.DEVOPS_TESTING_INFO.title}
-                BGImage={service.IMAGES.pageBanner.cover1.path}
+                activePageText={INFO.DEVOPS_TESTING_INFO.title}
+                BGImage={INFO.IMAGES.pageBanner.cover1.path}
             />
 
             <ServicesDetailsAppium/>

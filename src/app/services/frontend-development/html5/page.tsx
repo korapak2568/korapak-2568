@@ -1,28 +1,54 @@
-"use client";
-
 import React from "react";
 import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
-import RelatedServices from "../../../../components/Services/RelatedServices";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import ServicesDetailsHtml5 from "@/components/Services/frontend-development/html5/ServicesDetailsHtml5";
 import CloudExperience from "@/components/Common/CloudExperience";
+import {INFO} from "@/data/INFO";
+import {Metadata} from "next";
+
+export const metadata: Metadata = {
+    title: "HTML5 Development Services | CHORN",
+    description: "CHORN offers expert HTML5 development services to create responsive and engaging web applications.",
+    openGraph: {
+        title: "HTML5 Development | CHORN",
+        description: "Build modern and interactive web applications with CHORN’s HTML5 development services.",
+        images: [
+            {
+                url: "https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-html5.png",
+                width: 500,
+                height: 500,
+                alt: "HTML5 Development Banner"
+            }
+        ],
+        url: "https://chorn.in.th/services/frontend-development/html5/",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "HTML5 Development Services | CHORN",
+        description: "Create interactive web apps with HTML5. CHORN provides expert HTML5 development services.",
+        images: ["https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-html5.png",],
+    },
+    keywords: [
+        "HTML5 development", "HTML5 services", "CHORN", "frontend development",
+        "custom software development", "scalable web applications", "web developer", "software engineer",
+        "enterprise software", "single-page applications", "dynamic user interfaces", "high-performance applications",
+        "custom web applications", "software developer thailand", "digital innovation", "full stack developer"
+    ]
+};
 
 const Page = () => {
-    const service = useSelector((state: RootState) => state.service.value);
-
     return (
         <>
             <Navbar/>
 
             <PageBanner
-                pageTitle={service.FRONT_END_EXPERIENCE_INFO.additions[4].details[0].title}
+                pageTitle={INFO.FRONT_END_EXPERIENCE_INFO.additions[4].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={service.FRONT_END_EXPERIENCE_INFO.title}
-                BGImage={service.IMAGES.pageBanner.cover1.path}
+                activePageText={INFO.FRONT_END_EXPERIENCE_INFO.title}
+                BGImage={INFO.IMAGES.pageBanner.cover1.path}
             />
 
             <ServicesDetailsHtml5/>

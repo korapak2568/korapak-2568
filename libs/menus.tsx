@@ -12,6 +12,14 @@ export const menus = [
                 link: "/services/web-development",
             },
             {
+                label: "Front-End Development",
+                link: "/services/frontend-development",
+            },
+            {
+                label: "Full-Stack Development",
+                link: "/services/fullstack-development",
+            },
+            {
                 label: "Web3 & Blockchain",
                 link: "/services/web3-blockchain-smart-contract-development",
             },

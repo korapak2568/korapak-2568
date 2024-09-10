@@ -5,6 +5,12 @@ export const IMAGES = {
             path: "/chorn-images/logo/chorn-logo-circle.png"
         }
     },
+    banner: {
+        banner1: {
+            title: "CHORN Banner Image",
+            path: "/chorn-images/banner/chorn-banner-1.png"
+        }
+    },
     pageBanner: {
         cover1: {
             title: 'Cover-1',

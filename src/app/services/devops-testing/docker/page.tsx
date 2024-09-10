@@ -1,27 +1,53 @@
-"use client";
-
 import React from "react";
 import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsDocker from "@/components/Services/devops-testing/docker/ServicesDetailsDocker";
+import {INFO} from "@/data/INFO";
+import {Metadata} from "next";
+
+export const metadata: Metadata = {
+    title: "Docker DevOps Services | CHORN",
+    description: "CHORN offers Docker-based DevOps services for efficient containerization and scalable application deployment.",
+    openGraph: {
+        title: "Docker DevOps Services | CHORN",
+        description: "Leverage Docker for containerization and scalable software deployment with CHORN’s expert DevOps services.",
+        images: [
+            {
+                url: "https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-docker.png",
+                width: 500,
+                height: 500,
+                alt: "Docker DevOps Banner"
+            }
+        ],
+        url: "https://chorn.in.th/services/devops-testing/docker/",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "Docker DevOps Services | CHORN",
+        description: "Expert Docker DevOps services from CHORN for containerization and scalable application deployment.",
+        images: ["https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-docker.png"],
+    },
+    keywords: [
+        "Docker DevOps", "Docker services", "containerization", "CHORN", "DevOps", "scalable deployment",
+        "custom software development", "cloud-based applications", "DevOps thailand", "docker containers"
+    ]
+};
 
 const Page = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <Navbar/>
 
             <PageBanner
-                pageTitle={service.DEVOPS_TESTING_INFO.additions[0].details[0].title}
+                pageTitle={INFO.DEVOPS_TESTING_INFO.additions[0].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={service.DEVOPS_TESTING_INFO.title}
-                BGImage={service.IMAGES.pageBanner.cover1.path}
+                activePageText={INFO.DEVOPS_TESTING_INFO.title}
+                BGImage={INFO.IMAGES.pageBanner.cover1.path}
             />
 
             <ServicesDetailsDocker/>
