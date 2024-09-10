@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "Ensure your APIs function as expected with CHORN’s Postman-based API testing services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-postman.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/postman.png",
+                width: 1200,
+                height: 630,
                 alt: "Postman API Testing Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Postman API Testing Services | CHORN",
         description: "CHORN offers Postman-based API testing services to validate your web services’ reliability and performance.",
-        images: ["https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-postman.png",],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/postman.png",
+        ],
     },
     keywords: [
         "Postman API testing", "Postman services", "API testing", "DevOps", "automated API testing", "CHORN",

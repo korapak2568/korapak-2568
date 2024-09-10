@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "Leverage Docker for containerization and scalable software deployment with CHORN’s expert DevOps services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-docker.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/docker.png",
+                width: 1200,
+                height: 630,
                 alt: "Docker DevOps Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Docker DevOps Services | CHORN",
         description: "Expert Docker DevOps services from CHORN for containerization and scalable application deployment.",
-        images: ["https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-docker.png"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/docker.png",
+        ],
     },
     keywords: [
         "Docker DevOps", "Docker services", "containerization", "CHORN", "DevOps", "scalable deployment",

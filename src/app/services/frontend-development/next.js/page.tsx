@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "CHORN offers specialized Next.js development services to create fast and scalable web applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-nextjs.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/nextjs-development-service.png",
+                width: 1200,
+                height: 630,
                 alt: "Next.js Development Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Next.js Development Services | CHORN",
         description: "Elevate your web applications with expert Next.js development services from CHORN.",
-        images: ["https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-nextjs.png"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/nextjs-development-service.png",
+        ],
     },
     keywords: [
         "Next.js development", "Next.js services", "CHORN", "React.js development", "frontend development",

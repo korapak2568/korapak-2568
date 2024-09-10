@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "Build modern and interactive web applications with CHORN’s HTML5 development services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-html5.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/html5-development-service.png",
+                width: 1200,
+                height: 630,
                 alt: "HTML5 Development Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "HTML5 Development Services | CHORN",
         description: "Create interactive web apps with HTML5. CHORN provides expert HTML5 development services.",
-        images: ["https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-html5.png",],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/html5-development-service.png",
+        ],
     },
     keywords: [
         "HTML5 development", "HTML5 services", "CHORN", "frontend development",

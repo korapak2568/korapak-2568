@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "Build efficient and scalable web applications with CHORN’s Go full stack development services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/fullstack-development/service-detail-go.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/go-development-service.png",
+                width: 1200,
+                height: 630,
                 alt: "Go Development Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Go Full Stack Development | CHORN",
         description: "Expert Go full stack development services from CHORN for efficient and scalable web applications.",
-        images: ["https://chorn.in.th/chorn-images/services-details/fullstack-development/service-detail-go.png"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/go-development-service.png",
+        ],
     },
     keywords: [
         "Go development", "Go services", "CHORN", "full stack development", "custom software development",

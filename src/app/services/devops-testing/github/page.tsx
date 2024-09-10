@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "Enhance your development workflow with CHORN’s GitHub-based DevOps services for CI/CD and version control.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-github.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/github.png",
+                width: 1200,
+                height: 630,
                 alt: "GitHub DevOps Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "GitHub DevOps Services | CHORN",
         description: "Streamline your development with CHORN’s GitHub DevOps services for version control and CI/CD workflows.",
-        images: ["https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-github.png",],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/github.png",
+        ],
     },
     keywords: [
         "GitHub DevOps", "GitHub services", "version control", "CI/CD", "DevOps", "custom software development",

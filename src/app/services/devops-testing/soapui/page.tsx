@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "Ensure the reliability of your APIs and web services with CHORN’s SoapUI testing services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-soapui.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/soapui.png",
+                width: 1200,
+                height: 630,
                 alt: "SoapUI Testing Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "SoapUI Testing Services | CHORN",
         description: "Optimize your API testing with CHORN’s SoapUI services for comprehensive and reliable web service testing.",
-        images: ["https://chorn.in.th/chorn-images/services-details/devops-testing/service-detail-soapui.png",],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/soapui.png",
+        ],
     },
     keywords: [
         "SoapUI testing", "API testing", "CHORN", "DevOps testing",

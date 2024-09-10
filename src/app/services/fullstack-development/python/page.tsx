@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "Build dynamic and scalable web applications with CHORN’s Python full stack development services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/fullstack-development/service-detail-python.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/python-development-service.png",
+                width: 1200,
+                height: 630,
                 alt: "Python Development Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Python Full Stack Development | CHORN",
         description: "Expert Python full stack development services from CHORN for dynamic and scalable web applications.",
-        images: ["https://chorn.in.th/chorn-images/services-details/fullstack-development/service-detail-python.png"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/python-development-service.png",
+        ],
     },
     keywords: [
         "Python development", "Python services", "CHORN", "full stack development", "custom software development",

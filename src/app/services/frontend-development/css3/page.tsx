@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "CHORN offers CSS3 development services to create stylish and responsive web designs.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-css3.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/css3-development-service.png",
+                width: 1200,
+                height: 630,
                 alt: "CSS3 Development Banner"
             }
         ],
@@ -28,7 +28,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "CSS3 Development Services | CHORN",
         description: "Create visually stunning web designs with CSS3. CHORN provides expert CSS3 development services.",
-        images: ["https://chorn.in.th/chorn-images/services-details/frontend-development/service-detail-css3.png"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/css3-development-service.png",
+        ],
     },
     keywords: ["CSS3 development", "CSS3 services", "CHORN", "frontend development"]
 };
