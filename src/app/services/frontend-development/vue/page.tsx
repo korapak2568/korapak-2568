@@ -6,6 +6,7 @@ import ServicesDetailsVue from "@/components/Services/frontend-development/vue/S
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "Vue.js Development Services | CHORN",
@@ -61,6 +62,12 @@ const Page = () => {
             <CloudExperience/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="Vue.js Development Services | CHORN"
+                description="CHORN specializes in Vue.js development to create interactive and scalable web applications."
+                url="https://chorn.in.th/services/frontend-development/vue/"
+            />
         </>
     );
 };

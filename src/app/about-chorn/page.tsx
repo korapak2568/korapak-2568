@@ -4,11 +4,11 @@ import Footer from "../../components/Layouts/Footer";
 import AboutContent from "../../components/AboutUs/AboutContent";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import type {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "About Us | CHORN - Custom Software Development Experts",
-    description: "Discover CHORN's innovative custom software development solutions and how we empower industries with " +
-        "cutting-edge technology.",
+    description: "Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology.",
     alternates: {
         canonical: "https://chorn.in.th/about-chorn/",
     },
@@ -58,6 +58,12 @@ export default function Page() {
             <WeWorkForIndustries/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="About Us | CHORN - Custom Software Development Experts"
+                description="Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology."
+                url="https://chorn.in.th/about-chorn/"
+            />
         </>
     );
 }

@@ -2,7 +2,7 @@ export const IMAGES = {
     logo: {
         circle: {
             title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-circle.png"
+            path: "/chorn-images/logo/business-logo.png"
         }
     },
     banner: {

@@ -7,6 +7,7 @@ import ServicesCardFullStack from "@/components/Services/fullstack-development/S
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "Full-Stack Development Services | CHORN",
@@ -65,7 +66,14 @@ const Page = () => {
             <CloudExperience/>
 
             <WeWorkForIndustries/>
+
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="Full-Stack Development Services | CHORN"
+                description="CHORN offers expert full-stack development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions."
+                url="https://chorn.in.th/services/fullstack-development/"
+            />
         </>
     );
 };

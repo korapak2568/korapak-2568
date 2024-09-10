@@ -6,6 +6,7 @@ import SubscribeForm from "../../components/Common/SubscribeForm";
 import ContactInfo from "../../components/Contact/ContactInfo";
 import ContactForm from "../../components/Contact/ContactForm";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 // Define metadata for the Contact page
 export const metadata: Metadata = {
@@ -58,6 +59,12 @@ export default function Page() {
             <SubscribeForm/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="Contact Us | CHORN - Get in Touch for Custom Software Solutions"
+                description="Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need."
+                url="https://chorn.in.th/contact-chorn/"
+            />
         </>
     );
 }

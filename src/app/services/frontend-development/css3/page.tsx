@@ -6,6 +6,7 @@ import ServicesDetailsCss3 from "@/components/Services/frontend-development/css3
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "CSS3 Development Services | CHORN",
@@ -57,6 +58,12 @@ const Page = () => {
             <CloudExperience/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="CSS3 Development Services | CHORN"
+                description="Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs."
+                url="https://chorn.in.th/services/frontend-development/css3/"
+            />
         </>
     );
 };

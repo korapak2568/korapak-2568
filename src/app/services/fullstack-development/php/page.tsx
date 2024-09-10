@@ -6,6 +6,7 @@ import ServicesDetailsPhp from "@/components/Services/fullstack-development/php/
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "PHP Full Stack Development | CHORN",
@@ -61,6 +62,12 @@ const Page = () => {
             <CloudExperience/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="PHP Full Stack Development | CHORN"
+                description="CHORN offers PHP full stack development services for building dynamic and scalable web applications."
+                url="https://chorn.in.th/services/fullstack-development/php/"
+            />
         </>
     );
 };

@@ -6,6 +6,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsGitHub from "@/components/Services/devops-testing/github/ServicesDetailsGitHub";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "GitHub DevOps Services | CHORN",
@@ -60,6 +61,12 @@ const Page = () => {
             <CloudExperience/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="GitHub DevOps Services | CHORN"
+                description="CHORN offers DevOps services integrating GitHub for version control, continuous integration, and automated workflows."
+                url="https://chorn.in.th/services/devops-testing/github/"
+            />
         </>
     );
 };

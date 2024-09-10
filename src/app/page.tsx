@@ -9,8 +9,41 @@ import CloudExperience from "../components/Common/CloudExperience";
 import Recommendations from "../components/Common/Recommendations";
 import SubscribeForm from "../components/Common/SubscribeForm";
 import Footer from "../components/Layouts/Footer";
+import React from "react";
+import {SchemaMarkupHomePage} from "@/components/SchemaMarkup/SchemaMarkupHomePage";
 
 export default function Home() {
+
+    const localBusinessSchema = {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "CHORN | Digital Innovation & Custom Software Solutions",
+        "image": "https://chorn.in.th/chorn-images/business-logo.png",
+        "@id": "https://chorn.in.th",
+        "url": "https://chorn.in.th",
+        "telephone": "+1234567890",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "405/112, Moo 3, Sannameng Sub-district",
+            "addressLocality": "Sansai District",
+            "addressRegion": "Chiang Mai",
+            "postalCode": "50210",
+            "addressCountry": "TH"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 18.846558456865996,
+            "longitude": 99.05946162698686
+        },
+        "openingHours": "Mo-Fr 08:30-17:30",
+        "priceRange": "$$",
+        "sameAs": [
+            "https://www.facebook.com/chorn.digital",
+            "https://x.com/chorndigital",
+            "https://www.linkedin.com/company/chorn"
+        ]
+    };
+
     return (
         <>
             <Navbar/>
@@ -32,6 +65,13 @@ export default function Home() {
             <SubscribeForm/>
 
             <Footer/>
+
+            <SchemaMarkupHomePage/>
+
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{__html: JSON.stringify(localBusinessSchema)}}
+            />
         </>
     );
 }

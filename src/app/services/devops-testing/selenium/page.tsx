@@ -6,6 +6,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsSelenium from "@/components/Services/devops-testing/selenium/ServicesDetailsSelenium";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "Selenium Testing Services | CHORN",
@@ -62,6 +63,12 @@ const Page = () => {
             <CloudExperience/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="Selenium Testing Services | CHORN"
+                description="CHORN offers comprehensive Selenium testing services to ensure the quality and performance of your applications through automated testing."
+                url="https://chorn.in.th/services/devops-testing/selenium/"
+            />
         </>
     );
 };

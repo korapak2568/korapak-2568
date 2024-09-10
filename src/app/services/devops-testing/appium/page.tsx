@@ -6,6 +6,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsAppium from "@/components/Services/devops-testing/appium/ServicesDetailsAppium";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "Appium Testing Services | CHORN",
@@ -62,6 +63,12 @@ const Page = () => {
             <CloudExperience/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="Appium Testing Services | CHORN"
+                description="CHORN offers Appium testing services for automated mobile app testing across multiple platforms to ensure high-quality performance."
+                url="https://chorn.in.th/services/devops-testing/appium/"
+            />
         </>
     );
 };

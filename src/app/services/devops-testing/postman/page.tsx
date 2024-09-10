@@ -6,6 +6,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsPostman from "@/components/Services/devops-testing/postman/ServicesDetailsPostman";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "Postman API Testing Services | CHORN",
@@ -60,6 +61,12 @@ const Page = () => {
             <CloudExperience/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="Postman API Testing Services | CHORN"
+                description="CHORN provides API testing services using Postman to ensure the reliability and performance of your web services."
+                url="https://chorn.in.th/services/devops-testing/postman/"
+            />
         </>
     );
 };

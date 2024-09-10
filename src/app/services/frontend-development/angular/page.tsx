@@ -6,6 +6,7 @@ import ServicesDetailsAngular from "@/components/Services/frontend-development/a
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "Angular Development Services | CHORN",
@@ -62,6 +63,12 @@ const Page = () => {
             <CloudExperience/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="Angular Development Services | CHORN"
+                description="Expert Angular development services by CHORN. Build dynamic, scalable, and high-performance web applications using Angular."
+                url="https://chorn.in.th/services/frontend-development/angular/"
+            />
         </>
     );
 };
