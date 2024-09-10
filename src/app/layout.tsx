@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services/services-11.jpg",
+                url: "https://chorn.in.th/chorn-images/metadata/home.png",
                 width: 1200,
                 height: 630,
                 alt: "CHORN Homepage Banner",
@@ -46,7 +46,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "CHORN | Transform Your Business with Custom Software Solutions",
         description: "CHORN offers cutting-edge software development, scalable websites, and technology expertise in Blockchain, Web3, and more. Partner with us for future-ready solutions.",
-        images: ["https://chorn.in.th/chorn-images/services/services-11.jpg"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/home.png"
+        ],
     },
     keywords: [
         "CHORN", "custom software development", "custom software development companies", "software engineer",
