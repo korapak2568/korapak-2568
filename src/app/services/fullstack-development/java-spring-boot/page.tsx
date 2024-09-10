@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         description: "Leverage CHORN’s Java Spring Boot full stack development services to build scalable, secure, and high-performance applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/services-details/fullstack-development/service-detail-java-spring-boot.png",
-                width: 500,
-                height: 500,
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png",
+                width: 1200,
+                height: 630,
                 alt: "Java Spring Boot Development Banner"
             }
         ],
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Java Spring Boot Full Stack Development | CHORN",
         description: "Expert Java Spring Boot full stack development services from CHORN to build secure and scalable applications.",
-        images: ["https://chorn.in.th/chorn-images/services-details/fullstack-development/service-detail-java-spring-boot.png"],
+        images: ["https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png",],
     },
     keywords: [
         "Java Spring Boot development", "Java Spring Boot services", "CHORN", "full stack development",
