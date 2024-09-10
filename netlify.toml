@@ -56,11 +56,11 @@ to = "/services/frontend-development/"
 status = 301
 force = true
 
-[[redirects]]
-from = "/_next/static/media/7e6a2e30184bb114-s.p.woff2"
-to = "https://www.chorn.in.th/"
-status = 301
-force = true
+#[[redirects]]
+#from = "/_next/static/media/7e6a2e30184bb114-s.p.woff2"
+#to = "https://www.chorn.in.th/"
+#status = 301
+#force = true
 
 [[redirects]]
 from = "/galleries"
