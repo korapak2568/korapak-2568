@@ -18,10 +18,15 @@ export default function Home() {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "CHORN | Digital Innovation & Custom Software Solutions",
-        "image": "https://chorn.in.th/chorn-images/business-logo.png",
+        "logo": "https://chorn.in.th/chorn-images/business-logo.png",
         "@id": "https://chorn.in.th",
         "url": "https://chorn.in.th",
-        "telephone": "+1234567890",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+66 (0)52 000 548",
+            "contactType": "Customer Support",
+            "email": "contact@chorn.in.th",
+        },
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "405/112, Moo 3, Sannameng Sub-district",
@@ -36,7 +41,6 @@ export default function Home() {
             "longitude": 99.05946162698686
         },
         "openingHours": "Mo-Fr 08:30-17:30",
-        "priceRange": "$$",
         "sameAs": [
             "https://www.facebook.com/chorn.digital",
             "https://x.com/chorndigital",
