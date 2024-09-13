@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Angular Development Services | CHORN",
     description: "Expert Angular development services by CHORN. Build dynamic, scalable, and high-performance web applications using Angular.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/angular/",
+        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/angular-developer/",
     },
     openGraph: {
         title: "Angular Development | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
                 alt: "Angular Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/angular/",
+        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/angular-developer/",
         type: "website",
     },
     twitter: {
@@ -79,7 +79,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Angular Development Services | CHORN"
                 description="Expert Angular development services by CHORN. Build dynamic, scalable, and high-performance web applications using Angular."
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/angular/"
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/angular-developer/"
             />
         </>
     );

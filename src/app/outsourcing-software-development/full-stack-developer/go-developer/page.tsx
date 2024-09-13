@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Go Full Stack Development | CHORN",
     description: "CHORN offers Go full stack development services for building efficient and scalable web applications.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-lang/",
+        canonical: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-developer/",
     },
     openGraph: {
         title: "Go Development | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
                 alt: "Go Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-lang/",
+        url: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-developer/",
         type: "website",
     },
     twitter: {
@@ -77,7 +77,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Go Full Stack Development | CHORN"
                 description="CHORN offers Go full stack development services for building efficient and scalable web applications."
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-lang/"
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-developer/"
             />
         </>
     );

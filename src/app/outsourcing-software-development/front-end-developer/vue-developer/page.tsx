@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Vue.js Development Services | CHORN",
     description: "CHORN specializes in Vue.js development to create interactive and scalable web applications.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/vue/",
+        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/vue-developer/",
     },
     openGraph: {
         title: "Vue.js Development | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
                 alt: "Vue.js Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/vue/",
+        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/vue-developer/",
         type: "website",
     },
     twitter: {
@@ -78,7 +78,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Vue.js Development Services | CHORN"
                 description="CHORN specializes in Vue.js development to create interactive and scalable web applications."
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/vue/"
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/vue-developer/"
             />
         </>
     );

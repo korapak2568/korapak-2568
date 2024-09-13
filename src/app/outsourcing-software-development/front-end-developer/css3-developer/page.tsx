@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "CSS3 Development Services | CHORN",
     description: "Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/css3/",
+        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/css3-developer/",
     },
     openGraph: {
         title: "CSS3 Development | CHORN",

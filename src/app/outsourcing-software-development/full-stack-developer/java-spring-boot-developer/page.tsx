@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Java Spring Boot Full Stack Development | CHORN",
     description: "CHORN offers Java Spring Boot full stack development services to build robust and scalable enterprise applications.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot/",
+        canonical: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/",
     },
     openGraph: {
         title: "Java Spring Boot Development | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
                 alt: "Java Spring Boot Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot/",
+        url: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/",
         type: "website",
     },
     twitter: {
@@ -77,7 +77,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Java Spring Boot Full Stack Development | CHORN"
                 description="CHORN offers Java Spring Boot full stack development services to build robust and scalable enterprise applications."
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot/"
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/"
             />
         </>
     );

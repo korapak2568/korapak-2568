@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: ".NET Core Full Stack Development | CHORN",
     description: "CHORN offers .NET Core full stack development services to build modern, scalable, and secure web applications.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore/",
+        canonical: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/",
     },
     openGraph: {
         title: ".NET Core Development | CHORN",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
                 alt: ".NET Core Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore/",
+        url: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/",
         type: "website",
     },
     twitter: {
@@ -79,7 +79,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name=".NET Core Full Stack Development | CHORN"
                 description="CHORN offers .NET Core full stack development services to build modern, scalable, and secure web applications."
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore/"
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/"
             />
         </>
     );

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: "TypeScript | CHORN - Custom Software Development Experts",
     description: "Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-developer/",
+        canonical: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/",
     },
     openGraph: {
         title: "CHORN - TypeScript Custom Software Development",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
                 alt: "CHORN TypeScript Development Banner",
             },
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript/",
+        url: "https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/",
         type: "website",
     },
     twitter: {
@@ -81,7 +81,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="TypeScript | CHORN - Custom Software Development Experts"
                 description="Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries."
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript/"
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/"
             />
         </>
     );
