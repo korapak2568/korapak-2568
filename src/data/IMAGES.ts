@@ -1,8 +1,16 @@
 export const IMAGES = {
     logo: {
-        circle: {
+        circleLg: {
             title: "CHORN",
-            path: "/chorn-images/logo/business-logo.png"
+            path: "/chorn-images/logo/chorn-logo-circle-lg.png"
+        },
+        circleMd: {
+            title: "CHORN",
+            path: "/chorn-images/logo/chorn-logo-circle-md.png"
+        },
+        circleSm: {
+            title: "CHORN",
+            path: "/chorn-images/logo/chorn-logo-circle-sm.png"
         }
     },
     banner: {
