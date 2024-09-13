@@ -13,7 +13,7 @@ export const FEATURE_SERVICE_INFO: IServiceImage = {
                 "and TypeScript, JavaScript, HTML3, and CSS3.",
             image: "",
             readMore: "Read More",
-            link: "/services/front-end-developer",
+            link: "/outsourcing-software-development/front-end-developer/",
             details: [],
             faq: [],
             icon: "bx bx-code-alt"
@@ -24,7 +24,7 @@ export const FEATURE_SERVICE_INFO: IServiceImage = {
                 "Java, Spring Boot, Go-lang, PHP, and Python.",
             image: "",
             readMore: "Read More",
-            link: "/services/full-stack-developer",
+            link: "/outsourcing-software-development/full-stack-developer/",
             details: [],
             faq: [],
             icon: "bx bx-layer"

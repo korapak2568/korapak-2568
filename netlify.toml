@@ -28,7 +28,7 @@ force = true
 
 [[redirects]]
 from = "/front-end-development"
-to = "/services/frontend-development/"
+to = "/outsourcing-software-development/front-end-developer/"
 status = 301
 force = true
 
@@ -52,7 +52,7 @@ force = true
 
 [[redirects]]
 from = "/single-page-application"
-to = "/services/frontend-development/"
+to = "/outsourcing-software-development/front-end-developer/"
 status = 301
 force = true
 
@@ -87,8 +87,14 @@ status = 301
 force = true
 
 [[redirects]]
-from = "/services/frontend-development/"
+from = "/services/frontend-development"
 to = "/outsourcing-software-development/front-end-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/full-stack-developer"
+to = "/outsourcing-software-development/full-stack-developer/"
 status = 301
 force = true
 
