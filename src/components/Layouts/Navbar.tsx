@@ -4,7 +4,7 @@ import React, {useState, useEffect} from "react";
 import Link from "next/link";
 import Image from "next/image";
 import MenuItem from "./MenuItem";
-import {NAVBAR} from "../../data/navbar/NAVBAR";
+import {NAVBAR} from "@/data/navbar/NAVBAR";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {INavbar} from "@/data/model/navbar/INavbar";
@@ -25,7 +25,7 @@ const Navbar: React.FC = () => {
                 elementId?.classList.remove("is-sticky");
             }
         });
-    });
+    }, []);
 
     // Search Modal
     const [isActiveSearchModal, setActiveSearchModal] = useState(true);

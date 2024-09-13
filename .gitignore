@@ -9,7 +9,7 @@
 # testing
 /coverage
 
-# next.js
+# nextjs-developer
 /.next/
 /out/
 
@@ -31,6 +31,6 @@ yarn-error.log*
 # vercel
 .vercel
 
-# typescript
+# typescript-javascript-developer
 *.tsbuildinfo
 next-env.d.ts

@@ -1,66 +1,59 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
 import {usePathname} from "next/navigation";
 import {INavbar} from "@/data/model/navbar/INavbar";
+import {isActiveMainMenu, isActiveMenu} from "@/utils/chornUtils";
 
-interface MenuItemProps {
-    label: string;
-    link: string;
-    submenu?: { label: string; link: string }[];
-}
-
-const MenuItem: React.FC<MenuItemProps> = ({label, link, submenu}) => {
+const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
     const pathname = usePathname();
-    const isActive = pathname == link;
 
-    if (submenu) {
-        return (
+    const saveClickedLinked = (group: string) => {
+        localStorage.setItem("group", group)
+    }
+
+    return submenu.length == 0 ?
+        <li className="nav-item" key={label}>
+            <Link href={link}
+                  className={`nav-link ${isActiveMainMenu(pathname, group) ? "active" : ""}`}
+                  onClick={() => saveClickedLinked(group)}
+            >
+                {label}
+            </Link>
+        </li>
+        :
+        <>
             <li className="nav-item" key={label}>
                 <Link
                     href={link}
-                    className="nav-link"
-                    onClick={(e) => e.preventDefault()}
+                    className={`nav-link ${isActiveMainMenu(pathname, group) ? "active" : ""}`}
+                    onClick={() => saveClickedLinked(group)}
                 >
                     {label} <i className="bx bx-chevron-down"></i>
                 </Link>
 
                 <ul className="dropdown-menu">
-                    {submenu.map((subItem: INavbar, index) => {
-                        const isActive = pathname == subItem.link;
-
-                        if (subItem.isSeparated) {
-                            return (
+                    {submenu.map((subItem: INavbar, index) => (
+                        subItem.isSeparated ?
+                            (
                                 <li className="nav-item" key={index}>
                                     <div className="add-underline"/>
                                 </li>
-                            );
-                        }
-
-                        return (
-                            <li className="nav-item" key={index}>
-                                <Link
-                                    href={subItem.link}
-                                    className={`nav-link ${isActive ? "active" : ""}`}
-                                >
-                                    {subItem.label}
-                                </Link>
-                            </li>
-                        );
-                    })}
+                            ) :
+                            (
+                                <li className="nav-item" key={index}>
+                                    <Link
+                                        href={subItem.link}
+                                        className={`nav-link ${isActiveMenu(pathname, subItem.link) ? "active" : ""}`}
+                                        onClick={() => saveClickedLinked(group)}
+                                    >
+                                        {subItem.label}
+                                    </Link>
+                                </li>
+                            )
+                    ))}
                 </ul>
             </li>
-        );
-    }
-
-    return (
-        <li className="nav-item" key={label}>
-            <Link href={link} className={`nav-link ${isActive ? "active" : ""}`}>
-                {label}
-            </Link>
-        </li>
-    );
+        </>
 };
 
 export default MenuItem;

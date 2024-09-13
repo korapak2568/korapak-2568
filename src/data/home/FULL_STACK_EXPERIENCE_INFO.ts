@@ -13,12 +13,12 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
                 "efficiently. Utilizing an event-driven, non-blocking I/O model, Node.js " +
                 "makes it possible to build fast and lightweight applications, ideal for real-time " +
                 "communication and data-intensive tasks.",
-            image: "/chorn-images/services/fullstack-development/nodejs.png",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/nodejs-developer.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/nodejs",
+            link: "/outsourcing-software-development/full-stack-developer/nodejs-developer",
             details: [
                 {
-                    title: "NodeJS",
+                    title: "NodeJS Development",
                     description: "Node.js is a powerful, open-source, cross-platform JavaScript runtime " +
                         "environment that allows developers to build scalable network applications " +
                         "efficiently. Utilizing an event-driven, non-blocking I/O model, Node.js " +
@@ -69,12 +69,12 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         {
             title: ".NET Core, API",
             description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
-            image: "/chorn-images/services/fullstack-development/dotnetcore.png",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/dotnetcore-developer.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/dotnetcore",
+            link: "/outsourcing-software-development/full-stack-developer/dotnetcore-developer",
             details: [
                 {
-                    title: ".NET Core Overview",
+                    title: ".NET Core Development",
                     description: ".NET Core is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
                     list: []
                 },
@@ -129,12 +129,12 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Java, Spring Boot",
             description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
-            image: "/chorn-images/services/fullstack-development/java-spring-boot.png",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/java-spring-boot-developer.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/java-spring-boot",
+            link: "/outsourcing-software-development/full-stack-developer/java-spring-boot-developer",
             details: [
                 {
-                    title: "Java, Spring Boot",
+                    title: "Java Spring Boot Development",
                     description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
                     list: []
                 },
@@ -181,12 +181,12 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Python, Flask",
             description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
-            image: "/chorn-images/services/fullstack-development/python.png",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/python-developer.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/python",
+            link: "/outsourcing-software-development/full-stack-developer/python-developer",
             details: [
                 {
-                    title: "Python, Flask, Django",
+                    title: "Python Development",
                     description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
                     list: []
                 },
@@ -303,12 +303,12 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "GO",
             description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
-            image: "/chorn-images/services/fullstack-development/go.png",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/go-developer.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/go-lang",
+            link: "/outsourcing-software-development/full-stack-developer/go-developer",
             details: [
                 {
-                    title: "Go-lang",
+                    title: "Go Development",
                     description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
                     list: []
                 },
@@ -355,12 +355,12 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "PHP",
             description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
-            image: "/chorn-images/services/fullstack-development/php.png",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/php-developer.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/php",
+            link: "/outsourcing-software-development/full-stack-developer/php-developer",
             details: [
                 {
-                    title: "PHP, Symfony, Laravel",
+                    title: "PHP Development",
                     description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
                     list: []
                 },
@@ -379,12 +379,12 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
                 },
                 {
                     title: "Rapid Development",
-                    description: "Laravel, known for its expressive syntax and powerful tools, enables rapid development and deployment of web applications. Features like Eloquent ORM, Blade templating engine, and Laravel Artisan command-line tool streamline development tasks. Phalcon enhances rapid development with its robust performance and low-level architecture. WordPress provides a quick setup and a vast array of plugins and themes, allowing developers to rapidly deploy feature-rich websites. Headless WordPress decouples the frontend-development and back-end, enabling the use of modern JavaScript frameworks like React or Vue for a dynamic and responsive user experience.",
+                    description: "Laravel, known for its expressive syntax and powerful tools, enables rapid development and deployment of web applications. Features like Eloquent ORM, Blade templating engine, and Laravel Artisan command-line tool streamline development tasks. Phalcon enhances rapid development with its robust performance and low-level architecture. WordPress provides a quick setup and a vast array of plugins and themes, allowing developers to rapidly deploy feature-rich websites. Headless WordPress decouples the front-end-developer and back-end, enabling the use of modern JavaScript frameworks like React or Vue for a dynamic and responsive user experience.",
                     list: []
                 },
                 {
                     title: "Community and Ecosystem",
-                    description: "PHP has a vast community and a rich ecosystem of libraries, plugins, and frameworks. Both Symfony and Laravel benefit from active community support, extensive documentation, and many third-party packages, making PHP development efficient and enjoyable. Phalcon has a growing community and provides detailed documentation and tutorials to assist developers. WordPress boasts an extensive ecosystem with a large user base, offering numerous plugins and themes, while Headless WordPress leverages the flexibility of modern frontend-development frameworks, supported by a robust community and resources.",
+                    description: "PHP has a vast community and a rich ecosystem of libraries, plugins, and frameworks. Both Symfony and Laravel benefit from active community support, extensive documentation, and many third-party packages, making PHP development efficient and enjoyable. Phalcon has a growing community and provides detailed documentation and tutorials to assist developers. WordPress boasts an extensive ecosystem with a large user base, offering numerous plugins and themes, while Headless WordPress leverages the flexibility of modern front-end-developer frameworks, supported by a robust community and resources.",
                     list: []
                 }
             ],
@@ -407,14 +407,14 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
     ],
     additions2: [
         {
-            title: "TypeScript",
+            title: "TypeScript JavaScript",
             description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
-            image: "/chorn-images/services/fullstack-development/typescript.png",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/typescript-javascript-developer.png",
             readMore: "Read More",
-            link: "/services/fullstack-development/typescript",
+            link: "/outsourcing-software-development/full-stack-developer/typescript-javascript-developer",
             details: [
                 {
-                    title: "TypeScript and JavaScript",
+                    title: "TypeScript JavaScript Development",
                     description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
                     list: []
                 },

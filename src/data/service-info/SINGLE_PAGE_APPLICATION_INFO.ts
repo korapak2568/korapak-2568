@@ -60,7 +60,7 @@ export const SINGLE_PAGE_APPLICATION_INFO: IServiceLegacy = {
     {
       title: "Customization for Business Domains",
       description: "Each business domain has unique requirements and " +
-        "demands tailored solutions. By utilizing different frontend-development frameworks and backend technologies, we can " +
+        "demands tailored solutions. By utilizing different front-end-developer frameworks and backend technologies, we can " +
         "adapt and customize SPAs to meet the specific needs of diverse domains, be it e-commerce, healthcare, " +
         "finance, or any other sector."
     },

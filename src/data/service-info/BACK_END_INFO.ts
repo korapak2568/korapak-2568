@@ -6,7 +6,7 @@ export const BACK_END_INFO: IServiceLegacy = {
   description: [
     {
       title: "",
-      description: "Elevate your digital endeavors with our top-tier fullstack-development development services, meticulously tailored to meet your business requirements. Our seasoned team specializes in back-end development, proficiently harnessing an extensive array of programming languages and frameworks such as Java, Spring Boot, Node.js, Python, and more. This expertise allows us to craft robust server-side logic that drives the functionality of your web applications.",
+      description: "Elevate your digital endeavors with our top-tier full-stack-developer development services, meticulously tailored to meet your business requirements. Our seasoned team specializes in back-end development, proficiently harnessing an extensive array of programming languages and frameworks such as Java, Spring Boot, Node.js, Python, and more. This expertise allows us to craft robust server-side logic that drives the functionality of your web applications.",
     },
     {
       title: "",

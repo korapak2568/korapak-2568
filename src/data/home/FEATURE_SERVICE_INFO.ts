@@ -13,18 +13,18 @@ export const FEATURE_SERVICE_INFO: IServiceImage = {
                 "and TypeScript, JavaScript, HTML3, and CSS3.",
             image: "",
             readMore: "Read More",
-            link: "/services/frontend-development",
+            link: "/services/front-end-developer",
             details: [],
             faq: [],
             icon: "bx bx-code-alt"
         },
         {
             title: "Full Stack Development",
-            description: "Comprehensive fullstack-development development services using Node.js, " +
+            description: "Comprehensive full-stack-developer development services using Node.js, " +
                 "Java, Spring Boot, Go-lang, PHP, and Python.",
             image: "",
             readMore: "Read More",
-            link: "/services/fullstack-development",
+            link: "/services/full-stack-developer",
             details: [],
             faq: [],
             icon: "bx bx-layer"

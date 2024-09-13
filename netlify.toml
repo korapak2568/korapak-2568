@@ -87,6 +87,84 @@ status = 301
 force = true
 
 [[redirects]]
+from = "/services/frontend-development/"
+to = "/outsourcing-software-development/front-end-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/"
+to = "/outsourcing-software-development/full-stack-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/frontend-development/next.js/"
+to = "/outsourcing-software-development/front-end-developer/nextjs-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/frontend-development/react/"
+to = "/outsourcing-software-development/front-end-developer/react-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/frontend-development/angular/"
+to = "/outsourcing-software-development/front-end-developer/angular-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/frontend-development/vue/"
+to = "/outsourcing-software-development/front-end-developer/vue-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/nodejs/"
+to = "/outsourcing-software-development/full-stack-developer/nodejs-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/java-spring-boot/"
+to = "/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/dotnetcore/"
+to = "/outsourcing-software-development/full-stack-developer/dotnetcore-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/php/"
+to = "/outsourcing-software-development/full-stack-developer/php-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/python/"
+to = "/outsourcing-software-development/full-stack-developer/python-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/go-lang/"
+to = "/outsourcing-software-development/full-stack-developer/go-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/typescript/"
+to = "/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/"
+status = 301
+force = true
+
+[[redirects]]
 from = "/src"
 to = "/"
 status = 301

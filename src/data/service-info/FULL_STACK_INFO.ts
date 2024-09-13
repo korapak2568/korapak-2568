@@ -6,7 +6,7 @@ export const FULL_STACK_INFO: IServiceLegacy = {
   description: [
     {
       title: "",
-      description: "Experience the pinnacle of fullstack-development development with our comprehensive suite of services tailored for your " +
+      description: "Experience the pinnacle of full-stack-developer development with our comprehensive suite of services tailored for your " +
         "business needs. Our expert team specializes in back-end development, leveraging a vast array of programming " +
         "languages and frameworks including Java, Spring Boot, Node.js, Python, and more to create robust server-side " +
         "logic that powers your web applications. We excel in database management, seamlessly handling both relational " +

@@ -8,7 +8,7 @@ export const CHORN_SERVICE_INFO: IServiceLegacy = {
   additions: [
     {
       title: "Software Development Service",
-      description: "CHORN offers premier technology solutions and software development expertise. Our highly skilled professionals specialize in a diverse range of technologies, including fullstack-development programming languages and frameworks such as React.js, Next.js, Angular, Vue, Node.js, Java, Spring Boot, Python, PHP, Ruby, Go-lang, and more. We also excel in emerging technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3.",
+      description: "CHORN offers premier technology solutions and software development expertise. Our highly skilled professionals specialize in a diverse range of technologies, including full-stack-developer programming languages and frameworks such as React.js, Next.js, Angular, Vue, Node.js, Java, Spring Boot, Python, PHP, Ruby, Go-lang, and more. We also excel in emerging technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3.",
     },
     {
       title: "",
@@ -17,7 +17,7 @@ export const CHORN_SERVICE_INFO: IServiceLegacy = {
     {
       title: "",
       description: "We offers comprehensive custom software development services, proficient in solution architecture, monolithic and microservices architecture, single-page application (SPA) " +
-        "development, and complex applications development covering fullstack-development development, back-end, frontend-development, and " +
+        "development, and complex applications development covering full-stack-developer development, back-end, front-end-developer, and " +
         "responsive web design development. Our capabilities span e-commerce, Blockchain, system integration, and " +
         "solution architectures, such as micro-services architecture and headless architecture."
     },

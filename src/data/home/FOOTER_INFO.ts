@@ -76,11 +76,11 @@ export const FOOTER_INFO: IFooters = {
         },
         {
             label: "Front End Development",
-            link: "/services/frontend-development"
+            link: "/outsourcing-software-development/front-end-developer/"
         },
         {
             label: "Full Stack Development",
-            link: "/services/fullstack-development"
+            link: "/outsourcing-software-development/full-stack-developer/"
         },
         {
             label: "Web3 Blockchain Smart Contract",

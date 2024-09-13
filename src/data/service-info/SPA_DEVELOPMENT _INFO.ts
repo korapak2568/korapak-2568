@@ -10,7 +10,7 @@ export const SPA_DEVELOPMENT_INFO: IServiceLegacy = {
     },
     {
       title: "",
-      description: "Elevate your digital presence with our cutting-edge frontend-development development services tailored to revolutionize " +
+      description: "Elevate your digital presence with our cutting-edge front-end-developer development services tailored to revolutionize " +
         "your business. Specializing in UI frameworks and libraries such as Angular, React, Vue, and Flutter, we craft " +
         "visually captivating and functionally seamless user interfaces. Our expertise in JavaScript and TypeScript " +
         "ensures the creation of dynamic and interactive web applications, while our commitment to responsive web " +
@@ -18,7 +18,7 @@ export const SPA_DEVELOPMENT_INFO: IServiceLegacy = {
         "(SPA) development, we offer a smooth and uninterrupted user journey. Our services extend to Software as a " +
         "Service (SaaS) development, delivering scalable, cloud-based solutions to meet your software needs. " +
         "Additionally, our adeptness in developing applications designed for cloud environments optimizes scalability, " +
-        "security, and performance for your web projects. Experience the forefront of innovation with our frontend-development " +
+        "security, and performance for your web projects. Experience the forefront of innovation with our front-end-developer " +
         "solutions, designed to propel your business into the digital future.",
     }
   ],

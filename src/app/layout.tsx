@@ -67,8 +67,8 @@ export const metadata: Metadata = {
 
         // Developer & Technical Roles
         "software engineer", "software developer", "frontend developer", "backend developer", "full stack developer",
-        "web developer", "mobile developer", "react developer", "angular developer", "java developer",
-        "node.js developer", ".net core developer", "php developer", "API developer", "blockchain developer",
+        "web developer", "mobile developer", "react-developer developer", "angular-developer developer", "java developer",
+        "node.js developer", ".net core developer", "php-developer developer", "API developer", "blockchain developer",
         "web3 developer", "microservices developer", "digital innovation", "enterprise software", "scalable websites",
 
         // Developer Locations
@@ -84,7 +84,7 @@ export const metadata: Metadata = {
         "software development manager", "head of technology", "system analyst",
 
         // Technologies & Frameworks
-        "next.js", "react.js", "spring boot", "front end framework", "front end architecture",
+        "nextjs-developer", "react-developer.js", "spring boot", "front end framework", "front end architecture",
         "full stack web developer", "front end back end development", "microservices",
 
         // Outsourcing-Related Keywords
@@ -95,7 +95,6 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
-
     return (
         <html lang="en">
         <body className={dm_sans.className}>

@@ -26,7 +26,7 @@ export const ABOUT_CONTENT_INFO: IServiceLegacy = {
             title: "Full Stack Development",
             description: "We offer comprehensive development services, proficient in solution architecture, " +
                 "monolithic and microservices architecture, single-page applications (SPA), " +
-                "and complex applications covering fullstack-development, back-end, frontend-development, and responsive web design. " +
+                "and complex applications covering full-stack-developer, back-end, front-end-developer, and responsive web design. " +
                 "Our capabilities span e-commerce, Blockchain, system integration, and various solution architectures."
         },
         {

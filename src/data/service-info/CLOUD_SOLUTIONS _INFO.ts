@@ -10,7 +10,7 @@ export const CLOUD_SOLUTIONS_INFO: IServiceLegacy = {
     },
     {
       title: "",
-      description: "Elevate your digital presence with our cutting-edge frontend-development development services, optimized to integrate seamlessly with AWS, GCP, or Azure. We excel in UI frameworks and libraries such as Angular, React, Vue, and Flutter, ensuring visually stunning and functionally impeccable user interfaces. Our proficiency in JavaScript and TypeScript guarantees the creation of dynamic, interactive web applications, while our commitment to responsive web design ensures a consistent user experience across various devices. With a specialization in single-page application (SPA) development, we offer a fluid and uninterrupted user journey, taking advantage of the scalability, security, and performance features offered by AWS, GCP, or Azure."
+      description: "Elevate your digital presence with our cutting-edge front-end-developer development services, optimized to integrate seamlessly with AWS, GCP, or Azure. We excel in UI frameworks and libraries such as Angular, React, Vue, and Flutter, ensuring visually stunning and functionally impeccable user interfaces. Our proficiency in JavaScript and TypeScript guarantees the creation of dynamic, interactive web applications, while our commitment to responsive web design ensures a consistent user experience across various devices. With a specialization in single-page application (SPA) development, we offer a fluid and uninterrupted user journey, taking advantage of the scalability, security, and performance features offered by AWS, GCP, or Azure."
     },
     {
       title: "",
@@ -18,7 +18,7 @@ export const CLOUD_SOLUTIONS_INFO: IServiceLegacy = {
     },
     {
       title: "",
-      description: "Experience the pinnacle of innovation with our frontend-development solutions, meticulously designed to propel your business into a digital future, enriched by the advanced capabilities and resources offered by AWS, GCP, or Azure."
+      description: "Experience the pinnacle of innovation with our front-end-developer solutions, meticulously designed to propel your business into a digital future, enriched by the advanced capabilities and resources offered by AWS, GCP, or Azure."
     }
   ],
   subTitle: "Front-End Development Services",

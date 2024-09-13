@@ -6,7 +6,7 @@ export const E_COMMERCE_INFO: IServiceLegacy = {
   description: [
     {
       title: "Custom e-Commerce Development: ",
-      description: "Discover a comprehensive range of e-Commerce development services tailored to meet your business needs. Our expert team specializes in fullstack-development development, excelling in back-end development using a variety of programming languages and frameworks such as Java, Spring Boot, Node.js, and Python. This expertise empowers us to create robust server-side logic that drives your web applications.",
+      description: "Discover a comprehensive range of e-Commerce development services tailored to meet your business needs. Our expert team specializes in full-stack-developer development, excelling in back-end development using a variety of programming languages and frameworks such as Java, Spring Boot, Node.js, and Python. This expertise empowers us to create robust server-side logic that drives your web applications.",
     },
     {
       title: "",

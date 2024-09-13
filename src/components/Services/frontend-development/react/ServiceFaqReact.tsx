@@ -20,7 +20,7 @@ const ServiceFaqReact: React.FC = () => {
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded
-                           preExpanded={[`${service.FRONT_END_EXPERIENCE_INFO.additions[1].faq[0].question}`]}>
+                           preExpanded={[`${sanitizeUUID(service.FRONT_END_EXPERIENCE_INFO.additions[1].faq[0].question)}`]}>
                     {service.FRONT_END_EXPERIENCE_INFO.additions[1].faq.map((item: IFaq, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>

@@ -2,105 +2,164 @@ import {INavbar} from "@/data/model/navbar/INavbar";
 
 export const NAVBAR: INavbar[] = [
     {
+        group: "/home",
         label: "Home",
         link: "/",
+        submenu: []
     },
     {
+        group: "/about-chorn/",
         label: "About",
         link: "/about-chorn/",
+        submenu: []
     },
     {
+        group: "/contact-chorn/",
         label: "Contact",
         link: "/contact-chorn/",
+        submenu: []
     },
     {
+        group: "/services/",
         label: "Services",
-        link: "#",
+        link: "/services",
         submenu: [
             {
+                group: "/services/",
                 label: "Web Development",
-                link: "/services/web-development",
+                link: "/services/web-development/",
+                submenu: []
             },
             {
-                label: "Front-End Development",
-                link: "/services/frontend-development",
-            },
-            {
-                label: "Full-Stack Development",
-                link: "/services/fullstack-development",
-            },
-            {
+                group: "/services/",
                 label: "Web3 & Blockchain",
-                link: "/services/web3-blockchain-smart-contract-development",
+                link: "/services/web3-blockchain-smart-contract-development/",
+                submenu: []
             },
             {
+                group: "/services/",
                 label: "...",
                 link: "",
-                isSeparated: true
+                isSeparated: true,
+                submenu: []
             },
             {
+                group: "/services/",
                 label: "Mobile Development",
-                link: "/services/mobile-development",
+                link: "/services/mobile-development/",
+                submenu: []
             },
             {
+                group: "/services/",
                 label: "DevOps Testing",
-                link: "/services/devops-testing",
+                link: "/services/devops-testing/",
+                submenu: []
             },
         ],
     },
     {
+        group: "/outsourcing-software-development/",
         label: "Outsourcing",
-        link: "/services/frontend-development",
+        link: "/services/outsourcing",
         submenu: [
             {
+                group: "/services/",
+                label: "Front-End Development",
+                link: "/outsourcing-software-development/front-end-developer/",
+                submenu: []
+            },
+            {
+                group: "/services/",
+                label: "Full-Stack Development",
+                link: "/outsourcing-software-development/full-stack-developer/",
+                submenu: []
+            },
+            {
+                group: "/outsourcing-software-development/",
+                label: "...",
+                link: "",
+                isSeparated: true,
+                submenu: []
+            },
+            {
+                group: "/outsourcing-software-development/",
                 label: "Next.js Development",
-                link: "/services/frontend-development/next.js",
+                link: "/outsourcing-software-development/front-end-developer/nextjs-developer/",
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "React Development",
-                link: "/services/frontend-development/react",
+                link: "/outsourcing-software-development/front-end-developer/react-developer/",
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "Angular Development",
-                link: "/services/frontend-development/angular",
+                link: "/outsourcing-software-development/front-end-developer/angular-developer/",
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "Vue Development",
-                link: "/services/frontend-development/vue",
+                link: "/outsourcing-software-development/front-end-developer/vue-developer/",
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "...",
                 link: "",
-                isSeparated: true
+                isSeparated: true,
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "Node.js Development",
-                link: "/services/fullstack-development/nodejs",
+                link: "/outsourcing-software-development/full-stack-developer/nodejs-developer/",
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "Java Spring Boot Development",
-                link: "/services/fullstack-development/java-spring-boot",
+                link: "/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/",
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: ".NET Core Development",
-                link: "/services/fullstack-development/dotnetcore",
+                link: "/outsourcing-software-development/full-stack-developer/dotnetcore-developer/",
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "PHP Development",
-                link: "/services/fullstack-development/php",
+                link: "/outsourcing-software-development/full-stack-developer/php-developer/",
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "...",
                 link: "",
-                isSeparated: true
+                isSeparated: true,
+                submenu: []
             },
             {
+                group: "/outsourcing-software-development/",
                 label: "Python Development",
-                link: "/services/fullstack-development/python",
+                link: "/outsourcing-software-development/full-stack-developer/python-developer/",
+                submenu: []
             },
             {
-                label: "Go-Lang Development",
-                link: "/services/fullstack-development/go-lang",
+                group: "/outsourcing-software-development/",
+                label: "Go Development",
+                link: "/outsourcing-software-development/full-stack-developer/go-developer/",
+                submenu: []
+            },
+            {
+                group: "/outsourcing-software-development/",
+                label: "TypeScript JavaScript Development",
+                link: "/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/",
+                submenu: []
             },
         ],
     },

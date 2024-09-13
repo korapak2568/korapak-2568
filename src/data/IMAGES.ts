@@ -39,55 +39,55 @@ export const IMAGES = {
     serviceDetails: {
         nextjs: {
             title: 'Next.js',
-            path: '/chorn-images/services-details/frontend-development/service-detail-nextjs.png',
+            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-nextjs-developer.png',
         },
         react: {
             title: 'React',
-            path: '/chorn-images/services-details/frontend-development/service-detail-react.png',
+            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-react-developer.png',
         },
         angular: {
             title: 'Angular',
-            path: '/chorn-images/services-details/frontend-development/service-detail-angular.png',
+            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-angular-developer.png',
         },
         vue: {
             title: 'Vue',
-            path: '/chorn-images/services-details/frontend-development/service-detail-vue.png',
+            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-vue-developer.png',
         },
         html5: {
             title: 'HTML5',
-            path: '/chorn-images/services-details/frontend-development/service-detail-html5.png',
+            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-html5-developer.png',
         },
         css3: {
             title: 'CSS3',
-            path: '/chorn-images/services-details/frontend-development/service-detail-css3.png',
+            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-css3-developer.png',
         },
         nodejs: {
             title: 'Node.js',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-nodejs.png',
+            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-nodejs-developer.png',
         },
         typescript: {
             title: 'TypeScript',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-typescript.png',
+            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-typescript-javascript-developer.png',
         },
         dotnetcore: {
             title: 'TypeScript',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-dotnetcore.png',
+            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-dotnetcore-developer.png',
         },
         java: {
             title: 'Java, Spring Boot, Kotlin',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-java-spring-boot.png',
+            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-java-spring-boot-developer.png',
         },
         python: {
             title: 'Python',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-python.png',
+            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-python-developer.png',
         },
         go: {
             title: 'Go-lang',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-go.png',
+            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-go-developer.png',
         },
         php: {
             title: 'PHP',
-            path: '/chorn-images/services-details/fullstack-development/service-detail-php.png',
+            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-php-developer.png',
         },
     },
     devopsTesting: {

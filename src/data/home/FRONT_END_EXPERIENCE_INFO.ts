@@ -9,9 +9,9 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "NextJS",
             description: "Boost your React applications with seamless server-side rendering and static site generation for optimal performance.",
-            image: "/chorn-images/services/frontend-development/nextjs.png",
+            image: "/chorn-images/outsourcing-software-development/front-end-developer/nextjs-developer.png",
             readMore: "Read More",
-            link: "/services/frontend-development/next.js",
+            link: "/outsourcing-software-development/front-end-developer/nextjs-developer",
             details: [
                 {
                     title: "NextJS Development",
@@ -56,9 +56,9 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "React",
             description: "Build dynamic, high-performance user interfaces effortlessly with React's powerful component-based architecture.",
-            image: "/chorn-images/services/frontend-development/react.png",
+            image: "/chorn-images/outsourcing-software-development/front-end-developer/react-developer.png",
             readMore: "Read More",
-            link: "/services/frontend-development/react",
+            link: "/outsourcing-software-development/front-end-developer/react-developer",
             details: [
                 {
                     title: "React Development",
@@ -103,9 +103,9 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Angular",
             description: "Develop robust, enterprise-grade web applications with Angular's comprehensive and versatile framework.",
-            image: "/chorn-images/services/frontend-development/angular.png",
+            image: "/chorn-images/outsourcing-software-development/front-end-developer/angular-developer.png",
             readMore: "Read More",
-            link: "/services/frontend-development/angular",
+            link: "/outsourcing-software-development/front-end-developer/angular-developer",
             details: [
                 {
                     title: "Angular Development",
@@ -150,9 +150,9 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Vue",
             description: "Create modern, reactive web interfaces quickly with Vue's intuitive and flexible design. ",
-            image: "/chorn-images/services/frontend-development/vue.png",
+            image: "/chorn-images/outsourcing-software-development/front-end-developer/vue-developer.png",
             readMore: "Read More",
-            link: "/services/frontend-development/vue",
+            link: "/outsourcing-software-development/front-end-developer/vue-developer",
             details: [
                 {
                     title: "Vue Development",
@@ -197,9 +197,9 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "HTML5",
             description: "Master the latest standards in web development for rich, interactive content.",
-            image: "/chorn-images/services/frontend-development/html5.png",
+            image: "/chorn-images/outsourcing-software-development/front-end-developer/html5-developer.png",
             readMore: "Read More",
-            link: "/services/frontend-development/html5",
+            link: "/outsourcing-software-development/front-end-developer/html5-developer",
             details: [
                 {
                     title: "HTML5 Web Design",
@@ -244,9 +244,9 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "CSS3",
             description: "Enhance your website's look with advanced styling techniques using CSS3.",
-            image: "/chorn-images/services/frontend-development/css3.png",
+            image: "/chorn-images/outsourcing-software-development/front-end-developer/css3-developer.png",
             readMore: "Read More",
-            link: "/services/frontend-development/css3",
+            link: "/outsourcing-software-development/front-end-developer/css3-developer",
             details: [
                 {
                     title: "CSS3 Responsive Design",
