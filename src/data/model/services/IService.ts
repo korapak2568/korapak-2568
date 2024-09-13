@@ -1,4 +1,4 @@
-import {IImage} from "./IImage";
+import {IImage} from "../common/IImage";
 
 export interface IService {
   isImage: boolean,

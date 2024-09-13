@@ -4,9 +4,10 @@ import React, {useState, useEffect} from "react";
 import Link from "next/link";
 import Image from "next/image";
 import MenuItem from "./MenuItem";
-import {menus} from "../../../libs/menus";
+import {NAVBAR} from "../../data/navbar/NAVBAR";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
+import {INavbar} from "@/data/model/navbar/INavbar";
 
 const Navbar: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -71,8 +72,8 @@ const Navbar: React.FC = () => {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
-                                    {menus.map((menuItem) => (
-                                        <MenuItem key={menuItem.label} {...menuItem} />
+                                    {NAVBAR.map((menuItem: INavbar, index) => (
+                                        <MenuItem key={index} {...menuItem} />
                                     ))}
                                 </ul>
                             </div>

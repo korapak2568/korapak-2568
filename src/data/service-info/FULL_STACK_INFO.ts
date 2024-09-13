@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const FULL_STACK_INFO: IServiceLegacy = {
   title: "Full Stack Development",

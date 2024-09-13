@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const SINGLE_PAGE_APPLICATION_INFO: IServiceLegacy = {
   title: "Single Page Application (SPA)",

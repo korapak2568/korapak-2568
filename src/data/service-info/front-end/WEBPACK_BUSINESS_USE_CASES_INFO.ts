@@ -1,4 +1,4 @@
-import {IServiceLegacy} from "../../model/IServiceLegacy";
+import {IServiceLegacy} from "../../model/services/IServiceLegacy";
 
 export const WEBPACK_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
   title: "Webpack",

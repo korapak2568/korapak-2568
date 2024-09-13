@@ -5,7 +5,7 @@ import {Tab, Tabs, TabList, TabPanel} from "react-tabs";
 import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IContentImage} from "@/data/model/IContentImage";
+import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
 import Link from "next/link";
 

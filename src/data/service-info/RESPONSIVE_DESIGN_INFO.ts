@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const RESPONSIVE_DESIGN_INFO: IServiceLegacy = {
   title: "Responsive Web Design",

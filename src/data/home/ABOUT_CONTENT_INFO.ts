@@ -1,4 +1,4 @@
-import {IServiceLegacy} from "@/data/model/IServiceLegacy";
+import {IServiceLegacy} from "@/data/model/services/IServiceLegacy";
 
 export const ABOUT_CONTENT_INFO: IServiceLegacy = {
     title: "About CHORN",

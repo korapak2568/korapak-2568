@@ -36,15 +36,28 @@ export const metadata: Metadata = {
         images: [ "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png"],
     },
     keywords: [
-        "full-stack development", "Node.js development", "Java Spring Boot development", ".NET Core development",
-        "Go development", "Python development", "PHP development", "custom software development",
-        "web application development", "full stack developer", "backend developer", "frontend developer",
-        "full stack developer thailand", "software engineer", "software developer", "scalable web applications",
-        "enterprise software development", "API development", "cloud-based applications", "web development",
-        "custom web development", "software development chiangmai", "software development bangkok",
-        "software developer remote jobs", "IT project manager", "system analyst", "full stack web developer",
-        "software development services"
-    ],
+        // Core Full Stack Development Keywords
+        "full stack development", "full stack services", "full stack developer", "custom full stack development",
+        "front end and backend development", "full stack web applications", "enterprise full stack applications",
+
+        // Senior/Principal Developer Keywords (Combined Frameworks)
+        "Senior .NET Angular developer", "Principal .NET Angular developer", "Senior React Node.js developer",
+        "Principal React Node.js developer", "Senior Java Spring Boot developer", "Senior full stack developer",
+        "Principal full stack developer", "Senior Python Vue.js developer", "Senior PHP Laravel full stack developer",
+
+        // Framework-Specific Full Stack Keywords
+        ".NET Core Angular development", "React Java Spring developer", "React Node.js developer",
+        ".NET Angular development", "Java Spring Boot full stack development", "Python Django full stack development",
+        "PHP Laravel full stack development", "Node.js full stack developer", "custom software development",
+
+        // Developer & Location-Specific Keywords
+        "full stack developer Thailand", "full stack developer Bangkok", "full stack developer Chiangmai",
+        "Senior full stack developer Thailand", "Principal full stack developer Thailand",
+        "backend developer Thailand", "frontend developer Thailand", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software", "scalable web applications"
+    ]
 };
 
 const Page = () => {

@@ -10,8 +10,8 @@ import {
 } from "react-accessible-accordion";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IDetail} from "@/data/model/IDetail";
-import {IFaq} from "@/data/model/IFaq";
+import {IDetail} from "@/data/model/common/IDetail";
+import {IFaq} from "@/data/model/common/IFaq";
 import {sanitizeUUID} from "@/utils/chornUtils";
 
 const ServiceFaqKubernetes: React.FC = () => {

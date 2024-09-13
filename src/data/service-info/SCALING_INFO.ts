@@ -1,4 +1,4 @@
-import {IServiceLegacy} from "../model/IServiceLegacy";
+import {IServiceLegacy} from "../model/services/IServiceLegacy";
 
 export const SCALING_INFO: IServiceLegacy = {
   title: "Scaling Services",

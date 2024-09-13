@@ -4,7 +4,7 @@ import React from "react";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import Image from "next/image";
-import {IContact} from "@/data/model/IContact";
+import {IContact} from "@/data/model/common/IContact";
 
 const ContactInfo: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);

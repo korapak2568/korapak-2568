@@ -37,11 +37,23 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "HTML5 development", "HTML5 services", "CHORN", "frontend development",
-        "custom software development", "scalable web applications", "web developer", "software engineer",
-        "enterprise software", "single-page applications", "dynamic user interfaces", "high-performance applications",
-        "custom web applications", "software developer thailand", "digital innovation", "full stack developer"
+        // Core HTML5 & Service Keywords
+        "HTML5 development", "HTML5 services", "HTML5 developer", "custom HTML5 development", "HTML5 responsive design",
+        "HTML5 web applications", "HTML5 mobile development", "custom web applications", "HTML5 cross-platform apps",
+        "custom software development",
+
+        // Web & Application Development Keywords
+        "single-page applications", "frontend development", "web developer", "scalable web applications",
+        "high-performance web design", "responsive web design", "dynamic user interfaces",
+
+        // Developer & Location-Specific Keywords
+        "HTML5 developer Thailand", "HTML5 developer Bangkok", "HTML5 developer Chiangmai", "frontend developer Thailand",
+        "web developer Bangkok", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

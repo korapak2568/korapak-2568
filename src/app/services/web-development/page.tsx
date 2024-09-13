@@ -33,11 +33,29 @@ export const metadata: Metadata = {
         images: ["https://chorn.in.th/chorn-images/metadata/frontend-development-services.png"],
     },
     keywords: [
-        "CHORN", "web development services", "frontend developer", "backend developer", "Next.js", "React", "Angular", "Vue", "HTML5", "CSS3", "Node.js",
-        ".NET Core API", "C#", "Java", "Spring Boot", "Python", "Flask", "Django", "Go-lang", "PHP", "Symfony",
-        "Laravel", "AWS", "Azure", "GCP", "Digital Ocean", "Digital Marketing", "Blockchain", "DeFi",
-        "Education Services", "E-Commerce", "Entrepreneur", "Restaurant", "Health Services", "Social Network"
-    ],
+        // Core Web Development Keywords
+        "web development", "web development services", "web developer", "custom web development",
+        "responsive web development", "dynamic websites", "enterprise web development",
+        "scalable web applications", "custom web applications", "custom software development",
+
+        // Senior/Principal Developer Keywords (Combined Frameworks)
+        "Senior full stack web developer", "Principal web developer", "Senior .NET Core Angular web developer",
+        "Senior React Node.js web developer", "Principal React Java developer",
+        "Senior Angular Spring Boot developer", "Principal PHP Laravel web developer", "Senior web developer",
+
+        // Framework-Specific Web Development Keywords
+        ".NET Core web development", "React web development", "Angular web development",
+        "Vue.js web development", "Node.js web development", "Java Spring Boot web development",
+        "PHP Laravel web development", "custom React web development", "enterprise Angular web development",
+
+        // Developer & Location-Specific Keywords
+        "web developer Thailand", "web developer Bangkok", "web developer Chiangmai",
+        "Senior web developer Thailand", "Principal web developer Thailand",
+        "backend developer Thailand", "frontend developer Thailand", "software engineer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software", "scalable web applications"
+    ]
 };
 
 const Page = () => {

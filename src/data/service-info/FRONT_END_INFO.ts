@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const FRONT_END_INFO: IServiceLegacy = {
   title: "Front End Development",

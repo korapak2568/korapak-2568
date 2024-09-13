@@ -5,7 +5,7 @@ import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IRecommendation} from "@/data/model/IRecommendation";
+import {IRecommendation} from "@/data/model/common/IRecommendation";
 
 const Recommendations: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);

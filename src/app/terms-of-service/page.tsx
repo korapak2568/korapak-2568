@@ -3,7 +3,7 @@ import Navbar from "../../components/Layouts/Navbar";
 import PageBanner from "../../components/Common/PageBanner";
 import Footer from "../../components/Layouts/Footer";
 import SubscribeForm from "../../components/Common/SubscribeForm";
-import {IContent} from "@/data/model/IContent";
+import {IContent} from "@/data/model/common/IContent";
 import {INFO} from "@/data/INFO";
 
 export default function TermsOfService() {

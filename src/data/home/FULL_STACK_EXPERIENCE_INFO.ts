@@ -1,4 +1,4 @@
-import {IServiceImage} from "@/data/model/IServiceImage";
+import {IServiceImage} from "@/data/model/services/IServiceImage";
 
 export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
     title: "Full Stack Experience",

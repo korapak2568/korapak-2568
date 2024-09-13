@@ -37,11 +37,23 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "Vue.js development", "Vue.js services", "CHORN", "frontend development",
-        "custom software development", "scalable web applications", "web developer", "software engineer",
-        "enterprise software", "single-page applications", "dynamic user interfaces", "high-performance applications",
-        "custom web applications", "software developer thailand", "digital innovation", "full stack developer"
+        // Core Vue.js & Service Keywords
+        "Vue.js development", "Vue.js services", "Vue.js developer", "custom Vue.js development", "Vue.js applications",
+        "Vue.js full stack development", "Vue.js single-page applications", "Vue.js user interfaces", "custom web applications",
+        "custom software development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "frontend development", "high-performance web applications",
+        "dynamic user interfaces", "single-page applications", "Vue.js developer",
+
+        // Developer & Location-Specific Keywords
+        "Vue.js developer Thailand", "Vue.js developer Bangkok", "Vue.js developer Chiangmai", "frontend developer Thailand",
+        "web developer Bangkok", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

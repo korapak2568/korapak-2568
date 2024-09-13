@@ -1,4 +1,4 @@
-import {IRecommendation} from "@/data/model/IRecommendation";
+import {IRecommendation} from "@/data/model/common/IRecommendation";
 
 export interface IRecommendations {
     title: string;

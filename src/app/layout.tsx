@@ -54,21 +54,43 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "CHORN", "custom software development", "custom software development companies", "software engineer",
-        "full stack developer", "frontend developer", "backend developer", "mobile developer", "web developer",
-        "react developer", "angular developer", "java developer", "node.js developer", ".net core developer",
-        "php developer", "API developer", "blockchain development", "web3", "digital innovation",
-        "enterprise software", "scalable websites", "software developer thailand", "software developer chiangmai",
-        "software developer bangkok", "software developer remote jobs", "software engineer thailand",
-        "head of engineering", "director of engineering", "IT project manager", "software development manager",
-        "head of technology", "system analyst", "full stack development", "spring boot", "next.js",
-        "react.js", "front end framework", "full stack web developer", "front end back end development",
-        "software development chiangmai", "front end developer thailand", "full stack developer thailand",
-        "director of engineering thailand", "head of engineering department thailand",
-        "front end architecture", "full stack engineer", "web developer jobs in thailand", "head of software development",
-        "head of software development thailand", "head of software engineering", "head of software engineering thailand",
-        "software outsourcing chiangmai", "software developer thailand", "software outsourcing services",
-        "software outsourcing companies", "microservices developer"
+        // Brand Keywords
+        "CHORN", "CHORN custom software development", "CHORN software outsourcing",
+        "CHORN software development thailand", "CHORN software developer chiangmai", "CHORN software developer bangkok",
+
+        // Core Service Keywords
+        "custom software development", "custom software development companies", "software outsourcing",
+        "software outsourcing services", "software development outsourcing", "software development outsourcing companies",
+        "top software outsourcing companies", "web development outsourcing companies", "IT development companies",
+        "outsourcing development company", "outsourcing thailand", "outsourcing company in thailand",
+        "software development chiangmai", "software outsourcing chiangmai", "software outsourcing bangkok",
+
+        // Developer & Technical Roles
+        "software engineer", "software developer", "frontend developer", "backend developer", "full stack developer",
+        "web developer", "mobile developer", "react developer", "angular developer", "java developer",
+        "node.js developer", ".net core developer", "php developer", "API developer", "blockchain developer",
+        "web3 developer", "microservices developer", "digital innovation", "enterprise software", "scalable websites",
+
+        // Developer Locations
+        "software developer thailand", "software developer chiangmai", "software developer bangkok",
+        "software engineer thailand", "frontend developer thailand", "backend developer thailand",
+        "full stack developer thailand", "web developer jobs in thailand", "mobile developer thailand",
+        "full stack developer chiangmai", "software developer remote jobs", "outsourcing programmers thailand",
+
+        // Senior Leadership & Engineering Roles
+        "head of engineering", "head of engineering department thailand", "director of engineering",
+        "director of engineering thailand", "head of software development", "head of software development thailand",
+        "head of software engineering", "head of software engineering thailand", "IT project manager",
+        "software development manager", "head of technology", "system analyst",
+
+        // Technologies & Frameworks
+        "next.js", "react.js", "spring boot", "front end framework", "front end architecture",
+        "full stack web developer", "front end back end development", "microservices",
+
+        // Outsourcing-Related Keywords
+        "outsourcing development", "outsourcing company in thailand", "outsourcing programming",
+        "outsourcing programming tasks", "outsourcing program jobs", "outsourcing program task",
+        "outsourcing program online"
     ],
 };
 

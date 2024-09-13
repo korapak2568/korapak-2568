@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const SEVERAL_BUSINESS_SECTORS_INFO: IServiceLegacy = {
   title: "Several Business Sectors",

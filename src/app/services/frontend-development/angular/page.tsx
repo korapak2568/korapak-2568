@@ -37,11 +37,23 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "Angular development", "Angular services", "CHORN", "frontend development", "Angular developer",
-        "custom software development", "scalable web applications", "web developer", "software engineer",
-        "enterprise software", "single-page applications", "dynamic user interfaces", "high-performance applications",
-        "custom web applications", "software developer thailand", "digital innovation", "full stack developer"
+        // Core Angular & Service Keywords
+        "Angular development", "Angular services", "Angular developer", "Angular development Thailand",
+        "Angular development Bangkok", "Angular development Chiangmai", "Angular development company",
+        "custom Angular development", "custom software development", "enterprise Angular applications",
+
+        // Web & Application Development Keywords
+        "frontend development", "single-page applications", "dynamic user interfaces",
+        "high-performance applications", "scalable web applications", "custom web applications",
+
+        // Developer & Location-Specific Keywords
+        "web developer", "full stack developer", "software engineer", "software developer Thailand",
+        "Angular developer Thailand", "frontend developer Thailand", "web developer Bangkok",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

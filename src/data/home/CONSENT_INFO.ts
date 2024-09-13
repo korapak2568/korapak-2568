@@ -1,4 +1,4 @@
-import {IConsent} from "@/data/model/IConsent";
+import {IConsent} from "@/data/model/common/IConsent";
 
 export const CONSENT_INFO: IConsent =
     {

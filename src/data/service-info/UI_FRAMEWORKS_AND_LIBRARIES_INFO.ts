@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const UI_FRAMEWORKS_AND_LIBRARIES_INFO: IServiceLegacy = {
   title: "UI Frameworks and Libraries",

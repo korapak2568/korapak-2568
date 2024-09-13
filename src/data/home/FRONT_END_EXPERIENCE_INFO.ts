@@ -1,4 +1,4 @@
-import {IServiceImage} from "@/data/model/IServiceImage";
+import {IServiceImage} from "@/data/model/services/IServiceImage";
 
 export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
     title: "Front End Experience",

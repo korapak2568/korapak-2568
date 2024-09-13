@@ -1,4 +1,4 @@
-import {IContact} from "@/data/model/IContact";
+import {IContact} from "@/data/model/common/IContact";
 import {IMAGES} from "@/data/IMAGES";
 
 export const CONTACTS: IContact[] = [

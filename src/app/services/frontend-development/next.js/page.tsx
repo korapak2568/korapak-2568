@@ -37,12 +37,22 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "Next.js development", "Next.js services", "CHORN", "React.js development", "frontend development",
-        "custom software development", "scalable websites", "React developer", "Next.js developer",
-        "full stack developer", "web developer", "software engineer", "software development companies",
-        "high-performance web applications", "digital innovation", "blockchain", "Web3", "enterprise software",
-        "software developer thailand", "custom web applications"
+        // Core Next.js & Service Keywords
+        "Next.js development", "Next.js services", "Next.js developer", "custom Next.js development", "server-side rendering",
+        "Next.js full stack development", "Next.js SEO optimization", "Next.js applications", "custom web applications",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "frontend development", "high-performance web applications",
+        "single-page applications", "dynamic user interfaces", "full stack developer", "custom software development",
+
+        // Developer & Location-Specific Keywords
+        "Next.js developer Thailand", "Next.js developer Bangkok", "Next.js developer Chiangmai", "frontend developer Thailand",
+        "web developer Bangkok", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

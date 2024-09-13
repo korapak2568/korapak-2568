@@ -1,5 +1,5 @@
-import {IContent} from "./IContent";
-import {IContentImage} from "@/data/model/IContentImage";
+import {IContent} from "../common/IContent";
+import {IContentImage} from "@/data/model/common/IContentImage";
 
 export interface IServiceImage {
     title: string,

@@ -1,4 +1,4 @@
-import {IContents} from "@/data/model/IContents";
+import {IContents} from "@/data/model/common/IContents";
 
 export const PRIVACY_POLICY_INFO: IContents = {
     title: "Privacy Policy",

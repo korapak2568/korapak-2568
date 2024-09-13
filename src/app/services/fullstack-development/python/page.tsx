@@ -37,11 +37,23 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "Python development", "Python services", "CHORN", "full stack development", "custom software development",
-        "scalable web applications", "Python developer", "backend developer", "web developer", "dynamic web applications",
-        "enterprise software", "custom web applications", "software engineer", "high-performance applications",
-        "software developer thailand", "digital innovation", "secure web applications"
+        // Core Python & Service Keywords
+        "Python development", "Python services", "Python developer", "custom Python development",
+        "Python web applications", "Python backend development", "Python full stack development",
+        "custom software development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "backend development", "enterprise Python applications",
+        "high-performance applications", "custom web applications", "API development", "machine learning development",
+
+        // Developer & Location-Specific Keywords
+        "Python developer Thailand", "Python developer Bangkok", "Python developer Chiangmai",
+        "backend developer Thailand", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

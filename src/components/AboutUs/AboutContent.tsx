@@ -3,7 +3,7 @@
 import React from "react";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IContentImage} from "@/data/model/IContentImage";
+import {IContentImage} from "@/data/model/common/IContentImage";
 
 const AboutContent: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);

@@ -3,7 +3,7 @@
 import React from "react";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {ILink} from "@/data/model/ILink";
+import {ILink} from "@/data/model/common/ILink";
 
 const WeWorkForIndustries: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);

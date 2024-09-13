@@ -37,11 +37,22 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "Node.js development", "Node.js services", "CHORN", "full stack development",
-        "custom software development", "scalable web applications", "web developer", "software engineer",
-        "enterprise software", "single-page applications", "dynamic user interfaces", "high-performance applications",
-        "custom web applications", "software developer thailand", "digital innovation", "full stack developer"
+        // Core Node.js & Service Keywords
+        "Node.js development", "Node.js services", "Node.js developer", "custom Node.js development",
+        "Node.js backend development", "Node.js full stack development", "Node.js microservices", "custom software development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "backend development", "high-performance applications",
+        "enterprise Node.js applications", "API development", "microservices development", "full stack developer",
+
+        // Developer & Location-Specific Keywords
+        "Node.js developer Thailand", "Node.js developer Bangkok", "Node.js developer Chiangmai",
+        "backend developer Thailand", "full stack developer Thailand", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

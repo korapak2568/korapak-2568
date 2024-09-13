@@ -37,10 +37,24 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "PHP development", "PHP services", "CHORN", "full stack development", "custom software development",
-        "scalable web applications", "PHP developer", "backend developer", "web developer", "dynamic web applications",
-        "enterprise software", "high-performance applications", "custom web applications", "software engineer",
-        "digital innovation", "software developer thailand", "secure web applications"
+        // Core PHP & Service Keywords
+        "PHP development", "PHP services", "PHP developer", "custom PHP development", "PHP web applications",
+        "PHP full stack development", "enterprise PHP applications", "custom software development",
+
+        // PHP Frameworks
+        "Symfony development", "Laravel development", "Yii Framework development", "Phalcon development",
+        "custom Symfony development", "custom Laravel development", "custom Yii development", "custom Phalcon development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "backend development", "high-performance web applications",
+        "custom web applications", "API development", "enterprise software", "PHP frameworks",
+
+        // Developer & Location-Specific Keywords
+        "PHP developer Thailand", "PHP developer Bangkok", "PHP developer Chiangmai",
+        "backend developer Thailand", "full stack developer Thailand", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
 };
 

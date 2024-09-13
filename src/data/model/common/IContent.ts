@@ -1,4 +1,4 @@
-import {IDetail} from "@/data/model/IDetail";
+import {IDetail} from "@/data/model/common/IDetail";
 
 export interface IContent {
     title: string,

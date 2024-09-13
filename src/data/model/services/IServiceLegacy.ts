@@ -1,4 +1,4 @@
-import {IContent} from "./IContent";
+import {IContent} from "../common/IContent";
 
 export interface IServiceLegacy {
   title: string,

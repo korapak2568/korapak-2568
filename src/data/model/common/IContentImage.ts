@@ -1,6 +1,6 @@
-import {IDetail} from "@/data/model/IDetail";
-import {IFaq} from "@/data/model/IFaq";
-import {IFramework} from "@/data/model/IFramework";
+import {IDetail} from "@/data/model/common/IDetail";
+import {IFaq} from "@/data/model/common/IFaq";
+import {IFramework} from "@/data/model/common/IFramework";
 
 export interface IContentImage {
     title: string,

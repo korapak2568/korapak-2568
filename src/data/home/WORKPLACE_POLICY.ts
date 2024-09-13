@@ -1,4 +1,4 @@
-import {IContents} from "@/data/model/IContents";
+import {IContents} from "@/data/model/common/IContents";
 
 export const WORKPLACE_POLICY: IContents = {
     title: "Workplace Policy",

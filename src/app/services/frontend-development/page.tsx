@@ -36,15 +36,29 @@ export const metadata: Metadata = {
         images: ["https://chorn.in.th/chorn-images/metadata/frontend-development-services.png"],
     },
     keywords: [
-        "frontend development", "Next.js development", "React development", "Angular development",
-        "Vue development", "HTML5 development", "CSS3 development", "CHORN", "frontend developer",
-        "full stack developer", "web development", "responsive websites", "scalable websites",
-        "custom software development", "software engineer", "frontend developer thailand",
-        "software developer thailand", "web developer", "web developer thailand",
-        "UI development", "UX development", "modern web frameworks", "mobile-friendly websites",
-        "enterprise software", "software development chiangmai", "software development bangkok",
-        "software developer remote jobs"
-    ],
+        // Core Frontend Development Keywords
+        "frontend development", "frontend services", "frontend developer", "custom frontend development",
+        "dynamic user interfaces", "single-page applications", "responsive web design",
+        "high-performance front-end applications", "custom software development",
+
+        // Senior/Principal Developer Keywords (Combined Frameworks)
+        "Senior React developer", "Principal Angular developer", "Senior Vue.js developer",
+        "Senior Angular Node.js developer", "Senior React Spring Boot developer",
+        "Principal .NET Angular frontend developer", "Senior React frontend developer",
+
+        // Framework-Specific Frontend Keywords
+        "React development", "Angular development", "Vue.js development", "Next.js frontend development",
+        "React.js development", "custom Angular frontend development", "React.js frontend applications",
+        "Vue.js frontend services", "custom Vue.js development",
+
+        // Developer & Location-Specific Keywords
+        "frontend developer Thailand", "frontend developer Bangkok", "frontend developer Chiangmai",
+        "Senior frontend developer Thailand", "Principal frontend developer Thailand",
+        "web developer Thailand", "web developer Bangkok", "software engineer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software", "scalable web applications"
+    ]
 };
 
 const Page = () => {

@@ -1,4 +1,4 @@
-import {IServiceImage} from "@/data/model/IServiceImage";
+import {IServiceImage} from "@/data/model/services/IServiceImage";
 
 export const CLOUD_EXPERIENCE_INFO: IServiceImage = {
     title: "Cloud Experience",

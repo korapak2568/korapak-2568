@@ -1,4 +1,4 @@
-import {IServiceLegacy} from "../model/IServiceLegacy";
+import {IServiceLegacy} from "../model/services/IServiceLegacy";
 import {ANGULAR_BUSINESS_USE_CASES_INFO} from "./front-end/ANGULAR_BUSINESS_USE_CASES_INFO";
 import {REACT_BUSINESS_USE_CASES_INFO} from "./front-end/REACT_BUSINESS_USE_CASES_INFO";
 import {VUE_BUSINESS_USE_CASES_INFO} from "./front-end/VUE_BUSINESS_USE_CASES_INFO";

@@ -1,4 +1,4 @@
-import {IContent} from "@/data/model/IContent";
+import {IContent} from "@/data/model/common/IContent";
 
 export interface IContents {
     title: string

@@ -1,4 +1,4 @@
-import {IBusinessDomains} from "@/data/model/IBusinessDomains";
+import {IBusinessDomains} from "@/data/model/common/IBusinessDomains";
 
 export const BUSINESS_DOMAINS_INFO: IBusinessDomains = {
     span: "We Work For Industries",

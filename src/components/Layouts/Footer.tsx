@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {ILink} from "@/data/model/ILink";
+import {ILink} from "@/data/model/common/ILink";
 
 const Footer: React.FC = () => {
     const currentYear = new Date().getFullYear();

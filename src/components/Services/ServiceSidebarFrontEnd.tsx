@@ -4,7 +4,7 @@ import React from "react";
 import Link from "next/link";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IContentImage} from "@/data/model/IContentImage";
+import {IContentImage} from "@/data/model/common/IContentImage";
 import {useEffect, useState} from 'react';
 import Image from "next/image";
 

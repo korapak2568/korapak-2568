@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const FRONTEND_PROGRAMMING_LANGUAGES_INFO: IServiceLegacy = {
   title: "Front End Programming Languages",

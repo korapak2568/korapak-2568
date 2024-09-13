@@ -1,4 +1,4 @@
-import {IRecommendations} from "@/data/model/IRecommendations";
+import {IRecommendations} from "@/data/model/common/IRecommendations";
 
 export const RECOMMENDATIONS_INFO: IRecommendations = {
     title: "Recommendations",

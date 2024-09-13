@@ -38,11 +38,23 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        ".NET Core development", ".NET Core services", "CHORN", "full stack development", "custom software development",
-        "enterprise software", "scalable web applications", ".NET developer", "C# developer", "full stack .NET developer",
-        "backend developer", "web developer", "software engineer", "high-performance applications", "digital innovation",
-        "custom web applications", "software developer thailand", "secure web applications"
+        // Core .NET Core & Service Keywords
+        ".NET Core development", ".NET Core services", ".NET Core developer", "custom .NET Core development",
+        "enterprise .NET Core applications", "ASP.NET Core development", ".NET Core web applications",
+        "custom software development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "backend development", "enterprise software solutions", "full stack development",
+        "high-performance applications", "custom web applications", "API development",
+
+        // Developer & Location-Specific Keywords
+        ".NET Core developer Thailand", ".NET Core developer Bangkok", ".NET Core developer Chiangmai",
+        "backend developer Thailand", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

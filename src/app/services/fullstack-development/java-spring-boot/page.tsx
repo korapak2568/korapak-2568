@@ -35,11 +35,23 @@ export const metadata: Metadata = {
         images: ["https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png",],
     },
     keywords: [
-        "Java Spring Boot development", "Java Spring Boot services", "CHORN", "full stack development",
-        "custom software development", "enterprise software", "scalable web applications", "Java developer",
-        "Java full stack developer", "Java Spring developer", "backend developer", "software engineer",
-        "digital innovation", "custom web applications", "software developer thailand", "high-performance applications"
+        // Core Java Spring Boot & Service Keywords
+        "Spring Boot development", "Java Spring Boot services", "Spring Boot developer", "custom Java development",
+        "Java Spring Boot applications", "enterprise Java development", "Spring Boot microservices",
+        "custom software development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "backend development", "enterprise software solutions",
+        "high-performance applications", "Java web applications", "microservices development", "API development",
+
+        // Developer & Location-Specific Keywords
+        "Spring Boot developer Thailand", "Java developer Thailand", "Java developer Bangkok",
+        "Java developer Chiangmai", "backend developer Thailand", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

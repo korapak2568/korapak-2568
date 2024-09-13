@@ -38,12 +38,24 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "TypeScript development", "custom software development", "TypeScript software solutions", "CHORN TypeScript",
-        "TypeScript developers", "TypeScript software engineers", "TypeScript scalable applications", "CHORN software development",
-        "enterprise software", "TypeScript web development", "CHORN technologies", "CHORN innovation", "TypeScript experts",
-        "TypeScript frameworks", "full stack TypeScript development", "frontend TypeScript development",
-        "backend TypeScript development", "CHORN TypeScript solutions"
-    ],
+        // Core TypeScript & Service Keywords
+        "TypeScript development", "TypeScript services", "TypeScript developer", "custom TypeScript development",
+        "TypeScript web applications", "TypeScript full stack development", "TypeScript frontend development",
+        "custom software development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "frontend development", "backend development",
+        "high-performance applications", "enterprise software solutions", "custom web applications", "API development",
+
+        // Developer & Location-Specific Keywords
+        "TypeScript developer Thailand", "TypeScript developer Bangkok", "TypeScript developer Chiangmai",
+        "frontend developer Thailand", "backend developer Thailand", "full stack developer Thailand",
+        "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
+    ]
+
 };
 
 const Page = () => {

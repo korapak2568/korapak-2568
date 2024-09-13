@@ -1,4 +1,4 @@
-import {IServiceImage} from "@/data/model/IServiceImage";
+import {IServiceImage} from "@/data/model/services/IServiceImage";
 
 export const DEVOPS_TESTING_INFO: IServiceImage = {
     title: "DevOps and Testing",

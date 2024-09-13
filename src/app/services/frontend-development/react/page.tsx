@@ -37,11 +37,23 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "React development", "React services", "CHORN", "frontend development",
-        "custom software development", "scalable web applications", "web developer", "software engineer",
-        "enterprise software", "single-page applications", "dynamic user interfaces", "high-performance applications",
-        "custom web applications", "software developer thailand", "digital innovation", "full stack developer"
+        // Core React & Service Keywords
+        "React development", "React services", "React developer", "custom React development", "React.js applications",
+        "React full stack development", "React single-page applications", "React user interfaces", "custom web applications",
+        "custom software development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "frontend development", "high-performance web applications",
+        "dynamic user interfaces", "single-page applications", "React.js developer",
+
+        // Developer & Location-Specific Keywords
+        "React developer Thailand", "React developer Bangkok", "React developer Chiangmai", "frontend developer Thailand",
+        "web developer Bangkok", "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

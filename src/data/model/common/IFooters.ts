@@ -1,4 +1,4 @@
-import {ILink} from "@/data/model/ILink";
+import {ILink} from "@/data/model/common/ILink";
 
 export interface IFooters {
     title: string;

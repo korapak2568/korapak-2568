@@ -37,11 +37,22 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        "Go development", "Go services", "CHORN", "full stack development", "custom software development",
-        "scalable web applications", "Go developer", "Golang developer", "backend developer", "web developer",
-        "enterprise software", "digital innovation", "high-performance applications", "custom web applications",
-        "software engineer", "software developer thailand", "secure web applications"
+        // Core Go-lang & Service Keywords
+        "Go-lang development", "Go services", "Go developer", "custom Go-lang development", "Go web applications",
+        "Go backend development", "Go microservices", "custom software development",
+
+        // Web & Application Development Keywords
+        "scalable web applications", "backend development", "high-performance applications",
+        "microservices development", "cloud-native development", "API development", "enterprise software",
+
+        // Developer & Location-Specific Keywords
+        "Go developer Thailand", "Go developer Bangkok", "Go developer Chiangmai", "backend developer Thailand",
+        "software engineer", "software developer Thailand",
+
+        // Brand & Innovation Keywords
+        "CHORN", "digital innovation", "enterprise software"
     ]
+
 };
 
 const Page = () => {

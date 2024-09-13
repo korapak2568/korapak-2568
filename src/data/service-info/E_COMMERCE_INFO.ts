@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const E_COMMERCE_INFO: IServiceLegacy = {
   title: "e-Commerce Development",

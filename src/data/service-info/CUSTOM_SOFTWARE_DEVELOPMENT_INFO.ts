@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const CUSTOM_SOFTWARE_DEVELOPMENT_INFO: IServiceLegacy = {
   title: "Custom Software Development",

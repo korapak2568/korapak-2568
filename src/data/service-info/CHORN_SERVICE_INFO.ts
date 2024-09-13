@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const CHORN_SERVICE_INFO: IServiceLegacy = {
   title: "Transform Business with CHORN",

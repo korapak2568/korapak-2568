@@ -1,4 +1,4 @@
-import {IFooters} from "@/data/model/IFooters";
+import {IFooters} from "@/data/model/common/IFooters";
 
 export const FOOTER_INFO: IFooters = {
     logo: "/chorn-images/logo.png",

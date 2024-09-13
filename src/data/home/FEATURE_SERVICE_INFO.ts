@@ -1,5 +1,5 @@
-import {IServiceLegacy} from "../model/IServiceLegacy";
-import {IServiceImage} from "@/data/model/IServiceImage";
+import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IServiceImage} from "@/data/model/services/IServiceImage";
 
 export const FEATURE_SERVICE_INFO: IServiceImage = {
     title: "Software Development Services",

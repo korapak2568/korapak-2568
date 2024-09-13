@@ -1,5 +1,5 @@
-import {IServiceLegacy} from "../model/IServiceLegacy";
-import {IContent} from "../model/IContent";
+import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IContent} from "../model/common/IContent";
 
 export const DEVOPS_AND_TESTING_INFO: IServiceLegacy = {
   title: "DevOps and Testing",

@@ -10,7 +10,7 @@ import {
 } from "react-accessible-accordion";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IFaq} from "@/data/model/IFaq";
+import {IFaq} from "@/data/model/common/IFaq";
 import {sanitizeUUID} from "@/utils/chornUtils";
 
 const ServiceFaqReact: React.FC = () => {

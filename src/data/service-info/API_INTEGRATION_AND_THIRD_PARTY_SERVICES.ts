@@ -1,4 +1,4 @@
-import { IServiceLegacy } from "../model/IServiceLegacy";
+import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const API_INTEGRATION_AND_THIRD_PARTY_SERVICES: IServiceLegacy = {
   title: "API Integration and Third-Party Services",
