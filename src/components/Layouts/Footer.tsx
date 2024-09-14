@@ -7,8 +7,6 @@ import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {ILink} from "@/data/model/common/ILink";
 import {IMAGES} from "@/data/IMAGES";
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
-import {faThumbsUp} from '@fortawesome/free-solid-svg-icons'
 
 const Footer: React.FC = () => {
     const currentYear = new Date().getFullYear();

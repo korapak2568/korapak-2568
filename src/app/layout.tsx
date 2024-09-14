@@ -12,11 +12,6 @@ import "../../styles/style.css";
 import "../../styles/responsive.css";
 import "../../styles/addition.scss";
 
-// Font-awesome
-import { config } from '@fortawesome/fontawesome-svg-core'
-import '@fortawesome/fontawesome-svg-core/styles.css'
-config.autoAddCss = false
-
 import type {Metadata} from "next";
 import {DM_Sans} from "next/font/google";
 import AosAnimation from "@/components/Layouts/AosAnimation";
