@@ -4,177 +4,116 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
-        <loc>https://www.chorn.in.th/</loc>
-        <lastmod>2024-09-13T14:53:49.255Z</lastmod>
+        <loc>https://www.chorn.in.th/about-chorn/</loc>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/services/mobile-development/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/</loc>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/angular-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/nextjs-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/vue-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/react-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/nextjs-developer/</loc>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/terms-of-service/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/go-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/nodejs-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/workplace-policy/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/privacy-policy/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/services/mobile-development/</loc>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/python-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/nodejs-developer/</loc>
+        <lastmod>2024-09-14T12:11:57.429Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/
-        </loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/services/devops-testing/appium/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/services/devops-testing/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/services/devops-testing/github/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/css3-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/services/devops-testing/docker/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/services/devops-testing/selenium/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/services/web3-blockchain-smart-contract-development/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/html5-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.chorn.in.th/services/devops-testing/kubernetes/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/php-developer/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/services/web-development/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/vue-developer/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/services/devops-testing/soapui/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/html5-developer/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/services/devops-testing/jenkins/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/services/devops-testing/github/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/services/devops-testing/appium/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/services/devops-testing/kubernetes/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
@@ -182,31 +121,92 @@
         <loc>
             https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/
         </loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/services/devops-testing/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/services/devops-testing/selenium/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/services/devops-testing/gitlab/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/services/devops-testing/docker/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/services/web3-blockchain-smart-contract-development/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/services/devops-testing/jenkins/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/
+        </loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/services/web-development/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/services/devops-testing/postman/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.chorn.in.th/contact-chorn/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.chorn.in.th/about-chorn/</loc>
-        <lastmod>2024-09-13T14:53:49.256Z</lastmod>
+        <loc>https://www.chorn.in.th/services/devops-testing/soapui/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/front-end-developer/react-developer/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/outsourcing-software-development/full-stack-developer/python-developer/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.chorn.in.th/privacy-policy/</loc>
+        <lastmod>2024-09-14T12:11:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>

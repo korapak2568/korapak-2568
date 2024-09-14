@@ -47,6 +47,12 @@ export const FOOTER_INFO: IFooters = {
             icon: "bx bxl-facebook hover-rotate",
             iconClass: "facebook",
         },
+        {
+            label: "x.com",
+            link: "https://x.com/chorndigital",
+            icon: "bx bxl-twitter hover-rotate",
+            iconClass: "twitter",
+        },
     ],
     importantLinks: [
         {
