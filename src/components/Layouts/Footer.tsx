@@ -7,6 +7,8 @@ import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {ILink} from "@/data/model/common/ILink";
 import {IMAGES} from "@/data/IMAGES";
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import {faThumbsUp} from '@fortawesome/free-solid-svg-icons'
 
 const Footer: React.FC = () => {
     const currentYear = new Date().getFullYear();
@@ -44,6 +46,15 @@ const Footer: React.FC = () => {
                                             </a>
                                         </li>
                                     ))}
+                                    <li>
+                                        <a
+                                            href="https://x.com/chorndigital"
+                                            className={"x-com hover-rotate"}
+                                            target="_blank"
+                                        >
+                                            <strong>X</strong>
+                                        </a>
+                                    </li>
                                     <li>
                                         <Link
                                             href={service.IMAGES.line.icon.link}
