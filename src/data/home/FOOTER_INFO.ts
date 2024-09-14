@@ -1,7 +1,6 @@
 import {IFooters} from "@/data/model/common/IFooters";
 
 export const FOOTER_INFO: IFooters = {
-    logo: "/chorn-images/logo.png",
     title: "CHORN",
     link: "https://chorn.in.th/",
     www: "www.chorn.in.th",
@@ -41,7 +40,13 @@ export const FOOTER_INFO: IFooters = {
             link: "https://www.linkedin.com/company/chorn",
             icon: "bx bxl-linkedin hover-rotate",
             iconClass: "linkedin",
-        }
+        },
+        {
+            label: "Facebook",
+            link: "https://www.facebook.com/chorn.digital",
+            icon: "bx bxl-facebook hover-rotate",
+            iconClass: "facebook",
+        },
     ],
     importantLinks: [
         {

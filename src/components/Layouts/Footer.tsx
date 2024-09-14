@@ -6,6 +6,7 @@ import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {ILink} from "@/data/model/common/ILink";
+import {IMAGES} from "@/data/IMAGES";
 
 const Footer: React.FC = () => {
     const currentYear = new Date().getFullYear();
@@ -21,10 +22,10 @@ const Footer: React.FC = () => {
                                 <div className="logo">
                                     <Link href="/">
                                         <Image
-                                            src={service.FOOTER_INFO.logo}
-                                            alt="image"
+                                            src={IMAGES.logo.rec.path}
+                                            alt={IMAGES.logo.rec.title}
                                             width={150}
-                                            height={31}
+                                            height={100}
                                         />
                                     </Link>
                                 </div>

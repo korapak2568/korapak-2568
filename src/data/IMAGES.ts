@@ -2,15 +2,23 @@ export const IMAGES = {
     logo: {
         circleLg: {
             title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-circle-lg.png"
+            path: "/chorn-images/logo/chorn-logo-circle-lg.webp"
         },
         circleMd: {
             title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-circle-md.png"
+            path: "/chorn-images/logo/chorn-logo-circle-md.webp"
         },
         circleSm: {
             title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-circle-sm.png"
+            path: "/chorn-images/logo/chorn-logo-circle-sm.webp"
+        },
+        rec: {
+            title: "CHORN",
+            path: "/chorn-images/logo/chorn-logo-rec.webp"
+        },
+        business: {
+            title: "CHORN",
+            path: "/chorn-images/logo/chorn-business-logo.png"
         }
     },
     banner: {
