@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     },
     keywords: [
         // Brand Keywords
-        "CHORN", "CHORN custom software development", "CHORN software outsourcing",
+        "CHORN", "CHORN custom software development", "CHORN software outsourcing", "What is chorn",
         "CHORN software development thailand", "CHORN software developer chiangmai", "CHORN software developer bangkok",
 
         // Core Service Keywords
