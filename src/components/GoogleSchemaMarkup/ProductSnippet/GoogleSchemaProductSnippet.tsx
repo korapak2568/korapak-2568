@@ -19,8 +19,8 @@ export const GoogleSchemaProductSnippet: React.FC<IGoogleProductSnippet> = ({url
         "offers": {
             "@type": "AggregateOffer",
             "priceCurrency": "USD",
-            "lowPrice": 36000,
-            "highPrice": 108000,
+            "lowPrice": 30000,
+            "highPrice": 90000,
             "url": `${url}`,
             "availability": "https://schema.org/InStock",
             "validFrom": "2024-09-15"
