@@ -68,10 +68,6 @@ const Page = () => {
                 description="CHORN provides API testing services using Postman to ensure the reliability and performance of your web services."
                 url="https://chorn.in.th/services/devops-testing/postman/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/postman/"
-            />
         </>
     );
 };

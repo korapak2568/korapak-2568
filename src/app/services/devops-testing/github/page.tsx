@@ -68,10 +68,6 @@ const Page = () => {
                 description="CHORN offers DevOps services integrating GitHub for version control, continuous integration, and automated workflows."
                 url="https://chorn.in.th/services/devops-testing/github/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/github/"
-            />
         </>
     );
 };

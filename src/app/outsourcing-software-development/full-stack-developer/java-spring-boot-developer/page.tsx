@@ -80,10 +80,6 @@ const Page = () => {
                 description="CHORN offers Java Spring Boot full stack development services to build robust and scalable enterprise applications."
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/"
-            />
         </>
     );
 };

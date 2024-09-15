@@ -80,10 +80,6 @@ const Page = () => {
                 description="CHORN offers Node.js full stack development services for building scalable and efficient applications."
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/nodejs-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/nodejs-developer/"
-            />
         </>
     );
 };

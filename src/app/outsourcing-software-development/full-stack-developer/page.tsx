@@ -88,10 +88,6 @@ const Page = () => {
                 description="CHORN offers expert full-stack development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions."
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/"
-            />
         </>
     );
 };

@@ -92,10 +92,6 @@ const Page = () => {
                 description="Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs."
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/css3/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/css3/"
-            />
         </>
     );
 };

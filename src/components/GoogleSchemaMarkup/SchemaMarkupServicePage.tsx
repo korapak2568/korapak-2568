@@ -12,13 +12,19 @@ export const SchemaMarkupServicePage: React.FC<SchemaMarkupServicePageProps> = (
 
     const schemaData = {
         "@context": "https://schema.org",
-        "@type": "Product",
+        "@type": "Service",
         "name": `${name}`,
         "description": `${description}`,
         "url": `${url}`,
         "brand": {
             "@type": "Organization",
             "name": "CHORN"
+        },
+        "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "USD",
+            "lowPrice": 30000,
+            "highPrice": 90000,
         }
     };
 

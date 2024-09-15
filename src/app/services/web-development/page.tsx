@@ -87,10 +87,6 @@ const Page = () => {
                 description="Explore CHORN's web development services, including expertise in Next.js, React, Angular, Vue, and more. We offer tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more."
                 url="https://chorn.in.th/services/web-development/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/web-development/"
-            />
         </>
     );
 };

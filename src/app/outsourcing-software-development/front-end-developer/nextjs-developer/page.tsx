@@ -80,10 +80,6 @@ const Page = () => {
                 description="Expert Next.js development services by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js."
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/next.js"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/next.js"
-            />
         </>
     );
 };

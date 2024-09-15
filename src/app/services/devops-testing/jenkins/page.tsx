@@ -68,10 +68,6 @@ const Page = () => {
                 description="CHORN offers Jenkins-based DevOps services for automating builds, testing, and deployment in your development pipeline."
                 url="https://chorn.in.th/services/devops-testing/jenkins/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/jenkins/"
-            />
         </>
     );
 };

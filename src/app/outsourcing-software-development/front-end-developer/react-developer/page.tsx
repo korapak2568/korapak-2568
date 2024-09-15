@@ -81,10 +81,6 @@ const Page = () => {
                 description="CHORN provides top-tier React development services. Build dynamic and responsive user interfaces with React."
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/react"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/react"
-            />
         </>
     );
 };

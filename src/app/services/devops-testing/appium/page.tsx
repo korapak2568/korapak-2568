@@ -70,10 +70,6 @@ const Page = () => {
                 description="CHORN offers Appium testing services for automated mobile app testing across multiple platforms to ensure high-quality performance."
                 url="https://chorn.in.th/services/devops-testing/appium/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/appium/"
-            />
         </>
     );
 };

@@ -81,10 +81,6 @@ const Page = () => {
                 description="CHORN specializes in Vue.js development to create interactive and scalable web applications."
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/vue-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/vue-developer/"
-            />
         </>
     );
 };

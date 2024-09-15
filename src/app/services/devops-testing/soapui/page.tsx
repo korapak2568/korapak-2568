@@ -70,10 +70,6 @@ const Page = () => {
                 description="CHORN provides expert SoapUI testing services to ensure your web services and APIs are thoroughly tested and reliable."
                 url="https://chorn.in.th/services/devops-testing/soapui/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/soapui/"
-            />
         </>
     );
 };

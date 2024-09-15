@@ -75,10 +75,6 @@ const Page = () => {
                 description="Discover CHORN’s expertise in Web3 blockchain and smart contract development. We build decentralized applications (DApps) using Solidity, Ethereum, Polygon, and integrate with technologies like Hardhat, Ganache, and MetaMask."
                 url="https://chorn.in.th/services/web3-blockchain-smart-contract-development/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/web3-blockchain-smart-contract-development/"
-            />
         </>
     );
 };

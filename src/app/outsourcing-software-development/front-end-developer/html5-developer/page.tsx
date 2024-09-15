@@ -81,10 +81,6 @@ const Page = () => {
                 description="CHORN offers expert HTML5 development services to create responsive and engaging web applications."
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/html5/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/html5/"
-            />
         </>
     );
 };

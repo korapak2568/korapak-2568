@@ -82,10 +82,6 @@ const Page = () => {
                 description="CHORN offers .NET Core full stack development services to build modern, scalable, and secure web applications."
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/"
-            />
         </>
     );
 };

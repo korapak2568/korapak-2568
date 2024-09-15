@@ -84,10 +84,6 @@ const Page = () => {
                 description="Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries."
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/"
-            />
         </>
     );
 };

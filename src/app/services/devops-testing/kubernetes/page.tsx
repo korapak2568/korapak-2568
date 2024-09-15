@@ -68,10 +68,6 @@ const Page = () => {
                 description="CHORN provides Kubernetes-based DevOps services for automating deployment, scaling, and management of containerized applications."
                 url="https://chorn.in.th/services/devops-testing/kubernetes/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/kubernetes/"
-            />
         </>
     );
 };

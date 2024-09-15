@@ -82,10 +82,6 @@ const Page = () => {
                 description="CHORN offers Python full stack development services to build dynamic and scalable web applications."
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/python-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/python-developer/"
-            />
         </>
     );
 };

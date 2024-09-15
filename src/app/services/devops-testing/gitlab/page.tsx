@@ -68,10 +68,6 @@ const Page = () => {
                 description="CHORN provides GitLab-based DevOps services for continuous integration, automation, and version control solutions."
                 url="https://chorn.in.th/services/devops-testing/gitlab/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/gitlab/"
-            />
         </>
     );
 };

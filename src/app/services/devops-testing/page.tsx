@@ -71,10 +71,6 @@ const Page = () => {
                 description="CHORN offers expert DevOps and testing services to streamline your software development process. Ensure high performance and quality with our continuous integration, automated testing, and cloud-based solutions."
                 url="https://chorn.in.th/services/devops-testing/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/"
-            />
         </>
     );
 };

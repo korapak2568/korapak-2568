@@ -68,10 +68,6 @@ const Page = () => {
                 description="CHORN offers Docker-based DevOps services for efficient containerization and scalable application deployment."
                 url="https://chorn.in.th/services/devops-testing/docker/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/services/devops-testing/docker/"
-            />
         </>
     );
 };

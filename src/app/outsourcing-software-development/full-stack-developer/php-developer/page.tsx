@@ -83,10 +83,6 @@ const Page = () => {
                 description="CHORN offers PHP full stack development services for building dynamic and scalable web applications."
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/php-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/php-developer/"
-            />
         </>
     );
 };

@@ -80,10 +80,6 @@ const Page = () => {
                 description="CHORN offers Go full stack development services for building efficient and scalable web applications."
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-developer/"
-            />
         </>
     );
 };

@@ -86,10 +86,6 @@ const Page = () => {
                 description="Expert Angular development services by CHORN. Build dynamic, scalable, and high-performance web applications using Angular."
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/angular-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/angular-developer/"
-            />
         </>
     );
 };

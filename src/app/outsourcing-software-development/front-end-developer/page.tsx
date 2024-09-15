@@ -88,10 +88,6 @@ const Page = () => {
                 description="CHORN provides expert frontend development services, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies."
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/"
             />
-
-            <GoogleSchemaProductSnippet
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/"
-            />
         </>
     );
 };
