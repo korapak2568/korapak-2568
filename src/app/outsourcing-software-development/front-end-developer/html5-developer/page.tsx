@@ -6,7 +6,8 @@ import ServicesDetailsHtml5 from "@/components/Services/frontend-development/htm
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "HTML5 Development Services | CHORN",
@@ -78,6 +79,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="HTML5 Development Services | CHORN"
                 description="CHORN offers expert HTML5 development services to create responsive and engaging web applications."
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/html5/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/html5/"
             />
         </>

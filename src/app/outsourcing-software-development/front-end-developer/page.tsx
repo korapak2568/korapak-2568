@@ -7,7 +7,8 @@ import ServicesCardFrontEnd from "../../../components/Services/frontend-developm
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Frontend Development Services | CHORN",
@@ -85,6 +86,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Frontend Development Services | CHORN"
                 description="CHORN provides expert frontend development services, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies."
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/"
             />
         </>

@@ -6,7 +6,8 @@ import ServicesDetailsNextJS from "@/components/Services/frontend-development/ne
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Next.js Development Services | CHORN",
@@ -77,6 +78,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Next.js Development Services | CHORN"
                 description="Expert Next.js development services by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js."
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/next.js"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/next.js"
             />
         </>

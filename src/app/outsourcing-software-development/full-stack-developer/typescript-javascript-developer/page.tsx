@@ -7,7 +7,8 @@ import ServicesDetailsTypeScript
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "TypeScript | CHORN - Custom Software Development Experts",
@@ -81,6 +82,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="TypeScript | CHORN - Custom Software Development Experts"
                 description="Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries."
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/"
             />
         </>

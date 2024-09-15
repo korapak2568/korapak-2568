@@ -6,7 +6,8 @@ import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries"
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesCardDevOpsTesting from "@/components/Services/devops-testing/ServicesCardDevOpsTesting";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "DevOps & Testing Services | CHORN",
@@ -68,6 +69,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="DevOps & Testing Services | CHORN"
                 description="CHORN offers expert DevOps and testing services to streamline your software development process. Ensure high performance and quality with our continuous integration, automated testing, and cloud-based solutions."
+                url="https://chorn.in.th/services/devops-testing/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/services/devops-testing/"
             />
         </>

@@ -6,7 +6,7 @@ import SubscribeForm from "../../components/Common/SubscribeForm";
 import ContactInfo from "../../components/Contact/ContactInfo";
 import ContactForm from "../../components/Contact/ContactForm";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
 // Define metadata for the Contact page
 export const metadata: Metadata = {

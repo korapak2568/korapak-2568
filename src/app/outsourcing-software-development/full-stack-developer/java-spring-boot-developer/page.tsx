@@ -6,7 +6,8 @@ import ServicesDetailsJava from "@/components/Services/fullstack-development/jav
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Java Spring Boot Full Stack Development | CHORN",
@@ -77,6 +78,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Java Spring Boot Full Stack Development | CHORN"
                 description="CHORN offers Java Spring Boot full stack development services to build robust and scalable enterprise applications."
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/"
             />
         </>

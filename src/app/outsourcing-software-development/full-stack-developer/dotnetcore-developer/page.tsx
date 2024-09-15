@@ -7,7 +7,8 @@ import ServicesDetailsDotNetCore
     from "@/components/Services/fullstack-development/dotnetcore/ServicesDetailsDotNetCore";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: ".NET Core Full Stack Development | CHORN",
@@ -79,6 +80,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name=".NET Core Full Stack Development | CHORN"
                 description="CHORN offers .NET Core full stack development services to build modern, scalable, and secure web applications."
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/dotnetcore-developer/"
             />
         </>

@@ -6,7 +6,8 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsSoapUI from "@/components/Services/devops-testing/soapui/ServicesDetailsSoapUI";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "SoapUI Testing Services | CHORN",
@@ -67,6 +68,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="SoapUI Testing Services | CHORN"
                 description="CHORN provides expert SoapUI testing services to ensure your web services and APIs are thoroughly tested and reliable."
+                url="https://chorn.in.th/services/devops-testing/soapui/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/services/devops-testing/soapui/"
             />
         </>

@@ -4,7 +4,7 @@ import Footer from "../../components/Layouts/Footer";
 import AboutContent from "../../components/AboutUs/AboutContent";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import type {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
     title: "About Us | CHORN - Custom Software Development Experts",

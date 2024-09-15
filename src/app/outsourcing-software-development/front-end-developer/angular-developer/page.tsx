@@ -6,7 +6,8 @@ import ServicesDetailsAngular from "@/components/Services/frontend-development/a
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Angular Development Services | CHORN",
@@ -48,10 +49,14 @@ export const metadata: Metadata = {
 
         // Developer & Location-Specific Keywords
         "web developer", "full stack developer", "software engineer", "software developer Thailand",
-        "Angular developer Thailand", "frontend developer Thailand", "web developer Bangkok",
+        "Angular developer Thailand", "frontend developer Thailand", "web developer Bangkok", "Angular developer Chiangmai",
+        "Angular developer Bangkok", "Angular development company",
 
         // Brand & Innovation Keywords
-        "CHORN", "digital innovation", "enterprise software"
+        "CHORN", "digital innovation", "enterprise software",
+
+        // Google
+        "responsive web design in angular", "responsive web design angular", "angular responsive web design"
     ]
 
 };
@@ -79,6 +84,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Angular Development Services | CHORN"
                 description="Expert Angular development services by CHORN. Build dynamic, scalable, and high-performance web applications using Angular."
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/angular-developer/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/angular-developer/"
             />
         </>

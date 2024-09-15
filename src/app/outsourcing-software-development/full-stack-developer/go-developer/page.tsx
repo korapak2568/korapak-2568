@@ -6,7 +6,8 @@ import ServicesDetailsGoLang from "@/components/Services/fullstack-development/g
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Go Full Stack Development | CHORN",
@@ -77,6 +78,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Go Full Stack Development | CHORN"
                 description="CHORN offers Go full stack development services for building efficient and scalable web applications."
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-developer/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/go-developer/"
             />
         </>

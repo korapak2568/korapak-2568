@@ -6,7 +6,8 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsKubernetes from "@/components/Services/devops-testing/kubernetes/ServicesDetailsKubernetes";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Kubernetes DevOps Services | CHORN",
@@ -65,6 +66,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Kubernetes DevOps Services | CHORN"
                 description="CHORN provides Kubernetes-based DevOps services for automating deployment, scaling, and management of containerized applications."
+                url="https://chorn.in.th/services/devops-testing/kubernetes/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/services/devops-testing/kubernetes/"
             />
         </>

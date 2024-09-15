@@ -6,7 +6,8 @@ import ServicesDetailsCss3 from "@/components/Services/frontend-development/css3
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "CSS3 Development Services | CHORN",
@@ -59,7 +60,10 @@ export const metadata: Metadata = {
         "web developer Thailand", "software engineer Thailand",
 
         // Brand & Innovation Keywords
-        "CHORN", "digital innovation", "enterprise software", "scalable web applications"
+        "CHORN", "digital innovation", "enterprise software", "scalable web applications",
+
+        // Google
+        "css3 development services", "responsive web design", "dynamic user interfaces",
     ]
 };
 
@@ -86,6 +90,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="CSS3 Development Services | CHORN"
                 description="Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs."
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/css3/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/front-end-developer/css3/"
             />
         </>

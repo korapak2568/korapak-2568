@@ -6,7 +6,8 @@ import ServicesDetailsNodejs from "@/components/Services/fullstack-development/n
 import CloudExperience from "@/components/Common/CloudExperience";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Node.js Full Stack Development | CHORN",
@@ -77,6 +78,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Node.js Full Stack Development | CHORN"
                 description="CHORN offers Node.js full stack development services for building scalable and efficient applications."
+                url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/nodejs-developer/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/outsourcing-software-development/full-stack-developer/nodejs-developer/"
             />
         </>

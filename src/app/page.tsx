@@ -10,7 +10,7 @@ import Recommendations from "../components/Common/Recommendations";
 import SubscribeForm from "../components/Common/SubscribeForm";
 import Footer from "../components/Layouts/Footer";
 import React from "react";
-import {SchemaMarkupHomePage} from "@/components/SchemaMarkup/SchemaMarkupHomePage";
+import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 
 export default function Home() {
 

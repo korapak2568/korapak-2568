@@ -6,7 +6,8 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsJenkins from "@/components/Services/devops-testing/jenkins/ServicesDetailsJenkins";
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
-import {SchemaMarkupServicePage} from "@/components/SchemaMarkup/SchemaMarkupServicePage";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Jenkins DevOps Services | CHORN",
@@ -65,6 +66,10 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Jenkins DevOps Services | CHORN"
                 description="CHORN offers Jenkins-based DevOps services for automating builds, testing, and deployment in your development pipeline."
+                url="https://chorn.in.th/services/devops-testing/jenkins/"
+            />
+
+            <GoogleSchemaProductSnippet
                 url="https://chorn.in.th/services/devops-testing/jenkins/"
             />
         </>

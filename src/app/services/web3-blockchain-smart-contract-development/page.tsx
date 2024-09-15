@@ -4,6 +4,8 @@ import PageBanner from "../../../components/Common/PageBanner";
 import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
 import {Metadata} from "next";
+import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions",
@@ -67,6 +69,16 @@ const Page = () => {
             <WeWorkForIndustries/>
 
             <Footer/>
+
+            <SchemaMarkupServicePage
+                name="Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions"
+                description="Discover CHORN’s expertise in Web3 blockchain and smart contract development. We build decentralized applications (DApps) using Solidity, Ethereum, Polygon, and integrate with technologies like Hardhat, Ganache, and MetaMask."
+                url="https://chorn.in.th/services/web3-blockchain-smart-contract-development/"
+            />
+
+            <GoogleSchemaProductSnippet
+                url="https://chorn.in.th/services/web3-blockchain-smart-contract-development/"
+            />
         </>
     );
 };
