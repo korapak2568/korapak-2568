@@ -10,6 +10,9 @@ import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/Produc
 export const metadata: Metadata = {
     title: "Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions",
     description: "Discover CHORN’s expertise in Web3 blockchain and smart contract development. We build decentralized applications (DApps) using Solidity, Ethereum, Polygon, and integrate with technologies like Hardhat, Ganache, and MetaMask.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/web3-blockchain-smart-contract-development/",
+    },
     openGraph: {
         title: "Top Web3 Blockchain Smart Contract Development Services | CHORN",
         description: "CHORN offers specialized Web3 blockchain and smart contract development services. Our expertise includes building DApps with Solidity, Ethereum, Polygon, and integrating with Hardhat, Ganache, and MetaMask.",
@@ -28,7 +31,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Web3 Blockchain Smart Contract Development | CHORN",
         description: "Explore CHORN’s Web3 and blockchain smart contract development services. We create decentralized applications (DApps) with Solidity, Ethereum, Polygon, and integrate with Hardhat, Ganache, and MetaMask.",
-        images: ["https://chorn.in.th/chorn-images/metadata/web3-blockchain-development.png"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/web3-blockchain-development.png"
+        ],
     },
     keywords: [
         // Core Web3 & Blockchain Keywords

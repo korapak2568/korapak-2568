@@ -5,19 +5,19 @@ publish = "out"
 [[redirects]]
 from = "/e-commerce-development"
 to = "https://angular.chorn.in.th/e-commerce-development"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
 from = "/mvp"
 to = "https://angular.chorn.in.th/mvp"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
 from = "/back-end-development"
 to = "/services/fullstack-development/"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
@@ -29,13 +29,13 @@ force = true
 [[redirects]]
 from = "/front-end-development"
 to = "/outsourcing-software-development/front-end-developer/"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
 from = "/custom-software-development"
 to = "/services/web-development/"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
@@ -53,13 +53,13 @@ force = true
 [[redirects]]
 from = "/single-page-application"
 to = "/outsourcing-software-development/front-end-developer/"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
 from = "/galleries"
 to = "/404"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
@@ -71,37 +71,19 @@ force = true
 [[redirects]]
 from = "/microservices-technology"
 to = "https://angular.chorn.in.th/microservices-technology"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
 from = "/responsive-web-design"
 to = "https://angular.chorn.in.th/responsive-web-design"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
 from = "/scaling"
 to = "https://angular.chorn.in.th/scaling"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/frontend-development"
-to = "/outsourcing-software-development/front-end-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/full-stack-developer"
-to = "/outsourcing-software-development/full-stack-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/"
-to = "/outsourcing-software-development/full-stack-developer/"
-status = 301
+status = 302
 force = true
 
 [[redirects]]
@@ -168,6 +150,90 @@ force = true
 from = "/services/fullstack-development/typescript/"
 to = "/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/"
 status = 301
+force = true
+
+[[redirects]]
+from = "/services/frontend-development"
+to = "/outsourcing-software-development/front-end-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/full-stack-developer"
+to = "/outsourcing-software-development/full-stack-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/fullstack-development/"
+to = "/outsourcing-software-development/full-stack-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/frontend-development/html5/"
+to = "/outsourcing-software-development/front-end-developer/html5-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/outsourcing-software-development/front-end-developer/react/"
+to = "/outsourcing-software-development/front-end-developer/react-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/outsourcing-software-development/front-end-developer/react"
+to = "/outsourcing-software-development/front-end-developer/react-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/outsourcing-software-development/front-end-developer/html5/"
+to = "/outsourcing-software-development/front-end-developer/html5-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/outsourcing-software-development/front-end-developer/next.js/"
+to = "/outsourcing-software-development/front-end-developer/nextjs-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/outsourcing-software-development/front-end-developer/css3/"
+to = "/outsourcing-software-development/front-end-developer/css3-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/chorn-services"
+to = "/services/web-development/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services"
+to = "/services/web-development/"
+status = 302
+force = true
+
+[[redirects]]
+from = "/services/"
+to = "/services/web-development/"
+status = 302
+force = true
+
+[[redirects]]
+from = "/poc"
+to = "https://angular.chorn.in.th/poc"
+status = 302
+force = true
+
+[[redirects]]
+from = "/services/outsourcing/"
+to = "/services/web-development/"
+status = 302
 force = true
 
 [[redirects]]

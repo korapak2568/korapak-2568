@@ -7,7 +7,6 @@ import ServicesDetailsAppium from "@/components/Services/devops-testing/appium/S
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Appium Testing Services | CHORN",
