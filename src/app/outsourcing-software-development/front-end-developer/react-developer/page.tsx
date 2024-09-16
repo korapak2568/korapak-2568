@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "React Development Services | CHORN",
     description: "CHORN provides top-tier React development services. Build dynamic and responsive user interfaces with React.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/react-developer",
+        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/react-developer/",
     },
     openGraph: {
         title: "React Development | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
                 alt: "React Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/react",
+        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/react-developer",
         type: "website",
     },
     twitter: {
@@ -78,7 +78,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="React Development Services | CHORN"
                 description="CHORN provides top-tier React development services. Build dynamic and responsive user interfaces with React."
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/react"
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/react-developer/"
             />
         </>
     );

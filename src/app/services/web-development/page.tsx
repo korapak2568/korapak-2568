@@ -12,6 +12,9 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 export const metadata: Metadata = {
     title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
     description: "Explore CHORN's web development services, including expertise in Next.js, React, Angular, Vue, and more. We offer tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
+    alternates: {
+        canonical: "https://chorn.in.th/services/web-development/",
+    },
     openGraph: {
         title: "Top Web Development Services | CHORN",
         description: "CHORN provides cutting-edge web development services with expertise in popular frameworks like Next.js, React, Angular, and more. We cater to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",

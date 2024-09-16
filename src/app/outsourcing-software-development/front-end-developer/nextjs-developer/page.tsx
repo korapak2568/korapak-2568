@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Next.js Development Services | CHORN",
     description: "Expert Next.js development services by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/next.js",
+        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/nextjs-developer",
     },
     openGraph: {
         title: "Next.js Development | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
                 alt: "Next.js Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/next.js",
+        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/nextjs-developer",
         type: "website",
     },
     twitter: {
@@ -77,7 +77,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Next.js Development Services | CHORN"
                 description="Expert Next.js development services by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js."
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/next.js"
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/nextjs-developer"
             />
         </>
     );

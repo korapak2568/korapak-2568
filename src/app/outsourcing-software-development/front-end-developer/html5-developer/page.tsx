@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "HTML5 Development Services | CHORN",
     description: "CHORN offers expert HTML5 development services to create responsive and engaging web applications.",
     alternates: {
-        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/html5/",
+        canonical: "https://chorn.in.th/outsourcing-software-development/front-end-developer/html5-developer/",
     },
     openGraph: {
         title: "HTML5 Development | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
                 alt: "HTML5 Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/html5/",
+        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/html5-developer/",
         type: "website",
     },
     twitter: {
@@ -78,7 +78,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="HTML5 Development Services | CHORN"
                 description="CHORN offers expert HTML5 development services to create responsive and engaging web applications."
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/html5/"
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/html5-developer/"
             />
         </>
     );

@@ -25,7 +25,7 @@ export const metadata: Metadata = {
                 alt: "CSS3 Development Banner"
             }
         ],
-        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/css3/",
+        url: "https://chorn.in.th/outsourcing-software-development/front-end-developer/css3-developer/",
         type: "website",
     },
     twitter: {
@@ -89,7 +89,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="CSS3 Development Services | CHORN"
                 description="Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs."
-                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/css3/"
+                url="https://chorn.in.th/outsourcing-software-development/front-end-developer/css3-developer/"
             />
         </>
     );
