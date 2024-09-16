@@ -19,10 +19,11 @@ export const NAVBAR: INavbar[] = [
         link: "/contact-chorn/",
         submenu: []
     },
+
     {
         group: "/services/",
         label: "Services",
-        link: "/services",
+        link: "/services/web-development/",
         submenu: [
             {
                 group: "/services/",
@@ -54,13 +55,14 @@ export const NAVBAR: INavbar[] = [
                 label: "DevOps Testing",
                 link: "/services/devops-testing/",
                 submenu: []
-            },
+            }
         ],
     },
+
     {
         group: "/outsourcing-software-development/",
         label: "Outsourcing",
-        link: "/services/outsourcing",
+        link: "/outsourcing-software-development/front-end-developer/",
         submenu: [
             {
                 group: "/services/",

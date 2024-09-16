@@ -70,7 +70,7 @@ const Page = () => {
                 pageTitle="Web Development Service"
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText="Web Development"
+                activePageText="Web Development | PoC | MVP"
                 BGImage="/images/page-banner/page-banner-1.jpg"
             />
 
