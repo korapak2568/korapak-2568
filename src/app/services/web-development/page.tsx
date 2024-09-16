@@ -8,7 +8,6 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesCardFullStack from "@/components/Services/fullstack-development/ServicesCardFullStack";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Web Development Services | CHORN | Custom Software & Technology Solutions",

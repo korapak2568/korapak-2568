@@ -7,7 +7,6 @@ import ServicesDetailsJenkins from "@/components/Services/devops-testing/jenkins
 import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {GoogleSchemaProductSnippet} from "@/components/GoogleSchemaMarkup/ProductSnippet/GoogleSchemaProductSnippet";
 
 export const metadata: Metadata = {
     title: "Jenkins DevOps Services | CHORN",
