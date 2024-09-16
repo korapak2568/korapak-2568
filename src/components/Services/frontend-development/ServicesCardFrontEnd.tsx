@@ -40,7 +40,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                                         like <strong>Next.js</strong>
                                         and <strong>React</strong> for dynamic web apps.
                                     </li>
-                                    <li><strong>SEO Optimization</strong>Ensure your website ranks high on Google with
+                                    <li><strong>SEO Optimization</strong>Ensure your website on Google with
                                         optimized code and performance.
                                     </li>
                                     <li><strong>Proof of Concept (PoC)</strong>Validate your idea with a quick PoC.

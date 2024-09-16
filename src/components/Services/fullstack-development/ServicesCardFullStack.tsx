@@ -40,8 +40,8 @@ const ServicesCardFrontEnd: React.FC = () => {
                                         <strong>Front-End & Back-End Integration</strong>Create fully-functional web
                                         applications that are fast, secure, and easy to scale.
                                     </li>
-                                    <li><strong>SEO & Performance Optimization</strong>Ensure high rankings and
-                                        optimized performance across all search engines.
+                                    <li><strong>SEO & Performance Optimization</strong>SEO your website on Google with
+                                        optimized code and performance.
                                     </li>
                                     <li><strong>Automation Testing</strong>Enhance reliability with thorough testing
                                         frameworks integrated into the development cycle.
