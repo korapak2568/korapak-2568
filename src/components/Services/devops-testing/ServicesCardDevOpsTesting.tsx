@@ -18,7 +18,6 @@ const ServicesCardDevOpsTesting: React.FC = () => {
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-
                             <p>
                                 Streamline your software development lifecycle with our <strong>DevOps and testing
                                 services.</strong> Our team of DevOps engineers helps automate and optimize your
@@ -56,6 +55,7 @@ const ServicesCardDevOpsTesting: React.FC = () => {
                                     </li>
                                 </ul>
                             </div>
+
                             <div>
                                 <h2>Why Choose Us for DevOps and Testing?</h2>
                                 <p>

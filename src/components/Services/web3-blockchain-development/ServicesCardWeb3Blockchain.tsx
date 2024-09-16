@@ -18,13 +18,13 @@ const ServicesCardWeb3Blockchain: React.FC = () => {
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-                            <div>
+                            <p>
                                 Unlock the potential of decentralized applications (dApps) and smart contracts with our
                                 comprehensive <strong>Web3 and blockchain development services</strong>. Whether you are
                                 looking to build a decentralized finance (DeFi) platform, NFT marketplace, or any other
                                 dApp, our team of expert developers can help you bring your blockchain vision to life.
-                            </div>
-                            <div>
+                            </p>
+                            <p>
                                 We specialize in developing secure, scalable, and efficient <strong>smart
                                 contracts</strong> using <strong>Solidity</strong> on Ethereum and Polygon networks. Our
                                 expertise extends to building full-stack Web3 applications
@@ -33,7 +33,7 @@ const ServicesCardWeb3Blockchain: React.FC = () => {
                                 development to deployment, we leverage the latest tools
                                 like <strong>Hardhat</strong> and <strong>Ganache</strong> to ensure efficient
                                 development, testing, and management of your blockchain projects.
-                            </div>
+                            </p>
                             <div>
                                 <h2>Our Web3 & Blockchain Services</h2>
                                 <ul>

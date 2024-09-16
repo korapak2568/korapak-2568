@@ -18,20 +18,20 @@ const ServicesCardFrontEnd: React.FC = () => {
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-                            <div>
+                            <p>
                                 Looking for a highly skilled front-end developer to bring your web application vision to
                                 life? Our front-end development outsourcing services offer expertise in crafting
                                 user-friendly, visually appealing, and responsive websites. We specialize in frameworks
                                 like <strong>Next.js, React, Angular, Vue.js, </strong> as well as the essential web
                                 technologies, <strong>HTML5 </strong>
                                 and <strong>CSS3</strong>.
-                            </div>
-                            <div>
+                            </p>
+                            <p>
                                 Whether you are aiming for an SEO-optimized, high-performance single-page application
                                 (SPA) or a complex, multi-page web platform, our developers ensure your project is
                                 delivered efficiently and on time. From concept to deployment, we help you create
                                 engaging digital experiences that captivate your audience.
-                            </div>
+                            </p>
                             <div>
                                 <h2>Our Services</h2>
                                 <ul>
