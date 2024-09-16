@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Boost your DevOps pipeline with CHORN’s GitLab services for CI/CD, version control, and automation.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/gitlab.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/gitlab.webp",
                 width: 1200,
                 height: 630,
                 alt: "GitLab DevOps Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "GitLab DevOps Services | CHORN",
         description: "Leverage GitLab DevOps services from CHORN for continuous integration, version control, and workflow automation.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/gitlab.png",
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/gitlab.webp",
         ],
     },
     keywords: [

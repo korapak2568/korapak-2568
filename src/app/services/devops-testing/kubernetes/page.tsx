@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Optimize your infrastructure with CHORN’s Kubernetes DevOps services for automated scaling and management of applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/kubernetes.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/kubernetes.webp",
                 width: 1200,
                 height: 630,
                 alt: "Kubernetes DevOps Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "Kubernetes DevOps Services | CHORN",
         description: "Leverage Kubernetes DevOps expertise by CHORN for automating and managing scalable containerized applications.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/kubernetes.png",
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/kubernetes.webp",
         ],
     },
     keywords: [

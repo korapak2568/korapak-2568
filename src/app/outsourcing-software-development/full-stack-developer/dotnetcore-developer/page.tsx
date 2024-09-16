@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core full stack development services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.webp",
                 width: 1200,
                 height: 630,
                 alt: ".NET Core Development Banner"
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
         title: ".NET Core Full Stack Development | CHORN",
         description: "Expert .NET Core full stack development services from CHORN for modern and scalable web applications.",
         images: [
-            "https://chorn.in.th/chorn-images/services-details/fullstack-development/service-detail-dotnetcore.png"
+            "https://chorn.in.th/chorn-images/services-details/fullstack-development/service-detail-dotnetcore.webp"
         ],
     },
     keywords: [

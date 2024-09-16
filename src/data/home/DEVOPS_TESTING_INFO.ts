@@ -9,7 +9,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "Docker",
             description: "Streamline your application deployment with containerization for consistent and efficient environments.",
-            image: "/chorn-images/services/devops-testing/Docker.png",
+            image: "/chorn-images/services/devops-testing/Docker.webp",
             readMore: "Read More",
             link: "/services/devops-testing/docker",
             details: [
@@ -54,7 +54,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "Kubernetes",
             description: "Automate your container orchestration with Kubernetes for scalable and resilient applications.",
-            image: "/chorn-images/services/devops-testing/Kubernetes.png",
+            image: "/chorn-images/services/devops-testing/Kubernetes.webp",
             readMore: "Read More",
             link: "/services/devops-testing/kubernetes",
             details: [
@@ -99,7 +99,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "GitHub",
             description: "Enhance your development workflow with GitHub's version control and collaborative platform.",
-            image: "/chorn-images/services/devops-testing/GitHub.png",
+            image: "/chorn-images/services/devops-testing/GitHub.webp",
             readMore: "Read More",
             link: "/services/devops-testing/github",
             details: [
@@ -144,7 +144,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "GitLab",
             description: "Optimize your DevOps pipeline with GitLab's all-in-one platform for version control, CI/CD, and more.",
-            image: "/chorn-images/services/devops-testing/GitLab.png",
+            image: "/chorn-images/services/devops-testing/GitLab.webp",
             readMore: "Read More",
             link: "/services/devops-testing/gitlab",
             details: [
@@ -189,7 +189,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "Jenkins",
             description: "Automate your software development with Jenkins, the leading open-source CI/CD tool.",
-            image: "/chorn-images/services/devops-testing/Jenkins.png",
+            image: "/chorn-images/services/devops-testing/Jenkins.webp",
             readMore: "Read More",
             link: "/services/devops-testing/jenkins",
             details: [
@@ -234,7 +234,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "Postman",
             description: "Streamline your API development and testing with Postman's collaborative platform.",
-            image: "/chorn-images/services/devops-testing/Postman.png",
+            image: "/chorn-images/services/devops-testing/Postman.webp",
             readMore: "Read More",
             link: "/services/devops-testing/postman",
             details: [
@@ -279,7 +279,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "Selenium",
             description: "Automate your web application testing with Selenium's powerful testing suite.",
-            image: "/chorn-images/services/devops-testing/Selenium.png",
+            image: "/chorn-images/services/devops-testing/Selenium.webp",
             readMore: "Read More",
             link: "/services/devops-testing/selenium",
             details: [
@@ -324,7 +324,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "SOAPUI",
             description: "Simplify your API testing with SOAPUI's comprehensive testing toolset for REST and SOAP APIs.",
-            image: "/chorn-images/services/devops-testing/SoapUI.png",
+            image: "/chorn-images/services/devops-testing/SoapUI.webp",
             readMore: "Read More",
             link: "/services/devops-testing/soapui", details: [
                 {
@@ -368,7 +368,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
         {
             title: "Appium",
             description: "Automate your mobile application testing with Appium's versatile and open-source framework.",
-            image: "/chorn-images/services/devops-testing/Appium.png",
+            image: "/chorn-images/services/devops-testing/Appium.webp",
             readMore: "Read More",
             link: "/services/devops-testing/appium",
             details: [

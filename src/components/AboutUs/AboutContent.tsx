@@ -15,7 +15,7 @@ const AboutContent: React.FC = () => {
                         <div className="col-lg-6">
                             <div
                                 className="about-image-warp"
-                                style={{backgroundImage: `url(/images/about/about-2.jpg)`}}
+                                style={{backgroundImage: `url(/chorn-images/about/about-2.webp)`}}
                             ></div>
                         </div>
 

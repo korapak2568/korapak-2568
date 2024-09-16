@@ -234,3 +234,19 @@
   background-color: black;
   color: white;
 }
+
+.add-web-content {
+  margin-bottom: 20px;
+
+  h2 {
+    margin-top: 20px;
+  }
+
+  ul {
+    li {
+      strong {
+        margin-right: 5px;
+      }
+    }
+  }
+}

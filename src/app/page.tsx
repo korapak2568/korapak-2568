@@ -18,7 +18,7 @@ export default function Home() {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "CHORN | Digital Innovation & Custom Software Solutions",
-        "logo": "https://chorn.in.th/chorn-images/logo/chorn-business-logo.png",
+        "logo": "https://chorn.in.th/chorn-images/logo/chorn-logo-circle-md.webp",
         "@id": "https://chorn.in.th",
         "url": "https://chorn.in.th",
         "contactPoint": {

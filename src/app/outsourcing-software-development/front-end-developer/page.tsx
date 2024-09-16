@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: "CHORN offers frontend development services using modern technologies like Next.js, React, Angular, Vue, HTML5, and CSS3 to build fast, responsive, and scalable websites.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png",
+                url: "https://chorn.in.th/chorn-images/metadata/frontend-development-services.webp",
                 width: 1360,
                 height: 810,
                 alt: "Frontend Development Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Frontend Development Services | CHORN",
         description: "Expert frontend development services by CHORN, utilizing technologies like Next.js, React, Angular, Vue, HTML5, and CSS3 for responsive, scalable websites.",
-        images: ["https://chorn.in.th/chorn-images/metadata/frontend-development-services.png"],
+        images: ["https://chorn.in.th/chorn-images/metadata/frontend-development-services.webp"],
     },
     keywords: [
         // Core Frontend Development Keywords

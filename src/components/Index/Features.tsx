@@ -25,7 +25,7 @@ const Features: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="features-image-warp">
                                 <Image
-                                    src="/chorn-images/features/features-2.png"
+                                    src="/chorn-images/features/features-2.webp"
                                     alt="image"
                                     width={720}
                                     height={620}

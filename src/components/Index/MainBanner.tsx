@@ -15,7 +15,7 @@ const MainBanner: React.FC = () => {
                 <div
                     className="main-banner-item item-four"
                     style={{
-                        backgroundImage: `url(/images/main-banner-bg-4.jpg)`,
+                        backgroundImage: `url(/chorn-images/main-banner-bg-4.webp)`,
                     }}
                 >
                     <div className="d-table">
@@ -59,7 +59,7 @@ const MainBanner: React.FC = () => {
                                             data-aos-once="true"
                                         >
                                             <Image
-                                                src="/chorn-images/services/services-11.jpg"
+                                                src="/chorn-images/services/services-11.webp"
                                                 alt="image"
                                                 width={650}
                                                 height={500}

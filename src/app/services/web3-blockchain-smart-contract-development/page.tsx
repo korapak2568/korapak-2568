@@ -5,6 +5,8 @@ import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import ServicesCardWeb3Blockchain from "@/components/Services/web3-blockchain-development/ServicesCardWeb3Blockchain";
+import CloudExperience from "@/components/Common/CloudExperience";
 
 export const metadata: Metadata = {
     title: "Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions",
@@ -17,7 +19,7 @@ export const metadata: Metadata = {
         description: "CHORN offers specialized Web3 blockchain and smart contract development services. Our expertise includes building DApps with Solidity, Ethereum, Polygon, and integrating with Hardhat, Ganache, and MetaMask.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/web3-blockchain-development.png",
+                url: "https://chorn.in.th/chorn-images/metadata/web3-blockchain-development.webp",
                 width: 1200,
                 height: 630,
                 alt: "Web3 Blockchain Smart Contract Development Services Banner",
@@ -31,7 +33,7 @@ export const metadata: Metadata = {
         title: "Web3 Blockchain Smart Contract Development | CHORN",
         description: "Explore CHORN’s Web3 and blockchain smart contract development services. We create decentralized applications (DApps) with Solidity, Ethereum, Polygon, and integrate with Hardhat, Ganache, and MetaMask.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/web3-blockchain-development.png"
+            "https://chorn.in.th/chorn-images/metadata/web3-blockchain-development.webp"
         ],
     },
     keywords: [
@@ -68,7 +70,9 @@ const Page = () => {
                 BGImage="/images/page-banner/page-banner-1.jpg"
             />
 
-            {/*<ServicesCardFrontEnd />*/}
+            <ServicesCardWeb3Blockchain/>
+
+            <CloudExperience/>
 
             <WeWorkForIndustries/>
 

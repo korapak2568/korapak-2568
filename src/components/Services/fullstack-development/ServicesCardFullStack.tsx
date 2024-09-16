@@ -16,6 +16,58 @@ const ServicesCardFrontEnd: React.FC = () => {
             <div className="services-area pt-100 pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
+
+                        <div className={'add-web-content'}>
+                            <p>
+                                Take advantage of our full-stack development outsourcing services to build robust,
+                                scalable, and secure web applications from scratch. Our developers excel in both
+                                front-end and back-end technologies, delivering a comprehensive solution tailored to
+                                your business needs. We have expertise in a variety of technology stacks, including
+                                <strong>Node.js, .NET Core, Java Spring Boot, Python,
+                                    Go, </strong> and <strong>PHP,</strong> ensuring we can meet any project
+                                requirements, no matter how complex.
+                            </p>
+                            <p>
+                                Whether you are launching a <strong>Proof of Concept (PoC)</strong> or looking to develop
+                                a full-scale <strong>Minimum Viable Product (MVP)</strong>, our full-stack developers
+                                ensure seamless integration between the front end and back end for an optimal user
+                                experience.
+                            </p>
+                            <div>
+                                <h2>Our Full-Stack Development Services</h2>
+                                <ul>
+                                    <li>
+                                        <strong>Front-End & Back-End Integration</strong>Create fully-functional web
+                                        applications that are fast, secure, and easy to scale.
+                                    </li>
+                                    <li><strong>SEO & Performance Optimization</strong>Ensure high rankings and
+                                        optimized performance across all search engines.
+                                    </li>
+                                    <li><strong>Automation Testing</strong>Enhance reliability with thorough testing
+                                        frameworks integrated into the development cycle.
+                                    </li>
+                                    <li><strong>Database Management</strong>Efficiently handle your data with MySQL,
+                                        MongoDB, or PostgreSQL.
+                                    </li>
+                                    <li><strong>Cloud Services</strong>Deploy scalable applications using AWS, Azure, or
+                                        Google Cloud.
+                                    </li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h2>Why Outsource to Us?</h2>
+                                <p>
+                                    We deliver flexible, end-to-end full-stack solutions tailored to your specific
+                                    project goals. Our expert developers work with you through every stage of the
+                                    development process, from <strong>PoC</strong> to <strong>MVP</strong> and full
+                                    production, ensuring a seamless development journey with regular feedback and
+                                    updates. Leverage our expertise in <strong>API integration,
+                                    DevOps,</strong> and <strong>automation testing</strong> for rapid, efficient
+                                    delivery.
+                                </p>
+                            </div>
+                        </div>
+
                         {service.FULL_STACK_FRAMEWORK_INFO.additions.map((addition: IContentImage, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services">

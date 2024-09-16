@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Leverage CHORN’s PHP full stack development services to build scalable and dynamic web applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/php-development-service.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/php-development-service.webp",
                 width: 1200,
                 height: 630,
                 alt: "PHP Development Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "PHP Full Stack Development | CHORN",
         description: "Expert PHP full stack development services from CHORN for dynamic and scalable web applications.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/php-development-service.png",
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/php-development-service.webp",
         ],
     },
     keywords: [

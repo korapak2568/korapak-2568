@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Automate your mobile app testing with CHORN’s Appium services for comprehensive cross-platform testing.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/appium.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/appium.webp",
                 width: 1200,
                 height: 630,
                 alt: "Appium Testing Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "Appium Testing Services | CHORN",
         description: "Ensure your mobile apps perform flawlessly with CHORN’s Appium testing services for thorough and automated cross-platform testing.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/appium.png",
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/appium.webp",
         ],
     },
     keywords: [

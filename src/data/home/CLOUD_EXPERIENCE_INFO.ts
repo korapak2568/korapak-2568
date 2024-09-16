@@ -9,7 +9,7 @@ export const CLOUD_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "AWS",
             description: "Cloud Experience",
-            image: "/chorn-images/cloud/thumbnail/aws.png",
+            image: "/chorn-images/cloud/thumbnail/aws.webp",
             readMore: "Read More",
             link: "/services/details",
             details: [],
@@ -19,7 +19,7 @@ export const CLOUD_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Azure",
             description: "Cloud Experience",
-            image: "/chorn-images/cloud/thumbnail/azure.png",
+            image: "/chorn-images/cloud/thumbnail/azure.webp",
             readMore: "Read More",
             link: "/services/details",
             details: [],
@@ -29,7 +29,7 @@ export const CLOUD_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "GCP",
             description: "Cloud Experience",
-            image: "/chorn-images/cloud/thumbnail/gcp.png",
+            image: "/chorn-images/cloud/thumbnail/gcp.webp",
             readMore: "Read More",
             link: "/services/details",
             details: [],
@@ -39,7 +39,7 @@ export const CLOUD_EXPERIENCE_INFO: IServiceImage = {
         {
             title: "Cloud",
             description: "Digital Ocean",
-            image: "/chorn-images/cloud/thumbnail/digital-ocean.png",
+            image: "/chorn-images/cloud/thumbnail/digital-ocean.webp",
             readMore: "Read More",
             link: "/services/details",
             details: [],

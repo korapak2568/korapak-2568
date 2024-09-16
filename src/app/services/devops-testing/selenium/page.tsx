@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Automate your application testing with CHORN’s Selenium services for robust and reliable results.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/selenium.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/selenium.webp",
                 width: 1200,
                 height: 630,
                 alt: "Selenium Testing Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "Selenium Testing Services | CHORN",
         description: "Enhance your application’s quality with CHORN’s Selenium testing services for automated and effective testing.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/selenium.png",
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/selenium.webp",
         ],
     },
     keywords: [

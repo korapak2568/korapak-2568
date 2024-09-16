@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Leverage CHORN’s DevOps and testing services to enhance your software delivery with automation, continuous integration, and reliable testing solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/devops-testing-services.png",
+                url: "https://chorn.in.th/chorn-images/metadata/devops-testing-services.webp",
                 width: 1360,
                 height: 810,
                 alt: "DevOps & Testing Services Banner"
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "DevOps & Testing Services | CHORN",
         description: "Optimize your software development lifecycle with CHORN’s DevOps and testing services, including automation, CI/CD, and quality assurance testing.",
-        images: ["https://chorn.in.th/chorn-images/metadata/devops-testing-services.png"],
+        images: ["https://chorn.in.th/chorn-images/metadata/devops-testing-services.webp"],
     },
     keywords: [
         "DevOps services", "software testing", "continuous integration", "CI/CD pipeline", "automated testing",
