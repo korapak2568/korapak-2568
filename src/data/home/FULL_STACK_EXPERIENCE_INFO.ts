@@ -14,7 +14,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
                 "makes it possible to build fast and lightweight applications, ideal for real-time " +
                 "communication and data-intensive tasks.",
             image: "/chorn-images/outsourcing-software-development/full-stack-developer/nodejs-developer.webp",
-            readMore: "Read More",
+            readMore: "Explore more NodeJS full-stack development solutions",
             link: "/outsourcing-software-development/full-stack-developer/nodejs-developer",
             details: [
                 {
@@ -70,7 +70,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             title: ".NET Core, API",
             description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
             image: "/chorn-images/outsourcing-software-development/full-stack-developer/dotnetcore-developer.webp",
-            readMore: "Read More",
+            readMore: "Explore more .NET Core API full-stack development solutions",
             link: "/outsourcing-software-development/full-stack-developer/dotnetcore-developer",
             details: [
                 {
@@ -130,7 +130,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             title: "Java, Spring Boot",
             description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
             image: "/chorn-images/outsourcing-software-development/full-stack-developer/java-spring-boot-developer.webp",
-            readMore: "Read More",
+            readMore: "Explore more Java Spring Boot full-stack development solutions",
             link: "/outsourcing-software-development/full-stack-developer/java-spring-boot-developer",
             details: [
                 {
@@ -182,7 +182,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             title: "Python, Flask",
             description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
             image: "/chorn-images/outsourcing-software-development/full-stack-developer/python-developer.webp",
-            readMore: "Read More",
+            readMore: "Explore more Python, Flask, Django full-stack development solutions",
             link: "/outsourcing-software-development/full-stack-developer/python-developer",
             details: [
                 {
@@ -304,7 +304,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             title: "GO",
             description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
             image: "/chorn-images/outsourcing-software-development/full-stack-developer/go-developer.webp",
-            readMore: "Read More",
+            readMore: "Explore more Go full-stack development solutions",
             link: "/outsourcing-software-development/full-stack-developer/go-developer",
             details: [
                 {
@@ -356,7 +356,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             title: "PHP",
             description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
             image: "/chorn-images/outsourcing-software-development/full-stack-developer/php-developer.webp",
-            readMore: "Read More",
+            readMore: "Explore more PHP full-stack development solutions",
             link: "/outsourcing-software-development/full-stack-developer/php-developer",
             details: [
                 {
@@ -410,7 +410,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
             title: "TypeScript JavaScript",
             description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles down to plain JavaScript, making it compatible with all browsers and JavaScript frameworks.",
             image: "/chorn-images/outsourcing-software-development/full-stack-developer/typescript-javascript-developer.webp",
-            readMore: "Read More",
+            readMore: "Explore more TypeScript JavaScript full-stack development solutions",
             link: "/outsourcing-software-development/full-stack-developer/typescript-javascript-developer",
             details: [
                 {
