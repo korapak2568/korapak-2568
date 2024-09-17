@@ -62,7 +62,7 @@ const AboutContent: React.FC = () => {
 
                                 <div className="about-btn">
                                     <Link href="/contact-chorn" className="default-btn">
-                                        Learn More
+                                        Contact more detail
                                     </Link>
                                 </div>
                             </div>
