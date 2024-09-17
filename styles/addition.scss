@@ -250,3 +250,11 @@
     }
   }
 }
+
+.main-banner-item-bg {
+  background-image: url("/chorn-images/main-banner-bg-4.webp");
+
+  @media (max-width: 1028px) {
+    background-image: none;
+  }
+}

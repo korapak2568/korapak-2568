@@ -13,10 +13,10 @@ const MainBanner: React.FC = () => {
         <>
             <div className="main-banner">
                 <div
-                    className="main-banner-item item-four"
-                    style={{
-                        backgroundImage: `url(/chorn-images/main-banner-bg-4.webp)`,
-                    }}
+                    className="main-banner-item item-four main-banner-item-bg"
+                    // style={{
+                    //     backgroundImage: `url(/chorn-images/main-banner-bg-4.webp)`,
+                    // }}
                 >
                     <div className="d-table">
                         <div className="d-table-cell">
