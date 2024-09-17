@@ -25,7 +25,7 @@ const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
             <li className="nav-item" key={label}>
                 <Link
                     href={link}
-                    className={`nav-link ${isActiveMainMenu(pathname, group) ? "active" : ""}`}
+                    className={`nav-link ${isActiveMainMenu(pathname, group) ? "add-navbar-active" : ""}`}
                     onClick={() => saveClickedLinked(group)}
                 >
                     {label} <i className="bx bx-chevron-down"></i>
@@ -43,7 +43,7 @@ const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
                                 <li className="nav-item" key={index}>
                                     <Link
                                         href={subItem.link}
-                                        className={`nav-link ${isActiveMenu(pathname, subItem.link) ? "active" : ""}`}
+                                        className={`nav-link ${isActiveMenu(pathname, subItem.link) ? "add-navbar-active" : ""}`}
                                         onClick={() => saveClickedLinked(group)}
                                     >
                                         {subItem.label}

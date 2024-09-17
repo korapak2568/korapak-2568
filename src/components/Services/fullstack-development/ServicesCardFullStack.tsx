@@ -28,7 +28,8 @@ const ServicesCardFrontEnd: React.FC = () => {
                                 requirements, no matter how complex.
                             </p>
                             <p>
-                                Whether you are launching a <strong>Proof of Concept (PoC)</strong> or looking to develop
+                                Whether you are launching a <strong>Proof of Concept (PoC)</strong> or looking to
+                                develop
                                 a full-scale <strong>Minimum Viable Product (MVP)</strong>, our full-stack developers
                                 ensure seamless integration between the front end and back end for an optimal user
                                 experience.
@@ -76,7 +77,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                                             <Image
                                                 className="hover-rotate"
                                                 src={addition.image}
-                                                alt="image"
+                                                alt={addition.alt}
                                                 width={130}
                                                 height={130}
                                             />

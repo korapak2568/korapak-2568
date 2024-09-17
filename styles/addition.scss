@@ -12,7 +12,13 @@
 }
 
 .addition-read-more {
-  color: #fd9b5f;
+  color: #d17a3e; // Darker orange for better contrast
+  text-decoration: underline; // Ensures it stands out as a link
+
+  &:hover, &:focus {
+    color: #b05f2a; // Even darker orange on hover or focus for clear feedback
+    text-decoration: underline; // Keep underline on hover for emphasis
+  }
 }
 
 .addition-social-line {
@@ -125,7 +131,7 @@
 
 .modal-content {
   width: 100%;
-  background-color: rgba(215, 215, 215, 0.9);
+  background-color: rgba(240, 240, 240, 0.9); // Lighter background for better contrast
   position: fixed;
   bottom: 0;
   z-index: 999999;
@@ -134,6 +140,7 @@
   transform: translate(-50%, 0);
   font-size: 14px;
   border-radius: 0;
+  color: #333333; // Darker text color to improve contrast
 
   @media (max-width: 1024px) {
     font-size: 13px;
@@ -143,6 +150,15 @@
     font-size: 13px;
     padding-top: 0;
     padding-bottom: 0;
+  }
+
+  a {
+    color: #0056b3; // Ensure links within the modal have sufficient contrast
+    text-decoration: underline;
+
+    &:hover {
+      color: #003d80;
+    }
   }
 }
 
@@ -200,25 +216,35 @@
 }
 
 .add-button {
-  background-color: #00bffd;
-  border-color: #00bffd;
-  cursor: pointer; // Ensure the pointer changes on hover
+  background-color: #008bbf; // Darker blue for better contrast
+  border-color: #008bbf;
+  color: #ffffff; // Ensure white text for contrast
+  cursor: pointer;
   font-size: 13px;
 
   &:hover {
-    background-color: #fd7e14; // Slight hover color change for feedback
-    border-color: #fd7e14;
+    background-color: #cc6600; // Darker orange for better contrast on hover
+    border-color: #cc6600;
+  }
+
+  &:focus {
+    outline: 2px solid #005f8f; // Visible focus state for keyboard users
   }
 }
 
+
 .a-privacy {
-  color: #007bff;
+  color: #0056b3; // Adjust the link color to a darker blue for better contrast
   text-decoration: underline;
-  cursor: pointer; // Ensure cursor changes on hover for links
+  cursor: pointer;
   padding-left: 5px;
 
   &:hover {
-    color: #0056b3; // Darker color on hover for feedback
+    color: #003d80; // Ensure the hover state also has good contrast
+  }
+
+  &:focus {
+    outline: 2px solid #003d80; // Ensure a visible focus indicator for keyboard navigation
   }
 }
 
@@ -256,5 +282,66 @@
 
   @media (max-width: 1028px) {
     background-image: none;
+  }
+}
+
+.font-white {
+  color: white;
+}
+
+.add-navbar-active {
+  color: #c12b42; // Darker red for better contrast
+
+  &:hover, &:focus {
+    color: #9b1f31; // Even darker red for hover/focus states
+    text-decoration: underline; // Optional: adds emphasis when hovered/focused
+  }
+}
+
+.custom-single-features-box {
+  background-color: #fafafa; // Light background
+  border: 1px solid #fbe4d4;
+  padding: 30px;
+  position: relative;
+  z-index: 1;
+  transition: 0.5s;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  color: #333; // Darker text color for better contrast
+
+  .icon {
+    margin-bottom: 20px;
+  }
+
+  .icon i {
+    font-size: 30px;
+    color: #f64c67;
+    transition: .5s;
+    display: inline-block;
+    text-align: center;
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+    border-radius: 50px;
+    background-color: #fbe4d4;
+  }
+
+  h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    transition: .5s;
+
+    a {
+      color: #333; // Darker text color for better contrast
+    }
+  }
+
+  a {
+    color: #d17a3e; // Orange link color
+
+    &:hover, &:focus {
+      color: #b05f2a; // Darker orange on hover/focus for better contrast
+    }
   }
 }

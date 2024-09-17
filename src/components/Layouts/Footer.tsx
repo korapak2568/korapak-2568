@@ -39,6 +39,7 @@ const Footer: React.FC = () => {
                                                 href={item.link}
                                                 className={item.iconClass}
                                                 target="_blank"
+                                                aria-label={item.ariaLabel}
                                             >
                                                 <i className={item.icon}></i>
                                             </a>

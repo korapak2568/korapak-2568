@@ -10,6 +10,7 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             title: "NextJS",
             description: "Boost your React applications with seamless server-side rendering and static site generation for optimal performance.",
             image: "/chorn-images/outsourcing-software-development/front-end-developer/nextjs-developer.webp",
+            alt: "Logo representing Next.js framework",
             readMore: "Explore more NextJS front-end development solutions ",
             link: "/outsourcing-software-development/front-end-developer/nextjs-developer",
             details: [
@@ -57,6 +58,7 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             title: "React",
             description: "Build dynamic, high-performance user interfaces effortlessly with React's powerful component-based architecture.",
             image: "/chorn-images/outsourcing-software-development/front-end-developer/react-developer.webp",
+            alt: "Logo representing React.js library",
             readMore: "Explore more ReactJS front-end development solutions",
             link: "/outsourcing-software-development/front-end-developer/react-developer",
             details: [
@@ -104,6 +106,7 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             title: "Angular",
             description: "Develop robust, enterprise-grade web applications with Angular's comprehensive and versatile framework.",
             image: "/chorn-images/outsourcing-software-development/front-end-developer/angular-developer.webp",
+            alt: "Logo representing Angular framework",
             readMore: "Explore more Angular front-end development solutions",
             link: "/outsourcing-software-development/front-end-developer/angular-developer",
             details: [
@@ -151,6 +154,7 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             title: "Vue",
             description: "Create modern, reactive web interfaces quickly with Vue's intuitive and flexible design. ",
             image: "/chorn-images/outsourcing-software-development/front-end-developer/vue-developer.webp",
+            alt: "Logo representing Vue.js framework",
             readMore: "Explore more VueJS front-end development solutions",
             link: "/outsourcing-software-development/front-end-developer/vue-developer",
             details: [
@@ -198,6 +202,7 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             title: "HTML5",
             description: "Master the latest standards in web development for rich, interactive content.",
             image: "/chorn-images/outsourcing-software-development/front-end-developer/html5-developer.webp",
+            alt: "Logo representing HTML5 technology",
             readMore: "Explore more HTML5 front-end development solutions",
             link: "/outsourcing-software-development/front-end-developer/html5-developer",
             details: [
@@ -245,6 +250,7 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             title: "CSS3",
             description: "Enhance your website's look with advanced styling techniques using CSS3.",
             image: "/chorn-images/outsourcing-software-development/front-end-developer/css3-developer.webp",
+            alt: "Logo representing CSS3 technology",
             readMore: "Explore more CSS3 front-end development solutions",
             link: "/outsourcing-software-development/front-end-developer/css3-developer",
             details: [

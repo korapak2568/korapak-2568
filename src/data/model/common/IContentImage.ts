@@ -6,6 +6,7 @@ export interface IContentImage {
     title: string,
     description: string,
     image: string,
+    alt: string,
     readMore: string,
     link: string,
     icon: string,

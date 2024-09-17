@@ -1,4 +1,4 @@
-import {IFooters} from "@/data/model/common/IFooters";
+import {IFooters} from "@/data/model/footer/IFooters";
 
 export const FOOTER_INFO: IFooters = {
     title: "CHORN",
@@ -28,24 +28,28 @@ export const FOOTER_INFO: IFooters = {
             link: "https://github.com/chorn-hub",
             icon: "bx bxl-github hover-rotate",
             iconClass: "facebook",
+            ariaLabel: "Follow us on GitHub"
         },
         {
             label: "GitLab",
             link: "https://gitlab.com/chorn-lab",
             icon: "bx bxl-gitlab hover-rotate",
             iconClass: "pinterest",
+            ariaLabel: "Follow us on GitLab"
         },
         {
             label: "Linked",
             link: "https://www.linkedin.com/company/chorn",
             icon: "bx bxl-linkedin hover-rotate",
             iconClass: "linkedin",
+            ariaLabel: "Connect with us on LinkedIn"
         },
         {
             label: "Facebook",
             link: "https://www.facebook.com/chorn.digital",
             icon: "bx bxl-facebook hover-rotate",
             iconClass: "facebook",
+            ariaLabel: "Like us on Facebook"
         },
     ],
     importantLinks: [

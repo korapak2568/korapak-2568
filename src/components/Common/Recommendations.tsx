@@ -56,7 +56,7 @@ const Recommendations: React.FC = () => {
                                                 </div>
                                                 <p>{item.description}</p>
                                                 <div className="info-text">
-                                                    <h4>{item.name}</h4>
+                                                    <div className={"font-white"}>{item.name}</div>
                                                     <span>{item.role}</span>
                                                 </div>
                                             </div>

@@ -12,6 +12,7 @@ export const FEATURE_SERVICE_INFO: IServiceImage = {
             description: "UI frameworks and libraries such as React, Next.js, Angular, Vue, " +
                 "and TypeScript, JavaScript, HTML3, and CSS3.",
             image: "",
+            alt: "",
             readMore: "Hire skilled front-end developers for your project",
             link: "/outsourcing-software-development/front-end-developer/",
             details: [],
@@ -23,6 +24,7 @@ export const FEATURE_SERVICE_INFO: IServiceImage = {
             description: "Comprehensive full-stack-developer development services using Node.js, " +
                 "Java, Spring Boot, Go-lang, PHP, and Python.",
             image: "",
+            alt: "",
             readMore: "Discover full-stack developer outsourcing services",
             link: "/outsourcing-software-development/full-stack-developer/",
             details: [],
@@ -33,6 +35,7 @@ export const FEATURE_SERVICE_INFO: IServiceImage = {
             title: "Web3 & Blockchain",
             description: "We also specialize in cutting-edge technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3, ensuring your financial services stay ahead of the curve.",
             image: "",
+            alt: "",
             readMore: "Explore Web3, blockchain, and smart contract development services",
             link: "/services/web3-blockchain-smart-contract-development",
             details: [],
@@ -43,6 +46,7 @@ export const FEATURE_SERVICE_INFO: IServiceImage = {
             title: "Mobile Development",
             description: "Hybrid mobile applications for iOS and Android using React Native and Flutter.",
             image: "",
+            alt: "",
             readMore: "Explore mobile app development solutions for your business",
             link: "/services/mobile-development",
             details: [],

@@ -38,7 +38,7 @@ const Features: React.FC = () => {
                                 <div className="row">
                                     {service.FEATURE_SERVICE_INFO.additions.map((addition: IContentImage, index: number) => (
                                         <div key={index} className="col-lg-6 col-sm-6">
-                                            <div className="single-features-box">
+                                            <div className="custom-single-features-box">
                                                 <div className="icon">
                                                     <i className={addition.icon + "  hover-rotate"}></i>
                                                 </div>

@@ -74,7 +74,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                                             <Image
                                                 className="hover-rotate"
                                                 src={addition.image}
-                                                alt="image"
+                                                alt={addition.alt}
                                                 width={130}
                                                 height={130}
                                             />

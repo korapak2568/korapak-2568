@@ -3,4 +3,5 @@ export interface ILink {
     link: string;
     icon?: string;
     iconClass?: string;
+    ariaLabel?: string;
 }

@@ -31,7 +31,7 @@ const FullStackExperience: React.FC = () => {
                                               <Image
                                                   className="hover-rotate"
                                                   src={item.image}
-                                                  alt={item.title}
+                                                  alt={item.alt}
                                                   width={130}
                                                   height={130}
                                               />
@@ -99,7 +99,7 @@ const FullStackExperience: React.FC = () => {
                                             <div className="digital-experience-image">
                                                 <Image
                                                     src="/chorn-images/services/services-7.webp"
-                                                    alt="image"
+                                                    alt="Service image"
                                                     width={750}
                                                     height={680}
                                                 />
