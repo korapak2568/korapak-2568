@@ -12,17 +12,33 @@ export const IMAGES = {
             title: "CHORN",
             path: "/chorn-images/logo/chorn-logo-circle-sm.webp"
         },
-        recLg: {
-            title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-rec-lg.webp"
-        },
-        recSm: {
-            title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-rec-sm.webp"
-        },
         business: {
             title: "CHORN",
             path: "/chorn-images/logo/chorn-logo-circle-md.webp"
+        },
+        light: {
+            rec: {
+                sm: {
+                    title: "CHORN",
+                    path: "/chorn-images/logo/light/chorn-logo-rec-sm.webp"
+                },
+                lg: {
+                    title: "CHORN",
+                    path: "/chorn-images/logo/light/chorn-logo-rec-lg.webp"
+                },
+            }
+        },
+        darker: {
+            rec: {
+                sm: {
+                    title: "CHORN",
+                    path: "/chorn-images/logo/darker/chorn-logo-rec-sm.webp"
+                },
+                lg: {
+                    title: "CHORN",
+                    path: "/chorn-images/logo/darker/chorn-logo-rec-sm.webp"
+                },
+            }
         }
     },
     banner: {
