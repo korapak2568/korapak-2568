@@ -12,9 +12,7 @@ const MainBanner: React.FC = () => {
     return (
         <>
             <div className="main-banner">
-                <div
-                    className="main-banner-item item-four main-banner-item-bg"
-                >
+                <div className="main-banner-item item-four">
                     <div className="d-table">
                         <div className="d-table-cell">
                             <div className="container-fluid">

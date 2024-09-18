@@ -276,23 +276,23 @@
   }
 }
 
-.main-banner-item-bg {
-  background-image: url("/chorn-images/main-banner-bg-4.webp");
-
-  @media (max-width: 1028px) {
-    background-image: none;
-  }
-}
+//.main-banner-item-bg {
+//  background-image: url("/chorn-images/main-banner-bg-4.webp");
+//
+//  @media (max-width: 768px) {
+//    background-image: none;
+//  }
+//}
 
 .font-white {
   color: white;
 }
 
 .add-navbar-active {
-  color: #c12b42!important; // Darker red for better contrast
+  color: #c12b42 !important; // Darker red for better contrast
 
   &:hover, &:focus {
-    color: #9b1f31!important; // Even darker red for hover/focus states
+    color: #9b1f31 !important; // Even darker red for hover/focus states
     text-decoration: underline; // Optional: adds emphasis when hovered/focused
   }
 }
