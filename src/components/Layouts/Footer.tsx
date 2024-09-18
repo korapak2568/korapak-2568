@@ -24,8 +24,8 @@ const Footer: React.FC = () => {
                                         <Image
                                             src={IMAGES.logo.darker.rec.lg.path}
                                             alt={IMAGES.logo.darker.rec.lg.title}
-                                            width={225}
-                                            height={113}
+                                            width={150}
+                                            height={75}
                                         />
                                     </Link>
                                 </div>
