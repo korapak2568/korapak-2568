@@ -15,7 +15,7 @@ const Features: React.FC = () => {
         <>
             <div className="features-area pt-100 pb-70">
                 <div className="container">
-                    <div className="section-title add-section-title add-text-width">
+                    <div className="section-title contrast-section-title add-text-width">
                         <span>{service.FEATURE_SERVICE_INFO.span}</span>
                         <h2>{service.FEATURE_SERVICE_INFO.title}</h2>
                         <div className="bar"></div>
@@ -49,7 +49,7 @@ const Features: React.FC = () => {
                                                 </h3>
                                                 <p>
                                                     {truncateText(addition.description, 80)}
-                                                    <Link href={addition.link} className="addition-read-more">
+                                                    <Link href={addition.link} className="contrast-read-more">
                                                         {addition.readMore} <i className="bx bx-chevrons-right"></i>
                                                     </Link>
                                                 </p>

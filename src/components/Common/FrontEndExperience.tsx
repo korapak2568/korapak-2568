@@ -14,7 +14,7 @@ const FrontEndExperience: React.FC = () => {
         <>
             <div className="services-area bg-fafafa pt-100 pb-70">
                 <div className="container">
-                    <div className="section-title add-section-title">
+                    <div className="section-title contrast-section-title">
                         <span>{service.FRONT_END_EXPERIENCE_INFO.span}</span>
                         <h2>{service.FRONT_END_EXPERIENCE_INFO.title}</h2>
                         <div className="bar"></div>

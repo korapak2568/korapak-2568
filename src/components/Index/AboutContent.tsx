@@ -1,7 +1,6 @@
 "use client";
 
 import React, {useState} from "react";
-import FsLightbox from "fslightbox-react";
 import Link from "next/link";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
@@ -9,18 +8,9 @@ import {IContentImage} from "@/data/model/common/IContentImage";
 
 const AboutContent: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
-    // To open the lightbox change the value of the "toggler" prop.
-    const [toggler, setToggler] = useState(false);
 
     return (
         <>
-            <FsLightbox
-                toggler={toggler}
-                sources={[
-                    "https://www.youtube.com/embed/bk7McNUjWgw?si=KT8SGAF-WzmtADRk",
-                ]}
-            />
-
             <div className="about-area pb-100">
                 <div className="container">
                     <div className="row">
@@ -33,7 +23,7 @@ const AboutContent: React.FC = () => {
                         </div>
 
                         <div className="col-lg-6">
-                            <div className="about-content warp">
+                            <div className="about-content warp contrast-content">
                                 <span>
                                   {service.ABOUT_CONTENT_INFO.title}
                                 </span>

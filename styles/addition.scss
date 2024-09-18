@@ -11,8 +11,8 @@
   padding-top: 0 !important;
 }
 
-.addition-read-more {
-  color: #b76432; /* Darker orange for better contrast */
+.contrast-read-more {
+  color: #b76432 !important; /* Darker orange for better contrast */
   text-decoration: none; /* No underline to keep it clean, but recognizable */
 
   &:hover, &:focus {
@@ -276,14 +276,6 @@
   }
 }
 
-//.main-banner-item-bg {
-//  background-image: url("/chorn-images/main-banner-bg-4.webp");
-//
-//  @media (max-width: 768px) {
-//    background-image: none;
-//  }
-//}
-
 .font-white {
   color: white;
 }
@@ -336,8 +328,12 @@
     }
   }
 
+  p {
+    color: #333333; // Darker text color to improve contrast
+  }
+
   a {
-    color: #d17a3e; // Orange link color
+    color: #b76432; /* Darker orange for better contrast */
 
     &:hover, &:focus {
       color: #b05f2a; // Darker orange on hover/focus for better contrast
@@ -345,7 +341,7 @@
   }
 }
 
-.add-section-title {
+.contrast-section-title {
 
   .add-text-width {
     max-width: 70%;
@@ -353,10 +349,22 @@
   }
 
   span {
-    color: #e07b42; /* Darker orange for better contrast */
+    color: #b76432; /* Darker orange for better contrast */
     font-weight: 600; /* Slightly bolder for improved readability */
     text-transform: uppercase;
     display: block;
     margin-bottom: 5px;
+    font-size: 16px;
+  }
+}
+
+.contrast-content {
+  span {
+    color: #b76432 !important;
+    font-size: 16px;
+  }
+
+  p {
+    color: #333333 !important;
   }
 }
