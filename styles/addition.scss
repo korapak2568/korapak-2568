@@ -12,7 +12,7 @@
 }
 
 .contrast-read-more {
-  color: #b76432 !important; /* Darker orange for better contrast */
+  color: #794220 !important; /* Darker orange for better contrast */
   text-decoration: none; /* No underline to keep it clean, but recognizable */
 
   &:hover, &:focus {
@@ -333,7 +333,7 @@
   }
 
   a {
-    color: #b76432; /* Darker orange for better contrast */
+    color: #794220; /* Darker orange for better contrast */
 
     &:hover, &:focus {
       color: #b05f2a; // Darker orange on hover/focus for better contrast
@@ -349,7 +349,7 @@
   }
 
   span {
-    color: #b76432; /* Darker orange for better contrast */
+    color: #794220; /* Darker orange for better contrast */
     font-weight: 600; /* Slightly bolder for improved readability */
     text-transform: uppercase;
     display: block;
@@ -360,7 +360,7 @@
 
 .contrast-content {
   span {
-    color: #b76432 !important;
+    color: #794220 !important;
     font-size: 16px;
   }
 
