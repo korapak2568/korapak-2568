@@ -97,6 +97,14 @@ export const metadata: Metadata = {
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
     return (
         <html lang="en">
+        <head>
+            <title>CHORN | Digital Innovation & Custom Software Solutions</title>
+            <link
+                rel="preload"
+                as="image"
+                href="/chorn-images/services/services-11.webp"
+            />
+        </head>
         <body className={dm_sans.className}>
         <ProviderWrapper>
             <ConsentModal/>

@@ -58,6 +58,8 @@ const MainBanner: React.FC = () => {
                                                 alt="image"
                                                 width={650}
                                                 height={500}
+                                                sizes="(max-width: 768px) 100vw, 650px"
+                                                loading={"eager"}
                                             />
                                         </div>
                                     </div>
