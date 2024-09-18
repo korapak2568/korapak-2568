@@ -49,8 +49,8 @@ const MainBanner: React.FC = () => {
                                         <div
                                             className="main-banner-image pl-15"
                                             data-aos="fade-up"
-                                            data-aos-duration="800"
-                                            data-aos-delay="400"
+                                            data-aos-duration="0"
+                                            data-aos-delay="0"
                                             data-aos-once="true"
                                         >
                                             <Image
