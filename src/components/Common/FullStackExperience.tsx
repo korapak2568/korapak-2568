@@ -49,6 +49,8 @@ const FullStackExperience: React.FC = () => {
                                                 <h3>{item.details[0].title}</h3>
                                                 <p>
                                                     {truncateText(item.details[0].description, 200)}
+                                                </p>
+                                                <p className={"p-read-more"}>
                                                     <Link href={item.link} className="contrast-read-more">
                                                         {item.readMore} <i className="bx bx-chevrons-right"></i>
                                                     </Link>
@@ -61,6 +63,8 @@ const FullStackExperience: React.FC = () => {
                                                     <h3>{item.details[1].title}</h3>
                                                     <p>
                                                         {truncateText(item.details[1].description, 120)}
+                                                    </p>
+                                                    <p className={"p-read-more"}>
                                                         <Link href={item.link} className="contrast-read-more">
                                                             {item.readMore} <i className="bx bx-chevrons-right"></i>
                                                         </Link>
@@ -74,6 +78,8 @@ const FullStackExperience: React.FC = () => {
                                                     <h3>{item.details[2].title}</h3>
                                                     <p>
                                                         {truncateText(item.details[2].description, 120)}
+                                                    </p>
+                                                    <p className={"p-read-more"}>
                                                         <Link href={item.link} className="contrast-read-more">
                                                             {item.readMore} <i className="bx bx-chevrons-right"></i>
                                                         </Link>
@@ -87,6 +93,8 @@ const FullStackExperience: React.FC = () => {
                                                     <h3>{item.details[3].title}</h3>
                                                     <p>
                                                         {truncateText(item.details[3].description, 120)}
+                                                    </p>
+                                                    <p className={"p-read-more"}>
                                                         <Link href={item.link} className="contrast-read-more">
                                                             {item.readMore} <i className="bx bx-chevrons-right"></i>
                                                         </Link>

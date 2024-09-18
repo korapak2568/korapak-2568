@@ -49,6 +49,8 @@ const Features: React.FC = () => {
                                                 </h3>
                                                 <p>
                                                     {truncateText(addition.description, 80)}
+                                                </p>
+                                                <p className={"p-read-more"}>
                                                     <Link href={addition.link} className="contrast-read-more">
                                                         {addition.readMore} <i className="bx bx-chevrons-right"></i>
                                                     </Link>

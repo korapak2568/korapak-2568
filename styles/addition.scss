@@ -11,9 +11,14 @@
   padding-top: 0 !important;
 }
 
+.p-read-more {
+  margin-top: 10px;
+}
+
 .contrast-read-more {
-  color: #f64c67 !important; /* Darker orange for better contrast */
+  color: #AA0822 !important; /* Darker orange for better contrast */
   text-decoration: none; /* No underline to keep it clean, but recognizable */
+  font-style: italic;
 
   &:hover, &:focus {
     color: #944a20; /* Even darker orange on hover/focus for better visibility */
