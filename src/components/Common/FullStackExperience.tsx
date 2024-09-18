@@ -16,7 +16,7 @@ const FullStackExperience: React.FC = () => {
         <>
             <div className="digital-experience-area ptb-100">
                 <div className="container">
-                    <div className="section-title">
+                    <div className="section-title add-section-title">
                         <span>{service.FULL_STACK_FRAMEWORK_INFO.span}</span>
                         <h2>{service.FULL_STACK_FRAMEWORK_INFO.title}</h2>
                         <div className="bar"></div>

@@ -12,12 +12,12 @@
 }
 
 .addition-read-more {
-  color: #d17a3e; // Darker orange for better contrast
-  text-decoration: underline; // Ensures it stands out as a link
+  color: #b76432; /* Darker orange for better contrast */
+  text-decoration: none; /* No underline to keep it clean, but recognizable */
 
   &:hover, &:focus {
-    color: #b05f2a; // Even darker orange on hover or focus for clear feedback
-    text-decoration: underline; // Keep underline on hover for emphasis
+    color: #944a20; /* Even darker orange on hover/focus for better visibility */
+    text-decoration: underline; /* Adds underline for emphasis on hover/focus */
   }
 }
 
@@ -216,22 +216,21 @@
 }
 
 .add-button {
-  background-color: #008bbf; // Darker blue for better contrast
-  border-color: #008bbf;
-  color: #ffffff; // Ensure white text for contrast
+  background-color: #0074a2; /* Darker blue for better contrast */
+  border-color: #0074a2;
+  color: #ffffff; /* White text for contrast */
   cursor: pointer;
   font-size: 13px;
 
   &:hover {
-    background-color: #cc6600; // Darker orange for better contrast on hover
-    border-color: #cc6600;
+    background-color: #cc5500; /* Darker orange for better contrast on hover */
+    border-color: #cc5500;
   }
 
   &:focus {
-    outline: 2px solid #005f8f; // Visible focus state for keyboard users
+    outline: 2px solid #00587b; /* Visible focus state for keyboard users */
   }
 }
-
 
 .a-privacy {
   color: #0056b3; // Adjust the link color to a darker blue for better contrast
@@ -290,10 +289,10 @@
 }
 
 .add-navbar-active {
-  color: #c12b42; // Darker red for better contrast
+  color: #c12b42!important; // Darker red for better contrast
 
   &:hover, &:focus {
-    color: #9b1f31; // Even darker red for hover/focus states
+    color: #9b1f31!important; // Even darker red for hover/focus states
     text-decoration: underline; // Optional: adds emphasis when hovered/focused
   }
 }
@@ -343,5 +342,21 @@
     &:hover, &:focus {
       color: #b05f2a; // Darker orange on hover/focus for better contrast
     }
+  }
+}
+
+.add-section-title {
+
+  .add-text-width {
+    max-width: 70%;
+    margin: 0 auto 45px;
+  }
+
+  span {
+    color: #e07b42; /* Darker orange for better contrast */
+    font-weight: 600; /* Slightly bolder for improved readability */
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 5px;
   }
 }
