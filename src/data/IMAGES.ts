@@ -36,7 +36,19 @@ export const IMAGES = {
                 },
                 lg: {
                     title: "CHORN",
-                    path: "/chorn-images/logo/darker/chorn-logo-rec-sm.webp"
+                    path: "/chorn-images/logo/darker/chorn-logo-rec-lg.webp"
+                },
+            }
+        },
+        gold: {
+            rec: {
+                sm: {
+                    title: "CHORN",
+                    path: "/chorn-images/logo/gold/chorn-logo-gold-rec-sm.webp"
+                },
+                lg: {
+                    title: "CHORN",
+                    path: "/chorn-images/logo/gold/chorn-logo-gold-rec-lg.webp"
                 },
             }
         }
