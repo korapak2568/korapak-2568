@@ -23,7 +23,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                                 scalable, and secure web applications from scratch. Our developers excel in both
                                 front-end and back-end technologies, delivering a comprehensive solution tailored to
                                 your business needs. We have expertise in a variety of technology stacks, including
-                                <strong> Node.js, .NET Core, Java Spring Boot, Python,
+                                <strong>Node.js, .NET Core, Java Spring Boot, Python,
                                     Go, </strong> and <strong>PHP,</strong> ensuring we can meet any project
                                 requirements, no matter how complex.
                             </p>
