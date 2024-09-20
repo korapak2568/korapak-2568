@@ -39,18 +39,18 @@ const ServicesCardWeb3Blockchain: React.FC = () => {
                                 <ul>
                                     <li>
                                         <strong>Smart Contract Development</strong>Write, deploy, and audit
-                                        <strong> Solidity-based smart contracts</strong> for secure, self-executing
+                                        <strong>Solidity-based smart contracts</strong> for secure, self-executing
                                         agreements.
                                     </li>
                                     <li>
                                         <strong>Web3 dApp Development</strong>Build <strong>decentralized
                                         applications</strong> with
-                                        <strong> React</strong> and <strong>Next.js</strong>, offering seamless
+                                        <strong>React</strong> and <strong>Next.js</strong>, offering seamless
                                         blockchain integration.
                                     </li>
                                     <li>
                                         <strong>Ethereum & Polygon</strong>Develop on leading blockchain networks like
-                                        <strong> Ethereum</strong> and <strong>Polygon</strong>, with a focus on security
+                                        <strong>Ethereum</strong> and <strong>Polygon</strong>, with a focus on security
                                         and scalability.
                                     </li>
                                     <li>
@@ -71,7 +71,7 @@ const ServicesCardWeb3Blockchain: React.FC = () => {
                                 <p>
                                     Our team brings extensive experience in <strong>Web3, blockchain
                                     technology,</strong> and
-                                    <strong> decentralized finance.</strong> We ensure that your project adheres to the
+                                    <strong>decentralized finance.</strong> We ensure that your project adheres to the
                                     highest security
                                     standards and leverages the latest blockchain technologies for performance and
                                     scalability. Whether you are building a <strong>Proof of Concept (PoC)</strong> or
