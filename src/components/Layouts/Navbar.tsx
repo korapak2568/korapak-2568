@@ -49,8 +49,8 @@ const Navbar: React.FC = () => {
                         <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/" className="navbar-brand add-navbar-logo">
                                 <Image
-                                    src={IMAGES.logo.darker.rec.sm.path}
-                                    alt={IMAGES.logo.darker.rec.sm.title}
+                                    src={IMAGES.logo.darker.rec.lg.path}
+                                    alt={IMAGES.logo.darker.rec.lg.title}
                                     width={150}
                                     height={75}
                                 />

@@ -22,8 +22,8 @@ const Footer: React.FC = () => {
                                 <div className="logo">
                                     <Link href="/">
                                         <Image
-                                            src={IMAGES.logo.darker.rec.sm.path}
-                                            alt={IMAGES.logo.darker.rec.sm.title}
+                                            src={IMAGES.logo.darker.rec.lg.path}
+                                            alt={IMAGES.logo.darker.rec.lg.title}
                                             width={150}
                                             height={75}
                                         />
