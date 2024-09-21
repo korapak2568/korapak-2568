@@ -55,6 +55,19 @@ export const NAVBAR: INavbar[] = [
                 label: "DevOps Testing",
                 link: "/services/devops-testing/",
                 submenu: []
+            },
+            {
+                group: "/services/",
+                label: "...",
+                link: "",
+                isSeparated: true,
+                submenu: []
+            },
+            {
+                group: "/services/",
+                label: "Cloud Solutions",
+                link: "/services/cloud-infrastructure-systems-architecture/",
+                submenu: []
             }
         ],
     },
