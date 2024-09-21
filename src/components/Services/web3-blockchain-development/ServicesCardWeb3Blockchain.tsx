@@ -1,8 +1,12 @@
 "use client";
 
 import React from "react";
+import Link from "next/link";
+import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
+import {IContentImage} from "@/data/model/common/IContentImage";
+import {truncateText} from "@/utils/truncateText";
 
 const ServicesCardWeb3Blockchain: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -46,8 +50,7 @@ const ServicesCardWeb3Blockchain: React.FC = () => {
                                     </li>
                                     <li>
                                         <strong>Ethereum & Polygon</strong>Develop on leading blockchain networks like
-                                        <strong> Ethereum</strong> and <strong>Polygon</strong>, with a focus on
-                                        security
+                                        <strong> Ethereum</strong> and <strong>Polygon</strong>, with a focus on security
                                         and scalability.
                                     </li>
                                     <li>
