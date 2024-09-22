@@ -33,9 +33,10 @@ const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
                                 </p>
                             </div>
                             <div>
-                                <h2>AWS: The Power of Flexibility and Scalability</h2>
+                                <h2>AWS</h2>
                                 <p>
-                                    Harness the robust capabilities of Amazon Web Services (AWS) to scale your
+                                    <strong>AWS: The Power of Flexibility and Scalability </strong> Harness the robust
+                                    capabilities of Amazon Web Services (AWS) to scale your
                                     infrastructure dynamically. We help businesses deploy serverless architectures,
                                     leverage AWS Lambda for microservices, and optimize storage with S3. Our focus is to
                                     ensure your systems remain agile, cost-effective, and highly secure using AWS’s
@@ -43,8 +44,9 @@ const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
                                 </p>
                             </div>
                             <div>
-                                <h2>Azure: Seamless Enterprise Integration</h2>
+                                <h2>Azure</h2>
                                 <p>
+                                    <strong>Azure: Seamless Enterprise Integration </strong>
                                     Microsoft Azure is the ideal choice for enterprises looking to modernize legacy
                                     systems or adopt hybrid cloud solutions. We assist in building end-to-end solutions
                                     that incorporate advanced analytics, AI, and enterprise-grade security. Our services
@@ -53,8 +55,9 @@ const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
                                 </p>
                             </div>
                             <div>
-                                <h2>GCP: Advanced Analytics and AI Integration</h2>
+                                <h2>GCP</h2>
                                 <p>
+                                    <strong>GCP: Advanced Analytics and AI Integration </strong>
                                     Google Cloud Platform (GCP) offers unmatched capabilities in big data, machine
                                     learning, and AI-driven solutions. Our expertise in GCP helps you tap into powerful
                                     data analytics, automate workflows, and streamline complex business processes. We
@@ -63,8 +66,9 @@ const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
                                 </p>
                             </div>
                             <div>
-                                <h2>DigitalOcean: Simple, Powerful Cloud for Startups and SMEs</h2>
+                                <h2>DigitalOcean</h2>
                                 <p>
+                                    <strong>DigitalOcean: Simple, Powerful Cloud for Startups and SMEs </strong>
                                     For startups and small-to-medium enterprises (SMEs), DigitalOcean offers a
                                     straightforward yet powerful cloud platform. We assist in deploying scalable web
                                     apps, databases, and other cloud solutions on DigitalOcean’s infrastructure, with an
@@ -72,17 +76,15 @@ const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
                                 </p>
                             </div>
                             <div>
-                                <h2>Comprehensive System Analysis for Improved Performance</h2>
+                                <h2>Why Choose Us?</h2>
                                 <p>
+                                    <strong>Comprehensive System Analysis for Improved Performance </strong>
                                     As part of our services, our system analysts work closely with your teams to
                                     thoroughly evaluate current systems, identify bottlenecks, and propose actionable
                                     solutions. This includes performance optimization, cost analysis, security audits,
                                     and future scalability assessments to ensure your systems not only meet today’s
                                     needs but are ready for tomorrow’s challenges.
                                 </p>
-                            </div>
-                            <div>
-                                <h2>Why Choose Us?</h2>
                                 <p>
                                     Our solution architects and system analysts bring years of expertise across multiple
                                     industries, ensuring tailored solutions that align with your business goals. Whether
