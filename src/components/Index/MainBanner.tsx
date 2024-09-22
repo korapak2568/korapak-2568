@@ -2,7 +2,7 @@
 
 "use client";
 
-import React, {useEffect, useState} from "react";
+import React from "react";
 import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
@@ -10,18 +10,6 @@ import Link from "next/link";
 
 const MainBanner: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
-    const [isMobile, setIsMobile] = useState(false);
-
-    useEffect(() => {
-        const handleResize = () => {
-            setIsMobile(window.innerWidth <= 768);
-        };
-
-        handleResize(); // Set initial value
-        window.addEventListener("resize", handleResize);
-
-        return () => window.removeEventListener("resize", handleResize);
-    }, []);
 
     return (
         <>
@@ -68,28 +56,14 @@ const MainBanner: React.FC = () => {
                                             data-aos-delay="0"
                                             data-aos-once="true"
                                         >
-                                            {isMobile ?
-                                                (
-                                                    <Image
-                                                        src="/chorn-images/services/services-11-sm.webp"
-                                                        alt="image"
-                                                        width={400}
-                                                        height={300}
-                                                        sizes="(max-width: 600px) 100vw, (max-width: 768px) 50vw, 650px"
-                                                        priority={true}
-                                                    />
-                                                ) :
-                                                (
-                                                    <Image
-                                                        src="/chorn-images/services/services-11.webp"
-                                                        alt="image"
-                                                        width={650}
-                                                        height={500}
-                                                        sizes="(max-width: 600px) 100vw, (max-width: 768px) 50vw, 650px"
-                                                        priority={true}
-                                                    />
-                                                )
-                                            }
+                                            <Image
+                                                src="/chorn-images/services/services-11.webp"
+                                                alt="image"
+                                                width={650}
+                                                height={500}
+                                                sizes="(max-width: 600px) 100vw, (max-width: 768px) 50vw, 650px"
+                                                priority={true}
+                                            />
                                         </div>
                                     </div>
                                 </div>
