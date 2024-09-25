@@ -5,6 +5,7 @@ import AboutContent from "../../components/AboutUs/AboutContent";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import Recommendations from "@/components/Common/Recommendations";
 
 export const metadata: Metadata = {
     title: "About Us | CHORN - Custom Software Development Experts",
@@ -51,9 +52,9 @@ export default function Page() {
 
             <AboutContent/>
 
-            {/*<div className="pb-100">*/}
-            {/*    <Recommendations/>*/}
-            {/*</div>*/}
+            <div className="pb-100">
+                <Recommendations/>
+            </div>
 
             <WeWorkForIndustries/>
 
