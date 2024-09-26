@@ -6,7 +6,6 @@ import AboutContent from "../components/Index/AboutContent";
 import FrontEndExperience from "../components/Common/FrontEndExperience";
 import FullStackExperience from "../components/Common/FullStackExperience";
 import CloudExperience from "../components/Common/CloudExperience";
-import Recommendations from "../components/Common/Recommendations";
 import SubscribeForm from "../components/Common/SubscribeForm";
 import Footer from "../components/Layouts/Footer";
 import React from "react";
@@ -63,8 +62,6 @@ export default function Home() {
             <FullStackExperience/>
 
             <CloudExperience/>
-
-            <Recommendations/>
 
             <SubscribeForm/>
 
