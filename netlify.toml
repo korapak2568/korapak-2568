@@ -100,13 +100,13 @@ force = true
 
 [[redirects]]
 from = "/services/frontend-development/css3/"
-to = "/outsourcing-software-development/front-end-developer/nextjs-developer/"
+to = "/outsourcing-software-development/front-end-developer/css3-developer/"
 status = 301
 force = true
 
 [[redirects]]
 from = "/services/frontend-development/next.js/"
-to = "/outsourcing-software-development/front-end-developer/css3-developer/"
+to = "/outsourcing-software-development/front-end-developer/nextjs-developer/"
 status = 301
 force = true
 
