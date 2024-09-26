@@ -8,6 +8,7 @@ import SubscribeForm from "../../components/Common/SubscribeForm";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {IContent} from "@/data/model/common/IContent";
+import {Metadata} from "next";
 
 export default function Page() {
     const service = useSelector((state: RootState) => state.service.value);
