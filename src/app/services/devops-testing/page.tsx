@@ -32,7 +32,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "DevOps & Testing Services | CHORN",
         description: "Optimize your software development lifecycle with CHORN’s DevOps and testing services, including automation, CI/CD, and quality assurance testing.",
-        images: ["https://chorn.in.th/chorn-images/metadata/devops-testing-services.webp"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/devops-testing-services.webp"
+        ],
     },
     keywords: [
         "DevOps services", "software testing", "continuous integration", "CI/CD pipeline", "automated testing",

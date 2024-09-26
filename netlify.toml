@@ -33,6 +33,12 @@ status = 302
 force = true
 
 [[redirects]]
+from = "/full-stack-development"
+to = "/outsourcing-software-development/full-stack-developer/"
+status = 302
+force = true
+
+[[redirects]]
 from = "/custom-software-development"
 to = "/services/web-development/"
 status = 302
@@ -87,8 +93,20 @@ status = 302
 force = true
 
 [[redirects]]
-from = "/services/frontend-development/next.js/"
+from = "/services/cloud-solution-architecture-systems-analysis/"
+to = "/services/cloud-infrastructure-systems-architecture/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/frontend-development/css3/"
 to = "/outsourcing-software-development/front-end-developer/nextjs-developer/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/services/frontend-development/next.js/"
+to = "/outsourcing-software-development/front-end-developer/css3-developer/"
 status = 301
 force = true
 
@@ -234,6 +252,12 @@ force = true
 from = "/services/outsourcing/"
 to = "/services/web-development/"
 status = 302
+force = true
+
+[[redirects]]
+from = "/chorn-images/services-details/fullstack-development/service-detail-dotnetcore.webp"
+to = "/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.webp"
+status = 301
 force = true
 
 [[redirects]]
