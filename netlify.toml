@@ -261,6 +261,12 @@ status = 301
 force = true
 
 [[redirects]]
+from = "/services/fullstack-development/ruby/"
+to = "/outsourcing-software-development/full-stack-developer/"
+status = 302
+force = true
+
+[[redirects]]
 from = "/src"
 to = "/"
 status = 301
