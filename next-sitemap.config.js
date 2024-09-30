@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: process.env.SITE_URL || 'https://www.chorn.in.th',
+    siteUrl: process.env.SITE_URL || 'https://chorn.in.th',
     generateRobotsTxt: true, // Optionally generate robots.txt
     changefreq: 'daily',
     priority: 0.7,
