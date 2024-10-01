@@ -31,8 +31,8 @@ export const CONTACTS: IContact[] = [
         icon: "bx bxl-github",
         label: "GitHub",
         isLink: true,
-        link: "https://github.com/chorn-hub",
-        linkText: "CHORN Hub",
+        link: "https://github.com/chorn-digital",
+        linkText: "CHORN Digital",
     },
     {
         isLINE: false,
