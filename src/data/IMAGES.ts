@@ -53,6 +53,12 @@ export const IMAGES = {
             }
         }
     },
+    home: {
+        mainBanner: {
+            title: "CHORN",
+            path: "/chorn-images/metadata/home.webp"
+        }
+    },
     banner: {
         banner1: {
             title: "CHORN Banner Image",
@@ -79,93 +85,93 @@ export const IMAGES = {
     serviceDetails: {
         nextjs: {
             title: 'Next.js',
-            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-nextjs-developer.webp',
+            path: "/chorn-images/metadata/services/frontend-development/nextjs-development-service.webp",
         },
         react: {
             title: 'React',
-            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-react-developer.webp',
+            path: "/chorn-images/metadata/services/frontend-development/react-development-service.webp",
         },
         angular: {
             title: 'Angular',
-            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-angular-developer.webp',
+            path: "/chorn-images/metadata/services/frontend-development/angular-development-service.webp",
         },
         vue: {
             title: 'Vue',
-            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-vue-developer.webp',
+            path: "/chorn-images/metadata/services/frontend-development/vue-development-service.webp",
         },
         html5: {
             title: 'HTML5',
-            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-html5-developer.webp',
+            path: "/chorn-images/metadata/services/frontend-development/html5-development-service.webp",
         },
         css3: {
             title: 'CSS3',
-            path: '/chorn-images/outsourcing-software-development/front-end-developer/detail-images/service-detail-css3-developer.webp',
+            path: "/chorn-images/metadata/services/frontend-development/css3-development-service.webp",
         },
         nodejs: {
             title: 'Node.js',
-            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-nodejs-developer.webp',
+            path: "/chorn-images/metadata/services/fullstack-development/nodejs-development-service.webp",
         },
         typescript: {
             title: 'TypeScript',
-            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-typescript-javascript-developer.webp',
+            path: "/chorn-images/metadata/services/fullstack-development/typescript-development-service.webp",
         },
         dotnetcore: {
             title: 'TypeScript',
-            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-dotnetcore-developer.webp',
+            path: "/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.webp",
         },
         java: {
             title: 'Java, Spring Boot, Kotlin',
-            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-java-spring-boot-developer.webp',
+            path: "/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.webp",
         },
         python: {
             title: 'Python',
-            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-python-developer.webp',
+            path: "/chorn-images/metadata/services/fullstack-development/python-development-service.webp",
         },
         go: {
             title: 'Go-lang',
-            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-go-developer.webp',
+            path: "/chorn-images/metadata/services/fullstack-development/go-development-service.webp",
         },
         php: {
             title: 'PHP',
-            path: '/chorn-images/outsourcing-software-development/full-stack-developer/detail-images/service-detail-php-developer.webp',
+            path: "/chorn-images/metadata/services/fullstack-development/php-development-service.webp",
         },
     },
     devopsTesting: {
         docker: {
             title: 'Docker',
-            path: '/chorn-images/services-details/devops-testing/service-detail-docker.webp',
+            path: "/chorn-images/metadata/services/devops-testing/docker.webp",
         },
         kubernetes: {
             title: 'Kubernetes',
-            path: '/chorn-images/services-details/devops-testing/service-detail-kubernetes.webp',
+            path: "/chorn-images/metadata/services/devops-testing/kubernetes.webp",
         },
         github: {
             title: 'GitHub',
-            path: '/chorn-images/services-details/devops-testing/service-detail-github.webp',
+            path: "/chorn-images/metadata/services/devops-testing/github.webp",
         },
         gitlab: {
             title: 'GitLab',
-            path: '/chorn-images/services-details/devops-testing/service-detail-gitlab.webp',
+            path: "/chorn-images/metadata/services/devops-testing/gitlab.webp",
         },
         jenkins: {
             title: 'Jenkins',
-            path: '/chorn-images/services-details/devops-testing/service-detail-jenkins.webp',
+            path: "/chorn-images/metadata/services/devops-testing/jenkins.webp",
         },
         postman: {
             title: 'Postman',
-            path: '/chorn-images/services-details/devops-testing/service-detail-postman.webp',
+            path: "/chorn-images/metadata/services/devops-testing/postman.webp",
         },
         selenium: {
             title: 'Selenium',
-            path: '/chorn-images/services-details/devops-testing/service-detail-selenium.webp',
+            path: "/chorn-images/metadata/services/devops-testing/selenium.webp",
         },
         soapui: {
             title: 'SOAPUI',
-            path: '/chorn-images/services-details/devops-testing/service-detail-soapui.webp',
+            path: "/chorn-images/metadata/services/devops-testing/soapui.webp",
         },
         appium: {
             title: 'Appium',
-            path: '/chorn-images/services-details/devops-testing/service-detail-appium.webp',
+            path: "/chorn-images/metadata/services/devops-testing/appium.webp",
         }
     }
 }

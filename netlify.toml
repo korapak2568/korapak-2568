@@ -243,12 +243,6 @@ status = 302
 force = true
 
 [[redirects]]
-from = "/poc"
-to = "https://angular.chorn.in.th/poc"
-status = 302
-force = true
-
-[[redirects]]
 from = "/services/outsourcing/"
 to = "/services/web-development/"
 status = 302

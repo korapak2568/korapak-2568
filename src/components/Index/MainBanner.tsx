@@ -7,6 +7,7 @@ import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import Link from "next/link";
+import {IMAGES} from "@/data/IMAGES";
 
 const MainBanner: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -57,7 +58,7 @@ const MainBanner: React.FC = () => {
                                             data-aos-once="true"
                                         >
                                             <Image
-                                                src="/chorn-images/services/services-11.webp"
+                                                src={IMAGES.home.mainBanner.path}
                                                 alt="image"
                                                 width={650}
                                                 height={500}

@@ -22,10 +22,10 @@ const Footer: React.FC = () => {
                                 <div className="logo">
                                     <Link href="/">
                                         <Image
-                                            src={IMAGES.logo.darker.rec.sm.path}
-                                            alt={IMAGES.logo.darker.rec.sm.title}
-                                            width={150}
-                                            height={75}
+                                            src={IMAGES.logo.circleMd.path}
+                                            alt={IMAGES.logo.circleMd.title}
+                                            width={100}
+                                            height={100}
                                         />
                                     </Link>
                                 </div>
