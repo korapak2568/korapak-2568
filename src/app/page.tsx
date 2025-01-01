@@ -1,6 +1,5 @@
 // src/app/index.tsx
 import Navbar from "../components/Layouts/Navbar";
-import MainBanner2 from "@/components/IndexTwo/MainBanner2";
 import Features from "../components/Index/Features";
 import AboutContent from "../components/Index/AboutContent";
 import FrontEndExperience from "../components/Common/FrontEndExperience";
@@ -11,7 +10,8 @@ import Footer from "../components/Layouts/Footer";
 import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
-import ManBannerAI from "@/components/Index/ManBannerAI"
+import ManBannerAI from "@/components/Index/ManBannerAI";
+import MainBanner2 from "@/components/IndexTwo/MainBanner2";
 
 export const metadata: Metadata = {
     title: "CHORN | AI Companion & Development Partner",

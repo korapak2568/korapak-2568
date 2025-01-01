@@ -6,7 +6,7 @@ export default function Right() {
         <div className="col-lg-6">
             <div className="main-banner-image">
                 <Image
-                    src="/images/ai/01-fah/nong-fah-0003.jpg"
+                    src="/images-ai/01-fah/nong-fah-0003.jpg"
                     alt="image"
                     width={1240}
                     height={935}
