@@ -33,7 +33,7 @@ This files table contents are outlined below>>>>>
 ** - Subscribe Area CSS
 ** - Quote Area CSS
 ** - Overview Area CSS
-** - Index Banner CSS
+** - Page Banner CSS
 ** - FAQ Area CSS
 ** - Login Area CSS
 ** - Register Area CSS
@@ -3673,7 +3673,7 @@ Overview Area CSS
 }
 
 /*================================================
-Index Banner CSS
+Page Banner CSS
 =================================================*/
 .page-banner-area {
   position: relative;

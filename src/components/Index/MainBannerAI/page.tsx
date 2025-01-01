@@ -1,12 +1,12 @@
-// src/components/Index/MainBanner2.tsx
+// src/components/Page/MainBannerAI/page.tsx
 
 "use client";
 
 import React from "react";
-import Left from "@/components/Index/ManBannerAI/left";
-import Right from "@/components/Index/ManBannerAI/right";
+import Left from "@/components/Index/MainBannerAI/left";
+import Right from "@/components/Index/MainBannerAI/right";
 
-export default function Index() {
+export default function Page() {
 
     return (
         <>

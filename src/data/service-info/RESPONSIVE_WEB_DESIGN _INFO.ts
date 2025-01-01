@@ -41,7 +41,7 @@ export const FRONT_END_INFORMATION: IServiceLegacy = {
     },
     {
       title: "SPA Development",
-      description: "We are adept at building Single Index Applications (SPA), offering a " +
+      description: "We are adept at building Single Page Applications (SPA), offering a " +
         "smooth and uninterrupted user journey."
     },
     {

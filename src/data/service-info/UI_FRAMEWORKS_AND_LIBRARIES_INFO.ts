@@ -41,7 +41,7 @@ export const UI_FRAMEWORKS_AND_LIBRARIES_INFO: IServiceLegacy = {
     },
     {
       title: "SPA Development",
-      description: "We are adept at building Single Index Applications (SPA), offering a " +
+      description: "We are adept at building Single Page Applications (SPA), offering a " +
         "smooth and uninterrupted user journey."
     },
     {

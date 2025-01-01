@@ -1,4 +1,4 @@
-// src/app/team/index.tsx
+// src/app/team/page.tsx
 
 import React from "react";
 import Navbar from "../../components/Layouts/Navbar";

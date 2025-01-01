@@ -5,7 +5,7 @@ import Image from "next/image";
 import Left from "@/components/IndexTwo/MainBanner2/left";
 import Right from "@/components/IndexTwo/MainBanner2/right";
 
-export default function Index() {
+export default function Page() {
     return (
         <>
             <div className="main-banner">
