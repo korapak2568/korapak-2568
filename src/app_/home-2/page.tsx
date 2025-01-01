@@ -1,5 +1,5 @@
 import Navbar from "../../components/Layouts/Navbar";
-import MainBanner from "../../components/IndexTwo/MainBanner";
+import MainBanner from "@/components/IndexTwo/MainBanner2/MainBanner";
 import Features from "../../components/IndexTwo/Features";
 import AboutUsContent from "../../components/IndexTwo/AboutUsContent";
 import ServicesStyleOne from "../../components/Common/ServicesStyleOne";

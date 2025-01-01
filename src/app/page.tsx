@@ -1,6 +1,6 @@
-// src/app/page.tsx
+// src/app/index.tsx
 import Navbar from "../components/Layouts/Navbar";
-import MainBanner from "../components/Index/MainBanner";
+import MainBanner2 from "@/components/IndexTwo/MainBanner2";
 import Features from "../components/Index/Features";
 import AboutContent from "../components/Index/AboutContent";
 import FrontEndExperience from "../components/Common/FrontEndExperience";
@@ -11,6 +11,7 @@ import Footer from "../components/Layouts/Footer";
 import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
+import ManBannerAI from "@/components/Index/ManBannerAI"
 
 export const metadata: Metadata = {
     title: "CHORN | AI Companion & Development Partner",
@@ -22,14 +23,14 @@ export const metadata: Metadata = {
         canonical: 'https://chorn.in.th', // Add canonical URL here
     },
     openGraph: {
-        title: "CHORN - Leading Digital Innovation & Custom Software Development",
+        title: "CHORN - AI Companion & Development Partner",
         description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/home.webp",
+                url: "https://chorn.in.th/images-ai/01-fah/nong-fah-0003.jpg",
                 width: 1200,
                 height: 630,
-                alt: "CHORN Homepage Banner",
+                alt: "Fah AI Banner CHORN",
             },
         ],
         url: "https://chorn.in.th",
@@ -37,10 +38,10 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | Transform Your Business with Custom Software Solutions",
+        title: "CHORN | AI Companion & Development Partner",
         description: "CHORN offers cutting-edge software development, scalable websites, and technology expertise in Blockchain, Web3, and more. Partner with us for future-ready solutions.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/home.webp"
+            "https://chorn.in.th/images-ai/01-fah/nong-fah-0003.jpg",
         ],
     },
     keywords: [
@@ -123,23 +124,15 @@ export default function Home() {
     return (
         <>
             <Navbar/>
-
-            <MainBanner/>
-
+            <MainBanner2/>
+            <ManBannerAI/>
             <Features/>
-
             <AboutContent/>
-
             <FrontEndExperience/>
-
             <FullStackExperience/>
-
             <CloudExperience/>
-
             <SubscribeForm/>
-
             <Footer/>
-
             <SchemaMarkupHomePage/>
 
             <script

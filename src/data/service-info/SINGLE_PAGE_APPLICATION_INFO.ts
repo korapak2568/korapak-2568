@@ -1,14 +1,14 @@
 import { IServiceLegacy } from "../model/services/IServiceLegacy";
 
 export const SINGLE_PAGE_APPLICATION_INFO: IServiceLegacy = {
-  title: "Single Page Application (SPA)",
+  title: "Single Index Application (SPA)",
   span: "",
   subTitle: "Angular, React.js, Vue.js, Advantages of SPA, Customization for Business Domains, and " +
     "Challenges and Considerations.",
   description: [
     {
       title: "",
-      description: "At CHORN, it's imperative to understand the significance of Single Page Application " +
+      description: "At CHORN, it's imperative to understand the significance of Single Index Application " +
         "(SPA) within our projects across diverse business domains. SPAs revolutionize user experiences by providing " +
         "seamless, fast, and interactive web applications. We employ prominent frameworks such as Angular, React.js, " +
         "and Vue.js to develop SPAs, each offering unique advantages suited to different project requirements."

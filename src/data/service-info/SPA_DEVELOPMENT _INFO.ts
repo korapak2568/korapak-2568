@@ -6,7 +6,7 @@ export const SPA_DEVELOPMENT_INFO: IServiceLegacy = {
   description: [
     {
       title: "",
-      description: "We specialize in Single-Page Application (SPA) development, offering a smooth and uninterrupted user journey. With our expertise, we ensure that your web applications load swiftly and provide a streamlined experience, enhancing user engagement and satisfaction."
+      description: "We specialize in Single-Index Application (SPA) development, offering a smooth and uninterrupted user journey. With our expertise, we ensure that your web applications load swiftly and provide a streamlined experience, enhancing user engagement and satisfaction."
     },
     {
       title: "",
@@ -41,7 +41,7 @@ export const SPA_DEVELOPMENT_INFO: IServiceLegacy = {
     },
     {
       title: "SPA Development",
-      description: "We are adept at building Single Page Applications (SPA), offering a " +
+      description: "We are adept at building Single Index Applications (SPA), offering a " +
         "smooth and uninterrupted user journey."
     },
     {
