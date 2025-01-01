@@ -13,7 +13,7 @@ import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkup
 import type {Metadata} from "next";
 
 export const metadata: Metadata = {
-    title: "CHORN | Digital Innovation & Custom Software Solutions",
+    title: "CHORN | AI Companion & Development Partner",
     description: "Transform your business with CHORN’s digital innovation expertise. We provide state-of-the-art software solutions, scalable websites, and cutting-edge technologies like Blockchain, Web3, and more.",
     icons: {
         icon: '/favicon.ico',
@@ -89,7 +89,7 @@ export default function Home() {
     const localBusinessSchema = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": "CHORN | Digital Innovation & Custom Software Solutions",
+        "name": "CHORN | AI Companion & Development Partner",
         "logo": "https://chorn.in.th/chorn-images/logo/chorn-logo-circle-md.webp",
         "@id": "https://chorn.in.th",
         "url": "https://chorn.in.th",
