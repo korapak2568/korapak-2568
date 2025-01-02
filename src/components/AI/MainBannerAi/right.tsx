@@ -1,8 +1,8 @@
 import Image from "next/image";
 import {IMAGES} from "@/data/IMAGES";
 import React from "react";
-
 export default function Right() {
+
     return (
         <div className="col-lg-6">
             <div

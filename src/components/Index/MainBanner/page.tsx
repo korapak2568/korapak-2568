@@ -3,8 +3,8 @@
 "use client";
 
 import React from "react";
-import Left from "@/components/Index/MainBannerAI/left";
-import Right from "@/components/Index/MainBannerAI/right";
+import Left from "@/components/AI/MainBannerAi/left";
+import Right from "@/components/AI/MainBannerAi/right";
 
 export default function Page() {
 

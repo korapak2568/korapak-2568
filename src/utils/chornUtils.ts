@@ -10,6 +10,6 @@ export function isActiveMenu(pathname: string, link: string): boolean {
 
 export function isActiveMainMenu(pathname: string, group: string): boolean {
 
-    if (pathname == "/" && group == "/home") return true;
+    if (pathname == "/" && group == "/info") return true;
     return pathname.includes(group)
 }

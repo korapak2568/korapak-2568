@@ -1,4 +1,5 @@
 // src/app/page.tsx
+
 import Navbar from "../components/Layouts/Navbar";
 import Features from "../components/Index/Features";
 import AboutContent from "../components/Index/AboutContent";
@@ -10,8 +11,8 @@ import Footer from "../components/Layouts/Footer";
 import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
-import MainBannerAI from "@/components/Index/MainBannerAI/page";
-import MainBanner2 from "@/components/IndexTwo/MainBanner2/page";
+import MainBannerAi from "@/components/AI/MainBannerAi/page";
+import MainBannerAiFah from "@/components/AI/MainBannerAiFah/page";
 
 export const metadata: Metadata = {
     title: "CHORN | AI Companion & Development Partner",
@@ -124,8 +125,8 @@ export default function Home() {
     return (
         <>
             <Navbar/>
-            <MainBanner2/>
-            <MainBannerAI/>
+            <MainBannerAiFah/>
+            <MainBannerAi/>
             <Features/>
             <AboutContent/>
             <FrontEndExperience/>

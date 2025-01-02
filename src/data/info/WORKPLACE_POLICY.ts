@@ -14,7 +14,7 @@ export const WORKPLACE_POLICY: IContents = {
         },
         {
             title: "Why Hybrid?",
-            description: "We understand that great ideas can come from anywhere, whether you're in the office, at home, " +
+            description: "We understand that great ideas can come from anywhere, whether you're in the office, at info, " +
                 "or on the go. By offering a hybrid work model, we provide the best of both worlds—ensuring that our team " +
                 "can benefit from the structure and camaraderie of in-office work, while also enjoying the flexibility " +
                 "to manage their personal and professional lives effectively."

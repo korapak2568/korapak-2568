@@ -2,7 +2,7 @@ import {INavbar} from "@/data/model/navbar/INavbar";
 
 export const NAVBAR: INavbar[] = [
     {
-        group: "/home",
+        group: "/info",
         label: "Home",
         link: "/",
         submenu: []
