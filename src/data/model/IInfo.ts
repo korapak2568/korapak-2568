@@ -4,10 +4,10 @@ import {IServiceImage} from "@/data/model/services/IServiceImage";
 import {IRecommendations} from "@/data/model/common/IRecommendations";
 import {IFooters} from "@/data/model/footer/IFooters";
 import {IBusinessDomains} from "@/data/model/common/IBusinessDomains";
-import {IContents} from "@/data/model/common/IContents";
 import {IConsent} from "@/data/model/common/IConsent";
 import {IImageAll} from "@/data/model/image/IImageAll";
 import {IContactAll} from "@/data/model/contact/IContactAll";
+import {IPolicy} from "@/data/model/policy/IPolicy";
 
 export interface IInfo {
     Languages: ILanguage[],
@@ -20,10 +20,12 @@ export interface IInfo {
     Recommend: IRecommendations,
     Footer: IFooters,
     Business: IBusinessDomains,
-    PrivacyPolicy: IContents,
-    TermOfService: IContents,
     DevOps: IServiceImage,
-    WorkplacePolicy: IContents,
+
+    PrivacyPolicy: IPolicy,
+    TermOfService: IPolicy,
+    WorkplacePolicy: IPolicy,
+
     Contact: IContactAll,
     Consent: IConsent,
     Images: IImageAll

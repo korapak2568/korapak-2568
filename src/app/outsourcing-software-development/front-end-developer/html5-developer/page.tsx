@@ -4,9 +4,9 @@ import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
 import ServicesDetailsHtml5 from "@/components/Services/frontend-development/html5/ServicesDetailsHtml5";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Info} from "@/data/info/Info";
 
 export const metadata: Metadata = {
     title: "HTML5 Development Services | CHORN",
@@ -62,11 +62,11 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={INFO.FRONT_END_EXPERIENCE_INFO.additions[4].details[0].title}
+                pageTitle={Info.FrontEnd.additions[4].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={INFO.FRONT_END_EXPERIENCE_INFO.title}
-                BGImage={INFO.IMAGES.pageBanner.cover1.path}
+                activePageText={Info.FrontEnd.title}
+                BGImage={Info.Images.pageBanner.cover1.path}
             />
 
             <ServicesDetailsHtml5/>

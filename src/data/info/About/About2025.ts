@@ -26,8 +26,9 @@ export const About2025: IAbout = {
         {
             title: "AI Agent Development",
             description:
-                "Proficient in GPT-4, GPT-3.5-Turbo, OpenAI APIs, and prompt engineering. " +
-                "Specializes in real-world AI-driven applications and chat app integrations."
+                "Specializes in designing, developing, and deploying intelligent systems for real-world applications. " +
+                "Expertise includes advanced language models, conversational interfaces, and integrating " +
+                "AI-driven solutions into various platforms."
         },
         {
             title: "Web & Software Development Consulting",
@@ -38,9 +39,9 @@ export const About2025: IAbout = {
         {
             title: "Custom Software Development",
             description:
-                "Modernizes legacy systems and delivers custom software, proofs of concept (PoC), " +
-                "MVPs, and production maintenance. Utilizes frameworks and languages such as React, Angular, " +
-                "Vue, Go, Node.js, Java, Python, and PHP."
+                "Modernizes legacy systems and delivers tailored software solutions, from proofs of concept (PoC) " +
+                "to MVPs and production maintenance. Leverages modern frameworks and programming languages " +
+                "to ensure scalable, high-performance, and future-ready applications."
         },
     ]
 }

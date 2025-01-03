@@ -5,14 +5,10 @@ import Link from "next/link";
 import Image from "next/image";
 import MenuItem from "./MenuItem";
 import {NAVBAR} from "@/data/navbar/NAVBAR";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {INavbar} from "@/data/model/navbar/INavbar";
-import {ImageAll} from "@/data/ImageAll";
 import {Info} from "@/data/info/Info";
 
 const Navbar: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
     const [menu, setMenu] = useState(true);
     const toggleNavbar = () => {
         setMenu(!menu);
@@ -50,8 +46,8 @@ const Navbar: React.FC = () => {
                         <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/" className="navbar-brand add-navbar-logo">
                                 <Image
-                                    src={ImageAll.logo.darker.rec.sm.path}
-                                    alt={ImageAll.logo.darker.rec.sm.title}
+                                    src={Info.Images.logo.darker.rec.sm.path}
+                                    alt={Info.Images.logo.darker.rec.sm.title}
                                     width={150}
                                     height={75}
                                 />
@@ -81,20 +77,7 @@ const Navbar: React.FC = () => {
                             </div>
 
                             <div className="others-options d-flex align-items-center mt-10">
-                                {/*<div className="option-item">*/}
-                                {/*    <i*/}
-                                {/*        className="search-btn flaticon-loupe"*/}
-                                {/*        onClick={handleToggleSearchModal}*/}
-                                {/*    ></i>*/}
-                                {/*</div>*/}
-
-                                {/*<div className="option-item">*/}
-                                {/*    <Link href="/contact-chorn" className="default-btn">*/}
-                                {/*        Contact*/}
-                                {/*    </Link>*/}
-                                {/*</div>*/}
-
-                                <div>
+                                <div className={'mr-10'}>
                                     <a href={Info.Contact.line.link}>
                                         <Image
                                             src={Info.Contact.line.iconImageLink}
@@ -104,49 +87,11 @@ const Navbar: React.FC = () => {
                                         />
                                     </a>
                                 </div>
-
                             </div>
                         </nav>
                     </div>
                 </div>
             </div>
-
-            {/* Search Form */}
-            <div
-                className={`search-overlay ${
-                    isActiveSearchModal ? "" : "search-overlay-active"
-                }`}
-            >
-                <div className="d-table">
-                    <div className="d-table-cell">
-                        <div className="search-overlay-layer"></div>
-                        <div className="search-overlay-layer"></div>
-                        <div className="search-overlay-layer"></div>
-
-                        <div
-                            className="search-overlay-close"
-                            onClick={handleToggleSearchModal}
-                        >
-                            <span className="search-overlay-close-line"></span>
-                            <span className="search-overlay-close-line"></span>
-                        </div>
-
-                        <div className="search-overlay-form">
-                            <form>
-                                <input
-                                    type="text"
-                                    className="input-search"
-                                    placeholder="Search here..."
-                                />
-                                <button type="submit">
-                                    <i className="bx bx-search-alt"></i>
-                                </button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {/* End Search Form */}
         </>
     );
 };

@@ -50,5 +50,6 @@ export const CLOUD_EXPERIENCE_INFO: IServiceImage = {
             faq: [],
             icon: ""
         },
-    ]
+    ],
+    additions2: []
 }

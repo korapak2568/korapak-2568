@@ -3,13 +3,11 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
+import {Info} from "@/data/info/Info";
 
 const ServicesCardDevOpsTesting: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
@@ -19,23 +17,23 @@ const ServicesCardDevOpsTesting: React.FC = () => {
 
                         <div className={'add-web-content'}>
                             <p>
-                                Streamline your software development lifecycle with our <strong>DevOps and testing
-                                services.</strong> Our team of DevOps engineers helps automate and optimize your
+                                Streamline your software development lifecycle with CHORN <strong>DevOps and testing
+                                services.</strong> CHORN team of DevOps engineers helps automate and optimize your
                                 infrastructure to deliver faster, more reliable software. Whether you’re
                                 adopting <strong>Docker, Kubernetes,</strong> or utilizing <strong>GitLab
-                                CI/CD,</strong> we ensure your deployment processes are automated and
+                                CI/CD,</strong> CHORN ensure your deployment processes are automated and
                                 secure.
                             </p>
 
                             <p>
-                                Our testing services ensure that your application is bug-free, scalable, and ready to
-                                launch. From <strong>unit testing </strong> to <strong>integration testing,</strong> our
+                                CHORN testing services ensure that your application is bug-free, scalable, and ready to
+                                launch. From <strong>unit testing </strong> to <strong>integration testing,</strong> CHORN
                                 comprehensive testing strategies include tools like <strong>Postman,</strong>
                                 <strong> Selenium</strong>, and <strong>Appium</strong> for API and UI automation.
                             </p>
 
                             <div>
-                                <h2>Our DevOps & Testing Solutions</h2>
+                                <h2>CHORN DevOps & Testing Solutions</h2>
                                 <ul>
                                     <li>
                                         <strong>Continuous Integration & Continuous Deployment (CI/CD)</strong>Automate
@@ -57,19 +55,19 @@ const ServicesCardDevOpsTesting: React.FC = () => {
                             </div>
 
                             <div>
-                                <h2>Why Choose Us for DevOps and Testing?</h2>
+                                <h2>Why Choose CHORN for DevOps and Testing?</h2>
                                 <p>
-                                    We ensure your software is not only built efficiently but also deployed, tested, and
-                                    monitored with precision. Our DevOps team works closely with developers to automate
-                                    infrastructure management, while our testing team integrates <strong>automated
-                                    tests</strong> into every stage of development. From <strong>load
-                                    testing</strong> to <strong>API validation</strong>, we provide end-to-end quality
-                                    assurance for high-performance, secure, and reliable software.
+                                    CHORN ensures your software is not only built efficiently but also deployed,
+                                    tested, and monitored with precision. CHORN DevOps team works closely with developers
+                                    to automate infrastructure management, while CHORN testing team integrates
+                                    <strong>automated tests</strong> into every stage of development. From <strong>load
+                                    testing</strong> to <strong>API validation</strong>, CHORN provides end-to-end
+                                    quality assurance for high-performance, secure, and reliable software.
                                 </p>
                             </div>
                         </div>
 
-                        {service.DEVOPS_TESTING_INFO.additions.map((addition: IContentImage, index: number) => (
+                        {Info.DevOps.additions.map((addition: IContentImage, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services">
                                     <div className="image">

@@ -5,7 +5,7 @@ import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
 import ServicesCardFullStack from "@/components/Services/fullstack-development/ServicesCardFullStack";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {INFO} from "@/data/INFO";
+import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
@@ -71,7 +71,7 @@ const Page = () => {
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText="Full Stack Development"
-                BGImage={INFO.IMAGES.pageBanner.cover1.path}
+                BGImage={Info.Images.pageBanner.cover1.path}
             />
 
             <ServicesCardFullStack/>

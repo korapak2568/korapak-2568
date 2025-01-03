@@ -3,12 +3,10 @@
 import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {IRecommendation} from "@/data/model/common/IRecommendation";
+import {Info} from "@/data/info/Info";
 
 const Recommendations: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
@@ -17,8 +15,8 @@ const Recommendations: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-6 offset-lg-6">
                             <div className="testimonial-content">
-                                <span>{service.RECOMMENDATION_INFO.span}</span>
-                                <h2>{service.RECOMMENDATION_INFO.title}</h2>
+                                <span>{Info.Recommend.span}</span>
+                                <h2>{Info.Recommend.title}</h2>
                                 <div className="bar"></div>
                             </div>
                         </div>
@@ -36,7 +34,7 @@ const Recommendations: React.FC = () => {
                         modules={[Autoplay, Navigation]}
                         className="testimonial-slider"
                     >
-                        {service.RECOMMENDATION_INFO.list.map((item: IRecommendation, index: number) => (
+                        {Info.Recommend.list.map((item: IRecommendation, index: number) => (
                             <SwiperSlide key={index}>
                                 <div className="testimonial-item">
                                     <div className="row">

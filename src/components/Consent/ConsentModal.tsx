@@ -3,12 +3,10 @@
 
 import {useState, useEffect} from 'react';
 import Link from "next/link";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import Image from "next/image";
+import {Info} from "@/data/info/Info";
 
 const ConsentModal = () => {
-        const service = useSelector((state: RootState) => state.service.value);
         const [isVisible, setIsVisible] = useState(false);
 
         useEffect(() => {
@@ -48,23 +46,23 @@ const ConsentModal = () => {
                 {isVisible && (
                     <div
                         className="modal fade show d-block"
-                        style={{display: 'block', backgroundColor: 'rgba(0,0,0,0.5)'}}>
+                        style={{display: 'block', backgroundColor: 'rgba(0,0,0,0)'}}>
                         <div className="modal-dialog">
                             <div className="modal-content">
                                 <div className="modal-body">
                                     <div className="add-cookie-left">
                                         <Image
                                             className="logo"
-                                            src={service.IMAGES.logo.circleSm.path}
-                                            alt={service.IMAGES.logo.circleSm.title}
+                                            src={Info.Images.logo.circleSm.path}
+                                            alt={Info.Images.logo.circleSm.title}
                                             width={50}
                                             height={50}
                                         />
                                         <div className="text">
-                                            {service.CONSENT_INFO.description}
+                                            {Info.Consent.description}
                                             <Link
                                                 className="a-privacy"
-                                                href={service.CONSENT_INFO.policyLink}>{service.CONSENT_INFO.policyLabel}
+                                                href={Info.Consent.policyLink}>{Info.Consent.policyLabel}
                                             </Link>
                                         </div>
                                     </div>
@@ -72,7 +70,7 @@ const ConsentModal = () => {
                                         <button
                                             className="btn btn-success add-button"
                                             onClick={handleAccept}>
-                                            {service.CONSENT_INFO.buttonText}
+                                            {Info.Consent.buttonText}
                                         </button>
                                     </div>
                                 </div>

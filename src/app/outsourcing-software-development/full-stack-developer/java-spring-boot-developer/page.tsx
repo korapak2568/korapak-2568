@@ -4,7 +4,7 @@ import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
 import ServicesDetailsJava from "@/components/Services/fullstack-development/java/ServicesDetailsJava";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {INFO} from "@/data/INFO";
+import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
@@ -63,11 +63,11 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={INFO.FULL_STACK_FRAMEWORK_INFO.additions[2].details[0].title}
+                pageTitle={Info.FullStack.additions[2].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={INFO.FULL_STACK_FRAMEWORK_INFO.title}
-                BGImage={INFO.IMAGES.pageBanner.cover1.path}
+                activePageText={Info.FullStack.title}
+                BGImage={Info.Images.pageBanner.cover1.path}
             />
 
             <ServicesDetailsJava/>

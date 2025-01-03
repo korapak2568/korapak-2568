@@ -3,13 +3,11 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
+import {Info} from "@/data/info/Info";
 
 const ServicesCardFrontEnd: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
@@ -22,9 +20,9 @@ const ServicesCardFrontEnd: React.FC = () => {
                                 Take advantage of our full-stack development outsourcing services to build robust,
                                 scalable, and secure web applications from scratch. Our developers excel in both
                                 front-end and back-end technologies, delivering a comprehensive solution tailored to
-                                your business needs. We have expertise in a variety of technology stacks, including
+                                your business needs. CHORN has expertise in a variety of technology stacks, including
                                 <strong> Node.js, .NET Core, Java Spring Boot, Python,
-                                    Go, </strong> and <strong>PHP,</strong> ensuring we can meet any project
+                                    Go, </strong> and <strong>PHP,</strong> ensuring CHORN can meet any project
                                 requirements, no matter how complex.
                             </p>
                             <p>
@@ -56,9 +54,9 @@ const ServicesCardFrontEnd: React.FC = () => {
                                 </ul>
                             </div>
                             <div>
-                                <h2>Why Outsource to Us?</h2>
+                                <h2>Why Outsource to CHORN?</h2>
                                 <p>
-                                    We deliver flexible, end-to-end full-stack solutions tailored to your specific
+                                    CHORN delivers flexible, end-to-end full-stack solutions tailored to your specific
                                     project goals. Our expert developers work with you through every stage of the
                                     development process, from <strong>PoC</strong> to <strong>MVP</strong> and full
                                     production, ensuring a seamless development journey with regular feedback and
@@ -69,7 +67,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                             </div>
                         </div>
 
-                        {service.FULL_STACK_FRAMEWORK_INFO.additions.map((addition: IContentImage, index: number) => (
+                        {Info.FullStack.additions.map((addition: IContentImage, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services">
                                     <div className="image">

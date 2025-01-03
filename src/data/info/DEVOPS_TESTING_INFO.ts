@@ -17,6 +17,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Docker",
                     description: "Docker is a powerful platform for developing, shipping, and running applications in containers, ensuring consistency across multiple environments. Ideal for modern DevOps practices.",
+                    list: []
                 },
                 {
                     title: "Strong Points of Docker",
@@ -34,6 +35,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "Docker addresses deployment challenges by providing containerization solutions that enhance performance, scalability, and consistency.",
+                    list: []
                 }
             ],
             faq: [
@@ -63,6 +65,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Kubernetes",
                     description: "Kubernetes is a leading container orchestration platform that automates deployment, scaling, and management of containerized applications. Essential for large-scale, resilient systems.",
+                    list: []
                 },
                 {
                     title: "Strong Points of Kubernetes",
@@ -80,6 +83,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "Kubernetes addresses orchestration challenges by providing scalable and automated solutions for containerized applications.",
+                    list: []
                 }
             ],
             faq: [
@@ -109,6 +113,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "GitHub",
                     description: "GitHub is a web-based platform that provides Git repository hosting, collaborative development tools, and a wide range of integrations, fostering efficient and collaborative software development.",
+                    list: []
                 },
                 {
                     title: "Strong Points of GitHub",
@@ -126,6 +131,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "GitHub tackles development workflow challenges by providing robust version control and collaborative tools for efficient project management.",
+                    list: []
                 }
             ],
             faq: [
@@ -155,6 +161,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "GitLab",
                     description: "GitLab is a comprehensive DevOps platform that integrates Git repository management, continuous integration and deployment, and project management tools, streamlining the development lifecycle.",
+                    list: []
                 },
                 {
                     title: "Strong Points of GitLab",
@@ -172,6 +179,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "GitLab addresses DevOps challenges by providing an integrated platform that enhances efficiency and collaboration across the development lifecycle.",
+                    list: []
                 }
             ],
             faq: [
@@ -201,6 +209,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Jenkins",
                     description: "Jenkins is a widely-used open-source automation server that supports continuous integration and continuous delivery, enabling the efficient building, testing, and deploying of software.",
+                    list: []
                 },
                 {
                     title: "Strong Points of Jenkins",
@@ -218,6 +227,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "Jenkins tackles automation challenges by providing robust CI/CD solutions that streamline software development and deployment processes.",
+                    list: []
                 }
             ],
             faq: [
@@ -247,6 +257,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Postman",
                     description: "Postman is a popular API development and testing tool that simplifies the process of building, testing, and documenting APIs, enhancing collaboration and efficiency in API development.",
+                    list: []
                 },
                 {
                     title: "Strong Points of Postman",
@@ -264,6 +275,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "Postman addresses API development challenges by providing tools for testing, documenting, and automating APIs, improving development efficiency.",
+                    list: []
                 }
             ],
             faq: [
@@ -293,6 +305,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Selenium",
                     description: "Selenium is an open-source tool suite for automating web browsers, enabling robust testing of web applications across different browsers and platforms. Essential for quality assurance in web development.",
+                    list: []
                 },
                 {
                     title: "Strong Points of Selenium",
@@ -310,6 +323,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "Selenium addresses web testing challenges by providing a comprehensive suite of tools for automated testing across various browsers and platforms.",
+                    list: []
                 }
             ],
             faq: [
@@ -338,6 +352,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "SOAPUI",
                     description: "SOAPUI is a powerful API testing tool that supports both REST and SOAP APIs, providing advanced testing capabilities for functional, security, and load testing of APIs.",
+                    list: []
                 },
                 {
                     title: "Strong Points of SOAPUI",
@@ -355,6 +370,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "SOAPUI addresses API testing challenges by providing a robust toolset for functional, security, and load testing, ensuring API reliability and performance.",
+                    list: []
                 }
             ],
             faq: [
@@ -384,6 +400,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Appium",
                     description: "Appium is an open-source tool for automating mobile applications on iOS and Android platforms, providing cross-platform testing capabilities using standard WebDriver protocol.",
+                    list: []
                 },
                 {
                     title: "Strong Points of Appium",
@@ -401,6 +418,7 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
                 {
                     title: "Challenge and Solutions",
                     description: "Appium addresses mobile testing challenges by providing a flexible and versatile framework for automating testing across iOS and Android platforms.",
+                    list: []
                 }
             ],
             faq: [
@@ -419,5 +437,6 @@ export const DEVOPS_TESTING_INFO: IServiceImage = {
             ],
             icon: ""
         }
-    ]
+    ],
+    additions2: []
 }

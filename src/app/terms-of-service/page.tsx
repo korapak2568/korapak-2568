@@ -3,9 +3,8 @@ import Navbar from "../../components/Layouts/Navbar";
 import PageBanner from "../../components/Common/PageBanner";
 import Footer from "../../components/Layouts/Footer";
 import SubscribeForm from "../../components/Common/SubscribeForm";
-import {IContent} from "@/data/model/content/IContent";
-import {INFO} from "@/data/INFO";
-import type {Metadata} from "next";
+import {Info} from "@/data/info/Info";
+import {IPolicyContent} from "@/data/model/policy/IPolicyContent";
 
 export default function TermsOfService() {
 
@@ -24,7 +23,7 @@ export default function TermsOfService() {
             <div className="terms-of-service-area ptb-100">
                 <div className="container">
                     <div className="privacy-content">
-                        {INFO.TERM_OF_SERVICE.list.map((item: IContent, index: number) => (
+                        {Info.TermOfService.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
                                 <h3>{item.title}</h3>
                                 <p>{item.description}</p>

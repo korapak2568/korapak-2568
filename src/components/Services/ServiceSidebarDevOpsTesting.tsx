@@ -2,14 +2,12 @@
 
 import React from "react";
 import Link from "next/link";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {IContentImage} from "@/data/model/common/IContentImage";
 import {useEffect, useState} from 'react';
 import Image from "next/image";
+import {Info} from "@/data/info/Info";
 
 const ServiceSidebarDevOpsTesting: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
     const [currentUrl, setCurrentUrl] = useState('');
 
     useEffect(() => {
@@ -22,7 +20,7 @@ const ServiceSidebarDevOpsTesting: React.FC = () => {
         <>
             <div className="services-details-information ml-10">
                 <ul className="services-list">
-                    {service.DEVOPS_TESTING_INFO.additions.map((item: IContentImage, index: number) => {
+                    {Info.DevOps.additions.map((item: IContentImage, index: number) => {
                         if (currentUrl.includes(item.link)) {
                             return (
                                 <li key={index}>
@@ -66,19 +64,8 @@ const ServiceSidebarDevOpsTesting: React.FC = () => {
                             <span>Email:</span>
                             <a href="mailto:contact@chorn.in.th">contact@chorn.in.th</a>
                         </li>
-                        <li>
-                            <div className="icon">
-                                <Image
-                                    src={service.IMAGES.line.icon.path}
-                                    alt={service.IMAGES.line.icon.title}
-                                    width={25}
-                                    height={25}
-                                />
-                            </div>
-                            <span>LINE:</span>
-                            <a target={'_blank'} href="https://lin.ee/HzWJ2bJ">https://lin.ee/HzWJ2bJ</a>
-                        </li>
                     </ul>
+
                 </div>
             </div>
         </>

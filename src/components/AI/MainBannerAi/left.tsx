@@ -1,5 +1,6 @@
 import React from "react";
 import {Info} from "@/data/info/Info";
+import Image from "next/image";
 
 export default function Left() {
 
@@ -25,6 +26,17 @@ export default function Left() {
                 >
                     {Info.Service.span}
                 </p>
+
+                <div className={'mb-4'}>
+                    <a href={Info.Contact.line.link}>
+                        <Image
+                            src={Info.Contact.line.iconImageLink}
+                            alt="เพิ่มเพื่อน"
+                            width={120}
+                            height={36}
+                        />
+                    </a>
+                </div>
 
             </div>
         </div>

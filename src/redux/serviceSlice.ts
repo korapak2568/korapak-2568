@@ -1,16 +1,13 @@
 // src/redux/serviceSlice.ts
 import {createSlice} from '@reduxjs/toolkit';
-import {INFO} from "@/data/INFO";
 import {ILanguage} from "@/data/model/language/ILanguage";
 import {LanguageDefault} from "@/data/info/Language/LanguageDefault";
 
 export interface ServiceState {
-    value: any;
     language: ILanguage;
 }
 
 const initialState: ServiceState = {
-    value: INFO,
     language: LanguageDefault
 };
 

@@ -61,7 +61,7 @@ export default function Left() {
                         <Image
                             src={curLanguage.ai.fah.line.button}
                             alt="เพิ่มเพื่อน"
-                            width={232}
+                            width={120}
                             height={36}
                         />
                     </a>

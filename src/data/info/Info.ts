@@ -28,10 +28,12 @@ export const Info: IInfo = {
     Recommend: RECOMMENDATIONS_INFO,
     Footer: FOOTER_INFO,
     Business: BUSINESS_DOMAINS_INFO,
+    DevOps: DEVOPS_TESTING_INFO,
+
     PrivacyPolicy: PRIVACY_POLICY_INFO,
     TermOfService: TERM_OF_SERVICE,
-    DevOps: DEVOPS_TESTING_INFO,
     WorkplacePolicy: WORKPLACE_POLICY,
+
     Contact: Contact,
     Consent: CONSENT_INFO,
     Images: ImageAll

@@ -4,9 +4,9 @@ import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
 import ServicesDetailsCss3 from "@/components/Services/frontend-development/css3/ServicesDetailsCss3";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Info} from "@/data/info/Info";
 
 export const metadata: Metadata = {
     title: "CSS3 Development Services | CHORN",
@@ -73,11 +73,11 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={INFO.FRONT_END_EXPERIENCE_INFO.additions[5].details[0].title}
+                pageTitle={Info.FrontEnd.additions[5].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={INFO.FRONT_END_EXPERIENCE_INFO.title}
-                BGImage={INFO.IMAGES.pageBanner.cover1.path}
+                activePageText={Info.FrontEnd.title}
+                BGImage={Info.Images.pageBanner.cover1.path}
             />
 
             <ServicesDetailsCss3/>

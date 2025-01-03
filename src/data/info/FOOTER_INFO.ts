@@ -15,11 +15,11 @@ export const FOOTER_INFO: IFooters = {
         link: "/terms-of-service"
     },
     privacyPolicy: {
-        label: "Privacy Policy",
+        label: "Privacy policy",
         link: "/privacy-policy"
     },
     workplacePolicy: {
-        label: "Workplace Policy",
+        label: "Workplace policy",
         link: "/workplace-policy"
     },
     socialLinks: [
@@ -70,11 +70,11 @@ export const FOOTER_INFO: IFooters = {
             link: "/terms-of-service"
         },
         {
-            label: "Privacy Policy",
+            label: "Privacy policy",
             link: "/privacy-policy"
         },
         {
-            label: "Workplace Policy",
+            label: "Workplace policy",
             link: "/workplace-policy"
         }
     ],
@@ -107,7 +107,7 @@ export const FOOTER_INFO: IFooters = {
     infoLinks: [
         {
             label: "Phone",
-            link: "+66 (0)52 000 548",
+            link: "052-000 548",
             icon: "flaticon-call hover-rotate",
         },
         {

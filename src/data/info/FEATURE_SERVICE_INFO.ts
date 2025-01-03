@@ -53,5 +53,6 @@ export const FEATURE_SERVICE_INFO: IServiceImage = {
             faq: [],
             icon: "bx bx-mobile"
         },
-    ]
+    ],
+    additions2: []
 }

@@ -5,7 +5,7 @@ import Footer from "../../../../components/Layouts/Footer";
 import ServicesDetailsTypeScript
     from "@/components/Services/fullstack-development/typescript/ServicesDetailsTypeScript";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {INFO} from "@/data/INFO";
+import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
@@ -68,8 +68,8 @@ const Page = () => {
                 pageTitle="TypeScript JavaScript Development"
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={INFO.FULL_STACK_FRAMEWORK_INFO.title}
-                BGImage={INFO.IMAGES.pageBanner.cover1.path}
+                activePageText={Info.FullStack.title}
+                BGImage={Info.Images.pageBanner.cover1.path}
             />
 
             <ServicesDetailsTypeScript/>

@@ -3,21 +3,19 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
+import {Info} from "@/data/info/Info";
 
 const Features: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <div className="features-area pt-100 pb-70">
                 <div className="container">
                     <div className="section-title contrast-section-title add-text-width">
-                        <span>{service.FEATURE_SERVICE_INFO.span}</span>
-                        <h2>{service.FEATURE_SERVICE_INFO.title}</h2>
+                        <span>{Info.Feature.span}</span>
+                        <h2>{Info.Feature.title}</h2>
                         <div className="bar"></div>
                     </div>
 
@@ -36,7 +34,7 @@ const Features: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="pl-30">
                                 <div className="row">
-                                    {service.FEATURE_SERVICE_INFO.additions.map((addition: IContentImage, index: number) => (
+                                    {Info.Feature.additions.map((addition: IContentImage, index: number) => (
                                         <div key={index} className="col-lg-6 col-sm-6">
                                             <div className="custom-single-features-box">
                                                 <div className="icon">

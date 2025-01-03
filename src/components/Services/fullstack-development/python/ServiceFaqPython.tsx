@@ -12,17 +12,17 @@ import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {IFaq} from "@/data/model/common/IFaq";
 import {sanitizeUUID} from "@/utils/chornUtils";
+import {Info} from "@/data/info/Info";
 
 const ServiceFaqPython: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${sanitizeUUID(service.FULL_STACK_FRAMEWORK_INFO.additions[3].faq[0].question)}`
+                    `${sanitizeUUID(Info.FullStack.additions[3].faq[0].question)}`
                 ]}>
-                    {service.FULL_STACK_FRAMEWORK_INFO.additions[3].faq.map((item: IFaq, index: number) => (
+                    {Info.FullStack.additions[3].faq.map((item: IFaq, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>

@@ -4,7 +4,7 @@ import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsPostman from "@/components/Services/devops-testing/postman/ServicesDetailsPostman";
-import {INFO} from "@/data/INFO";
+import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
@@ -49,11 +49,11 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={INFO.DEVOPS_TESTING_INFO.additions[5].details[0].title}
+                pageTitle={Info.DevOps.additions[5].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={INFO.DEVOPS_TESTING_INFO.additions[5].details[0].title}
-                BGImage={INFO.IMAGES.pageBanner.cover1.path}
+                activePageText={Info.DevOps.additions[5].details[0].title}
+                BGImage={Info.Images.pageBanner.cover1.path}
             />
 
             <ServicesDetailsPostman/>

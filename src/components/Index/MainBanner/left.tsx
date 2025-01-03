@@ -1,10 +1,8 @@
 import Link from "next/link";
 import React from "react";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
+import {Info} from "@/data/info/Info";
 
 export default function Left() {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <div className="col-lg-6">
@@ -16,7 +14,7 @@ export default function Left() {
                     data-aos-once="true"
                     className="mobile-optimized-heading"
                 >
-                    {service.CHORN_SERVICE_INFO.title}
+                    {Info.Service.title}
                 </h1>
 
                 <p
@@ -25,7 +23,7 @@ export default function Left() {
                     data-aos-delay="200"
                     data-aos-once="true"
                 >
-                    {service.CHORN_SERVICE_INFO.span}
+                    {Info.Service.span}
                 </p>
 
                 <div className="option-item addition-pt-20">

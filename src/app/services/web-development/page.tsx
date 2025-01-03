@@ -11,13 +11,13 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 
 export const metadata: Metadata = {
     title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
-    description: "Explore CHORN's web development services, including expertise in Next.js, React, Angular, Vue, and more. We offer tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
+    description: "Explore CHORN's web development services, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
     alternates: {
         canonical: "https://chorn.in.th/services/web-development/",
     },
     openGraph: {
         title: "Top Web Development Services | CHORN",
-        description: "CHORN provides cutting-edge web development services with expertise in popular frameworks like Next.js, React, Angular, and more. We cater to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
+        description: "CHORN provides cutting-edge web development services with expertise in popular frameworks like Next.js, React, Angular, and more. CHORN caters to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
         images: [
             {
                 url: "https://chorn.in.th/chorn-images/metadata/frontend-development-services.webp",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Web Development Services | CHORN",
-        description: "Discover CHORN’s expert web development services. From Next.js to Angular and beyond, we offer solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
+        description: "Discover CHORN’s expert web development services. From Next.js to Angular and beyond, CHORN offers solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
         images: [
             "https://chorn.in.th/chorn-images/metadata/frontend-development-services.webp"
         ],
@@ -88,7 +88,7 @@ const Page = () => {
 
             <SchemaMarkupServicePage
                 name="Web Development Services | CHORN | Custom Software & Technology Solutions"
-                description="Explore CHORN's web development services, including expertise in Next.js, React, Angular, Vue, and more. We offer tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more."
+                description="Explore CHORN's web development services, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more."
                 url="https://chorn.in.th/services/web-development/"
             />
         </>

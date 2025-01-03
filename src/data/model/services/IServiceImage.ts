@@ -7,5 +7,5 @@ export interface IServiceImage {
     subTitle: string,
     description: IContent[],
     additions: IContentImage[],
-    additions2?: IContentImage[]
+    additions2: IContentImage[]
 }

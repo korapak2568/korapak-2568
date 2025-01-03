@@ -8,21 +8,19 @@ import {
     AccordionItemPanel,
     AccordionItemButton,
 } from "react-accessible-accordion";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {IFaq} from "@/data/model/common/IFaq";
 import {sanitizeUUID} from "@/utils/chornUtils";
+import {Info} from "@/data/info/Info";
 
 const ServiceFaqJenkins: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${service.DEVOPS_TESTING_INFO.additions[4].faq[0].question}`
+                    `${Info.DevOps.additions[4].faq[0].question}`
                 ]}>
-                    {service.DEVOPS_TESTING_INFO.additions[4].faq.map((item: IFaq, index: number) => (
+                    {Info.DevOps.additions[4].faq.map((item: IFaq, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>

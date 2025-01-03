@@ -1,20 +1,18 @@
 "use client";
 
 import React from "react";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import Image from "next/image";
 import {IContentImage} from "@/data/model/common/IContentImage";
+import {Info} from "@/data/info/Info";
 
 const CloudExperience: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <div className="fun-facts-area pb-70">
                 <div className="container">
                     <div className="row justify-content-center align-items-center">
-                        {service.CLOUD_EXPERIENCE_INFO.additions.map((item: IContentImage, index: any) => (
+                        {Info.Cloud.additions.map((item: IContentImage, index: any) => (
                             <div key={index} className="col-lg-3 col-md-6 col-6">
                                 <div className="single-fun-fact-box">
                                     <div className="icon">

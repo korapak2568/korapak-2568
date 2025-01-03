@@ -4,7 +4,7 @@ import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsSoapUI from "@/components/Services/devops-testing/soapui/ServicesDetailsSoapUI";
-import {INFO} from "@/data/INFO";
+import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
@@ -51,11 +51,11 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={INFO.DEVOPS_TESTING_INFO.additions[7].details[0].title}
+                pageTitle={Info.DevOps.additions[7].details[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={INFO.DEVOPS_TESTING_INFO.title}
-                BGImage={INFO.IMAGES.pageBanner.cover1.path}
+                activePageText={Info.DevOps.title}
+                BGImage={Info.Images.pageBanner.cover1.path}
             />
 
             <ServicesDetailsSoapUI/>

@@ -298,5 +298,6 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             ],
             icon: ""
         },
-    ]
+    ],
+    additions2: []
 }

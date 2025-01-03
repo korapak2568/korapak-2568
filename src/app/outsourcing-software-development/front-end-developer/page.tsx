@@ -5,9 +5,9 @@ import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
 import ServicesCardFrontEnd from "../../../components/Services/frontend-development/ServicesCardFrontEnd";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {INFO} from "@/data/INFO";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Info} from "@/data/info/Info";
 
 export const metadata: Metadata = {
     title: "Frontend Development Services | CHORN",
@@ -73,7 +73,7 @@ const Page = () => {
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText="Front End Development"
-                BGImage={INFO.IMAGES.pageBanner.cover1.path}
+                BGImage={Info.Images.pageBanner.cover1.path}
             />
 
             <ServicesCardFrontEnd/>

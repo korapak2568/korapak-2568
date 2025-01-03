@@ -3,27 +3,25 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {IContentImage} from "@/data/model/common/IContentImage";
+import {Info} from "@/data/info/Info";
 
 const FrontEndExperience: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <div className="services-area bg-fafafa pt-100 pb-70">
                 <div className="container">
                     <div className="section-title contrast-section-title">
-                        <span>{service.FRONT_END_EXPERIENCE_INFO.span}</span>
-                        <h2>{service.FRONT_END_EXPERIENCE_INFO.title}</h2>
+                        <span>{Info.FrontEnd.span}</span>
+                        <h2>{Info.FrontEnd.title}</h2>
                         <div className="bar"></div>
                     </div>
 
                     <div className="services-area bg-fafafa pt-100 pb-70 addition-ptb-0">
                         <div className="container">
                             <div className="row">
-                                {service.FRONT_END_EXPERIENCE_INFO.additions.map((item: IContentImage, index: number) => (
+                                {Info.FrontEnd.additions.map((item: IContentImage, index: number) => (
                                     <div key={index} className="col-lg-4 col-md-6">
                                         <div className="single-services-box">
                                             <div className="icon">

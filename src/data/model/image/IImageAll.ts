@@ -1,4 +1,4 @@
-import {IImage} from "@/data/model/image/IImage";
+import {IImage, IImageLink} from "@/data/model/image/IImage";
 
 export interface IImageAll {
     logo: {
@@ -36,7 +36,7 @@ export interface IImageAll {
     },
     line: {
         qrcode: IImage,
-        icon: IImage,
+        icon: IImageLink,
     },
     serviceDetails: {
         nextjs: IImage,
