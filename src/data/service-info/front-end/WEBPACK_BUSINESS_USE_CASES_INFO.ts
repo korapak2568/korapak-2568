@@ -10,7 +10,7 @@ export const WEBPACK_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
       description: "Webpack, a powerful module bundler, optimizes the web development process by efficiently managing assets and dependencies. Businesses can utilize Webpack for:"
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Optimized Performance",
       description: "Bundle and minify assets for faster load times, enhancing the overall performance of web applications."

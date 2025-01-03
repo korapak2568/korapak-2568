@@ -1,5 +1,4 @@
 import {IContact} from "@/data/model/common/IContact";
-import {IMAGES} from "@/data/IMAGES";
 
 export const CONTACTS: IContact[] = [
     {
@@ -47,7 +46,7 @@ export const CONTACTS: IContact[] = [
         icon: "",
         label: "LINE",
         isLink: true,
-        link: IMAGES.line.icon.link,
+        link: "https://lin.ee/HzWJ2bJ",
         linkText: "CHORN LINE",
     }
 ]

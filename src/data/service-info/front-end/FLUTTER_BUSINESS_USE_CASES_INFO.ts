@@ -10,7 +10,7 @@ export const FLUTTER_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
       description: "Flutter, powered by Google, is a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. Businesses can harness Flutter for:"
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Cross-Platform Development",
       description: "Build applications for both web and mobile platforms simultaneously, reducing development time and costs."

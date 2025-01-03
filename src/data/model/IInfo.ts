@@ -1,4 +1,3 @@
-import {IAiAll} from "@/data/model/ai/IAi";
 import {ILanguage} from "@/data/model/language/ILanguage";
 import {IServiceLegacy} from "@/data/model/services/IServiceLegacy";
 import {IServiceImage} from "@/data/model/services/IServiceImage";

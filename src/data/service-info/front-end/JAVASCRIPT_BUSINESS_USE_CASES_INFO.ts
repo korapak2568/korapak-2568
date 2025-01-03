@@ -10,7 +10,7 @@ export const JAVASCRIPT_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
       description: "JavaScript, the fundamental scripting language of the web, plays a vital role in crafting dynamic and interactive web solutions. Businesses benefit from JavaScript’s:"
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Versatility",
       description: "Powering an array of web applications, from basic functionalities to complex web solutions, ensuring compatibility and adaptability."

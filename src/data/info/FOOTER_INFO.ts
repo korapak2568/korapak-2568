@@ -54,7 +54,7 @@ export const FOOTER_INFO: IFooters = {
     ],
     importantLinks: [
         {
-            label: "About Us",
+            label: "About",
             link: "/about-chorn"
         },
         {

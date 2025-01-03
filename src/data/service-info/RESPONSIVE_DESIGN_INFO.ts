@@ -35,7 +35,7 @@ export const RESPONSIVE_DESIGN_INFO: IServiceLegacy = {
         "a seamless user experience, fostering customer satisfaction and loyalty."
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Cross-platform Accessibility",
       description: "Ensuring your website functions flawlessly across all " +

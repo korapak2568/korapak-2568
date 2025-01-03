@@ -5,7 +5,7 @@ export const CUSTOM_SOFTWARE_DEVELOPMENT_INFO: IServiceLegacy = {
   span: "",
   description: [],
   subTitle: "",
-  additions: [
+  stacks: [
     {
       title: "",
       description: "CHORN is your trusted partner for top-notch remote work and outsourced services tailored to your software " +

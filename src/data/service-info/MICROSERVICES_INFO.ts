@@ -27,7 +27,7 @@ export const MICROSERVICES_INFO: IServiceLegacy = {
         "technological advancements."
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "e-Commerce",
       description: "Microservices play a significant role in e-commerce platforms by enabling " +

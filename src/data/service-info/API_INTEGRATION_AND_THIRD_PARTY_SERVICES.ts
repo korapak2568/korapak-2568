@@ -30,7 +30,7 @@ export const API_INTEGRATION_AND_THIRD_PARTY_SERVICES: IServiceLegacy = {
     }
   ],
   subTitle: "Web Application Development Services",
-  additions: [
+  stacks: [
     {
       title: "Back-End Development",
       description: "Our team of experts excels in back-end programming languages and " +

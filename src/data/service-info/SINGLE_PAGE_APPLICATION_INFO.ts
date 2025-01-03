@@ -22,7 +22,7 @@ export const SINGLE_PAGE_APPLICATION_INFO: IServiceLegacy = {
         "and their industries."
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Angular",
       description: "This framework by Google is comprehensive and ideal for large-scale enterprise " +

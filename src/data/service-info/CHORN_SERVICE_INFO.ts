@@ -1,18 +1,18 @@
 import {IServiceLegacy} from "../model/services/IServiceLegacy";
 
 export const CHORN_SERVICE_INFO: IServiceLegacy = {
-    title: "AI Companion & Development Partner",
+    title: "AI & Development Partner",
     span: "CHORN provides AI-powered companion services via LINE, expert AI Agent development integrated with models like OpenAI API, and cutting-edge software solutions. From scalable websites and mobile apps to full-stack development, we deliver future-ready excellence to elevate your digital presence and operational efficiency.",
     description: [],
     subTitle: "",
-    additions: [
+    stacks: [
         {
             title: "Software Development Service",
             description: "CHORN offers premier technology solutions and software development expertise. Our highly skilled professionals specialize in a diverse range of technologies, including full-stack-developer programming languages and frameworks such as React.js, Next.js, Angular, Vue, Node.js, Java, Spring Boot, Python, PHP, Ruby, Go-lang, and more. We also excel in emerging technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3.",
         },
         {
             title: "",
-            description: "Our services include enhancing legacy systems with modern software development strategies, custom software development, proof of concept (PoC) implementation, MVP (Minimum Viable Product) development, and production maintenance. We are also experts in scaling your digital presence. Our experienced team is dedicated to delivering top-tier services tailored to your unique business needs, backed by a proven track record of success. Let CHORN be your one-stop solution for all your software development needs.",
+            description: "CHORN services include enhancing legacy systems with modern software development strategies, custom software development, proof of concept (PoC) implementation, MVP (Minimum Viable Product) development, and production maintenance. We are also experts in scaling your digital presence. Our experienced team is dedicated to delivering top-tier services tailored to your unique business needs, backed by a proven track record of success. Let CHORN be your one-stop solution for all your software development needs.",
         },
         {
             title: "",

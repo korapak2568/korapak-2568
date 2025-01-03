@@ -6,7 +6,7 @@ import Image from "next/image";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {ILink} from "@/data/model/common/ILink";
-import {IMAGES} from "@/data/IMAGES";
+import {ImageAll} from "@/data/ImageAll";
 
 const Footer: React.FC = () => {
     const currentYear = new Date().getFullYear();
@@ -22,8 +22,8 @@ const Footer: React.FC = () => {
                                 <div className="logo">
                                     <Link href="/">
                                         <Image
-                                            src={IMAGES.logo.circleMd.path}
-                                            alt={IMAGES.logo.circleMd.title}
+                                            src={ImageAll.logo.circleMd.path}
+                                            alt={ImageAll.logo.circleMd.title}
                                             width={100}
                                             height={100}
                                         />

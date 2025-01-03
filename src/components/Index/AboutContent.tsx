@@ -38,7 +38,7 @@ const AboutContent: React.FC = () => {
                                     {service.ABOUT_CONTENT_INFO.description[0].description}
                                 </p>
 
-                                {service.ABOUT_CONTENT_INFO.additions.map((item: IContentImage, index: any) => (
+                                {service.ABOUT_CONTENT_INFO.stacks.map((item: IContentImage, index: any) => (
                                     <div key={index} className="about-inner-content">
                                         <div className="icon">
                                             <i className="flaticon-check"></i>

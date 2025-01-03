@@ -10,7 +10,7 @@ export const PROGRAMMING_LANGUAGES_BUSINESS_USE_CASES: IServiceLegacy = {
       description: "Choose the programming language and framework that aligns best with your business goals and development requirements. Each has its unique strengths, making them suitable for different use cases."
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Go - Efficient and Reliable Development",
       description: "Go is a go-to choice for businesses aiming at blazing fast and reliable software. Its exceptional concurrency support makes it perfect for developing high-performance web applications. Go also excels in building microservices and distributed systems, ensuring your software runs smoothly even under heavy loads."

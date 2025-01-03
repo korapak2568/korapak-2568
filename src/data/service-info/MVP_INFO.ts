@@ -17,5 +17,5 @@ export const MVP_INFO: IServiceLegacy = {
         "across AWS, GCP, and Azure."
     }
   ],
-  additions: []
+  stacks: []
 }

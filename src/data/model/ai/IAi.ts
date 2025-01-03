@@ -1,10 +1,10 @@
 import {IImage} from "@/data/model/common/IImage";
 
 export interface IAiAll {
-    fah: IAiPerson
+    fah: IAi
 }
 
-export interface IAiPerson {
+export interface IAi {
     title: string,
     content: string,
     image: {

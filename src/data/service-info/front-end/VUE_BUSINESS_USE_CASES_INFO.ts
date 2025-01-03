@@ -10,7 +10,7 @@ export const VUE_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
       description: "CSS3, the latest evolution of Cascading Style Sheets, allows businesses to create visually stunning and responsive web interfaces. Businesses benefit from CSS3’s:"
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Responsive Design",
       description: "Craft interfaces that adapt and respond to various devices, ensuring a seamless user experience across platforms"

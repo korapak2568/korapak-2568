@@ -23,7 +23,7 @@ export const SAAS_DEVELOPMENT_INFO: IServiceLegacy = {
     }
   ],
   subTitle: "",
-  additions: [
+  stacks: [
     {
       title: "UI Frameworks and Libraries",
       description: "We specialize in UI technologies like Angular, React, Vue, " +

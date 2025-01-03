@@ -17,5 +17,5 @@ export const POC_INFO: IServiceLegacy = {
         "adapt in line with your expanding business needs."
     }
   ],
-  additions: []
+  stacks: []
 }

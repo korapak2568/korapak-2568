@@ -14,7 +14,7 @@ export const SEVERAL_BUSINESS_SECTORS_INFO: IServiceLegacy = {
     }
   ],
   subTitle: "Several business sectors benefit from software development due to their scalability, flexibility, and agility.",
-  additions: [
+  stacks: [
     {
       title: "e-Commerce",
       description: "In the ever-expanding e-commerce landscape, our custom software solutions " +

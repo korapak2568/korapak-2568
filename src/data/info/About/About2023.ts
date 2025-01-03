@@ -1,6 +1,6 @@
 import {IServiceLegacy} from "@/data/model/services/IServiceLegacy";
 
-export const ABOUT_CONTENT_INFO: IServiceLegacy = {
+export const About2023: IServiceLegacy = {
     title: "About CHORN",
     span: "Your Digital Transformation Partner",
     subTitle: "Helping Businesses Develop, Upgrade, and Maintain Cutting-Edge Software Systems " +
@@ -15,7 +15,7 @@ export const ABOUT_CONTENT_INFO: IServiceLegacy = {
                 "DeFi, Smart Contracts, and Web3."
         }
     ],
-    additions: [
+    stacks: [
         {
             title: "Custom Software Development",
             description: "Enhance legacy systems with modern software strategies. We provide custom software " +

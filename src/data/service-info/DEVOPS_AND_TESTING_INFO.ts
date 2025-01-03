@@ -1,5 +1,5 @@
 import {IServiceLegacy} from "../model/services/IServiceLegacy";
-import {IContent} from "../model/common/IContent";
+import {IContent} from "../model/content/IContent";
 
 export const DEVOPS_AND_TESTING_INFO: IServiceLegacy = {
   title: "DevOps and Testing",
@@ -15,7 +15,7 @@ export const DEVOPS_AND_TESTING_INFO: IServiceLegacy = {
         "software development and delivery, all while ensuring rigorous testing for reliability and efficiency.",
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Collaboration and Communication",
       description: "DevOps encourages closer collaboration between " +

@@ -22,7 +22,7 @@ export const FULL_STACK_INFO: IServiceLegacy = {
     }
   ],
   subTitle: "Web Application Development Services",
-  additions: [
+  stacks: [
     {
       title: "Back-End Development",
       description: "Our team of experts excels in back-end programming languages and " +

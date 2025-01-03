@@ -1,4 +1,6 @@
-export const IMAGES = {
+import {IImageAll} from "@/data/model/image/IImageAll";
+
+export const ImageAll: IImageAll = {
     logo: {
         circleLg: {
             title: "CHORN",

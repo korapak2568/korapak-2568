@@ -1,6 +1,6 @@
 import {IContent} from "../content/IContent";
 
-export interface IServiceLegacy {
+export interface IAbout {
   title: string,
   span: string,
   subTitle: string,

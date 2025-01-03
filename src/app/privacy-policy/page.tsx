@@ -7,7 +7,7 @@ import Footer from "../../components/Layouts/Footer";
 import SubscribeForm from "../../components/Common/SubscribeForm";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
-import {IContent} from "@/data/model/common/IContent";
+import {IContent} from "@/data/model/content/IContent";
 import {Metadata} from "next";
 
 export default function Page() {

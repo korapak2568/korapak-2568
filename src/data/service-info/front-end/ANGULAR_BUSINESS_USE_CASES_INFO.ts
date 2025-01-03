@@ -10,7 +10,7 @@ export const ANGULAR_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
       description: "Angular is a comprehensive JavaScript framework ideal for building single-page applications and enterprise-level solutions. It offers a structured approach and a robust set of tools for developing complex, feature-rich applications. With Angular, businesses can achieve."
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Scalability",
       description: "Streamline the development process by creating modular components, enabling easier scaling and maintenance."

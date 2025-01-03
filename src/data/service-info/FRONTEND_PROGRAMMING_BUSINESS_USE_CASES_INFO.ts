@@ -19,7 +19,7 @@ export const FRONTEND_PROGRAMMING_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
       description: "Feel free to modify and adapt the content to fit your specific business offerings and target audience, highlighting the unique benefits each technology or framework brings to your projects."
     }
   ],
-  additions: [
+  stacks: [
     {
       title: ANGULAR_BUSINESS_USE_CASES_INFO.subTitle,
       description: ANGULAR_BUSINESS_USE_CASES_INFO.description[0].description

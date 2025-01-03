@@ -10,7 +10,7 @@ export const TYPESCRIPT_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
       description: "TypeScript, a superset of JavaScript, brings static typing and advanced features to web development. Businesses can leverage TypeScript for:"
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Type Safety and Scalability",
       description: "Enhance code quality, maintainability, and scalability of large applications with strong typing and advanced features."

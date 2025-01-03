@@ -19,7 +19,7 @@ export const FRONT_END_INFO: IServiceLegacy = {
     }
   ],
   subTitle: "Front-End Development Services",
-  additions: [
+  stacks: [
     {
       title: "UI Frameworks and Libraries",
       description: "We specialize in UI technologies like Angular, React, Vue, " +

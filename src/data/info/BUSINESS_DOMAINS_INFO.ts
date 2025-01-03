@@ -1,7 +1,7 @@
 import {IBusinessDomains} from "@/data/model/common/IBusinessDomains";
 
 export const BUSINESS_DOMAINS_INFO: IBusinessDomains = {
-    span: "We Work For Industries",
+    span: "CHORN Work For Industries",
     title: "Helping Businesses in All Domains",
     businessDomains: [
         {

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import {IMAGES} from "@/data/IMAGES";
+import {ImageAll} from "@/data/ImageAll";
 import React from "react";
 
 export default function Right() {
@@ -13,7 +13,7 @@ export default function Right() {
                 data-aos-once="true"
             >
                 <Image
-                    src={IMAGES.home.mainBanner.path}
+                    src={ImageAll.home.mainBanner.path}
                     alt="image"
                     width={650}
                     height={500}

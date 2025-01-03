@@ -8,7 +8,7 @@ import {NAVBAR} from "@/data/navbar/NAVBAR";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {INavbar} from "@/data/model/navbar/INavbar";
-import {IMAGES} from "@/data/IMAGES";
+import {ImageAll} from "@/data/ImageAll";
 
 const Navbar: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -49,8 +49,8 @@ const Navbar: React.FC = () => {
                         <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/" className="navbar-brand add-navbar-logo">
                                 <Image
-                                    src={IMAGES.logo.darker.rec.sm.path}
-                                    alt={IMAGES.logo.darker.rec.sm.title}
+                                    src={ImageAll.logo.darker.rec.sm.path}
+                                    alt={ImageAll.logo.darker.rec.sm.title}
                                     width={150}
                                     height={75}
                                 />

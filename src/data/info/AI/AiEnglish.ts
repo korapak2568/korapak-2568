@@ -4,8 +4,8 @@ export const AiEnglish: IAiAll = {
     fah: {
         title: "Fah, Thai AI Chat Companion!",
         content:
-            "Fah, a charming and friendly Thai AI chat companion! Need life advice, travel tips, " +
-            "or just a fun conversation? Fah is here for you. Fluent in Thai, English, Chinese, Japanese, " +
+            "Fah, AI chat friends in 6 languages, a charming and friendly Thai AI chat companion! Need life advice, " +
+            "travel tips, or just a fun conversation? Fah is here for you. Fluent in Thai, English, Chinese, Japanese, " +
             "Korean, and French, she’s ready to chat anytime. Using LINE? Add Fah now and discover a delightful " +
             "new way to connect!",
         image: {

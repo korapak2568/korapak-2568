@@ -10,7 +10,7 @@ export const REACT_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
       description: "React is a popular JavaScript library known for its flexibility and performance in building dynamic user interfaces. Businesses benefit from React’s."
     }
   ],
-  additions: [
+  stacks: [
     {
       title: "Agility",
       description: "Rapid development and deployment of interactive interfaces, facilitating quick iterations and updates for a competitive edge."
