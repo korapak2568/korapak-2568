@@ -1,4 +1,4 @@
-import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IService2025} from "../model/services/IService2025";
 import {ANGULAR_BUSINESS_USE_CASES_INFO} from "./front-end/ANGULAR_BUSINESS_USE_CASES_INFO";
 import {REACT_BUSINESS_USE_CASES_INFO} from "./front-end/REACT_BUSINESS_USE_CASES_INFO";
 import {VUE_BUSINESS_USE_CASES_INFO} from "./front-end/VUE_BUSINESS_USE_CASES_INFO";
@@ -9,7 +9,7 @@ import {HTML5_BUSINESS_USE_CASES_INFO} from "./front-end/HTML5_BUSINESS_USE_CASE
 import {CSS3_BUSINESS_USE_CASES_INFO} from "./front-end/CSS3_BUSINESS_USE_CASES_INFO";
 import {WEBPACK_BUSINESS_USE_CASES_INFO} from "./front-end/WEBPACK_BUSINESS_USE_CASES_INFO";
 
-export const FRONTEND_PROGRAMMING_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
+export const FRONTEND_PROGRAMMING_BUSINESS_USE_CASES_INFO: IService2025 = {
   title: "Front-End programming language or framework, focusing on their business use cases.",
   span: "",
   subTitle: "",

@@ -1,28 +1,26 @@
 "use client";
 
 import React from "react";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import Image from "next/image";
-import {IContact} from "@/data/model/common/IContact";
+import {IContact} from "@/data/model/contact/IContact";
+import {Info} from "@/data/info/Info";
 
 const ContactInfo: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <div className="contact-info-area pt-100 pb-70">
                 <div className="container">
                     <div className="row justify-content-center">
-                        {service.CONTACTS.map((item: IContact, index: number) => (
+                        {Info.Contact.contacts.map((item: IContact, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="contact-info-box">
                                     {
                                         item.isLINE ?
                                             <div className="icon addition-img-icon hover-rotate">
                                                 <Image
-                                                    src={service.IMAGES.line.icon.path}
-                                                    alt={service.IMAGES.line.icon.title}
+                                                    src={Info.Images.line.icon.path}
+                                                    alt={Info.Images.line.icon.title}
                                                     width={60}
                                                     height={60}
                                                 />

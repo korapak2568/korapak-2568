@@ -1,7 +1,7 @@
-import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IService2025} from "../../model/services/IService2025";
 
-export const CHORN_SERVICE_INFO: IServiceLegacy = {
-    title: "AI & Development Partner",
+export const Service2025: IService2025 = {
+    title: "AI & Development",
     span: "CHORN provides AI-powered companion services via LINE, expert AI Agent development integrated with models like OpenAI API, and cutting-edge software solutions. From scalable websites and mobile apps to full-stack development, we deliver future-ready excellence to elevate your digital presence and operational efficiency.",
     description: [],
     subTitle: "",

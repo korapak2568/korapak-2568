@@ -4,5 +4,6 @@ export interface IContact {
     label: string,
     isLink: boolean,
     link: string,
-    linkText: string
+    linkText: string,
+    iconImageLink: string
 }

@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IService2025} from "../model/services/IService2025";
 
-export const MVP_INFO: IServiceLegacy = {
+export const MVP_INFO: IService2025 = {
   title: "Minimum Viable Product (MVP)",
   span: "",
   subTitle: "",

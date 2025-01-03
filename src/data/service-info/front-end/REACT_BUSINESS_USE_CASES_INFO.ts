@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../../model/services/IServiceLegacy";
+import {IService2025} from "../../model/services/IService2025";
 
-export const REACT_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
+export const REACT_BUSINESS_USE_CASES_INFO: IService2025 = {
   title: "React",
   span: "",
   subTitle: "React: Empowering Business Agility and User-Centric Web Solutions",

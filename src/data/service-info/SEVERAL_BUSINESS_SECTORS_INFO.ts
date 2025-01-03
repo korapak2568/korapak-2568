@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const SEVERAL_BUSINESS_SECTORS_INFO: IServiceLegacy = {
+export const SEVERAL_BUSINESS_SECTORS_INFO: IService2025 = {
   title: "Several Business Sectors",
   span: "Offer Software Development Services to: ",
   description: [

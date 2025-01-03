@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const MICROSERVICES_INFO: IServiceLegacy = {
+export const MICROSERVICES_INFO: IService2025 = {
   title: "Microservices Development",
   span: "What are microservices?",
   subTitle: "Several business sectors benefit from microservices technologies due to their " +

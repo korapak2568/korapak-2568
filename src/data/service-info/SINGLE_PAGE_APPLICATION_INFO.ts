@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const SINGLE_PAGE_APPLICATION_INFO: IServiceLegacy = {
+export const SINGLE_PAGE_APPLICATION_INFO: IService2025 = {
   title: "Single Page Application (SPA)",
   span: "",
   subTitle: "Angular, React.js, Vue.js, Advantages of SPA, Customization for Business Domains, and " +

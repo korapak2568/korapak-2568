@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const BACK_END_INFO: IServiceLegacy = {
+export const BACK_END_INFO: IService2025 = {
   title: "Back End Development",
   span: "",
   description: [

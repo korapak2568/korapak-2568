@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const RESPONSIVE_DESIGN_INFO: IServiceLegacy = {
+export const RESPONSIVE_DESIGN_INFO: IService2025 = {
   title: "Responsive Web Design",
   span: "",
   subTitle: "In essence, our Responsive Web Design service, coupled with expertise in Angular, " +

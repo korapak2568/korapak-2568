@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../../model/services/IServiceLegacy";
+import {IService2025} from "../../model/services/IService2025";
 
-export const JAVASCRIPT_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
+export const JAVASCRIPT_BUSINESS_USE_CASES_INFO: IService2025 = {
   title: "JavaScript",
   span: "",
   subTitle: "JavaScript: The Universal Languages Powering Modern Business Applications",

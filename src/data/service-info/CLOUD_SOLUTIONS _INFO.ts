@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const CLOUD_SOLUTIONS_INFO: IServiceLegacy = {
+export const CLOUD_SOLUTIONS_INFO: IService2025 = {
   title: "Cloud Solutions",
   span: "",
   description: [

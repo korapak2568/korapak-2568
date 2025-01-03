@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IService2025} from "../model/services/IService2025";
 
-export const SCALING_INFO: IServiceLegacy = {
+export const SCALING_INFO: IService2025 = {
   title: "Scaling Services",
   span: "",
   subTitle: "",

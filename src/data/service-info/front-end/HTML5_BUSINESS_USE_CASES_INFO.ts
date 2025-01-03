@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../../model/services/IServiceLegacy";
+import {IService2025} from "../../model/services/IService2025";
 
-export const HTML5_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
+export const HTML5_BUSINESS_USE_CASES_INFO: IService2025 = {
   title: "HTML5",
   span: "",
   subTitle: "HTML5: Building Cutting-Edge Business Web Solutions",

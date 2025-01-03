@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const FRONTEND_PROGRAMMING_LANGUAGES_INFO: IServiceLegacy = {
+export const FRONTEND_PROGRAMMING_LANGUAGES_INFO: IService2025 = {
   title: "Front End Programming Languages",
   span: "",
   description: [

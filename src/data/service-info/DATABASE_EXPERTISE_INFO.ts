@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const DATABASE_EXPERTISE_INFO: IServiceLegacy = {
+export const DATABASE_EXPERTISE_INFO: IService2025 = {
   title: "Database Expertise",
   span: "",
   description: [

@@ -1,4 +1,4 @@
-import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IService2025} from "../model/services/IService2025";
 import {IServiceImage} from "@/data/model/services/IServiceImage";
 
 export const FEATURE_SERVICE_INFO: IServiceImage = {

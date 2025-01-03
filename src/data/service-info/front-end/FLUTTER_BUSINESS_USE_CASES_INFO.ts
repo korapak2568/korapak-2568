@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../../model/services/IServiceLegacy";
+import {IService2025} from "../../model/services/IService2025";
 
-export const FLUTTER_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
+export const FLUTTER_BUSINESS_USE_CASES_INFO: IService2025 = {
   title: "Flutter",
   span: "",
   subTitle: "Flutter: Unifying Business Mobile and Web Development Efforts",

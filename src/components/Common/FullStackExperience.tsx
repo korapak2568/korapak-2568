@@ -8,24 +8,25 @@ import {RootState} from "@/redux/store";
 import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
 import Link from "next/link";
+import {Info} from "@/data/info/Info";
 
 const FullStackExperience: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
+    // const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
             <div className="digital-experience-area ptb-100">
                 <div className="container">
                     <div className="section-title contrast-section-title">
-                        <span>{service.FULL_STACK_FRAMEWORK_INFO.span}</span>
-                        <h2>{service.FULL_STACK_FRAMEWORK_INFO.title}</h2>
+                        <span>{Info.FullStack.span}</span>
+                        <h2>{Info.FullStack.title}</h2>
                         <div className="bar"></div>
                     </div>
 
                     <div className="tab digital-experience-tab">
                         <Tabs>
                             <TabList>
-                                {service.FULL_STACK_FRAMEWORK_INFO.additions.map((item: IContentImage, index: any) => (
+                                {Info.FullStack.additions.map((item: IContentImage, index: any) => (
                                     <Tab key={index}>
                                           <span>
                                               <Image
@@ -41,7 +42,7 @@ const FullStackExperience: React.FC = () => {
                                 ))}
                             </TabList>
 
-                            {service.FULL_STACK_FRAMEWORK_INFO.additions.map((item: IContentImage, index: any) => (
+                            {Info.FullStack.additions.map((item: IContentImage, index: any) => (
                                 <TabPanel key={index}>
                                     <div className="row align-items-center">
                                         <div className="col-lg-6">
@@ -106,7 +107,7 @@ const FullStackExperience: React.FC = () => {
                                         <div className="col-lg-6">
                                             <div className="digital-experience-image">
                                                 <Image
-                                                    src="/chorn-images/services/services-7.webp"
+                                                    src="/chorn-images/services/services-7-chorn.webp"
                                                     alt="Service image"
                                                     width={750}
                                                     height={680}

@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IService2025} from "../model/services/IService2025";
 
-export const POC_INFO: IServiceLegacy = {
+export const POC_INFO: IService2025 = {
   title: "Proof of Concept (PoC)",
   span: "",
   subTitle: "",

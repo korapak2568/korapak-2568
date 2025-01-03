@@ -9,6 +9,7 @@ import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {INavbar} from "@/data/model/navbar/INavbar";
 import {ImageAll} from "@/data/ImageAll";
+import {Info} from "@/data/info/Info";
 
 const Navbar: React.FC = () => {
     const service = useSelector((state: RootState) => state.service.value);
@@ -87,11 +88,23 @@ const Navbar: React.FC = () => {
                                 {/*    ></i>*/}
                                 {/*</div>*/}
 
-                                <div className="option-item">
-                                    <Link href="/contact-chorn" className="default-btn">
-                                        Contact
-                                    </Link>
+                                {/*<div className="option-item">*/}
+                                {/*    <Link href="/contact-chorn" className="default-btn">*/}
+                                {/*        Contact*/}
+                                {/*    </Link>*/}
+                                {/*</div>*/}
+
+                                <div>
+                                    <a href={Info.Contact.line.link}>
+                                        <Image
+                                            src={Info.Contact.line.iconImageLink}
+                                            alt="เพิ่มเพื่อน"
+                                            width={120}
+                                            height={36}
+                                        />
+                                    </a>
                                 </div>
+
                             </div>
                         </nav>
                     </div>

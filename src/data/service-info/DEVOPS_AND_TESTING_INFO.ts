@@ -1,7 +1,7 @@
-import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IService2025} from "../model/services/IService2025";
 import {IContent} from "../model/content/IContent";
 
-export const DEVOPS_AND_TESTING_INFO: IServiceLegacy = {
+export const DEVOPS_AND_TESTING_INFO: IService2025 = {
   title: "DevOps and Testing",
   span: "Accelerating Software Delivery and Quality Assurance",
   subTitle: "Key Benefits of DevOps",

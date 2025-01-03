@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const FRONT_END_INFORMATION: IServiceLegacy = {
+export const FRONT_END_INFORMATION: IService2025 = {
   title: "Responsive Web Design",
   span: "",
   description: [

@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../../model/services/IServiceLegacy";
+import {IService2025} from "../../model/services/IService2025";
 
-export const ANGULAR_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
+export const ANGULAR_BUSINESS_USE_CASES_INFO: IService2025 = {
   title: "Angular",
   span: "",
   subTitle: "Elevate Your Business with Angular: Robust Framework for Scalable Web Applications",

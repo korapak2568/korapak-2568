@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../../model/services/IServiceLegacy";
+import {IService2025} from "../../model/services/IService2025";
 
-export const TYPESCRIPT_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
+export const TYPESCRIPT_BUSINESS_USE_CASES_INFO: IService2025 = {
   title: "TypeScript",
   span: "",
   subTitle: "TypeScript: The Languages for Safer and Scalable Business Web Development",

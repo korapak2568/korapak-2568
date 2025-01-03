@@ -1,6 +1,6 @@
-import { IServiceLegacy } from "../model/services/IServiceLegacy";
+import { IService2025 } from "../model/services/IService2025";
 
-export const SAAS_DEVELOPMENT_INFO: IServiceLegacy = {
+export const SAAS_DEVELOPMENT_INFO: IService2025 = {
   title: "SaaS Development",
   span: "",
   description: [

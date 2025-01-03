@@ -2,7 +2,7 @@
 
 import Navbar from "../components/Layouts/Navbar";
 import Features from "../components/Index/Features";
-import AboutContent from "../components/Index/AboutContent";
+import AboutContent from "../components/AboutUs/AboutContent";
 import FrontEndExperience from "../components/Common/FrontEndExperience";
 import FullStackExperience from "../components/Common/FullStackExperience";
 import CloudExperience from "../components/Common/CloudExperience";

@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../model/services/IServiceLegacy";
+import {IService2025} from "../model/services/IService2025";
 
-export const PROGRAMMING_LANGUAGES_BUSINESS_USE_CASES: IServiceLegacy = {
+export const PROGRAMMING_LANGUAGES_BUSINESS_USE_CASES: IService2025 = {
   title: "Programming language or framework for software development, tailored to business use cases",
   span: "",
   subTitle: "",

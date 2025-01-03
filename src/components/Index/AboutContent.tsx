@@ -2,12 +2,10 @@
 
 import React, {useState} from "react";
 import Link from "next/link";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
-import {IContentImage} from "@/data/model/common/IContentImage";
+import {Info} from "@/data/info/Info";
+import {IContent} from "@/data/model/content/IContent";
 
 const AboutContent: React.FC = () => {
-    const service = useSelector((state: RootState) => state.service.value);
 
     return (
         <>
@@ -25,20 +23,20 @@ const AboutContent: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="about-content warp contrast-content">
                                 <span>
-                                  {service.ABOUT_CONTENT_INFO.title}
+                                  {Info.About.title}
                                 </span>
 
                                 <h3>
-                                    {service.ABOUT_CONTENT_INFO.span}
+                                    {Info.About.span}
                                 </h3>
 
                                 <div className="bar"></div>
 
                                 <p>
-                                    {service.ABOUT_CONTENT_INFO.description[0].description}
+                                    {Info.About.description[0].description}
                                 </p>
 
-                                {service.ABOUT_CONTENT_INFO.stacks.map((item: IContentImage, index: any) => (
+                                {Info.About.stacks.map((item: IContent, index: any) => (
                                     <div key={index} className="about-inner-content">
                                         <div className="icon">
                                             <i className="flaticon-check"></i>

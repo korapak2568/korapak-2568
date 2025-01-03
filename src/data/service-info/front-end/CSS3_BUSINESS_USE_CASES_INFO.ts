@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "../../model/services/IServiceLegacy";
+import {IService2025} from "../../model/services/IService2025";
 
-export const CSS3_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
+export const CSS3_BUSINESS_USE_CASES_INFO: IService2025 = {
   title: "CSS3",
   span: "",
   subTitle: "CSS3: Stylish and Responsive Business Web Design Solutions",

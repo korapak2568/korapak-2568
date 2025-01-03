@@ -1,6 +1,6 @@
-import {IServiceLegacy} from "@/data/model/services/IServiceLegacy";
+import {IService2025} from "@/data/model/services/IService2025";
 
-export const About2023: IServiceLegacy = {
+export const About2023: IService2025 = {
     title: "About CHORN",
     span: "Your Digital Transformation Partner",
     subTitle: "Helping Businesses Develop, Upgrade, and Maintain Cutting-Edge Software Systems " +
