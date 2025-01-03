@@ -1,45 +1,26 @@
 // src/redux/serviceSlice.ts
 import {createSlice} from '@reduxjs/toolkit';
 import {INFO} from "@/data/INFO";
-import {ELanguage} from "@/data/enum/ELanguage";
-import {IAiAll} from "@/data/model/ai/IAi";
-import {AiEnglish} from "@/data/info/AI/AiEnglish";
-import {AiThai} from "@/data/info/AI/AiThai";
-import {AiChinese} from "@/data/info/AI/AiChinese";
-import {AiJapanese} from "@/data/info/AI/AiJapanese";
-import {AiKorean} from "@/data/info/AI/AiKorean";
+import {ILanguage} from "@/data/model/language/ILanguage";
+import {LanguageDefault} from "@/data/info/Language/LanguageDefault";
 
 export interface ServiceState {
     value: any;
-    lang: ELanguage
-    ai: IAiAll
+    language: ILanguage;
 }
 
 const initialState: ServiceState = {
     value: INFO,
-    lang: ELanguage.english,
-    ai: AiEnglish
+    language: LanguageDefault
 };
 
 export const serviceSlice = createSlice({
     name: 'service',
     initialState,
     reducers: {
-        aiThai: (state) => {
-            state.ai = AiThai;
-        },
-        aiEnglish: (state) => {
-            state.ai = AiEnglish;
-        },
-        aiChinese: (state) => {
-            state.ai = AiChinese;
-        },
-        aiJapanese: (state) => {
-            state.ai = AiJapanese;
-        },
-        aiKorean: (state) => {
-            state.ai = AiKorean;
-        },
+        setLanguage: (state, action) => {
+            state.language = action.payload;
+        }
         // increment: (state) => {
         //     state.value += 1;
         // },
@@ -53,11 +34,7 @@ export const serviceSlice = createSlice({
 });
 
 export const {
-    aiThai,
-    aiEnglish,
-    aiChinese,
-    aiJapanese,
-    aiKorean,
+    setLanguage,
 } = serviceSlice.actions;
 
 export default serviceSlice.reducer;

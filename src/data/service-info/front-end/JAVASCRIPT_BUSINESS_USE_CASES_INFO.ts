@@ -3,7 +3,7 @@ import {IServiceLegacy} from "../../model/services/IServiceLegacy";
 export const JAVASCRIPT_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
   title: "JavaScript",
   span: "",
-  subTitle: "JavaScript: The Universal Language Powering Modern Business Applications",
+  subTitle: "JavaScript: The Universal Languages Powering Modern Business Applications",
   description: [
     {
       title: "",

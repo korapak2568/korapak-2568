@@ -3,12 +3,12 @@ import {useDispatch, useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import Image from "next/image";
 import {Info} from "@/data/info/Info";
-import {aiThai, aiEnglish, aiChinese, aiJapanese, aiKorean} from "@/redux/serviceSlice";
+import {setLanguage} from "@/redux/serviceSlice";
+import {ILanguage} from "@/data/model/language/ILanguage";
 
 export default function Left() {
     const dispatch = useDispatch();
-    const lang = useSelector((state: RootState) => state.service.lang);
-    const ai = useSelector((state: RootState) => state.service.ai);
+    const curLanguage = useSelector((state: RootState) => state.service.language);
 
     return (
         <div className="col-lg-6">
@@ -19,45 +19,25 @@ export default function Left() {
                     data-aos-delay="100"
                     data-aos-once="true"
                 >
-                    {ai.fah.title}
+                    {curLanguage.ai.fah.title}
                 </h1>
 
                 <div>
                     <div className={'mb-4'}>
-                        <button
-                            className={'px-2 mb-2'}
-                            onClick={() => dispatch(aiThai())}
-                        >
-                            {Info.Language.label.thai}
-                        </button>
-
-                        <button
-                            className={'px-2 mx-2 mb-2'}
-                            onClick={() => dispatch(aiEnglish())}
-                        >
-                            {Info.Language.label.english}
-                        </button>
-
-                        <button
-                            className={'px-2 mx-2 mb-2'}
-                            onClick={() => dispatch(aiChinese())}
-                        >
-                            {Info.Language.label.chinese}
-                        </button>
-
-                        <button
-                            className={'px-2 mx-2 mb-2'}
-                            onClick={() => dispatch(aiJapanese())}
-                        >
-                            {Info.Language.label.japan}
-                        </button>
-
-                        <button
-                            className={'px-2 mb-2'}
-                            onClick={() => dispatch(aiKorean())}
-                        >
-                            {Info.Language.label.korean}
-                        </button>
+                        {Info.Languages.map((language: ILanguage, index: number) => (
+                            <button
+                                key={index}
+                                className={
+                                    `px-4 mb-2 mr-10 
+                                    ${curLanguage.value == language.value ? 'bg-warning text-white' : ''}`
+                                }
+                                onClick={() => dispatch(
+                                    setLanguage(language)
+                                )}
+                            >
+                                {language.label}
+                            </button>
+                        ))}
                     </div>
 
                     <p
@@ -66,7 +46,7 @@ export default function Left() {
                         data-aos-delay="200"
                         data-aos-once="true"
                     >
-                        {ai.fah.content}
+                        {curLanguage.ai.fah.content}
                     </p>
                 </div>
 
@@ -77,10 +57,9 @@ export default function Left() {
                     data-aos-delay="300"
                     data-aos-once="true"
                 >
-
-                    <a href={ai.fah.line.link}>
+                    <a href={curLanguage.ai.fah.line.link}>
                         <Image
-                            src={ai.fah.line.button}
+                            src={curLanguage.ai.fah.line.button}
                             alt="เพิ่มเพื่อน"
                             width={232}
                             height={36}

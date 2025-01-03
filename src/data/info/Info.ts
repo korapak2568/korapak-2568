@@ -1,5 +1,5 @@
 import {IInfo} from "@/data/model/IInfo";
-import {Language} from "@/data/info/Language";
+import {Languages} from "@/data/info/Language/Languages";
 import {CHORN_SERVICE_INFO} from "@/data/service-info/CHORN_SERVICE_INFO";
 import {FEATURE_SERVICE_INFO} from "@/data/info/FEATURE_SERVICE_INFO";
 import {ABOUT_CONTENT_INFO} from "@/data/info/ABOUT_CONTENT_INFO";
@@ -17,7 +17,7 @@ import {CONTACTS} from "@/data/info/CONTACTS";
 import {CONSENT_INFO} from "@/data/info/CONSENT_INFO";
 
 export const Info: IInfo = {
-    Language,
+    Languages,
     Service: CHORN_SERVICE_INFO,
     Feature: FEATURE_SERVICE_INFO,
     About: ABOUT_CONTENT_INFO,

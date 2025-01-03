@@ -155,7 +155,7 @@ export const FULL_STACK_EXPERIENCE_INFO: IServiceImage = {
                     ]
                 },
                 {
-                    title: "Modern Language Features",
+                    title: "Modern Languages Features",
                     description: "Kotlin offers modern language features such as null safety, extension functions, and coroutines, making it a preferred choice for new projects. Its seamless interoperability with Java allows developers to leverage existing Java libraries and frameworks while enjoying Kotlin's enhancements.",
                     list: []
                 },

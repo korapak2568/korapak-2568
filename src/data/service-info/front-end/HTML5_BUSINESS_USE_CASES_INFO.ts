@@ -7,7 +7,7 @@ export const HTML5_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
   description: [
     {
       title: "",
-      description: "HTML5, the latest version of Hypertext Markup Language, plays a pivotal role in crafting modern and feature-rich web applications. Businesses benefit from HTML5’s:"
+      description: "HTML5, the latest version of Hypertext Markup Languages, plays a pivotal role in crafting modern and feature-rich web applications. Businesses benefit from HTML5’s:"
     }
   ],
   additions: [

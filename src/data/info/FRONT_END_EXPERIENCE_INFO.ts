@@ -208,7 +208,7 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             details: [
                 {
                     title: "HTML5 Web Design",
-                    description: "HTML5 is the latest version of the HyperText Markup Language, introducing new elements and APIs for a richer web experience.",
+                    description: "HTML5 is the latest version of the HyperText Markup Languages, introducing new elements and APIs for a richer web experience.",
                     list: []
                 },
                 {
@@ -233,7 +233,7 @@ export const FRONT_END_EXPERIENCE_INFO: IServiceImage = {
             faq: [
                 {
                     "question": "What is HTML5?",
-                    "answer": "HTML5 is the latest version of the HyperText Markup Language, introducing new features and elements."
+                    "answer": "HTML5 is the latest version of the HyperText Markup Languages, introducing new features and elements."
                 },
                 {
                     "question": "What are the new semantic elements?",

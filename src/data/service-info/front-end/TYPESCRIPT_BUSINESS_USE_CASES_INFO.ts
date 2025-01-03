@@ -3,7 +3,7 @@ import {IServiceLegacy} from "../../model/services/IServiceLegacy";
 export const TYPESCRIPT_BUSINESS_USE_CASES_INFO: IServiceLegacy = {
   title: "TypeScript",
   span: "",
-  subTitle: "TypeScript: The Language for Safer and Scalable Business Web Development",
+  subTitle: "TypeScript: The Languages for Safer and Scalable Business Web Development",
   description: [
     {
       title: "",

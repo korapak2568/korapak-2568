@@ -4,4 +4,5 @@ export const enum ELanguage {
     chinese,
     japan,
     korean,
+    french
 }

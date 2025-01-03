@@ -10,7 +10,7 @@ import {IContact} from "@/data/model/common/IContact";
 import {IConsent} from "@/data/model/common/IConsent";
 
 export interface IInfo {
-    Language: ILanguage,
+    Languages: ILanguage[],
     Service: IServiceLegacy,
     Feature: IServiceImage,
     About: IServiceLegacy,

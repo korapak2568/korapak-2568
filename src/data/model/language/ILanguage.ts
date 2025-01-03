@@ -1,9 +1,8 @@
+import {ELanguage} from "@/data/enum/ELanguage";
+import {IAiAll} from "@/data/model/ai/IAi";
+
 export interface ILanguage {
-    label: {
-        thai: string,
-        english: string,
-        chinese: string,
-        japan: string,
-        korean: string,
-    }
+    label: string,
+    value: ELanguage,
+    ai: IAiAll
 }
