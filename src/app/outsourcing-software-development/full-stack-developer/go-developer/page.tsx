@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core Go-lang & Service Keywords
+        // Core Go-lang & service Keywords
         "Go-lang development", "Go services", "Go developer", "custom Go-lang development", "Go web applications",
         "Go backend development", "Go microservices", "custom software development",
 
@@ -61,7 +61,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FullStack.additions[4].details[0].title}
+                pageTitle={Info.FullStack.go.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FullStack.title}

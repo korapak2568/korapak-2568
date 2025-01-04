@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core PHP & Service Keywords
+        // Core PHP & service Keywords
         "PHP development", "PHP services", "PHP developer", "custom PHP development", "PHP web applications",
         "PHP full stack development", "enterprise PHP applications", "custom software development",
 
@@ -64,7 +64,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FullStack.additions[5].details[0].title}
+                pageTitle={Info.FullStack.php.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FullStack.title}

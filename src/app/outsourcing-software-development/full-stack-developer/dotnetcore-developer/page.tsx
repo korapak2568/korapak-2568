@@ -38,7 +38,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core .NET Core & Service Keywords
+        // Core .NET Core & service Keywords
         ".NET Core development", ".NET Core services", ".NET Core developer", "custom .NET Core development",
         "enterprise .NET Core applications", "ASP.NET Core development", ".NET Core web applications",
         "custom software development",
@@ -63,7 +63,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FullStack.additions[1].details[0].title}
+                pageTitle={Info.FullStack.dotnetcore.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FullStack.title}

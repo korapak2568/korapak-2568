@@ -1,40 +1,44 @@
-import {IInfo} from "@/data/model/IInfo";
-import {Languages} from "@/data/info/Language/Languages";
-import {Service2025} from "@/data/info/Service/Service2025";
-import {FEATURE_SERVICE_INFO} from "@/data/info/FEATURE_SERVICE_INFO";
-import {CLOUD_EXPERIENCE_INFO} from "@/data/info/CLOUD_EXPERIENCE_INFO";
-import {FULL_STACK_EXPERIENCE_INFO} from "@/data/info/FULL_STACK_EXPERIENCE_INFO";
-import {FRONT_END_EXPERIENCE_INFO} from "@/data/info/FRONT_END_EXPERIENCE_INFO";
-import {RECOMMENDATIONS_INFO} from "@/data/info/RECOMMENDATIONS_INFO";
-import {FOOTER_INFO} from "@/data/info/FOOTER_INFO";
-import {BUSINESS_DOMAINS_INFO} from "@/data/info/BUSINESS_DOMAINS_INFO";
-import {PRIVACY_POLICY_INFO} from "@/data/info/PRIVACY_POLICY_INFO";
-import {TERM_OF_SERVICE} from "@/data/info/TERM_OF_SERVICE";
-import {DEVOPS_TESTING_INFO} from "@/data/info/DEVOPS_TESTING_INFO";
-import {WORKPLACE_POLICY} from "@/data/info/WORKPLACE_POLICY";
-import {Contact} from "@/data/info/contact/Contact";
-import {CONSENT_INFO} from "@/data/info/CONSENT_INFO";
-import {About2025} from "@/data/info/About/About2025";
-import {ImageAll} from "@/data/ImageAll";
+import {IInfo} from "@/data/info/model/IInfo";
+import {Languages} from "@/data/language/Languages";
+import {Service2025} from "@/data/service/Service2025";
+import {Feature2025} from "@/data/feature/Feature2025";
+import {Cloud2025} from "@/data/cloud/Cloud2025";
+import {FullStack2025} from "@/data/fullstack/FullStack2025";
+import {FrontEnd2025} from "@/data/frontend/FrontEnd2025";
+import {Recommend2025} from "@/data/recommend/Recommend2025";
+import {Footer} from "@/data/footer/Footer";
+import {Business2025} from "@/data/business/Business2025";
+import {PrivacyPolicy} from "@/data/policy/PrivacyPolicy";
+import {TermOfService} from "@/data/policy/TermOfService";
+import {DevOps2025} from "@/data/devops/DevOps2025";
+import {WorkplacePolicy} from "@/data/policy/WorkplacePolicy";
+import {Contact2025} from "@/data/contact/Contact2025";
+import {Consent2025} from "@/data/consent/Consent2025";
+import {About2025} from "@/data/about/About2025";
+import {Image} from "@/data/image/Image";
 
 export const Info: IInfo = {
     Languages,
+
     Service: Service2025,
-    Feature: FEATURE_SERVICE_INFO,
+    Feature: Feature2025,
     About: About2025,
-    Cloud: CLOUD_EXPERIENCE_INFO,
-    FullStack: FULL_STACK_EXPERIENCE_INFO,
-    FrontEnd: FRONT_END_EXPERIENCE_INFO,
-    Recommend: RECOMMENDATIONS_INFO,
-    Footer: FOOTER_INFO,
-    Business: BUSINESS_DOMAINS_INFO,
-    DevOps: DEVOPS_TESTING_INFO,
+    Cloud: Cloud2025,
 
-    PrivacyPolicy: PRIVACY_POLICY_INFO,
-    TermOfService: TERM_OF_SERVICE,
-    WorkplacePolicy: WORKPLACE_POLICY,
+    FrontEnd: FrontEnd2025,
+    FullStack: FullStack2025,
+    DevOps: DevOps2025,
 
-    Contact: Contact,
-    Consent: CONSENT_INFO,
-    Images: ImageAll
+    Recommend: Recommend2025,
+    Footer: Footer,
+    Business: Business2025,
+
+    PrivacyPolicy: PrivacyPolicy,
+    TermOfService: TermOfService,
+    WorkplacePolicy: WorkplacePolicy,
+
+    Contact: Contact2025,
+    Consent: Consent2025,
+
+    Images: Image
 }

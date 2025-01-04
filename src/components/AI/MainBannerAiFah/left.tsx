@@ -4,7 +4,7 @@ import {RootState} from "@/redux/store";
 import Image from "next/image";
 import {Info} from "@/data/info/Info";
 import {setLanguage} from "@/redux/serviceSlice";
-import {ILanguage} from "@/data/model/language/ILanguage";
+import {ILanguage} from "@/data/language/model/ILanguage";
 
 export default function Left() {
     const dispatch = useDispatch();

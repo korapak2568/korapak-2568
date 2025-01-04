@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core Java Spring Boot & Service Keywords
+        // Core Java Spring Boot & service Keywords
         "Spring Boot development", "Java Spring Boot services", "Spring Boot developer", "custom Java development",
         "Java Spring Boot applications", "enterprise Java development", "Spring Boot microservices",
         "custom software development",
@@ -63,7 +63,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FullStack.additions[2].details[0].title}
+                pageTitle={Info.FullStack.java.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FullStack.title}

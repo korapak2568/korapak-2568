@@ -8,9 +8,6 @@ import {
     AccordionItemPanel,
     AccordionItemButton,
 } from "react-accessible-accordion";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
-import {IFaq} from "@/data/model/common/IFaq";
 import {sanitizeUUID} from "@/utils/chornUtils";
 import {Info} from "@/data/info/Info";
 
@@ -20,9 +17,9 @@ const ServiceFaqPython: React.FC = () => {
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${sanitizeUUID(Info.FullStack.additions[3].faq[0].question)}`
+                    `${sanitizeUUID(Info.FullStack.python.faqs[0].question)}`
                 ]}>
-                    {Info.FullStack.additions[3].faq.map((item: IFaq, index: number) => (
+                    {Info.FullStack.python.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>

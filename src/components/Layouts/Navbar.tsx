@@ -4,8 +4,8 @@ import React, {useState, useEffect} from "react";
 import Link from "next/link";
 import Image from "next/image";
 import MenuItem from "./MenuItem";
-import {NAVBAR} from "@/data/navbar/NAVBAR";
-import {INavbar} from "@/data/model/navbar/INavbar";
+import {Navbar2025} from "@/data/navbar/Navbar2025";
+import {INavbar} from "@/data/navbar/model/INavbar";
 import {Info} from "@/data/info/Info";
 
 const Navbar: React.FC = () => {
@@ -70,7 +70,7 @@ const Navbar: React.FC = () => {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
-                                    {NAVBAR.map((menuItem: INavbar, index) => (
+                                    {Navbar2025.map((menuItem: INavbar, index) => (
                                         <MenuItem key={index} {...menuItem} />
                                     ))}
                                 </ul>

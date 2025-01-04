@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core HTML5 & Service Keywords
+        // Core HTML5 & service Keywords
         "HTML5 development", "HTML5 services", "HTML5 developer", "custom HTML5 development", "HTML5 responsive design",
         "HTML5 web applications", "HTML5 mobile development", "custom web applications", "HTML5 cross-platform apps",
         "custom software development",
@@ -62,7 +62,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FrontEnd.additions[4].details[0].title}
+                pageTitle={Info.FrontEnd.html5.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FrontEnd.title}

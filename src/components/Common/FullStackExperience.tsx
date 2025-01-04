@@ -3,10 +3,10 @@
 import React from "react";
 import {Tab, Tabs, TabList, TabPanel} from "react-tabs";
 import Image from "next/image";
-import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
 import Link from "next/link";
 import {Info} from "@/data/info/Info";
+import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 
 const FullStackExperience: React.FC = () => {
 
@@ -23,7 +23,7 @@ const FullStackExperience: React.FC = () => {
                     <div className="tab digital-experience-tab">
                         <Tabs>
                             <TabList>
-                                {Info.FullStack.additions.map((item: IContentImage, index: any) => (
+                                {Info.FullStack.stacks.map((item: IFullStackStack, index: any) => (
                                     <Tab key={index}>
                                           <span>
                                               <Image
@@ -39,14 +39,14 @@ const FullStackExperience: React.FC = () => {
                                 ))}
                             </TabList>
 
-                            {Info.FullStack.additions.map((item: IContentImage, index: any) => (
+                            {Info.FullStack.stacks.map((item: IFullStackStack, index: any) => (
                                 <TabPanel key={index}>
                                     <div className="row align-items-center">
                                         <div className="col-lg-6">
                                             <div className="digital-experience-content">
-                                                <h3>{item.details[0].title}</h3>
+                                                <h3>{item.features[0].title}</h3>
                                                 <p>
-                                                    {truncateText(item.details[0].description, 200)}
+                                                    {truncateText(item.features[0].description, 200)}
                                                 </p>
                                                 <p className={"p-read-more"}>
                                                     <Link href={item.link} className="contrast-read-more">
@@ -58,9 +58,9 @@ const FullStackExperience: React.FC = () => {
                                                     <div className="icon">
                                                         <i className="flaticon-check"></i>
                                                     </div>
-                                                    <h3>{item.details[1].title}</h3>
+                                                    <h3>{item.features[1].title}</h3>
                                                     <p>
-                                                        {truncateText(item.details[1].description, 120)}
+                                                        {truncateText(item.features[1].description, 120)}
                                                     </p>
                                                     <p className={"p-read-more"}>
                                                         <Link href={item.link} className="contrast-read-more">
@@ -73,9 +73,9 @@ const FullStackExperience: React.FC = () => {
                                                     <div className="icon">
                                                         <i className="flaticon-check"></i>
                                                     </div>
-                                                    <h3>{item.details[2].title}</h3>
+                                                    <h3>{item.features[2].title}</h3>
                                                     <p>
-                                                        {truncateText(item.details[2].description, 120)}
+                                                        {truncateText(item.features[2].description, 120)}
                                                     </p>
                                                     <p className={"p-read-more"}>
                                                         <Link href={item.link} className="contrast-read-more">
@@ -88,9 +88,9 @@ const FullStackExperience: React.FC = () => {
                                                     <div className="icon">
                                                         <i className="flaticon-check"></i>
                                                     </div>
-                                                    <h3>{item.details[3].title}</h3>
+                                                    <h3>{item.features[3].title}</h3>
                                                     <p>
-                                                        {truncateText(item.details[3].description, 120)}
+                                                        {truncateText(item.features[3].description, 120)}
                                                     </p>
                                                     <p className={"p-read-more"}>
                                                         <Link href={item.link} className="contrast-read-more">

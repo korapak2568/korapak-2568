@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import {usePathname} from "next/navigation";
-import {INavbar} from "@/data/model/navbar/INavbar";
+import {INavbar} from "@/data/navbar/model/INavbar";
 import {isActiveMainMenu, isActiveMenu} from "@/utils/chornUtils";
 
 const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {

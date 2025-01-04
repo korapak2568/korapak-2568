@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core Angular & Service Keywords
+        // Core Angular & service Keywords
         "Angular development", "Angular services", "Angular developer", "Angular development Thailand",
         "Angular development Bangkok", "Angular development Chiangmai", "Angular development company",
         "custom Angular development", "custom software development", "enterprise Angular applications",
@@ -67,7 +67,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FrontEnd.additions[2].details[0].title}
+                pageTitle={Info.FrontEnd.stacks[2].features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FrontEnd.title}

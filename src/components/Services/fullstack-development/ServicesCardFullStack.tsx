@@ -3,9 +3,9 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
 import {Info} from "@/data/info/Info";
+import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 
 const ServicesCardFrontEnd: React.FC = () => {
 
@@ -67,7 +67,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                             </div>
                         </div>
 
-                        {Info.FullStack.additions.map((addition: IContentImage, index: number) => (
+                        {Info.FullStack.stacks.map((addition: IFullStackStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services">
                                     <div className="image">

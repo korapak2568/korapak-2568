@@ -12,10 +12,10 @@ export default function Page() {
       <Navbar />
 
       <PageBanner
-        pageTitle="Contact Style Two"
+        pageTitle="Contact2025 Style Two"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Contact Style Two"
+        activePageText="Contact2025 Style Two"
         BGImage="/images/page-banner/page-banner-3.jpg"
       />
 
@@ -48,7 +48,7 @@ export default function Page() {
 
           <div className="general-contact-info">
             <div className="contact-info-content">
-              <h3>Contact us by Phone Number or Email Address</h3>
+              <h3>Contact2025 us by Phone Number or Email Address</h3>
               <h2>
                 <a href="tel:+0881306298615">+088 130 629 8615</a>
                 <span>OR</span>

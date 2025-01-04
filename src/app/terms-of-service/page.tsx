@@ -4,7 +4,7 @@ import PageBanner from "../../components/Common/PageBanner";
 import Footer from "../../components/Layouts/Footer";
 import SubscribeForm from "../../components/Common/SubscribeForm";
 import {Info} from "@/data/info/Info";
-import {IPolicyContent} from "@/data/model/policy/IPolicyContent";
+import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 
 export default function TermsOfService() {
 

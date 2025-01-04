@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core Vue.js & Service Keywords
+        // Core Vue.js & service Keywords
         "Vue.js development", "Vue.js services", "Vue.js developer", "custom Vue.js development", "Vue.js applications",
         "Vue.js full stack development", "Vue.js single-page applications", "Vue.js user interfaces", "custom web applications",
         "custom software development",
@@ -62,7 +62,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FrontEnd.additions[3].details[0].title}
+                pageTitle={Info.FrontEnd.vue.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FrontEnd.title}

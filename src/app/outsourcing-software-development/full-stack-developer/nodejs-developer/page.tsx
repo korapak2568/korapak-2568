@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core Node.js & Service Keywords
+        // Core Node.js & service Keywords
         "Node.js development", "Node.js services", "Node.js developer", "custom Node.js development",
         "Node.js backend development", "Node.js full stack development", "Node.js microservices", "custom software development",
 
@@ -61,7 +61,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FullStack.additions[0].details[0].title}
+                pageTitle={Info.FullStack.nodejs.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FullStack.title}

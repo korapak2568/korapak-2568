@@ -73,7 +73,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FrontEnd.additions[5].details[0].title}
+                pageTitle={Info.FrontEnd.css3.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FrontEnd.title}

@@ -49,7 +49,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.DevOps.additions[3].details[0].title}
+                pageTitle={Info.DevOps.gitlab.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.DevOps.title}

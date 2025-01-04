@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core Python & Service Keywords
+        // Core Python & service Keywords
         "Python development", "Python services", "Python developer", "custom Python development",
         "Python web applications", "Python backend development", "Python full stack development",
         "custom software development",
@@ -63,7 +63,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FullStack.additions[3].details[0].title}
+                pageTitle={Info.FullStack.python.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FullStack.title}

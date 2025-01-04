@@ -8,7 +8,7 @@ import TestimonialStyleThree from "../../../components/Common/TestimonialStyleTh
 import CloudExperience from "../../../components/Common/CloudExperience";
 import Partners from "../../../components/Common/Partners";
 import SubscribeForm from "../../../components/Common/SubscribeForm";
-import AboutContentTwo from "../../../components/AboutUs/AboutContentTwo";
+import AboutContentTwo from "@/components/About/AboutContentTwo";
 
 export default function Page() {
   return (

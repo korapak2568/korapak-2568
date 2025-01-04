@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         ],
     },
     keywords: [
-        // Core React & Service Keywords
+        // Core React & service Keywords
         "React development", "React services", "React developer", "custom React development", "React.js applications",
         "React full stack development", "React single-page applications", "React user interfaces", "custom web applications",
         "custom software development",
@@ -62,7 +62,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.FrontEnd.additions[1].details[0].title}
+                pageTitle={Info.FrontEnd.react.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.FrontEnd.title}

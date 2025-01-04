@@ -8,7 +8,6 @@ import {
     AccordionItemPanel,
     AccordionItemButton,
 } from "react-accessible-accordion";
-import {IFaq} from "@/data/model/common/IFaq";
 import {sanitizeUUID} from "@/utils/chornUtils";
 import {Info} from "@/data/info/Info";
 
@@ -18,9 +17,9 @@ const ServiceFaqJenkins: React.FC = () => {
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${Info.DevOps.additions[4].faq[0].question}`
+                    `${Info.DevOps.jenkins.faqs[0].question}`
                 ]}>
-                    {Info.DevOps.additions[4].faq.map((item: IFaq, index: number) => (
+                    {Info.DevOps.jenkins.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>

@@ -3,8 +3,8 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {ILink} from "@/data/model/common/ILink";
 import {Info} from "@/data/info/Info";
+import {IFooterDetail} from "@/data/footer/model/IFooterDetail";
 
 const Footer: React.FC = () => {
     const currentYear = new Date().getFullYear();
@@ -30,7 +30,7 @@ const Footer: React.FC = () => {
                                 <p>{Info.Footer.description}</p>
 
                                 <ul className="social">
-                                    {Info.Footer.socialLinks.map((item: ILink, index: number) => (
+                                    {Info.Footer.socialLinks.map((item: IFooterDetail, index: number) => (
                                         <li key={index}>
                                             <a
                                                 href={item.link}
@@ -80,8 +80,8 @@ const Footer: React.FC = () => {
                                 <h3>{Info.Footer.importantTitle}</h3>
                                 <ul className="quick-links">
                                     {Info.Footer.importantLinks
-                                        .filter((item: ILink) => item.link !== undefined)
-                                        .map((item: ILink, index: number) => (
+                                        .filter((item: IFooterDetail) => item.link !== undefined)
+                                        .map((item: IFooterDetail, index: number) => (
                                             <li key={index}>
                                                 <Link href={item.link}>
                                                     {item.label}
@@ -97,8 +97,8 @@ const Footer: React.FC = () => {
                                 <h3>{Info.Footer.featureTitle}</h3>
                                 <ul className="quick-links">
                                     {Info.Footer.featuredLinks
-                                        .filter((item: ILink) => item.link !== undefined)
-                                        .map((item: ILink, index: number) => (
+                                        .filter((item: IFooterDetail) => item.link !== undefined)
+                                        .map((item: IFooterDetail, index: number) => (
                                             <li key={index}>
                                                 <Link href={item.link}>
                                                     {item.label}

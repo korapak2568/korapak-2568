@@ -18,7 +18,7 @@ This files table contents are outlined below>>>>>
 ** - Main Banner Area CSS
 ** - Main Slider Area CSS
 ** - Features Area CSS
-** - About Area CSS
+** - model Area CSS
 ** - Services Area CSS
 ** - Default Shape CSS
 ** - Digital Experience Area CSS
@@ -40,9 +40,9 @@ This files table contents are outlined below>>>>>
 ** - Forgot Password CSS
 ** - 404 Error Area CSS
 ** - Privacy Area CSS
-** - Terms of Service Area CSS
-** - Contact IInfo Area CSS
-** - Contact Area CSS
+** - Terms of service Area CSS
+** - Contact2025 IInfo Area CSS
+** - Contact2025 Area CSS
 ** - Services Details Area CSS
 ** - Pagination Area CSS
 ** - Portfolio Details Area CSS
@@ -1811,7 +1811,7 @@ Features Area CSS
 }
 
 /*================================================
-About Area CSS
+model Area CSS
 =================================================*/
 .about-area .container-fluid {
   padding-left: 0;
@@ -4100,7 +4100,7 @@ Privacy Area CSS
 }
 
 /*================================================
-Terms of Service Area CSS
+Terms of service Area CSS
 =================================================*/
 .terms-of-service-content h3 {
   font-size: 22px;
@@ -4117,7 +4117,7 @@ Terms of Service Area CSS
 }
 
 /*================================================
-Contact IInfo Area CSS
+Contact2025 IInfo Area CSS
 =================================================*/
 .contact-info-box {
   text-align: center;
@@ -4193,7 +4193,7 @@ Contact IInfo Area CSS
 }
 
 /*================================================
-Contact Area CSS
+Contact2025 Area CSS
 =================================================*/
 .contact-form {
   padding: 45px;

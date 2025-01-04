@@ -3,8 +3,8 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {IContentImage} from "@/data/model/common/IContentImage";
 import {Info} from "@/data/info/Info";
+import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 
 const FrontEndExperience: React.FC = () => {
 
@@ -21,7 +21,7 @@ const FrontEndExperience: React.FC = () => {
                     <div className="services-area bg-fafafa pt-100 pb-70 addition-ptb-0">
                         <div className="container">
                             <div className="row">
-                                {Info.FrontEnd.additions.map((item: IContentImage, index: number) => (
+                                {Info.FrontEnd.stacks.map((item: IFrontEndStack, index: number) => (
                                     <div key={index} className="col-lg-4 col-md-6">
                                         <div className="single-services-box">
                                             <div className="icon">

@@ -3,7 +3,7 @@
 import React, {useState} from "react";
 import Link from "next/link";
 import {Info} from "@/data/info/Info";
-import {IContent} from "@/data/model/content/IContent";
+import {IAboutContent} from "@/data/about/model/IAboutContent";
 
 const AboutContent: React.FC = () => {
 
@@ -36,7 +36,7 @@ const AboutContent: React.FC = () => {
                                     {Info.About.description[0].description}
                                 </p>
 
-                                {Info.About.stacks.map((item: IContent, index: any) => (
+                                {Info.About.stacks.map((item: IAboutContent, index: any) => (
                                     <div key={index} className="about-inner-content">
                                         <div className="icon">
                                             <i className="flaticon-check"></i>

@@ -3,7 +3,7 @@
 import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
-import {IRecommendation} from "@/data/model/common/IRecommendation";
+import {IRecommendDetail} from "@/data/recommend/model/IRecommendDetail";
 import {Info} from "@/data/info/Info";
 
 const Recommendations: React.FC = () => {
@@ -34,7 +34,7 @@ const Recommendations: React.FC = () => {
                         modules={[Autoplay, Navigation]}
                         className="testimonial-slider"
                     >
-                        {Info.Recommend.list.map((item: IRecommendation, index: number) => (
+                        {Info.Recommend.list.map((item: IRecommendDetail, index: number) => (
                             <SwiperSlide key={index}>
                                 <div className="testimonial-item">
                                     <div className="row">

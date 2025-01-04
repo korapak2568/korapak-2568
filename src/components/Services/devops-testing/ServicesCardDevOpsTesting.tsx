@@ -3,9 +3,9 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
 import {Info} from "@/data/info/Info";
+import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 
 const ServicesCardDevOpsTesting: React.FC = () => {
 
@@ -27,7 +27,8 @@ const ServicesCardDevOpsTesting: React.FC = () => {
 
                             <p>
                                 CHORN testing services ensure that your application is bug-free, scalable, and ready to
-                                launch. From <strong>unit testing </strong> to <strong>integration testing,</strong> CHORN
+                                launch. From <strong>unit testing </strong> to <strong>integration
+                                testing,</strong> CHORN
                                 comprehensive testing strategies include tools like <strong>Postman,</strong>
                                 <strong> Selenium</strong>, and <strong>Appium</strong> for API and UI automation.
                             </p>
@@ -58,7 +59,8 @@ const ServicesCardDevOpsTesting: React.FC = () => {
                                 <h2>Why Choose CHORN for DevOps and Testing?</h2>
                                 <p>
                                     CHORN ensures your software is not only built efficiently but also deployed,
-                                    tested, and monitored with precision. CHORN DevOps team works closely with developers
+                                    tested, and monitored with precision. CHORN DevOps team works closely with
+                                    developers
                                     to automate infrastructure management, while CHORN testing team integrates
                                     <strong>automated tests</strong> into every stage of development. From <strong>load
                                     testing</strong> to <strong>API validation</strong>, CHORN provides end-to-end
@@ -67,7 +69,7 @@ const ServicesCardDevOpsTesting: React.FC = () => {
                             </div>
                         </div>
 
-                        {Info.DevOps.additions.map((addition: IContentImage, index: number) => (
+                        {Info.DevOps.stacks.map((addition: IDevOpsStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services">
                                     <div className="image">

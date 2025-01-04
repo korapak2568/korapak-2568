@@ -1,7 +1,7 @@
 // src/redux/serviceSlice.ts
 import {createSlice} from '@reduxjs/toolkit';
-import {ILanguage} from "@/data/model/language/ILanguage";
-import {LanguageDefault} from "@/data/info/Language/LanguageDefault";
+import {ILanguage} from "@/data/language/model/ILanguage";
+import {LanguageDefault} from "@/data/language/LanguageDefault";
 
 export interface ServiceState {
     language: ILanguage;

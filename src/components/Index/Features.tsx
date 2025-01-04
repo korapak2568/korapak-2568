@@ -3,9 +3,9 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {IContentImage} from "@/data/model/common/IContentImage";
 import {truncateText} from "@/utils/truncateText";
 import {Info} from "@/data/info/Info";
+import {IFeatureStack} from "@/data/feature/model/IFeatureStack";
 
 const Features: React.FC = () => {
 
@@ -34,7 +34,7 @@ const Features: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="pl-30">
                                 <div className="row">
-                                    {Info.Feature.additions.map((addition: IContentImage, index: number) => (
+                                    {Info.Feature.stacks.map((addition: IFeatureStack, index: number) => (
                                         <div key={index} className="col-lg-6 col-sm-6">
                                             <div className="custom-single-features-box">
                                                 <div className="icon">

@@ -2,10 +2,9 @@
 
 import React from "react";
 import Link from "next/link";
-import {IContentImage} from "@/data/model/common/IContentImage";
 import {useEffect, useState} from 'react';
-import Image from "next/image";
 import {Info} from "@/data/info/Info";
+import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 
 const ServiceSidebarFrontEnd: React.FC = () => {
     const [currentUrl, setCurrentUrl] = useState('');
@@ -20,12 +19,12 @@ const ServiceSidebarFrontEnd: React.FC = () => {
         <>
             <div className="services-details-information ml-10">
                 <ul className="services-list">
-                    {Info.FrontEnd.additions.map((item: IContentImage, index: number) => {
+                    {Info.FrontEnd.stacks.map((item: IFrontEndStack, index: number) => {
                         if (currentUrl.includes(item.link)) {
                             return (
                                 <li key={index}>
                                     <Link href={item.link} className="active">
-                                        <i className="bx bx-code-alt"></i> {item.details[0].title}
+                                        <i className="bx bx-code-alt"></i> {item.features[0].title}
                                     </Link>
                                 </li>
                             )
@@ -34,7 +33,7 @@ const ServiceSidebarFrontEnd: React.FC = () => {
                         return (
                             <li key={index}>
                                 <Link href={item.link}>
-                                    <i className="bx bx-code-alt"></i> {item.details[0].title}
+                                    <i className="bx bx-code-alt"></i> {item.features[0].title}
                                 </Link>
                             </li>
                         )

@@ -49,10 +49,10 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.DevOps.additions[5].details[0].title}
+                pageTitle={Info.DevOps.postman.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText={Info.DevOps.additions[5].details[0].title}
+                activePageText={Info.DevOps.stacks[5].features[0].title}
                 BGImage={Info.Images.pageBanner.cover1.path}
             />
 

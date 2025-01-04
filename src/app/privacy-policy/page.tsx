@@ -5,9 +5,8 @@ import Navbar from "../../components/Layouts/Navbar";
 import PageBanner from "../../components/Common/PageBanner";
 import Footer from "../../components/Layouts/Footer";
 import SubscribeForm from "../../components/Common/SubscribeForm";
-import {IContent} from "@/data/model/content/IContent";
 import {Info} from "@/data/info/Info";
-import {IPolicyContent} from "@/data/model/policy/IPolicyContent";
+import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 
 export default function Page() {
 
@@ -32,7 +31,7 @@ export default function Page() {
                                 <p>{item.description}</p>
 
                                 {item.isDetailed &&
-                                    item.details?.map((detail: IContent, iDetail) => (
+                                    item.details?.map((detail: IPolicyContent, iDetail) => (
                                         <div key={iDetail} className="addition-ptb-20">
                                             <h4>{detail.title}</h4>
                                             <p>{detail.description}</p>

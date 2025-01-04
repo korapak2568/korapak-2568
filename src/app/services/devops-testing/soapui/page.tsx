@@ -51,7 +51,7 @@ const Page = () => {
             <Navbar/>
 
             <PageBanner
-                pageTitle={Info.DevOps.additions[7].details[0].title}
+                pageTitle={Info.DevOps.soapui.features[0].title}
                 homePageUrl="/"
                 homePageText="Home"
                 activePageText={Info.DevOps.title}

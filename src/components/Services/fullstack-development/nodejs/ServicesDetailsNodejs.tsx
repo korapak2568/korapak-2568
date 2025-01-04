@@ -15,28 +15,24 @@ const ServicesDetailsNodejs: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="services-details-desc">
-                                <h3>{Info.FullStack.additions[0].details[0].title}</h3>
-                                <p>{Info.FullStack.additions[0].details[0].description}</p>
+                                <h3>{Info.FullStack.nodejs.features[0].title}</h3>
+                                <p>{Info.FullStack.nodejs.features[0].description}</p>
 
-                                <h3>{Info.FullStack.additions[0].details[1].title}</h3>
-                                <p>{Info.FullStack.additions[0].details[1].description}</p>
+                                <h3>{Info.FullStack.nodejs.features[1].title}</h3>
+                                <p>{Info.FullStack.nodejs.features[1].description}</p>
 
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
-                                        <div className="col-lg-6">
-                                            <div className="features-image">
-                                                <Image
-                                                    src={Info.Images.serviceDetails.nodejs.path}
-                                                    alt="image"
-                                                    width={500}
-                                                    height={500}
-                                                />
-                                            </div>
-                                        </div>
+                                        <Image
+                                            src={Info.Images.serviceDetails.nodejs.path}
+                                            alt="image"
+                                            width={500}
+                                            height={500}
+                                        />
 
                                         <div className="col-lg-6">
                                             <ul className="features-list">
-                                                {Info.FullStack.additions[0].details[1].list.map((item: string, index: number) => (
+                                                {Info.FullStack.nodejs.features[1].list.map((item: string, index: number) => (
                                                     <li key={index}>
                                                         <i className="flaticon-check"></i> {item}
                                                     </li>
@@ -46,11 +42,11 @@ const ServicesDetailsNodejs: React.FC = () => {
                                     </div>
                                 </div>
 
-                                <h3>{Info.FullStack.additions[0].details[2].title}</h3>
-                                <p>{Info.FullStack.additions[0].details[2].description}</p>
+                                <h3>{Info.FullStack.nodejs.features[2].title}</h3>
+                                <p>{Info.FullStack.nodejs.features[2].description}</p>
 
-                                <h3>{Info.FullStack.additions[0].details[3].title}</h3>
-                                <p>{Info.FullStack.additions[0].details[3].description}</p>
+                                <h3>{Info.FullStack.nodejs.features[3].title}</h3>
+                                <p>{Info.FullStack.nodejs.features[3].description}</p>
 
                                 <ServiceFaqNodejs/>
                             </div>

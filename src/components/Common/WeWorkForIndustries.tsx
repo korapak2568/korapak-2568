@@ -1,8 +1,8 @@
 "use client";
 
 import React from "react";
-import {ILink} from "@/data/model/common/ILink";
 import {Info} from "@/data/info/Info";
+import {IBusinessLink} from "@/data/business/model/IBusinessLink";
 
 const WeWorkForIndustries: React.FC = () => {
 
@@ -17,7 +17,7 @@ const WeWorkForIndustries: React.FC = () => {
                     </div>
 
                     <div className="row">
-                        {Info.Business.businessDomains.map((item: ILink, index: number) => (
+                        {Info.Business.domains.map((item: IBusinessLink, index: number) => (
                             <div key={index} className="col-lg-3 col-md-6">
                                 <div className="single-industries-box">
                                     <i className={item.icon}></i>
