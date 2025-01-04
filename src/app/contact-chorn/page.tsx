@@ -45,10 +45,10 @@ export default function Page() {
             <Navbar/>
 
             <PageBanner
-                pageTitle="Contact2025 CHORN"
+                pageTitle="Contact CHORN"
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText="Contact2025 CHORN"
+                activePageText="Contact CHORN"
                 BGImage="/images/page-banner/page-banner-3.jpg"
             />
 
