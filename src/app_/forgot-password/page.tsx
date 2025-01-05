@@ -10,13 +10,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Forgot Password"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Forgot Password"
-        BGImage="/images/page-banner/page-banner-3.jpg"
-      />
+      <PageBanner pageTitle="Forgot Password" />
 
       <ForgotPasswordForm />
 

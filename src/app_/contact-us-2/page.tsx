@@ -11,13 +11,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Contact2025 Style Two"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Contact2025 Style Two"
-        BGImage="/images/page-banner/page-banner-3.jpg"
-      />
+      <PageBanner pageTitle="Contact2025 Style Two" />
 
       <div className="contact-area ptb-100">
         <div className="container">

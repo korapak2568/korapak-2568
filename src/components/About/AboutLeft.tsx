@@ -6,7 +6,8 @@ export default function AboutLeft() {
             <div
                 className="about-image-warp"
                 style={{backgroundImage: `url(/chorn-images/about/about-chorn-image.webp)`}}
-            ></div>
+            />
+
         </div>
     )
 }

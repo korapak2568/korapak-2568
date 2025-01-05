@@ -68,13 +68,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="Front End Development"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Front End Development"
-                BGImage={Info.Images.pageBanner.cover1.path}
-            />
+            <PageBanner pageTitle="Front End Development" />
 
             <ServicesCardFrontEnd/>
 

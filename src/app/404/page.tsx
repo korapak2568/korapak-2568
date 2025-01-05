@@ -8,13 +8,7 @@ export default function Page() {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="404 Page Not Found"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Sorry, the page you are looking for doesn't exist."
-                BGImage=""
-            />
+            <PageBanner pageTitle="404 Page Not Found"/>
 
             <Footer/>
         </>

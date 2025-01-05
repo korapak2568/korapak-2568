@@ -14,13 +14,7 @@ export default function Page() {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle={Info.PrivacyPolicy.title}
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText={Info.PrivacyPolicy.title}
-                BGImage="/images/page-banner/page-banner-3.jpg"
-            />
+            <PageBanner pageTitle={Info.PrivacyPolicy.title} />
 
             <div className="privacy-policy-area ptb-100">
                 <div className="container">

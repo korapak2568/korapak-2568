@@ -72,13 +72,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle={Info.FrontEnd.css3.features[0].title}
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText={Info.FrontEnd.title}
-                BGImage={Info.Images.pageBanner.cover1.path}
-            />
+            <PageBanner pageTitle={Info.FrontEnd.css3.features[0].title}/>
 
             <ServicesDetailsCss3/>
 

@@ -9,13 +9,7 @@ const Page = () => {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Mobile App Development"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Mobile App Development"
-        BGImage="/images/page-banner/page-banner-1.jpg"
-      />
+      <PageBanner pageTitle="Mobile App Development" />
 
       {/*<ServicesCardFrontEnd />*/}
 

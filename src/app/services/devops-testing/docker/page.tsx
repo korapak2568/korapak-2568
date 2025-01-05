@@ -48,13 +48,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle={Info.DevOps.docker.features[0].title}
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText={Info.DevOps.title}
-                BGImage={Info.Images.pageBanner.cover1.path}
-            />
+            <PageBanner pageTitle={Info.DevOps.docker.features[0].title} />
 
             <ServicesDetailsDocker/>
 

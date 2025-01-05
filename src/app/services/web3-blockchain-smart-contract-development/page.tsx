@@ -62,13 +62,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="Web3 Blockchain Smart Contract"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Web3 Blockchain Smart Contract"
-                BGImage="/chorn-images/metadata/banner-logo.webp"
-            />
+            <PageBanner pageTitle="Web3 Blockchain Smart Contract"/>
 
             <ServicesCardWeb3Blockchain/>
 

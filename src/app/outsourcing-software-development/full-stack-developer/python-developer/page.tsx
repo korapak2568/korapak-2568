@@ -62,13 +62,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle={Info.FullStack.python.features[0].title}
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText={Info.FullStack.title}
-                BGImage={Info.Images.pageBanner.cover1.path}
-            />
+            <PageBanner pageTitle={Info.FullStack.python.features[0].title}/>
 
             <ServicesDetailsPython/>
 

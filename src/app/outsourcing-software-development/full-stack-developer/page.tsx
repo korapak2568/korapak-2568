@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Full-Stack Development Services | CHORN",
         description: "Leverage full-stack development services by CHORN to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
-        images: [ "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.webp"],
+        images: ["https://chorn.in.th/chorn-images/metadata/fullstack-development-services.webp"],
     },
     keywords: [
         // Core Full Stack Development Keywords
@@ -66,13 +66,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="Full Stack Development"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Full Stack Development"
-                BGImage={Info.Images.pageBanner.cover1.path}
-            />
+            <PageBanner pageTitle="Full Stack Development"/>
 
             <ServicesCardFullStack/>
 

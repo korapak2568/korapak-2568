@@ -8,22 +8,22 @@ import ContactForm from "../../components/Contact/ContactForm";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
-// Define metadata for the Contact2025 page
+// Define metadata for the Contact page
 export const metadata: Metadata = {
-    title: "Contact2025 Us | CHORN - Get in Touch for Custom Software Solutions",
+    title: "Contact | CHORN - Get in Touch for Custom Software Solutions",
     description: "Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need.",
     alternates: {
         canonical: "https://chorn.in.th/contact-chorn/",
     },
     openGraph: {
-        title: "Contact2025 CHORN - Custom Software Development Experts",
+        title: "Contact CHORN - Custom Software Development Experts",
         description: "Get in touch with CHORN for expert custom software development solutions. We're here to answer your questions and provide support.",
         images: [
             {
                 url: "https://chorn.in.th/chorn-images/metadata/contact-chorn.png",
                 width: 1200,
                 height: 630,
-                alt: "Contact2025 CHORN Banner Image",
+                alt: "Contact CHORN Banner Image",
             },
         ],
         url: "https://chorn.in.th/contact-chorn/",
@@ -31,8 +31,8 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Contact2025 CHORN - Let's Build Something Great Together",
-        description: "Reach out to CHORN for custom software solutions tailored to your business needs. Contact2025 us for inquiries or support.",
+        title: "Contact CHORN - Let's Build Something Great Together",
+        description: "Reach out to CHORN for custom software solutions tailored to your business needs. Contact us for inquiries or support.",
         images: [
             "https://chorn.in.th/chorn-images/metadata/contact-chorn.png",
         ],
@@ -44,13 +44,7 @@ export default function Page() {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="Contact CHORN"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Contact CHORN"
-                BGImage="/images/page-banner/page-banner-3.jpg"
-            />
+            <PageBanner pageTitle="Contact CHORN"/>
 
             <ContactInfo/>
 

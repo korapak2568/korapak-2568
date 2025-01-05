@@ -10,13 +10,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Pricing One"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Pricing One"
-        BGImage="/images/page-banner/page-banner-2.jpg"
-      />
+      <PageBanner  pageTitle="Pricing One" />
 
       <div className="pt-100">
         <PriceTable />

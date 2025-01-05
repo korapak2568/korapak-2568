@@ -10,13 +10,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Register"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Register"
-        BGImage="/images/page-banner/page-banner-4.jpg"
-      />
+      <PageBanner pageTitle="Register"  />
 
       <RegisterForm />
 

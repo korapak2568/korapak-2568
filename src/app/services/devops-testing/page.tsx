@@ -51,13 +51,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="DevOps and Testing"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="DevOps and Testing"
-                BGImage="/images/page-banner/page-banner-1.jpg"
-            />
+            <PageBanner pageTitle="DevOps and Testing" />
 
             <ServicesCardDevOpsTesting/>
 

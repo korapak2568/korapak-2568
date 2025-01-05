@@ -12,13 +12,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Team 1"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Team 1"
-        BGImage="/images/page-banner/page-banner-1.jpg"
-      />
+      <PageBanner pageTitle="Team 1" />
 
       <TeamMember />
 

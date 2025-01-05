@@ -61,13 +61,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="Cloud Solutions"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Cloud Solutions"
-                BGImage="/chorn-images/metadata/banner-logo.webp"
-            />
+            <PageBanner pageTitle="Cloud Solutions" />
 
             <ServicesCardCloudInfrastructureSystemsArchitecture/>
 

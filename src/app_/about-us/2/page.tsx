@@ -15,13 +15,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="About Us 2"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="About Us 2"
-        BGImage="/images/page-banner/page-banner-4.jpg"
-      />
+      <PageBanner pageTitle="About Us 2" />
 
       <AboutContentTwo />
 

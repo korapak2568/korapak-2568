@@ -10,13 +10,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Team 2"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Team 2"
-        BGImage="/images/page-banner/page-banner-2.jpg"
-      />
+      <PageBanner pageTitle="Team 2" />
 
       <TeamMemberStyle2 />
 

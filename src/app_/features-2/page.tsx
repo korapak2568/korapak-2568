@@ -11,13 +11,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Features Two"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Features Two"
-        BGImage="/images/page-banner/page-banner-1.jpg"
-      />
+      <PageBanner pageTitle="Features Two" />
 
       <CareFeaturesTwo />
 

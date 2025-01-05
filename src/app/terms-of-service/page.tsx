@@ -12,13 +12,7 @@ export default function TermsOfService() {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="Terms Of Service"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Terms Of Service"
-                BGImage="/images/page-banner/page-banner-3.jpg"
-            />
+            <PageBanner pageTitle="Terms Of Service" />
 
             <div className="terms-of-service-area ptb-100">
                 <div className="container">

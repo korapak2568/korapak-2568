@@ -7,7 +7,7 @@ import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
-    title: "About CHORN | Custom Software Development Experts",
+    title: "About CHORN | AI & Digital Transformation Partner",
     description: "Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology.",
     alternates: {
         canonical: "https://chorn.in.th/about-chorn/",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
                 url: "https://chorn.in.th/chorn-images/metadata/about-chorn.png",
                 width: 1200,
                 height: 630,
-                alt: "CHORN model Banner Image",
+                alt: "About CHORN Banner Image",
             },
         ],
         url: "https://chorn.in.th/about-chorn/",
@@ -41,13 +41,7 @@ export default function Page() {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="About CHORN"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="About CHORN"
-                BGImage="/images/page-banner/page-banner-1.jpg"
-            />
+            <PageBanner pageTitle="About CHORN"/>
 
             <AboutContent/>
 

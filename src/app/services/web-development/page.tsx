@@ -68,13 +68,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner
-                pageTitle="Web Development Service"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Web Development | PoC | MVP"
-                BGImage="/images/page-banner/page-banner-1.jpg"
-            />
+            <PageBanner pageTitle="Web Development Service"/>
 
             <ServicesCardFrontEnd/>
 

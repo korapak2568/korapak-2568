@@ -2,13 +2,13 @@ import {IAbout} from "@/data/about/model/IAbout";
 
 export const About2025: IAbout = {
     title: "About CHORN",
-    span: "Your Digital Transformation Partner",
+    span: "AI & Digital Transformation Partner",
     subTitle: "",
     description: [
         {
             title: "History",
             description:
-                "CHORN, founded by Khachornchit in March 2023, showcases his extensive expertise " +
+                "CHORN, founded by Khachornchit Songsaen in March 2023, showcases his extensive expertise " +
                 "in technology and software development. With a bachelor’s degree in Electrical Engineering " +
                 "and over 20 years of experience, Khachornchit has held pivotal roles, including " +
                 "Head of Engineering and Senior Technical Lead, demonstrating a deep understanding of business " +

@@ -9,13 +9,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Recommendations"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Recommendations"
-        BGImage="/images/page-banner/page-banner-4.jpg"
-      />
+      <PageBanner pageTitle="Recommendations" />
 
       <div className="ptb-100">
         <TestimonialStyleTwo />

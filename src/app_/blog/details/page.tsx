@@ -9,13 +9,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Blog Details"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Blog Details"
-        BGImage="/images/page-banner/page-banner-3.jpg"
-      />
+      <PageBanner pageTitle="Blog Details" />
 
       <BlogDetailsContent />
 

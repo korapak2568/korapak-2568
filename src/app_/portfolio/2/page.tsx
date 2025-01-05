@@ -9,13 +9,7 @@ const Page = () => {
     <>
       <Navbar />
 
-      <PageBanner
-        pageTitle="Portfolio Three Column"
-        homePageUrl="/"
-        homePageText="Home"
-        activePageText="Portfolio Three Column"
-        BGImage="/images/page-banner/page-banner-1.jpg"
-      />
+      <PageBanner pageTitle="Portfolio Three Column" />
 
       <PortfolioThreeColumn />
 
