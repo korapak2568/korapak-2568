@@ -374,3 +374,28 @@
     color: #333333 !important;
   }
 }
+
+.page-banner-area-custom::before {
+  background-color: unset !important;
+}
+
+.page-banner-area-custom {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+
+  // blue gradient #1
+  //background: rgb(28,33,84);
+  //background: linear-gradient(90deg, rgba(28,33,84,1) 0%, rgba(29,169,253,1) 35%, rgba(255,255,255,1) 100%);
+
+  // blue gradient #2
+  //background: rgb(255,255,255);
+  //background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(29,169,253,1) 50%, rgba(28,33,84,1) 100%);
+
+  background: rgb(255,255,255);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(6,199,85,1) 50%, rgba(6,199,85,1) 100%);
+
+  h2 {
+    color: white;
+  }
+}

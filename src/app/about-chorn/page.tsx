@@ -7,7 +7,7 @@ import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
 export const metadata: Metadata = {
-    title: "model Us | CHORN - Custom Software Development Experts",
+    title: "About CHORN | Custom Software Development Experts",
     description: "Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology.",
     alternates: {
         canonical: "https://chorn.in.th/about-chorn/",

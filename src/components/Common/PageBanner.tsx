@@ -19,22 +19,24 @@ const PageBanner: React.FC<PageBannerProps> = (
     }) => {
     return (
         <>
-            <div className="page-banner-area" style={{backgroundImage: `url(${BGImage})`}}>
-                <div className="d-table">
-                    <div className="d-table-cell">
-                        <div className="container">
-                            <div className="page-banner-content">
-                                <h2>{pageTitle}</h2>
-                                <ul>
-                                    <li>
-                                        <Link href={homePageUrl}>{homePageText}</Link>
-                                    </li>
-                                    <li className="active">{activePageText}</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            {/*<div className="page-banner-area" style={{backgroundImage: `url(${BGImage})`}}>*/}
+            <div className="page-banner-area page-banner-area-custom">
+                {/*<div className="d-table">*/}
+                {/*    <div className="d-table-cell">*/}
+                {/*        <div className="container">*/}
+                {/*            <div className="page-banner-content">*/}
+                <h2>{pageTitle}</h2>
+                <div className="bar"/>
+                {/*<ul>*/}
+                {/*    <li>*/}
+                {/*        <Link href={homePageUrl}>{homePageText}</Link>*/}
+                {/*    </li>*/}
+                {/*    <li className="active">{activePageText}</li>*/}
+                {/*</ul>*/}
+                {/*</div>*/}
+                {/*        </div>*/}
+                {/*    </div>*/}
+                {/*</div>*/}
             </div>
         </>
     );

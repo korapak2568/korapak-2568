@@ -8,7 +8,7 @@ const AboutContent: React.FC = () => {
 
     return (
         <>
-            <div className="about-area ptb-100">
+            <div className="about-area ptb-50">
                 <div className="container">
                     <div className="row">
                         <AboutLeft/>

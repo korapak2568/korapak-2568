@@ -6,15 +6,15 @@ export default function AboutRight() {
     return (
         <div className="col-lg-6">
             <div className="about-content warp">
-                <span>{Info.About.title}</span>
-                <h3>{Info.About.subTitle}</h3>
-                <div className="bar"></div>
+                {/*<span>{Info.About.title}</span>*/}
+                {/*<h3>{Info.About.subTitle}</h3>*/}
+                {/*<div className="bar" />*/}
 
                 {Info.About.description.map((item: IAboutContent, index: number) => (
                     <div key={index}>
-                        <h4 className={'mt-3'}>
+                        <h3 className={'mt-3'}>
                             {item.title}
-                        </h4>
+                        </h3>
                         <p>
                             {item.description}
                         </p>
@@ -26,7 +26,7 @@ export default function AboutRight() {
                         <div className="icon">
                             <i className="flaticon-check"></i>
                         </div>
-                        <h5>{item.title}</h5>
+                        <h4>{item.title}</h4>
                         <p>
                             {item.description}
                         </p>
