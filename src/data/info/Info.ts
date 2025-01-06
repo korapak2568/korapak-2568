@@ -16,9 +16,12 @@ import {Contact2025} from "@/data/contact/Contact2025";
 import {Consent2025} from "@/data/consent/Consent2025";
 import {About2025} from "@/data/about/About2025";
 import {Image} from "@/data/image/Image";
+import {AiCompanions} from "@/data/ai/AiCompanions";
 
 export const Info: IInfo = {
     Languages,
+
+    AiCompanions,
 
     Service: Service2025,
     Feature: Feature2025,

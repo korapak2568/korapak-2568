@@ -1,20 +1,23 @@
 // src/redux/serviceSlice.ts
 import {createSlice} from '@reduxjs/toolkit';
 import {ILanguage} from "@/data/language/model/ILanguage";
-import {LanguageDefault} from "@/data/language/LanguageDefault";
+import {LanguageEnglish} from "@/data/language/LanguageEnglish";
 
 export interface ServiceState {
     language: ILanguage;
 }
 
 const initialState: ServiceState = {
-    language: LanguageDefault
+    language: LanguageEnglish
 };
 
 export const serviceSlice = createSlice({
     name: 'service',
     initialState,
     reducers: {
+        // setLanguage: (state, action) => {
+        //     state.language = action.payload;
+        // },
         setLanguage: (state, action) => {
             state.language = action.payload;
         }

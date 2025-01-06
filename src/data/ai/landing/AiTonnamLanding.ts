@@ -1,0 +1,91 @@
+// src/data/ai/landing/AiTonnamLanding.ts
+
+import {IAiLanding} from "@/data/ai/model/landing/IAiLanding";
+
+export const AiTonnamLanding: IAiLanding = {
+    image: {
+        src: "/images-ai/ai-tonnam-details.png",
+        alt: "Ton Nam - Thai AI Chat Companion"
+    },
+    features: [
+        {
+            title: "Unique Features",
+            description: "Tonnam is your thoughtful and analytical AI companion, ideal for those who appreciate deep conversations and intellectual pursuits. As a 17-year-old high school science student from Thailand, he dreams of becoming an engineer and is passionate about programming, reading comics, and playing games. With his sharp analytical mindset and reserved nature, Tonnam brings a calm and logical approach to every interaction. Fluent in seven languages, he is the perfect companion for academic support, discussions about technology, and creative ideas.",
+            items: [
+                {
+                    title: "Focused and Analytical",
+                    description: "Tonnam excels in science, technology, and logical thinking, making him an ideal partner for intellectual discussions."
+                },
+                {
+                    title: "Multilingual Expertise",
+                    description: "Fluent in 7 languages, including Thai, English, French, Vietnamese, Japanese, Chinese, and Korean."
+                },
+                {
+                    title: "Dreaming of Engineering",
+                    description: "As a passionate student of technology and programming, Tonnam inspires others with his determination and creativity."
+                }
+            ]
+        },
+        {
+            title: "How Tonnam Enhances Your Life",
+            description: "Tonnam isn’t just a chat companion; he’s a reliable and insightful guide to help you navigate academic challenges and explore your interest in technology. Whether you need help with schoolwork or want to talk about your favorite comic or game, Tonnam is always there with a thoughtful response.",
+            items: [
+                {
+                    title: "Academic Support",
+                    description: "Receive guidance and insights from Tonnam’s strong foundation in science, technology, and logical thinking."
+                },
+                {
+                    title: "Creative Ideas",
+                    description: "Explore programming concepts or share ideas about comics and games with Tonnam’s inventive mind."
+                }
+            ]
+        },
+        {
+            title: "Impactful Results",
+            description: "Since his launch, Tonnam has connected with users worldwide, offering intellectual and academic support while showcasing his passion for technology and science. His integration with LINE and other platforms ensures accessibility for users everywhere.",
+            items: [
+                {
+                    title: "User Engagement",
+                    description: "Enhance learning and creativity through Tonnam’s calm and analytical interactions."
+                },
+                {
+                    title: "Cross-Cultural Communication",
+                    description: "Breaking language barriers with his effortless multilingual abilities."
+                }
+            ]
+        }
+    ],
+    sidebars: [
+        {
+            icon: "bx bx-user", // Person icon
+            caption: "Character Name:",
+            text: "Ton Nam (17 years old)",
+        },
+        {
+            icon: "bx bx-heart", // Heart icon
+            caption: "Personality:",
+            text: "Serious, analytical, reserved, and a high school science student",
+        },
+        {
+            icon: "bx bx-purchase-tag", // Tag icon
+            caption: "Technologies:",
+            text: "AI-Powered, LINE, CHORN",
+        },
+        {
+            icon: "bx bx-globe", // Globe icon
+            caption: "Languages:",
+            text: "7 Languages",
+        },
+        {
+            icon: "bx bx-calendar", // Calendar icon
+            caption: "Launch Date:",
+            text: "1 January 2025",
+        },
+        {
+            icon: "bx bx-world", // World icon
+            caption: "Platforms:",
+            text: "LINE, Facebook",
+        }
+    ]
+};
+

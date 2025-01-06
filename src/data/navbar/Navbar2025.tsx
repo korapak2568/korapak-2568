@@ -7,7 +7,12 @@ export const Navbar2025: INavbar[] = [
         link: "/",
         submenu: []
     },
-
+    {
+        group: "/ai-companions/",
+        label: "Ai Companions",
+        link: "/ai-companions/",
+        submenu: []
+    },
     {
         group: "/services/",
         label: "Services",

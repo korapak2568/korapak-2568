@@ -5,17 +5,17 @@ import Footer from "../../components/Layouts/Footer";
 import PortfolioTwoColumn from "../../components/Portfolio/PortfolioTwoColumn";
 
 const Page = () => {
-  return (
-    <>
-      <Navbar />
+    return (
+        <>
+            <Navbar/>
 
-      <PageBanner pageTitle="Portfolio Two Column" />
+            <PageBanner pageTitle="Portfolio Two Column"/>
 
-      <PortfolioTwoColumn />
+            <PortfolioTwoColumn/>
 
-      <Footer />
-    </>
-  );
+            <Footer/>
+        </>
+    );
 };
 
 export default Page;

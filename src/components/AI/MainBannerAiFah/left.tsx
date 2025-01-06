@@ -19,7 +19,7 @@ export default function Left() {
                     data-aos-delay="100"
                     data-aos-once="true"
                 >
-                    {curLanguage.ai.fah.title}
+                    {curLanguage.fah.title}
                 </h1>
 
                 <div>
@@ -46,7 +46,7 @@ export default function Left() {
                         data-aos-delay="200"
                         data-aos-once="true"
                     >
-                        {curLanguage.ai.fah.content}
+                        {curLanguage.fah.content}
                     </p>
                 </div>
 
@@ -57,9 +57,9 @@ export default function Left() {
                     data-aos-delay="300"
                     data-aos-once="true"
                 >
-                    <a href={curLanguage.ai.fah.line.link}>
+                    <a href={curLanguage.fah.line.link}>
                         <Image
-                            src={curLanguage.ai.fah.line.button}
+                            src={curLanguage.fah.line.button}
                             alt="เพิ่มเพื่อน"
                             width={120}
                             height={36}

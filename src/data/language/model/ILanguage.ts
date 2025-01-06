@@ -1,8 +1,13 @@
 import {ELanguage} from "@/data/language/enum/ELanguage";
-import {IAi} from "@/data/ai/model/IAi";
+import {IAiDetail} from "@/data/ai/model/IAiDetail";
 
 export interface ILanguage {
     label: string,
     value: ELanguage,
-    ai: IAi
+    fah: IAiDetail,
+    buakaew: IAiDetail,
+    aom: IAiDetail,
+    ploy: IAiDetail,
+    tonnam: IAiDetail,
+    milk: IAiDetail,
 }

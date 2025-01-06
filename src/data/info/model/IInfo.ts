@@ -13,9 +13,12 @@ import {IDevOps} from "@/data/devops/model/IDevOps";
 import {ICloud} from "@/data/cloud/model/ICloud";
 import {IAbout} from "@/data/about/model/IAbout";
 import {IFeature} from "@/data/feature/model/IFeature";
+import {IAiCompanions} from "@/data/ai/model/IAiCompanions";
 
 export interface IInfo {
     Languages: ILanguage[],
+
+    AiCompanions: IAiCompanions,
 
     Service: IService2025,
     Feature: IFeature,
@@ -36,5 +39,5 @@ export interface IInfo {
 
     Contact: IContact,
     Consent: IConsent,
-    Images: IImage
+    Images: IImage,
 }

@@ -1,41 +1,76 @@
 import {ILanguage} from "@/data/language/model/ILanguage";
 import {ELanguage} from "@/data/language/enum/ELanguage";
-import {AiThai} from "@/data/ai/AiThai";
-import {AiEnglish} from "@/data/ai/AiEnglish";
-import {AiChinese} from "@/data/ai/AiChinese";
-import {AiJapanese} from "@/data/ai/AiJapanese";
-import {AiKorean} from "@/data/ai/AiKorean";
-import {AiFrench} from "@/data/ai/AiFrench";
+import {AiFahThai} from "@/data/ai/companions/fah/AiFahThai";
+import {AiFahEnglish} from "@/data/ai/companions/fah/AiFahEnglish";
+import {AiFahChinese} from "@/data/ai/companions/fah/AiFahChinese";
+import {AiFahJapanese} from "@/data/ai/companions/fah/AiFahJapanese";
+import {AiFahKorean} from "@/data/ai/companions/fah/AiFahKorean";
+import {AiFahFrench} from "@/data/ai/companions/fah/AiFahFrench";
+import {AiBuakaewEnglish} from "@/data/ai/companions/buakaew/AiBuakaewEnglish";
+import {AiAomEnglish} from "@/data/ai/companions/aom/AiAomEnglish";
+import {AiPloyEnglish} from "@/data/ai/companions/ploy/AiPloyEnglish";
+import {AiTonnamEnglish} from "@/data/ai/companions/tonnam/AiTonnamEnglish";
+import {AiMilkEnglish} from "@/data/ai/companions/milk/AiMilkEnglish";
 
 export const Languages: ILanguage[] = [
     {
         label: "ไทย",
         value: ELanguage.thai,
-        ai: AiThai
+        fah: AiFahThai,
+        buakaew: AiBuakaewEnglish,
+        aom: AiAomEnglish,
+        ploy: AiPloyEnglish,
+        tonnam: AiTonnamEnglish,
+        milk: AiMilkEnglish,
     },
     {
         label: "English",
         value: ELanguage.english,
-        ai: AiEnglish
+        fah: AiFahEnglish,
+        buakaew: AiBuakaewEnglish,
+        aom: AiAomEnglish,
+        ploy: AiPloyEnglish,
+        tonnam: AiTonnamEnglish,
+        milk: AiMilkEnglish,
     },
     {
         label: "中文",
         value: ELanguage.chinese,
-        ai: AiChinese
+        fah: AiFahChinese,
+        buakaew: AiBuakaewEnglish,
+        aom: AiAomEnglish,
+        ploy: AiPloyEnglish,
+        tonnam: AiTonnamEnglish,
+        milk: AiMilkEnglish,
     },
     {
         label: "日本語",
         value: ELanguage.japan,
-        ai: AiJapanese
+        fah: AiFahJapanese,
+        buakaew: AiBuakaewEnglish,
+        aom: AiAomEnglish,
+        ploy: AiPloyEnglish,
+        tonnam: AiTonnamEnglish,
+        milk: AiMilkEnglish,
     },
     {
         label: "한국어",
         value: ELanguage.korean,
-        ai: AiKorean
+        fah: AiFahKorean,
+        buakaew: AiBuakaewEnglish,
+        aom: AiAomEnglish,
+        ploy: AiPloyEnglish,
+        tonnam: AiTonnamEnglish,
+        milk: AiMilkEnglish,
     },
     {
         label: "French",
         value: ELanguage.french,
-        ai: AiFrench
+        fah: AiFahFrench,
+        buakaew: AiBuakaewEnglish,
+        aom: AiAomEnglish,
+        ploy: AiPloyEnglish,
+        tonnam: AiTonnamEnglish,
+        milk: AiMilkEnglish,
     }
 ]
