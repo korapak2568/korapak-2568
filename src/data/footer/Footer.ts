@@ -51,6 +51,13 @@ export const Footer: IFooter = {
             iconClass: "facebook",
             ariaLabel: "Like us on Facebook"
         },
+        {
+            label: "Tiktok",
+            link: "https://tiktok.com/@chorndigital",
+            icon: "bx bxl-tiktok hover-rotate",
+            iconClass: "twitter bg-tiktok",
+            ariaLabel: "Like us on Tiktok"
+        },
     ],
     importantLinks: [
         {
@@ -109,11 +116,6 @@ export const Footer: IFooter = {
             label: "Phone",
             link: "052-000 548",
             icon: "flaticon-call hover-rotate",
-        },
-        {
-            label: "Email",
-            link: "contact@chorn.in.th",
-            icon: "flaticon-email-1 hover-rotate",
         },
         {
             label: "Address",

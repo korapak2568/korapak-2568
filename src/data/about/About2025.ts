@@ -16,8 +16,8 @@ export const About2025: IAbout = {
         {
             title: "Service",
             description:
-                "CHORN offers comprehensive, client-focused services tailored to diverse needs, including <strong>permanent roles, contract work,</strong> " +
-                "and <strong>freelance collaborations</strong>. Our value-driven approach delivers scalable solutions in technology, software development, " +
+                "CHORN offers comprehensive, client-focused services tailored to diverse needs of our clients through <strong>permanent, contract,</strong> " +
+                "and <strong>freelance</strong> models. Our value-driven approach delivers scalable solutions in technology, software development, " +
                 "cloud computing, and AI, designed to achieve measurable outcomes for businesses of all sizes."
         }
     ],

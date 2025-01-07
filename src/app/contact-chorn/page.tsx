@@ -4,7 +4,6 @@ import PageBanner from "../../components/Common/PageBanner";
 import Footer from "../../components/Layouts/Footer";
 import SubscribeForm from "../../components/Common/SubscribeForm";
 import ContactInfo from "../../components/Contact/ContactInfo";
-import ContactForm from "../../components/Contact/ContactForm";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 
@@ -47,8 +46,6 @@ export default function Page() {
             <PageBanner pageTitle="Contact CHORN"/>
 
             <ContactInfo/>
-
-            <ContactForm/>
 
             <SubscribeForm/>
 

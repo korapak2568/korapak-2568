@@ -27,10 +27,6 @@ const Navbar: React.FC = () => {
 
     // Search Modal
     const [isActiveSearchModal, setActiveSearchModal] = useState(true);
-    const handleToggleSearchModal = () => {
-        setActiveSearchModal(!isActiveSearchModal);
-    };
-
     const classOne = menu
         ? "collapse navbar-collapse"
         : "collapse navbar-collapse show";
@@ -74,19 +70,6 @@ const Navbar: React.FC = () => {
                                         <MenuItem key={index} {...menuItem} />
                                     ))}
                                 </ul>
-                            </div>
-
-                            <div className="others-options d-flex align-items-center mt-10">
-                                <div className={'mr-10'}>
-                                    <a href={Info.Contact.line.link}>
-                                        <Image
-                                            src={Info.Contact.line.iconImageLink}
-                                            alt="เพิ่มเพื่อน"
-                                            width={120}
-                                            height={36}
-                                        />
-                                    </a>
-                                </div>
                             </div>
                         </nav>
                     </div>

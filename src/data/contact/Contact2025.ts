@@ -67,15 +67,6 @@ export const Contact2025: IContact = {
         },
         {
             isLINE: false,
-            icon: "flaticon-email-1",
-            label: "Email",
-            isLink: true,
-            link: "mailto:contact@chorn.in.th",
-            linkText: "contact@chorn.in.th",
-            iconImageLink: ""
-        },
-        {
-            isLINE: false,
             icon: "flaticon-call",
             label: "052 - 000 548",
             isLink: false,
