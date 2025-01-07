@@ -10,14 +10,14 @@ export const About2025: IAbout = {
             description:
                 "CHORN, founded by Khachornchit Songsaen in March 2023, showcases his extensive expertise " +
                 "in technology and software development. With a bachelor’s degree in Electrical Engineering " +
-                "and over 20 years of experience, Khachornchit has held pivotal roles, including " +
+                "and over <strong>20 years of experience</strong>, Khachornchit has held pivotal roles, including " +
                 "Head of Engineering and Senior Technical Lead, demonstrating a deep understanding of business " +
                 "and technology integration."
         },
         {
             title: "Service",
             description:
-                "CHORN offers comprehensive services for permanent roles, contract work, and freelance " +
+                "CHORN offers comprehensive services for <strong>permanent roles, contract work,</strong> and <strong>freelance</strong> " +
                 "collaborations, delivering cutting-edge solutions in technology, software development, " +
                 "cloud computing, and ai.",
         }

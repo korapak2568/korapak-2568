@@ -6,18 +6,13 @@ export default function AboutRight() {
     return (
         <div className="col-lg-6">
             <div className="about-content warp">
-                {/*<span>{Info.About.title}</span>*/}
-                {/*<h3>{Info.About.subTitle}</h3>*/}
-                {/*<div className="bar" />*/}
-
                 {Info.About.description.map((item: IAboutContent, index: number) => (
                     <div key={index}>
                         <h3 className={'mt-3'}>
                             {item.title}
                         </h3>
-                        <p>
-                            {item.description}
-                        </p>
+
+                        <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
                     </div>
                 ))}
 
@@ -27,9 +22,8 @@ export default function AboutRight() {
                             <i className="flaticon-check"></i>
                         </div>
                         <h4>{item.title}</h4>
-                        <p>
-                            {item.description}
-                        </p>
+
+                        <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
                     </div>
                 ))}
             </div>

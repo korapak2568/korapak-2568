@@ -10,7 +10,7 @@ export const AiPloyEnglish: IAiDetail = {
             link: '/',
             image: {
                 title: 'พลอย เพื่อนคุยเอไอ',
-                path: '/images-ai/fah/nong-fah-0003.jpg',
+                path: '/images-ai/fah/fah-003.png',
             }
         },
         landing: {

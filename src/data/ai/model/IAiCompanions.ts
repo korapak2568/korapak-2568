@@ -16,6 +16,7 @@ export interface IAiCompanions {
     milk: IAiMilk,
 
     english: IAiDetail[],
+
     landing: {
         fah: IAiLanding,
         buakaew: IAiLanding,

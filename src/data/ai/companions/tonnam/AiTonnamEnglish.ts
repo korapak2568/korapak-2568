@@ -10,7 +10,7 @@ export const AiTonnamEnglish: IAiDetail = {
             link: '/',
             image: {
                 title: 'ต้นน้ำ เพื่อนคุยเอไอ',
-                path: '/images-ai/fah/nong-fah-0003.jpg',
+                path: '/images-ai/fah/fah-003.png',
             }
         },
         landing: {

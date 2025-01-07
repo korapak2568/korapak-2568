@@ -1,5 +1,5 @@
 import {ILanguage} from "@/data/language/model/ILanguage";
-import {IService2025} from "@/data/service/model/IService2025";
+import {IService} from "@/data/service/model/IService";
 import {IRecommend} from "@/data/recommend/model/IRecommend";
 import {IFooter} from "@/data/footer/model/IFooter";
 import {IBusiness} from "@/data/business/model/IBusiness";
@@ -20,7 +20,7 @@ export interface IInfo {
 
     AiCompanions: IAiCompanions,
 
-    Service: IService2025,
+    Service: IService,
     Feature: IFeature,
     About: IAbout,
     Cloud: ICloud,

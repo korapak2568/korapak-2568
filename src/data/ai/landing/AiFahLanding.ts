@@ -1,4 +1,7 @@
 import {IAiLanding} from "@/data/ai/model/landing/IAiLanding";
+import {AiBuakaewEnglish} from "@/data/ai/companions/buakaew/AiBuakaewEnglish";
+import {AiAomEnglish} from "@/data/ai/companions/aom/AiAomEnglish";
+import {AiPloyEnglish} from "@/data/ai/companions/ploy/AiPloyEnglish";
 
 export const AiFahLanding: IAiLanding = {
     image: {
@@ -80,5 +83,10 @@ export const AiFahLanding: IAiLanding = {
             caption: "Platforms:",
             text: "LINE, Facebook",
         }
-    ]
+    ],
+    relevants: [
+        AiBuakaewEnglish,
+        AiAomEnglish,
+        AiPloyEnglish
+    ],
 };

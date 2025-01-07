@@ -10,7 +10,7 @@ export const AiAomEnglish: IAiDetail = {
             link: '/',
             image: {
                 title: 'ออม เพื่อนคุยเอไอ',
-                path: '/images-ai/fah/nong-fah-0003.jpg',
+                path: '/images-ai/fah/fah-003.png',
             }
         },
         landing: {

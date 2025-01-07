@@ -23,7 +23,7 @@ export default function Left() {
                     data-aos-delay="200"
                     data-aos-once="true"
                 >
-                    {Info.Service.span}
+                    {Info.Service.description}
                 </p>
 
                 <div className="option-item addition-pt-20">

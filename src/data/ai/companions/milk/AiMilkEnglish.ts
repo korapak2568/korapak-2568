@@ -10,7 +10,7 @@ export const AiMilkEnglish: IAiDetail = {
             link: '/',
             image: {
                 title: 'มิลค์ เพื่อนคุยเอไอ',
-                path: '/images-ai/fah/nong-fah-0003.jpg',
+                path: '/images-ai/fah/fah-003.png',
             }
         },
         landing: {

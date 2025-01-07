@@ -23,9 +23,8 @@ export default function Left() {
                     data-aos-delay="200"
                     data-aos-once="true"
                     className={'mb-4'}
-                >
-                    {Info.Service.span}
-                </p>
+                    dangerouslySetInnerHTML={{__html: Info.Service.description} as { __html: string }}
+                />
 
                 <div className={'mb-4'}>
                     <a href={Info.Contact.line.link}>
