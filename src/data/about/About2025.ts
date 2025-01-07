@@ -8,45 +8,44 @@ export const About2025: IAbout = {
         {
             title: "History",
             description:
-                "CHORN, founded by Khachornchit Songsaen in March 2023, showcases his extensive expertise " +
-                "in technology and software development. With a bachelor’s degree in Electrical Engineering " +
-                "and over <strong>20 years of experience</strong>, Khachornchit has held pivotal roles, including " +
-                "Head of Engineering and Senior Technical Lead, demonstrating a deep understanding of business " +
-                "and technology integration."
+                "CHORN, founded by Khachornchit Songsaen in March 2023, reflects his extensive expertise in " +
+                "technology and software development. With a bachelor’s degree in Electrical Engineering from Chiang Mai University " +
+                "and over <strong>20 years of leadership experience</strong>, Khachornchit has consistently combined technical knowledge " +
+                "with business acumen. As a leader, he has pioneered strategic technology roadmaps that empower businesses to thrive in the digital era."
         },
         {
             title: "Service",
             description:
-                "CHORN offers comprehensive services for <strong>permanent roles, contract work,</strong> and <strong>freelance</strong> " +
-                "collaborations, delivering cutting-edge solutions in technology, software development, " +
-                "cloud computing, and ai.",
+                "CHORN offers comprehensive, client-focused services tailored to diverse needs, including <strong>permanent roles, contract work,</strong> " +
+                "and <strong>freelance collaborations</strong>. Our value-driven approach delivers scalable solutions in technology, software development, " +
+                "cloud computing, and AI, designed to achieve measurable outcomes for businesses of all sizes."
         }
     ],
     stacks: [
         {
-            title: "Ai Agent Development",
+            title: "AI Agent Development",
             description:
                 "Specializes in designing, developing, and deploying intelligent systems for real-world applications. " +
-                "Expertise includes advanced language models, conversational interfaces, and integrating " +
-                "AI-driven solutions into various platforms."
+                "Our expertise includes advanced language models, conversational interfaces, and integrating AI-driven solutions " +
+                "into various platforms, redefining innovation in AI to meet diverse business needs."
         },
         {
             title: "Web & Software Development Consulting",
             description:
                 "Experienced in custom software solutions, web UI and API development, solution architecture, " +
-                "and scalable system design."
+                "and scalable system design. We provide expert guidance to help clients build future-ready applications."
         },
         {
             title: "Custom Software Development",
             description:
-                "Modernizes legacy systems and delivers tailored software solutions, from proofs of concept (PoC) " +
-                "to MVPs and production maintenance. Leverages modern frameworks and programming languages " +
-                "to ensure scalable, high-performance, and future-ready applications."
+                "Modernizes legacy systems and delivers tailored software solutions, from proofs of concept (PoC) to MVPs " +
+                "and production maintenance. Our scalable, high-performance applications are designed to ensure client success and future growth."
         },
         {
             title: "Cutting-Edge Technologies",
-            description: "Committed to staying at the forefront of industry trends, we invest in research and development" +
-                " to ensure your website ranks high on search engines and delivers an exceptional user experience."
-        },
+            description:
+                "Committed to staying at the forefront of industry trends, CHORN invests in research and development " +
+                "to deliver exceptional user experiences and ensure your digital solutions achieve long-term impact."
+        }
     ]
-}
+};
