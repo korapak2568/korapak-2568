@@ -2,15 +2,15 @@ import {IAbout} from "@/data/about/model/IAbout";
 
 export const About2025: IAbout = {
     title: "About CHORN",
-    span: "AI & Digital Transformation Partner",
+    span: "AI Agents & Software Development",
     subTitle: "",
     description: [
         {
             title: "History",
             description:
-                "CHORN, founded by Khachornchit Songsaen in March 2023, reflects his extensive expertise in " +
-                "technology and software development. With a bachelor’s degree in Electrical Engineering from Chiang Mai University " +
-                "and over <strong>20 years of leadership experience</strong>, Khachornchit has consistently combined technical knowledge " +
+                "CHORN, founded by Khachornchit in March 2023, reflects his extensive expertise in " +
+                "technology and software development, leveraging his Electrical Engineering foundation from Chiang Mai University. " +
+                "With over two decades of leadership experience, Khachornchit has consistently combined technical knowledge " +
                 "with business acumen. As a leader, he has pioneered strategic technology roadmaps that empower businesses to thrive in the digital era."
         },
         {
@@ -36,7 +36,7 @@ export const About2025: IAbout = {
                 "and scalable system design. We provide expert guidance to help clients build future-ready applications."
         },
         {
-            title: "Custom Software Development",
+            title: "AI Agents & Software Development",
             description:
                 "Modernizes legacy systems and delivers tailored software solutions, from proofs of concept (PoC) to MVPs " +
                 "and production maintenance. Our scalable, high-performance applications are designed to ensure client success and future growth."

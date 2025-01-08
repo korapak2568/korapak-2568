@@ -2,7 +2,7 @@ import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const Business2025: IBusiness = {
     span: "CHORN Work For Industries",
-    title: "Helping Businesses in All Domains",
+    title: "Helping Businesses Domains",
     domains: [
         {
             label: "Digital Marketing",
