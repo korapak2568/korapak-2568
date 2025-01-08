@@ -37,7 +37,7 @@ export const About2025: IAbout = {
                 "and scalable system design. We provide expert guidance to help clients build future-ready applications."
         },
         {
-            title: "AI Agents & Software Development",
+            title: "Custom Software Development",
             description:
                 "Modernizes legacy systems and delivers tailored software solutions, from proofs of concept (PoC) to MVPs " +
                 "and production maintenance. Our scalable, high-performance applications are designed to ensure client success and future growth."
