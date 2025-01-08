@@ -15,12 +15,12 @@ export const Footer: IFooter = {
         link: "/terms-of-service"
     },
     privacyPolicy: {
-        label: "Privacy model",
-        link: "/privacy-model"
+        label: "Privacy Policy",
+        link: "/privacy-policy"
     },
     workplacePolicy: {
-        label: "Workplace model",
-        link: "/workplace-model"
+        label: "Workplace Policy",
+        link: "/workplace-policy"
     },
     socialLinks: [
         {

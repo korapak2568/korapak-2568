@@ -18,7 +18,8 @@ export const About2025: IAbout = {
             description:
                 "CHORN offers comprehensive, client-focused services tailored to diverse needs of our clients through <strong>permanent, contract,</strong> " +
                 "and <strong>freelance</strong> models. Our value-driven approach delivers scalable solutions in technology, software development, " +
-                "cloud computing, and AI, designed to achieve measurable outcomes for businesses of all sizes."
+                "cloud computing, and AI, designed to achieve measurable outcomes for businesses of all sizes. " +
+                "We embrace diverse work models, including <strong>remote, office, and hybrid</strong> setups, ensuring flexibility and collaboration tailored to project and client needs."
         }
     ],
     stacks: [

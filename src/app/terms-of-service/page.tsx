@@ -20,8 +20,8 @@ export default function TermsOfService() {
                         {Info.TermOfService.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
                                 <h3>{item.title}</h3>
-                                <p>{item.description}</p>
-                                <p>{item.expand}</p>
+                                <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
+                                <p dangerouslySetInnerHTML={{__html: item.expand} as { __html: string }}/>
                             </div>
                         ))}
                     </div>

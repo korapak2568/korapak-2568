@@ -22,7 +22,7 @@ export default function Page() {
                         {Info.WorkplacePolicy.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
                                 <h3>{item.title}</h3>
-                                <p>{item.description}</p>
+                                <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
                             </div>
                         ))}
                     </div>
