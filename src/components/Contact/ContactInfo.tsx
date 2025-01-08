@@ -31,7 +31,7 @@ const ContactInfo: React.FC = () => {
                         ))}
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box contact-info-box-custom">
+                            <div className="contact-info-box contact-info-box-custom add-friend">
                                 <div className="icon hover-rotate">
                                     <a href={Info.Contact.line.link} target={'_blank'}>
                                         <Image
@@ -42,7 +42,6 @@ const ContactInfo: React.FC = () => {
                                         />
                                     </a>
                                 </div>
-                                <h3>LINE</h3>
                                 <p>
                                     <a href={Info.Contact.line.link} target={'_blank'}>
                                         <Image
