@@ -53,8 +53,8 @@ const ConsentModal = () => {
                                     <div className="add-cookie-left">
                                         <Image
                                             className="logo"
-                                            src={Info.Images.logo.circleSm.path}
-                                            alt={Info.Images.logo.circleSm.title}
+                                            src={Info.Images.logo.sm.path}
+                                            alt={Info.Images.logo.sm.title}
                                             width={50}
                                             height={50}
                                         />

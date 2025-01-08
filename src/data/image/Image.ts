@@ -2,63 +2,37 @@ import {IImage} from "@/data/image/model/IImage";
 
 export const Image: IImage = {
     logo: {
-        circleLg: {
+        lg: {
             title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-circle-lg.webp"
+            path: "/chorn-images/logo-2025/chorn-logo-2025-circle-lg.png"
         },
-        circleMd: {
+        md: {
             title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-circle-md.webp"
+            path: "/chorn-images/logo-2025/chorn-logo-2025-circle-md.png"
         },
-        circleSm: {
+        sm: {
             title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-circle-sm.webp"
+            path: "/chorn-images/logo-2025/chorn-logo-2025-circle-sm.png"
         },
         business: {
             title: "CHORN",
-            path: "/chorn-images/logo/chorn-logo-circle-md.webp"
+            path: "/chorn-images/logo-2025/chorn-logo-2025-circle-md.png"
         },
-        light: {
-            rec: {
-                sm: {
-                    title: "CHORN",
-                    path: "/chorn-images/logo/light/chorn-logo-rec-sm.webp"
-                },
-                lg: {
-                    title: "CHORN",
-                    path: "/chorn-images/logo/light/chorn-logo-rec-lg.webp"
-                },
-            }
+        rec: {
+            sm: {
+                title: "CHORN",
+                path: "/chorn-images/logo-2025/chorn-logo-2025-rec-sm.png"
+            },
+            lg: {
+                title: "CHORN",
+                path: "/chorn-images/logo-2025/chorn-logo-2025-rec-lg.png"
+            },
         },
-        darker: {
-            rec: {
-                sm: {
-                    title: "CHORN",
-                    path: "/chorn-images/logo/darker/chorn-logo-rec-sm.webp"
-                },
-                lg: {
-                    title: "CHORN",
-                    path: "/chorn-images/logo/darker/chorn-logo-rec-lg.webp"
-                },
-            }
-        },
-        gold: {
-            rec: {
-                sm: {
-                    title: "CHORN",
-                    path: "/chorn-images/logo/gold/chorn-logo-gold-rec-sm.webp"
-                },
-                lg: {
-                    title: "CHORN",
-                    path: "/chorn-images/logo/gold/chorn-logo-gold-rec-lg.webp"
-                },
-            }
-        }
     },
     home: {
         mainBanner: {
             title: "CHORN",
-            path: "/chorn-images/metadata/home.webp"
+            path: "/chorn-images/metadata/home.png"
         }
     },
     banner: {

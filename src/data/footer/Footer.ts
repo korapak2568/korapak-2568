@@ -113,11 +113,6 @@ export const Footer: IFooter = {
     ],
     infoLinks: [
         {
-            label: "Phone",
-            link: "052-000 548",
-            icon: "flaticon-call hover-rotate",
-        },
-        {
             label: "Address",
             link: "Chiang Mai, Thailand",
             icon: "flaticon-pin hover-rotate",

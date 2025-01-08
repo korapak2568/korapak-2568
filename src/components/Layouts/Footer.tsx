@@ -16,11 +16,11 @@ const Footer: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-footer-widget">
-                                <div className="logo">
+                                <div className="logo logo-bg-custom">
                                     <Link href="/">
                                         <Image
-                                            src={Info.Images.logo.circleMd.path}
-                                            alt={Info.Images.logo.circleMd.title}
+                                            src={Info.Images.logo.md.path}
+                                            alt={Info.Images.logo.md.title}
                                             width={100}
                                             height={100}
                                         />
@@ -57,20 +57,6 @@ const Footer: React.FC = () => {
                                             </svg>
                                         </a>
                                     </li>
-                                    {/*<li>*/}
-                                    {/*    <Link*/}
-                                    {/*        href={Info.Images.line.icon.link}*/}
-                                    {/*        target="_blank"*/}
-                                    {/*        rel="noopener noreferrer">*/}
-                                    {/*        <Image*/}
-                                    {/*            className="addition-footer-line hover-rotate"*/}
-                                    {/*            src={Info.Images.line.icon.path}*/}
-                                    {/*            alt={Info.Images.line.icon.title}*/}
-                                    {/*            width={40}*/}
-                                    {/*            height={40}*/}
-                                    {/*        />*/}
-                                    {/*    </Link>*/}
-                                    {/*</li>*/}
                                 </ul>
                             </div>
                         </div>
@@ -114,22 +100,18 @@ const Footer: React.FC = () => {
                                 <h3>{Info.Footer.infoTitle}</h3>
 
                                 <ul className="footer-contact-info">
-                                    <li>
-                                        <i className="flaticon-call hover-rotate"></i>
-                                        <span>{Info.Footer.infoLinks[0].link}</span>
-                                        <p>Mon-Fri: 08:30 - 17:30</p>
-                                    </li>
-
-                                    <li>
-                                        <i className="flaticon-pin hover-rotate"></i>
-                                        <span>{Info.Footer.infoLinks[1].label}</span>
-                                        <a
-                                            href="https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu"
-                                            target="_blank"
-                                        >
-                                            {Info.Footer.infoLinks[1].link}
-                                        </a>
-                                    </li>
+                                    {Info.Footer.infoLinks.map((item: IFooterDetail, index: number) => (
+                                        <li key={index}>
+                                            <i className="flaticon-pin hover-rotate"></i>
+                                            <span>{item.label}</span>
+                                            <a
+                                                href="https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu"
+                                                target="_blank"
+                                            >
+                                                {item.link}
+                                            </a>
+                                        </li>
+                                    ))}
                                 </ul>
 
                                 <div className={'footer-line-information'}>

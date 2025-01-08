@@ -3,27 +3,13 @@ import {IImageLink} from "@/data/image/model/IImageLink";
 
 export interface IImage {
     logo: {
-        circleLg: IImageDetail,
-        circleMd: IImageDetail,
-        circleSm: IImageDetail,
+        lg: IImageDetail,
+        md: IImageDetail,
+        sm: IImageDetail,
         business: IImageDetail,
-        light: {
-            rec: {
-                sm: IImageDetail,
-                lg: IImageDetail,
-            }
-        },
-        darker: {
-            rec: {
-                sm: IImageDetail,
-                lg: IImageDetail,
-            }
-        },
-        gold: {
-            rec: {
-                sm: IImageDetail,
-                lg: IImageDetail,
-            }
+        rec: {
+            sm: IImageDetail,
+            lg: IImageDetail,
         }
     },
     home: {

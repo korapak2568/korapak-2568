@@ -42,13 +42,9 @@ export default function Page() {
     return (
         <>
             <Navbar/>
-
             <PageBanner pageTitle="Contact CHORN"/>
-
             <ContactInfo/>
-
             <SubscribeForm/>
-
             <Footer/>
 
             <SchemaMarkupServicePage

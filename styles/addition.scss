@@ -57,10 +57,6 @@
 
 .contact-info-box-custom {
   height: 220px;
-
-  img {
-    padding-top: 40px;
-  }
 }
 
 .addition-img-icon {
@@ -505,4 +501,14 @@
 
 .bg-tiktok {
   background-color: black !important;
+}
+
+.logo-bg-custom {
+  // light to green
+  //background: rgb(255, 255, 255);
+  //background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(6, 199, 85, 1) 50%, rgba(6, 199, 85, 1) 100%);
+
+  // green to light
+  background: rgb(0,185,0);
+  background: linear-gradient(90deg, rgba(0,185,0,1) 0%, rgba(0,185,0,1) 50%, rgba(255,255,255,1) 100%);
 }
