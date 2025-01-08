@@ -7,7 +7,7 @@ import {Info} from "@/data/info/Info";
 import {IFooterDetail} from "@/data/footer/model/IFooterDetail";
 
 const Footer: React.FC = () => {
-    const currentYear = new Date().getFullYear();
+    const year = new Date().getFullYear();
 
     return (
         <>
@@ -137,9 +137,7 @@ const Footer: React.FC = () => {
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-6">
                                 <p>
-                                    Copyright &copy; {currentYear} {Info.Footer.title}.
-                                    All Rights Reserved
-                                    by{" "}
+                                    Copyright &copy; {year}. All Rights Reserved by{" "}
                                     <a href={Info.Footer.link} target="_blank">
                                         {Info.Footer.title}
                                     </a>
