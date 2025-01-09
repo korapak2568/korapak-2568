@@ -113,6 +113,16 @@ export const Footer: IFooter = {
     ],
     infoLinks: [
         {
+            label: "Work Models",
+            link: "Remote, Office, Hybrid",
+            icon: "flaticon-speed hover-rotate", // Represents work or career
+        },
+        {
+            label: "Service Models",
+            link: "Permanent, Contract, Freelance",
+            icon: "flaticon-connection hover-rotate", // Represents flexibility and service customization
+        },
+        {
             label: "Address",
             link: "Chiang Mai, Thailand",
             icon: "flaticon-pin hover-rotate",

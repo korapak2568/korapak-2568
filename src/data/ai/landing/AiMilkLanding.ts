@@ -72,7 +72,7 @@ export const AiMilkLanding: IAiLanding = {
         {
             icon: "bx bx-purchase-tag", // Tag icon
             caption: "Technologies:",
-            text: "AI-Powered, LINE, CHORN",
+            text: "AI-Powered, LINE",
         },
         {
             icon: "bx bx-globe", // Globe icon

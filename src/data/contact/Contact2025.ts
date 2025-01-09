@@ -2,16 +2,14 @@ import {IContact} from "@/data/contact/model/IContact";
 
 export const Contact2025: IContact = {
     location: {
-        isLINE: false,
-        icon: "flaticon-email-1",
-        label: "Email",
+        icon: "flaticon-pin",
+        label: "Location",
         isLink: true,
-        link: "mailto:contact@chorn.in.th",
-        linkText: "contact@chorn.in.th",
+        link: "https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu",
+        linkText: "Chiang Mai, Thailand",
         iconImageLink: ""
     },
     email: {
-        isLINE: false,
         icon: "flaticon-email-1",
         label: "Email",
         isLink: true,
@@ -20,7 +18,6 @@ export const Contact2025: IContact = {
         iconImageLink: ""
     },
     tel: {
-        isLINE: false,
         icon: "flaticon-call",
         label: "052 - 000 548",
         isLink: false,
@@ -29,7 +26,6 @@ export const Contact2025: IContact = {
         iconImageLink: ""
     },
     github: {
-        isLINE: false,
         icon: "bx bxl-github",
         label: "GitHub",
         isLink: true,
@@ -38,7 +34,6 @@ export const Contact2025: IContact = {
         iconImageLink: ""
     },
     linkedin: {
-        isLINE: false,
         icon: "bx bxl-linkedin",
         label: "LinkedIn",
         isLink: true,
@@ -47,7 +42,6 @@ export const Contact2025: IContact = {
         iconImageLink: ""
     },
     line: {
-        isLINE: true,
         icon: "",
         label: "LINE",
         isLink: true,
@@ -57,12 +51,19 @@ export const Contact2025: IContact = {
     },
     contacts: [
         {
-            isLINE: false,
-            icon: "flaticon-pin",
-            label: "Location",
-            isLink: true,
-            link: "https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu",
-            linkText: "Chiang Mai, Thailand",
+            icon: "flaticon-speed",
+            label: "Work Models",
+            isLink: false,
+            link: "",
+            linkText: "Remote, Office, Hybrid",
+            iconImageLink: ""
+        },
+        {
+            icon: "flaticon-network",
+            label: "Service Models",
+            isLink: false,
+            link: "",
+            linkText: "Permanent, Contract, Freelance",
             iconImageLink: ""
         }
     ]
