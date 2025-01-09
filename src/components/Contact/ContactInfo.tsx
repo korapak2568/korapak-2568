@@ -3,7 +3,8 @@
 import React from "react";
 import {IContactDetail} from "@/data/contact/model/IContactDetail";
 import {Info} from "@/data/info/Info";
-import LineContact from "@/components/Contact/LineContact/Index";
+import ChornContact from "@/components/Contact/CustomContact/ChornContact";
+import LineContact from "@/components/Contact/CustomContact/LineOAContact";
 
 const ContactInfo: React.FC = () => {
 
@@ -12,6 +13,7 @@ const ContactInfo: React.FC = () => {
             <div className="contact-info-area pt-4 pb-70">
                 <div className="container">
                     <div className="row justify-content-center">
+                        <ChornContact/>
 
                         {Info.Contact.contacts.map((item: IContactDetail, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6 col-sm-6">

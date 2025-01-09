@@ -10,6 +10,9 @@ export interface IImage {
         rec: {
             sm: IImageDetail,
             lg: IImageDetail,
+        },
+        line: {
+            sm: IImageDetail,
         }
     },
     home: {

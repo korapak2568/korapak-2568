@@ -28,6 +28,12 @@ export const Image: IImage = {
                 path: "/chorn-images/logo-2025/chorn-logo-2025-rec-lg.png"
             },
         },
+        line: {
+            sm: {
+                title: "LINE OA",
+                path: "/chorn-images/line/com.linecorp.lineoa.icon_.png"
+            },
+        }
     },
     home: {
         mainBanner: {

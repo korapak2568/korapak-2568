@@ -41,7 +41,15 @@ export const Contact2025: IContact = {
         linkText: "CHORN LinkedIn",
         iconImageLink: ""
     },
-    line: {
+    lineoa: {
+        icon: "",
+        label: "Line OA",
+        isLink: false,
+        link: "",
+        linkText: "Line OA Development",
+        iconImageLink: ""
+    },
+    chorn: {
         icon: "",
         label: "LINE",
         isLink: true,
@@ -59,7 +67,7 @@ export const Contact2025: IContact = {
             iconImageLink: ""
         },
         {
-            icon: "flaticon-network",
+            icon: "flaticon-connection",
             label: "Service Models",
             isLink: false,
             link: "",
@@ -67,7 +75,7 @@ export const Contact2025: IContact = {
             iconImageLink: ""
         },
         {
-            icon: "flaticon-network",
+            icon: "flaticon-technical-support",
             label: "Ai Agents",
             isLink: false,
             link: "",
@@ -75,7 +83,7 @@ export const Contact2025: IContact = {
             iconImageLink: ""
         },
         {
-            icon: "flaticon-network",
+            icon: "flaticon-code",
             label: "Web & Mobile",
             isLink: false,
             link: "",
@@ -84,11 +92,27 @@ export const Contact2025: IContact = {
         },
         {
             icon: "flaticon-network",
-            label: "LINE OA",
+            label: "System Integration",
             isLink: false,
             link: "",
-            linkText: "LINE OA Development",
+            linkText: "System Integration",
             iconImageLink: ""
-        }
+        },
+        {
+            icon: "flaticon-check-mark",
+            label: "Testing",
+            isLink: false,
+            link: "",
+            linkText: "Testing & Automation",
+            iconImageLink: ""
+        },
+        {
+            icon: "flaticon-analysis",
+            label: "System Enhancement",
+            isLink: false,
+            link: "",
+            linkText: "System Upgrade",
+            iconImageLink: ""
+        },
     ]
 }

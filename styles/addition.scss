@@ -51,19 +51,22 @@
 }
 
 // Contact
-.addition-contact-info-box {
-  height: 28vh;
-}
 
 .contact-info-box-custom {
-  height: 220px;
-}
+  height: 180px;
+  padding: 10px;
+  margin-bottom: 10px;
 
-.add-friend {
-  padding-top: 45px;
-
-  .icon {
+  .icon-line-oa {
     background-color: transparent !important;
+    width: 70px;
+    margin-bottom: 20px;
+  }
+
+  .icon-chorn {
+    background-color: transparent !important;
+    width: 100px;
+    margin-bottom: 40px;
   }
 }
 

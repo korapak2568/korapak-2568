@@ -115,9 +115,9 @@ const Footer: React.FC = () => {
                                 </ul>
 
                                 <div className={'footer-line-information'}>
-                                    <a href={Info.Contact.line.link} target={'_blank'}>
+                                    <a href={Info.Contact.chorn.link} target={'_blank'}>
                                         <Image
-                                            src={Info.Contact.line.iconImageLink}
+                                            src={Info.Contact.chorn.iconImageLink}
                                             alt="เพิ่มเพื่อน"
                                             width={120}
                                             height={36}

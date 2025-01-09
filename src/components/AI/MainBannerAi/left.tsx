@@ -27,9 +27,9 @@ export default function Left() {
                 />
 
                 <div className={'mb-4'}>
-                    <a href={Info.Contact.line.link}>
+                    <a href={Info.Contact.chorn.link}>
                         <Image
-                            src={Info.Contact.line.iconImageLink}
+                            src={Info.Contact.chorn.iconImageLink}
                             alt="เพิ่มเพื่อน"
                             width={120}
                             height={36}
