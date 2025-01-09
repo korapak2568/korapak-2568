@@ -65,6 +65,30 @@ export const Contact2025: IContact = {
             link: "",
             linkText: "Permanent, Contract, Freelance",
             iconImageLink: ""
+        },
+        {
+            icon: "flaticon-network",
+            label: "Ai Agents",
+            isLink: false,
+            link: "",
+            linkText: "Ai Agent Development",
+            iconImageLink: ""
+        },
+        {
+            icon: "flaticon-network",
+            label: "Web & Mobile",
+            isLink: false,
+            link: "",
+            linkText: "Web & Mobile Development",
+            iconImageLink: ""
+        },
+        {
+            icon: "flaticon-network",
+            label: "LINE OA",
+            isLink: false,
+            link: "",
+            linkText: "LINE OA Development",
+            iconImageLink: ""
         }
     ]
 }

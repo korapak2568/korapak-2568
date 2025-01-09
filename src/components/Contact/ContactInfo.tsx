@@ -3,15 +3,16 @@
 import React from "react";
 import {IContactDetail} from "@/data/contact/model/IContactDetail";
 import {Info} from "@/data/info/Info";
-import Image from "next/image";
+import LineContact from "@/components/Contact/LineContact/Index";
 
 const ContactInfo: React.FC = () => {
 
     return (
         <>
-            <div className="contact-info-area pt-100 pb-70">
+            <div className="contact-info-area pt-4 pb-70">
                 <div className="container">
                     <div className="row justify-content-center">
+
                         {Info.Contact.contacts.map((item: IContactDetail, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="contact-info-box contact-info-box-custom">
@@ -30,30 +31,7 @@ const ContactInfo: React.FC = () => {
                             </div>
                         ))}
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="contact-info-box contact-info-box-custom add-friend">
-                                <div className="icon hover-rotate">
-                                    <a href={Info.Contact.line.link} target={'_blank'}>
-                                        <Image
-                                            src={Info.Images.logo.sm.path}
-                                            alt="เพิ่มเพื่อน"
-                                            width={120}
-                                            height={120}
-                                        />
-                                    </a>
-                                </div>
-                                <p>
-                                    <a href={Info.Contact.line.link} target={'_blank'}>
-                                        <Image
-                                            src={Info.Contact.line.iconImageLink}
-                                            alt="เพิ่มเพื่อน"
-                                            width={120}
-                                            height={36}
-                                        />
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
+                        <LineContact/>
                     </div>
                 </div>
             </div>
