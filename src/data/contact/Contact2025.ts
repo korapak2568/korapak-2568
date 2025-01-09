@@ -59,22 +59,6 @@ export const Contact2025: IContact = {
     },
     contacts: [
         {
-            icon: "flaticon-speed",
-            label: "Work Models",
-            isLink: false,
-            link: "",
-            linkText: "Remote, Office, Hybrid",
-            iconImageLink: ""
-        },
-        {
-            icon: "flaticon-connection",
-            label: "Service Models",
-            isLink: false,
-            link: "",
-            linkText: "Permanent, Contract, Freelance",
-            iconImageLink: ""
-        },
-        {
             icon: "flaticon-technical-support",
             label: "Ai Agents",
             isLink: false,
@@ -104,14 +88,6 @@ export const Contact2025: IContact = {
             isLink: false,
             link: "",
             linkText: "Testing & Automation",
-            iconImageLink: ""
-        },
-        {
-            icon: "flaticon-analysis",
-            label: "System Enhancement",
-            isLink: false,
-            link: "",
-            linkText: "System Upgrade",
             iconImageLink: ""
         },
     ]
