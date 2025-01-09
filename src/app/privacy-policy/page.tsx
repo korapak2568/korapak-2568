@@ -22,15 +22,19 @@ export default function Page() {
                         {Info.PrivacyPolicy.list.map((item: IPolicyContent, iItem: number) => (
                             <div key={iItem} className="addition-ptb-20">
                                 <h3>{item.title}</h3>
-                                <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
+
+                                {item.description != undefined && (
+                                    <p dangerouslySetInnerHTML={{__html: item.description}}/>
+                                )}
 
                                 {item.isDetailed &&
                                     item.details?.map((detail: IPolicyContent, iDetail) => (
                                         <div key={iDetail} className="addition-ptb-20">
                                             <h4>{detail.title}</h4>
-                                            <p dangerouslySetInnerHTML={{__html: detail.description} as {
-                                                __html: string
-                                            }}/>
+
+                                            {item.description != undefined && (
+                                                <p dangerouslySetInnerHTML={{__html: item.description}}/>
+                                            )}
                                         </div>
                                     ))
                                 }

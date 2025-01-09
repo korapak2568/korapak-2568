@@ -12,7 +12,7 @@ export default function TermsOfService() {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Terms Of Service" />
+            <PageBanner pageTitle="Terms Of Service"/>
 
             <div className="terms-of-service-area ptb-100">
                 <div className="container">
@@ -20,8 +20,14 @@ export default function TermsOfService() {
                         {Info.TermOfService.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
                                 <h3>{item.title}</h3>
-                                <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
-                                <p dangerouslySetInnerHTML={{__html: item.expand} as { __html: string }}/>
+
+                                {item.description != undefined && (
+                                    <p dangerouslySetInnerHTML={{__html: item.description}}/>
+                                )}
+
+                                {item.expand != undefined && (
+                                    <p dangerouslySetInnerHTML={{__html: item.expand}}/>
+                                )}
                             </div>
                         ))}
                     </div>

@@ -12,7 +12,9 @@ export default function AboutRight() {
                             {item.title}
                         </h3>
 
-                        <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
+                        {item.description != undefined && (
+                            <p dangerouslySetInnerHTML={{__html: item.description}}/>
+                        )}
                     </div>
                 ))}
 
@@ -23,7 +25,9 @@ export default function AboutRight() {
                         </div>
                         <h4>{item.title}</h4>
 
-                        <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
+                        {item.description != undefined && (
+                            <p dangerouslySetInnerHTML={{__html: item.description}}/>
+                        )}
                     </div>
                 ))}
             </div>

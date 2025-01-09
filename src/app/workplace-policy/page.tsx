@@ -14,7 +14,7 @@ export default function Page() {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.WorkplacePolicy.title} />
+            <PageBanner pageTitle={Info.WorkplacePolicy.title}/>
 
             <div className="privacy-policy-area ptb-100">
                 <div className="container">
@@ -22,7 +22,10 @@ export default function Page() {
                         {Info.WorkplacePolicy.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
                                 <h3>{item.title}</h3>
-                                <p dangerouslySetInnerHTML={{__html: item.description} as { __html: string }}/>
+
+                                {item.description != undefined && (
+                                    <p dangerouslySetInnerHTML={{__html: item.description}}/>
+                                )}
                             </div>
                         ))}
                     </div>
