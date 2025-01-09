@@ -10,10 +10,9 @@ const ContactInfo: React.FC = () => {
 
     return (
         <>
-            <div className="contact-info-area pt-4 pb-70">
+            <div className="contact-info-area ptb-100">
                 <div className="container">
                     <div className="row justify-content-center">
-                        <ChornContact/>
 
                         {Info.Contact.contacts.map((item: IContactDetail, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6 col-sm-6">
@@ -33,7 +32,7 @@ const ContactInfo: React.FC = () => {
                             </div>
                         ))}
 
-                        <LineContact/>
+                        <ChornContact/>
                     </div>
                 </div>
             </div>
