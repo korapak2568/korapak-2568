@@ -4,7 +4,6 @@ import React from "react";
 import {IContactDetail} from "@/data/contact/model/IContactDetail";
 import {Info} from "@/data/info/Info";
 import ChornContact from "@/components/Contact/CustomContact/ChornContact";
-import LineContact from "@/components/Contact/CustomContact/LineOAContact";
 
 const ContactInfo: React.FC = () => {
 
