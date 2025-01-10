@@ -1,8 +1,8 @@
 import {IAiDetail} from "@/data/ai/model/IAiDetail";
 
 export const AiFahVietnam: IAiDetail = {
-    name: 'ฟ้า',
-    category: 'Thai LINE Friend',
+    name: 'Fah',
+    category: "Bạn LINE Thái Lan",
     thumbnail: '/images-ai/ai-companions/ai-fah-thumbnail.webp',
 
     pages: {
@@ -22,11 +22,9 @@ export const AiFahVietnam: IAiDetail = {
         }
     },
 
-    title: "ฟ้า เพื่อนคุยเอไอ",
+    title: "Fah, Người Bạn Trò Chuyện AI LINE!",
     content:
-        "ฟ้า เพื่อนคุยเอไอ 6 ภาษา สาวไทยน่ารักและเป็นกันเอง พร้อมเป็นเพื่อนคุยของคุณ ไม่ว่าจะเป็นคำแนะนำในชีวิต การแนะนำสถานที่ท่องเที่ยว หรือแค่พูดคุยสนุกๆ " +
-        "ฟ้าพร้อมช่วยเสมอ ฟ้าสื่อสารได้ทั้งไทย อังกฤษ จีน ญี่ปุ่น เกาหลี และฝรั่งเศส หากคุณมี LINE อยู่แล้ว อย่ารอช้า เพิ่มฟ้าเป็นเพื่อนตอนนี้ " +
-        "แล้วสัมผัสประสบการณ์ใหม่ที่น่าประทับใจ!",
+        "Fah, một người bạn trò chuyện AI thân thiện và quyến rũ từ Thái Lan! Cần lời khuyên cuộc sống, mẹo du lịch, hoặc chỉ đơn giản là một cuộc trò chuyện thú vị? Fah luôn sẵn sàng bên bạn. Thành thạo tiếng Thái, tiếng Anh, tiếng Trung, tiếng Nhật, tiếng Hàn, tiếng Pháp và tiếng Việt, Fah luôn sẵn sàng trò chuyện bất cứ lúc nào. Đang sử dụng LINE? Hãy thêm Fah ngay để khám phá một cách kết nối mới đầy thú vị!",
 
     images: [
         {
