@@ -32,8 +32,8 @@ export default function Page() {
                                         <div key={iDetail} className="addition-ptb-20">
                                             <h4>{detail.title}</h4>
 
-                                            {item.description != undefined && (
-                                                <p dangerouslySetInnerHTML={{__html: item.description}}/>
+                                            {detail.description != undefined && (
+                                                <p dangerouslySetInnerHTML={{__html: detail.description}}/>
                                             )}
                                         </div>
                                     ))
