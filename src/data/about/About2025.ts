@@ -23,29 +23,25 @@ export const About2025: IAbout = {
     ],
     stacks: [
         {
-            title: "AI Agent Development",
+            title: "AI Agents Development",
             description:
                 "Specializes in designing, developing, and deploying intelligent systems for real-world applications. " +
                 "Our expertise includes advanced language models, conversational interfaces, and integrating AI-driven solutions " +
                 "into various platforms, redefining innovation in AI to meet diverse business needs."
         },
         {
-            title: "Web & Software Development Consulting",
+            title: "AI Integration Consulting",
             description:
-                "Experienced in custom software solutions, web UI and API development, solution architecture, " +
-                "and scalable system design. We provide expert guidance to help clients build future-ready applications."
+                "Provides expert guidance on integrating cutting-edge AI technologies into existing systems to support rapid " +
+                "technological advancements. We help businesses leverage AI to optimize operations, improve scalability, " +
+                "and achieve long-term innovation."
         },
         {
             title: "Custom Software Development",
             description:
-                "Modernizes legacy systems and delivers tailored software solutions, from proofs of concept (PoC) to MVPs " +
-                "and production maintenance. Our scalable, high-performance applications are designed to ensure client success and future growth."
-        },
-        {
-            title: "Cutting-Edge Technologies",
-            description:
-                "Committed to staying at the forefront of industry trends, CHORN invests in research and development " +
-                "to deliver exceptional user experiences and ensure your digital solutions achieve long-term impact."
+                "Modernizes legacy systems and delivers tailored software solutions for Web, API, LINE OA, and Mobile platforms. " +
+                "From proofs of concept (PoC) to MVPs and production maintenance, we build scalable, high-performance applications " +
+                "designed to meet diverse client needs and support future growth."
         }
     ]
 };
