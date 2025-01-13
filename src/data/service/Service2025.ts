@@ -1,6 +1,6 @@
-import {IService} from "./model/IService";
+import { IService } from "./model/IService";
 
 export const Service2025: IService = {
-    title: "Ai Agents & Software Development",
-    description: "CHORN specializes in <strong>AI-powered</strong> companion services via LINE and advanced AI agent development. We deliver intelligent, responsive solutions tailored to your needs, ranging from scalable websites and mobile apps to full-stack software systems. Our innovative technologies enhance your digital presence and streamline operational efficiency.",
+    title: "AI Agents & Software Development",
+    description: "CHORN specializes in advanced AI agent development, delivering intelligent, responsive solutions tailored to meet specific needs. Expertise includes scalable websites, mobile applications, and full-stack software systems. The <strong>AI-powered</strong> companion services via LINE demonstrate the capabilities of these technologies, showcasing innovative approaches to enhancing digital presence and streamlining operational efficiency.",
 };
