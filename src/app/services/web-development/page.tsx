@@ -8,6 +8,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesCardFullStack from "@/components/Services/fullstack-development/ServicesCardFullStack";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import ServiceCardWebDevelopment from "@/components/Services/WebDevelopment/ServicesCardWebDevelopment";
 
 export const metadata: Metadata = {
     title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
@@ -70,9 +71,7 @@ const Page = () => {
 
             <PageBanner pageTitle="Web Development Service"/>
 
-            <ServicesCardFrontEnd/>
-
-            <ServicesCardFullStack/>
+            <ServiceCardWebDevelopment/>
 
             <CloudExperience/>
 

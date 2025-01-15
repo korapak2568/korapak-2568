@@ -6,7 +6,7 @@ import Image from "next/image";
 import {Info} from "@/data/info/Info";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 
-const ServicesCardFrontEnd: React.FC = () => {
+const ServiceCardWebDevelopment: React.FC = () => {
 
     return (
         <>
@@ -20,8 +20,13 @@ const ServicesCardFrontEnd: React.FC = () => {
                                 <p key={index}>{item}</p>
                             ))}
 
+                            <h2>{Info.FullStack.services.title}</h2>
+                            {Info.FullStack.services.descriptions.map((item, index) => (
+                                <p key={index}>{item}</p>
+                            ))}
+
                             <ul>
-                                {Info.FrontEnd.services.items.map((item, index) => (
+                                {Info.FullStack.services.items.map((item, index) => (
                                     <li key={index}>
                                         <strong>{item.title}</strong>
                                         {item.description}
@@ -30,7 +35,26 @@ const ServicesCardFrontEnd: React.FC = () => {
                             </ul>
                         </div>
 
-                        {Info.FrontEnd.stacks.slice(0, -2).map((item: IFrontEndStack, index: number) => (
+                        {Info.FrontEnd.stacks.slice(2, -3).map((item: IFrontEndStack, index: number) => (
+                            <div key={index} className="col-lg-4 col-md-6">
+                                <div className="single-services-box">
+                                    <div className="icon">
+                                        <Image
+                                            src={item.image}
+                                            alt={item.title}
+                                            width={120}
+                                            height={120}
+                                        />
+                                    </div>
+
+                                    <h3>
+                                        <Link href={item.link}>{item.title}</Link>
+                                    </h3>
+                                </div>
+                            </div>
+                        ))}
+
+                        {Info.FullStack.stacks.slice(0, -3).map((item: IFrontEndStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services-box">
                                     <div className="icon">
@@ -55,4 +79,4 @@ const ServicesCardFrontEnd: React.FC = () => {
     );
 };
 
-export default ServicesCardFrontEnd;
+export default ServiceCardWebDevelopment;
