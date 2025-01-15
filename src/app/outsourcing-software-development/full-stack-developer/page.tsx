@@ -66,7 +66,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Full Stack Development"/>
+            <PageBanner pageTitle="Full Stack Development Services"/>
 
             <ServicesCardFullStack/>
 

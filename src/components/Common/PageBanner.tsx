@@ -11,7 +11,7 @@ const PageBanner: React.FC<PageBannerProps> = (
     return (
         <>
             <div className="page-banner-area page-banner-area-custom">
-                <h2>{pageTitle}</h2>
+                <h2 className={'h2-page-title'}>{pageTitle}</h2>
                 <div className="bar"/>
             </div>
         </>

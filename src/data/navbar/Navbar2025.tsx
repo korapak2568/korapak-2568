@@ -26,7 +26,7 @@ export const Navbar2025: INavbar[] = [
             },
             {
                 group: "/services/",
-                label: "Web Development",
+                label: "Web and API Development",
                 link: "/services/web-development/",
                 submenu: []
             },
@@ -51,7 +51,7 @@ export const Navbar2025: INavbar[] = [
             },
             {
                 group: "/services/",
-                label: "Web3 & Blockchain",
+                label: "Web3 and Blockchain",
                 link: "/services/web3-blockchain-smart-contract-development/",
                 submenu: []
             },
