@@ -7,6 +7,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import ServicesCardWeb3Blockchain from "@/components/Services/web3-blockchain-development/ServicesCardWeb3Blockchain";
 import CloudExperience from "@/components/Common/CloudExperience";
+import {Info} from "@/data/info/Info";
 
 export const metadata: Metadata = {
     title: "Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions",
@@ -62,7 +63,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Web3 Blockchain Smart Contract"/>
+            <PageBanner pageTitle={Info.Web3.title}/>
 
             <ServicesCardWeb3Blockchain/>
 

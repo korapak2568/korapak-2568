@@ -1,8 +1,8 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
 
 export const FrontEnd2025: IFrontEnd = {
-    title: "Front End Experience",
-    span: "Outstanding Front End",
+    title: "Frontend Experience",
+    span: "Outstanding Frontend",
     subTitle: "",
 
     angular: {
@@ -782,4 +782,41 @@ export const FrontEnd2025: IFrontEnd = {
             ],
         },
     ],
+
+    services: {
+        title: "Frontend Development",
+        descriptions: [
+            "Looking for a highly skilled front-end developer to bring your web application vision to life? " +
+            "Our front-end development outsourcing services offer expertise in crafting user-friendly, " +
+            "visually appealing, and responsive websites. CHORN specializes in frameworks like Next.js, " +
+            "React, Angular, Vue.js, as well as the essential web technologies, HTML5, and CSS3",
+
+            "Whether you are aiming for an SEO-optimized, high-performance single-page application " +
+            "(SPA) or a complex, multi-page web platform, our developers ensure your project is " +
+            "delivered efficiently and on time. From concept to deployment, CHORN helps you create " +
+            "engaging digital experiences that captivate your audience."
+        ],
+        items: [
+            {
+                title: "Frontend Development",
+                description: "Leverage modern frameworks like Next.js and React for dynamic web apps."
+            },
+            {
+                title: "SEO Optimization",
+                description: "Ensure your website on Google with optimized code and performance."
+            },
+            {
+                title: "Proof of Concept (PoC)",
+                description: "Validate your idea with a quick PoC."
+            },
+            {
+                title: "Minimum Viable Product (MVP)",
+                description: "Build a scalable MVP to attract early users and investors."
+            },
+            {
+                title: "UI/UX Design",
+                description: "Create beautiful, user-centric interfaces that improve engagement and user retention."
+            }
+        ]
+    }
 }

@@ -7,7 +7,6 @@ import ServicesCardFrontEnd from "../../../components/Services/frontend-developm
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Info} from "@/data/info/Info";
 
 export const metadata: Metadata = {
     title: "Frontend Development Services | CHORN",
@@ -68,7 +67,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Front End Development" />
+            <PageBanner pageTitle="Frontend Development" />
 
             <ServicesCardFrontEnd/>
 

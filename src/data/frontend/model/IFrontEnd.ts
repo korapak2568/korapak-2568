@@ -1,4 +1,5 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {IFrontEndService} from "@/data/frontend/model/IFrontEndService";
 
 export interface IFrontEnd {
     title: string,
@@ -15,4 +16,6 @@ export interface IFrontEnd {
     javascript: IFrontEndStack,
 
     stacks: IFrontEndStack[],
+
+    services: IFrontEndService
 }

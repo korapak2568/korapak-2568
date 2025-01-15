@@ -15,6 +15,7 @@ import {IAbout} from "@/data/about/model/IAbout";
 import {IFeature} from "@/data/feature/model/IFeature";
 import {IAiCompanions} from "@/data/ai/model/IAiCompanions";
 import {IService} from "@/data/service/model/IService";
+import {IWeb3} from "@/data/web3/model/IWeb3";
 
 export interface IInfo {
     Languages: ILanguage[],
@@ -29,6 +30,7 @@ export interface IInfo {
     FrontEnd: IFrontEnd,
     FullStack: IFullStack,
     DevOps: IDevOps,
+    Web3: IWeb3,
 
     Recommend: IRecommend,
     Footer: IFooter,

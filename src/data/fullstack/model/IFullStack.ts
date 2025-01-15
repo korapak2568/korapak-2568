@@ -1,4 +1,5 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {IFullStackService} from "@/data/fullstack/model/IFullStackService";
 
 export interface IFullStack {
     title: string,
@@ -13,4 +14,6 @@ export interface IFullStack {
     python: IFullStackStack,
 
     stacks: IFullStackStack[],
+
+    services: IFullStackService
 }

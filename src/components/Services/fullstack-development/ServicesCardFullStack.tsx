@@ -3,92 +3,48 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {truncateText} from "@/utils/truncateText";
 import {Info} from "@/data/info/Info";
-import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 
 const ServicesCardFrontEnd: React.FC = () => {
 
     return (
         <>
-            <div className="services-area pt-100 pb-70">
+            <div className="services-area pt-4 pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-                            <p>
-                                Take advantage of our full-stack development outsourcing services to build robust,
-                                scalable, and secure web applications from scratch. Our developers excel in both
-                                front-end and back-end technologies, delivering a comprehensive solution tailored to
-                                your business needs. CHORN has expertise in a variety of technology stacks, including
-                                <strong> Node.js, .NET Core, Java Spring Boot, Python,
-                                    Go, </strong> and <strong>PHP,</strong> ensuring CHORN can meet any project
-                                requirements, no matter how complex.
-                            </p>
-                            <p>
-                                Whether you are launching a <strong>Proof of Concept (PoC)</strong> or looking to
-                                develop
-                                a full-scale <strong>Minimum Viable Product (MVP)</strong>, our full-stack developers
-                                ensure seamless integration between the front end and back end for an optimal user
-                                experience.
-                            </p>
-                            <div>
-                                <h2>Our Full-Stack Development Services</h2>
-                                <ul>
-                                    <li>
-                                        <strong>Front-End & Back-End Integration</strong>Create fully-functional web
-                                        applications that are fast, secure, and easy to scale.
+                            <h2>{Info.FullStack.services.title}</h2>
+                            {Info.FullStack.services.descriptions.map((item, index) => (
+                                <p key={index}>{item}</p>
+                            ))}
+
+                            <ul>
+                                {Info.FullStack.services.items.map((item, index) => (
+                                    <li key={index}>
+                                        <strong>{item.title}</strong>
+                                        {item.description}
                                     </li>
-                                    <li><strong>SEO & Performance Optimization</strong>SEO your website on Google with
-                                        optimized code and performance.
-                                    </li>
-                                    <li><strong>Automation Testing</strong>Enhance reliability with thorough testing
-                                        frameworks integrated into the development cycle.
-                                    </li>
-                                    <li><strong>Database Management</strong>Efficiently handle your data with MySQL,
-                                        MongoDB, or PostgreSQL.
-                                    </li>
-                                    <li><strong>Cloud Services</strong>Deploy scalable applications using AWS, Azure, or
-                                        Google Cloud.
-                                    </li>
-                                </ul>
-                            </div>
-                            <div>
-                                <h2>Why Outsource to CHORN?</h2>
-                                <p>
-                                    CHORN delivers flexible, end-to-end full-stack solutions tailored to your specific
-                                    project goals. Our expert developers work with you through every stage of the
-                                    development process, from <strong>PoC</strong> to <strong>MVP</strong> and full
-                                    production, ensuring a seamless development journey with regular feedback and
-                                    updates. Leverage our expertise in <strong>API integration,
-                                    DevOps,</strong> and <strong>automation testing</strong> for rapid, efficient
-                                    delivery.
-                                </p>
-                            </div>
+                                ))}
+                            </ul>
                         </div>
 
-                        {Info.FullStack.stacks.map((addition: IFullStackStack, index: number) => (
+                        {Info.FullStack.stacks.map((item: IFrontEndStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
-                                <div className="single-services">
-                                    <div className="image">
-                                        <Link href={addition.link}>
-                                            <Image
-                                                className="hover-rotate"
-                                                src={addition.image}
-                                                alt={addition.alt}
-                                                width={130}
-                                                height={130}
-                                            />
-                                        </Link>
+                                <div className="single-services-box">
+                                    <div className="icon">
+                                        <Image
+                                            src={item.image}
+                                            alt={item.title}
+                                            width={120}
+                                            height={120}
+                                        />
                                     </div>
-                                    <h3>
-                                        <Link href={addition.link}>{addition.title}</Link>
-                                    </h3>
-                                    <p>{truncateText(addition.description)}</p>
 
-                                    <Link href={addition.link} className="services-btn">
-                                        {addition.readMore} <i className="bx bx-chevrons-right"></i>
-                                    </Link>
+                                    <h3>
+                                        <Link href={item.link}>{item.title}</Link>
+                                    </h3>
                                 </div>
                             </div>
                         ))}

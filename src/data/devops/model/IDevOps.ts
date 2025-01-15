@@ -1,4 +1,5 @@
 import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
+import {IDevOpsService} from "@/data/devops/model/IDevOpsService";
 
 export interface IDevOps {
     title: string,
@@ -16,4 +17,6 @@ export interface IDevOps {
     soapui: IDevOpsStack,
 
     stacks: IDevOpsStack[],
+
+    services: IDevOpsService
 }

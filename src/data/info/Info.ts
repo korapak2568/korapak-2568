@@ -17,6 +17,7 @@ import {Consent2025} from "@/data/consent/Consent2025";
 import {About2025} from "@/data/about/About2025";
 import {Image} from "@/data/image/Image";
 import {AiCompanions} from "@/data/ai/AiCompanions";
+import {Web3} from "@/data/web3/Web3";
 
 export const Info: IInfo = {
     Languages,
@@ -31,6 +32,7 @@ export const Info: IInfo = {
     FrontEnd: FrontEnd2025,
     FullStack: FullStack2025,
     DevOps: DevOps2025,
+    Web3,
 
     Recommend: Recommend2025,
     Footer: Footer,

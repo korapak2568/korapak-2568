@@ -852,4 +852,36 @@ export const DevOps2025: IDevOps = {
             ],
         }
     ],
+
+    services: {
+        title: "DevOps & Testing",
+        descriptions: [
+            "Streamline your software development lifecycle with CHORN DevOps and testing services. " +
+            "CHORN team of DevOps engineers helps automate and optimize your infrastructure to deliver faster, " +
+            "more reliable software. Whether you’re adopting Docker, Kubernetes, or utilizing GitLab CI/CD, " +
+            "CHORN ensure your deployment processes are automated and secure.",
+
+            "CHORN testing services ensure that your application is bug-free, scalable, and ready to launch. " +
+            "From unit testing to integration testing, CHORN comprehensive testing strategies include tools " +
+            "like Postman, Selenium, and Appium for API and UI automation."
+        ],
+        items: [
+            {
+                title: "CI/CD",
+                description: "Automate your pipeline with GitLab, Jenkins, orGitHub Actions to accelerate development cycles."
+            },
+            {
+                title: "Containerization & Orchestration",
+                description: "Leverage Docker and Kubernetes for scalable, containerized applications."
+            },
+            {
+                title: "Automation Testing",
+                description: "Utilize frameworks like Selenium, Postman, Appium, and SOAPUI for efficient, automated test execution."
+            },
+            {
+                title: "Monitoring & Logging",
+                description: "Gain real-time insights into performance with monitoring tools that catch issues before they affect your users."
+            }
+        ]
+    }
 }

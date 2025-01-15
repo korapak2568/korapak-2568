@@ -15,7 +15,7 @@ import MainBannerAi from "@/components/AI/MainBannerAi/page";
 import MainBannerAiFah from "@/components/AI/MainBannerAiFah/page";
 
 export const metadata: Metadata = {
-    title: "CHORN | AI Agents & Software Development",
+    title: "CHORN | AI & Software Solutions",
     description: "Transform your business with CHORN’s digital innovation expertise. We provide state-of-the-art software solutions, scalable websites, and cutting-edge technologies like Blockchain, Web3, and more.",
     icons: {
         icon: '/favicon.ico',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
         canonical: 'https://chorn.in.th', // Add canonical URL here
     },
     openGraph: {
-        title: "CHORN - AI Agents & Software Development",
+        title: "CHORN - AI & Software Solutions",
         description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
         images: [
             {
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | AI Agents & Software Development",
+        title: "CHORN | AI & Software Solutions",
         description: "CHORN offers cutting-edge software development, scalable websites, and technology expertise in Blockchain, Web3, and more. Partner with us for future-ready solutions.",
         images: [
             "https://chorn.in.th/images-ai/01-fah/nong-fah-0003.jpg",
@@ -91,7 +91,7 @@ export default function Home() {
     const localBusinessSchema = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": "CHORN | AI Agents & Software Development",
+        "name": "CHORN | AI & Software Solutions",
         "logo": "https://chorn.in.th/chorn-images/logo/chorn-logo-circle-md.webp",
         "@id": "https://chorn.in.th",
         "url": "https://chorn.in.th",

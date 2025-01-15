@@ -25,7 +25,7 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
     return (
         <html lang="en">
         <head>
-            <title>CHORN | AI Agents & Software Development</title>
+            <title>CHORN | AI & Software Solutions</title>
             <link
                 rel="preload"
                 as="image"

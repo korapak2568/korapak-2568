@@ -803,5 +803,43 @@ export const FullStack2025: IFullStack = {
                 }
             ],
         },
-    ]
+    ],
+
+    services: {
+        title: "Full Stack Development",
+        descriptions: [
+            "Take advantage of our full-stack development outsourcing services to build robust, scalable, " +
+            "and secure web applications from scratch. Our developers excel in both front-end and " +
+            "back-end technologies, delivering a comprehensive solution tailored to your business needs. " +
+            "CHORN has expertise in a variety of technology stacks, including Node.js, .NET Core, " +
+            "Java Spring Boot, Python, Go, and PHP, ensuring CHORN can meet any project requirements, " +
+            "no matter how complex.",
+
+            "Whether you are launching a Proof of Concept (PoC) or looking to develop a full-scale " +
+            "Minimum Viable Product (MVP), our full-stack developers ensure seamless integration between " +
+            "the front end and back end for an optimal user experience."
+        ],
+        items: [
+            {
+                title: "Front-End & Back-End Integration",
+                description: "Create fully-functional web applications that are fast, secure, and easy to scale.",
+            },
+            {
+                title: "SEO & Performance Optimization",
+                description: "SEO your website on Google with optimized code and performance.",
+            },
+            {
+                title: "Automation Testing",
+                description: "Enhance reliability with thorough testing frameworks integrated into the development cycle.",
+            },
+            {
+                title: "Database Management",
+                description: "Efficiently handle your data with MySQL, MongoDB, or PostgreSQL.",
+            },
+            {
+                title: "Cloud Services",
+                description: "Deploy scalable applications using AWS, Azure, or Google Cloud.",
+            }
+        ]
+    }
 }

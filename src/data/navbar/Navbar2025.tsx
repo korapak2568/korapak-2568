@@ -32,8 +32,14 @@ export const Navbar2025: INavbar[] = [
             },
             {
                 group: "/services/",
-                label: "Web3 & Blockchain",
-                link: "/services/web3-blockchain-smart-contract-development/",
+                label: "Frontend Development",
+                link: "/outsourcing-software-development/front-end-developer/",
+                submenu: []
+            },
+            {
+                group: "/services/",
+                label: "Full Stack Development",
+                link: "/outsourcing-software-development/full-stack-developer/",
                 submenu: []
             },
             {
@@ -41,6 +47,12 @@ export const Navbar2025: INavbar[] = [
                 label: "...",
                 link: "",
                 isSeparated: true,
+                submenu: []
+            },
+            {
+                group: "/services/",
+                label: "Web3 & Blockchain",
+                link: "/services/web3-blockchain-smart-contract-development/",
                 submenu: []
             },
             {
