@@ -30,7 +30,7 @@ export const About2025: IAbout = {
                 "into various platforms, redefining innovation in AI to meet diverse business needs."
         },
         {
-            title: "AI System Integration",
+            title: "AI Solutions Service",
             description:
                 "Focuses on integrating cutting-edge AI technologies into existing systems to support rapid " +
                 "technological advancements. Helps businesses leverage AI to optimize operations, improve scalability, " +
