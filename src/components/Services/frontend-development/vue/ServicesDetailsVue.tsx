@@ -15,11 +15,11 @@ const ServicesDetailsVue: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="services-details-desc">
-                                <h3>{Info.FrontEnd.stacks[3].features[0].title}</h3>
-                                <p>{Info.FrontEnd.stacks[3].features[0].description}</p>
+                                <h3>{Info.FrontEnd.vue.features[0].title}</h3>
+                                <p>{Info.FrontEnd.vue.features[0].description}</p>
 
-                                <h3>{Info.FrontEnd.stacks[3].features[1].title}</h3>
-                                <p>{Info.FrontEnd.stacks[3].features[1].description}</p>
+                                <h3>{Info.FrontEnd.vue.features[1].title}</h3>
+                                <p>{Info.FrontEnd.vue.features[1].description}</p>
 
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
@@ -32,7 +32,7 @@ const ServicesDetailsVue: React.FC = () => {
 
                                         <div className="col-lg-6">
                                             <ul className="features-list">
-                                                {Info.FrontEnd.stacks[3].features[1].list.map((item: string, index: number) => (
+                                                {Info.FrontEnd.vue.features[1].list.map((item: string, index: number) => (
                                                     <li key={index}>
                                                         <i className="flaticon-check"></i> {item}
                                                     </li>
@@ -43,8 +43,8 @@ const ServicesDetailsVue: React.FC = () => {
                                 </div>
 
                                 <div className="text-result">
-                                    <h3>{Info.FrontEnd.stacks[3].features[2].title}</h3>
-                                    <p>{Info.FrontEnd.stacks[3].features[2].description}</p>
+                                    <h3>{Info.FrontEnd.vue.features[2].title}</h3>
+                                    <p>{Info.FrontEnd.vue.features[2].description}</p>
                                 </div>
 
                                 <ServiceFaqVue/>

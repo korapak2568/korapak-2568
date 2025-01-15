@@ -17,9 +17,9 @@ const ServiceFaqJava: React.FC = () => {
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${sanitizeUUID(Info.FullStack.go.faqs[0].question)}`
+                    `${sanitizeUUID(Info.FullStack.java.faqs[0].question)}`
                 ]}>
-                    {Info.FullStack.go.faqs.map((item, index: number) => (
+                    {Info.FullStack.java.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
