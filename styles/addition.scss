@@ -13,17 +13,16 @@
 
 .p-read-more {
   margin-top: 10px;
-}
 
-.contrast-read-more {
-  color: #AA0822 !important; /* Darker orange for better contrast */
-  text-decoration: none; /* No underline to keep it clean, but recognizable */
-  font-style: italic;
+  a {
+    text-decoration: none; /* No underline to keep it clean, but recognizable */
+    font-style: italic;
 
-  &:hover, &:focus {
-    color: #944a20; /* Even darker orange on hover/focus for better visibility */
-    text-decoration: underline; /* Adds underline for emphasis on hover/focus */
-    transform: scale(1);
+    &:hover, &:focus {
+      color: #944a20; /* Even darker orange on hover/focus for better visibility */
+      text-decoration: underline; /* Adds underline for emphasis on hover/focus */
+      transform: scale(1);
+    }
   }
 }
 
@@ -528,4 +527,9 @@
     animation: unset !important;
     border-radius: unset !important;
   }
+}
+
+// Front-End Experience
+.front-end-box {
+  height: 450px !important;
 }

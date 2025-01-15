@@ -2,7 +2,7 @@ import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
 
 export const FrontEnd2025: IFrontEnd = {
     title: "Front End Experience",
-    span: "Outstanding Front End Experience",
+    span: "Outstanding Front End",
     subTitle: "",
 
     angular: {
@@ -395,49 +395,103 @@ export const FrontEnd2025: IFrontEnd = {
 
     stacks: [
         {
-            title: "NextJS",
-            description: "Boost your React applications with seamless server-side rendering and static site generation for optimal performance.",
-            image: "/chorn-images/outsourcing-software-development/front-end-developer/nextjs-developer.webp",
-            alt: "Logo representing Next.js framework",
-            readMore: "Explore more NextJS front-end development solutions ",
-            link: "/outsourcing-software-development/front-end-developer/nextjs-developer",
-            features: [
+            "title": "JavaScript",
+            "description": "JavaScript is a versatile and dynamic programming language widely used for building interactive and responsive web applications. Its flexibility and extensive ecosystem make it an essential tool for modern web development.",
+            "image": "/chorn-images/outsourcing-software-development/front-end-developer/javascript-developer.webp",
+            "alt": "Logo representing JavaScript programming language",
+            "readMore": "Explore more JavaScript full-stack development solutions",
+            "link": "/outsourcing-software-development/front-end-developer/javascript-developer",
+            "features": [
                 {
-                    title: "NextJS Development",
-                    description: "Next.js is a leading React framework that offers server-side rendering and static site generation, delivering high-performance, SEO-friendly web applications with minimal configuration. Perfect for modern web development needs.",
-                    list: []
+                    "title": "JavaScript Development",
+                    "description": "JavaScript powers the dynamic behavior of websites and web applications, offering unparalleled versatility and compatibility with browsers and frameworks.",
+                    "list": []
                 },
                 {
-                    title: "Strong Points of NextJS",
-                    description: "NextJS stands out with its robust features",
-                    list: [
-                        "Server-side rendering",
-                        "Static site generation",
-                        "Automatic code splitting",
-                        "API routes",
-                        "Incremental static regeneration",
-                        "Built-in CSS and Sass support",
-                        "Excellent developer experience"
+                    "title": "Rich Interactive Experiences",
+                    "description": "JavaScript enables developers to create interactive user interfaces, animations, and real-time features like chat applications, delivering engaging user experiences.",
+                    "list": [
+                        "Dynamic content updates",
+                        "Interactive web interfaces",
+                        "Animation and transitions",
+                        "Real-time features (e.g., chats, notifications)",
+                        "Cross-platform compatibility"
                     ]
                 },
                 {
-                    title: "Challenge and Solutions",
-                    description: "Next.js tackles web development challenges by providing solutions for performance, scalability, and SEO, ensuring optimal application delivery.",
-                    list: []
+                    "title": "Wide Ecosystem and Tooling",
+                    "description": "JavaScript boasts a vast ecosystem of libraries and frameworks like React, Angular, and Vue.js, empowering developers to build robust web applications efficiently.",
+                    "list": []
                 },
+                {
+                    "title": "Back-End Development with Node.js",
+                    "description": "JavaScript extends to back-end development through Node.js, enabling full-stack development with a single language, from server-side logic to client-side interactions.",
+                    "list": []
+                }
             ],
-            faqs: [
+            "faqs": [
                 {
-                    question: "What is Next.js?",
-                    answer: "Next.js is a React framework that provides server-side rendering and static site generation for optimized web applications."
+                    "question": "What is JavaScript?",
+                    "answer": "JavaScript is a dynamic programming language commonly used for creating interactive web applications."
                 },
                 {
-                    question: "How does server-side rendering in Next.js improve performance?",
-                    answer: "Server-side rendering improves performance by pre-rendering pages on the server, reducing client-side rendering time."
+                    "question": "Why use JavaScript for web development?",
+                    "answer": "JavaScript offers versatility, extensive libraries, and compatibility across browsers, making it a go-to language for web developers."
                 },
                 {
-                    question: "What is static site generation in Next.js?",
-                    answer: "Static site generation pre-renders pages at build time, providing fast load times and improved SEO."
+                    "question": "What frameworks are built on JavaScript?",
+                    "answer": "Popular JavaScript frameworks include React, Angular, and Vue.js."
+                }
+            ],
+        },
+        {
+            "title": "TypeScript",
+            "description": "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles to plain JavaScript, making it compatible with all browsers and frameworks.",
+            "image": "/chorn-images/outsourcing-software-development/front-end-developer/typescript-developer.webp",
+            "alt": "Logo representing TypeScript programming language",
+            "readMore": "Explore more TypeScript full-stack development solutions",
+            "link": "/outsourcing-software-development/front-end-developer/typescript-developer",
+            "features": [
+                {
+                    "title": "TypeScript Development",
+                    "description": "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
+                    "list": []
+                },
+                {
+                    "title": "Enhanced Code Quality",
+                    "description": "TypeScript's type-checking features ensure that potential errors are caught during the development phase, reducing runtime errors and improving maintainability for large-scale projects.",
+                    "list": [
+                        "Static typing",
+                        "Advanced error checking",
+                        "Improved code quality",
+                        "Enhanced IDE support",
+                        "Scalable application architecture",
+                        "Large community support"
+                    ]
+                },
+                {
+                    "title": "Improved Developer Productivity",
+                    "description": "With features like type inference, interfaces, and generics, TypeScript makes managing complex codebases easier. It integrates seamlessly with modern tools, boosting productivity and collaboration.",
+                    "list": []
+                },
+                {
+                    "title": "Seamless Integration with Frameworks",
+                    "description": "TypeScript integrates effortlessly with popular JavaScript frameworks such as React, Angular, and Vue.js. Developers can gradually adopt TypeScript in existing JavaScript projects, ensuring compatibility and scalability.",
+                    "list": []
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What is TypeScript?",
+                    "answer": "TypeScript is a superset of JavaScript that adds static typing and other advanced features for improved development."
+                },
+                {
+                    "question": "Why use TypeScript over JavaScript?",
+                    "answer": "TypeScript's static typing and robust tooling catch errors early, improve code quality, and enhance developer productivity."
+                },
+                {
+                    "question": "Can TypeScript work with JavaScript frameworks?",
+                    "answer": "Yes, TypeScript is fully compatible with JavaScript frameworks such as React, Angular, and Vue.js."
                 }
             ],
         },
@@ -583,103 +637,49 @@ export const FrontEnd2025: IFrontEnd = {
             ],
         },
         {
-            "title": "TypeScript",
-            "description": "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles to plain JavaScript, making it compatible with all browsers and frameworks.",
-            "image": "/chorn-images/outsourcing-software-development/front-end-developer/typescript-developer.webp",
-            "alt": "Logo representing TypeScript programming language",
-            "readMore": "Explore more TypeScript full-stack development solutions",
-            "link": "/outsourcing-software-development/front-end-developer/typescript-developer",
-            "features": [
+            title: "NextJS",
+            description: "Boost your React applications with seamless server-side rendering and static site generation for optimal performance.",
+            image: "/chorn-images/outsourcing-software-development/front-end-developer/nextjs-developer.webp",
+            alt: "Logo representing Next.js framework",
+            readMore: "Explore more NextJS front-end development solutions ",
+            link: "/outsourcing-software-development/front-end-developer/nextjs-developer",
+            features: [
                 {
-                    "title": "TypeScript Development",
-                    "description": "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
-                    "list": []
+                    title: "NextJS Development",
+                    description: "Next.js is a leading React framework that offers server-side rendering and static site generation, delivering high-performance, SEO-friendly web applications with minimal configuration. Perfect for modern web development needs.",
+                    list: []
                 },
                 {
-                    "title": "Enhanced Code Quality",
-                    "description": "TypeScript's type-checking features ensure that potential errors are caught during the development phase, reducing runtime errors and improving maintainability for large-scale projects.",
-                    "list": [
-                        "Static typing",
-                        "Advanced error checking",
-                        "Improved code quality",
-                        "Enhanced IDE support",
-                        "Scalable application architecture",
-                        "Large community support"
+                    title: "Strong Points of NextJS",
+                    description: "NextJS stands out with its robust features",
+                    list: [
+                        "Server-side rendering",
+                        "Static site generation",
+                        "Automatic code splitting",
+                        "API routes",
+                        "Incremental static regeneration",
+                        "Built-in CSS and Sass support",
+                        "Excellent developer experience"
                     ]
                 },
                 {
-                    "title": "Improved Developer Productivity",
-                    "description": "With features like type inference, interfaces, and generics, TypeScript makes managing complex codebases easier. It integrates seamlessly with modern tools, boosting productivity and collaboration.",
-                    "list": []
+                    title: "Challenge and Solutions",
+                    description: "Next.js tackles web development challenges by providing solutions for performance, scalability, and SEO, ensuring optimal application delivery.",
+                    list: []
                 },
-                {
-                    "title": "Seamless Integration with Frameworks",
-                    "description": "TypeScript integrates effortlessly with popular JavaScript frameworks such as React, Angular, and Vue.js. Developers can gradually adopt TypeScript in existing JavaScript projects, ensuring compatibility and scalability.",
-                    "list": []
-                }
             ],
-            "faqs": [
+            faqs: [
                 {
-                    "question": "What is TypeScript?",
-                    "answer": "TypeScript is a superset of JavaScript that adds static typing and other advanced features for improved development."
+                    question: "What is Next.js?",
+                    answer: "Next.js is a React framework that provides server-side rendering and static site generation for optimized web applications."
                 },
                 {
-                    "question": "Why use TypeScript over JavaScript?",
-                    "answer": "TypeScript's static typing and robust tooling catch errors early, improve code quality, and enhance developer productivity."
+                    question: "How does server-side rendering in Next.js improve performance?",
+                    answer: "Server-side rendering improves performance by pre-rendering pages on the server, reducing client-side rendering time."
                 },
                 {
-                    "question": "Can TypeScript work with JavaScript frameworks?",
-                    "answer": "Yes, TypeScript is fully compatible with JavaScript frameworks such as React, Angular, and Vue.js."
-                }
-            ],
-        },
-        {
-            "title": "JavaScript",
-            "description": "JavaScript is a versatile and dynamic programming language widely used for building interactive and responsive web applications. Its flexibility and extensive ecosystem make it an essential tool for modern web development.",
-            "image": "/chorn-images/outsourcing-software-development/front-end-developer/javascript-developer.webp",
-            "alt": "Logo representing JavaScript programming language",
-            "readMore": "Explore more JavaScript full-stack development solutions",
-            "link": "/outsourcing-software-development/front-end-developer/javascript-developer",
-            "features": [
-                {
-                    "title": "JavaScript Development",
-                    "description": "JavaScript powers the dynamic behavior of websites and web applications, offering unparalleled versatility and compatibility with browsers and frameworks.",
-                    "list": []
-                },
-                {
-                    "title": "Rich Interactive Experiences",
-                    "description": "JavaScript enables developers to create interactive user interfaces, animations, and real-time features like chat applications, delivering engaging user experiences.",
-                    "list": [
-                        "Dynamic content updates",
-                        "Interactive web interfaces",
-                        "Animation and transitions",
-                        "Real-time features (e.g., chats, notifications)",
-                        "Cross-platform compatibility"
-                    ]
-                },
-                {
-                    "title": "Wide Ecosystem and Tooling",
-                    "description": "JavaScript boasts a vast ecosystem of libraries and frameworks like React, Angular, and Vue.js, empowering developers to build robust web applications efficiently.",
-                    "list": []
-                },
-                {
-                    "title": "Back-End Development with Node.js",
-                    "description": "JavaScript extends to back-end development through Node.js, enabling full-stack development with a single language, from server-side logic to client-side interactions.",
-                    "list": []
-                }
-            ],
-            "faqs": [
-                {
-                    "question": "What is JavaScript?",
-                    "answer": "JavaScript is a dynamic programming language commonly used for creating interactive web applications."
-                },
-                {
-                    "question": "Why use JavaScript for web development?",
-                    "answer": "JavaScript offers versatility, extensive libraries, and compatibility across browsers, making it a go-to language for web developers."
-                },
-                {
-                    "question": "What frameworks are built on JavaScript?",
-                    "answer": "Popular JavaScript frameworks include React, Angular, and Vue.js."
+                    question: "What is static site generation in Next.js?",
+                    answer: "Static site generation pre-renders pages at build time, providing fast load times and improved SEO."
                 }
             ],
         },

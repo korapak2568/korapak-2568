@@ -3,7 +3,7 @@ import {IAiDetail} from "@/data/ai/model/IAiDetail";
 export const AiTonnamEnglish: IAiDetail = {
     name: 'Tonnam',
     category: 'Students LINE Friend',
-    thumbnail: '/images-ai/ai-companions/ai-tonnam-thumbnail.webp',
+    thumbnail: '/images-ai/ai-solutions/ai-tonnam-thumbnail.webp',
 
     pages: {
         home: {
@@ -14,7 +14,7 @@ export const AiTonnamEnglish: IAiDetail = {
             }
         },
         landing: {
-            link: '/ai-companions/tonnam',
+            link: '/ai-solutions/tonnam',
             image: {
                 title: 'ต้นน้ำ เพื่อนคุยเอไอ',
                 path: '/images-ai/ai-tonnam-details.png',

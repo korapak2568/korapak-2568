@@ -3,7 +3,7 @@ import {IAiDetail} from "@/data/ai/model/IAiDetail";
 export const AiPloyEnglish: IAiDetail = {
     name: 'Ploy',
     category: 'Students LINE Friend',
-    thumbnail: '/images-ai/ai-companions/ai-ploy-thumbnail.webp',
+    thumbnail: '/images-ai/ai-solutions/ai-ploy-thumbnail.webp',
 
     pages: {
         home: {
@@ -14,7 +14,7 @@ export const AiPloyEnglish: IAiDetail = {
             }
         },
         landing: {
-            link: '/ai-companions/ploy',
+            link: '/ai-solutions/ploy',
             image: {
                 title: 'พลอย เพื่อนคุยเอไอ',
                 path: '/images-ai/ai-ploy-details.png',

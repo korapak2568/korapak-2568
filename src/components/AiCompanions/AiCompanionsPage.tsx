@@ -11,6 +11,22 @@ const AiCompanionsPage: React.FC = () => {
             <div className="portfolio-area pt-4 pb-100">
                 <div className="container">
                     <div className="row">
+
+                        <div className={'add-web-content'}>
+                            <p dangerouslySetInnerHTML={{__html: Info.Service.description} as { __html: string }}/>
+
+                            <div>
+                                <h2>{Info.Service.title}</h2>
+                                <ul>
+                                    {Info.Service.services.map((service, index) => (
+                                        <li key={index}>
+                                            <strong>{service.title}</strong> {service.description}
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+                        </div>
+
                         {Info.AiCompanions.english.map((ai, index) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-portfolio-item">

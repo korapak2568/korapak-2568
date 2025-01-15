@@ -2,7 +2,7 @@ import {IDevOps} from "@/data/devops/model/IDevOps";
 
 export const DevOps2025: IDevOps = {
     title: "DevOps and Testing",
-    span: "Outstanding DevOps Testing Experience",
+    span: "Outstanding DevOps Testing",
     subTitle: "",
 
     appium: {

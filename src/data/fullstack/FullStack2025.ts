@@ -2,7 +2,7 @@ import {IFullStack} from "@/data/fullstack/model/IFullStack";
 
 export const FullStack2025: IFullStack = {
     title: "Full Stack Experience",
-    span: "Outstanding Full Stack Experience",
+    span: "Outstanding Full Stack",
     subTitle: "",
 
     dotnetcore: {
@@ -466,62 +466,54 @@ export const FullStack2025: IFullStack = {
             ],
         },
         {
-            title: ".NET Core, API",
-            description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
-            image: "/chorn-images/outsourcing-software-development/full-stack-developer/dotnetcore-developer.webp",
-            alt: "Logo representing .NET Core API development",
-            readMore: "Explore more .NET Core API full-stack development solutions",
-            link: "/outsourcing-software-development/full-stack-developer/dotnetcore-developer",
+            title: "GO",
+            description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/go-developer.webp",
+            alt: "Logo representing Go programming language",
+            readMore: "Explore more Go full-stack development solutions",
+            link: "/outsourcing-software-development/full-stack-developer/go-developer",
             features: [
                 {
-                    title: ".NET Core Development",
-                    description: ".NET Core is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
+                    title: "Go Development",
+                    description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
                     list: []
                 },
                 {
-                    title: "ASP.NET Core",
-                    description: "ASP.NET Core is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It is particularly suited for building web applications, APIs, and microservices with a focus on performance, security, and scalability.",
+                    title: "Efficient Concurrency",
+                    description: "Go's goroutines and channels provide robust support for concurrent programming, allowing developers to build highly efficient and scalable applications. This makes Go a preferred language for developing microservices that require handling multiple tasks simultaneously.",
                     list: [
-                        "Cross-platform",
-                        "High performance",
-                        "Built-in dependency injection",
-                        "Modular architecture",
-                        "Unified MVC and Web API framework",
-                        "Supports Razor Pages",
-                        "Secure authentication and authorization"
+                        "Concurrent programming",
+                        "Fast compilation",
+                        "Simplicity",
+                        "Strong performance",
+                        "Statically typed",
+                        "Garbage collection",
+                        "Great for microservices"
                     ]
                 },
                 {
-                    title: ".NET Core API",
-                    description: ".NET Core API provides developers with the tools to build RESTful services and APIs that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. Its lightweight, modular design ensures high performance and easy integration with other services.",
+                    title: "Fast Compilation",
+                    description: "Go compiles quickly to machine code, resulting in fast execution times. This efficiency, combined with its garbage collection and static typing, ensures that Go applications perform well, even under heavy loads.",
                     list: []
                 },
                 {
-                    title: "C#.NET Core",
-                    description: "C#.NET Core is the primary language used for developing applications in .NET Core. Known for its simplicity, versatility, and modern features, C# allows developers to build robust, maintainable, and scalable applications with ease.",
-                    list: [
-                        "Modern syntax",
-                        "Object-oriented",
-                        "Rich standard library",
-                        "Supports asynchronous programming",
-                        "LINQ support",
-                        "Cross-platform compatibility",
-                        "Interoperability with other .NET languages"
-                    ]
+                    title: "Interoperability",
+                    description: "Go's simplicity and clarity make it easy to integrate with other programming languages. This interoperability allows developers to leverage Go's strengths in performance-critical parts of an application while using other languages for different components.",
+                    list: []
                 }
             ],
             faqs: [
                 {
-                    question: "What is .NET Core?",
-                    answer: ".NET Core is an open-source, cross-platform framework for building modern applications that run on Windows, macOS, and Linux."
+                    question: "What is Go?",
+                    answer: "Go is a statically typed, compiled programming language designed for simplicity and performance."
                 },
                 {
-                    question: "What is ASP.NET Core used for?",
-                    answer: "ASP.NET Core is a framework for building web applications, APIs, and microservices with high performance and cross-platform capabilities."
+                    question: "Why use Go?",
+                    answer: "Go offers fast performance, simplicity, and powerful concurrency features, making it ideal for web servers and microservices."
                 },
                 {
-                    question: "What makes C#.NET Core a good choice for development?",
-                    answer: "C# is a modern, versatile programming language that offers a wide range of features, making it ideal for developing scalable, maintainable applications in .NET Core."
+                    question: "Is Go good for web development?",
+                    answer: "Yes, Go is well-suited for building fast and efficient web servers and APIs."
                 }
             ],
         },
@@ -700,58 +692,6 @@ export const FullStack2025: IFullStack = {
             ]
         },
         {
-            title: "GO",
-            description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
-            image: "/chorn-images/outsourcing-software-development/full-stack-developer/go-developer.webp",
-            alt: "Logo representing Go programming language",
-            readMore: "Explore more Go full-stack development solutions",
-            link: "/outsourcing-software-development/full-stack-developer/go-developer",
-            features: [
-                {
-                    title: "Go Development",
-                    description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
-                    list: []
-                },
-                {
-                    title: "Efficient Concurrency",
-                    description: "Go's goroutines and channels provide robust support for concurrent programming, allowing developers to build highly efficient and scalable applications. This makes Go a preferred language for developing microservices that require handling multiple tasks simultaneously.",
-                    list: [
-                        "Concurrent programming",
-                        "Fast compilation",
-                        "Simplicity",
-                        "Strong performance",
-                        "Statically typed",
-                        "Garbage collection",
-                        "Great for microservices"
-                    ]
-                },
-                {
-                    title: "Fast Compilation",
-                    description: "Go compiles quickly to machine code, resulting in fast execution times. This efficiency, combined with its garbage collection and static typing, ensures that Go applications perform well, even under heavy loads.",
-                    list: []
-                },
-                {
-                    title: "Interoperability",
-                    description: "Go's simplicity and clarity make it easy to integrate with other programming languages. This interoperability allows developers to leverage Go's strengths in performance-critical parts of an application while using other languages for different components.",
-                    list: []
-                }
-            ],
-            faqs: [
-                {
-                    question: "What is Go?",
-                    answer: "Go is a statically typed, compiled programming language designed for simplicity and performance."
-                },
-                {
-                    question: "Why use Go?",
-                    answer: "Go offers fast performance, simplicity, and powerful concurrency features, making it ideal for web servers and microservices."
-                },
-                {
-                    question: "Is Go good for web development?",
-                    answer: "Yes, Go is well-suited for building fast and efficient web servers and APIs."
-                }
-            ],
-        },
-        {
             title: "PHP",
             description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
             image: "/chorn-images/outsourcing-software-development/full-stack-developer/php-developer.webp",
@@ -800,6 +740,66 @@ export const FullStack2025: IFullStack = {
                 {
                     question: "Why use WordPress?",
                     answer: "WordPress is a versatile content management system built on PHP, ideal for creating blogs, websites, and online stores."
+                }
+            ],
+        },
+        {
+            title: ".NET Core, API",
+            description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
+            image: "/chorn-images/outsourcing-software-development/full-stack-developer/dotnetcore-developer.webp",
+            alt: "Logo representing .NET Core API development",
+            readMore: "Explore more .NET Core API full-stack development solutions",
+            link: "/outsourcing-software-development/full-stack-developer/dotnetcore-developer",
+            features: [
+                {
+                    title: ".NET Core Development",
+                    description: ".NET Core is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
+                    list: []
+                },
+                {
+                    title: "ASP.NET Core",
+                    description: "ASP.NET Core is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It is particularly suited for building web applications, APIs, and microservices with a focus on performance, security, and scalability.",
+                    list: [
+                        "Cross-platform",
+                        "High performance",
+                        "Built-in dependency injection",
+                        "Modular architecture",
+                        "Unified MVC and Web API framework",
+                        "Supports Razor Pages",
+                        "Secure authentication and authorization"
+                    ]
+                },
+                {
+                    title: ".NET Core API",
+                    description: ".NET Core API provides developers with the tools to build RESTful services and APIs that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. Its lightweight, modular design ensures high performance and easy integration with other services.",
+                    list: []
+                },
+                {
+                    title: "C#.NET Core",
+                    description: "C#.NET Core is the primary language used for developing applications in .NET Core. Known for its simplicity, versatility, and modern features, C# allows developers to build robust, maintainable, and scalable applications with ease.",
+                    list: [
+                        "Modern syntax",
+                        "Object-oriented",
+                        "Rich standard library",
+                        "Supports asynchronous programming",
+                        "LINQ support",
+                        "Cross-platform compatibility",
+                        "Interoperability with other .NET languages"
+                    ]
+                }
+            ],
+            faqs: [
+                {
+                    question: "What is .NET Core?",
+                    answer: ".NET Core is an open-source, cross-platform framework for building modern applications that run on Windows, macOS, and Linux."
+                },
+                {
+                    question: "What is ASP.NET Core used for?",
+                    answer: "ASP.NET Core is a framework for building web applications, APIs, and microservices with high performance and cross-platform capabilities."
+                },
+                {
+                    question: "What makes C#.NET Core a good choice for development?",
+                    answer: "C# is a modern, versatile programming language that offers a wide range of features, making it ideal for developing scalable, maintainable applications in .NET Core."
                 }
             ],
         },

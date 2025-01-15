@@ -1,5 +1,5 @@
 import {ILanguage} from "@/data/language/model/ILanguage";
-import {IService} from "@/data/service/model/IService";
+import {IServiceItem} from "@/data/service/model/IServiceItem";
 import {IRecommend} from "@/data/recommend/model/IRecommend";
 import {IFooter} from "@/data/footer/model/IFooter";
 import {IBusiness} from "@/data/business/model/IBusiness";
@@ -14,6 +14,7 @@ import {ICloud} from "@/data/cloud/model/ICloud";
 import {IAbout} from "@/data/about/model/IAbout";
 import {IFeature} from "@/data/feature/model/IFeature";
 import {IAiCompanions} from "@/data/ai/model/IAiCompanions";
+import {IService} from "@/data/service/model/IService";
 
 export interface IInfo {
     Languages: ILanguage[],

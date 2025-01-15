@@ -5,10 +5,8 @@ import {IFeatureFramework} from "@/data/feature/model/IFeatureFramework";
 export interface IFeatureStack {
     title: string,
     description: string,
-    readMore: string,
     link: string,
+    icon: string
 
     frameworks?: IFeatureFramework[],
-
-    icon: string
 }

@@ -3,7 +3,7 @@ import {IAiDetail} from "@/data/ai/model/IAiDetail";
 export const AiMilkEnglish: IAiDetail = {
     name: 'Milk',
     category: 'Pet Lover LINE Friend',
-    thumbnail: '/images-ai/ai-companions/ai-milk-thumbnail.webp',
+    thumbnail: '/images-ai/ai-solutions/ai-milk-thumbnail.webp',
 
     pages: {
         home: {
@@ -14,7 +14,7 @@ export const AiMilkEnglish: IAiDetail = {
             }
         },
         landing: {
-            link: '/ai-companions/milk',
+            link: '/ai-solutions/milk',
             image: {
                 title: 'มิลค์ เพื่อนคุยเอไอ',
                 path: '/images-ai/ai-milk-details.png',

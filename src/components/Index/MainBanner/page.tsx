@@ -1,4 +1,4 @@
-// src/components/Page/MainBanner/page.tsx
+// src/components/LogoSocial/MainBanner/page.tsx
 
 "use client";
 

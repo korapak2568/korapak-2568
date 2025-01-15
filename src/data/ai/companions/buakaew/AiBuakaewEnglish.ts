@@ -3,7 +3,7 @@ import {IAiDetail} from "@/data/ai/model/IAiDetail";
 export const AiBuakaewEnglish: IAiDetail = {
     name: 'Buakaew',
     category: 'Thai Northern LINE Friend',
-    thumbnail: '/images-ai/ai-companions/ai-buakaew-thumbnail.webp',
+    thumbnail: '/images-ai/ai-solutions/ai-buakaew-thumbnail.webp',
 
     pages: {
         home: {
@@ -14,7 +14,7 @@ export const AiBuakaewEnglish: IAiDetail = {
             }
         },
         landing: {
-            link: '/ai-companions/buakaew',
+            link: '/ai-solutions/buakaew',
             image: {
                 title: 'น้องฟ้า เพื่อนคุยเอไอ',
                 path: '/images-ai/ai-buakaew-details.png',

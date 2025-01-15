@@ -4,13 +4,13 @@ import React, { useState } from "react";
 import FsLightbox from "fslightbox-react";
 
 const AboutContentTwo: React.FC = () => {
-  // To open the lightbox change the value of the "toggler" prop.
-  const [toggler, setToggler] = useState(false);
+  // To open the lightbox change the value of the "toggle" prop.
+  const [toggle, setToggle] = useState(false);
 
   return (
     <>
       <FsLightbox
-        toggler={toggler}
+        toggler={toggle}
         sources={[
           "https://www.youtube.com/embed/bk7McNUjWgw?si=KT8SGAF-WzmtADRk",
         ]}
@@ -25,7 +25,7 @@ const AboutContentTwo: React.FC = () => {
                 style={{ backgroundImage: `url(/images/about/about-5.jpg)` }}
               >
                 <div
-                  onClick={() => setToggler(!toggler)}
+                  onClick={() => setToggle(!toggle)}
                   className="video-btn popup-youtube"
                 >
                   <i className="bx bx-play"></i>

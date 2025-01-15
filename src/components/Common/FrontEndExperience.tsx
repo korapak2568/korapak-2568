@@ -32,14 +32,10 @@ const FrontEndExperience: React.FC = () => {
                                                     height={120}
                                                 />
                                             </div>
+
                                             <h3>
                                                 <Link href={item.link}>{item.title}</Link>
                                             </h3>
-                                            <p>{item.description}</p>
-
-                                            <Link href={item.link} className="services-btn">
-                                                {item.readMore} <i className="bx bx-chevrons-right"></i>
-                                            </Link>
                                         </div>
                                     </div>
                                 ))}

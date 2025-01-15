@@ -1,4 +1,4 @@
-// src/components/Page/MainBannerAi/page.tsx
+// src/components/LogoSocial/MainBannerAi/page.tsx
 
 "use client";
 
