@@ -87,6 +87,14 @@ export const Footer: IFooter = {
     ],
     featuredLinks: [
         {
+            label: "AI Companions",
+            link: "/ai-companions"
+        },
+        {
+            label: "AI Solutions Service",
+            link: "/services/ai-solutions"
+        },
+        {
             label: "Web Development",
             link: "/services/web-development"
         },

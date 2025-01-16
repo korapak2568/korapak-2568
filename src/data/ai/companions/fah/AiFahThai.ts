@@ -3,7 +3,7 @@ import {IAiDetail} from "@/data/ai/model/IAiDetail";
 export const AiFahThai: IAiDetail = {
     name: 'ฟ้า',
     category: 'Thai LINE Friend',
-    thumbnail: '/images-ai/ai-solutions/ai-fah-thumbnail.webp',
+    thumbnail: '/images-ai/ai-companions/ai-fah-thumbnail.webp',
 
     pages: {
         home: {
@@ -14,7 +14,7 @@ export const AiFahThai: IAiDetail = {
             }
         },
         landing: {
-            link: '/ai-solutions/fah',
+            link: '/ai-companions/fah',
             image: {
                 title: 'น้องฟ้า เพื่อนคุยเอไอ',
                 path: '/images-ai/ai-fah-details.png',

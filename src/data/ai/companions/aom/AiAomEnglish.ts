@@ -3,7 +3,7 @@ import {IAiDetail} from "@/data/ai/model/IAiDetail";
 export const AiAomEnglish: IAiDetail = {
     name: 'Aom',
     category: 'Health LINE Friend',
-    thumbnail: '/images-ai/ai-solutions/ai-aom-thumbnail.webp',
+    thumbnail: '/images-ai/ai-companions/ai-aom-thumbnail.webp',
 
     pages: {
         home: {
@@ -14,7 +14,7 @@ export const AiAomEnglish: IAiDetail = {
             }
         },
         landing: {
-            link: '/ai-solutions/aom',
+            link: '/ai-companions/aom',
             image: {
                 title: 'ออม เพื่อนคุยเอไอ',
                 path: '/images-ai/ai-aom-details.png',

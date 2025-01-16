@@ -8,9 +8,9 @@ export const Navbar2025: INavbar[] = [
         submenu: []
     },
     {
-        group: "/ai-solutions/",
-        label: "AI Solutions",
-        link: "/ai-solutions/",
+        group: "/ai-companions/",
+        label: "AI Companions",
+        link: "/ai-companions/",
         submenu: []
     },
     {
@@ -20,8 +20,8 @@ export const Navbar2025: INavbar[] = [
         submenu: [
             {
                 group: "/services/",
-                label: "AI Solutions",
-                link: "/ai-solutions/",
+                label: "AI Solutions Services",
+                link: "/services/ai-solutions/",
                 submenu: []
             },
             {

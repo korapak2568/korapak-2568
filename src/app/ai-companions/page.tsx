@@ -9,7 +9,7 @@ const Page = () => {
     return (
         <>
             <Navbar/>
-            <PageBanner pageTitle={Info.Service.title}/>
+            <PageBanner pageTitle={Info.Service.demo.title}/>
             <AiCompanionsPage/>
             <Footer/>
         </>

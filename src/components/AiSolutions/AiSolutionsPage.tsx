@@ -5,24 +5,42 @@ import Link from "next/link";
 import Image from "next/image";
 import {Info} from "@/data/info/Info";
 
-const AiCompanionsPage: React.FC = () => {
+const AiSolutionsPage: React.FC = () => {
     return (
         <>
             <div className="portfolio-area pt-4 pb-100">
                 <div className="container">
                     <div className="row">
+
                         <div className={'add-web-content'}>
-                            <p>{Info.Service.demo.description}</p>
+                            <p dangerouslySetInnerHTML={{__html: Info.Service.description} as { __html: string }}/>
 
                             <div>
-                                <strong>{Info.Service.demo.procedure.title}</strong>
+                                <h2>{Info.Service.title}</h2>
                                 <ul>
-                                    {Info.Service.demo.procedure.steps.map((service, index) => (
+                                    {Info.Service.services.map((service, index) => (
                                         <li key={index}>
                                             <strong>{service.title}</strong> {service.description}
                                         </li>
                                     ))}
                                 </ul>
+                            </div>
+
+                            <div>
+                                <h2>{Info.Service.demo.title}</h2>
+                                <p>{Info.Service.demo.description}</p>
+                                <p dangerouslySetInnerHTML={{__html: Info.Service.demo.link.text}}/>
+
+                                <div>
+                                    <strong>{Info.Service.demo.procedure.title}</strong>
+                                    <ul>
+                                        {Info.Service.demo.procedure.steps.map((service, index) => (
+                                            <li key={index}>
+                                                <strong>{service.title}</strong> {service.description}
+                                            </li>
+                                        ))}
+                                    </ul>
+                                </div>
                             </div>
 
                             <div>
@@ -98,4 +116,4 @@ const AiCompanionsPage: React.FC = () => {
     );
 };
 
-export default AiCompanionsPage;
+export default AiSolutionsPage;
