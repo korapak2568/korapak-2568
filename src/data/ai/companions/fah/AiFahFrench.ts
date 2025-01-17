@@ -24,7 +24,7 @@ export const AiFahFrench: IAiDetail = {
 
     title: "Fah, Compagnon de Chat IA Thaïlandais !",
     content:
-        "Fah, un charmant et amical AI thaïlandais ! Besoin de conseils de vie, de recommandations de voyage, ou simplement d’une conversation amusante ? Fah est là pour vous. Elle parle couramment le thaï, l’anglais, le chinois, le japonais, le coréen, le français et le vietnamien. Vous utilisez LINE ? Ajoutez Fah dès maintenant et découvrez une nouvelle façon agréable de communiquer !",
+        "Fah, une charmante et amicale compagne AI thaïlandaise ! Besoin de conseils de vie, de recommandations de voyage ou simplement d’une conversation amusante ? Fah est là pour vous. Elle parle couramment le thaï, l’anglais, le chinois, le japonais, le coréen, le français et le vietnamien, et elle est toujours prête à discuter avec vous. Vous utilisez LINE ? Ajoutez Fah dès maintenant et découvrez une nouvelle façon agréable de communiquer !",
 
     images: [
         {

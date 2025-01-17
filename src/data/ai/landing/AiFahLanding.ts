@@ -19,7 +19,7 @@ export const AiFahLanding: IAiLanding = {
                 },
                 {
                     title: "Multilingual Expertise",
-                    description: "Communicate seamlessly in 7 languages, including Thai, English, French, Vietnamese, Japanese, Chinese, and Korean."
+                    description: "Communicate seamlessly in multi-languages, including Thai, English, French, Vietnamese, Japanese, Chinese, Korean, etc."
                 },
             ]
         },
@@ -71,7 +71,7 @@ export const AiFahLanding: IAiLanding = {
         {
             icon: "bx bx-globe", // Globe icon
             caption: "Languages:",
-            text: "7 Languages",
+            text: "Multi-languages",
         },
         {
             icon: "bx bx-calendar", // Calendar icon

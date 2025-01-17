@@ -21,7 +21,7 @@ export const AiBuakaewLanding: IAiLanding = {
                 },
                 {
                     title: "Multilingual Expertise",
-                    description: "Fluent in 7 languages, including Thai, English, French, Vietnamese, Japanese, Chinese, and Korean."
+                    description: "Fluent in multi-languages, including Thai, English, French, Vietnamese, Japanese, Chinese, Korean, etc."
                 },
             ]
         },
@@ -73,7 +73,7 @@ export const AiBuakaewLanding: IAiLanding = {
         {
             icon: "bx bx-globe", // Globe icon
             caption: "Languages:",
-            text: "7 Languages",
+            text: "Multi-languages",
         },
         {
             icon: "bx bx-calendar", // Calendar icon

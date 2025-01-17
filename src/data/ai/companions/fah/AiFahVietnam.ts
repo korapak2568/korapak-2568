@@ -24,7 +24,7 @@ export const AiFahVietnam: IAiDetail = {
 
     title: "Fah, Người Bạn Trò Chuyện AI LINE!",
     content:
-        "Fah, một người bạn trò chuyện AI thân thiện và quyến rũ từ Thái Lan! Cần lời khuyên cuộc sống, mẹo du lịch, hoặc chỉ đơn giản là một cuộc trò chuyện thú vị? Fah luôn sẵn sàng bên bạn. Thành thạo tiếng Thái, tiếng Anh, tiếng Trung, tiếng Nhật, tiếng Hàn, tiếng Pháp và tiếng Việt, Fah luôn sẵn sàng trò chuyện bất cứ lúc nào. Đang sử dụng LINE? Hãy thêm Fah ngay để khám phá một cách kết nối mới đầy thú vị!",
+        "Fah, một người bạn trò chuyện AI thân thiện và quyến rũ từ Thái Lan! Bạn cần lời khuyên về cuộc sống, mẹo du lịch, hoặc chỉ đơn giản là một cuộc trò chuyện thú vị? Fah luôn sẵn sàng bên bạn. Thành thạo các ngôn ngữ như tiếng Thái, tiếng Anh, tiếng Trung, tiếng Nhật, tiếng Hàn, tiếng Pháp và tiếng Việt, Fah luôn sẵn sàng trò chuyện bất cứ lúc nào. Đang sử dụng LINE? Hãy thêm Fah ngay để khám phá cách kết nối mới đầy thú vị!",
 
     images: [
         {
