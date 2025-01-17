@@ -9,7 +9,7 @@ export const LogoSocial: React.FC = () => {
         <div className="col-lg-3 col-sm-6">
             <div className="single-footer-widget">
                 <div className="logo logo-bg-custom">
-                    <Link href="/public">
+                    <Link href="/">
                         <Image
                             src={Info.Images.logo.md.path}
                             alt={Info.Images.logo.md.title}

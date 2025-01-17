@@ -25,12 +25,6 @@ const AiCompanionsPage: React.FC = () => {
                                 </ul>
                             </div>
 
-                            <div>
-                                <strong>Note</strong>
-                                {Info.Service.demo.note.map((note, index) => (
-                                    <p key={index}>{note.description}</p>
-                                ))}
-                            </div>
                         </div>
 
                         {Info.AiCompanions.english.map((ai, index) => (

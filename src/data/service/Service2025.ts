@@ -30,8 +30,8 @@ export const Service2025: IService = {
     ],
 
     demo: {
-        title: "AI Chat Companion Demo",
-        description: "Welcome to the AI Chat Companion Demo! Explore a variety of AI companions, " +
+        title: "AI Chat Companion",
+        description: "Welcome to the AI Chat Companion! Explore a variety of AI companions, " +
             "each with unique personalities, designed to interact seamlessly with users via the LINE application. " +
             "These AI companions can communicate in multiple languages, including Thai, English, Chinese, " +
             "Japanese, Korean, French, and Vietnamese.",
