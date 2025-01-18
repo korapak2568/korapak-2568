@@ -8,7 +8,7 @@ export const Feature2025: IFeature = {
         {
             title: "AI Solutions Service",
             description: "CHORN specializes in advanced AI agent development, delivering intelligent, responsive solutions tailored to meet specific needs",
-            link: "/ai-solutions/",
+            link: "/services/ai-solutions/",
             icon: "bx bxs-brain"
         },
         {
