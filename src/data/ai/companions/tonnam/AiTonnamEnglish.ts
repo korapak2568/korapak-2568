@@ -22,7 +22,7 @@ export const AiTonnamEnglish: IAiDetail = {
         }
     },
 
-    title: "Tonnam, Ai LINE Companion!",
+    title: "Tonnam, AI Chat Companion",
     content:
         "Fah, ai chat friend in 6 languages, a charming and friendly Thai ai chat companion! Need life advice, " +
         "travel tips, or just a fun conversation? Fah is here for you. Fluent in Thai, English, Chinese, Japanese, " +
