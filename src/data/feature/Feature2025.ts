@@ -15,14 +15,14 @@ export const Feature2025: IFeature = {
             title: "Front End Development",
             description: "UI frameworks and libraries such as React, Next.js, Angular, Vue, " +
                 "and TypeScript, JavaScript, HTML3, and CSS3.",
-            link: "/outsourcing-software-development/front-end-developer/",
+            link: "/services/front-end-developer/",
             icon: "bx bx-code-alt"
         },
         {
             title: "Full Stack Development",
             description: "Comprehensive full-stack-developer development services using Node.js, " +
                 "Java, Spring Boot, Go-lang, PHP, and Python.",
-            link: "/outsourcing-software-development/full-stack-developer/",
+            link: "/services/full-stack-developer/",
             icon: "bx bx-layer"
         },
         {

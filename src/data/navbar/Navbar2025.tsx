@@ -33,13 +33,13 @@ export const Navbar2025: INavbar[] = [
             {
                 group: "/services/",
                 label: "Frontend Development",
-                link: "/outsourcing-software-development/front-end-developer/",
+                link: "/services/front-end-developer/",
                 submenu: []
             },
             {
                 group: "/services/",
                 label: "Full Stack Development",
-                link: "/outsourcing-software-development/full-stack-developer/",
+                link: "/services/full-stack-developer/",
                 submenu: []
             },
             {

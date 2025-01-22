@@ -26,7 +26,6 @@ const Navbar: React.FC = () => {
     }, []);
 
     // Search Modal
-    const [isActiveSearchModal, setActiveSearchModal] = useState(true);
     const classOne = menu
         ? "collapse navbar-collapse"
         : "collapse navbar-collapse show";

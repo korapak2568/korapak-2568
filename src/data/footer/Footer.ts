@@ -100,11 +100,11 @@ export const Footer: IFooter = {
         },
         {
             label: "Front End Development",
-            link: "/outsourcing-software-development/front-end-developer/"
+            link: "/services/front-end-developer/"
         },
         {
             label: "Full Stack Development",
-            link: "/outsourcing-software-development/full-stack-developer/"
+            link: "/services/full-stack-developer/"
         },
         {
             label: "Web3 Blockchain Smart Contract",
@@ -122,17 +122,20 @@ export const Footer: IFooter = {
     infoLinks: [
         {
             label: "Work Models",
-            link: "Remote, Office, Hybrid",
+            linkText: "Remote, Office, Hybrid",
+            link: "/",
             icon: "flaticon-speed hover-rotate", // Represents work or career
         },
         {
             label: "Service Models",
-            link: "Permanent, Contract, Freelance",
+            linkText: "Permanent, Contract, Freelance",
+            link: "/",
             icon: "flaticon-connection hover-rotate", // Represents flexibility and service customization
         },
         {
             label: "Address",
-            link: "Chiang Mai, Thailand",
+            linkText: "Chiang Mai, Thailand",
+            link: "https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu",
             icon: "flaticon-pin hover-rotate",
         },
     ],

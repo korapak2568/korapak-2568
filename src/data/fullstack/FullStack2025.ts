@@ -8,10 +8,10 @@ export const FullStack2025: IFullStack = {
     dotnetcore: {
         title: ".NET Core, API",
         description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
-        image: "/chorn-images/outsourcing-software-development/full-stack-developer/dotnetcore-developer.webp",
+        image: "/chorn-images/services/full-stack-developer/dotnetcore-developer.webp",
         alt: "Logo representing .NET Core API development",
         readMore: "Explore more .NET Core API full-stack development solutions",
-        link: "/outsourcing-software-development/full-stack-developer/dotnetcore-developer",
+        link: "/services/full-stack-developer/dotnetcore-developer",
         features: [
             {
                 title: ".NET Core Development",
@@ -68,10 +68,10 @@ export const FullStack2025: IFullStack = {
     go: {
         title: "GO",
         description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
-        image: "/chorn-images/outsourcing-software-development/full-stack-developer/go-developer.webp",
+        image: "/chorn-images/services/full-stack-developer/go-developer.webp",
         alt: "Logo representing Go programming language",
         readMore: "Explore more Go full-stack development solutions",
-        link: "/outsourcing-software-development/full-stack-developer/go-developer",
+        link: "/services/full-stack-developer/go-developer",
         features: [
             {
                 title: "Go Development",
@@ -120,10 +120,10 @@ export const FullStack2025: IFullStack = {
     java: {
         title: "Java, Spring Boot",
         description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
-        image: "/chorn-images/outsourcing-software-development/full-stack-developer/java-spring-boot-developer.webp",
+        image: "/chorn-images/services/full-stack-developer/java-spring-boot-developer.webp",
         alt: "Logo representing Java with Spring Boot framework",
         readMore: "Explore more Java Spring Boot full-stack development solutions",
-        link: "/outsourcing-software-development/full-stack-developer/java-spring-boot-developer",
+        link: "/services/full-stack-developer/java-spring-boot-developer",
         features: [
             {
                 title: "Java Spring Boot Development",
@@ -175,10 +175,10 @@ export const FullStack2025: IFullStack = {
             "environment that allows developers to build scalable network applications efficiently. " +
             "With an event-driven, non-blocking I/O model, Node.js is ideal for building fast, lightweight " +
             "applications, real-time communication systems, and data-intensive tasks, making it a popular choice for modern software development, including AI integrations.",
-        "image": "/chorn-images/outsourcing-software-development/full-stack-developer/nodejs-developer.webp",
+        "image": "/chorn-images/services/full-stack-developer/nodejs-developer.webp",
         "alt": "Logo representing NodeJS technology",
         "readMore": "Explore more NodeJS full-stack development solutions",
-        "link": "/outsourcing-software-development/full-stack-developer/nodejs-developer",
+        "link": "/services/full-stack-developer/nodejs-developer",
         "features": [
             {
                 "title": "NodeJS Development",
@@ -264,10 +264,10 @@ export const FullStack2025: IFullStack = {
     php: {
         title: "PHP",
         description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
-        image: "/chorn-images/outsourcing-software-development/full-stack-developer/php-developer.webp",
+        image: "/chorn-images/services/full-stack-developer/php-developer.webp",
         alt: "Logo representing PHP programming language",
         readMore: "Explore more PHP full-stack development solutions",
-        link: "/outsourcing-software-development/full-stack-developer/php-developer",
+        link: "/services/full-stack-developer/php-developer",
         features: [
             {
                 title: "PHP Development",
@@ -316,10 +316,10 @@ export const FullStack2025: IFullStack = {
     python: {
         title: "Python, Flask",
         description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
-        image: "/chorn-images/outsourcing-software-development/full-stack-developer/python-developer.webp",
+        image: "/chorn-images/services/full-stack-developer/python-developer.webp",
         alt: "Logo representing Python with Flask framework",
         readMore: "Explore more Python, Flask, Django full-stack development solutions",
-        link: "/outsourcing-software-development/full-stack-developer/python-developer",
+        link: "/services/full-stack-developer/python-developer",
         features: [
             {
                 title: "Python Development",
