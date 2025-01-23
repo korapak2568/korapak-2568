@@ -10,20 +10,20 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import {Info} from "@/data/info/Info";
 
 export const metadata: Metadata = {
-    title: ".NET Core Full Stack Development | CHORN",
-    description: "CHORN offers .NET Core full stack development services to build modern, scalable, and secure web applications.",
+    title: ".NET Core C# Full Stack Development | CHORN",
+    description: "CHORN offers .NET Core C# full stack development services to build modern, scalable, and secure web applications.",
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/dotnetcore-developer/",
     },
     openGraph: {
-        title: ".NET Core Development | CHORN",
-        description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core full stack development services.",
+        title: ".NET Core C# Development | CHORN",
+        description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core C# full stack development services.",
         images: [
             {
                 url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.webp",
                 width: 1200,
                 height: 630,
-                alt: ".NET Core Development Banner"
+                alt: ".NET Core C# Development Banner"
             }
         ],
         url: "https://chorn.in.th/services/full-stack-developer/dotnetcore-developer/",
@@ -31,16 +31,16 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: ".NET Core Full Stack Development | CHORN",
-        description: "Expert .NET Core full stack development services from CHORN for modern and scalable web applications.",
+        title: ".NET Core C# Full Stack Development | CHORN",
+        description: "Expert .NET Core C# full stack development services from CHORN for modern and scalable web applications.",
         images: [
             "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.webp",
         ],
     },
     keywords: [
-        // Core .NET Core & service Keywords
-        ".NET Core development", ".NET Core services", ".NET Core developer", "custom .NET Core development",
-        "enterprise .NET Core applications", "ASP.NET Core development", ".NET Core web applications",
+        // Core .NET Core C# & service Keywords
+        ".NET Core C# development", ".NET Core C# services", ".NET Core C# developer", "custom .NET Core C# development",
+        "enterprise .NET Core C# applications", "ASP.NET Core C# development", ".NET Core C# web applications",
         "custom software development",
 
         // Web & Application Development Keywords
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
         "high-performance applications", "custom web applications", "API development",
 
         // Developer & Location-Specific Keywords
-        ".NET Core developer Thailand", ".NET Core developer Bangkok", ".NET Core developer Chiangmai",
+        ".NET Core C# developer Thailand", ".NET Core C# developer Bangkok", ".NET Core C# developer Chiangmai",
         "backend developer Thailand", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords
@@ -71,8 +71,8 @@ const Page = () => {
             <Footer/>
 
             <SchemaMarkupServicePage
-                name=".NET Core Full Stack Development | CHORN"
-                description="CHORN offers .NET Core full stack development services to build modern, scalable, and secure web applications."
+                name=".NET Core C# Full Stack Development | CHORN"
+                description="CHORN offers .NET Core C# full stack development services to build modern, scalable, and secure web applications."
                 url="https://chorn.in.th/services/full-stack-developer/dotnetcore-developer/"
             />
         </>
