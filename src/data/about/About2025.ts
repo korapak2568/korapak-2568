@@ -37,11 +37,12 @@ export const About2025: IAbout = {
                 "and achieve long-term innovation."
         },
         {
-            title: "Custom Software Development",
-            description:
-                "Modernizes legacy systems and delivers tailored software solutions for Web, API, LINE OA, and Mobile platforms. " +
-                "From proofs of concept (PoC) to MVPs and production maintenance, scalable, high-performance applications are built " +
-                "to meet diverse client needs and support future growth."
+            "title": "Custom Software Development",
+            "description":
+                "Transforming legacy systems and creating bespoke software solutions using SQL, NoSQL, and cutting-edge " +
+                "framework technologies for Web, API, LINE OA, and Mobile platforms. From proof of concept (PoC) and " +
+                "MVP development to production maintenance, scalable, high-performance applications are tailored to " +
+                "diverse business needs and designed to support future growth."
         }
     ]
 };
