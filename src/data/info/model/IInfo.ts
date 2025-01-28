@@ -16,6 +16,7 @@ import {IFeature} from "@/data/feature/model/IFeature";
 import {IAiCompanions} from "@/data/ai/model/IAiCompanions";
 import {IService} from "@/data/service/model/IService";
 import {IWeb3} from "@/data/web3/model/IWeb3";
+import {IGallery} from "@/data/gallery/model/IGallery";
 
 export interface IInfo {
     Languages: ILanguage[],
@@ -43,4 +44,6 @@ export interface IInfo {
     Contact: IContact,
     Consent: IConsent,
     Images: IImage,
+
+    Gallery: IGallery
 }

@@ -70,6 +70,12 @@ export const Navbar2025: INavbar[] = [
         ],
     },
     {
+        group: "/gallery/",
+        label: "Gallery",
+        link: "/gallery/",
+        submenu: []
+    },
+    {
         group: "/about-chorn/",
         label: "About",
         link: "/about-chorn/",

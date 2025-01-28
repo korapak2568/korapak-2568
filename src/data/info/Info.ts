@@ -18,6 +18,7 @@ import {About2025} from "@/data/about/About2025";
 import {Image} from "@/data/image/Image";
 import {AiCompanions} from "@/data/ai/AiCompanions";
 import {Web3} from "@/data/web3/Web3";
+import {Gallery} from "@/data/gallery/Gallery";
 
 export const Info: IInfo = {
     Languages,
@@ -45,5 +46,7 @@ export const Info: IInfo = {
     Contact: Contact2025,
     Consent: Consent2025,
 
-    Images: Image
+    Images: Image,
+
+    Gallery: Gallery
 }
