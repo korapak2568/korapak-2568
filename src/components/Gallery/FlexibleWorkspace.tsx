@@ -6,7 +6,7 @@ import {Autoplay, Navigation} from "swiper/modules";
 import Image from "next/image";
 import {Info} from "@/data/info/Info";
 
-const MainBanner: React.FC = () => {
+const FlexibleWorkspace: React.FC = () => {
     return (
         <>
             <div className="home-wrapper-area">
@@ -100,4 +100,4 @@ const MainBanner: React.FC = () => {
     );
 };
 
-export default MainBanner;
+export default FlexibleWorkspace;

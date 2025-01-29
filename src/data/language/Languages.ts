@@ -63,14 +63,14 @@ export const Languages: ILanguage[] = [
         tonnam: AiTonnamEnglish,
         milk: AiMilkEnglish,
     },
-    {
-        label: "French",
-        value: ELanguage.french,
-        fah: AiFahFrench,
-        buakaew: AiBuakaewEnglish,
-        aom: AiAomEnglish,
-        ploy: AiPloyEnglish,
-        tonnam: AiTonnamEnglish,
-        milk: AiMilkEnglish,
-    }
+    // {
+    //     label: "French",
+    //     value: ELanguage.french,
+    //     fah: AiFahFrench,
+    //     buakaew: AiBuakaewEnglish,
+    //     aom: AiAomEnglish,
+    //     ploy: AiPloyEnglish,
+    //     tonnam: AiTonnamEnglish,
+    //     milk: AiMilkEnglish,
+    // }
 ]

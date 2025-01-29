@@ -1,20 +1,19 @@
 "use client";
 
 import React from "react";
-import Link from "next/link";
 import Image from "next/image";
-import {Info} from "@/data/info/Info";
+import {Info} from "@/data/info/Info"
+import HomeAiSolutionBanner from "@/components/AI/HomeAiSolutionBanner/HomeAiSolutionBanner";
 
 const AiSolutionsPage: React.FC = () => {
     return (
         <>
             <div className="portfolio-area pt-4 pb-100">
+                <HomeAiSolutionBanner/>
+
                 <div className="container">
                     <div className="row">
-
                         <div className={'add-web-content'}>
-                            <p dangerouslySetInnerHTML={{__html: Info.Service.description} as { __html: string }}/>
-
                             <div>
                                 <h2>{Info.Service.title}</h2>
                                 <ul>
@@ -25,55 +24,7 @@ const AiSolutionsPage: React.FC = () => {
                                     ))}
                                 </ul>
                             </div>
-
-                            <div>
-                                <h2>{Info.Service.demo.title}</h2>
-                                <p>{Info.Service.demo.description}</p>
-                                <p dangerouslySetInnerHTML={{__html: Info.Service.demo.link.text}}/>
-
-                                <div>
-                                    <strong>{Info.Service.demo.procedure.title}</strong>
-                                    <ul>
-                                        {Info.Service.demo.procedure.steps.map((service, index) => (
-                                            <li key={index}>
-                                                <strong>{service.title}</strong> {service.description}
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <div>
-                                <strong>Note</strong>
-                                {Info.Service.demo.note.map((note, index) => (
-                                    <p key={index}>{note.description}</p>
-                                ))}
-                            </div>
                         </div>
-
-                        {Info.AiCompanions.english.map((ai, index) => (
-                            <div key={index} className="col-lg-4 col-md-6">
-                                <div className="single-portfolio-item">
-                                    <div className="portfolio-image">
-                                        <Link href={ai.pages.landing.link}>
-                                            <Image
-                                                src={ai.thumbnail}
-                                                alt="image"
-                                                width={650}
-                                                height={500}
-                                            />
-                                        </Link>
-                                    </div>
-
-                                    <div className="portfolio-content">
-                                        <h3>
-                                            <Link href={ai.pages.landing.link}>{ai.name}</Link>
-                                        </h3>
-                                        <span>{ai.category}</span>
-                                    </div>
-                                </div>
-                            </div>
-                        ))}
                     </div>
                 </div>
 

@@ -1,18 +1,18 @@
-// src/components/LogoSocial/MainBannerAi/page.tsx
+// src/components/LogoSocial/HomeAiSolutionBanner/HomeAiSolutionBanner.tsx
 
 "use client";
 
 import React from "react";
-import Left from "@/components/AI/MainBannerAi/left";
-import Right from "@/components/AI/MainBannerAi/right";
+import Left from "@/components/AI/HomeAiSolutionBanner/left";
+import Right from "@/components/AI/HomeAiSolutionBanner/right";
 
-export default function Page() {
+export default function HomeAiSolutionBanner() {
 
     return (
         <>
             <div className="main-banner">
-                <div className="main-banner-item item-four">
-                    <div className="d-table">
+                <div className="main-banner-item main-banner-ai-solutions">
+                    <div className="d-table d-table-ai-solutions">
                         <div className="d-table-cell">
                             <div className="container-fluid">
                                 <div className="row align-items-center">

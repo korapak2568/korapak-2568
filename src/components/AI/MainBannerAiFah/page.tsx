@@ -10,12 +10,12 @@ export default function Page() {
         <>
             <div className="main-banner">
                 <div
-                    className="main-banner-item"
+                    className="main-banner-item main-banner-fah"
                     style={{
                         backgroundImage: `url(/images/main-banner-bg-1.jpg)`,
                     }}
                 >
-                    <div className="d-table">
+                    <div className="d-table d-table-fah">
                         <div className="d-table-cell">
                             <div className="container-fluid">
                                 <div className="row align-items-center">

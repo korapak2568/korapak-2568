@@ -1,10 +1,10 @@
-// src/components/LogoSocial/MainBanner/page.tsx
+// src/components/LogoSocial/FlexibleWorkspace/HomeAiSolutionBanner.tsx
 
 "use client";
 
 import React from "react";
-import Left from "@/components/AI/MainBannerAi/left";
-import Right from "@/components/AI/MainBannerAi/right";
+import Left from "@/components/AI/HomeAiSolutionBanner/left";
+import Right from "@/components/AI/HomeAiSolutionBanner/right";
 
 export default function Page() {
 

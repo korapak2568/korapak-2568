@@ -4,6 +4,7 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import {Info} from "@/data/info/Info";
+import MainBannerAiFah from "@/components/AI/MainBannerAiFah/page";
 
 const AiCompanionsPage: React.FC = () => {
     return (
@@ -27,8 +28,10 @@ const AiCompanionsPage: React.FC = () => {
 
                         </div>
 
-                        {Info.AiCompanions.english.map((ai, index) => (
-                            <div key={index} className="col-lg-4 col-md-6">
+                        <MainBannerAiFah/>
+
+                        {Info.AiCompanions.english.slice(0, 3).map((ai, index) => (
+                            <div key={index} className="col-lg-4 col-md-6 pt-3">
                                 <div className="single-portfolio-item">
                                     <div className="portfolio-image">
                                         <Link href={ai.pages.landing.link}>
@@ -41,7 +44,7 @@ const AiCompanionsPage: React.FC = () => {
                                         </Link>
                                     </div>
 
-                                    <div className="portfolio-content">
+                                    <div className="portfolio-content portfolio-ai-companions">
                                         <h3>
                                             <Link href={ai.pages.landing.link}>{ai.name}</Link>
                                         </h3>

@@ -534,11 +534,35 @@
   height: 450px !important;
 }
 
-// Page Title
+// HomeAiSolutionBanner Title
 .h2-page-title {
   text-transform: unset !important;
 }
 
 .gallery-global-image {
   height: 300px !important;
+}
+
+// Banner Fah
+.main-banner-fah {
+  height: 500px;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.d-table-fah {
+  height: unset;
+}
+
+// AI Companions
+.portfolio-ai-companions {
+  padding: 15px 20px !important;
+}
+
+.main-banner-ai-solutions {
+  height: unset;
+}
+
+.d-table-ai-solutions {
+  height: unset;
 }

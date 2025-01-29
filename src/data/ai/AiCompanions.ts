@@ -1,4 +1,3 @@
-import {AiFahThai} from "@/data/ai/companions/fah/AiFahThai";
 import {AiBuakaewEnglish} from "@/data/ai/companions/buakaew/AiBuakaewEnglish";
 import {AiAomEnglish} from "@/data/ai/companions/aom/AiAomEnglish";
 import {AiPloyEnglish} from "@/data/ai/companions/ploy/AiPloyEnglish";
