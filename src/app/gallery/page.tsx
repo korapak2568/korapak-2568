@@ -15,7 +15,7 @@ export const metadata: Metadata = {
         description: "Discover CHORN's global expertise through international business trips, premium travel experiences, and advanced training capabilities.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/gallery/global/chorn-global-001.jpg",
+                url: "https://chorn.in.th/chorn-images/gallery/gallery-og-image.jpg",
                 width: 1200,
                 height: 630,
                 alt: "Global Business Trip Highlights",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
         title: "Global Business Trip - CHORN Gallery",
         description: "Experience CHORN’s international business journey, premium travel, and global training expertise.",
         images: [
-            "https://chorn.in.th/chorn-images/gallery/global/chorn-global-001.jpg"
+            "https://chorn.in.th/chorn-images/gallery/gallery-og-image.jpg"
         ],
     },
 };

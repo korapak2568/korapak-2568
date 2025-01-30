@@ -27,10 +27,10 @@ export const metadata: Metadata = {
         description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/gallery/chorn-workplace-001.jpg",
+                url: "https://chorn.in.th/chorn-images/home/home-og-image.jpg",
                 width: 1200,
                 height: 630,
-                alt: "Fah ai Banner CHORN",
+                alt: "Flexible Workplace",
             },
         ],
         url: "https://chorn.in.th",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
         title: "CHORN | AI & Software Solutions",
         description: "CHORN offers cutting-edge software development, scalable websites, and technology expertise in Blockchain, Web3, and more. Partner with us for future-ready solutions.",
         images: [
-            "https://chorn.in.th/chorn-images/gallery/chorn-workplace-001.jpg",
+            "https://chorn.in.th/chorn-images/home/home-og-image.jpg",
         ],
     },
     keywords: [

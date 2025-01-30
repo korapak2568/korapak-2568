@@ -17,7 +17,7 @@ export const metadata: Metadata = {
         description: "Discover AI companions with unique personalities, interacting seamlessly via the LINE app in Thai, English, Chinese, Japanese, Korean, French, and Vietnamese.",
         images: [
             {
-                url: "https://chorn.in.th/images-ai/fah/fah-003.png",
+                url: "https://chorn.in.th/images-ai/ai-companions/ai-companions-og-image.jpg",
                 width: 1200,
                 height: 630,
                 alt: "AI Chat Companion Demo",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
         title: "AI Chat Companion - Explore AI-Powered Interactions",
         description: "Engage with AI companions that communicate in multiple languages via the LINE app. Discover seamless AI integration today!",
         images: [
-            "https://chorn.in.th/images-ai/fah/fah-003.png"
+            "https://chorn.in.th/images-ai/ai-companions/ai-companions-og-image.jpg"
         ],
     },
 };
