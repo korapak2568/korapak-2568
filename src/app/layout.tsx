@@ -18,20 +18,20 @@ import GoTop from "@/components/Layouts/GoTop";
 import React from "react";
 import ProviderWrapper from "../components/ProviderWrapper/ProviderWrapper";
 import ConsentModal from "@/components/Consent/ConsentModal";
+import Head from "next/head";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
     return (
         <html lang="en">
-        <head>
-            <title>CHORN | AI & Software Solutions</title>
-            <link
-                rel="preload"
-                as="image"
-                href="/chorn-images/services/services-11.webp"
-            />
-        </head>
+
+        <Head>
+            <meta property="og:author" content="CHORN"/>
+            <meta property="og:logo"
+                  content="https://chorn.in.th/chorn-images/logo-2025/chorn-logo.png"/>
+        </Head>
+
         <body className={dm_sans.className}>
         <ProviderWrapper>
             <ConsentModal/>
