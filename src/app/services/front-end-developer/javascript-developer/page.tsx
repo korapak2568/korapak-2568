@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: "Explore CHORN's expertise in JavaScript, a powerful tool for building scalable and high-performance applications. Learn why we choose JavaScript for custom software solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-serviceabout-chorn.jpg",
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-service.png",
                 width: 1200,
                 height: 630,
                 alt: "CHORN JavaScript Development Banner",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
         title: "CHORN - JavaScript Development for Custom Software Solutions",
         description: "Discover why CHORN uses JavaScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-serviceabout-chorn.jpg",
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-service.png",
         ],
     },
     keywords: [

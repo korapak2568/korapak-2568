@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "CHORN offers expert Angular development services to create fast, scalable, and dynamic web applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/angular-development-serviceabout-chorn.jpg",
+                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/angular-development-service.png",
                 width: 1200,
                 height: 630,
                 alt: "Angular Development Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "Angular Development Services | CHORN",
         description: "Elevate your web applications with expert Angular development services from CHORN.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/angular-development-serviceabout-chorn.jpg",
+            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/angular-development-service.png",
         ],
     },
     keywords: [

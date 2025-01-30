@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Enhance your web apps with React. CHORN offers expert React development services for high-performance applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/react-development-serviceabout-chorn.jpg",
+                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/react-development-service.png",
                 width: 1200,
                 height: 630,
                 alt: "React Development Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "React Development Services | CHORN",
         description: "Expert React development services by CHORN. Create engaging user interfaces with React.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/react-development-serviceabout-chorn.jpg",
+            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/react-development-service.png",
         ],
     },
     keywords: [
