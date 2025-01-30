@@ -3,7 +3,7 @@ import React from "react";
 export default function ContactLinkedIn() {
     return (
         <div className="col-lg-4 col-md-6 col-sm-6 linkedin-box">
-            <div className="badge-base LI-profile-badge"
+            <div className="badge-base LI-profile-badge linkedin-badge"
                  data-locale="en_US"
                  data-size="large"
                  data-theme="light"

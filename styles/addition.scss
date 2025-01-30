@@ -571,11 +571,22 @@
 
 // Contact
 .linkedin-box {
-  padding-left: 30px;
+  padding-left: 3%;
   padding-bottom: 30px;
 
-  .div {
-    width: 100%;
+  // iPhone view (768px and up)
+  @media (min-width: 390px) {
+    padding-left: 8%;
+  }
+
+  // Tablet view (768px and up)
+  @media (min-width: 768px) {
+    padding-left: 30px;
+  }
+
+  // Desktop view (1024px and up)
+  @media (min-width: 1024px) {
+    padding-left: 30px;
   }
 }
 
