@@ -5,7 +5,7 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
-    optimizeFonts: false
+    optimizeFonts: false,
 };
 
 export default nextConfig;

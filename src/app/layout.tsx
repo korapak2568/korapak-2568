@@ -25,13 +25,6 @@ const dm_sans = DM_Sans({subsets: ["latin"]});
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
     return (
         <html lang="en">
-
-        <Head>
-            <meta property="og:author" content="CHORN"/>
-            <meta property="og:logo"
-                  content="https://chorn.in.th/chorn-images/logo-2025/chorn-logo.png"/>
-        </Head>
-
         <body className={dm_sans.className}>
         <ProviderWrapper>
             <ConsentModal/>
