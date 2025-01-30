@@ -52,6 +52,11 @@ export default function Page() {
                 description="Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need."
                 url="https://chorn.in.th/contact-chorn/"
             />
+
+            <script src="https://platform.linkedin.com/badges/js/profile.js"
+                    async defer
+                    type="text/javascript">
+            </script>
         </>
     );
 }

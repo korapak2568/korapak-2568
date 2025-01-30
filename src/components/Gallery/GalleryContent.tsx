@@ -4,7 +4,7 @@ import React from "react";
 import Link from "next/link";
 import {Info} from "@/data/info/Info";
 
-const AboutContent: React.FC = () => {
+const GalleryContent: React.FC = () => {
     return (
         <>
             <div className="about-area ptb-100">
@@ -32,4 +32,4 @@ const AboutContent: React.FC = () => {
     );
 };
 
-export default AboutContent;
+export default GalleryContent;

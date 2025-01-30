@@ -4,8 +4,8 @@ import {IAboutContent} from "@/data/about/model/IAboutContent";
 
 export default function AboutRight() {
     return (
-        <div className="col-lg-6">
-            <div className="about-content warp">
+        <div className="col-lg-8">
+            <div className="about-content">
                 {Info.About.description.map((item: IAboutContent, index: number) => (
                     <div key={index}>
                         <h3 className={'mt-3'}>

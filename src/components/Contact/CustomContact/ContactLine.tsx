@@ -2,7 +2,7 @@ import {Info} from "@/data/info/Info";
 import Image from "next/image";
 import React from "react";
 
-export default function ChornContact() {
+export default function ContactLine() {
     return (
         <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="contact-info-box contact-info-box-custom">

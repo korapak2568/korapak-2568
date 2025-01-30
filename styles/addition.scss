@@ -52,7 +52,9 @@
 // Contact
 
 .contact-info-box-custom {
-  height: 220px;
+  height: 250px;
+  padding-top: 50px;
+  //border: none;
 
   .icon-line-oa {
     background-color: transparent !important;
@@ -565,4 +567,20 @@
 
 .d-table-ai-solutions {
   height: unset;
+}
+
+// Contact
+.linkedin-box {
+  padding-left: 30px;
+  padding-bottom: 30px;
+
+  .div {
+    width: 100%;
+  }
+}
+
+// About
+.about-image-custom {
+  width: 100%;
+  height: 500px;
 }
