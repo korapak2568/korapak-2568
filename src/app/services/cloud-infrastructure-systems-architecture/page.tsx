@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: "Explore CHORN’s cloud solution architecture and systems analysis services. We design resilient, scalable, and optimized cloud solutions across AWS, Azure, GCP, and DigitalOcean.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/banner-logo.webp",
+                url: "https://chorn.in.th/chorn-images/metadata/banner-logo.png",
                 width: 1200,
                 height: 630,
                 alt: "Cloud Solution Architecture and Systems Analysis Banner",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
         title: "Cloud Solution Architecture & Systems Analysis | CHORN",
         description: "Optimize your cloud infrastructure with CHORN’s cloud solution architecture and systems analysis services, covering AWS, Azure, GCP, and DigitalOcean.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/banner-logo.webp",
+            "https://chorn.in.th/chorn-images/metadata/banner-logo.png",
         ],
     },
     keywords: [

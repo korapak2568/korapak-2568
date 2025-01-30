@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Automate your development process with CHORN’s Jenkins DevOps services for continuous integration and deployment.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.webp",
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.png",
                 width: 1200,
                 height: 630,
                 alt: "Jenkins DevOps Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "Jenkins DevOps Services | CHORN",
         description: "Enhance your software development lifecycle with Jenkins-based DevOps services from CHORN for CI/CD automation.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.webp",
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.png",
         ],
     },
     keywords: [

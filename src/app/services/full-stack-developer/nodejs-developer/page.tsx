@@ -19,7 +19,7 @@ export const metadata: Metadata = {
         description: "Build scalable and high-performance applications with CHORN’s Node.js full stack development services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/nodejs-development-service.webp",
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/nodejs-development-service.png",
                 width: 1200,
                 height: 630,
                 alt: "Node.js Development Banner"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         title: "Node.js Full Stack Development | CHORN",
         description: "Expert Node.js full stack development services from CHORN for efficient and scalable applications.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/nodejs-development-service.webp",
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/nodejs-development-service.png",
         ],
     },
     keywords: [

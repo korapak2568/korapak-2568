@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: "CHORN offers specialized Web3 blockchain and smart contract development services. CHORN expertise includes building DApps with Solidity, Ethereum, Polygon, and integrating with Hardhat, Ganache, and MetaMask.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/banner-logo.webp",
+                url: "https://chorn.in.th/chorn-images/metadata/banner-logo.png",
                 width: 1200,
                 height: 630,
                 alt: "Web3 Blockchain Smart Contract Development Services Banner",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
         title: "Web3 Blockchain Smart Contract Development | CHORN",
         description: "Explore CHORN’s Web3 and blockchain smart contract development services. CHORN creates decentralized applications (DApps) with Solidity, Ethereum, Polygon, and integrate with Hardhat, Ganache, and MetaMask.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/banner-logo.webp"
+            "https://chorn.in.th/chorn-images/metadata/banner-logo.png"
         ],
     },
     keywords: [

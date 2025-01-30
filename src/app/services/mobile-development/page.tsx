@@ -11,8 +11,6 @@ const Page = () => {
 
       <PageBanner pageTitle="Mobile App Development" />
 
-      {/*<ServicesCardFrontEnd />*/}
-
       <WeWorkForIndustries />
 
       <Footer />
