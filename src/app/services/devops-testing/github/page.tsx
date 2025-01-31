@@ -7,6 +7,7 @@ import ServicesDetailsGitHub from "@/components/Services/devops-testing/github/S
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Version} from "@/data/Version";
 
 export const metadata: Metadata = {
     title: "GitHub DevOps Services | CHORN",
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
         description: "Enhance your development workflow with CHORN’s GitHub-based DevOps services for CI/CD and version control.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/github.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/github.png" + Version.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "GitHub DevOps Banner"
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
         title: "GitHub DevOps Services | CHORN",
         description: "Streamline your development with CHORN’s GitHub DevOps services for version control and CI/CD workflows.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/github.png",
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/github.png" + Version.ogImage,
         ],
     },
     keywords: [

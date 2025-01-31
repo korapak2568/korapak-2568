@@ -3,12 +3,11 @@ import Navbar from "../../../components/Layouts/Navbar";
 import PageBanner from "../../../components/Common/PageBanner";
 import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
-import ServicesCardFrontEnd from "../../../components/Services/frontend-development/ServicesCardFrontEnd";
 import CloudExperience from "@/components/Common/CloudExperience";
-import ServicesCardFullStack from "@/components/Services/fullstack-development/ServicesCardFullStack";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import ServiceCardWebDevelopment from "@/components/Services/WebDevelopment/ServicesCardWebDevelopment";
+import {Version} from "@/data/Version";
 
 export const metadata: Metadata = {
     title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
@@ -21,7 +20,7 @@ export const metadata: Metadata = {
         description: "CHORN provides cutting-edge web development services with expertise in popular frameworks like Next.js, React, Angular, and more. CHORN caters to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png",
+                url: "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png" + Version.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Web Development Services Banner",
@@ -35,7 +34,7 @@ export const metadata: Metadata = {
         title: "Web Development Services | CHORN",
         description: "Discover CHORN’s expert web development services. From Next.js to Angular and beyond, CHORN offers solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png"
+            "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png" + Version.ogImage
         ],
     },
     keywords: [

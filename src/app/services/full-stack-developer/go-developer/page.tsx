@@ -7,6 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Version} from "@/data/Version";
 
 export const metadata: Metadata = {
     title: "Go Full Stack Development | CHORN",
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
         description: "Build efficient and scalable web applications with CHORN’s Go full stack development services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/go-development-service.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/go-development-service.png" + Version.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Go Development Banner"
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
         title: "Go Full Stack Development | CHORN",
         description: "Expert Go full stack development services from CHORN for efficient and scalable web applications.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/go-development-service.png",
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/go-development-service.png" + Version.ogImage,
         ],
     },
     keywords: [

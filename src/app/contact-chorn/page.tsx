@@ -6,6 +6,7 @@ import SubscribeForm from "../../components/Common/SubscribeForm";
 import ContactInfo from "../../components/Contact/ContactInfo";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Version} from "@/data/Version";
 
 // Define metadata for the Contact page
 export const metadata: Metadata = {
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
         description: "Get in touch with CHORN for expert custom software development solutions. We're here to answer your questions and provide support.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/contact-chorn.png",
+                url: "https://chorn.in.th/chorn-images/metadata/contact-chorn.png" + Version.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Contact CHORN Banner Image",
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
         title: "Contact CHORN - Let's Build Something Great Together",
         description: "Reach out to CHORN for custom software solutions tailored to your business needs. Contact us for inquiries or support.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/contact-chorn.png",
+            "https://chorn.in.th/chorn-images/metadata/contact-chorn.png" + Version.ogImage,
         ],
     },
 };

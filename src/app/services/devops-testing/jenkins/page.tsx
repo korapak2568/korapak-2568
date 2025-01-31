@@ -7,6 +7,7 @@ import ServicesDetailsJenkins from "@/components/Services/devops-testing/jenkins
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Version} from "@/data/Version";
 
 export const metadata: Metadata = {
     title: "Jenkins DevOps Services | CHORN",
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
         description: "Automate your development process with CHORN’s Jenkins DevOps services for continuous integration and deployment.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.png" + Version.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Jenkins DevOps Banner"
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
         title: "Jenkins DevOps Services | CHORN",
         description: "Enhance your software development lifecycle with Jenkins-based DevOps services from CHORN for CI/CD automation.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.png",
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.png" + Version.ogImage,
         ],
     },
     keywords: [

@@ -5,9 +5,9 @@ import Footer from "../../../components/Layouts/Footer";
 import WeWorkForIndustries from "../../../components/Common/WeWorkForIndustries";
 import ServicesCardFullStack from "@/components/Services/fullstack-development/ServicesCardFullStack";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Version} from "@/data/Version";
 
 export const metadata: Metadata = {
     title: "Full-Stack Development Services | CHORN",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: "CHORN provides full-stack development services with expertise in Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build powerful and scalable applications for your business.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png",
+                url: "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png" + Version.ogImage,
                 width: 1360,
                 height: 810,
                 alt: "Full-Stack Development Banner"
@@ -33,7 +33,9 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Full-Stack Development Services | CHORN",
         description: "Leverage full-stack development services by CHORN to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
-        images: ["https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png"],
+        images: [
+            "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png" + Version.ogImage
+        ],
     },
     keywords: [
         // Core Full Stack Development Keywords

@@ -8,6 +8,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Version} from "@/data/Version";
 
 export const metadata: Metadata = {
     title: "TypeScript | CHORN - Custom Software Development Experts",
@@ -20,7 +21,7 @@ export const metadata: Metadata = {
         description: "Explore CHORN's expertise in TypeScript, a powerful tool for building scalable and high-performance applications. Learn why we choose TypeScript for custom software solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/typescript-development-service.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/typescript-development-service.png" + Version.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "CHORN TypeScript Development Banner",
@@ -34,7 +35,7 @@ export const metadata: Metadata = {
         title: "CHORN - TypeScript Development for Custom Software Solutions",
         description: "Discover why CHORN uses TypeScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/typescript-development-service.png",
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/typescript-development-service.png" + Version.ogImage,
         ],
     },
     keywords: [

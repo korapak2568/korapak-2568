@@ -7,6 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
+import {Version} from "@/data/Version";
 
 export const metadata: Metadata = {
     title: "Java Spring Boot Full Stack Development | CHORN",
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
         description: "Leverage CHORN’s Java Spring Boot full stack development services to build scalable, secure, and high-performance applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png",
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png" + Version.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Java Spring Boot Development Banner"
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
         title: "Java Spring Boot Full Stack Development | CHORN",
         description: "Expert Java Spring Boot full stack development services from CHORN to build secure and scalable applications.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png",
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png" + Version.ogImage,
         ],
     },
     keywords: [
