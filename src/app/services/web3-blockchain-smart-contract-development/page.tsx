@@ -16,6 +16,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/web3-blockchain-smart-contract-development/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Top Web3 Blockchain Smart Contract Development Services | CHORN",
         description: "CHORN offers specialized Web3 blockchain and smart contract development services. CHORN expertise includes building DApps with Solidity, Ethereum, Polygon, and integrating with Hardhat, Ganache, and MetaMask.",

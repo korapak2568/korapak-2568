@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/go-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Go Development | CHORN",
         description: "Build efficient and scalable web applications with CHORN’s Go full stack development services.",

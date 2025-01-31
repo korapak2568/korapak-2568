@@ -16,6 +16,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/dotnetcore-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: ".NET Core C# Development | CHORN",
         description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core C# full stack development services.",

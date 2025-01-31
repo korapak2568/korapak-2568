@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/front-end-developer/react-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "React Development | CHORN",
         description: "Enhance your web apps with React. CHORN offers expert React development services for high-performance applications.",

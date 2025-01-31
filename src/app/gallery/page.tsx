@@ -11,6 +11,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/gallery/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Global Business Trip - CHORN Gallery",
         description: "Discover CHORN's global expertise through international business trips, premium travel experiences, and advanced training capabilities.",

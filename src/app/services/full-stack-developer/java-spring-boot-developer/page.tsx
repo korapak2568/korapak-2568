@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/java-spring-boot-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Java Spring Boot Development | CHORN",
         description: "Leverage CHORN’s Java Spring Boot full stack development services to build scalable, secure, and high-performance applications.",

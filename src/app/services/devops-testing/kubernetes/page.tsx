@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/devops-testing/kubernetes/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Kubernetes DevOps Services | CHORN",
         description: "Optimize your infrastructure with CHORN’s Kubernetes DevOps services for automated scaling and management of applications.",

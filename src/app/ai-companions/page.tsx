@@ -13,6 +13,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/ai-companions",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "AI Chat Companion - AI-Powered Integration",
         description: "Discover AI companions with unique personalities, interacting seamlessly via the LINE app in Thai, English, Chinese, Japanese, Korean, French, and Vietnamese.",

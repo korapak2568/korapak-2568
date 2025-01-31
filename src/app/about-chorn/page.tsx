@@ -13,6 +13,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/about-chorn/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "CHORN - Leaders in Custom Software Development",
         description: "Explore CHORN's mission and expertise in delivering innovative software solutions across industries. Learn more model our journey.",

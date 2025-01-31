@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/devops-testing/postman/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Postman API Testing Services | CHORN",
         description: "Ensure your APIs function as expected with CHORN’s Postman-based API testing services.",

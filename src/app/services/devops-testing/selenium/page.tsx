@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/devops-testing/selenium/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Selenium Testing | CHORN",
         description: "Automate your application testing with CHORN’s Selenium services for robust and reliable results.",

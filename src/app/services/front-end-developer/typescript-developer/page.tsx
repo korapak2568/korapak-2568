@@ -16,6 +16,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/typescript-javascript-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "CHORN - TypeScript Custom Software Development",
         description: "Explore CHORN's expertise in TypeScript, a powerful tool for building scalable and high-performance applications. Learn why we choose TypeScript for custom software solutions.",

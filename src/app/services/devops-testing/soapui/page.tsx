@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/devops-testing/soapui/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "SoapUI Testing | CHORN",
         description: "Ensure the reliability of your APIs and web services with CHORN’s SoapUI testing services.",

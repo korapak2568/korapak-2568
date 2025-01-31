@@ -16,6 +16,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/javascript-javascript-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "CHORN - JavaScript Custom Software Development",
         description: "Explore CHORN's expertise in JavaScript, a powerful tool for building scalable and high-performance applications. Learn why we choose JavaScript for custom software solutions.",

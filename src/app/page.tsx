@@ -23,6 +23,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: 'https://chorn.in.th', // Add canonical URL here
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "CHORN - AI & Software Solutions",
         description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",

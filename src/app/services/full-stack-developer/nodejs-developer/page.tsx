@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/nodejs-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Node.js Development | CHORN",
         description: "Build scalable and high-performance applications with CHORN’s Node.js full stack development services.",

@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/contact-chorn/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Contact CHORN - Custom Software Development Experts",
         description: "Get in touch with CHORN for expert custom software development solutions. We're here to answer your questions and provide support.",

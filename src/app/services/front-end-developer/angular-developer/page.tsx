@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/front-end-developer/angular-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Angular Development | CHORN",
         description: "CHORN offers expert Angular development services to create fast, scalable, and dynamic web applications.",

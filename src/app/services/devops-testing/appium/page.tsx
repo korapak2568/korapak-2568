@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/devops-testing/appium/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Appium Testing | CHORN",
         description: "Automate your mobile app testing with CHORN’s Appium services for comprehensive cross-platform testing.",

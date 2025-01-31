@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/php-developer/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "PHP Development | CHORN",
         description: "Leverage CHORN’s PHP full stack development services to build scalable and dynamic web applications.",

@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/front-end-developer/nextjs-developer",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Next.js Development | CHORN",
         description: "CHORN offers specialized Next.js development services to create fast and scalable web applications.",

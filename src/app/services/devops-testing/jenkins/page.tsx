@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/devops-testing/jenkins/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Jenkins DevOps Services | CHORN",
         description: "Automate your development process with CHORN’s Jenkins DevOps services for continuous integration and deployment.",

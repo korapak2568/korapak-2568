@@ -16,6 +16,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/cloud-solution-architecture-systems-analysis/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "Cloud Solution Architecture & Systems Analysis | CHORN",
         description: "Explore CHORN’s cloud solution architecture and systems analysis services. We design resilient, scalable, and optimized cloud solutions across AWS, Azure, GCP, and DigitalOcean.",

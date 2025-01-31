@@ -15,6 +15,11 @@ export const metadata: Metadata = {
     alternates: {
         canonical: "https://chorn.in.th/services/devops-testing/",
     },
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
     openGraph: {
         title: "DevOps & Testing Services | CHORN",
         description: "Leverage CHORN’s DevOps and testing services to enhance your software delivery with automation, continuous integration, and reliable testing solutions.",
