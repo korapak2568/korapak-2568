@@ -4,37 +4,37 @@ export const Gallery: IGallery = {
     slides: [
         {
             title: "Flexible Workspaces",
-            description: "Flexible work environments tailored to client needs, with key locations in Bangkok near BTS stations and landmarks like Siam Paragon, Central World, and ICON Siam.",
+            description: "Discover flexible work environments tailored to client needs, strategically located in Bangkok near BTS and MRT stations, iconic landmarks, and top shopping destinations like Siam Paragon, Central World, and ICON Siam.",
             image: "/chorn-images/home/chorn-workplace-001.jpg"
         },
         {
 
             title: "Flexible Workspaces",
-            description: "Flexible work environments tailored to client needs, with key locations in Bangkok near BTS stations and landmarks like Siam Paragon, Central World, and ICON Siam.",
+            description: "Discover flexible work environments tailored to client needs, strategically located in Bangkok near BTS and MRT stations, iconic landmarks, and top shopping destinations like Siam Paragon, Central World, and ICON Siam.",
             image: "/chorn-images/home/chorn-workplace-002.jpg"
         },
         {
 
             title: "Flexible Workspaces",
-            description: "Flexible work environments tailored to client needs, with key locations in Bangkok near BTS stations and landmarks like Siam Paragon, Central World, and ICON Siam.",
+            description: "Discover flexible work environments tailored to client needs, strategically located in Bangkok near BTS and MRT stations, iconic landmarks, and top shopping destinations like Siam Paragon, Central World, and ICON Siam.",
             image: "/chorn-images/home/chorn-workplace-003.jpg"
         },
         {
 
             title: "Flexible Workspaces",
-            description: "Flexible work environments tailored to client needs, with key locations in Bangkok near BTS stations and landmarks like Siam Paragon, Central World, and ICON Siam.",
+            description: "Discover flexible work environments tailored to client needs, strategically located in Bangkok near BTS and MRT stations, iconic landmarks, and top shopping destinations like Siam Paragon, Central World, and ICON Siam.",
             image: "/chorn-images/home/chorn-workplace-004.jpg"
         },
         {
 
             title: "Flexible Workspaces",
-            description: "Flexible work environments tailored to client needs, with key locations in Bangkok near BTS stations and landmarks like Siam Paragon, Central World, and ICON Siam.",
+            description: "Discover flexible work environments tailored to client needs, strategically located in Bangkok near BTS and MRT stations, iconic landmarks, and top shopping destinations like Siam Paragon, Central World, and ICON Siam.",
             image: "/chorn-images/home/chorn-workplace-005.jpg"
         },
         {
 
             title: "Flexible Workspaces",
-            description: "Flexible work environments tailored to client needs, with key locations in Bangkok near BTS stations and landmarks like Siam Paragon, Central World, and ICON Siam.",
+            description: "Discover flexible work environments tailored to client needs, strategically located in Bangkok near BTS and MRT stations, iconic landmarks, and top shopping destinations like Siam Paragon, Central World, and ICON Siam.",
             image: "/chorn-images/home/chorn-workplace-006.jpg"
         },
     ],
