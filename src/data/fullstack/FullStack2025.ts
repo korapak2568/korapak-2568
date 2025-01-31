@@ -1,8 +1,8 @@
 import {IFullStack} from "@/data/fullstack/model/IFullStack";
 
 export const FullStack2025: IFullStack = {
-    title: "Full Stack Experience",
-    span: "Outstanding Full Stack",
+    title: "Back-End & API Experience",
+    span: "Outstanding Back-End & API",
     subTitle: "",
 
     dotnetcore: {
@@ -314,7 +314,7 @@ export const FullStack2025: IFullStack = {
         ],
     },
     python: {
-        title: "Python, Flask",
+        title: "Python",
         description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
         image: "/chorn-images/services/full-stack-developer/python-developer.webp",
         alt: "Logo representing Python with Flask framework",
@@ -439,7 +439,7 @@ export const FullStack2025: IFullStack = {
     stacks: [],
 
     services: {
-        title: "Full Stack Development",
+        title: "Back-End & API Development",
         descriptions: [
             "Take advantage of our full-stack development outsourcing services to build robust, scalable, " +
             "and secure web applications from scratch. Our developers excel in both front-end and " +

@@ -10,8 +10,8 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import {Version} from "@/data/Version";
 
 export const metadata: Metadata = {
-    title: "Full-Stack Development Services | CHORN",
-    description: "CHORN offers expert full-stack development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions.",
+    title: "Back-End & API Development Services | CHORN",
+    description: "CHORN offers expert Back-End & API Development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions.",
     alternates: {
         canonical: "https://chorn.in.th/services/full-stack-developer/",
     },
@@ -21,14 +21,14 @@ export const metadata: Metadata = {
         }
     ],
     openGraph: {
-        title: "Full-Stack Development Services | CHORN",
-        description: "CHORN provides full-stack development services with expertise in Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build powerful and scalable applications for your business.",
+        title: "Back-End & API Development Services | CHORN",
+        description: "CHORN provides Back-End & API Development services with expertise in Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build powerful and scalable applications for your business.",
         images: [
             {
                 url: "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png" + Version.ogImage,
                 width: 1360,
                 height: 810,
-                alt: "Full-Stack Development Banner"
+                alt: "Back-End & API Development Banner"
             }
         ],
         url: "https://chorn.in.th/services/full-stack-developer/",
@@ -36,8 +36,8 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Full-Stack Development Services | CHORN",
-        description: "Leverage full-stack development services by CHORN to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
+        title: "Back-End & API Development Services | CHORN",
+        description: "Leverage Back-End & API Development services by CHORN to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
         images: [
             "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png" + Version.ogImage
         ],
@@ -73,7 +73,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Full Stack Development Services"/>
+            <PageBanner pageTitle="Back-End & API Development Services"/>
 
             <ServicesCardFullStack/>
 
@@ -84,8 +84,8 @@ const Page = () => {
             <Footer/>
 
             <SchemaMarkupServicePage
-                name="Full-Stack Development Services | CHORN"
-                description="CHORN offers expert full-stack development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions."
+                name="Back-End & API Development Services | CHORN"
+                description="CHORN offers expert Back-End & API Development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions."
                 url="https://chorn.in.th/services/full-stack-developer/"
             />
         </>

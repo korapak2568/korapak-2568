@@ -103,16 +103,12 @@ export const Footer: IFooter = {
             link: "/services/front-end-developer/"
         },
         {
-            label: "Full Stack Development",
+            label: "Back-End & API Development",
             link: "/services/full-stack-developer/"
         },
         {
             label: "Web3 Blockchain Smart Contract",
             link: "/services/web3-blockchain-smart-contract-development",
-        },
-        {
-            label: "Mobile Development",
-            link: "/services/mobile-development"
         },
         {
             label: "DevOps Testing",

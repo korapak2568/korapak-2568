@@ -1,8 +1,8 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
 
 export const FrontEnd2025: IFrontEnd = {
-    title: "Frontend Experience",
-    span: "Outstanding Frontend",
+    title: "Front-End Experience",
+    span: "Outstanding Front-End",
     subTitle: "",
 
     angular: {
@@ -396,7 +396,7 @@ export const FrontEnd2025: IFrontEnd = {
     stacks: [],
 
     services: {
-        title: "Frontend Development",
+        title: "Front-End Development",
         descriptions: [
             "Looking for a highly skilled front-end developer to bring your web application vision to life? " +
             "Our front-end development outsourcing services offer expertise in crafting user-friendly, " +
@@ -410,7 +410,7 @@ export const FrontEnd2025: IFrontEnd = {
         ],
         items: [
             {
-                title: "Frontend Development",
+                title: "Front-End Development",
                 description: "Leverage modern frameworks like Next.js and React for dynamic web apps."
             },
             {
