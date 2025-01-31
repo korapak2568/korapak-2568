@@ -23,26 +23,20 @@ export const About2025: IAbout = {
     ],
     stacks: [
         {
-            title: "AI Agents Development",
-            description:
-                "Specializes in designing, developing, and deploying intelligent systems for real-world applications. " +
-                "Expertise includes advanced language models, conversational interfaces, and integrating AI-driven solutions " +
-                "into various platforms, redefining innovation in AI to meet diverse business needs."
+            "title": "Front-End Development",
+            "description": "Crafting modern, high-performance user interfaces using the latest frameworks for web and mobile applications, ensuring seamless user experiences."
         },
         {
-            title: "AI Solutions Service",
-            description:
-                "Focuses on integrating cutting-edge AI technologies into existing systems to support rapid " +
-                "technological advancements. Helps businesses leverage AI to optimize operations, improve scalability, " +
-                "and achieve long-term innovation."
+            "title": "Back-End & API Development",
+            "description": "Building secure, scalable, and high-performance back-end systems, including APIs, cloud integration, and database solutions for seamless connectivity."
         },
         {
-            "title": "Custom Software Development",
-            "description":
-                "Transforming legacy systems and creating bespoke software solutions using SQL, NoSQL, and cutting-edge " +
-                "framework technologies for Web, API, LINE OA, and Mobile platforms. From proof of concept (PoC) and " +
-                "MVP development to production maintenance, scalable, high-performance applications are tailored to " +
-                "diverse business needs and designed to support future growth."
-        }
+            "title": "Legacy System Transformation",
+            "description": "Modernizing outdated systems with scalable, high-performance solutions, integrating SQL/NoSQL databases, APIs, and cloud technologies to future-proof business operations."
+        },
+        {
+            "title": "AI Solutions & Automation",
+            "description": "Delivering intelligent AI-powered solutions, including conversational agents, data-driven automation, and AI-enhanced business processes to drive innovation and efficiency."
+        },
     ]
 };
