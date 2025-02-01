@@ -2,22 +2,51 @@
 command = "yarn build"
 publish = "out"
 
+# Redirect www to non-www (Important for canonicalization)
+[[redirects]]
+from = "https://www.chorn.in.th/*"
+to = "https://chorn.in.th/:splat"  # :splat preserves the path
+status = 301
+force = true # Ensure this redirect always happens
+
+# Redirect angular subdomain to main domain
+[[redirects]]
+from = "https://angular.chorn.in.th/*"
+to = "https://chorn.in.th/:splat"  # Redirect to the root of your main domain
+status = 301
+force = true
+
+# Redirect outsourcing-software-development/full-stack-developer
+[[redirects]]
+from = "https://chorn.in.th/outsourcing-software-development/full-stack-developer/*"
+to = "https://chorn.in.th/services/full-stack-developer/:splat"
+status = 301
+force = true
+
+# Redirect services/front-end-developer (No change needed, but good to confirm)
+[[redirects]]
+from = "https://chorn.in.th/outsourcing-software-development/front-end-developer/*"
+to = "https://chorn.in.th/services/front-end-developer/:splat" # This effectively canonicalizes the URL
+status = 301
+force = true
+
+# Existing redirects (Review these carefully)
 [[redirects]]
 from = "/e-commerce-development"
-to = "https://angular.chorn.in.th/e-commerce-development"
-status = 302
+to = "/services/web-development/" # Redirect to your internal path
+status = 301 # Use 301 for permanent redirects
 force = true
 
 [[redirects]]
 from = "/mvp"
-to = "https://angular.chorn.in.th/mvp"
-status = 302
+to = "/services/web-development/"
+status = 301
 force = true
 
 [[redirects]]
 from = "/back-end-development"
-to = "/services/fullstack-development/"
-status = 302
+to = "/services/full-stack-developer/"
+status = 301
 force = true
 
 [[redirects]]
@@ -28,20 +57,20 @@ force = true
 
 [[redirects]]
 from = "/front-end-development"
-to = "/outsourcing-software-development/front-end-developer/"
-status = 302
+to = "/services/front-end-developer/"
+status = 301
 force = true
 
 [[redirects]]
 from = "/full-stack-development"
-to = "/outsourcing-software-development/full-stack-developer/"
-status = 302
+to = "/services/full-stack-developer/"
+status = 301
 force = true
 
 [[redirects]]
 from = "/custom-software-development"
 to = "/services/web-development/"
-status = 302
+status = 301
 force = true
 
 [[redirects]]
@@ -58,169 +87,37 @@ force = true
 
 [[redirects]]
 from = "/single-page-application"
-to = "/outsourcing-software-development/front-end-developer/"
-status = 302
+to = "/services/web-development/"
+status = 301
 force = true
 
 [[redirects]]
 from = "/galleries"
-to = "/404"
-status = 302
+to = "/gallery/"
+status = 301
 force = true
 
 [[redirects]]
 from = "/gits"
-to = "https://github.com/chorn-digital"
+to = "/services/devops-testing/github/"
 status = 301
 force = true
 
 [[redirects]]
 from = "/microservices-technology"
-to = "https://angular.chorn.in.th/microservices-technology"
-status = 302
+to = "/services/web-development/"
+status = 301
 force = true
 
 [[redirects]]
 from = "/responsive-web-design"
-to = "https://angular.chorn.in.th/responsive-web-design"
-status = 302
+to = "/services/web-development/"
+status = 301
 force = true
 
 [[redirects]]
 from = "/scaling"
-to = "https://angular.chorn.in.th/scaling"
-status = 302
-force = true
-
-[[redirects]]
-from = "/services/cloud-solution-architecture-systems-analysis/"
-to = "/services/cloud-infrastructure-systems-architecture/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/frontend-development/css3/"
-to = "/outsourcing-software-development/front-end-developer/css3-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/frontend-development/next.js/"
-to = "/outsourcing-software-development/front-end-developer/nextjs-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/frontend-development/react/"
-to = "/outsourcing-software-development/front-end-developer/react-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/frontend-development/angular/"
-to = "/outsourcing-software-development/front-end-developer/angular-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/frontend-development/vue/"
-to = "/outsourcing-software-development/front-end-developer/vue-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/nodejs/"
-to = "/outsourcing-software-development/full-stack-developer/nodejs-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/java-spring-boot/"
-to = "/outsourcing-software-development/full-stack-developer/java-spring-boot-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/dotnetcore/"
-to = "/outsourcing-software-development/full-stack-developer/dotnetcore-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/php/"
-to = "/outsourcing-software-development/full-stack-developer/php-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/python/"
-to = "/outsourcing-software-development/full-stack-developer/python-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/go-lang/"
-to = "/outsourcing-software-development/full-stack-developer/go-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/typescript/"
-to = "/outsourcing-software-development/full-stack-developer/typescript-javascript-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/frontend-development"
-to = "/outsourcing-software-development/front-end-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/full-stack-developer"
-to = "/outsourcing-software-development/full-stack-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/"
-to = "/outsourcing-software-development/full-stack-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/services/frontend-development/html5/"
-to = "/outsourcing-software-development/front-end-developer/html5-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/outsourcing-software-development/front-end-developer/react/"
-to = "/outsourcing-software-development/front-end-developer/react-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/outsourcing-software-development/front-end-developer/react"
-to = "/outsourcing-software-development/front-end-developer/react-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/outsourcing-software-development/front-end-developer/html5/"
-to = "/outsourcing-software-development/front-end-developer/html5-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/outsourcing-software-development/front-end-developer/next.js/"
-to = "/outsourcing-software-development/front-end-developer/nextjs-developer/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/outsourcing-software-development/front-end-developer/css3/"
-to = "/outsourcing-software-development/front-end-developer/css3-developer/"
+to = "/services/web-development/"
 status = 301
 force = true
 
@@ -233,31 +130,7 @@ force = true
 [[redirects]]
 from = "/services"
 to = "/services/web-development/"
-status = 302
-force = true
-
-[[redirects]]
-from = "/services/"
-to = "/services/web-development/"
-status = 302
-force = true
-
-[[redirects]]
-from = "/services/outsourcing/"
-to = "/services/web-development/"
-status = 302
-force = true
-
-[[redirects]]
-from = "/chorn-images/services-details/fullstack-development/service-detail-dotnetcore.webp"
-to = "/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.webp"
 status = 301
-force = true
-
-[[redirects]]
-from = "/services/fullstack-development/ruby/"
-to = "/outsourcing-software-development/full-stack-developer/"
-status = 302
 force = true
 
 [[redirects]]
@@ -266,7 +139,8 @@ to = "/"
 status = 301
 force = true
 
+# Catch-all redirect (Important for Next.js routing)
 [[redirects]]
 from = "/*"
-to = "index.html"
-status = 200
+to = "/index.html" # Or your main entry point if different
+status = 200 # Or 404 if you want to handle routing client-side
