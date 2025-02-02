@@ -3,7 +3,6 @@
 import React from "react";
 import ContactLine from "@/components/Contact/CustomContact/ContactLine";
 import ContactLinkedIn from "@/components/Contact/CustomContact/ContactLinkedIn";
-import {ContactLocation} from "@/components/Contact/CustomContact/ContactLocation";
 
 const ContactInfo: React.FC = () => {
 
@@ -16,8 +15,6 @@ const ContactInfo: React.FC = () => {
                         <ContactLinkedIn/>
 
                         <ContactLine/>
-
-                        <ContactLocation/>
 
                     </div>
                 </div>
