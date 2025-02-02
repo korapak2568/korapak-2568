@@ -7,7 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {Info} from "@/data/info/Info";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "React Development Services | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         description: "Enhance your web apps with React. CHORN offers expert React development services for high-performance applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/react-development-service.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/react-development-service.png" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "React Development Banner"
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         title: "React Development Services | CHORN",
         description: "Expert React development services by CHORN. Create engaging user interfaces with React.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/react-development-service.png" + Version.ogImage,
+            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/react-development-service.png" + ChornMetadata.ogImage,
         ],
     },
     keywords: [

@@ -7,7 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesCardDevOpsTesting from "@/components/Services/devops-testing/ServicesCardDevOpsTesting";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "DevOps & Testing Services | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         description: "Leverage CHORN’s DevOps and testing services to enhance your software delivery with automation, continuous integration, and reliable testing solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/devops-testing-services.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/devops-testing-services.png" + ChornMetadata.ogImage,
                 width: 1360,
                 height: 810,
                 alt: "DevOps & Testing Services Banner"
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         title: "DevOps & Testing Services | CHORN",
         description: "Optimize your software development lifecycle with CHORN’s DevOps and testing services, including automation, CI/CD, and quality assurance testing.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/devops-testing-services.png" + Version.ogImage
+            "https://chorn.in.th/chorn-images/metadata/devops-testing-services.png" + ChornMetadata.ogImage
         ],
     },
     keywords: [

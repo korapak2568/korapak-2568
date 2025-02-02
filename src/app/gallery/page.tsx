@@ -3,7 +3,7 @@ import GalleryContent from "../../components/Gallery/GalleryContent";
 import ImpressivePortfolio from "../../components/Gallery/ImpressivePortfolio";
 import Footer from "../../components/Layouts/Footer";
 import {Metadata} from "next";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "Global Business Trip | CHORN Gallery",
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
         description: "Discover CHORN's global expertise through international business trips, premium travel experiences, and advanced training capabilities.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/gallery/gallery-og-image.jpg" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/gallery/gallery-og-image.jpg" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Global Business Trip Highlights",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
         title: "Global Business Trip - CHORN Gallery",
         description: "Experience CHORN’s international business journey, premium travel, and global training expertise.",
         images: [
-            "https://chorn.in.th/chorn-images/gallery/gallery-og-image.jpg" + Version.ogImage
+            "https://chorn.in.th/chorn-images/gallery/gallery-og-image.jpg" + ChornMetadata.ogImage
         ],
     },
 };

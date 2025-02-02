@@ -7,7 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import ServiceCardWebDevelopment from "@/components/Services/WebDevelopment/ServicesCardWebDevelopment";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         description: "CHORN provides cutting-edge web development services with expertise in popular frameworks like Next.js, React, Angular, and more. CHORN caters to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Web Development Services Banner",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         title: "Web Development Services | CHORN",
         description: "Discover CHORN’s expert web development services. From Next.js to Angular and beyond, CHORN offers solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png" + Version.ogImage
+            "https://chorn.in.th/chorn-images/metadata/frontend-development-services.png" + ChornMetadata.ogImage
         ],
     },
     keywords: [

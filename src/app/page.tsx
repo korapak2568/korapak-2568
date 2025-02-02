@@ -12,7 +12,7 @@ import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
 import FlexibleWorkspace from "@/components/Gallery/FlexibleWorkspace";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "CHORN | AI & Software Solutions",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/home/home-og-image.jpg" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/home/home-og-image.jpg" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Flexible Workplace",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
         title: "CHORN | AI & Software Solutions",
         description: "CHORN offers cutting-edge software development, scalable websites, and technology expertise in Blockchain, Web3, and more. Partner with us for future-ready solutions.",
         images: [
-            "https://chorn.in.th/chorn-images/home/home-og-image.jpg" + Version.ogImage,
+            "https://chorn.in.th/chorn-images/home/home-og-image.jpg" + ChornMetadata.ogImage,
         ],
     },
     keywords: [

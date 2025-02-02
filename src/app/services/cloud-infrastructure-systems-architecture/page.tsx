@@ -8,7 +8,7 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesCardCloudInfrastructureSystemsArchitecture
     from "@/components/Services/cloud-infrastructure-systems-architecture/ServicesCardCloudInfrastructureSystemsArchitecture";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "Cloud Solution Architecture & Systems Analysis | CHORN | AWS, Azure, GCP, DigitalOcean",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
         description: "Explore CHORN’s cloud solution architecture and systems analysis services. We design resilient, scalable, and optimized cloud solutions across AWS, Azure, GCP, and DigitalOcean.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/banner-logo.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/banner-logo.png" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Cloud Solution Architecture and Systems Analysis Banner",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
         title: "Cloud Solution Architecture & Systems Analysis | CHORN",
         description: "Optimize your cloud infrastructure with CHORN’s cloud solution architecture and systems analysis services, covering AWS, Azure, GCP, and DigitalOcean.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/banner-logo.png" + Version.ogImage,
+            "https://chorn.in.th/chorn-images/metadata/banner-logo.png" + ChornMetadata.ogImage,
         ],
     },
     keywords: [

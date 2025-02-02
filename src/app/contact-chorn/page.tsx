@@ -6,43 +6,10 @@ import SubscribeForm from "../../components/Common/SubscribeForm";
 import ContactInfo from "../../components/Contact/ContactInfo";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 // Define metadata for the Contact page
-export const metadata: Metadata = {
-    title: "Contact | CHORN - Get in Touch for Custom Software Solutions",
-    description: "Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need.",
-    alternates: {
-        canonical: "https://chorn.in.th/contact-chorn/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "Contact CHORN - Custom Software Development Experts",
-        description: "Get in touch with CHORN for expert custom software development solutions. We're here to answer your questions and provide support.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/contact-chorn.png" + Version.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "Contact CHORN Banner Image",
-            },
-        ],
-        url: "https://chorn.in.th/contact-chorn/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Contact CHORN - Let's Build Something Great Together",
-        description: "Reach out to CHORN for custom software solutions tailored to your business needs. Contact us for inquiries or support.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/contact-chorn.png" + Version.ogImage,
-        ],
-    },
-};
+export const metadata: Metadata = ChornMetadata.contact
 
 export default function Page() {
     return (

@@ -7,7 +7,7 @@ import ServicesDetailsSoapUI from "@/components/Services/devops-testing/soapui/S
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "SoapUI Testing Services | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         description: "Ensure the reliability of your APIs and web services with CHORN’s SoapUI testing services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/soapui.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/soapui.png" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "SoapUI Testing Banner"
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         title: "SoapUI Testing Services | CHORN",
         description: "Optimize your API testing with CHORN’s SoapUI services for comprehensive and reliable web service testing.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/soapui.png" + Version.ogImage,
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/soapui.png" + ChornMetadata.ogImage,
         ],
     },
     keywords: [

@@ -8,7 +8,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "JavaScript | CHORN - Custom Software Development Experts",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
         description: "Explore CHORN's expertise in JavaScript, a powerful tool for building scalable and high-performance applications. Learn why we choose JavaScript for custom software solutions.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-service.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-service.png" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "CHORN JavaScript Development Banner",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
         title: "CHORN - JavaScript Development for Custom Software Solutions",
         description: "Discover why CHORN uses JavaScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-service.png" + Version.ogImage,
+            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-service.png" + ChornMetadata.ogImage,
         ],
     },
     keywords: [

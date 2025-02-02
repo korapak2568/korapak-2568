@@ -7,7 +7,7 @@ import ServicesCardFullStack from "@/components/Services/fullstack-development/S
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "Back-End & API Development Services | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         description: "CHORN provides Back-End & API Development services with expertise in Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build powerful and scalable applications for your business.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png" + ChornMetadata.ogImage,
                 width: 1360,
                 height: 810,
                 alt: "Back-End & API Development Banner"
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         title: "Back-End & API Development Services | CHORN",
         description: "Leverage Back-End & API Development services by CHORN to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png" + Version.ogImage
+            "https://chorn.in.th/chorn-images/metadata/fullstack-development-services.png" + ChornMetadata.ogImage
         ],
     },
     keywords: [

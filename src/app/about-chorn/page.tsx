@@ -5,42 +5,9 @@ import AboutContent from "@/components/About/AboutContent";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "About CHORN | AI & Software Solutions",
-    description: "Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology.",
-    alternates: {
-        canonical: "https://chorn.in.th/about-chorn/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "CHORN - Leaders in Custom Software Development",
-        description: "Explore CHORN's mission and expertise in delivering innovative software solutions across industries. Learn more model our journey.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/about/about-og-image.jpg" + Version.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "About CHORN Banner Image",
-            },
-        ],
-        url: "https://chorn.in.th/about-chorn/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "CHORN - Custom Software Solutions for Every Industry",
-        description: "Learn model CHORN's innovative software services and our impact across industries. Partner with us for cutting-edge solutions.",
-        images: [
-            "https://chorn.in.th/chorn-images/about/about-og-image.jpg" + Version.ogImage
-        ],
-    },
-};
+export const metadata: Metadata = ChornMetadata.about
 
 export default function Page() {
     return (

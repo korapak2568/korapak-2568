@@ -7,7 +7,7 @@ import ServicesDetailsPostman from "@/components/Services/devops-testing/postman
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "Postman API Testing Services | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         description: "Ensure your APIs function as expected with CHORN’s Postman-based API testing services.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/postman.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/postman.png" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Postman API Testing Banner"
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         title: "Postman API Testing Services | CHORN",
         description: "CHORN offers Postman-based API testing services to validate your web services’ reliability and performance.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/postman.png" + Version.ogImage,
+            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/postman.png" + ChornMetadata.ogImage,
         ],
     },
     keywords: [

@@ -7,7 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {Info} from "@/data/info/Info";
-import {Version} from "@/data/Version";
+import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
 export const metadata: Metadata = {
     title: "Vue.js Development Services | CHORN",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         description: "Expert Vue.js development services by CHORN for building modern web applications.",
         images: [
             {
-                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/vue-development-service.png" + Version.ogImage,
+                url: "https://chorn.in.th/chorn-images/metadata/services/frontend-development/vue-development-service.png" + ChornMetadata.ogImage,
                 width: 1200,
                 height: 630,
                 alt: "Vue.js Development Banner"
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         title: "Vue.js Development Services | CHORN",
         description: "Enhance your web applications with Vue.js. CHORN offers expert Vue.js development services.",
         images: [
-            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/vue-development-service.png" + Version.ogImage,
+            "https://chorn.in.th/chorn-images/metadata/services/frontend-development/vue-development-service.png" + ChornMetadata.ogImage,
         ],
     },
     keywords: [
