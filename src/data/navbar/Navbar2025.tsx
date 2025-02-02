@@ -9,7 +9,7 @@ export const Navbar2025: INavbar[] = [
     },
     {
         group: "/services/",
-        label: "Services",
+        label: "Technical Expertise",
         link: "/services/web-development/",
         submenu: [
             {
