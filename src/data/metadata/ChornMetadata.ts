@@ -153,8 +153,8 @@ export const ChornMetadata: IChornMetadata = {
         },
     },
     about: {
-        title: "About CHORN | AI & Software Solutions",
-        description: "Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology.",
+        title: "About CHORN | System Analysis & Full-Stack Development",
+        description: "Discover CHORN's expertise in system analysis, full-stack development, and modern software solutions that drive business success.",
         alternates: {
             canonical: "https://chorn.in.th/about-chorn/",
         },
@@ -164,8 +164,8 @@ export const ChornMetadata: IChornMetadata = {
             }
         ],
         openGraph: {
-            title: "CHORN - Leaders in Custom Software Development",
-            description: "Explore CHORN's mission and expertise in delivering innovative software solutions across industries. Learn more model our journey.",
+            title: "CHORN - Experts in System Analysis & Full-Stack Development",
+            description: "Explore CHORN's commitment to delivering cutting-edge system modernization, full-stack development, and technical support for businesses.",
             images: [
                 {
                     url: OpenGraph.about.url,
@@ -179,8 +179,8 @@ export const ChornMetadata: IChornMetadata = {
         },
         twitter: {
             card: "summary_large_image",
-            title: "CHORN - Custom Software Solutions for Every Industry",
-            description: "Learn model CHORN's innovative software services and our impact across industries. Partner with us for cutting-edge solutions.",
+            title: "CHORN - Leading System Analysis & Full-Stack Development",
+            description: "Unlock business potential with CHORN's advanced system analysis, full-stack development, and modern software solutions.",
             images: [
                 OpenGraph.about.url,
             ],
