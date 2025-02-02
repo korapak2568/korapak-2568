@@ -25,21 +25,14 @@ export const Footer: IFooter = {
     socialLinks: [
         {
             label: "GitHub",
-            link: "https://github.com/chorn-digital",
+            link: "https://github.com/khachornchit",
             icon: "bx bxl-github hover-rotate",
             iconClass: "facebook",
             ariaLabel: "Follow us on GitHub"
         },
         {
-            label: "GitLab",
-            link: "https://gitlab.com/chorn-digital",
-            icon: "bx bxl-gitlab hover-rotate",
-            iconClass: "pinterest",
-            ariaLabel: "Follow us on GitLab"
-        },
-        {
             label: "Linked",
-            link: "https://www.linkedin.com/company/chorn",
+            link: "https://www.linkedin.com/in/khachornchit",
             icon: "bx bxl-linkedin hover-rotate",
             iconClass: "linkedin",
             ariaLabel: "Connect with us on LinkedIn"
@@ -50,13 +43,6 @@ export const Footer: IFooter = {
             icon: "bx bxl-facebook hover-rotate",
             iconClass: "facebook",
             ariaLabel: "Like us on Facebook"
-        },
-        {
-            label: "Tiktok",
-            link: "https://tiktok.com/@chorndigital",
-            icon: "bx bxl-tiktok hover-rotate",
-            iconClass: "twitter bg-tiktok",
-            ariaLabel: "Like us on Tiktok"
         },
     ],
     importantLinks: [

@@ -70,6 +70,7 @@ const Navbar: React.FC = () => {
                                     ))}
                                 </ul>
                             </div>
+
                         </nav>
                     </div>
                 </div>
