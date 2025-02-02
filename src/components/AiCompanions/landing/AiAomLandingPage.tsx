@@ -29,7 +29,7 @@ const AiAomLandingPage: React.FC = () => {
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={Info.AiCompanions.aom.english.line.link}>
+                                            <a href={Info.AiCompanions.aom.english.line.link} target={'_blank'}>
                                                 <Image
                                                     src={Info.AiCompanions.aom.english.line.button}
                                                     alt="เพิ่มเพื่อน"

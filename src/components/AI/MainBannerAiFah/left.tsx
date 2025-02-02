@@ -57,7 +57,7 @@ export default function Left() {
                     data-aos-delay="300"
                     data-aos-once="true"
                 >
-                    <a href={curLanguage.fah.line.link}>
+                    <a href={curLanguage.fah.line.link} target={'_blank'}>
                         <Image
                             src={curLanguage.fah.line.button}
                             alt="เพิ่มเพื่อน"

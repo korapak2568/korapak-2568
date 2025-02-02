@@ -29,7 +29,7 @@ const AiFahLandingPage: React.FC = () => {
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={Info.AiCompanions.fah.english.line.link}>
+                                            <a href={Info.AiCompanions.fah.english.line.link} target={'_blank'}>
                                                 <Image
                                                     src={Info.AiCompanions.fah.english.line.button}
                                                     alt="เพิ่มเพื่อน"

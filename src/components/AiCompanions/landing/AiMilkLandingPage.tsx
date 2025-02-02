@@ -29,7 +29,7 @@ const AiMilkLandingPage: React.FC = () => {
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={Info.AiCompanions.milk.english.line.link}>
+                                            <a href={Info.AiCompanions.milk.english.line.link} target={'_blank'}>
                                                 <Image
                                                     src={Info.AiCompanions.milk.english.line.button}
                                                     alt="เพิ่มเพื่อน"
