@@ -9,44 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "GitLab DevOps Services | CHORN",
-    description: "CHORN provides GitLab-based DevOps services for continuous integration, automation, and version control solutions.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/devops-testing/gitlab/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "GitLab DevOps Services | CHORN",
-        description: "Boost your DevOps pipeline with CHORN’s GitLab services for CI/CD, version control, and automation.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/gitlab.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "GitLab DevOps Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/devops-testing/gitlab/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "GitLab DevOps Services | CHORN",
-        description: "Leverage GitLab DevOps services from CHORN for continuous integration, version control, and workflow automation.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/gitlab.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        "GitLab DevOps", "GitLab services", "CI/CD", "version control", "DevOps", "automation", "DevOps pipeline",
-        "DevOps thailand", "GitLab automation", "continuous integration"
-    ]
-};
+export const metadata: Metadata = ChornMetadata.devops.gitlab
 
 const Page = () => {
 
@@ -54,7 +17,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.gitlab.features[0].title}  />
+            <PageBanner pageTitle={Info.DevOps.gitlab.features[0].title}/>
 
             <ServicesDetailsGitLab/>
 

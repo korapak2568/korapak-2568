@@ -10,59 +10,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "JavaScript | CHORN - Custom Software Development Experts",
-    description: "Learn how CHORN leverages JavaScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/full-stack-developer/javascript-javascript-developer/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "CHORN - JavaScript Custom Software Development",
-        description: "Explore CHORN's expertise in JavaScript, a powerful tool for building scalable and high-performance applications. Learn why we choose JavaScript for custom software solutions.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-service.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "CHORN JavaScript Development Banner",
-            },
-        ],
-        url: "https://chorn.in.th/services/full-stack-developer/javascript-javascript-developer/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "CHORN - JavaScript Development for Custom Software Solutions",
-        description: "Discover why CHORN uses JavaScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/javascript-development-service.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        // Core JavaScript & service Keywords
-        "JavaScript development", "JavaScript services", "JavaScript developer", "custom JavaScript development",
-        "JavaScript web applications", "JavaScript full stack development", "JavaScript frontend development",
-        "custom software development",
-
-        // Web & Application Development Keywords
-        "scalable web applications", "frontend development", "backend development",
-        "high-performance applications", "enterprise software solutions", "custom web applications", "API development",
-
-        // Developer & Location-Specific Keywords
-        "JavaScript developer Thailand", "JavaScript developer Bangkok", "JavaScript developer Chiangmai",
-        "frontend developer Thailand", "backend developer Thailand", "full stack developer Thailand",
-        "software engineer", "software developer Thailand",
-
-        // Brand & Innovation Keywords
-        "CHORN", "digital innovation", "enterprise software"
-    ]
-
-};
+export const metadata: Metadata = ChornMetadata.frontend.javascript
 
 const Page = () => {
 
@@ -70,7 +18,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FrontEnd.javascript.features[0].title} />
+            <PageBanner pageTitle={Info.FrontEnd.javascript.features[0].title}/>
 
             <ServicesDetailsJavaScript/>
 

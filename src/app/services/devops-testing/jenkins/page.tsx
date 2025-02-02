@@ -9,44 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "Jenkins DevOps Services | CHORN",
-    description: "CHORN offers Jenkins-based DevOps services for automating builds, testing, and deployment in your development pipeline.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/devops-testing/jenkins/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "Jenkins DevOps Services | CHORN",
-        description: "Automate your development process with CHORN’s Jenkins DevOps services for continuous integration and deployment.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "Jenkins DevOps Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/devops-testing/jenkins/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Jenkins DevOps Services | CHORN",
-        description: "Enhance your software development lifecycle with Jenkins-based DevOps services from CHORN for CI/CD automation.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/jenkins.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        "Jenkins DevOps", "Jenkins services", "CI/CD automation", "DevOps", "continuous integration", "DevOps thailand",
-        "Jenkins pipeline", "automated testing", "build automation", "custom software development"
-    ]
-};
+export const metadata: Metadata = ChornMetadata.devops.jenkins
 
 const Page = () => {
 

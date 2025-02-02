@@ -9,44 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "GitHub DevOps Services | CHORN",
-    description: "CHORN offers DevOps services integrating GitHub for version control, continuous integration, and automated workflows.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/devops-testing/github/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "GitHub DevOps Services | CHORN",
-        description: "Enhance your development workflow with CHORN’s GitHub-based DevOps services for CI/CD and version control.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/github.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "GitHub DevOps Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/devops-testing/github/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "GitHub DevOps Services | CHORN",
-        description: "Streamline your development with CHORN’s GitHub DevOps services for version control and CI/CD workflows.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/github.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        "GitHub DevOps", "GitHub services", "version control", "CI/CD", "DevOps", "custom software development",
-        "continuous integration", "DevOps thailand", "GitHub automation", "software development workflow"
-    ]
-};
+export const metadata: Metadata = ChornMetadata.devops.github
 
 const Page = () => {
 
@@ -54,7 +17,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.github.features[0].title} />
+            <PageBanner pageTitle={Info.DevOps.github.features[0].title}/>
 
             <ServicesDetailsGitHub/>
 

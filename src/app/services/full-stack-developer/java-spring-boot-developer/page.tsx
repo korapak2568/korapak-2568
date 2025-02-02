@@ -9,58 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "Java Spring Boot Full Stack Development | CHORN",
-    description: "CHORN offers Java Spring Boot full stack development services to build robust and scalable enterprise applications.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/full-stack-developer/java-spring-boot-developer/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "Java Spring Boot Development | CHORN",
-        description: "Leverage CHORN’s Java Spring Boot full stack development services to build scalable, secure, and high-performance applications.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "Java Spring Boot Development Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/full-stack-developer/java-spring-boot-developer/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Java Spring Boot Full Stack Development | CHORN",
-        description: "Expert Java Spring Boot full stack development services from CHORN to build secure and scalable applications.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/java-spring-boot-development-service.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        // Core Java Spring Boot & service Keywords
-        "Spring Boot development", "Java Spring Boot services", "Spring Boot developer", "custom Java development",
-        "Java Spring Boot applications", "enterprise Java development", "Spring Boot microservices",
-        "custom software development",
-
-        // Web & Application Development Keywords
-        "scalable web applications", "backend development", "enterprise software solutions",
-        "high-performance applications", "Java web applications", "microservices development", "API development",
-
-        // Developer & Location-Specific Keywords
-        "Spring Boot developer Thailand", "Java developer Thailand", "Java developer Bangkok",
-        "Java developer Chiangmai", "backend developer Thailand", "software engineer", "software developer Thailand",
-
-        // Brand & Innovation Keywords
-        "CHORN", "digital innovation", "enterprise software"
-    ]
-
-};
+export const metadata: Metadata = ChornMetadata.backend.java
 
 const Page = () => {
 

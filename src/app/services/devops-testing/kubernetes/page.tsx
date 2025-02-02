@@ -9,44 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "Kubernetes DevOps Services | CHORN",
-    description: "CHORN provides Kubernetes-based DevOps services for automating deployment, scaling, and management of containerized applications.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/devops-testing/kubernetes/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "Kubernetes DevOps Services | CHORN",
-        description: "Optimize your infrastructure with CHORN’s Kubernetes DevOps services for automated scaling and management of applications.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/kubernetes.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "Kubernetes DevOps Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/devops-testing/kubernetes/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Kubernetes DevOps Services | CHORN",
-        description: "Leverage Kubernetes DevOps expertise by CHORN for automating and managing scalable containerized applications.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/kubernetes.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        "Kubernetes DevOps", "Kubernetes services", "container orchestration", "CHORN", "DevOps",
-        "scalable application management", "automated scaling", "DevOps thailand", "cloud-native applications"
-    ]
-};
+export const metadata: Metadata = ChornMetadata.devops.kube
 
 const Page = () => {
 

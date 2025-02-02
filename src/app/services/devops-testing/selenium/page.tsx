@@ -9,46 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "Selenium Testing Services | CHORN",
-    description: "CHORN offers comprehensive Selenium testing services to ensure the quality and performance of your applications through automated testing.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/devops-testing/selenium/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "Selenium Testing | CHORN",
-        description: "Automate your application testing with CHORN’s Selenium services for robust and reliable results.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/selenium.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "Selenium Testing Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/devops-testing/selenium/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Selenium Testing Services | CHORN",
-        description: "Enhance your application’s quality with CHORN’s Selenium testing services for automated and effective testing.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/selenium.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        "Selenium testing", "automated testing", "CHORN", "DevOps testing",
-        "application quality assurance", "test automation", "software testing",
-        "quality assurance services", "testing services", "test scripts",
-        "software testing Thailand", "selenium services", "web application testing"
-    ]
-};
+export const metadata: Metadata = ChornMetadata.devops.selenium
 
 const Page = () => {
 
@@ -56,7 +17,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.selenium.features[0].title} />
+            <PageBanner pageTitle={Info.DevOps.selenium.features[0].title}/>
 
             <ServicesDetailsSelenium/>
 

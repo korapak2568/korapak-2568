@@ -9,44 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "Docker DevOps Services | CHORN",
-    description: "CHORN offers Docker-based DevOps services for efficient containerization and scalable application deployment.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/devops-testing/docker/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "Docker DevOps Services | CHORN",
-        description: "Leverage Docker for containerization and scalable software deployment with CHORN’s expert DevOps services.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/docker.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "Docker DevOps Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/devops-testing/docker/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Docker DevOps Services | CHORN",
-        description: "Expert Docker DevOps services from CHORN for containerization and scalable application deployment.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/docker.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        "Docker DevOps", "Docker services", "containerization", "CHORN", "DevOps", "scalable deployment",
-        "custom software development", "cloud-based applications", "DevOps thailand", "docker containers"
-    ]
-};
+export const metadata: Metadata = ChornMetadata.devops.docker
 
 const Page = () => {
 
@@ -54,7 +17,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.docker.features[0].title} />
+            <PageBanner pageTitle={Info.DevOps.docker.features[0].title}/>
 
             <ServicesDetailsDocker/>
 

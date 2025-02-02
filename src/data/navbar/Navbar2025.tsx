@@ -8,22 +8,10 @@ export const Navbar2025: INavbar[] = [
         submenu: []
     },
     {
-        group: "/ai-companions/",
-        label: "AI Companions",
-        link: "/ai-companions/",
-        submenu: []
-    },
-    {
         group: "/services/",
         label: "Services",
         link: "/services/web-development/",
         submenu: [
-            {
-                group: "/services/",
-                label: "AI Solutions Services",
-                link: "/services/ai-solutions/",
-                submenu: []
-            },
             {
                 group: "/services/",
                 label: "Web and API Development",
@@ -40,6 +28,19 @@ export const Navbar2025: INavbar[] = [
                 group: "/services/",
                 label: "Back-End & API Development",
                 link: "/services/full-stack-developer/",
+                submenu: []
+            },
+            {
+                group: "/services/",
+                label: "...",
+                link: "",
+                isSeparated: true,
+                submenu: []
+            },
+            {
+                group: "/services/",
+                label: "AI Solutions Services",
+                link: "/services/ai-solutions/",
                 submenu: []
             },
             {

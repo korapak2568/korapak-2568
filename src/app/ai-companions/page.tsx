@@ -7,40 +7,7 @@ import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "AI Chat Companion | CHORN AI Integration",
-    description: "Welcome to the AI Chat Companion, a demo of AI-powered integration. Explore AI companions with unique personalities, designed for seamless interaction via the LINE app, supporting multiple languages.",
-    alternates: {
-        canonical: "https://chorn.in.th/ai-companions",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "AI Chat Companion - AI-Powered Integration",
-        description: "Discover AI companions with unique personalities, interacting seamlessly via the LINE app in Thai, English, Chinese, Japanese, Korean, French, and Vietnamese.",
-        images: [
-            {
-                url: "https://chorn.in.th/images-ai/ai-companions/ai-companions-og-image.jpg" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "AI Chat Companion Demo",
-            },
-        ],
-        url: "https://chorn.in.th/ai-companions",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "AI Chat Companion - Explore AI-Powered Interactions",
-        description: "Engage with AI companions that communicate in multiple languages via the LINE app. Discover seamless AI integration today!",
-        images: [
-            "https://chorn.in.th/images-ai/ai-companions/ai-companions-og-image.jpg" + ChornMetadata.ogImage
-        ],
-    },
-};
+export const metadata: Metadata = ChornMetadata.aiCompanions
 
 const Page = () => {
     return (

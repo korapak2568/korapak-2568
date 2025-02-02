@@ -8,10 +8,10 @@ import HomeAiSolutionBanner from "@/components/AI/HomeAiSolutionBanner/HomeAiSol
 const AiSolutionsPage: React.FC = () => {
     return (
         <>
-            <div className="portfolio-area pt-4 pb-100">
-                <HomeAiSolutionBanner/>
+            <div className="portfolio-area pt-4">
 
                 <div className="container">
+                    <HomeAiSolutionBanner/>
                     <div className="row">
                         <div className={'add-web-content'}>
                             <div>

@@ -10,65 +10,14 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import {Info} from "@/data/info/Info";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: ".NET Core C# Full Stack Development | CHORN",
-    description: "CHORN offers .NET Core C# full stack development services to build modern, scalable, and secure web applications.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/full-stack-developer/dotnetcore-developer/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: ".NET Core C# Development | CHORN",
-        description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core C# full stack development services.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: ".NET Core C# Development Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/full-stack-developer/dotnetcore-developer/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: ".NET Core C# Full Stack Development | CHORN",
-        description: "Expert .NET Core C# full stack development services from CHORN for modern and scalable web applications.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/dotnet-core-development-service.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        // Core .NET Core C# & service Keywords
-        ".NET Core C# development", ".NET Core C# services", ".NET Core C# developer", "custom .NET Core C# development",
-        "enterprise .NET Core C# applications", "ASP.NET Core C# development", ".NET Core C# web applications",
-        "custom software development",
-
-        // Web & Application Development Keywords
-        "scalable web applications", "backend development", "enterprise software solutions", "full stack development",
-        "high-performance applications", "custom web applications", "API development",
-
-        // Developer & Location-Specific Keywords
-        ".NET Core C# developer Thailand", ".NET Core C# developer Bangkok", ".NET Core C# developer Chiangmai",
-        "backend developer Thailand", "software engineer", "software developer Thailand",
-
-        // Brand & Innovation Keywords
-        "CHORN", "digital innovation", "enterprise software"
-    ]
-
-};
+export const metadata: Metadata = ChornMetadata.backend.dotnetcore
 
 const Page = () => {
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FullStack.dotnetcore.features[0].title} />
+            <PageBanner pageTitle={Info.FullStack.dotnetcore.features[0].title}/>
 
             <ServicesDetailsDotNetCore/>
 

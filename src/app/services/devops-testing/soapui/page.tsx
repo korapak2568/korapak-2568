@@ -9,46 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "SoapUI Testing Services | CHORN",
-    description: "CHORN provides expert SoapUI testing services to ensure your web services and APIs are thoroughly tested and reliable.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/devops-testing/soapui/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "SoapUI Testing | CHORN",
-        description: "Ensure the reliability of your APIs and web services with CHORN’s SoapUI testing services.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/devops-testing/soapui.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "SoapUI Testing Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/devops-testing/soapui/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "SoapUI Testing Services | CHORN",
-        description: "Optimize your API testing with CHORN’s SoapUI services for comprehensive and reliable web service testing.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/devops-testing/soapui.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        "SoapUI testing", "API testing", "CHORN", "DevOps testing",
-        "web service testing", "reliable testing", "test automation",
-        "quality assurance", "software testing", "API reliability",
-        "testing services Thailand", "SoapUI services", "web application testing"
-    ]
-};
+export const metadata: Metadata = ChornMetadata.devops.soapui
 
 const Page = () => {
 

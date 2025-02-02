@@ -9,57 +9,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = {
-    title: "Go Full Stack Development | CHORN",
-    description: "CHORN offers Go full stack development services for building efficient and scalable web applications.",
-    alternates: {
-        canonical: "https://chorn.in.th/services/full-stack-developer/go-developer/",
-    },
-    authors: [
-        {
-            name: "CHORN"
-        }
-    ],
-    openGraph: {
-        title: "Go Development | CHORN",
-        description: "Build efficient and scalable web applications with CHORN’s Go full stack development services.",
-        images: [
-            {
-                url: "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/go-development-service.png" + ChornMetadata.ogImage,
-                width: 1200,
-                height: 630,
-                alt: "Go Development Banner"
-            }
-        ],
-        url: "https://chorn.in.th/services/full-stack-developer/go-developer/",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Go Full Stack Development | CHORN",
-        description: "Expert Go full stack development services from CHORN for efficient and scalable web applications.",
-        images: [
-            "https://chorn.in.th/chorn-images/metadata/services/fullstack-development/go-development-service.png" + ChornMetadata.ogImage,
-        ],
-    },
-    keywords: [
-        // Core Go-lang & service Keywords
-        "Go-lang development", "Go services", "Go developer", "custom Go-lang development", "Go web applications",
-        "Go backend development", "Go microservices", "custom software development",
-
-        // Web & Application Development Keywords
-        "scalable web applications", "backend development", "high-performance applications",
-        "microservices development", "cloud-native development", "API development", "enterprise software",
-
-        // Developer & Location-Specific Keywords
-        "Go developer Thailand", "Go developer Bangkok", "Go developer Chiangmai", "backend developer Thailand",
-        "software engineer", "software developer Thailand",
-
-        // Brand & Innovation Keywords
-        "CHORN", "digital innovation", "enterprise software"
-    ]
-
-};
+export const metadata: Metadata = ChornMetadata.backend.go
 
 const Page = () => {
     return (

@@ -12,6 +12,7 @@ const Page = () => {
             <Navbar/>
             <PageBanner pageTitle={Info.Service.title}/>
             <AiSolutionsPage/>
+            <AiCompanionsPage/>
             <Footer/>
         </>
     );

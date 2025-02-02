@@ -9,10 +9,11 @@ import MainBannerAiFah from "@/components/AI/MainBannerAiFah/page";
 const AiCompanionsPage: React.FC = () => {
     return (
         <>
-            <div className="portfolio-area pt-4 pb-100">
+            <div className="portfolio-area pt-4">
                 <div className="container">
                     <div className="row">
                         <div className={'add-web-content'}>
+                            <h2>{Info.Service.demo.title}</h2>
                             <p>{Info.Service.demo.description}</p>
 
                             <div>
