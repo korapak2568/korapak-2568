@@ -8,7 +8,7 @@ import {OpenGraph} from "@/data/metadata/OpenGraph";
 export const ChornMetadata: IChornMetadata = {
 
     home: {
-        title: "CHORN | AI & Software Solutions",
+        title: "CHORN | System Analysis & Full-Stack Development",
         description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
         icons: {
             icon: '/favicon.ico',
@@ -22,7 +22,7 @@ export const ChornMetadata: IChornMetadata = {
             }
         ],
         openGraph: {
-            title: "CHORN | AI & Software Solutions",
+            title: "CHORN | System Analysis & Full-Stack Development",
             description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
             images: [
                 {
@@ -37,7 +37,7 @@ export const ChornMetadata: IChornMetadata = {
         },
         twitter: {
             card: "summary_large_image",
-            title: "CHORN | AI & Software Solutions",
+            title: "CHORN | System Analysis & Full-Stack Development",
             description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
             images: [
                 OpenGraph.home.url,
