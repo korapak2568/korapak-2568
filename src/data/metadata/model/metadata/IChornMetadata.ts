@@ -5,7 +5,7 @@ import {IBackEndMetadata} from "@/data/metadata/model/metadata/IBackEndMetadata"
 import {IDevOpsMetadata} from "@/data/metadata/model/metadata/IDevOpsMetadata";
 
 export interface IChornMetadata {
-    ogImage: string,
+
     home: Metadata,
     aiCompanions: Metadata,
     gallery: Metadata,

@@ -6,11 +6,10 @@ import {ImageVersion} from "@/data/metadata/ImageVersion";
 import {OpenGraph} from "@/data/metadata/OpenGraph";
 
 export const ChornMetadata: IChornMetadata = {
-    ogImage: ImageVersion,
 
     home: {
         title: "CHORN | AI & Software Solutions",
-        description: "Transform your business with CHORN’s digital innovation expertise. We provide state-of-the-art software solutions, scalable websites, and cutting-edge technologies like Blockchain, Web3, and more.",
+        description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
         icons: {
             icon: '/favicon.ico',
         },
@@ -23,8 +22,8 @@ export const ChornMetadata: IChornMetadata = {
             }
         ],
         openGraph: {
-            title: "CHORN - AI & Software Solutions",
-            description: "CHORN is your partner for delivering premier technology solutions, from full-stack development to blockchain expertise. Elevate your digital presence with our scalable and future-ready solutions.",
+            title: "CHORN | AI & Software Solutions",
+            description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
             images: [
                 {
                     url: OpenGraph.home.url,
@@ -39,7 +38,7 @@ export const ChornMetadata: IChornMetadata = {
         twitter: {
             card: "summary_large_image",
             title: "CHORN | AI & Software Solutions",
-            description: "CHORN offers cutting-edge software development, scalable websites, and technology expertise in Blockchain, Web3, and more. Partner with us for future-ready solutions.",
+            description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
             images: [
                 OpenGraph.home.url,
             ],
