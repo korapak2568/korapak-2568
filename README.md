@@ -12,3 +12,18 @@
 * `inp install -g vercel`
 * `vercel login`
 * `vercel`
+
+## .gitlab-ci.yml
+```
+stages:
+  - deploy
+
+deploy_to_vercel:
+  image: node:22
+  stage: deploy
+  script:
+    - npm install -g vercel
+    - vercel --token $VERCEL_TOKEN --prod --yes
+  only:
+    - main
+```
