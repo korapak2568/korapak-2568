@@ -1,0 +1,70 @@
+// src/app/api/tasks/[id]/route.ts
+
+import {ObjectId} from 'mongodb';
+import {connectDB} from '@/app/lib/mongodb';
+import {NextRequest, NextResponse} from 'next/server';
+
+export async function GET(req: NextRequest, {params}: { params: { id: string } }) {
+
+    try {
+        const db = await connectDB();
+
+        if (!ObjectId.isValid(params.id)) {
+            return NextResponse.json({error: 'Invalid task ID format'}, {status: 400});
+        }
+
+        const task = await db.collection('tasks').findOne({_id: new ObjectId(params.id)});
+
+        if (!task) {
+            return NextResponse.json({error: 'Task not found'}, {status: 404});
+        }
+
+        return NextResponse.json(task, {status: 200});
+    } catch (error: any) {
+        return NextResponse.json({error: error.message}, {status: 500});
+    }
+}
+
+export async function PUT(req: NextRequest, {params}: { params: { id: string } }) {
+    try {
+        const db = await connectDB();
+        const {title, description, status} = await req.json();
+
+        if (!ObjectId.isValid(params.id)) {
+            return NextResponse.json({error: 'Invalid task ID format'}, {status: 400});
+        }
+
+        const result = await db.collection('tasks').updateOne(
+            {_id: new ObjectId(params.id)},
+            {$set: {title, description, status}}
+        );
+
+        if (result.matchedCount === 0) {
+            return NextResponse.json({error: 'Task not found'}, {status: 404});
+        }
+
+        return NextResponse.json({message: 'Task updated successfully'}, {status: 200});
+    } catch (error: any) {
+        return NextResponse.json({error: error.message}, {status: 500});
+    }
+}
+
+export async function DELETE(req: NextRequest, {params}: { params: { id: string } }) {
+    try {
+        const db = await connectDB();
+
+        if (!ObjectId.isValid(params.id)) {
+            return NextResponse.json({error: 'Invalid task ID format'}, {status: 400});
+        }
+
+        const result = await db.collection('tasks').deleteOne({_id: new ObjectId(params.id)});
+
+        if (result.deletedCount === 0) {
+            return NextResponse.json({error: 'Task not found'}, {status: 404});
+        }
+
+        return NextResponse.json({message: 'Task deleted successfully'}, {status: 200});
+    } catch (error: any) {
+        return NextResponse.json({error: error.message}, {status: 500});
+    }
+}
