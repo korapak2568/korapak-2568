@@ -7,3 +7,8 @@
 * Add `"type": "module"` in the package.json
 * Run `yarn migrate` then it will create a file `database.db`
 * Remove `"type": "module"` from the package.json
+
+## Install Vercel CLI
+* `inp install -g vercel`
+* `vercel login`
+* `vercel`
