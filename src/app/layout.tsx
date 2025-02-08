@@ -6,6 +6,7 @@ import "../../styles/flaticon.css";
 import "react-accessible-accordion/dist/fancy-example.css";
 import "swiper/css";
 import "swiper/css/bundle";
+import {SpeedInsights} from "@vercel/speed-insights/next"
 
 // Global Styles
 import "../../styles/style.css";
@@ -32,6 +33,7 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
         </ProviderWrapper>
         <AosAnimation/>
         <GoTop/>
+        <SpeedInsights/>
         </body>
         </html>
     );

@@ -13,6 +13,7 @@
     "@reduxjs/toolkit": "^2.2.7",
     "@types/aos": "^3.0.7",
     "@types/fslightbox-react": "^1.7.7",
+    "@vercel/speed-insights": "^1.1.0",
     "aos": "^2.3.4",
     "fslightbox-react": "^1.7.6",
     "next": "14.2.15",
