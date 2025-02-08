@@ -6,6 +6,6 @@ deploy_to_vercel:
   stage: deploy
   script:
     - npm install -g vercel
-    - vercel --token $VERCEL_TOKEN --prod
+    - vercel --token $VERCEL_TOKEN --prod --yes
   only:
-    - main  # Only deploy on commits to the main branch (adjust if needed)
+    - main
