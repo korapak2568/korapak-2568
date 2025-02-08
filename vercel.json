@@ -1,134 +1,33 @@
 {
+  "redirects": [
+    { "source": "/outsourcing-software-development/full-stack-developer/:path*", "destination": "/services/full-stack-developer/:path*", "permanent": true },
+    { "source": "/outsourcing-software-development/front-end-developer/:path*", "destination": "/services/front-end-developer/:path*", "permanent": true },
+    { "source": "/e-commerce-development", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/mvp", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/back-end-development", "destination": "/services/full-stack-developer/", "permanent": true },
+    { "source": "/contact", "destination": "/contact-chorn", "permanent": true },
+    { "source": "/front-end-development", "destination": "/services/front-end-developer/", "permanent": true },
+    { "source": "/full-stack-development", "destination": "/services/full-stack-developer/", "permanent": true },
+    { "source": "/custom-software-development", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/devops-and-testing", "destination": "/services/devops-testing/", "permanent": true },
+    { "source": "/about-us/2", "destination": "/about-chorn", "permanent": true },
+    { "source": "/single-page-application", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/galleries", "destination": "/gallery/", "permanent": true },
+    { "source": "/gits", "destination": "/services/devops-testing/github/", "permanent": true },
+    { "source": "/microservices-technology", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/responsive-web-design", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/scaling", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/chorn-services", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/services", "destination": "/services/web-development/", "permanent": true },
+    { "source": "/src", "destination": "/", "permanent": true }
+  ],
   "headers": [
     {
       "source": "/*",
       "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "all"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
+        { "key": "X-Robots-Tag", "value": "all" },
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
       ]
-    }
-  ],
-  "redirects": [
-    {
-      "source": "https://www.chorn.in.th/:path*",
-      "destination": "https://chorn.in.th/:path*",
-      "permanent": true
-    },
-    {
-      "source": "https://angular.chorn.in.th/:path*",
-      "destination": "https://chorn.in.th/:path*",
-      "permanent": true
-    },
-    {
-      "source": "/outsourcing-software-development/full-stack-developer/:path*",
-      "destination": "/services/full-stack-developer/:path*",
-      "permanent": true
-    },
-    {
-      "source": "/outsourcing-software-development/front-end-developer/:path*",
-      "destination": "/services/front-end-developer/:path*",
-      "permanent": true
-    },
-    {
-      "source": "/e-commerce-development",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/mvp",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/back-end-development",
-      "destination": "/services/full-stack-developer/",
-      "permanent": true
-    },
-    {
-      "source": "/contact",
-      "destination": "/contact-chorn",
-      "permanent": true
-    },
-    {
-      "source": "/front-end-development",
-      "destination": "/services/front-end-developer/",
-      "permanent": true
-    },
-    {
-      "source": "/full-stack-development",
-      "destination": "/services/full-stack-developer/",
-      "permanent": true
-    },
-    {
-      "source": "/custom-software-development",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/devops-and-testing",
-      "destination": "/services/devops-testing/",
-      "permanent": true
-    },
-    {
-      "source": "/about-us/2",
-      "destination": "/about-chorn",
-      "permanent": true
-    },
-    {
-      "source": "/single-page-application",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/galleries",
-      "destination": "/gallery/",
-      "permanent": true
-    },
-    {
-      "source": "/gits",
-      "destination": "/services/devops-testing/github/",
-      "permanent": true
-    },
-    {
-      "source": "/microservices-technology",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/responsive-web-design",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/scaling",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/chorn-services",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/services",
-      "destination": "/services/web-development/",
-      "permanent": true
-    },
-    {
-      "source": "/src",
-      "destination": "/",
-      "permanent": true
-    },
-    {
-      "source": "/:path*",
-      "destination": "/index.html",
-      "permanent": false
     }
   ]
 }
