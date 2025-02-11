@@ -36,14 +36,7 @@ export const Footer: IFooter = {
             icon: "bx bxl-linkedin hover-rotate",
             iconClass: "linkedin",
             ariaLabel: "Connect with us on LinkedIn"
-        },
-        {
-            label: "Facebook",
-            link: "https://www.facebook.com/chorn.digital",
-            icon: "bx bxl-facebook hover-rotate",
-            iconClass: "facebook",
-            ariaLabel: "Like us on Facebook"
-        },
+        }
     ],
     importantLinks: [
         {
