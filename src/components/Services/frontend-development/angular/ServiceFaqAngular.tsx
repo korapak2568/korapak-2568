@@ -8,7 +8,7 @@ import {
     AccordionItemPanel,
     AccordionItemButton,
 } from "react-accessible-accordion";
-import {sanitizeUUID} from "@/utils/chornUtils";
+import {sanitizeUUID} from "@/app/lib/utils";
 import {Info} from "@/data/info/Info";
 
 const ServiceFaqAngular: React.FC = () => {

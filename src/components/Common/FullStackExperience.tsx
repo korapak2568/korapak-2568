@@ -3,7 +3,7 @@
 import React from "react";
 import {Tab, Tabs, TabList, TabPanel} from "react-tabs";
 import Image from "next/image";
-import {truncateText} from "@/utils/truncateText";
+import {truncateText} from "@/app/lib/truncateText";
 import Link from "next/link";
 import {Info} from "@/data/info/Info";
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";

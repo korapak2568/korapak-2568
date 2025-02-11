@@ -8,14 +8,23 @@
     "start": "next start",
     "lint": "next lint",
     "postbuild": "next-sitemap && node scripts/update-robots.js",
-    "migrate": "node --loader ts-node/esm src/app/services/api/initial.ts"
+    "migrate": "node --loader ts-node/esm src/app/services/api/initial.ts",
+    "console-dev": "npx truffle console --network development",
+    "compile-dev": "npx truffle compile --network development",
+    "migrate-dev": "npx truffle migrate --network development",
+    "migrate-prod": "npx truffle migrate --network mainnet"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
+    "@openzeppelin/contracts-upgradeable": "^5.2.0",
+    "@openzeppelin/truffle-upgrades": "^1.21.0",
     "@reduxjs/toolkit": "^2.2.7",
+    "@truffle/hdwallet-provider": "^2.1.15",
     "@types/aos": "^3.0.7",
     "@types/fslightbox-react": "^1.7.7",
     "@vercel/speed-insights": "^1.1.0",
     "aos": "^2.3.4",
+    "cross-env": "7.0.3",
     "dotenv": "^16.4.7",
     "fslightbox-react": "^1.7.6",
     "mongodb": "^6.13.0",
@@ -30,7 +39,9 @@
     "react-tabs": "^6.0.2",
     "sass": "^1.74.1",
     "sharp": "^0.33.3",
-    "swiper": "^11.1.0"
+    "solc": "0.8.20",
+    "swiper": "^11.1.0",
+    "web3": "^4.16.0"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^5.7.1",
