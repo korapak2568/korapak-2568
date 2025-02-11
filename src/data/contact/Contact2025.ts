@@ -53,7 +53,7 @@ export const Contact2025: IContact = {
         icon: "",
         label: "LINE",
         isLink: true,
-        link: "https://lin.ee/HzWJ2bJ",
+        link: "https://line.me/ti/p/QUzi-bM6W2",
         linkText: "CHORN LINE",
         iconImageLink: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
     },

@@ -2,6 +2,9 @@ import {IImageDetail} from "@/data/image/model/IImageDetail";
 import {IImageLink} from "@/data/image/model/IImageLink";
 
 export interface IImage {
+    profile: {
+        md: IImageDetail,
+    },
     logo: {
         lg: IImageDetail,
         md: IImageDetail,

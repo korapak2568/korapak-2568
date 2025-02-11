@@ -1,6 +1,12 @@
 import {IImage} from "@/data/image/model/IImage";
 
 export const Image: IImage = {
+    profile: {
+        md: {
+            title: "chorn-profile-md",
+            path: "/chorn-images/contact/chorn-profile-md.png"
+        }
+    },
     logo: {
         lg: {
             title: "CHORN",

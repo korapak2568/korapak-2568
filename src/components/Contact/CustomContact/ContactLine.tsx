@@ -9,7 +9,7 @@ export default function ContactLine() {
                 <div className="icon icon-chorn">
                     <a href={Info.Contact.chorn.link} target={'_blank'}>
                         <Image
-                            src={Info.Images.logo.sm.path}
+                            src={Info.Images.profile.md.path}
                             alt="เพิ่มเพื่อน"
                             width={120}
                             height={120}
