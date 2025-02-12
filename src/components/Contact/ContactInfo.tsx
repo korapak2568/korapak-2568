@@ -3,6 +3,7 @@
 import React from "react";
 import ContactLine from "@/components/Contact/CustomContact/ContactLine";
 import ContactLinkedIn from "@/components/Contact/CustomContact/ContactLinkedIn";
+import ContactWhatsApp from "@/components/Contact/CustomContact/ContactWhatsApp";
 
 const ContactInfo: React.FC = () => {
 

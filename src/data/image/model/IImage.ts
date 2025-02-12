@@ -2,6 +2,9 @@ import {IImageDetail} from "@/data/image/model/IImageDetail";
 import {IImageLink} from "@/data/image/model/IImageLink";
 
 export interface IImage {
+    whatsapp: {
+        md: IImageDetail,
+    },
     profile: {
         md: IImageDetail,
     },

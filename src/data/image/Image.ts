@@ -1,6 +1,12 @@
 import {IImage} from "@/data/image/model/IImage";
 
 export const Image: IImage = {
+    whatsapp: {
+        md: {
+            title: "whatsapp-md",
+            path: "/chorn-images/logo-2025/whatsapp.png"
+        }
+    },
     profile: {
         md: {
             title: "chorn-profile-md",
