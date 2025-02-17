@@ -4,9 +4,9 @@ import {OpenGraph} from "@/data/metadata/OpenGraph";
 export const BackEndMetadata: IBackEndMetadata = {
     main: {
         title: "Back-End & API Development Services | CHORN",
-        description: "CHORN offers expert Back-End & API Development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions.",
+        description: "CHORN offers expert Back-End & API Development technical-expertise utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/",
         },
         authors: [
             {
@@ -15,7 +15,7 @@ export const BackEndMetadata: IBackEndMetadata = {
         ],
         openGraph: {
             title: "Back-End & API Development Services | CHORN",
-            description: "CHORN provides Back-End & API Development services with expertise in Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build powerful and scalable applications for your business.",
+            description: "CHORN provides Back-End & API Development technical-expertise with expertise in Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build powerful and scalable applications for your business.",
             images: [
                 {
                     url: OpenGraph.backend.main.url,
@@ -24,20 +24,20 @@ export const BackEndMetadata: IBackEndMetadata = {
                     alt: OpenGraph.backend.main.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Back-End & API Development Services | CHORN",
-            description: "Leverage Back-End & API Development services by CHORN to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
+            description: "Leverage Back-End & API Development technical-expertise by CHORN to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
             images: [
                 OpenGraph.backend.main.url,
             ],
         },
         keywords: [
             // Core Full Stack Development Keywords
-            "full stack development", "full stack services", "full stack developer", "custom full stack development",
+            "full stack development", "full stack technical-expertise", "full stack developer", "custom full stack development",
             "front end and backend development", "full stack web applications", "enterprise full stack applications",
 
             // Senior/Principal Developer Keywords (Combined Frameworks)
@@ -61,9 +61,9 @@ export const BackEndMetadata: IBackEndMetadata = {
     },
     dotnetcore: {
         title: ".NET Core C# Full Stack Development | CHORN",
-        description: "CHORN offers .NET Core C# full stack development services to build modern, scalable, and secure web applications.",
+        description: "CHORN offers .NET Core C# full stack development technical-expertise to build modern, scalable, and secure web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/dotnetcore-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/dotnetcore-developer/",
         },
         authors: [
             {
@@ -72,7 +72,7 @@ export const BackEndMetadata: IBackEndMetadata = {
         ],
         openGraph: {
             title: ".NET Core C# Development | CHORN",
-            description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core C# full stack development services.",
+            description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core C# full stack development technical-expertise.",
             images: [
                 {
                     url: OpenGraph.backend.dotnetcore.url,
@@ -81,20 +81,20 @@ export const BackEndMetadata: IBackEndMetadata = {
                     alt: OpenGraph.backend.dotnetcore.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/dotnetcore-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/dotnetcore-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: ".NET Core C# Full Stack Development | CHORN",
-            description: "Expert .NET Core C# full stack development services from CHORN for modern and scalable web applications.",
+            description: "Expert .NET Core C# full stack development technical-expertise from CHORN for modern and scalable web applications.",
             images: [
                 OpenGraph.backend.dotnetcore.url,
             ],
         },
         keywords: [
             // Core .NET Core C# & service Keywords
-            ".NET Core C# development", ".NET Core C# services", ".NET Core C# developer", "custom .NET Core C# development",
+            ".NET Core C# development", ".NET Core C# technical-expertise", ".NET Core C# developer", "custom .NET Core C# development",
             "enterprise .NET Core C# applications", "ASP.NET Core C# development", ".NET Core C# web applications",
             "custom software development",
 
@@ -113,9 +113,9 @@ export const BackEndMetadata: IBackEndMetadata = {
     },
     go: {
         title: "Go Full Stack Development | CHORN",
-        description: "CHORN offers Go full stack development services for building efficient and scalable web applications.",
+        description: "CHORN offers Go full stack development technical-expertise for building efficient and scalable web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/go-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/go-developer/",
         },
         authors: [
             {
@@ -124,7 +124,7 @@ export const BackEndMetadata: IBackEndMetadata = {
         ],
         openGraph: {
             title: "Go Development | CHORN",
-            description: "Build efficient and scalable web applications with CHORN’s Go full stack development services.",
+            description: "Build efficient and scalable web applications with CHORN’s Go full stack development technical-expertise.",
             images: [
                 {
                     url: OpenGraph.backend.go.url,
@@ -133,20 +133,20 @@ export const BackEndMetadata: IBackEndMetadata = {
                     alt: OpenGraph.backend.go.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/go-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/go-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Go Full Stack Development | CHORN",
-            description: "Expert Go full stack development services from CHORN for efficient and scalable web applications.",
+            description: "Expert Go full stack development technical-expertise from CHORN for efficient and scalable web applications.",
             images: [
                 OpenGraph.backend.go.url,
             ],
         },
         keywords: [
             // Core Go-lang & service Keywords
-            "Go-lang development", "Go services", "Go developer", "custom Go-lang development", "Go web applications",
+            "Go-lang development", "Go technical-expertise", "Go developer", "custom Go-lang development", "Go web applications",
             "Go backend development", "Go microservices", "custom software development",
 
             // Web & Application Development Keywords
@@ -164,9 +164,9 @@ export const BackEndMetadata: IBackEndMetadata = {
     },
     java: {
         title: "Java Spring Boot Full Stack Development | CHORN",
-        description: "CHORN offers Java Spring Boot full stack development services to build robust and scalable enterprise applications.",
+        description: "CHORN offers Java Spring Boot full stack development technical-expertise to build robust and scalable enterprise applications.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/java-spring-boot-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/java-spring-boot-developer/",
         },
         authors: [
             {
@@ -175,7 +175,7 @@ export const BackEndMetadata: IBackEndMetadata = {
         ],
         openGraph: {
             title: "Java Spring Boot Development | CHORN",
-            description: "Leverage CHORN’s Java Spring Boot full stack development services to build scalable, secure, and high-performance applications.",
+            description: "Leverage CHORN’s Java Spring Boot full stack development technical-expertise to build scalable, secure, and high-performance applications.",
             images: [
                 {
                     url: OpenGraph.backend.java.url,
@@ -184,20 +184,20 @@ export const BackEndMetadata: IBackEndMetadata = {
                     alt: OpenGraph.backend.java.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/java-spring-boot-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/java-spring-boot-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Java Spring Boot Full Stack Development | CHORN",
-            description: "Expert Java Spring Boot full stack development services from CHORN to build secure and scalable applications.",
+            description: "Expert Java Spring Boot full stack development technical-expertise from CHORN to build secure and scalable applications.",
             images: [
                 OpenGraph.backend.java.url,
             ],
         },
         keywords: [
             // Core Java Spring Boot & service Keywords
-            "Spring Boot development", "Java Spring Boot services", "Spring Boot developer", "custom Java development",
+            "Spring Boot development", "Java Spring Boot technical-expertise", "Spring Boot developer", "custom Java development",
             "Java Spring Boot applications", "enterprise Java development", "Spring Boot microservices",
             "custom software development",
 
@@ -216,9 +216,9 @@ export const BackEndMetadata: IBackEndMetadata = {
     },
     nodejs: {
         title: "Node.js Full Stack Development | CHORN",
-        description: "CHORN offers Node.js full stack development services for building scalable and efficient applications.",
+        description: "CHORN offers Node.js full stack development technical-expertise for building scalable and efficient applications.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/nodejs-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/nodejs-developer/",
         },
         authors: [
             {
@@ -227,7 +227,7 @@ export const BackEndMetadata: IBackEndMetadata = {
         ],
         openGraph: {
             title: "Node.js Development | CHORN",
-            description: "Build scalable and high-performance applications with CHORN’s Node.js full stack development services.",
+            description: "Build scalable and high-performance applications with CHORN’s Node.js full stack development technical-expertise.",
             images: [
                 {
                     url: OpenGraph.backend.nodejs.url,
@@ -236,20 +236,20 @@ export const BackEndMetadata: IBackEndMetadata = {
                     alt: OpenGraph.backend.nodejs.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/nodejs-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/nodejs-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Node.js Full Stack Development | CHORN",
-            description: "Expert Node.js full stack development services from CHORN for efficient and scalable applications.",
+            description: "Expert Node.js full stack development technical-expertise from CHORN for efficient and scalable applications.",
             images: [
                 OpenGraph.backend.nodejs.url,
             ],
         },
         keywords: [
             // Core Node.js & service Keywords
-            "Node.js development", "Node.js services", "Node.js developer", "custom Node.js development",
+            "Node.js development", "Node.js technical-expertise", "Node.js developer", "custom Node.js development",
             "Node.js backend development", "Node.js full stack development", "Node.js microservices", "custom software development",
 
             // Web & Application Development Keywords
@@ -267,9 +267,9 @@ export const BackEndMetadata: IBackEndMetadata = {
     },
     php: {
         title: "PHP Full Stack Development | CHORN",
-        description: "CHORN offers PHP full stack development services for building dynamic and scalable web applications.",
+        description: "CHORN offers PHP full stack development technical-expertise for building dynamic and scalable web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/php-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/php-developer/",
         },
         authors: [
             {
@@ -278,7 +278,7 @@ export const BackEndMetadata: IBackEndMetadata = {
         ],
         openGraph: {
             title: "PHP Development | CHORN",
-            description: "Leverage CHORN’s PHP full stack development services to build scalable and dynamic web applications.",
+            description: "Leverage CHORN’s PHP full stack development technical-expertise to build scalable and dynamic web applications.",
             images: [
                 {
                     url: OpenGraph.backend.php.url,
@@ -287,20 +287,20 @@ export const BackEndMetadata: IBackEndMetadata = {
                     alt: OpenGraph.backend.php.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/php-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/php-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "PHP Full Stack Development | CHORN",
-            description: "Expert PHP full stack development services from CHORN for dynamic and scalable web applications.",
+            description: "Expert PHP full stack development technical-expertise from CHORN for dynamic and scalable web applications.",
             images: [
                 OpenGraph.backend.php.url,
             ],
         },
         keywords: [
             // Core PHP & service Keywords
-            "PHP development", "PHP services", "PHP developer", "custom PHP development", "PHP web applications",
+            "PHP development", "PHP technical-expertise", "PHP developer", "custom PHP development", "PHP web applications",
             "PHP full stack development", "enterprise PHP applications", "custom software development",
 
             // PHP Frameworks
@@ -321,9 +321,9 @@ export const BackEndMetadata: IBackEndMetadata = {
     },
     python: {
         title: "Python Full Stack Development | CHORN",
-        description: "CHORN offers Python full stack development services to build dynamic and scalable web applications.",
+        description: "CHORN offers Python full stack development technical-expertise to build dynamic and scalable web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/python-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/python-developer/",
         },
         authors: [
             {
@@ -332,7 +332,7 @@ export const BackEndMetadata: IBackEndMetadata = {
         ],
         openGraph: {
             title: "Python Development | CHORN",
-            description: "Build dynamic and scalable web applications with CHORN’s Python full stack development services.",
+            description: "Build dynamic and scalable web applications with CHORN’s Python full stack development technical-expertise.",
             images: [
                 {
                     url: OpenGraph.backend.python.url,
@@ -341,20 +341,20 @@ export const BackEndMetadata: IBackEndMetadata = {
                     alt: OpenGraph.backend.python.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/python-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/python-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Python Full Stack Development | CHORN",
-            description: "Expert Python full stack development services from CHORN for dynamic and scalable web applications.",
+            description: "Expert Python full stack development technical-expertise from CHORN for dynamic and scalable web applications.",
             images: [
                 OpenGraph.backend.python.url,
             ],
         },
         keywords: [
             // Core Python & service Keywords
-            "Python development", "Python services", "Python developer", "custom Python development",
+            "Python development", "Python technical-expertise", "Python developer", "custom Python development",
             "Python web applications", "Python backend development", "Python full stack development",
             "custom software development",
 

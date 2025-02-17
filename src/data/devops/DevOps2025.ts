@@ -8,10 +8,10 @@ export const DevOps2025: IDevOps = {
     appium: {
         title: "Appium",
         description: "Automate your mobile application testing with Appium's versatile and open-source framework.",
-        image: "/chorn-images/services/devops-testing/Appium.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/Appium.webp",
         alt: "Logo representing Appium technology experience",
         readMore: "Find out how Appium powers mobile DevOps testing",
-        link: "/services/devops-testing/appium",
+        link: "/technical-expertise/devops-testing/appium",
         features: [
             {
                 title: "Appium",
@@ -55,10 +55,10 @@ export const DevOps2025: IDevOps = {
     docker: {
         title: "Docker",
         description: "Streamline your application deployment with containerization for consistent and efficient environments.",
-        image: "/chorn-images/services/devops-testing/Docker.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/Docker.webp",
         alt: "Logo representing Docker technology experience",
         readMore: "Explore Docker for efficient DevOps testing",
-        link: "/services/devops-testing/docker",
+        link: "/technical-expertise/devops-testing/docker",
         features: [
             {
                 title: "Docker",
@@ -102,10 +102,10 @@ export const DevOps2025: IDevOps = {
     github: {
         title: "GitHub",
         description: "Enhance your development workflow with GitHub's version control and collaborative platform.",
-        image: "/chorn-images/services/devops-testing/GitHub.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/GitHub.webp",
         alt: "Logo representing GitHub technology experience",
         readMore: "Learn how GitHub powers effective DevOps testing",
-        link: "/services/devops-testing/github",
+        link: "/technical-expertise/devops-testing/github",
         features: [
             {
                 title: "GitHub",
@@ -149,10 +149,10 @@ export const DevOps2025: IDevOps = {
     gitlab: {
         title: "GitLab",
         description: "Optimize your DevOps pipeline with GitLab's all-in-one platform for version control, CI/CD, and more.",
-        image: "/chorn-images/services/devops-testing/GitLab.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/GitLab.webp",
         alt: "Logo representing GitLab technology experience",
         readMore: "Discover GitLab for streamlined DevOps testing",
-        link: "/services/devops-testing/gitlab",
+        link: "/technical-expertise/devops-testing/gitlab",
         features: [
             {
                 title: "GitLab",
@@ -196,10 +196,10 @@ export const DevOps2025: IDevOps = {
     jenkins: {
         title: "Jenkins",
         description: "Automate your software development with Jenkins, the leading open-source CI/CD tool.",
-        image: "/chorn-images/services/devops-testing/Jenkins.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/Jenkins.webp",
         alt: "Logo representing Jenkins technology experience",
         readMore: "Discover Jenkins CI/CD solutions for DevOps testing",
-        link: "/services/devops-testing/jenkins",
+        link: "/technical-expertise/devops-testing/jenkins",
         features: [
             {
                 title: "Jenkins",
@@ -243,10 +243,10 @@ export const DevOps2025: IDevOps = {
     kubernetes: {
         title: "Kubernetes",
         description: "Automate your container orchestration with Kubernetes for scalable and resilient applications.",
-        image: "/chorn-images/services/devops-testing/Kubernetes.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/Kubernetes.webp",
         alt: "Logo representing Kubernetes technology experience",
         readMore: "Discover Kubernetes DevOps testing solutions",
-        link: "/services/devops-testing/kubernetes",
+        link: "/technical-expertise/devops-testing/kubernetes",
         features: [
             {
                 title: "Kubernetes",
@@ -290,10 +290,10 @@ export const DevOps2025: IDevOps = {
     postman: {
         title: "Postman",
         description: "Streamline your API development and testing with Postman's collaborative platform.",
-        image: "/chorn-images/services/devops-testing/Postman.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/Postman.webp",
         alt: "Logo representing Postman technology experience",
         readMore: "Learn how Postman enhances DevOps API testing",
-        link: "/services/devops-testing/postman",
+        link: "/technical-expertise/devops-testing/postman",
         features: [
             {
                 title: "Postman",
@@ -337,10 +337,10 @@ export const DevOps2025: IDevOps = {
     selenium: {
         title: "Selenium",
         description: "Automate your web application testing with Selenium's powerful testing suite.",
-        image: "/chorn-images/services/devops-testing/Selenium.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/Selenium.webp",
         alt: "Logo representing Selenium technology experience",
         readMore: "Discover Selenium for automated DevOps testing",
-        link: "/services/devops-testing/selenium",
+        link: "/technical-expertise/devops-testing/selenium",
         features: [
             {
                 title: "Selenium",
@@ -384,10 +384,10 @@ export const DevOps2025: IDevOps = {
     soapui: {
         title: "SOAPUI",
         description: "Simplify your API testing with SOAPUI's comprehensive testing toolset for REST and SOAP APIs.",
-        image: "/chorn-images/services/devops-testing/SoapUI.webp",
+        image: "/chorn-images/technical-expertise/devops-testing/SoapUI.webp",
         alt: "Logo representing SOAPUI technology experience",
         readMore: "Learn model SoapUI for API and DevOps testing",
-        link: "/services/devops-testing/soapui", features: [
+        link: "/technical-expertise/devops-testing/soapui", features: [
             {
                 title: "SOAPUI",
                 description: "SOAPUI is a powerful API testing tool that supports both REST and SOAP APIs, providing advanced testing capabilities for functional, security, and load testing of APIs.",
@@ -402,7 +402,7 @@ export const DevOps2025: IDevOps = {
                     "Security testing",
                     "Load testing",
                     "Automated testing",
-                    "Mock services",
+                    "Mock technical-expertise",
                     "Data-driven testing"
                 ]
             },
@@ -419,11 +419,11 @@ export const DevOps2025: IDevOps = {
             },
             {
                 question: "How does SOAPUI improve API testing?",
-                answer: "SOAPUI improves API testing by providing tools for functional, security, and load testing, as well as automated testing and mock services."
+                answer: "SOAPUI improves API testing by providing tools for functional, security, and load testing, as well as automated testing and mock technical-expertise."
             },
             {
                 question: "What are the benefits of using SOAPUI?",
-                answer: "Benefits of using SOAPUI include support for REST and SOAP APIs, functional testing, security testing, load testing, automated testing, mock services, and data-driven testing."
+                answer: "Benefits of using SOAPUI include support for REST and SOAP APIs, functional testing, security testing, load testing, automated testing, mock technical-expertise, and data-driven testing."
             }
         ],
     },
@@ -433,12 +433,12 @@ export const DevOps2025: IDevOps = {
     services: {
         title: "DevOps & Testing",
         descriptions: [
-            "Streamline your software development lifecycle with CHORN DevOps and testing services. " +
+            "Streamline your software development lifecycle with CHORN DevOps and testing technical-expertise. " +
             "CHORN team of DevOps engineers helps automate and optimize your infrastructure to deliver faster, " +
             "more reliable software. Whether you’re adopting Docker, Kubernetes, or utilizing GitLab CI/CD, " +
             "CHORN ensure your deployment processes are automated and secure.",
 
-            "CHORN testing services ensure that your application is bug-free, scalable, and ready to launch. " +
+            "CHORN testing technical-expertise ensure that your application is bug-free, scalable, and ready to launch. " +
             "From unit testing to integration testing, CHORN comprehensive testing strategies include tools " +
             "like Postman, Selenium, and Appium for API and UI automation."
         ],

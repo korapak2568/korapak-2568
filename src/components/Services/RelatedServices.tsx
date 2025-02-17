@@ -19,7 +19,7 @@ const RelatedServices: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services-item">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-7.jpg"
                       alt="image"
@@ -30,7 +30,7 @@ const RelatedServices: React.FC = () => {
                 </div>
                 <div className="content">
                   <h3>
-                    <Link href="/services/details">Creative Web Design</Link>
+                    <Link href="/technical-expertise/details">Creative Web Design</Link>
                   </h3>
                   <span>Web Design</span>
                 </div>
@@ -40,7 +40,7 @@ const RelatedServices: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services-item">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-8.jpg"
                       alt="image"
@@ -51,7 +51,7 @@ const RelatedServices: React.FC = () => {
                 </div>
                 <div className="content">
                   <h3>
-                    <Link href="/services/details">Digital Agency</Link>
+                    <Link href="/technical-expertise/details">Digital Agency</Link>
                   </h3>
                   <span>Agency</span>
                 </div>
@@ -61,7 +61,7 @@ const RelatedServices: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services-item">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-9.jpg"
                       alt="image"
@@ -72,7 +72,7 @@ const RelatedServices: React.FC = () => {
                 </div>
                 <div className="content">
                   <h3>
-                    <Link href="/services/details">Complex Dashboard</Link>
+                    <Link href="/technical-expertise/details">Complex Dashboard</Link>
                   </h3>
                   <span>Solutions</span>
                 </div>

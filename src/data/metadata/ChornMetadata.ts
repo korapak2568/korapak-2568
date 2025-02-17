@@ -50,7 +50,7 @@ export const ChornMetadata: IChornMetadata = {
 
             // Core service Keywords
             "custom software development", "custom software development companies", "software outsourcing",
-            "software outsourcing services", "software development outsourcing", "software development outsourcing companies",
+            "software outsourcing technical-expertise", "software development outsourcing", "software development outsourcing companies",
             "top software outsourcing companies", "web development outsourcing companies", "IT development companies",
             "outsourcing development company", "outsourcing thailand", "outsourcing company in thailand",
             "software development chiangmai", "software outsourcing chiangmai", "software outsourcing bangkok",
@@ -222,9 +222,9 @@ export const ChornMetadata: IChornMetadata = {
 
     webDevelopment: {
         title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
-        description: "Explore CHORN's web development services, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
+        description: "Explore CHORN's web development technical-expertise, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
         alternates: {
-            canonical: "https://chorn.in.th/services/web-development/",
+            canonical: "https://chorn.in.th/technical-expertise/web-development/",
         },
         authors: [
             {
@@ -233,7 +233,7 @@ export const ChornMetadata: IChornMetadata = {
         ],
         openGraph: {
             title: "Top Web Development Services | CHORN",
-            description: "CHORN provides cutting-edge web development services with expertise in popular frameworks like Next.js, React, Angular, and more. CHORN caters to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
+            description: "CHORN provides cutting-edge web development technical-expertise with expertise in popular frameworks like Next.js, React, Angular, and more. CHORN caters to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
             images: [
                 {
                     url: OpenGraph.webDevelopment.url,
@@ -242,20 +242,20 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.webDevelopment.alt
                 },
             ],
-            url: "https://chorn.in.th/services/web-development/",
+            url: "https://chorn.in.th/technical-expertise/web-development/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Web Development Services | CHORN",
-            description: "Discover CHORN’s expert web development services. From Next.js to Angular and beyond, CHORN offers solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
+            description: "Discover CHORN’s expert web development technical-expertise. From Next.js to Angular and beyond, CHORN offers solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
             images: [
                 OpenGraph.webDevelopment.url,
             ],
         },
         keywords: [
             // Core Web Development Keywords
-            "web development", "web development services", "web developer", "custom web development",
+            "web development", "web development technical-expertise", "web developer", "custom web development",
             "responsive web development", "dynamic websites", "enterprise web development",
             "scalable web applications", "custom web applications", "custom software development",
 
@@ -280,9 +280,9 @@ export const ChornMetadata: IChornMetadata = {
     },
     cloudSolutions: {
         title: "Cloud Solution Architecture & Systems Analysis | CHORN | AWS, Azure, GCP, DigitalOcean",
-        description: "CHORN delivers expert cloud solution architecture and system analysis services. We optimize cloud infrastructures across AWS, Azure, GCP, and DigitalOcean, ensuring performance, scalability, and cost-efficiency.",
+        description: "CHORN delivers expert cloud solution architecture and system analysis technical-expertise. We optimize cloud infrastructures across AWS, Azure, GCP, and DigitalOcean, ensuring performance, scalability, and cost-efficiency.",
         alternates: {
-            canonical: "https://chorn.in.th/services/cloud-solution-architecture-systems-analysis/",
+            canonical: "https://chorn.in.th/technical-expertise/cloud-solution-architecture-systems-analysis/",
         },
         authors: [
             {
@@ -291,7 +291,7 @@ export const ChornMetadata: IChornMetadata = {
         ],
         openGraph: {
             title: "Cloud Solution Architecture & Systems Analysis | CHORN",
-            description: "Explore CHORN’s cloud solution architecture and systems analysis services. We design resilient, scalable, and optimized cloud solutions across AWS, Azure, GCP, and DigitalOcean.",
+            description: "Explore CHORN’s cloud solution architecture and systems analysis technical-expertise. We design resilient, scalable, and optimized cloud solutions across AWS, Azure, GCP, and DigitalOcean.",
             images: [
                 {
                     url: OpenGraph.cloudSolutions.url,
@@ -300,13 +300,13 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.cloudSolutions.alt,
                 },
             ],
-            url: "https://chorn.in.th/services/cloud-solution-architecture-systems-analysis/",
+            url: "https://chorn.in.th/technical-expertise/cloud-solution-architecture-systems-analysis/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Cloud Solution Architecture & Systems Analysis | CHORN",
-            description: "Optimize your cloud infrastructure with CHORN’s cloud solution architecture and systems analysis services, covering AWS, Azure, GCP, and DigitalOcean.",
+            description: "Optimize your cloud infrastructure with CHORN’s cloud solution architecture and systems analysis technical-expertise, covering AWS, Azure, GCP, and DigitalOcean.",
             images: [
                 OpenGraph.cloudSolutions.url,
             ],
@@ -319,7 +319,7 @@ export const ChornMetadata: IChornMetadata = {
 
             // service-Specific Keywords
             "AWS cloud consulting", "Azure system integration", "GCP cost optimization", "DigitalOcean solutions",
-            "cloud migration services", "cloud performance tuning", "multi-cloud integration", "cloud-native applications",
+            "cloud migration technical-expertise", "cloud performance tuning", "multi-cloud integration", "cloud-native applications",
 
             // Developer & Location-Specific Keywords
             "cloud architect Thailand", "AWS architect Thailand", "Azure architect Thailand", "GCP architect Thailand",
@@ -333,7 +333,7 @@ export const ChornMetadata: IChornMetadata = {
         title: "Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions",
         description: "Discover CHORN’s expertise in Web3 blockchain and smart contract development. We build decentralized applications (DApps) using Solidity, Ethereum, Polygon, and integrate with technologies like Hardhat, Ganache, and MetaMask.",
         alternates: {
-            canonical: "https://chorn.in.th/services/web3-blockchain-smart-contract-development/",
+            canonical: "https://chorn.in.th/technical-expertise/web3-blockchain-smart-contract-development/",
         },
         authors: [
             {
@@ -342,7 +342,7 @@ export const ChornMetadata: IChornMetadata = {
         ],
         openGraph: {
             title: "Top Web3 Blockchain Smart Contract Development Services | CHORN",
-            description: "CHORN offers specialized Web3 blockchain and smart contract development services. CHORN expertise includes building DApps with Solidity, Ethereum, Polygon, and integrating with Hardhat, Ganache, and MetaMask.",
+            description: "CHORN offers specialized Web3 blockchain and smart contract development technical-expertise. CHORN expertise includes building DApps with Solidity, Ethereum, Polygon, and integrating with Hardhat, Ganache, and MetaMask.",
             images: [
                 {
                     url: OpenGraph.blockchain.url,
@@ -351,13 +351,13 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.blockchain.alt,
                 },
             ],
-            url: "https://chorn.in.th/services/web3-blockchain-smart-contract-development/",
+            url: "https://chorn.in.th/technical-expertise/web3-blockchain-smart-contract-development/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Web3 Blockchain Smart Contract Development | CHORN",
-            description: "Explore CHORN’s Web3 and blockchain smart contract development services. CHORN creates decentralized applications (DApps) with Solidity, Ethereum, Polygon, and integrate with Hardhat, Ganache, and MetaMask.",
+            description: "Explore CHORN’s Web3 and blockchain smart contract development technical-expertise. CHORN creates decentralized applications (DApps) with Solidity, Ethereum, Polygon, and integrate with Hardhat, Ganache, and MetaMask.",
             images: [
                 "https://chorn.in.th/chorn-images/metadata/banner-logo.png" + ImageVersion
             ],

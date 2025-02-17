@@ -8,64 +8,64 @@ export const Navbar2025: INavbar[] = [
         submenu: []
     },
     {
-        group: "/services/",
+        group: "/technical-expertise/",
         label: "Technical Expertise",
-        link: "/services/web-development/",
+        link: "/technical-expertise/web-development/",
         submenu: [
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "Web and API Development",
-                link: "/services/web-development/",
+                link: "/technical-expertise/web-development/",
                 submenu: []
             },
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "Front-End Development",
-                link: "/services/front-end-developer/",
+                link: "/technical-expertise/front-end-developer/",
                 submenu: []
             },
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "Back-End & API Development",
-                link: "/services/full-stack-developer/",
+                link: "/technical-expertise/full-stack-developer/",
                 submenu: []
             },
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "...",
                 link: "",
                 isSeparated: true,
                 submenu: []
             },
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "AI Solutions Services",
-                link: "/services/ai-solutions/",
+                link: "/technical-expertise/ai-solutions/",
                 submenu: []
             },
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "...",
                 link: "",
                 isSeparated: true,
                 submenu: []
             },
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "Web3 and Blockchain",
-                link: "/services/web3-blockchain-smart-contract-development/",
+                link: "/technical-expertise/web3-blockchain-smart-contract-development/",
                 submenu: []
             },
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "DevOps Testing",
-                link: "/services/devops-testing/",
+                link: "/technical-expertise/devops-testing/",
                 submenu: []
             },
             {
-                group: "/services/",
+                group: "/technical-expertise/",
                 label: "Cloud Solutions",
-                link: "/services/cloud-infrastructure-systems-architecture/",
+                link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: []
             }
         ],

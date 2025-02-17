@@ -16,7 +16,7 @@ const Features: React.FC = () => {
                   <i className="flaticon-promotion"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Marketing Analysis</Link>
+                  <Link href="/technical-expertise/details">Marketing Analysis</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -44,7 +44,7 @@ const Features: React.FC = () => {
                   <i className="flaticon-speed"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Website Optimization</Link>
+                  <Link href="/technical-expertise/details">Website Optimization</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -72,7 +72,7 @@ const Features: React.FC = () => {
                   <i className="flaticon-email"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Email Marketing</Link>
+                  <Link href="/technical-expertise/details">Email Marketing</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -100,7 +100,7 @@ const Features: React.FC = () => {
                   <i className="flaticon-network"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Social Media Marketing</Link>
+                  <Link href="/technical-expertise/details">Social Media Marketing</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed

@@ -4,9 +4,9 @@ import {OpenGraph} from "@/data/metadata/OpenGraph";
 export const FrontEndMetadata: IFrontEndMetadata = {
     main: {
         title: "Frontend Development Services | CHORN",
-        description: "CHORN provides expert frontend development services, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies.",
+        description: "CHORN provides expert frontend development technical-expertise, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies.",
         alternates: {
-            canonical: "https://chorn.in.th/services/front-end-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/",
         },
         authors: [
             {
@@ -15,7 +15,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         ],
         openGraph: {
             title: "Frontend Development Services | CHORN",
-            description: "CHORN offers frontend development services using modern technologies like Next.js, React, Angular, Vue, HTML5, and CSS3 to build fast, responsive, and scalable websites.",
+            description: "CHORN offers frontend development technical-expertise using modern technologies like Next.js, React, Angular, Vue, HTML5, and CSS3 to build fast, responsive, and scalable websites.",
             images: [
                 {
                     url: OpenGraph.frontend.main.url,
@@ -24,20 +24,20 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.main.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/front-end-developer/",
+            url: "https://chorn.in.th/technical-expertise/front-end-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Frontend Development Services | CHORN",
-            description: "Expert frontend development services by CHORN, utilizing technologies like Next.js, React, Angular, Vue, HTML5, and CSS3 for responsive, scalable websites.",
+            description: "Expert frontend development technical-expertise by CHORN, utilizing technologies like Next.js, React, Angular, Vue, HTML5, and CSS3 for responsive, scalable websites.",
             images: [
                 OpenGraph.frontend.main.url,
             ],
         },
         keywords: [
             // Core Frontend Development Keywords
-            "frontend development", "frontend services", "frontend developer", "custom frontend development",
+            "frontend development", "frontend technical-expertise", "frontend developer", "custom frontend development",
             "dynamic user interfaces", "single-page applications", "responsive web design",
             "high-performance front-end applications", "custom software development",
 
@@ -49,7 +49,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
             // Framework-Specific Frontend Keywords
             "React development", "Angular development", "Vue.js development", "Next.js frontend development",
             "React.js development", "custom Angular frontend development", "React.js frontend applications",
-            "Vue.js frontend services", "custom Vue.js development",
+            "Vue.js frontend technical-expertise", "custom Vue.js development",
 
             // Developer & Location-Specific Keywords
             "frontend developer Thailand", "frontend developer Bangkok", "frontend developer Chiangmai",
@@ -62,9 +62,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
     },
     angular: {
         title: "Angular Development Services | CHORN",
-        description: "Expert Angular development services by CHORN. Build dynamic, scalable, and high-performance web applications using Angular.",
+        description: "Expert Angular development technical-expertise by CHORN. Build dynamic, scalable, and high-performance web applications using Angular.",
         alternates: {
-            canonical: "https://chorn.in.th/services/front-end-developer/angular-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/angular-developer/",
         },
         authors: [
             {
@@ -73,7 +73,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         ],
         openGraph: {
             title: "Angular Development | CHORN",
-            description: "CHORN offers expert Angular development services to create fast, scalable, and dynamic web applications.",
+            description: "CHORN offers expert Angular development technical-expertise to create fast, scalable, and dynamic web applications.",
             images: [
                 {
                     url: OpenGraph.frontend.angular.url,
@@ -82,20 +82,20 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.angular.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/front-end-developer/angular-developer/",
+            url: "https://chorn.in.th/technical-expertise/front-end-developer/angular-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Angular Development Services | CHORN",
-            description: "Elevate your web applications with expert Angular development services from CHORN.",
+            description: "Elevate your web applications with expert Angular development technical-expertise from CHORN.",
             images: [
                 OpenGraph.frontend.angular.url,
             ],
         },
         keywords: [
             // Core Angular & service Keywords
-            "Angular development", "Angular services", "Angular developer", "Angular development Thailand",
+            "Angular development", "Angular technical-expertise", "Angular developer", "Angular development Thailand",
             "Angular development Bangkok", "Angular development Chiangmai", "Angular development company",
             "custom Angular development", "custom software development", "enterprise Angular applications",
 
@@ -118,9 +118,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
     },
     css3: {
         title: "CSS3 Development Services | CHORN",
-        description: "Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs.",
+        description: "Enhance your web applications with CHORN’s CSS3 development technical-expertise for modern and visually appealing designs.",
         alternates: {
-            canonical: "https://chorn.in.th/services/front-end-developer/css3-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/css3-developer/",
         },
         authors: [
             {
@@ -129,7 +129,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         ],
         openGraph: {
             title: "CSS3 Development | CHORN",
-            description: "CHORN offers CSS3 development services to create stylish and responsive web designs.",
+            description: "CHORN offers CSS3 development technical-expertise to create stylish and responsive web designs.",
             images: [
                 {
                     url: OpenGraph.frontend.css3.url,
@@ -138,26 +138,26 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.css3.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/front-end-developer/css3-developer/",
+            url: "https://chorn.in.th/technical-expertise/front-end-developer/css3-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "CSS3 Development Services | CHORN",
-            description: "Create visually stunning web designs with CSS3. CHORN provides expert CSS3 development services.",
+            description: "Create visually stunning web designs with CSS3. CHORN provides expert CSS3 development technical-expertise.",
             images: [
                 OpenGraph.frontend.css3.url,
             ],
         },
         keywords: [
             // Core CSS3 Keywords
-            "CSS3 development", "CSS3 services", "CSS3 developer", "custom CSS3 development",
+            "CSS3 development", "CSS3 technical-expertise", "CSS3 developer", "custom CSS3 development",
             "responsive web design", "dynamic user interfaces", "high-performance CSS3 applications",
             "custom web design", "modern CSS3 techniques", "custom software development",
 
             // Framework-Specific Keywords
             "Tailwind CSS development", "Bootstrap development", "Bulma development", "Material Design CSS",
-            "Tailwind CSS services", "Bootstrap web design", "Bulma UI development", "Material Design implementation",
+            "Tailwind CSS technical-expertise", "Bootstrap web design", "Bulma UI development", "Material Design implementation",
             "custom Tailwind CSS design", "custom Bootstrap development", "custom Bulma styling", "custom Material Design themes",
 
             // Combination Keywords
@@ -175,14 +175,14 @@ export const FrontEndMetadata: IFrontEndMetadata = {
             "CHORN", "digital innovation", "enterprise software", "scalable web applications",
 
             // Google
-            "css3 development services", "responsive web design", "dynamic user interfaces",
+            "css3 development technical-expertise", "responsive web design", "dynamic user interfaces",
         ]
     },
     html5: {
         title: "HTML5 Development Services | CHORN",
-        description: "CHORN offers expert HTML5 development services to create responsive and engaging web applications.",
+        description: "CHORN offers expert HTML5 development technical-expertise to create responsive and engaging web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/services/front-end-developer/html5-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/html5-developer/",
         },
         authors: [
             {
@@ -191,7 +191,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         ],
         openGraph: {
             title: "HTML5 Development | CHORN",
-            description: "Build modern and interactive web applications with CHORN’s HTML5 development services.",
+            description: "Build modern and interactive web applications with CHORN’s HTML5 development technical-expertise.",
             images: [
                 {
                     url: OpenGraph.frontend.html5.url,
@@ -200,20 +200,20 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.html5.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/front-end-developer/html5-developer/",
+            url: "https://chorn.in.th/technical-expertise/front-end-developer/html5-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "HTML5 Development Services | CHORN",
-            description: "Create interactive web apps with HTML5. CHORN provides expert HTML5 development services.",
+            description: "Create interactive web apps with HTML5. CHORN provides expert HTML5 development technical-expertise.",
             images: [
                 OpenGraph.frontend.html5.url,
             ],
         },
         keywords: [
             // Core HTML5 & service Keywords
-            "HTML5 development", "HTML5 services", "HTML5 developer", "custom HTML5 development", "HTML5 responsive design",
+            "HTML5 development", "HTML5 technical-expertise", "HTML5 developer", "custom HTML5 development", "HTML5 responsive design",
             "HTML5 web applications", "HTML5 mobile development", "custom web applications", "HTML5 cross-platform apps",
             "custom software development",
 
@@ -234,7 +234,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "JavaScript | CHORN - Custom Software Development Experts",
         description: "Learn how CHORN leverages JavaScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/javascript-javascript-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/javascript-javascript-developer/",
         },
         authors: [
             {
@@ -252,7 +252,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.javascript.alt,
                 },
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/javascript-javascript-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/javascript-javascript-developer/",
             type: "website",
         },
         twitter: {
@@ -265,7 +265,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         },
         keywords: [
             // Core JavaScript & service Keywords
-            "JavaScript development", "JavaScript services", "JavaScript developer", "custom JavaScript development",
+            "JavaScript development", "JavaScript technical-expertise", "JavaScript developer", "custom JavaScript development",
             "JavaScript web applications", "JavaScript full stack development", "JavaScript frontend development",
             "custom software development",
 
@@ -285,9 +285,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
     },
     nextjs: {
         title: "Next.js Development Services | CHORN",
-        description: "Expert Next.js development services by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js.",
+        description: "Expert Next.js development technical-expertise by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js.",
         alternates: {
-            canonical: "https://chorn.in.th/services/front-end-developer/nextjs-developer",
+            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/nextjs-developer",
         },
         authors: [
             {
@@ -296,7 +296,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         ],
         openGraph: {
             title: "Next.js Development | CHORN",
-            description: "CHORN offers specialized Next.js development services to create fast and scalable web applications.",
+            description: "CHORN offers specialized Next.js development technical-expertise to create fast and scalable web applications.",
             images: [
                 {
                     url: OpenGraph.frontend.nextjs.url,
@@ -305,20 +305,20 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.nextjs.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/front-end-developer/nextjs-developer",
+            url: "https://chorn.in.th/technical-expertise/front-end-developer/nextjs-developer",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Next.js Development Services | CHORN",
-            description: "Elevate your web applications with expert Next.js development services from CHORN.",
+            description: "Elevate your web applications with expert Next.js development technical-expertise from CHORN.",
             images: [
                 OpenGraph.frontend.nextjs.url,
             ],
         },
         keywords: [
             // Core Next.js & service Keywords
-            "Next.js development", "Next.js services", "Next.js developer", "custom Next.js development", "server-side rendering",
+            "Next.js development", "Next.js technical-expertise", "Next.js developer", "custom Next.js development", "server-side rendering",
             "Next.js full stack development", "Next.js SEO optimization", "Next.js applications", "custom web applications",
 
             // Web & Application Development Keywords
@@ -336,9 +336,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
     },
     react: {
         title: "React Development Services | CHORN",
-        description: "CHORN provides top-tier React development services. Build dynamic and responsive user interfaces with React.",
+        description: "CHORN provides top-tier React development technical-expertise. Build dynamic and responsive user interfaces with React.",
         alternates: {
-            canonical: "https://chorn.in.th/services/front-end-developer/react-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/react-developer/",
         },
         authors: [
             {
@@ -347,7 +347,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         ],
         openGraph: {
             title: "React Development | CHORN",
-            description: "Enhance your web apps with React. CHORN offers expert React development services for high-performance applications.",
+            description: "Enhance your web apps with React. CHORN offers expert React development technical-expertise for high-performance applications.",
             images: [
                 {
                     url: OpenGraph.frontend.react.url,
@@ -356,20 +356,20 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.react.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/front-end-developer/react-developer",
+            url: "https://chorn.in.th/technical-expertise/front-end-developer/react-developer",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "React Development Services | CHORN",
-            description: "Expert React development services by CHORN. Create engaging user interfaces with React.",
+            description: "Expert React development technical-expertise by CHORN. Create engaging user interfaces with React.",
             images: [
                 OpenGraph.frontend.react.url,
             ],
         },
         keywords: [
             // Core React & service Keywords
-            "React development", "React services", "React developer", "custom React development", "React.js applications",
+            "React development", "React technical-expertise", "React developer", "custom React development", "React.js applications",
             "React full stack development", "React single-page applications", "React user interfaces", "custom web applications",
             "custom software development",
 
@@ -390,7 +390,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "TypeScript | CHORN - Custom Software Development Experts",
         description: "Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
         alternates: {
-            canonical: "https://chorn.in.th/services/full-stack-developer/typescript-javascript-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/typescript-javascript-developer/",
         },
         authors: [
             {
@@ -408,7 +408,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.typescript.alt,
                 },
             ],
-            url: "https://chorn.in.th/services/full-stack-developer/typescript-javascript-developer/",
+            url: "https://chorn.in.th/technical-expertise/full-stack-developer/typescript-javascript-developer/",
             type: "website",
         },
         twitter: {
@@ -421,7 +421,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         },
         keywords: [
             // Core TypeScript & service Keywords
-            "TypeScript development", "TypeScript services", "TypeScript developer", "custom TypeScript development",
+            "TypeScript development", "TypeScript technical-expertise", "TypeScript developer", "custom TypeScript development",
             "TypeScript web applications", "TypeScript full stack development", "TypeScript frontend development",
             "custom software development",
 
@@ -443,7 +443,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "Vue.js Development Services | CHORN",
         description: "CHORN specializes in Vue.js development to create interactive and scalable web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/services/front-end-developer/vue-developer/",
+            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/vue-developer/",
         },
         authors: [
             {
@@ -452,7 +452,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         ],
         openGraph: {
             title: "Vue.js Development | CHORN",
-            description: "Expert Vue.js development services by CHORN for building modern web applications.",
+            description: "Expert Vue.js development technical-expertise by CHORN for building modern web applications.",
             images: [
                 {
                     url: OpenGraph.frontend.vue.url,
@@ -461,20 +461,20 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.vue.alt,
                 }
             ],
-            url: "https://chorn.in.th/services/front-end-developer/vue-developer/",
+            url: "https://chorn.in.th/technical-expertise/front-end-developer/vue-developer/",
             type: "website",
         },
         twitter: {
             card: "summary_large_image",
             title: "Vue.js Development Services | CHORN",
-            description: "Enhance your web applications with Vue.js. CHORN offers expert Vue.js development services.",
+            description: "Enhance your web applications with Vue.js. CHORN offers expert Vue.js development technical-expertise.",
             images: [
                 OpenGraph.frontend.vue.url,
             ],
         },
         keywords: [
             // Core Vue.js & service Keywords
-            "Vue.js development", "Vue.js services", "Vue.js developer", "custom Vue.js development", "Vue.js applications",
+            "Vue.js development", "Vue.js technical-expertise", "Vue.js developer", "custom Vue.js development", "Vue.js applications",
             "Vue.js full stack development", "Vue.js single-page applications", "Vue.js user interfaces", "custom web applications",
             "custom software development",
 

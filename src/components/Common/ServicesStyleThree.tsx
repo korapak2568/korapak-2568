@@ -22,14 +22,14 @@ const ServicesStyleThree: React.FC = () => {
                   <i className="flaticon-code"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Website Development</Link>
+                  <Link href="/technical-expertise/details">Website Development</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -41,14 +41,14 @@ const ServicesStyleThree: React.FC = () => {
                   <i className="flaticon-vector"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Web Design</Link>
+                  <Link href="/technical-expertise/details">Web Design</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -60,14 +60,14 @@ const ServicesStyleThree: React.FC = () => {
                   <i className="flaticon-network"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Social Media Marketing</Link>
+                  <Link href="/technical-expertise/details">Social Media Marketing</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -79,14 +79,14 @@ const ServicesStyleThree: React.FC = () => {
                   <i className="flaticon-search"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Content Marketing</Link>
+                  <Link href="/technical-expertise/details">Content Marketing</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -98,14 +98,14 @@ const ServicesStyleThree: React.FC = () => {
                   <i className="flaticon-digital-marketing-1"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Digital Media & PPC</Link>
+                  <Link href="/technical-expertise/details">Digital Media & PPC</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -117,14 +117,14 @@ const ServicesStyleThree: React.FC = () => {
                   <i className="flaticon-cpu"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Technology</Link>
+                  <Link href="/technical-expertise/details">Technology</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>

@@ -8,10 +8,10 @@ export const FullStack2025: IFullStack = {
     dotnetcore: {
         title: ".NET Core C#",
         description: ".NET Core C# is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core C# provides a robust environment for enterprise-level solutions.",
-        image: "/chorn-images/services/full-stack-developer/dotnetcore-developer.webp",
+        image: "/chorn-images/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
         alt: "Logo representing .NET Core API development",
         readMore: "Explore more .NET Core API full-stack development solutions",
-        link: "/services/full-stack-developer/dotnetcore-developer",
+        link: "/technical-expertise/full-stack-developer/dotnetcore-developer",
         features: [
             {
                 title: "C# .NET Core Development",
@@ -33,7 +33,7 @@ export const FullStack2025: IFullStack = {
             },
             {
                 title: ".NET Core API",
-                description: ".NET Core API provides developers with the tools to build RESTful services and APIs that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. Its lightweight, modular design ensures high performance and easy integration with other services.",
+                description: ".NET Core API provides developers with the tools to build RESTful technical-expertise and APIs that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. Its lightweight, modular design ensures high performance and easy integration with other technical-expertise.",
                 list: []
             },
             {
@@ -68,10 +68,10 @@ export const FullStack2025: IFullStack = {
     go: {
         title: "GO",
         description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
-        image: "/chorn-images/services/full-stack-developer/go-developer.webp",
+        image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
         alt: "Logo representing Go programming language",
         readMore: "Explore more Go full-stack development solutions",
-        link: "/services/full-stack-developer/go-developer",
+        link: "/technical-expertise/full-stack-developer/go-developer",
         features: [
             {
                 title: "Go Development",
@@ -120,10 +120,10 @@ export const FullStack2025: IFullStack = {
     java: {
         title: "Java, Spring Boot",
         description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
-        image: "/chorn-images/services/full-stack-developer/java-spring-boot-developer.webp",
+        image: "/chorn-images/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
         alt: "Logo representing Java with Spring Boot framework",
         readMore: "Explore more Java Spring Boot full-stack development solutions",
-        link: "/services/full-stack-developer/java-spring-boot-developer",
+        link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
         features: [
             {
                 title: "Java Spring Boot Development",
@@ -175,16 +175,16 @@ export const FullStack2025: IFullStack = {
             "environment that allows developers to build scalable network applications efficiently. " +
             "With an event-driven, non-blocking I/O model, Node.js is ideal for building fast, lightweight " +
             "applications, real-time communication systems, and data-intensive tasks, making it a popular choice for modern software development, including AI integrations.",
-        "image": "/chorn-images/services/full-stack-developer/nodejs-developer.webp",
+        "image": "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
         "alt": "Logo representing NodeJS technology",
         "readMore": "Explore more NodeJS full-stack development solutions",
-        "link": "/services/full-stack-developer/nodejs-developer",
+        "link": "/technical-expertise/full-stack-developer/nodejs-developer",
         "features": [
             {
                 "title": "NodeJS Development",
                 "description": "Node.js provides an event-driven, non-blocking architecture perfect for building scalable, real-time applications. " +
-                    "It excels at handling large numbers of simultaneous connections, enabling the development of data-intensive services with minimal latency. " +
-                    "Node.js is also used for server-side scripting, microservices, and AI-related features, or integrating with external AI services.",
+                    "It excels at handling large numbers of simultaneous connections, enabling the development of data-intensive technical-expertise with minimal latency. " +
+                    "Node.js is also used for server-side scripting, microservices, and AI-related features, or integrating with external AI technical-expertise.",
                 "list": [
                     "Non-blocking I/O",
                     "Event-driven architecture",
@@ -245,7 +245,7 @@ export const FullStack2025: IFullStack = {
         "faqs": [
             {
                 "question": "What is Node.js?",
-                "answer": "Node.js is a JavaScript runtime that enables the building of fast and scalable network applications, making it ideal for I/O-heavy tasks and real-time services."
+                "answer": "Node.js is a JavaScript runtime that enables the building of fast and scalable network applications, making it ideal for I/O-heavy tasks and real-time technical-expertise."
             },
             {
                 "question": "What is Express.js used for?",
@@ -257,17 +257,17 @@ export const FullStack2025: IFullStack = {
             },
             {
                 "question": "Can Node.js be used for AI?",
-                "answer": "Yes, Node.js can be used for AI tasks, leveraging libraries like TensorFlow.js or connecting with cloud AI services for natural language processing, image recognition, and more."
+                "answer": "Yes, Node.js can be used for AI tasks, leveraging libraries like TensorFlow.js or connecting with cloud AI technical-expertise for natural language processing, image recognition, and more."
             }
         ]
     },
     php: {
         title: "PHP",
         description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
-        image: "/chorn-images/services/full-stack-developer/php-developer.webp",
+        image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
         alt: "Logo representing PHP programming language",
         readMore: "Explore more PHP full-stack development solutions",
-        link: "/services/full-stack-developer/php-developer",
+        link: "/technical-expertise/full-stack-developer/php-developer",
         features: [
             {
                 title: "PHP Development",
@@ -316,10 +316,10 @@ export const FullStack2025: IFullStack = {
     python: {
         title: "Python",
         description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
-        image: "/chorn-images/services/full-stack-developer/python-developer.webp",
+        image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
         alt: "Logo representing Python with Flask framework",
         readMore: "Explore more Python, Flask, Django full-stack development solutions",
-        link: "/services/full-stack-developer/python-developer",
+        link: "/technical-expertise/full-stack-developer/python-developer",
         features: [
             {
                 title: "Python Development",
@@ -424,7 +424,7 @@ export const FullStack2025: IFullStack = {
                 overview: "Tornado is a scalable, non-blocking web server and web application framework.",
                 strengths: [
                     "Performance: Designed for handling long-lived network connections.",
-                    "Real-time: Suitable for real-time web services.",
+                    "Real-time: Suitable for real-time web technical-expertise.",
                     "Scalability: Can handle thousands of simultaneous connections."
                 ],
                 useCases: [
@@ -441,7 +441,7 @@ export const FullStack2025: IFullStack = {
     services: {
         title: "Back-End & API Development",
         descriptions: [
-            "Take advantage of our full-stack development outsourcing services to build robust, scalable, " +
+            "Take advantage of our full-stack development outsourcing technical-expertise to build robust, scalable, " +
             "and secure web applications from scratch. Our developers excel in both front-end and " +
             "back-end technologies, delivering a comprehensive solution tailored to your business needs. " +
             "CHORN has expertise in a variety of technology stacks, including Node.js, .NET Core C#, " +

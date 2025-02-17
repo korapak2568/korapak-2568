@@ -45,7 +45,7 @@ export const Footer: IFooter = {
         },
         {
             label: "Services",
-            link: "/services/web-development"
+            link: "/technical-expertise/web-development"
         },
         {
             label: "Contact",
@@ -71,27 +71,27 @@ export const Footer: IFooter = {
         },
         {
             label: "AI Solutions Service",
-            link: "/services/ai-solutions"
+            link: "/technical-expertise/ai-solutions"
         },
         {
             label: "Web Development",
-            link: "/services/web-development"
+            link: "/technical-expertise/web-development"
         },
         {
             label: "Front End Development",
-            link: "/services/front-end-developer/"
+            link: "/technical-expertise/front-end-developer/"
         },
         {
             label: "Back-End & API Development",
-            link: "/services/full-stack-developer/"
+            link: "/technical-expertise/full-stack-developer/"
         },
         {
             label: "Web3 Blockchain Smart Contract",
-            link: "/services/web3-blockchain-smart-contract-development",
+            link: "/technical-expertise/web3-blockchain-smart-contract-development",
         },
         {
             label: "DevOps Testing",
-            link: "/services/devops-testing"
+            link: "/technical-expertise/devops-testing"
         },
     ],
     infoLinks: [

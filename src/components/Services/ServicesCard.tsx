@@ -14,7 +14,7 @@ const ServicesCardFrontEnd: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-1.png"
                       alt="image"
@@ -24,14 +24,14 @@ const ServicesCardFrontEnd: React.FC = () => {
                   </Link>
                 </div>
                 <h3>
-                  <Link href="/services/details">Website Development</Link>
+                  <Link href="/technical-expertise/details">Website Development</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -40,7 +40,7 @@ const ServicesCardFrontEnd: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-2.png"
                       alt="image"
@@ -50,14 +50,14 @@ const ServicesCardFrontEnd: React.FC = () => {
                   </Link>
                 </div>
                 <h3>
-                  <Link href="/services/details">Digital Media & PPC</Link>
+                  <Link href="/technical-expertise/details">Digital Media & PPC</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -66,7 +66,7 @@ const ServicesCardFrontEnd: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-3.png"
                       alt="image"
@@ -76,14 +76,14 @@ const ServicesCardFrontEnd: React.FC = () => {
                   </Link>
                 </div>
                 <h3>
-                  <Link href="/services/details">Social Media Marketing</Link>
+                  <Link href="/technical-expertise/details">Social Media Marketing</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -92,7 +92,7 @@ const ServicesCardFrontEnd: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-4.png"
                       alt="image"
@@ -102,7 +102,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                   </Link>
                 </div>
                 <h3>
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     Content Marketing Services
                   </Link>
                 </h3>
@@ -111,7 +111,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -120,7 +120,7 @@ const ServicesCardFrontEnd: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-5.png"
                       alt="image"
@@ -130,14 +130,14 @@ const ServicesCardFrontEnd: React.FC = () => {
                   </Link>
                 </div>
                 <h3>
-                  <Link href="/services/details">Competitor Research</Link>
+                  <Link href="/technical-expertise/details">Competitor Research</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -146,7 +146,7 @@ const ServicesCardFrontEnd: React.FC = () => {
             <div className="col-lg-4 col-md-6">
               <div className="single-services">
                 <div className="image">
-                  <Link href="/services/details">
+                  <Link href="/technical-expertise/details">
                     <Image
                       src="/images/services/services-6.png"
                       alt="image"
@@ -156,14 +156,14 @@ const ServicesCardFrontEnd: React.FC = () => {
                   </Link>
                 </div>
                 <h3>
-                  <Link href="/services/details">Software Development</Link>
+                  <Link href="/technical-expertise/details">Software Development</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/services/details" className="services-btn">
+                <Link href="/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>

@@ -14,7 +14,7 @@ export const About2025: IAbout = {
                 "With a strong foundation in strategic technology roadmaps, system analysis, and full-stack development, "
         },
         {
-            "title": "Service",
+            "title": "Technical Expertise",
             "description": "CHORN delivers client-centric solutions through <strong>permanent, contract,</strong> and <strong>freelance</strong> models. " +
                 "Services span software development, cloud computing, AI, system modernization, and Web3, dApp, and smart contract development, " +
                 "ensuring scalable, high-impact outcomes. Work arrangements are flexible, offering <strong>remote, office, or hybrid</strong> options to meet client needs."

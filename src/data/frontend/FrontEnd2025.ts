@@ -8,10 +8,10 @@ export const FrontEnd2025: IFrontEnd = {
     angular: {
         title: "Angular",
         description: "Develop robust, enterprise-grade web applications with Angular's comprehensive and versatile framework.",
-        image: "/chorn-images/services/front-end-developer/angular-developer.webp",
+        image: "/chorn-images/technical-expertise/front-end-developer/angular-developer.webp",
         alt: "Logo representing Angular framework",
         readMore: "Explore more Angular front-end development solutions",
-        link: "/services/front-end-developer/angular-developer",
+        link: "/technical-expertise/front-end-developer/angular-developer",
         features: [
             {
                 title: "Angular Development",
@@ -55,10 +55,10 @@ export const FrontEnd2025: IFrontEnd = {
     css3: {
         title: "CSS3",
         description: "Enhance your website's look with advanced styling techniques using CSS3.",
-        image: "/chorn-images/services/front-end-developer/css3-developer.webp",
+        image: "/chorn-images/technical-expertise/front-end-developer/css3-developer.webp",
         alt: "Logo representing CSS3 technology",
         readMore: "Explore more CSS3 front-end development solutions",
-        link: "/services/front-end-developer/css3-developer",
+        link: "/technical-expertise/front-end-developer/css3-developer",
         features: [
             {
                 title: "CSS3 Responsive Design",
@@ -106,10 +106,10 @@ export const FrontEnd2025: IFrontEnd = {
     html5: {
         title: "HTML5",
         description: "Master the latest standards in web development for rich, interactive content.",
-        image: "/chorn-images/services/front-end-developer/html5-developer.webp",
+        image: "/chorn-images/technical-expertise/front-end-developer/html5-developer.webp",
         alt: "Logo representing HTML5 technology",
         readMore: "Explore more HTML5 front-end development solutions",
-        link: "/services/front-end-developer/html5-developer",
+        link: "/technical-expertise/front-end-developer/html5-developer",
         features: [
             {
                 title: "HTML5 Web Design",
@@ -153,10 +153,10 @@ export const FrontEnd2025: IFrontEnd = {
     nextjs: {
         title: "NextJS",
         description: "Boost your React applications with seamless server-side rendering and static site generation for optimal performance.",
-        image: "/chorn-images/services/front-end-developer/nextjs-developer.webp",
+        image: "/chorn-images/technical-expertise/front-end-developer/nextjs-developer.webp",
         alt: "Logo representing Next.js framework",
         readMore: "Explore more NextJS front-end development solutions ",
-        link: "/services/front-end-developer/nextjs-developer",
+        link: "/technical-expertise/front-end-developer/nextjs-developer",
         features: [
             {
                 title: "NextJS Development",
@@ -200,10 +200,10 @@ export const FrontEnd2025: IFrontEnd = {
     react: {
         title: "React",
         description: "Build dynamic, high-performance user interfaces effortlessly with React's powerful component-based architecture.",
-        image: "/chorn-images/services/front-end-developer/react-developer.webp",
+        image: "/chorn-images/technical-expertise/front-end-developer/react-developer.webp",
         alt: "Logo representing React.js library",
         readMore: "Explore more ReactJS front-end development solutions",
-        link: "/services/front-end-developer/react-developer",
+        link: "/technical-expertise/front-end-developer/react-developer",
         features: [
             {
                 title: "React Development",
@@ -247,10 +247,10 @@ export const FrontEnd2025: IFrontEnd = {
     typescript: {
         "title": "TypeScript",
         "description": "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles to plain JavaScript, making it compatible with all browsers and frameworks.",
-        "image": "/chorn-images/services/front-end-developer/typescript-developer.webp",
+        "image": "/chorn-images/technical-expertise/front-end-developer/typescript-developer.webp",
         "alt": "Logo representing TypeScript programming language",
         "readMore": "Explore more TypeScript full-stack development solutions",
-        "link": "/services/front-end-developer/typescript-developer",
+        "link": "/technical-expertise/front-end-developer/typescript-developer",
         "features": [
             {
                 "title": "TypeScript Development",
@@ -298,10 +298,10 @@ export const FrontEnd2025: IFrontEnd = {
     vue: {
         title: "Vue",
         description: "Create modern, reactive web interfaces quickly with Vue's intuitive and flexible design. ",
-        image: "/chorn-images/services/front-end-developer/vue-developer.webp",
+        image: "/chorn-images/technical-expertise/front-end-developer/vue-developer.webp",
         alt: "Logo representing Vue.js framework",
         readMore: "Explore more VueJS front-end development solutions",
-        link: "/services/front-end-developer/vue-developer",
+        link: "/technical-expertise/front-end-developer/vue-developer",
         features: [
             {
                 title: "Vue Development",
@@ -345,10 +345,10 @@ export const FrontEnd2025: IFrontEnd = {
     javascript: {
         "title": "JavaScript",
         "description": "JavaScript is a versatile and dynamic programming language widely used for building interactive and responsive web applications. Its flexibility and extensive ecosystem make it an essential tool for modern web development.",
-        "image": "/chorn-images/services/front-end-developer/javascript-developer.webp",
+        "image": "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
         "alt": "Logo representing JavaScript programming language",
         "readMore": "Explore more JavaScript full-stack development solutions",
-        "link": "/services/front-end-developer/javascript-developer",
+        "link": "/technical-expertise/front-end-developer/javascript-developer",
         "features": [
             {
                 "title": "JavaScript Development",
@@ -399,7 +399,7 @@ export const FrontEnd2025: IFrontEnd = {
         title: "Front-End Development",
         descriptions: [
             "Looking for a highly skilled front-end developer to bring your web application vision to life? " +
-            "Our front-end development outsourcing services offer expertise in crafting user-friendly, " +
+            "Our front-end development outsourcing technical-expertise offer expertise in crafting user-friendly, " +
             "visually appealing, and responsive websites. CHORN specializes in frameworks like Next.js, " +
             "React, Angular, Vue.js, as well as the essential web technologies, HTML5, and CSS3",
 

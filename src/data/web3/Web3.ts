@@ -8,7 +8,7 @@ export const Web3: IWeb3 = {
     services: {
         title: "Blockchain Development for Web3 Applications",
         descriptions: [
-            "Discover the power of decentralized applications (dApps) and smart contracts with CHORN's comprehensive Web3 and blockchain development services. Whether you're building a decentralized finance (DeFi) platform, an NFT marketplace, or any other dApp, our experienced developers bring your blockchain vision to reality.",
+            "Discover the power of decentralized applications (dApps) and smart contracts with CHORN's comprehensive Web3 and blockchain development technical-expertise. Whether you're building a decentralized finance (DeFi) platform, an NFT marketplace, or any other dApp, our experienced developers bring your blockchain vision to reality.",
 
             "CHORN delivers secure, scalable, and efficient smart contract solutions using Solidity for Ethereum and Polygon networks. Our expertise extends to creating full-stack Web3 applications with React and Next.js, ensuring your dApp is responsive, user-friendly, and seamlessly integrated with blockchain technology. Leveraging state-of-the-art tools like Hardhat and Ganache, we streamline development, testing, and management for your blockchain projects."
         ],
