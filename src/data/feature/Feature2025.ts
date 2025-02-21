@@ -1,16 +1,10 @@
 import {IFeature} from "@/data/feature/model/IFeature";
 
 export const Feature2025: IFeature = {
-    title: "AI & Software Solutions",
+    title: "System Analysis & Web Development",
     span: "Care Features",
     subTitle: "",
     stacks: [
-        {
-            title: "AI Solutions Service",
-            description: "CHORN specializes in advanced AI agent development, delivering intelligent, responsive solutions tailored to meet specific needs",
-            link: "/technical-expertise/ai-solutions/",
-            icon: "bx bxs-brain"
-        },
         {
             title: "Front End Development",
             description: "UI frameworks and libraries such as React, Next.js, Angular, Vue, " +
@@ -19,23 +13,22 @@ export const Feature2025: IFeature = {
             icon: "bx bx-code-alt"
         },
         {
-            title: "Full Stack Development",
-            description: "Comprehensive full-stack-developer development technical-expertise using Node.js, " +
-                "Java, Spring Boot, Go-lang, PHP, and Python.",
+            title: "Back End Development",
+            description: "Expertise in server-side technologies, including Node.js, Java, Spring Boot, Go, PHP, and Python, for building scalable and efficient back-end systems.",
             link: "/technical-expertise/full-stack-developer/",
-            icon: "bx bx-layer"
+            icon: "bx bx-server"
+        },
+        {
+            title: "Web Development",
+            description: "End-to-end web development solutions using modern technologies like Node.js, Java, Spring Boot, Go, PHP, and Python to create dynamic, responsive websites.",
+            link: "/technical-expertise/web-development/",
+            icon: "bx bx-globe"
         },
         {
             title: "Web3 & Blockchain",
             description: "We also specialize in cutting-edge technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3, ensuring your financial technical-expertise stay ahead of the curve.",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"
-        },
-        // {
-        //     title: "Mobile Development",
-        //     description: "Hybrid mobile applications for iOS and Android using React Native and Flutter.",
-        //     link: "/technical-expertise/mobile-development",
-        //     icon: "bx bx-mobile"
-        // },
+        }
     ],
 }

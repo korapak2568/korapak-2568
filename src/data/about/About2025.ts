@@ -15,9 +15,10 @@ export const About2025: IAbout = {
         },
         {
             "title": "Technical Expertise",
-            "description": "CHORN delivers client-centric solutions through <strong>permanent, contract,</strong> and <strong>freelance</strong> models. " +
+            "description": "CHORN delivers client-centric solutions for permanent positions, contract work, and project-based engagements. " +
                 "Services span software development, cloud computing, AI, system modernization, and Web3, dApp, and smart contract development, " +
-                "ensuring scalable, high-impact outcomes. Work arrangements are flexible, offering <strong>remote, office, or hybrid</strong> options to meet client needs."
+                "ensuring scalable, high-impact outcomes. Work arrangements are flexible, offering <strong>remote, office, or hybrid</strong> " +
+                "options to meet clients' needs in Bangkok, Thailand, and worldwide."
         }
     ],
     stacks: [
