@@ -1,7 +1,7 @@
 import {IFeature} from "@/data/feature/model/IFeature";
 
 export const Feature2025: IFeature = {
-    title: "System Analysis & Web Development",
+    title: "System Analysis & Software Development",
     span: "Care Features",
     subTitle: "",
     stacks: [
