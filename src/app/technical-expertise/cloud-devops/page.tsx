@@ -16,7 +16,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="DevOps and Testing"/>
+            <PageBanner pageTitle="Cloud DevOps"/>
 
             <ServicesCardDevOpsTesting/>
 

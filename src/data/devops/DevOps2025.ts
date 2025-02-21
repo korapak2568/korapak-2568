@@ -1,7 +1,7 @@
 import {IDevOps} from "@/data/devops/model/IDevOps";
 
 export const DevOps2025: IDevOps = {
-    title: "DevOps and Testing",
+    title: "Cloud DevOps",
     span: "Outstanding DevOps Testing",
     subTitle: "",
 
