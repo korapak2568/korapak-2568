@@ -58,8 +58,8 @@ export const Navbar2025: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "DevOps Testing",
-                link: "/technical-expertise/devops-testing/",
+                label: "Cloud DevOps",
+                link: "/technical-expertise/cloud-devops/",
                 submenu: []
             },
             {

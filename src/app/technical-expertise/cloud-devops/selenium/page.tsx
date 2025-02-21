@@ -3,13 +3,13 @@ import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
-import ServicesDetailsGitLab from "@/components/Services/devops-testing/gitlab/ServicesDetailsGitLab";
+import ServicesDetailsSelenium from "@/components/Services/cloud-devops/selenium/ServicesDetailsSelenium";
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = ChornMetadata.devops.gitlab
+export const metadata: Metadata = ChornMetadata.devops.selenium
 
 const Page = () => {
 
@@ -17,18 +17,18 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.gitlab.features[0].title}/>
+            <PageBanner pageTitle={Info.DevOps.selenium.features[0].title}/>
 
-            <ServicesDetailsGitLab/>
+            <ServicesDetailsSelenium/>
 
             <CloudExperience/>
 
             <Footer/>
 
             <SchemaMarkupServicePage
-                name="GitLab DevOps Services | CHORN"
-                description="CHORN provides GitLab-based DevOps services for continuous integration, automation, and version control solutions."
-                url="https://chorn.in.th/technical-expertise/devops-testing/gitlab/"
+                name="Selenium Testing Services | CHORN"
+                description="CHORN offers comprehensive Selenium testing services to ensure the quality and performance of your applications through automated testing."
+                url="https://chorn.in.th/technical-expertise/cloud-devops/selenium/"
             />
         </>
     );

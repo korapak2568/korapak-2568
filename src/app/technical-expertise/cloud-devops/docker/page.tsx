@@ -3,13 +3,13 @@ import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
-import ServicesDetailsSelenium from "@/components/Services/devops-testing/selenium/ServicesDetailsSelenium";
+import ServicesDetailsDocker from "@/components/Services/cloud-devops/docker/ServicesDetailsDocker";
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
 
-export const metadata: Metadata = ChornMetadata.devops.selenium
+export const metadata: Metadata = ChornMetadata.devops.docker
 
 const Page = () => {
 
@@ -17,18 +17,18 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.selenium.features[0].title}/>
+            <PageBanner pageTitle={Info.DevOps.docker.features[0].title}/>
 
-            <ServicesDetailsSelenium/>
+            <ServicesDetailsDocker/>
 
             <CloudExperience/>
 
             <Footer/>
 
             <SchemaMarkupServicePage
-                name="Selenium Testing Services | CHORN"
-                description="CHORN offers comprehensive Selenium testing services to ensure the quality and performance of your applications through automated testing."
-                url="https://chorn.in.th/technical-expertise/devops-testing/selenium/"
+                name="Docker DevOps Services | CHORN"
+                description="CHORN offers Docker-based DevOps services for efficient containerization and scalable application deployment."
+                url="https://chorn.in.th/technical-expertise/cloud-devops/docker/"
             />
         </>
     );

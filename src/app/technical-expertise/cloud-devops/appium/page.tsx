@@ -3,7 +3,7 @@ import Navbar from "../../../../components/Layouts/Navbar";
 import PageBanner from "../../../../components/Common/PageBanner";
 import Footer from "../../../../components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
-import ServicesDetailsAppium from "@/components/Services/devops-testing/appium/ServicesDetailsAppium";
+import ServicesDetailsAppium from "@/components/Services/cloud-devops/appium/ServicesDetailsAppium";
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
@@ -28,7 +28,7 @@ const Page = () => {
             <SchemaMarkupServicePage
                 name="Appium Testing Services | CHORN"
                 description="CHORN offers Appium testing services for automated mobile app testing across multiple platforms to ensure high-quality performance."
-                url="https://chorn.in.th/technical-expertise/devops-testing/appium/"
+                url="https://chorn.in.th/technical-expertise/cloud-devops/appium/"
             />
         </>
     );
