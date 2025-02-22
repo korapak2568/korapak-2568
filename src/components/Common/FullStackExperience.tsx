@@ -104,7 +104,7 @@ const FullStackExperience: React.FC = () => {
                                         <div className="col-lg-6">
                                             <div className="digital-experience-image">
                                                 <Image
-                                                    src="/chorn-images/services/services-7-chorn.webp"
+                                                    src={Info.Gallery.global.image}
                                                     alt="Service image"
                                                     width={750}
                                                     height={680}
