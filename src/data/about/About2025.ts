@@ -8,10 +8,10 @@ export const About2025: IAbout = {
         {
             title: "History",
             description:
-                "CHORN, established by Khachornchit S. in March 2023, specializes in technology and software development " +
-                "as an independent entity. Built on Khachornchit S.'s Electrical Engineering background from " +
-                "Chiang Mai University, CHORN benefits from over two decades of leadership experience. " +
-                "With a strong foundation in strategic technology roadmaps, system analysis, and full-stack development, "
+                "CHORN, established by Khachornchit in March 2023, specializes in technology and software development " +
+                "as an independent entity. Built on Khachornchit's Electrical Engineering background from " +
+                "Chiang Mai University, with over two decades of work experience, a strong foundation in strategic technology " +
+                "roadmaps, system analysis, software engineering, and full-stack development."
         },
         {
             "title": "Technical Expertise",
