@@ -3,21 +3,21 @@ import {IServiceLink} from "@/data/service/model/IServiceLink";
 import {IServiceItem} from "@/data/service/model/IServiceItem";
 
 export const Service2025: IService = {
-    title: "AI Solutions Service",
-    description: "CHORN specializes in advanced AI agent development, delivering intelligent, responsive solutions tailored to meet specific needs. Expertise includes scalable websites, mobile applications, and full-stack software systems. The <strong>AI-powered</strong> companion technical-expertise via LINE demonstrate the capabilities of these technologies, showcasing innovative approaches to enhancing digital presence and streamlining operational efficiency.",
-
+    title: "LLM/AI Solutions Integration",
+    description: "CHORN specializes in advanced LLM/AI agent development, delivering intelligent, responsive solutions tailored to meet specific needs. Expertise includes scalable websites, mobile applications, and full-stack software systems. The <strong>LLM-powered</strong> companion technical-expertise via LINE demonstrates the capabilities of large language models like ChatGPT, Perplexity, and DeepSeek, showcasing innovative approaches to enhancing digital presence and streamlining operational efficiency.",
+    
     services: [
         {
-            title: "AI Agent Development",
-            description: "Design and deploy intelligent AI agents tailored to integrate seamlessly with your legacy systems, enhancing automation and efficiency."
+            title: "LLM Agent Development",
+            description: "Design and deploy intelligent AI agents powered by advanced LLMs such as ChatGPT and DeepSeek, seamlessly integrating with your legacy systems to enhance automation and efficiency."
         },
         {
             title: "Legacy System Integration",
             description: "Modernize existing systems by integrating advanced AI capabilities, ensuring smooth data flow and improved functionality."
         },
         {
-            title: "Custom AI Solutions",
-            description: "Build bespoke AI models and solutions tailored to meet specific business challenges and operational needs."
+             title: "Custom LLM Solutions",
+            description: "Develop bespoke AI models, leveraging state-of-the-art LLMs to tackle specific business challenges and optimize operations."
         },
         {
             title: "AI Workflow Automation",
@@ -30,7 +30,7 @@ export const Service2025: IService = {
     ],
 
     demo: {
-        title: "AI Chat Companion",
+        title: "LLM/AI Chat Companion",
         description: "Welcome to the AI Chat Companion, a demo of AI-powered integration. Explore a variety of AI companions, " +
             "each with unique personalities, designed to interact seamlessly with users via the LINE application. " +
             "These AI companions can communicate in multiple languages, including Thai, English, Chinese, " +
