@@ -6,19 +6,20 @@ export const About2025: IAbout = {
     subTitle: "Innovating Technology for Business Success",
     description: [
         {
-            title: "History",
+            title: "",
             description:
-                "CHORN, established by Khachornchit in March 2023, specializes in technology and software development " +
-                "as an independent entity. Built on Khachornchit's Electrical Engineering background from " +
+                "CHORN, established by Khachornchit in March 2023, specializes in technology and software development. " +
+                "Built on Khachornchit's Electrical Engineering background from " +
                 "Chiang Mai University, with over two decades of work experience, a strong foundation in strategic technology " +
-                "roadmaps, system analysis, software engineering, and full-stack development."
+                "roadmaps, system analysis, software engineering, and full-stack development. " +
+                "Flexible work arrangements, Open to remote, hybrid, or on-site engagements in " +
+                "<strong>Chiang Mai, Bangkok, Thailand, </strong>and <strong>worldwide</strong>."
         },
         {
-            "title": "Technical Expertise",
-            "description": "CHORN delivers client-centric solutions for permanent positions, contract work, and project-based engagements. " +
-                "Services span software development, cloud computing, AI, system modernization, and Web3, dApp, and smart contract development, " +
-                "ensuring scalable, high-impact outcomes. Work arrangements are flexible, offering remote, office, or hybrid " +
-                "options to meet clients' needs in Chiang Mai, Bangkok, Thailand, and worldwide."
+            "title": "",
+            "description": "CHORN is a technology leader specializing in system architecture, business and technical analysis, " +
+            "software engineering, DevOps, LLM/AI, and cloud innovation. Lead technology strategy, full-stack development, " + 
+            "and large-scale system implementation, driving business growth through scalable and client-focused solutions. "
         }
     ],
     stacks: [
