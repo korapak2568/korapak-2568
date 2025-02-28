@@ -17,7 +17,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Back-End & API Development Services"/>
+            <PageBanner pageTitle="Back-End & API Development"/>
 
             <ServicesCardFullStack/>
 

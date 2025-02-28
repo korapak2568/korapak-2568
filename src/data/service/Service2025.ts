@@ -3,7 +3,7 @@ import {IServiceLink} from "@/data/service/model/IServiceLink";
 import {IServiceItem} from "@/data/service/model/IServiceItem";
 
 export const Service2025: IService = {
-    title: "LLM/AI Solutions Integration",
+    title: "LLM/AI System Integration",
     description: "CHORN specializes in advanced LLM/AI agent development, delivering intelligent, responsive solutions tailored to meet specific needs. Expertise includes scalable websites, mobile applications, and full-stack software systems. The <strong>LLM-powered</strong> companion technical-expertise via LINE demonstrates the capabilities of large language models like ChatGPT, Perplexity, and DeepSeek, showcasing innovative approaches to enhancing digital presence and streamlining operational efficiency.",
     
     services: [

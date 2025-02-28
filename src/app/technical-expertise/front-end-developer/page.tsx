@@ -16,7 +16,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Frontend Development Services"/>
+            <PageBanner pageTitle="Frontend Development"/>
 
             <ServicesCardFrontEnd/>
 

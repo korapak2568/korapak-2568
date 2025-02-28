@@ -1,12 +1,12 @@
 import {IWeb3} from "@/data/web3/model/IWeb3";
 
 export const Web3: IWeb3 = {
-    title: "Web3 and Blockchain Development Services",
+    title: "Web3 and Blockchain Development",
     span: "Exceptional DevOps and Testing Solutions",
     subTitle: "Empowering the Future with Decentralized Technologies",
 
     services: {
-        title: "Blockchain Development for Web3 Applications",
+        title: "Web3 & Blockchain Development",
         descriptions: [
             "Discover the power of decentralized applications (dApps) and smart contracts with CHORN's comprehensive Web3 and blockchain development technical-expertise. Whether you're building a decentralized finance (DeFi) platform, an NFT marketplace, or any other dApp, our experienced developers bring your blockchain vision to reality.",
 
