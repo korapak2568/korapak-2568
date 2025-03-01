@@ -7,19 +7,7 @@ export const About2025: IAbout = {
     description: [
         {
             title: "",
-            description:
-                "CHORN, established by Khachornchit in March 2023, specializes in technology and software development. " +
-                "Built on Khachornchit's Electrical Engineering background from " +
-                "Chiang Mai University, with over two decades of work experience, a strong foundation in strategic technology " +
-                "roadmaps, system analysis, software engineering, and full-stack development. " +
-                "Flexible work arrangements, Open to remote, hybrid, or on-site engagements in " +
-                "<strong>Chiang Mai, Bangkok, Thailand, </strong>and <strong>worldwide</strong>."
-        },
-        {
-            "title": "",
-            "description": "CHORN is a technology leader specializing in system architecture, business and technical analysis, " +
-            "software engineering, DevOps, LLM/AI, and cloud innovation. Lead technology strategy, full-stack development, " + 
-            "and large-scale system implementation, driving business growth through scalable and client-focused solutions. "
+            description: "CHORN, founded by Khachornchit in March 2023, specializes in technology and software development. Built on Khachornchit's Electrical Engineering background from Chiang Mai University and 20+ years of experience, offering expertise in system architecture, business and technical analysis, software engineering, DevOps, LLM/AI, and cloud innovation. Leads technology strategy, full-stack development, and large-scale system implementation to drive business growth with scalable, client-focused solutions. Open to remote, hybrid, or on-site engagements in <strong>Chiang Mai, Bangkok, Thailand</strong>, and <strong>worldwide</strong>."
         }
     ],
     stacks: [
@@ -27,7 +15,7 @@ export const About2025: IAbout = {
             "title": "System Analysis & Technical Support",
             "description": "Hands-on providing in-depth system analysis, technical guidance, and support for business-critical " +
                 "applications, ensuring reliability and performance. This includes system modernization, performance " +
-                "optimization, AI-driven automation, and implementing cutting-edge technologies to future-proof " +
+                "optimization, LLM/AI integration, and implementing cutting-edge technologies to future-proof " +
                 "business operations."
         },
         {
