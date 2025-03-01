@@ -48,10 +48,6 @@ export const Footer: IFooter = {
             link: "/technical-expertise/web-development"
         },
         {
-            label: "Contact",
-            link: "/contact-chorn"
-        },
-        {
             label: "Terms of service",
             link: "/terms-of-service"
         },
