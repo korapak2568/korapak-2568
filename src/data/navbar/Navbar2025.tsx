@@ -82,10 +82,4 @@ export const Navbar2025: INavbar[] = [
         link: "/about-chorn/",
         submenu: []
     },
-    {
-        group: "/contact-chorn/",
-        label: "Contact",
-        link: "/contact-chorn/",
-        submenu: []
-    },
 ];

@@ -44,7 +44,7 @@ export const Footer: IFooter = {
             link: "/about-chorn"
         },
         {
-            label: "Services",
+            label: "Technical Expertise",
             link: "/technical-expertise/web-development"
         },
         {
@@ -66,14 +66,6 @@ export const Footer: IFooter = {
     ],
     featuredLinks: [
         {
-            label: "AI Companions",
-            link: "/ai-companions"
-        },
-        {
-            label: "AI Solutions Service",
-            link: "/technical-expertise/ai-solutions"
-        },
-        {
             label: "Web Development",
             link: "/technical-expertise/web-development"
         },
@@ -86,12 +78,20 @@ export const Footer: IFooter = {
             link: "/technical-expertise/full-stack-developer/"
         },
         {
-            label: "Web3 Blockchain Smart Contract",
-            link: "/technical-expertise/web3-blockchain-smart-contract-development",
+            label: "DevOps and Cloud",
+            link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "DevOps Testing",
-            link: "/technical-expertise/devops-testing"
+            label: "LLM/AI CRM Demo",
+            link: "/ai-companions"
+        },
+        {
+            label: "LLM/AI System Integration",
+            link: "/technical-expertise/ai-solutions"
+        },
+        {
+            label: "Web3 and Smart Contract",
+            link: "/technical-expertise/web3-blockchain-smart-contract-development",
         },
     ],
     infoLinks: [
