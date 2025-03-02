@@ -40,7 +40,7 @@ export const Footer: IFooter = {
     ],
     importantLinks: [
         {
-            label: "About",
+            label: "About CHORN",
             link: "/about-chorn"
         },
         {
@@ -99,7 +99,7 @@ export const Footer: IFooter = {
         },
         {
             label: "Service Models",
-            linkText: "Permanent, Contract, Freelance",
+            linkText: "Permanent, Contract, Project-based",
             link: "/",
             icon: "flaticon-connection hover-rotate", // Represents flexibility and service customization
         },
