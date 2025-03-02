@@ -5,6 +5,7 @@ import {IOpenGraphDevOps} from "@/data/metadata/model/opengraph/IOpenGraphDevOps
 
 export interface IOpenGraph {
     home: IOpenGraphImage,
+    llmAi: IOpenGraphImage,
     aiCompanions: IOpenGraphImage,
     gallery: IOpenGraphImage,
     about: IOpenGraphImage,

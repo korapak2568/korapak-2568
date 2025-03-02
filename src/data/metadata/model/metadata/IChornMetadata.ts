@@ -7,6 +7,7 @@ import {IDevOpsMetadata} from "@/data/metadata/model/metadata/IDevOpsMetadata";
 export interface IChornMetadata {
 
     home: Metadata,
+    llmAi: Metadata,
     aiCompanions: Metadata,
     gallery: Metadata,
     about: Metadata,

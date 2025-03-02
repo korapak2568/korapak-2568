@@ -83,6 +83,40 @@ export const ChornMetadata: IChornMetadata = {
             "outsourcing program online"
         ],
     },
+    llmAi: {
+        "title": "LLM/AI Integration | CHORN",
+        "description": "Discover CHORN's advanced LLM/AI agent development services, offering intelligent solutions tailored to enhance automation, legacy system integration, and predictive analytics.",
+        "alternates": {
+          "canonical": "https://www.chorn.in.th/technical-expertise/ai-solutions/"
+        },
+        "authors": [
+          {
+            "name": "CHORN"
+          }
+        ],
+        "openGraph": {
+          "title": "LLM/AI Integration - CHORN",
+          "description": "Explore CHORN's cutting-edge LLM/AI agent development, custom LLM solutions, and AI workflow automation to optimize business operations.",
+          "images": [
+            {
+              "url": OpenGraph.llmAi.url,
+              "width": 1200,
+              "height": 630,
+              "alt": OpenGraph.llmAi.alt
+            }
+          ],
+          "url": "https://www.chorn.in.th/technical-expertise/ai-solutions/",
+          "type": "website"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "LLM/AI Integration - CHORN",
+          "description": "Unlock the power of AI with CHORN's LLM/AI agent development, predictive analytics, and intelligent workflow automation services.",
+          "images": [
+            OpenGraph.llmAi.url
+          ]
+        }
+    },
     aiCompanions: {
         title: "AI Chat Companion | CHORN AI Integration",
         description: "Welcome to the AI Chat Companion, a demo of AI-powered integration. Explore AI companions with unique personalities, designed for seamless interaction via the LINE app, supporting multiple languages.",

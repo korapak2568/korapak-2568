@@ -9,6 +9,10 @@ export const OpenGraph: IOpenGraph = {
         url: "https://chorn.in.th/chorn-images/home/home-og-image.jpg" + ImageVersion,
         alt: "Flexible Workplace"
     },
+    llmAi: {
+        url: "https://chorn.in.th/chorn-images/banner/chorn-banner.jpg" + ImageVersion,
+        alt: "LLM/AI Integration Banner",
+    },
     aiCompanions: {
         url: "https://chorn.in.th/images-ai/ai-companions/ai-companions-og-image.jpg" + ImageVersion,
         alt: "AI Chat Companion Demo",
