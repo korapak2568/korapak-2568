@@ -22,7 +22,7 @@ export const AiBuakaewEnglish: IAiDetail = {
         }
     },
 
-    title: "Buakaew, AI Chat Companion",
+    title: "Buakaew, AI Chat",
     content:
         "Fah, ai chat friend in 6 languages, a charming and friendly Thai ai chat companion! Need life advice, " +
         "travel tips, or just a fun conversation? Fah is here for you. Fluent in Thai, English, Chinese, Japanese, " +

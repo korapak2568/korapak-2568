@@ -554,7 +554,12 @@
 .main-banner-fah {
   height: 500px;
   padding-top: 30px;
-  padding-left: 30px;
+  padding-left: unset;
+
+  // iPhone view (768px and up)
+  @media (min-width: 390px) {
+    padding-left: 30px;
+  }
 }
 
 .d-table-fah {
@@ -605,4 +610,8 @@
   p {
     text-align: left;
   }
+}
+
+.p-left {
+  text-align: left;
 }

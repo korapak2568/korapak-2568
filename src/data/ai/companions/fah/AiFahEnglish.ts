@@ -22,7 +22,7 @@ export const AiFahEnglish: IAiDetail = {
         }
     },
 
-    title: "Fah, AI Chat Companion",
+    title: "Fah, AI Chat",
     content:
         "Fah, a charming and friendly Thai AI chat companion! Need life advice, " +
         "travel tips, or just a fun conversation? Fah is here for you. Fluent in Thai, English, Chinese, Japanese, " +
