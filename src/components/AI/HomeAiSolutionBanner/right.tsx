@@ -8,7 +8,7 @@ export default function Right() {
         <div className="col-lg-6">
             <div className="main-banner-image main-banner-image-custom">
                 <Image
-                    src={Info.Images.home.mainBanner.path}
+                    src={Info.Images.banner.banner1.path}
                     className={'image-opacity'}
                     alt="image"
                     width={1200}

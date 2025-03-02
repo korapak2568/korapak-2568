@@ -286,6 +286,7 @@
 
 .add-web-content {
   margin-bottom: 20px;
+  text-align: left;
 
   h2 {
     margin-top: 20px;
@@ -527,6 +528,7 @@
 }
 
 .main-banner-image-custom {
+  top: unset;
 
   img {
     animation: unset !important;
@@ -597,4 +599,10 @@
 .about-image-custom {
   width: 100%;
   height: 500px;
+}
+
+.main-banner-content-custom {
+  p {
+    text-align: left;
+  }
 }

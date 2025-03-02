@@ -14,9 +14,7 @@ export const Information: React.FC = () => {
                         <li key={index}>
                             <i className={item.icon}></i>
                             <span>{item.label}</span>
-                            <a href={item.link} target="_blank">
                                 {item.linkText}
-                            </a>
                         </li>
                     ))}
                 </ul>
