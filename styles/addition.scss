@@ -552,13 +552,14 @@
 
 // Banner Fah
 .main-banner-fah {
-  height: 500px;
+  height: unset;
   padding-top: 30px;
   padding-left: unset;
 
-  // iPhone view (768px and up)
-  @media (min-width: 390px) {
+  // iPad view (1024px and up)
+  @media (min-width: 1024px) {
     padding-left: 30px;
+    height: 500px;
   }
 }
 
@@ -614,4 +615,10 @@
 
 .p-left {
   text-align: left;
+}
+
+.main-slider-content-custom {
+  p {
+    text-align: left;
+  }
 }
