@@ -34,8 +34,7 @@ const FlexibleWorkspace: React.FC = () => {
                             <h1>{slide.title}</h1>
                             <p>{slide.description}</p>
                             <p>
-                              CHORN opens to remote, hybrid, or on-site
-                              engagements in
+                              Open to remote, hybrid, or on-site engagements in
                               <strong> Chiang Mai, Bangkok, Thailand, </strong>
                               and
                               <strong> worldwide</strong>.
