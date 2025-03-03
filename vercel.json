@@ -18,6 +18,7 @@
     { "source": "/responsive-web-design", "destination": "/technical-expertise/web-development/", "permanent": true },
     { "source": "/scaling", "destination": "/technical-expertise/web-development/", "permanent": true },
     { "source": "/chorn-services", "destination": "/technical-expertise/web-development/", "permanent": true },
+    { "source": "/contact-chorn", "destination": "/about-chorn", "permanent": true },
     { "source": "/services", "destination": "/technical-expertise/web-development/", "permanent": true },
     { "source": "/src", "destination": "/", "permanent": true }
   ],
