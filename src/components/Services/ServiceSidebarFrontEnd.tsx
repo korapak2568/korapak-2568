@@ -41,7 +41,7 @@ const ServiceSidebarFrontEnd: React.FC = () => {
                     })}
                 </ul>
 
-                <ContactSidebar/>
+                {/*<ContactSidebar/>*/}
             </div>
         </>
     );

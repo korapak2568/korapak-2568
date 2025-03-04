@@ -41,7 +41,7 @@ const ServiceSidebarDevOpsTesting: React.FC = () => {
                     })}
                 </ul>
 
-                <ContactSidebar/>
+                {/*<ContactSidebar/>*/}
             </div>
         </>
     );

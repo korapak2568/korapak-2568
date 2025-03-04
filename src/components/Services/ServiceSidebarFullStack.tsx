@@ -42,7 +42,7 @@ const ServiceSidebarFullStack: React.FC = () => {
                     })}
                 </ul>
 
-                <ContactSidebar/>
+                {/*<ContactSidebar/>*/}
             </div>
         </>
     );
