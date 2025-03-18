@@ -38,9 +38,7 @@ export function middleware(request: NextRequest) {
 
     // Redirect root ("/") to the default locale ("/en")
     if (!locales.includes(locale)) {
-        const newPath = pathAfterLocale
-            ? `/${defaultLocale}/${pathAfterLocale}`
-            : `/${defaultLocale}`;
+        const newPath = pathAfterLocale ? `/${defaultLocale}/${pathAfterLocale}` : `/${defaultLocale}`;
         return NextResponse.redirect(new URL(newPath, request.url));
     }
 

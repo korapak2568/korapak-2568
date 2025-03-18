@@ -3,6 +3,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     trailingSlash: true,
+    basePath: '', // Add the base path if your app is hosted in a subpath
     images: {
         unoptimized: true,
     },
