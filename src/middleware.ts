@@ -3,15 +3,29 @@
 import {NextResponse} from 'next/server';
 import type {NextRequest} from 'next/server';
 
-const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'na']; // Supported locales
+const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da']; // Supported locales
+const shortLocales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'na']; // Supported locales
+const fullLocales = ['en-US', 'th-TH', 'fr-FR', 'ja-JP', 'vi-VN', 'zh-CN', 'de-DE', 'nl-NL', 'nl-NL']
 const defaultLocale = 'en'; // Redirect to English by default
 
 export function middleware(request: NextRequest) {
     const {pathname} = request.nextUrl;
 
+    //
+    pathname.replace('en-US/', '');
+    pathname.replace('th-TH/', '');
+    pathname.replace('fr-FR/', '');
+    pathname.replace('ja-JP/', '');
+    pathname.replace('vi-VN/', '');
+    pathname.replace('zh-CN/', '');
+    pathname.replace('de-DE/', '');
+    pathname.replace('nl-NL/', '');
+    pathname.replace('nl-NL/', '');
+
     // Extract the locale from the pathname
     const pathnameParts = pathname.split('/');
-    const locale = pathnameParts[1];
+    const locale = pathnameParts[1];        // en
+    const fullLocale = pathnameParts[2];    // en-US
     const pathAfterLocale = pathnameParts.slice(2).join('/');
 
     // Skip internal requests

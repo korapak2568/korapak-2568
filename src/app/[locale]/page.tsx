@@ -18,6 +18,18 @@ import {ITranslationProps} from "@/props/ITranslationProps";
 
 export const metadata: Metadata = ChornMetadata.home
 
+const fullMessages: Record<string, any> = {
+    'en-US': 'Welcome to Chorn.',
+    'th-TH': 'ยินดีต้อนรับสู่ ฌอน',
+    'fr-FR': 'Bienvenue chez Chorn.',
+    'ja-JP': 'チョーンへようこそ。',
+    'vi-VN': 'Chào mừng đến với Chorn.',
+    'zh-CN': '欢迎来到 Chorn。',
+    'de-DE': 'Willkommen bei Chorn.',
+    'nl-NL': 'Welkom bij Chorn.',
+    'da-DA': 'Velkommen til Chorn.',
+}
+
 const messages: Record<string, any> = {
     'en': 'Welcome to Chorn.',
     'th': 'ยินดีต้อนรับสู่ ฌอน',
