@@ -12,7 +12,7 @@ export interface ServiceState {
 
 const initialState: ServiceState = {
     language: LanguageEnglish,
-    translate: Translates[1],
+    translate: Translates[0],
 };
 
 export const serviceSlice = createSlice({

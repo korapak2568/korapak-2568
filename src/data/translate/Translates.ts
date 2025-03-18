@@ -2,13 +2,13 @@ import {ITranslate} from "@/data/translate/model/ITranslate";
 
 export const Translates: ITranslate[] = [
     {
-        value: "th",
-        label: "ภาษาไทย - TH",
-    },
-    {
         value: "en",
         label: "English - EN",
     },
+    // {
+    //     value: "th",
+    //     label: "ภาษาไทย - TH",
+    // },
     //
     // {
     //     value: "fr",
