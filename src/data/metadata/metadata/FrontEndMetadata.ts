@@ -6,7 +6,18 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "Frontend Development Services | CHORN",
         description: "CHORN provides expert frontend development technical-expertise, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/front-end-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/front-end-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/front-end-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/front-end-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/front-end-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/front-end-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/",
+            }
         },
         authors: [
             {
@@ -64,7 +75,18 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "Angular Development Services | CHORN",
         description: "Expert Angular development technical-expertise by CHORN. Build dynamic, scalable, and high-performance web applications using Angular.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/angular-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/front-end-developer/angular-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/front-end-developer/angular-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/front-end-developer/angular-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/front-end-developer/angular-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/front-end-developer/angular-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/front-end-developer/angular-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/angular-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/angular-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/angular-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/angular-developer/",
+            }
         },
         authors: [
             {
@@ -120,7 +142,17 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "CSS3 Development Services | CHORN",
         description: "Enhance your web applications with CHORN’s CSS3 development technical-expertise for modern and visually appealing designs.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/css3-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/front-end-developer/css3-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/front-end-developer/css3-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/front-end-developer/css3-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/front-end-developer/css3-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/front-end-developer/css3-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/css3-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/css3-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/css3-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/css3-developer/",
+            }
         },
         authors: [
             {
@@ -182,7 +214,18 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "HTML5 Development Services | CHORN",
         description: "CHORN offers expert HTML5 development technical-expertise to create responsive and engaging web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/html5-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/front-end-developer/html5-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/front-end-developer/html5-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/front-end-developer/html5-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/front-end-developer/html5-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/front-end-developer/html5-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/front-end-developer/html5-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/html5-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/html5-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/html5-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/html5-developer/",
+            }
         },
         authors: [
             {
@@ -234,7 +277,18 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "JavaScript | CHORN - Custom Software Development Experts",
         description: "Learn how CHORN leverages JavaScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/javascript-javascript-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/javascript-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/javascript-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/javascript-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/javascript-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/javascript-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/javascript-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/javascript-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/javascript-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/javascript-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/javascript-developer/",
+            }
         },
         authors: [
             {
@@ -287,7 +341,18 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "Next.js Development Services | CHORN",
         description: "Expert Next.js development technical-expertise by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/nextjs-developer",
+            canonical: "https://chorn.in.th/en/technical-expertise/front-end-developer/nextjs-developer",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/front-end-developer/nextjs-developer",
+                "th": "https://chorn.in.th/th/technical-expertise/front-end-developer/nextjs-developer",
+                "fr": "https://chorn.in.th/fr/technical-expertise/front-end-developer/nextjs-developer",
+                "ja": "https://chorn.in.th/ja/technical-expertise/front-end-developer/nextjs-developer",
+                "vi": "https://chorn.in.th/vi/technical-expertise/front-end-developer/nextjs-developer",
+                "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/nextjs-developer",
+                "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/nextjs-developer",
+                "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/nextjs-developer",
+                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/nextjs-developer",
+            }
         },
         authors: [
             {
@@ -338,7 +403,18 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "React Development Services | CHORN",
         description: "CHORN provides top-tier React development technical-expertise. Build dynamic and responsive user interfaces with React.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/react-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/front-end-developer/react-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/front-end-developer/react-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/front-end-developer/react-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/front-end-developer/react-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/front-end-developer/react-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/front-end-developer/react-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/react-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/react-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/react-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/react-developer/",
+            }
         },
         authors: [
             {
@@ -390,7 +466,18 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "TypeScript | CHORN - Custom Software Development Experts",
         description: "Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+            }
         },
         authors: [
             {
@@ -443,7 +530,18 @@ export const FrontEndMetadata: IFrontEndMetadata = {
         title: "Vue.js Development Services | CHORN",
         description: "CHORN specializes in Vue.js development to create interactive and scalable web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/front-end-developer/vue-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/front-end-developer/vue-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/front-end-developer/vue-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/front-end-developer/vue-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/front-end-developer/vue-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/front-end-developer/vue-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/front-end-developer/vue-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/vue-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/vue-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/vue-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/vue-developer/",
+            }
         },
         authors: [
             {

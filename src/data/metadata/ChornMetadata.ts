@@ -14,7 +14,18 @@ export const ChornMetadata: IChornMetadata = {
             icon: '/favicon.ico',
         },
         alternates: {
-            canonical: 'https://chorn.in.th', // Add canonical URL here
+            canonical: 'https://chorn.in.th/en',
+            languages: {
+                "en": "https://chorn.in.th/en",
+                "th": "https://chorn.in.th/th",
+                "fr": "https://chorn.in.th/fr",
+                "ja": "https://chorn.in.th/ja",
+                "vi": "https://chorn.in.th/vi",
+                "zh": "https://chorn.in.th/zh",
+                "de": "https://chorn.in.th/de",
+                "nl": "https://chorn.in.th/nl",
+                "na": "https://chorn.in.th/na",
+            }
         },
         authors: [
             {
@@ -32,7 +43,7 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.home.alt,
                 },
             ],
-            url: "https://chorn.in.th",
+            url: "https://chorn.in.th/en",
             type: "website",
         },
         twitter: {
@@ -84,44 +95,66 @@ export const ChornMetadata: IChornMetadata = {
         ],
     },
     llmAi: {
-        "title": "LLM/AI Integration | CHORN",
-        "description": "Discover CHORN's advanced LLM/AI agent development services, offering intelligent solutions tailored to enhance automation, legacy system integration, and predictive analytics.",
-        "alternates": {
-          "canonical": "https://www.chorn.in.th/technical-expertise/ai-solutions/"
-        },
-        "authors": [
-          {
-            "name": "CHORN"
-          }
-        ],
-        "openGraph": {
-          "title": "LLM/AI Integration - CHORN",
-          "description": "Explore CHORN's cutting-edge LLM/AI agent development, custom LLM solutions, and AI workflow automation to optimize business operations.",
-          "images": [
-            {
-              "url": OpenGraph.llmAi.url,
-              "width": 1200,
-              "height": 630,
-              "alt": OpenGraph.llmAi.alt
+        title: "LLM/AI Integration | CHORN",
+        description: "Discover CHORN's advanced LLM/AI agent development services, offering intelligent solutions tailored to enhance automation, legacy system integration, and predictive analytics.",
+        alternates: {
+            canonical: "https://www.chorn.in.th/en/technical-expertise/ai-solutions/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/ai-solutions/",
+                "th": "https://chorn.in.th/th/technical-expertise/ai-solutions/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/ai-solutions/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/ai-solutions/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/ai-solutions/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/ai-solutions/",
+                "de": "https://chorn.in.th/de/technical-expertise/ai-solutions/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/ai-solutions/",
+                "na": "https://chorn.in.th/na/technical-expertise/ai-solutions/",
             }
-          ],
-          "url": "https://www.chorn.in.th/technical-expertise/ai-solutions/",
-          "type": "website"
         },
-        "twitter": {
-          "card": "summary_large_image",
-          "title": "LLM/AI Integration - CHORN",
-          "description": "Unlock the power of AI with CHORN's LLM/AI agent development, predictive analytics, and intelligent workflow automation services.",
-          "images": [
-            OpenGraph.llmAi.url
-          ]
+        authors: [
+            {
+                "name": "CHORN"
+            }
+        ],
+        openGraph: {
+            title: "LLM/AI Integration - CHORN",
+            description: "Explore CHORN's cutting-edge LLM/AI agent development, custom LLM solutions, and AI workflow automation to optimize business operations.",
+            images: [
+                {
+                    url: OpenGraph.llmAi.url,
+                    width: 1200,
+                    height: 630,
+                    alt: OpenGraph.llmAi.alt
+                }
+            ],
+            url: "https://www.chorn.in.th/en/technical-expertise/ai-solutions/",
+            type: "website"
+        },
+        twitter: {
+            "card": "summary_large_image",
+            title: "LLM/AI Integration - CHORN",
+            description: "Unlock the power of AI with CHORN's LLM/AI agent development, predictive analytics, and intelligent workflow automation services.",
+            images: [
+                OpenGraph.llmAi.url
+            ]
         }
     },
     aiCompanions: {
         title: "AI Chat Companion | CHORN AI Integration",
         description: "Welcome to the AI Chat Companion, a demo of AI-powered integration. Explore AI companions with unique personalities, designed for seamless interaction via the LINE app, supporting multiple languages.",
         alternates: {
-            canonical: "https://chorn.in.th/ai-companions",
+            canonical: "https://chorn.in.th/en/ai-companions",
+            languages: {
+                "en": "https://chorn.in.th/en/ai-companions",
+                "th": "https://chorn.in.th/th/ai-companions",
+                "fr": "https://chorn.in.th/fr/ai-companions",
+                "ja": "https://chorn.in.th/ja/ai-companions",
+                "vi": "https://chorn.in.th/vi/ai-companions",
+                "zh": "https://chorn.in.th/zh/ai-companions",
+                "de": "https://chorn.in.th/de/ai-companions",
+                "nl": "https://chorn.in.th/nl/ai-companions",
+                "na": "https://chorn.in.th/na/ai-companions",
+            }
         },
         authors: [
             {
@@ -139,7 +172,7 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.aiCompanions.alt,
                 },
             ],
-            url: "https://chorn.in.th/ai-companions",
+            url: "https://chorn.in.th/en/ai-companions",
             type: "website",
         },
         twitter: {
@@ -155,7 +188,18 @@ export const ChornMetadata: IChornMetadata = {
         title: "Global Business Trip | CHORN Gallery",
         description: "Explore highlights from CHORN's international business trips, including experiences in Los Angeles, California, and premium travel with Singapore Airlines.",
         alternates: {
-            canonical: "https://chorn.in.th/gallery/",
+            canonical: "https://chorn.in.th/en/gallery/",
+            languages: {
+                "en": "https://chorn.in.th/en/gallery/",
+                "th": "https://chorn.in.th/th/gallery/",
+                "fr": "https://chorn.in.th/fr/gallery/",
+                "ja": "https://chorn.in.th/ja/gallery/",
+                "vi": "https://chorn.in.th/vi/gallery/",
+                "zh": "https://chorn.in.th/zh/gallery/",
+                "de": "https://chorn.in.th/de/gallery/",
+                "nl": "https://chorn.in.th/nl/gallery/",
+                "na": "https://chorn.in.th/na/gallery/",
+            }
         },
         authors: [
             {
@@ -173,7 +217,7 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.gallery.alt,
                 },
             ],
-            url: "https://chorn.in.th/gallery/",
+            url: "https://chorn.in.th/en/gallery/",
             type: "website",
         },
         twitter: {
@@ -189,7 +233,18 @@ export const ChornMetadata: IChornMetadata = {
         title: "About CHORN | System Analysis & Full-Stack Development",
         description: "Discover CHORN's expertise in system analysis, full-stack development, and modern software solutions that drive business success.",
         alternates: {
-            canonical: "https://chorn.in.th/about-chorn/",
+            canonical: "https://chorn.in.th/en/about-chorn/",
+            languages: {
+                "en": "https://chorn.in.th/en/about-chorn/",
+                "th": "https://chorn.in.th/th/about-chorn/",
+                "fr": "https://chorn.in.th/fr/about-chorn/",
+                "ja": "https://chorn.in.th/ja/about-chorn/",
+                "vi": "https://chorn.in.th/vi/about-chorn/",
+                "zh": "https://chorn.in.th/zh/about-chorn/",
+                "de": "https://chorn.in.th/de/about-chorn/",
+                "nl": "https://chorn.in.th/nl/about-chorn/",
+                "na": "https://chorn.in.th/na/about-chorn/",
+            }
         },
         authors: [
             {
@@ -207,7 +262,7 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.about.alt,
                 },
             ],
-            url: "https://chorn.in.th/about-chorn/",
+            url: "https://chorn.in.th/en/about-chorn/",
             type: "website",
         },
         twitter: {
@@ -223,7 +278,18 @@ export const ChornMetadata: IChornMetadata = {
         title: "Contact | CHORN - Get in Touch for Custom Software Solutions",
         description: "Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need.",
         alternates: {
-            canonical: "https://chorn.in.th/contact-chorn/",
+            canonical: "https://chorn.in.th/en/contact-chorn/",
+            languages: {
+                "en": "https://chorn.in.th/en/contact-chorn/",
+                "th": "https://chorn.in.th/th/contact-chorn/",
+                "fr": "https://chorn.in.th/fr/contact-chorn/",
+                "ja": "https://chorn.in.th/ja/contact-chorn/",
+                "vi": "https://chorn.in.th/vi/contact-chorn/",
+                "zh": "https://chorn.in.th/zh/contact-chorn/",
+                "de": "https://chorn.in.th/de/contact-chorn/",
+                "nl": "https://chorn.in.th/nl/contact-chorn/",
+                "na": "https://chorn.in.th/na/contact-chorn/",
+            }
         },
         authors: [
             {
@@ -241,7 +307,7 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.contact.alt,
                 },
             ],
-            url: "https://chorn.in.th/contact-chorn/",
+            url: "https://chorn.in.th/en/contact-chorn/",
             type: "website",
         },
         twitter: {
@@ -258,7 +324,18 @@ export const ChornMetadata: IChornMetadata = {
         title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
         description: "Explore CHORN's web development technical-expertise, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/web-development/",
+            canonical: "https://chorn.in.th/en/technical-expertise/web-development/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/web-development/",
+                "th": "https://chorn.in.th/th/technical-expertise/web-development/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/web-development/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/web-development/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/web-development/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/web-development/",
+                "de": "https://chorn.in.th/de/technical-expertise/web-development/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/web-development/",
+                "na": "https://chorn.in.th/na/technical-expertise/web-development/",
+            }
         },
         authors: [
             {
@@ -276,7 +353,7 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.webDevelopment.alt
                 },
             ],
-            url: "https://chorn.in.th/technical-expertise/web-development/",
+            url: "https://chorn.in.th/en/technical-expertise/web-development/",
             type: "website",
         },
         twitter: {
@@ -316,7 +393,18 @@ export const ChornMetadata: IChornMetadata = {
         title: "Cloud Solution Architecture & Systems Analysis | CHORN | AWS, Azure, GCP, DigitalOcean",
         description: "CHORN delivers expert cloud solution architecture and system analysis technical-expertise. We optimize cloud infrastructures across AWS, Azure, GCP, and DigitalOcean, ensuring performance, scalability, and cost-efficiency.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/cloud-solution-architecture-systems-analysis/",
+            canonical: "https://chorn.in.th/en/technical-expertise/cloud-infrastructure-systems-architecture/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "th": "https://chorn.in.th/th/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "de": "https://chorn.in.th/de/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "na": "https://chorn.in.th/na/technical-expertise/cloud-infrastructure-systems-architecture/",
+            }
         },
         authors: [
             {
@@ -334,7 +422,7 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.cloudSolutions.alt,
                 },
             ],
-            url: "https://chorn.in.th/technical-expertise/cloud-solution-architecture-systems-analysis/",
+            url: "https://chorn.in.th/en/technical-expertise/cloud-infrastructure-systems-architecture/",
             type: "website",
         },
         twitter: {
@@ -367,7 +455,18 @@ export const ChornMetadata: IChornMetadata = {
         title: "Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions",
         description: "Discover CHORN’s expertise in Web3 blockchain and smart contract development. We build decentralized applications (DApps) using Solidity, Ethereum, Polygon, and integrate with technologies like Hardhat, Ganache, and MetaMask.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/web3-blockchain-smart-contract-development/",
+            canonical: "https://chorn.in.th/en/technical-expertise/web3-blockchain-smart-contract-development/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/web3-blockchain-smart-contract-development/",
+                "th": "https://chorn.in.th/th/technical-expertise/web3-blockchain-smart-contract-development/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/web3-blockchain-smart-contract-development/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/web3-blockchain-smart-contract-development/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/web3-blockchain-smart-contract-development/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/web3-blockchain-smart-contract-development/",
+                "de": "https://chorn.in.th/de/technical-expertise/web3-blockchain-smart-contract-development/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/web3-blockchain-smart-contract-development/",
+                "na": "https://chorn.in.th/na/technical-expertise/web3-blockchain-smart-contract-development/",
+            }
         },
         authors: [
             {
@@ -385,7 +484,7 @@ export const ChornMetadata: IChornMetadata = {
                     alt: OpenGraph.blockchain.alt,
                 },
             ],
-            url: "https://chorn.in.th/technical-expertise/web3-blockchain-smart-contract-development/",
+            url: "https://chorn.in.th/en/technical-expertise/web3-blockchain-smart-contract-development/",
             type: "website",
         },
         twitter: {
@@ -393,7 +492,7 @@ export const ChornMetadata: IChornMetadata = {
             title: "Web3 Blockchain Smart Contract Development | CHORN",
             description: "Explore CHORN’s Web3 and blockchain smart contract development technical-expertise. CHORN creates decentralized applications (DApps) with Solidity, Ethereum, Polygon, and integrate with Hardhat, Ganache, and MetaMask.",
             images: [
-                "https://chorn.in.th/chorn-images/metadata/banner-logo.png" + ImageVersion
+                OpenGraph.blockchain.url,
             ],
         },
         keywords: [

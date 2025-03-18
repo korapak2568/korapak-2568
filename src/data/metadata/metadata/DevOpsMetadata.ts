@@ -6,7 +6,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "DevOps & Testing Services | CHORN",
         description: "CHORN offers expert DevOps and testing technical-expertise to streamline your software development process. Ensure high performance and quality with our continuous integration, automated testing, and cloud-based solutions.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/",
+            }
         },
         authors: [
             {
@@ -48,7 +59,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "Appium Testing Services | CHORN",
         description: "CHORN offers Appium testing technical-expertise for automated mobile app testing across multiple platforms to ensure high-quality performance.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/appium/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/appium/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/appium/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/appium/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/appium/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/appium/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/appium/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/appium/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/appium/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/appium/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/appium/",
+            }
         },
         authors: [
             {
@@ -88,7 +110,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "Docker DevOps Services | CHORN",
         description: "CHORN offers Docker-based DevOps technical-expertise for efficient containerization and scalable application deployment.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/docker/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/docker/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/docker/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/docker/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/docker/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/docker/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/docker/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/docker/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/docker/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/docker/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/docker/",
+            }
         },
         authors: [
             {
@@ -126,7 +159,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "GitHub DevOps Services | CHORN",
         description: "CHORN offers DevOps technical-expertise integrating GitHub for version control, continuous integration, and automated workflows.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/github/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/github/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/github/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/github/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/github/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/github/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/github/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/github/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/github/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/github/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/github/",
+            }
         },
         authors: [
             {
@@ -164,7 +208,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "GitLab DevOps Services | CHORN",
         description: "CHORN provides GitLab-based DevOps technical-expertise for continuous integration, automation, and version control solutions.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/gitlab/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/gitlab/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/gitlab/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/gitlab/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/gitlab/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/gitlab/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/gitlab/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/gitlab/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/gitlab/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/gitlab/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/gitlab/",
+            }
         },
         authors: [
             {
@@ -202,7 +257,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "Jenkins DevOps Services | CHORN",
         description: "CHORN offers Jenkins-based DevOps technical-expertise for automating builds, testing, and deployment in your development pipeline.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/jenkins/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/jenkins/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/jenkins/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/jenkins/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/jenkins/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/jenkins/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/jenkins/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/jenkins/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/jenkins/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/jenkins/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/jenkins/",
+            }
         },
         authors: [
             {
@@ -240,7 +306,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "Kubernetes DevOps Services | CHORN",
         description: "CHORN provides Kubernetes-based DevOps technical-expertise for automating deployment, scaling, and management of containerized applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/kubernetes/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/kubernetes/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/kubernetes/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/kubernetes/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/kubernetes/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/kubernetes/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/kubernetes/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/kubernetes/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/kubernetes/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/kubernetes/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/kubernetes/",
+            }
         },
         authors: [
             {
@@ -278,7 +355,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "Postman API Testing Services | CHORN",
         description: "CHORN provides API testing technical-expertise using Postman to ensure the reliability and performance of your web technical-expertise.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/postman/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/postman/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/postman/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/postman/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/postman/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/postman/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/postman/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/postman/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/postman/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/postman/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/postman/",
+            }
         },
         authors: [
             {
@@ -316,7 +404,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "Selenium Testing Services | CHORN",
         description: "CHORN offers comprehensive Selenium testing technical-expertise to ensure the quality and performance of your applications through automated testing.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/selenium/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/selenium/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/selenium/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/selenium/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/selenium/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/selenium/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/selenium/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/selenium/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/selenium/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/selenium/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/selenium/",
+            }
         },
         authors: [
             {
@@ -356,7 +455,18 @@ export const DevOpsMetadata: IDevOpsMetadata = {
         title: "SoapUI Testing Services | CHORN",
         description: "CHORN provides expert SoapUI testing technical-expertise to ensure your web technical-expertise and APIs are thoroughly tested and reliable.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/devops-testing/soapui/",
+            canonical: "https://chorn.in.th/en/technical-expertise/devops-testing/soapui/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/devops-testing/soapui/",
+                "th": "https://chorn.in.th/th/technical-expertise/devops-testing/soapui/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/devops-testing/soapui/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/devops-testing/soapui/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/devops-testing/soapui/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/soapui/",
+                "de": "https://chorn.in.th/de/technical-expertise/devops-testing/soapui/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/soapui/",
+                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/soapui/",
+            }
         },
         authors: [
             {

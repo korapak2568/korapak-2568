@@ -6,7 +6,18 @@ export const BackEndMetadata: IBackEndMetadata = {
         title: "Back-End & API Development Services | CHORN",
         description: "CHORN offers expert Back-End & API Development technical-expertise utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/",
+            }
         },
         authors: [
             {
@@ -63,7 +74,18 @@ export const BackEndMetadata: IBackEndMetadata = {
         title: ".NET Core C# Full Stack Development | CHORN",
         description: "CHORN offers .NET Core C# full stack development technical-expertise to build modern, scalable, and secure web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/dotnetcore-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/dotnetcore-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/dotnetcore-developer/",
+            }
         },
         authors: [
             {
@@ -115,7 +137,18 @@ export const BackEndMetadata: IBackEndMetadata = {
         title: "Go Full Stack Development | CHORN",
         description: "CHORN offers Go full stack development technical-expertise for building efficient and scalable web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/go-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/go-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/go-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/go-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/go-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/go-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/go-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/go-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/go-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/go-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/go-developer/",
+            }
         },
         authors: [
             {
@@ -166,7 +199,18 @@ export const BackEndMetadata: IBackEndMetadata = {
         title: "Java Spring Boot Full Stack Development | CHORN",
         description: "CHORN offers Java Spring Boot full stack development technical-expertise to build robust and scalable enterprise applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+            }
         },
         authors: [
             {
@@ -218,7 +262,18 @@ export const BackEndMetadata: IBackEndMetadata = {
         title: "Node.js Full Stack Development | CHORN",
         description: "CHORN offers Node.js full stack development technical-expertise for building scalable and efficient applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/nodejs-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/nodejs-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/nodejs-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/nodejs-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/nodejs-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/nodejs-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/nodejs-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/nodejs-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/nodejs-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/nodejs-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/nodejs-developer/",
+            }
         },
         authors: [
             {
@@ -269,7 +324,18 @@ export const BackEndMetadata: IBackEndMetadata = {
         title: "PHP Full Stack Development | CHORN",
         description: "CHORN offers PHP full stack development technical-expertise for building dynamic and scalable web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/php-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/php-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/php-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/php-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/php-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/php-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/php-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/php-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/php-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/php-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/php-developer/",
+            }
         },
         authors: [
             {
@@ -323,7 +389,18 @@ export const BackEndMetadata: IBackEndMetadata = {
         title: "Python Full Stack Development | CHORN",
         description: "CHORN offers Python full stack development technical-expertise to build dynamic and scalable web applications.",
         alternates: {
-            canonical: "https://chorn.in.th/technical-expertise/full-stack-developer/python-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/python-developer/",
+            languages: {
+                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/python-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/python-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/python-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/python-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/python-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/python-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/python-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/python-developer/",
+                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/python-developer/",
+            }
         },
         authors: [
             {
