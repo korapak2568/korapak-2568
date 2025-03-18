@@ -5,10 +5,10 @@ export const Translates: ITranslate[] = [
         value: "en",
         label: "English - EN",
     },
-    // {
-    //     value: "th",
-    //     label: "ภาษาไทย - TH",
-    // },
+    {
+        value: "th",
+        label: "ภาษาไทย - TH",
+    },
     //
     // {
     //     value: "fr",
