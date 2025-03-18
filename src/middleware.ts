@@ -4,16 +4,12 @@ import {NextResponse} from 'next/server';
 import type {NextRequest} from 'next/server';
 
 const defaultLocale = 'en';
-const locales = ['en'];
+const locales = ['en', 'th'];
+
 // const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'na'];
 
 export function middleware(request: NextRequest) {
     const {pathname} = request.nextUrl;
-
-    // Extract the locale from the pathname
-    const pathnameParts = pathname.split('/');
-    const locale = pathnameParts[1];        // en
-    const pathAfterLocale = pathnameParts.slice(2).join('/');
 
     // Skip internal requests
     if (
@@ -32,6 +28,11 @@ export function middleware(request: NextRequest) {
         return NextResponse.next();
     }
 
+    // Extract the locale from the pathname
+    const pathnameParts = pathname.split('/');
+    const locale = pathnameParts[1];        // en
+    const pathAfterLocale = pathnameParts.slice(2).join('/');
+
     // Redirect root ("/") to the default locale ("/en")
     if (pathname === '/') {
         return NextResponse.redirect(new URL(`/${defaultLocale}`, request.url));
@@ -48,5 +49,5 @@ export function middleware(request: NextRequest) {
 
 // Apply middleware to all paths
 export const config = {
-    matcher: '/:path*',
+    matcher: ['/', '/(en|th)/:path*'],
 };

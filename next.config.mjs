@@ -9,7 +9,7 @@ const nextConfig = {
     },
     optimizeFonts: false,
     i18n: {
-        locales: ['en-US'],
+        locales: ['en-US', 'th-TH'],
         defaultLocale: 'en-US',
         localeDetection: false,
 

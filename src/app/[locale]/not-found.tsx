@@ -22,7 +22,7 @@ export default function NotFound() {
                   name changed or is temporarily unavailable.
                 </p>
 
-                <Link href="/" className="default-btn">
+                <Link href="/public" className="default-btn">
                   Go to Home
                 </Link>
               </div>
