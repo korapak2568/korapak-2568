@@ -41,6 +41,7 @@ export const Gallery: IGallery = {
     global: {
         title: "Global Business Trip",
         description: "Highlights include international business trips experience to the U.S., and premium travel with Singapore Airlines, reflecting global expertise and training capabilities.",
+        descriptionA: "Open to remote, hybrid, or on-site engagements in <strong> Chiang Mai, Bangkok, Thailand, </strong> and <strong> worldwide</strong>.",
         image: "/chorn-images/gallery/chorn-global-001.jpg"
     },
     globalSlides: [

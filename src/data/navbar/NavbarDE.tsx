@@ -1,0 +1,85 @@
+import { INavbar } from "@/data/navbar/model/INavbar";
+
+export const NavbarDE: INavbar[] = [
+    {
+        group: "/info",
+        label: "Startseite",
+        link: "/",
+        submenu: [],
+    },
+    {
+        group: "/technical-expertise/",
+        label: "Technische Expertise",
+        link: "/technical-expertise/web-development/",
+        submenu: [
+            {
+                group: "/technical-expertise/",
+                label: "Web- und API-Entwicklung",
+                link: "/technical-expertise/web-development/",
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
+                label: "Front-End-Entwicklung",
+                link: "/technical-expertise/front-end-developer/",
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
+                label: "Back-End- und API-Entwicklung",
+                link: "/technical-expertise/full-stack-developer/",
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
+                label: "...",
+                link: "",
+                isSeparated: true,
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
+                label: "LLM/AI-Beratung",
+                link: "/technical-expertise/ai-solutions/",
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
+                label: "...",
+                link: "",
+                isSeparated: true,
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
+                label: "Web3 und Blockchain",
+                link: "/technical-expertise/web3-blockchain-smart-contract-development/",
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
+                label: "Cloud DevOps",
+                link: "/technical-expertise/cloud-devops/",
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
+                label: "Cloud-Lösungen",
+                link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
+                submenu: [],
+            },
+        ],
+    },
+    {
+        group: "/gallery/",
+        label: "Galerie",
+        link: "/gallery/",
+        submenu: [],
+    },
+    {
+        group: "/about-chorn/",
+        label: "Über uns",
+        link: "/about-chorn/",
+        submenu: [],
+    },
+];

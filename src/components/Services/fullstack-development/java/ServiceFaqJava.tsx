@@ -8,18 +8,21 @@ import {
     AccordionItemPanel,
     AccordionItemButton,
 } from "react-accessible-accordion";
-import {sanitizeUUID} from "@/app/lib/utils";
-import {Info} from "@/data/info/Info";
+import {sanitizeUUID} from "@/lib/utils";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const ServiceFaqJava: React.FC = () => {
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
 
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${sanitizeUUID(Info.FullStack.java.faqs[0].question)}`
+                    `${sanitizeUUID(InfoTranslation[currentTranslate.value].FullStack.java.faqs[0].question)}`
                 ]}>
-                    {Info.FullStack.java.faqs.map((item, index: number) => (
+                    {InfoTranslation[currentTranslate.value].FullStack.java.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>

@@ -17,6 +17,10 @@ import {IAiCompanions} from "@/data/ai/model/IAiCompanions";
 import {IService} from "@/data/service/model/IService";
 import {IWeb3} from "@/data/web3/model/IWeb3";
 import {IGallery} from "@/data/gallery/model/IGallery";
+import {ITranslate} from "@/data/translate/model/ITranslate";
+import {INavbar} from "@/data/navbar/model/INavbar";
+import {CloudSolutionEN} from "@/data/cloud-solutions/CloudSolutionEN";
+import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 
 export interface IInfo {
     Languages: ILanguage[],
@@ -27,6 +31,7 @@ export interface IInfo {
     Feature: IFeature,
     About: IAbout,
     Cloud: ICloud,
+    Navbar: INavbar[]
 
     FrontEnd: IFrontEnd,
     FullStack: IFullStack,
@@ -45,5 +50,7 @@ export interface IInfo {
     Consent: IConsent,
     Images: IImage,
 
-    Gallery: IGallery
+    Gallery: IGallery,
+    Translates: ITranslate[],
+    CloudSolution: ICloudSolution
 }

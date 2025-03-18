@@ -4,15 +4,43 @@ import React, {useState, useEffect} from "react";
 import Link from "next/link";
 import Image from "next/image";
 import MenuItem from "./MenuItem";
-import {Navbar2025} from "@/data/navbar/Navbar2025";
 import {INavbar} from "@/data/navbar/model/INavbar";
-import {Info} from "@/data/info/Info";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {Globe} from "lucide-react";
+import {ITranslate} from "@/data/translate/model/ITranslate";
+import {useDispatch, useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {setTranslate} from "@/redux/serviceSlice";
+import {useRouter} from "next/navigation";
 
 const Navbar: React.FC = () => {
+    const router = useRouter();
     const [menu, setMenu] = useState(true);
+    const [isLanguageMenuOpen, setIsLanguageMenuOpen] = useState(false);
+    const dispatch = useDispatch();
+    const currentTranslate = useSelector((state: RootState) => state.service.translate)
+
     const toggleNavbar = () => {
         setMenu(!menu);
     };
+
+    const toggleLanguageMenu = () => {
+        setIsLanguageMenuOpen(!isLanguageMenuOpen);
+    }
+
+    const changeLanguage = (translate: ITranslate) => {
+        dispatch(setTranslate(translate));
+        setIsLanguageMenuOpen(!isLanguageMenuOpen);
+
+        const pathSegments = window.location.pathname.split("/");
+        const currentPath = pathSegments.slice(2).join("/") || "";
+
+        router.push(`/${translate.value}/${currentPath}`);
+    }
+
+    const isActiveTranslate = (translate: ITranslate) => {
+        return translate.value == currentTranslate.value;
+    }
 
     useEffect(() => {
         let elementId = document.getElementById("navbar");
@@ -41,12 +69,36 @@ const Navbar: React.FC = () => {
                         <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/" className="navbar-brand add-navbar-logo">
                                 <Image
-                                    src={Info.Images.logo.rec.sm.path}
-                                    alt={Info.Images.logo.rec.sm.title}
+                                    src={InfoTranslation[currentTranslate.value].Images.logo.rec.sm.path}
+                                    alt={InfoTranslation[currentTranslate.value].Images.logo.rec.sm.title}
                                     width={150}
                                     height={75}
                                 />
                             </Link>
+
+                            <div className="navbar-langs">
+                                <button
+                                    onClick={toggleLanguageMenu}
+                                    className="language-button"
+                                    type="button"
+                                    aria-label="Select language"
+                                >
+                                    <Globe size={16} color="white" style={{marginRight: "5px"}}/>
+                                    {currentTranslate.label}
+                                </button>
+                                {
+                                    isLanguageMenuOpen &&
+                                    <ul className="dropdown-langs">
+                                        {InfoTranslation[currentTranslate.value].Translates.map((translate, index) =>
+                                            <li key={index}
+                                                className={isActiveTranslate(translate) ? 'dropdown-active' : ''}
+                                                onClick={() => changeLanguage(translate)}
+                                            >
+                                                {translate.label}
+                                            </li>)}
+                                    </ul>
+                                }
+                            </div>
 
                             <button
                                 onClick={toggleNavbar}
@@ -65,7 +117,7 @@ const Navbar: React.FC = () => {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
-                                    {Navbar2025.map((menuItem: INavbar, index) => (
+                                    {InfoTranslation[currentTranslate.value].Navbar.map((menuItem: INavbar, index) => (
                                         <MenuItem key={index} {...menuItem} />
                                     ))}
                                 </ul>

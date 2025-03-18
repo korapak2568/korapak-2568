@@ -1,5 +1,10 @@
 {
   "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "/en/:path*",
+      "permanent": true
+    },
     { "source": "/outsourcing-software-development/full-stack-developer/:path*", "destination": "/technical-expertise/full-stack-developer/:path*", "permanent": true },
     { "source": "/outsourcing-software-development/front-end-developer/:path*", "destination": "/technical-expertise/front-end-developer/:path*", "permanent": true },
     { "source": "/e-commerce-development", "destination": "/technical-expertise/web-development/", "permanent": true },

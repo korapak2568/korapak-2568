@@ -1,7 +1,7 @@
 // src/app/api/tasks/[id]/route.ts
 
 import {ObjectId} from 'mongodb';
-import {connectDB} from '@/app/lib/mongodb';
+import {connectDB} from '@/lib/mongodb';
 import {NextRequest, NextResponse} from 'next/server';
 import NodeCache from 'node-cache';
 

@@ -1,8 +1,13 @@
+"use client";
+
 import React, {useState} from "react";
-import {Info} from "@/data/info/Info";
 import Link from "next/link";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export const CopyRight: React.FC = () => {
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
     const [year] = useState(new Date().getFullYear());
 
     return (
@@ -13,8 +18,9 @@ export const CopyRight: React.FC = () => {
                         <div className="col-lg-6 col-md-6">
                             <p>
                                 Copyright &copy; {year}. All Rights Reserved by{" "}
-                                <a href={Info.Footer.link} target="_blank">
-                                    {Info.Footer.title}
+                                <a href={'/' + currentTranslate.value + InfoTranslation[currentTranslate.value].Footer.link}
+                                   target="_blank">
+                                    {InfoTranslation[currentTranslate.value].Footer.title}
                                 </a>
                             </p>
                         </div>
@@ -22,18 +28,18 @@ export const CopyRight: React.FC = () => {
                         <div className="col-lg-6 col-md-6">
                             <ul>
                                 <li>
-                                    <Link href={Info.Footer.termOfService.link}>
-                                        {Info.Footer.termOfService.label}
+                                    <Link href={'/' + currentTranslate.value + InfoTranslation[currentTranslate.value].Footer.termOfService.link}>
+                                        {InfoTranslation[currentTranslate.value].Footer.termOfService.label}
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href={Info.Footer.privacyPolicy.link}>
-                                        {Info.Footer.privacyPolicy.label}
+                                    <Link href={'/' + currentTranslate.value + InfoTranslation[currentTranslate.value].Footer.privacyPolicy.link}>
+                                        {InfoTranslation[currentTranslate.value].Footer.privacyPolicy.label}
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href={Info.Footer.workplacePolicy.link}>
-                                        {Info.Footer.workplacePolicy.label}
+                                    <Link href={'/' + currentTranslate.value + InfoTranslation[currentTranslate.value].Footer.workplacePolicy.link}>
+                                        {InfoTranslation[currentTranslate.value].Footer.workplacePolicy.label}
                                     </Link>
                                 </li>
                             </ul>

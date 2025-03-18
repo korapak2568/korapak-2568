@@ -1,25 +1,30 @@
+"use client"
+
 import React from "react";
-import { Info } from "@/data/info/Info";
-import { IFooterDetail } from "@/data/footer/model/IFooterDetail";
-import Image from "next/image";
+import {IFooterDetail} from "@/data/footer/model/IFooterDetail";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export const Information: React.FC = () => {
-  return (
-    <div className="col-lg-3 col-sm-6">
-      <div className="single-footer-widget pl-5">
-        <h3>{Info.Footer.infoTitle}</h3>
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
 
-        <ul className="footer-contact-info">
-          {Info.Footer.infoLinks.map((item: IFooterDetail, index: number) => (
-            <li key={index}>
-              <i className={item.icon}></i>
-              <span>{item.label}</span>
-              {item.linkText}
-            </li>
-          ))}
-        </ul>
+    return (
+        <div className="col-lg-3 col-sm-6">
+            <div className="single-footer-widget pl-5">
+                <h3>{InfoTranslation[currentTranslate.value].Footer.infoTitle}</h3>
 
-        {/* <div className={'footer-line-information'}>
+                <ul className="footer-contact-info">
+                    {InfoTranslation[currentTranslate.value].Footer.infoLinks.map((item: IFooterDetail, index: number) => (
+                        <li key={index}>
+                            <i className={item.icon}></i>
+                            <span>{item.label}</span>
+                            {item.linkText}
+                        </li>
+                    ))}
+                </ul>
+
+                {/* <div className={'footer-line-information'}>
                     <a href={Info.Contact.chorn.link} target={'_blank'}>
                         <Image
                             src={Info.Contact.chorn.iconImageLink}
@@ -29,7 +34,7 @@ export const Information: React.FC = () => {
                         />
                     </a>
                 </div> */}
-      </div>
-    </div>
-  );
+            </div>
+        </div>
+    );
 };

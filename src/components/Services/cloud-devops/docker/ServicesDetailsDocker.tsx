@@ -4,9 +4,12 @@ import React from "react";
 import ServiceFaqDocker from "./ServiceFaqDocker";
 import Image from "next/image";
 import ServiceSidebarDevOpsTesting from "@/components/Services/ServiceSidebarDevOpsTesting";
-import {Info} from "@/data/info/Info";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
 
 const ServicesDetailsDocker: React.FC = () => {
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
 
     return (
         <>
@@ -15,16 +18,16 @@ const ServicesDetailsDocker: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="services-details-desc">
-                                <h3>{Info.DevOps.docker.features[0].title}</h3>
-                                <p>{Info.DevOps.docker.features[0].description}</p>
+                                <h3>{InfoTranslation[currentTranslate.value].DevOps.docker.features[0].title}</h3>
+                                <p>{InfoTranslation[currentTranslate.value].DevOps.docker.features[0].description}</p>
 
-                                <h3>{Info.DevOps.docker.features[1].title}</h3>
-                                <p>{Info.DevOps.docker.features[1].description}</p>
+                                <h3>{InfoTranslation[currentTranslate.value].DevOps.docker.features[1].title}</h3>
+                                <p>{InfoTranslation[currentTranslate.value].DevOps.docker.features[1].description}</p>
 
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={Info.Images.devopsTesting.docker.path}
+                                            src={InfoTranslation[currentTranslate.value].Images.devopsTesting.docker.path}
                                             alt="image"
                                             width={500}
                                             height={500}
@@ -32,7 +35,7 @@ const ServicesDetailsDocker: React.FC = () => {
 
                                         <div className="col-lg-6">
                                             <ul className="features-list">
-                                                {Info.DevOps.docker.features[1].list.map((item: string, index: number) => (
+                                                {InfoTranslation[currentTranslate.value].DevOps.docker.features[1].list.map((item: string, index: number) => (
                                                     <li key={index}>
                                                         <i className="flaticon-check"></i> {item}
                                                     </li>
@@ -43,8 +46,8 @@ const ServicesDetailsDocker: React.FC = () => {
                                 </div>
 
                                 <div className="text-result">
-                                    <h3>{Info.DevOps.docker.features[2].title}</h3>
-                                    <p>{Info.DevOps.docker.features[2].description}</p>
+                                    <h3>{InfoTranslation[currentTranslate.value].DevOps.docker.features[2].title}</h3>
+                                    <p>{InfoTranslation[currentTranslate.value].DevOps.docker.features[2].description}</p>
                                 </div>
 
                                 <ServiceFaqDocker/>

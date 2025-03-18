@@ -1,41 +1,38 @@
 "use client";
 
 import React from "react";
-import Link from "next/link";
-import { Info } from "@/data/info/Info";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
 
 const GalleryContent: React.FC = () => {
-  return (
-    <>
-      <div className="about-area ptb-100">
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-6">
-              <div
-                className="about-image-warp gallery-global-image"
-                style={{ backgroundImage: `url(${Info.Gallery.global.image})` }}
-              ></div>
-            </div>
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
 
-            <div className="col-lg-6">
-              <div className="about-content warp mx-100">
-                <span></span>
-                <h3>{Info.Gallery.global.title}</h3>
-                <div className="bar"></div>
-                <p>{Info.Gallery.global.description}</p>
-                <p>
-                  Open to remote, hybrid, or on-site engagements in
-                  <strong> Chiang Mai, Bangkok, Thailand, </strong>
-                  and
-                  <strong> worldwide</strong>.
-                </p>
-              </div>
+    return (
+        <>
+            <div className="about-area ptb-100">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-6">
+                            <div
+                                className="about-image-warp gallery-global-image"
+                                style={{backgroundImage: `url(${InfoTranslation[currentTranslate.value].Gallery.global.image})`}}
+                            ></div>
+                        </div>
+
+                        <div className="col-lg-6">
+                            <div className="about-content warp mx-100">
+                                <span></span>
+                                <h3>{InfoTranslation[currentTranslate.value].Gallery.global.title}</h3>
+                                <div className="bar"></div>
+                                <p>{InfoTranslation[currentTranslate.value].Gallery.global.description}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </>
-  );
+        </>
+    );
 };
 
 export default GalleryContent;

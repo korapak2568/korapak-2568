@@ -6,8 +6,12 @@ import React from "react";
 import Image from "next/image";
 import {Info} from "@/data/info/Info";
 import Link from "next/link";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
 
 const AiFahLandingPage: React.FC = () => {
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+
     return (
         <>
             <div className="portfolio-details-area pt-4">
@@ -29,7 +33,8 @@ const AiFahLandingPage: React.FC = () => {
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={Info.AiCompanions.fah.english.line.link} target={'_blank'}>
+                                            <a href={'/' + currentTranslate.value + Info.AiCompanions.fah.english.line.link}
+                                               target={'_blank'}>
                                                 <Image
                                                     src={Info.AiCompanions.fah.english.line.button}
                                                     alt="เพิ่มเพื่อน"
@@ -69,7 +74,7 @@ const AiFahLandingPage: React.FC = () => {
                                     ))}
 
                                     {Info.AiCompanions.landing.fah.relevants.map((ai, index) => (
-                                        <Link key={index} href={ai.pages.landing.link}>
+                                        <Link key={index} href={'/' + currentTranslate.value + ai.pages.landing.link}>
                                             <li className="li-sidebar-relevant">
                                                 <Image
                                                     src={ai.thumbnail}

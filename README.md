@@ -49,7 +49,7 @@ deploy_to_vercel:
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postbuild": "next-sitemap && node scripts/update-robots.js",
+    "postbuild": "next-sitemap && node scripts/after-next-sitemap.js",
     "migrate": "node --loader ts-node/esm src/app/services/api/initial.ts",
     "console-dev": "npx truffle console --network development",
     "compile-dev": "npx truffle compile --network development",

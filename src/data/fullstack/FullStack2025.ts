@@ -170,22 +170,22 @@ export const FullStack2025: IFullStack = {
         ],
     },
     nodejs: {
-        "title": "NodeJS",
-        "description": "Node.js is a powerful, open-source, cross-platform JavaScript runtime " +
+        title: "NodeJS",
+        description: "Node.js is a powerful, open-source, cross-platform JavaScript runtime " +
             "environment that allows developers to build scalable network applications efficiently. " +
             "With an event-driven, non-blocking I/O model, Node.js is ideal for building fast, lightweight " +
             "applications, real-time communication systems, and data-intensive tasks, making it a popular choice for modern software development, including AI integrations.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
-        "alt": "Logo representing NodeJS technology",
-        "readMore": "Explore more NodeJS full-stack development solutions",
-        "link": "/technical-expertise/full-stack-developer/nodejs-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
+        alt: "Logo representing NodeJS technology",
+        readMore: "Explore more NodeJS full-stack development solutions",
+        link: "/technical-expertise/full-stack-developer/nodejs-developer",
+        features: [
             {
-                "title": "NodeJS Development",
-                "description": "Node.js provides an event-driven, non-blocking architecture perfect for building scalable, real-time applications. " +
+                title: "NodeJS Development",
+                description: "Node.js provides an event-driven, non-blocking architecture perfect for building scalable, real-time applications. " +
                     "It excels at handling large numbers of simultaneous connections, enabling the development of data-intensive technical-expertise with minimal latency. " +
                     "Node.js is also used for server-side scripting, microservices, and AI-related features, or integrating with external AI technical-expertise.",
-                "list": [
+                list: [
                     "Non-blocking I/O",
                     "Event-driven architecture",
                     "High performance under load",
@@ -195,10 +195,10 @@ export const FullStack2025: IFullStack = {
                 ]
             },
             {
-                "title": "Versatile Frameworks",
-                "description": "Node.js supports various frameworks tailored for building scalable, robust server-side applications. " +
+                title: "Versatile Frameworks",
+                description: "Node.js supports various frameworks tailored for building scalable, robust server-side applications. " +
                     "Nest.js, Express, and Koa.js are the most prominent. With modern ES6+ support, these frameworks make it easy to build efficient APIs, web apps, and microservices. Additionally, Nest.js integrates seamlessly with TypeScript for statically typed code, improving code quality and maintainability.",
-                "list": [
+                list: [
                     "Asynchronous I/O and event-loop",
                     "Single-threaded, highly concurrent",
                     "Microservices architecture support",
@@ -209,9 +209,9 @@ export const FullStack2025: IFullStack = {
                 ]
             },
             {
-                "title": "Real-time Capabilities",
-                "description": "Node.js enables the building of real-time applications, such as live chat apps, collaborative tools, and gaming servers, through frameworks like Socket.io. It allows instantaneous data exchange between the server and clients, making it ideal for applications requiring low latency communication.",
-                "list": [
+                title: "Real-time Capabilities",
+                description: "Node.js enables the building of real-time applications, such as live chat apps, collaborative tools, and gaming servers, through frameworks like Socket.io. It allows instantaneous data exchange between the server and clients, making it ideal for applications requiring low latency communication.",
+                list: [
                     "WebSocket support",
                     "Real-time data syncing",
                     "Low-latency messaging",
@@ -220,9 +220,9 @@ export const FullStack2025: IFullStack = {
                 ]
             },
             {
-                "title": "Rich Ecosystem and NPM",
-                "description": "Node.js boasts a rich ecosystem of libraries and tools accessible via npm, the largest software registry. This vast selection simplifies development, from handling database operations to implementing complex business logic and AI capabilities. Developers can leverage pre-built modules to boost productivity and streamline the development process.",
-                "list": [
+                title: "Rich Ecosystem and NPM",
+                description: "Node.js boasts a rich ecosystem of libraries and tools accessible via npm, the largest software registry. This vast selection simplifies development, from handling database operations to implementing complex business logic and AI capabilities. Developers can leverage pre-built modules to boost productivity and streamline the development process.",
+                list: [
                     "Over 1 million packages in npm",
                     "Pre-built integrations for databases, AI, security, etc.",
                     "Microservices support via frameworks and libraries",
@@ -230,10 +230,10 @@ export const FullStack2025: IFullStack = {
                 ]
             },
             {
-                "title": "AI Integration",
-                "description": "Node.js, with its high-performance, event-driven nature, is a great choice for integrating AI into applications. " +
+                title: "AI Integration",
+                description: "Node.js, with its high-performance, event-driven nature, is a great choice for integrating AI into applications. " +
                     "Using libraries like TensorFlow.js, Node.js can handle AI model inference in the browser or on the server. Additionally, Node.js can serve as a middleware to communicate with AI-powered cloud APIs (e.g., AWS, Azure AI, or Google Cloud AI), enabling smart capabilities such as natural language processing, image recognition, and recommendation systems.",
-                "list": [
+                list: [
                     "Integration with TensorFlow.js",
                     "AI model inference on the server",
                     "Communication with cloud AI APIs",
@@ -242,7 +242,7 @@ export const FullStack2025: IFullStack = {
                 ]
             }
         ],
-        "faqs": [
+        faqs: [
             {
                 "question": "What is Node.js?",
                 "answer": "Node.js is a JavaScript runtime that enables the building of fast and scalable network applications, making it ideal for I/O-heavy tasks and real-time technical-expertise."

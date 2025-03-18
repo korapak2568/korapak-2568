@@ -2,10 +2,13 @@ import React from "react";
 import Link from "next/link";
 import {usePathname} from "next/navigation";
 import {INavbar} from "@/data/navbar/model/INavbar";
-import {isActiveMainMenu, isActiveMenu} from "@/app/lib/utils";
+import {isActiveMainMenu, isActiveMenu} from "@/lib/utils";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
 
 const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
     const pathname = usePathname();
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
 
     const saveClickedLinked = (group: string) => {
         localStorage.setItem("group", group)
@@ -13,7 +16,7 @@ const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
 
     return submenu.length == 0 ?
         <li className="nav-item" key={label}>
-            <Link href={link}
+            <Link href={'/' + currentTranslate.value + link}
                   className={`nav-link ${isActiveMainMenu(pathname, group) ? "active add-navbar-active" : ""}`}
                   onClick={() => saveClickedLinked(group)}
             >
@@ -24,7 +27,7 @@ const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
         <>
             <li className="nav-item" key={label}>
                 <Link
-                    href={link}
+                    href={'/' + currentTranslate.value + link}
                     className={`nav-link ${isActiveMainMenu(pathname, group) ? "active add-navbar-active" : ""}`}
                     onClick={() => saveClickedLinked(group)}
                 >
@@ -42,7 +45,7 @@ const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
                             (
                                 <li className="nav-item" key={index}>
                                     <Link
-                                        href={subItem.link}
+                                        href={'/' + currentTranslate.value + subItem.link}
                                         className={`nav-link ${isActiveMenu(pathname, subItem.link) ? "active add-navbar-active" : ""}`}
                                         onClick={() => saveClickedLinked(group)}
                                     >

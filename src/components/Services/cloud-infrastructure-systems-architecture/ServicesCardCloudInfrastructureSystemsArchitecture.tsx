@@ -1,8 +1,12 @@
 "use client";
 
 import React from "react";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
 
     return (
         <>
@@ -11,93 +15,19 @@ const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-                            <p>
-                                Unlock the Full Potential of Cloud Infrastructure with Expert Solution Architecture &
-                                System Analysis
-                            </p>
-                            <p>
-                                In today’s rapidly evolving digital landscape, building resilient, scalable, and
-                                future-proof systems requires deep technical expertise and strategic foresight. Our
-                                Solution Architect and System Analyst services are designed to guide you through complex
-                                cloud architecture decisions, ensuring optimal performance, security, and
-                                cost-efficiency for your business.
-                            </p>
-                            <div>
-                                <h2>Leverage Multi-Cloud Expertise</h2>
-                                <p>
-                                    Whether you are looking to migrate to the cloud or optimize your existing
-                                    infrastructure, we have extensive experience working with the world’s leading cloud
-                                    providers, including AWS, Azure, Google Cloud Platform (GCP), and DigitalOcean. Our
-                                    architects design solutions that seamlessly integrate with your business objectives,
-                                    whether it’s cloud-native, hybrid, or multi-cloud environments.
-                                </p>
-                            </div>
-                            <div>
-                                <h2>AWS</h2>
-                                <p>
-                                    <strong>AWS: The Power of Flexibility and Scalability </strong> Harness the robust
-                                    capabilities of Amazon Web Services (AWS) to scale your
-                                    infrastructure dynamically. We help businesses deploy serverless architectures,
-                                    leverage AWS Lambda for microservices, and optimize storage with S3. Our focus is to
-                                    ensure your systems remain agile, cost-effective, and highly secure using AWS’s
-                                    extensive suite of services.
-                                </p>
-                            </div>
-                            <div>
-                                <h2>Azure</h2>
-                                <p>
-                                    <strong>Azure: Seamless Enterprise Integration </strong>
-                                    Microsoft Azure is the ideal choice for enterprises looking to modernize legacy
-                                    systems or adopt hybrid cloud solutions. We assist in building end-to-end solutions
-                                    that incorporate advanced analytics, AI, and enterprise-grade security. Our services
-                                    include everything from setting up virtual machines to configuring complex data
-                                    pipelines, helping you fully utilize Azure capabilities.
-                                </p>
-                            </div>
-                            <div>
-                                <h2>GCP</h2>
-                                <p>
-                                    <strong>GCP: Advanced Analytics and AI Integration </strong>
-                                    Google Cloud Platform (GCP) offers unmatched capabilities in big data, machine
-                                    learning, and AI-driven solutions. Our expertise in GCP helps you tap into powerful
-                                    data analytics, automate workflows, and streamline complex business processes. We
-                                    also ensure that your cloud infrastructure is optimized for both performance and
-                                    cost efficiency.
-                                </p>
-                            </div>
-                            <div>
-                                <h2>DigitalOcean</h2>
-                                <p>
-                                    <strong>DigitalOcean: Simple, Powerful Cloud for Startups and SMEs </strong>
-                                    For startups and small-to-medium enterprises (SMEs), DigitalOcean offers a
-                                    straightforward yet powerful cloud platform. We assist in deploying scalable web
-                                    apps, databases, and other cloud solutions on DigitalOcean’s infrastructure, with an
-                                    emphasis on simplicity and developer-friendly tools.
-                                </p>
-                            </div>
-                            <div>
-                                <h2>Why Choose Us?</h2>
-                                <p>
-                                    <strong>Comprehensive System Analysis for Improved Performance </strong>
-                                    As part of our services, our system analysts work closely with your teams to
-                                    thoroughly evaluate current systems, identify bottlenecks, and propose actionable
-                                    solutions. This includes performance optimization, cost analysis, security audits,
-                                    and future scalability assessments to ensure your systems not only meet today’s
-                                    needs but are ready for tomorrow’s challenges.
-                                </p>
-                                <p>
-                                    Our solution architects and system analysts bring years of expertise across multiple
-                                    industries, ensuring tailored solutions that align with your business goals. Whether
-                                    you are looking to optimize cloud costs, enhance security, or build scalable
-                                    infrastructures, our team provides end-to-end support—from planning and
-                                    implementation to ongoing management and optimization.
+                            {InfoTranslation[currentTranslate.value].CloudSolution.descriptions.map(
+                                (description, index) =>
+                                    <p key={index}>{description.description}</p>
+                            )}
 
-                                    With a proven track record in multi-cloud architectures and cutting-edge
-                                    technologies, we ensure that your business can adapt and thrive in the digital age.
-                                    Ready to take your cloud infrastructure to the next level? Contact us today to
-                                    explore how we can transform your systems for long-term success.
-                                </p>
-                            </div>
+                            {InfoTranslation[currentTranslate.value].CloudSolution.sections.map(
+                                (section, index) => (
+                                    <div key={index}>
+                                        <h2>{section.title}</h2>
+                                        <p><strong>{section.span} </strong>{section.description}</p>
+                                    </div>
+                                )
+                            )}
                         </div>
 
                     </div>

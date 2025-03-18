@@ -3,10 +3,13 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {Info} from "@/data/info/Info";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const ServicesCardDevOpsTesting: React.FC = () => {
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
 
     return (
         <>
@@ -15,13 +18,13 @@ const ServicesCardDevOpsTesting: React.FC = () => {
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-                            <h2>{Info.DevOps.services.title}</h2>
-                            {Info.DevOps.services.descriptions.map((item, index) => (
+                            <h2>{InfoTranslation[currentTranslate.value].DevOps.services.title}</h2>
+                            {InfoTranslation[currentTranslate.value].DevOps.services.descriptions.map((item, index) => (
                                 <p key={index}>{item}</p>
                             ))}
 
                             <ul>
-                                {Info.DevOps.services.items.map((item, index) => (
+                                {InfoTranslation[currentTranslate.value].DevOps.services.items.map((item, index) => (
                                     <li key={index}>
                                         <strong>{item.title}</strong>
                                         {item.description}
@@ -30,7 +33,7 @@ const ServicesCardDevOpsTesting: React.FC = () => {
                             </ul>
                         </div>
 
-                        {Info.DevOps.stacks.map((item: IFrontEndStack, index: number) => (
+                        {InfoTranslation[currentTranslate.value].DevOps.stacks.map((item: IFrontEndStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services-box">
                                     <div className="icon">
@@ -43,7 +46,7 @@ const ServicesCardDevOpsTesting: React.FC = () => {
                                     </div>
 
                                     <h3>
-                                        <Link href={item.link}>{item.title}</Link>
+                                        <Link href={'/' + currentTranslate.value + item.link}>{item.title}</Link>
                                     </h3>
                                 </div>
                             </div>

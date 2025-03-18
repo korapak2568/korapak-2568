@@ -3,10 +3,13 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import {Info} from "@/data/info/Info";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {useSelector} from "react-redux";
+import {RootState} from "@/redux/store";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const ServiceCardWebDevelopment: React.FC = () => {
+    const currentTranslate = useSelector((state: RootState) => state.service.translate);
 
     return (
         <>
@@ -15,18 +18,18 @@ const ServiceCardWebDevelopment: React.FC = () => {
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-                            <h2>{Info.FrontEnd.services.title}</h2>
-                            {Info.FrontEnd.services.descriptions.map((item, index) => (
+                            <h2>{InfoTranslation[currentTranslate.value].FrontEnd.services.title}</h2>
+                            {InfoTranslation[currentTranslate.value].FrontEnd.services.descriptions.map((item, index) => (
                                 <p key={index}>{item}</p>
                             ))}
 
-                            <h2>{Info.FullStack.services.title}</h2>
-                            {Info.FullStack.services.descriptions.map((item, index) => (
+                            <h2>{InfoTranslation[currentTranslate.value].FullStack.services.title}</h2>
+                            {InfoTranslation[currentTranslate.value].FullStack.services.descriptions.map((item, index) => (
                                 <p key={index}>{item}</p>
                             ))}
 
                             <ul>
-                                {Info.FullStack.services.items.map((item, index) => (
+                                {InfoTranslation[currentTranslate.value].FullStack.services.items.map((item, index) => (
                                     <li key={index}>
                                         <strong>{item.title}</strong>
                                         {item.description}
@@ -35,7 +38,7 @@ const ServiceCardWebDevelopment: React.FC = () => {
                             </ul>
                         </div>
 
-                        {Info.FrontEnd.stacks.slice(2, -3).map((item: IFrontEndStack, index: number) => (
+                        {InfoTranslation[currentTranslate.value].FrontEnd.stacks.slice(2, -3).map((item: IFrontEndStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services-box">
                                     <div className="icon">
@@ -48,13 +51,13 @@ const ServiceCardWebDevelopment: React.FC = () => {
                                     </div>
 
                                     <h3>
-                                        <Link href={item.link}>{item.title}</Link>
+                                        <Link href={'/' + currentTranslate.value + item.link}>{item.title}</Link>
                                     </h3>
                                 </div>
                             </div>
                         ))}
 
-                        {Info.FullStack.stacks.slice(0, -3).map((item: IFrontEndStack, index: number) => (
+                        {InfoTranslation[currentTranslate.value].FullStack.stacks.slice(0, -3).map((item: IFrontEndStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services-box">
                                     <div className="icon">
@@ -67,7 +70,7 @@ const ServiceCardWebDevelopment: React.FC = () => {
                                     </div>
 
                                     <h3>
-                                        <Link href={item.link}>{item.title}</Link>
+                                        <Link href={'/' + currentTranslate.value + item.link}>{item.title}</Link>
                                     </h3>
                                 </div>
                             </div>

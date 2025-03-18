@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import {LogoSocial} from "@/components/Footer/LogoSocial";
 import {ImportantLinks} from "@/components/Footer/ImportantLinks";

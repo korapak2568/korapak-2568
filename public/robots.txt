@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://chorn.in.th/sitemap.xml
