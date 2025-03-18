@@ -5,6 +5,7 @@ import type {NextRequest} from 'next/server';
 
 const defaultLocale = 'en';
 const locales = ['en'];
+
 // const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'na'];
 
 export function middleware(request: NextRequest) {
@@ -48,5 +49,5 @@ export function middleware(request: NextRequest) {
 
 // Apply middleware to all paths
 export const config = {
-    matcher: ['/'],
+    matcher: ['/', '/(th|en)/:path*'],
 };
