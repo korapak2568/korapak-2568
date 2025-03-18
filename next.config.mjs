@@ -9,8 +9,11 @@ const nextConfig = {
     },
     optimizeFonts: false,
     i18n: {
-        locales: ['en-US', 'th-TH', 'fr-FR', 'ja-JP', 'vi-VN', 'zh-CN', 'de-DE', 'nl-NL', 'da-DA'], // Supported locales
-        defaultLocale: 'en-US', // Default language
+        locales: ['en-US', 'th-TH'],
+        defaultLocale: 'en-US',
+
+        // locales: ['en-US', 'th-TH', 'fr-FR', 'ja-JP', 'vi-VN', 'zh-CN', 'de-DE', 'nl-NL', 'da-DA'],
+        // defaultLocale: 'en-US',
     },
 };
 

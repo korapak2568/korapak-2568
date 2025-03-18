@@ -13,39 +13,11 @@ import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkup
 import type {Metadata} from "next";
 import FlexibleWorkspace from "@/components/Gallery/FlexibleWorkspace";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
-import {redirect} from "next/navigation";
 import {ITranslationProps} from "@/props/ITranslationProps";
 
 export const metadata: Metadata = ChornMetadata.home
 
-const fullMessages: Record<string, any> = {
-    'en-US': 'Welcome to Chorn.',
-    'th-TH': 'ยินดีต้อนรับสู่ ฌอน',
-    'fr-FR': 'Bienvenue chez Chorn.',
-    'ja-JP': 'チョーンへようこそ。',
-    'vi-VN': 'Chào mừng đến với Chorn.',
-    'zh-CN': '欢迎来到 Chorn。',
-    'de-DE': 'Willkommen bei Chorn.',
-    'nl-NL': 'Welkom bij Chorn.',
-    'da-DA': 'Velkommen til Chorn.',
-}
-
-const messages: Record<string, any> = {
-    'en': 'Welcome to Chorn.',
-    'th': 'ยินดีต้อนรับสู่ ฌอน',
-    'fr': 'Bienvenue chez Chorn.',
-    'ja': 'チョーンへようこそ。',
-    'vi': 'Chào mừng đến với Chorn.',
-    'zh': '欢迎来到 Chorn。',
-    'de': 'Willkommen bei Chorn.',
-    'nl': 'Welkom bij Chorn.',
-    'da': 'Velkommen til Chorn.',
-}
-
 export default function Home({params}: ITranslationProps) {
-    const {locale} = params;
-    if (!messages[locale]) return redirect("/en")
-
     const localBusinessSchema = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
