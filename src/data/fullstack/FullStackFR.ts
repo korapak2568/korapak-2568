@@ -2,7 +2,7 @@ import {IFullStack} from "@/data/fullstack/model/IFullStack";
 
 export const FullStackFR: IFullStack = {
     title: "Expérience Back-End & API",
-    span: "Back-End & API exceptionnels",
+    span: "Expérience Back-End & API Exceptionnelle",
     subTitle: "",
 
     dotnetcore: {

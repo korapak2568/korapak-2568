@@ -1,8 +1,8 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
 
 export const FrontEndJA: IFrontEnd = {
-    title: "Front-End Experience",
-    span: "Outstanding Front-End",
+    title: "フロントエンド経験",
+    span: "優れたフロントエンド経験",
     subTitle: "",
 
     angular: {

@@ -1,8 +1,8 @@
 import {IFullStack} from "@/data/fullstack/model/IFullStack";
 
 export const FullStackZH: IFullStack = {
-    title: "后端 & API 经验",
-    span: "杰出的后端 & API",
+    title: "后端和API经验",
+    span: "卓越的后端和API经验",
     subTitle: "",
 
     dotnetcore: {
