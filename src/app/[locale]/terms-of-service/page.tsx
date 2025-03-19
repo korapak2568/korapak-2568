@@ -6,12 +6,11 @@ import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import SubscribeForm from "@/components/Common/SubscribeForm";
 import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 export default function TermsOfService() {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
@@ -22,7 +21,7 @@ export default function TermsOfService() {
             <div className="terms-of-service-area ptb-100">
                 <div className="container">
                     <div className="privacy-content">
-                        {InfoTranslation[currentTranslate.value].TermOfService.list.map((item: IPolicyContent, index: number) => (
+                        {InfoTranslation[locale.value].TermOfService.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
                                 <h3>{item.title}</h3>
 

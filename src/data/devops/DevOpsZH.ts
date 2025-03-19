@@ -6,21 +6,21 @@ export const DevOpsZH: IDevOps = {
     subTitle: "",
 
     docker: {
-        "title": "Docker",
-        "description": "通过容器化简化应用程序部署，实现一致高效的环境。",
+        title: "Docker",
+        description: "通过容器化简化应用程序部署，实现一致高效的环境。",
         "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
         "alt": "代表Docker技术经验的标志",
         "readMore": "探索Docker以实现高效的DevOps测试",
         "link": "/technical-expertise/cloud-devops/docker",
         "features": [
             {
-                "title": "Docker",
-                "description": "Docker是一个强大的平台，用于在容器中开发、交付和运行应用程序，确保在多种环境中的一致性。非常适合现代DevOps实践。",
+                title: "Docker",
+                description: "Docker是一个强大的平台，用于在容器中开发、交付和运行应用程序，确保在多种环境中的一致性。非常适合现代DevOps实践。",
                 "list": []
             },
             {
-                "title": "Docker的优势",
-                "description": "Docker凭借其关键特性脱颖而出",
+                title: "Docker的优势",
+                description: "Docker凭借其关键特性脱颖而出",
                 "list": [
                     "容器化",
                     "环境一致性",
@@ -32,8 +32,8 @@ export const DevOpsZH: IDevOps = {
                 ]
             },
             {
-                "title": "挑战与解决方案",
-                "description": "Docker通过提供容器化解决方案来解决部署挑战，提高性能、可扩展性和一致性。",
+                title: "挑战与解决方案",
+                description: "Docker通过提供容器化解决方案来解决部署挑战，提高性能、可扩展性和一致性。",
                 "list": []
             }
         ],
@@ -53,21 +53,21 @@ export const DevOpsZH: IDevOps = {
         ]
     },
     kubernetes: {
-        "title": "Kubernetes",
-        "description": "使用Kubernetes自动化容器编排，实现可扩展且弹性的应用程序。",
+        title: "Kubernetes",
+        description: "使用Kubernetes自动化容器编排，实现可扩展且弹性的应用程序。",
         "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
         "alt": "代表Kubernetes技术经验的标志",
         "readMore": "探索Kubernetes DevOps测试解决方案",
         "link": "/technical-expertise/cloud-devops/kubernetes",
         "features": [
             {
-                "title": "Kubernetes",
-                "description": "Kubernetes是领先的容器编排平台，可自动化部署、扩展和管理容器化应用程序。对于大规模、弹性系统至关重要。",
+                title: "Kubernetes",
+                description: "Kubernetes是领先的容器编排平台，可自动化部署、扩展和管理容器化应用程序。对于大规模、弹性系统至关重要。",
                 "list": []
             },
             {
-                "title": "Kubernetes的优势",
-                "description": "Kubernetes以其强大的功能脱颖而出",
+                title: "Kubernetes的优势",
+                description: "Kubernetes以其强大的功能脱颖而出",
                 "list": [
                     "自动化部署",
                     "可扩展性",
@@ -79,8 +79,8 @@ export const DevOpsZH: IDevOps = {
                 ]
             },
             {
-                "title": "挑战与解决方案",
-                "description": "Kubernetes通过为容器化应用程序提供可扩展和自动化的解决方案来解决编排挑战。",
+                title: "挑战与解决方案",
+                description: "Kubernetes通过为容器化应用程序提供可扩展和自动化的解决方案来解决编排挑战。",
                 "list": []
             }
         ],
@@ -100,21 +100,21 @@ export const DevOpsZH: IDevOps = {
         ]
     },
     github: {
-        "title": "GitHub",
-        "description": "借助 GitHub 的版本控制和协作平台增强您的开发工作流程。",
+        title: "GitHub",
+        description: "借助 GitHub 的版本控制和协作平台增强您的开发工作流程。",
         "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
         "alt": "代表 GitHub 技术经验的标志",
         "readMore": "了解 GitHub 如何助力高效的 DevOps 测试",
         "link": "/technical-expertise/cloud-devops/github",
         "features": [
             {
-                "title": "GitHub",
-                "description": "GitHub 是一个基于网络的平台，提供 Git 存储库托管、协作开发工具和广泛的集成，促进高效协作的软件开发。",
+                title: "GitHub",
+                description: "GitHub 是一个基于网络的平台，提供 Git 存储库托管、协作开发工具和广泛的集成，促进高效协作的软件开发。",
                 "list": []
             },
             {
-                "title": "GitHub 的优势",
-                "description": "GitHub 凭借其关键功能脱颖而出",
+                title: "GitHub 的优势",
+                description: "GitHub 凭借其关键功能脱颖而出",
                 "list": [
                     "ChornMetadata 控制",
                     "协作开发",
@@ -126,8 +126,8 @@ export const DevOpsZH: IDevOps = {
                 ]
             },
             {
-                "title": "挑战与解决方案",
-                "description": "GitHub 通过提供强大的版本控制和协作工具来应对开发工作流程的挑战，实现高效的项目管理。",
+                title: "挑战与解决方案",
+                description: "GitHub 通过提供强大的版本控制和协作工具来应对开发工作流程的挑战，实现高效的项目管理。",
                 "list": []
             }
         ],

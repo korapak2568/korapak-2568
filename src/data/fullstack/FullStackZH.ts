@@ -66,21 +66,21 @@ export const FullStackZH: IFullStack = {
         ],
     },
     go: {
-        "title": "GO",
-        "description": "Go，也称为Golang，是由谷歌设计的静态类型、编译型编程语言。它以简洁、高效和强大的并发支持而闻名，使其成为开发微服务的理想选择。",
+        title: "GO",
+        description: "Go，也称为Golang，是由谷歌设计的静态类型、编译型编程语言。它以简洁、高效和强大的并发支持而闻名，使其成为开发微服务的理想选择。",
         "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
         "alt": "代表Go编程语言的标志",
         "readMore": "探索更多Go全栈开发解决方案",
         "link": "/technical-expertise/full-stack-developer/go-developer",
         "features": [
             {
-                "title": "Go开发",
-                "description": "Go，也称为Golang，是由谷歌设计的静态类型、编译型编程语言。它以简洁、高效和强大的并发支持而闻名，使其成为开发微服务的理想选择。",
+                title: "Go开发",
+                description: "Go，也称为Golang，是由谷歌设计的静态类型、编译型编程语言。它以简洁、高效和强大的并发支持而闻名，使其成为开发微服务的理想选择。",
                 "list": []
             },
             {
-                "title": "高效并发",
-                "description": "Go的goroutines和channels为并发编程提供了强大的支持，使开发人员能够构建高效且可扩展的应用程序。这使得Go成为开发需要同时处理多个任务的微服务的首选语言。",
+                title: "高效并发",
+                description: "Go的goroutines和channels为并发编程提供了强大的支持，使开发人员能够构建高效且可扩展的应用程序。这使得Go成为开发需要同时处理多个任务的微服务的首选语言。",
                 "list": [
                     "并发编程",
                     "快速编译",
@@ -92,13 +92,13 @@ export const FullStackZH: IFullStack = {
                 ]
             },
             {
-                "title": "快速编译",
-                "description": "Go快速编译为机器代码，从而实现快速执行时间。这种效率，结合其垃圾回收和静态类型，确保Go应用程序即使在高负载下也能表现出色。",
+                title: "快速编译",
+                description: "Go快速编译为机器代码，从而实现快速执行时间。这种效率，结合其垃圾回收和静态类型，确保Go应用程序即使在高负载下也能表现出色。",
                 "list": []
             },
             {
-                "title": "互操作性",
-                "description": "Go的简洁性和清晰性使其易于与其他编程语言集成。这种互操作性使开发人员能够在应用程序的性能关键部分利用Go的优势，同时为不同的组件使用其他语言。",
+                title: "互操作性",
+                description: "Go的简洁性和清晰性使其易于与其他编程语言集成。这种互操作性使开发人员能够在应用程序的性能关键部分利用Go的优势，同时为不同的组件使用其他语言。",
                 "list": []
             }
         ],
@@ -259,21 +259,21 @@ export const FullStackZH: IFullStack = {
         ]
     },
     php: {
-        "title": "PHP",
-        "description": "PHP是一种广泛用于Web开发的流行服务器端脚本语言。像Symfony、Laravel、Phalcon等框架，以及像Twig这样的模板引擎，再加上WordPress及其无头变体等平台，通过提供结构化、高效且可扩展的解决方案来构建复杂的Web应用程序，从而提升了PHP开发水平。",
+        title: "PHP",
+        description: "PHP是一种广泛用于Web开发的流行服务器端脚本语言。像Symfony、Laravel、Phalcon等框架，以及像Twig这样的模板引擎，再加上WordPress及其无头变体等平台，通过提供结构化、高效且可扩展的解决方案来构建复杂的Web应用程序，从而提升了PHP开发水平。",
         "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
         "alt": "代表PHP编程语言的标志",
         "readMore": "探索更多PHP全栈开发解决方案",
         "link": "/technical-expertise/full-stack-developer/php-developer",
         "features": [
             {
-                "title": "PHP开发",
-                "description": "PHP是一种广泛用于Web开发的流行服务器端脚本语言。像Symfony、Laravel、Phalcon等框架，以及像Twig这样的模板引擎，再加上WordPress及其无头变体等平台，通过提供结构化、高效且可扩展的解决方案来构建复杂的Web应用程序，从而提升了PHP开发水平。",
+                title: "PHP开发",
+                description: "PHP是一种广泛用于Web开发的流行服务器端脚本语言。像Symfony、Laravel、Phalcon等框架，以及像Twig这样的模板引擎，再加上WordPress及其无头变体等平台，通过提供结构化、高效且可扩展的解决方案来构建复杂的Web应用程序，从而提升了PHP开发水平。",
                 "list": []
             },
             {
-                "title": "结构化开发",
-                "description": "Symfony和Laravel为PHP开发提供了结构化的方法，推广最佳实践和设计模式。Symfony提供了一套可重用的组件，而Laravel则专注于通过其优雅的语法和工具提高开发人员的生产力。Symfony中使用的模板引擎Twig提供了灵活、安全和快速的模板设计方式。Phalcon作为以C扩展形式提供的高性能框架，提供低级优化和卓越的速度，确保高效的资源管理。",
+                title: "结构化开发",
+                description: "Symfony和Laravel为PHP开发提供了结构化的方法，推广最佳实践和设计模式。Symfony提供了一套可重用的组件，而Laravel则专注于通过其优雅的语法和工具提高开发人员的生产力。Symfony中使用的模板引擎Twig提供了灵活、安全和快速的模板设计方式。Phalcon作为以C扩展形式提供的高性能框架，提供低级优化和卓越的速度，确保高效的资源管理。",
                 "list": [
                     "服务器端脚本",
                     "易于学习",
@@ -285,13 +285,13 @@ export const FullStackZH: IFullStack = {
                 ]
             },
             {
-                "title": "快速开发",
-                "description": "Laravel以其表达性语法和强大的工具而闻名，能够快速开发和部署Web应用程序。像Eloquent ORM、Blade模板引擎和Laravel Artisan命令行工具等功能简化了开发任务。Phalcon凭借其强大的性能和低级架构增强了快速开发。WordPress提供快速设置和大量插件和主题，使开发人员能够快速部署功能丰富的网站。无头WordPress将前端和后端分离，使用像React或Vue这样的现代JavaScript框架，实现动态和响应式的用户体验。",
+                title: "快速开发",
+                description: "Laravel以其表达性语法和强大的工具而闻名，能够快速开发和部署Web应用程序。像Eloquent ORM、Blade模板引擎和Laravel Artisan命令行工具等功能简化了开发任务。Phalcon凭借其强大的性能和低级架构增强了快速开发。WordPress提供快速设置和大量插件和主题，使开发人员能够快速部署功能丰富的网站。无头WordPress将前端和后端分离，使用像React或Vue这样的现代JavaScript框架，实现动态和响应式的用户体验。",
                 "list": []
             },
             {
-                "title": "社区和生态系统",
-                "description": "PHP拥有庞大的社区和丰富的库、插件和框架生态系统。Symfony和Laravel都受益于活跃的社区支持、广泛的文档和许多第三方包，使PHP开发高效愉快。Phalcon拥有不断增长的社区，并提供详细的文档和教程来帮助开发人员。WordPress拥有庞大的生态系统和大量用户基础，提供众多插件和主题，而无头WordPress则利用现代前端框架的灵活性，得到强大社区和资源的支持。",
+                title: "社区和生态系统",
+                description: "PHP拥有庞大的社区和丰富的库、插件和框架生态系统。Symfony和Laravel都受益于活跃的社区支持、广泛的文档和许多第三方包，使PHP开发高效愉快。Phalcon拥有不断增长的社区，并提供详细的文档和教程来帮助开发人员。WordPress拥有庞大的生态系统和大量用户基础，提供众多插件和主题，而无头WordPress则利用现代前端框架的灵活性，得到强大社区和资源的支持。",
                 "list": []
             }
         ],
@@ -311,21 +311,21 @@ export const FullStackZH: IFullStack = {
         ]
     },
     python: {
-        "title": "Python",
-        "description": "Python是一种高级解释型编程语言，以其简单性、可读性和多功能性而闻名。它被广泛应用于各个领域，从网络开发和数据分析到人工智能和科学计算。",
+        title: "Python",
+        description: "Python是一种高级解释型编程语言，以其简单性、可读性和多功能性而闻名。它被广泛应用于各个领域，从网络开发和数据分析到人工智能和科学计算。",
         "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
         "alt": "代表Python与Flask框架的标志",
         "readMore": "探索更多Python、Flask、Django全栈开发解决方案",
         "link": "/technical-expertise/full-stack-developer/python-developer",
         "features": [
             {
-                "title": "Python开发",
-                "description": "Python是一种高级解释型编程语言，以其简单性、可读性和多功能性而闻名。它被广泛应用于各个领域，从网络开发和数据分析到人工智能和科学计算。",
+                title: "Python开发",
+                description: "Python是一种高级解释型编程语言，以其简单性、可读性和多功能性而闻名。它被广泛应用于各个领域，从网络开发和数据分析到人工智能和科学计算。",
                 "list": []
             },
             {
-                "title": "易学易用",
-                "description": "Python的简单语法和可读性使其成为初学者和有经验的开发者的绝佳选择。其丰富的标准库和社区贡献的模块为各种任务提供了现成的解决方案。",
+                title: "易学易用",
+                description: "Python的简单语法和可读性使其成为初学者和有经验的开发者的绝佳选择。其丰富的标准库和社区贡献的模块为各种任务提供了现成的解决方案。",
                 "list": [
                     "易于学习",
                     "可读性强的语法",
@@ -337,13 +337,13 @@ export const FullStackZH: IFullStack = {
                 ]
             },
             {
-                "title": "多样化应用",
-                "description": "Python被用于多个领域，包括使用Django和Flask等框架进行网络开发，使用pandas和NumPy等库进行数据科学，以及使用TensorFlow和scikit-learn进行机器学习。这种多功能性使Python成为许多开发者的首选语言。",
+                title: "多样化应用",
+                description: "Python被用于多个领域，包括使用Django和Flask等框架进行网络开发，使用pandas和NumPy等库进行数据科学，以及使用TensorFlow和scikit-learn进行机器学习。这种多功能性使Python成为许多开发者的首选语言。",
                 "list": []
             },
             {
-                "title": "强大的社区支持",
-                "description": "Python拥有一个活跃的社区，不断为其发展做出贡献。随着众多教程、论坛和开源项目的可用，开发者可以轻松找到支持和资源来提高技能和解决挑战。",
+                title: "强大的社区支持",
+                description: "Python拥有一个活跃的社区，不断为其发展做出贡献。随着众多教程、论坛和开源项目的可用，开发者可以轻松找到支持和资源来提高技能和解决挑战。",
                 "list": []
             }
         ],

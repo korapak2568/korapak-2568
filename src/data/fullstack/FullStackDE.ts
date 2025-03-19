@@ -66,21 +66,21 @@ export const FullStackDE: IFullStack = {
         ],
     },
     go: {
-        "title": "GO",
-        "description": "Go, auch bekannt als Golang, ist eine statisch typisierte, kompilierte Programmiersprache, die von Google entwickelt wurde. Sie ist bekannt für ihre Einfachheit, Effizienz und starke Unterstützung für Nebenläufigkeit, was sie zur idealen Wahl für die Entwicklung von Microservices macht.",
+        title: "GO",
+        description: "Go, auch bekannt als Golang, ist eine statisch typisierte, kompilierte Programmiersprache, die von Google entwickelt wurde. Sie ist bekannt für ihre Einfachheit, Effizienz und starke Unterstützung für Nebenläufigkeit, was sie zur idealen Wahl für die Entwicklung von Microservices macht.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
         "alt": "Logo der Programmiersprache Go",
         "readMore": "Entdecken Sie weitere Full-Stack-Entwicklungslösungen mit Go",
         "link": "/technical-expertise/full-stack-developer/go-developer",
         "features": [
             {
-                "title": "Go-Entwicklung",
-                "description": "Go, auch bekannt als Golang, ist eine statisch typisierte, kompilierte Programmiersprache, die von Google entwickelt wurde. Sie ist bekannt für ihre Einfachheit, Effizienz und starke Unterstützung für Nebenläufigkeit, was sie zur idealen Wahl für die Entwicklung von Microservices macht.",
+                title: "Go-Entwicklung",
+                description: "Go, auch bekannt als Golang, ist eine statisch typisierte, kompilierte Programmiersprache, die von Google entwickelt wurde. Sie ist bekannt für ihre Einfachheit, Effizienz und starke Unterstützung für Nebenläufigkeit, was sie zur idealen Wahl für die Entwicklung von Microservices macht.",
                 "list": []
             },
             {
-                "title": "Effiziente Nebenläufigkeit",
-                "description": "Die Goroutinen und Channels von Go bieten robuste Unterstützung für nebenläufige Programmierung und ermöglichen Entwicklern, hocheffiziente und skalierbare Anwendungen zu erstellen. Dies macht Go zu einer bevorzugten Sprache für die Entwicklung von Microservices, die mehrere Aufgaben gleichzeitig bewältigen müssen.",
+                title: "Effiziente Nebenläufigkeit",
+                description: "Die Goroutinen und Channels von Go bieten robuste Unterstützung für nebenläufige Programmierung und ermöglichen Entwicklern, hocheffiziente und skalierbare Anwendungen zu erstellen. Dies macht Go zu einer bevorzugten Sprache für die Entwicklung von Microservices, die mehrere Aufgaben gleichzeitig bewältigen müssen.",
                 "list": [
                     "Nebenläufige Programmierung",
                     "Schnelle Kompilierung",
@@ -92,13 +92,13 @@ export const FullStackDE: IFullStack = {
                 ]
             },
             {
-                "title": "Schnelle Kompilierung",
-                "description": "Go kompiliert schnell zu Maschinencode, was zu schnellen Ausführungszeiten führt. Diese Effizienz, kombiniert mit der Garbage Collection und statischen Typisierung, stellt sicher, dass Go-Anwendungen auch unter hoher Last gut funktionieren.",
+                title: "Schnelle Kompilierung",
+                description: "Go kompiliert schnell zu Maschinencode, was zu schnellen Ausführungszeiten führt. Diese Effizienz, kombiniert mit der Garbage Collection und statischen Typisierung, stellt sicher, dass Go-Anwendungen auch unter hoher Last gut funktionieren.",
                 "list": []
             },
             {
-                "title": "Interoperabilität",
-                "description": "Die Einfachheit und Klarheit von Go macht es leicht, es mit anderen Programmiersprachen zu integrieren. Diese Interoperabilität ermöglicht es Entwicklern, die Stärken von Go in leistungskritischen Teilen einer Anwendung zu nutzen, während sie für verschiedene Komponenten andere Sprachen verwenden.",
+                title: "Interoperabilität",
+                description: "Die Einfachheit und Klarheit von Go macht es leicht, es mit anderen Programmiersprachen zu integrieren. Diese Interoperabilität ermöglicht es Entwicklern, die Stärken von Go in leistungskritischen Teilen einer Anwendung zu nutzen, während sie für verschiedene Komponenten andere Sprachen verwenden.",
                 "list": []
             }
         ],
@@ -259,21 +259,21 @@ export const FullStackDE: IFullStack = {
         ]
     },
     php: {
-        "title": "PHP",
-        "description": "PHP ist eine beliebte serverseitige Skriptsprache, die für die Webentwicklung weit verbreitet ist. Frameworks wie Symfony, Laravel, Phalcon und Template-Engines wie Twig, zusammen mit Plattformen wie WordPress und dessen Headless-Variante, haben die PHP-Entwicklung verbessert, indem sie strukturierte, effiziente und skalierbare Lösungen für den Aufbau komplexer Webanwendungen bieten.",
+        title: "PHP",
+        description: "PHP ist eine beliebte serverseitige Skriptsprache, die für die Webentwicklung weit verbreitet ist. Frameworks wie Symfony, Laravel, Phalcon und Template-Engines wie Twig, zusammen mit Plattformen wie WordPress und dessen Headless-Variante, haben die PHP-Entwicklung verbessert, indem sie strukturierte, effiziente und skalierbare Lösungen für den Aufbau komplexer Webanwendungen bieten.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
         "alt": "Logo, das die PHP-Programmiersprache repräsentiert",
         "readMore": "Entdecken Sie weitere PHP-Full-Stack-Entwicklungslösungen",
         "link": "/technical-expertise/full-stack-developer/php-developer",
         "features": [
             {
-                "title": "PHP-Entwicklung",
-                "description": "PHP ist eine beliebte serverseitige Skriptsprache, die für die Webentwicklung weit verbreitet ist. Frameworks wie Symfony, Laravel, Phalcon und Template-Engines wie Twig, zusammen mit Plattformen wie WordPress und dessen Headless-Variante, haben die PHP-Entwicklung verbessert, indem sie strukturierte, effiziente und skalierbare Lösungen für den Aufbau komplexer Webanwendungen bieten.",
+                title: "PHP-Entwicklung",
+                description: "PHP ist eine beliebte serverseitige Skriptsprache, die für die Webentwicklung weit verbreitet ist. Frameworks wie Symfony, Laravel, Phalcon und Template-Engines wie Twig, zusammen mit Plattformen wie WordPress und dessen Headless-Variante, haben die PHP-Entwicklung verbessert, indem sie strukturierte, effiziente und skalierbare Lösungen für den Aufbau komplexer Webanwendungen bieten.",
                 "list": []
             },
             {
-                "title": "Strukturierte Entwicklung",
-                "description": "Symfony und Laravel bieten einen strukturierten Ansatz für die PHP-Entwicklung und fördern Best Practices und Designmuster. Symfony bietet eine wiederverwendbare Sammlung von Komponenten, während Laravel sich auf die Produktivität der Entwickler mit seiner eleganten Syntax und seinen Tools konzentriert. Twig, die in Symfony verwendete Template-Engine, bietet eine flexible, sichere und schnelle Möglichkeit zur Gestaltung von Templates. Phalcon, ein leistungsstarkes Framework, das als C-Erweiterung geliefert wird, bietet Low-Level-Optimierung und außergewöhnliche Geschwindigkeit und sorgt für effizientes Ressourcenmanagement.",
+                title: "Strukturierte Entwicklung",
+                description: "Symfony und Laravel bieten einen strukturierten Ansatz für die PHP-Entwicklung und fördern Best Practices und Designmuster. Symfony bietet eine wiederverwendbare Sammlung von Komponenten, während Laravel sich auf die Produktivität der Entwickler mit seiner eleganten Syntax und seinen Tools konzentriert. Twig, die in Symfony verwendete Template-Engine, bietet eine flexible, sichere und schnelle Möglichkeit zur Gestaltung von Templates. Phalcon, ein leistungsstarkes Framework, das als C-Erweiterung geliefert wird, bietet Low-Level-Optimierung und außergewöhnliche Geschwindigkeit und sorgt für effizientes Ressourcenmanagement.",
                 "list": [
                     "Serverseitiges Scripting",
                     "Leicht zu erlernen",
@@ -285,13 +285,13 @@ export const FullStackDE: IFullStack = {
                 ]
             },
             {
-                "title": "Schnelle Entwicklung",
-                "description": "Laravel, bekannt für seine ausdrucksstarke Syntax und leistungsstarken Tools, ermöglicht die schnelle Entwicklung und Bereitstellung von Webanwendungen. Funktionen wie Eloquent ORM, die Blade-Template-Engine und das Laravel Artisan-Befehlszeilentool optimieren Entwicklungsaufgaben. Phalcon verbessert die schnelle Entwicklung mit seiner robusten Leistung und Low-Level-Architektur. WordPress bietet eine schnelle Einrichtung und eine Vielzahl von Plugins und Themes, die es Entwicklern ermöglichen, funktionsreiche Websites schnell bereitzustellen. Headless WordPress entkoppelt Frontend und Backend und ermöglicht die Verwendung moderner JavaScript-Frameworks wie React oder Vue für ein dynamisches und reaktionsfähiges Benutzererlebnis.",
+                title: "Schnelle Entwicklung",
+                description: "Laravel, bekannt für seine ausdrucksstarke Syntax und leistungsstarken Tools, ermöglicht die schnelle Entwicklung und Bereitstellung von Webanwendungen. Funktionen wie Eloquent ORM, die Blade-Template-Engine und das Laravel Artisan-Befehlszeilentool optimieren Entwicklungsaufgaben. Phalcon verbessert die schnelle Entwicklung mit seiner robusten Leistung und Low-Level-Architektur. WordPress bietet eine schnelle Einrichtung und eine Vielzahl von Plugins und Themes, die es Entwicklern ermöglichen, funktionsreiche Websites schnell bereitzustellen. Headless WordPress entkoppelt Frontend und Backend und ermöglicht die Verwendung moderner JavaScript-Frameworks wie React oder Vue für ein dynamisches und reaktionsfähiges Benutzererlebnis.",
                 "list": []
             },
             {
-                "title": "Community und Ökosystem",
-                "description": "PHP verfügt über eine große Community und ein reichhaltiges Ökosystem an Bibliotheken, Plugins und Frameworks. Sowohl Symfony als auch Laravel profitieren von aktiver Community-Unterstützung, umfangreicher Dokumentation und vielen Drittanbieter-Paketen, die die PHP-Entwicklung effizient und angenehm gestalten. Phalcon hat eine wachsende Community und bietet detaillierte Dokumentationen und Tutorials zur Unterstützung von Entwicklern. WordPress verfügt über ein umfangreiches Ökosystem mit einer großen Nutzerbasis und bietet zahlreiche Plugins und Themes, während Headless WordPress die Flexibilität moderner Frontend-Frameworks nutzt, unterstützt durch eine robuste Community und Ressourcen.",
+                title: "Community und Ökosystem",
+                description: "PHP verfügt über eine große Community und ein reichhaltiges Ökosystem an Bibliotheken, Plugins und Frameworks. Sowohl Symfony als auch Laravel profitieren von aktiver Community-Unterstützung, umfangreicher Dokumentation und vielen Drittanbieter-Paketen, die die PHP-Entwicklung effizient und angenehm gestalten. Phalcon hat eine wachsende Community und bietet detaillierte Dokumentationen und Tutorials zur Unterstützung von Entwicklern. WordPress verfügt über ein umfangreiches Ökosystem mit einer großen Nutzerbasis und bietet zahlreiche Plugins und Themes, während Headless WordPress die Flexibilität moderner Frontend-Frameworks nutzt, unterstützt durch eine robuste Community und Ressourcen.",
                 "list": []
             }
         ],
@@ -311,21 +311,21 @@ export const FullStackDE: IFullStack = {
         ]
     },
     python: {
-        "title": "Python",
-        "description": "Python ist eine interpretierte Programmiersprache auf hoher Ebene, die für ihre Einfachheit, Lesbarkeit und Vielseitigkeit bekannt ist. Sie wird in verschiedenen Bereichen eingesetzt, von der Webentwicklung und Datenanalyse bis hin zu künstlicher Intelligenz und wissenschaftlichem Rechnen.",
+        title: "Python",
+        description: "Python ist eine interpretierte Programmiersprache auf hoher Ebene, die für ihre Einfachheit, Lesbarkeit und Vielseitigkeit bekannt ist. Sie wird in verschiedenen Bereichen eingesetzt, von der Webentwicklung und Datenanalyse bis hin zu künstlicher Intelligenz und wissenschaftlichem Rechnen.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
         "alt": "Logo, das Python mit dem Flask-Framework darstellt",
         "readMore": "Entdecken Sie weitere Python-, Flask- und Django-Lösungen für Full-Stack-Entwicklung",
         "link": "/technical-expertise/full-stack-developer/python-developer",
         "features": [
             {
-                "title": "Python-Entwicklung",
-                "description": "Python ist eine interpretierte Programmiersprache auf hoher Ebene, die für ihre Einfachheit, Lesbarkeit und Vielseitigkeit bekannt ist. Sie wird in verschiedenen Bereichen eingesetzt, von der Webentwicklung und Datenanalyse bis hin zu künstlicher Intelligenz und wissenschaftlichem Rechnen.",
+                title: "Python-Entwicklung",
+                description: "Python ist eine interpretierte Programmiersprache auf hoher Ebene, die für ihre Einfachheit, Lesbarkeit und Vielseitigkeit bekannt ist. Sie wird in verschiedenen Bereichen eingesetzt, von der Webentwicklung und Datenanalyse bis hin zu künstlicher Intelligenz und wissenschaftlichem Rechnen.",
                 "list": []
             },
             {
-                "title": "Leicht zu erlernen und zu verwenden",
-                "description": "Pythons einfache Syntax und Lesbarkeit machen es zu einer ausgezeichneten Wahl für Anfänger und erfahrene Entwickler gleichermaßen. Seine umfangreiche Standardbibliothek und von der Community beigesteuerte Module bieten sofort einsatzbereite Lösungen für eine Vielzahl von Aufgaben.",
+                title: "Leicht zu erlernen und zu verwenden",
+                description: "Pythons einfache Syntax und Lesbarkeit machen es zu einer ausgezeichneten Wahl für Anfänger und erfahrene Entwickler gleichermaßen. Seine umfangreiche Standardbibliothek und von der Community beigesteuerte Module bieten sofort einsatzbereite Lösungen für eine Vielzahl von Aufgaben.",
                 "list": [
                     "Leicht zu erlernen",
                     "Lesbare Syntax",
@@ -337,13 +337,13 @@ export const FullStackDE: IFullStack = {
                 ]
             },
             {
-                "title": "Vielseitige Anwendungen",
-                "description": "Python wird in verschiedenen Bereichen eingesetzt, darunter Webentwicklung mit Frameworks wie Django und Flask, Datenwissenschaft mit Bibliotheken wie pandas und NumPy sowie maschinelles Lernen mit TensorFlow und scikit-learn. Diese Vielseitigkeit macht Python zu einer bevorzugten Sprache für viele Entwickler.",
+                title: "Vielseitige Anwendungen",
+                description: "Python wird in verschiedenen Bereichen eingesetzt, darunter Webentwicklung mit Frameworks wie Django und Flask, Datenwissenschaft mit Bibliotheken wie pandas und NumPy sowie maschinelles Lernen mit TensorFlow und scikit-learn. Diese Vielseitigkeit macht Python zu einer bevorzugten Sprache für viele Entwickler.",
                 "list": []
             },
             {
-                "title": "Starke Community-Unterstützung",
-                "description": "Python hat eine lebendige und aktive Community, die kontinuierlich zu seinem Wachstum beiträgt. Mit zahlreichen Tutorials, Foren und Open-Source-Projekten können Entwickler leicht Unterstützung und Ressourcen finden, um ihre Fähigkeiten zu verbessern und Herausforderungen zu lösen.",
+                title: "Starke Community-Unterstützung",
+                description: "Python hat eine lebendige und aktive Community, die kontinuierlich zu seinem Wachstum beiträgt. Mit zahlreichen Tutorials, Foren und Open-Source-Projekten können Entwickler leicht Unterstützung und Ressourcen finden, um ihre Fähigkeiten zu verbessern und Herausforderungen zu lösen.",
                 "list": []
             }
         ],

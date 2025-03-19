@@ -7,7 +7,7 @@ export const AboutVI: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN được phát triển vào tháng 3 năm 2023 để thể hiện chuyên môn về công nghệ, phát triển phần mềm và phát triển trang web bởi Khachornchit, người có nền tảng kỹ thuật điện từ Đại học Chiang Mai và hơn 20 năm kinh nghiệm về phát triển phần mềm và trang web với các framework khác nhau, phát triển frontend, backend, API và full-stack. Anh có kinh nghiệm về kiến trúc hệ thống, QA, kiểm thử, phân tích hệ thống, DevOps, tích hợp LLM/AI, triển khai hệ thống đám mây và hệ thống quy mô lớn để thúc đẩy tăng trưởng kinh doanh với các giải pháp có khả năng mở rộng và tập trung vào khách hàng. Dịch vụ được cung cấp từ xa, kết hợp, tại Chiang Mai, Bangkok, Thái Lan và quốc tế."
+            description: "CHORN được phát triển vào tháng 3 năm 2023 để thể hiện chuyên môn về công nghệ, phát triển phần mềm và phát triển trang web bởi K.Khachornchit, người có nền tảng kỹ thuật điện từ Đại học Chiang Mai và hơn 20 năm kinh nghiệm về phát triển phần mềm và trang web với các framework khác nhau, phát triển frontend, backend, API và full-stack. Anh có kinh nghiệm về kiến trúc hệ thống, QA, kiểm thử, phân tích hệ thống, DevOps, tích hợp LLM/AI, triển khai hệ thống đám mây và hệ thống quy mô lớn để thúc đẩy tăng trưởng kinh doanh với các giải pháp có khả năng mở rộng và tập trung vào khách hàng. Dịch vụ được cung cấp từ xa, kết hợp, tại Chiang Mai, Bangkok, Thái Lan và quốc tế."
         }
     ],
     stacks: [

@@ -7,22 +7,21 @@ import Footer from "@/components/Layouts/Footer";
 import SubscribeForm from "@/components/Common/SubscribeForm";
 import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 export default function Page() {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[currentTranslate.value].PrivacyPolicy.title}/>
+            <PageBanner pageTitle={InfoTranslation[locale.value].PrivacyPolicy.title}/>
 
             <div className="privacy-policy-area ptb-100">
                 <div className="container">
                     <div className="privacy-content">
-                        {InfoTranslation[currentTranslate.value].PrivacyPolicy.list.map((item: IPolicyContent, iItem: number) => (
+                        {InfoTranslation[locale.value].PrivacyPolicy.list.map((item: IPolicyContent, iItem: number) => (
                             <div key={iItem} className="addition-ptb-20">
                                 <h3>{item.title}</h3>
 

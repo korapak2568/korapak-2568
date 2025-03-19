@@ -6,11 +6,10 @@ import React from "react";
 import Image from "next/image";
 import {Info} from "@/data/info/Info";
 import Link from "next/link";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const AiFahLandingPage: React.FC = () => {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
@@ -33,7 +32,7 @@ const AiFahLandingPage: React.FC = () => {
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={'/' + currentTranslate.value + Info.AiCompanions.fah.english.line.link}
+                                            <a href={'/' + locale.value + Info.AiCompanions.fah.english.line.link}
                                                target={'_blank'}>
                                                 <Image
                                                     src={Info.AiCompanions.fah.english.line.button}
@@ -74,7 +73,7 @@ const AiFahLandingPage: React.FC = () => {
                                     ))}
 
                                     {Info.AiCompanions.landing.fah.relevants.map((ai, index) => (
-                                        <Link key={index} href={'/' + currentTranslate.value + ai.pages.landing.link}>
+                                        <Link key={index} href={'/' + locale.value + ai.pages.landing.link}>
                                             <li className="li-sidebar-relevant">
                                                 <Image
                                                     src={ai.thumbnail}

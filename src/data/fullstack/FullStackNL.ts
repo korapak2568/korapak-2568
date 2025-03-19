@@ -66,21 +66,21 @@ export const FullStackNL: IFullStack = {
         ],
     },
     go: {
-        "title": "GO",
-        "description": "Go, ook bekend als Golang, is een statisch getypeerde, gecompileerde programmeertaal ontworpen door Google. Het staat bekend om zijn eenvoud, efficiëntie en sterke ondersteuning voor gelijktijdigheid, waardoor het een ideale keuze is voor het ontwikkelen van microservices.",
+        title: "GO",
+        description: "Go, ook bekend als Golang, is een statisch getypeerde, gecompileerde programmeertaal ontworpen door Google. Het staat bekend om zijn eenvoud, efficiëntie en sterke ondersteuning voor gelijktijdigheid, waardoor het een ideale keuze is voor het ontwikkelen van microservices.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
         "alt": "Logo dat de programmeertaal Go vertegenwoordigt",
         "readMore": "Ontdek meer full-stack ontwikkelingsoplossingen met Go",
         "link": "/technical-expertise/full-stack-developer/go-developer",
         "features": [
             {
-                "title": "Go-ontwikkeling",
-                "description": "Go, ook bekend als Golang, is een statisch getypeerde, gecompileerde programmeertaal ontworpen door Google. Het staat bekend om zijn eenvoud, efficiëntie en sterke ondersteuning voor gelijktijdigheid, waardoor het een ideale keuze is voor het ontwikkelen van microservices.",
+                title: "Go-ontwikkeling",
+                description: "Go, ook bekend als Golang, is een statisch getypeerde, gecompileerde programmeertaal ontworpen door Google. Het staat bekend om zijn eenvoud, efficiëntie en sterke ondersteuning voor gelijktijdigheid, waardoor het een ideale keuze is voor het ontwikkelen van microservices.",
                 "list": []
             },
             {
-                "title": "Efficiënte gelijktijdigheid",
-                "description": "Go's goroutines en channels bieden robuuste ondersteuning voor gelijktijdige programmering, waardoor ontwikkelaars zeer efficiënte en schaalbare applicaties kunnen bouwen. Dit maakt Go een voorkeurtaal voor het ontwikkelen van microservices die meerdere taken tegelijkertijd moeten afhandelen.",
+                title: "Efficiënte gelijktijdigheid",
+                description: "Go's goroutines en channels bieden robuuste ondersteuning voor gelijktijdige programmering, waardoor ontwikkelaars zeer efficiënte en schaalbare applicaties kunnen bouwen. Dit maakt Go een voorkeurtaal voor het ontwikkelen van microservices die meerdere taken tegelijkertijd moeten afhandelen.",
                 "list": [
                     "Gelijktijdige programmering",
                     "Snelle compilatie",
@@ -92,13 +92,13 @@ export const FullStackNL: IFullStack = {
                 ]
             },
             {
-                "title": "Snelle compilatie",
-                "description": "Go compileert snel naar machinecode, wat resulteert in snelle uitvoeringstijden. Deze efficiëntie, gecombineerd met garbage collection en statische typering, zorgt ervoor dat Go-applicaties goed presteren, zelfs onder zware belasting.",
+                title: "Snelle compilatie",
+                description: "Go compileert snel naar machinecode, wat resulteert in snelle uitvoeringstijden. Deze efficiëntie, gecombineerd met garbage collection en statische typering, zorgt ervoor dat Go-applicaties goed presteren, zelfs onder zware belasting.",
                 "list": []
             },
             {
-                "title": "Interoperabiliteit",
-                "description": "De eenvoud en duidelijkheid van Go maken het gemakkelijk te integreren met andere programmeertalen. Deze interoperabiliteit stelt ontwikkelaars in staat om de sterke punten van Go te benutten in prestatie-kritische delen van een applicatie, terwijl ze andere talen gebruiken voor verschillende componenten.",
+                title: "Interoperabiliteit",
+                description: "De eenvoud en duidelijkheid van Go maken het gemakkelijk te integreren met andere programmeertalen. Deze interoperabiliteit stelt ontwikkelaars in staat om de sterke punten van Go te benutten in prestatie-kritische delen van een applicatie, terwijl ze andere talen gebruiken voor verschillende componenten.",
                 "list": []
             }
         ],
@@ -259,21 +259,21 @@ export const FullStackNL: IFullStack = {
         ]
     },
     php: {
-        "title": "PHP",
-        "description": "PHP is een populaire server-side scripttaal die veel wordt gebruikt voor webontwikkeling. Frameworks zoals Symfony, Laravel, Phalcon, en template engines zoals Twig, samen met platforms zoals WordPress en de headless variant ervan, hebben PHP-ontwikkeling naar een hoger niveau getild door gestructureerde, efficiënte en schaalbare oplossingen te bieden voor het bouwen van complexe webapplicaties.",
+        title: "PHP",
+        description: "PHP is een populaire server-side scripttaal die veel wordt gebruikt voor webontwikkeling. Frameworks zoals Symfony, Laravel, Phalcon, en template engines zoals Twig, samen met platforms zoals WordPress en de headless variant ervan, hebben PHP-ontwikkeling naar een hoger niveau getild door gestructureerde, efficiënte en schaalbare oplossingen te bieden voor het bouwen van complexe webapplicaties.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
         "alt": "Logo dat de PHP-programmeertaal vertegenwoordigt",
         "readMore": "Ontdek meer PHP full-stack ontwikkelingsoplossingen",
         "link": "/technical-expertise/full-stack-developer/php-developer",
         "features": [
             {
-                "title": "PHP-ontwikkeling",
-                "description": "PHP is een populaire server-side scripttaal die veel wordt gebruikt voor webontwikkeling. Frameworks zoals Symfony, Laravel, Phalcon, en template engines zoals Twig, samen met platforms zoals WordPress en de headless variant ervan, hebben PHP-ontwikkeling naar een hoger niveau getild door gestructureerde, efficiënte en schaalbare oplossingen te bieden voor het bouwen van complexe webapplicaties.",
+                title: "PHP-ontwikkeling",
+                description: "PHP is een populaire server-side scripttaal die veel wordt gebruikt voor webontwikkeling. Frameworks zoals Symfony, Laravel, Phalcon, en template engines zoals Twig, samen met platforms zoals WordPress en de headless variant ervan, hebben PHP-ontwikkeling naar een hoger niveau getild door gestructureerde, efficiënte en schaalbare oplossingen te bieden voor het bouwen van complexe webapplicaties.",
                 "list": []
             },
             {
-                "title": "Gestructureerde Ontwikkeling",
-                "description": "Symfony en Laravel bieden een gestructureerde benadering van PHP-ontwikkeling, met bevordering van best practices en ontwerppatronen. Symfony biedt een herbruikbare set componenten, terwijl Laravel zich richt op ontwikkelaarsproductiviteit met zijn elegante syntax en tools. Twig, de template engine die in Symfony wordt gebruikt, biedt een flexibele, veilige en snelle manier om templates te ontwerpen. Phalcon, een high-performance framework dat als C-extensie wordt geleverd, biedt low-level optimalisatie en uitzonderlijke snelheid, waardoor efficiënt middelenbeheer wordt gegarandeerd.",
+                title: "Gestructureerde Ontwikkeling",
+                description: "Symfony en Laravel bieden een gestructureerde benadering van PHP-ontwikkeling, met bevordering van best practices en ontwerppatronen. Symfony biedt een herbruikbare set componenten, terwijl Laravel zich richt op ontwikkelaarsproductiviteit met zijn elegante syntax en tools. Twig, de template engine die in Symfony wordt gebruikt, biedt een flexibele, veilige en snelle manier om templates te ontwerpen. Phalcon, een high-performance framework dat als C-extensie wordt geleverd, biedt low-level optimalisatie en uitzonderlijke snelheid, waardoor efficiënt middelenbeheer wordt gegarandeerd.",
                 "list": [
                     "Server-side scripting",
                     "Gemakkelijk te leren",
@@ -285,13 +285,13 @@ export const FullStackNL: IFullStack = {
                 ]
             },
             {
-                "title": "Snelle Ontwikkeling",
-                "description": "Laravel, bekend om zijn expressieve syntax en krachtige tools, maakt snelle ontwikkeling en implementatie van webapplicaties mogelijk. Functies zoals Eloquent ORM, Blade template engine en Laravel Artisan command-line tool stroomlijnen ontwikkelingstaken. Phalcon versterkt snelle ontwikkeling met zijn robuuste prestaties en low-level architectuur. WordPress biedt een snelle setup en een groot aantal plugins en thema's, waardoor ontwikkelaars snel functierijke websites kunnen implementeren. Headless WordPress ontkoppelt de front-end en back-end, waardoor het gebruik van moderne JavaScript-frameworks zoals React of Vue mogelijk wordt voor een dynamische en responsieve gebruikerservaring.",
+                title: "Snelle Ontwikkeling",
+                description: "Laravel, bekend om zijn expressieve syntax en krachtige tools, maakt snelle ontwikkeling en implementatie van webapplicaties mogelijk. Functies zoals Eloquent ORM, Blade template engine en Laravel Artisan command-line tool stroomlijnen ontwikkelingstaken. Phalcon versterkt snelle ontwikkeling met zijn robuuste prestaties en low-level architectuur. WordPress biedt een snelle setup en een groot aantal plugins en thema's, waardoor ontwikkelaars snel functierijke websites kunnen implementeren. Headless WordPress ontkoppelt de front-end en back-end, waardoor het gebruik van moderne JavaScript-frameworks zoals React of Vue mogelijk wordt voor een dynamische en responsieve gebruikerservaring.",
                 "list": []
             },
             {
-                "title": "Community en Ecosysteem",
-                "description": "PHP heeft een enorme community en een rijk ecosysteem van bibliotheken, plugins en frameworks. Zowel Symfony als Laravel profiteren van actieve community-ondersteuning, uitgebreide documentatie en vele pakketten van derden, waardoor PHP-ontwikkeling efficiënt en plezierig wordt. Phalcon heeft een groeiende gemeenschap en biedt gedetailleerde documentatie en tutorials om ontwikkelaars te ondersteunen. WordPress beschikt over een uitgebreid ecosysteem met een grote gebruikersbasis, die talrijke plugins en thema's biedt, terwijl Headless WordPress de flexibiliteit van moderne front-end frameworks benut, ondersteund door een robuuste gemeenschap en hulpbronnen.",
+                title: "Community en Ecosysteem",
+                description: "PHP heeft een enorme community en een rijk ecosysteem van bibliotheken, plugins en frameworks. Zowel Symfony als Laravel profiteren van actieve community-ondersteuning, uitgebreide documentatie en vele pakketten van derden, waardoor PHP-ontwikkeling efficiënt en plezierig wordt. Phalcon heeft een groeiende gemeenschap en biedt gedetailleerde documentatie en tutorials om ontwikkelaars te ondersteunen. WordPress beschikt over een uitgebreid ecosysteem met een grote gebruikersbasis, die talrijke plugins en thema's biedt, terwijl Headless WordPress de flexibiliteit van moderne front-end frameworks benut, ondersteund door een robuuste gemeenschap en hulpbronnen.",
                 "list": []
             }
         ],
@@ -311,21 +311,21 @@ export const FullStackNL: IFullStack = {
         ]
     },
     python: {
-        "title": "Python",
-        "description": "Python is een geïnterpreteerde programmeertaal op hoog niveau die bekend staat om zijn eenvoud, leesbaarheid en veelzijdigheid. Het wordt breed gebruikt in verschillende domeinen, van webontwikkeling en gegevensanalyse tot kunstmatige intelligentie en wetenschappelijk rekenen.",
+        title: "Python",
+        description: "Python is een geïnterpreteerde programmeertaal op hoog niveau die bekend staat om zijn eenvoud, leesbaarheid en veelzijdigheid. Het wordt breed gebruikt in verschillende domeinen, van webontwikkeling en gegevensanalyse tot kunstmatige intelligentie en wetenschappelijk rekenen.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
         "alt": "Logo dat Python met Flask-framework vertegenwoordigt",
         "readMore": "Ontdek meer Python, Flask, Django full-stack ontwikkelingsoplossingen",
         "link": "/technical-expertise/full-stack-developer/python-developer",
         "features": [
             {
-                "title": "Python-ontwikkeling",
-                "description": "Python is een geïnterpreteerde programmeertaal op hoog niveau die bekend staat om zijn eenvoud, leesbaarheid en veelzijdigheid. Het wordt breed gebruikt in verschillende domeinen, van webontwikkeling en gegevensanalyse tot kunstmatige intelligentie en wetenschappelijk rekenen.",
+                title: "Python-ontwikkeling",
+                description: "Python is een geïnterpreteerde programmeertaal op hoog niveau die bekend staat om zijn eenvoud, leesbaarheid en veelzijdigheid. Het wordt breed gebruikt in verschillende domeinen, van webontwikkeling en gegevensanalyse tot kunstmatige intelligentie en wetenschappelijk rekenen.",
                 "list": []
             },
             {
-                "title": "Gemakkelijk te leren en te gebruiken",
-                "description": "Python's eenvoudige syntaxis en leesbaarheid maken het een uitstekende keuze voor zowel beginners als ervaren ontwikkelaars. De uitgebreide standaardbibliotheek en door de gemeenschap bijgedragen modules bieden kant-en-klare oplossingen voor een breed scala aan taken.",
+                title: "Gemakkelijk te leren en te gebruiken",
+                description: "Python's eenvoudige syntaxis en leesbaarheid maken het een uitstekende keuze voor zowel beginners als ervaren ontwikkelaars. De uitgebreide standaardbibliotheek en door de gemeenschap bijgedragen modules bieden kant-en-klare oplossingen voor een breed scala aan taken.",
                 "list": [
                     "Gemakkelijk te leren",
                     "Leesbare syntaxis",
@@ -337,13 +337,13 @@ export const FullStackNL: IFullStack = {
                 ]
             },
             {
-                "title": "Veelzijdige toepassingen",
-                "description": "Python wordt gebruikt in diverse vakgebieden, waaronder webontwikkeling met frameworks zoals Django en Flask, datawetenschappen met bibliotheken zoals pandas en NumPy, en machine learning met TensorFlow en scikit-learn. Deze veelzijdigheid maakt Python een go-to taal voor veel ontwikkelaars.",
+                title: "Veelzijdige toepassingen",
+                description: "Python wordt gebruikt in diverse vakgebieden, waaronder webontwikkeling met frameworks zoals Django en Flask, datawetenschappen met bibliotheken zoals pandas en NumPy, en machine learning met TensorFlow en scikit-learn. Deze veelzijdigheid maakt Python een go-to taal voor veel ontwikkelaars.",
                 "list": []
             },
             {
-                "title": "Sterke ondersteuning van de gemeenschap",
-                "description": "Python heeft een levendige en actieve gemeenschap die voortdurend bijdraagt aan de groei ervan. Met talrijke tutorials, forums en open-source projecten beschikbaar, kunnen ontwikkelaars gemakkelijk ondersteuning en middelen vinden om hun vaardigheden te verbeteren en uitdagingen op te lossen.",
+                title: "Sterke ondersteuning van de gemeenschap",
+                description: "Python heeft een levendige en actieve gemeenschap die voortdurend bijdraagt aan de groei ervan. Met talrijke tutorials, forums en open-source projecten beschikbaar, kunnen ontwikkelaars gemakkelijk ondersteuning en middelen vinden om hun vaardigheden te verbeteren en uitdagingen op te lossen.",
                 "list": []
             }
         ],

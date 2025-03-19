@@ -8,17 +8,17 @@ import {INavbar} from "@/data/navbar/model/INavbar";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {Globe} from "lucide-react";
 import {ITranslate} from "@/data/translate/model/ITranslate";
-import {useDispatch, useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
+import {useDispatch} from "react-redux";
 import {setTranslate} from "@/redux/serviceSlice";
 import {useRouter} from "next/navigation";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const Navbar: React.FC = () => {
     const router = useRouter();
     const [menu, setMenu] = useState(true);
     const [isLanguageMenuOpen, setIsLanguageMenuOpen] = useState(false);
     const dispatch = useDispatch();
-    const currentTranslate = useSelector((state: RootState) => state.service.translate)
+    const locale = useLocale()
 
     const toggleNavbar = () => {
         setMenu(!menu);
@@ -39,7 +39,7 @@ const Navbar: React.FC = () => {
     }
 
     const isActiveTranslate = (translate: ITranslate) => {
-        return translate.value == currentTranslate.value;
+        return translate.value == locale.value;
     }
 
     useEffect(() => {
@@ -69,8 +69,8 @@ const Navbar: React.FC = () => {
                         <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/" className="navbar-brand add-navbar-logo">
                                 <Image
-                                    src={InfoTranslation[currentTranslate.value].Images.logo.rec.sm.path}
-                                    alt={InfoTranslation[currentTranslate.value].Images.logo.rec.sm.title}
+                                    src={InfoTranslation[locale.value].Images.logo.rec.sm.path}
+                                    alt={InfoTranslation[locale.value].Images.logo.rec.sm.title}
                                     width={150}
                                     height={75}
                                 />
@@ -84,12 +84,12 @@ const Navbar: React.FC = () => {
                                     aria-label="Select language"
                                 >
                                     <Globe size={16} color="white" style={{marginRight: "5px"}}/>
-                                    {currentTranslate.label}
+                                    {locale.label}
                                 </button>
                                 {
                                     isLanguageMenuOpen &&
                                     <ul className="dropdown-langs">
-                                        {InfoTranslation[currentTranslate.value].Translates.map((translate, index) =>
+                                        {InfoTranslation[locale.value].Translates.map((translate, index) =>
                                             <li key={index}
                                                 className={isActiveTranslate(translate) ? 'dropdown-active' : ''}
                                                 onClick={() => changeLanguage(translate)}
@@ -117,7 +117,7 @@ const Navbar: React.FC = () => {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
-                                    {InfoTranslation[currentTranslate.value].Navbar.map((menuItem: INavbar, index) => (
+                                    {InfoTranslation[locale.value].Navbar.map((menuItem: INavbar, index) => (
                                         <MenuItem key={index} {...menuItem} />
                                     ))}
                                 </ul>

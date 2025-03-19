@@ -7,7 +7,7 @@ export const AboutDA: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN blev udviklet i marts 2023 for at demonstrere ekspertise inden for teknologi, softwareudvikling og webstedsudvikling af Khachornchit, som har en baggrund i elektroingeniørvidenskab fra Chiang Mai University og over 20 års erfaring med software- og webstedsudvikling med forskellige frameworks, frontend-, backend-, API- og full-stack-udvikling. Han har erfaring med systemarkitektur, kvalitetssikring, test, systemanalyse, DevOps, LLM/AI-integration, cloud-systemimplementering og storskala-systemer til at drive forretningsvækst med skalerbare og kundefokuserede løsninger. Tjenester leveres via fjernarbejde, hybrid, i Chiang Mai, Bangkok, Thailand og internationalt."
+            description: "CHORN blev udviklet i marts 2023 for at demonstrere ekspertise inden for teknologi, softwareudvikling og webstedsudvikling af K.Khachornchit, som har en baggrund i elektroingeniørvidenskab fra Chiang Mai University og over 20 års erfaring med software- og webstedsudvikling med forskellige frameworks, frontend-, backend-, API- og full-stack-udvikling. Han har erfaring med systemarkitektur, kvalitetssikring, test, systemanalyse, DevOps, LLM/AI-integration, cloud-systemimplementering og storskala-systemer til at drive forretningsvækst med skalerbare og kundefokuserede løsninger. Tjenester leveres via fjernarbejde, hybrid, i Chiang Mai, Bangkok, Thailand og internationalt."
         }
     ],
     stacks: [

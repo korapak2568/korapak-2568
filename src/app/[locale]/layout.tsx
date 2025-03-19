@@ -1,4 +1,5 @@
-// src/app/layout.tsx
+// src/app/[locale]/layout.tsx
+
 import "@/styles/bootstrap.min.css";
 import "@/styles/animate.css";
 import "@/styles/boxicons.min.css";
@@ -19,14 +20,17 @@ import GoTop from "@/components/Layouts/GoTop";
 import React from "react";
 import ProviderWrapper from "../../components/ProviderWrapper/ProviderWrapper";
 import ConsentModal from "@/components/Consent/ConsentModal";
+import {headers} from "next/headers";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
-        <html lang="en">
+        <html lang={locale}>
         <body className={dm_sans.className}>
-        <ProviderWrapper>
+        <ProviderWrapper locale={locale}>
             <ConsentModal/>
             {children}
         </ProviderWrapper>

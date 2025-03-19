@@ -1,12 +1,11 @@
 "use client"
 
 import React from "react";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 export default function Left() {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <div className="col-lg-6">
@@ -18,13 +17,13 @@ export default function Left() {
                     data-aos-once="true"
                     className={"mb-4"}
                     dangerouslySetInnerHTML={
-                        {__html: InfoTranslation[currentTranslate.value].Service.description} as { __html: string }
+                        {__html: InfoTranslation[locale.value].Service.description} as { __html: string }
                     }
                 />
 
                 <div className={"add-web-content"}>
                     <ul>
-                        {InfoTranslation[currentTranslate.value].Service.services.map((service, index) => (
+                        {InfoTranslation[locale.value].Service.services.map((service, index) => (
                             <li key={index}>
                                 <strong>{service.title}</strong> {service.description}
                             </li>

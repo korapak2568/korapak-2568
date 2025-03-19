@@ -1,4 +1,4 @@
-// src/app/HomeAiSolutionBanner.tsx
+// src/app/[locale]/page.tsx
 
 import Navbar from "../../components/Layouts/Navbar";
 import Features from "../../components/Index/Features";
@@ -13,11 +13,10 @@ import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkup
 import type {Metadata} from "next";
 import FlexibleWorkspace from "@/components/Gallery/FlexibleWorkspace";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
-import {ITranslationProps} from "@/props/ITranslationProps";
 
 export const metadata: Metadata = ChornMetadata.home
 
-export default function Home({params}: ITranslationProps) {
+export default function Home() {
     const localBusinessSchema = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",

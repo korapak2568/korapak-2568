@@ -7,7 +7,7 @@ export const AboutEN: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN was developed in March 2023 to demonstrate expertise in technology, software development, and website development by Khachornchit, who has a background in electrical engineering from Chiang Mai University and over 20 years of experience in software and website development with various frameworks, frontend, backend, API, and full-stack development. He has experience in system architecture, QA, testing, system analysis, DevOps, LLM/AI integration, cloud system implementation, and large-scale systems to drive business growth with scalable and customer-focused solutions. Services are provided remotely, hybrid, in Chiang Mai, Bangkok, Thailand, and internationally."
+            description: "CHORN was developed in March 2023 to demonstrate expertise in technology, software development, and website development by K.Khachornchit, who has a background in electrical engineering from Chiang Mai University and over 20 years of experience in software and website development with various frameworks, frontend, backend, API, and full-stack development. He has experience in system architecture, QA, testing, system analysis, DevOps, LLM/AI integration, cloud system implementation, and large-scale systems to drive business growth with scalable and customer-focused solutions. Services are provided remotely, hybrid, in Chiang Mai, Bangkok, Thailand, and internationally."
         }
     ],
     stacks: [

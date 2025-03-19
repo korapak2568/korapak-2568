@@ -4,16 +4,15 @@ import Image from "next/image";
 import React from "react";
 import {Info} from "@/data/info/Info";
 import Link from "next/link";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 export default function Right() {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <div className="col-lg-6">
             <div className="main-banner-image">
-                <Link href={'/' + currentTranslate.value + Info.AiCompanions.fah.english.pages.landing.link}>
+                <Link href={'/' + locale.value + Info.AiCompanions.fah.english.pages.landing.link}>
                     <Image
                         src={Info.AiCompanions.fah.english.pages.home.image.path}
                         alt="image"

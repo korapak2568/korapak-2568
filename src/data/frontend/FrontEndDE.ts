@@ -6,21 +6,21 @@ export const FrontEndDE: IFrontEnd = {
     subTitle: "",
 
     angular: {
-        "title": "Angular",
-        "description": "Entwickeln Sie robuste, unternehmenstaugliche Webanwendungen mit dem umfassenden und vielseitigen Framework von Angular.",
+        title: "Angular",
+        description: "Entwickeln Sie robuste, unternehmenstaugliche Webanwendungen mit dem umfassenden und vielseitigen Framework von Angular.",
         "image": "/chorn-images/technical-expertise/front-end-developer/angular-developer.webp",
         "alt": "Logo, das das Angular-Framework repräsentiert",
         "readMore": "Entdecken Sie weitere Angular-Frontend-Entwicklungslösungen",
         "link": "/technical-expertise/front-end-developer/angular-developer",
         "features": [
             {
-                "title": "Angular-Entwicklung",
-                "description": "Angular ist ein leistungsstarkes Webanwendungs-Framework, das von Google entwickelt wurde. Es erleichtert die Erstellung dynamischer Single-Page-Anwendungen mit seinem umfassenden Toolset und der MVC-Architektur.",
+                title: "Angular-Entwicklung",
+                description: "Angular ist ein leistungsstarkes Webanwendungs-Framework, das von Google entwickelt wurde. Es erleichtert die Erstellung dynamischer Single-Page-Anwendungen mit seinem umfassenden Toolset und der MVC-Architektur.",
                 "list": []
             },
             {
-                "title": "Stärken von Angular",
-                "description": "Angular zeichnet sich durch seine robuste Architektur und reichhaltigen Funktionen aus.",
+                title: "Stärken von Angular",
+                description: "Angular zeichnet sich durch seine robuste Architektur und reichhaltigen Funktionen aus.",
                 "list": [
                     "Zwei-Wege-Datenbindung",
                     "Dependency Injection",
@@ -32,8 +32,8 @@ export const FrontEndDE: IFrontEnd = {
                 ]
             },
             {
-                "title": "Herausforderungen und Lösungen",
-                "description": "Angular bewältigt Komplexitäten in großen Anwendungen mit einer starken Architektur, effizienter Datenbindung und Dependency Injection.",
+                title: "Herausforderungen und Lösungen",
+                description: "Angular bewältigt Komplexitäten in großen Anwendungen mit einer starken Architektur, effizienter Datenbindung und Dependency Injection.",
                 "list": []
             }
         ],
@@ -53,21 +53,21 @@ export const FrontEndDE: IFrontEnd = {
         ]
     },
     css3: {
-        "title": "CSS3",
-        "description": "Verbessern Sie das Aussehen Ihrer Website mit fortschrittlichen Styling-Techniken unter Verwendung von CSS3.",
+        title: "CSS3",
+        description: "Verbessern Sie das Aussehen Ihrer Website mit fortschrittlichen Styling-Techniken unter Verwendung von CSS3.",
         "image": "/chorn-images/technical-expertise/front-end-developer/css3-developer.webp",
         "alt": "Logo, das die CSS3-Technologie repräsentiert",
         "readMore": "Entdecken Sie weitere CSS3-Frontend-Entwicklungslösungen",
         "link": "/technical-expertise/front-end-developer/css3-developer",
         "features": [
             {
-                "title": "CSS3 Responsive Design",
-                "description": "CSS3 ist die neueste Evolution der Cascading Style Sheets und bietet fortschrittliche Funktionen zur Verbesserung der visuellen Darstellung von Webseiten.",
+                title: "CSS3 Responsive Design",
+                description: "CSS3 ist die neueste Evolution der Cascading Style Sheets und bietet fortschrittliche Funktionen zur Verbesserung der visuellen Darstellung von Webseiten.",
                 "list": []
             },
             {
-                "title": "Stärken von CSS3",
-                "description": "CSS3 bringt moderne Styling-Fähigkeiten in die Webentwicklung.",
+                title: "Stärken von CSS3",
+                description: "CSS3 bringt moderne Styling-Fähigkeiten in die Webentwicklung.",
                 "list": [
                     "Erweiterte Selektoren",
                     "Flexible Box-Layout",
@@ -79,8 +79,8 @@ export const FrontEndDE: IFrontEnd = {
                 ]
             },
             {
-                "title": "Herausforderungen und Lösungen",
-                "description": "CSS3 erfüllt die Anforderungen an responsives, visuell ansprechendes Webdesign mit leistungsstarken neuen Funktionen.",
+                title: "Herausforderungen und Lösungen",
+                description: "CSS3 erfüllt die Anforderungen an responsives, visuell ansprechendes Webdesign mit leistungsstarken neuen Funktionen.",
                 "list": []
             }
         ],
@@ -104,21 +104,21 @@ export const FrontEndDE: IFrontEnd = {
         ]
     },
     html5: {
-        "title": "HTML5",
-        "description": "Beherrschen Sie die neuesten Standards in der Webentwicklung für reichhaltige, interaktive Inhalte.",
+        title: "HTML5",
+        description: "Beherrschen Sie die neuesten Standards in der Webentwicklung für reichhaltige, interaktive Inhalte.",
         "image": "/chorn-images/technical-expertise/front-end-developer/html5-developer.webp",
         "alt": "Logo, das die HTML5-Technologie repräsentiert",
         "readMore": "Entdecken Sie weitere HTML5-Frontend-Entwicklungslösungen",
         "link": "/technical-expertise/front-end-developer/html5-developer",
         "features": [
             {
-                "title": "HTML5-Webdesign",
-                "description": "HTML5 ist die neueste Version der HyperText Markup Language, die neue Elemente und APIs für ein reichhaltigeres Web-Erlebnis einführt.",
+                title: "HTML5-Webdesign",
+                description: "HTML5 ist die neueste Version der HyperText Markup Language, die neue Elemente und APIs für ein reichhaltigeres Web-Erlebnis einführt.",
                 "list": []
             },
             {
-                "title": "Stärken von HTML5",
-                "description": "HTML5 verbessert die Webentwicklung mit seinen modernen Funktionen und Fähigkeiten.",
+                title: "Stärken von HTML5",
+                description: "HTML5 verbessert die Webentwicklung mit seinen modernen Funktionen und Fähigkeiten.",
                 "list": [
                     "Neue semantische Elemente",
                     "Audio- und Video-Unterstützung",
@@ -130,8 +130,8 @@ export const FrontEndDE: IFrontEnd = {
                 ]
             },
             {
-                "title": "Herausforderungen und Lösungen",
-                "description": "HTML5 adressiert den Bedarf an interaktiveren und medienreicheren Web-Erlebnissen mit neuen Elementen und APIs.",
+                title: "Herausforderungen und Lösungen",
+                description: "HTML5 adressiert den Bedarf an interaktiveren und medienreicheren Web-Erlebnissen mit neuen Elementen und APIs.",
                 "list": []
             }
         ],
@@ -151,21 +151,21 @@ export const FrontEndDE: IFrontEnd = {
         ]
     },
     nextjs: {
-        "title": "NextJS",
-        "description": "Verbessern Sie Ihre React-Anwendungen mit nahtlosem serverseitigen Rendering und statischer Seitengenerierung für optimale Leistung.",
+        title: "NextJS",
+        description: "Verbessern Sie Ihre React-Anwendungen mit nahtlosem serverseitigen Rendering und statischer Seitengenerierung für optimale Leistung.",
         "image": "/chorn-images/technical-expertise/front-end-developer/nextjs-developer.webp",
         "alt": "Logo, das das Next.js-Framework repräsentiert",
         "readMore": "Entdecken Sie weitere NextJS-Frontend-Entwicklungslösungen",
         "link": "/technical-expertise/front-end-developer/nextjs-developer",
         "features": [
             {
-                "title": "NextJS-Entwicklung",
-                "description": "Next.js ist ein führendes React-Framework, das serverseitiges Rendering und statische Seitengenerierung bietet und leistungsstarke, SEO-freundliche Webanwendungen mit minimaler Konfiguration liefert. Perfekt für moderne Webentwicklungsanforderungen.",
+                title: "NextJS-Entwicklung",
+                description: "Next.js ist ein führendes React-Framework, das serverseitiges Rendering und statische Seitengenerierung bietet und leistungsstarke, SEO-freundliche Webanwendungen mit minimaler Konfiguration liefert. Perfekt für moderne Webentwicklungsanforderungen.",
                 "list": []
             },
             {
-                "title": "Stärken von NextJS",
-                "description": "NextJS zeichnet sich durch seine robusten Funktionen aus",
+                title: "Stärken von NextJS",
+                description: "NextJS zeichnet sich durch seine robusten Funktionen aus",
                 "list": [
                     "Serverseitiges Rendering",
                     "Statische Seitengenerierung",
@@ -177,8 +177,8 @@ export const FrontEndDE: IFrontEnd = {
                 ]
             },
             {
-                "title": "Herausforderungen und Lösungen",
-                "description": "Next.js bewältigt Webentwicklungsherausforderungen, indem es Lösungen für Leistung, Skalierbarkeit und SEO bietet und so eine optimale Anwendungsbereitstellung gewährleistet.",
+                title: "Herausforderungen und Lösungen",
+                description: "Next.js bewältigt Webentwicklungsherausforderungen, indem es Lösungen für Leistung, Skalierbarkeit und SEO bietet und so eine optimale Anwendungsbereitstellung gewährleistet.",
                 "list": []
             }
         ],
@@ -199,21 +199,21 @@ export const FrontEndDE: IFrontEnd = {
     },
 
     react: {
-        "title": "React",
-        "description": "Erstellen Sie mühelos dynamische, hochleistungsfähige Benutzeroberflächen mit der leistungsstarken komponentenbasierten Architektur von React.",
+        title: "React",
+        description: "Erstellen Sie mühelos dynamische, hochleistungsfähige Benutzeroberflächen mit der leistungsstarken komponentenbasierten Architektur von React.",
         "image": "/chorn-images/technical-expertise/front-end-developer/react-developer.webp",
         "alt": "Logo der React.js-Bibliothek",
         "readMore": "Entdecken Sie weitere ReactJS Front-End-Entwicklungslösungen",
         "link": "/technical-expertise/front-end-developer/react-developer",
         "features": [
             {
-                "title": "React-Entwicklung",
-                "description": "React.js ist eine beliebte JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen. Sie ermöglicht Entwicklern, wiederverwendbare UI-Komponenten zu erstellen, was die Entwicklungseffizienz und Anwendungsleistung verbessert.",
+                title: "React-Entwicklung",
+                description: "React.js ist eine beliebte JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen. Sie ermöglicht Entwicklern, wiederverwendbare UI-Komponenten zu erstellen, was die Entwicklungseffizienz und Anwendungsleistung verbessert.",
                 "list": []
             },
             {
-                "title": "Stärken von React.js",
-                "description": "React.js bietet einen robusten Satz von Funktionen, die es zur bevorzugten Wahl für Entwickler machen.",
+                title: "Stärken von React.js",
+                description: "React.js bietet einen robusten Satz von Funktionen, die es zur bevorzugten Wahl für Entwickler machen.",
                 "list": [
                     "Komponentenbasierte Architektur",
                     "Virtuelles DOM für verbesserte Leistung",
@@ -225,8 +225,8 @@ export const FrontEndDE: IFrontEnd = {
                 ]
             },
             {
-                "title": "Herausforderungen und Lösungen",
-                "description": "React.js adressiert Herausforderungen bei der Entwicklung dynamischer Benutzeroberflächen mit einem virtuellen DOM, Wiederverwendbarkeit von Komponenten und einer aktiven Community.",
+                title: "Herausforderungen und Lösungen",
+                description: "React.js adressiert Herausforderungen bei der Entwicklung dynamischer Benutzeroberflächen mit einem virtuellen DOM, Wiederverwendbarkeit von Komponenten und einer aktiven Community.",
                 "list": []
             }
         ],
@@ -246,21 +246,21 @@ export const FrontEndDE: IFrontEnd = {
         ]
     },
     typescript: {
-        "title": "TypeScript",
-        "description": "TypeScript ist ein stark typisierter Superset von JavaScript, der statische Typen hinzufügt, die Entwicklungserfahrung verbessert, indem Fehler frühzeitig erkannt werden und die Codequalität verbessert wird. Es wird zu reinem JavaScript kompiliert, wodurch es mit allen Browsern und Frameworks kompatibel ist.",
+        title: "TypeScript",
+        description: "TypeScript ist ein stark typisierter Superset von JavaScript, der statische Typen hinzufügt, die Entwicklungserfahrung verbessert, indem Fehler frühzeitig erkannt werden und die Codequalität verbessert wird. Es wird zu reinem JavaScript kompiliert, wodurch es mit allen Browsern und Frameworks kompatibel ist.",
         "image": "/chorn-images/technical-expertise/front-end-developer/typescript-developer.webp",
         "alt": "Logo der Programmiersprache TypeScript",
         "readMore": "Entdecken Sie weitere TypeScript Full-Stack-Entwicklungslösungen",
         "link": "/technical-expertise/front-end-developer/typescript-developer",
         "features": [
             {
-                "title": "TypeScript-Entwicklung",
-                "description": "TypeScript verbessert die Entwicklung durch die Einführung von statischer Typisierung und objektorientierter Programmierung, sodass Entwickler mit Zuversicht skalierbare und wartbare Anwendungen erstellen können.",
+                title: "TypeScript-Entwicklung",
+                description: "TypeScript verbessert die Entwicklung durch die Einführung von statischer Typisierung und objektorientierter Programmierung, sodass Entwickler mit Zuversicht skalierbare und wartbare Anwendungen erstellen können.",
                 "list": []
             },
             {
-                "title": "Verbesserte Codequalität",
-                "description": "Die Typenprüfungsfunktionen von TypeScript stellen sicher, dass potenzielle Fehler während der Entwicklungsphase erkannt werden, was Laufzeitfehler reduziert und die Wartbarkeit für große Projekte verbessert.",
+                title: "Verbesserte Codequalität",
+                description: "Die Typenprüfungsfunktionen von TypeScript stellen sicher, dass potenzielle Fehler während der Entwicklungsphase erkannt werden, was Laufzeitfehler reduziert und die Wartbarkeit für große Projekte verbessert.",
                 "list": [
                     "Statische Typisierung",
                     "Erweiterte Fehlerprüfung",
@@ -271,13 +271,13 @@ export const FrontEndDE: IFrontEnd = {
                 ]
             },
             {
-                "title": "Verbesserte Entwicklerproduktivität",
-                "description": "Mit Funktionen wie Typinferenz, Schnittstellen und Generics macht TypeScript die Verwaltung komplexer Codebasen einfacher. Es integriert sich nahtlos in moderne Tools und steigert die Produktivität und Zusammenarbeit.",
+                title: "Verbesserte Entwicklerproduktivität",
+                description: "Mit Funktionen wie Typinferenz, Schnittstellen und Generics macht TypeScript die Verwaltung komplexer Codebasen einfacher. Es integriert sich nahtlos in moderne Tools und steigert die Produktivität und Zusammenarbeit.",
                 "list": []
             },
             {
-                "title": "Nahtlose Integration mit Frameworks",
-                "description": "TypeScript lässt sich mühelos in beliebte JavaScript-Frameworks wie React, Angular und Vue.js integrieren. Entwickler können TypeScript schrittweise in bestehende JavaScript-Projekte einführen und so Kompatibilität und Skalierbarkeit gewährleisten.",
+                title: "Nahtlose Integration mit Frameworks",
+                description: "TypeScript lässt sich mühelos in beliebte JavaScript-Frameworks wie React, Angular und Vue.js integrieren. Entwickler können TypeScript schrittweise in bestehende JavaScript-Projekte einführen und so Kompatibilität und Skalierbarkeit gewährleisten.",
                 "list": []
             }
         ],
@@ -297,21 +297,21 @@ export const FrontEndDE: IFrontEnd = {
         ]
     },
     vue: {
-        "title": "Vue",
-        "description": "Erstellen Sie moderne, reaktive Webschnittstellen schnell mit Vues intuitiver und flexibler Gestaltung.",
+        title: "Vue",
+        description: "Erstellen Sie moderne, reaktive Webschnittstellen schnell mit Vues intuitiver und flexibler Gestaltung.",
         "image": "/chorn-images/technical-expertise/front-end-developer/vue-developer.webp",
         "alt": "Logo, das das Vue.js-Framework repräsentiert",
         "readMore": "Entdecken Sie weitere VueJS-Frontend-Entwicklungslösungen",
         "link": "/technical-expertise/front-end-developer/vue-developer",
         "features": [
             {
-                "title": "Vue-Entwicklung",
-                "description": "Vue.js ist ein progressives JavaScript-Framework zum Erstellen von Benutzeroberflächen. Es ist so konzipiert, dass es schrittweise eingesetzt werden kann, mit einer Kernbibliothek, die sich auf die Ansichtsebene konzentriert.",
+                title: "Vue-Entwicklung",
+                description: "Vue.js ist ein progressives JavaScript-Framework zum Erstellen von Benutzeroberflächen. Es ist so konzipiert, dass es schrittweise eingesetzt werden kann, mit einer Kernbibliothek, die sich auf die Ansichtsebene konzentriert.",
                 "list": []
             },
             {
-                "title": "Stärken von Vue",
-                "description": "Vue.js bietet ein flexibles und leistungsfähiges Framework mit wichtigen Stärken.",
+                title: "Stärken von Vue",
+                description: "Vue.js bietet ein flexibles und leistungsfähiges Framework mit wichtigen Stärken.",
                 "list": [
                     "Reaktive Datenbindung",
                     "Komponentenbasierte Struktur",
@@ -323,8 +323,8 @@ export const FrontEndDE: IFrontEnd = {
                 ]
             },
             {
-                "title": "Herausforderungen und Lösungen",
-                "description": "Vue.js vereinfacht die Webentwicklung mit seiner intuitiven API, reaktiven Datenbindung und einfachen Integration.",
+                title: "Herausforderungen und Lösungen",
+                description: "Vue.js vereinfacht die Webentwicklung mit seiner intuitiven API, reaktiven Datenbindung und einfachen Integration.",
                 "list": []
             }
         ],
@@ -344,21 +344,21 @@ export const FrontEndDE: IFrontEnd = {
         ]
     },
     javascript: {
-        "title": "JavaScript",
-        "description": "JavaScript ist eine vielseitige und dynamische Programmiersprache, die häufig für die Erstellung interaktiver und reaktionsfähiger Webanwendungen verwendet wird. Ihre Flexibilität und ihr umfangreiches Ökosystem machen sie zu einem unverzichtbaren Werkzeug für die moderne Webentwicklung.",
+        title: "JavaScript",
+        description: "JavaScript ist eine vielseitige und dynamische Programmiersprache, die häufig für die Erstellung interaktiver und reaktionsfähiger Webanwendungen verwendet wird. Ihre Flexibilität und ihr umfangreiches Ökosystem machen sie zu einem unverzichtbaren Werkzeug für die moderne Webentwicklung.",
         "image": "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
         "alt": "Logo, das die Programmiersprache JavaScript repräsentiert",
         "readMore": "Entdecken Sie weitere JavaScript Full-Stack-Entwicklungslösungen",
         "link": "/technical-expertise/front-end-developer/javascript-developer",
         "features": [
             {
-                "title": "JavaScript-Entwicklung",
-                "description": "JavaScript treibt das dynamische Verhalten von Websites und Webanwendungen an und bietet unvergleichliche Vielseitigkeit und Kompatibilität mit Browsern und Frameworks.",
+                title: "JavaScript-Entwicklung",
+                description: "JavaScript treibt das dynamische Verhalten von Websites und Webanwendungen an und bietet unvergleichliche Vielseitigkeit und Kompatibilität mit Browsern und Frameworks.",
                 "list": []
             },
             {
-                "title": "Reichhaltige interaktive Erlebnisse",
-                "description": "JavaScript ermöglicht Entwicklern die Erstellung interaktiver Benutzeroberflächen, Animationen und Echtzeit-Funktionen wie Chat-Anwendungen, die für ein ansprechendes Benutzererlebnis sorgen.",
+                title: "Reichhaltige interaktive Erlebnisse",
+                description: "JavaScript ermöglicht Entwicklern die Erstellung interaktiver Benutzeroberflächen, Animationen und Echtzeit-Funktionen wie Chat-Anwendungen, die für ein ansprechendes Benutzererlebnis sorgen.",
                 "list": [
                     "Dynamische Inhaltsaktualisierungen",
                     "Interaktive Web-Schnittstellen",
@@ -368,13 +368,13 @@ export const FrontEndDE: IFrontEnd = {
                 ]
             },
             {
-                "title": "Umfangreiches Ökosystem und Tooling",
-                "description": "JavaScript verfügt über ein umfassendes Ökosystem von Bibliotheken und Frameworks wie React, Angular und Vue.js, die Entwicklern die effiziente Erstellung robuster Webanwendungen ermöglichen.",
+                title: "Umfangreiches Ökosystem und Tooling",
+                description: "JavaScript verfügt über ein umfassendes Ökosystem von Bibliotheken und Frameworks wie React, Angular und Vue.js, die Entwicklern die effiziente Erstellung robuster Webanwendungen ermöglichen.",
                 "list": []
             },
             {
-                "title": "Backend-Entwicklung mit Node.js",
-                "description": "JavaScript erstreckt sich durch Node.js auch auf die Backend-Entwicklung und ermöglicht Full-Stack-Entwicklung mit einer einzigen Sprache, von der serverseitigen Logik bis hin zu clientseitigen Interaktionen.",
+                title: "Backend-Entwicklung mit Node.js",
+                description: "JavaScript erstreckt sich durch Node.js auch auf die Backend-Entwicklung und ermöglicht Full-Stack-Entwicklung mit einer einzigen Sprache, von der serverseitigen Logik bis hin zu clientseitigen Interaktionen.",
                 "list": []
             }
         ],
@@ -397,30 +397,30 @@ export const FrontEndDE: IFrontEnd = {
     stacks: [],
 
     services: {
-        "title": "Front-End-Entwicklungsdienste",
+        title: "Front-End-Entwicklungsdienste",
         "descriptions": [
             "Verwandeln Sie Ihre Web-Vision mit unseren professionellen Front-End-Entwicklungsdiensten in die Realität. CHORN liefert benutzerfreundliche, visuell beeindruckende und vollständig responsive Websites, die Ihr Publikum ansprechen. Wir sind spezialisiert auf moderne Frameworks wie Next.js, React, Angular und Vue.js, sowie auf die grundlegenden Webtechnologien wie HTML5 und CSS3. Ob Sie eine hochleistungsfähige, für Suchmaschinen optimierte Single-Page-Anwendung (SPA) oder eine komplexe Multi-Page-Plattform benötigen, unsere Entwickler liefern qualitativ hochwertige Ergebnisse pünktlich. Arbeiten Sie mit CHORN zusammen, um überzeugende digitale Erlebnisse zu schaffen, die Besucher fesseln und das Geschäftswachstum vorantreiben."
         ],
         "items": [
             {
-                "title": "Implementierung moderner Frameworks",
-                "description": "Erstellen Sie dynamische, interaktive Webanwendungen mit fortschrittlichen Frameworks wie Next.js und React, die optimale Leistung und Benutzererfahrung bieten."
+                title: "Implementierung moderner Frameworks",
+                description: "Erstellen Sie dynamische, interaktive Webanwendungen mit fortschrittlichen Frameworks wie Next.js und React, die optimale Leistung und Benutzererfahrung bieten."
             },
             {
-                "title": "SEO-Optimierung",
-                "description": "Verbessern Sie die Sichtbarkeit Ihrer Website auf Google und anderen Suchmaschinen durch optimierte Codestruktur, schnelle Ladezeiten und mobilfreundliches Design."
+                title: "SEO-Optimierung",
+                description: "Verbessern Sie die Sichtbarkeit Ihrer Website auf Google und anderen Suchmaschinen durch optimierte Codestruktur, schnelle Ladezeiten und mobilfreundliches Design."
             },
             {
-                "title": "Proof of Concept (PoC) Entwicklung",
-                "description": "Testen und validieren Sie Ihre innovativen Ideen schnell mit funktionalen Prototypen, bevor Sie sich auf eine vollständige Entwicklung festlegen."
+                title: "Proof of Concept (PoC) Entwicklung",
+                description: "Testen und validieren Sie Ihre innovativen Ideen schnell mit funktionalen Prototypen, bevor Sie sich auf eine vollständige Entwicklung festlegen."
             },
             {
-                "title": "Entwicklung eines Minimum Viable Product (MVP)",
-                "description": "Starten Sie eine funktionsfähige, skalierbare Erstversion Ihres Produkts, um frühe Nutzer anzuziehen, Feedback zu sammeln und potenzielle Investoren zu gewinnen."
+                title: "Entwicklung eines Minimum Viable Product (MVP)",
+                description: "Starten Sie eine funktionsfähige, skalierbare Erstversion Ihres Produkts, um frühe Nutzer anzuziehen, Feedback zu sammeln und potenzielle Investoren zu gewinnen."
             },
             {
-                "title": "UI/UX-Design-Exzellenz",
-                "description": "Steigern Sie die Zufriedenheit der Nutzer mit intuitiven, ansprechenden Benutzeroberflächen, die das Engagement erhöhen, die Absprungrate senken und die Konversionsrate steigern."
+                title: "UI/UX-Design-Exzellenz",
+                description: "Steigern Sie die Zufriedenheit der Nutzer mit intuitiven, ansprechenden Benutzeroberflächen, die das Engagement erhöhen, die Absprungrate senken und die Konversionsrate steigern."
             }
         ]
     }

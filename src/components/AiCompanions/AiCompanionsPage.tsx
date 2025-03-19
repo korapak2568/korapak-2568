@@ -3,12 +3,11 @@
 import React from "react";
 import Image from "next/image";
 import MainBannerAiFah from "@/components/AI/MainBannerAiFah/page";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const AiCompanionsPage: React.FC = () => {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
@@ -16,13 +15,13 @@ const AiCompanionsPage: React.FC = () => {
                 <div className="container">
                     <div className="row">
                         <div className={"add-web-content"}>
-                            <h2>{InfoTranslation[currentTranslate.value].Service.demo.title}</h2>
-                            <p>{InfoTranslation[currentTranslate.value].Service.demo.description}</p>
+                            <h2>{InfoTranslation[locale.value].Service.demo.title}</h2>
+                            <p>{InfoTranslation[locale.value].Service.demo.description}</p>
 
                             <div>
-                                <strong>{InfoTranslation[currentTranslate.value].Service.demo.procedure.title}</strong>
+                                <strong>{InfoTranslation[locale.value].Service.demo.procedure.title}</strong>
                                 <ul>
-                                    {InfoTranslation[currentTranslate.value].Service.demo.procedure.steps.map((service, index) => (
+                                    {InfoTranslation[locale.value].Service.demo.procedure.steps.map((service, index) => (
                                         <li key={index}>
                                             <strong>{service.title}</strong> {service.description}
                                         </li>

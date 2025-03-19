@@ -4,12 +4,11 @@ import React from "react";
 import ServiceFaqJavaScript from "./ServiceFaqJavaScript";
 import Image from "next/image";
 import ServiceSidebarFrontEnd from "@/components/Services/ServiceSidebarFrontEnd";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const ServicesDetailsJavaScript: React.FC = () => {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
@@ -18,16 +17,16 @@ const ServicesDetailsJavaScript: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="services-details-desc">
-                                <h3>{InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[0].title}</h3>
-                                <p>{InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[0].description}</p>
+                                <h3>{InfoTranslation[locale.value].FrontEnd.javascript.features[0].title}</h3>
+                                <p>{InfoTranslation[locale.value].FrontEnd.javascript.features[0].description}</p>
 
-                                <h3>{InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[1].title}</h3>
-                                <p>{InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[1].description}</p>
+                                <h3>{InfoTranslation[locale.value].FrontEnd.javascript.features[1].title}</h3>
+                                <p>{InfoTranslation[locale.value].FrontEnd.javascript.features[1].description}</p>
 
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={InfoTranslation[currentTranslate.value].Images.serviceDetails.javascript.path}
+                                            src={InfoTranslation[locale.value].Images.serviceDetails.javascript.path}
                                             alt="image"
                                             width={500}
                                             height={500}
@@ -35,7 +34,7 @@ const ServicesDetailsJavaScript: React.FC = () => {
 
                                         <div className="col-lg-6">
                                             <ul className="features-list">
-                                                {InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[1].list.map((item: string, index: number) => (
+                                                {InfoTranslation[locale.value].FrontEnd.javascript.features[1].list.map((item: string, index: number) => (
                                                     <li key={index}>
                                                         <i className="flaticon-check"></i> {item}
                                                     </li>
@@ -45,11 +44,11 @@ const ServicesDetailsJavaScript: React.FC = () => {
                                     </div>
                                 </div>
 
-                                <h3>{InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[2].title}</h3>
-                                <p>{InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[2].description}</p>
+                                <h3>{InfoTranslation[locale.value].FrontEnd.javascript.features[2].title}</h3>
+                                <p>{InfoTranslation[locale.value].FrontEnd.javascript.features[2].description}</p>
 
-                                <h3>{InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[3].title}</h3>
-                                <p>{InfoTranslation[currentTranslate.value].FrontEnd.javascript.features[3].description}</p>
+                                <h3>{InfoTranslation[locale.value].FrontEnd.javascript.features[3].title}</h3>
+                                <p>{InfoTranslation[locale.value].FrontEnd.javascript.features[3].description}</p>
 
                                 <ServiceFaqJavaScript/>
                             </div>

@@ -5,11 +5,10 @@ import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
 import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const FlexibleWorkspace: React.FC = () => {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
@@ -26,7 +25,7 @@ const FlexibleWorkspace: React.FC = () => {
                     modules={[Autoplay, Navigation]}
                     className="home-slides"
                 >
-                    {InfoTranslation[currentTranslate.value].Gallery.slides.map((slide, index) => (
+                    {InfoTranslation[locale.value].Gallery.slides.map((slide, index) => (
                         <SwiperSlide key={index}>
                             <div className="main-slider-item">
                                 <div className="d-table">

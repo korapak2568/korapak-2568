@@ -6,21 +6,21 @@ export const DevOpsNL: IDevOps = {
     subTitle: "",
 
     docker: {
-        "title": "Docker",
-        "description": "Stroomlijn uw applicatie-implementatie met containerisatie voor consistente en efficiënte omgevingen.",
+        title: "Docker",
+        description: "Stroomlijn uw applicatie-implementatie met containerisatie voor consistente en efficiënte omgevingen.",
         "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
         "alt": "Logo dat Docker technologie-ervaring vertegenwoordigt",
         "readMore": "Verken Docker voor efficiënte DevOps-tests",
         "link": "/technical-expertise/cloud-devops/docker",
         "features": [
             {
-                "title": "Docker",
-                "description": "Docker is een krachtig platform voor het ontwikkelen, leveren en uitvoeren van applicaties in containers, wat zorgt voor consistentie in meerdere omgevingen. Ideaal voor moderne DevOps-praktijken.",
+                title: "Docker",
+                description: "Docker is een krachtig platform voor het ontwikkelen, leveren en uitvoeren van applicaties in containers, wat zorgt voor consistentie in meerdere omgevingen. Ideaal voor moderne DevOps-praktijken.",
                 "list": []
             },
             {
-                "title": "Sterke punten van Docker",
-                "description": "Docker blinkt uit met zijn belangrijkste functies",
+                title: "Sterke punten van Docker",
+                description: "Docker blinkt uit met zijn belangrijkste functies",
                 "list": [
                     "Containerisatie",
                     "Omgevingsconsistentie",
@@ -32,8 +32,8 @@ export const DevOpsNL: IDevOps = {
                 ]
             },
             {
-                "title": "Uitdagingen en Oplossingen",
-                "description": "Docker pakt implementatie-uitdagingen aan door containerisatie-oplossingen te bieden die prestaties, schaalbaarheid en consistentie verbeteren.",
+                title: "Uitdagingen en Oplossingen",
+                description: "Docker pakt implementatie-uitdagingen aan door containerisatie-oplossingen te bieden die prestaties, schaalbaarheid en consistentie verbeteren.",
                 "list": []
             }
         ],
@@ -53,21 +53,21 @@ export const DevOpsNL: IDevOps = {
         ]
     },
     github: {
-        "title": "GitHub",
-        "description": "Verbeter uw ontwikkelingsworkflow met GitHubs versiebeheersysteem en samenwerkingsplatform.",
+        title: "GitHub",
+        description: "Verbeter uw ontwikkelingsworkflow met GitHubs versiebeheersysteem en samenwerkingsplatform.",
         "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
         "alt": "Logo dat GitHub technologie-ervaring vertegenwoordigt",
         "readMore": "Ontdek hoe GitHub effectieve DevOps-tests mogelijk maakt",
         "link": "/technical-expertise/cloud-devops/github",
         "features": [
             {
-                "title": "GitHub",
-                "description": "GitHub is een webgebaseerd platform dat Git-repository hosting, samenwerkingstools voor ontwikkeling en een breed scala aan integraties biedt, waardoor efficiënte en gezamenlijke softwareontwikkeling wordt bevorderd.",
+                title: "GitHub",
+                description: "GitHub is een webgebaseerd platform dat Git-repository hosting, samenwerkingstools voor ontwikkeling en een breed scala aan integraties biedt, waardoor efficiënte en gezamenlijke softwareontwikkeling wordt bevorderd.",
                 "list": []
             },
             {
-                "title": "Sterke punten van GitHub",
-                "description": "GitHub blinkt uit met zijn belangrijkste functies",
+                title: "Sterke punten van GitHub",
+                description: "GitHub blinkt uit met zijn belangrijkste functies",
                 "list": [
                     "ChornMetadata-beheer",
                     "Gezamenlijke ontwikkeling",
@@ -79,8 +79,8 @@ export const DevOpsNL: IDevOps = {
                 ]
             },
             {
-                "title": "Uitdagingen en oplossingen",
-                "description": "GitHub pakt uitdagingen in de ontwikkelingsworkflow aan door robuust versiebeheer en samenwerkingstools te bieden voor efficiënt projectmanagement.",
+                title: "Uitdagingen en oplossingen",
+                description: "GitHub pakt uitdagingen in de ontwikkelingsworkflow aan door robuust versiebeheer en samenwerkingstools te bieden voor efficiënt projectmanagement.",
                 "list": []
             }
         ],

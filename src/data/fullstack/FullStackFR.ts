@@ -66,21 +66,21 @@ export const FullStackFR: IFullStack = {
         ],
     },
     go: {
-        "title": "GO",
-        "description": "Go, également connu sous le nom de Golang, est un langage de programmation compilé et à typage statique conçu par Google. Il est reconnu pour sa simplicité, son efficacité et son solide support de la concurrence, ce qui en fait un choix idéal pour le développement de microservices.",
+        title: "GO",
+        description: "Go, également connu sous le nom de Golang, est un langage de programmation compilé et à typage statique conçu par Google. Il est reconnu pour sa simplicité, son efficacité et son solide support de la concurrence, ce qui en fait un choix idéal pour le développement de microservices.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
         "alt": "Logo représentant le langage de programmation Go",
         "readMore": "Explorez davantage de solutions de développement full-stack Go",
         "link": "/technical-expertise/full-stack-developer/go-developer",
         "features": [
             {
-                "title": "Développement Go",
-                "description": "Go, également connu sous le nom de Golang, est un langage de programmation compilé et à typage statique conçu par Google. Il est reconnu pour sa simplicité, son efficacité et son solide support de la concurrence, ce qui en fait un choix idéal pour le développement de microservices.",
+                title: "Développement Go",
+                description: "Go, également connu sous le nom de Golang, est un langage de programmation compilé et à typage statique conçu par Google. Il est reconnu pour sa simplicité, son efficacité et son solide support de la concurrence, ce qui en fait un choix idéal pour le développement de microservices.",
                 "list": []
             },
             {
-                "title": "Concurrence Efficace",
-                "description": "Les goroutines et les canaux de Go offrent un support robuste pour la programmation concurrente, permettant aux développeurs de créer des applications hautement efficaces et évolutives. Cela fait de Go un langage privilégié pour développer des microservices qui nécessitent de gérer plusieurs tâches simultanément.",
+                title: "Concurrence Efficace",
+                description: "Les goroutines et les canaux de Go offrent un support robuste pour la programmation concurrente, permettant aux développeurs de créer des applications hautement efficaces et évolutives. Cela fait de Go un langage privilégié pour développer des microservices qui nécessitent de gérer plusieurs tâches simultanément.",
                 "list": [
                     "Programmation concurrente",
                     "Compilation rapide",
@@ -92,13 +92,13 @@ export const FullStackFR: IFullStack = {
                 ]
             },
             {
-                "title": "Compilation Rapide",
-                "description": "Go se compile rapidement en code machine, ce qui se traduit par des temps d'exécution rapides. Cette efficacité, combinée à son garbage collection et à son typage statique, garantit que les applications Go fonctionnent bien, même sous des charges importantes.",
+                title: "Compilation Rapide",
+                description: "Go se compile rapidement en code machine, ce qui se traduit par des temps d'exécution rapides. Cette efficacité, combinée à son garbage collection et à son typage statique, garantit que les applications Go fonctionnent bien, même sous des charges importantes.",
                 "list": []
             },
             {
-                "title": "Interopérabilité",
-                "description": "La simplicité et la clarté de Go facilitent son intégration avec d'autres langages de programmation. Cette interopérabilité permet aux développeurs de tirer parti des points forts de Go dans les parties critiques en termes de performance d'une application, tout en utilisant d'autres langages pour différents composants.",
+                title: "Interopérabilité",
+                description: "La simplicité et la clarté de Go facilitent son intégration avec d'autres langages de programmation. Cette interopérabilité permet aux développeurs de tirer parti des points forts de Go dans les parties critiques en termes de performance d'une application, tout en utilisant d'autres langages pour différents composants.",
                 "list": []
             }
         ],
@@ -255,21 +255,21 @@ export const FullStackFR: IFullStack = {
         ]
     },
     php: {
-        "title": "PHP",
-        "description": "PHP est un langage de script côté serveur populaire largement utilisé pour le développement web. Des frameworks comme Symfony, Laravel, Phalcon, et des moteurs de templates comme Twig, ainsi que des plateformes comme WordPress et sa variante headless, ont élevé le développement PHP en fournissant des solutions structurées, efficaces et évolutives pour la création d'applications web complexes.",
+        title: "PHP",
+        description: "PHP est un langage de script côté serveur populaire largement utilisé pour le développement web. Des frameworks comme Symfony, Laravel, Phalcon, et des moteurs de templates comme Twig, ainsi que des plateformes comme WordPress et sa variante headless, ont élevé le développement PHP en fournissant des solutions structurées, efficaces et évolutives pour la création d'applications web complexes.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
         "alt": "Logo représentant le langage de programmation PHP",
         "readMore": "Explorez plus de solutions de développement full-stack PHP",
         "link": "/technical-expertise/full-stack-developer/php-developer",
         "features": [
             {
-                "title": "Développement PHP",
-                "description": "PHP est un langage de script côté serveur populaire largement utilisé pour le développement web. Des frameworks comme Symfony, Laravel, Phalcon, et des moteurs de templates comme Twig, ainsi que des plateformes comme WordPress et sa variante headless, ont élevé le développement PHP en fournissant des solutions structurées, efficaces et évolutives pour la création d'applications web complexes.",
+                title: "Développement PHP",
+                description: "PHP est un langage de script côté serveur populaire largement utilisé pour le développement web. Des frameworks comme Symfony, Laravel, Phalcon, et des moteurs de templates comme Twig, ainsi que des plateformes comme WordPress et sa variante headless, ont élevé le développement PHP en fournissant des solutions structurées, efficaces et évolutives pour la création d'applications web complexes.",
                 "list": []
             },
             {
-                "title": "Développement Structuré",
-                "description": "Symfony et Laravel offrent une approche structurée du développement PHP, favorisant les meilleures pratiques et les modèles de conception. Symfony fournit un ensemble réutilisable de composants, tandis que Laravel se concentre sur la productivité des développeurs avec sa syntaxe élégante et ses outils. Twig, le moteur de template utilisé dans Symfony, fournit une méthode flexible, sécurisée et rapide pour concevoir des templates. Phalcon, un framework haute performance livré comme une extension C, offre une optimisation de bas niveau et une vitesse exceptionnelle, assurant une gestion efficace des ressources.",
+                title: "Développement Structuré",
+                description: "Symfony et Laravel offrent une approche structurée du développement PHP, favorisant les meilleures pratiques et les modèles de conception. Symfony fournit un ensemble réutilisable de composants, tandis que Laravel se concentre sur la productivité des développeurs avec sa syntaxe élégante et ses outils. Twig, le moteur de template utilisé dans Symfony, fournit une méthode flexible, sécurisée et rapide pour concevoir des templates. Phalcon, un framework haute performance livré comme une extension C, offre une optimisation de bas niveau et une vitesse exceptionnelle, assurant une gestion efficace des ressources.",
                 "list": [
                     "Script côté serveur",
                     "Facile à apprendre",
@@ -281,13 +281,13 @@ export const FullStackFR: IFullStack = {
                 ]
             },
             {
-                "title": "Développement Rapide",
-                "description": "Laravel, connu pour sa syntaxe expressive et ses outils puissants, permet un développement et un déploiement rapides d'applications web. Des fonctionnalités comme Eloquent ORM, le moteur de template Blade et l'outil de ligne de commande Laravel Artisan simplifient les tâches de développement. Phalcon améliore le développement rapide avec ses performances robustes et son architecture de bas niveau. WordPress offre une configuration rapide et une grande variété de plugins et de thèmes, permettant aux développeurs de déployer rapidement des sites web riches en fonctionnalités. WordPress Headless découple le front-end et le back-end, permettant l'utilisation de frameworks JavaScript modernes comme React ou Vue pour une expérience utilisateur dynamique et réactive.",
+                title: "Développement Rapide",
+                description: "Laravel, connu pour sa syntaxe expressive et ses outils puissants, permet un développement et un déploiement rapides d'applications web. Des fonctionnalités comme Eloquent ORM, le moteur de template Blade et l'outil de ligne de commande Laravel Artisan simplifient les tâches de développement. Phalcon améliore le développement rapide avec ses performances robustes et son architecture de bas niveau. WordPress offre une configuration rapide et une grande variété de plugins et de thèmes, permettant aux développeurs de déployer rapidement des sites web riches en fonctionnalités. WordPress Headless découple le front-end et le back-end, permettant l'utilisation de frameworks JavaScript modernes comme React ou Vue pour une expérience utilisateur dynamique et réactive.",
                 "list": []
             },
             {
-                "title": "Communauté et Écosystème",
-                "description": "PHP bénéficie d'une vaste communauté et d'un riche écosystème de bibliothèques, de plugins et de frameworks. Symfony et Laravel bénéficient tous deux d'un soutien communautaire actif, d'une documentation étendue et de nombreux packages tiers, rendant le développement PHP efficace et agréable. Phalcon dispose d'une communauté croissante et fournit une documentation détaillée et des tutoriels pour aider les développeurs. WordPress se vante d'un vaste écosystème avec une large base d'utilisateurs, offrant de nombreux plugins et thèmes, tandis que WordPress Headless exploite la flexibilité des frameworks front-end modernes, soutenu par une communauté robuste et des ressources.",
+                title: "Communauté et Écosystème",
+                description: "PHP bénéficie d'une vaste communauté et d'un riche écosystème de bibliothèques, de plugins et de frameworks. Symfony et Laravel bénéficient tous deux d'un soutien communautaire actif, d'une documentation étendue et de nombreux packages tiers, rendant le développement PHP efficace et agréable. Phalcon dispose d'une communauté croissante et fournit une documentation détaillée et des tutoriels pour aider les développeurs. WordPress se vante d'un vaste écosystème avec une large base d'utilisateurs, offrant de nombreux plugins et thèmes, tandis que WordPress Headless exploite la flexibilité des frameworks front-end modernes, soutenu par une communauté robuste et des ressources.",
                 "list": []
             }
         ],
@@ -307,21 +307,21 @@ export const FullStackFR: IFullStack = {
         ]
     },
     python: {
-        "title": "Python",
-        "description": "Python est un langage de programmation de haut niveau et interprété, connu pour sa simplicité, sa lisibilité et sa polyvalence. Il est largement utilisé dans divers domaines, du développement web et de l'analyse de données à l'intelligence artificielle et au calcul scientifique.",
+        title: "Python",
+        description: "Python est un langage de programmation de haut niveau et interprété, connu pour sa simplicité, sa lisibilité et sa polyvalence. Il est largement utilisé dans divers domaines, du développement web et de l'analyse de données à l'intelligence artificielle et au calcul scientifique.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
         "alt": "Logo représentant Python avec le framework Flask",
         "readMore": "Explorez davantage de solutions de développement full-stack Python, Flask, Django",
         "link": "/technical-expertise/full-stack-developer/python-developer",
         "features": [
             {
-                "title": "Développement Python",
-                "description": "Python est un langage de programmation de haut niveau et interprété, connu pour sa simplicité, sa lisibilité et sa polyvalence. Il est largement utilisé dans divers domaines, du développement web et de l'analyse de données à l'intelligence artificielle et au calcul scientifique.",
+                title: "Développement Python",
+                description: "Python est un langage de programmation de haut niveau et interprété, connu pour sa simplicité, sa lisibilité et sa polyvalence. Il est largement utilisé dans divers domaines, du développement web et de l'analyse de données à l'intelligence artificielle et au calcul scientifique.",
                 "list": []
             },
             {
-                "title": "Facile à Apprendre et à Utiliser",
-                "description": "La syntaxe simple et la lisibilité de Python en font un excellent choix pour les débutants comme pour les développeurs expérimentés. Sa vaste bibliothèque standard et ses modules contribués par la communauté fournissent des solutions prêtes à l'emploi pour un large éventail de tâches.",
+                title: "Facile à Apprendre et à Utiliser",
+                description: "La syntaxe simple et la lisibilité de Python en font un excellent choix pour les débutants comme pour les développeurs expérimentés. Sa vaste bibliothèque standard et ses modules contribués par la communauté fournissent des solutions prêtes à l'emploi pour un large éventail de tâches.",
                 "list": [
                     "Facile à apprendre",
                     "Syntaxe lisible",
@@ -333,13 +333,13 @@ export const FullStackFR: IFullStack = {
                 ]
             },
             {
-                "title": "Applications Polyvalentes",
-                "description": "Python est utilisé dans divers domaines, notamment le développement web avec des frameworks comme Django et Flask, la science des données avec des bibliothèques comme pandas et NumPy, et l'apprentissage automatique avec TensorFlow et scikit-learn. Cette polyvalence fait de Python un langage de prédilection pour de nombreux développeurs.",
+                title: "Applications Polyvalentes",
+                description: "Python est utilisé dans divers domaines, notamment le développement web avec des frameworks comme Django et Flask, la science des données avec des bibliothèques comme pandas et NumPy, et l'apprentissage automatique avec TensorFlow et scikit-learn. Cette polyvalence fait de Python un langage de prédilection pour de nombreux développeurs.",
                 "list": []
             },
             {
-                "title": "Fort Soutien de la Communauté",
-                "description": "Python possède une communauté dynamique et active qui contribue continuellement à sa croissance. Avec de nombreux tutoriels, forums et projets open-source disponibles, les développeurs peuvent facilement trouver du soutien et des ressources pour améliorer leurs compétences et résoudre des défis.",
+                title: "Fort Soutien de la Communauté",
+                description: "Python possède une communauté dynamique et active qui contribue continuellement à sa croissance. Avec de nombreux tutoriels, forums et projets open-source disponibles, les développeurs peuvent facilement trouver du soutien et des ressources pour améliorer leurs compétences et résoudre des défis.",
                 "list": []
             }
         ],

@@ -9,20 +9,19 @@ import {
     AccordionItemButton,
 } from "react-accessible-accordion";
 import {sanitizeUUID} from "@/lib/utils";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const ServiceFaqSelenium: React.FC = () => {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${InfoTranslation[currentTranslate.value].DevOps.selenium.faqs[0].question}`
+                    `${InfoTranslation[locale.value].DevOps.selenium.faqs[0].question}`
                 ]}>
-                    {InfoTranslation[currentTranslate.value].DevOps.selenium.faqs.map((item, index: number) => (
+                    {InfoTranslation[locale.value].DevOps.selenium.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>

@@ -6,21 +6,21 @@ export const DevOpsFR: IDevOps = {
     subTitle: "",
 
     docker: {
-        "title": "Docker",
-        "description": "Simplifiez le déploiement de vos applications grâce à la conteneurisation pour des environnements cohérents et efficaces.",
+        title: "Docker",
+        description: "Simplifiez le déploiement de vos applications grâce à la conteneurisation pour des environnements cohérents et efficaces.",
         "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
         "alt": "Logo représentant l'expérience en technologie Docker",
         "readMore": "Explorez Docker pour des tests DevOps efficaces",
         "link": "/technical-expertise/cloud-devops/docker",
         "features": [
             {
-                "title": "Docker",
-                "description": "Docker est une plateforme puissante pour développer, livrer et exécuter des applications dans des conteneurs, assurant la cohérence entre plusieurs environnements. Idéal pour les pratiques DevOps modernes.",
+                title: "Docker",
+                description: "Docker est une plateforme puissante pour développer, livrer et exécuter des applications dans des conteneurs, assurant la cohérence entre plusieurs environnements. Idéal pour les pratiques DevOps modernes.",
                 "list": []
             },
             {
-                "title": "Points forts de Docker",
-                "description": "Docker excelle avec ses fonctionnalités clés",
+                title: "Points forts de Docker",
+                description: "Docker excelle avec ses fonctionnalités clés",
                 "list": [
                     "Conteneurisation",
                     "Cohérence des environnements",
@@ -32,8 +32,8 @@ export const DevOpsFR: IDevOps = {
                 ]
             },
             {
-                "title": "Défis et Solutions",
-                "description": "Docker répond aux défis de déploiement en fournissant des solutions de conteneurisation qui améliorent les performances, l'évolutivité et la cohérence.",
+                title: "Défis et Solutions",
+                description: "Docker répond aux défis de déploiement en fournissant des solutions de conteneurisation qui améliorent les performances, l'évolutivité et la cohérence.",
                 "list": []
             }
         ],
@@ -53,21 +53,21 @@ export const DevOpsFR: IDevOps = {
         ]
     },
     kubernetes: {
-        "title": "Kubernetes",
-        "description": "Automatisez l'orchestration de vos conteneurs avec Kubernetes pour des applications évolutives et résilientes.",
+        title: "Kubernetes",
+        description: "Automatisez l'orchestration de vos conteneurs avec Kubernetes pour des applications évolutives et résilientes.",
         "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
         "alt": "Logo représentant l'expérience de la technologie Kubernetes",
         "readMore": "Découvrez les solutions de test DevOps Kubernetes",
         "link": "/technical-expertise/cloud-devops/kubernetes",
         "features": [
             {
-                "title": "Kubernetes",
-                "description": "Kubernetes est une plateforme leader d'orchestration de conteneurs qui automatise le déploiement, la mise à l'échelle et la gestion des applications conteneurisées. Essentiel pour les systèmes à grande échelle et résilients.",
+                title: "Kubernetes",
+                description: "Kubernetes est une plateforme leader d'orchestration de conteneurs qui automatise le déploiement, la mise à l'échelle et la gestion des applications conteneurisées. Essentiel pour les systèmes à grande échelle et résilients.",
                 "list": []
             },
             {
-                "title": "Points forts de Kubernetes",
-                "description": "Kubernetes se distingue par ses fonctionnalités robustes",
+                title: "Points forts de Kubernetes",
+                description: "Kubernetes se distingue par ses fonctionnalités robustes",
                 "list": [
                     "Déploiement automatisé",
                     "Évolutivité",
@@ -79,8 +79,8 @@ export const DevOpsFR: IDevOps = {
                 ]
             },
             {
-                "title": "Défis et Solutions",
-                "description": "Kubernetes répond aux défis d'orchestration en fournissant des solutions évolutives et automatisées pour les applications conteneurisées.",
+                title: "Défis et Solutions",
+                description: "Kubernetes répond aux défis d'orchestration en fournissant des solutions évolutives et automatisées pour les applications conteneurisées.",
                 "list": []
             }
         ],
@@ -100,21 +100,21 @@ export const DevOpsFR: IDevOps = {
         ]
     },
     github: {
-        "title": "GitHub",
-        "description": "Améliorez votre flux de travail de développement avec la plateforme de contrôle de version et de collaboration de GitHub.",
+        title: "GitHub",
+        description: "Améliorez votre flux de travail de développement avec la plateforme de contrôle de version et de collaboration de GitHub.",
         "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
         "alt": "Logo représentant l'expérience de la technologie GitHub",
         "readMore": "Découvrez comment GitHub optimise les tests DevOps",
         "link": "/technical-expertise/cloud-devops/github",
         "features": [
             {
-                "title": "GitHub",
-                "description": "GitHub est une plateforme web qui fournit l'hébergement de dépôts Git, des outils de développement collaboratif et une large gamme d'intégrations, favorisant un développement logiciel efficace et collaboratif.",
+                title: "GitHub",
+                description: "GitHub est une plateforme web qui fournit l'hébergement de dépôts Git, des outils de développement collaboratif et une large gamme d'intégrations, favorisant un développement logiciel efficace et collaboratif.",
                 "list": []
             },
             {
-                "title": "Points forts de GitHub",
-                "description": "GitHub excelle avec ses fonctionnalités clés",
+                title: "Points forts de GitHub",
+                description: "GitHub excelle avec ses fonctionnalités clés",
                 "list": [
                     "Contrôle de ChornMetadata",
                     "Développement collaboratif",
@@ -126,8 +126,8 @@ export const DevOpsFR: IDevOps = {
                 ]
             },
             {
-                "title": "Défis et Solutions",
-                "description": "GitHub relève les défis du flux de travail de développement en fournissant un contrôle de version robuste et des outils collaboratifs pour une gestion efficace de projet.",
+                title: "Défis et Solutions",
+                description: "GitHub relève les défis du flux de travail de développement en fournissant un contrôle de version robuste et des outils collaboratifs pour une gestion efficace de projet.",
                 "list": []
             }
         ],

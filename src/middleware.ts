@@ -32,17 +32,19 @@ export function middleware(request: NextRequest) {
     const pathAfterLocale = pathnameParts.slice(2).join('/');
 
     // Redirect root ("/") to the default locale ("/en")
-    if (pathname === '/') {
+    if (
+        pathname === '/' ||
+        !locales.includes(locale)
+    ) {
         return NextResponse.redirect(new URL(`/${defaultLocale}`, request.url));
     }
 
-    // Redirect of the undefined-locale the default locale ("/en")
-    if (!locales.includes(locale)) {
-        const newPath = pathAfterLocale ? `/${defaultLocale}/${pathAfterLocale}` : `/${defaultLocale}`;
-        return NextResponse.redirect(new URL(newPath, request.url));
-    }
+    // Create a response and pass the locale via a custom header
+    const res = NextResponse.next();
+    res.headers.set('x-locale', locale);
+    return res
 
-    return NextResponse.next();
+    // return NextResponse.next();
 }
 
 // Apply middleware to all paths

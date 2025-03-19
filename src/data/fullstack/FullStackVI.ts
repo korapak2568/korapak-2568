@@ -66,21 +66,21 @@ export const FullStackVI: IFullStack = {
         ],
     },
     go: {
-        "title": "GO",
-        "description": "Go, còn được gọi là Golang, là một ngôn ngữ lập trình được biên dịch và kiểu tĩnh được thiết kế bởi Google. Nó nổi tiếng với sự đơn giản, hiệu quả và hỗ trợ mạnh mẽ cho xử lý đồng thời, khiến nó trở thành lựa chọn lý tưởng cho việc phát triển các microservices.",
+        title: "GO",
+        description: "Go, còn được gọi là Golang, là một ngôn ngữ lập trình được biên dịch và kiểu tĩnh được thiết kế bởi Google. Nó nổi tiếng với sự đơn giản, hiệu quả và hỗ trợ mạnh mẽ cho xử lý đồng thời, khiến nó trở thành lựa chọn lý tưởng cho việc phát triển các microservices.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
         "alt": "Logo đại diện cho ngôn ngữ lập trình Go",
         "readMore": "Khám phá thêm các giải pháp phát triển full-stack Go",
         "link": "/technical-expertise/full-stack-developer/go-developer",
         "features": [
             {
-                "title": "Phát triển Go",
-                "description": "Go, còn được gọi là Golang, là một ngôn ngữ lập trình được biên dịch và kiểu tĩnh được thiết kế bởi Google. Nó nổi tiếng với sự đơn giản, hiệu quả và hỗ trợ mạnh mẽ cho xử lý đồng thời, khiến nó trở thành lựa chọn lý tưởng cho việc phát triển các microservices.",
+                title: "Phát triển Go",
+                description: "Go, còn được gọi là Golang, là một ngôn ngữ lập trình được biên dịch và kiểu tĩnh được thiết kế bởi Google. Nó nổi tiếng với sự đơn giản, hiệu quả và hỗ trợ mạnh mẽ cho xử lý đồng thời, khiến nó trở thành lựa chọn lý tưởng cho việc phát triển các microservices.",
                 "list": []
             },
             {
-                "title": "Xử lý đồng thời hiệu quả",
-                "description": "Goroutines và channels của Go cung cấp hỗ trợ mạnh mẽ cho lập trình đồng thời, cho phép các nhà phát triển xây dựng các ứng dụng có hiệu suất cao và khả năng mở rộng. Điều này khiến Go trở thành ngôn ngữ ưa thích để phát triển các microservices đòi hỏi xử lý nhiều tác vụ cùng một lúc.",
+                title: "Xử lý đồng thời hiệu quả",
+                description: "Goroutines và channels của Go cung cấp hỗ trợ mạnh mẽ cho lập trình đồng thời, cho phép các nhà phát triển xây dựng các ứng dụng có hiệu suất cao và khả năng mở rộng. Điều này khiến Go trở thành ngôn ngữ ưa thích để phát triển các microservices đòi hỏi xử lý nhiều tác vụ cùng một lúc.",
                 "list": [
                     "Lập trình đồng thời",
                     "Biên dịch nhanh",
@@ -92,13 +92,13 @@ export const FullStackVI: IFullStack = {
                 ]
             },
             {
-                "title": "Biên dịch nhanh",
-                "description": "Go biên dịch nhanh chóng thành mã máy, dẫn đến thời gian thực thi nhanh. Hiệu quả này, kết hợp với thu gom rác và kiểu tĩnh, đảm bảo rằng các ứng dụng Go hoạt động tốt, ngay cả dưới tải nặng.",
+                title: "Biên dịch nhanh",
+                description: "Go biên dịch nhanh chóng thành mã máy, dẫn đến thời gian thực thi nhanh. Hiệu quả này, kết hợp với thu gom rác và kiểu tĩnh, đảm bảo rằng các ứng dụng Go hoạt động tốt, ngay cả dưới tải nặng.",
                 "list": []
             },
             {
-                "title": "Khả năng tương tác",
-                "description": "Sự đơn giản và rõ ràng của Go giúp dễ dàng tích hợp với các ngôn ngữ lập trình khác. Khả năng tương tác này cho phép các nhà phát triển tận dụng điểm mạnh của Go trong các phần quan trọng về hiệu suất của ứng dụng trong khi sử dụng các ngôn ngữ khác cho các thành phần khác nhau.",
+                title: "Khả năng tương tác",
+                description: "Sự đơn giản và rõ ràng của Go giúp dễ dàng tích hợp với các ngôn ngữ lập trình khác. Khả năng tương tác này cho phép các nhà phát triển tận dụng điểm mạnh của Go trong các phần quan trọng về hiệu suất của ứng dụng trong khi sử dụng các ngôn ngữ khác cho các thành phần khác nhau.",
                 "list": []
             }
         ],
@@ -255,21 +255,21 @@ export const FullStackVI: IFullStack = {
         ]
     },
     php: {
-        "title": "PHP",
-        "description": "PHP là ngôn ngữ kịch bản phía máy chủ phổ biến được sử dụng rộng rãi cho phát triển web. Các framework như Symfony, Laravel, Phalcon, và các công cụ tạo mẫu như Twig, cùng với các nền tảng như WordPress và biến thể headless của nó, đã nâng cao việc phát triển PHP bằng cách cung cấp các giải pháp có cấu trúc, hiệu quả và có khả năng mở rộng cho việc xây dựng các ứng dụng web phức tạp.",
+        title: "PHP",
+        description: "PHP là ngôn ngữ kịch bản phía máy chủ phổ biến được sử dụng rộng rãi cho phát triển web. Các framework như Symfony, Laravel, Phalcon, và các công cụ tạo mẫu như Twig, cùng với các nền tảng như WordPress và biến thể headless của nó, đã nâng cao việc phát triển PHP bằng cách cung cấp các giải pháp có cấu trúc, hiệu quả và có khả năng mở rộng cho việc xây dựng các ứng dụng web phức tạp.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
         "alt": "Logo đại diện cho ngôn ngữ lập trình PHP",
         "readMore": "Khám phá thêm các giải pháp phát triển full-stack PHP",
         "link": "/technical-expertise/full-stack-developer/php-developer",
         "features": [
             {
-                "title": "Phát triển PHP",
-                "description": "PHP là ngôn ngữ kịch bản phía máy chủ phổ biến được sử dụng rộng rãi cho phát triển web. Các framework như Symfony, Laravel, Phalcon, và các công cụ tạo mẫu như Twig, cùng với các nền tảng như WordPress và biến thể headless của nó, đã nâng cao việc phát triển PHP bằng cách cung cấp các giải pháp có cấu trúc, hiệu quả và có khả năng mở rộng cho việc xây dựng các ứng dụng web phức tạp.",
+                title: "Phát triển PHP",
+                description: "PHP là ngôn ngữ kịch bản phía máy chủ phổ biến được sử dụng rộng rãi cho phát triển web. Các framework như Symfony, Laravel, Phalcon, và các công cụ tạo mẫu như Twig, cùng với các nền tảng như WordPress và biến thể headless của nó, đã nâng cao việc phát triển PHP bằng cách cung cấp các giải pháp có cấu trúc, hiệu quả và có khả năng mở rộng cho việc xây dựng các ứng dụng web phức tạp.",
                 "list": []
             },
             {
-                "title": "Phát triển Có Cấu trúc",
-                "description": "Symfony và Laravel cung cấp cách tiếp cận có cấu trúc đối với phát triển PHP, thúc đẩy các thực hành tốt nhất và mẫu thiết kế. Symfony cung cấp một bộ các thành phần có thể tái sử dụng, trong khi Laravel tập trung vào năng suất của nhà phát triển với cú pháp và công cụ thanh lịch. Twig, công cụ tạo mẫu được sử dụng trong Symfony, cung cấp cách thiết kế mẫu linh hoạt, an toàn và nhanh chóng. Phalcon, một framework hiệu suất cao được cung cấp dưới dạng phần mở rộng C, mang đến tối ưu hóa cấp thấp và tốc độ đặc biệt, đảm bảo quản lý tài nguyên hiệu quả.",
+                title: "Phát triển Có Cấu trúc",
+                description: "Symfony và Laravel cung cấp cách tiếp cận có cấu trúc đối với phát triển PHP, thúc đẩy các thực hành tốt nhất và mẫu thiết kế. Symfony cung cấp một bộ các thành phần có thể tái sử dụng, trong khi Laravel tập trung vào năng suất của nhà phát triển với cú pháp và công cụ thanh lịch. Twig, công cụ tạo mẫu được sử dụng trong Symfony, cung cấp cách thiết kế mẫu linh hoạt, an toàn và nhanh chóng. Phalcon, một framework hiệu suất cao được cung cấp dưới dạng phần mở rộng C, mang đến tối ưu hóa cấp thấp và tốc độ đặc biệt, đảm bảo quản lý tài nguyên hiệu quả.",
                 "list": [
                     "Kịch bản phía máy chủ",
                     "Dễ học",
@@ -281,13 +281,13 @@ export const FullStackVI: IFullStack = {
                 ]
             },
             {
-                "title": "Phát triển Nhanh chóng",
-                "description": "Laravel, nổi tiếng với cú pháp biểu đạt và các công cụ mạnh mẽ, cho phép phát triển và triển khai nhanh chóng các ứng dụng web. Các tính năng như Eloquent ORM, công cụ tạo mẫu Blade và công cụ dòng lệnh Laravel Artisan hợp lý hóa các nhiệm vụ phát triển. Phalcon tăng cường phát triển nhanh chóng với hiệu suất mạnh mẽ và kiến trúc cấp thấp. WordPress cung cấp thiết lập nhanh chóng và nhiều plugin và chủ đề, cho phép các nhà phát triển nhanh chóng triển khai các trang web giàu tính năng. Headless WordPress tách biệt front-end và back-end, cho phép sử dụng các framework JavaScript hiện đại như React hoặc Vue cho trải nghiệm người dùng năng động và phản hồi nhanh.",
+                title: "Phát triển Nhanh chóng",
+                description: "Laravel, nổi tiếng với cú pháp biểu đạt và các công cụ mạnh mẽ, cho phép phát triển và triển khai nhanh chóng các ứng dụng web. Các tính năng như Eloquent ORM, công cụ tạo mẫu Blade và công cụ dòng lệnh Laravel Artisan hợp lý hóa các nhiệm vụ phát triển. Phalcon tăng cường phát triển nhanh chóng với hiệu suất mạnh mẽ và kiến trúc cấp thấp. WordPress cung cấp thiết lập nhanh chóng và nhiều plugin và chủ đề, cho phép các nhà phát triển nhanh chóng triển khai các trang web giàu tính năng. Headless WordPress tách biệt front-end và back-end, cho phép sử dụng các framework JavaScript hiện đại như React hoặc Vue cho trải nghiệm người dùng năng động và phản hồi nhanh.",
                 "list": []
             },
             {
-                "title": "Cộng đồng và Hệ sinh thái",
-                "description": "PHP có một cộng đồng rộng lớn và hệ sinh thái phong phú về thư viện, plugin và framework. Cả Symfony và Laravel đều được hưởng lợi từ sự hỗ trợ cộng đồng tích cực, tài liệu mở rộng và nhiều gói của bên thứ ba, làm cho việc phát triển PHP hiệu quả và thú vị. Phalcon có một cộng đồng đang phát triển và cung cấp tài liệu chi tiết và hướng dẫn để hỗ trợ các nhà phát triển. WordPress tự hào có một hệ sinh thái rộng lớn với một cơ sở người dùng lớn, cung cấp nhiều plugin và chủ đề, trong khi Headless WordPress tận dụng tính linh hoạt của các framework front-end hiện đại, được hỗ trợ bởi một cộng đồng mạnh mẽ và tài nguyên.",
+                title: "Cộng đồng và Hệ sinh thái",
+                description: "PHP có một cộng đồng rộng lớn và hệ sinh thái phong phú về thư viện, plugin và framework. Cả Symfony và Laravel đều được hưởng lợi từ sự hỗ trợ cộng đồng tích cực, tài liệu mở rộng và nhiều gói của bên thứ ba, làm cho việc phát triển PHP hiệu quả và thú vị. Phalcon có một cộng đồng đang phát triển và cung cấp tài liệu chi tiết và hướng dẫn để hỗ trợ các nhà phát triển. WordPress tự hào có một hệ sinh thái rộng lớn với một cơ sở người dùng lớn, cung cấp nhiều plugin và chủ đề, trong khi Headless WordPress tận dụng tính linh hoạt của các framework front-end hiện đại, được hỗ trợ bởi một cộng đồng mạnh mẽ và tài nguyên.",
                 "list": []
             }
         ],
@@ -307,21 +307,21 @@ export const FullStackVI: IFullStack = {
         ]
     },
     python: {
-        "title": "Python",
-        "description": "Python là một ngôn ngữ lập trình cấp cao, được thông dịch nổi tiếng với tính đơn giản, dễ đọc và linh hoạt. Nó được sử dụng rộng rãi trong nhiều lĩnh vực, từ phát triển web và phân tích dữ liệu đến trí tuệ nhân tạo và tính toán khoa học.",
+        title: "Python",
+        description: "Python là một ngôn ngữ lập trình cấp cao, được thông dịch nổi tiếng với tính đơn giản, dễ đọc và linh hoạt. Nó được sử dụng rộng rãi trong nhiều lĩnh vực, từ phát triển web và phân tích dữ liệu đến trí tuệ nhân tạo và tính toán khoa học.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
         "alt": "Logo đại diện cho Python với framework Flask",
         "readMore": "Khám phá thêm các giải pháp phát triển full-stack Python, Flask, Django",
         "link": "/technical-expertise/full-stack-developer/python-developer",
         "features": [
             {
-                "title": "Phát triển Python",
-                "description": "Python là một ngôn ngữ lập trình cấp cao, được thông dịch nổi tiếng với tính đơn giản, dễ đọc và linh hoạt. Nó được sử dụng rộng rãi trong nhiều lĩnh vực, từ phát triển web và phân tích dữ liệu đến trí tuệ nhân tạo và tính toán khoa học.",
+                title: "Phát triển Python",
+                description: "Python là một ngôn ngữ lập trình cấp cao, được thông dịch nổi tiếng với tính đơn giản, dễ đọc và linh hoạt. Nó được sử dụng rộng rãi trong nhiều lĩnh vực, từ phát triển web và phân tích dữ liệu đến trí tuệ nhân tạo và tính toán khoa học.",
                 "list": []
             },
             {
-                "title": "Dễ học và dễ sử dụng",
-                "description": "Cú pháp đơn giản và khả năng đọc hiểu của Python làm cho nó trở thành lựa chọn tuyệt vời cho cả người mới bắt đầu và các nhà phát triển có kinh nghiệm. Thư viện chuẩn rộng lớn và các module do cộng đồng đóng góp cung cấp các giải pháp sẵn sàng sử dụng cho nhiều loại tác vụ khác nhau.",
+                title: "Dễ học và dễ sử dụng",
+                description: "Cú pháp đơn giản và khả năng đọc hiểu của Python làm cho nó trở thành lựa chọn tuyệt vời cho cả người mới bắt đầu và các nhà phát triển có kinh nghiệm. Thư viện chuẩn rộng lớn và các module do cộng đồng đóng góp cung cấp các giải pháp sẵn sàng sử dụng cho nhiều loại tác vụ khác nhau.",
                 "list": [
                     "Dễ học",
                     "Cú pháp dễ đọc",
@@ -333,13 +333,13 @@ export const FullStackVI: IFullStack = {
                 ]
             },
             {
-                "title": "Ứng dụng linh hoạt",
-                "description": "Python được sử dụng trong nhiều lĩnh vực đa dạng, bao gồm phát triển web với các framework như Django và Flask, khoa học dữ liệu với các thư viện như pandas và NumPy, và học máy với TensorFlow và scikit-learn. Sự linh hoạt này làm cho Python trở thành ngôn ngữ ưa thích của nhiều nhà phát triển.",
+                title: "Ứng dụng linh hoạt",
+                description: "Python được sử dụng trong nhiều lĩnh vực đa dạng, bao gồm phát triển web với các framework như Django và Flask, khoa học dữ liệu với các thư viện như pandas và NumPy, và học máy với TensorFlow và scikit-learn. Sự linh hoạt này làm cho Python trở thành ngôn ngữ ưa thích của nhiều nhà phát triển.",
                 "list": []
             },
             {
-                "title": "Hỗ trợ cộng đồng mạnh mẽ",
-                "description": "Python có một cộng đồng sôi động và tích cực liên tục đóng góp vào sự phát triển của nó. Với nhiều hướng dẫn, diễn đàn và dự án mã nguồn mở có sẵn, các nhà phát triển có thể dễ dàng tìm thấy sự hỗ trợ và nguồn lực để nâng cao kỹ năng và giải quyết thách thức.",
+                title: "Hỗ trợ cộng đồng mạnh mẽ",
+                description: "Python có một cộng đồng sôi động và tích cực liên tục đóng góp vào sự phát triển của nó. Với nhiều hướng dẫn, diễn đàn và dự án mã nguồn mở có sẵn, các nhà phát triển có thể dễ dàng tìm thấy sự hỗ trợ và nguồn lực để nâng cao kỹ năng và giải quyết thách thức.",
                 "list": []
             }
         ],

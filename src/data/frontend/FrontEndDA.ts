@@ -6,21 +6,21 @@ export const FrontEndDA: IFrontEnd = {
     subTitle: "",
 
     angular: {
-        "title": "Angular",
-        "description": "Udvikl robuste, virksomhedsklare webapplikationer med Angulars omfattende og alsidige framework.",
+        title: "Angular",
+        description: "Udvikl robuste, virksomhedsklare webapplikationer med Angulars omfattende og alsidige framework.",
         "image": "/chorn-images/technical-expertise/front-end-developer/angular-developer.webp",
         "alt": "Logo der repræsenterer Angular-frameworket",
         "readMore": "Udforsk flere Angular frontend-udviklingsløsninger",
         "link": "/technical-expertise/front-end-developer/angular-developer",
         "features": [
             {
-                "title": "Angular-udvikling",
-                "description": "Angular er et kraftfuldt webapplikationsframework udviklet af Google. Det letter skabelsen af dynamiske, single-page applikationer med dets omfattende værktøjssæt og MVC-arkitektur.",
+                title: "Angular-udvikling",
+                description: "Angular er et kraftfuldt webapplikationsframework udviklet af Google. Det letter skabelsen af dynamiske, single-page applikationer med dets omfattende værktøjssæt og MVC-arkitektur.",
                 "list": []
             },
             {
-                "title": "Angulars stærke sider",
-                "description": "Angular udmærker sig ved sin robuste arkitektur og rige funktioner.",
+                title: "Angulars stærke sider",
+                description: "Angular udmærker sig ved sin robuste arkitektur og rige funktioner.",
                 "list": [
                     "Tovejs databinding",
                     "Dependency injection",
@@ -32,8 +32,8 @@ export const FrontEndDA: IFrontEnd = {
                 ]
             },
             {
-                "title": "Udfordringer og løsninger",
-                "description": "Angular tackler kompleksiteter i store applikationer med en stærk arkitektur, effektiv databinding og dependency injection.",
+                title: "Udfordringer og løsninger",
+                description: "Angular tackler kompleksiteter i store applikationer med en stærk arkitektur, effektiv databinding og dependency injection.",
                 "list": []
             }
         ],
@@ -53,21 +53,21 @@ export const FrontEndDA: IFrontEnd = {
         ]
     },
     css3: {
-        "title": "CSS3",
-        "description": "Forbedre din hjemmesides udseende med avancerede styling-teknikker ved hjælp af CSS3.",
+        title: "CSS3",
+        description: "Forbedre din hjemmesides udseende med avancerede styling-teknikker ved hjælp af CSS3.",
         "image": "/chorn-images/technical-expertise/front-end-developer/css3-developer.webp",
         "alt": "Logo der repræsenterer CSS3-teknologi",
         "readMore": "Udforsk flere CSS3 front-end udviklingsløsninger",
         "link": "/technical-expertise/front-end-developer/css3-developer",
         "features": [
             {
-                "title": "CSS3 Responsivt Design",
-                "description": "CSS3 er den seneste udvikling af Cascading Style Sheets, der tilbyder avancerede funktioner til at forbedre den visuelle præsentation af websider.",
+                title: "CSS3 Responsivt Design",
+                description: "CSS3 er den seneste udvikling af Cascading Style Sheets, der tilbyder avancerede funktioner til at forbedre den visuelle præsentation af websider.",
                 "list": []
             },
             {
-                "title": "Stærke sider ved CSS3",
-                "description": "CSS3 bringer moderne styling-muligheder til webudvikling.",
+                title: "Stærke sider ved CSS3",
+                description: "CSS3 bringer moderne styling-muligheder til webudvikling.",
                 "list": [
                     "Avancerede selektorer",
                     "Fleksibelt box-layout",
@@ -79,8 +79,8 @@ export const FrontEndDA: IFrontEnd = {
                 ]
             },
             {
-                "title": "Udfordringer og Løsninger",
-                "description": "CSS3 imødekommer efterspørgslen på responsivt, visuelt tiltalende webdesign med kraftfulde nye funktioner.",
+                title: "Udfordringer og Løsninger",
+                description: "CSS3 imødekommer efterspørgslen på responsivt, visuelt tiltalende webdesign med kraftfulde nye funktioner.",
                 "list": []
             }
         ],
@@ -104,21 +104,21 @@ export const FrontEndDA: IFrontEnd = {
         ]
     },
     html5: {
-        "title": "HTML5",
-        "description": "Behersk de nyeste standarder inden for webudvikling til rigt, interaktivt indhold.",
+        title: "HTML5",
+        description: "Behersk de nyeste standarder inden for webudvikling til rigt, interaktivt indhold.",
         "image": "/chorn-images/technical-expertise/front-end-developer/html5-developer.webp",
         "alt": "Logo, der repræsenterer HTML5-teknologi",
         "readMore": "Udforsk flere HTML5 frontend-udviklingsløsninger",
         "link": "/technical-expertise/front-end-developer/html5-developer",
         "features": [
             {
-                "title": "HTML5 Webdesign",
-                "description": "HTML5 er den nyeste version af HyperText Markup Languages, som introducerer nye elementer og API'er for en rigere weboplevelse.",
+                title: "HTML5 Webdesign",
+                description: "HTML5 er den nyeste version af HyperText Markup Languages, som introducerer nye elementer og API'er for en rigere weboplevelse.",
                 "list": []
             },
             {
-                "title": "Stærke punkter ved HTML5",
-                "description": "HTML5 forbedrer webudvikling med sine moderne funktioner og muligheder.",
+                title: "Stærke punkter ved HTML5",
+                description: "HTML5 forbedrer webudvikling med sine moderne funktioner og muligheder.",
                 "list": [
                     "Nye semantiske elementer",
                     "Understøttelse af lyd og video",
@@ -130,8 +130,8 @@ export const FrontEndDA: IFrontEnd = {
                 ]
             },
             {
-                "title": "Udfordringer og løsninger",
-                "description": "HTML5 adresserer behovet for mere interaktive og medierige weboplevelser med nye elementer og API'er.",
+                title: "Udfordringer og løsninger",
+                description: "HTML5 adresserer behovet for mere interaktive og medierige weboplevelser med nye elementer og API'er.",
                 "list": []
             }
         ],
@@ -151,21 +151,21 @@ export const FrontEndDA: IFrontEnd = {
         ]
     },
     nextjs: {
-        "title": "NextJS",
-        "description": "Boost dine React-applikationer med problemfri server-side rendering og statisk website-generering for optimal ydeevne.",
+        title: "NextJS",
+        description: "Boost dine React-applikationer med problemfri server-side rendering og statisk website-generering for optimal ydeevne.",
         "image": "/chorn-images/technical-expertise/front-end-developer/nextjs-developer.webp",
         "alt": "Logo der repræsenterer Next.js-frameworket",
         "readMore": "Udforsk flere NextJS frontend-udviklingsløsninger",
         "link": "/technical-expertise/front-end-developer/nextjs-developer",
         "features": [
             {
-                "title": "NextJS Udvikling",
-                "description": "Next.js er et førende React-framework, der tilbyder server-side rendering og statisk website-generering, og leverer højtydende, SEO-venlige webapplikationer med minimal konfiguration. Perfekt til moderne webudviklingsbehov.",
+                title: "NextJS Udvikling",
+                description: "Next.js er et førende React-framework, der tilbyder server-side rendering og statisk website-generering, og leverer højtydende, SEO-venlige webapplikationer med minimal konfiguration. Perfekt til moderne webudviklingsbehov.",
                 "list": []
             },
             {
-                "title": "Stærke punkter ved NextJS",
-                "description": "NextJS udmærker sig med sine robuste funktioner",
+                title: "Stærke punkter ved NextJS",
+                description: "NextJS udmærker sig med sine robuste funktioner",
                 "list": [
                     "Server-side rendering",
                     "Statisk website-generering",
@@ -177,8 +177,8 @@ export const FrontEndDA: IFrontEnd = {
                 ]
             },
             {
-                "title": "Udfordringer og Løsninger",
-                "description": "Next.js tackler webudviklingsudfordringer ved at levere løsninger til ydeevne, skalerbarhed og SEO, hvilket sikrer optimal applikationslevering.",
+                title: "Udfordringer og Løsninger",
+                description: "Next.js tackler webudviklingsudfordringer ved at levere løsninger til ydeevne, skalerbarhed og SEO, hvilket sikrer optimal applikationslevering.",
                 "list": []
             }
         ],
@@ -199,21 +199,21 @@ export const FrontEndDA: IFrontEnd = {
     },
 
     react: {
-        "title": "React",
-        "description": "Byg dynamiske brugergrænseflader med høj ydeevne uden besvær med Reacts kraftfulde komponentbaserede arkitektur.",
+        title: "React",
+        description: "Byg dynamiske brugergrænseflader med høj ydeevne uden besvær med Reacts kraftfulde komponentbaserede arkitektur.",
         "image": "/chorn-images/technical-expertise/front-end-developer/react-developer.webp",
         "alt": "Logo der repræsenterer React.js-biblioteket",
         "readMore": "Udforsk flere ReactJS front-end udviklingsløsninger",
         "link": "/technical-expertise/front-end-developer/react-developer",
         "features": [
             {
-                "title": "React-udvikling",
-                "description": "React.js er et populært JavaScript-bibliotek til opbygning af brugergrænseflader. Det giver udviklere mulighed for at skabe genanvendelige UI-komponenter, hvilket forbedrer udviklingseffektiviteten og applikationens ydeevne.",
+                title: "React-udvikling",
+                description: "React.js er et populært JavaScript-bibliotek til opbygning af brugergrænseflader. Det giver udviklere mulighed for at skabe genanvendelige UI-komponenter, hvilket forbedrer udviklingseffektiviteten og applikationens ydeevne.",
                 "list": []
             },
             {
-                "title": "React.js' stærke sider",
-                "description": "React.js tilbyder et robust sæt funktioner, der gør det til et foretrukket valg for udviklere.",
+                title: "React.js' stærke sider",
+                description: "React.js tilbyder et robust sæt funktioner, der gør det til et foretrukket valg for udviklere.",
                 "list": [
                     "Komponentbaseret arkitektur",
                     "Virtuel DOM for forbedret ydeevne",
@@ -225,8 +225,8 @@ export const FrontEndDA: IFrontEnd = {
                 ]
             },
             {
-                "title": "Udfordringer og løsninger",
-                "description": "React.js adresserer udfordringer i dynamisk UI-udvikling med en virtuel DOM, genanvendelighed af komponenter og et aktivt fællesskab.",
+                title: "Udfordringer og løsninger",
+                description: "React.js adresserer udfordringer i dynamisk UI-udvikling med en virtuel DOM, genanvendelighed af komponenter og et aktivt fællesskab.",
                 "list": []
             }
         ],
@@ -246,21 +246,21 @@ export const FrontEndDA: IFrontEnd = {
         ]
     },
     typescript: {
-        "title": "TypeScript",
-        "description": "TypeScript er en stærkt typet overbygning af JavaScript, der tilføjer statiske typer, forbedrer udviklingsoplevelsen ved at fange fejl tidligt og forbedrer kodekvaliteten. Det kompileres til almindelig JavaScript, hvilket gør det kompatibelt med alle browsere og frameworks.",
+        title: "TypeScript",
+        description: "TypeScript er en stærkt typet overbygning af JavaScript, der tilføjer statiske typer, forbedrer udviklingsoplevelsen ved at fange fejl tidligt og forbedrer kodekvaliteten. Det kompileres til almindelig JavaScript, hvilket gør det kompatibelt med alle browsere og frameworks.",
         "image": "/chorn-images/technical-expertise/front-end-developer/typescript-developer.webp",
         "alt": "Logo der repræsenterer TypeScript programmeringssprog",
         "readMore": "Udforsk flere TypeScript full-stack udviklingsløsninger",
         "link": "/technical-expertise/front-end-developer/typescript-developer",
         "features": [
             {
-                "title": "TypeScript Udvikling",
-                "description": "TypeScript forbedrer udvikling ved at introducere statisk typning og objektorienterede programmeringsfunktioner, hvilket giver udviklere mulighed for at bygge skalerbare og vedligeholdbare applikationer med selvtillid.",
+                title: "TypeScript Udvikling",
+                description: "TypeScript forbedrer udvikling ved at introducere statisk typning og objektorienterede programmeringsfunktioner, hvilket giver udviklere mulighed for at bygge skalerbare og vedligeholdbare applikationer med selvtillid.",
                 "list": []
             },
             {
-                "title": "Forbedret Kodekvalitet",
-                "description": "TypeScripts typekontrol-funktioner sikrer, at potentielle fejl opdages under udviklingsfasen, reducerer runtime-fejl og forbedrer vedligeholdelsen for store projekter.",
+                title: "Forbedret Kodekvalitet",
+                description: "TypeScripts typekontrol-funktioner sikrer, at potentielle fejl opdages under udviklingsfasen, reducerer runtime-fejl og forbedrer vedligeholdelsen for store projekter.",
                 "list": [
                     "Statisk typning",
                     "Avanceret fejlkontrol",
@@ -271,13 +271,13 @@ export const FrontEndDA: IFrontEnd = {
                 ]
             },
             {
-                "title": "Forbedret Udviklerproduktivitet",
-                "description": "Med funktioner som typeinferens, interfaces og generics gør TypeScript det lettere at administrere komplekse kodebasiser. Det integreres problemfrit med moderne værktøjer, hvilket øger produktiviteten og samarbejdet.",
+                title: "Forbedret Udviklerproduktivitet",
+                description: "Med funktioner som typeinferens, interfaces og generics gør TypeScript det lettere at administrere komplekse kodebasiser. Det integreres problemfrit med moderne værktøjer, hvilket øger produktiviteten og samarbejdet.",
                 "list": []
             },
             {
-                "title": "Problemfri Integration med Frameworks",
-                "description": "TypeScript integreres uden problemer med populære JavaScript-frameworks som React, Angular og Vue.js. Udviklere kan gradvist implementere TypeScript i eksisterende JavaScript-projekter, hvilket sikrer kompatibilitet og skalerbarhed.",
+                title: "Problemfri Integration med Frameworks",
+                description: "TypeScript integreres uden problemer med populære JavaScript-frameworks som React, Angular og Vue.js. Udviklere kan gradvist implementere TypeScript i eksisterende JavaScript-projekter, hvilket sikrer kompatibilitet og skalerbarhed.",
                 "list": []
             }
         ],
@@ -297,21 +297,21 @@ export const FrontEndDA: IFrontEnd = {
         ]
     },
     vue: {
-        "title": "Vue",
-        "description": "Skab moderne, reaktive webgrænseflader hurtigt med Vues intuitive og fleksible design.",
+        title: "Vue",
+        description: "Skab moderne, reaktive webgrænseflader hurtigt med Vues intuitive og fleksible design.",
         "image": "/chorn-images/technical-expertise/front-end-developer/vue-developer.webp",
         "alt": "Logo, der repræsenterer Vue.js-frameworket",
         "readMore": "Udforsk flere VueJS frontend-udviklingsløsninger",
         "link": "/technical-expertise/front-end-developer/vue-developer",
         "features": [
             {
-                "title": "Vue-udvikling",
-                "description": "Vue.js er et progressivt JavaScript-framework til opbygning af brugergrænseflader. Det er designet til at kunne adopteres gradvist, med et kernebibliotek, der fokuserer på visningslaget.",
+                title: "Vue-udvikling",
+                description: "Vue.js er et progressivt JavaScript-framework til opbygning af brugergrænseflader. Det er designet til at kunne adopteres gradvist, med et kernebibliotek, der fokuserer på visningslaget.",
                 "list": []
             },
             {
-                "title": "Stærke sider ved Vue",
-                "description": "Vue.js tilbyder et fleksibelt og ydedygtigt framework med centrale styrker.",
+                title: "Stærke sider ved Vue",
+                description: "Vue.js tilbyder et fleksibelt og ydedygtigt framework med centrale styrker.",
                 "list": [
                     "Reaktiv databinding",
                     "Komponentbaseret struktur",
@@ -323,8 +323,8 @@ export const FrontEndDA: IFrontEnd = {
                 ]
             },
             {
-                "title": "Udfordringer og løsninger",
-                "description": "Vue.js forenkler webudvikling med sin intuitive API, reaktive databinding og nem integration.",
+                title: "Udfordringer og løsninger",
+                description: "Vue.js forenkler webudvikling med sin intuitive API, reaktive databinding og nem integration.",
                 "list": []
             }
         ],
@@ -344,21 +344,21 @@ export const FrontEndDA: IFrontEnd = {
         ]
     },
     javascript: {
-        "title": "JavaScript",
-        "description": "JavaScript er et alsidigt og dynamisk programmeringssprog, der bruges i vid udstrækning til at bygge interaktive og responsive webapplikationer. Dets fleksibilitet og omfattende økosystem gør det til et essentielt værktøj til moderne webudvikling.",
+        title: "JavaScript",
+        description: "JavaScript er et alsidigt og dynamisk programmeringssprog, der bruges i vid udstrækning til at bygge interaktive og responsive webapplikationer. Dets fleksibilitet og omfattende økosystem gør det til et essentielt værktøj til moderne webudvikling.",
         "image": "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
         "alt": "Logo der repræsenterer JavaScript programmeringssprog",
         "readMore": "Udforsk flere JavaScript full-stack udviklingsløsninger",
         "link": "/technical-expertise/front-end-developer/javascript-developer",
         "features": [
             {
-                "title": "JavaScript Udvikling",
-                "description": "JavaScript driver den dynamiske adfærd på hjemmesider og webapplikationer og tilbyder uovertruffen alsidighed og kompatibilitet med browsere og frameworks.",
+                title: "JavaScript Udvikling",
+                description: "JavaScript driver den dynamiske adfærd på hjemmesider og webapplikationer og tilbyder uovertruffen alsidighed og kompatibilitet med browsere og frameworks.",
                 "list": []
             },
             {
-                "title": "Rige Interaktive Oplevelser",
-                "description": "JavaScript gør det muligt for udviklere at skabe interaktive brugergrænseflader, animationer og realtidsfunktioner som chatapplikationer, hvilket giver engagerende brugeroplevelser.",
+                title: "Rige Interaktive Oplevelser",
+                description: "JavaScript gør det muligt for udviklere at skabe interaktive brugergrænseflader, animationer og realtidsfunktioner som chatapplikationer, hvilket giver engagerende brugeroplevelser.",
                 "list": [
                     "Dynamiske indholdsopdateringer",
                     "Interaktive webgrænseflader",
@@ -368,13 +368,13 @@ export const FrontEndDA: IFrontEnd = {
                 ]
             },
             {
-                "title": "Omfattende Økosystem og Værktøjer",
-                "description": "JavaScript har et omfattende økosystem af biblioteker og frameworks som React, Angular og Vue.js, der giver udviklere mulighed for effektivt at bygge robuste webapplikationer.",
+                title: "Omfattende Økosystem og Værktøjer",
+                description: "JavaScript har et omfattende økosystem af biblioteker og frameworks som React, Angular og Vue.js, der giver udviklere mulighed for effektivt at bygge robuste webapplikationer.",
                 "list": []
             },
             {
-                "title": "Back-End Udvikling med Node.js",
-                "description": "JavaScript strækker sig til back-end udvikling gennem Node.js, hvilket muliggør full-stack udvikling med et enkelt sprog, fra serverlogik til klientinteraktioner.",
+                title: "Back-End Udvikling med Node.js",
+                description: "JavaScript strækker sig til back-end udvikling gennem Node.js, hvilket muliggør full-stack udvikling med et enkelt sprog, fra serverlogik til klientinteraktioner.",
                 "list": []
             }
         ],
@@ -397,30 +397,30 @@ export const FrontEndDA: IFrontEnd = {
     stacks: [],
 
     services: {
-        "title": "Front-End Udviklingsydelser",
+        title: "Front-End Udviklingsydelser",
         "descriptions": [
             "Omsæt din webvision til virkelighed med vores ekspertise inden for front-end udvikling. CHORN leverer brugervenlige, visuelt imponerende og fuldt responsive hjemmesider, der engagerer dit publikum. Vi specialiserer os i moderne frameworks som Next.js, React, Angular og Vue.js, sammen med kerneteknologier som HTML5 og CSS3. Uanset om du har brug for en højtydende single-page applikation (SPA) optimeret til søgemaskiner eller en sofistikeret multi-page platform, leverer vores udviklere kvalitetsresultater til tiden. Samarbejd med CHORN for at skabe overbevisende digitale oplevelser, der fanger besøgende og driver forretningsvækst."
         ],
         "items": [
             {
-                "title": "Implementering af Moderne Frameworks",
-                "description": "Byg dynamiske, interaktive webapplikationer ved hjælp af banebrydende frameworks som Next.js og React, der giver optimal ydeevne og brugeroplevelse."
+                title: "Implementering af Moderne Frameworks",
+                description: "Byg dynamiske, interaktive webapplikationer ved hjælp af banebrydende frameworks som Next.js og React, der giver optimal ydeevne og brugeroplevelse."
             },
             {
-                "title": "SEO-Optimering",
-                "description": "Forbedrer din hjemmesides synlighed på Google og andre søgemaskiner gennem optimeret kodestruktur, hurtige indlæsningstider og mobilvenligt design."
+                title: "SEO-Optimering",
+                description: "Forbedrer din hjemmesides synlighed på Google og andre søgemaskiner gennem optimeret kodestruktur, hurtige indlæsningstider og mobilvenligt design."
             },
             {
-                "title": "Proof of Concept (PoC) Udvikling",
-                "description": "Test og valider dine innovative idéer hurtigt med funktionelle prototyper, før du forpligter dig til fuld udvikling."
+                title: "Proof of Concept (PoC) Udvikling",
+                description: "Test og valider dine innovative idéer hurtigt med funktionelle prototyper, før du forpligter dig til fuld udvikling."
             },
             {
-                "title": "Minimum Viable Product (MVP) Skabelse",
-                "description": "Lancér en funktionel, skalerbar første version af dit produkt for at tiltrække tidlige brugere, indsamle feedback og sikre potentielle investorer."
+                title: "Minimum Viable Product (MVP) Skabelse",
+                description: "Lancér en funktionel, skalerbar første version af dit produkt for at tiltrække tidlige brugere, indsamle feedback og sikre potentielle investorer."
             },
             {
-                "title": "UI/UX Design Excellence",
-                "description": "Forøg brugertilfredsheden med intuitive, smukke grænseflader, der øger engagement, reducerer bounce-rater og øger konverteringer."
+                title: "UI/UX Design Excellence",
+                description: "Forøg brugertilfredsheden med intuitive, smukke grænseflader, der øger engagement, reducerer bounce-rater og øger konverteringer."
             }
         ]
     }

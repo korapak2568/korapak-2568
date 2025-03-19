@@ -6,21 +6,21 @@ export const FrontEndVI: IFrontEnd = {
     subTitle: "",
 
     angular: {
-        "title": "Angular",
-        "description": "Phát triển các ứng dụng web mạnh mẽ, cấp doanh nghiệp với framework toàn diện và linh hoạt của Angular.",
+        title: "Angular",
+        description: "Phát triển các ứng dụng web mạnh mẽ, cấp doanh nghiệp với framework toàn diện và linh hoạt của Angular.",
         "image": "/chorn-images/technical-expertise/front-end-developer/angular-developer.webp",
         "alt": "Logo đại diện cho framework Angular",
         "readMore": "Khám phá thêm các giải pháp phát triển front-end Angular",
         "link": "/technical-expertise/front-end-developer/angular-developer",
         "features": [
             {
-                "title": "Phát triển Angular",
-                "description": "Angular là một framework ứng dụng web mạnh mẽ được phát triển bởi Google. Nó tạo điều kiện cho việc tạo ra các ứng dụng đơn trang động với bộ công cụ toàn diện và kiến trúc MVC.",
+                title: "Phát triển Angular",
+                description: "Angular là một framework ứng dụng web mạnh mẽ được phát triển bởi Google. Nó tạo điều kiện cho việc tạo ra các ứng dụng đơn trang động với bộ công cụ toàn diện và kiến trúc MVC.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của Angular",
-                "description": "Angular nổi bật với kiến trúc mạnh mẽ và tính năng phong phú.",
+                title: "Điểm mạnh của Angular",
+                description: "Angular nổi bật với kiến trúc mạnh mẽ và tính năng phong phú.",
                 "list": [
                     "Liên kết dữ liệu hai chiều",
                     "Tiêm phụ thuộc",
@@ -32,8 +32,8 @@ export const FrontEndVI: IFrontEnd = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "Angular giải quyết sự phức tạp trong các ứng dụng quy mô lớn với kiến trúc mạnh mẽ, liên kết dữ liệu hiệu quả và tiêm phụ thuộc.",
+                title: "Thách thức và Giải pháp",
+                description: "Angular giải quyết sự phức tạp trong các ứng dụng quy mô lớn với kiến trúc mạnh mẽ, liên kết dữ liệu hiệu quả và tiêm phụ thuộc.",
                 "list": []
             }
         ],
@@ -53,21 +53,21 @@ export const FrontEndVI: IFrontEnd = {
         ]
     },
     css3: {
-        "title": "CSS3",
-        "description": "Nâng cao giao diện trang web của bạn với các kỹ thuật tạo kiểu nâng cao sử dụng CSS3.",
+        title: "CSS3",
+        description: "Nâng cao giao diện trang web của bạn với các kỹ thuật tạo kiểu nâng cao sử dụng CSS3.",
         "image": "/chorn-images/technical-expertise/front-end-developer/css3-developer.webp",
         "alt": "Logo đại diện cho công nghệ CSS3",
         "readMore": "Khám phá thêm các giải pháp phát triển front-end CSS3",
         "link": "/technical-expertise/front-end-developer/css3-developer",
         "features": [
             {
-                "title": "Thiết kế Responsive CSS3",
-                "description": "CSS3 là sự phát triển mới nhất của Cascading Style Sheets, cung cấp các tính năng nâng cao để cải thiện trình bày trực quan của trang web.",
+                title: "Thiết kế Responsive CSS3",
+                description: "CSS3 là sự phát triển mới nhất của Cascading Style Sheets, cung cấp các tính năng nâng cao để cải thiện trình bày trực quan của trang web.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của CSS3",
-                "description": "CSS3 mang đến khả năng tạo kiểu hiện đại cho phát triển web.",
+                title: "Điểm mạnh của CSS3",
+                description: "CSS3 mang đến khả năng tạo kiểu hiện đại cho phát triển web.",
                 "list": [
                     "Bộ chọn nâng cao",
                     "Bố cục hộp linh hoạt",
@@ -79,8 +79,8 @@ export const FrontEndVI: IFrontEnd = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "CSS3 đáp ứng nhu cầu về thiết kế web responsive, hấp dẫn trực quan với các tính năng mới mạnh mẽ.",
+                title: "Thách thức và Giải pháp",
+                description: "CSS3 đáp ứng nhu cầu về thiết kế web responsive, hấp dẫn trực quan với các tính năng mới mạnh mẽ.",
                 "list": []
             }
         ],
@@ -104,21 +104,21 @@ export const FrontEndVI: IFrontEnd = {
         ]
     },
     html5: {
-        "title": "HTML5",
-        "description": "Làm chủ các tiêu chuẩn mới nhất trong phát triển web cho nội dung phong phú và tương tác.",
+        title: "HTML5",
+        description: "Làm chủ các tiêu chuẩn mới nhất trong phát triển web cho nội dung phong phú và tương tác.",
         "image": "/chorn-images/technical-expertise/front-end-developer/html5-developer.webp",
         "alt": "Logo đại diện cho công nghệ HTML5",
         "readMore": "Khám phá thêm các giải pháp phát triển front-end HTML5",
         "link": "/technical-expertise/front-end-developer/html5-developer",
         "features": [
             {
-                "title": "Thiết kế Web HTML5",
-                "description": "HTML5 là phiên bản mới nhất của ngôn ngữ đánh dấu siêu văn bản, giới thiệu các phần tử và API mới cho trải nghiệm web phong phú hơn.",
+                title: "Thiết kế Web HTML5",
+                description: "HTML5 là phiên bản mới nhất của ngôn ngữ đánh dấu siêu văn bản, giới thiệu các phần tử và API mới cho trải nghiệm web phong phú hơn.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của HTML5",
-                "description": "HTML5 nâng cao việc phát triển web với các tính năng và khả năng hiện đại.",
+                title: "Điểm mạnh của HTML5",
+                description: "HTML5 nâng cao việc phát triển web với các tính năng và khả năng hiện đại.",
                 "list": [
                     "Các phần tử ngữ nghĩa mới",
                     "Hỗ trợ âm thanh và video",
@@ -130,8 +130,8 @@ export const FrontEndVI: IFrontEnd = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "HTML5 giải quyết nhu cầu về trải nghiệm web tương tác và phong phú đa phương tiện hơn với các phần tử và API mới.",
+                title: "Thách thức và Giải pháp",
+                description: "HTML5 giải quyết nhu cầu về trải nghiệm web tương tác và phong phú đa phương tiện hơn với các phần tử và API mới.",
                 "list": []
             }
         ],
@@ -151,21 +151,21 @@ export const FrontEndVI: IFrontEnd = {
         ]
     },
     nextjs: {
-        "title": "NextJS",
-        "description": "Tăng cường ứng dụng React của bạn với khả năng render phía máy chủ liền mạch và tạo trang tĩnh để có hiệu suất tối ưu.",
+        title: "NextJS",
+        description: "Tăng cường ứng dụng React của bạn với khả năng render phía máy chủ liền mạch và tạo trang tĩnh để có hiệu suất tối ưu.",
         "image": "/chorn-images/technical-expertise/front-end-developer/nextjs-developer.webp",
         "alt": "Logo đại diện cho framework Next.js",
         "readMore": "Khám phá thêm các giải pháp phát triển front-end NextJS",
         "link": "/technical-expertise/front-end-developer/nextjs-developer",
         "features": [
             {
-                "title": "Phát triển NextJS",
-                "description": "Next.js là framework React hàng đầu cung cấp khả năng render phía máy chủ và tạo trang tĩnh, mang đến các ứng dụng web hiệu suất cao, thân thiện với SEO với cấu hình tối thiểu. Hoàn hảo cho nhu cầu phát triển web hiện đại.",
+                title: "Phát triển NextJS",
+                description: "Next.js là framework React hàng đầu cung cấp khả năng render phía máy chủ và tạo trang tĩnh, mang đến các ứng dụng web hiệu suất cao, thân thiện với SEO với cấu hình tối thiểu. Hoàn hảo cho nhu cầu phát triển web hiện đại.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của NextJS",
-                "description": "NextJS nổi bật với các tính năng mạnh mẽ",
+                title: "Điểm mạnh của NextJS",
+                description: "NextJS nổi bật với các tính năng mạnh mẽ",
                 "list": [
                     "Render phía máy chủ",
                     "Tạo trang tĩnh",
@@ -177,8 +177,8 @@ export const FrontEndVI: IFrontEnd = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "Next.js giải quyết các thách thức phát triển web bằng cách cung cấp giải pháp cho hiệu suất, khả năng mở rộng và SEO, đảm bảo việc triển khai ứng dụng tối ưu.",
+                title: "Thách thức và Giải pháp",
+                description: "Next.js giải quyết các thách thức phát triển web bằng cách cung cấp giải pháp cho hiệu suất, khả năng mở rộng và SEO, đảm bảo việc triển khai ứng dụng tối ưu.",
                 "list": []
             }
         ],
@@ -199,21 +199,21 @@ export const FrontEndVI: IFrontEnd = {
     },
 
     react: {
-        "title": "React",
-        "description": "Xây dựng giao diện người dùng động, hiệu suất cao một cách dễ dàng với kiến trúc dựa trên component mạnh mẽ của React.",
+        title: "React",
+        description: "Xây dựng giao diện người dùng động, hiệu suất cao một cách dễ dàng với kiến trúc dựa trên component mạnh mẽ của React.",
         "image": "/chorn-images/technical-expertise/front-end-developer/react-developer.webp",
         "alt": "Logo đại diện cho thư viện React.js",
         "readMore": "Khám phá thêm các giải pháp phát triển front-end ReactJS",
         "link": "/technical-expertise/front-end-developer/react-developer",
         "features": [
             {
-                "title": "Phát triển React",
-                "description": "React.js là một thư viện JavaScript phổ biến để xây dựng giao diện người dùng. Nó cho phép các nhà phát triển tạo ra các component UI có thể tái sử dụng, nâng cao hiệu quả phát triển và hiệu suất ứng dụng.",
+                title: "Phát triển React",
+                description: "React.js là một thư viện JavaScript phổ biến để xây dựng giao diện người dùng. Nó cho phép các nhà phát triển tạo ra các component UI có thể tái sử dụng, nâng cao hiệu quả phát triển và hiệu suất ứng dụng.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của React.js",
-                "description": "React.js cung cấp một bộ tính năng mạnh mẽ khiến nó trở thành lựa chọn ưa thích của các nhà phát triển.",
+                title: "Điểm mạnh của React.js",
+                description: "React.js cung cấp một bộ tính năng mạnh mẽ khiến nó trở thành lựa chọn ưa thích của các nhà phát triển.",
                 "list": [
                     "Kiến trúc dựa trên component",
                     "DOM ảo cho hiệu suất cải thiện",
@@ -225,8 +225,8 @@ export const FrontEndVI: IFrontEnd = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "React.js giải quyết các thách thức trong phát triển UI động với DOM ảo, khả năng tái sử dụng component và cộng đồng năng động.",
+                title: "Thách thức và Giải pháp",
+                description: "React.js giải quyết các thách thức trong phát triển UI động với DOM ảo, khả năng tái sử dụng component và cộng đồng năng động.",
                 "list": []
             }
         ],
@@ -246,21 +246,21 @@ export const FrontEndVI: IFrontEnd = {
         ]
     },
     typescript: {
-        "title": "TypeScript",
-        "description": "TypeScript là một tập cha có kiểu dữ liệu mạnh của JavaScript, bổ sung các kiểu tĩnh, nâng cao trải nghiệm phát triển bằng cách phát hiện lỗi sớm và cải thiện chất lượng mã. Nó biên dịch thành JavaScript thuần túy, khiến nó tương thích với tất cả các trình duyệt và framework.",
+        title: "TypeScript",
+        description: "TypeScript là một tập cha có kiểu dữ liệu mạnh của JavaScript, bổ sung các kiểu tĩnh, nâng cao trải nghiệm phát triển bằng cách phát hiện lỗi sớm và cải thiện chất lượng mã. Nó biên dịch thành JavaScript thuần túy, khiến nó tương thích với tất cả các trình duyệt và framework.",
         "image": "/chorn-images/technical-expertise/front-end-developer/typescript-developer.webp",
         "alt": "Logo đại diện cho ngôn ngữ lập trình TypeScript",
         "readMore": "Khám phá thêm các giải pháp phát triển full-stack TypeScript",
         "link": "/technical-expertise/front-end-developer/typescript-developer",
         "features": [
             {
-                "title": "Phát triển TypeScript",
-                "description": "TypeScript nâng cao việc phát triển bằng cách giới thiệu kiểu tĩnh và các tính năng lập trình hướng đối tượng, cho phép các nhà phát triển xây dựng các ứng dụng có thể mở rộng và bảo trì một cách tự tin.",
+                title: "Phát triển TypeScript",
+                description: "TypeScript nâng cao việc phát triển bằng cách giới thiệu kiểu tĩnh và các tính năng lập trình hướng đối tượng, cho phép các nhà phát triển xây dựng các ứng dụng có thể mở rộng và bảo trì một cách tự tin.",
                 "list": []
             },
             {
-                "title": "Chất lượng mã được nâng cao",
-                "description": "Các tính năng kiểm tra kiểu của TypeScript đảm bảo rằng các lỗi tiềm ẩn được phát hiện trong giai đoạn phát triển, giảm lỗi thời gian chạy và cải thiện khả năng bảo trì cho các dự án quy mô lớn.",
+                title: "Chất lượng mã được nâng cao",
+                description: "Các tính năng kiểm tra kiểu của TypeScript đảm bảo rằng các lỗi tiềm ẩn được phát hiện trong giai đoạn phát triển, giảm lỗi thời gian chạy và cải thiện khả năng bảo trì cho các dự án quy mô lớn.",
                 "list": [
                     "Kiểu tĩnh",
                     "Kiểm tra lỗi nâng cao",
@@ -271,13 +271,13 @@ export const FrontEndVI: IFrontEnd = {
                 ]
             },
             {
-                "title": "Năng suất của nhà phát triển được cải thiện",
-                "description": "Với các tính năng như suy luận kiểu, giao diện và generics, TypeScript giúp quản lý codebase phức tạp dễ dàng hơn. Nó tích hợp liền mạch với các công cụ hiện đại, thúc đẩy năng suất và hợp tác.",
+                title: "Năng suất của nhà phát triển được cải thiện",
+                description: "Với các tính năng như suy luận kiểu, giao diện và generics, TypeScript giúp quản lý codebase phức tạp dễ dàng hơn. Nó tích hợp liền mạch với các công cụ hiện đại, thúc đẩy năng suất và hợp tác.",
                 "list": []
             },
             {
-                "title": "Tích hợp liền mạch với các Framework",
-                "description": "TypeScript tích hợp dễ dàng với các framework JavaScript phổ biến như React, Angular và Vue.js. Các nhà phát triển có thể dần dần áp dụng TypeScript trong các dự án JavaScript hiện có, đảm bảo khả năng tương thích và khả năng mở rộng.",
+                title: "Tích hợp liền mạch với các Framework",
+                description: "TypeScript tích hợp dễ dàng với các framework JavaScript phổ biến như React, Angular và Vue.js. Các nhà phát triển có thể dần dần áp dụng TypeScript trong các dự án JavaScript hiện có, đảm bảo khả năng tương thích và khả năng mở rộng.",
                 "list": []
             }
         ],
@@ -297,21 +297,21 @@ export const FrontEndVI: IFrontEnd = {
         ]
     },
     vue: {
-        "title": "Vue",
-        "description": "Tạo giao diện web hiện đại, phản ứng nhanh chóng với thiết kế trực quan và linh hoạt của Vue.",
+        title: "Vue",
+        description: "Tạo giao diện web hiện đại, phản ứng nhanh chóng với thiết kế trực quan và linh hoạt của Vue.",
         "image": "/chorn-images/technical-expertise/front-end-developer/vue-developer.webp",
         "alt": "Logo đại diện cho framework Vue.js",
         "readMore": "Khám phá thêm các giải pháp phát triển front-end VueJS",
         "link": "/technical-expertise/front-end-developer/vue-developer",
         "features": [
             {
-                "title": "Phát triển Vue",
-                "description": "Vue.js là một framework JavaScript tiến bộ để xây dựng giao diện người dùng. Nó được thiết kế để có thể áp dụng từng bước, với thư viện cốt lõi tập trung vào lớp hiển thị.",
+                title: "Phát triển Vue",
+                description: "Vue.js là một framework JavaScript tiến bộ để xây dựng giao diện người dùng. Nó được thiết kế để có thể áp dụng từng bước, với thư viện cốt lõi tập trung vào lớp hiển thị.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của Vue",
-                "description": "Vue.js cung cấp một framework linh hoạt và hiệu quả với những thế mạnh chính.",
+                title: "Điểm mạnh của Vue",
+                description: "Vue.js cung cấp một framework linh hoạt và hiệu quả với những thế mạnh chính.",
                 "list": [
                     "Liên kết dữ liệu phản ứng",
                     "Cấu trúc dựa trên component",
@@ -323,8 +323,8 @@ export const FrontEndVI: IFrontEnd = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "Vue.js đơn giản hóa việc phát triển web với API trực quan, liên kết dữ liệu phản ứng và dễ dàng tích hợp.",
+                title: "Thách thức và Giải pháp",
+                description: "Vue.js đơn giản hóa việc phát triển web với API trực quan, liên kết dữ liệu phản ứng và dễ dàng tích hợp.",
                 "list": []
             }
         ],
@@ -344,21 +344,21 @@ export const FrontEndVI: IFrontEnd = {
         ]
     },
     javascript: {
-        "title": "JavaScript",
-        "description": "JavaScript là ngôn ngữ lập trình linh hoạt và năng động được sử dụng rộng rãi để xây dựng các ứng dụng web tương tác và phản hồi nhanh. Tính linh hoạt và hệ sinh thái rộng lớn của nó làm cho JavaScript trở thành công cụ thiết yếu cho phát triển web hiện đại.",
+        title: "JavaScript",
+        description: "JavaScript là ngôn ngữ lập trình linh hoạt và năng động được sử dụng rộng rãi để xây dựng các ứng dụng web tương tác và phản hồi nhanh. Tính linh hoạt và hệ sinh thái rộng lớn của nó làm cho JavaScript trở thành công cụ thiết yếu cho phát triển web hiện đại.",
         "image": "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
         "alt": "Logo đại diện cho ngôn ngữ lập trình JavaScript",
         "readMore": "Khám phá thêm các giải pháp phát triển full-stack JavaScript",
         "link": "/technical-expertise/front-end-developer/javascript-developer",
         "features": [
             {
-                "title": "Phát triển JavaScript",
-                "description": "JavaScript cung cấp các hành vi động cho trang web và ứng dụng web, mang lại tính linh hoạt vượt trội và khả năng tương thích với các trình duyệt và frameworks.",
+                title: "Phát triển JavaScript",
+                description: "JavaScript cung cấp các hành vi động cho trang web và ứng dụng web, mang lại tính linh hoạt vượt trội và khả năng tương thích với các trình duyệt và frameworks.",
                 "list": []
             },
             {
-                "title": "Trải nghiệm tương tác phong phú",
-                "description": "JavaScript cho phép các nhà phát triển tạo ra giao diện người dùng tương tác, hoạt ảnh và các tính năng thời gian thực như ứng dụng trò chuyện, mang lại trải nghiệm người dùng hấp dẫn.",
+                title: "Trải nghiệm tương tác phong phú",
+                description: "JavaScript cho phép các nhà phát triển tạo ra giao diện người dùng tương tác, hoạt ảnh và các tính năng thời gian thực như ứng dụng trò chuyện, mang lại trải nghiệm người dùng hấp dẫn.",
                 "list": [
                     "Cập nhật nội dung động",
                     "Giao diện web tương tác",
@@ -368,13 +368,13 @@ export const FrontEndVI: IFrontEnd = {
                 ]
             },
             {
-                "title": "Hệ sinh thái và công cụ đa dạng",
-                "description": "JavaScript có hệ sinh thái rộng lớn gồm các thư viện và frameworks như React, Angular và Vue.js, giúp các nhà phát triển xây dựng các ứng dụng web mạnh mẽ một cách hiệu quả.",
+                title: "Hệ sinh thái và công cụ đa dạng",
+                description: "JavaScript có hệ sinh thái rộng lớn gồm các thư viện và frameworks như React, Angular và Vue.js, giúp các nhà phát triển xây dựng các ứng dụng web mạnh mẽ một cách hiệu quả.",
                 "list": []
             },
             {
-                "title": "Phát triển Back-End với Node.js",
-                "description": "JavaScript mở rộng đến phát triển back-end thông qua Node.js, cho phép phát triển full-stack với một ngôn ngữ duy nhất, từ logic phía máy chủ đến tương tác phía người dùng.",
+                title: "Phát triển Back-End với Node.js",
+                description: "JavaScript mở rộng đến phát triển back-end thông qua Node.js, cho phép phát triển full-stack với một ngôn ngữ duy nhất, từ logic phía máy chủ đến tương tác phía người dùng.",
                 "list": []
             }
         ],
@@ -397,30 +397,30 @@ export const FrontEndVI: IFrontEnd = {
     stacks: [],
 
     services: {
-        "title": "Dịch Vụ Phát Triển Front-End",
+        title: "Dịch Vụ Phát Triển Front-End",
         "descriptions": [
             "Biến tầm nhìn web của bạn thành hiện thực với dịch vụ phát triển front-end chuyên nghiệp của chúng tôi. CHORN cung cấp các trang web thân thiện với người dùng, đẹp mắt và hoàn toàn responsive thu hút khán giả của bạn. Chúng tôi chuyên về các framework hiện đại bao gồm Next.js, React, Angular và Vue.js, cùng với các công nghệ web cốt lõi như HTML5 và CSS3. Cho dù bạn cần một ứng dụng đơn trang (SPA) hiệu suất cao được tối ưu hóa cho công cụ tìm kiếm hay một nền tảng đa trang phức tạp, đội ngũ phát triển của chúng tôi cung cấp kết quả chất lượng đúng thời hạn. Hợp tác với CHORN để tạo ra những trải nghiệm số hấp dẫn thu hút khách truy cập và thúc đẩy tăng trưởng kinh doanh."
         ],
         "items": [
             {
-                "title": "Triển Khai Framework Hiện Đại",
-                "description": "Xây dựng ứng dụng web động, tương tác sử dụng các framework tiên tiến như Next.js và React cung cấp hiệu suất và trải nghiệm người dùng tối ưu."
+                title: "Triển Khai Framework Hiện Đại",
+                description: "Xây dựng ứng dụng web động, tương tác sử dụng các framework tiên tiến như Next.js và React cung cấp hiệu suất và trải nghiệm người dùng tối ưu."
             },
             {
-                "title": "Tối Ưu Hóa SEO",
-                "description": "Cải thiện khả năng hiển thị của trang web của bạn trên Google và các công cụ tìm kiếm khác thông qua cấu trúc mã được tối ưu hóa, thời gian tải nhanh và thiết kế thân thiện với thiết bị di động."
+                title: "Tối Ưu Hóa SEO",
+                description: "Cải thiện khả năng hiển thị của trang web của bạn trên Google và các công cụ tìm kiếm khác thông qua cấu trúc mã được tối ưu hóa, thời gian tải nhanh và thiết kế thân thiện với thiết bị di động."
             },
             {
-                "title": "Phát Triển Proof of Concept (PoC)",
-                "description": "Kiểm tra và xác nhận ý tưởng sáng tạo của bạn nhanh chóng với các nguyên mẫu chức năng trước khi cam kết phát triển toàn diện."
+                title: "Phát Triển Proof of Concept (PoC)",
+                description: "Kiểm tra và xác nhận ý tưởng sáng tạo của bạn nhanh chóng với các nguyên mẫu chức năng trước khi cam kết phát triển toàn diện."
             },
             {
-                "title": "Tạo Sản Phẩm Khả Thi Tối Thiểu (MVP)",
-                "description": "Ra mắt phiên bản ban đầu hoàn chỉnh và có khả năng mở rộng của sản phẩm để thu hút người dùng sớm, thu thập phản hồi và đảm bảo nhà đầu tư tiềm năng."
+                title: "Tạo Sản Phẩm Khả Thi Tối Thiểu (MVP)",
+                description: "Ra mắt phiên bản ban đầu hoàn chỉnh và có khả năng mở rộng của sản phẩm để thu hút người dùng sớm, thu thập phản hồi và đảm bảo nhà đầu tư tiềm năng."
             },
             {
-                "title": "Thiết Kế UI/UX Xuất Sắc",
-                "description": "Nâng cao sự hài lòng của người dùng với giao diện trực quan, đẹp mắt giúp tăng tương tác, giảm tỷ lệ thoát và tăng tỷ lệ chuyển đổi."
+                title: "Thiết Kế UI/UX Xuất Sắc",
+                description: "Nâng cao sự hài lòng của người dùng với giao diện trực quan, đẹp mắt giúp tăng tương tác, giảm tỷ lệ thoát và tăng tỷ lệ chuyển đổi."
             }
         ]
     }

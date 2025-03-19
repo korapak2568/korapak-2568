@@ -66,21 +66,21 @@ export const FullStackDA: IFullStack = {
         ],
     },
     go: {
-        "title": "GO",
-        "description": "Go, også kendt som Golang, er et statisk typet, kompileret programmeringssprog designet af Google. Det er kendt for sin enkelhed, effektivitet og stærke støtte til samtidighed, hvilket gør det til et ideelt valg til udvikling af mikroservices.",
+        title: "GO",
+        description: "Go, også kendt som Golang, er et statisk typet, kompileret programmeringssprog designet af Google. Det er kendt for sin enkelhed, effektivitet og stærke støtte til samtidighed, hvilket gør det til et ideelt valg til udvikling af mikroservices.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
         "alt": "Logo, der repræsenterer Go-programmeringssproget",
         "readMore": "Udforsk flere full-stack udviklingsløsninger med Go",
         "link": "/technical-expertise/full-stack-developer/go-developer",
         "features": [
             {
-                "title": "Go-udvikling",
-                "description": "Go, også kendt som Golang, er et statisk typet, kompileret programmeringssprog designet af Google. Det er kendt for sin enkelhed, effektivitet og stærke støtte til samtidighed, hvilket gør det til et ideelt valg til udvikling af mikroservices.",
+                title: "Go-udvikling",
+                description: "Go, også kendt som Golang, er et statisk typet, kompileret programmeringssprog designet af Google. Det er kendt for sin enkelhed, effektivitet og stærke støtte til samtidighed, hvilket gør det til et ideelt valg til udvikling af mikroservices.",
                 "list": []
             },
             {
-                "title": "Effektiv samtidighed",
-                "description": "Go's goroutines og kanaler giver robust understøttelse af samtidig programmering, hvilket giver udviklere mulighed for at bygge yderst effektive og skalerbare applikationer. Dette gør Go til et foretrukket sprog til udvikling af mikroservices, der kræver håndtering af flere opgaver samtidigt.",
+                title: "Effektiv samtidighed",
+                description: "Go's goroutines og kanaler giver robust understøttelse af samtidig programmering, hvilket giver udviklere mulighed for at bygge yderst effektive og skalerbare applikationer. Dette gør Go til et foretrukket sprog til udvikling af mikroservices, der kræver håndtering af flere opgaver samtidigt.",
                 "list": [
                     "Samtidig programmering",
                     "Hurtig kompilering",
@@ -92,13 +92,13 @@ export const FullStackDA: IFullStack = {
                 ]
             },
             {
-                "title": "Hurtig kompilering",
-                "description": "Go kompilerer hurtigt til maskinkode, hvilket resulterer i hurtige kørselstider. Denne effektivitet, kombineret med dens garbage collection og statiske typning, sikrer, at Go-applikationer yder godt, selv under tung belastning.",
+                title: "Hurtig kompilering",
+                description: "Go kompilerer hurtigt til maskinkode, hvilket resulterer i hurtige kørselstider. Denne effektivitet, kombineret med dens garbage collection og statiske typning, sikrer, at Go-applikationer yder godt, selv under tung belastning.",
                 "list": []
             },
             {
-                "title": "Interoperabilitet",
-                "description": "Go's enkelhed og klarhed gør det nemt at integrere med andre programmeringssprog. Denne interoperabilitet giver udviklere mulighed for at udnytte Go's styrker i ydeevnekritiske dele af en applikation, mens de bruger andre sprog til forskellige komponenter.",
+                title: "Interoperabilitet",
+                description: "Go's enkelhed og klarhed gør det nemt at integrere med andre programmeringssprog. Denne interoperabilitet giver udviklere mulighed for at udnytte Go's styrker i ydeevnekritiske dele af en applikation, mens de bruger andre sprog til forskellige komponenter.",
                 "list": []
             }
         ],
@@ -259,21 +259,21 @@ export const FullStackDA: IFullStack = {
         ]
     },
     php: {
-        "title": "PHP",
-        "description": "PHP er et populært server-side scriptsprog, der er udbredt til webudvikling. Frameworks som Symfony, Laravel, Phalcon og template-engines som Twig, sammen med platforme som WordPress og dets headless variant, har løftet PHP-udvikling ved at levere strukturerede, effektive og skalerbare løsninger til opbygning af komplekse webapplikationer.",
+        title: "PHP",
+        description: "PHP er et populært server-side scriptsprog, der er udbredt til webudvikling. Frameworks som Symfony, Laravel, Phalcon og template-engines som Twig, sammen med platforme som WordPress og dets headless variant, har løftet PHP-udvikling ved at levere strukturerede, effektive og skalerbare løsninger til opbygning af komplekse webapplikationer.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
         "alt": "Logo der repræsenterer PHP-programmeringssproget",
         "readMore": "Udforsk flere PHP full-stack udviklingsløsninger",
         "link": "/technical-expertise/full-stack-developer/php-developer",
         "features": [
             {
-                "title": "PHP-udvikling",
-                "description": "PHP er et populært server-side scriptsprog, der er udbredt til webudvikling. Frameworks som Symfony, Laravel, Phalcon og template-engines som Twig, sammen med platforme som WordPress og dets headless variant, har løftet PHP-udvikling ved at levere strukturerede, effektive og skalerbare løsninger til opbygning af komplekse webapplikationer.",
+                title: "PHP-udvikling",
+                description: "PHP er et populært server-side scriptsprog, der er udbredt til webudvikling. Frameworks som Symfony, Laravel, Phalcon og template-engines som Twig, sammen med platforme som WordPress og dets headless variant, har løftet PHP-udvikling ved at levere strukturerede, effektive og skalerbare løsninger til opbygning af komplekse webapplikationer.",
                 "list": []
             },
             {
-                "title": "Struktureret Udvikling",
-                "description": "Symfony og Laravel tilbyder en struktureret tilgang til PHP-udvikling, der fremmer best practices og designmønstre. Symfony leverer et genanvendeligt sæt komponenter, mens Laravel fokuserer på udviklernes produktivitet med sin elegante syntaks og værktøjer. Twig, den template-engine der bruges i Symfony, giver en fleksibel, sikker og hurtig måde at designe skabeloner på. Phalcon, et højtydende framework leveret som en C-udvidelse, tilbyder lavniveau-optimering og exceptionel hastighed, hvilket sikrer effektiv ressourcehåndtering.",
+                title: "Struktureret Udvikling",
+                description: "Symfony og Laravel tilbyder en struktureret tilgang til PHP-udvikling, der fremmer best practices og designmønstre. Symfony leverer et genanvendeligt sæt komponenter, mens Laravel fokuserer på udviklernes produktivitet med sin elegante syntaks og værktøjer. Twig, den template-engine der bruges i Symfony, giver en fleksibel, sikker og hurtig måde at designe skabeloner på. Phalcon, et højtydende framework leveret som en C-udvidelse, tilbyder lavniveau-optimering og exceptionel hastighed, hvilket sikrer effektiv ressourcehåndtering.",
                 "list": [
                     "Server-side scripting",
                     "Let at lære",
@@ -285,13 +285,13 @@ export const FullStackDA: IFullStack = {
                 ]
             },
             {
-                "title": "Hurtig Udvikling",
-                "description": "Laravel, kendt for sin ekspressive syntaks og kraftfulde værktøjer, muliggør hurtig udvikling og implementering af webapplikationer. Funktioner som Eloquent ORM, Blade template-engine og Laravel Artisan kommandolinjeværktøj strømliner udviklingsopgaver. Phalcon forbedrer hurtig udvikling med sin robuste ydeevne og lavniveau-arkitektur. WordPress giver hurtig opsætning og et stort udvalg af plugins og temaer, hvilket giver udviklere mulighed for hurtigt at implementere funktionsrige websteder. Headless WordPress adskiller frontend og backend, hvilket muliggør brugen af moderne JavaScript-frameworks som React eller Vue for en dynamisk og responsiv brugeroplevelse.",
+                title: "Hurtig Udvikling",
+                description: "Laravel, kendt for sin ekspressive syntaks og kraftfulde værktøjer, muliggør hurtig udvikling og implementering af webapplikationer. Funktioner som Eloquent ORM, Blade template-engine og Laravel Artisan kommandolinjeværktøj strømliner udviklingsopgaver. Phalcon forbedrer hurtig udvikling med sin robuste ydeevne og lavniveau-arkitektur. WordPress giver hurtig opsætning og et stort udvalg af plugins og temaer, hvilket giver udviklere mulighed for hurtigt at implementere funktionsrige websteder. Headless WordPress adskiller frontend og backend, hvilket muliggør brugen af moderne JavaScript-frameworks som React eller Vue for en dynamisk og responsiv brugeroplevelse.",
                 "list": []
             },
             {
-                "title": "Fællesskab og Økosystem",
-                "description": "PHP har et enormt fællesskab og et rigt økosystem af biblioteker, plugins og frameworks. Både Symfony og Laravel drager fordel af aktiv fællesskabsstøtte, omfattende dokumentation og mange tredjepartspakker, hvilket gør PHP-udvikling effektiv og behagelig. Phalcon har et voksende fællesskab og leverer detaljeret dokumentation og tutorials til at hjælpe udviklere. WordPress kan prale af et omfattende økosystem med en stor brugerskare, der tilbyder talrige plugins og temaer, mens Headless WordPress udnytter fleksibiliteten i moderne frontend-frameworks, understøttet af et robust fællesskab og ressourcer.",
+                title: "Fællesskab og Økosystem",
+                description: "PHP har et enormt fællesskab og et rigt økosystem af biblioteker, plugins og frameworks. Både Symfony og Laravel drager fordel af aktiv fællesskabsstøtte, omfattende dokumentation og mange tredjepartspakker, hvilket gør PHP-udvikling effektiv og behagelig. Phalcon har et voksende fællesskab og leverer detaljeret dokumentation og tutorials til at hjælpe udviklere. WordPress kan prale af et omfattende økosystem med en stor brugerskare, der tilbyder talrige plugins og temaer, mens Headless WordPress udnytter fleksibiliteten i moderne frontend-frameworks, understøttet af et robust fællesskab og ressourcer.",
                 "list": []
             }
         ],
@@ -311,21 +311,21 @@ export const FullStackDA: IFullStack = {
         ]
     },
     python: {
-        "title": "Python",
-        "description": "Python er et højniveau, fortolket programmeringssprog kendt for sin enkelhed, læsbarhed og alsidighed. Det bruges i vid udstrækning på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
+        title: "Python",
+        description: "Python er et højniveau, fortolket programmeringssprog kendt for sin enkelhed, læsbarhed og alsidighed. Det bruges i vid udstrækning på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
         "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
         "alt": "Logo der repræsenterer Python med Flask framework",
         "readMore": "Udforsk flere Python, Flask, Django full-stack udviklingsløsninger",
         "link": "/technical-expertise/full-stack-developer/python-developer",
         "features": [
             {
-                "title": "Python-udvikling",
-                "description": "Python er et højniveau, fortolket programmeringssprog kendt for sin enkelhed, læsbarhed og alsidighed. Det bruges i vid udstrækning på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
+                title: "Python-udvikling",
+                description: "Python er et højniveau, fortolket programmeringssprog kendt for sin enkelhed, læsbarhed og alsidighed. Det bruges i vid udstrækning på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
                 "list": []
             },
             {
-                "title": "Nemt at lære og bruge",
-                "description": "Pythons enkle syntaks og læsbarhed gør det til et fremragende valg for både begyndere og erfarne udviklere. Dets omfattende standardbibliotek og fællesskabsbidragede moduler giver klar-til-brug løsninger til en bred vifte af opgaver.",
+                title: "Nemt at lære og bruge",
+                description: "Pythons enkle syntaks og læsbarhed gør det til et fremragende valg for både begyndere og erfarne udviklere. Dets omfattende standardbibliotek og fællesskabsbidragede moduler giver klar-til-brug løsninger til en bred vifte af opgaver.",
                 "list": [
                     "Nemt at lære",
                     "Læsbar syntaks",
@@ -337,13 +337,13 @@ export const FullStackDA: IFullStack = {
                 ]
             },
             {
-                "title": "Alsidige anvendelser",
-                "description": "Python bruges i forskellige felter, herunder webudvikling med frameworks som Django og Flask, datascience med biblioteker som pandas og NumPy, og maskinlæring med TensorFlow og scikit-learn. Denne alsidighed gør Python til et foretrukket sprog for mange udviklere.",
+                title: "Alsidige anvendelser",
+                description: "Python bruges i forskellige felter, herunder webudvikling med frameworks som Django og Flask, datascience med biblioteker som pandas og NumPy, og maskinlæring med TensorFlow og scikit-learn. Denne alsidighed gør Python til et foretrukket sprog for mange udviklere.",
                 "list": []
             },
             {
-                "title": "Stærk fællesskabssupport",
-                "description": "Python har et levende og aktivt fællesskab, der kontinuerligt bidrager til dets vækst. Med talrige tutorials, forummer og open source-projekter til rådighed kan udviklere nemt finde støtte og ressourcer til at forbedre deres færdigheder og løse udfordringer.",
+                title: "Stærk fællesskabssupport",
+                description: "Python har et levende og aktivt fællesskab, der kontinuerligt bidrager til dets vækst. Med talrige tutorials, forummer og open source-projekter til rådighed kan udviklere nemt finde støtte og ressourcer til at forbedre deres færdigheder og løse udfordringer.",
                 "list": []
             }
         ],

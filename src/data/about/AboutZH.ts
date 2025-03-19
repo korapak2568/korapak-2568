@@ -7,8 +7,8 @@ export const AboutZH: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN由Khachornchit于2023年3月成立，专注于技术和软件开发。 " +
-                "基于Khachornchit在清迈大学的电气工程背景和超过20年的经验， " +
+            description: "CHORN由K.Khachornchit于2023年3月成立，专注于技术和软件开发。 " +
+                "基于K.Khachornchit在清迈大学的电气工程背景和超过20年的经验， " +
                 "提供系统架构、业务和技术分析、软件工程、DevOps、LLM/AI， " +
                 "以及云创新方面的专业知识。引领技术战略、全栈开发、QA/测试，以及 " +
                 "大规模系统实施，以可扩展且以客户为中心的解决方案推动业务增长。 " +

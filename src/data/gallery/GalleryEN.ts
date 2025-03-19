@@ -39,8 +39,8 @@ export const GalleryEN: IGallery = {
         },
     ],
     global: {
-        title: "International Travel Experience",
-        description: "Experience in international travel for training, work-study trips across ASEAN countries and the United States, ready for remote work, hybrid work, or office-based work in Chiang Mai, Bangkok, Thailand, and abroad.",
+        title: "International Travel",
+        description: "CHORN has experience in international travel for training, learning opportunities between countries in ASEAN and the United States, conducting workshops, and is ready for travel, remote work, hybrid work, or office work in Chiang Mai, Bangkok, Thailand, and abroad.",
         image: "/chorn-images/gallery/chorn-global-001.jpg"
     },
     globalSlides: [

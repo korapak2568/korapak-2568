@@ -7,9 +7,10 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 import {useSelector} from "react-redux";
 import {RootState} from "@/redux/store";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const ServiceCardWebDevelopment: React.FC = () => {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
@@ -18,18 +19,18 @@ const ServiceCardWebDevelopment: React.FC = () => {
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-                            <h2>{InfoTranslation[currentTranslate.value].FrontEnd.services.title}</h2>
-                            {InfoTranslation[currentTranslate.value].FrontEnd.services.descriptions.map((item, index) => (
+                            <h2>{InfoTranslation[locale.value].FrontEnd.services.title}</h2>
+                            {InfoTranslation[locale.value].FrontEnd.services.descriptions.map((item, index) => (
                                 <p key={index}>{item}</p>
                             ))}
 
-                            <h2>{InfoTranslation[currentTranslate.value].FullStack.services.title}</h2>
-                            {InfoTranslation[currentTranslate.value].FullStack.services.descriptions.map((item, index) => (
+                            <h2>{InfoTranslation[locale.value].FullStack.services.title}</h2>
+                            {InfoTranslation[locale.value].FullStack.services.descriptions.map((item, index) => (
                                 <p key={index}>{item}</p>
                             ))}
 
                             <ul>
-                                {InfoTranslation[currentTranslate.value].FullStack.services.items.map((item, index) => (
+                                {InfoTranslation[locale.value].FullStack.services.items.map((item, index) => (
                                     <li key={index}>
                                         <strong>{item.title}</strong>
                                         {item.description}
@@ -38,7 +39,7 @@ const ServiceCardWebDevelopment: React.FC = () => {
                             </ul>
                         </div>
 
-                        {InfoTranslation[currentTranslate.value].FrontEnd.stacks.slice(2, -3).map((item: IFrontEndStack, index: number) => (
+                        {InfoTranslation[locale.value].FrontEnd.stacks.slice(2, -3).map((item: IFrontEndStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services-box">
                                     <div className="icon">
@@ -51,13 +52,13 @@ const ServiceCardWebDevelopment: React.FC = () => {
                                     </div>
 
                                     <h3>
-                                        <Link href={'/' + currentTranslate.value + item.link}>{item.title}</Link>
+                                        <Link href={'/' + locale.value + item.link}>{item.title}</Link>
                                     </h3>
                                 </div>
                             </div>
                         ))}
 
-                        {InfoTranslation[currentTranslate.value].FullStack.stacks.slice(0, -3).map((item: IFrontEndStack, index: number) => (
+                        {InfoTranslation[locale.value].FullStack.stacks.slice(0, -3).map((item: IFrontEndStack, index: number) => (
                             <div key={index} className="col-lg-4 col-md-6">
                                 <div className="single-services-box">
                                     <div className="icon">
@@ -70,7 +71,7 @@ const ServiceCardWebDevelopment: React.FC = () => {
                                     </div>
 
                                     <h3>
-                                        <Link href={'/' + currentTranslate.value + item.link}>{item.title}</Link>
+                                        <Link href={'/' + locale.value + item.link}>{item.title}</Link>
                                     </h3>
                                 </div>
                             </div>

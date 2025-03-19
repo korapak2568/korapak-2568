@@ -6,21 +6,21 @@ export const DevOpsDA: IDevOps = {
     subTitle: "",
 
     docker:  {
-        "title": "Docker",
-        "description": "Strømlin din applikationsimplementering med containerisering for konsistente og effektive miljøer.",
+        title: "Docker",
+        description: "Strømlin din applikationsimplementering med containerisering for konsistente og effektive miljøer.",
         "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
         "alt": "Logo der repræsenterer Docker-teknologierfaring",
         "readMore": "Udforsk Docker for effektiv DevOps-testning",
         "link": "/technical-expertise/cloud-devops/docker",
         "features": [
             {
-                "title": "Docker",
-                "description": "Docker er en kraftfuld platform til udvikling, levering og kørsel af applikationer i containere, der sikrer konsistens på tværs af flere miljøer. Ideel til moderne DevOps-praksis.",
+                title: "Docker",
+                description: "Docker er en kraftfuld platform til udvikling, levering og kørsel af applikationer i containere, der sikrer konsistens på tværs af flere miljøer. Ideel til moderne DevOps-praksis.",
                 "list": []
             },
             {
-                "title": "Stærke sider ved Docker",
-                "description": "Docker udmærker sig med sine nøglefunktioner",
+                title: "Stærke sider ved Docker",
+                description: "Docker udmærker sig med sine nøglefunktioner",
                 "list": [
                     "Containerisering",
                     "Miljøkonsistens",
@@ -32,8 +32,8 @@ export const DevOpsDA: IDevOps = {
                 ]
             },
             {
-                "title": "Udfordringer og løsninger",
-                "description": "Docker adresserer implementeringsudfordringer ved at levere containeriseringsløsninger, der forbedrer ydeevne, skalerbarhed og konsistens.",
+                title: "Udfordringer og løsninger",
+                description: "Docker adresserer implementeringsudfordringer ved at levere containeriseringsløsninger, der forbedrer ydeevne, skalerbarhed og konsistens.",
                 "list": []
             }
         ],
@@ -53,21 +53,21 @@ export const DevOpsDA: IDevOps = {
         ]
     },
     kubernetes: {
-        "title": "Kubernetes",
-        "description": "Automatiser din containerorkestrering med Kubernetes for skalerbare og robuste applikationer.",
+        title: "Kubernetes",
+        description: "Automatiser din containerorkestrering med Kubernetes for skalerbare og robuste applikationer.",
         "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
         "alt": "Logo der repræsenterer Kubernetes teknologierfaring",
         "readMore": "Udforsk Kubernetes DevOps testløsninger",
         "link": "/technical-expertise/cloud-devops/kubernetes",
         "features": [
             {
-                "title": "Kubernetes",
-                "description": "Kubernetes er en førende containerorkestreringsplatform, der automatiserer udrulning, skalering og administration af containeriserede applikationer. Essentiel for store, robuste systemer.",
+                title: "Kubernetes",
+                description: "Kubernetes er en førende containerorkestreringsplatform, der automatiserer udrulning, skalering og administration af containeriserede applikationer. Essentiel for store, robuste systemer.",
                 "list": []
             },
             {
-                "title": "Stærke sider ved Kubernetes",
-                "description": "Kubernetes udmærker sig med sine robuste funktioner",
+                title: "Stærke sider ved Kubernetes",
+                description: "Kubernetes udmærker sig med sine robuste funktioner",
                 "list": [
                     "Automatiseret udrulning",
                     "Skalerbarhed",
@@ -79,8 +79,8 @@ export const DevOpsDA: IDevOps = {
                 ]
             },
             {
-                "title": "Udfordringer og Løsninger",
-                "description": "Kubernetes adresserer orkestreringsudfordringer ved at levere skalerbare og automatiserede løsninger til containeriserede applikationer.",
+                title: "Udfordringer og Løsninger",
+                description: "Kubernetes adresserer orkestreringsudfordringer ved at levere skalerbare og automatiserede løsninger til containeriserede applikationer.",
                 "list": []
             }
         ],
@@ -100,21 +100,21 @@ export const DevOpsDA: IDevOps = {
         ]
     },
     github: {
-        "title": "GitHub",
-        "description": "Forbedre din udviklingsarbejdsgang med GitHubs versionsstyring og samarbejdsplatform.",
+        title: "GitHub",
+        description: "Forbedre din udviklingsarbejdsgang med GitHubs versionsstyring og samarbejdsplatform.",
         "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
         "alt": "Logo der repræsenterer GitHub-teknologierfaring",
         "readMore": "Lær hvordan GitHub understøtter effektiv DevOps-test",
         "link": "/technical-expertise/cloud-devops/github",
         "features": [
             {
-                "title": "GitHub",
-                "description": "GitHub er en webbaseret platform, der tilbyder Git-repository-hosting, samarbejdsudviklingsværktøjer og en bred vifte af integrationer, hvilket fremmer effektiv og samarbejdende softwareudvikling.",
+                title: "GitHub",
+                description: "GitHub er en webbaseret platform, der tilbyder Git-repository-hosting, samarbejdsudviklingsværktøjer og en bred vifte af integrationer, hvilket fremmer effektiv og samarbejdende softwareudvikling.",
                 "list": []
             },
             {
-                "title": "GitHubs stærke sider",
-                "description": "GitHub udmærker sig med sine nøglefunktioner",
+                title: "GitHubs stærke sider",
+                description: "GitHub udmærker sig med sine nøglefunktioner",
                 "list": [
                     "ChornMetadata-kontrol",
                     "Samarbejdsudvikling",
@@ -126,8 +126,8 @@ export const DevOpsDA: IDevOps = {
                 ]
             },
             {
-                "title": "Udfordringer og løsninger",
-                "description": "GitHub tackler udviklingsarbejdsgangens udfordringer ved at tilbyde robust versionsstyring og samarbejdsværktøjer til effektiv projektstyring.",
+                title: "Udfordringer og løsninger",
+                description: "GitHub tackler udviklingsarbejdsgangens udfordringer ved at tilbyde robust versionsstyring og samarbejdsværktøjer til effektiv projektstyring.",
                 "list": []
             }
         ],

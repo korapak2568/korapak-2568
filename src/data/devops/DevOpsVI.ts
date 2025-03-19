@@ -6,21 +6,21 @@ export const DevOpsVI: IDevOps = {
     subTitle: "",
 
     docker: {
-        "title": "Docker",
-        "description": "Hợp lý hóa việc triển khai ứng dụng của bạn với công nghệ container hóa để có môi trường nhất quán và hiệu quả.",
+        title: "Docker",
+        description: "Hợp lý hóa việc triển khai ứng dụng của bạn với công nghệ container hóa để có môi trường nhất quán và hiệu quả.",
         "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
         "alt": "Logo thể hiện kinh nghiệm công nghệ Docker",
         "readMore": "Khám phá Docker để kiểm thử DevOps hiệu quả",
         "link": "/technical-expertise/cloud-devops/docker",
         "features": [
             {
-                "title": "Docker",
-                "description": "Docker là một nền tảng mạnh mẽ để phát triển, vận chuyển và chạy ứng dụng trong các container, đảm bảo tính nhất quán trên nhiều môi trường. Lý tưởng cho các thực hành DevOps hiện đại.",
+                title: "Docker",
+                description: "Docker là một nền tảng mạnh mẽ để phát triển, vận chuyển và chạy ứng dụng trong các container, đảm bảo tính nhất quán trên nhiều môi trường. Lý tưởng cho các thực hành DevOps hiện đại.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của Docker",
-                "description": "Docker vượt trội với các tính năng chính của nó",
+                title: "Điểm mạnh của Docker",
+                description: "Docker vượt trội với các tính năng chính của nó",
                 "list": [
                     "Container hóa",
                     "Tính nhất quán của môi trường",
@@ -32,8 +32,8 @@ export const DevOpsVI: IDevOps = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "Docker giải quyết các thách thức triển khai bằng cách cung cấp các giải pháp container hóa nâng cao hiệu suất, khả năng mở rộng và tính nhất quán.",
+                title: "Thách thức và Giải pháp",
+                description: "Docker giải quyết các thách thức triển khai bằng cách cung cấp các giải pháp container hóa nâng cao hiệu suất, khả năng mở rộng và tính nhất quán.",
                 "list": []
             }
         ],
@@ -53,21 +53,21 @@ export const DevOpsVI: IDevOps = {
         ]
     },
     kubernetes: {
-        "title": "Kubernetes",
-        "description": "Tự động hóa điều phối container của bạn với Kubernetes để có các ứng dụng có khả năng mở rộng và linh hoạt.",
+        title: "Kubernetes",
+        description: "Tự động hóa điều phối container của bạn với Kubernetes để có các ứng dụng có khả năng mở rộng và linh hoạt.",
         "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
         "alt": "Logo đại diện cho kinh nghiệm công nghệ Kubernetes",
         "readMore": "Khám phá các giải pháp kiểm thử DevOps Kubernetes",
         "link": "/technical-expertise/cloud-devops/kubernetes",
         "features": [
             {
-                "title": "Kubernetes",
-                "description": "Kubernetes là nền tảng điều phối container hàng đầu tự động hóa việc triển khai, mở rộng và quản lý các ứng dụng container hóa. Cần thiết cho các hệ thống quy mô lớn, linh hoạt.",
+                title: "Kubernetes",
+                description: "Kubernetes là nền tảng điều phối container hàng đầu tự động hóa việc triển khai, mở rộng và quản lý các ứng dụng container hóa. Cần thiết cho các hệ thống quy mô lớn, linh hoạt.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của Kubernetes",
-                "description": "Kubernetes nổi bật với các tính năng mạnh mẽ",
+                title: "Điểm mạnh của Kubernetes",
+                description: "Kubernetes nổi bật với các tính năng mạnh mẽ",
                 "list": [
                     "Triển khai tự động",
                     "Khả năng mở rộng",
@@ -79,8 +79,8 @@ export const DevOpsVI: IDevOps = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "Kubernetes giải quyết các thách thức về điều phối bằng cách cung cấp các giải pháp có khả năng mở rộng và tự động hóa cho các ứng dụng container hóa.",
+                title: "Thách thức và Giải pháp",
+                description: "Kubernetes giải quyết các thách thức về điều phối bằng cách cung cấp các giải pháp có khả năng mở rộng và tự động hóa cho các ứng dụng container hóa.",
                 "list": []
             }
         ],
@@ -100,21 +100,21 @@ export const DevOpsVI: IDevOps = {
         ]
     },
     github: {
-        "title": "GitHub",
-        "description": "Nâng cao quy trình phát triển của bạn với nền tảng kiểm soát phiên bản và cộng tác của GitHub.",
+        title: "GitHub",
+        description: "Nâng cao quy trình phát triển của bạn với nền tảng kiểm soát phiên bản và cộng tác của GitHub.",
         "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
         "alt": "Logo đại diện cho kinh nghiệm công nghệ GitHub",
         "readMore": "Tìm hiểu cách GitHub hỗ trợ kiểm thử DevOps hiệu quả",
         "link": "/technical-expertise/cloud-devops/github",
         "features": [
             {
-                "title": "GitHub",
-                "description": "GitHub là nền tảng dựa trên web cung cấp lưu trữ kho Git, công cụ phát triển cộng tác và nhiều tích hợp đa dạng, thúc đẩy phát triển phần mềm hiệu quả và cộng tác.",
+                title: "GitHub",
+                description: "GitHub là nền tảng dựa trên web cung cấp lưu trữ kho Git, công cụ phát triển cộng tác và nhiều tích hợp đa dạng, thúc đẩy phát triển phần mềm hiệu quả và cộng tác.",
                 "list": []
             },
             {
-                "title": "Điểm mạnh của GitHub",
-                "description": "GitHub nổi bật với các tính năng chính của nó",
+                title: "Điểm mạnh của GitHub",
+                description: "GitHub nổi bật với các tính năng chính của nó",
                 "list": [
                     "Kiểm soát ChornMetadata",
                     "Phát triển cộng tác",
@@ -126,8 +126,8 @@ export const DevOpsVI: IDevOps = {
                 ]
             },
             {
-                "title": "Thách thức và Giải pháp",
-                "description": "GitHub giải quyết các thách thức trong quy trình phát triển bằng cách cung cấp kiểm soát phiên bản mạnh mẽ và công cụ cộng tác để quản lý dự án hiệu quả.",
+                title: "Thách thức và Giải pháp",
+                description: "GitHub giải quyết các thách thức trong quy trình phát triển bằng cách cung cấp kiểm soát phiên bản mạnh mẽ và công cụ cộng tác để quản lý dự án hiệu quả.",
                 "list": []
             }
         ],

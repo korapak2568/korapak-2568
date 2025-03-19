@@ -245,21 +245,21 @@ export const FrontEnd2025: IFrontEnd = {
         ],
     },
     typescript: {
-        "title": "TypeScript",
-        "description": "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles to plain JavaScript, making it compatible with all browsers and frameworks.",
+        title: "TypeScript",
+        description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles to plain JavaScript, making it compatible with all browsers and frameworks.",
         "image": "/chorn-images/technical-expertise/front-end-developer/typescript-developer.webp",
         "alt": "Logo representing TypeScript programming language",
         "readMore": "Explore more TypeScript full-stack development solutions",
         "link": "/technical-expertise/front-end-developer/typescript-developer",
         "features": [
             {
-                "title": "TypeScript Development",
-                "description": "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
+                title: "TypeScript Development",
+                description: "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
                 "list": []
             },
             {
-                "title": "Enhanced Code Quality",
-                "description": "TypeScript's type-checking features ensure that potential errors are caught during the development phase, reducing runtime errors and improving maintainability for large-scale projects.",
+                title: "Enhanced Code Quality",
+                description: "TypeScript's type-checking features ensure that potential errors are caught during the development phase, reducing runtime errors and improving maintainability for large-scale projects.",
                 "list": [
                     "Static typing",
                     "Advanced error checking",
@@ -270,13 +270,13 @@ export const FrontEnd2025: IFrontEnd = {
                 ]
             },
             {
-                "title": "Improved Developer Productivity",
-                "description": "With features like type inference, interfaces, and generics, TypeScript makes managing complex codebases easier. It integrates seamlessly with modern tools, boosting productivity and collaboration.",
+                title: "Improved Developer Productivity",
+                description: "With features like type inference, interfaces, and generics, TypeScript makes managing complex codebases easier. It integrates seamlessly with modern tools, boosting productivity and collaboration.",
                 "list": []
             },
             {
-                "title": "Seamless Integration with Frameworks",
-                "description": "TypeScript integrates effortlessly with popular JavaScript frameworks such as React, Angular, and Vue.js. Developers can gradually adopt TypeScript in existing JavaScript projects, ensuring compatibility and scalability.",
+                title: "Seamless Integration with Frameworks",
+                description: "TypeScript integrates effortlessly with popular JavaScript frameworks such as React, Angular, and Vue.js. Developers can gradually adopt TypeScript in existing JavaScript projects, ensuring compatibility and scalability.",
                 "list": []
             }
         ],
@@ -343,21 +343,21 @@ export const FrontEnd2025: IFrontEnd = {
         ],
     },
     javascript: {
-        "title": "JavaScript",
-        "description": "JavaScript is a versatile and dynamic programming language widely used for building interactive and responsive web applications. Its flexibility and extensive ecosystem make it an essential tool for modern web development.",
+        title: "JavaScript",
+        description: "JavaScript is a versatile and dynamic programming language widely used for building interactive and responsive web applications. Its flexibility and extensive ecosystem make it an essential tool for modern web development.",
         "image": "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
         "alt": "Logo representing JavaScript programming language",
         "readMore": "Explore more JavaScript full-stack development solutions",
         "link": "/technical-expertise/front-end-developer/javascript-developer",
         "features": [
             {
-                "title": "JavaScript Development",
-                "description": "JavaScript powers the dynamic behavior of websites and web applications, offering unparalleled versatility and compatibility with browsers and frameworks.",
+                title: "JavaScript Development",
+                description: "JavaScript powers the dynamic behavior of websites and web applications, offering unparalleled versatility and compatibility with browsers and frameworks.",
                 "list": []
             },
             {
-                "title": "Rich Interactive Experiences",
-                "description": "JavaScript enables developers to create interactive user interfaces, animations, and real-time features like chat applications, delivering engaging user experiences.",
+                title: "Rich Interactive Experiences",
+                description: "JavaScript enables developers to create interactive user interfaces, animations, and real-time features like chat applications, delivering engaging user experiences.",
                 "list": [
                     "Dynamic content updates",
                     "Interactive web interfaces",
@@ -367,13 +367,13 @@ export const FrontEnd2025: IFrontEnd = {
                 ]
             },
             {
-                "title": "Wide Ecosystem and Tooling",
-                "description": "JavaScript boasts a vast ecosystem of libraries and frameworks like React, Angular, and Vue.js, empowering developers to build robust web applications efficiently.",
+                title: "Wide Ecosystem and Tooling",
+                description: "JavaScript boasts a vast ecosystem of libraries and frameworks like React, Angular, and Vue.js, empowering developers to build robust web applications efficiently.",
                 "list": []
             },
             {
-                "title": "Back-End Development with Node.js",
-                "description": "JavaScript extends to back-end development through Node.js, enabling full-stack development with a single language, from server-side logic to client-side interactions.",
+                title: "Back-End Development with Node.js",
+                description: "JavaScript extends to back-end development through Node.js, enabling full-stack development with a single language, from server-side logic to client-side interactions.",
                 "list": []
             }
         ],

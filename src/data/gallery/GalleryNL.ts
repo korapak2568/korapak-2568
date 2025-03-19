@@ -34,8 +34,8 @@ export const GalleryNL: IGallery = {
         },
     ],
     global: {
-        title: "Internationale Reiservaring",
-        description: "Ervaring met buitenlandse reizen voor training, internationale werkstudiereizen in zowel ASEAN-landen als de Verenigde Staten, beschikbaar voor werken op afstand, hybride werken of kantoorwerk in Chiang Mai, Bangkok, Thailand en in het buitenland.",
+        title: "Internationaal Reizen",
+        description: "CHORN heeft ervaring met internationaal reizen voor training, leermogelijkheden tussen ASEAN-landen en de Verenigde Staten, het leiden van workshops, en is beschikbaar voor reizen, thuiswerken, hybride werken, of kantoorwerk in Chiang Mai, Bangkok, Thailand en in het buitenland.",
         image: "/chorn-images/gallery/chorn-global-001.jpg"
     },
     globalSlides: [

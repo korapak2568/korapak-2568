@@ -7,26 +7,25 @@ import {truncateText} from "@/lib/truncateText";
 import Link from "next/link";
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const FullStackExperience: React.FC = () => {
-    const currentTranslate = useSelector((state: RootState) => state.service.translate);
+    const locale = useLocale()
 
     return (
         <>
             <div className="digital-experience-area ptb-100">
                 <div className="container">
                     <div className="section-title contrast-section-title">
-                        <span>{InfoTranslation[currentTranslate.value].FullStack.span}</span>
-                        <h2>{InfoTranslation[currentTranslate.value].FullStack.title}</h2>
+                        <span>{InfoTranslation[locale.value].FullStack.span}</span>
+                        <h2>{InfoTranslation[locale.value].FullStack.title}</h2>
                         <div className="bar"></div>
                     </div>
 
                     <div className="tab digital-experience-tab">
                         <Tabs>
                             <TabList>
-                                {InfoTranslation[currentTranslate.value].FullStack.stacks.map((item: IFullStackStack, index: any) => (
+                                {InfoTranslation[locale.value].FullStack.stacks.map((item: IFullStackStack, index: any) => (
                                     <Tab key={index}>
                                           <span>
                                               <Image
@@ -42,7 +41,7 @@ const FullStackExperience: React.FC = () => {
                                 ))}
                             </TabList>
 
-                            {InfoTranslation[currentTranslate.value].FullStack.stacks.map((item: IFullStackStack, index: any) => (
+                            {InfoTranslation[locale.value].FullStack.stacks.map((item: IFullStackStack, index: any) => (
                                 <TabPanel key={index}>
                                     <div className="row align-items-center">
                                         <div className="col-lg-6">
@@ -52,7 +51,7 @@ const FullStackExperience: React.FC = () => {
                                                     {truncateText(item.features[0].description, 200)}
                                                 </p>
                                                 <p className={"p-read-more"}>
-                                                    <Link href={'/' + currentTranslate.value + item.link}
+                                                    <Link href={'/' + locale.value + item.link}
                                                           className="contrast-read-more">
                                                         {item.readMore} <i className="bx bx-chevrons-right"></i>
                                                     </Link>
@@ -67,7 +66,7 @@ const FullStackExperience: React.FC = () => {
                                                         {truncateText(item.features[1].description, 120)}
                                                     </p>
                                                     <p className={"p-read-more"}>
-                                                        <Link href={'/' + currentTranslate.value + item.link}
+                                                        <Link href={'/' + locale.value + item.link}
                                                               className="contrast-read-more">
                                                             {item.readMore} <i className="bx bx-chevrons-right"></i>
                                                         </Link>
@@ -83,7 +82,7 @@ const FullStackExperience: React.FC = () => {
                                                         {truncateText(item.features[2].description, 120)}
                                                     </p>
                                                     <p className={"p-read-more"}>
-                                                        <Link href={'/' + currentTranslate.value + item.link}
+                                                        <Link href={'/' + locale.value + item.link}
                                                               className="contrast-read-more">
                                                             {item.readMore} <i className="bx bx-chevrons-right"></i>
                                                         </Link>
@@ -99,7 +98,7 @@ const FullStackExperience: React.FC = () => {
                                                         {truncateText(item.features[3].description, 120)}
                                                     </p>
                                                     <p className={"p-read-more"}>
-                                                        <Link href={'/' + currentTranslate.value + item.link}
+                                                        <Link href={'/' + locale.value + item.link}
                                                               className="contrast-read-more">
                                                             {item.readMore} <i className="bx bx-chevrons-right"></i>
                                                         </Link>
@@ -111,7 +110,7 @@ const FullStackExperience: React.FC = () => {
                                         <div className="col-lg-6">
                                             <div className="digital-experience-image">
                                                 <Image
-                                                    src={InfoTranslation[currentTranslate.value].Gallery.global.image}
+                                                    src={InfoTranslation[locale.value].Gallery.global.image}
                                                     alt="Service image"
                                                     width={750}
                                                     height={680}

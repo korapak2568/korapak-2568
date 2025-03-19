@@ -34,9 +34,8 @@ export const GalleryDA: IGallery = {
         },
     ],
     global: {
-        title: "International Rejseerfaring",
-        description: "Erfaring med udlandsrejser til uddannelse, internationale studieophold i både ASEAN-lande og USA, klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, Thailand og i udlandet.",
-        descriptionA: "Åben for remote, hybrid eller onsite engagementer i <strong>Chiang Mai, Bangkok, Thailand</strong> og <strong>verdensomspændende</strong>.",
+        title: "International Rejse",
+        description: "CHORN har erfaring med internationale rejser til træning, læringsmuligheder mellem ASEAN-lande og USA, afholdelse af workshops og er klar til rejser, fjernarbejde, hybrid arbejde eller kontorarbejde i Chiang Mai, Bangkok, Thailand og i udlandet.",
         image: "/chorn-images/gallery/chorn-global-001.jpg"
     },
     globalSlides: [
