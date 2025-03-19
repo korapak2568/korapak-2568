@@ -16,28 +16,27 @@ export const CopyRight: React.FC = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
                             <p>
-                                Copyright &copy; {year}. All Rights Reserved by{" "}
-                                <a href={'/' + locale.value + InfoTranslation[locale.value].Footer.link}
-                                   target="_blank">
-                                    {InfoTranslation[locale.value].Footer.title}
-                                </a>
+                                Copyright &copy; {year} by <a href={'/' + locale.value}>CHORN</a>
                             </p>
                         </div>
 
                         <div className="col-lg-6 col-md-6">
                             <ul>
                                 <li>
-                                    <Link href={'/' + locale.value + InfoTranslation[locale.value].Footer.termOfService.link}>
+                                    <Link
+                                        href={'/' + locale.value + InfoTranslation[locale.value].Footer.termOfService.link}>
                                         {InfoTranslation[locale.value].Footer.termOfService.label}
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href={'/' + locale.value + InfoTranslation[locale.value].Footer.privacyPolicy.link}>
+                                    <Link
+                                        href={'/' + locale.value + InfoTranslation[locale.value].Footer.privacyPolicy.link}>
                                         {InfoTranslation[locale.value].Footer.privacyPolicy.label}
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href={'/' + locale.value + InfoTranslation[locale.value].Footer.workplacePolicy.link}>
+                                    <Link
+                                        href={'/' + locale.value + InfoTranslation[locale.value].Footer.workplacePolicy.link}>
                                         {InfoTranslation[locale.value].Footer.workplacePolicy.label}
                                     </Link>
                                 </li>
