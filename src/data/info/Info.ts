@@ -13,7 +13,6 @@ import {TermOfService} from "@/data/policy/term-of-service/TermOfService";
 import {DevOps2025} from "@/data/devops/DevOps2025";
 import {WorkplacePolicy} from "@/data/policy/workplace-policy/WorkplacePolicy";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Consent2025} from "@/data/consent/Consent2025";
 import {AboutEN} from "@/data/about/AboutEN";
 import {Image} from "@/data/image/Image";
 import {AiCompanions} from "@/data/ai/AiCompanions";
@@ -22,6 +21,7 @@ import {Gallery} from "@/data/gallery/Gallery";
 import {Translates} from "@/data/translate/Translates";
 import {Navbar2025} from "@/data/navbar/Navbar2025";
 import {CloudSolutionEN} from "@/data/cloud-solutions/CloudSolutionEN";
+import {ConsentEN} from "@/data/consent/ConsentEN";
 
 export const Info: IInfo = {
     Languages,
@@ -48,7 +48,7 @@ export const Info: IInfo = {
     WorkplacePolicy: WorkplacePolicy,
 
     Contact: Contact2025,
-    Consent: Consent2025,
+    Consent: ConsentEN,
 
     Images: Image,
 

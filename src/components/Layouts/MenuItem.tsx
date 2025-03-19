@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import {usePathname} from "next/navigation";
 import {INavbar} from "@/data/navbar/model/INavbar";
-import {isActiveMainMenu, isActiveMenu} from "@/lib/utils";
+import {isActiveMainMenu, isActiveSubMenu} from "@/lib/utils";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
@@ -45,7 +45,7 @@ const MenuItem: React.FC<INavbar> = ({group, label, link, submenu}) => {
                                 <li className="nav-item" key={index}>
                                     <Link
                                         href={'/' + locale.value + subItem.link}
-                                        className={`nav-link ${isActiveMenu(pathname, subItem.link) ? "active add-navbar-active" : ""}`}
+                                        className={`nav-link ${isActiveSubMenu(pathname, '/' + locale.value + subItem.link) ? "active add-navbar-active" : ""}`}
                                         onClick={() => saveClickedLinked(group)}
                                     >
                                         {subItem.label}

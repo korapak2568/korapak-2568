@@ -2,7 +2,6 @@ import {IInfo} from "@/data/info/model/IInfo";
 import {Languages} from "@/data/language/Languages";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Consent2025} from "@/data/consent/Consent2025";
 import {Image} from "@/data/image/Image";
 import {AiCompanions} from "@/data/ai/AiCompanions";
 import {Translates} from "@/data/translate/Translates";
@@ -22,6 +21,7 @@ import {PrivacyPolicyZH} from "@/data/policy/privacy-policy/PrivacyPolicyZH";
 import {TermOfServiceZH} from "@/data/policy/term-of-service/TermOfServiceZH";
 import {WorkplacePolicyZH} from "@/data/policy/workplace-policy/WorkplacePolicyZH";
 import {CloudSolutionZH} from "@/data/cloud-solutions/CloudSolutionZH";
+import {ConsentZH} from "@/data/consent/ConsentZH";
 
 export const InfoZH: IInfo = {
     Languages,
@@ -47,7 +47,7 @@ export const InfoZH: IInfo = {
 
     Recommend: Recommend2025,
     Contact: Contact2025,
-    Consent: Consent2025,
+    Consent: ConsentZH,
 
     Images: Image,
 

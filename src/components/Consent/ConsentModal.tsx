@@ -4,9 +4,11 @@
 import {useState, useEffect} from 'react';
 import Link from "next/link";
 import Image from "next/image";
-import {Info} from "@/data/info/Info";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const ConsentModal = () => {
+        const locale = useLocale();
         const [isVisible, setIsVisible] = useState(false);
 
         useEffect(() => {
@@ -53,16 +55,18 @@ const ConsentModal = () => {
                                     <div className="add-cookie-left">
                                         <Image
                                             className="logo"
-                                            src={Info.Images.logo.sm.path}
-                                            alt={Info.Images.logo.sm.title}
+                                            src={InfoTranslation[locale.value].Images.logo.sm.path}
+                                            alt={InfoTranslation[locale.value].Images.logo.sm.title}
                                             width={50}
                                             height={50}
                                         />
                                         <div className="text">
-                                            {Info.Consent.description}
+                                            {InfoTranslation[locale.value].Consent.description}
                                             <Link
                                                 className="a-privacy"
-                                                href={Info.Consent.policyLink}>{Info.Consent.policyLabel}
+                                                href={'/' + locale.value + InfoTranslation[locale.value].Consent.policyLink}
+                                            >
+                                                {InfoTranslation[locale.value].Consent.policyLabel}
                                             </Link>
                                         </div>
                                     </div>
@@ -70,7 +74,7 @@ const ConsentModal = () => {
                                         <button
                                             className="btn btn-success add-button"
                                             onClick={handleAccept}>
-                                            {Info.Consent.buttonText}
+                                            {InfoTranslation[locale.value].Consent.buttonText}
                                         </button>
                                     </div>
                                 </div>
