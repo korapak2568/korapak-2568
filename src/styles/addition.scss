@@ -364,6 +364,14 @@
       color: #b05f2a; // Darker orange on hover/focus for better contrast
     }
   }
+
+  a:hover {
+    color: #f64c67;
+
+    h3, p {
+      color: #f64c67;
+    }
+  }
 }
 
 .contrast-section-title {

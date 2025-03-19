@@ -1,34 +1,33 @@
 import {IFeature} from "@/data/feature/model/IFeature";
 
 export const FeatureZH: IFeature = {
-    title: "System Analysis & Software Development",
-    span: "Care Features",
+    title: "网站开发概述",
+    span: "系统分析与软件开发",
     subTitle: "",
     stacks: [
         {
-            title: "Front End Development",
-            description: "UI frameworks and libraries such as React, Next.js, Angular, Vue, " +
-                "and TypeScript, JavaScript, HTML3, and CSS3.",
+            title: "前端开发",
+            description: "UI框架和库，如React、Next.js、Angular、Vue，以及TypeScript、JavaScript、HTML3和CSS3。",
             link: "/technical-expertise/front-end-developer/",
             icon: "bx bx-code-alt"
         },
         {
-            title: "Back End Development",
-            description: "Expertise in server-side technologies, including Node.js, Java, Spring Boot, Go, PHP, and Python, for building scalable and efficient back-end systems.",
+            title: "后端开发",
+            description: "在服务器端技术方面的经验，包括Node.js、Java、Spring Boot、Go、PHP和Python，用于构建可扩展且高效的后端系统。",
             link: "/technical-expertise/full-stack-developer/",
             icon: "bx bx-server"
         },
         {
-            title: "Web Development",
-            description: "End-to-end web development solutions using modern technologies like Node.js, Java, Spring Boot, Go, PHP, and Python to create dynamic, responsive websites.",
+            title: "Web API开发",
+            description: "使用现代技术如Node.js、Java、Spring Boot、Go、PHP和Python的端到端Web开发解决方案，创建动态、响应式网站。",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "Web3 & Blockchain",
-            description: "We also specialize in cutting-edge technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3, ensuring your financial technical-expertise stay ahead of the curve.",
+            title: "Web3和区块链",
+            description: "在区块链、去中心化金融（DeFi）、智能合约和Web3等前沿技术方面的经验，确保您的金融技术专长始终领先。",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"
         }
     ],
-}
+};

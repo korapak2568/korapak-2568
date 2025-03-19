@@ -1,34 +1,33 @@
 import {IFeature} from "@/data/feature/model/IFeature";
 
 export const FeatureNL: IFeature = {
-    title: "System Analysis & Software Development",
-    span: "Care Features",
+    title: "Overzicht Websiteontwikkeling",
+    span: "Systeemanalyse en Softwareontwikkeling",
     subTitle: "",
     stacks: [
         {
-            title: "Front End Development",
-            description: "UI frameworks and libraries such as React, Next.js, Angular, Vue, " +
-                "and TypeScript, JavaScript, HTML3, and CSS3.",
+            title: "Front-End Ontwikkeling",
+            description: "UI-frameworks en bibliotheken zoals React, Next.js, Angular, Vue, en TypeScript, JavaScript, HTML3 en CSS3.",
             link: "/technical-expertise/front-end-developer/",
             icon: "bx bx-code-alt"
         },
         {
-            title: "Back End Development",
-            description: "Expertise in server-side technologies, including Node.js, Java, Spring Boot, Go, PHP, and Python, for building scalable and efficient back-end systems.",
+            title: "Back-End Ontwikkeling",
+            description: "Ervaring in servertechnologieën, waaronder Node.js, Java, Spring Boot, Go, PHP en Python, voor het bouwen van schaalbare en efficiënte back-end systemen.",
             link: "/technical-expertise/full-stack-developer/",
             icon: "bx bx-server"
         },
         {
-            title: "Web Development",
-            description: "End-to-end web development solutions using modern technologies like Node.js, Java, Spring Boot, Go, PHP, and Python to create dynamic, responsive websites.",
+            title: "Web API Ontwikkeling",
+            description: "End-to-end webontwikkelingsoplossingen met moderne technologieën zoals Node.js, Java, Spring Boot, Go, PHP en Python om dynamische, responsieve websites te creëren.",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
             title: "Web3 & Blockchain",
-            description: "We also specialize in cutting-edge technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3, ensuring your financial technical-expertise stay ahead of the curve.",
+            description: "Ervaring in geavanceerde technologieën zoals Blockchain, Gedecentraliseerde Financiën (DeFi), Smart Contracts en Web3, om ervoor te zorgen dat uw financiële technische expertise voorop blijft lopen.",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"
         }
     ],
-}
+};

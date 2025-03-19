@@ -1,7 +1,6 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Languages} from "@/data/language/Languages";
 import {Service2025} from "@/data/service/Service2025";
-import {Feature2025} from "@/data/feature/Feature2025";
 import {Cloud2025} from "@/data/cloud/Cloud2025";
 import {FullStack2025} from "@/data/fullstack/FullStack2025";
 import {FrontEnd2025} from "@/data/frontend/FrontEnd2025";
@@ -22,6 +21,7 @@ import {Translates} from "@/data/translate/Translates";
 import {Navbar2025} from "@/data/navbar/Navbar2025";
 import {CloudSolutionEN} from "@/data/cloud-solutions/CloudSolutionEN";
 import {ConsentEN} from "@/data/consent/ConsentEN";
+import {FeatureEN} from "@/data/feature/FeatureEN";
 
 export const Info: IInfo = {
     Languages,
@@ -29,7 +29,7 @@ export const Info: IInfo = {
     AiCompanions,
 
     Service: Service2025,
-    Feature: Feature2025,
+    Feature: FeatureEN,
     About: AboutEN,
     Cloud: Cloud2025,
     Navbar: Navbar2025,

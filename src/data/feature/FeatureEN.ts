@@ -1,8 +1,8 @@
 import {IFeature} from "@/data/feature/model/IFeature";
 
 export const FeatureEN: IFeature = {
-    title: "System Analysis & Software Development",
-    span: "Care Features",
+    title: "Website Development Overview",
+    span: "System Analysis and Software Development",
     subTitle: "",
     stacks: [
         {
@@ -14,19 +14,19 @@ export const FeatureEN: IFeature = {
         },
         {
             title: "Back End Development",
-            description: "Expertise in server-side technologies, including Node.js, Java, Spring Boot, Go, PHP, and Python, for building scalable and efficient back-end systems.",
+            description: "Experience in server-side technologies, including Node.js, Java, Spring Boot, Go, PHP, and Python, for building scalable and efficient back-end systems.",
             link: "/technical-expertise/full-stack-developer/",
             icon: "bx bx-server"
         },
         {
-            title: "Web Development",
+            title: "Web API Development",
             description: "End-to-end web development solutions using modern technologies like Node.js, Java, Spring Boot, Go, PHP, and Python to create dynamic, responsive websites.",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
             title: "Web3 & Blockchain",
-            description: "We also specialize in cutting-edge technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3, ensuring your financial technical-expertise stay ahead of the curve.",
+            description: "Experience in cutting-edge technologies like Blockchain, Decentralized Finance (DeFi), Smart Contracts, and Web3, ensuring your financial technical-expertise stay ahead of the curve.",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"
         }
