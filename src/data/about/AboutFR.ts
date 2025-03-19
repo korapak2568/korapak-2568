@@ -7,7 +7,7 @@ export const AboutFR: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN a été développé en mars 2023 pour démontrer l'expertise en technologie, développement de logiciels et développement de sites web par K.Khachornchit, qui possède une formation en génie électrique de l'Université de Chiang Mai et plus de 20 ans d'expérience dans le développement de logiciels et de sites web avec divers frameworks, développement frontend, backend, API et full-stack. Il a de l'expérience en architecture système, AQ, tests, analyse de systèmes, DevOps, intégration LLM/IA, mise en œuvre de systèmes cloud et systèmes à grande échelle pour stimuler la croissance des entreprises avec des solutions évolutives et centrées sur le client. Les services sont fournis à distance, en mode hybride, à Chiang Mai, Bangkok, Thaïlande et à l'international."
+            description: "CHORN, lancé en mars 2023 par K.Khachornchit, met en valeur son expertise en technologie et développement logiciel. Avec une formation en génie électrique et plus de 20 ans d'expérience, il se spécialise dans l'architecture système, l'analyse commerciale, le développement full-stack, l'AQ/test, DevOps, l'intégration LLM/IA et l'implémentation cloud. K.Khachornchit propose des solutions évolutives centrées sur le client et offre ses services à distance, en mode hybride ou sur site à Chiang Mai, Bangkok, en Thaïlande et à l'international."
         }
     ],
     stacks: [

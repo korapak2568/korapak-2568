@@ -7,7 +7,7 @@ export const AboutNL: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN werd ontwikkeld in maart 2023 om expertise in technologie, softwareontwikkeling en webontwikkeling te tonen door K.Khachornchit, die een achtergrond heeft in elektrotechniek van de Chiang Mai Universiteit en meer dan 20 jaar ervaring in software- en webontwikkeling met verschillende frameworks, frontend, backend, API en full-stack ontwikkeling. Hij heeft ervaring in systeemarchitectuur, QA, testen, systeemanalyse, DevOps, LLM/AI-integratie, cloudimplementatie en grootschalige systemen om bedrijfsgroei te stimuleren met schaalbare en klantgerichte oplossingen. Diensten worden op afstand, hybride, in Chiang Mai, Bangkok, Thailand en internationaal aangeboden."
+            description: "CHORN, gelanceerd in maart 2023 door K.Khachornchit, toont expertise in technologie en softwareontwikkeling. Met een achtergrond in Elektrotechniek en meer dan 20 jaar ervaring, specialiseert hij zich in systeemarchitectuur, bedrijfsanalyse, full-stack ontwikkeling, QA/testen, DevOps, LLM/AI-integratie en cloudimplementatie. K.Khachornchit levert schaalbare, klantgerichte oplossingen en biedt diensten op afstand, hybride of ter plaatse in Chiang Mai, Bangkok, Thailand en internationaal."
         }
     ],
     stacks: [
