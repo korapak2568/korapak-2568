@@ -50,7 +50,7 @@ const staticPaths = [
     '/technical-expertise/web3-blockchain-smart-contract-development',
     '/technical-expertise/web-development',
     '/terms-of-service',
-    '/workplace policy',
+    '/workplace-policy',
 ];
 
 const generateAlternates = async (path: string) => {
