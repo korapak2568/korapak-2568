@@ -1,10 +1,7 @@
 import type {MetadataRoute} from 'next';
 
-// Define your locales
 const BASE_URL = 'https://chorn.in.th';
 const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'na'] as const;
-
-// Define static paths (you can fetch dynamic paths if needed)
 const staticPaths = [
     '',
     '/404',
@@ -53,36 +50,14 @@ const staticPaths = [
     '/workplace-policy',
 ];
 
-const generateAlternates = async (path: string) => {
-    return locales.reduce<Record<string, string>>((acc, locale) => {
-        const localizedPath = locale === 'en' ? path : `/${locale}${path}`;
-        acc[locale] = `${BASE_URL}${localizedPath}`;
-        return acc;
-    }, {});
-};
-
 // Correct sitemap structure
 export default function sitemap(): MetadataRoute.Sitemap {
     return staticPaths.flatMap((path: string) => {
         return locales.map((locale: string) => ({
             url: `${BASE_URL}/${locale}${path}`,
-            lastModified: new Date(),
+            lastModified: new Date().toISOString().split('T')[0],
+            changefreq: 'monthly',
+            priority: 0.8,
         }));
     });
 }
-
-// Sitemap generator function - Incorrect xml
-// export default function sitemap(): MetadataRoute.Sitemap {
-//     return staticPaths.flatMap((path: string) => {
-//         return locales.map((locale: string) => ({
-//             url: `${BASE_URL}/${locale}${path}`,
-//             lastModified: new Date(),
-//             // alternates: {
-//             //     languages: {
-//             //         es: 'https://acme.com/es/about',
-//             //         de: 'https://acme.com/de/about',
-//             //     },
-//             // }
-//         }));
-//     });
-// }
