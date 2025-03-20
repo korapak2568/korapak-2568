@@ -22,6 +22,7 @@ import {TermOfServiceEN} from "@/data/policy/term-of-service/TermOfServiceEN";
 import {WorkplacePolicyEN} from "@/data/policy/workplace-policy/WorkplacePolicyEN";
 import {CloudSolutionEN} from "@/data/cloud-solutions/CloudSolutionEN";
 import {ConsentEN} from "@/data/consent/ConsentEN";
+import {TransformBusinessEN} from "@/data/transform-business/TransformBusinessEN";
 
 export const InfoEN: IInfo = {
     Languages,
@@ -54,5 +55,6 @@ export const InfoEN: IInfo = {
 
     Gallery: GalleryEN,
     Translates,
-    CloudSolution: CloudSolutionEN
+    CloudSolution: CloudSolutionEN,
+    TransformBusiness: TransformBusinessEN
 }

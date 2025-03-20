@@ -22,6 +22,7 @@ import {TermOfServiceVI} from "@/data/policy/term-of-service/TermOfServiceVI";
 import {WorkplacePolicyVI} from "@/data/policy/workplace-policy/WorkplacePolicyVI";
 import {CloudSolutionVI} from "@/data/cloud-solutions/CloudSolutionVI";
 import {ConsentVI} from "@/data/consent/ConsentVI";
+import {TransformBusinessVI} from "@/data/transform-business/TransformBusinessVI";
 
 export const InfoVI: IInfo = {
     Languages,
@@ -54,5 +55,6 @@ export const InfoVI: IInfo = {
 
     Gallery: GalleryVI,
     Translates,
-    CloudSolution: CloudSolutionVI
+    CloudSolution: CloudSolutionVI,
+    TransformBusiness: TransformBusinessVI
 }

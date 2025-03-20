@@ -22,6 +22,7 @@ import {TermOfServiceDA} from "@/data/policy/term-of-service/TermOfServiceDA";
 import {WorkplacePolicyDA} from "@/data/policy/workplace-policy/WorkplacePolicyDA";
 import {CloudSolutionDA} from "@/data/cloud-solutions/CloudSolutionDA";
 import {ConsentDA} from "@/data/consent/ConsentDA";
+import {TransformBusinessDA} from "@/data/transform-business/TransformBusinessDA";
 
 export const InfoDA: IInfo = {
     Languages,
@@ -54,5 +55,6 @@ export const InfoDA: IInfo = {
 
     Gallery: GalleryDA,
     Translates,
-    CloudSolution: CloudSolutionDA
+    CloudSolution: CloudSolutionDA,
+    TransformBusiness: TransformBusinessDA
 }

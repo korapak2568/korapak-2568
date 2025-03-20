@@ -22,6 +22,7 @@ import {TermOfServiceJA} from "@/data/policy/term-of-service/TermOfServiceJA";
 import {WorkplacePolicyJA} from "@/data/policy/workplace-policy/WorkplacePolicyJA";
 import {CloudSolutionJA} from "@/data/cloud-solutions/CloudSolutionJA";
 import {ConsentJA} from "@/data/consent/ConsentJA";
+import {TransformBusinessJA} from "@/data/transform-business/TransformBusinessJA";
 
 export const InfoJA: IInfo = {
     Languages,
@@ -54,5 +55,6 @@ export const InfoJA: IInfo = {
 
     Gallery: GalleryJA,
     Translates,
-    CloudSolution: CloudSolutionJA
+    CloudSolution: CloudSolutionJA,
+    TransformBusiness: TransformBusinessJA
 }

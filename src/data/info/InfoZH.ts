@@ -22,6 +22,7 @@ import {TermOfServiceZH} from "@/data/policy/term-of-service/TermOfServiceZH";
 import {WorkplacePolicyZH} from "@/data/policy/workplace-policy/WorkplacePolicyZH";
 import {CloudSolutionZH} from "@/data/cloud-solutions/CloudSolutionZH";
 import {ConsentZH} from "@/data/consent/ConsentZH";
+import {TransformBusinessZH} from "@/data/transform-business/TransformBusinessZH";
 
 export const InfoZH: IInfo = {
     Languages,
@@ -53,5 +54,6 @@ export const InfoZH: IInfo = {
 
     Gallery: GalleryZH,
     Translates,
-    CloudSolution: CloudSolutionZH
+    CloudSolution: CloudSolutionZH,
+    TransformBusiness: TransformBusinessZH
 }

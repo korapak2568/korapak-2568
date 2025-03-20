@@ -19,8 +19,8 @@ import {IWeb3} from "@/data/web3/model/IWeb3";
 import {IGallery} from "@/data/gallery/model/IGallery";
 import {ITranslate} from "@/data/translate/model/ITranslate";
 import {INavbar} from "@/data/navbar/model/INavbar";
-import {CloudSolutionEN} from "@/data/cloud-solutions/CloudSolutionEN";
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
+import {ITransformBusiness} from "@/data/transform-business/model/ITransformBusiness";
 
 export interface IInfo {
     Languages: ILanguage[],
@@ -52,5 +52,6 @@ export interface IInfo {
 
     Gallery: IGallery,
     Translates: ITranslate[],
-    CloudSolution: ICloudSolution
+    CloudSolution: ICloudSolution,
+    TransformBusiness: ITransformBusiness,
 }
