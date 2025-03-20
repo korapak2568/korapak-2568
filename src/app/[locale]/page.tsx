@@ -13,6 +13,7 @@ import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkup
 import type {Metadata} from "next";
 import FlexibleWorkspace from "@/components/Gallery/FlexibleWorkspace";
 import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 
 export const metadata: Metadata = ChornMetadata.home
 
@@ -61,6 +62,7 @@ export default function Home() {
             <FullStackExperience/>
             <CloudExperience/>
             <SubscribeForm/>
+            <WeWorkForIndustries/>
             <Footer/>
             <SchemaMarkupHomePage/>
 

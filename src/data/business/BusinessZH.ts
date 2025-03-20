@@ -1,39 +1,39 @@
 import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const BusinessZH: IBusiness = {
-    span: "CHORN Work For Industries",
-    title: "Helping Businesses Domains",
+    span: "学习和开发适用于各行业的软件",
+    title: "商业领域的软件开发",
     domains: [
         {
-            label: "Digital Marketing",
+            label: "数字营销",
             icon: "flaticon-digital-marketing-2"
         },
         {
-            label: "Blockchain & DeFi",
+            label: "区块链和去中心化金融",
             icon: "flaticon-bank",
         },
         {
-            label: "Education Services",
+            label: "教育服务",
             icon: "flaticon-graduation-cap",
         },
         {
-            label: "e-Commerce",
+            label: "电子商务",
             icon: "flaticon-stock-market",
         },
         {
-            label: "Entrepreneur",
+            label: "企业家",
             icon: "flaticon-employee",
         },
         {
-            label: "Restaurant",
+            label: "餐厅",
             icon: "flaticon-waiter",
         },
         {
-            label: "Health Services",
+            label: "健康服务",
             icon: "flaticon-stethoscope",
         },
         {
-            label: "Social Network",
+            label: "社交网络",
             icon: "flaticon-user",
         },
     ]

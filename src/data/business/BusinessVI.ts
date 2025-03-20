@@ -1,11 +1,11 @@
 import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const BusinessVI: IBusiness = {
-    span: "CHORN Work For Industries",
-    title: "Helping Businesses Domains",
+    span: "Học và phát triển phần mềm cho các ngành công nghiệp khác nhau",
+    title: "Phát triển phần mềm cho các lĩnh vực kinh doanh",
     domains: [
         {
-            label: "Digital Marketing",
+            label: "Tiếp thị số",
             icon: "flaticon-digital-marketing-2"
         },
         {
@@ -13,27 +13,27 @@ export const BusinessVI: IBusiness = {
             icon: "flaticon-bank",
         },
         {
-            label: "Education Services",
+            label: "Dịch vụ giáo dục",
             icon: "flaticon-graduation-cap",
         },
         {
-            label: "e-Commerce",
+            label: "Thương mại điện tử",
             icon: "flaticon-stock-market",
         },
         {
-            label: "Entrepreneur",
+            label: "Doanh nhân",
             icon: "flaticon-employee",
         },
         {
-            label: "Restaurant",
+            label: "Nhà hàng",
             icon: "flaticon-waiter",
         },
         {
-            label: "Health Services",
+            label: "Dịch vụ y tế",
             icon: "flaticon-stethoscope",
         },
         {
-            label: "Social Network",
+            label: "Mạng xã hội",
             icon: "flaticon-user",
         },
     ]

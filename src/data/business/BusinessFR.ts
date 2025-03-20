@@ -1,11 +1,11 @@
 import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const BusinessFR: IBusiness = {
-    span: "CHORN Work For Industries",
-    title: "Helping Businesses Domains",
+    span: "Apprendre et développer des logiciels pour diverses industries",
+    title: "Développement de logiciels pour les domaines d'entreprises",
     domains: [
         {
-            label: "Digital Marketing",
+            label: "Marketing Digital",
             icon: "flaticon-digital-marketing-2"
         },
         {
@@ -13,7 +13,7 @@ export const BusinessFR: IBusiness = {
             icon: "flaticon-bank",
         },
         {
-            label: "Education Services",
+            label: "Services Éducatifs",
             icon: "flaticon-graduation-cap",
         },
         {
@@ -29,11 +29,11 @@ export const BusinessFR: IBusiness = {
             icon: "flaticon-waiter",
         },
         {
-            label: "Health Services",
+            label: "Services de Santé",
             icon: "flaticon-stethoscope",
         },
         {
-            label: "Social Network",
+            label: "Réseau Social",
             icon: "flaticon-user",
         },
     ]
