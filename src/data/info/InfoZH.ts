@@ -1,9 +1,8 @@
 import {IInfo} from "@/data/info/model/IInfo";
-import {Languages} from "@/data/language/Languages";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
 import {Image} from "@/data/image/Image";
-import {AiCompanions} from "@/data/ai/AiCompanions";
+import {AiCompanions} from "@/data/ai/companions/AiCompanions";
 import {Translates} from "@/data/translate/Translates";
 import {AboutZH} from "@/data/about/AboutZH";
 import {GalleryZH} from "@/data/gallery/GalleryZH";
@@ -23,10 +22,9 @@ import {WorkplacePolicyZH} from "@/data/policy/workplace-policy/WorkplacePolicyZ
 import {CloudSolutionZH} from "@/data/cloud-solutions/CloudSolutionZH";
 import {ConsentZH} from "@/data/consent/ConsentZH";
 import {TransformBusinessZH} from "@/data/transform-business/TransformBusinessZH";
+import {AiFahCoverZH} from "@/data/ai/fah-cover/AiFahCoverZH";
 
 export const InfoZH: IInfo = {
-    Languages,
-
     AiCompanions,
 
     Service: ServiceZH,
@@ -55,5 +53,7 @@ export const InfoZH: IInfo = {
     Gallery: GalleryZH,
     Translates,
     CloudSolution: CloudSolutionZH,
-    TransformBusiness: TransformBusinessZH
+    TransformBusiness: TransformBusinessZH,
+
+    AiFahCover: AiFahCoverZH
 }

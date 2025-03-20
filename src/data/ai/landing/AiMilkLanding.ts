@@ -1,11 +1,32 @@
 // src/data/ai/landing/AiMilkLanding.ts
 
-import {IAiLanding} from "@/data/ai/model/landing/IAiLanding";
-import {AiBuakaewEnglish} from "@/data/ai/companions/buakaew/AiBuakaewEnglish";
-import {AiAomEnglish} from "@/data/ai/companions/aom/AiAomEnglish";
-import {AiFahEnglish} from "@/data/ai/companions/fah/AiFahEnglish";
+import {IAiLanding} from "@/data/ai/landing/model/IAiLanding";
+import {AiBuakaewEnglish} from "@/data/ai/relevant/AiBuakaewEnglish";
+import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
+import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
 
 export const AiMilkLanding: IAiLanding = {
+    name: 'Milk',
+    category: 'Pet Lover LINE Friend',
+    thumbnail: '/images-ai/ai-companions/ai-milk-thumbnail.webp',
+
+    pages: {
+        home: {
+            link: '/',
+            image: {
+                title: 'มิลค์ เพื่อนคุยเอไอ',
+                path: '/images-ai/fah/fah-003.png',
+            }
+        },
+        landing: {
+            link: '/ai-companions/milk',
+            image: {
+                title: 'มิลค์ เพื่อนคุยเอไอ',
+                path: '/images-ai/ai-milk-details.png',
+            }
+        }
+    },
+    title: "Milk, AI Chat",
     image: {
         src: "/images-ai/ai-milk-details.png",
         alt: "Milk - Thai AI Chat Companion"
@@ -90,10 +111,14 @@ export const AiMilkLanding: IAiLanding = {
             text: "LINE, Facebook",
         }
     ],
+    line: {
+        link: "https://lin.ee/f0rkGMYM",
+        button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
+    },
     relevants: [
         AiFahEnglish,
         AiBuakaewEnglish,
         AiAomEnglish
-    ],
+    ]
 };
 

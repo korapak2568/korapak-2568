@@ -10,7 +10,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.AiCompanions.ploy.english.title}/>
+            <PageBanner pageTitle={Info.AiCompanions.ploy.title}/>
 
             <AiPloyLandingPage/>
 

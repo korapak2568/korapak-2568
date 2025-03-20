@@ -1,28 +1,28 @@
-import {IAiDetail} from "@/data/ai/model/IAiDetail";
+import {IAiDetail} from "@/data/ai/landing/model/IAiDetail";
 
-export const AiMilkEnglish: IAiDetail = {
-    name: 'Milk',
-    category: 'Pet Lover LINE Friend',
-    thumbnail: '/images-ai/ai-companions/ai-milk-thumbnail.webp',
+export const AiTonnamEnglish: IAiDetail = {
+    name: 'Tonnam',
+    category: 'Students LINE Friend',
+    thumbnail: '/images-ai/ai-companions/ai-tonnam-thumbnail.webp',
 
     pages: {
         home: {
             link: '/',
             image: {
-                title: 'มิลค์ เพื่อนคุยเอไอ',
+                title: 'ต้นน้ำ เพื่อนคุยเอไอ',
                 path: '/images-ai/fah/fah-003.png',
             }
         },
         landing: {
-            link: '/ai-companions/milk',
+            link: '/ai-companions/tonnam',
             image: {
-                title: 'มิลค์ เพื่อนคุยเอไอ',
-                path: '/images-ai/ai-milk-details.png',
+                title: 'ต้นน้ำ เพื่อนคุยเอไอ',
+                path: '/images-ai/ai-tonnam-details.png',
             }
         }
     },
 
-    title: "Milk, AI Chat",
+    title: "Tonnam, AI Chat",
     content:
         "Fah, ai chat friend in 6 languages, a charming and friendly Thai ai chat companion! Need life advice, " +
         "travel tips, or just a fun conversation? Fah is here for you. Fluent in Thai, English, Chinese, Japanese, " +
@@ -48,7 +48,7 @@ export const AiMilkEnglish: IAiDetail = {
         }
     ],
     line: {
-        link: "https://lin.ee/f0rkGMYM",
+        link: "https://lin.ee/Sy2Ispp",
         button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
     }
 }

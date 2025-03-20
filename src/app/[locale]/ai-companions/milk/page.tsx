@@ -10,7 +10,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.AiCompanions.milk.english.title}/>
+            <PageBanner pageTitle={Info.AiCompanions.milk.title}/>
 
             <AiMilkLandingPage/>
 

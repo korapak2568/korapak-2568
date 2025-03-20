@@ -1,9 +1,8 @@
 import {IInfo} from "@/data/info/model/IInfo";
-import {Languages} from "@/data/language/Languages";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
 import {Image} from "@/data/image/Image";
-import {AiCompanions} from "@/data/ai/AiCompanions";
+import {AiCompanions} from "@/data/ai/companions/AiCompanions";
 import {Translates} from "@/data/translate/Translates";
 import {AboutDA} from "@/data/about/AboutDA";
 import {GalleryDA} from "@/data/gallery/GalleryDA";
@@ -23,10 +22,9 @@ import {WorkplacePolicyDA} from "@/data/policy/workplace-policy/WorkplacePolicyD
 import {CloudSolutionDA} from "@/data/cloud-solutions/CloudSolutionDA";
 import {ConsentDA} from "@/data/consent/ConsentDA";
 import {TransformBusinessDA} from "@/data/transform-business/TransformBusinessDA";
+import {AiFahCoverDA} from "@/data/ai/fah-cover/AiFahCoverDA";
 
 export const InfoDA: IInfo = {
-    Languages,
-
     AiCompanions,
 
     Service: ServiceDA,
@@ -56,5 +54,7 @@ export const InfoDA: IInfo = {
     Gallery: GalleryDA,
     Translates,
     CloudSolution: CloudSolutionDA,
-    TransformBusiness: TransformBusinessDA
+    TransformBusiness: TransformBusinessDA,
+
+    AiFahCover: AiFahCoverDA
 }

@@ -19,23 +19,23 @@ const AiFahLandingPage: React.FC = () => {
                         <div className="col-lg-8">
                             <div className="portfolio-details-image">
                                 <Image
-                                    src={Info.AiCompanions.landing.fah.image.src}
+                                    src={Info.AiCompanions.fah.image.src}
                                     alt="portfolio"
                                     width={1000}
                                     height={600}
                                 />
                             </div>
 
-                            {Info.AiCompanions.landing.fah.features.map((feature, index: number) => (
+                            {Info.AiCompanions.fah.features.map((feature, index: number) => (
                                 <div key={index} className={`portfolio-details-desc portfolio-details-desc-custom`}>
                                     <div className={'unique-features-container'}>
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={'/' + locale.value + Info.AiCompanions.fah.english.line.link}
+                                            <a href={'/' + locale.value + Info.AiCompanions.fah.line.link}
                                                target={'_blank'}>
                                                 <Image
-                                                    src={Info.AiCompanions.fah.english.line.button}
+                                                    src={Info.AiCompanions.fah.line.button}
                                                     alt="เพิ่มเพื่อน"
                                                     width={120}
                                                     height={36}
@@ -62,7 +62,7 @@ const AiFahLandingPage: React.FC = () => {
                         <div className="col-lg-4 col-md-12">
                             <div className="portfolio-details-information ml-10">
                                 <ul className={'ul-custom'}>
-                                    {Info.AiCompanions.landing.fah.sidebars.map((sidebar, index: number) => (
+                                    {Info.AiCompanions.fah.sidebars.map((sidebar, index: number) => (
                                         <li key={index} className={'li-sidebar-custom'}>
                                             <div className="icon">
                                                 <i className={sidebar.icon}></i>
@@ -72,7 +72,7 @@ const AiFahLandingPage: React.FC = () => {
                                         </li>
                                     ))}
 
-                                    {Info.AiCompanions.landing.fah.relevants.map((ai, index) => (
+                                    {Info.AiCompanions.fah.relevants.map((ai, index) => (
                                         <Link key={index} href={'/' + locale.value + ai.pages.landing.link}>
                                             <li className="li-sidebar-relevant">
                                                 <Image

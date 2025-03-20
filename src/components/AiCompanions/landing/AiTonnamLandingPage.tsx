@@ -6,8 +6,11 @@ import React from "react";
 import Image from "next/image";
 import {Info} from "@/data/info/Info";
 import Link from "next/link";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const AiTonnamLandingPage: React.FC = () => {
+    const locale = useLocale()
+
     return (
         <>
             <div className="portfolio-details-area pt-4">
@@ -16,22 +19,23 @@ const AiTonnamLandingPage: React.FC = () => {
                         <div className="col-lg-8">
                             <div className="portfolio-details-image">
                                 <Image
-                                    src={Info.AiCompanions.landing.tonnam.image.src}
+                                    src={Info.AiCompanions.tonnam.image.src}
                                     alt="portfolio"
                                     width={1000}
                                     height={600}
                                 />
                             </div>
 
-                            {Info.AiCompanions.landing.tonnam.features.map((feature, index: number) => (
+                            {Info.AiCompanions.tonnam.features.map((feature, index: number) => (
                                 <div key={index} className={`portfolio-details-desc portfolio-details-desc-custom`}>
                                     <div className={'unique-features-container'}>
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={Info.AiCompanions.tonnam.english.line.link} target={'_blank'}>
+                                            <a href={'/' + locale.value + Info.AiCompanions.tonnam.line.link}
+                                               target={'_blank'}>
                                                 <Image
-                                                    src={Info.AiCompanions.tonnam.english.line.button}
+                                                    src={Info.AiCompanions.tonnam.line.button}
                                                     alt="เพิ่มเพื่อน"
                                                     width={120}
                                                     height={36}
@@ -57,7 +61,7 @@ const AiTonnamLandingPage: React.FC = () => {
                         <div className="col-lg-4 col-md-12">
                             <div className="portfolio-details-information ml-10">
                                 <ul>
-                                    {Info.AiCompanions.landing.tonnam.sidebars.map((sidebar, index: number) => (
+                                    {Info.AiCompanions.tonnam.sidebars.map((sidebar, index: number) => (
                                         <li key={index} className={'li-sidebar-custom'}>
                                             <div className="icon">
                                                 <i className={sidebar.icon}></i>
@@ -67,8 +71,8 @@ const AiTonnamLandingPage: React.FC = () => {
                                         </li>
                                     ))}
 
-                                    {Info.AiCompanions.landing.tonnam.relevants.map((ai, index) => (
-                                        <Link key={index} href={ai.pages.landing.link}>
+                                    {Info.AiCompanions.tonnam.relevants.map((ai, index) => (
+                                        <Link key={index} href={'/' + locale.value + ai.pages.landing.link}>
                                             <li className="li-sidebar-relevant">
                                                 <Image
                                                     src={ai.thumbnail}

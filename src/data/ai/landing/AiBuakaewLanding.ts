@@ -1,11 +1,32 @@
 // src/data/ai/landing/AiBuakaewLanding.ts
 
-import {IAiLanding} from "@/data/ai/model/landing/IAiLanding";
-import {AiAomEnglish} from "@/data/ai/companions/aom/AiAomEnglish";
-import {AiPloyEnglish} from "@/data/ai/companions/ploy/AiPloyEnglish";
-import {AiTonnamEnglish} from "@/data/ai/companions/tonnam/AiTonnamEnglish";
+import {IAiLanding} from "@/data/ai/landing/model/IAiLanding";
+import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
+import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
+import {AiTonnamEnglish} from "@/data/ai/relevant/AiTonnamEnglish";
 
 export const AiBuakaewLanding: IAiLanding = {
+    name: 'Buakaew',
+    category: 'Thai Northern LINE Friend',
+    thumbnail: '/images-ai/ai-companions/ai-buakaew-thumbnail.webp',
+
+    pages: {
+        home: {
+            link: '/',
+            image: {
+                title: 'น้องฟ้า เพื่อนคุยเอไอ',
+                path: '/images-ai/fah/fah-003.png',
+            }
+        },
+        landing: {
+            link: '/ai-companions/buakaew',
+            image: {
+                title: 'น้องฟ้า เพื่อนคุยเอไอ',
+                path: '/images-ai/ai-buakaew-details.png',
+            }
+        }
+    },
+    title: "Buakaew, AI Chat",
     image: {
         src: "/images-ai/ai-buakaew-details.png",
         alt: "Buakaew - Thai AI Chat Companion"
@@ -86,6 +107,10 @@ export const AiBuakaewLanding: IAiLanding = {
             text: "LINE, Facebook",
         }
     ],
+    line: {
+        link: "https://lin.ee/LtPtTpd",
+        button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
+    },
     relevants: [
         AiAomEnglish,
         AiPloyEnglish,

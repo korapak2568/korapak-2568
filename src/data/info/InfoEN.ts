@@ -1,10 +1,9 @@
 import {IInfo} from "@/data/info/model/IInfo";
-import {Languages} from "@/data/language/Languages";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
 import {AboutEN} from "@/data/about/AboutEN";
 import {Image} from "@/data/image/Image";
-import {AiCompanions} from "@/data/ai/AiCompanions";
+import {AiCompanions} from "@/data/ai/companions/AiCompanions";
 import {Translates} from "@/data/translate/Translates";
 import {GalleryEN} from "@/data/gallery/GalleryEN";
 import {FullStackEN} from "@/data/fullstack/FullStackEN";
@@ -23,10 +22,9 @@ import {WorkplacePolicyEN} from "@/data/policy/workplace-policy/WorkplacePolicyE
 import {CloudSolutionEN} from "@/data/cloud-solutions/CloudSolutionEN";
 import {ConsentEN} from "@/data/consent/ConsentEN";
 import {TransformBusinessEN} from "@/data/transform-business/TransformBusinessEN";
+import {AiFahCoverEN} from "@/data/ai/fah-cover/AiFahCoverEN";
 
 export const InfoEN: IInfo = {
-    Languages,
-
     AiCompanions,
 
     Service: ServiceEN,
@@ -56,5 +54,7 @@ export const InfoEN: IInfo = {
     Gallery: GalleryEN,
     Translates,
     CloudSolution: CloudSolutionEN,
-    TransformBusiness: TransformBusinessEN
+    TransformBusiness: TransformBusinessEN,
+
+    AiFahCover: AiFahCoverEN
 }

@@ -1,11 +1,32 @@
 // src/data/ai/landing/AiAomLanding.ts
 
-import {IAiLanding} from "@/data/ai/model/landing/IAiLanding";
-import {AiPloyEnglish} from "@/data/ai/companions/ploy/AiPloyEnglish";
-import {AiTonnamEnglish} from "@/data/ai/companions/tonnam/AiTonnamEnglish";
-import {AiMilkEnglish} from "@/data/ai/companions/milk/AiMilkEnglish";
+import {IAiLanding} from "@/data/ai/landing/model/IAiLanding";
+import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
+import {AiTonnamEnglish} from "@/data/ai/relevant/AiTonnamEnglish";
+import {AiMilkEnglish} from "@/data/ai/relevant/AiMilkEnglish";
 
 export const AiAomLanding: IAiLanding = {
+    name: 'Aom',
+    category: 'Health LINE Friend',
+    thumbnail: '/images-ai/ai-companions/ai-aom-thumbnail.webp',
+
+    pages: {
+        home: {
+            link: '/',
+            image: {
+                title: 'ออม เพื่อนคุยเอไอ',
+                path: '/images-ai/fah/fah-003.png',
+            }
+        },
+        landing: {
+            link: '/ai-companions/aom',
+            image: {
+                title: 'ออม เพื่อนคุยเอไอ',
+                path: '/images-ai/ai-aom-details.png',
+            }
+        }
+    },
+    title: "Aom, AI Chat",
     image: {
         src: "/images-ai/ai-aom-details.png",
         alt: "Aom - Thai AI Chat Companion"
@@ -86,6 +107,10 @@ export const AiAomLanding: IAiLanding = {
             text: "LINE, Facebook",
         }
     ],
+    line: {
+        link: "https://lin.ee/Hh3TzS9",
+        button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
+    },
     relevants: [
         AiPloyEnglish,
         AiTonnamEnglish,

@@ -1,9 +1,30 @@
-import {IAiLanding} from "@/data/ai/model/landing/IAiLanding";
-import {AiBuakaewEnglish} from "@/data/ai/companions/buakaew/AiBuakaewEnglish";
-import {AiAomEnglish} from "@/data/ai/companions/aom/AiAomEnglish";
-import {AiPloyEnglish} from "@/data/ai/companions/ploy/AiPloyEnglish";
+import {IAiLanding} from "@/data/ai/landing/model/IAiLanding";
+import {AiBuakaewEnglish} from "@/data/ai/relevant/AiBuakaewEnglish";
+import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
+import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
 
 export const AiFahLanding: IAiLanding = {
+    name: 'Fah',
+    category: 'Thai LINE Friend',
+    thumbnail: '/images-ai/ai-companions/ai-fah-thumbnail.webp',
+
+    pages: {
+        home: {
+            link: '/',
+            image: {
+                title: 'น้องฟ้า เพื่อนคุยเอไอ',
+                path: '/images-ai/fah/fah-003.png',
+            }
+        },
+        landing: {
+            link: '/ai-companions/fah',
+            image: {
+                title: 'น้องฟ้า เพื่อนคุยเอไอ',
+                path: '/images-ai/ai-fah-details.png',
+            }
+        }
+    },
+    title: "Fah, AI Chat",
     image: {
         src: "/images-ai/ai-fah-details.png",
         alt: "Fah - Thai AI Chat Companion"
@@ -84,6 +105,10 @@ export const AiFahLanding: IAiLanding = {
             text: "LINE, Facebook",
         }
     ],
+    line: {
+        link: "https://lin.ee/ODTzbwO",
+        button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
+    },
     relevants: [
         AiBuakaewEnglish,
         AiAomEnglish,

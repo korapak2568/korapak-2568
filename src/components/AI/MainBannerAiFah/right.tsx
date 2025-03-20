@@ -12,9 +12,9 @@ export default function Right() {
     return (
         <div className="col-lg-6">
             <div className="main-banner-image">
-                <Link href={'/' + locale.value + Info.AiCompanions.fah.english.pages.landing.link}>
+                <Link href={'/' + locale.value + Info.AiCompanions.fah.pages.landing.link}>
                     <Image
-                        src={Info.AiCompanions.fah.english.pages.home.image.path}
+                        src={Info.AiCompanions.fah.pages.home.image.path}
                         alt="image"
                         width={1240}
                         height={935}

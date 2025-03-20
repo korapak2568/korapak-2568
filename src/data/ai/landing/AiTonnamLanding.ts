@@ -1,11 +1,32 @@
 // src/data/ai/landing/AiTonnamLanding.ts
 
-import {IAiLanding} from "@/data/ai/model/landing/IAiLanding";
-import {AiBuakaewEnglish} from "@/data/ai/companions/buakaew/AiBuakaewEnglish";
-import {AiMilkEnglish} from "@/data/ai/companions/milk/AiMilkEnglish";
-import {AiFahEnglish} from "@/data/ai/companions/fah/AiFahEnglish";
+import {IAiLanding} from "@/data/ai/landing/model/IAiLanding";
+import {AiBuakaewEnglish} from "@/data/ai/relevant/AiBuakaewEnglish";
+import {AiMilkEnglish} from "@/data/ai/relevant/AiMilkEnglish";
+import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
 
 export const AiTonnamLanding: IAiLanding = {
+    name: 'Tonnam',
+    category: 'Students LINE Friend',
+    thumbnail: '/images-ai/ai-companions/ai-tonnam-thumbnail.webp',
+
+    pages: {
+        home: {
+            link: '/',
+            image: {
+                title: 'ต้นน้ำ เพื่อนคุยเอไอ',
+                path: '/images-ai/fah/fah-003.png',
+            }
+        },
+        landing: {
+            link: '/ai-companions/tonnam',
+            image: {
+                title: 'ต้นน้ำ เพื่อนคุยเอไอ',
+                path: '/images-ai/ai-tonnam-details.png',
+            }
+        }
+    },
+    title: "Tonnam, AI Chat",
     image: {
         src: "/images-ai/ai-tonnam-details.png",
         alt: "Ton Nam - Thai AI Chat Companion"
@@ -90,6 +111,10 @@ export const AiTonnamLanding: IAiLanding = {
             text: "LINE, Facebook",
         }
     ],
+    line: {
+        link: "https://lin.ee/Sy2Ispp",
+        button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
+    },
     relevants: [
         AiMilkEnglish,
         AiFahEnglish,

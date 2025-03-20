@@ -1,34 +1,34 @@
-import {IAiDetail} from "@/data/ai/model/IAiDetail";
+import {IAiDetail} from "@/data/ai/landing/model/IAiDetail";
 
-export const AiFahEnglish: IAiDetail = {
-    name: 'Fah',
-    category: 'Thai LINE Friend',
-    thumbnail: '/images-ai/ai-companions/ai-fah-thumbnail.webp',
+export const AiPloyEnglish: IAiDetail = {
+    name: 'Ploy',
+    category: 'Students LINE Friend',
+    thumbnail: '/images-ai/ai-companions/ai-ploy-thumbnail.webp',
 
     pages: {
         home: {
             link: '/',
             image: {
-                title: 'น้องฟ้า เพื่อนคุยเอไอ',
+                title: 'พลอย เพื่อนคุยเอไอ',
                 path: '/images-ai/fah/fah-003.png',
             }
         },
         landing: {
-            link: '/ai-companions/fah',
+            link: '/ai-companions/ploy',
             image: {
-                title: 'น้องฟ้า เพื่อนคุยเอไอ',
-                path: '/images-ai/ai-fah-details.png',
+                title: 'พลอย เพื่อนคุยเอไอ',
+                path: '/images-ai/ai-ploy-details.png',
             }
         }
     },
 
-    title: "Fah, AI Chat",
+    title: "Ploy, AI Chat",
     content:
-        "Fah, a charming and friendly Thai AI chat companion! Need life advice, " +
+        "Fah, ai chat friend in 6 languages, a charming and friendly Thai ai chat companion! Need life advice, " +
         "travel tips, or just a fun conversation? Fah is here for you. Fluent in Thai, English, Chinese, Japanese, " +
-        "Korean, French, Vietnamese, etc, she’s ready to chat anytime. Using LINE? Add Fah now and discover a delightful " +
+        "Korean, and French, she’s ready to chat anytime. Using LINE? Add Fah now and discover a delightful " +
         "new way to connect!",
-    
+
     images: [
         {
             src: "nong-fah-0001.jpg",
@@ -48,7 +48,7 @@ export const AiFahEnglish: IAiDetail = {
         }
     ],
     line: {
-        link: "https://lin.ee/ODTzbwO",
+        link: "https://lin.ee/xMV7HmH",
         button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
     }
 }

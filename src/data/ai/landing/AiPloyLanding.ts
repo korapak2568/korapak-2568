@@ -1,11 +1,32 @@
 // src/data/ai/landing/AiPloyLanding.ts
 
-import {IAiLanding} from "@/data/ai/model/landing/IAiLanding";
-import {AiTonnamEnglish} from "@/data/ai/companions/tonnam/AiTonnamEnglish";
-import {AiMilkEnglish} from "@/data/ai/companions/milk/AiMilkEnglish";
-import {AiFahEnglish} from "@/data/ai/companions/fah/AiFahEnglish";
+import {IAiLanding} from "@/data/ai/landing/model/IAiLanding";
+import {AiTonnamEnglish} from "@/data/ai/relevant/AiTonnamEnglish";
+import {AiMilkEnglish} from "@/data/ai/relevant/AiMilkEnglish";
+import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
 
 export const AiPloyLanding: IAiLanding = {
+    name: 'Ploy',
+    category: 'Students LINE Friend',
+    thumbnail: '/images-ai/ai-companions/ai-ploy-thumbnail.webp',
+
+    pages: {
+        home: {
+            link: '/',
+            image: {
+                title: 'พลอย เพื่อนคุยเอไอ',
+                path: '/images-ai/fah/fah-003.png',
+            }
+        },
+        landing: {
+            link: '/ai-companions/ploy',
+            image: {
+                title: 'พลอย เพื่อนคุยเอไอ',
+                path: '/images-ai/ai-ploy-details.png',
+            }
+        }
+    },
+    title: "Ploy, AI Chat",
     image: {
         src: "/images-ai/ai-ploy-details.png",
         alt: "Ploy - Thai AI Chat Companion"
@@ -90,6 +111,10 @@ export const AiPloyLanding: IAiLanding = {
             text: "LINE, Facebook",
         }
     ],
+    line: {
+        link: "https://lin.ee/xMV7HmH",
+        button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
+    },
     relevants: [
         AiTonnamEnglish,
         AiMilkEnglish,

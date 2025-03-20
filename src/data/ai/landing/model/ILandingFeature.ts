@@ -1,4 +1,4 @@
-import {ILandingItem} from "@/data/ai/model/landing/ILandingItem";
+import {ILandingItem} from "@/data/ai/landing/model/ILandingItem";
 
 export interface ILandingFeature {
     title: string,
