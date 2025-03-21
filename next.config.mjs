@@ -71,6 +71,11 @@ const nextConfig = {
                 permanent: true
             },
             {
+                source: "/outsourcing-software-development/front-end-developer/html5/",
+                destination: "/en/technical-expertise/front-end-developer/html5-developer/",
+                permanent: true
+            },
+            {
                 source: "/e-commerce-development",
                 destination: "/en/technical-expertise/web-development/",
                 permanent: true
