@@ -78,8 +78,8 @@ export const FooterZH: IFooter = {
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "LLM/AI 集成演示",
-            link: "/ai-companions"
+            label: "LLM/AI LINE聊天好友",
+            link: "/ai-companions/fah/",
         },
         {
             label: "LLM/AI 顾问",

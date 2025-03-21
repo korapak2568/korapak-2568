@@ -1,4 +1,4 @@
-import { IFooter } from "@/data/footer/model/IFooter";
+import {IFooter} from "@/data/footer/model/IFooter";
 
 export const FooterDA: IFooter = {
     title: "CHORN",
@@ -78,8 +78,8 @@ export const FooterDA: IFooter = {
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "LLM/AI-integrationsdemo",
-            link: "/ai-companions"
+            label: "LLM/AI LINE-chatven",
+            link: "/ai-companions/fah/",
         },
         {
             label: "LLM/AI-konsulenttjenester",

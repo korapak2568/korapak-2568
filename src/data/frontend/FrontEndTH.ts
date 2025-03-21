@@ -429,10 +429,10 @@ export const FrontEndTH: IFrontEnd = {
 FrontEndTH.stacks = [
     FrontEndTH.javascript,
     FrontEndTH.typescript,
+    FrontEndTH.nextjs,
     FrontEndTH.react,
     FrontEndTH.angular,
     FrontEndTH.vue,
-    FrontEndTH.nextjs,
     FrontEndTH.html5,
     FrontEndTH.css3
 ]

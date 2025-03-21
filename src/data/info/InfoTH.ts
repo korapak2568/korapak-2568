@@ -2,7 +2,7 @@ import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
 import {Image} from "@/data/image/Image";
-import {AiCompanions} from "@/data/ai/companions/AiCompanions";
+import {AiCompanionTH} from "@/data/ai/companions/AiCompanionTH";
 import {Translates} from "@/data/translate/Translates";
 import {AboutTH} from "@/data/about/AboutTH";
 import {GalleryTH} from "@/data/gallery/GalleryTH";
@@ -25,7 +25,7 @@ import {TransformBusinessTH} from "@/data/transform-business/TransformBusinessTH
 import {AiFahCoverTH} from "@/data/ai/fah-cover/AiFahCoverTH";
 
 export const InfoTH: IInfo = {
-    AiCompanions,
+    AiCompanions: AiCompanionTH,
 
     Service: ServiceTH,
     Feature: FeatureTH,

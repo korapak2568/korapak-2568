@@ -1,12 +1,12 @@
-// src/components/AiCompanions/landing/AiFahLandingPage.tsx
+// src/components/AiCompanionTH/landing/AiFahLandingPage.tsx
 
 "use client";
 
 import React from "react";
 import Image from "next/image";
-import {Info} from "@/data/info/Info";
 import Link from "next/link";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const AiPloyLandingPage: React.FC = () => {
     const locale = useLocale()
@@ -19,22 +19,23 @@ const AiPloyLandingPage: React.FC = () => {
                         <div className="col-lg-8">
                             <div className="portfolio-details-image">
                                 <Image
-                                    src={Info.AiCompanions.ploy.image.src}
+                                    src={InfoTranslation[locale.value].AiCompanions.ploy.image.src}
                                     alt="portfolio"
                                     width={1000}
                                     height={600}
                                 />
                             </div>
 
-                            {Info.AiCompanions.ploy.features.map((feature, index: number) => (
+                            {InfoTranslation[locale.value].AiCompanions.ploy.features.map((feature, index: number) => (
                                 <div key={index} className={`portfolio-details-desc portfolio-details-desc-custom`}>
                                     <div className={'unique-features-container'}>
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={'/' + locale.value + Info.AiCompanions.ploy.line.link} target={'_blank'}>
+                                            <a href={'/' + locale.value + InfoTranslation[locale.value].AiCompanions.ploy.line.link}
+                                               target={'_blank'}>
                                                 <Image
-                                                    src={Info.AiCompanions.ploy.line.button}
+                                                    src={InfoTranslation[locale.value].AiCompanions.ploy.line.button}
                                                     alt="เพิ่มเพื่อน"
                                                     width={120}
                                                     height={36}
@@ -60,7 +61,7 @@ const AiPloyLandingPage: React.FC = () => {
                         <div className="col-lg-4 col-md-12">
                             <div className="portfolio-details-information ml-10">
                                 <ul>
-                                    {Info.AiCompanions.ploy.sidebars.map((sidebar, index: number) => (
+                                    {InfoTranslation[locale.value].AiCompanions.ploy.sidebars.map((sidebar, index: number) => (
                                         <li key={index} className={'li-sidebar-custom'}>
                                             <div className="icon">
                                                 <i className={sidebar.icon}></i>
@@ -70,7 +71,7 @@ const AiPloyLandingPage: React.FC = () => {
                                         </li>
                                     ))}
 
-                                    {Info.AiCompanions.ploy.relevants.map((ai, index) => (
+                                    {InfoTranslation[locale.value].AiCompanions.ploy.relevants.map((ai, index) => (
                                         <Link key={index} href={'/' + locale.value + ai.pages.landing.link}>
                                             <li className="li-sidebar-relevant">
                                                 <Image

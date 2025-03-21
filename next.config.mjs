@@ -16,6 +16,16 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/contact',
+                destination: 'https://www.linkedin.com/in/khachornchit/',
+                permanent: true,
+            },
+            {
+                source: '/contact-chorn',
+                destination: 'https://www.linkedin.com/in/khachornchit/',
+                permanent: true,
+            },
+            {
                 source: '/services/front-end-developer/:path*',
                 destination: '/en/technical-expertise/front-end-developer/:path*',
                 permanent: true,
@@ -46,11 +56,6 @@ const nextConfig = {
                 permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
             },
             {
-                source: '/ai-solutions/buakaew/',
-                destination: '/en/ai-companions/buakaew/',
-                permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
-            },
-            {
                 source: '/ai-solutions/aom/',
                 destination: '/en/ai-companions/aom/',
                 permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
@@ -61,23 +66,8 @@ const nextConfig = {
                 permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
             },
             {
-                source: '/ai-solutions/tonnam/',
-                destination: '/en/ai-companions/tonnam/',
-                permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
-            },
-            {
-                source: '/ai-solutions/milk/',
-                destination: '/en/ai-companions/milk/',
-                permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
-            },
-            {
-                source: "/outsourcing-software-development/full-stack-developer/:path*",
-                destination: "/en/technical-expertise/full-stack-developer/:path*",
-                permanent: true
-            },
-            {
-                source: "/outsourcing-software-development/front-end-developer/:path*",
-                destination: "/en/technical-expertise/front-end-developer/:path*",
+                source: "/outsourcing-software-development/:path*",
+                destination: "/en/technical-expertise/:path*",
                 permanent: true
             },
             {
@@ -98,6 +88,11 @@ const nextConfig = {
             {
                 source: "/contact",
                 destination: "/en/about-chorn",
+                permanent: true
+            },
+            {
+                source: "/technical-expertise/:path*",
+                destination: "/en/technical-expertise/:path*",
                 permanent: true
             },
             {
@@ -128,6 +123,11 @@ const nextConfig = {
             {
                 source: "/single-page-application",
                 destination: "/en/technical-expertise/web-development/",
+                permanent: true
+            },
+            {
+                source: "/gallery",
+                destination: "/en/gallery/",
                 permanent: true
             },
             {
@@ -168,6 +168,11 @@ const nextConfig = {
             {
                 source: "/services",
                 destination: "/en/technical-expertise/web-development/",
+                permanent: true
+            },
+            {
+                source: "/privacy-policy",
+                destination: "/en/privacy-policy",
                 permanent: true
             },
             {

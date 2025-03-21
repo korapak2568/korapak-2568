@@ -2,7 +2,6 @@ import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
 import {Image} from "@/data/image/Image";
-import {AiCompanions} from "@/data/ai/companions/AiCompanions";
 import {Translates} from "@/data/translate/Translates";
 import {AboutNL} from "@/data/about/AboutNL";
 import {GalleryNL} from "@/data/gallery/GalleryNL";
@@ -23,9 +22,10 @@ import {CloudSolutionNL} from "@/data/cloud-solutions/CloudSolutionNL";
 import {ConsentNL} from "@/data/consent/ConsentNL";
 import {TransformBusinessNL} from "@/data/transform-business/TransformBusinessNL";
 import {AiFahCoverNL} from "@/data/ai/fah-cover/AiFahCoverNL";
+import {AiCompanionNL} from "@/data/ai/companions/AiCompanionNL";
 
 export const InfoNL: IInfo = {
-    AiCompanions,
+    AiCompanions: AiCompanionNL,
 
     Service: ServiceNL,
     Feature: FeatureNL,

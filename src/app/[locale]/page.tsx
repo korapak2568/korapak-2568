@@ -37,7 +37,7 @@ export default function Home() {
             "addressLocality": "Sansai District",
             "addressRegion": "Chiang Mai",
             "postalCode": "50210",
-            "addressCountry": "TH"
+            "addressCountry": "tonnam"
         },
         "geo": {
             "@type": "GeoCoordinates",

@@ -2,7 +2,6 @@ import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
 import {Image} from "@/data/image/Image";
-import {AiCompanions} from "@/data/ai/companions/AiCompanions";
 import {Translates} from "@/data/translate/Translates";
 import {AboutVI} from "@/data/about/AboutVI";
 import {GalleryVI} from "@/data/gallery/GalleryVI";
@@ -23,9 +22,10 @@ import {CloudSolutionVI} from "@/data/cloud-solutions/CloudSolutionVI";
 import {ConsentVI} from "@/data/consent/ConsentVI";
 import {TransformBusinessVI} from "@/data/transform-business/TransformBusinessVI";
 import {AiFahCoverVI} from "@/data/ai/fah-cover/AiFahCoverVI";
+import {AiCompanionVI} from "@/data/ai/companions/AiCompanionVI";
 
 export const InfoVI: IInfo = {
-    AiCompanions,
+    AiCompanions: AiCompanionVI,
 
     Service: ServiceVI,
     Feature: FeatureVI,

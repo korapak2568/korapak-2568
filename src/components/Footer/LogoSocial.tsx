@@ -30,7 +30,7 @@ export const LogoSocial: React.FC = () => {
                     {InfoTranslation[locale.value].Footer.socialLinks.map((item: IFooterDetail, index: number) => (
                         <li key={index}>
                             <a
-                                href={'/' + locale.value + item.link}
+                                href={item.link}
                                 className={item.iconClass}
                                 target="_blank"
                                 aria-label={item.ariaLabel}

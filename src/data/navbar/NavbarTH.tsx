@@ -39,6 +39,12 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
+                label: "LLM/AI LINE Chat Friend",
+                link: "/ai-companions/fah/",
+                submenu: [],
+            },
+            {
+                group: "/technical-expertise/",
                 label: "การเชื่อมต่อกับ LLM/AI",
                 link: "/technical-expertise/ai-solutions/",
                 submenu: [],

@@ -11,7 +11,7 @@ import {IDevOps} from "@/data/devops/model/IDevOps";
 import {ICloud} from "@/data/cloud/model/ICloud";
 import {IAbout} from "@/data/about/model/IAbout";
 import {IFeature} from "@/data/feature/model/IFeature";
-import {IAiCompanions} from "@/data/ai/companions/model/IAiCompanions";
+import {IAiCompanions} from "@/data/ai/model/IAiCompanions";
 import {IService} from "@/data/service/model/IService";
 import {IWeb3} from "@/data/web3/model/IWeb3";
 import {IGallery} from "@/data/gallery/model/IGallery";

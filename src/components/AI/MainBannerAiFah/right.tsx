@@ -14,7 +14,7 @@ export default function Right() {
             <div className="main-banner-image">
                 <Link href={'/' + locale.value + Info.AiCompanions.fah.pages.landing.link}>
                     <Image
-                        src={Info.AiCompanions.fah.pages.home.image.path}
+                        src={Info.AiCompanions.fah.pages.landing.image.path}
                         alt="image"
                         width={1240}
                         height={935}

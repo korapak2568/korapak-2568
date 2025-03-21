@@ -1,4 +1,4 @@
-import {IAiDetail} from "@/data/ai/landing/model/IAiDetail";
+import {IAiDetail} from "@/data/ai/model/IAiDetail";
 
 export const AiFahEnglish: IAiDetail = {
     name: 'Fah',
