@@ -71,22 +71,12 @@ export const AiPloyTH: IAiLanding = {
         {
             icon: "bx bx-purchase-tag", // Tag icon
             caption: "เทคโนโลยี:",
-            text: "OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe", // Globe icon
             caption: "ภาษา:",
             text: "หลายภาษา",
-        },
-        {
-            icon: "bx bx-calendar", // Calendar icon
-            caption: "วันเปิดตัว:",
-            text: "1 มกราคม 2568",
-        },
-        {
-            icon: "bx bx-world", // World icon
-            caption: "แพลตฟอร์ม:",
-            text: "OpenAI, LINE",
         }
     ],
     line: {

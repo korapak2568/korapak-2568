@@ -65,22 +65,12 @@ export const AiFahZH: IAiLanding = {
         {
             icon: "bx bx-purchase-tag", // Tag icon
             caption: "技术:",
-            text: "由OpenAI提供支持，LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe", // Globe icon
             caption: "语言:",
             text: "多种语言",
-        },
-        {
-            icon: "bx bx-calendar", // Calendar icon
-            caption: "发布日期:",
-            text: "2025年1月1日",
-        },
-        {
-            icon: "bx bx-world", // World icon
-            caption: "平台:",
-            text: "OpenAI, LINE, 网站",
         }
     ],
     line: {

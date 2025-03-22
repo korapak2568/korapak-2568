@@ -67,22 +67,12 @@ export const AiAomDA: IAiLanding = {
         {
             icon: "bx bx-purchase-tag",
             caption: "Teknologier:",
-            text: "OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe",
             caption: "Sprog:",
             text: "Flersproglig",
-        },
-        {
-            icon: "bx bx-calendar",
-            caption: "Lanceringsdato:",
-            text: "1. januar 2025",
-        },
-        {
-            icon: "bx bx-world",
-            caption: "Platforme:",
-            text: "OpenAI, LINE",
         }
     ],
     line: {

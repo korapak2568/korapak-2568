@@ -65,22 +65,12 @@ export const AiFahVI: IAiLanding = {
         {
             icon: "bx bx-purchase-tag", // Tag icon
             caption: "Công Nghệ:",
-            text: "Được hỗ trợ bởi OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe", // Globe icon
             caption: "Ngôn Ngữ:",
             text: "Đa ngôn ngữ",
-        },
-        {
-            icon: "bx bx-calendar", // Calendar icon
-            caption: "Ngày Ra Mắt:",
-            text: "Ngày 1 tháng 1 năm 2025",
-        },
-        {
-            icon: "bx bx-world", // World icon
-            caption: "Nền Tảng:",
-            text: "OpenAI, LINE, Website",
         }
     ],
     line: {

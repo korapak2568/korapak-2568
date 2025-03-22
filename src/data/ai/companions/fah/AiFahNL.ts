@@ -65,22 +65,12 @@ export const AiFahNL: IAiLanding = {
         {
             icon: "bx bx-purchase-tag", // Tag icon
             caption: "Technologies:",
-            text: "Powered by OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe", // Globe icon
             caption: "Languages:",
             text: "Multiple languages",
-        },
-        {
-            icon: "bx bx-calendar", // Calendar icon
-            caption: "Launch Date:",
-            text: "January 1, 2025",
-        },
-        {
-            icon: "bx bx-world", // World icon
-            caption: "Platforms:",
-            text: "OpenAI, LINE, Website",
         }
     ],
     line: {

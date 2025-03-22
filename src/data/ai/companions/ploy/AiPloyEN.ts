@@ -71,22 +71,12 @@ export const AiPloyEN: IAiLanding = {
         {
             icon: "bx bx-purchase-tag", // Tag icon
             caption: "Technologies:",
-            text: "OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe", // Globe icon
             caption: "Languages:",
             text: "Multi-languages",
-        },
-        {
-            icon: "bx bx-calendar", // Calendar icon
-            caption: "Launch Date:",
-            text: "1 January 2025",
-        },
-        {
-            icon: "bx bx-world", // World icon
-            caption: "Platforms:",
-            text: "OpenAI, LINE",
         }
     ],
     line: {

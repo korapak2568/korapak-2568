@@ -71,22 +71,12 @@ export const AiPloyZH: IAiLanding = {
         {
             icon: "bx bx-purchase-tag",
             caption: "技术:",
-            text: "OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe",
             caption: "语言:",
             text: "多语言",
-        },
-        {
-            icon: "bx bx-calendar",
-            caption: "发布日期:",
-            text: "2025年1月1日",
-        },
-        {
-            icon: "bx bx-world",
-            caption: "平台:",
-            text: "OpenAI, LINE",
         }
     ],
     line: {

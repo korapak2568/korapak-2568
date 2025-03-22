@@ -71,22 +71,12 @@ export const AiPloyNL: IAiLanding = {
         {
             icon: "bx bx-purchase-tag",
             caption: "Technologieën:",
-            text: "OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe",
             caption: "Talen:",
             text: "Meerdere talen",
-        },
-        {
-            icon: "bx bx-calendar",
-            caption: "Lanceerdatum:",
-            text: "1 januari 2025",
-        },
-        {
-            icon: "bx bx-world",
-            caption: "Platforms:",
-            text: "OpenAI, LINE",
         }
     ],
     line: {

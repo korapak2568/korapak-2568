@@ -67,22 +67,12 @@ export const AiAomJA: IAiLanding = {
         {
             icon: "bx bx-purchase-tag",
             caption: "テクノロジー:",
-            text: "OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe",
             caption: "言語:",
             text: "多言語対応",
-        },
-        {
-            icon: "bx bx-calendar",
-            caption: "発売日:",
-            text: "2025年1月1日",
-        },
-        {
-            icon: "bx bx-world",
-            caption: "プラットフォーム:",
-            text: "OpenAI, LINE",
         }
     ],
     line: {

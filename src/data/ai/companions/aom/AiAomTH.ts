@@ -67,22 +67,12 @@ export const AiAomTH: IAiLanding = {
         {
             icon: "bx bx-purchase-tag", // ไอคอนแท็ก
             caption: "เทคโนโลยี:",
-            text: "OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe", // ไอคอนโลก
             caption: "ภาษา:",
             text: "หลายภาษา",
-        },
-        {
-            icon: "bx bx-calendar", // ไอคอนปฏิทิน
-            caption: "วันเปิดตัว:",
-            text: "1 มกราคม 2568",
-        },
-        {
-            icon: "bx bx-world", // ไอคอนโลก
-            caption: "แพลตฟอร์ม:",
-            text: "OpenAI, LINE",
         }
     ],
     line: {

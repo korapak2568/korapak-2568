@@ -71,22 +71,12 @@ export const AiPloyVI: IAiLanding = {
         {
             icon: "bx bx-purchase-tag",
             caption: "Công nghệ:",
-            text: "OpenAI, LINE",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe",
             caption: "Ngôn ngữ:",
             text: "Đa ngôn ngữ",
-        },
-        {
-            icon: "bx bx-calendar",
-            caption: "Ngày ra mắt:",
-            text: "Ngày 1 tháng 1 năm 2025",
-        },
-        {
-            icon: "bx bx-world",
-            caption: "Nền tảng:",
-            text: "OpenAI, LINE",
         }
     ],
     line: {

@@ -65,22 +65,12 @@ export const AiFahJA: IAiLanding = {
         {
             icon: "bx bx-purchase-tag", // Tag icon
             caption: "テクノロジー:",
-            text: "OpenAI、LINEを搭載",
+            text: "LLM, AI, LINE",
         },
         {
             icon: "bx bx-globe", // Globe icon
             caption: "言語:",
             text: "複数言語対応",
-        },
-        {
-            icon: "bx bx-calendar", // Calendar icon
-            caption: "リリース日:",
-            text: "2025年1月1日",
-        },
-        {
-            icon: "bx bx-world", // World icon
-            caption: "プラットフォーム:",
-            text: "OpenAI、LINE、ウェブサイト",
         }
     ],
     line: {
