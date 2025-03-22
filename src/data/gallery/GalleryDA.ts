@@ -3,33 +3,33 @@ import {IGallery} from "@/data/gallery/model/IGallery";
 export const GalleryDA: IGallery = {
     slides: [
         {
-            title: "Fleksible Arbejdsrum",
-            description: "Fleksible arbejdspladser efter kundens behov, beliggende i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok, Thailand og i udlandet.",
+            title: "CHORN",
+            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, Thailand og i udlandet.",
             image: "/chorn-images/home/chorn-workplace-001.jpg"
         },
         {
-            title: "Fleksible Arbejdsrum",
-            description: "Fleksible arbejdspladser efter kundens behov, beliggende i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok, Thailand og i udlandet.",
+            title: "CHORN",
+            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, Thailand og i udlandet.",
             image: "/chorn-images/home/chorn-workplace-002.jpg"
         },
         {
-            title: "Fleksible Arbejdsrum",
-            description: "Fleksible arbejdspladser efter kundens behov, beliggende i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok, Thailand og i udlandet.",
+            title: "CHORN",
+            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, Thailand og i udlandet.",
             image: "/chorn-images/home/chorn-workplace-003.jpg"
         },
         {
-            title: "Fleksible Arbejdsrum",
-            description: "Fleksible arbejdspladser efter kundens behov, beliggende i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok, Thailand og i udlandet.",
+            title: "CHORN",
+            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, Thailand og i udlandet.",
             image: "/chorn-images/home/chorn-workplace-004.jpg"
         },
         {
-            title: "Fleksible Arbejdsrum",
-            description: "Fleksible arbejdspladser efter kundens behov, beliggende i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok, Thailand og i udlandet.",
+            title: "CHORN",
+            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, Thailand og i udlandet.",
             image: "/chorn-images/home/chorn-workplace-005.jpg"
         },
         {
-            title: "Fleksible Arbejdsrum",
-            description: "Fleksible arbejdspladser efter kundens behov, beliggende i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok, Thailand og i udlandet.",
+            title: "CHORN",
+            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, Thailand, tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, Thailand og i udlandet.",
             image: "/chorn-images/home/chorn-workplace-006.jpg"
         },
     ],
