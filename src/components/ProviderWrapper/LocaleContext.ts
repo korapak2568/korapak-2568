@@ -3,7 +3,7 @@ import {TranslateRecord} from "@/data/translate/TranslateRecord";
 import {useDispatch} from "react-redux";
 import {setTranslate} from "@/redux/serviceSlice";
 
-export const LocaleContext = createContext<string | undefined>(undefined);
+export const LocaleContext = createContext<string | undefined>('en');
 
 export const useLocale = () => {
     const language = useContext(LocaleContext);
@@ -12,6 +12,8 @@ export const useLocale = () => {
     const translate = TranslateRecord[language]
     const dispatch = useDispatch();
     dispatch(setTranslate(translate));
+
+    console.log(translate)
 
     return translate;
 }
