@@ -431,9 +431,9 @@ FrontEndZH.stacks = [
     FrontEndZH.javascript,
     FrontEndZH.typescript,
     FrontEndVI.nextjs,
-    FrontEndZH.react,
     FrontEndZH.angular,
     FrontEndZH.vue,
+    FrontEndZH.react,
     FrontEndZH.html5,
     FrontEndZH.css3
 ]

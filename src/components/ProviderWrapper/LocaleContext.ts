@@ -13,7 +13,5 @@ export const useLocale = () => {
     const dispatch = useDispatch();
     dispatch(setTranslate(translate));
 
-    console.log(translate)
-
     return translate;
 }

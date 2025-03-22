@@ -430,9 +430,9 @@ FrontEndJA.stacks = [
     FrontEndJA.javascript,
     FrontEndJA.typescript,
     FrontEndJA.nextjs,
-    FrontEndJA.react,
     FrontEndJA.angular,
     FrontEndJA.vue,
+    FrontEndJA.react,
     FrontEndJA.html5,
     FrontEndJA.css3
 ]

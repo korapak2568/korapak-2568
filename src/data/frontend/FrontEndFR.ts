@@ -430,9 +430,9 @@ FrontEndFR.stacks = [
     FrontEndFR.javascript,
     FrontEndFR.typescript,
     FrontEndFR.nextjs,
-    FrontEndFR.react,
     FrontEndFR.angular,
     FrontEndFR.vue,
+    FrontEndFR.react,
     FrontEndFR.html5,
     FrontEndFR.css3
 ]

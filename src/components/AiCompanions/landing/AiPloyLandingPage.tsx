@@ -32,7 +32,7 @@ const AiPloyLandingPage: React.FC = () => {
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={'/' + locale.value + InfoTranslation[locale.value].AiCompanions.ploy.line.link}
+                                            <a href={InfoTranslation[locale.value].AiCompanions.ploy.line.link}
                                                target={'_blank'}>
                                                 <Image
                                                     src={InfoTranslation[locale.value].AiCompanions.ploy.line.button}

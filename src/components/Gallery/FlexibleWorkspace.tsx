@@ -34,8 +34,7 @@ const FlexibleWorkspace: React.FC = () => {
                                             <div className="row">
                                                 <div className="col-lg-6">
                                                     <div className="main-slider-content main-slider-content-custom">
-                                                        <h1>{slide.title}</h1>
-                                                        <p>{slide.description}</p>
+                                                        <p><strong>{slide.title}, </strong> {slide.description}</p>
                                                     </div>
                                                 </div>
 

@@ -430,9 +430,9 @@ FrontEndTH.stacks = [
     FrontEndTH.javascript,
     FrontEndTH.typescript,
     FrontEndTH.nextjs,
-    FrontEndTH.react,
     FrontEndTH.angular,
     FrontEndTH.vue,
+    FrontEndTH.react,
     FrontEndTH.html5,
     FrontEndTH.css3
 ]

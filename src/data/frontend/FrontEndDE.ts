@@ -430,9 +430,9 @@ FrontEndDE.stacks = [
     FrontEndDE.javascript,
     FrontEndDE.typescript,
     FrontEndDE.nextjs,
-    FrontEndDE.react,
     FrontEndDE.angular,
     FrontEndDE.vue,
+    FrontEndDE.react,
     FrontEndDE.html5,
     FrontEndDE.css3
 ]
