@@ -1,32 +1,27 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutVI: IAbout = {
-    title: "Giới thiệu về CHORN",
-    span: "Phân tích hệ thống & Giải pháp phần mềm",
-    subTitle: "Đổi mới công nghệ cho thành công doanh nghiệp",
+    title: "Về CHORN",
+    span: "Phân tích hệ thống và Giải pháp phần mềm",
+    subTitle: "Đổi mới công nghệ cho sự thành công của doanh nghiệp",
     description: [
         {
             title: "",
-            description: "CHORN, ra mắt vào tháng 3 năm 2023 bởi K.Khachornchit, thể hiện chuyên môn về công nghệ và phát triển phần mềm. Với nền tảng Kỹ thuật Điện và hơn 20 năm kinh nghiệm, ông chuyên về kiến trúc hệ thống, phân tích kinh doanh, phát triển full-stack, QA/kiểm thử, DevOps, tích hợp LLM/AI và triển khai đám mây. K.Khachornchit cung cấp các giải pháp có khả năng mở rộng, tập trung vào khách hàng và cung cấp dịch vụ từ xa, kết hợp hoặc tại chỗ ở Chiang Mai, Bangkok, Thái Lan và quốc tế."
+            description: "CHORN được ra mắt vào tháng 3 năm 2023 bởi K.Khachornchit, cung cấp chuyên môn về công nghệ và phát triển phần mềm. Với nền tảng kỹ thuật điện và hơn 20 năm kinh nghiệm, ông chuyên về kiến trúc hệ thống, phân tích kinh doanh, kỹ thuật phát triển full-stack, phát triển web và API, QA/Testing, DevOps, tích hợp LLM/AI, giải pháp triển khai hệ thống đám mây và cung cấp dịch vụ từ xa, kết hợp và tại văn phòng ở Chiang Mai, Bangkok, Thái Lan và quốc tế."
         }
     ],
     stacks: [
         {
-            title: "Phân tích hệ thống & Hỗ trợ kỹ thuật",
-            description: "Phân tích hệ thống chuyên sâu, hướng dẫn kỹ thuật và hỗ trợ cho các ứng dụng quan trọng với doanh nghiệp, " +
-                "đảm bảo độ tin cậy và hiệu suất. Điều này bao gồm hiện đại hóa hệ thống, tối ưu hóa hiệu suất, " +
-                "QA/kiểm thử, tích hợp LLM/AI và triển khai công nghệ tiên tiến để bảo vệ tương lai cho hoạt động kinh doanh."
+            title: "Phân tích hệ thống và Hỗ trợ kỹ thuật",
+            description: "Làm việc về phân tích hệ thống chuyên sâu, khuyến nghị kỹ thuật, hỗ trợ cho các ứng dụng quan trọng đối với doanh nghiệp để đảm bảo độ tin cậy, uy tín và hiệu quả hoạt động của hệ thống. Nâng cao hệ thống, tối ưu hóa hiệu suất, QA/Testing, LLM/AI và triển khai các công nghệ tiên tiến để đảm bảo hoạt động kinh doanh bền vững."
         },
         {
-            title: "Phát triển Full-Stack & Tích hợp",
-            description: "Phát triển full-stack và tích hợp, thiết kế, phát triển và nâng cao các hệ thống sử dụng công nghệ tiên tiến, " +
-                "với chuyên môn trong front-end, back-end, và tích hợp API, bao gồm Web3, dApp, " +
-                "và phát triển hợp đồng thông minh."
+            title: "Kỹ thuật phát triển Full-Stack",
+            description: "Kỹ thuật phát triển full-stack trên toàn bộ hệ thống, thiết kế, phát triển và nâng cao hệ thống với công nghệ tiên tiến. Chuyên môn về frontend, backend, phát triển full-stack, Web & API, Web3, dApp, học tập và phát triển hợp đồng thông minh."
         },
         {
-            title: "Agile & Hợp tác kinh doanh",
-            description: "Làm việc chặt chẽ với các nhóm toàn cầu, người dùng doanh nghiệp và nhà cung cấp, thúc đẩy " +
-                "giao tiếp hiệu quả và phương pháp phát triển Agile."
+            title: "Phát triển Agile và Hợp tác kinh doanh",
+            description: "Kinh nghiệm làm việc chặt chẽ với các đội ngũ cả trong nước và quốc tế, người dùng doanh nghiệp và nhà cung cấp, thúc đẩy giao tiếp hiệu quả. Kinh nghiệm trong các phương pháp phát triển Agile, Waterfall và Hybrid."
         }
     ]
 };

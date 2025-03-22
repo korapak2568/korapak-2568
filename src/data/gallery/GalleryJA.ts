@@ -35,7 +35,7 @@ export const GalleryJA: IGallery = {
     ],
     "global": {
         title: "海外渡航",
-        description: "CHORNは、トレーニング、ASEANとアメリカ合衆国間の学習機会、ワークショップの実施のための海外渡航経験があり、チェンマイ、バンコク、タイ国内、および海外での出張、リモートワーク、ハイブリッドワーク、またはオフィスワークの準備ができています。",
+        description: "CHORNはトレーニングのための海外渡航、ASEANとアメリカ合衆国での国際的な研修旅行、ワークショップの実施の経験があり、国内外の出張に対応可能です。CHORNはリモートワーク、ハイブリッドワーク、チェンマイ、バンコク、タイ、および国際的なオフィスベースの勤務を提供しています。",
         "image": "/chorn-images/gallery/chorn-global-001.jpg"
     },
     "globalSlides": [

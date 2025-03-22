@@ -2,31 +2,26 @@ import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutDE: IAbout = {
     title: "Über CHORN",
-    span: "Systemanalyse & Softwarelösungen",
-    subTitle: "Technologieinnovation für den Geschäftserfolg",
+    span: "Systemanalyse und Softwarelösungen",
+    subTitle: "Technologische Innovation für Geschäftserfolg",
     description: [
         {
             title: "",
-            description: "CHORN, im März 2023 von K.Khachornchit gegründet, präsentiert Expertise in Technologie und Softwareentwicklung. Mit einem Hintergrund in Elektrotechnik und über 20 Jahren Erfahrung spezialisiert er sich auf Systemarchitektur, Geschäftsanalyse, Full-Stack-Entwicklung, QA/Testing, DevOps, LLM/KI-Integration und Cloud-Implementierung. K.Khachornchit bietet skalierbare, kundenorientierte Lösungen und Dienstleistungen remote, hybrid oder vor Ort in Chiang Mai, Bangkok, Thailand und international an."
+            description: "CHORN wurde im März 2023 von K.Khachornchit gegründet und bietet Fachwissen in Technologie und Softwareentwicklung. Mit einem Hintergrund in Elektrotechnik und über 20 Jahren Erfahrung ist er spezialisiert auf Systemarchitektur, Geschäftsanalyse, Full-Stack-Entwicklungstechnik, Web- und API-Entwicklung, QA/Testing, DevOps, LLM/KI-Integration, Cloud-System-Implementierungslösungen und bietet Remote-, Hybrid- und Büroservices in Chiang Mai, Bangkok, Thailand und international an."
         }
     ],
     stacks: [
         {
-            title: "Systemanalyse & Technischer Support",
-            description: "Bereitstellung von eingehender Systemanalyse, technischer Beratung und Unterstützung für unternehmenskritische Anwendungen, " +
-                "um Zuverlässigkeit und Leistung zu gewährleisten. Dazu gehören Systemmodernisierung, Leistungsoptimierung, " +
-                "QA/Tests, LLM/AI-Integration und der Einsatz modernster Technologien zur Zukunftssicherung der Geschäftsprozesse."
+            title: "Systemanalyse und technischer Support",
+            description: "Arbeitet an tiefgreifender Systemanalyse, technischen Empfehlungen, Support für geschäftskritische Anwendungen, um Systemzuverlässigkeit, Glaubwürdigkeit und Leistungseffizienz zu gewährleisten. Systemverbesserung, Leistungsoptimierung, QA/Testing, LLM/KI und Implementierung von Spitzentechnologien zur Sicherstellung eines nachhaltigen Geschäftsbetriebs."
         },
         {
-            title: "Full-Stack-Entwicklung & Integration",
-            description: "Full-Stack-Entwicklung und Integration, Design, Entwicklung und Verbesserung von Systemen unter Verwendung modernster Technologien, " +
-                "mit Expertise in Front-End, Back-End und API-Integration, einschließlich Web3, dApp, " +
-                "und der Entwicklung von Smart Contracts."
+            title: "Full-Stack-Entwicklungstechnik",
+            description: "Full-Stack-Entwicklungstechnik über gesamte Systeme hinweg, Gestaltung, Entwicklung und Verbesserung von Systemen mit Spitzentechnologien. Expertise in Frontend, Backend, Full-Stack-Entwicklung, Web & API, Web3, dApp, Lernen und Smart-Contract-Entwicklung."
         },
         {
-            title: "Agile & Geschäftszusammenarbeit",
-            description: "Arbeiten Sie eng mit globalen Teams, Geschäftsanwendern und Anbietern zusammen, um eine effektive " +
-                "Kommunikation und agile Entwicklungsmethoden zu fördern."
+            title: "Agile Entwicklung und Geschäftszusammenarbeit",
+            description: "Erfahrung in enger Zusammenarbeit mit Teams sowohl lokal als auch international, Geschäftsanwendern und Anbietern, Förderung effektiver Kommunikation. Erfahrung in Agile-, Wasserfall- und Hybrid-Entwicklungsansätzen."
         }
     ]
 };

@@ -35,7 +35,7 @@ export const GalleryDE: IGallery = {
     ],
     global: {
         title: "Internationale Reisen",
-        description: "CHORN verfügt über Erfahrung mit internationalen Reisen für Schulungen, Lernmöglichkeiten zwischen ASEAN-Ländern und den Vereinigten Staaten, Durchführung von Workshops und ist bereit für Reisen, Fernarbeit, hybrides Arbeiten oder Büroarbeit in Chiang Mai, Bangkok, Thailand und im Ausland.",
+        description: "CHORN verfügt über Erfahrung mit internationalen Reisen für Schulungen, internationale Arbeitsstudienreisen sowohl in der ASEAN als auch in den USA, Durchführung von Workshops und ist bereit für Reisen im In- und Ausland. CHORN bietet Fernarbeit, Hybridarbeit und bürobasierte Arbeit in Chiang Mai, Bangkok, Thailand und international an.",
         image: "/chorn-images/gallery/chorn-global-001.jpg"
     },
     globalSlides: [

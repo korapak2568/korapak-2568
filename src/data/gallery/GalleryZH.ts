@@ -35,7 +35,7 @@ export const GalleryZH: IGallery = {
     ],
     "global": {
         title: "国际旅行",
-        description: "CHORN在国际旅行方面拥有丰富经验，包括培训、东盟和美国之间的学习机会、举办研讨会，并随时准备出差、远程工作、混合工作模式或在泰国清迈、曼谷以及国外的办公室工作。",
+        description: "CHORN 拥有出国培训、在东盟和美国进行国际工作学习旅行、举办研讨会的经验，并准备好进行国内和国际旅行。CHORN 提供远程工作、混合工作以及在泰国清迈、曼谷和国际上的办公室工作。",
         "image": "/chorn-images/gallery/chorn-global-001.jpg"
     },
     "globalSlides": [

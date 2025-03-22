@@ -2,31 +2,26 @@ import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutDA: IAbout = {
     title: "Om CHORN",
-    span: "Systemanalyse & Softwareløsninger",
-    subTitle: "Innovation af teknologi for virksomhedens succes",
+    span: "Systemanalyse og softwareløsninger",
+    subTitle: "Teknologisk innovation for forretningsmæssig succes",
     description: [
         {
             title: "",
-            description: "CHORN, lanceret i marts 2023 af K.Khachornchit, fremviser ekspertise inden for teknologi og softwareudvikling. Med en baggrund i elektroingeniørvidenskab og over 20 års erfaring specialiserer han sig i systemarkitektur, forretningsanalyse, full-stack udvikling, QA/test, DevOps, LLM/AI-integration og cloudimplementering. K.Khachornchit leverer skalerbare, kundefokuserede løsninger og tilbyder tjenester på distance, hybrid eller på stedet i Chiang Mai, Bangkok, Thailand og internationalt."
+            description: "CHORN blev lanceret i marts 2023 af K.Khachornchit og tilbyder ekspertise inden for teknologi og softwareudvikling. Med en baggrund inden for elektroteknik og over 20 års erfaring er han specialiseret i systemarkitektur, forretningsanalyse, full-stack udviklingsteknik, web- og API-udvikling, QA/Testing, DevOps, LLM/AI-integration, cloud-systemimplementeringsløsninger og tilbyder fjern-, hybrid- og kontorbaserede tjenester i Chiang Mai, Bangkok, Thailand og internationalt."
         }
     ],
     stacks: [
         {
-            title: "Systemanalyse & Teknisk Support",
-            description: "Håndtering af dybdegående systemanalyse, teknisk rådgivning og support til forretningskritiske applikationer, " +
-                "for at sikre pålidelighed og ydeevne. Dette inkluderer systemmodernisering, præstationsoptimering, " +
-                "QA/test, LLM/AI-integration og implementering af banebrydende teknologier for at fremtidssikre forretningsdriften."
+            title: "Systemanalyse og teknisk support",
+            description: "Arbejder med dybdegående systemanalyse, tekniske anbefalinger, support til forretningskritiske applikationer for at sikre systemets pålidelighed, troværdighed og ydeevne. Systemforbedring, ydeevneoptimering, QA/Testing, LLM/AI og implementering af banebrydende teknologier for at sikre bæredygtig forretningsdrift."
         },
         {
-            title: "Full-Stack Udvikling & Integration",
-            description: "Full-stack udvikling og integration, design, udvikling og forbedring af systemer ved hjælp af banebrydende teknologier, " +
-                "med ekspertise inden for front-end, back-end og API-integration, herunder Web3, dApp, " +
-                "og udvikling af smarte kontrakter."
+            title: "Full-Stack udviklingsteknik",
+            description: "Full-stack udviklingsteknik på tværs af hele systemer, design, udvikling og forbedring af systemer med banebrydende teknologier. Ekspertise inden for frontend, backend, full-stack udvikling, Web & API, Web3, dApp, læring og smart contract-udvikling."
         },
         {
-            title: "Agile & Forretningssamarbejde",
-            description: "Samarbejde tæt med globale teams, forretningsbrugere og leverandører for at fremme effektiv " +
-                "kommunikation og agile udviklingsmetoder."
+            title: "Agil udvikling og forretningssamarbejde",
+            description: "Erfaring med at arbejde tæt sammen med teams både lokalt og internationalt, forretningsbrugere og leverandører, fremmer effektiv kommunikation. Erfaring med Agile, Waterfall og Hybride udviklingstilgange."
         }
     ]
 };
