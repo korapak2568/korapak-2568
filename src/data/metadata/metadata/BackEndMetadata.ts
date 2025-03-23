@@ -16,7 +16,9 @@ export const BackEndMetadata: IBackEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/",
             }
         },
         authors: [
@@ -84,7 +86,9 @@ export const BackEndMetadata: IBackEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/dotnetcore-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/dotnetcore-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/dotnetcore-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/dotnetcore-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/dotnetcore-developer/",
             }
         },
         authors: [
@@ -147,7 +151,9 @@ export const BackEndMetadata: IBackEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/go-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/go-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/go-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/go-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/go-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/go-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/go-developer/",
             }
         },
         authors: [
@@ -209,7 +215,9 @@ export const BackEndMetadata: IBackEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/java-spring-boot-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/java-spring-boot-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/java-spring-boot-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/java-spring-boot-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/java-spring-boot-developer/",
             }
         },
         authors: [
@@ -272,7 +280,9 @@ export const BackEndMetadata: IBackEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/nodejs-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/nodejs-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/nodejs-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/nodejs-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/nodejs-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/nodejs-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/nodejs-developer/",
             }
         },
         authors: [
@@ -334,7 +344,9 @@ export const BackEndMetadata: IBackEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/php-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/php-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/php-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/php-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/php-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/php-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/php-developer/",
             }
         },
         authors: [
@@ -399,7 +411,9 @@ export const BackEndMetadata: IBackEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/python-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/python-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/python-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/python-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/python-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/python-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/python-developer/",
             }
         },
         authors: [

@@ -17,6 +17,18 @@ export const OpenGraph: IOpenGraph = {
         url: "https://chorn.in.th/images-ai/ai-companions/ai-companions-og-image.jpg" + ImageVersion,
         alt: "AI Chat Companion Demo",
     },
+    aiFah: {
+        url: "https://chorn.in.th/images-ai/ai-og-images/ai-og-fah.jpg" + ImageVersion,
+        alt: "AI Fah - LINE Chat AI Integration",
+    },
+    aiAom: {
+        url: "https://chorn.in.th/images-ai/ai-og-images/ai-og-aom.jpg" + ImageVersion,
+        alt: "AI Aom - LINE Chat AI Integration",
+    },
+    aiPloy: {
+        url: "https://chorn.in.th/images-ai/ai-og-images/ai-og-ploy.jpg" + ImageVersion,
+        alt: "AI Ploy - LINE Chat AI Integration",
+    },
     gallery: {
         url: "https://chorn.in.th/chorn-images/gallery/gallery-og-image.jpg" + ImageVersion,
         alt: "Global Business Trip Highlights",

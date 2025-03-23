@@ -16,7 +16,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/",
             }
         },
         authors: [
@@ -35,7 +37,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.main.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/",
             type: "website",
         },
         twitter: {
@@ -69,7 +71,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/appium/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/appium/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/appium/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/appium/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/appium/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/appium/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/appium/",
             }
         },
         authors: [
@@ -88,7 +92,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.appium.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/appium/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/appium/",
             type: "website",
         },
         twitter: {
@@ -120,7 +124,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/docker/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/docker/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/docker/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/docker/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/docker/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/docker/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/docker/",
             }
         },
         authors: [
@@ -139,7 +145,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.docker.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/docker/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/docker/",
             type: "website",
         },
         twitter: {
@@ -169,7 +175,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/github/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/github/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/github/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/github/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/github/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/github/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/github/",
             }
         },
         authors: [
@@ -188,7 +196,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.github.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/github/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/github/",
             type: "website",
         },
         twitter: {
@@ -218,7 +226,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/gitlab/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/gitlab/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/gitlab/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/gitlab/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/gitlab/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/gitlab/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/gitlab/",
             }
         },
         authors: [
@@ -237,7 +247,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.gitlab.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/gitlab/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/gitlab/",
             type: "website",
         },
         twitter: {
@@ -267,7 +277,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/jenkins/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/jenkins/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/jenkins/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/jenkins/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/jenkins/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/jenkins/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/jenkins/",
             }
         },
         authors: [
@@ -286,7 +298,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.jenkins.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/jenkins/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/jenkins/",
             type: "website",
         },
         twitter: {
@@ -316,7 +328,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/kubernetes/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/kubernetes/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/kubernetes/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/kubernetes/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/kubernetes/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/kubernetes/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/kubernetes/",
             }
         },
         authors: [
@@ -335,7 +349,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.kube.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/kubernetes/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/kubernetes/",
             type: "website",
         },
         twitter: {
@@ -365,7 +379,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/postman/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/postman/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/postman/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/postman/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/postman/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/postman/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/postman/",
             }
         },
         authors: [
@@ -384,7 +400,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.postman.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/postman/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/postman/",
             type: "website",
         },
         twitter: {
@@ -414,7 +430,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/selenium/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/selenium/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/selenium/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/selenium/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/selenium/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/selenium/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/selenium/",
             }
         },
         authors: [
@@ -433,7 +451,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.selenium.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/selenium/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/selenium/",
             type: "website",
         },
         twitter: {
@@ -465,7 +483,9 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/devops-testing/soapui/",
                 "de": "https://chorn.in.th/de/technical-expertise/devops-testing/soapui/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/devops-testing/soapui/",
-                "na": "https://chorn.in.th/na/technical-expertise/devops-testing/soapui/",
+                "da": "https://chorn.in.th/da/technical-expertise/devops-testing/soapui/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/devops-testing/soapui/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/devops-testing/soapui/",
             }
         },
         authors: [
@@ -484,7 +504,7 @@ export const DevOpsMetadata: IDevOpsMetadata = {
                     alt: OpenGraph.devops.soapui.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/devops-testing/soapui/",
+            url: "https://chorn.in.th/en/technical-expertise/devops-testing/soapui/",
             type: "website",
         },
         twitter: {

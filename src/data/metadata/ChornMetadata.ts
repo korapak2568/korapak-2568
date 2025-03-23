@@ -2,7 +2,6 @@ import {IChornMetadata} from "@/data/metadata/model/metadata/IChornMetadata";
 import {FrontEndMetadata} from "@/data/metadata/metadata/FrontEndMetadata";
 import {BackEndMetadata} from "@/data/metadata/metadata/BackEndMetadata";
 import {DevOpsMetadata} from "@/data/metadata/metadata/DevOpsMetadata";
-import {ImageVersion} from "@/data/metadata/ImageVersion";
 import {OpenGraph} from "@/data/metadata/OpenGraph";
 
 export const ChornMetadata: IChornMetadata = {
@@ -24,7 +23,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh",
                 "de": "https://chorn.in.th/de",
                 "nl": "https://chorn.in.th/nl",
-                "na": "https://chorn.in.th/na",
+                "da": "https://chorn.in.th/da",
+                "fi": "https://chorn.in.th/fi",
+                "ko": "https://chorn.in.th/ko",
             }
         },
         authors: [
@@ -108,7 +109,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/ai-solutions/",
                 "de": "https://chorn.in.th/de/technical-expertise/ai-solutions/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/ai-solutions/",
-                "na": "https://chorn.in.th/na/technical-expertise/ai-solutions/",
+                "da": "https://chorn.in.th/da/technical-expertise/ai-solutions/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/ai-solutions/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/ai-solutions/",
             }
         },
         authors: [
@@ -139,6 +142,7 @@ export const ChornMetadata: IChornMetadata = {
             ]
         }
     },
+
     aiCompanions: {
         title: "AI Chat Companion | CHORN AI Integration",
         description: "Welcome to the AI Chat Companion, a demo of AI-powered integration. Explore AI companions with unique personalities, designed for seamless interaction via the LINE app, supporting multiple languages.",
@@ -153,7 +157,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh/ai-companions",
                 "de": "https://chorn.in.th/de/ai-companions",
                 "nl": "https://chorn.in.th/nl/ai-companions",
-                "na": "https://chorn.in.th/na/ai-companions",
+                "da": "https://chorn.in.th/da/ai-companions",
+                "fi": "https://chorn.in.th/fi/ai-companions",
+                "ko": "https://chorn.in.th/ko/ai-companions",
             }
         },
         authors: [
@@ -184,6 +190,148 @@ export const ChornMetadata: IChornMetadata = {
             ],
         },
     },
+    aiFah: {
+        title: "AI Chat Companion | CHORN AI Integration",
+        description: "Fah is your AI chat friend on the LINE Application. She's a 20-year-old Thai-inspired companion who's cheerful and approachable. Add her with one click or scan her QR Code to discover Thailand's top destinations, dishes, and cultural gems. Chat in multiple languages while she guides you through Thai culture with youthful energy.",
+        alternates: {
+            canonical: "https://chorn.in.th/en/ai-companions/fah",
+            languages: {
+                "en": "https://chorn.in.th/en/ai-companions/fah",
+                "th": "https://chorn.in.th/th/ai-companions/fah",
+                "fr": "https://chorn.in.th/fr/ai-companions/fah",
+                "ja": "https://chorn.in.th/ja/ai-companions/fah",
+                "vi": "https://chorn.in.th/vi/ai-companions/fah",
+                "zh": "https://chorn.in.th/zh/ai-companions/fah",
+                "de": "https://chorn.in.th/de/ai-companions/fah",
+                "nl": "https://chorn.in.th/nl/ai-companions/fah",
+                "da": "https://chorn.in.th/da/ai-companions/fah",
+                "fi": "https://chorn.in.th/fi/ai-companions/fah",
+                "ko": "https://chorn.in.th/ko/ai-companions/fah",
+            }
+        },
+        authors: [
+            {
+                name: "CHORN"
+            }
+        ],
+        openGraph: {
+            title: "Meet Fah - Your Thai AI Chat Friend on LINE",
+            description: "Meet Fah, your 20-year-old Thai AI friend on LINE who recommends Thailand's best destinations, dishes, and cultural experiences in multiple languages. Add her today!",
+            images: [
+                {
+                    url: OpenGraph.aiFah.url,
+                    width: 1200,
+                    height: 630,
+                    alt: OpenGraph.aiFah.alt,
+                },
+            ],
+            url: "https://chorn.in.th/en/ai-companions/fah",
+            type: "website",
+        },
+        twitter: {
+            card: "summary_large_image",
+            title: "Fah - Your Thai Culture Guide on LINE",
+            description: "Add Fah, your cheerful 20-year-old Thai AI companion on LINE who helps you explore Thailand's destinations, cuisine, and culture in multiple languages.",
+            images: [
+                OpenGraph.aiFah.url,
+            ],
+        },
+    },
+    aiAom: {
+        title: "AI Chat Companion | CHORN AI Integration",
+        description: "Aom can be accessed through the LINE Application. You can press the Add Friend button or scan the LINE QR Code to add her as a friend. At 21, she's a friendly, vibrant AI companion passionate about healthy living and wellness who provides nutritional tips, exercise routines, and mindfulness practices. With her ability to chat in multiple languages, Aom helps you maintain a balanced lifestyle while keeping things fun.",
+        alternates: {
+            canonical: "https://chorn.in.th/en/ai-companions/aom",
+            languages: {
+                "en": "https://chorn.in.th/en/ai-companions/aom",
+                "th": "https://chorn.in.th/th/ai-companions/aom",
+                "fr": "https://chorn.in.th/fr/ai-companions/aom",
+                "ja": "https://chorn.in.th/ja/ai-companions/aom",
+                "vi": "https://chorn.in.th/vi/ai-companions/aom",
+                "zh": "https://chorn.in.th/zh/ai-companions/aom",
+                "de": "https://chorn.in.th/de/ai-companions/aom",
+                "nl": "https://chorn.in.th/nl/ai-companions/aom",
+                "da": "https://chorn.in.th/da/ai-companions/aom",
+                "fi": "https://chorn.in.th/fi/ai-companions/aom",
+                "ko": "https://chorn.in.th/ko/ai-companions/aom",
+            }
+        },
+        authors: [
+            {
+                name: "CHORN"
+            }
+        ],
+        openGraph: {
+            title: "Meet Aom - Your Wellness Guide on LINE",
+            description: "Connect with Aom, a 21-year-old wellness-focused AI companion on LINE who provides nutritional advice, exercise routines, and mindfulness practices in multiple languages to help you live your healthiest life.",
+            images: [
+                {
+                    url: OpenGraph.aiAom.url,
+                    width: 1200,
+                    height: 630,
+                    alt: OpenGraph.aiAom.alt,
+                },
+            ],
+            url: "https://chorn.in.th/en/ai-companions/aom",
+            type: "website",
+        },
+        twitter: {
+            card: "summary_large_image",
+            title: "Aom - Your Healthy Living Coach on LINE",
+            description: "Add Aom, your vibrant 21-year-old wellness AI companion on LINE who motivates you with nutritional tips, exercise routines, and mindfulness practices in multiple languages.",
+            images: [
+                OpenGraph.aiAom.url,
+            ],
+        },
+    },
+    aiPloy: {
+        title: "AI Chat Companion | CHORN AI Integration",
+        description: "Ploy is an AI chat friend using LINE Application. Add her with the Add Friend button or QR code scan. As a creative 17-year-old Thai high school student, she's passionate about drawing, music, photography, and learning. Speaking seven languages, Ploy helps with various subjects and inspires creative expression. She's your friendly guide whether exploring art or doing homework.",
+        alternates: {
+            canonical: "https://chorn.in.th/en/ai-companions/ploy",
+            languages: {
+                "en": "https://chorn.in.th/en/ai-companions/ploy",
+                "th": "https://chorn.in.th/th/ai-companions/ploy",
+                "fr": "https://chorn.in.th/fr/ai-companions/ploy",
+                "ja": "https://chorn.in.th/ja/ai-companions/ploy",
+                "vi": "https://chorn.in.th/vi/ai-companions/ploy",
+                "zh": "https://chorn.in.th/zh/ai-companions/ploy",
+                "de": "https://chorn.in.th/de/ai-companions/ploy",
+                "nl": "https://chorn.in.th/nl/ai-companions/ploy",
+                "da": "https://chorn.in.th/da/ai-companions/ploy",
+                "fi": "https://chorn.in.th/fi/ai-companions/ploy",
+                "ko": "https://chorn.in.th/ko/ai-companions/ploy",
+            }
+        },
+        authors: [
+            {
+                name: "CHORN"
+            }
+        ],
+        openGraph: {
+            title: "Meet Ploy - Your Creative Teen AI Friend on LINE",
+            description: "Connect with Ploy, a creative 17-year-old Thai student AI who speaks seven languages and shares your passion for art, music, photography, and learning. Add her on LINE today!",
+            images: [
+                {
+                    url: OpenGraph.aiPloy.url,
+                    width: 1200,
+                    height: 630,
+                    alt: OpenGraph.aiPloy.alt,
+                },
+            ],
+            url: "https://chorn.in.th/en/ai-companions/ploy",
+            type: "website",
+        },
+        twitter: {
+            card: "summary_large_image",
+            title: "Ploy - Your Creative Teen Guide on LINE",
+            description: "Add Ploy, your cheerful 17-year-old Thai AI companion on LINE who helps with homework and inspires creativity through art, music, and photography in seven languages.",
+            images: [
+                OpenGraph.aiPloy.url,
+            ],
+        },
+    },
+
     gallery: {
         title: "Global Business Trip | CHORN Gallery",
         description: "Explore highlights from CHORN's international business trips, including experiences in Los Angeles, California, and premium travel with Singapore Airlines.",
@@ -198,7 +346,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh/gallery/",
                 "de": "https://chorn.in.th/de/gallery/",
                 "nl": "https://chorn.in.th/nl/gallery/",
-                "na": "https://chorn.in.th/na/gallery/",
+                "da": "https://chorn.in.th/da/gallery/",
+                "fi": "https://chorn.in.th/fi/gallery/",
+                "ko": "https://chorn.in.th/ko/gallery/",
             }
         },
         authors: [
@@ -243,7 +393,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh/about-chorn/",
                 "de": "https://chorn.in.th/de/about-chorn/",
                 "nl": "https://chorn.in.th/nl/about-chorn/",
-                "na": "https://chorn.in.th/na/about-chorn/",
+                "da": "https://chorn.in.th/da/about-chorn/",
+                "fi": "https://chorn.in.th/fi/about-chorn/",
+                "ko": "https://chorn.in.th/ko/about-chorn/",
             }
         },
         authors: [
@@ -288,7 +440,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh/contact-chorn/",
                 "de": "https://chorn.in.th/de/contact-chorn/",
                 "nl": "https://chorn.in.th/nl/contact-chorn/",
-                "na": "https://chorn.in.th/na/contact-chorn/",
+                "da": "https://chorn.in.th/da/contact-chorn/",
+                "fi": "https://chorn.in.th/fi/contact-chorn/",
+                "ko": "https://chorn.in.th/ko/contact-chorn/",
             }
         },
         authors: [
@@ -334,7 +488,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/web-development/",
                 "de": "https://chorn.in.th/de/technical-expertise/web-development/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/web-development/",
-                "na": "https://chorn.in.th/na/technical-expertise/web-development/",
+                "da": "https://chorn.in.th/da/technical-expertise/web-development/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/web-development/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/web-development/",
             }
         },
         authors: [
@@ -403,7 +559,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/cloud-infrastructure-systems-architecture/",
                 "de": "https://chorn.in.th/de/technical-expertise/cloud-infrastructure-systems-architecture/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/cloud-infrastructure-systems-architecture/",
-                "na": "https://chorn.in.th/na/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "da": "https://chorn.in.th/da/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/cloud-infrastructure-systems-architecture/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/cloud-infrastructure-systems-architecture/",
             }
         },
         authors: [
@@ -465,7 +623,9 @@ export const ChornMetadata: IChornMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/web3-blockchain-smart-contract-development/",
                 "de": "https://chorn.in.th/de/technical-expertise/web3-blockchain-smart-contract-development/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/web3-blockchain-smart-contract-development/",
-                "na": "https://chorn.in.th/na/technical-expertise/web3-blockchain-smart-contract-development/",
+                "da": "https://chorn.in.th/da/technical-expertise/web3-blockchain-smart-contract-development/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/web3-blockchain-smart-contract-development/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/web3-blockchain-smart-contract-development/",
             }
         },
         authors: [

@@ -7,7 +7,12 @@ export interface IChornMetadata {
 
     home: Metadata,
     llmAi: Metadata,
+
     aiCompanions: Metadata,
+    aiFah: Metadata,
+    aiAom: Metadata,
+    aiPloy: Metadata,
+
     gallery: Metadata,
     about: Metadata,
     contact: Metadata,

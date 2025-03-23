@@ -16,7 +16,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/front-end-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/front-end-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/front-end-developer/",
             }
         },
         authors: [
@@ -35,7 +37,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.main.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/front-end-developer/",
+            url: "https://chorn.in.th/en/technical-expertise/front-end-developer/",
             type: "website",
         },
         twitter: {
@@ -85,7 +87,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/angular-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/angular-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/angular-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/angular-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/front-end-developer/angular-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/front-end-developer/angular-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/front-end-developer/angular-developer/",
             }
         },
         authors: [
@@ -104,7 +108,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.angular.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/front-end-developer/angular-developer/",
+            url: "https://chorn.in.th/en/technical-expertise/front-end-developer/angular-developer/",
             type: "website",
         },
         twitter: {
@@ -151,7 +155,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/css3-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/css3-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/css3-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/css3-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/front-end-developer/css3-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/front-end-developer/css3-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/front-end-developer/css3-developer/",
             }
         },
         authors: [
@@ -170,7 +176,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.css3.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/front-end-developer/css3-developer/",
+            url: "https://chorn.in.th/en/technical-expertise/front-end-developer/css3-developer/",
             type: "website",
         },
         twitter: {
@@ -224,7 +230,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/html5-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/html5-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/html5-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/html5-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/front-end-developer/html5-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/front-end-developer/html5-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/front-end-developer/html5-developer/",
             }
         },
         authors: [
@@ -243,7 +251,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.html5.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/front-end-developer/html5-developer/",
+            url: "https://chorn.in.th/en/technical-expertise/front-end-developer/html5-developer/",
             type: "website",
         },
         twitter: {
@@ -287,7 +295,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/javascript-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/javascript-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/javascript-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/javascript-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/javascript-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/javascript-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/javascript-developer/",
             }
         },
         authors: [
@@ -306,7 +316,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.javascript.alt,
                 },
             ],
-            url: "https://chorn.in.th/technical-expertise/full-stack-developer/javascript-javascript-developer/",
+            url: "https://chorn.in.th/en/technical-expertise/full-stack-developer/javascript-javascript-developer/",
             type: "website",
         },
         twitter: {
@@ -351,7 +361,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/nextjs-developer",
                 "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/nextjs-developer",
                 "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/nextjs-developer",
-                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/nextjs-developer",
+                "da": "https://chorn.in.th/da/technical-expertise/front-end-developer/nextjs-developer",
+                "fi": "https://chorn.in.th/fi/technical-expertise/front-end-developer/nextjs-developer",
+                "ko": "https://chorn.in.th/ko/technical-expertise/front-end-developer/nextjs-developer",
             }
         },
         authors: [
@@ -370,7 +382,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.nextjs.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/front-end-developer/nextjs-developer",
+            url: "https://chorn.in.th/en/technical-expertise/front-end-developer/nextjs-developer",
             type: "website",
         },
         twitter: {
@@ -413,7 +425,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/react-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/react-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/react-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/react-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/front-end-developer/react-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/front-end-developer/react-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/front-end-developer/react-developer/",
             }
         },
         authors: [
@@ -432,7 +446,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.react.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/front-end-developer/react-developer",
+            url: "https://chorn.in.th/en/technical-expertise/front-end-developer/react-developer",
             type: "website",
         },
         twitter: {
@@ -476,7 +490,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/typescript-javascript-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/typescript-javascript-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/typescript-javascript-developer/",
             }
         },
         authors: [
@@ -495,7 +511,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.typescript.alt,
                 },
             ],
-            url: "https://chorn.in.th/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+            url: "https://chorn.in.th/en/technical-expertise/full-stack-developer/typescript-javascript-developer/",
             type: "website",
         },
         twitter: {
@@ -540,7 +556,9 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                 "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/vue-developer/",
                 "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/vue-developer/",
                 "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/vue-developer/",
-                "na": "https://chorn.in.th/na/technical-expertise/front-end-developer/vue-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/front-end-developer/vue-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/front-end-developer/vue-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/front-end-developer/vue-developer/",
             }
         },
         authors: [
@@ -559,7 +577,7 @@ export const FrontEndMetadata: IFrontEndMetadata = {
                     alt: OpenGraph.frontend.vue.alt,
                 }
             ],
-            url: "https://chorn.in.th/technical-expertise/front-end-developer/vue-developer/",
+            url: "https://chorn.in.th/en/technical-expertise/front-end-developer/vue-developer/",
             type: "website",
         },
         twitter: {
