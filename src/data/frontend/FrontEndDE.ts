@@ -1,4 +1,5 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
+import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 
 export const FrontEndDE: IFrontEnd = {
     title: "Front-End-Erfahrung",
@@ -427,12 +428,12 @@ export const FrontEndDE: IFrontEnd = {
 }
 
 FrontEndDE.stacks = [
-    FrontEndDE.javascript,
-    FrontEndDE.typescript,
-    FrontEndDE.nextjs,
-    FrontEndDE.angular,
-    FrontEndDE.vue,
-    FrontEndDE.react,
-    FrontEndDE.html5,
-    FrontEndDE.css3
+    FrontEndEN.nextjs,
+    FrontEndEN.react,
+    FrontEndEN.angular,
+    FrontEndEN.vue,
+    FrontEndEN.javascript,
+    FrontEndEN.typescript,
+    FrontEndEN.html5,
+    FrontEndEN.css3
 ]

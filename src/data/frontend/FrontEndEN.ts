@@ -427,12 +427,12 @@ export const FrontEndEN: IFrontEnd = {
 }
 
 FrontEndEN.stacks = [
-    FrontEndEN.javascript,
-    FrontEndEN.typescript,
     FrontEndEN.nextjs,
+    FrontEndEN.react,
     FrontEndEN.angular,
     FrontEndEN.vue,
-    FrontEndEN.react,
+    FrontEndEN.javascript,
+    FrontEndEN.typescript,
     FrontEndEN.html5,
     FrontEndEN.css3
 ]

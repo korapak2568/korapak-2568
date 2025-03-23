@@ -1,5 +1,6 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
 import {FrontEndVI} from "@/data/frontend/FrontEndVI";
+import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 
 export const FrontEndZH: IFrontEnd = {
     title: "前端经验",
@@ -428,12 +429,12 @@ export const FrontEndZH: IFrontEnd = {
 }
 
 FrontEndZH.stacks = [
-    FrontEndZH.javascript,
-    FrontEndZH.typescript,
-    FrontEndVI.nextjs,
-    FrontEndZH.angular,
-    FrontEndZH.vue,
-    FrontEndZH.react,
-    FrontEndZH.html5,
-    FrontEndZH.css3
+    FrontEndEN.nextjs,
+    FrontEndEN.react,
+    FrontEndEN.angular,
+    FrontEndEN.vue,
+    FrontEndEN.javascript,
+    FrontEndEN.typescript,
+    FrontEndEN.html5,
+    FrontEndEN.css3
 ]

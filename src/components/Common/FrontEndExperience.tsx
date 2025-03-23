@@ -23,7 +23,7 @@ const FrontEndExperience: React.FC = () => {
                     <div className="services-area bg-fafafa pt-100 pb-70 addition-ptb-0">
                         <div className="container">
                             <div className="row">
-                                {InfoTranslation[locale.value].FrontEnd.stacks.slice(2, -3).map((item: IFrontEndStack, index: number) => (
+                                {InfoTranslation[locale.value].FrontEnd.stacks.slice(0, 6).map((item: IFrontEndStack, index: number) => (
                                     <div key={index} className="col-lg-4 col-md-6">
                                         <div className="single-services-box">
                                             <div className="icon">
