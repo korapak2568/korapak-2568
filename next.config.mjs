@@ -16,6 +16,20 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                // Match any path on the www subdomain
+                source: '/:path*',
+                // Only apply the rule when the host is www.chorn.in.th
+                has: [
+                    {
+                        type: 'host',
+                        value: 'www.chorn.in.th',
+                    },
+                ],
+                // Redirect to the non-www domain preserving the path
+                destination: 'https://chorn.in.th/:path*',
+                permanent: true, // Use a permanent 308 redirect
+            },
+            {
                 source: '/ai-companions',
                 destination: '/en/ai-companions/',
                 permanent: true,
