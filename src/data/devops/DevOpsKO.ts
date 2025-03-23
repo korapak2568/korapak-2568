@@ -431,34 +431,27 @@ export const DevOpsKO: IDevOps = {
     stacks: [],
 
     services: {
-        title: "Cloud & DevOps",
+        title: "클라우드 & DevOps",
         descriptions: [
-            "CHORN has experience in continuous learning to optimize cloud infrastructure and improve software delivery with cloud and DevOps expertise. " +
-            "Enhancing business processes through automation, scaling, and securing cloud environments using modern DevOps practices. " +
-            "From cloud-native applications to infrastructure automation, we ensure efficiency, reliability, and security.",
-
-            "Studying, improving implementation, and increasing automation through the use of Infrastructure as Code (IaC), Terraform, and AWS CloudFormation for scalable cloud management. " +
-            "Experience in various multi-cloud strategies such as AWS, Azure, Google Cloud, and DigitalOcean to ensure cloud usage with flexibility and resilience.",
-
-            "Enhancing CI/CD pipelines using GitLab, GitHub Actions, and Jenkins while integrating security (DevSecOps) " +
-            "to build robust and secure software at scale."
+            "CHORN은 멀티 클라우드 전략(AWS, Azure, GCP, DigitalOcean)과 Infrastructure as Code(IaC) 구현에 특화되어 자동화된 워크플로우로 확장 가능하고 안전하며 효율적인 클라우드 환경을 제공합니다.",
+            "다음에 중점을 둔 포괄적인 클라우드 및 DevOps 전문 지식을 제공합니다:"
         ],
         items: [
             {
-                title: "Cloud Infrastructure & Automation",
-                description: "Build and manage cloud environments using Terraform, AWS CloudFormation, and Kubernetes."
+                title: "클라우드 인프라 & 자동화",
+                description: "Terraform, AWS CloudFormation, Kubernetes"
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "Automate software delivery pipelines with GitLab, Jenkins, and GitHub Actions while integrating security best practices."
+                description: "통합 보안을 갖춘 GitLab, GitHub Actions"
             },
             {
-                title: "Containerization & Orchestration",
-                description: "Deploy and manage cloud-native applications using Docker and Kubernetes."
+                title: "컨테이너화 & 오케스트레이션",
+                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
             },
             {
-                title: "Monitoring & Observability",
-                description: "Gain real-time insights with Prometheus, Grafana, and cloud-native monitoring solutions."
+                title: "모니터링 & 관측성",
+                description: "AWS CloudWatch, Prometheus, Grafana"
             }
         ]
     }

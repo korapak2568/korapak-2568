@@ -433,34 +433,27 @@ export const DevOpsJA: IDevOps = {
     stacks: [],
 
     services: {
-        title: "クラウド & DevOps",
+        title: "クラウド＆DevOps",
         descriptions: [
-            "CHORNはクラウドインフラストラクチャを最適化し、クラウドとDevOpsの専門知識を活かしてソフトウェア配信を改善するための継続的な学習の経験があります。" +
-            "最新のDevOpsプラクティスを使用して、クラウド環境の自動化、スケーリング、セキュリティ確保によりビジネスプロセスを強化します。" +
-            "クラウドネイティブアプリケーションからインフラストラクチャの自動化まで、効率性、信頼性、セキュリティを確保します。",
-
-            "Infrastructure as Code（IaC）、Terraform、AWS CloudFormationを使用して、スケーラブルなクラウド管理のための実装改善と自動化の増加を研究しています。" +
-            "AWS、Azure、Google Cloud、DigitalOceanなどの様々なマルチクラウド戦略の経験があり、柔軟性と回復力を持つクラウド利用を確保します。",
-
-            "GitLab、GitHub Actions、Jenkinsを使用してCI/CDパイプラインを強化し、セキュリティ（DevSecOps）を統合して、" +
-            "大規模で堅牢かつ安全なソフトウェアを構築します。"
+            "CHORNはマルチクラウド戦略（AWS、Azure、GCP、DigitalOcean）とInfrastructure as Code（IaC）の実装に特化し、自動化されたワークフローで拡張性、安全性、効率性の高いクラウド環境を提供します。",
+            "包括的なクラウドとDevOpsの専門知識を提供し、以下に焦点を当てています："
         ],
         items: [
             {
-                title: "クラウドインフラストラクチャ & 自動化",
-                description: "Terraform、AWS CloudFormation、Kubernetesを使用してクラウド環境を構築・管理します。"
+                title: "クラウドインフラストラクチャ＆自動化",
+                description: "Terraform、AWS CloudFormation、Kubernetes"
             },
             {
-                title: "CI/CD & DevSecOps",
-                description: "GitLab、Jenkins、GitHub Actionsを使用してソフトウェア配信パイプラインを自動化し、セキュリティのベストプラクティスを統合します。"
+                title: "CI/CD＆DevSecOps",
+                description: "統合されたセキュリティを備えたGitLab、GitHub Actions"
             },
             {
-                title: "コンテナ化 & オーケストレーション",
-                description: "DockerとKubernetesを使用してクラウドネイティブアプリケーションをデプロイ・管理します。"
+                title: "コンテナ化＆オーケストレーション",
+                description: "Docker、Kubernetes、Terraform、AWS CloudFormation"
             },
             {
-                title: "モニタリング & 観測可能性",
-                description: "Prometheus、Grafana、クラウドネイティブなモニタリングソリューションでリアルタイムの洞察を得ます。"
+                title: "モニタリング＆オブザーバビリティ",
+                description: "AWS CloudWatch、Prometheus、Grafana"
             }
         ]
     }

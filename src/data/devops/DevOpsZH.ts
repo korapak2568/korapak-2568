@@ -433,34 +433,27 @@ export const DevOpsZH: IDevOps = {
     stacks: [],
 
     services: {
-        title: "云计算 & DevOps",
+        title: "云计算和 DevOps",
         descriptions: [
-            "CHORN 在持续学习方面拥有经验，可以优化云基础设施并通过云和 DevOps 专业知识改进软件交付。" +
-            "通过自动化、扩展和保护云环境，使用现代 DevOps 实践来增强业务流程。" +
-            "从云原生应用到基础设施自动化，我们确保效率、可靠性和安全性。",
-
-            "通过使用基础设施即代码（IaC）、Terraform 和 AWS CloudFormation 进行可扩展的云管理，研究、改进实施并增加自动化。" +
-            "在各种多云战略如 AWS、Azure、Google Cloud 和 DigitalOcean 方面拥有经验，确保云使用具有灵活性和弹性。",
-
-            "使用 GitLab、GitHub Actions 和 Jenkins 增强 CI/CD 管道，同时集成安全性（DevSecOps），" +
-            "以大规模构建强大且安全的软件。"
+            "CHORN 专注于多云策略（AWS、Azure、GCP、DigitalOcean）和基础设施即代码（IaC）实施，通过自动化工作流提供可扩展、安全和高效的云环境。",
+            "提供全面的云计算和 DevOps 专业知识，专注于："
         ],
         items: [
             {
-                title: "云基础设施 & 自动化",
-                description: "使用 Terraform、AWS CloudFormation 和 Kubernetes 构建和管理云环境。"
+                title: "云基础设施和自动化",
+                description: "Terraform、AWS CloudFormation、Kubernetes"
             },
             {
-                title: "CI/CD & DevSecOps",
-                description: "使用 GitLab、Jenkins 和 GitHub Actions 自动化软件交付管道，同时集成安全最佳实践。"
+                title: "CI/CD 和 DevSecOps",
+                description: "GitLab、GitHub Actions 与集成安全"
             },
             {
-                title: "容器化 & 编排",
-                description: "使用 Docker 和 Kubernetes 部署和管理云原生应用。"
+                title: "容器化和编排",
+                description: "Docker、Kubernetes、Terraform、AWS CloudFormation"
             },
             {
-                title: "监控 & 可观察性",
-                description: "通过 Prometheus、Grafana 和云原生监控解决方案获得实时洞察。"
+                title: "监控和可观测性",
+                description: "AWS CloudWatch、Prometheus、Grafana"
             }
         ]
     }

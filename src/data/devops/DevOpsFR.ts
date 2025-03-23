@@ -435,32 +435,25 @@ export const DevOpsFR: IDevOps = {
     services: {
         title: "Cloud & DevOps",
         descriptions: [
-            "CHORN possède une expérience d'apprentissage continu pour optimiser l'infrastructure cloud et améliorer la livraison de logiciels grâce à son expertise en cloud et DevOps. " +
-            "Amélioration des processus d'entreprise par l'automatisation, la mise à l'échelle et la sécurisation des environnements cloud en utilisant des pratiques DevOps modernes. " +
-            "Des applications cloud-natives à l'automatisation de l'infrastructure, nous garantissons efficacité, fiabilité et sécurité.",
-
-            "Étude, amélioration de l'implémentation et augmentation de l'automatisation grâce à l'utilisation de l'Infrastructure as Code (IaC), Terraform et AWS CloudFormation pour une gestion cloud évolutive. " +
-            "Expérience dans diverses stratégies multi-cloud telles qu'AWS, Azure, Google Cloud et DigitalOcean pour assurer une utilisation du cloud avec flexibilité et résilience.",
-
-            "Amélioration des pipelines CI/CD en utilisant GitLab, GitHub Actions et Jenkins tout en intégrant la sécurité (DevSecOps) " +
-            "pour construire des logiciels robustes et sécurisés à grande échelle."
+            "CHORN se spécialise dans les stratégies multi-cloud (AWS, Azure, GCP, DigitalOcean) et l'implémentation de l'Infrastructure as Code (IaC) pour fournir des environnements cloud évolutifs, sécurisés et efficaces avec des flux de travail automatisés.",
+            "Offre une expertise complète en cloud et DevOps axée sur :"
         ],
         items: [
             {
                 title: "Infrastructure Cloud & Automatisation",
-                description: "Créer et gérer des environnements cloud en utilisant Terraform, AWS CloudFormation et Kubernetes."
+                description: "Terraform, AWS CloudFormation, Kubernetes"
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "Automatiser les pipelines de livraison de logiciels avec GitLab, Jenkins et GitHub Actions tout en intégrant les meilleures pratiques de sécurité."
+                description: "GitLab, GitHub Actions avec sécurité intégrée"
             },
             {
                 title: "Conteneurisation & Orchestration",
-                description: "Déployer et gérer des applications cloud-natives en utilisant Docker et Kubernetes."
+                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
             },
             {
                 title: "Surveillance & Observabilité",
-                description: "Obtenir des informations en temps réel avec Prometheus, Grafana et des solutions de surveillance cloud-natives."
+                description: "AWS CloudWatch, Prometheus, Grafana"
             }
         ]
     }

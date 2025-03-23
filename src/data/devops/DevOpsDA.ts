@@ -435,32 +435,25 @@ export const DevOpsDA: IDevOps = {
     services: {
         title: "Cloud & DevOps",
         descriptions: [
-            "CHORN har erfaring med kontinuerlig læring for at optimere cloud-infrastruktur og forbedre softwarelevering med cloud- og DevOps-ekspertise. " +
-            "Forbedring af forretningsprocesser gennem automatisering, skalering og sikring af cloud-miljøer ved hjælp af moderne DevOps-praksis. " +
-            "Fra cloud-native applikationer til infrastrukturautomatisering sikrer vi effektivitet, pålidelighed og sikkerhed.",
-
-            "Undersøgelse, forbedring af implementering og øget automatisering gennem brug af Infrastructure as Code (IaC), Terraform og AWS CloudFormation til skalerbar cloud-styring. " +
-            "Erfaring med forskellige multi-cloud-strategier såsom AWS, Azure, Google Cloud og DigitalOcean for at sikre cloud-brug med fleksibilitet og robusthed.",
-
-            "Forbedring af CI/CD-pipelines ved hjælp af GitLab, GitHub Actions og Jenkins, mens sikkerhed (DevSecOps) integreres " +
-            "for at bygge robust og sikker software i stor skala."
+            "CHORN specialiserer sig i multi-cloud strategier (AWS, Azure, GCP, DigitalOcean) og implementering af Infrastructure as Code (IaC) for at levere skalerbare, sikre og effektive cloud-miljøer med automatiserede arbejdsgange.",
+            "Tilbyder omfattende cloud- og DevOps-ekspertise med fokus på:"
         ],
         items: [
             {
                 title: "Cloud-infrastruktur & Automatisering",
-                description: "Opbygning og styring af cloud-miljøer ved hjælp af Terraform, AWS CloudFormation og Kubernetes."
+                description: "Terraform, AWS CloudFormation, Kubernetes"
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "Automatisering af softwareleveringspipelines med GitLab, Jenkins og GitHub Actions, mens der integreres sikkerhedsbedste praksisser."
+                description: "GitLab, GitHub Actions med integreret sikkerhed"
             },
             {
-                title: "Containerization & Orkestration",
-                description: "Implementering og styring af cloud-native applikationer ved hjælp af Docker og Kubernetes."
+                title: "Containerisering & Orkestrering",
+                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
             },
             {
                 title: "Overvågning & Observerbarhed",
-                description: "Få realtidsindsigt med Prometheus, Grafana og cloud-native overvågningsløsninger."
+                description: "AWS CloudWatch, Prometheus, Grafana"
             }
         ]
     }

@@ -431,34 +431,27 @@ export const DevOpsFI: IDevOps = {
     stacks: [],
 
     services: {
-        title: "Cloud & DevOps",
+        title: "Pilvi & DevOps",
         descriptions: [
-            "CHORN has experience in continuous learning to optimize cloud infrastructure and improve software delivery with cloud and DevOps expertise. " +
-            "Enhancing business processes through automation, scaling, and securing cloud environments using modern DevOps practices. " +
-            "From cloud-native applications to infrastructure automation, we ensure efficiency, reliability, and security.",
-
-            "Studying, improving implementation, and increasing automation through the use of Infrastructure as Code (IaC), Terraform, and AWS CloudFormation for scalable cloud management. " +
-            "Experience in various multi-cloud strategies such as AWS, Azure, Google Cloud, and DigitalOcean to ensure cloud usage with flexibility and resilience.",
-
-            "Enhancing CI/CD pipelines using GitLab, GitHub Actions, and Jenkins while integrating security (DevSecOps) " +
-            "to build robust and secure software at scale."
+            "CHORN on erikoistunut monipilvistrategioihin (AWS, Azure, GCP, DigitalOcean) ja Infrastructure as Code (IaC) -toteutukseen tarjotakseen skaalautuvia, turvallisia ja tehokkaita pilviympäristöjä automatisoiduilla työnkuluilla.",
+            "Tarjoaa kattavaa pilvi- ja DevOps-asiantuntemusta keskittyen:"
         ],
         items: [
             {
-                title: "Cloud Infrastructure & Automation",
-                description: "Build and manage cloud environments using Terraform, AWS CloudFormation, and Kubernetes."
+                title: "Pilvi-infrastruktuuri & Automaatio",
+                description: "Terraform, AWS CloudFormation, Kubernetes"
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "Automate software delivery pipelines with GitLab, Jenkins, and GitHub Actions while integrating security best practices."
+                description: "GitLab, GitHub Actions integroidulla tietoturvalla"
             },
             {
-                title: "Containerization & Orchestration",
-                description: "Deploy and manage cloud-native applications using Docker and Kubernetes."
+                title: "Kontitus & Orkestrointi",
+                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
             },
             {
-                title: "Monitoring & Observability",
-                description: "Gain real-time insights with Prometheus, Grafana, and cloud-native monitoring solutions."
+                title: "Valvonta & Havainnointikyvykkyys",
+                description: "AWS CloudWatch, Prometheus, Grafana"
             }
         ]
     }

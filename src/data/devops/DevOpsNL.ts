@@ -435,32 +435,25 @@ export const DevOpsNL: IDevOps = {
     services: {
         title: "Cloud & DevOps",
         descriptions: [
-            "CHORN heeft ervaring met continu leren om cloudinfrastructuur te optimaliseren en softwarelevering te verbeteren met cloud- en DevOps-expertise. " +
-            "Verbetering van bedrijfsprocessen door automatisering, schaling en beveiliging van cloudomgevingen met behulp van moderne DevOps-praktijken. " +
-            "Van cloud-native applicaties tot infrastructuurautomatisering, wij zorgen voor efficiëntie, betrouwbaarheid en veiligheid.",
-
-            "Bestuderen, verbeteren van implementatie en verhogen van automatisering door het gebruik van Infrastructure as Code (IaC), Terraform en AWS CloudFormation voor schaalbaar cloudbeheer. " +
-            "Ervaring in verschillende multi-cloudstrategieën zoals AWS, Azure, Google Cloud en DigitalOcean om cloudgebruik met flexibiliteit en veerkracht te waarborgen.",
-
-            "Verbetering van CI/CD-pijplijnen met behulp van GitLab, GitHub Actions en Jenkins, terwijl beveiliging (DevSecOps) wordt geïntegreerd " +
-            "om robuuste en veilige software op schaal te bouwen."
+            "CHORN is gespecialiseerd in multi-cloud strategieën (AWS, Azure, GCP, DigitalOcean) en implementatie van Infrastructure as Code (IaC) om schaalbare, veilige en efficiënte cloudomgevingen te leveren met geautomatiseerde workflows.",
+            "Biedt uitgebreide cloud- en DevOps-expertise gericht op:"
         ],
         items: [
             {
-                title: "Cloudinfrastructuur & Automatisering",
-                description: "Bouwen en beheren van cloudomgevingen met Terraform, AWS CloudFormation en Kubernetes."
+                title: "Cloud-infrastructuur & Automatisering",
+                description: "Terraform, AWS CloudFormation, Kubernetes"
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "Automatisering van software-leveringspijplijnen met GitLab, Jenkins en GitHub Actions terwijl beveiligingsbest practices worden geïntegreerd."
+                description: "GitLab, GitHub Actions met geïntegreerde beveiliging"
             },
             {
                 title: "Containerisatie & Orchestratie",
-                description: "Implementeren en beheren van cloud-native applicaties met Docker en Kubernetes."
+                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
             },
             {
                 title: "Monitoring & Observeerbaarheid",
-                description: "Verkrijg realtime inzichten met Prometheus, Grafana en cloud-native monitoringoplossingen."
+                description: "AWS CloudWatch, Prometheus, Grafana"
             }
         ]
     }

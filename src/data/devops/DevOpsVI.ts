@@ -435,32 +435,25 @@ export const DevOpsVI: IDevOps = {
     services: {
         title: "Điện toán đám mây & DevOps",
         descriptions: [
-            "CHORN có kinh nghiệm trong việc học tập liên tục để tối ưu hóa cơ sở hạ tầng đám mây và cải thiện việc phân phối phần mềm với chuyên môn về đám mây và DevOps. " +
-            "Nâng cao quy trình kinh doanh thông qua tự động hóa, mở rộng và bảo mật môi trường đám mây bằng cách sử dụng các phương pháp DevOps hiện đại. " +
-            "Từ ứng dụng điện toán đám mây đến tự động hóa cơ sở hạ tầng, chúng tôi đảm bảo hiệu quả, độ tin cậy và an ninh.",
-
-            "Nghiên cứu, cải thiện triển khai và tăng cường tự động hóa thông qua việc sử dụng Infrastructure as Code (IaC), Terraform và AWS CloudFormation để quản lý đám mây có khả năng mở rộng. " +
-            "Kinh nghiệm trong các chiến lược đa đám mây khác nhau như AWS, Azure, Google Cloud và DigitalOcean để đảm bảo sử dụng đám mây với tính linh hoạt và khả năng phục hồi.",
-
-            "Nâng cao quy trình CI/CD bằng cách sử dụng GitLab, GitHub Actions và Jenkins đồng thời tích hợp bảo mật (DevSecOps) " +
-            "để xây dựng phần mềm mạnh mẽ và an toàn ở quy mô lớn."
+            "CHORN chuyên về các chiến lược đa đám mây (AWS, Azure, GCP, DigitalOcean) và triển khai Cơ sở hạ tầng dưới dạng Mã (IaC) để cung cấp môi trường đám mây có khả năng mở rộng, an toàn và hiệu quả với quy trình làm việc tự động.",
+            "Cung cấp chuyên môn toàn diện về đám mây và DevOps tập trung vào:"
         ],
         items: [
             {
                 title: "Cơ sở hạ tầng đám mây & Tự động hóa",
-                description: "Xây dựng và quản lý môi trường đám mây bằng Terraform, AWS CloudFormation và Kubernetes."
+                description: "Terraform, AWS CloudFormation, Kubernetes"
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "Tự động hóa quy trình phân phối phần mềm với GitLab, Jenkins và GitHub Actions đồng thời tích hợp các phương pháp bảo mật tốt nhất."
+                description: "GitLab, GitHub Actions với bảo mật tích hợp"
             },
             {
                 title: "Container hóa & Điều phối",
-                description: "Triển khai và quản lý các ứng dụng điện toán đám mây bằng Docker và Kubernetes."
+                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
             },
             {
-                title: "Giám sát & Khả năng quan sát",
-                description: "Có được thông tin chi tiết theo thời gian thực với Prometheus, Grafana và các giải pháp giám sát điện toán đám mây."
+                title: "Giám sát & Quan sát",
+                description: "AWS CloudWatch, Prometheus, Grafana"
             }
         ]
     }
