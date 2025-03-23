@@ -1,27 +1,27 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutFI: IAbout = {
-    title: "About CHORN",
-    span: "System Analysis and Software Solutions",
-    subTitle: "Innovative Technology for Business Success",
+    title: "Tietoa CHORN:ista",
+    span: "Järjestelmäanalyysi ja ohjelmistoratkaisut",
+    subTitle: "Innovatiivista teknologiaa liiketoiminnan menestykseen",
     description: [
         {
             title: "",
-            description: "CHORN was launched in March 2023 by K.Khachornchit, offering expertise in technology and software development. With an electrical engineering background and over 20 years of experience, he specializes in system architecture, business analysis, full-stack software engineering, Web & API development, QA/Testing, DevOps, LLM/AI integration, cloud solution implementation, and provides remote, hybrid, and on-site services in Chiang Mai, Bangkok, Thailand, and internationally."
+            description: "CHORN perustettiin maaliskuussa 2023 K.Khachornchitin toimesta, tarjoten asiantuntemusta teknologiassa ja ohjelmistokehityksessä. Sähkötekniikan taustalla ja yli 20 vuoden kokemuksella hän on erikoistunut järjestelmäarkkitehtuuriin, liiketoiminta-analyysiin, full-stack ohjelmistokehitykseen, Web & API-kehitykseen, QA/testaukseen, DevOps:iin, LLM/AI-integraatioon, pilviratkaisujen toteutukseen, ja tarjoaa etä-, hybridi- ja paikan päällä -palveluja Chiang Maissa, Bangkokissa, Thaimaassa ja kansainvälisesti."
         }
     ],
     stacks: [
         {
-            title: "System Analysis and Technical Support",
-            description: "Works on in-depth system analysis, technical recommendations, support for business-critical applications to ensure reliability, system credibility and efficiency, system optimization, QA/Testing, LLM/AI and advanced technology implementation to enable sustainable business operations."
+            title: "Järjestelmäanalyysi ja tekninen tuki",
+            description: "Työskentelee syvällisen järjestelmäanalyysin, teknisten suositusten, liiketoiminnalle kriittisten sovellusten tuen parissa varmistaakseen luotettavuuden, järjestelmän uskottavuuden ja tehokkuuden, järjestelmän optimoinnin, QA/testauksen, LLM/AI:n ja edistyneen teknologian käyttöönoton mahdollistaakseen kestävän liiketoiminnan."
         },
         {
-            title: "Full-Stack Engineering",
-            description: "Full-stack system engineering, design, development, and improvement using cutting-edge technologies. Expertise in frontend, backend, cloud, blockchain, full-cycle software development, Web & API, Web3, dApp learning, and smart contract development."
+            title: "Full-Stack-kehitys",
+            description: "Full-stack-järjestelmäkehitys, suunnittelu, toteutus ja parantaminen käyttäen huippuluokan teknologioita. Asiantuntemus frontend-, backend-, pilvi-, lohkoketju-, full-cycle ohjelmistokehityksessä, Web & API, Web3, dApp-oppimisessa ja älysopimusten kehittämisessä."
         },
         {
-            title: "Agile Development and Business Collaboration",
-            description: "Experience working closely with both local and international teams, business users, and vendors, promoting efficient communication. Experience in Agile, Waterfall, and Hybrid development approaches."
+            title: "Ketterä kehitys ja liiketoimintayhteistyö",
+            description: "Kokemus työskentelystä tiiviisti sekä paikallisten että kansainvälisten tiimien, liiketoimintakäyttäjien ja toimittajien kanssa, edistäen tehokasta viestintää. Kokemus ketterissä, vesiputous- ja hybridikehitysmenetelmissä."
         }
     ]
 };

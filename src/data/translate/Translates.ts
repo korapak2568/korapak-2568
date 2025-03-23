@@ -37,4 +37,12 @@ export const Translates: ITranslate[] = [
         value: "da",
         label: "Danish - DA",
     },
+    {
+        value: "fi",
+        label: "Finland - FI",
+    },
+    {
+        value: "ko",
+        label: "South Korea - KO",
+    },
 ]

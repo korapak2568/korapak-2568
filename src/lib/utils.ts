@@ -7,7 +7,7 @@ export function isActiveSubMenu(pathname: string, link: string): boolean {
 }
 
 export function isActiveMainMenu(pathname: string, group: string): boolean {
-    const localesPath = ['/en/', '/th/', '/fr/', '/ja/', '/vi/', '/zh/', '/de/', '/nl/', '/da/']
+    const localesPath = ['/en/', '/th/', '/fr/', '/ja/', '/vi/', '/zh/', '/de/', '/nl/', '/da/', '/fi/', '/ko/']
     if (localesPath.includes(pathname) && group == "/info") {
         return true;
     }
@@ -20,4 +20,4 @@ export function publishTime() {
     return currentDate.toISOString()
 }
 
-export const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da']
+export const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da', 'fi', 'ko']

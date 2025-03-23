@@ -12,6 +12,8 @@ export default function robots(): MetadataRoute.Robots {
         ],
         sitemap: [
             'https://chorn.in.th/sitemap-0.xml',
+            'https://chorn.in.th/sitemap-fi.xml',
+            'https://chorn.in.th/sitemap-ko.xml',
         ],
     };
 }

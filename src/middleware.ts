@@ -43,11 +43,9 @@ export function middleware(request: NextRequest) {
     const res = NextResponse.next();
     res.headers.set('x-locale', locale);
     return res
-
-    // return NextResponse.next();
 }
 
 // Apply middleware to all paths
 export const config = {
-    matcher: ['/', '/(th|en|fr|ja|vi|zh|de|nl|da)/:path*'],
+    matcher: ['/', '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*'],
 };

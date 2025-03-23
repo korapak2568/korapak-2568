@@ -8,6 +8,8 @@ import {InfoZH} from "@/data/info/InfoZH";
 import {InfoDE} from "@/data/info/InfoDE";
 import {InfoNL} from "@/data/info/InfoNL";
 import {InfoDA} from "@/data/info/InfoDA";
+import {InfoFI} from "@/data/info/InfoFI";
+import {InfoKO} from "@/data/info/InfoKO";
 
 export const InfoTranslation: Record<string, IInfo> = {
     'en': InfoEN,
@@ -19,4 +21,6 @@ export const InfoTranslation: Record<string, IInfo> = {
     'de': InfoDE,
     'nl': InfoNL,
     'da': InfoDA,
+    'fi': InfoFI,
+    'ko': InfoKO
 }

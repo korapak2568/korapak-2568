@@ -1,27 +1,27 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutKO: IAbout = {
-    title: "About CHORN",
-    span: "System Analysis and Software Solutions",
-    subTitle: "Innovative Technology for Business Success",
+    title: "CHORN 소개",
+    span: "시스템 분석 및 소프트웨어 솔루션",
+    subTitle: "비즈니스 성공을 위한 혁신적인 기술",
     description: [
         {
             title: "",
-            description: "CHORN was launched in March 2023 by K.Khachornchit, offering expertise in technology and software development. With an electrical engineering background and over 20 years of experience, he specializes in system architecture, business analysis, full-stack software engineering, Web & API development, QA/Testing, DevOps, LLM/AI integration, cloud solution implementation, and provides remote, hybrid, and on-site services in Chiang Mai, Bangkok, Thailand, and internationally."
+            description: "CHORN은 2023년 3월 K.Khachornchit에 의해 설립되어 기술 및 소프트웨어 개발 분야의 전문성을 제공합니다. 전기 공학 배경과 20년 이상의 경험을 바탕으로 시스템 아키텍처, 비즈니스 분석, 풀스택 소프트웨어 엔지니어링, 웹 및 API 개발, QA/테스팅, DevOps, LLM/AI 통합, 클라우드 솔루션 구현 분야에 특화되어 있으며, 치앙마이, 방콕, 태국 및 국제적으로 원격, 하이브리드 및 현장 서비스를 제공합니다."
         }
     ],
     stacks: [
         {
-            title: "System Analysis and Technical Support",
-            description: "Works on in-depth system analysis, technical recommendations, support for business-critical applications to ensure reliability, system credibility and efficiency, system optimization, QA/Testing, LLM/AI and advanced technology implementation to enable sustainable business operations."
+            title: "시스템 분석 및 기술 지원",
+            description: "심층적인 시스템 분석, 기술 권장 사항, 비즈니스 중요 애플리케이션 지원을 통해 신뢰성, 시스템 신뢰도 및 효율성, 시스템 최적화, QA/테스팅, LLM/AI 및 첨단 기술 구현을 보장하여 지속 가능한 비즈니스 운영을 가능하게 합니다."
         },
         {
-            title: "Full-Stack Engineering",
-            description: "Full-stack system engineering, design, development, and improvement using cutting-edge technologies. Expertise in frontend, backend, cloud, blockchain, full-cycle software development, Web & API, Web3, dApp learning, and smart contract development."
+            title: "풀스택 엔지니어링",
+            description: "최첨단 기술을 사용한 풀스택 시스템 엔지니어링, 설계, 개발 및 개선. 프론트엔드, 백엔드, 클라우드, 블록체인, 전체 주기 소프트웨어 개발, 웹 및 API, Web3, dApp 학습 및 스마트 계약 개발 분야의 전문 지식을 보유하고 있습니다."
         },
         {
-            title: "Agile Development and Business Collaboration",
-            description: "Experience working closely with both local and international teams, business users, and vendors, promoting efficient communication. Experience in Agile, Waterfall, and Hybrid development approaches."
+            title: "애자일 개발 및 비즈니스 협업",
+            description: "국내외 팀, 비즈니스 사용자 및 공급업체와 긴밀히 협력하여 효율적인 커뮤니케이션을 촉진한 경험이 있습니다. 애자일, 워터폴 및 하이브리드 개발 방식에 대한 경험이 있습니다."
         }
     ]
 };

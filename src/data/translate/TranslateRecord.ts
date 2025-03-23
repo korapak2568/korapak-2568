@@ -9,5 +9,7 @@ export const TranslateRecord: Record<string, ITranslate> = {
     'zh': {value: 'zh', label: '中国人 - ZH'},
     'de': {value: 'de', label: 'German - DE'},
     'nl': {value: 'nl', label: 'Dutch - NL'},
-    'da': {value: 'da', label: 'Danish - DA'}
+    'da': {value: 'da', label: 'Danish - DA'},
+    'fi': {value: 'fi', label: 'Finland - FI'},
+    'ko': {value: 'ko', label: 'South Korea - KO'}
 }
