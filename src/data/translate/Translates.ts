@@ -1,48 +1,16 @@
 import {ITranslate} from "@/data/translate/model/ITranslate";
+import {Languages} from "@/data/translate/Languages";
 
 export const Translates: ITranslate[] = [
-    {
-        value: "en",
-        label: "English - EN",
-    },
-    {
-        value: "th",
-        label: "ภาษาไทย - TH",
-    },
-    {
-        value: "fr",
-        label: "Français - FR",
-    },
-    {
-        value: "ja",
-        label: "日本語 - JA",
-    },
-    {
-        value: "vi",
-        label: "Tiếng Việt - VI",
-    },
-    {
-        value: "zh",
-        label: "中国人 - ZH",
-    },
-    {
-        value: "de",
-        label: "German - DE",
-    },
-    {
-        value: "nl",
-        label: "Dutch - NL",
-    },
-    {
-        value: "da",
-        label: "Danish - DA",
-    },
-    {
-        value: "fi",
-        label: "Finland - FI",
-    },
-    {
-        value: "ko",
-        label: "South Korea - KO",
-    },
+    Languages.en,
+    Languages.th,
+    Languages.fr,
+    Languages.ja,
+    Languages.vi,
+    Languages.zh,
+    Languages.de,
+    Languages.nl,
+    Languages.da,
+    Languages.fi,
+    Languages.ko,
 ]

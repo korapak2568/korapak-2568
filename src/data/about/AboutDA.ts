@@ -16,8 +16,8 @@ export const AboutDA: IAbout = {
             description: "Arbejder med dybdegående systemanalyse, tekniske anbefalinger, support til forretningskritiske applikationer for at sikre pålidelighed, troværdighed og effektivitet af systemer, systemoptimering, QA/Test, LLM/AI og implementering af avanceret teknologi for at muliggøre bæredygtig forretningsdrift."
         },
         {
-            title: "Full-Stack Engineering",
-            description: "Full-stack systemingeniørarbejde, design, udvikling og forbedring ved hjælp af banebrydende teknologier. Ekspertise inden for frontend, backend, cloud, blockchain, fuld softwareudvikling, Web & API, Web3, dApp-læring og udvikling af smart contracts."
+            title: "Software Udviklingsteknik",
+            description: "Udvikling af skræddersyede hjemmesider og softwaresystemer ved hjælp af banebrydende teknologier. Specialisering i frontend, backend, cloud-løsninger, blockchain, Web3 og udvikling af smart contracts."
         },
         {
             title: "Agil Udvikling og Forretningssamarbejde",

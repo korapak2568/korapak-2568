@@ -1,7 +1,7 @@
 import type {MetadataRoute} from 'next';
 
 const BASE_URL = 'https://chorn.in.th';
-const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'na', 'fi', 'ko'] as const;
+const locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da', 'fi', 'ko'] as const;
 const staticPaths = [
     '',
     '/404',

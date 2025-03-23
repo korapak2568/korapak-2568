@@ -16,8 +16,8 @@ export const AboutNL: IAbout = {
             description: "Werkt aan diepgaande systeemanalyse, technische aanbevelingen, ondersteuning voor bedrijfskritische applicaties om betrouwbaarheid, geloofwaardigheid en efficiëntie van systemen te waarborgen, systeemoptimalisatie, QA/Testing, LLM/AI en implementatie van geavanceerde technologie om duurzame bedrijfsvoering mogelijk te maken."
         },
         {
-            title: "Full-Stack Engineering",
-            description: "Full-stack systeemengineering, ontwerp, ontwikkeling en verbetering met behulp van geavanceerde technologieën. Expertise in frontend, backend, cloud, blockchain, volledige softwareontwikkeling, Web & API, Web3, dApp-leren en smart contract-ontwikkeling."
+            title: "Software Ontwikkelingstechniek",
+            description: "Ontwikkeling van aangepaste websites en softwaresystemen met gebruik van geavanceerde technologieën. Gespecialiseerd in frontend, backend, cloudoplossingen, blockchain, Web3, en smart contract ontwikkeling."
         },
         {
             title: "Agile Ontwikkeling en Zakelijke Samenwerking",

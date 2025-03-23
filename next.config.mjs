@@ -16,6 +16,11 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/ai-companions',
+                destination: '/en/ai-companions/',
+                permanent: true,
+            },
+            {
                 source: '/contact',
                 destination: 'https://www.linkedin.com/in/khachornchit/',
                 permanent: true,

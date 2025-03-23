@@ -45,7 +45,7 @@ export const AiFahEN: IAiLanding = {
                     description: "Enjoy tailored interactions that feel natural and human-like."
                 },
                 {
-                    title: "Language Learning Made Fun",
+                    title: "Languages Learning Made Fun",
                     description: "Practice languages with a cheerful guide who makes learning enjoyable."
                 }
             ]

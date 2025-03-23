@@ -16,8 +16,8 @@ export const AboutFI: IAbout = {
             description: "Työskentelee syvällisen järjestelmäanalyysin, teknisten suositusten, liiketoiminnalle kriittisten sovellusten tuen parissa varmistaakseen luotettavuuden, järjestelmän uskottavuuden ja tehokkuuden, järjestelmän optimoinnin, QA/testauksen, LLM/AI:n ja edistyneen teknologian käyttöönoton mahdollistaakseen kestävän liiketoiminnan."
         },
         {
-            title: "Full-Stack-kehitys",
-            description: "Full-stack-järjestelmäkehitys, suunnittelu, toteutus ja parantaminen käyttäen huippuluokan teknologioita. Asiantuntemus frontend-, backend-, pilvi-, lohkoketju-, full-cycle ohjelmistokehityksessä, Web & API, Web3, dApp-oppimisessa ja älysopimusten kehittämisessä."
+            title: "Ohjelmistokehitystekniikka",
+            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehitys huipputeknologiaa käyttäen. Erikoisalana frontend-, backend-, pilviratkaisujen, lohkoketjun, Web3:n ja älysopimusten kehitys."
         },
         {
             title: "Ketterä kehitys ja liiketoimintayhteistyö",

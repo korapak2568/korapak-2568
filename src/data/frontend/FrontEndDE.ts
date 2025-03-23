@@ -113,7 +113,7 @@ export const FrontEndDE: IFrontEnd = {
         "features": [
             {
                 title: "HTML5-Webdesign",
-                description: "HTML5 ist die neueste Version der HyperText Markup Language, die neue Elemente und APIs für ein reichhaltigeres Web-Erlebnis einführt.",
+                description: "HTML5 ist die neueste Version der HyperText Markup Languages, die neue Elemente und APIs für ein reichhaltigeres Web-Erlebnis einführt.",
                 "list": []
             },
             {
@@ -138,7 +138,7 @@ export const FrontEndDE: IFrontEnd = {
         "faqs": [
             {
                 "question": "Was ist HTML5?",
-                "answer": "HTML5 ist die neueste Version der HyperText Markup Language, die neue Funktionen und Elemente einführt."
+                "answer": "HTML5 ist die neueste Version der HyperText Markup Languages, die neue Funktionen und Elemente einführt."
             },
             {
                 "question": "Was sind die neuen semantischen Elemente?",

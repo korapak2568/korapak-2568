@@ -16,8 +16,8 @@ export const AboutFR: IAbout = {
             description: "Travaille sur l'analyse approfondie des systèmes, les recommandations techniques, le support pour les applications critiques pour l'entreprise afin d'assurer la fiabilité, la crédibilité et l'efficacité du système, l'optimisation du système, QA/Tests, LLM/IA et l'implémentation de technologies avancées pour permettre des opérations commerciales durables."
         },
         {
-            title: "Ingénierie Full-Stack",
-            description: "Ingénierie de systèmes full-stack, conception, développement et amélioration utilisant des technologies de pointe. Expertise en frontend, backend, cloud, blockchain, développement logiciel complet, Web & API, Web3, apprentissage dApp et développement de contrats intelligents."
+            title: "Ingénierie de Développement Logiciel",
+            description: "Développement de sites web et de systèmes logiciels personnalisés utilisant des technologies de pointe. Spécialisation dans le développement frontend, backend, solutions cloud, blockchain, Web3, et développement de contrats intelligents."
         },
         {
             title: "Développement Agile et Collaboration Commerciale",

@@ -16,8 +16,8 @@ export const AboutEN: IAbout = {
             description: "Works on in-depth system analysis, technical recommendations, support for business-critical applications to ensure reliability, system credibility and efficiency, system optimization, QA/Testing, LLM/AI and advanced technology implementation to enable sustainable business operations."
         },
         {
-            title: "Full-Stack Engineering",
-            description: "Full-stack system engineering, design, development, and improvement using cutting-edge technologies. Expertise in frontend, backend, cloud, blockchain, full-cycle software development, Web & API, Web3, dApp learning, and smart contract development."
+            title: "Software Development Engineering",
+            description: "Custom website and software system development using cutting-edge technologies. Specializing in frontend, backend, cloud solutions, blockchain, Web3, and smart contract development."
         },
         {
             title: "Agile Development and Business Collaboration",

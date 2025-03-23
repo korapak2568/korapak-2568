@@ -16,8 +16,8 @@ export const AboutVI: IAbout = {
             description: "Làm việc về phân tích hệ thống chuyên sâu, khuyến nghị kỹ thuật, hỗ trợ cho các ứng dụng quan trọng trong kinh doanh để đảm bảo độ tin cậy, uy tín và hiệu quả của hệ thống, tối ưu hóa hệ thống, QA/Kiểm thử, LLM/AI và triển khai công nghệ tiên tiến để cho phép hoạt động kinh doanh bền vững."
         },
         {
-            title: "Kỹ thuật Full-Stack",
-            description: "Kỹ thuật hệ thống full-stack, thiết kế, phát triển và cải tiến sử dụng công nghệ tiên tiến. Chuyên môn về frontend, backend, đám mây, blockchain, phát triển phần mềm toàn chu kỳ, Web & API, Web3, học dApp và phát triển hợp đồng thông minh."
+            title: "Kỹ Thuật Phát Triển Phần Mềm",
+            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng công nghệ tiên tiến. Chuyên về phát triển frontend, backend, giải pháp đám mây, blockchain, Web3, và phát triển hợp đồng thông minh."
         },
         {
             title: "Phát triển Agile và Hợp tác Kinh doanh",
