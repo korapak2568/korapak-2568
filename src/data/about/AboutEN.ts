@@ -1,27 +1,31 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutEN: IAbout = {
-    title: "About CHORN",
+    title: "ABOUT CHORN",
     span: "System Analysis and Software Solutions",
-    subTitle: "Innovative Technology for Business Success",
+    subTitle: "Technological Innovation for Business Success",
     description: [
         {
             title: "",
-            description: "CHORN was launched in March 2023 by K.Khachornchit, offering expertise in technology and software development. With an electrical engineering background and over 20 years of experience, he specializes in system architecture, business analysis, full-stack software engineering, Web & API development, QA/Testing, DevOps, LLM/AI integration, cloud solution implementation, and provides remote, hybrid, and on-site services in Chiang Mai, Bangkok, Thailand, and internationally."
-        }
+            description: "CHORN was launched in March 2023 by K.Khachornchit, offering expertise in technology and software development. With an electrical engineering background and over 20 years of experience, he specializes in system architecture, business analysis, full-cycle software development engineering, web development, API (Application Programming Interface) development, software quality assurance and testing (Software QA/Testing), and DevOps (Development + Operations) development."
+        },
+        {
+            title: "",
+            description: "Integration of LLM (Large Language Model) and AI (Artificial Intelligence) solutions, cloud system implementation, remote services, hybrid working arrangements, office-based work in Chiang Mai, Bangkok, Thailand and internationally."
+        },
     ],
     stacks: [
         {
             title: "System Analysis and Technical Support",
-            description: "Works on in-depth system analysis, technical recommendations, support for business-critical applications to ensure reliability, system credibility and efficiency, system optimization, QA/Testing, LLM/AI and advanced technology implementation to enable sustainable business operations."
+            description: "Experience in in-depth system analysis, technical recommendations, and support for business-critical applications to ensure system reliability and operational efficiency. System optimization improvements, QA/Testing, LLM/AI, and implementation of cutting-edge technologies for sustainable business operations."
         },
         {
             title: "Software Development Engineering",
-            description: "Custom website and software system development using cutting-edge technologies. Specializing in frontend, backend, cloud solutions, blockchain, Web3, and smart contract development."
+            description: "Website and custom software system development using advanced technologies. Software development with modern frameworks. Expertise in frontend, backend, cloud solutions, blockchain, Web3, and smart contract development."
         },
         {
-            title: "Agile Development and Business Collaboration",
-            description: "Experience working closely with both local and international teams, business users, and vendors, promoting efficient communication. Experience in Agile, Waterfall, and Hybrid development approaches."
+            title: "Agile Software Development, Coordination with Business Teams",
+            description: "Experience in agile software development and coordination with business teams. Experience working closely with teams both domestically and internationally, internal and external clients, business users, and vendors. Continuous improvement projects in Agile, Waterfall, and Hybrid formats."
         }
     ]
 };

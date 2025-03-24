@@ -1,27 +1,31 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutNL: IAbout = {
-    title: "Over CHORN",
+    title: "OVER CHORN",
     span: "Systeemanalyse en Softwareoplossingen",
-    subTitle: "Innovatieve Technologie voor Zakelijk Succes",
+    subTitle: "Technologische Innovatie voor Zakelijk Succes",
     description: [
         {
             title: "",
-            description: "CHORN werd in maart 2023 gelanceerd door K.Khachornchit, met expertise in technologie en softwareontwikkeling. Met een achtergrond in elektrotechniek en meer dan 20 jaar ervaring, is hij gespecialiseerd in systeemarchitectuur, bedrijfsanalyse, full-stack software engineering, Web & API ontwikkeling, QA/Testing, DevOps, LLM/AI integratie, cloud-oplossingen, en biedt remote, hybride en on-site diensten in Chiang Mai, Bangkok, Thailand en internationaal."
-        }
+            description: "CHORN werd in maart 2023 gelanceerd door K.Khachornchit, met expertise in technologie en softwareontwikkeling. Met een achtergrond in elektrotechniek en meer dan 20 jaar ervaring, is hij gespecialiseerd in systeemarchitectuur, bedrijfsanalyse, full-cycle softwareontwikkeling, webontwikkeling, API (Application Programming Interface) ontwikkeling, software kwaliteitsborging en testen (QA/Testing), en DevOps (Development + Operations) ontwikkeling."
+        },
+        {
+            title: "",
+            description: "Integratie van LLM (Large Language Model) en AI (Artificial Intelligence) oplossingen, cloudimplementaties, dienstverlening op afstand, hybride werkregelingen, kantoorwerk in Chiang Mai, Bangkok, Thailand en internationaal."
+        },
     ],
     stacks: [
         {
             title: "Systeemanalyse en Technische Ondersteuning",
-            description: "Werkt aan diepgaande systeemanalyse, technische aanbevelingen, ondersteuning voor bedrijfskritische applicaties om betrouwbaarheid, geloofwaardigheid en efficiëntie van systemen te waarborgen, systeemoptimalisatie, QA/Testing, LLM/AI en implementatie van geavanceerde technologie om duurzame bedrijfsvoering mogelijk te maken."
+            description: "Ervaring in diepgaande systeemanalyse, technische aanbevelingen en ondersteuning voor bedrijfskritische applicaties om systeembetrouwbaarheid en operationele efficiëntie te waarborgen. Systeemoptimalisatie verbeteringen, QA/Testen, LLM/AI, en implementatie van geavanceerde technologieën voor duurzame bedrijfsvoering."
         },
         {
-            title: "Software Ontwikkelingstechniek",
-            description: "Ontwikkeling van aangepaste websites en softwaresystemen met gebruik van geavanceerde technologieën. Gespecialiseerd in frontend, backend, cloudoplossingen, blockchain, Web3, en smart contract ontwikkeling."
+            title: "Softwareontwikkeling",
+            description: "Website- en op maat gemaakte softwaresysteemontwikkeling met geavanceerde technologieën. Softwareontwikkeling met moderne frameworks. Expertise in frontend, backend, cloudoplossingen, blockchain, Web3, en smart contract ontwikkeling."
         },
         {
-            title: "Agile Ontwikkeling en Zakelijke Samenwerking",
-            description: "Ervaring in nauwe samenwerking met zowel lokale als internationale teams, zakelijke gebruikers en leveranciers, waarbij efficiënte communicatie wordt bevorderd. Ervaring in Agile, Waterfall en Hybride ontwikkelingsbenaderingen."
+            title: "Agile Softwareontwikkeling, Coördinatie met Businessteams",
+            description: "Ervaring in agile softwareontwikkeling en coördinatie met businessteams. Ervaring in nauwe samenwerking met teams zowel binnen- als buitenlands, interne en externe klanten, zakelijke gebruikers en leveranciers. Continue verbeteringsprojecten in Agile, Waterfall en Hybride formaten."
         }
     ]
 };

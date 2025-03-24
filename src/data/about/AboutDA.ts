@@ -1,27 +1,31 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutDA: IAbout = {
-    title: "Om CHORN",
+    title: "OM CHORN",
     span: "Systemanalyse og Softwareløsninger",
-    subTitle: "Innovativ Teknologi til Forretningsmæssig Succes",
+    subTitle: "Teknologisk Innovation for Forretningssucces",
     description: [
         {
             title: "",
-            description: "CHORN blev lanceret i marts 2023 af K.Khachornchit, der tilbyder ekspertise inden for teknologi og softwareudvikling. Med en baggrund inden for elektroingeniørvidenskab og over 20 års erfaring, er han specialiseret i systemarkitektur, forretningsanalyse, full-stack softwareudvikling, Web & API-udvikling, QA/Test, DevOps, LLM/AI-integration, implementering af cloud-løsninger og tilbyder fjern-, hybrid- og on-site-tjenester i Chiang Mai, Bangkok, Thailand og internationalt."
-        }
+            description: "CHORN blev lanceret i marts 2023 af K.Khachornchit, med ekspertise inden for teknologi og softwareudvikling. Med en baggrund i elektroingeniørvidenskab og over 20 års erfaring, specialiserer han sig i systemarkitektur, forretningsanalyse, fuld-cyklus softwareudviklingsengineering, webudvikling, API (Application Programming Interface) udvikling, software kvalitetssikring og test (QA/Testing), og DevOps (Development + Operations) udvikling."
+        },
+        {
+            title: "",
+            description: "Integration af LLM (Large Language Model) og AI (Artificial Intelligence) løsninger, cloud-systemimplementering, fjernservice, hybride arbejdsordninger, kontor-baseret arbejde i Chiang Mai, Bangkok, Thailand og internationalt."
+        },
     ],
     stacks: [
         {
             title: "Systemanalyse og Teknisk Support",
-            description: "Arbejder med dybdegående systemanalyse, tekniske anbefalinger, support til forretningskritiske applikationer for at sikre pålidelighed, troværdighed og effektivitet af systemer, systemoptimering, QA/Test, LLM/AI og implementering af avanceret teknologi for at muliggøre bæredygtig forretningsdrift."
+            description: "Erfaring med dybdegående systemanalyse, tekniske anbefalinger og support til forretningskritiske applikationer for at sikre systemets pålidelighed og driftsmæssige effektivitet. Systemoptimeringsforbedringer, QA/Test, LLM/AI og implementering af banebrydende teknologier til bæredygtig forretningsdrift."
         },
         {
-            title: "Software Udviklingsteknik",
-            description: "Udvikling af skræddersyede hjemmesider og softwaresystemer ved hjælp af banebrydende teknologier. Specialisering i frontend, backend, cloud-løsninger, blockchain, Web3 og udvikling af smart contracts."
+            title: "Softwareudviklingsengineering",
+            description: "Udvikling af hjemmesider og skræddersyede softwaresystemer ved brug af avancerede teknologier. Softwareudvikling med moderne frameworks. Ekspertise inden for frontend, backend, cloud-løsninger, blockchain, Web3 og smart contract-udvikling."
         },
         {
-            title: "Agil Udvikling og Forretningssamarbejde",
-            description: "Erfaring med at arbejde tæt sammen med både lokale og internationale teams, forretningsbrugere og leverandører, der fremmer effektiv kommunikation. Erfaring med Agile, Waterfall og Hybrid udviklingstilgange."
+            title: "Agil Softwareudvikling, Koordinering med Forretningsteams",
+            description: "Erfaring med agil softwareudvikling og koordinering med forretningsteams. Erfaring med tæt samarbejde med teams både indenlands og internationalt, interne og eksterne kunder, forretningsbrugere og leverandører. Kontinuerlige forbedringsprojekter i Agile, Waterfall og Hybrid formater."
         }
     ]
 };

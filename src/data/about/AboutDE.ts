@@ -1,27 +1,31 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutDE: IAbout = {
-    title: "Über CHORN",
+    title: "ÜBER CHORN",
     span: "Systemanalyse und Softwarelösungen",
-    subTitle: "Innovative Technologie für Geschäftserfolg",
+    subTitle: "Technologische Innovation für Geschäftserfolg",
     description: [
         {
             title: "",
-            description: "CHORN wurde im März 2023 von K.Khachornchit gegründet und bietet Fachwissen in Technologie und Softwareentwicklung. Mit einem Hintergrund in Elektrotechnik und über 20 Jahren Erfahrung ist er spezialisiert auf Systemarchitektur, Geschäftsanalyse, Full-Stack-Softwareentwicklung, Web- & API-Entwicklung, QA/Testing, DevOps, LLM/KI-Integration, Cloud-Lösungsimplementierung und bietet Remote-, Hybrid- und Vor-Ort-Dienste in Chiang Mai, Bangkok, Thailand und international an."
-        }
+            description: "CHORN wurde im März 2023 von K.Khachornchit gegründet und bietet Fachwissen in Technologie und Softwareentwicklung. Mit einem Hintergrund in Elektrotechnik und über 20 Jahren Erfahrung spezialisiert er sich auf Systemarchitektur, Geschäftsanalyse, Full-Cycle-Softwareentwicklung, Webentwicklung, API (Application Programming Interface) Entwicklung, Software-Qualitätssicherung und Testing (QA/Testing), und DevOps (Development + Operations) Entwicklung."
+        },
+        {
+            title: "",
+            description: "Integration von LLM (Large Language Model) und KI (Künstliche Intelligenz) Lösungen, Cloud-System-Implementierung, Fernservices, hybride Arbeitsregelungen, bürobasierte Arbeit in Chiang Mai, Bangkok, Thailand und international."
+        },
     ],
     stacks: [
         {
-            title: "Systemanalyse und technischer Support",
-            description: "Arbeitet an tiefgehender Systemanalyse, technischen Empfehlungen, Support für geschäftskritische Anwendungen zur Sicherstellung der Zuverlässigkeit, Glaubwürdigkeit und Effizienz des Systems, Systemoptimierung, QA/Testing, LLM/KI und Implementierung fortschrittlicher Technologien, um nachhaltige Geschäftsabläufe zu ermöglichen."
+            title: "Systemanalyse und Technischer Support",
+            description: "Erfahrung in tiefgreifender Systemanalyse, technischen Empfehlungen und Support für geschäftskritische Anwendungen, um Systemzuverlässigkeit und Betriebseffizienz zu gewährleisten. Systemoptimierungsverbesserungen, QA/Testing, LLM/KI und Implementierung modernster Technologien für nachhaltigen Geschäftsbetrieb."
         },
         {
-            title: "Software-Entwicklungstechnik",
-            description: "Entwicklung maßgeschneiderter Websites und Softwaresysteme mit Spitzentechnologien. Spezialisierung auf Frontend-, Backend-, Cloud-Lösungen, Blockchain, Web3 und Smart-Contract-Entwicklung."
+            title: "Softwareentwicklung",
+            description: "Website- und kundenspezifische Softwaresystementwicklung unter Verwendung fortschrittlicher Technologien. Softwareentwicklung mit modernen Frameworks. Expertise in Frontend, Backend, Cloud-Lösungen, Blockchain, Web3 und Smart-Contract-Entwicklung."
         },
         {
-            title: "Agile Entwicklung und Geschäftszusammenarbeit",
-            description: "Erfahrung in der engen Zusammenarbeit mit lokalen und internationalen Teams, Geschäftsanwendern und Anbietern, wobei effiziente Kommunikation gefördert wird. Erfahrung in agilen, Wasserfall- und hybriden Entwicklungsansätzen."
+            title: "Agile Softwareentwicklung, Koordination mit Geschäftsteams",
+            description: "Erfahrung in agiler Softwareentwicklung und Koordination mit Geschäftsteams. Erfahrung in enger Zusammenarbeit mit Teams im In- und Ausland, internen und externen Kunden, Geschäftsanwendern und Lieferanten. Kontinuierliche Verbesserungsprojekte in Agile-, Waterfall- und Hybrid-Formaten."
         }
     ]
 };

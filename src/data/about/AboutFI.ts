@@ -1,27 +1,31 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutFI: IAbout = {
-    title: "Tietoa CHORN:ista",
-    span: "Järjestelmäanalyysi ja ohjelmistoratkaisut",
-    subTitle: "Innovatiivista teknologiaa liiketoiminnan menestykseen",
+    title: "TIETOA CHORN:ISTA",
+    span: "Järjestelmäanalyysi ja Ohjelmistoratkaisut",
+    subTitle: "Teknologinen Innovaatio Liiketoiminnan Menestykseen",
     description: [
         {
             title: "",
-            description: "CHORN perustettiin maaliskuussa 2023 K.Khachornchitin toimesta, tarjoten asiantuntemusta teknologiassa ja ohjelmistokehityksessä. Sähkötekniikan taustalla ja yli 20 vuoden kokemuksella hän on erikoistunut järjestelmäarkkitehtuuriin, liiketoiminta-analyysiin, full-stack ohjelmistokehitykseen, Web & API-kehitykseen, QA/testaukseen, DevOps:iin, LLM/AI-integraatioon, pilviratkaisujen toteutukseen, ja tarjoaa etä-, hybridi- ja paikan päällä -palveluja Chiang Maissa, Bangkokissa, Thaimaassa ja kansainvälisesti."
-        }
+            description: "CHORN perustettiin maaliskuussa 2023 K.Khachornchitin toimesta, tarjoten asiantuntemusta teknologian ja ohjelmistokehityksen alalla. Sähkötekniikan taustalla ja yli 20 vuoden kokemuksella hän on erikoistunut järjestelmäarkkitehtuuriin, liiketoiminta-analyysiin, täyden syklin ohjelmistokehitykseen, verkkokehitykseen, API (Application Programming Interface) -kehitykseen, ohjelmistojen laadunvarmistukseen ja testaukseen (QA/Testing), ja DevOps (Development + Operations) -kehitykseen."
+        },
+        {
+            title: "",
+            description: "LLM (Large Language Model) ja tekoälyn (AI) ratkaisujen integrointi, pilvipalvelujen käyttöönotto, etäpalvelut, hybridityöjärjestelyt, toimistotyöskentely Chiang Maissa, Bangkokissa, Thaimaassa ja kansainvälisesti."
+        },
     ],
     stacks: [
         {
-            title: "Järjestelmäanalyysi ja tekninen tuki",
-            description: "Työskentelee syvällisen järjestelmäanalyysin, teknisten suositusten, liiketoiminnalle kriittisten sovellusten tuen parissa varmistaakseen luotettavuuden, järjestelmän uskottavuuden ja tehokkuuden, järjestelmän optimoinnin, QA/testauksen, LLM/AI:n ja edistyneen teknologian käyttöönoton mahdollistaakseen kestävän liiketoiminnan."
+            title: "Järjestelmäanalyysi ja Tekninen Tuki",
+            description: "Kokemus syvällisestä järjestelmäanalyysista, teknisistä suosituksista ja tuesta liiketoimintakriittisille sovelluksille järjestelmän luotettavuuden ja toiminnallisen tehokkuuden varmistamiseksi. Järjestelmän optimoinnin parannukset, QA/Testaus, LLM/Tekoäly ja huippuluokan teknologioiden käyttöönotto kestävää liiketoimintaa varten."
         },
         {
             title: "Ohjelmistokehitystekniikka",
-            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehitys huipputeknologiaa käyttäen. Erikoisalana frontend-, backend-, pilviratkaisujen, lohkoketjun, Web3:n ja älysopimusten kehitys."
+            description: "Verkkosivujen ja räätälöityjen ohjelmistojärjestelmien kehittäminen käyttäen edistyneitä teknologioita. Ohjelmistokehitys moderneilla sovelluskehyksillä. Asiantuntemus front-endissä, back-endissä, pilvessä, lohkoketjussa, Web3:ssa ja älysopimusten kehittämisessä."
         },
         {
-            title: "Ketterä kehitys ja liiketoimintayhteistyö",
-            description: "Kokemus työskentelystä tiiviisti sekä paikallisten että kansainvälisten tiimien, liiketoimintakäyttäjien ja toimittajien kanssa, edistäen tehokasta viestintää. Kokemus ketterissä, vesiputous- ja hybridikehitysmenetelmissä."
+            title: "Ketterä Ohjelmistokehitys, Koordinointi Liiketoimintatiimien kanssa",
+            description: "Kokemus ketterästä ohjelmistokehityksestä ja koordinoinnista liiketoimintatiimien kanssa. Kokemus tiiviistä yhteistyöstä sekä kotimaisten että kansainvälisten tiimien, sisäisten ja ulkoisten asiakkaiden, liiketoimintakäyttäjien ja toimittajien kanssa. Jatkuvan parantamisen projektit Agile-, Waterfall- ja Hybrid-muodoissa."
         }
     ]
 };
