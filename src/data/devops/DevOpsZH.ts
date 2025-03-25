@@ -116,7 +116,7 @@ export const DevOpsZH: IDevOps = {
                 title: "GitHub 的优势",
                 description: "GitHub 凭借其关键功能脱颖而出",
                 "list": [
-                    "ChornMetadata 控制",
+                    "MetadataChorn 控制",
                     "协作开发",
                     "拉取请求",
                     "问题跟踪",
@@ -212,7 +212,7 @@ export const DevOpsZH: IDevOps = {
                 title: "Strong Points of GitLab",
                 description: "GitLab stands out with its robust features",
                 list: [
-                    "ChornMetadata control",
+                    "MetadataChorn control",
                     "CI/CD",
                     "Project management",
                     "Code review",

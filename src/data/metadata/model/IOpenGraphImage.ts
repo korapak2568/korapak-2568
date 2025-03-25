@@ -1,4 +1,6 @@
 export interface IOpenGraphImage {
     url: string,
-    alt: string
+    width: number,
+    height: number,
+    alt: string,
 }

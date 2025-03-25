@@ -1,11 +1,11 @@
-import {IOpenGraphImage} from "@/data/metadata/model/IOpenGraphImage";
+import {IOpenGraphUnit} from "@/data/metadata/model/opengraph/IOpenGraphUnit";
 
 export interface IOpenGraphBackEnd {
-    main: IOpenGraphImage,
-    dotnetcore: IOpenGraphImage,
-    go: IOpenGraphImage,
-    java: IOpenGraphImage,
-    nodejs: IOpenGraphImage,
-    php: IOpenGraphImage,
-    python: IOpenGraphImage,
+    main: IOpenGraphUnit,
+    dotnetcore: IOpenGraphUnit,
+    go: IOpenGraphUnit,
+    java: IOpenGraphUnit,
+    nodejs: IOpenGraphUnit,
+    php: IOpenGraphUnit,
+    python: IOpenGraphUnit,
 }

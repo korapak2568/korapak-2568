@@ -1,22 +1,22 @@
-import {IOpenGraphImage} from "@/data/metadata/model/IOpenGraphImage";
+import {IOpenGraphUnit} from "@/data/metadata/model/opengraph/IOpenGraphUnit";
 import {IOpenGraphFrontEnd} from "@/data/metadata/model/opengraph/IOpenGraphFrontEnd";
 import {IOpenGraphBackEnd} from "@/data/metadata/model/opengraph/IOpenGraphBackEnd";
 import {IOpenGraphDevOps} from "@/data/metadata/model/opengraph/IOpenGraphDevOps";
 
 export interface IOpenGraph {
-    home: IOpenGraphImage,
-    llmAi: IOpenGraphImage,
-    aiCompanions: IOpenGraphImage,
-    aiFah: IOpenGraphImage,
-    aiAom: IOpenGraphImage,
-    aiPloy: IOpenGraphImage,
-    gallery: IOpenGraphImage,
-    about: IOpenGraphImage,
-    contact: IOpenGraphImage,
+    home: IOpenGraphUnit,
+    llmAi: IOpenGraphUnit,
+    aiCompanions: IOpenGraphUnit,
+    aiFah: IOpenGraphUnit,
+    aiAom: IOpenGraphUnit,
+    aiPloy: IOpenGraphUnit,
+    gallery: IOpenGraphUnit,
+    about: IOpenGraphUnit,
+    contact: IOpenGraphUnit,
 
-    cloudSolutions: IOpenGraphImage,
-    webDevelopment: IOpenGraphImage,
-    blockchain: IOpenGraphImage,
+    cloudSolutions: IOpenGraphUnit,
+    webDevelopment: IOpenGraphUnit,
+    blockchain: IOpenGraphUnit,
 
     frontend: IOpenGraphFrontEnd,
     backend: IOpenGraphBackEnd,

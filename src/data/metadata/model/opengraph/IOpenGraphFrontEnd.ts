@@ -1,13 +1,13 @@
-import {IOpenGraphImage} from "@/data/metadata/model/IOpenGraphImage";
+import {IOpenGraphUnit} from "@/data/metadata/model/opengraph/IOpenGraphUnit";
 
 export interface IOpenGraphFrontEnd {
-    main: IOpenGraphImage,
-    angular: IOpenGraphImage,
-    css3: IOpenGraphImage,
-    html5: IOpenGraphImage,
-    javascript: IOpenGraphImage,
-    nextjs: IOpenGraphImage,
-    react: IOpenGraphImage,
-    typescript: IOpenGraphImage,
-    vue: IOpenGraphImage,
+    main: IOpenGraphUnit,
+    angular: IOpenGraphUnit,
+    css3: IOpenGraphUnit,
+    html5: IOpenGraphUnit,
+    javascript: IOpenGraphUnit,
+    nextjs: IOpenGraphUnit,
+    react: IOpenGraphUnit,
+    typescript: IOpenGraphUnit,
+    vue: IOpenGraphUnit,
 }

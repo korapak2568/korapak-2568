@@ -1,14 +1,14 @@
-import {IOpenGraphImage} from "@/data/metadata/model/IOpenGraphImage";
+import {IOpenGraphUnit} from "@/data/metadata/model/opengraph/IOpenGraphUnit";
 
 export interface IOpenGraphDevOps {
-    main: IOpenGraphImage,
-    appium: IOpenGraphImage,
-    docker: IOpenGraphImage,
-    github: IOpenGraphImage,
-    gitlab: IOpenGraphImage,
-    jenkins: IOpenGraphImage,
-    kube: IOpenGraphImage,
-    postman: IOpenGraphImage,
-    selenium: IOpenGraphImage,
-    soapui: IOpenGraphImage,
+    main: IOpenGraphUnit,
+    appium: IOpenGraphUnit,
+    docker: IOpenGraphUnit,
+    github: IOpenGraphUnit,
+    gitlab: IOpenGraphUnit,
+    jenkins: IOpenGraphUnit,
+    kube: IOpenGraphUnit,
+    postman: IOpenGraphUnit,
+    selenium: IOpenGraphUnit,
+    soapui: IOpenGraphUnit,
 }

@@ -7,9 +7,9 @@ import ServicesDetailsSelenium from "@/components/Services/cloud-devops/selenium
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 
-export const metadata: Metadata = ChornMetadata.devops.selenium
+export const metadata: Metadata = MetadataChorn.devops.selenium
 
 const Page = () => {
 

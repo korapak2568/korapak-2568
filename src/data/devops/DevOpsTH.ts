@@ -116,7 +116,7 @@ export const DevOpsTH: IDevOps = {
                 title: "จุดเด่นของ GitHub",
                 description: "GitHub โดดเด่นด้วยคุณสมบัติสำคัญ",
                 "list": [
-                    "การควบคุม ChornMetadata",
+                    "การควบคุม MetadataChorn",
                     "การพัฒนาแบบร่วมมือ",
                     "Pull requests",
                     "การติดตามปัญหา",
@@ -212,7 +212,7 @@ export const DevOpsTH: IDevOps = {
                 title: "Strong Points of GitLab",
                 description: "GitLab stands out with its robust features",
                 list: [
-                    "ChornMetadata control",
+                    "MetadataChorn control",
                     "CI/CD",
                     "Project management",
                     "Code review",

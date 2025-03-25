@@ -8,9 +8,9 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import ServicesCardWeb3Blockchain from "@/components/Services/web3-blockchain-development/ServicesCardWeb3Blockchain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Info} from "@/data/info/Info";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 
-export const metadata: Metadata = ChornMetadata.blockchain
+export const metadata: Metadata = MetadataChorn.blockchain
 
 const Page = () => {
     return (

@@ -1,7 +1,7 @@
-import {IBackEndMetadata} from "@/data/metadata/model/metadata/IBackEndMetadata";
-import {OpenGraph} from "@/data/metadata/OpenGraph";
+import {IMetadataBackEnd} from "@/data/metadata/model/metadata/IMetadataBackEnd";
+import {OpenGraph} from "@/data/metadata/opengraph/OpenGraph";
 
-export const BackEndMetadata: IBackEndMetadata = {
+export const MetadataBackEnd: IMetadataBackEnd = {
     main: {
         title: "Back-End & API Development Services | CHORN",
         description: "CHORN offers expert Back-End & API Development technical-expertise utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions.",

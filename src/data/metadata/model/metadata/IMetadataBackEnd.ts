@@ -1,6 +1,6 @@
 import {Metadata} from "next";
 
-export interface IBackEndMetadata {
+export interface IMetadataBackEnd {
     main: Metadata,
     dotnetcore: Metadata,
     go: Metadata,

@@ -7,9 +7,9 @@ import ServicesDetailsGitLab from "@/components/Services/cloud-devops/gitlab/Ser
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 
-export const metadata: Metadata = ChornMetadata.devops.gitlab
+export const metadata: Metadata = MetadataChorn.devops.gitlab
 
 const Page = () => {
 

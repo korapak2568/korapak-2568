@@ -12,10 +12,10 @@ import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
 import FlexibleWorkspace from "@/components/Gallery/FlexibleWorkspace";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 
-export const metadata: Metadata = ChornMetadata.home
+export const metadata: Metadata = MetadataChorn.home
 
 export default function Home() {
     const localBusinessSchema = {

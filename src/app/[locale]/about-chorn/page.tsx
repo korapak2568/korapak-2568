@@ -5,18 +5,23 @@ import AboutContent from "@/components/About/AboutContent";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
-import {InfoEN} from "@/data/info/InfoEN";
+import {headers} from "next/headers";
+import {MetadataAbout} from "@/data/metadata/about/common/MetadataAbout";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = ChornMetadata.about
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataAbout[locale]
+}
 
 export default function Page() {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoEN.About.title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].About.title}/>
 
             <AboutContent/>
 

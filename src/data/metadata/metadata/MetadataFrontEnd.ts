@@ -1,7 +1,7 @@
-import {IFrontEndMetadata} from "@/data/metadata/model/metadata/IFrontEndMetadata";
-import {OpenGraph} from "@/data/metadata/OpenGraph";
+import {IMetadataFrontEnd} from "@/data/metadata/model/metadata/IMetadataFrontEnd";
+import {OpenGraph} from "@/data/metadata/opengraph/OpenGraph";
 
-export const FrontEndMetadata: IFrontEndMetadata = {
+export const MetadataFrontEnd: IMetadataFrontEnd = {
     main: {
         title: "Frontend Development Services | CHORN",
         description: "CHORN provides expert frontend development technical-expertise, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies.",

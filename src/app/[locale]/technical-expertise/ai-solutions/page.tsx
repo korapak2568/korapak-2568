@@ -6,9 +6,9 @@ import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
 import {Info} from "@/data/info/Info";
 import AiSolutionsPage from "@/components/AiSolutions/AiSolutionsPage";
 import {Metadata} from "next";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 
-export const metadata: Metadata = ChornMetadata.llmAi;
+export const metadata: Metadata = MetadataChorn.llmAi;
 
 const Page = () => {
     return (

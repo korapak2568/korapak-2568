@@ -1,6 +1,6 @@
 import {Metadata} from "next";
 
-export interface IDevOpsMetadata {
+export interface IMetadataDevOps {
     main: Metadata,
     appium: Metadata,
     docker: Metadata,

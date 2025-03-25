@@ -1,13 +1,13 @@
-import {IChornMetadata} from "@/data/metadata/model/metadata/IChornMetadata";
-import {FrontEndMetadata} from "@/data/metadata/metadata/FrontEndMetadata";
-import {BackEndMetadata} from "@/data/metadata/metadata/BackEndMetadata";
-import {DevOpsMetadata} from "@/data/metadata/metadata/DevOpsMetadata";
-import {OpenGraph} from "@/data/metadata/OpenGraph";
+import {IMetadataChorn} from "@/data/metadata/model/metadata/IMetadataChorn";
+import {MetadataFrontEnd} from "@/data/metadata/metadata/MetadataFrontEnd";
+import {MetadataBackEnd} from "@/data/metadata/metadata/MetadataBackEnd";
+import {MetadataDevOps} from "@/data/metadata/metadata/MetadataDevOps";
+import {OpenGraph} from "@/data/metadata/opengraph/OpenGraph";
 
-export const ChornMetadata: IChornMetadata = {
+export const MetadataChorn: IMetadataChorn = {
 
     home: {
-        title: "CHORN | System Analysis & Full-Stack Development",
+        title: "CHORN | System Analysis & Full-Stack Software Development Engineering",
         description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
         icons: {
             icon: '/favicon.ico',
@@ -34,7 +34,7 @@ export const ChornMetadata: IChornMetadata = {
             }
         ],
         openGraph: {
-            title: "CHORN | System Analysis & Full-Stack Development",
+            title: "CHORN | System Analysis & Full-Stack Software Development Engineering",
             description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
             images: [
                 {
@@ -49,7 +49,7 @@ export const ChornMetadata: IChornMetadata = {
         },
         twitter: {
             card: "summary_large_image",
-            title: "CHORN | System Analysis & Full-Stack Development",
+            title: "CHORN | System Analysis & Full-Stack Software Development Engineering",
             description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
             images: [
                 OpenGraph.home.url,
@@ -380,7 +380,7 @@ export const ChornMetadata: IChornMetadata = {
         },
     },
     about: {
-        title: "About CHORN | System Analysis & Full-Stack Development",
+        title: "About CHORN | System Analysis & Full-Stack Software Development Engineering",
         description: "Discover CHORN's expertise in system analysis, full-stack development, and modern software solutions that drive business success.",
         alternates: {
             canonical: "https://chorn.in.th/en/about-chorn/",
@@ -404,7 +404,7 @@ export const ChornMetadata: IChornMetadata = {
             }
         ],
         openGraph: {
-            title: "CHORN - Experts in System Analysis & Full-Stack Development",
+            title: "CHORN - Experts in System Analysis & Full-Stack Software Development Engineering",
             description: "Explore CHORN's commitment to delivering cutting-edge system modernization, full-stack development, and technical support for businesses.",
             images: [
                 {
@@ -419,7 +419,7 @@ export const ChornMetadata: IChornMetadata = {
         },
         twitter: {
             card: "summary_large_image",
-            title: "CHORN - Leading System Analysis & Full-Stack Development",
+            title: "CHORN - Leading System Analysis & Full-Stack Software Development Engineering",
             description: "Unlock business potential with CHORN's advanced system analysis, full-stack development, and modern software solutions.",
             images: [
                 OpenGraph.about.url,
@@ -676,7 +676,7 @@ export const ChornMetadata: IChornMetadata = {
         ]
     },
 
-    frontend: FrontEndMetadata,
-    backend: BackEndMetadata,
-    devops: DevOpsMetadata
+    frontend: MetadataFrontEnd,
+    backend: MetadataBackEnd,
+    devops: MetadataDevOps
 }

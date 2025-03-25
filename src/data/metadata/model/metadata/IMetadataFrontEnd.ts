@@ -1,6 +1,6 @@
 import {Metadata} from "next";
 
-export interface IFrontEndMetadata {
+export interface IMetadataFrontEnd {
     main: Metadata,
     angular: Metadata,
     css3: Metadata,

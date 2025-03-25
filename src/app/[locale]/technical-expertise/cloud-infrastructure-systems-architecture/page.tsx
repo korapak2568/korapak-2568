@@ -8,9 +8,9 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesCardCloudInfrastructureSystemsArchitecture
     from "@/components/Services/cloud-infrastructure-systems-architecture/ServicesCardCloudInfrastructureSystemsArchitecture";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 
-export const metadata: Metadata = ChornMetadata.cloudSolutions
+export const metadata: Metadata = MetadataChorn.cloudSolutions
 
 const Page = () => {
     return (

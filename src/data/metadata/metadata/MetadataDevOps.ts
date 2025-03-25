@@ -1,7 +1,7 @@
-import {IDevOpsMetadata} from "@/data/metadata/model/metadata/IDevOpsMetadata";
-import {OpenGraph} from "@/data/metadata/OpenGraph";
+import {IMetadataDevOps} from "@/data/metadata/model/metadata/IMetadataDevOps";
+import {OpenGraph} from "@/data/metadata/opengraph/OpenGraph";
 
-export const DevOpsMetadata: IDevOpsMetadata = {
+export const MetadataDevOps: IMetadataDevOps = {
     main: {
         title: "DevOps & Testing Services | CHORN",
         description: "CHORN offers expert DevOps and testing technical-expertise to streamline your software development process. Ensure high performance and quality with our continuous integration, automated testing, and cloud-based solutions.",

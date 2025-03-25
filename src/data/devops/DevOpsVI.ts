@@ -116,7 +116,7 @@ export const DevOpsVI: IDevOps = {
                 title: "Điểm mạnh của GitHub",
                 description: "GitHub nổi bật với các tính năng chính của nó",
                 "list": [
-                    "Kiểm soát ChornMetadata",
+                    "Kiểm soát MetadataChorn",
                     "Phát triển cộng tác",
                     "Yêu cầu kéo (pull requests)",
                     "Theo dõi vấn đề",
@@ -212,7 +212,7 @@ export const DevOpsVI: IDevOps = {
                 title: "Strong Points of GitLab",
                 description: "GitLab stands out with its robust features",
                 list: [
-                    "ChornMetadata control",
+                    "MetadataChorn control",
                     "CI/CD",
                     "Project management",
                     "Code review",

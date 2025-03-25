@@ -116,7 +116,7 @@ export const DevOpsDA: IDevOps = {
                 title: "GitHubs stærke sider",
                 description: "GitHub udmærker sig med sine nøglefunktioner",
                 "list": [
-                    "ChornMetadata-kontrol",
+                    "MetadataChorn-kontrol",
                     "Samarbejdsudvikling",
                     "Pull-requests",
                     "Problemsporing",
@@ -212,7 +212,7 @@ export const DevOpsDA: IDevOps = {
                 title: "Strong Points of GitLab",
                 description: "GitLab stands out with its robust features",
                 list: [
-                    "ChornMetadata control",
+                    "MetadataChorn control",
                     "CI/CD",
                     "Project management",
                     "Code review",

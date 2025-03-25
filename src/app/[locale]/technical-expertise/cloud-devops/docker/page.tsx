@@ -7,9 +7,9 @@ import ServicesDetailsDocker from "@/components/Services/cloud-devops/docker/Ser
 import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 
-export const metadata: Metadata = ChornMetadata.devops.docker
+export const metadata: Metadata = MetadataChorn.devops.docker
 
 const Page = () => {
 

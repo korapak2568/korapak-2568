@@ -5,9 +5,9 @@ import Footer from "@/components/Layouts/Footer";
 import {Info} from "@/data/info/Info";
 import AiAomLandingPage from "@/components/AiCompanions/landing/AiAomLandingPage";
 import {Metadata} from "next";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 
-export const metadata: Metadata = ChornMetadata.aiAom
+export const metadata: Metadata = MetadataChorn.aiAom
 
 const Page = () => {
     return (

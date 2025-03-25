@@ -7,9 +7,9 @@ import ServicesCardFullStack from "@/components/Services/fullstack-development/S
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {ChornMetadata} from "@/data/metadata/ChornMetadata";
+import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 
-export const metadata: Metadata = ChornMetadata.backend.main
+export const metadata: Metadata = MetadataChorn.backend.main
 
 const Page = () => {
 
