@@ -68,20 +68,20 @@ export const FullStackZH: IFullStack = {
     go: {
         title: "GO",
         description: "Go，也称为Golang，是由谷歌设计的静态类型、编译型编程语言。它以简洁、高效和强大的并发支持而闻名，使其成为开发微服务的理想选择。",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
-        "alt": "代表Go编程语言的标志",
-        "readMore": "探索更多Go全栈开发解决方案",
-        "link": "/technical-expertise/full-stack-developer/go-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+        alt: "代表Go编程语言的标志",
+        readMore: "探索更多Go全栈开发解决方案",
+        link: "/technical-expertise/full-stack-developer/go-developer",
+        features: [
             {
                 title: "Go开发",
                 description: "Go，也称为Golang，是由谷歌设计的静态类型、编译型编程语言。它以简洁、高效和强大的并发支持而闻名，使其成为开发微服务的理想选择。",
-                "list": []
+                list: []
             },
             {
                 title: "高效并发",
                 description: "Go的goroutines和channels为并发编程提供了强大的支持，使开发人员能够构建高效且可扩展的应用程序。这使得Go成为开发需要同时处理多个任务的微服务的首选语言。",
-                "list": [
+                list: [
                     "并发编程",
                     "快速编译",
                     "简洁性",
@@ -94,26 +94,26 @@ export const FullStackZH: IFullStack = {
             {
                 title: "快速编译",
                 description: "Go快速编译为机器代码，从而实现快速执行时间。这种效率，结合其垃圾回收和静态类型，确保Go应用程序即使在高负载下也能表现出色。",
-                "list": []
+                list: []
             },
             {
                 title: "互操作性",
                 description: "Go的简洁性和清晰性使其易于与其他编程语言集成。这种互操作性使开发人员能够在应用程序的性能关键部分利用Go的优势，同时为不同的组件使用其他语言。",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "什么是Go？",
-                "answer": "Go是一种为简洁和性能而设计的静态类型、编译型编程语言。"
+                question: "什么是Go？",
+                answer: "Go是一种为简洁和性能而设计的静态类型、编译型编程语言。"
             },
             {
-                "question": "为什么使用Go？",
-                "answer": "Go提供快速性能、简洁性和强大的并发功能，使其非常适合Web服务器和微服务。"
+                question: "为什么使用Go？",
+                answer: "Go提供快速性能、简洁性和强大的并发功能，使其非常适合Web服务器和微服务。"
             },
             {
-                "question": "Go适合Web开发吗？",
-                "answer": "是的，Go非常适合构建快速且高效的Web服务器和API。"
+                question: "Go适合Web开发吗？",
+                answer: "是的，Go非常适合构建快速且高效的Web服务器和API。"
             }
         ]
     },
@@ -241,40 +241,40 @@ export const FullStackZH: IFullStack = {
         ],
         faqs: [
             {
-                "question": "什么是Node.js？",
-                "answer": "Node.js是一个JavaScript运行时，能够构建快速且可扩展的网络应用程序，使其非常适合I/O密集型任务和实时技术专业知识。"
+                question: "什么是Node.js？",
+                answer: "Node.js是一个JavaScript运行时，能够构建快速且可扩展的网络应用程序，使其非常适合I/O密集型任务和实时技术专业知识。"
             },
             {
-                "question": "Express.js用于什么？",
-                "answer": "Express.js是Node.js的轻量级框架，广泛用于以简单灵活的方式构建RESTful API和Web应用程序。"
+                question: "Express.js用于什么？",
+                answer: "Express.js是Node.js的轻量级框架，广泛用于以简单灵活的方式构建RESTful API和Web应用程序。"
             },
             {
-                "question": "Nest.js与Express.js有何不同？",
-                "answer": "Nest.js建立在Express.js之上，为构建可扩展、可维护和可测试的服务器端应用程序提供了一个有主见的架构，并强调TypeScript集成。"
+                question: "Nest.js与Express.js有何不同？",
+                answer: "Nest.js建立在Express.js之上，为构建可扩展、可维护和可测试的服务器端应用程序提供了一个有主见的架构，并强调TypeScript集成。"
             },
             {
-                "question": "Node.js可以用于AI吗？",
-                "answer": "是的，Node.js可以用于AI任务，利用TensorFlow.js等库或连接云AI技术专业知识进行自然语言处理、图像识别等。"
+                question: "Node.js可以用于AI吗？",
+                answer: "是的，Node.js可以用于AI任务，利用TensorFlow.js等库或连接云AI技术专业知识进行自然语言处理、图像识别等。"
             }
         ]
     },
     php: {
         title: "PHP",
         description: "PHP是一种广泛用于Web开发的流行服务器端脚本语言。像Symfony、Laravel、Phalcon等框架，以及像Twig这样的模板引擎，再加上WordPress及其无头变体等平台，通过提供结构化、高效且可扩展的解决方案来构建复杂的Web应用程序，从而提升了PHP开发水平。",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
-        "alt": "代表PHP编程语言的标志",
-        "readMore": "探索更多PHP全栈开发解决方案",
-        "link": "/technical-expertise/full-stack-developer/php-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+        alt: "代表PHP编程语言的标志",
+        readMore: "探索更多PHP全栈开发解决方案",
+        link: "/technical-expertise/full-stack-developer/php-developer",
+        features: [
             {
                 title: "PHP开发",
                 description: "PHP是一种广泛用于Web开发的流行服务器端脚本语言。像Symfony、Laravel、Phalcon等框架，以及像Twig这样的模板引擎，再加上WordPress及其无头变体等平台，通过提供结构化、高效且可扩展的解决方案来构建复杂的Web应用程序，从而提升了PHP开发水平。",
-                "list": []
+                list: []
             },
             {
                 title: "结构化开发",
                 description: "Symfony和Laravel为PHP开发提供了结构化的方法，推广最佳实践和设计模式。Symfony提供了一套可重用的组件，而Laravel则专注于通过其优雅的语法和工具提高开发人员的生产力。Symfony中使用的模板引擎Twig提供了灵活、安全和快速的模板设计方式。Phalcon作为以C扩展形式提供的高性能框架，提供低级优化和卓越的速度，确保高效的资源管理。",
-                "list": [
+                list: [
                     "服务器端脚本",
                     "易于学习",
                     "庞大的生态系统",
@@ -287,46 +287,46 @@ export const FullStackZH: IFullStack = {
             {
                 title: "快速开发",
                 description: "Laravel以其表达性语法和强大的工具而闻名，能够快速开发和部署Web应用程序。像Eloquent ORM、Blade模板引擎和Laravel Artisan命令行工具等功能简化了开发任务。Phalcon凭借其强大的性能和低级架构增强了快速开发。WordPress提供快速设置和大量插件和主题，使开发人员能够快速部署功能丰富的网站。无头WordPress将前端和后端分离，使用像React或Vue这样的现代JavaScript框架，实现动态和响应式的用户体验。",
-                "list": []
+                list: []
             },
             {
                 title: "社区和生态系统",
                 description: "PHP拥有庞大的社区和丰富的库、插件和框架生态系统。Symfony和Laravel都受益于活跃的社区支持、广泛的文档和许多第三方包，使PHP开发高效愉快。Phalcon拥有不断增长的社区，并提供详细的文档和教程来帮助开发人员。WordPress拥有庞大的生态系统和大量用户基础，提供众多插件和主题，而无头WordPress则利用现代前端框架的灵活性，得到强大社区和资源的支持。",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "PHP用来做什么？",
-                "answer": "PHP是为Web开发设计的服务器端脚本语言，广泛用于创建动态网页。"
+                question: "PHP用来做什么？",
+                answer: "PHP是为Web开发设计的服务器端脚本语言，广泛用于创建动态网页。"
             },
             {
-                "question": "什么是Symfony和Laravel？",
-                "answer": "Symfony和Laravel是流行的PHP框架，有助于开发强大且可扩展的Web应用程序。"
+                question: "什么是Symfony和Laravel？",
+                answer: "Symfony和Laravel是流行的PHP框架，有助于开发强大且可扩展的Web应用程序。"
             },
             {
-                "question": "为什么使用WordPress？",
-                "answer": "WordPress是基于PHP构建的多功能内容管理系统，非常适合创建博客、网站和在线商店。"
+                question: "为什么使用WordPress？",
+                answer: "WordPress是基于PHP构建的多功能内容管理系统，非常适合创建博客、网站和在线商店。"
             }
         ]
     },
     python: {
         title: "Python",
         description: "Python是一种高级解释型编程语言，以其简单性、可读性和多功能性而闻名。它被广泛应用于各个领域，从网络开发和数据分析到人工智能和科学计算。",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
-        "alt": "代表Python与Flask框架的标志",
-        "readMore": "探索更多Python、Flask、Django全栈开发解决方案",
-        "link": "/technical-expertise/full-stack-developer/python-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+        alt: "代表Python与Flask框架的标志",
+        readMore: "探索更多Python、Flask、Django全栈开发解决方案",
+        link: "/technical-expertise/full-stack-developer/python-developer",
+        features: [
             {
                 title: "Python开发",
                 description: "Python是一种高级解释型编程语言，以其简单性、可读性和多功能性而闻名。它被广泛应用于各个领域，从网络开发和数据分析到人工智能和科学计算。",
-                "list": []
+                list: []
             },
             {
                 title: "易学易用",
                 description: "Python的简单语法和可读性使其成为初学者和有经验的开发者的绝佳选择。其丰富的标准库和社区贡献的模块为各种任务提供了现成的解决方案。",
-                "list": [
+                list: [
                     "易于学习",
                     "可读性强的语法",
                     "多功能",
@@ -339,92 +339,92 @@ export const FullStackZH: IFullStack = {
             {
                 title: "多样化应用",
                 description: "Python被用于多个领域，包括使用Django和Flask等框架进行网络开发，使用pandas和NumPy等库进行数据科学，以及使用TensorFlow和scikit-learn进行机器学习。这种多功能性使Python成为许多开发者的首选语言。",
-                "list": []
+                list: []
             },
             {
                 title: "强大的社区支持",
                 description: "Python拥有一个活跃的社区，不断为其发展做出贡献。随着众多教程、论坛和开源项目的可用，开发者可以轻松找到支持和资源来提高技能和解决挑战。",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Python用来做什么？",
-                "answer": "Python用于网络开发、数据分析、人工智能、科学计算等多个领域。"
+                question: "Python用来做什么？",
+                answer: "Python用于网络开发、数据分析、人工智能、科学计算等多个领域。"
             },
             {
-                "question": "为什么Python如此受欢迎？",
-                "answer": "Python的简单性、可读性和多功能性使其成为初学者和有经验的开发者的热门选择。"
+                question: "为什么Python如此受欢迎？",
+                answer: "Python的简单性、可读性和多功能性使其成为初学者和有经验的开发者的热门选择。"
             },
             {
-                "question": "Python适合网络开发吗？",
-                "answer": "是的，Django和Flask等框架使Python成为网络开发的强大工具。"
+                question: "Python适合网络开发吗？",
+                answer: "是的，Django和Flask等框架使Python成为网络开发的强大工具。"
             }
         ],
-        "frameworks": [
+        frameworks: [
             {
-                "name": "Django",
-                "overview": "Django是一个高级Web框架，鼓励快速开发和简洁、实用的设计。",
-                "strengths": [
+                name: "Django",
+                overview: "Django是一个高级Web框架，鼓励快速开发和简洁、实用的设计。",
+                strengths: [
                     "内置功能齐全：自带许多内置功能，如ORM、认证和管理面板。",
                     "可扩展性：适用于大型应用。",
                     "安全性：包含针对许多常见安全威胁的内置保护。"
                 ],
-                "useCases": [
+                useCases: [
                     "大型Web应用",
                     "电子商务网站",
                     "内容管理系统"
                 ]
             },
             {
-                "name": "Flask",
-                "overview": "Flask是一个微型Web框架，提供了启动Web应用所需的基本要素，无需大量样板代码。",
-                "strengths": [
+                name: "Flask",
+                overview: "Flask是一个微型Web框架，提供了启动Web应用所需的基本要素，无需大量样板代码。",
+                strengths: [
                     "轻量级：极简主义且灵活。",
                     "可扩展：可以通过各种扩展轻松扩展。",
                     "易于学习：简单易懂，容易上手。"
                 ],
-                "useCases": [
+                useCases: [
                     "中小型应用",
                     "API接口",
                     "原型设计"
                 ]
             },
             {
-                "name": "FastAPI",
-                "overview": "FastAPI是一个现代、快速（高性能）的Web框架，用于基于Python 3.6+的标准类型提示建立API。",
-                "strengths": [
+                name: "FastAPI",
+                overview: "FastAPI是一个现代、快速（高性能）的Web框架，用于基于Python 3.6+的标准类型提示建立API。",
+                strengths: [
                     "速度：异步支持和高性能。",
                     "自动文档：生成OpenAPI和JSON Schema文档。",
                     "类型安全：使用Python类型提示进行验证和序列化。"
                 ],
-                "useCases": [
+                useCases: [
                     "API接口",
                     "微服务",
                     "实时应用"
                 ]
             },
             {
-                "name": "Pyramid",
-                "overview": "Pyramid是一个通用Web框架，旨在使编写Web应用变得容易。",
-                "strengths": [
+                name: "Pyramid",
+                overview: "Pyramid是一个通用Web框架，旨在使编写Web应用变得容易。",
+                strengths: [
                     "灵活性：可用于小型和大型应用。",
                     "定制化：高度可配置和模块化。",
                     "安全性：提供多种安全功能。"
                 ],
-                "useCases": [
+                useCases: [
                     "从微服务到大型Web应用的多样化应用"
                 ]
             },
             {
-                "name": "Tornado",
-                "overview": "Tornado是一个可扩展的、非阻塞的Web服务器和Web应用框架。",
-                "strengths": [
+                name: "Tornado",
+                overview: "Tornado是一个可扩展的、非阻塞的Web服务器和Web应用框架。",
+                strengths: [
                     "性能：设计用于处理长期网络连接。",
                     "实时：适用于实时Web应用。",
                     "可扩展性：可处理数千个并发连接。"
                 ],
-                "useCases": [
+                useCases: [
                     "实时应用",
                     "WebSockets",
                     "长轮询"
@@ -437,10 +437,10 @@ export const FullStackZH: IFullStack = {
 
     services: {
         title: "后端和API开发",
-        "descriptions": [
+        descriptions: [
             "通过我们专业的全栈开发服务，构建强大、安全且可扩展的网络应用程序。我们的开发人员在前端和后端技术方面都表现出色，创建针对您特定业务需求量身定制的综合解决方案。CHORN的技术专长涵盖多种技术栈，包括Node.js、.NET Core C#、Java Spring Boot、Python、Go和PHP，使我们能够处理任何复杂度的项目。无论您是启动初步概念验证(PoC)还是开发市场就绪的最小可行产品(MVP)，我们熟练的团队确保用户界面和服务器端功能之间的无缝集成，以提供卓越的用户体验。"
         ],
-        "items": [
+        items: [
             {
                 title: "无缝前端和后端集成",
                 description: "开发具有完美同步的客户端和服务器组件的完整网络应用程序，提供速度、安全性和可扩展性。"

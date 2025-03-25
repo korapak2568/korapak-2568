@@ -14,19 +14,19 @@ export const NavbarTH: INavbar[] = [
         submenu: [
             {
                 group: "/technical-expertise/",
-                label: "การพัฒนาเว็บและ API",
+                label: "การพัฒนาเว็บไซต์และเอพีไอ",
                 link: "/technical-expertise/web-development/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "การพัฒนา Front-End",
+                label: "การพัฒนาฝั่งหน้าบ้าน",
                 link: "/technical-expertise/front-end-developer/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "การพัฒนา Back-End & API",
+                label: "การพัฒนาฝั่งหลังบ้านและเอเพีไอ",
                 link: "/technical-expertise/full-stack-developer/",
                 submenu: [],
             },
@@ -39,13 +39,13 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "เพื่อนคุยเอไอ LINE แบบ LLM",
+                label: "เพื่อนคุยเอไอไลน์ด้วยแบบจำลองขนาดใหญ่",
                 link: "/ai-companions/fah/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "การเชื่อมต่อกับ LLM/AI",
+                label: "การเชื่อมต่อกับแบบจำลองขนาดใหญ่และเอไอ",
                 link: "/technical-expertise/ai-solutions/",
                 submenu: [],
             },
@@ -58,19 +58,19 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "Web3 และ Blockchain",
+                label: "เว็บ ๓ และบล็อกเชน",
                 link: "/technical-expertise/web3-blockchain-smart-contract-development/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "Cloud DevOps",
+                label: "คลาวด์ เดฟออปส์",
                 link: "/technical-expertise/cloud-devops/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "โซลูชัน Cloud",
+                label: "การแก้ไขปัญหาแบบคลาวด์",
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: [],
             },

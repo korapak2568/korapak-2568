@@ -68,20 +68,20 @@ export const FullStackFR: IFullStack = {
     go: {
         title: "GO",
         description: "Go, également connu sous le nom de Golang, est un langage de programmation compilé et à typage statique conçu par Google. Il est reconnu pour sa simplicité, son efficacité et son solide support de la concurrence, ce qui en fait un choix idéal pour le développement de microservices.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
-        "alt": "Logo représentant le langage de programmation Go",
-        "readMore": "Explorez davantage de solutions de développement full-stack Go",
-        "link": "/technical-expertise/full-stack-developer/go-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+        alt: "Logo représentant le langage de programmation Go",
+        readMore: "Explorez davantage de solutions de développement full-stack Go",
+        link: "/technical-expertise/full-stack-developer/go-developer",
+        features: [
             {
                 title: "Développement Go",
                 description: "Go, également connu sous le nom de Golang, est un langage de programmation compilé et à typage statique conçu par Google. Il est reconnu pour sa simplicité, son efficacité et son solide support de la concurrence, ce qui en fait un choix idéal pour le développement de microservices.",
-                "list": []
+                list: []
             },
             {
                 title: "Concurrence Efficace",
                 description: "Les goroutines et les canaux de Go offrent un support robuste pour la programmation concurrente, permettant aux développeurs de créer des applications hautement efficaces et évolutives. Cela fait de Go un langage privilégié pour développer des microservices qui nécessitent de gérer plusieurs tâches simultanément.",
-                "list": [
+                list: [
                     "Programmation concurrente",
                     "Compilation rapide",
                     "Simplicité",
@@ -94,26 +94,26 @@ export const FullStackFR: IFullStack = {
             {
                 title: "Compilation Rapide",
                 description: "Go se compile rapidement en code machine, ce qui se traduit par des temps d'exécution rapides. Cette efficacité, combinée à son garbage collection et à son typage statique, garantit que les applications Go fonctionnent bien, même sous des charges importantes.",
-                "list": []
+                list: []
             },
             {
                 title: "Interopérabilité",
                 description: "La simplicité et la clarté de Go facilitent son intégration avec d'autres langages de programmation. Cette interopérabilité permet aux développeurs de tirer parti des points forts de Go dans les parties critiques en termes de performance d'une application, tout en utilisant d'autres langages pour différents composants.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Qu'est-ce que Go ?",
-                "answer": "Go est un langage de programmation compilé et à typage statique conçu pour la simplicité et la performance."
+                question: "Qu'est-ce que Go ?",
+                answer: "Go est un langage de programmation compilé et à typage statique conçu pour la simplicité et la performance."
             },
             {
-                "question": "Pourquoi utiliser Go ?",
-                "answer": "Go offre des performances rapides, de la simplicité et de puissantes fonctionnalités de concurrence, ce qui le rend idéal pour les serveurs web et les microservices."
+                question: "Pourquoi utiliser Go ?",
+                answer: "Go offre des performances rapides, de la simplicité et de puissantes fonctionnalités de concurrence, ce qui le rend idéal pour les serveurs web et les microservices."
             },
             {
-                "question": "Go est-il bon pour le développement web ?",
-                "answer": "Oui, Go est bien adapté pour construire des serveurs web et des API rapides et efficaces."
+                question: "Go est-il bon pour le développement web ?",
+                answer: "Oui, Go est bien adapté pour construire des serveurs web et des API rapides et efficaces."
             }
         ]
     },
@@ -237,40 +237,40 @@ export const FullStackFR: IFullStack = {
         ],
         faqs: [
             {
-                "question": "Qu'est-ce que Node.js?",
-                "answer": "Node.js est un environnement d'exécution JavaScript qui permet de créer des applications réseau rapides et évolutives, ce qui le rend idéal pour les tâches intensives en entrées/sorties et l'expertise technique en temps réel."
+                question: "Qu'est-ce que Node.js?",
+                answer: "Node.js est un environnement d'exécution JavaScript qui permet de créer des applications réseau rapides et évolutives, ce qui le rend idéal pour les tâches intensives en entrées/sorties et l'expertise technique en temps réel."
             },
             {
-                "question": "À quoi sert Express.js?",
-                "answer": "Express.js est un framework léger pour Node.js, largement utilisé pour créer des API RESTful et des applications web avec une approche simple et flexible."
+                question: "À quoi sert Express.js?",
+                answer: "Express.js est un framework léger pour Node.js, largement utilisé pour créer des API RESTful et des applications web avec une approche simple et flexible."
             },
             {
-                "question": "En quoi Nest.js diffère-t-il d'Express.js?",
-                "answer": "Nest.js est construit sur Express.js, fournissant une architecture normative pour créer des applications côté serveur évolutives, maintenables et testables, avec un fort accent sur l'intégration de TypeScript."
+                question: "En quoi Nest.js diffère-t-il d'Express.js?",
+                answer: "Nest.js est construit sur Express.js, fournissant une architecture normative pour créer des applications côté serveur évolutives, maintenables et testables, avec un fort accent sur l'intégration de TypeScript."
             },
             {
-                "question": "Node.js peut-il être utilisé pour l'IA?",
-                "answer": "Oui, Node.js peut être utilisé pour des tâches d'IA, en exploitant des bibliothèques comme TensorFlow.js ou en se connectant à l'expertise technique de l'IA cloud pour le traitement du langage naturel, la reconnaissance d'images, et plus encore."
+                question: "Node.js peut-il être utilisé pour l'IA?",
+                answer: "Oui, Node.js peut être utilisé pour des tâches d'IA, en exploitant des bibliothèques comme TensorFlow.js ou en se connectant à l'expertise technique de l'IA cloud pour le traitement du langage naturel, la reconnaissance d'images, et plus encore."
             }
         ]
     },
     php: {
         title: "PHP",
         description: "PHP est un langage de script côté serveur populaire largement utilisé pour le développement web. Des frameworks comme Symfony, Laravel, Phalcon, et des moteurs de templates comme Twig, ainsi que des plateformes comme WordPress et sa variante headless, ont élevé le développement PHP en fournissant des solutions structurées, efficaces et évolutives pour la création d'applications web complexes.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
-        "alt": "Logo représentant le langage de programmation PHP",
-        "readMore": "Explorez plus de solutions de développement full-stack PHP",
-        "link": "/technical-expertise/full-stack-developer/php-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+        alt: "Logo représentant le langage de programmation PHP",
+        readMore: "Explorez plus de solutions de développement full-stack PHP",
+        link: "/technical-expertise/full-stack-developer/php-developer",
+        features: [
             {
                 title: "Développement PHP",
                 description: "PHP est un langage de script côté serveur populaire largement utilisé pour le développement web. Des frameworks comme Symfony, Laravel, Phalcon, et des moteurs de templates comme Twig, ainsi que des plateformes comme WordPress et sa variante headless, ont élevé le développement PHP en fournissant des solutions structurées, efficaces et évolutives pour la création d'applications web complexes.",
-                "list": []
+                list: []
             },
             {
                 title: "Développement Structuré",
                 description: "Symfony et Laravel offrent une approche structurée du développement PHP, favorisant les meilleures pratiques et les modèles de conception. Symfony fournit un ensemble réutilisable de composants, tandis que Laravel se concentre sur la productivité des développeurs avec sa syntaxe élégante et ses outils. Twig, le moteur de template utilisé dans Symfony, fournit une méthode flexible, sécurisée et rapide pour concevoir des templates. Phalcon, un framework haute performance livré comme une extension C, offre une optimisation de bas niveau et une vitesse exceptionnelle, assurant une gestion efficace des ressources.",
-                "list": [
+                list: [
                     "Script côté serveur",
                     "Facile à apprendre",
                     "Large écosystème",
@@ -283,46 +283,46 @@ export const FullStackFR: IFullStack = {
             {
                 title: "Développement Rapide",
                 description: "Laravel, connu pour sa syntaxe expressive et ses outils puissants, permet un développement et un déploiement rapides d'applications web. Des fonctionnalités comme Eloquent ORM, le moteur de template Blade et l'outil de ligne de commande Laravel Artisan simplifient les tâches de développement. Phalcon améliore le développement rapide avec ses performances robustes et son architecture de bas niveau. WordPress offre une configuration rapide et une grande variété de plugins et de thèmes, permettant aux développeurs de déployer rapidement des sites web riches en fonctionnalités. WordPress Headless découple le front-end et le back-end, permettant l'utilisation de frameworks JavaScript modernes comme React ou Vue pour une expérience utilisateur dynamique et réactive.",
-                "list": []
+                list: []
             },
             {
                 title: "Communauté et Écosystème",
                 description: "PHP bénéficie d'une vaste communauté et d'un riche écosystème de bibliothèques, de plugins et de frameworks. Symfony et Laravel bénéficient tous deux d'un soutien communautaire actif, d'une documentation étendue et de nombreux packages tiers, rendant le développement PHP efficace et agréable. Phalcon dispose d'une communauté croissante et fournit une documentation détaillée et des tutoriels pour aider les développeurs. WordPress se vante d'un vaste écosystème avec une large base d'utilisateurs, offrant de nombreux plugins et thèmes, tandis que WordPress Headless exploite la flexibilité des frameworks front-end modernes, soutenu par une communauté robuste et des ressources.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "À quoi sert PHP ?",
-                "answer": "PHP est un langage de script côté serveur conçu pour le développement web et largement utilisé pour créer des pages web dynamiques."
+                question: "À quoi sert PHP ?",
+                answer: "PHP est un langage de script côté serveur conçu pour le développement web et largement utilisé pour créer des pages web dynamiques."
             },
             {
-                "question": "Que sont Symfony et Laravel ?",
-                "answer": "Symfony et Laravel sont des frameworks PHP populaires qui facilitent le développement d'applications web robustes et évolutives."
+                question: "Que sont Symfony et Laravel ?",
+                answer: "Symfony et Laravel sont des frameworks PHP populaires qui facilitent le développement d'applications web robustes et évolutives."
             },
             {
-                "question": "Pourquoi utiliser WordPress ?",
-                "answer": "WordPress est un système de gestion de contenu polyvalent construit sur PHP, idéal pour créer des blogs, des sites web et des boutiques en ligne."
+                question: "Pourquoi utiliser WordPress ?",
+                answer: "WordPress est un système de gestion de contenu polyvalent construit sur PHP, idéal pour créer des blogs, des sites web et des boutiques en ligne."
             }
         ]
     },
     python: {
         title: "Python",
         description: "Python est un langage de programmation de haut niveau et interprété, connu pour sa simplicité, sa lisibilité et sa polyvalence. Il est largement utilisé dans divers domaines, du développement web et de l'analyse de données à l'intelligence artificielle et au calcul scientifique.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
-        "alt": "Logo représentant Python avec le framework Flask",
-        "readMore": "Explorez davantage de solutions de développement full-stack Python, Flask, Django",
-        "link": "/technical-expertise/full-stack-developer/python-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+        alt: "Logo représentant Python avec le framework Flask",
+        readMore: "Explorez davantage de solutions de développement full-stack Python, Flask, Django",
+        link: "/technical-expertise/full-stack-developer/python-developer",
+        features: [
             {
                 title: "Développement Python",
                 description: "Python est un langage de programmation de haut niveau et interprété, connu pour sa simplicité, sa lisibilité et sa polyvalence. Il est largement utilisé dans divers domaines, du développement web et de l'analyse de données à l'intelligence artificielle et au calcul scientifique.",
-                "list": []
+                list: []
             },
             {
                 title: "Facile à Apprendre et à Utiliser",
                 description: "La syntaxe simple et la lisibilité de Python en font un excellent choix pour les débutants comme pour les développeurs expérimentés. Sa vaste bibliothèque standard et ses modules contribués par la communauté fournissent des solutions prêtes à l'emploi pour un large éventail de tâches.",
-                "list": [
+                list: [
                     "Facile à apprendre",
                     "Syntaxe lisible",
                     "Polyvalent",
@@ -335,92 +335,92 @@ export const FullStackFR: IFullStack = {
             {
                 title: "Applications Polyvalentes",
                 description: "Python est utilisé dans divers domaines, notamment le développement web avec des frameworks comme Django et Flask, la science des données avec des bibliothèques comme pandas et NumPy, et l'apprentissage automatique avec TensorFlow et scikit-learn. Cette polyvalence fait de Python un langage de prédilection pour de nombreux développeurs.",
-                "list": []
+                list: []
             },
             {
                 title: "Fort Soutien de la Communauté",
                 description: "Python possède une communauté dynamique et active qui contribue continuellement à sa croissance. Avec de nombreux tutoriels, forums et projets open-source disponibles, les développeurs peuvent facilement trouver du soutien et des ressources pour améliorer leurs compétences et résoudre des défis.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "À quoi sert Python ?",
-                "answer": "Python est utilisé pour le développement web, l'analyse de données, l'intelligence artificielle, le calcul scientifique, et bien plus encore."
+                question: "À quoi sert Python ?",
+                answer: "Python est utilisé pour le développement web, l'analyse de données, l'intelligence artificielle, le calcul scientifique, et bien plus encore."
             },
             {
-                "question": "Pourquoi Python est-il si populaire ?",
-                "answer": "La simplicité, la lisibilité et la polyvalence de Python en font un choix populaire pour les débutants comme pour les développeurs expérimentés."
+                question: "Pourquoi Python est-il si populaire ?",
+                answer: "La simplicité, la lisibilité et la polyvalence de Python en font un choix populaire pour les débutants comme pour les développeurs expérimentés."
             },
             {
-                "question": "Python est-il bon pour le développement web ?",
-                "answer": "Oui, des frameworks comme Django et Flask font de Python un outil puissant pour le développement web."
+                question: "Python est-il bon pour le développement web ?",
+                answer: "Oui, des frameworks comme Django et Flask font de Python un outil puissant pour le développement web."
             }
         ],
-        "frameworks": [
+        frameworks: [
             {
-                "name": "Django",
-                "overview": "Django est un framework web de haut niveau qui encourage un développement rapide et une conception propre et pragmatique.",
-                "strengths": [
+                name: "Django",
+                overview: "Django est un framework web de haut niveau qui encourage un développement rapide et une conception propre et pragmatique.",
+                strengths: [
                     "Tout inclus : Livré avec de nombreuses fonctionnalités intégrées comme l'ORM, l'authentification et un panneau d'administration.",
                     "Évolutivité : Adapté aux applications à grande échelle.",
                     "Sécurité : Inclut une protection intégrée contre de nombreuses menaces de sécurité courantes."
                 ],
-                "useCases": [
+                useCases: [
                     "Applications web à grande échelle",
                     "Sites e-commerce",
                     "Systèmes de gestion de contenu"
                 ]
             },
             {
-                "name": "Flask",
-                "overview": "Flask est un micro-framework web qui fournit l'essentiel pour faire fonctionner une application web sans beaucoup de code passe-partout.",
-                "strengths": [
+                name: "Flask",
+                overview: "Flask est un micro-framework web qui fournit l'essentiel pour faire fonctionner une application web sans beaucoup de code passe-partout.",
+                strengths: [
                     "Léger : Minimaliste et flexible.",
                     "Extensible : Peut être facilement étendu avec diverses extensions.",
                     "Facile à apprendre : Simple à comprendre et à démarrer."
                 ],
-                "useCases": [
+                useCases: [
                     "Applications de petite à moyenne taille",
                     "APIs",
                     "Prototypage"
                 ]
             },
             {
-                "name": "FastAPI",
-                "overview": "FastAPI est un framework web moderne et rapide (haute performance) pour construire des APIs avec Python 3.6+ basé sur les annotations de type standard de Python.",
-                "strengths": [
+                name: "FastAPI",
+                overview: "FastAPI est un framework web moderne et rapide (haute performance) pour construire des APIs avec Python 3.6+ basé sur les annotations de type standard de Python.",
+                strengths: [
                     "Vitesse : Support asynchrone et haute performance.",
                     "Documentation automatique : Génère la documentation OpenAPI et JSON Schema.",
                     "Sécurité des types : Utilise les annotations de type Python pour la validation et la sérialisation."
                 ],
-                "useCases": [
+                useCases: [
                     "APIs",
                     "Microservices",
                     "Applications en temps réel"
                 ]
             },
             {
-                "name": "Pyramid",
-                "overview": "Pyramid est un framework web polyvalent conçu pour faciliter l'écriture d'applications web.",
-                "strengths": [
+                name: "Pyramid",
+                overview: "Pyramid est un framework web polyvalent conçu pour faciliter l'écriture d'applications web.",
+                strengths: [
                     "Flexibilité : Peut être utilisé pour des applications de petite et grande taille.",
                     "Personnalisation : Hautement configurable et modulaire.",
                     "Sécurité : Fournit plusieurs fonctionnalités de sécurité."
                 ],
-                "useCases": [
+                useCases: [
                     "Applications polyvalentes allant des microservices aux grandes applications web"
                 ]
             },
             {
-                "name": "Tornado",
-                "overview": "Tornado est un serveur web et un framework d'application web évolutif et non bloquant.",
-                "strengths": [
+                name: "Tornado",
+                overview: "Tornado est un serveur web et un framework d'application web évolutif et non bloquant.",
+                strengths: [
                     "Performance : Conçu pour gérer les connexions réseau de longue durée.",
                     "Temps réel : Adapté aux applications web en temps réel.",
                     "Évolutivité : Peut gérer des milliers de connexions simultanées."
                 ],
-                "useCases": [
+                useCases: [
                     "Applications en temps réel",
                     "WebSockets",
                     "Long polling"
@@ -433,10 +433,10 @@ export const FullStackFR: IFullStack = {
 
     services: {
         title: "Développement Back-End & API",
-        "descriptions": [
+        descriptions: [
             "Construisez des applications web puissantes, sécurisées et évolutives grâce à nos services experts de développement full-stack. Nos développeurs excellent dans les technologies front-end et back-end, créant des solutions complètes adaptées à vos besoins professionnels spécifiques. L'expertise technique de CHORN couvre plusieurs piles technologiques, notamment Node.js, .NET Core C#, Java Spring Boot, Python, Go et PHP, nous permettant de gérer des projets de toute complexité. Que vous lanciez une preuve de concept initiale (PoC) ou que vous développiez un produit minimum viable (MVP) prêt pour le marché, notre équipe qualifiée assure une intégration transparente entre les interfaces utilisateur et les fonctionnalités côté serveur pour une expérience utilisateur exceptionnelle."
         ],
-        "items": [
+        items: [
             {
                 title: "Intégration Transparente Front-End & Back-End",
                 description: "Développez des applications web cohérentes avec des composants client et serveur parfaitement synchronisés qui offrent rapidité, sécurité et évolutivité."

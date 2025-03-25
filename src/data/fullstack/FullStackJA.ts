@@ -68,20 +68,20 @@ export const FullStackJA: IFullStack = {
     go: {
         title: "GO",
         description: "Go（Golangとしても知られる）は、Googleによって設計された静的型付けのコンパイル言語です。シンプルさ、効率性、そして強力な並行処理のサポートで知られており、マイクロサービスの開発に理想的な選択肢です。",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
-        "alt": "Goプログラミング言語を表すロゴ",
-        "readMore": "さらに多くのGoフルスタック開発ソリューションを探索する",
-        "link": "/technical-expertise/full-stack-developer/go-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+        alt: "Goプログラミング言語を表すロゴ",
+        readMore: "さらに多くのGoフルスタック開発ソリューションを探索する",
+        link: "/technical-expertise/full-stack-developer/go-developer",
+        features: [
             {
                 title: "Go開発",
                 description: "Go（Golangとしても知られる）は、Googleによって設計された静的型付けのコンパイル言語です。シンプルさ、効率性、そして強力な並行処理のサポートで知られており、マイクロサービスの開発に理想的な選択肢です。",
-                "list": []
+                list: []
             },
             {
                 title: "効率的な並行処理",
                 description: "Goのゴルーチンとチャネルは、並行プログラミングのための堅牢なサポートを提供し、開発者が高効率でスケーラブルなアプリケーションを構築できるようにします。これにより、Goは複数のタスクを同時に処理する必要があるマイクロサービスの開発に適した言語となっています。",
-                "list": [
+                list: [
                     "並行プログラミング",
                     "高速コンパイル",
                     "シンプルさ",
@@ -94,26 +94,26 @@ export const FullStackJA: IFullStack = {
             {
                 title: "高速コンパイル",
                 description: "Goは機械コードに迅速にコンパイルされ、高速な実行時間をもたらします。この効率性と、そのガベージコレクションと静的型付けを組み合わせることで、Goアプリケーションは重い負荷の下でも優れたパフォーマンスを発揮します。",
-                "list": []
+                list: []
             },
             {
                 title: "相互運用性",
                 description: "Goのシンプルさと明確さにより、他のプログラミング言語との統合が容易になります。この相互運用性により、開発者はアプリケーションのパフォーマンスが重要な部分でGoの強みを活用しながら、異なるコンポーネントには他の言語を使用することができます。",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Goとは何ですか？",
-                "answer": "Goは、シンプルさとパフォーマンスのために設計された静的型付けのコンパイル言語です。"
+                question: "Goとは何ですか？",
+                answer: "Goは、シンプルさとパフォーマンスのために設計された静的型付けのコンパイル言語です。"
             },
             {
-                "question": "なぜGoを使用するのですか？",
-                "answer": "Goは高速なパフォーマンス、シンプルさ、そして強力な並行処理機能を提供し、ウェブサーバーやマイクロサービスに理想的です。"
+                question: "なぜGoを使用するのですか？",
+                answer: "Goは高速なパフォーマンス、シンプルさ、そして強力な並行処理機能を提供し、ウェブサーバーやマイクロサービスに理想的です。"
             },
             {
-                "question": "Goはウェブ開発に適していますか？",
-                "answer": "はい、Goは高速で効率的なウェブサーバーとAPIの構築に適しています。"
+                question: "Goはウェブ開発に適していますか？",
+                answer: "はい、Goは高速で効率的なウェブサーバーとAPIの構築に適しています。"
             }
         ]
     },
@@ -237,40 +237,40 @@ export const FullStackJA: IFullStack = {
         ],
         faqs: [
             {
-                "question": "Node.jsとは何ですか？",
-                "answer": "Node.jsは、高速でスケーラブルなネットワークアプリケーションの構築を可能にするJavaScriptランタイムであり、I/O負荷の高いタスクやリアルタイムの技術的専門知識に最適です。"
+                question: "Node.jsとは何ですか？",
+                answer: "Node.jsは、高速でスケーラブルなネットワークアプリケーションの構築を可能にするJavaScriptランタイムであり、I/O負荷の高いタスクやリアルタイムの技術的専門知識に最適です。"
             },
             {
-                "question": "Express.jsは何に使用されますか？",
-                "answer": "Express.jsはNode.js向けの軽量フレームワークで、シンプルで柔軟なアプローチでRESTful APIやWebアプリケーションを構築するために広く使用されています。"
+                question: "Express.jsは何に使用されますか？",
+                answer: "Express.jsはNode.js向けの軽量フレームワークで、シンプルで柔軟なアプローチでRESTful APIやWebアプリケーションを構築するために広く使用されています。"
             },
             {
-                "question": "Nest.jsはExpress.jsとどう違いますか？",
-                "answer": "Nest.jsはExpress.js上に構築されており、TypeScript統合を強調しながら、スケーラブルで保守可能、テスト可能なサーバーサイドアプリケーションを構築するための意見ベースのアーキテクチャを提供します。"
+                question: "Nest.jsはExpress.jsとどう違いますか？",
+                answer: "Nest.jsはExpress.js上に構築されており、TypeScript統合を強調しながら、スケーラブルで保守可能、テスト可能なサーバーサイドアプリケーションを構築するための意見ベースのアーキテクチャを提供します。"
             },
             {
-                "question": "Node.jsはAIに使用できますか？",
-                "answer": "はい、Node.jsはTensorFlow.jsのようなライブラリを活用したり、自然言語処理、画像認識などのためにクラウドAIの技術的専門知識と接続したりすることで、AIタスクに使用できます。"
+                question: "Node.jsはAIに使用できますか？",
+                answer: "はい、Node.jsはTensorFlow.jsのようなライブラリを活用したり、自然言語処理、画像認識などのためにクラウドAIの技術的専門知識と接続したりすることで、AIタスクに使用できます。"
             }
         ]
     },
     php: {
         title: "PHP",
         description: "PHPは、Webの開発に広く使用されている人気のあるサーバーサイドスクリプト言語です。Symfony、Laravel、Phalconなどのフレームワークや、Twigなどのテンプレートエンジン、そしてWordPressとそのヘッドレスバリアントなどのプラットフォームは、複雑なWebアプリケーションを構築するための構造化された効率的でスケーラブルなソリューションを提供することで、PHP開発を向上させています。",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
-        "alt": "PHPプログラミング言語を表すロゴ",
-        "readMore": "PHPフルスタック開発ソリューションをさらに探る",
-        "link": "/technical-expertise/full-stack-developer/php-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+        alt: "PHPプログラミング言語を表すロゴ",
+        readMore: "PHPフルスタック開発ソリューションをさらに探る",
+        link: "/technical-expertise/full-stack-developer/php-developer",
+        features: [
             {
                 title: "PHP開発",
                 description: "PHPは、Webの開発に広く使用されている人気のあるサーバーサイドスクリプト言語です。Symfony、Laravel、Phalconなどのフレームワークや、Twigなどのテンプレートエンジン、そしてWordPressとそのヘッドレスバリアントなどのプラットフォームは、複雑なWebアプリケーションを構築するための構造化された効率的でスケーラブルなソリューションを提供することで、PHP開発を向上させています。",
-                "list": []
+                list: []
             },
             {
                 title: "構造化された開発",
                 description: "SymfonyとLaravelは、ベストプラクティスとデザインパターンを促進するPHP開発の構造化されたアプローチを提供します。Symfonyは再利用可能なコンポーネントのセットを提供し、一方Laravelはエレガントな構文とツールで開発者の生産性に焦点を当てています。Symfonyで使用されているテンプレートエンジンのTwigは、柔軟で安全かつ高速なテンプレート設計方法を提供します。C拡張として提供される高性能フレームワークのPhalconは、低レベルの最適化と優れた速度を提供し、効率的なリソース管理を確保します。",
-                "list": [
+                list: [
                     "サーバーサイドスクリプティング",
                     "学びやすい",
                     "大規模なエコシステム",
@@ -283,46 +283,46 @@ export const FullStackJA: IFullStack = {
             {
                 title: "迅速な開発",
                 description: "表現力豊かな構文と強力なツールで知られるLaravelは、Webアプリケーションの迅速な開発と展開を可能にします。Eloquent ORM、Bladeテンプレートエンジン、Laravel Artisanコマンドラインツールなどの機能により、開発タスクが合理化されます。Phalconは、堅牢なパフォーマンスと低レベルアーキテクチャにより迅速な開発を強化します。WordPressは迅速なセットアップと豊富なプラグインやテーマを提供し、開発者が機能豊富なウェブサイトを迅速に展開できるようにします。ヘッドレスWordPressはフロントエンドとバックエンドを分離し、ReactやVueなどの最新のJavaScriptフレームワークを使用して、動的で応答性の高いユーザー体験を実現します。",
-                "list": []
+                list: []
             },
             {
                 title: "コミュニティとエコシステム",
                 description: "PHPには広大なコミュニティと豊富なライブラリ、プラグイン、フレームワークのエコシステムがあります。SymfonyとLaravelはどちらも活発なコミュニティサポート、広範なドキュメント、多くのサードパーティパッケージの恩恵を受け、PHP開発を効率的で楽しいものにしています。Phalconには成長中のコミュニティがあり、開発者を支援するための詳細なドキュメントとチュートリアルを提供しています。WordPressは広範なエコシステムと大規模なユーザーベースを誇り、数多くのプラグインとテーマを提供しています。一方、ヘッドレスWordPressは堅牢なコミュニティとリソースに支えられ、最新のフロントエンドフレームワークの柔軟性を活用しています。",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "PHPは何に使われますか？",
-                "answer": "PHPはWeb開発のために設計されたサーバーサイドスクリプト言語で、動的なWebページの作成に広く使用されています。"
+                question: "PHPは何に使われますか？",
+                answer: "PHPはWeb開発のために設計されたサーバーサイドスクリプト言語で、動的なWebページの作成に広く使用されています。"
             },
             {
-                "question": "SymfonyとLaravelとは何ですか？",
-                "answer": "SymfonyとLaravelは、堅牢でスケーラブルなWebアプリケーションの開発を容易にする人気のPHPフレームワークです。"
+                question: "SymfonyとLaravelとは何ですか？",
+                answer: "SymfonyとLaravelは、堅牢でスケーラブルなWebアプリケーションの開発を容易にする人気のPHPフレームワークです。"
             },
             {
-                "question": "なぜWordPressを使用するのですか？",
-                "answer": "WordPressはPHP上に構築された多用途のコンテンツ管理システムで、ブログ、ウェブサイト、オンラインストアの作成に最適です。"
+                question: "なぜWordPressを使用するのですか？",
+                answer: "WordPressはPHP上に構築された多用途のコンテンツ管理システムで、ブログ、ウェブサイト、オンラインストアの作成に最適です。"
             }
         ]
     },
     python: {
         title: "Python",
         description: "Pythonは、シンプルさ、読みやすさ、汎用性で知られる高水準インタープリタ型プログラミング言語です。ウェブ開発やデータ分析から人工知能や科学計算まで、様々な分野で広く使用されています。",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
-        "alt": "Flaskフレームワークを表すPythonのロゴ",
-        "readMore": "Python、Flask、Djangoフルスタック開発ソリューションをさらに探索する",
-        "link": "/technical-expertise/full-stack-developer/python-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+        alt: "Flaskフレームワークを表すPythonのロゴ",
+        readMore: "Python、Flask、Djangoフルスタック開発ソリューションをさらに探索する",
+        link: "/technical-expertise/full-stack-developer/python-developer",
+        features: [
             {
                 title: "Python開発",
                 description: "Pythonは、シンプルさ、読みやすさ、汎用性で知られる高水準インタープリタ型プログラミング言語です。ウェブ開発やデータ分析から人工知能や科学計算まで、様々な分野で広く使用されています。",
-                "list": []
+                list: []
             },
             {
                 title: "学習と使用が容易",
                 description: "Pythonのシンプルな構文と読みやすさは、初心者と経験豊富な開発者の両方にとって優れた選択肢となっています。広範な標準ライブラリとコミュニティが提供するモジュールは、幅広いタスクに対する即座に使用可能なソリューションを提供します。",
-                "list": [
+                list: [
                     "学習が容易",
                     "読みやすい構文",
                     "汎用性が高い",
@@ -335,92 +335,92 @@ export const FullStackJA: IFullStack = {
             {
                 title: "多様なアプリケーション",
                 description: "Pythonは、DjangoやFlaskなどのフレームワークを使用したウェブ開発、pandasやNumPyなどのライブラリを使用したデータサイエンス、TensorFlowやscikit-learnを使用した機械学習など、多様な分野で使用されています。この汎用性により、Pythonは多くの開発者にとって定番の言語となっています。",
-                "list": []
+                list: []
             },
             {
                 title: "強力なコミュニティサポート",
                 description: "Pythonには、その成長に継続的に貢献する活発なコミュニティがあります。数多くのチュートリアル、フォーラム、オープンソースプロジェクトが利用可能で、開発者はスキルを向上させ、課題を解決するためのサポートとリソースを簡単に見つけることができます。",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Pythonは何に使われますか？",
-                "answer": "Pythonはウェブ開発、データ分析、人工知能、科学計算など、多くの用途に使用されます。"
+                question: "Pythonは何に使われますか？",
+                answer: "Pythonはウェブ開発、データ分析、人工知能、科学計算など、多くの用途に使用されます。"
             },
             {
-                "question": "なぜPythonはそれほど人気があるのですか？",
-                "answer": "Pythonのシンプルさ、読みやすさ、汎用性により、初心者と経験豊富な開発者の両方にとって人気のある選択肢となっています。"
+                question: "なぜPythonはそれほど人気があるのですか？",
+                answer: "Pythonのシンプルさ、読みやすさ、汎用性により、初心者と経験豊富な開発者の両方にとって人気のある選択肢となっています。"
             },
             {
-                "question": "Pythonはウェブ開発に適していますか？",
-                "answer": "はい、DjangoやFlaskのようなフレームワークにより、Pythonはウェブ開発のための強力なツールとなっています。"
+                question: "Pythonはウェブ開発に適していますか？",
+                answer: "はい、DjangoやFlaskのようなフレームワークにより、Pythonはウェブ開発のための強力なツールとなっています。"
             }
         ],
-        "frameworks": [
+        frameworks: [
             {
-                "name": "Django",
-                "overview": "Djangoは、迅速な開発とクリーンで実用的な設計を奨励する高水準ウェブフレームワークです。",
-                "strengths": [
+                name: "Django",
+                overview: "Djangoは、迅速な開発とクリーンで実用的な設計を奨励する高水準ウェブフレームワークです。",
+                strengths: [
                     "バッテリー同梱：ORM、認証、管理パネルなどの多くの組み込み機能を提供。",
                     "スケーラビリティ：大規模アプリケーションに適しています。",
                     "セキュリティ：多くの一般的なセキュリティ脅威に対する組み込み保護を含みます。"
                 ],
-                "useCases": [
+                useCases: [
                     "大規模ウェブアプリケーション",
                     "eコマースサイト",
                     "コンテンツ管理システム"
                 ]
             },
             {
-                "name": "Flask",
-                "overview": "Flaskは、ボイラープレートコードを最小限に抑えてウェブアプリケーションを実行するための必須要素を提供するマイクロウェブフレームワークです。",
-                "strengths": [
+                name: "Flask",
+                overview: "Flaskは、ボイラープレートコードを最小限に抑えてウェブアプリケーションを実行するための必須要素を提供するマイクロウェブフレームワークです。",
+                strengths: [
                     "軽量：ミニマリスティックで柔軟。",
                     "拡張可能：様々な拡張機能で簡単に拡張できます。",
                     "学習が容易：理解し始めるのが簡単。"
                 ],
-                "useCases": [
+                useCases: [
                     "小規模から中規模のアプリケーション",
                     "API",
                     "プロトタイピング"
                 ]
             },
             {
-                "name": "FastAPI",
-                "overview": "FastAPIは、Python 3.6+の標準型ヒントに基づいてAPIを構築するための、モダンで高速（高性能）なウェブフレームワークです。",
-                "strengths": [
+                name: "FastAPI",
+                overview: "FastAPIは、Python 3.6+の標準型ヒントに基づいてAPIを構築するための、モダンで高速（高性能）なウェブフレームワークです。",
+                strengths: [
                     "速度：非同期サポートと高性能。",
                     "自動ドキュメント：OpenAPIとJSONスキーマドキュメントを生成。",
                     "型安全性：検証とシリアル化にPythonの型ヒントを使用。"
                 ],
-                "useCases": [
+                useCases: [
                     "API",
                     "マイクロサービス",
                     "リアルタイムアプリケーション"
                 ]
             },
             {
-                "name": "Pyramid",
-                "overview": "Pyramidは、ウェブアプリケーションの作成を容易にするように設計された汎用ウェブフレームワークです。",
-                "strengths": [
+                name: "Pyramid",
+                overview: "Pyramidは、ウェブアプリケーションの作成を容易にするように設計された汎用ウェブフレームワークです。",
+                strengths: [
                     "柔軟性：小規模および大規模アプリケーションの両方に使用できます。",
                     "カスタマイズ：高度に構成可能でモジュラー。",
                     "セキュリティ：いくつかのセキュリティ機能を提供します。"
                 ],
-                "useCases": [
+                useCases: [
                     "マイクロサービスから大規模ウェブアプリケーションまでの多様なアプリケーション"
                 ]
             },
             {
-                "name": "Tornado",
-                "overview": "Tornadoは、スケーラブルでノンブロッキングなウェブサーバーとウェブアプリケーションフレームワークです。",
-                "strengths": [
+                name: "Tornado",
+                overview: "Tornadoは、スケーラブルでノンブロッキングなウェブサーバーとウェブアプリケーションフレームワークです。",
+                strengths: [
                     "パフォーマンス：長寿命のネットワーク接続を処理するために設計。",
                     "リアルタイム：リアルタイムウェブアプリケーションに適しています。",
                     "スケーラビリティ：数千の同時接続を処理できます。"
                 ],
-                "useCases": [
+                useCases: [
                     "リアルタイムアプリケーション",
                     "WebSockets",
                     "ロングポーリング"
@@ -433,10 +433,10 @@ export const FullStackJA: IFullStack = {
 
     services: {
         title: "バックエンド＆API開発",
-        "descriptions": [
+        descriptions: [
             "当社の専門的なフルスタック開発サービスで、強力で安全かつスケーラブルなウェブアプリケーションを構築しましょう。当社の開発者はフロントエンドとバックエンド技術の両方に優れており、お客様の特定のビジネス要件に合わせた包括的なソリューションを作成します。CHORNの技術的専門知識はNode.js、.NET Core C#、Java Spring Boot、Python、Go、PHPなど複数の技術スタックにまたがり、あらゆる複雑さのプロジェクトを処理することができます。初期の概念実証（PoC）を立ち上げる場合でも、市場投入準備の整った最小実行可能製品（MVP）を開発する場合でも、当社の熟練したチームはユーザーインターフェースとサーバーサイド機能間のシームレスな統合を確保し、卓越したユーザーエクスペリエンスを提供します。"
         ],
-        "items": [
+        items: [
             {
                 title: "シームレスなフロントエンド＆バックエンド統合",
                 description: "スピード、セキュリティ、スケーラビリティを提供する完全に同期されたクライアントとサーバーコンポーネントで一貫性のあるウェブアプリケーションを開発します。"

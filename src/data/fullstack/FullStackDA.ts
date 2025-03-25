@@ -68,20 +68,20 @@ export const FullStackDA: IFullStack = {
     go: {
         title: "GO",
         description: "Go, også kendt som Golang, er et statisk typet, kompileret programmeringssprog designet af Google. Det er kendt for sin enkelhed, effektivitet og stærke støtte til samtidighed, hvilket gør det til et ideelt valg til udvikling af mikroservices.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
-        "alt": "Logo, der repræsenterer Go-programmeringssproget",
-        "readMore": "Udforsk flere full-stack udviklingsløsninger med Go",
-        "link": "/technical-expertise/full-stack-developer/go-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+        alt: "Logo, der repræsenterer Go-programmeringssproget",
+        readMore: "Udforsk flere full-stack udviklingsløsninger med Go",
+        link: "/technical-expertise/full-stack-developer/go-developer",
+        features: [
             {
                 title: "Go-udvikling",
                 description: "Go, også kendt som Golang, er et statisk typet, kompileret programmeringssprog designet af Google. Det er kendt for sin enkelhed, effektivitet og stærke støtte til samtidighed, hvilket gør det til et ideelt valg til udvikling af mikroservices.",
-                "list": []
+                list: []
             },
             {
                 title: "Effektiv samtidighed",
                 description: "Go's goroutines og kanaler giver robust understøttelse af samtidig programmering, hvilket giver udviklere mulighed for at bygge yderst effektive og skalerbare applikationer. Dette gør Go til et foretrukket sprog til udvikling af mikroservices, der kræver håndtering af flere opgaver samtidigt.",
-                "list": [
+                list: [
                     "Samtidig programmering",
                     "Hurtig kompilering",
                     "Enkelhed",
@@ -94,26 +94,26 @@ export const FullStackDA: IFullStack = {
             {
                 title: "Hurtig kompilering",
                 description: "Go kompilerer hurtigt til maskinkode, hvilket resulterer i hurtige kørselstider. Denne effektivitet, kombineret med dens garbage collection og statiske typning, sikrer, at Go-applikationer yder godt, selv under tung belastning.",
-                "list": []
+                list: []
             },
             {
                 title: "Interoperabilitet",
                 description: "Go's enkelhed og klarhed gør det nemt at integrere med andre programmeringssprog. Denne interoperabilitet giver udviklere mulighed for at udnytte Go's styrker i ydeevnekritiske dele af en applikation, mens de bruger andre sprog til forskellige komponenter.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Hvad er Go?",
-                "answer": "Go er et statisk typet, kompileret programmeringssprog designet til enkelhed og ydeevne."
+                question: "Hvad er Go?",
+                answer: "Go er et statisk typet, kompileret programmeringssprog designet til enkelhed og ydeevne."
             },
             {
-                "question": "Hvorfor bruge Go?",
-                "answer": "Go tilbyder hurtig ydeevne, enkelhed og kraftfulde samtidighedsfunktioner, hvilket gør det ideelt til webservere og mikroservices."
+                question: "Hvorfor bruge Go?",
+                answer: "Go tilbyder hurtig ydeevne, enkelhed og kraftfulde samtidighedsfunktioner, hvilket gør det ideelt til webservere og mikroservices."
             },
             {
-                "question": "Er Go godt til webudvikling?",
-                "answer": "Ja, Go er velegnet til at bygge hurtige og effektive webservere og API'er."
+                question: "Er Go godt til webudvikling?",
+                answer: "Ja, Go er velegnet til at bygge hurtige og effektive webservere og API'er."
             }
         ]
     },
@@ -241,40 +241,40 @@ export const FullStackDA: IFullStack = {
         ],
         faqs: [
             {
-                "question": "Hvad er Node.js?",
-                "answer": "Node.js er en JavaScript-runtime, der muliggør opbygningen af hurtige og skalerbare netværksapplikationer, hvilket gør den ideel til I/O-tunge opgaver og realtids teknisk ekspertise."
+                question: "Hvad er Node.js?",
+                answer: "Node.js er en JavaScript-runtime, der muliggør opbygningen af hurtige og skalerbare netværksapplikationer, hvilket gør den ideel til I/O-tunge opgaver og realtids teknisk ekspertise."
             },
             {
-                "question": "Hvad bruges Express.js til?",
-                "answer": "Express.js er et letvægtsframework til Node.js, der bruges i vid udstrækning til at bygge RESTful API'er og webapplikationer med en enkel og fleksibel tilgang."
+                question: "Hvad bruges Express.js til?",
+                answer: "Express.js er et letvægtsframework til Node.js, der bruges i vid udstrækning til at bygge RESTful API'er og webapplikationer med en enkel og fleksibel tilgang."
             },
             {
-                "question": "Hvordan adskiller Nest.js sig fra Express.js?",
-                "answer": "Nest.js er bygget oven på Express.js og giver en meningsfuld arkitektur til at bygge skalerbare, vedligeholdelses- og testbare server-side applikationer, med stærk vægt på TypeScript-integration."
+                question: "Hvordan adskiller Nest.js sig fra Express.js?",
+                answer: "Nest.js er bygget oven på Express.js og giver en meningsfuld arkitektur til at bygge skalerbare, vedligeholdelses- og testbare server-side applikationer, med stærk vægt på TypeScript-integration."
             },
             {
-                "question": "Kan Node.js bruges til AI?",
-                "answer": "Ja, Node.js kan bruges til AI-opgaver, ved at udnytte biblioteker som TensorFlow.js eller forbinde med cloud AI teknisk ekspertise til naturlig sprogbehandling, billedgenkendelse og mere."
+                question: "Kan Node.js bruges til AI?",
+                answer: "Ja, Node.js kan bruges til AI-opgaver, ved at udnytte biblioteker som TensorFlow.js eller forbinde med cloud AI teknisk ekspertise til naturlig sprogbehandling, billedgenkendelse og mere."
             }
         ]
     },
     php: {
         title: "PHP",
         description: "PHP er et populært server-side scriptsprog, der er udbredt til webudvikling. Frameworks som Symfony, Laravel, Phalcon og template-engines som Twig, sammen med platforme som WordPress og dets headless variant, har løftet PHP-udvikling ved at levere strukturerede, effektive og skalerbare løsninger til opbygning af komplekse webapplikationer.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
-        "alt": "Logo der repræsenterer PHP-programmeringssproget",
-        "readMore": "Udforsk flere PHP full-stack udviklingsløsninger",
-        "link": "/technical-expertise/full-stack-developer/php-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+        alt: "Logo der repræsenterer PHP-programmeringssproget",
+        readMore: "Udforsk flere PHP full-stack udviklingsløsninger",
+        link: "/technical-expertise/full-stack-developer/php-developer",
+        features: [
             {
                 title: "PHP-udvikling",
                 description: "PHP er et populært server-side scriptsprog, der er udbredt til webudvikling. Frameworks som Symfony, Laravel, Phalcon og template-engines som Twig, sammen med platforme som WordPress og dets headless variant, har løftet PHP-udvikling ved at levere strukturerede, effektive og skalerbare løsninger til opbygning af komplekse webapplikationer.",
-                "list": []
+                list: []
             },
             {
                 title: "Struktureret Udvikling",
                 description: "Symfony og Laravel tilbyder en struktureret tilgang til PHP-udvikling, der fremmer best practices og designmønstre. Symfony leverer et genanvendeligt sæt komponenter, mens Laravel fokuserer på udviklernes produktivitet med sin elegante syntaks og værktøjer. Twig, den template-engine der bruges i Symfony, giver en fleksibel, sikker og hurtig måde at designe skabeloner på. Phalcon, et højtydende framework leveret som en C-udvidelse, tilbyder lavniveau-optimering og exceptionel hastighed, hvilket sikrer effektiv ressourcehåndtering.",
-                "list": [
+                list: [
                     "Server-side scripting",
                     "Let at lære",
                     "Stort økosystem",
@@ -287,46 +287,46 @@ export const FullStackDA: IFullStack = {
             {
                 title: "Hurtig Udvikling",
                 description: "Laravel, kendt for sin ekspressive syntaks og kraftfulde værktøjer, muliggør hurtig udvikling og implementering af webapplikationer. Funktioner som Eloquent ORM, Blade template-engine og Laravel Artisan kommandolinjeværktøj strømliner udviklingsopgaver. Phalcon forbedrer hurtig udvikling med sin robuste ydeevne og lavniveau-arkitektur. WordPress giver hurtig opsætning og et stort udvalg af plugins og temaer, hvilket giver udviklere mulighed for hurtigt at implementere funktionsrige websteder. Headless WordPress adskiller frontend og backend, hvilket muliggør brugen af moderne JavaScript-frameworks som React eller Vue for en dynamisk og responsiv brugeroplevelse.",
-                "list": []
+                list: []
             },
             {
                 title: "Fællesskab og Økosystem",
                 description: "PHP har et enormt fællesskab og et rigt økosystem af biblioteker, plugins og frameworks. Både Symfony og Laravel drager fordel af aktiv fællesskabsstøtte, omfattende dokumentation og mange tredjepartspakker, hvilket gør PHP-udvikling effektiv og behagelig. Phalcon har et voksende fællesskab og leverer detaljeret dokumentation og tutorials til at hjælpe udviklere. WordPress kan prale af et omfattende økosystem med en stor brugerskare, der tilbyder talrige plugins og temaer, mens Headless WordPress udnytter fleksibiliteten i moderne frontend-frameworks, understøttet af et robust fællesskab og ressourcer.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Hvad bruges PHP til?",
-                "answer": "PHP er et server-side scriptsprog designet til webudvikling og bruges bredt til at skabe dynamiske websider."
+                question: "Hvad bruges PHP til?",
+                answer: "PHP er et server-side scriptsprog designet til webudvikling og bruges bredt til at skabe dynamiske websider."
             },
             {
-                "question": "Hvad er Symfony og Laravel?",
-                "answer": "Symfony og Laravel er populære PHP-frameworks, der letter udviklingen af robuste og skalerbare webapplikationer."
+                question: "Hvad er Symfony og Laravel?",
+                answer: "Symfony og Laravel er populære PHP-frameworks, der letter udviklingen af robuste og skalerbare webapplikationer."
             },
             {
-                "question": "Hvorfor bruge WordPress?",
-                "answer": "WordPress er et alsidigt indholdsstyringssystem bygget på PHP, ideelt til at skabe blogs, websteder og online butikker."
+                question: "Hvorfor bruge WordPress?",
+                answer: "WordPress er et alsidigt indholdsstyringssystem bygget på PHP, ideelt til at skabe blogs, websteder og online butikker."
             }
         ]
     },
     python: {
         title: "Python",
         description: "Python er et højniveau, fortolket programmeringssprog kendt for sin enkelhed, læsbarhed og alsidighed. Det bruges i vid udstrækning på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
-        "alt": "Logo der repræsenterer Python med Flask framework",
-        "readMore": "Udforsk flere Python, Flask, Django full-stack udviklingsløsninger",
-        "link": "/technical-expertise/full-stack-developer/python-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+        alt: "Logo der repræsenterer Python med Flask framework",
+        readMore: "Udforsk flere Python, Flask, Django full-stack udviklingsløsninger",
+        link: "/technical-expertise/full-stack-developer/python-developer",
+        features: [
             {
                 title: "Python-udvikling",
                 description: "Python er et højniveau, fortolket programmeringssprog kendt for sin enkelhed, læsbarhed og alsidighed. Det bruges i vid udstrækning på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
-                "list": []
+                list: []
             },
             {
                 title: "Nemt at lære og bruge",
                 description: "Pythons enkle syntaks og læsbarhed gør det til et fremragende valg for både begyndere og erfarne udviklere. Dets omfattende standardbibliotek og fællesskabsbidragede moduler giver klar-til-brug løsninger til en bred vifte af opgaver.",
-                "list": [
+                list: [
                     "Nemt at lære",
                     "Læsbar syntaks",
                     "Alsidig",
@@ -339,92 +339,92 @@ export const FullStackDA: IFullStack = {
             {
                 title: "Alsidige anvendelser",
                 description: "Python bruges i forskellige felter, herunder webudvikling med frameworks som Django og Flask, datascience med biblioteker som pandas og NumPy, og maskinlæring med TensorFlow og scikit-learn. Denne alsidighed gør Python til et foretrukket sprog for mange udviklere.",
-                "list": []
+                list: []
             },
             {
                 title: "Stærk fællesskabssupport",
                 description: "Python har et levende og aktivt fællesskab, der kontinuerligt bidrager til dets vækst. Med talrige tutorials, forummer og open source-projekter til rådighed kan udviklere nemt finde støtte og ressourcer til at forbedre deres færdigheder og løse udfordringer.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Hvad bruges Python til?",
-                "answer": "Python bruges til webudvikling, dataanalyse, kunstig intelligens, videnskabelig databehandling og meget mere."
+                question: "Hvad bruges Python til?",
+                answer: "Python bruges til webudvikling, dataanalyse, kunstig intelligens, videnskabelig databehandling og meget mere."
             },
             {
-                "question": "Hvorfor er Python så populær?",
-                "answer": "Pythons enkelhed, læsbarhed og alsidighed gør det til et populært valg for både begyndere og erfarne udviklere."
+                question: "Hvorfor er Python så populær?",
+                answer: "Pythons enkelhed, læsbarhed og alsidighed gør det til et populært valg for både begyndere og erfarne udviklere."
             },
             {
-                "question": "Er Python godt til webudvikling?",
-                "answer": "Ja, frameworks som Django og Flask gør Python til et kraftfuldt værktøj til webudvikling."
+                question: "Er Python godt til webudvikling?",
+                answer: "Ja, frameworks som Django og Flask gør Python til et kraftfuldt værktøj til webudvikling."
             }
         ],
-        "frameworks": [
+        frameworks: [
             {
-                "name": "Django",
-                "overview": "Django er et højniveau webframework, der tilskynder til hurtig udvikling og rent, pragmatisk design.",
-                "strengths": [
+                name: "Django",
+                overview: "Django er et højniveau webframework, der tilskynder til hurtig udvikling og rent, pragmatisk design.",
+                strengths: [
                     "Batterier inkluderet: Kommer med mange indbyggede funktioner som ORM, autentificering og et admin-panel.",
                     "Skalerbarhed: Velegnet til store applikationer.",
                     "Sikkerhed: Inkluderer indbygget beskyttelse mod mange almindelige sikkerhedstrusler."
                 ],
-                "useCases": [
+                useCases: [
                     "Store webapplikationer",
                     "E-handelswebsteder",
                     "Indholdsstyringssystemer"
                 ]
             },
             {
-                "name": "Flask",
-                "overview": "Flask er et mikro-webframework, der giver det nødvendige for at få en webapplikation op at køre uden meget boilerplate-kode.",
-                "strengths": [
+                name: "Flask",
+                overview: "Flask er et mikro-webframework, der giver det nødvendige for at få en webapplikation op at køre uden meget boilerplate-kode.",
+                strengths: [
                     "Letvægt: Minimalistisk og fleksibel.",
                     "Udvidelig: Kan nemt udvides med forskellige udvidelser.",
                     "Let at lære: Simpelt at forstå og komme i gang med."
                 ],
-                "useCases": [
+                useCases: [
                     "Små til mellemstore applikationer",
                     "API'er",
                     "Prototyping"
                 ]
             },
             {
-                "name": "FastAPI",
-                "overview": "FastAPI er et moderne, hurtigt (højtydende) webframework til at bygge API'er med Python 3.6+ baseret på standard Python typehints.",
-                "strengths": [
+                name: "FastAPI",
+                overview: "FastAPI er et moderne, hurtigt (højtydende) webframework til at bygge API'er med Python 3.6+ baseret på standard Python typehints.",
+                strengths: [
                     "Hastighed: Asynkron understøttelse og høj ydeevne.",
                     "Automatisk dokumentation: Genererer OpenAPI og JSON Schema dokumentation.",
                     "Typesikkerhed: Bruger Python typehints til validering og serialisering."
                 ],
-                "useCases": [
+                useCases: [
                     "API'er",
                     "Mikroservices",
                     "Realtidsapplikationer"
                 ]
             },
             {
-                "name": "Pyramid",
-                "overview": "Pyramid er et generelt webframework, der er designet til at gøre det nemt at skrive webapplikationer.",
-                "strengths": [
+                name: "Pyramid",
+                overview: "Pyramid er et generelt webframework, der er designet til at gøre det nemt at skrive webapplikationer.",
+                strengths: [
                     "Fleksibilitet: Kan bruges til både små og store applikationer.",
                     "Tilpasning: Meget konfigurerbar og modulær.",
                     "Sikkerhed: Giver flere sikkerhedsfunktioner."
                 ],
-                "useCases": [
+                useCases: [
                     "Alsidige applikationer fra mikroservices til store webapplikationer"
                 ]
             },
             {
-                "name": "Tornado",
-                "overview": "Tornado er en skalerbar, ikke-blokerende webserver og webapplikationsframework.",
-                "strengths": [
+                name: "Tornado",
+                overview: "Tornado er en skalerbar, ikke-blokerende webserver og webapplikationsframework.",
+                strengths: [
                     "Ydeevne: Designet til at håndtere langvarige netværksforbindelser.",
                     "Realtid: Velegnet til realtids-webapplikationer.",
                     "Skalerbarhed: Kan håndtere tusindvis af samtidige forbindelser."
                 ],
-                "useCases": [
+                useCases: [
                     "Realtidsapplikationer",
                     "WebSockets",
                     "Long polling"
@@ -437,10 +437,10 @@ export const FullStackDA: IFullStack = {
 
     services: {
         title: "Back-End & API Udvikling",
-        "descriptions": [
+        descriptions: [
             "Byg kraftfulde, sikre og skalerbare webapplikationer med vores ekspertise inden for full-stack udvikling. Vores udviklere udmærker sig inden for både front-end og back-end teknologier og skaber omfattende løsninger, der er skræddersyet til dine specifikke forretningsbehov. CHORN's tekniske ekspertise spænder over flere teknologistakke, herunder Node.js, .NET Core C#, Java Spring Boot, Python, Go og PHP, hvilket giver os mulighed for at håndtere projekter af enhver kompleksitet. Uanset om du lancerer et indledende Proof of Concept (PoC) eller udvikler et markedsklart Minimum Viable Product (MVP), sikrer vores dygtige team en problemfri integration mellem brugergrænseflader og serversidesfunktionalitet for en enestående brugeroplevelse."
         ],
-        "items": [
+        items: [
             {
                 title: "Problemfri Front-End & Back-End Integration",
                 description: "Udvikl sammenhængende webapplikationer med perfekt synkroniserede klient- og serverkomponenter, der leverer hastighed, sikkerhed og skalerbarhed."

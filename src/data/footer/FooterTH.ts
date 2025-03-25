@@ -66,40 +66,40 @@ export const FooterTH: IFooter = {
             link: "/technical-expertise/web-development"
         },
         {
-            label: "พัฒนา Front-End",
+            label: "การพัฒนาฝั่งหน้าบ้าน",
             link: "/technical-expertise/front-end-developer/"
         },
         {
-            label: "พัฒนา Back-End และ API",
+            label: "การพัฒนาฝั่งหลังบ้านและเอพีไอ",
             link: "/technical-expertise/full-stack-developer/"
         },
         {
-            label: "DevOps และ Cloud",
+            label: "เดฟออปส์และคลาวด์",
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "เพื่อนคุยเอไอ LINE แบบ LLM",
+            label: "เพื่อนคุยเอไอไลน์ด้วยแบบจำลองขนาดใหญ่",
             link: "/ai-companions/fah/",
         },
         {
-            label: "การเชื่อมต่อกับ LLM/AI",
+            label: "การเชื่อมต่อกับแบบจำลองขนาดใหญ่และเอไอ",
             link: "/technical-expertise/ai-solutions"
         },
         {
-            label: "Web3 และ Smart Contract",
+            label: "เว็บ ๓ และสัญญาอัจฉริยะ",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
         },
     ],
     infoLinks: [
         {
             label: "รูปแบบการทำงาน",
-            linkText: "ระยะไกล, ออฟฟิศ, แบบผสม",
+            linkText: "ระยะไกล ออฟฟิศ แบบผสม",
             link: "/",
             icon: "flaticon-speed hover-rotate",
         },
         {
             label: "รูปแบบบริการ",
-            linkText: "งานประจำ, สัญญาจ้าง, รายโปรเจ็กต์",
+            linkText: "งานประจำ งานสัญญาจ้าง งานแบบรายโปรเจ็กต์",
             link: "/",
             icon: "flaticon-connection hover-rotate",
         },

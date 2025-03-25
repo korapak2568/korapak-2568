@@ -242,20 +242,20 @@ export const FullStackEN: IFullStack = {
         ],
         faqs: [
             {
-                "question": "What is Node.js?",
-                "answer": "Node.js is a JavaScript runtime that enables the building of fast and scalable network applications, making it ideal for I/O-heavy tasks and real-time technical-expertise."
+                question: "What is Node.js?",
+                answer: "Node.js is a JavaScript runtime that enables the building of fast and scalable network applications, making it ideal for I/O-heavy tasks and real-time technical-expertise."
             },
             {
-                "question": "What is Express.js used for?",
-                "answer": "Express.js is a lightweight framework for Node.js, widely used to build RESTful APIs and web applications with a simple and flexible approach."
+                question: "What is Express.js used for?",
+                answer: "Express.js is a lightweight framework for Node.js, widely used to build RESTful APIs and web applications with a simple and flexible approach."
             },
             {
-                "question": "How does Nest.js differ from Express.js?",
-                "answer": "Nest.js is built on top of Express.js, providing an opinionated architecture for building scalable, maintainable, and testable server-side applications, with a strong emphasis on TypeScript integration."
+                question: "How does Nest.js differ from Express.js?",
+                answer: "Nest.js is built on top of Express.js, providing an opinionated architecture for building scalable, maintainable, and testable server-side applications, with a strong emphasis on TypeScript integration."
             },
             {
-                "question": "Can Node.js be used for AI?",
-                "answer": "Yes, Node.js can be used for AI tasks, leveraging libraries like TensorFlow.js or connecting with cloud AI technical-expertise for natural language processing, image recognition, and more."
+                question: "Can Node.js be used for AI?",
+                answer: "Yes, Node.js can be used for AI tasks, leveraging libraries like TensorFlow.js or connecting with cloud AI technical-expertise for natural language processing, image recognition, and more."
             }
         ]
     },
@@ -438,10 +438,10 @@ export const FullStackEN: IFullStack = {
 
     services: {
         title: "Back-End & API Development",
-        "descriptions": [
+        descriptions: [
             "Build powerful, secure, and scalable web applications with our expert full-stack development services. Our developers excel in both front-end and back-end technologies, creating comprehensive solutions tailored to your specific business requirements. CHORN's technical expertise spans multiple technology stacks including Node.js, .NET Core C#, Java Spring Boot, Python, Go, and PHP, allowing us to handle projects of any complexity. Whether you're launching an initial Proof of Concept (PoC) or developing a market-ready Minimum Viable Product (MVP), our skilled team ensures seamless integration between user interfaces and server-side functionality for an exceptional user experience."
         ],
-        "items": [
+        items: [
             {
                 title: "Seamless Front-End & Back-End Integration",
                 description: "Develop cohesive web applications with perfectly synchronized client and server components that deliver speed, security, and scalability."

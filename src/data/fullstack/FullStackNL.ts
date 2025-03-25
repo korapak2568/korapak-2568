@@ -68,20 +68,20 @@ export const FullStackNL: IFullStack = {
     go: {
         title: "GO",
         description: "Go, ook bekend als Golang, is een statisch getypeerde, gecompileerde programmeertaal ontworpen door Google. Het staat bekend om zijn eenvoud, efficiëntie en sterke ondersteuning voor gelijktijdigheid, waardoor het een ideale keuze is voor het ontwikkelen van microservices.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
-        "alt": "Logo dat de programmeertaal Go vertegenwoordigt",
-        "readMore": "Ontdek meer full-stack ontwikkelingsoplossingen met Go",
-        "link": "/technical-expertise/full-stack-developer/go-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+        alt: "Logo dat de programmeertaal Go vertegenwoordigt",
+        readMore: "Ontdek meer full-stack ontwikkelingsoplossingen met Go",
+        link: "/technical-expertise/full-stack-developer/go-developer",
+        features: [
             {
                 title: "Go-ontwikkeling",
                 description: "Go, ook bekend als Golang, is een statisch getypeerde, gecompileerde programmeertaal ontworpen door Google. Het staat bekend om zijn eenvoud, efficiëntie en sterke ondersteuning voor gelijktijdigheid, waardoor het een ideale keuze is voor het ontwikkelen van microservices.",
-                "list": []
+                list: []
             },
             {
                 title: "Efficiënte gelijktijdigheid",
                 description: "Go's goroutines en channels bieden robuuste ondersteuning voor gelijktijdige programmering, waardoor ontwikkelaars zeer efficiënte en schaalbare applicaties kunnen bouwen. Dit maakt Go een voorkeurtaal voor het ontwikkelen van microservices die meerdere taken tegelijkertijd moeten afhandelen.",
-                "list": [
+                list: [
                     "Gelijktijdige programmering",
                     "Snelle compilatie",
                     "Eenvoud",
@@ -94,26 +94,26 @@ export const FullStackNL: IFullStack = {
             {
                 title: "Snelle compilatie",
                 description: "Go compileert snel naar machinecode, wat resulteert in snelle uitvoeringstijden. Deze efficiëntie, gecombineerd met garbage collection en statische typering, zorgt ervoor dat Go-applicaties goed presteren, zelfs onder zware belasting.",
-                "list": []
+                list: []
             },
             {
                 title: "Interoperabiliteit",
                 description: "De eenvoud en duidelijkheid van Go maken het gemakkelijk te integreren met andere programmeertalen. Deze interoperabiliteit stelt ontwikkelaars in staat om de sterke punten van Go te benutten in prestatie-kritische delen van een applicatie, terwijl ze andere talen gebruiken voor verschillende componenten.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Wat is Go?",
-                "answer": "Go is een statisch getypeerde, gecompileerde programmeertaal ontworpen voor eenvoud en prestaties."
+                question: "Wat is Go?",
+                answer: "Go is een statisch getypeerde, gecompileerde programmeertaal ontworpen voor eenvoud en prestaties."
             },
             {
-                "question": "Waarom Go gebruiken?",
-                "answer": "Go biedt snelle prestaties, eenvoud en krachtige gelijktijdigheidsfuncties, waardoor het ideaal is voor webservers en microservices."
+                question: "Waarom Go gebruiken?",
+                answer: "Go biedt snelle prestaties, eenvoud en krachtige gelijktijdigheidsfuncties, waardoor het ideaal is voor webservers en microservices."
             },
             {
-                "question": "Is Go goed voor webontwikkeling?",
-                "answer": "Ja, Go is zeer geschikt voor het bouwen van snelle en efficiënte webservers en API's."
+                question: "Is Go goed voor webontwikkeling?",
+                answer: "Ja, Go is zeer geschikt voor het bouwen van snelle en efficiënte webservers en API's."
             }
         ]
     },
@@ -241,40 +241,40 @@ export const FullStackNL: IFullStack = {
         ],
         faqs: [
             {
-                "question": "Wat is Node.js?",
-                "answer": "Node.js is een JavaScript runtime die het bouwen van snelle en schaalbare netwerkapplicaties mogelijk maakt, waardoor het ideaal is voor I/O-intensieve taken en realtime technische expertise."
+                question: "Wat is Node.js?",
+                answer: "Node.js is een JavaScript runtime die het bouwen van snelle en schaalbare netwerkapplicaties mogelijk maakt, waardoor het ideaal is voor I/O-intensieve taken en realtime technische expertise."
             },
             {
-                "question": "Waarvoor wordt Express.js gebruikt?",
-                "answer": "Express.js is een lichtgewicht framework voor Node.js, dat veel wordt gebruikt om RESTful API's en webapplicaties te bouwen met een eenvoudige en flexibele aanpak."
+                question: "Waarvoor wordt Express.js gebruikt?",
+                answer: "Express.js is een lichtgewicht framework voor Node.js, dat veel wordt gebruikt om RESTful API's en webapplicaties te bouwen met een eenvoudige en flexibele aanpak."
             },
             {
-                "question": "Hoe verschilt Nest.js van Express.js?",
-                "answer": "Nest.js is gebouwd bovenop Express.js en biedt een uitgesproken architectuur voor het bouwen van schaalbare, onderhoudbare en testbare server-side applicaties, met een sterke nadruk op TypeScript-integratie."
+                question: "Hoe verschilt Nest.js van Express.js?",
+                answer: "Nest.js is gebouwd bovenop Express.js en biedt een uitgesproken architectuur voor het bouwen van schaalbare, onderhoudbare en testbare server-side applicaties, met een sterke nadruk op TypeScript-integratie."
             },
             {
-                "question": "Kan Node.js worden gebruikt voor AI?",
-                "answer": "Ja, Node.js kan worden gebruikt voor AI-taken, door gebruik te maken van bibliotheken zoals TensorFlow.js of door verbinding te maken met cloud AI technische expertise voor natuurlijke taalverwerking, beeldherkenning en meer."
+                question: "Kan Node.js worden gebruikt voor AI?",
+                answer: "Ja, Node.js kan worden gebruikt voor AI-taken, door gebruik te maken van bibliotheken zoals TensorFlow.js of door verbinding te maken met cloud AI technische expertise voor natuurlijke taalverwerking, beeldherkenning en meer."
             }
         ]
     },
     php: {
         title: "PHP",
         description: "PHP is een populaire server-side scripttaal die veel wordt gebruikt voor webontwikkeling. Frameworks zoals Symfony, Laravel, Phalcon, en template engines zoals Twig, samen met platforms zoals WordPress en de headless variant ervan, hebben PHP-ontwikkeling naar een hoger niveau getild door gestructureerde, efficiënte en schaalbare oplossingen te bieden voor het bouwen van complexe webapplicaties.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
-        "alt": "Logo dat de PHP-programmeertaal vertegenwoordigt",
-        "readMore": "Ontdek meer PHP full-stack ontwikkelingsoplossingen",
-        "link": "/technical-expertise/full-stack-developer/php-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+        alt: "Logo dat de PHP-programmeertaal vertegenwoordigt",
+        readMore: "Ontdek meer PHP full-stack ontwikkelingsoplossingen",
+        link: "/technical-expertise/full-stack-developer/php-developer",
+        features: [
             {
                 title: "PHP-ontwikkeling",
                 description: "PHP is een populaire server-side scripttaal die veel wordt gebruikt voor webontwikkeling. Frameworks zoals Symfony, Laravel, Phalcon, en template engines zoals Twig, samen met platforms zoals WordPress en de headless variant ervan, hebben PHP-ontwikkeling naar een hoger niveau getild door gestructureerde, efficiënte en schaalbare oplossingen te bieden voor het bouwen van complexe webapplicaties.",
-                "list": []
+                list: []
             },
             {
                 title: "Gestructureerde Ontwikkeling",
                 description: "Symfony en Laravel bieden een gestructureerde benadering van PHP-ontwikkeling, met bevordering van best practices en ontwerppatronen. Symfony biedt een herbruikbare set componenten, terwijl Laravel zich richt op ontwikkelaarsproductiviteit met zijn elegante syntax en tools. Twig, de template engine die in Symfony wordt gebruikt, biedt een flexibele, veilige en snelle manier om templates te ontwerpen. Phalcon, een high-performance framework dat als C-extensie wordt geleverd, biedt low-level optimalisatie en uitzonderlijke snelheid, waardoor efficiënt middelenbeheer wordt gegarandeerd.",
-                "list": [
+                list: [
                     "Server-side scripting",
                     "Gemakkelijk te leren",
                     "Groot ecosysteem",
@@ -287,46 +287,46 @@ export const FullStackNL: IFullStack = {
             {
                 title: "Snelle Ontwikkeling",
                 description: "Laravel, bekend om zijn expressieve syntax en krachtige tools, maakt snelle ontwikkeling en implementatie van webapplicaties mogelijk. Functies zoals Eloquent ORM, Blade template engine en Laravel Artisan command-line tool stroomlijnen ontwikkelingstaken. Phalcon versterkt snelle ontwikkeling met zijn robuuste prestaties en low-level architectuur. WordPress biedt een snelle setup en een groot aantal plugins en thema's, waardoor ontwikkelaars snel functierijke websites kunnen implementeren. Headless WordPress ontkoppelt de front-end en back-end, waardoor het gebruik van moderne JavaScript-frameworks zoals React of Vue mogelijk wordt voor een dynamische en responsieve gebruikerservaring.",
-                "list": []
+                list: []
             },
             {
                 title: "Community en Ecosysteem",
                 description: "PHP heeft een enorme community en een rijk ecosysteem van bibliotheken, plugins en frameworks. Zowel Symfony als Laravel profiteren van actieve community-ondersteuning, uitgebreide documentatie en vele pakketten van derden, waardoor PHP-ontwikkeling efficiënt en plezierig wordt. Phalcon heeft een groeiende gemeenschap en biedt gedetailleerde documentatie en tutorials om ontwikkelaars te ondersteunen. WordPress beschikt over een uitgebreid ecosysteem met een grote gebruikersbasis, die talrijke plugins en thema's biedt, terwijl Headless WordPress de flexibiliteit van moderne front-end frameworks benut, ondersteund door een robuuste gemeenschap en hulpbronnen.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Waarvoor wordt PHP gebruikt?",
-                "answer": "PHP is een server-side scripttaal ontworpen voor webontwikkeling en wordt veel gebruikt bij het maken van dynamische webpagina's."
+                question: "Waarvoor wordt PHP gebruikt?",
+                answer: "PHP is een server-side scripttaal ontworpen voor webontwikkeling en wordt veel gebruikt bij het maken van dynamische webpagina's."
             },
             {
-                "question": "Wat zijn Symfony en Laravel?",
-                "answer": "Symfony en Laravel zijn populaire PHP-frameworks die de ontwikkeling van robuuste en schaalbare webapplicaties vergemakkelijken."
+                question: "Wat zijn Symfony en Laravel?",
+                answer: "Symfony en Laravel zijn populaire PHP-frameworks die de ontwikkeling van robuuste en schaalbare webapplicaties vergemakkelijken."
             },
             {
-                "question": "Waarom WordPress gebruiken?",
-                "answer": "WordPress is een veelzijdig contentmanagementsysteem gebouwd op PHP, ideaal voor het maken van blogs, websites en webwinkels."
+                question: "Waarom WordPress gebruiken?",
+                answer: "WordPress is een veelzijdig contentmanagementsysteem gebouwd op PHP, ideaal voor het maken van blogs, websites en webwinkels."
             }
         ]
     },
     python: {
         title: "Python",
         description: "Python is een geïnterpreteerde programmeertaal op hoog niveau die bekend staat om zijn eenvoud, leesbaarheid en veelzijdigheid. Het wordt breed gebruikt in verschillende domeinen, van webontwikkeling en gegevensanalyse tot kunstmatige intelligentie en wetenschappelijk rekenen.",
-        "image": "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
-        "alt": "Logo dat Python met Flask-framework vertegenwoordigt",
-        "readMore": "Ontdek meer Python, Flask, Django full-stack ontwikkelingsoplossingen",
-        "link": "/technical-expertise/full-stack-developer/python-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+        alt: "Logo dat Python met Flask-framework vertegenwoordigt",
+        readMore: "Ontdek meer Python, Flask, Django full-stack ontwikkelingsoplossingen",
+        link: "/technical-expertise/full-stack-developer/python-developer",
+        features: [
             {
                 title: "Python-ontwikkeling",
                 description: "Python is een geïnterpreteerde programmeertaal op hoog niveau die bekend staat om zijn eenvoud, leesbaarheid en veelzijdigheid. Het wordt breed gebruikt in verschillende domeinen, van webontwikkeling en gegevensanalyse tot kunstmatige intelligentie en wetenschappelijk rekenen.",
-                "list": []
+                list: []
             },
             {
                 title: "Gemakkelijk te leren en te gebruiken",
                 description: "Python's eenvoudige syntaxis en leesbaarheid maken het een uitstekende keuze voor zowel beginners als ervaren ontwikkelaars. De uitgebreide standaardbibliotheek en door de gemeenschap bijgedragen modules bieden kant-en-klare oplossingen voor een breed scala aan taken.",
-                "list": [
+                list: [
                     "Gemakkelijk te leren",
                     "Leesbare syntaxis",
                     "Veelzijdig",
@@ -339,92 +339,92 @@ export const FullStackNL: IFullStack = {
             {
                 title: "Veelzijdige toepassingen",
                 description: "Python wordt gebruikt in diverse vakgebieden, waaronder webontwikkeling met frameworks zoals Django en Flask, datawetenschappen met bibliotheken zoals pandas en NumPy, en machine learning met TensorFlow en scikit-learn. Deze veelzijdigheid maakt Python een go-to taal voor veel ontwikkelaars.",
-                "list": []
+                list: []
             },
             {
                 title: "Sterke ondersteuning van de gemeenschap",
                 description: "Python heeft een levendige en actieve gemeenschap die voortdurend bijdraagt aan de groei ervan. Met talrijke tutorials, forums en open-source projecten beschikbaar, kunnen ontwikkelaars gemakkelijk ondersteuning en middelen vinden om hun vaardigheden te verbeteren en uitdagingen op te lossen.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "Waarvoor wordt Python gebruikt?",
-                "answer": "Python wordt gebruikt voor webontwikkeling, gegevensanalyse, kunstmatige intelligentie, wetenschappelijk rekenen en nog veel meer."
+                question: "Waarvoor wordt Python gebruikt?",
+                answer: "Python wordt gebruikt voor webontwikkeling, gegevensanalyse, kunstmatige intelligentie, wetenschappelijk rekenen en nog veel meer."
             },
             {
-                "question": "Waarom is Python zo populair?",
-                "answer": "De eenvoud, leesbaarheid en veelzijdigheid van Python maken het een populaire keuze voor zowel beginners als ervaren ontwikkelaars."
+                question: "Waarom is Python zo populair?",
+                answer: "De eenvoud, leesbaarheid en veelzijdigheid van Python maken het een populaire keuze voor zowel beginners als ervaren ontwikkelaars."
             },
             {
-                "question": "Is Python goed voor webontwikkeling?",
-                "answer": "Ja, frameworks zoals Django en Flask maken Python een krachtig hulpmiddel voor webontwikkeling."
+                question: "Is Python goed voor webontwikkeling?",
+                answer: "Ja, frameworks zoals Django en Flask maken Python een krachtig hulpmiddel voor webontwikkeling."
             }
         ],
-        "frameworks": [
+        frameworks: [
             {
-                "name": "Django",
-                "overview": "Django is een webframework op hoog niveau dat snelle ontwikkeling en schoon, pragmatisch ontwerp aanmoedigt.",
-                "strengths": [
+                name: "Django",
+                overview: "Django is een webframework op hoog niveau dat snelle ontwikkeling en schoon, pragmatisch ontwerp aanmoedigt.",
+                strengths: [
                     "Batterijen inbegrepen: Komt met veel ingebouwde functies zoals ORM, authenticatie en een beheerderspaneel.",
                     "Schaalbaarheid: Geschikt voor grootschalige toepassingen.",
                     "Beveiliging: Bevat ingebouwde bescherming tegen veel voorkomende beveiligingsbedreigingen."
                 ],
-                "useCases": [
+                useCases: [
                     "Grootschalige webapplicaties",
                     "E-commerce sites",
                     "Content management systemen"
                 ]
             },
             {
-                "name": "Flask",
-                "overview": "Flask is een micro-webframework dat de essentiële zaken biedt om een webapplicatie draaiende te krijgen zonder veel boilerplate code.",
-                "strengths": [
+                name: "Flask",
+                overview: "Flask is een micro-webframework dat de essentiële zaken biedt om een webapplicatie draaiende te krijgen zonder veel boilerplate code.",
+                strengths: [
                     "Lichtgewicht: Minimalistisch en flexibel.",
                     "Uitbreidbaar: Kan eenvoudig worden uitgebreid met verschillende extensies.",
                     "Gemakkelijk te leren: Eenvoudig te begrijpen en mee te beginnen."
                 ],
-                "useCases": [
+                useCases: [
                     "Kleine tot middelgrote applicaties",
                     "API's",
                     "Prototyping"
                 ]
             },
             {
-                "name": "FastAPI",
-                "overview": "FastAPI is een modern, snel (hoge prestaties) webframework voor het bouwen van API's met Python 3.6+ gebaseerd op standaard Python type hints.",
-                "strengths": [
+                name: "FastAPI",
+                overview: "FastAPI is een modern, snel (hoge prestaties) webframework voor het bouwen van API's met Python 3.6+ gebaseerd op standaard Python type hints.",
+                strengths: [
                     "Snelheid: Asynchrone ondersteuning en hoge prestaties.",
                     "Automatische documentatie: Genereert OpenAPI en JSON Schema documentatie.",
                     "Typeveiligheid: Gebruikt Python type hints voor validatie en serialisatie."
                 ],
-                "useCases": [
+                useCases: [
                     "API's",
                     "Microservices",
                     "Real-time applicaties"
                 ]
             },
             {
-                "name": "Pyramid",
-                "overview": "Pyramid is een algemeen webframework dat is ontworpen om het schrijven van webapplicaties gemakkelijk te maken.",
-                "strengths": [
+                name: "Pyramid",
+                overview: "Pyramid is een algemeen webframework dat is ontworpen om het schrijven van webapplicaties gemakkelijk te maken.",
+                strengths: [
                     "Flexibiliteit: Kan worden gebruikt voor zowel kleine als grote applicaties.",
                     "Aanpassing: Zeer configureerbaar en modulair.",
                     "Beveiliging: Biedt verschillende beveiligingsfuncties."
                 ],
-                "useCases": [
+                useCases: [
                     "Veelzijdige applicaties variërend van microservices tot grote webapplicaties"
                 ]
             },
             {
-                "name": "Tornado",
-                "overview": "Tornado is een schaalbare, niet-blokkerende webserver en webapplicatieframework.",
-                "strengths": [
+                name: "Tornado",
+                overview: "Tornado is een schaalbare, niet-blokkerende webserver en webapplicatieframework.",
+                strengths: [
                     "Prestaties: Ontworpen voor het afhandelen van langdurige netwerkverbindingen.",
                     "Real-time: Geschikt voor real-time webapplicaties.",
                     "Schaalbaarheid: Kan duizenden gelijktijdige verbindingen verwerken."
                 ],
-                "useCases": [
+                useCases: [
                     "Real-time applicaties",
                     "WebSockets",
                     "Long polling"
@@ -437,10 +437,10 @@ export const FullStackNL: IFullStack = {
 
     services: {
         title: "Back-End & API Ontwikkeling",
-        "descriptions": [
+        descriptions: [
             "Bouw krachtige, veilige en schaalbare webapplicaties met onze deskundige full-stack ontwikkelingsdiensten. Onze ontwikkelaars excelleren in zowel front-end als back-end technologieën en creëren uitgebreide oplossingen op maat van uw specifieke zakelijke vereisten. De technische expertise van CHORN omvat meerdere technologiestacks, waaronder Node.js, .NET Core C#, Java Spring Boot, Python, Go en PHP, waardoor we projecten van elke complexiteit kunnen afhandelen. Of u nu een eerste Proof of Concept (PoC) lanceert of een marktklaar Minimum Viable Product (MVP) ontwikkelt, ons bekwame team zorgt voor een naadloze integratie tussen gebruikersinterfaces en serverzijde functionaliteit voor een uitzonderlijke gebruikerservaring."
         ],
-        "items": [
+        items: [
             {
                 title: "Naadloze Front-End & Back-End Integratie",
                 description: "Ontwikkel samenhangende webapplicaties met perfect gesynchroniseerde client- en servercomponenten die snelheid, veiligheid en schaalbaarheid bieden."

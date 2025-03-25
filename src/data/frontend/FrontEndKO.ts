@@ -40,16 +40,16 @@ export const FrontEndKO: IFrontEnd = {
         ],
         faqs: [
             {
-                "question": "What is Angular?",
-                "answer": "Angular is a web application framework developed by Google for creating dynamic web apps."
+                question: "What is Angular?",
+                answer: "Angular is a web application framework developed by Google for creating dynamic web apps."
             },
             {
-                "question": "What is two-way data binding?",
-                "answer": "Two-way data binding synchronizes the model and the view, ensuring changes in one reflect in the other."
+                question: "What is two-way data binding?",
+                answer: "Two-way data binding synchronizes the model and the view, ensuring changes in one reflect in the other."
             },
             {
-                "question": "Why use TypeScript with Angular?",
-                "answer": "TypeScript enhances Angular development with strong typing, modern features, and improved tooling."
+                question: "Why use TypeScript with Angular?",
+                answer: "TypeScript enhances Angular development with strong typing, modern features, and improved tooling."
             }
         ],
     },
@@ -87,20 +87,20 @@ export const FrontEndKO: IFrontEnd = {
         ],
         faqs: [
             {
-                "question": "What is CSS3?",
-                "answer": "CSS3 is the latest version of Cascading Style Sheets, offering new features for web styling."
+                question: "What is CSS3?",
+                answer: "CSS3 is the latest version of Cascading Style Sheets, offering new features for web styling."
             },
             {
-                "question": "What are media queries?",
-                "answer": "Media queries allow for responsive designs by applying styles based on device characteristics."
+                question: "What are media queries?",
+                answer: "Media queries allow for responsive designs by applying styles based on device characteristics."
             },
             {
-                "question": "What is the Flexbox layout?",
-                "answer": "Flexbox layout provides a more efficient way to design layouts, distribute space, and align items."
+                question: "What is the Flexbox layout?",
+                answer: "Flexbox layout provides a more efficient way to design layouts, distribute space, and align items."
             },
             {
-                "question": "What are popular CSS frameworks?",
-                "answer": "The popular CSS frameworks are Bootstrap, Tailwind CSS, Bulma, Foundation, and Materialize."
+                question: "What are popular CSS frameworks?",
+                answer: "The popular CSS frameworks are Bootstrap, Tailwind CSS, Bulma, Foundation, and Materialize."
             }
         ],
     },
@@ -138,16 +138,16 @@ export const FrontEndKO: IFrontEnd = {
         ],
         faqs: [
             {
-                "question": "What is HTML5?",
-                "answer": "HTML5 is the latest version of the HyperText Markup Languages, introducing new features and elements."
+                question: "What is HTML5?",
+                answer: "HTML5 is the latest version of the HyperText Markup Languages, introducing new features and elements."
             },
             {
-                "question": "What are the new semantic elements?",
-                "answer": "New semantic elements include <article>, <section>, <header>, <footer>, and more for better content structure."
+                question: "What are the new semantic elements?",
+                answer: "New semantic elements include <article>, <section>, <header>, <footer>, and more for better content structure."
             },
             {
-                "question": "What is the canvas element?",
-                "answer": "The canvas element provides a space for drawing graphics via JavaScript."
+                question: "What is the canvas element?",
+                answer: "The canvas element provides a space for drawing graphics via JavaScript."
             }
         ],
     },
@@ -233,36 +233,36 @@ export const FrontEndKO: IFrontEnd = {
         ],
         faqs: [
             {
-                "question": "What is React.js?",
-                "answer": "React.js is a JavaScript library for building user interfaces, maintained by Facebook."
+                question: "What is React.js?",
+                answer: "React.js is a JavaScript library for building user interfaces, maintained by Facebook."
             },
             {
-                "question": "What are React Hooks?",
-                "answer": "React Hooks are functions that let you use state and lifecycle features in functional components."
+                question: "What are React Hooks?",
+                answer: "React Hooks are functions that let you use state and lifecycle features in functional components."
             },
             {
-                "question": "How does the virtual DOM work?",
-                "answer": "The virtual DOM updates only the changed elements, improving application performance."
+                question: "How does the virtual DOM work?",
+                answer: "The virtual DOM updates only the changed elements, improving application performance."
             }
         ],
     },
     typescript: {
         title: "TypeScript",
         description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles to plain JavaScript, making it compatible with all browsers and frameworks.",
-        "image": "/chorn-images/technical-expertise/front-end-developer/typescript-developer.webp",
-        "alt": "Logo representing TypeScript programming language",
-        "readMore": "Explore more TypeScript full-stack development solutions",
-        "link": "/technical-expertise/front-end-developer/typescript-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/front-end-developer/typescript-developer.webp",
+        alt: "Logo representing TypeScript programming language",
+        readMore: "Explore more TypeScript full-stack development solutions",
+        link: "/technical-expertise/front-end-developer/typescript-developer",
+        features: [
             {
                 title: "TypeScript Development",
                 description: "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
-                "list": []
+                list: []
             },
             {
                 title: "Enhanced Code Quality",
                 description: "TypeScript's type-checking features ensure that potential errors are caught during the development phase, reducing runtime errors and improving maintainability for large-scale projects.",
-                "list": [
+                list: [
                     "Static typing",
                     "Advanced error checking",
                     "Improved code quality",
@@ -274,26 +274,26 @@ export const FrontEndKO: IFrontEnd = {
             {
                 title: "Improved Developer Productivity",
                 description: "With features like type inference, interfaces, and generics, TypeScript makes managing complex codebases easier. It integrates seamlessly with modern tools, boosting productivity and collaboration.",
-                "list": []
+                list: []
             },
             {
                 title: "Seamless Integration with Frameworks",
                 description: "TypeScript integrates effortlessly with popular JavaScript frameworks such as React, Angular, and Vue.js. Developers can gradually adopt TypeScript in existing JavaScript projects, ensuring compatibility and scalability.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "What is TypeScript?",
-                "answer": "TypeScript is a superset of JavaScript that adds static typing and other advanced features for improved development."
+                question: "What is TypeScript?",
+                answer: "TypeScript is a superset of JavaScript that adds static typing and other advanced features for improved development."
             },
             {
-                "question": "Why use TypeScript over JavaScript?",
-                "answer": "TypeScript's static typing and robust tooling catch errors early, improve code quality, and enhance developer productivity."
+                question: "Why use TypeScript over JavaScript?",
+                answer: "TypeScript's static typing and robust tooling catch errors early, improve code quality, and enhance developer productivity."
             },
             {
-                "question": "Can TypeScript work with JavaScript frameworks?",
-                "answer": "Yes, TypeScript is fully compatible with JavaScript frameworks such as React, Angular, and Vue.js."
+                question: "Can TypeScript work with JavaScript frameworks?",
+                answer: "Yes, TypeScript is fully compatible with JavaScript frameworks such as React, Angular, and Vue.js."
             }
         ],
     },
@@ -331,36 +331,36 @@ export const FrontEndKO: IFrontEnd = {
         ],
         faqs: [
             {
-                "question": "What is Vue.js?",
-                "answer": "Vue.js is a progressive JavaScript framework for building user interfaces."
+                question: "What is Vue.js?",
+                answer: "Vue.js is a progressive JavaScript framework for building user interfaces."
             },
             {
-                "question": "What is the virtual DOM?",
-                "answer": "The virtual DOM is a lightweight copy of the actual DOM, optimizing updates and performance."
+                question: "What is the virtual DOM?",
+                answer: "The virtual DOM is a lightweight copy of the actual DOM, optimizing updates and performance."
             },
             {
-                "question": "How does Vue.js differ from React?",
-                "answer": "Vue.js offers a more flexible and simpler integration compared to React's more complex setup."
+                question: "How does Vue.js differ from React?",
+                answer: "Vue.js offers a more flexible and simpler integration compared to React's more complex setup."
             }
         ],
     },
     javascript: {
         title: "JavaScript",
         description: "JavaScript is a versatile and dynamic programming language widely used for building interactive and responsive web applications. Its flexibility and extensive ecosystem make it an essential tool for modern web development.",
-        "image": "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
-        "alt": "Logo representing JavaScript programming language",
-        "readMore": "Explore more JavaScript full-stack development solutions",
-        "link": "/technical-expertise/front-end-developer/javascript-developer",
-        "features": [
+        image: "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
+        alt: "Logo representing JavaScript programming language",
+        readMore: "Explore more JavaScript full-stack development solutions",
+        link: "/technical-expertise/front-end-developer/javascript-developer",
+        features: [
             {
                 title: "JavaScript Development",
                 description: "JavaScript powers the dynamic behavior of websites and web applications, offering unparalleled versatility and compatibility with browsers and frameworks.",
-                "list": []
+                list: []
             },
             {
                 title: "Rich Interactive Experiences",
                 description: "JavaScript enables developers to create interactive user interfaces, animations, and real-time features like chat applications, delivering engaging user experiences.",
-                "list": [
+                list: [
                     "Dynamic content updates",
                     "Interactive web interfaces",
                     "Animation and transitions",
@@ -371,26 +371,26 @@ export const FrontEndKO: IFrontEnd = {
             {
                 title: "Wide Ecosystem and Tooling",
                 description: "JavaScript boasts a vast ecosystem of libraries and frameworks like React, Angular, and Vue.js, empowering developers to build robust web applications efficiently.",
-                "list": []
+                list: []
             },
             {
                 title: "Back-End Development with Node.js",
                 description: "JavaScript extends to back-end development through Node.js, enabling full-stack development with a single language, from server-side logic to client-side interactions.",
-                "list": []
+                list: []
             }
         ],
-        "faqs": [
+        faqs: [
             {
-                "question": "What is JavaScript?",
-                "answer": "JavaScript is a dynamic programming language commonly used for creating interactive web applications."
+                question: "What is JavaScript?",
+                answer: "JavaScript is a dynamic programming language commonly used for creating interactive web applications."
             },
             {
-                "question": "Why use JavaScript for web development?",
-                "answer": "JavaScript offers versatility, extensive libraries, and compatibility across browsers, making it a go-to language for web developers."
+                question: "Why use JavaScript for web development?",
+                answer: "JavaScript offers versatility, extensive libraries, and compatibility across browsers, making it a go-to language for web developers."
             },
             {
-                "question": "What frameworks are built on JavaScript?",
-                "answer": "Popular JavaScript frameworks include React, Angular, and Vue.js."
+                question: "What frameworks are built on JavaScript?",
+                answer: "Popular JavaScript frameworks include React, Angular, and Vue.js."
             }
         ],
     },
@@ -399,10 +399,10 @@ export const FrontEndKO: IFrontEnd = {
 
     services: {
         title: "Front-End Development Services",
-        "descriptions": [
+        descriptions: [
             "Transform your web vision into reality with our expert front-end development services. CHORN delivers user-friendly, visually stunning, and fully responsive websites that engage your audience. We specialize in modern frameworks including Next.js, React, Angular, and Vue.js, alongside core web technologies like HTML5 and CSS3. Whether you need a high-performance single-page application (SPA) optimized for search engines or a sophisticated multi-page platform, our developers deliver quality results on time. Partner with CHORN to create compelling digital experiences that captivate visitors and drive business growth."
         ],
-        "items": [
+        items: [
             {
                 title: "Modern Framework Implementation",
                 description: "Build dynamic, interactive web applications using cutting-edge frameworks like Next.js and React that provide optimal performance and user experience."
