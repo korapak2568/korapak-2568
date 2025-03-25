@@ -12,10 +12,14 @@ import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
 import FlexibleWorkspace from "@/components/Gallery/FlexibleWorkspace";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
+import {MetadataHome} from "@/data/metadata/pages/home/common/MetadataHome";
+import {headers} from "next/headers";
 
-export const metadata: Metadata = MetadataChorn.home
+export async function generateMetadata(): Promise<Metadata> {
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataHome[lang]
+}
 
 export default function Home() {
     const localBusinessSchema = {

@@ -5,7 +5,7 @@ import {MetadataDevOps} from "@/data/metadata/metadata/MetadataDevOps";
 import {OpenGraph} from "@/data/metadata/opengraph/OpenGraph";
 
 export const MetadataChorn: IMetadataChorn = {
-
+    // moved
     home: {
         title: "CHORN | System Analysis & Full-Stack Software Development Engineering",
         description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud computing, and system modernization to drive innovation and efficiency.",
@@ -95,6 +95,53 @@ export const MetadataChorn: IMetadataChorn = {
             "outsourcing program online"
         ],
     },
+    gallery: {
+        title: "Global Business Trip | CHORN Gallery",
+        description: "Explore highlights from CHORN's international business trips, including experiences in Los Angeles, California, and premium travel with Singapore Airlines.",
+        alternates: {
+            canonical: "https://chorn.in.th/en/gallery/",
+            languages: {
+                "en": "https://chorn.in.th/en/gallery/",
+                "th": "https://chorn.in.th/th/gallery/",
+                "fr": "https://chorn.in.th/fr/gallery/",
+                "ja": "https://chorn.in.th/ja/gallery/",
+                "vi": "https://chorn.in.th/vi/gallery/",
+                "zh": "https://chorn.in.th/zh/gallery/",
+                "de": "https://chorn.in.th/de/gallery/",
+                "nl": "https://chorn.in.th/nl/gallery/",
+                "da": "https://chorn.in.th/da/gallery/",
+                "fi": "https://chorn.in.th/fi/gallery/",
+                "ko": "https://chorn.in.th/ko/gallery/",
+            }
+        },
+        authors: [
+            {
+                name: "CHORN"
+            }
+        ],
+        openGraph: {
+            title: "Global Business Trip - CHORN Gallery",
+            description: "Discover CHORN's global expertise through international business trips, premium travel experiences, and advanced training capabilities.",
+            images: [
+                {
+                    url: OpenGraph.gallery.url,
+                    width: 1200,
+                    height: 630,
+                    alt: OpenGraph.gallery.alt,
+                },
+            ],
+            url: "https://chorn.in.th/en/gallery/",
+            type: "website",
+        },
+        twitter: {
+            card: "summary_large_image",
+            title: "Global Business Trip - CHORN Gallery",
+            description: "Experience CHORN’s international business journey, premium travel, and global training expertise.",
+            images: [
+                OpenGraph.gallery.url,
+            ],
+        },
+    },
     llmAi: {
         title: "LLM/AI Integration | CHORN",
         description: "Discover CHORN's advanced LLM/AI agent development services, offering intelligent solutions tailored to enhance automation, legacy system integration, and predictive analytics.",
@@ -142,7 +189,6 @@ export const MetadataChorn: IMetadataChorn = {
             ]
         }
     },
-
     aiCompanions: {
         title: "AI Chat Companion | CHORN AI Integration",
         description: "Welcome to the AI Chat Companion, a demo of AI-powered integration. Explore AI companions with unique personalities, designed for seamless interaction via the LINE app, supporting multiple languages.",
@@ -331,101 +377,6 @@ export const MetadataChorn: IMetadataChorn = {
             ],
         },
     },
-
-    gallery: {
-        title: "Global Business Trip | CHORN Gallery",
-        description: "Explore highlights from CHORN's international business trips, including experiences in Los Angeles, California, and premium travel with Singapore Airlines.",
-        alternates: {
-            canonical: "https://chorn.in.th/en/gallery/",
-            languages: {
-                "en": "https://chorn.in.th/en/gallery/",
-                "th": "https://chorn.in.th/th/gallery/",
-                "fr": "https://chorn.in.th/fr/gallery/",
-                "ja": "https://chorn.in.th/ja/gallery/",
-                "vi": "https://chorn.in.th/vi/gallery/",
-                "zh": "https://chorn.in.th/zh/gallery/",
-                "de": "https://chorn.in.th/de/gallery/",
-                "nl": "https://chorn.in.th/nl/gallery/",
-                "da": "https://chorn.in.th/da/gallery/",
-                "fi": "https://chorn.in.th/fi/gallery/",
-                "ko": "https://chorn.in.th/ko/gallery/",
-            }
-        },
-        authors: [
-            {
-                name: "CHORN"
-            }
-        ],
-        openGraph: {
-            title: "Global Business Trip - CHORN Gallery",
-            description: "Discover CHORN's global expertise through international business trips, premium travel experiences, and advanced training capabilities.",
-            images: [
-                {
-                    url: OpenGraph.gallery.url,
-                    width: 1200,
-                    height: 630,
-                    alt: OpenGraph.gallery.alt,
-                },
-            ],
-            url: "https://chorn.in.th/en/gallery/",
-            type: "website",
-        },
-        twitter: {
-            card: "summary_large_image",
-            title: "Global Business Trip - CHORN Gallery",
-            description: "Experience CHORN’s international business journey, premium travel, and global training expertise.",
-            images: [
-                OpenGraph.gallery.url,
-            ],
-        },
-    },
-    about: {
-        title: "About CHORN | System Analysis & Full-Stack Software Development Engineering",
-        description: "Discover CHORN's expertise in system analysis, full-stack development, and modern software solutions that drive business success.",
-        alternates: {
-            canonical: "https://chorn.in.th/en/about-chorn/",
-            languages: {
-                "en": "https://chorn.in.th/en/about-chorn/",
-                "th": "https://chorn.in.th/th/about-chorn/",
-                "fr": "https://chorn.in.th/fr/about-chorn/",
-                "ja": "https://chorn.in.th/ja/about-chorn/",
-                "vi": "https://chorn.in.th/vi/about-chorn/",
-                "zh": "https://chorn.in.th/zh/about-chorn/",
-                "de": "https://chorn.in.th/de/about-chorn/",
-                "nl": "https://chorn.in.th/nl/about-chorn/",
-                "da": "https://chorn.in.th/da/about-chorn/",
-                "fi": "https://chorn.in.th/fi/about-chorn/",
-                "ko": "https://chorn.in.th/ko/about-chorn/",
-            }
-        },
-        authors: [
-            {
-                name: "CHORN"
-            }
-        ],
-        openGraph: {
-            title: "CHORN - Experts in System Analysis & Full-Stack Software Development Engineering",
-            description: "Explore CHORN's commitment to delivering cutting-edge system modernization, full-stack development, and technical support for businesses.",
-            images: [
-                {
-                    url: OpenGraph.about.url,
-                    width: 1200,
-                    height: 630,
-                    alt: OpenGraph.about.alt,
-                },
-            ],
-            url: "https://chorn.in.th/en/about-chorn/",
-            type: "website",
-        },
-        twitter: {
-            card: "summary_large_image",
-            title: "CHORN - Leading System Analysis & Full-Stack Software Development Engineering",
-            description: "Unlock business potential with CHORN's advanced system analysis, full-stack development, and modern software solutions.",
-            images: [
-                OpenGraph.about.url,
-            ],
-        },
-    },
     contact: {
         title: "Contact | CHORN - Get in Touch for Custom Software Solutions",
         description: "Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need.",
@@ -473,7 +424,6 @@ export const MetadataChorn: IMetadataChorn = {
             ],
         },
     },
-
     webDevelopment: {
         title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
         description: "Explore CHORN's web development technical-expertise, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",

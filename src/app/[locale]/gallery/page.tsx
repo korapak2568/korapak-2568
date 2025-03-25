@@ -3,10 +3,14 @@ import GalleryContent from "@/components/Gallery/GalleryContent";
 import ImpressivePortfolio from "@/components/Gallery/ImpressivePortfolio";
 import Footer from "@/components/Layouts/Footer";
 import {Metadata} from "next";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
+import {headers} from "next/headers";
+import {MetadataGallery} from "@/data/metadata/pages/gallery/common/MetadataGallery";
 
-export const metadata: Metadata = MetadataChorn.gallery
+export async function generateMetadata(): Promise<Metadata> {
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataGallery[lang]
+}
 
 export default function Page() {
     return (

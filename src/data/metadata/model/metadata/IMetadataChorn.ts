@@ -14,7 +14,6 @@ export interface IMetadataChorn {
     aiPloy: Metadata,
 
     gallery: Metadata,
-    about: Metadata,
     contact: Metadata,
 
     cloudSolutions: Metadata,

@@ -324,7 +324,7 @@ export const MetadataFrontEnd: IMetadataFrontEnd = {
             title: "CHORN - JavaScript Development for Custom Software Solutions",
             description: "Discover why CHORN uses JavaScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
             images: [
-                OpenGraph.frontend.javascript.url, OpenGraph.frontend.javascript.url,
+                OpenGraph.frontend.javascript.url,
             ],
         },
         keywords: [
@@ -480,19 +480,19 @@ export const MetadataFrontEnd: IMetadataFrontEnd = {
         title: "TypeScript | CHORN - Custom Software Development Experts",
         description: "Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
         alternates: {
-            canonical: "https://chorn.in.th/en/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+            canonical: "https://chorn.in.th/en/technical-expertise/front-end-developer/typescript-developer/",
             languages: {
-                "en": "https://chorn.in.th/en/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "th": "https://chorn.in.th/th/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "fr": "https://chorn.in.th/fr/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "ja": "https://chorn.in.th/ja/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "vi": "https://chorn.in.th/vi/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "zh": "https://chorn.in.th/zh/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "de": "https://chorn.in.th/de/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "nl": "https://chorn.in.th/nl/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "da": "https://chorn.in.th/da/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "fi": "https://chorn.in.th/fi/technical-expertise/full-stack-developer/typescript-javascript-developer/",
-                "ko": "https://chorn.in.th/ko/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+                "en": "https://chorn.in.th/en/technical-expertise/front-end-developer/typescript-developer/",
+                "th": "https://chorn.in.th/th/technical-expertise/front-end-developer/typescript-developer/",
+                "fr": "https://chorn.in.th/fr/technical-expertise/front-end-developer/typescript-developer/",
+                "ja": "https://chorn.in.th/ja/technical-expertise/front-end-developer/typescript-developer/",
+                "vi": "https://chorn.in.th/vi/technical-expertise/front-end-developer/typescript-developer/",
+                "zh": "https://chorn.in.th/zh/technical-expertise/front-end-developer/typescript-developer/",
+                "de": "https://chorn.in.th/de/technical-expertise/front-end-developer/typescript-developer/",
+                "nl": "https://chorn.in.th/nl/technical-expertise/front-end-developer/typescript-developer/",
+                "da": "https://chorn.in.th/da/technical-expertise/front-end-developer/typescript-developer/",
+                "fi": "https://chorn.in.th/fi/technical-expertise/front-end-developer/typescript-developer/",
+                "ko": "https://chorn.in.th/ko/technical-expertise/front-end-developer/typescript-developer/",
             }
         },
         authors: [
@@ -511,7 +511,7 @@ export const MetadataFrontEnd: IMetadataFrontEnd = {
                     alt: OpenGraph.frontend.typescript.alt,
                 },
             ],
-            url: "https://chorn.in.th/en/technical-expertise/full-stack-developer/typescript-javascript-developer/",
+            url: "https://chorn.in.th/en/technical-expertise/front-end-developer/typescript-developer/",
             type: "website",
         },
         twitter: {
