@@ -1,10 +1,10 @@
 import {Metadata} from "next";
-import {MetadataLinkAbout} from "@/data/metadata/pages/about/common/MetadataLinkAbout";
+import {MetadataLinkGallery} from "@/data/metadata/pages/gallery/common/MetadataLinkGallery";
 
 export const MetadataGalleryEN: Metadata = {
     title: "International Travel | CHORN Gallery",
     description: "CHORN has the experience and readiness for international travel to receive training and learn from work in ASEAN and the United States.",
-    alternates: MetadataLinkAbout.alternates,
+    alternates: MetadataLinkGallery.alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +13,14 @@ export const MetadataGalleryEN: Metadata = {
     openGraph: {
         title: "International Travel | CHORN Gallery",
         description: "CHORN has the experience and readiness for international travel to receive training and learn from work in ASEAN and the United States.",
-        images: MetadataLinkAbout.openGraph.images,
-        url: MetadataLinkAbout.openGraph.url,
+        images: MetadataLinkGallery.openGraph.images,
+        url: MetadataLinkGallery.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "International Travel | CHORN Gallery",
         description: "CHORN has the experience and readiness for international travel to receive training and learn from work in ASEAN and the United States.",
-        images: MetadataLinkAbout.twitter.images,
+        images: MetadataLinkGallery.twitter.images,
     },
 }
