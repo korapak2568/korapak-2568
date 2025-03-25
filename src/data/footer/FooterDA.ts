@@ -8,7 +8,7 @@ export const FooterDA: IFooter = {
         "skalerbare websteder til millioner af brugere og fremtidsorienteret ekspertise. " +
         "Løft din digitale tilstedeværelse med os.",
     importantTitle: "Vigtige links",
-    featureTitle: "Udvalgte tjenester",
+    featureTitle: "Teknisk ekspertise",
     infoTitle: "Information",
     termOfService: {
         label: "Servicevilkår",

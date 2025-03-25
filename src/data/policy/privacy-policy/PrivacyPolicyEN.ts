@@ -66,10 +66,6 @@ export const PrivacyPolicyEN: IPolicy = {
                     description: "This Privacy Policy may be updated periodically. Modifications are effective immediately upon posting on this page. Continued use of the website after updates constitutes acceptance of the revised Privacy Policy."
                 }
             ]
-        },
-        {
-            title: "6. Contact CHORN",
-            description: "For any questions regarding this Privacy Policy, please reach out via the contact page."
-        },
+        }
     ],
 };

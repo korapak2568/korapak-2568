@@ -28,14 +28,6 @@ export const WorkplacePolicyDA: IPolicy = {
         {
             title: "Arbejdsliv Balance",
             description: "Den hybride model muliggør effektiv tidsstyring, så teammedlemmer kan udmærke sig i deres roller, samtidig med at de prioriterer deres personlige velvære og forpligtelser."
-        },
-        {
-            title: "Hvem Trives Hos CHORN?",
-            description: "CHORN er den ideelle arbejdsplads for top talent, der værdsætter fleksibilitet, trives i dynamiske miljøer og brænder for innovation. Den hybride model er skræddersyet til at tiltrække og fastholde de bedste hjerner i branchen."
-        },
-        {
-            title: "",
-            description: "Slut dig til CHORN og oplev en hybrid arbejdsplads, der understøtter både professionelle ambitioner og personlige mål."
-        },
+        }
     ],
 };

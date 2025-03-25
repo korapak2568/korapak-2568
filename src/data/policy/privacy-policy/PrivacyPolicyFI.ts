@@ -66,10 +66,6 @@ export const PrivacyPolicyFI: IPolicy = {
                     description: "Tätä tietosuojakäytäntöä voidaan päivittää ajoittain. Muutokset tulevat voimaan välittömästi, kun ne julkaistaan tällä sivulla. Verkkosivuston käytön jatkaminen päivitysten jälkeen merkitsee tarkistetun tietosuojakäytännön hyväksymistä."
                 }
             ]
-        },
-        {
-            title: "6. Ota yhteyttä CHORNiin",
-            description: "Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, ota yhteyttä yhteydenottosivun kautta."
-        },
+        }
     ],
 };

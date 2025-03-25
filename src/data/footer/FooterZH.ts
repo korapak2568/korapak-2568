@@ -8,7 +8,7 @@ export const FooterZH: IFooter = {
         "为数百万用户提供可扩展的网站，并实现面向未来的卓越性能。" +
         "与我们一起提升您的数字化存在。",
     importantTitle: "重要链接",
-    featureTitle: "特色服务",
+    featureTitle: "技术专长",
     infoTitle: "信息",
     termOfService: {
         label: "服务条款",

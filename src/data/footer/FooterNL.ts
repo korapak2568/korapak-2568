@@ -8,7 +8,7 @@ export const FooterNL: IFooter = {
         "schaalbare websites voor miljoenen gebruikers en toekomstgerichte excellentie. " +
         "Verhoog uw digitale aanwezigheid met ons.",
     importantTitle: "Belangrijke links",
-    featureTitle: "Uitgelichte diensten",
+    featureTitle: "Technische expertise",
     infoTitle: "Informatie",
     termOfService: {
         label: "Servicevoorwaarden",

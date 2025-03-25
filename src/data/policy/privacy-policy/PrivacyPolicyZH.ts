@@ -66,10 +66,6 @@ export const PrivacyPolicyZH: IPolicy = {
                     description: "本隐私政策可能会定期更新。更改将在本页面发布后立即生效。继续使用本网站即表示您接受修订后的隐私政策。"
                 }
             ]
-        },
-        {
-            title: "6. 联系 CHORN",
-            description: "如果您对本隐私政策有任何疑问，请通过联系我们页面与我们联系。"
-        },
+        }
     ],
 };

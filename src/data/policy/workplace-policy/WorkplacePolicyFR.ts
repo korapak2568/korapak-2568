@@ -28,14 +28,6 @@ export const WorkplacePolicyFR: IPolicy = {
         {
             title: "Équilibre Travail-Vie Personnelle",
             description: "Le modèle hybride permet une gestion efficace du temps, garantissant que les membres de l'équipe peuvent exceller dans leurs rôles tout en priorisant leur bien-être personnel et leurs engagements."
-        },
-        {
-            title: "Qui Réussit chez CHORN ?",
-            description: "CHORN est un lieu de travail idéal pour les talents de haut niveau qui valorisent la flexibilité, prospèrent dans des environnements dynamiques et sont passionnés par l'innovation. Le modèle hybride est conçu pour attirer et retenir les meilleurs esprits de l'industrie."
-        },
-        {
-            title: "",
-            description: "Rejoignez CHORN pour découvrir un lieu de travail hybride qui soutient à la fois les aspirations professionnelles et les objectifs personnels."
-        },
+        }
     ],
 };

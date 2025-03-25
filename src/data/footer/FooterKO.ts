@@ -8,7 +8,7 @@ export const FooterKO: IFooter = {
         "수백만 사용자를 위한 확장 가능한 웹사이트, 그리고 미래를 대비한 우수성을 제공합니다. " +
         "저희와 함께 디지털 존재감을 향상시키세요.",
     importantTitle: "중요 링크",
-    featureTitle: "주요 서비스",
+    featureTitle: "기술 전문 지식",
     infoTitle: "정보",
     termOfService: {
         label: "서비스 이용약관",

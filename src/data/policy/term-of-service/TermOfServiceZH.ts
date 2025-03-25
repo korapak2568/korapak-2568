@@ -31,10 +31,6 @@ export const TermOfServiceZH: IPolicy = {
         {
             title: "5. 条款变更",
             description: "5.1 本条款可能随时修改。修改将在网站上发布后立即生效。继续使用本网站即表示您接受更新后的条款。"
-        },
-        {
-            title: "6. 联系 CHORN",
-            description: "如果您对这些条款有任何疑问，请通过 contact@chorn.in.th 与我们联系。"
-        },
+        }
     ],
 };

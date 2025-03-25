@@ -9,7 +9,7 @@ export const FooterJA: IFooter = {
         "そして未来を見据えた卓越性を提供するイノベーションパートナーです。" +
         "デジタルプレゼンスを私たちと共に向上させましょう。",
     importantTitle: "重要リンク",
-    featureTitle: "主なサービス",
+    featureTitle: "技術的専門知識",
     infoTitle: "情報",
     termOfService: {
         label: "利用規約",

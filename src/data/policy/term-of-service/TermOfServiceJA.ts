@@ -31,10 +31,6 @@ export const TermOfServiceJA: IPolicy = {
         {
             title: "5. 規約の変更",
             description: "5.1 本規約は随時変更されることがあります。変更はウェブサイトに掲載された時点で直ちに有効となります。変更後にウェブサイトを利用し続けることは、更新された規約に同意したものとみなします。"
-        },
-        {
-            title: "6. CHORNへのお問い合わせ",
-            description: "本規約に関するご質問は、contact@chorn.in.thまでご連絡ください。"
-        },
+        }
     ],
 };

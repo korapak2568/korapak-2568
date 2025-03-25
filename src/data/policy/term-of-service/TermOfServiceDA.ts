@@ -33,10 +33,6 @@ export const TermOfServiceDA: IPolicy = {
         {
             title: "5. Ændringer i vilkårene",
             description: "5.1 Disse vilkår kan ændres til enhver tid. Ændringer træder i kraft straks efter offentliggørelse på webstedet. Fortsat brug af webstedet efter ændringer betyder, at du accepterer de opdaterede vilkår."
-        },
-        {
-            title: "6. Kontakt CHORN",
-            description: "Hvis du har spørgsmål vedrørende disse vilkår, bedes du kontakte os på contact@chorn.in.th."
-        },
+        }
     ],
 };

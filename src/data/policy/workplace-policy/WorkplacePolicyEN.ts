@@ -28,14 +28,6 @@ export const WorkplacePolicyEN: IPolicy = {
         {
             title: "Work-Life Balance",
             description: "The hybrid model enables effective time management, ensuring team members can excel in their roles while prioritizing personal well-being and commitments."
-        },
-        {
-            title: "Who Thrives at CHORN?",
-            description: "CHORN is an ideal workplace for top talent who value flexibility, thrive in dynamic environments, and are passionate about innovation. The hybrid model is tailored to attract and retain the best minds in the industry."
-        },
-        {
-            title: "",
-            description: "Join CHORN to experience a hybrid workplace that champions both professional aspirations and personal goals."
-        },
+        }
     ],
 };

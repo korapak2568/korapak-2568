@@ -28,14 +28,6 @@ export const WorkplacePolicyDE: IPolicy = {
         {
             title: "Work-Life-Balance",
             description: "Das hybride Modell ermöglicht ein effektives Zeitmanagement, sodass Teammitglieder in ihren Rollen exzellieren können, während sie gleichzeitig ihr persönliches Wohlbefinden und ihre Verpflichtungen priorisieren."
-        },
-        {
-            title: "Wer gedeiht bei CHORN?",
-            description: "CHORN ist der ideale Arbeitsplatz für Top-Talente, die Flexibilität schätzen, in dynamischen Umfeldern gedeihen und eine Leidenschaft für Innovation haben. Das hybride Modell ist darauf ausgerichtet, die besten Köpfe der Branche zu gewinnen und zu halten."
-        },
-        {
-            title: "",
-            description: "Schließen Sie sich CHORN an, um einen hybriden Arbeitsplatz zu erleben, der sowohl berufliche Ziele als auch persönliche Ambitionen fördert."
-        },
+        }
     ],
 };

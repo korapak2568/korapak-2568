@@ -8,7 +8,7 @@ export const FooterEN: IFooter = {
         "scalable websites for millions of users, and future-ready excellence. " +
         "Elevate your digital presence with us.",
     importantTitle: "Important Links",
-    featureTitle: "Feature Services",
+    featureTitle: "Technical Expertise",
     infoTitle: "Information",
     termOfService: {
         label: "Terms of service",

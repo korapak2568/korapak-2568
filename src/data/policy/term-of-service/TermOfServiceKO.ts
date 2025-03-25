@@ -31,10 +31,6 @@ export const TermOfServiceKO: IPolicy = {
         {
             title: "5. 약관 변경",
             description: "5.1 이 약관은 언제든지 수정될 수 있습니다. 변경사항은 웹사이트에 게시되는 즉시 효력이 발생합니다. 변경 후 웹사이트를 계속 사용하는 것은 업데이트된 약관에 동의하는 것으로 간주됩니다."
-        },
-        {
-            title: "6. CHORN에 문의하기",
-            description: "이 약관에 대한 질문이 있으시면 contact@chorn.in.th로 문의해 주십시오."
-        },
+        }
     ],
 };

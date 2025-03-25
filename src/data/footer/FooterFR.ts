@@ -8,7 +8,7 @@ export const FooterFR: IFooter = {
         "des sites web évolutifs pour des millions d'utilisateurs, et une excellence prête pour l'avenir. " +
         "Élevez votre présence numérique avec nous.",
     importantTitle: "Liens importants",
-    featureTitle: "Services phares",
+    featureTitle: "Expertise technique",
     infoTitle: "Informations",
     termOfService: {
         label: "Conditions d'utilisation",

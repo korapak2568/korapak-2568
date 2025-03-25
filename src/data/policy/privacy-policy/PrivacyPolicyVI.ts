@@ -66,10 +66,6 @@ export const PrivacyPolicyVI: IPolicy = {
                     description: "Chính sách quyền riêng tư này có thể được cập nhật định kỳ. Các sửa đổi có hiệu lực ngay khi được đăng trên trang này. Việc tiếp tục sử dụng trang web sau các bản cập nhật đồng nghĩa với việc bạn chấp nhận Chính sách quyền riêng tư đã sửa đổi."
                 }
             ]
-        },
-        {
-            title: "6. Liên Hệ CHORN",
-            description: "Nếu bạn có bất kỳ câu hỏi nào liên quan đến Chính sách quyền riêng tư này, vui lòng liên hệ với chúng tôi qua trang liên hệ."
-        },
+        }
     ],
 };

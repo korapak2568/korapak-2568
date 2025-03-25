@@ -28,14 +28,6 @@ export const WorkplacePolicyZH: IPolicy = {
         {
             title: "工作与生活平衡",
             description: "混合模式使时间管理更加有效，确保团队成员在优先考虑个人福祉和承诺的同时，也能在角色中表现出色。"
-        },
-        {
-            title: "谁在 CHORN 茁壮成长？",
-            description: "CHORN 是重视灵活性、在动态环境中茁壮成长并热衷于创新的顶尖人才的理想工作场所。混合模式旨在吸引和留住行业中最优秀的人才。"
-        },
-        {
-            title: "",
-            description: "加入 CHORN，体验一个既支持职业抱负又支持个人目标的混合工作场所。"
-        },
+        }
     ],
 };

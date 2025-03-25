@@ -28,14 +28,6 @@ export const WorkplacePolicyVI: IPolicy = {
         {
             title: "Cân Bằng Công Việc - Cuộc Sống",
             description: "Mô hình kết hợp cho phép quản lý thời gian hiệu quả, đảm bảo các thành viên trong nhóm có thể xuất sắc trong vai trò của mình trong khi ưu tiên sự hạnh phúc cá nhân và các cam kết khác."
-        },
-        {
-            title: "Ai Phù Hợp Với CHORN?",
-            description: "CHORN là môi trường làm việc lý tưởng cho những tài năng hàng đầu, những người coi trọng sự linh hoạt, phát triển trong môi trường năng động và đam mê đổi mới. Mô hình kết hợp được thiết kế để thu hút và giữ chân những bộ óc xuất sắc nhất trong ngành."
-        },
-        {
-            title: "",
-            description: "Tham gia CHORN để trải nghiệm một nơi làm việc kết hợp, nơi ủng hộ cả nguyện vọng chuyên môn và mục tiêu cá nhân."
-        },
+        }
     ],
 };

@@ -33,10 +33,6 @@ export const TermOfServiceVI: IPolicy = {
         {
             title: "5. Thay đổi Điều khoản",
             description: "5.1 Các Điều khoản này có thể được sửa đổi bất kỳ lúc nào. Các thay đổi có hiệu lực ngay lập tức khi được đăng trên Trang web. Việc tiếp tục sử dụng Trang web sau khi thay đổi có nghĩa là bạn chấp nhận các Điều khoản được cập nhật."
-        },
-        {
-            title: "6. Liên hệ CHORN",
-            description: "Nếu có bất kỳ câu hỏi nào liên quan đến các Điều khoản này, vui lòng liên hệ qua contact@chorn.in.th."
-        },
+        }
     ],
 };

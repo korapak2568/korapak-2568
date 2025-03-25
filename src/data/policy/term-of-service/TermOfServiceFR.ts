@@ -31,10 +31,6 @@ export const TermOfServiceFR: IPolicy = {
         {
             title: "5. Modifications des Conditions",
             description: "5.1 Ces Conditions peuvent être modifiées à tout moment. Les modifications prennent effet immédiatement après leur publication sur le site. La poursuite de l'utilisation du site après les modifications constitue une acceptation des Conditions mises à jour."
-        },
-        {
-            title: "6. Contacter CHORN",
-            description: "Pour toute question concernant ces Conditions, veuillez nous contacter à l'adresse contact@chorn.in.th."
-        },
+        }
     ],
 };

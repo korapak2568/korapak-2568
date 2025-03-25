@@ -31,10 +31,6 @@ export const TermOfServiceNL: IPolicy = {
         {
             title: "5. Changes to the Terms",
             description: "5.1 These Terms may be modified at any time. Changes are effective immediately upon posting on the Website. Continued use of the Website after changes constitutes acceptance of the updated Terms."
-        },
-        {
-            title: "6. Contact CHORN",
-            description: "For any questions regarding these Terms, please reach out via contact@chorn.in.th."
-        },
+        }
     ],
 };

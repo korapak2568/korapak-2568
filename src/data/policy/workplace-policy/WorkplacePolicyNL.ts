@@ -28,14 +28,6 @@ export const WorkplacePolicyNL: IPolicy = {
         {
             title: "Werk-Privébalans",
             description: "Het hybride model maakt effectief tijdbeheer mogelijk, zodat teamleden kunnen uitblinken in hun rol, terwijl ze tegelijkertijd hun persoonlijke welzijn en verplichtingen prioriteren."
-        },
-        {
-            title: "Wie Bloeit op bij CHORN?",
-            description: "CHORN is de ideale werkplek voor toptalent dat flexibiliteit waardeert, gedijt in dynamische omgevingen en een passie heeft voor innovatie. Het hybride model is ontworpen om de beste geesten in de branche aan te trekken en te behouden."
-        },
-        {
-            title: "",
-            description: "Sluit je aan bij CHORN om een hybride werkplek te ervaren die zowel professionele ambities als persoonlijke doelen ondersteunt."
-        },
+        }
     ],
 };

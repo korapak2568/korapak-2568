@@ -31,10 +31,6 @@ export const TermOfServiceFI: IPolicy = {
         {
             title: "5. Muutokset ehtoihin",
             description: "5.1 Näitä ehtoja voidaan muuttaa milloin tahansa. Muutokset tulevat voimaan välittömästi, kun ne julkaistaan verkkosivustolla. Verkkosivuston käytön jatkaminen muutosten jälkeen merkitsee päivitettyjen ehtojen hyväksymistä."
-        },
-        {
-            title: "6. Ota yhteyttä CHORNiin",
-            description: "Jos sinulla on kysyttävää näistä ehdoista, ota yhteyttä osoitteeseen contact@chorn.in.th."
-        },
+        }
     ],
 };

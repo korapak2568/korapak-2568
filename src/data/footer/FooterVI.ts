@@ -8,7 +8,7 @@ export const FooterVI: IFooter = {
         "các trang web có khả năng mở rộng cho hàng triệu người dùng, và sự xuất sắc sẵn sàng cho tương lai. " +
         "Nâng cao sự hiện diện kỹ thuật số của bạn cùng chúng tôi.",
     importantTitle: "Liên kết quan trọng",
-    featureTitle: "Dịch vụ nổi bật",
+    featureTitle: "Chuyên môn kỹ thuật",
     infoTitle: "Thông tin",
     termOfService: {
         label: "Điều khoản dịch vụ",

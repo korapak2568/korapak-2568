@@ -66,10 +66,6 @@ export const PrivacyPolicyFR: IPolicy = {
                     description: "Cette politique de confidentialité peut être mise à jour périodiquement. Les modifications prennent effet immédiatement après leur publication sur cette page. L'utilisation continue du site Web après les mises à jour constitue une acceptation de la politique de confidentialité révisée."
                 }
             ]
-        },
-        {
-            title: "6. Contacter CHORN",
-            description: "Pour toute question concernant cette politique de confidentialité, veuillez nous contacter via la page de contact."
-        },
+        }
     ],
 };

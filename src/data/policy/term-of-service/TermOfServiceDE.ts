@@ -32,10 +32,6 @@ export const TermOfServiceDE: IPolicy = {
         {
             title: "5. Änderungen der Bedingungen",
             description: "5.1 Diese Bedingungen können jederzeit geändert werden. Änderungen treten mit ihrer Veröffentlichung auf der Website sofort in Kraft. Die fortgesetzte Nutzung der Website nach Änderungen stellt die Zustimmung zu den aktualisierten Bedingungen dar."
-        },
-        {
-            title: "6. Kontakt zu CHORN",
-            description: "Für Fragen zu diesen Bedingungen wenden Sie sich bitte an contact@chorn.in.th."
-        },
+        }
     ],
 };

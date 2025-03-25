@@ -8,7 +8,7 @@ export const FooterFI: IFooter = {
         "skaalautuvia verkkosivustoja miljoonille käyttäjille ja tulevaisuutta varten valmiita erinomaisia ratkaisuja. " +
         "Kohota digitaalista läsnäoloasi kanssamme.",
     importantTitle: "Tärkeät linkit",
-    featureTitle: "Ominaisuuspalvelut",
+    featureTitle: "Tekninen asiantuntemus",
     infoTitle: "Tietoa",
     termOfService: {
         label: "Käyttöehdot",

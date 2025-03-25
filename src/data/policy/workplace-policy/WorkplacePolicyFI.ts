@@ -28,14 +28,6 @@ export const WorkplacePolicyFI: IPolicy = {
         {
             title: "Työn ja vapaa-ajan tasapaino",
             description: "Hybridimalli mahdollistaa tehokkaan ajankäytön, varmistaen että tiimin jäsenet voivat loistaa rooleissaan, samalla priorisoiden henkilökohtaista hyvinvointia ja sitoumuksia."
-        },
-        {
-            title: "Kuka menestyy CHORNissa?",
-            description: "CHORN on ihanteellinen työpaikka huippuosaajille, jotka arvostavat joustavuutta, menestyvät dynaamisissa ympäristöissä ja ovat intohimoisia innovaation suhteen. Hybridimalli on räätälöity houkuttelemaan ja säilyttämään alan parhaat osaajat."
-        },
-        {
-            title: "",
-            description: "Liity CHORNiin kokeaksesi hybridityöpaikan, joka edistää sekä ammatillisia pyrkimyksiä että henkilökohtaisia tavoitteita."
-        },
+        }
     ],
 };

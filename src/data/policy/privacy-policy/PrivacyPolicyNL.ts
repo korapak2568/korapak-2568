@@ -66,10 +66,6 @@ export const PrivacyPolicyNL: IPolicy = {
                     description: "Dit privacybeleid kan periodiek worden bijgewerkt. Wijzigingen treden onmiddellijk in werking zodra ze op deze pagina worden geplaatst. Door de website te blijven gebruiken na dergelijke updates, accepteert u het gewijzigde privacybeleid."
                 }
             ]
-        },
-        {
-            title: "6. Contact opnemen met CHORN",
-            description: "Als u vragen heeft over dit privacybeleid, neem dan contact met ons op via de contactpagina."
-        },
+        }
     ],
 };

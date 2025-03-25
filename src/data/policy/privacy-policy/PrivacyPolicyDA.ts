@@ -66,10 +66,6 @@ export const PrivacyPolicyDA: IPolicy = {
                     description: "Denne privatlivspolitik kan opdateres periodisk. Ændringer træder i kraft, så snart de offentliggøres på denne side. Din fortsatte brug af webstedet efter sådanne opdateringer betyder, at du accepterer den reviderede privatlivspolitik."
                 }
             ]
-        },
-        {
-            title: "6. Kontakt CHORN",
-            description: "Hvis du har spørgsmål om denne privatlivspolitik, bedes du kontakte os via kontakt-siden."
-        },
+        }
     ],
 };

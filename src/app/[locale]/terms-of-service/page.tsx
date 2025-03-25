@@ -23,7 +23,6 @@ export default function TermsOfService() {
                     <div className="privacy-content">
                         {InfoTranslation[locale.value].TermOfService.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
-                                <h3>{item.title}</h3>
 
                                 {item.description != undefined && (
                                     <p dangerouslySetInnerHTML={{__html: item.description}}/>

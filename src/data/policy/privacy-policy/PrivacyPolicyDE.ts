@@ -66,10 +66,6 @@ export const PrivacyPolicyDE: IPolicy = {
                     description: "Diese Datenschutzerklärung kann regelmäßig aktualisiert werden. Änderungen treten in Kraft, sobald sie auf dieser Seite veröffentlicht werden. Ihre fortgesetzte Nutzung der Website nach solchen Aktualisierungen bedeutet, dass Sie die überarbeitete Datenschutzerklärung akzeptieren."
                 }
             ]
-        },
-        {
-            title: "6. Kontakt zu CHORN",
-            description: "Falls Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte über die Kontaktseite."
-        },
+        }
     ],
 };
