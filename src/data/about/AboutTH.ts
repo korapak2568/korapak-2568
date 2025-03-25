@@ -7,7 +7,7 @@ export const AboutTH: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN เปิดตัวในเดือนมีนาคม 2566 โดย K.Khachornchit นำเสนอความเชี่ยวชาญด้านเทคโนโลยีและการพัฒนาซอฟต์แวร์ ด้วยพื้นฐานวิศวกรรมไฟฟ้าและประสบการณ์กว่า 20 ปี เขาเชี่ยวชาญด้านสถาปัตยกรรมระบบ การวิเคราะห์ธุรกิจ วิศวกรรมพัฒนาซอฟต์แวร์ครบวงจร การพัฒนาเว็บไซต์ (Web Development) การพัฒนา API (Application Programming Interface) การควบคุมคุณภาพและการทดสอบซอฟต์แวร์ (Software QA/Testing) และการพัฒนา DevOps (Development + Operations)"
+            description: "CHORN เปิดตัวในเดือนมีนาคม 2566 โดย K.Khachornchit นำเสนอความเชี่ยวชาญด้านเทคโนโลยีและการพัฒนาซอฟต์แวร์ ด้วยพื้นฐานวิศวกรรมไฟฟ้าและประสบการณ์กว่า 20 ปี เขาเชี่ยวชาญด้านสถาปัตยกรรมระบบ การวิเคราะห์ธุรกิจ วิศวกรรมพัฒนาซอฟต์แวร์ครบวงจร การพัฒนาเว็บไซต์ (Web Development) การพัฒนา API (Application Programming Interface) การควบคุมคุณภาพและการทดสอบซอฟต์แวร์ (Software QA/Testing) การพัฒนา DevOps (Development + Operations) และ CI/CD (Continuous Integration and Continuous Deployment)"
         },
         {
             title: "",

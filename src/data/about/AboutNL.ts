@@ -7,7 +7,7 @@ export const AboutNL: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN werd in maart 2023 gelanceerd door K.Khachornchit, met expertise in technologie en softwareontwikkeling. Met een achtergrond in elektrotechniek en meer dan 20 jaar ervaring, is hij gespecialiseerd in systeemarchitectuur, bedrijfsanalyse, full-cycle softwareontwikkeling, webontwikkeling, API (Application Programming Interface) ontwikkeling, software kwaliteitsborging en testen (QA/Testing), en DevOps (Development + Operations) ontwikkeling."
+            description: "CHORN werd in maart 2023 gelanceerd door K.Khachornchit, met expertise in technologie en softwareontwikkeling. Met een achtergrond in elektrotechniek en meer dan 20 jaar ervaring, is hij gespecialiseerd in systeemarchitectuur, bedrijfsanalyse, full-cycle softwareontwikkeling, webontwikkeling, API (Application Programming Interface) ontwikkeling, software kwaliteitsborging en testen (QA/Testing), DevOps (Development + Operations) ontwikkeling, en CI/CD (Continue Integratie en Continue Implementatie)."
         },
         {
             title: "",
