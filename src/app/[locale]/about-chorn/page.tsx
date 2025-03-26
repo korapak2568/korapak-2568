@@ -10,8 +10,8 @@ import {MetadataAbout} from "@/data/metadata/pages/about/common/MetadataAbout";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const lang = headers().get('x-locale') || 'en';
-    return MetadataAbout[lang]
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataAbout[locale]
 }
 
 export default function Page() {

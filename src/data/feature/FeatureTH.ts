@@ -1,7 +1,7 @@
 import {IFeature} from "@/data/feature/model/IFeature";
 
 export const FeatureTH: IFeature = {
-    title: "ภาพรวมการพัฒนาเวปไซต์",
+    title: "ภาพรวมการพัฒนาเว็บไซต์",
     span: "การวิเคราะห์ระบบและการพัฒนาซอฟต์แวร์",
     subTitle: "",
     stacks: [
@@ -18,14 +18,14 @@ export const FeatureTH: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "เว็บไซต์และเอพีไอ",
+            title: "การพัฒนาเว็บไซต์และเอพีไอ",
             description: "โซลูชันการพัฒนาเว็บแบบครบวงจรโดยใช้เทคโนโลยีสมัยใหม่เช่น Node.js, Java, Spring Boot, Go, PHP และ Python เพื่อสร้างเว็บไซต์แบบไดนามิกและตอบสนอง",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "เว็บ ๓ และบล็อกเชน",
-            description: "ประสบการณ์ในเทคโนโลยีล้ำสมัยเช่น Blockchain, Decentralized Finance (DeFi), Smart Contracts และ Web3 เพื่อให้แน่ใจว่าความเชี่ยวชาญทางเทคนิคด้านการเงินของคุณยังคงล้ำหน้าอยู่เสมอ",
+            title: "การพัฒนาเว็บ ๓ และบล็อกเชน",
+            description: "ประสบการณ์ในเทคโนโลยีล้ำสมัยเช่น Blockchain, Decentralized Finance (DeFi), Smart Contracts และ Web3 เพื่อให้แน่ใจว่าความเชี่ยวชาญเทคนิคด้านการเงินของคุณยังคงล้ำหน้าอยู่เสมอ",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"
         }

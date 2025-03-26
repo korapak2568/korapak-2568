@@ -11,7 +11,7 @@ export const MetadataAiFahEN: Metadata = {
         }
     ],
     openGraph: {
-        title: "Meet Fah - Your Thai AI Chat Friend on LINE",
+        title: "Fah - Your Thai AI Chat Friend on LINE",
         description: "Meet Fah, your 20-year-old Thai AI friend on LINE who recommends Thailand's best destinations, dishes, and cultural experiences in multiple languages. Add her today!",
         images: MetadataLinkAiFah.openGraph.images,
         url: MetadataLinkAiFah.openGraph.url,

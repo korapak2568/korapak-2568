@@ -9,7 +9,7 @@ export const NavbarTH: INavbar[] = [
     },
     {
         group: "/technical-expertise/",
-        label: "ความเชี่ยวชาญทางเทคนิค",
+        label: "ความเชี่ยวชาญเทคนิค",
         link: "/technical-expertise/web-development/",
         submenu: [
             {

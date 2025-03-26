@@ -8,16 +8,23 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesCardCloudInfrastructureSystemsArchitecture
     from "@/components/Services/cloud-infrastructure-systems-architecture/ServicesCardCloudInfrastructureSystemsArchitecture";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataCloudSolution} from "@/data/metadata/pages/cloudSolution/common/MetadataCloudSolution";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.cloudSolutions
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataCloudSolution[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Cloud Solutions" />
+            <PageBanner pageTitle={InfoTranslation[locale].CloudSolution.title}/>
 
             <ServicesCardCloudInfrastructureSystemsArchitecture/>
 

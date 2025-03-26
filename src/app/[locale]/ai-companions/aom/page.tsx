@@ -5,9 +5,13 @@ import Footer from "@/components/Layouts/Footer";
 import {Info} from "@/data/info/Info";
 import AiAomLandingPage from "@/components/AiCompanions/landing/AiAomLandingPage";
 import {Metadata} from "next";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataAiAom} from "@/data/metadata/pages/aiAom/common/MetadataAiAom";
 
-export const metadata: Metadata = MetadataChorn.aiAom
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataAiAom[locale]
+}
 
 const Page = () => {
     return (

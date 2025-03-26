@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkContact} from "@/data/metadata/pages/contact/common/MetadataLinkContact";
 
 export const MetadataWebDevelopmentEN: Metadata = {
-    title: "Web Development Services | CHORN | Custom Software & Technology Solutions",
+    title: "Web Development Services | Custom Software & Technology Solutions",
     description: "Explore CHORN's web development technical-expertise, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
     alternates: MetadataLinkContact.alternates,
     authors: [

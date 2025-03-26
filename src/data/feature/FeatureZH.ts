@@ -18,13 +18,13 @@ export const FeatureZH: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "Web API开发",
+            title: "Web和API开发",
             description: "使用现代技术如Node.js、Java、Spring Boot、Go、PHP和Python的端到端Web开发解决方案，创建动态、响应式网站。",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "Web3和区块链",
+            title: "Web3和区块链开发",
             description: "在区块链、去中心化金融（DeFi）、智能合约和Web3等前沿技术方面的经验，确保您的金融技术专长始终领先。",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"

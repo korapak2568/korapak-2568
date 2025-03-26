@@ -25,12 +25,12 @@ import {headers} from "next/headers";
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
-    const lang = headers().get('x-locale') || 'en';
+    const locale = headers().get('x-locale') || 'en';
 
     return (
-        <html lang={lang}>
+        <html lang={locale}>
         <body className={dm_sans.className}>
-        <ProviderWrapper locale={lang}>
+        <ProviderWrapper locale={locale}>
             <ConsentModal/>
             {children}
         </ProviderWrapper>

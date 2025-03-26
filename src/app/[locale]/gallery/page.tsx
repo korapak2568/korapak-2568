@@ -8,8 +8,8 @@ import {headers} from "next/headers";
 import {MetadataGallery} from "@/data/metadata/pages/gallery/common/MetadataGallery";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const lang = headers().get('x-locale') || 'en';
-    return MetadataGallery[lang]
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataGallery[locale]
 }
 
 export default function Page() {

@@ -6,9 +6,13 @@ import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
 import {Info} from "@/data/info/Info";
 import AiSolutionsPage from "@/components/AiSolutions/AiSolutionsPage";
 import {Metadata} from "next";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataLlmAi} from "@/data/metadata/pages/llmAi/common/MetadataLlmAi";
 
-export const metadata: Metadata = MetadataChorn.llmAi;
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataLlmAi[locale]
+}
 
 const Page = () => {
     return (

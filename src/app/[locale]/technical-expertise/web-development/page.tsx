@@ -7,16 +7,23 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import ServiceCardWebDevelopment from "@/components/Services/WebDevelopment/ServicesCardWebDevelopment";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {MetadataWebDevelopment} from "@/data/metadata/pages/webDevelopment/common/MetadataWebDevelopment";
 
-export const metadata: Metadata = MetadataChorn.webDevelopment
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataWebDevelopment[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Web and API Development"/>
+            <PageBanner pageTitle={InfoTranslation[locale].Feature.stacks[2].title}/>
 
             <ServiceCardWebDevelopment/>
 

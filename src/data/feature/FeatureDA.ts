@@ -18,13 +18,13 @@ export const FeatureDA: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "Web API Udvikling",
+            title: "Web- og API-udvikling",
             description: "End-to-end webudviklingsløsninger ved hjælp af moderne teknologier som Node.js, Java, Spring Boot, Go, PHP og Python til at skabe dynamiske, responsive hjemmesider.",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "Web3 & Blockchain",
+            title: "Web3- og Blockchain-udvikling",
             description: "Erfaring med banebrydende teknologier som Blockchain, Decentraliseret Finans (DeFi), Smart Contracts og Web3, der sikrer, at din finansielle tekniske ekspertise forbliver på forkant.",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"

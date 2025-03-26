@@ -8,7 +8,7 @@ export const FooterTH: IFooter = {
         "เว็บไซต์ที่สามารถขยายรองรับผู้ใช้งานนับล้าน และความเป็นเลิศที่พร้อมรับอนาคต " +
         "เพิ่มศักยภาพดิจิทัลของคุณไปกับเรา",
     importantTitle: "ลิงก์สำคัญ",
-    featureTitle: "ความเชี่ยวชาญทางเทคนิค",
+    featureTitle: "ความเชี่ยวชาญเทคนิค",
     infoTitle: "ข้อมูล",
     termOfService: {
         label: "เงื่อนไขการให้บริการ",
@@ -44,7 +44,7 @@ export const FooterTH: IFooter = {
             link: "/about-chorn"
         },
         {
-            label: "ความเชี่ยวชาญทางเทคนิค",
+            label: "ความเชี่ยวชาญเทคนิค",
             link: "/technical-expertise/web-development"
         },
         {
