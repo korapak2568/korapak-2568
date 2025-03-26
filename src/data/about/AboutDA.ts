@@ -7,7 +7,7 @@ export const AboutDA: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN blev lanceret i marts 2023 af K.Khachornchit Songsaen, med ekspertise inden for teknologi og softwareudvikling. Med en baggrund i elektroingeniørvidenskab og over 20 års erfaring, specialiserer han sig i systemarkitektur, forretningsanalyse, fuld-cyklus softwareudviklingsengineering, webudvikling, API (Application Programming Interface) udvikling, software kvalitetssikring og test (QA/Testing), DevOps (Udvikling + Drift) udvikling, og CI/CD (Kontinuerlig Integration og Kontinuerlig Levering)."
+            description: "CHORN blev lanceret i marts 2023 af K.Khachornchit, med ekspertise inden for teknologi og softwareudvikling. Med en baggrund i elektroingeniørvidenskab og over 20 års erfaring, specialiserer han sig i systemarkitektur, forretningsanalyse, fuld-cyklus softwareudviklingsengineering, webudvikling, API (Application Programming Interface) udvikling, software kvalitetssikring og test (QA/Testing), DevOps (Udvikling + Drift) udvikling, og CI/CD (Kontinuerlig Integration og Kontinuerlig Levering)."
         },
         {
             title: "",
