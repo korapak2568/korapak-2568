@@ -16,6 +16,31 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/na/:path*',
+                destination: '/da/:path*',
+                permanent: true,
+            },
+            {
+                source: '/services/fullstack-development/',
+                destination: '/en/technical-expertise/full-stack-developer/',
+                permanent: true,
+            },
+            {
+                source: '/en/technical-expertise/frontend-development/html5/',
+                destination: '/en/technical-expertise/front-end-developer/html5-developer/',
+                permanent: true,
+            },
+            {
+                source: '/services/fullstack-development/python/',
+                destination: '/en/technical-expertise/full-stack-developer/python-developer/',
+                permanent: true,
+            },
+            {
+                source: '/en/technical-expertise/frontend-development/react/',
+                destination: '/en/technical-expertise/front-end-developer/react-developer/',
+                permanent: true,
+            },
+            {
                 source: '/ai-companions',
                 destination: '/en/ai-companions/',
                 permanent: true,
@@ -48,6 +73,11 @@ const nextConfig = {
             {
                 source: '/services/:path*',
                 destination: '/en/technical-expertise/:path*',
+                permanent: true,
+            },
+            {
+                source: '/en/technical-expertise/',
+                destination: '/en/technical-expertise/web-development/',
                 permanent: true,
             },
             {
