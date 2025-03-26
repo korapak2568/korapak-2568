@@ -16,6 +16,61 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/:locale/technical-expertise/full-stack-developer/typescript-javascript-developer/',
+                destination: '/:locale/technical-expertise/front-end-developer/typescript-developer/',
+                permanent: true,
+            },
+            {
+                source: '/ai-solutions/:path*',
+                destination: '/en/ai-companions/:path*',
+                permanent: true,
+            },
+            {
+                source: '/ai-solutions',
+                destination: '/en/ai-companions',
+                permanent: true,
+            },
+            {
+                source: '/ai-companions/:path*',
+                destination: '/en/ai-companions/:path*',
+                permanent: true,
+            },
+            {
+                source: '/ai-companions',
+                destination: '/en/ai-companions/',
+                permanent: true,
+            },
+            {
+                source: '/en/ai-companions/buakaew',
+                destination: '/en/ai-companions/fah',
+                permanent: true,
+            },
+            {
+                source: '/en/ai-companions/tonnam',
+                destination: '/en/ai-companions/fah',
+                permanent: true,
+            },
+            {
+                source: '/en/ai-companions/milk',
+                destination: '/en/ai-companions/fah',
+                permanent: true,
+            },
+            {
+                source: '/:locale/technical-expertise/full-stack-developer/javascript-developer',
+                destination: '/:locale/technical-expertise/front-end-developer/javascript-developer',
+                permanent: true,
+            },
+            {
+                source: '/:locale/technical-expertise/devops-testing/:path*',
+                destination: '/:locale/technical-expertise/cloud-devops/:path*',
+                permanent: true,
+            },
+            {
+                source: '/na/:path*',
+                destination: '/da/:path*',
+                permanent: true,
+            },
+            {
                 source: '/na/:path*',
                 destination: '/da/:path*',
                 permanent: true,
@@ -38,11 +93,6 @@ const nextConfig = {
             {
                 source: '/en/technical-expertise/frontend-development/react/',
                 destination: '/en/technical-expertise/front-end-developer/react-developer/',
-                permanent: true,
-            },
-            {
-                source: '/ai-companions',
-                destination: '/en/ai-companions/',
                 permanent: true,
             },
             {
@@ -84,21 +134,6 @@ const nextConfig = {
                 source: '/technical-expertise/devops-testing/:path*',
                 destination: '/en/technical-expertise/cloud-devops/:path*',
                 permanent: true,
-            },
-            {
-                source: '/ai-solutions/fah/',
-                destination: '/en/ai-companions/fah/',
-                permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
-            },
-            {
-                source: '/ai-solutions/aom/',
-                destination: '/en/ai-companions/aom/',
-                permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
-            },
-            {
-                source: '/ai-solutions/ploy/',
-                destination: '/en/ai-companions/ploy/',
-                permanent: true, // Set to true for 308 permanent redirect, false for 307 temporary
             },
             {
                 source: "/outsourcing-software-development/:path*",
