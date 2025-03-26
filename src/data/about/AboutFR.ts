@@ -7,7 +7,7 @@ export const AboutFR: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN a été lancé en mars 2023 par K.Khachornchit, offrant une expertise en technologie et développement logiciel. Avec une formation en génie électrique et plus de 20 ans d'expérience, il est spécialisé dans l'architecture système, l'analyse d'affaires, l'ingénierie de développement logiciel à cycle complet, le développement web, le développement d'API (Interface de Programmation d'Application), l'assurance qualité et les tests logiciels (QA/Testing), Développement DevOps (Développement + Opérations), et CI/CD (Intégration Continue et Déploiement Continu)."
+            description: "CHORN a été lancé en mars 2023 par K.Khachornchit Songsaen, offrant une expertise en technologie et développement logiciel. Avec une formation en génie électrique et plus de 20 ans d'expérience, il est spécialisé dans l'architecture système, l'analyse d'affaires, l'ingénierie de développement logiciel à cycle complet, le développement web, le développement d'API (Interface de Programmation d'Application), l'assurance qualité et les tests logiciels (QA/Testing), Développement DevOps (Développement + Opérations), et CI/CD (Intégration Continue et Déploiement Continu)."
         },
         {
             title: "",
