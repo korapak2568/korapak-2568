@@ -1,8 +1,8 @@
 import {IFullStack} from "@/data/fullstack/model/IFullStack";
 
 export const FullStackFI: IFullStack = {
-    title: "Back-End & API Experience",
-    span: "Outstanding Back-End & API Experience",
+    title: "Back-End & API Kokemus",
+    span: "Back-End & API Kehityskokemus",
     subTitle: "",
 
     dotnetcore: {

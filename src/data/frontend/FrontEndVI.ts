@@ -3,7 +3,7 @@ import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 
 export const FrontEndVI: IFrontEnd = {
     title: "Kinh nghiệm Front-End",
-    span: "Kinh nghiệm Front-End Xuất sắc",
+    span: "Kinh nghiệm phát triển Front-End",
     subTitle: "",
 
     angular: {

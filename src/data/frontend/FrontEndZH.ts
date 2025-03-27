@@ -4,7 +4,7 @@ import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 
 export const FrontEndZH: IFrontEnd = {
     title: "前端经验",
-    span: "卓越的前端经验",
+    span: "前端开发经验",
     subTitle: "",
 
     angular: {

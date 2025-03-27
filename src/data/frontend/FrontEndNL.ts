@@ -3,7 +3,7 @@ import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 
 export const FrontEndNL: IFrontEnd = {
     title: "Front-End Ervaring",
-    span: "Uitstekende Front-End Ervaring",
+    span: "Front-End Ontwikkeling Ervaring",
     subTitle: "",
 
     angular: {

@@ -1,8 +1,8 @@
 import {IFullStack} from "@/data/fullstack/model/IFullStack";
 
 export const FullStackTH: IFullStack = {
-    title: "ประสบการณ์การพัฒนาฝั่งหลังบ้านและเอพีไอ",
-    span: "ประสบการณ์การพัฒนาฝั่งหลังบ้านและเอพีไอที่โดดเด่น",
+    title: "การพัฒนาฝั่งหลังบ้าน เอพีไอ",
+    span: "ประสบการณ์การพัฒนาฝั่งหลังบ้าน เอพีไอ",
     subTitle: "",
 
     dotnetcore: {
