@@ -4,19 +4,25 @@ import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsNodejs from "@/components/Services/fullstack-development/nodejs/ServicesDetailsNodejs";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataNodejs} from "@/data/metadata/pages/backend/nodejs/common/MetadataNodejs";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.backend.nodejs
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataNodejs[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FullStack.nodejs.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FullStack.nodejs.features[0].title}/>
 
             <ServicesDetailsNodejs/>
 

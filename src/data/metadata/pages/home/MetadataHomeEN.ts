@@ -29,14 +29,14 @@ export const MetadataHomeEN: Metadata = {
     keywords: [
         // Brand Keywords
         "CHORN", "CHORN custom software development", "CHORN software outsourcing", "What is chorn",
-        "CHORN software development thailand", "CHORN software developer chiangmai", "CHORN software developer bangkok",
+        "CHORN software development thailand", "CHORN software developer Chiang Mai", "CHORN software developer bangkok",
 
         // Core service Keywords
         "custom software development", "custom software development companies", "software outsourcing",
         "software outsourcing technical-expertise", "software development outsourcing", "software development outsourcing companies",
         "top software outsourcing companies", "web development outsourcing companies", "IT development companies",
         "outsourcing development company", "outsourcing thailand", "outsourcing company in thailand",
-        "software development chiangmai", "software outsourcing chiangmai", "software outsourcing bangkok",
+        "software development Chiang Mai", "software outsourcing Chiang Mai", "software outsourcing bangkok",
 
         // Developer & Technical Roles
         "software engineer", "software developer", "frontend developer", "backend developer", "full stack developer",
@@ -45,10 +45,10 @@ export const MetadataHomeEN: Metadata = {
         "web3 developer", "microservices developer", "digital innovation", "enterprise software", "scalable websites",
 
         // Developer Locations
-        "software developer thailand", "software developer chiangmai", "software developer bangkok",
+        "software developer thailand", "software developer Chiang Mai", "software developer bangkok",
         "software engineer thailand", "frontend developer thailand", "backend developer thailand",
         "full stack developer thailand", "web developer jobs in thailand", "mobile developer thailand",
-        "full stack developer chiangmai", "software developer remote jobs", "outsourcing programmers thailand",
+        "full stack developer Chiang Mai", "software developer remote jobs", "outsourcing programmers thailand",
 
         // Senior Leadership & Engineering Roles
         "head of engineering", "head of engineering department thailand", "director of engineering",

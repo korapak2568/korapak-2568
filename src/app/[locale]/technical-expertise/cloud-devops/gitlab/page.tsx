@@ -4,20 +4,25 @@ import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsGitLab from "@/components/Services/cloud-devops/gitlab/ServicesDetailsGitLab";
-import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataGitLab} from "@/data/metadata/pages/devops/gitlab/common/MetadataGitLab";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.devops.gitlab
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataGitLab[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.gitlab.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].DevOps.gitlab.features[0].title}/>
 
             <ServicesDetailsGitLab/>
 

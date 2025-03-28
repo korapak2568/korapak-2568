@@ -3,7 +3,7 @@ import {MetadataLinkJava} from "@/data/metadata/pages/backend/java/common/Metada
 
 export const MetadataJavaEN: Metadata = {
     title: "Java Spring Boot Full Stack Development | CHORN",
-    description: "CHORN offers Java Spring Boot full stack development technical-expertise to build robust and scalable enterprise applications.",
+    description: "Java Spring Boot full stack development, technical expertise to build robust and scalable enterprise applications.",
     alternates: MetadataLinkJava.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataJavaEN: Metadata = {
     ],
     openGraph: {
         title: "Java Spring Boot Development | CHORN",
-        description: "Leverage CHORN’s Java Spring Boot full stack development technical-expertise to build scalable, secure, and high-performance applications.",
+        description: "Leverage Java Spring Boot full stack development with technical expertise to build scalable, secure, and high-performance applications.",
         images: MetadataLinkJava.openGraph.images,
         url: MetadataLinkJava.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataJavaEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Java Spring Boot Full Stack Development | CHORN",
-        description: "Expert Java Spring Boot full stack development technical-expertise from CHORN to build secure and scalable applications.",
+        description: "Expert Java Spring Boot full stack development, technical expertise to build secure and scalable applications.",
         images: MetadataLinkJava.twitter.images,
     },
     keywords: [
@@ -35,7 +35,7 @@ export const MetadataJavaEN: Metadata = {
 
         // Developer & Location-Specific Keywords
         "Spring Boot developer Thailand", "Java developer Thailand", "Java developer Bangkok",
-        "Java developer Chiangmai", "backend developer Thailand", "software engineer", "software developer Thailand",
+        "Java developer Chiang Mai", "backend developer Thailand", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords
         "CHORN", "digital innovation", "enterprise software"

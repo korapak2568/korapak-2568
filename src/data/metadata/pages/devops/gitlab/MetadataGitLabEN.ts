@@ -2,8 +2,8 @@ import {Metadata} from "next";
 import {MetadataLinkGitLab} from "@/data/metadata/pages/devops/gitlab/common/MetadataLinkGitLab";
 
 export const MetadataGitLabEN: Metadata = {
-    title: "Contact | CHORN - Get in Touch for Custom Software Solutions",
-    description: "Reach out to CHORN for tailored software solutions. Our experts are here to help you with any inquiries or support you need.",
+    title: "GitLab DevOps Services | CHORN",
+    description: "DevOps technical expertise integrating GitLab for version control, continuous integration, and automated workflows.",
     alternates: MetadataLinkGitLab.alternates,
     authors: [
         {
@@ -11,20 +11,20 @@ export const MetadataGitLabEN: Metadata = {
         }
     ],
     openGraph: {
-        title: "Contact CHORN - Custom Software Development Experts",
-        description: "Get in touch with CHORN for expert custom software development solutions. We're here to answer your questions and provide support.",
+        title: "GitLab DevOps Services | CHORN",
+        description: "Enhance your development workflow with GitLab-based DevOps technical expertise for CI/CD and version control.",
         images: MetadataLinkGitLab.openGraph.images,
         url: MetadataLinkGitLab.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
-        title: "Contact CHORN - Let's Build Something Great Together",
-        description: "Reach out to CHORN for custom software solutions tailored to your business needs. Contact us for inquiries or support.",
+        title: "GitLab DevOps Services | CHORN",
+        description: "Streamline your development with GitLab DevOps technical expertise for version control and CI/CD workflows.",
         images: MetadataLinkGitLab.twitter.images,
     },
     keywords: [
-        "GitLab DevOps", "GitLab technical-expertise", "CI/CD", "version control", "DevOps", "automation", "DevOps pipeline",
+        "GitLab DevOps", "GitLab technical expertise", "CI/CD", "version control", "DevOps", "automation", "DevOps pipeline",
         "DevOps thailand", "GitLab automation", "continuous integration"
     ]
 }

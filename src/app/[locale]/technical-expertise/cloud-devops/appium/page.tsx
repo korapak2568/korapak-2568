@@ -4,20 +4,25 @@ import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsAppium from "@/components/Services/cloud-devops/appium/ServicesDetailsAppium";
-import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataAppium} from "@/data/metadata/pages/devops/appium/common/MetadataAppium";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.devops.appium
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataAppium[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.appium.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].DevOps.appium.features[0].title}/>
 
             <ServicesDetailsAppium/>
 

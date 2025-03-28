@@ -4,20 +4,25 @@ import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsPostman from "@/components/Services/cloud-devops/postman/ServicesDetailsPostman";
-import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataPostman} from "@/data/metadata/pages/devops/postman/common/MetadataPostman";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.devops.postman
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataPostman[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.DevOps.postman.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].DevOps.postman.features[0].title}/>
 
             <ServicesDetailsPostman/>
 

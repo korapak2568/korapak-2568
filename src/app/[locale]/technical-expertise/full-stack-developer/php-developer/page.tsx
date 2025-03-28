@@ -4,19 +4,25 @@ import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsPhp from "@/components/Services/fullstack-development/php/ServicesDetailsPhp";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataPhp} from "@/data/metadata/pages/backend/php/common/MetadataPhp";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.backend.php
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataPhp[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FullStack.php.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FullStack.php.features[0].title}/>
 
             <ServicesDetailsPhp/>
 

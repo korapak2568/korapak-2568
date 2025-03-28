@@ -3,7 +3,7 @@ import {MetadataLinkPhp} from "@/data/metadata/pages/backend/php/common/Metadata
 
 export const MetadataPhpEN: Metadata = {
     title: "PHP Full Stack Development | CHORN",
-    description: "CHORN offers PHP full stack development technical-expertise for building dynamic and scalable web applications.",
+    description: "PHP full stack development, technical expertise for building dynamic and scalable web applications.",
     alternates: MetadataLinkPhp.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataPhpEN: Metadata = {
     ],
     openGraph: {
         title: "PHP Development | CHORN",
-        description: "Leverage CHORN’s PHP full stack development technical-expertise to build scalable and dynamic web applications.",
+        description: "Leverage PHP full stack development, technical-expertise to build scalable and dynamic web applications.",
         images: MetadataLinkPhp.openGraph.images,
         url: MetadataLinkPhp.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataPhpEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "PHP Full Stack Development | CHORN",
-        description: "Expert PHP full stack development technical-expertise from CHORN for dynamic and scalable web applications.",
+        description: "Expert PHP full stack development for dynamic and scalable web applications.",
         images: MetadataLinkPhp.twitter.images,
     },
     keywords: [
@@ -37,7 +37,7 @@ export const MetadataPhpEN: Metadata = {
         "custom web applications", "API development", "enterprise software", "PHP frameworks",
 
         // Developer & Location-Specific Keywords
-        "PHP developer Thailand", "PHP developer Bangkok", "PHP developer Chiangmai",
+        "PHP developer Thailand", "PHP developer Bangkok", "PHP developer Chiang Mai",
         "backend developer Thailand", "full stack developer Thailand", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords

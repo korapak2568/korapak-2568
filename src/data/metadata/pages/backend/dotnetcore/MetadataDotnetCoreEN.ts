@@ -3,7 +3,7 @@ import {MetadataLinkGo} from "@/data/metadata/pages/backend/go/common/MetadataLi
 
 export const MetadataDotnetCoreEN: Metadata = {
     title: ".NET Core C# Full Stack Development | CHORN",
-    description: "CHORN offers .NET Core C# full stack development technical-expertise to build modern, scalable, and secure web applications.",
+    description: ".NET Core C# full stack development with technical expertise to build modern, scalable, and secure web applications.",
     alternates: MetadataLinkGo.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataDotnetCoreEN: Metadata = {
     ],
     openGraph: {
         title: ".NET Core C# Development | CHORN",
-        description: "Build secure, scalable, and modern web applications with CHORN’s .NET Core C# full stack development technical-expertise.",
+        description: "Build secure, scalable, and modern web applications with .NET Core C# full stack development technical-expertise.",
         images: MetadataLinkGo.openGraph.images,
         url: MetadataLinkGo.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataDotnetCoreEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: ".NET Core C# Full Stack Development | CHORN",
-        description: "Expert .NET Core C# full stack development technical-expertise from CHORN for modern and scalable web applications.",
+        description: "Expert .NET Core C# full stack development, technical expertise for modern and scalable web applications.",
         images: MetadataLinkGo.twitter.images,
     },
     keywords: [
@@ -34,7 +34,7 @@ export const MetadataDotnetCoreEN: Metadata = {
         "high-performance applications", "custom web applications", "API development",
 
         // Developer & Location-Specific Keywords
-        ".NET Core C# developer Thailand", ".NET Core C# developer Bangkok", ".NET Core C# developer Chiangmai",
+        ".NET Core C# developer Thailand", ".NET Core C# developer Bangkok", ".NET Core C# developer Chiang Mai",
         "backend developer Thailand", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords

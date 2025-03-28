@@ -28,23 +28,23 @@ export const MetadataHomeDA: Metadata = {
     },
     keywords: [
         "CHORN", "CHORN skræddersyet softwareudvikling", "CHORN software outsourcing", "Hvad er CHORN",
-        "CHORN softwareudvikling Thailand", "CHORN softwareudvikler Chiangmai", "CHORN softwareudvikler Bangkok",
+        "CHORN softwareudvikling Thailand", "CHORN softwareudvikler Chiang Mai", "CHORN softwareudvikler Bangkok",
 
         "skræddersyet softwareudvikling", "softwareudviklingsselskaber", "software outsourcing",
         "software outsourcing teknisk ekspertise", "softwareudviklings outsourcing", "softwareudviklings outsourcing selskaber",
         "top software outsourcing selskaber", "webudvikling outsourcing selskaber", "IT udviklingsselskaber",
         "outsourcing udviklingsselskab", "outsourcing Thailand", "outsourcing selskab i Thailand",
-        "softwareudvikling Chiangmai", "software outsourcing Chiangmai", "software outsourcing Bangkok",
+        "softwareudvikling Chiang Mai", "software outsourcing Chiang Mai", "software outsourcing Bangkok",
 
         "softwareingeniør", "softwareudvikler", "frontend udvikler", "backend udvikler", "full stack udvikler",
         "webudvikler", "mobil udvikler", "React udvikler", "Angular udvikler", "Java udvikler",
         "Node.js udvikler", ".NET Core udvikler", "PHP udvikler", "API udvikler", "blockchain udvikler",
         "Web3 udvikler", "microservices udvikler", "digital innovation", "enterprise software", "skalerbare websites",
 
-        "softwareudvikler Thailand", "softwareudvikler Chiangmai", "softwareudvikler Bangkok",
+        "softwareudvikler Thailand", "softwareudvikler Chiang Mai", "softwareudvikler Bangkok",
         "softwareingeniør Thailand", "frontend udvikler Thailand", "backend udvikler Thailand",
         "full stack udvikler Thailand", "webudvikler jobs i Thailand", "mobil udvikler Thailand",
-        "full stack udvikler Chiangmai", "softwareudvikler remote jobs", "outsourcing programmører Thailand",
+        "full stack udvikler Chiang Mai", "softwareudvikler remote jobs", "outsourcing programmører Thailand",
 
         "teknikchef", "teknikchef afdeling Thailand", "direktør for teknik",
         "direktør for teknik Thailand", "chef for softwareudvikling", "chef for softwareudvikling Thailand",

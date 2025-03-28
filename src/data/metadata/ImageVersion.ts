@@ -1,1 +1,1 @@
-export const ImageVersion = "?v=2.1"
+export const ImageVersion = "?v=2.2"

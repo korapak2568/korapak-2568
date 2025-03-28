@@ -7,17 +7,23 @@ import ServicesDetailsDotNetCore
     from "@/components/Services/fullstack-development/dotnetcore/ServicesDetailsDotNetCore";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Info} from "@/data/info/Info";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataDotnetCore} from "@/data/metadata/pages/backend/dotnetcore/common/MetadataDotnetCore";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.backend.dotnetcore
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataDotnetCore[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FullStack.dotnetcore.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FullStack.dotnetcore.features[0].title}/>
 
             <ServicesDetailsDotNetCore/>
 

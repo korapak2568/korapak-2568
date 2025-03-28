@@ -3,7 +3,7 @@ import {MetadataLinkNextjs} from "@/data/metadata/pages/frontend/nextjs/common/M
 
 export const MetadataNextjsEN: Metadata = {
     title: "Next.js Development Services | CHORN",
-    description: "Expert Next.js development technical-expertise by CHORN. Enhance your web applications with scalable and high-performance solutions using Next.js.",
+    description: "Expert Next.js development, enhance your web applications with scalable and high-performance solutions using Next.js.",
     alternates: MetadataLinkNextjs.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataNextjsEN: Metadata = {
     ],
     openGraph: {
         title: "Next.js Development | CHORN",
-        description: "CHORN offers specialized Next.js development technical-expertise to create fast and scalable web applications.",
+        description: "Specialized Next.js development, technical expertise to create fast and scalable web applications.",
         images: MetadataLinkNextjs.openGraph.images,
         url: MetadataLinkNextjs.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataNextjsEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Next.js Development Services | CHORN",
-        description: "Elevate your web applications with expert Next.js development technical-expertise from CHORN.",
+        description: "Elevate your web applications with expert Next.js development technical-expertise.",
         images: MetadataLinkNextjs.twitter.images,
     },
     keywords: [
@@ -33,7 +33,7 @@ export const MetadataNextjsEN: Metadata = {
         "single-page applications", "dynamic user interfaces", "full stack developer", "custom software development",
 
         // Developer & Location-Specific Keywords
-        "Next.js developer Thailand", "Next.js developer Bangkok", "Next.js developer Chiangmai", "frontend developer Thailand",
+        "Next.js developer Thailand", "Next.js developer Bangkok", "Next.js developer Chiang Mai", "frontend developer Thailand",
         "web developer Bangkok", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords

@@ -6,18 +6,23 @@ import ServicesDetailsCss3 from "@/components/Services/frontend-development/css3
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Info} from "@/data/info/Info";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataCss3} from "@/data/metadata/pages/frontend/css3/common/MetadataCss3";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.frontend.css3
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataCss3[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FrontEnd.css3.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.css3.features[0].title}/>
 
             <ServicesDetailsCss3/>
 

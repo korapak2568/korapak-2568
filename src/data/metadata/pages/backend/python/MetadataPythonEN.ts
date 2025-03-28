@@ -3,7 +3,7 @@ import {MetadataLinkPhp} from "@/data/metadata/pages/backend/php/common/Metadata
 
 export const MetadataPythonEN: Metadata = {
     title: "Python Full Stack Development | CHORN",
-    description: "CHORN offers Python full stack development technical-expertise to build dynamic and scalable web applications.",
+    description: "Python full stack development, technical expertise to build dynamic and scalable web applications.",
     alternates: MetadataLinkPhp.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataPythonEN: Metadata = {
     ],
     openGraph: {
         title: "Python Development | CHORN",
-        description: "Build dynamic and scalable web applications with CHORN’s Python full stack development technical-expertise.",
+        description: "Build dynamic and scalable web applications with Python full stack development technical expertise.",
         images: MetadataLinkPhp.openGraph.images,
         url: MetadataLinkPhp.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataPythonEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Python Full Stack Development | CHORN",
-        description: "Expert Python full stack development technical-expertise from CHORN for dynamic and scalable web applications.",
+        description: "Expert Python full stack development, technical expertise for dynamic and scalable web applications.",
         images: MetadataLinkPhp.twitter.images,
     },
     keywords: [
@@ -34,7 +34,7 @@ export const MetadataPythonEN: Metadata = {
         "high-performance applications", "custom web applications", "API development", "machine learning development",
 
         // Developer & Location-Specific Keywords
-        "Python developer Thailand", "Python developer Bangkok", "Python developer Chiangmai",
+        "Python developer Thailand", "Python developer Bangkok", "Python developer Chiang Mai",
         "backend developer Thailand", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords

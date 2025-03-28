@@ -32,7 +32,7 @@ export const MetadataWebDevelopmentNL: Metadata = {
         "principal PHP Laravel webontwikkelaar", "senior webontwikkelaar", ".NET Core webontwikkeling", "React webontwikkeling",
         "Angular webontwikkeling", "Vue.js webontwikkeling", "Node.js webontwikkeling", "Java Spring Boot webontwikkeling",
         "PHP Laravel webontwikkeling", "aangepaste React webontwikkeling", "enterprise Angular webontwikkeling",
-        "webontwikkelaar Thailand", "webontwikkelaar Bangkok", "webontwikkelaar Chiangmai",
+        "webontwikkelaar Thailand", "webontwikkelaar Bangkok", "webontwikkelaar Chiang Mai",
         "senior webontwikkelaar Thailand", "principal webontwikkelaar Thailand", "backend ontwikkelaar Thailand",
         "frontend ontwikkelaar Thailand", "software engineer Thailand", "CHORN", "digitale innovatie", "enterprise software", "schaalbare webapplicaties"
     ]

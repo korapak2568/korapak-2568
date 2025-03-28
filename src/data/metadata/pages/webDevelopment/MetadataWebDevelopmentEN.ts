@@ -40,7 +40,7 @@ export const MetadataWebDevelopmentEN: Metadata = {
         "PHP Laravel web development", "custom React web development", "enterprise Angular web development",
 
         // Developer & Location-Specific Keywords
-        "web developer Thailand", "web developer Bangkok", "web developer Chiangmai",
+        "web developer Thailand", "web developer Bangkok", "web developer Chiang Mai",
         "Senior web developer Thailand", "Principal web developer Thailand",
         "backend developer Thailand", "frontend developer Thailand", "software engineer Thailand",
 

@@ -3,7 +3,7 @@ import {MetadataLinkGo} from "@/data/metadata/pages/backend/go/common/MetadataLi
 
 export const MetadataGoEN: Metadata = {
     title: "Go Full Stack Development | CHORN",
-    description: "CHORN offers Go full stack development technical-expertise for building efficient and scalable web applications.",
+    description: "Go full stack development, technical expertise for building efficient and scalable web applications.",
     alternates: MetadataLinkGo.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataGoEN: Metadata = {
     ],
     openGraph: {
         title: "Go Development | CHORN",
-        description: "Build efficient and scalable web applications with CHORN’s Go full stack development technical-expertise.",
+        description: "Build efficient and scalable web applications with Go full stack development technical expertise.",
         images: MetadataLinkGo.openGraph.images,
         url: MetadataLinkGo.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataGoEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Go Full Stack Development | CHORN",
-        description: "Expert Go full stack development technical-expertise from CHORN for efficient and scalable web applications.",
+        description: "Expert Go full stack development, technical-expertise for efficient and scalable web applications.",
         images: MetadataLinkGo.twitter.images,
     },
     keywords: [
@@ -33,7 +33,7 @@ export const MetadataGoEN: Metadata = {
         "microservices development", "cloud-native development", "API development", "enterprise software",
 
         // Developer & Location-Specific Keywords
-        "Go developer Thailand", "Go developer Bangkok", "Go developer Chiangmai", "backend developer Thailand",
+        "Go developer Thailand", "Go developer Bangkok", "Go developer Chiang Mai", "backend developer Thailand",
         "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords

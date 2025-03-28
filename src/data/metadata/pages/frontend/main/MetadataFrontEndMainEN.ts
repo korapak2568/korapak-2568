@@ -40,7 +40,7 @@ export const MetadataFrontEndMainEN: Metadata = {
         "Vue.js frontend technical-expertise", "custom Vue.js development",
 
         // Developer & Location-Specific Keywords
-        "frontend developer Thailand", "frontend developer Bangkok", "frontend developer Chiangmai",
+        "frontend developer Thailand", "frontend developer Bangkok", "frontend developer Chiang Mai",
         "Senior frontend developer Thailand", "Principal frontend developer Thailand",
         "web developer Thailand", "web developer Bangkok", "software engineer Thailand",
 

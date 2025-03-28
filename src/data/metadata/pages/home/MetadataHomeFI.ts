@@ -28,23 +28,23 @@ export const MetadataHomeFI: Metadata = {
     },
     keywords: [
         "CHORN", "CHORN räätälöity ohjelmistokehitys", "CHORN ohjelmistojen ulkoistaminen", "Mitä on CHORN",
-        "CHORN ohjelmistokehitys Thaimaa", "CHORN ohjelmistokehittäjä Chiangmai", "CHORN ohjelmistokehittäjä Bangkok",
+        "CHORN ohjelmistokehitys Thaimaa", "CHORN ohjelmistokehittäjä Chiang Mai", "CHORN ohjelmistokehittäjä Bangkok",
 
         "räätälöity ohjelmistokehitys", "ohjelmistokehitysyhtiöt", "ohjelmistojen ulkoistaminen",
         "ohjelmistojen ulkoistamisen tekninen asiantuntemus", "ohjelmistokehityksen ulkoistaminen", "ohjelmistokehityksen ulkoistamisyhtiöt",
         "parhaat ohjelmistojen ulkoistamisyhtiöt", "verkkokehityksen ulkoistamisyhtiöt", "IT-kehitysyhtiöt",
         "ulkoistamiskehitysyhtiö", "ulkoistaminen Thaimaa", "ulkoistamisyritys Thaimaassa",
-        "ohjelmistokehitys Chiangmai", "ohjelmistojen ulkoistaminen Chiangmai", "ohjelmistojen ulkoistaminen Bangkok",
+        "ohjelmistokehitys Chiang Mai", "ohjelmistojen ulkoistaminen Chiang Mai", "ohjelmistojen ulkoistaminen Bangkok",
 
         "ohjelmistoinsinööri", "ohjelmistokehittäjä", "frontend-kehittäjä", "backend-kehittäjä", "full-stack kehittäjä",
         "verkkokehittäjä", "mobiilikehittäjä", "React-kehittäjä", "Angular-kehittäjä", "Java-kehittäjä",
         "Node.js-kehittäjä", ".NET Core-kehittäjä", "PHP-kehittäjä", "API-kehittäjä", "lohkoketjukehittäjä",
         "Web3-kehittäjä", "mikropalveluiden kehittäjä", "digitaalinen innovaatio", "yritysohjelmistot", "skaalautuvat verkkosivustot",
 
-        "ohjelmistokehittäjä Thaimaa", "ohjelmistokehittäjä Chiangmai", "ohjelmistokehittäjä Bangkok",
+        "ohjelmistokehittäjä Thaimaa", "ohjelmistokehittäjä Chiang Mai", "ohjelmistokehittäjä Bangkok",
         "ohjelmistoinsinööri Thaimaa", "frontend-kehittäjä Thaimaa", "backend-kehittäjä Thaimaa",
         "full-stack kehittäjä Thaimaa", "verkkokehittäjän työt Thaimaassa", "mobiilikehittäjä Thaimaa",
-        "full-stack kehittäjä Chiangmai", "ohjelmistokehittäjä etätyöt", "ulkoistettu ohjelmoija Thaimaa",
+        "full-stack kehittäjä Chiang Mai", "ohjelmistokehittäjä etätyöt", "ulkoistettu ohjelmoija Thaimaa",
 
         "tekniikkajohtaja", "tekniikkajohtaja Thaimaa", "tekniikan johtaja",
         "tekniikan johtaja Thaimaa", "ohjelmistokehityksen johtaja", "ohjelmistokehityksen johtaja Thaimaa",

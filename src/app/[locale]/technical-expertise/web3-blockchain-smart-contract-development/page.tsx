@@ -7,17 +7,22 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import ServicesCardWeb3Blockchain from "@/components/Services/web3-blockchain-development/ServicesCardWeb3Blockchain";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {Info} from "@/data/info/Info";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {MetadataWeb3} from "@/data/metadata/pages/web3/common/MetadataWeb3";
 
-export const metadata: Metadata = MetadataChorn.blockchain
-
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataWeb3[locale]
+}
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.Web3.title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].Web3.title}/>
 
             <ServicesCardWeb3Blockchain/>
 

@@ -6,17 +6,23 @@ import ServicesDetailsHtml5 from "@/components/Services/frontend-development/htm
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Info} from "@/data/info/Info";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataHtml5} from "@/data/metadata/pages/frontend/html5/common/MetadataHtml5";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.frontend.html5
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataHtml5[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FrontEnd.html5.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.html5.features[0].title}/>
 
             <ServicesDetailsHtml5/>
 

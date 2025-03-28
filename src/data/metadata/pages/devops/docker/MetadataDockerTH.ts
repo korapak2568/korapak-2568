@@ -1,0 +1,30 @@
+import {Metadata} from "next";
+import {MetadataLinkDocker} from "@/data/metadata/pages/devops/docker/common/MetadataLinkDocker";
+
+export const MetadataDockerTH: Metadata = {
+    title: "บริการ Docker DevOps | CHORN",
+    description: "ความเชี่ยวชาญด้าน DevOps บน Docker สำหรับการทำคอนเทนเนอร์และการปรับใช้แอปพลิเคชันที่สามารถขยายขนาดได้อย่างมีประสิทธิภาพ",
+    alternates: MetadataLinkDocker.alternates,
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
+    openGraph: {
+        title: "บริการ Docker DevOps | CHORN",
+        description: "ใช้ประโยชน์จาก Docker สำหรับการทำคอนเทนเนอร์และการปรับใช้ซอฟต์แวร์ที่ขยายขนาดได้ด้วยความเชี่ยวชาญด้าน DevOps",
+        images: MetadataLinkDocker.openGraph.images,
+        url: MetadataLinkDocker.openGraph.url,
+        type: "website"
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "บริการ Docker DevOps | CHORN",
+        description: "ความเชี่ยวชาญด้าน DevOps บน Docker สำหรับการทำคอนเทนเนอร์และการปรับใช้แอปพลิเคชันที่สามารถขยายขนาดได้",
+        images: MetadataLinkDocker.twitter.images,
+    },
+    keywords: [
+        "Docker DevOps", "ความเชี่ยวชาญด้าน Docker", "การทำคอนเทนเนอร์", "CHORN", "DevOps", "การปรับใช้ที่ขยายขนาดได้",
+        "การพัฒนาซอฟต์แวร์เฉพาะทาง", "แอปพลิเคชันบนคลาวด์", "DevOps ไทย", "Docker คอนเทนเนอร์"
+    ]
+};

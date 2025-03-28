@@ -6,18 +6,23 @@ import ServicesDetailsAngular from "@/components/Services/frontend-development/a
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Info} from "@/data/info/Info";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataAngular} from "@/data/metadata/pages/frontend/angular/common/MetadataAngular";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.frontend.angular
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataAngular[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FrontEnd.angular.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.angular.features[0].title}/>
 
             <ServicesDetailsAngular/>
 

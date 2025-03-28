@@ -6,17 +6,23 @@ import ServicesDetailsNextJS from "@/components/Services/frontend-development/ne
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Info} from "@/data/info/Info";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataNextjs} from "@/data/metadata/pages/frontend/nextjs/common/MetadataNextjs";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.frontend.nextjs
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataNextjs[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FrontEnd.nextjs.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.nextjs.features[0].title}/>
 
             <ServicesDetailsNextJS/>
 

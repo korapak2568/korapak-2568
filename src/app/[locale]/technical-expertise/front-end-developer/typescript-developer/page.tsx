@@ -5,20 +5,25 @@ import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsTypeScript
     from "@/components/Services/frontend-development/typescript/ServicesDetailsTypeScript";
 import CloudExperience from "@/components/Common/CloudExperience";
-import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataReact} from "@/data/metadata/pages/frontend/react/common/MetadataReact";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.frontend.typescript
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataReact[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FrontEnd.typescript.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.typescript.features[0].title}/>
 
             <ServicesDetailsTypeScript/>
 

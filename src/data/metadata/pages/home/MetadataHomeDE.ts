@@ -28,23 +28,23 @@ export const MetadataHomeDE: Metadata = {
     },
     keywords: [
         "CHORN", "CHORN maßgeschneiderte Softwareentwicklung", "CHORN Software-Outsourcing", "Was ist CHORN",
-        "CHORN Softwareentwicklung Thailand", "CHORN Softwareentwickler Chiangmai", "CHORN Softwareentwickler Bangkok",
+        "CHORN Softwareentwicklung Thailand", "CHORN Softwareentwickler Chiang Mai", "CHORN Softwareentwickler Bangkok",
 
         "maßgeschneiderte Softwareentwicklung", "maßgeschneiderte Softwareentwicklungsunternehmen", "Software-Outsourcing",
         "Software-Outsourcing technische Expertise", "Softwareentwicklungs-Outsourcing", "Softwareentwicklungs-Outsourcing-Unternehmen",
         "Top-Software-Outsourcing-Unternehmen", "Webentwicklungs-Outsourcing-Unternehmen", "IT-Entwicklungsunternehmen",
         "Outsourcing-Entwicklungsunternehmen", "Outsourcing Thailand", "Outsourcing-Unternehmen in Thailand",
-        "Softwareentwicklung Chiangmai", "Software-Outsourcing Chiangmai", "Software-Outsourcing Bangkok",
+        "Softwareentwicklung Chiang Mai", "Software-Outsourcing Chiang Mai", "Software-Outsourcing Bangkok",
 
         "Softwareingenieur", "Softwareentwickler", "Frontend-Entwickler", "Backend-Entwickler", "Full-Stack-Entwickler",
         "Webentwickler", "Mobile-Entwickler", "React-Entwickler", "Angular-Entwickler", "Java-Entwickler",
         "Node.js-Entwickler", ".NET Core-Entwickler", "PHP-Entwickler", "API-Entwickler", "Blockchain-Entwickler",
         "Web3-Entwickler", "Microservices-Entwickler", "digitale Innovation", "Unternehmenssoftware", "skalierbare Webseiten",
 
-        "Softwareentwickler Thailand", "Softwareentwickler Chiangmai", "Softwareentwickler Bangkok",
+        "Softwareentwickler Thailand", "Softwareentwickler Chiang Mai", "Softwareentwickler Bangkok",
         "Softwareingenieur Thailand", "Frontend-Entwickler Thailand", "Backend-Entwickler Thailand",
         "Full-Stack-Entwickler Thailand", "Webentwickler Jobs in Thailand", "Mobile-Entwickler Thailand",
-        "Full-Stack-Entwickler Chiangmai", "Softwareentwickler Remote Jobs", "Outsourcing-Programmierer Thailand",
+        "Full-Stack-Entwickler Chiang Mai", "Softwareentwickler Remote Jobs", "Outsourcing-Programmierer Thailand",
 
         "Leiter der Technik", "Leiter der Technikabteilung Thailand", "Direktor der Technik",
         "Direktor der Technik Thailand", "Leiter der Softwareentwicklung", "Leiter der Softwareentwicklung Thailand",

@@ -32,7 +32,7 @@ export const MetadataWebDevelopmentVI: Metadata = {
         "lập trình viên PHP Laravel chính", "lập trình viên web cao cấp", "phát triển web .NET Core", "phát triển web React",
         "phát triển web Angular", "phát triển web Vue.js", "phát triển web Node.js", "phát triển web Java Spring Boot",
         "phát triển web PHP Laravel", "phát triển web React tùy chỉnh", "phát triển web Angular cho doanh nghiệp",
-        "lập trình viên web Thái Lan", "lập trình viên web Bangkok", "lập trình viên web Chiangmai",
+        "lập trình viên web Thái Lan", "lập trình viên web Bangkok", "lập trình viên web Chiang Mai",
         "lập trình viên web cao cấp Thái Lan", "lập trình viên web chính Thái Lan", "lập trình viên backend Thái Lan",
         "lập trình viên frontend Thái Lan", "kỹ sư phần mềm Thái Lan", "CHORN", "đổi mới kỹ thuật số", "phần mềm doanh nghiệp", "ứng dụng web có thể mở rộng"
     ]

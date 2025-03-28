@@ -32,7 +32,7 @@ export const MetadataWebDevelopmentFI: Metadata = {
         "principal PHP Laravel verkkokehittäjä", "senior verkkokehittäjä", ".NET Core verkkokehitys", "React verkkokehitys",
         "Angular verkkokehitys", "Vue.js verkkokehitys", "Node.js verkkokehitys", "Java Spring Boot verkkokehitys",
         "PHP Laravel verkkokehitys", "räätälöity React verkkokehitys", "yritystason Angular verkkokehitys",
-        "verkkokehittäjä Thaimaa", "verkkokehittäjä Bangkok", "verkkokehittäjä Chiangmai",
+        "verkkokehittäjä Thaimaa", "verkkokehittäjä Bangkok", "verkkokehittäjä Chiang Mai",
         "senior verkkokehittäjä Thaimaa", "principal verkkokehittäjä Thaimaa", "backend kehittäjä Thaimaa",
         "frontend kehittäjä Thaimaa", "ohjelmistoinsinööri Thaimaa", "CHORN", "digitaalinen innovaatio", "yritysohjelmisto", "skaalautuvat verkkosovellukset"
     ]

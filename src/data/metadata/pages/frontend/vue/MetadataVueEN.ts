@@ -3,7 +3,7 @@ import {MetadataLinkVue} from "@/data/metadata/pages/frontend/vue/common/Metadat
 
 export const MetadataVueEN: Metadata = {
     title: "Vue.js Development Services | CHORN",
-    description: "CHORN specializes in Vue.js development to create interactive and scalable web applications.",
+    description: "Specializes in Vue.js development to create interactive and scalable web applications.",
     alternates: MetadataLinkVue.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataVueEN: Metadata = {
     ],
     openGraph: {
         title: "Vue.js Development | CHORN",
-        description: "Expert Vue.js development technical-expertise by CHORN for building modern web applications.",
+        description: "Expert Vue.js development, technical expertise for building modern web applications.",
         images: MetadataLinkVue.openGraph.images,
         url: MetadataLinkVue.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataVueEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Vue.js Development Services | CHORN",
-        description: "Enhance your web applications with Vue.js. CHORN offers expert Vue.js development technical-expertise.",
+        description: "Enhance your web applications with Vue.js with Vue.js development technical expertise.",
         images: MetadataLinkVue.twitter.images,
     },
     keywords: [
@@ -34,7 +34,7 @@ export const MetadataVueEN: Metadata = {
         "dynamic user interfaces", "single-page applications", "Vue.js developer",
 
         // Developer & Location-Specific Keywords
-        "Vue.js developer Thailand", "Vue.js developer Bangkok", "Vue.js developer Chiangmai", "frontend developer Thailand",
+        "Vue.js developer Thailand", "Vue.js developer Bangkok", "Vue.js developer Chiang Mai", "frontend developer Thailand",
         "web developer Bangkok", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords

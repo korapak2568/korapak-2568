@@ -3,7 +3,7 @@ import {MetadataLinkHtml5} from "@/data/metadata/pages/frontend/html5/common/Met
 
 export const MetadataHtml5EN: Metadata = {
     title: "HTML5 Development Services | CHORN",
-    description: "CHORN offers expert HTML5 development technical-expertise to create responsive and engaging web applications.",
+    description: "HTML5 development technical expertise to create responsive and engaging web applications.",
     alternates: MetadataLinkHtml5.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataHtml5EN: Metadata = {
     ],
     openGraph: {
         title: "HTML5 Development | CHORN",
-        description: "Build modern and interactive web applications with CHORN’s HTML5 development technical-expertise.",
+        description: "Build modern and interactive web applications with technical expertise.",
         images: MetadataLinkHtml5.openGraph.images,
         url: MetadataLinkHtml5.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataHtml5EN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "HTML5 Development Services | CHORN",
-        description: "Create interactive web apps with HTML5. CHORN provides expert HTML5 development technical-expertise.",
+        description: "Create interactive web apps with HTML5 technical-expertise.",
         images: MetadataLinkHtml5.twitter.images,
     },
     keywords: [
@@ -34,7 +34,7 @@ export const MetadataHtml5EN: Metadata = {
         "high-performance web design", "responsive web design", "dynamic user interfaces",
 
         // Developer & Location-Specific Keywords
-        "HTML5 developer Thailand", "HTML5 developer Bangkok", "HTML5 developer Chiangmai", "frontend developer Thailand",
+        "HTML5 developer Thailand", "HTML5 developer Bangkok", "HTML5 developer Chiang Mai", "frontend developer Thailand",
         "web developer Bangkok", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords

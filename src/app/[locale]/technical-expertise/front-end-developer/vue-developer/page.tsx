@@ -6,17 +6,23 @@ import ServicesDetailsVue from "@/components/Services/frontend-development/vue/S
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {Info} from "@/data/info/Info";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataVue} from "@/data/metadata/pages/frontend/vue/common/MetadataVue";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.frontend.vue
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataVue[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.FrontEnd.vue.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.vue.features[0].title}/>
 
             <ServicesDetailsVue/>
 

@@ -7,17 +7,23 @@ import ServicesCardFullStack from "@/components/Services/fullstack-development/S
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataBackEndMain} from "@/data/metadata/pages/backend/main/common/MetadataBackEndMain";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.backend.main
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataBackEndMain[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Back-End & API Development"/>
+            <PageBanner pageTitle={InfoTranslation[locale].FullStack.title}/>
 
             <ServicesCardFullStack/>
 

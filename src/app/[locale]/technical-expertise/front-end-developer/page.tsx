@@ -7,17 +7,23 @@ import ServicesCardFrontEnd from "@/components/Services/frontend-development/Ser
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import {MetadataChorn} from "@/data/metadata/MetadataChorn";
+import {headers} from "next/headers";
+import {MetadataFrontEndMain} from "@/data/metadata/pages/frontend/main/common/MetadataFrontEndMain";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export const metadata: Metadata = MetadataChorn.frontend.main
+export async function generateMetadata(): Promise<Metadata> {
+    const locale = headers().get('x-locale') || 'en';
+    return MetadataFrontEndMain[locale]
+}
 
 const Page = () => {
+    const locale = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle="Frontend Development"/>
+            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.title}/>
 
             <ServicesCardFrontEnd/>
 

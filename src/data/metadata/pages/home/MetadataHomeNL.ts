@@ -28,23 +28,23 @@ export const MetadataHomeNL: Metadata = {
     },
     keywords: [
         "CHORN", "CHORN maatwerk softwareontwikkeling", "CHORN software outsourcing", "Wat is CHORN",
-        "CHORN softwareontwikkeling Thailand", "CHORN softwareontwikkelaar Chiangmai", "CHORN softwareontwikkelaar Bangkok",
+        "CHORN softwareontwikkeling Thailand", "CHORN softwareontwikkelaar Chiang Mai", "CHORN softwareontwikkelaar Bangkok",
 
         "maatwerk softwareontwikkeling", "maatwerk softwareontwikkelingsbedrijven", "software outsourcing",
         "software outsourcing technische expertise", "software ontwikkelings outsourcing", "software ontwikkelings outsourcing bedrijven",
         "top software outsourcing bedrijven", "webontwikkeling outsourcing bedrijven", "IT ontwikkelingsbedrijven",
         "outsourcing ontwikkelingsbedrijf", "outsourcing Thailand", "outsourcing bedrijf in Thailand",
-        "softwareontwikkeling Chiangmai", "software outsourcing Chiangmai", "software outsourcing Bangkok",
+        "softwareontwikkeling Chiang Mai", "software outsourcing Chiang Mai", "software outsourcing Bangkok",
 
         "software engineer", "software ontwikkelaar", "frontend ontwikkelaar", "backend ontwikkelaar", "full stack ontwikkelaar",
         "web ontwikkelaar", "mobiele ontwikkelaar", "React ontwikkelaar", "Angular ontwikkelaar", "Java ontwikkelaar",
         "Node.js ontwikkelaar", ".NET Core ontwikkelaar", "PHP ontwikkelaar", "API ontwikkelaar", "blockchain ontwikkelaar",
         "Web3 ontwikkelaar", "microservices ontwikkelaar", "digitale innovatie", "bedrijfssoftware", "schaalbare websites",
 
-        "software ontwikkelaar Thailand", "software ontwikkelaar Chiangmai", "software ontwikkelaar Bangkok",
+        "software ontwikkelaar Thailand", "software ontwikkelaar Chiang Mai", "software ontwikkelaar Bangkok",
         "software engineer Thailand", "frontend ontwikkelaar Thailand", "backend ontwikkelaar Thailand",
         "full stack ontwikkelaar Thailand", "web ontwikkelaar vacatures in Thailand", "mobiele ontwikkelaar Thailand",
-        "full stack ontwikkelaar Chiangmai", "software ontwikkelaar remote vacatures", "outsourcing programmeurs Thailand",
+        "full stack ontwikkelaar Chiang Mai", "software ontwikkelaar remote vacatures", "outsourcing programmeurs Thailand",
 
         "hoofd techniek", "hoofd techniek afdeling Thailand", "directeur techniek",
         "directeur techniek Thailand", "hoofd software ontwikkeling", "hoofd software ontwikkeling Thailand",

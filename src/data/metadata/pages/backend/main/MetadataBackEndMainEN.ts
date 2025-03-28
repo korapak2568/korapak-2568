@@ -2,8 +2,8 @@ import {Metadata} from "next";
 import {MetadataLinkBackEndMain} from "@/data/metadata/pages/backend/main/common/MetadataLinkBackEndMain";
 
 export const MetadataBackEndMainEN: Metadata = {
-    title: "Back-End & API Development Services | CHORN",
-    description: "CHORN offers expert Back-End & API Development technical-expertise utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions.",
+    title: "Back-End API Development | CHORN",
+    description: "Back-End API development services with technical expertise using modern technologies such as Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP to build high-quality and scalable applications tailored to business needs.",
     alternates: MetadataLinkBackEndMain.alternates,
     authors: [
         {
@@ -11,16 +11,16 @@ export const MetadataBackEndMainEN: Metadata = {
         }
     ],
     openGraph: {
-        title: "Back-End & API Development Services | CHORN",
-        description: "CHORN provides Back-End & API Development technical-expertise with expertise in Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build powerful and scalable applications for your business.",
+        title: "Back-End API Development | CHORN",
+        description: "Back-End API development with technical expertise using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP to build high-quality and scalable applications tailored to business needs.",
         images: MetadataLinkBackEndMain.openGraph.images,
         url: MetadataLinkBackEndMain.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
-        title: "Back-End & API Development Services | CHORN",
-        description: "Leverage Back-End & API Development technical-expertise by CHORN to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
+        title: "Back-End API Development | CHORN",
+        description: "Back-End API development to build scalable web applications using Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP.",
         images: MetadataLinkBackEndMain.twitter.images,
     },
 }

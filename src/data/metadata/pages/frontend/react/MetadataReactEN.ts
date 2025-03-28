@@ -3,7 +3,7 @@ import {MetadataLinkReact} from "@/data/metadata/pages/frontend/react/common/Met
 
 export const MetadataReactEN: Metadata = {
     title: "React Development Services | CHORN",
-    description: "CHORN provides top-tier React development technical-expertise. Build dynamic and responsive user interfaces with React.",
+    description: "Top-tier React development with technical expertise, build dynamic and responsive user interfaces with React.",
     alternates: MetadataLinkReact.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataReactEN: Metadata = {
     ],
     openGraph: {
         title: "React Development | CHORN",
-        description: "Enhance your web apps with React. CHORN offers expert React development technical-expertise for high-performance applications.",
+        description: "Enhance your web apps with expert React development, technical expertise for high-performance applications.",
         images: MetadataLinkReact.openGraph.images,
         url: MetadataLinkReact.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataReactEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "React Development Services | CHORN",
-        description: "Expert React development technical-expertise by CHORN. Create engaging user interfaces with React.",
+        description: "Expert React development, technical expertise create engaging user interfaces with React.",
         images: MetadataLinkReact.twitter.images,
     },
     keywords: [
@@ -34,7 +34,7 @@ export const MetadataReactEN: Metadata = {
         "dynamic user interfaces", "single-page applications", "React.js developer",
 
         // Developer & Location-Specific Keywords
-        "React developer Thailand", "React developer Bangkok", "React developer Chiangmai", "frontend developer Thailand",
+        "React developer Thailand", "React developer Bangkok", "React developer Chiang Mai", "frontend developer Thailand",
         "web developer Bangkok", "software engineer", "software developer Thailand",
 
         // Brand & Innovation Keywords

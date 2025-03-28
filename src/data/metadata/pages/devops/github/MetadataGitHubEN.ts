@@ -3,7 +3,7 @@ import {MetadataLinkGitHub} from "@/data/metadata/pages/devops/github/common/Met
 
 export const MetadataGitHubEN: Metadata = {
     title: "GitHub DevOps Services | CHORN",
-    description: "CHORN offers DevOps technical-expertise integrating GitHub for version control, continuous integration, and automated workflows.",
+    description: "DevOps technical expertise integrating GitHub for version control, continuous integration, and automated workflows.",
     alternates: MetadataLinkGitHub.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataGitHubEN: Metadata = {
     ],
     openGraph: {
         title: "GitHub DevOps Services | CHORN",
-        description: "Enhance your development workflow with CHORN’s GitHub-based DevOps technical-expertise for CI/CD and version control.",
+        description: "Enhance your development workflow with GitHub-based DevOps technical expertise for CI/CD and version control.",
         images: MetadataLinkGitHub.openGraph.images,
         url: MetadataLinkGitHub.openGraph.url,
         type: "website"
@@ -20,11 +20,11 @@ export const MetadataGitHubEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "GitHub DevOps Services | CHORN",
-        description: "Streamline your development with CHORN’s GitHub DevOps technical-expertise for version control and CI/CD workflows.",
+        description: "Streamline your development with GitHub DevOps technical expertise for version control and CI/CD workflows.",
         images: MetadataLinkGitHub.twitter.images,
     },
     keywords: [
-        "GitHub DevOps", "GitHub technical-expertise", "version control", "CI/CD", "DevOps", "custom software development",
+        "GitHub DevOps", "GitHub technical expertise", "version control", "CI/CD", "DevOps", "custom software development",
         "continuous integration", "DevOps thailand", "GitHub automation", "software development workflow"
     ]
 }

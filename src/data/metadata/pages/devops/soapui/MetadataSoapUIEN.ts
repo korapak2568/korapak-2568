@@ -1,10 +1,10 @@
 import {Metadata} from "next";
-import {MetadataLinkContact} from "@/data/metadata/pages/contact/common/MetadataLinkContact";
+import {MetadataLinkSoapUI} from "./common/MetadataLinkSoapUI";
 
 export const MetadataSoapUIEN: Metadata = {
     title: "SoapUI Testing Services | CHORN",
-    description: "CHORN provides expert SoapUI testing technical-expertise to ensure your web technical-expertise and APIs are thoroughly tested and reliable.",
-    alternates: MetadataLinkContact.alternates,
+    description: "SoapUI testing technical expertise to ensure your web technical expertise and APIs are thoroughly tested and reliable.",
+    alternates: MetadataLinkSoapUI.alternates,
     authors: [
         {
             name: "CHORN"
@@ -12,21 +12,21 @@ export const MetadataSoapUIEN: Metadata = {
     ],
     openGraph: {
         title: "SoapUI Testing | CHORN",
-        description: "Ensure the reliability of your APIs and web technical-expertise with CHORN’s SoapUI testing technical-expertise.",
-        images: MetadataLinkContact.openGraph.images,
-        url: MetadataLinkContact.openGraph.url,
+        description: "Ensure the reliability of your APIs and web technical expertise with testing technical expertise.",
+        images: MetadataLinkSoapUI.openGraph.images,
+        url: MetadataLinkSoapUI.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "SoapUI Testing Services | CHORN",
-        description: "Optimize your API testing with CHORN’s SoapUI technical-expertise for comprehensive and reliable web service testing.",
-        images: MetadataLinkContact.twitter.images,
+        description: "Optimize your API testing with SoapUI technical expertise for comprehensive and reliable web service testing.",
+        images: MetadataLinkSoapUI.twitter.images,
     },
     keywords: [
         "SoapUI testing", "API testing", "CHORN", "Cloud DevOps",
         "web service testing", "reliable testing", "test automation",
         "quality assurance", "software testing", "API reliability",
-        "testing technical-expertise Thailand", "SoapUI technical-expertise", "web application testing"
+        "testing technical expertise Thailand", "SoapUI technical expertise", "web application testing"
     ]
 }

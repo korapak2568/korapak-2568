@@ -3,7 +3,7 @@ import {MetadataLinkJavaScript} from "@/data/metadata/pages/frontend/javascript/
 
 export const MetadataJavaScriptEN: Metadata = {
     title: "JavaScript | CHORN - Custom Software Development Experts",
-    description: "Learn how CHORN leverages JavaScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
+    description: "Leverages JavaScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
     alternates: MetadataLinkJavaScript.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataJavaScriptEN: Metadata = {
     ],
     openGraph: {
         title: "CHORN - JavaScript Custom Software Development",
-        description: "Explore CHORN's expertise in JavaScript, a powerful tool for building scalable and high-performance applications. Learn why we choose JavaScript for custom software solutions.",
+        description: "JavaScript expertise, a powerful tool for building scalable and high-performance applications. Learn why we choose JavaScript for custom software solutions.",
         images: MetadataLinkJavaScript.openGraph.images,
         url: MetadataLinkJavaScript.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataJavaScriptEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "CHORN - JavaScript Development for Custom Software Solutions",
-        description: "Discover why CHORN uses JavaScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
+        description: "JavaScript development to deliver scalable and high-quality software solutions tailored to businesses' needs.",
         images: MetadataLinkJavaScript.twitter.images,
     },
     keywords: [
@@ -34,7 +34,7 @@ export const MetadataJavaScriptEN: Metadata = {
         "high-performance applications", "enterprise software solutions", "custom web applications", "API development",
 
         // Developer & Location-Specific Keywords
-        "JavaScript developer Thailand", "JavaScript developer Bangkok", "JavaScript developer Chiangmai",
+        "JavaScript developer Thailand", "JavaScript developer Bangkok", "JavaScript developer Chiang Mai",
         "frontend developer Thailand", "backend developer Thailand", "full stack developer Thailand",
         "software engineer", "software developer Thailand",
 

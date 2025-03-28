@@ -1,7 +1,7 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
 
 export const FrontEndEN: IFrontEnd = {
-    title: "Front-End Experience",
+    title: "Front-End Development",
     span: "Front-End Development Experience",
     subTitle: "",
 
@@ -397,7 +397,7 @@ export const FrontEndEN: IFrontEnd = {
     stacks: [],
 
     services: {
-        title: "Front-End Development Services",
+        title: "Front-End Development Service",
         descriptions: [
             "Transform your web vision into reality with our expert front-end development services. CHORN delivers user-friendly, visually stunning, and fully responsive websites that engage your audience. We specialize in modern frameworks including Next.js, React, Angular, and Vue.js, alongside core web technologies like HTML5 and CSS3. Whether you need a high-performance single-page application (SPA) optimized for search engines or a sophisticated multi-page platform, our developers deliver quality results on time. Partner with CHORN to create compelling digital experiences that captivate visitors and drive business growth."
         ],

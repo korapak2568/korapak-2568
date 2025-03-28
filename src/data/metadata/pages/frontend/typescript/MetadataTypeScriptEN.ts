@@ -3,7 +3,7 @@ import {MetadataLinkTypeScript} from "@/data/metadata/pages/frontend/typescript/
 
 export const MetadataTypeScriptEN: Metadata = {
     title: "TypeScript | CHORN - Custom Software Development Experts",
-    description: "Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
+    description: "Leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
     alternates: MetadataLinkTypeScript.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataTypeScriptEN: Metadata = {
     ],
     openGraph: {
         title: "CHORN - TypeScript Custom Software Development",
-        description: "Explore CHORN's expertise in TypeScript, a powerful tool for building scalable and high-performance applications. Learn why we choose TypeScript for custom software solutions.",
+        description: "TypeScript expertise, a powerful tool for building scalable and high-performance applications. Learn why we choose TypeScript for custom software solutions.",
         images: MetadataLinkTypeScript.openGraph.images,
         url: MetadataLinkTypeScript.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataTypeScriptEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "CHORN - TypeScript Development for Custom Software Solutions",
-        description: "Discover why CHORN uses TypeScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
+        description: "Use TypeScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
         images: MetadataLinkTypeScript.twitter.images,
     },
     keywords: [
@@ -34,7 +34,7 @@ export const MetadataTypeScriptEN: Metadata = {
         "high-performance applications", "enterprise software solutions", "custom web applications", "API development",
 
         // Developer & Location-Specific Keywords
-        "TypeScript developer Thailand", "TypeScript developer Bangkok", "TypeScript developer Chiangmai",
+        "TypeScript developer Thailand", "TypeScript developer Bangkok", "TypeScript developer Chiang Mai",
         "frontend developer Thailand", "backend developer Thailand", "full stack developer Thailand",
         "software engineer", "software developer Thailand",
 

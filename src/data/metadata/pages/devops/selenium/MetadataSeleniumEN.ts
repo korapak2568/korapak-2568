@@ -3,7 +3,7 @@ import {MetadataLinkSelenium} from "@/data/metadata/pages/devops/selenium/common
 
 export const MetadataSeleniumEN: Metadata = {
     title: "Selenium Testing Services | CHORN",
-    description: "CHORN offers comprehensive Selenium testing technical-expertise to ensure the quality and performance of your applications through automated testing.",
+    description: "Comprehensive Selenium testing technical expertise to ensure the quality and performance of your applications through automated testing.",
     alternates: MetadataLinkSelenium.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataSeleniumEN: Metadata = {
     ],
     openGraph: {
         title: "Selenium Testing | CHORN",
-        description: "Automate your application testing with CHORN’s Selenium technical-expertise for robust and reliable results.",
+        description: "Automate your application testing with Selenium technical expertise for robust and reliable results.",
         images: MetadataLinkSelenium.openGraph.images,
         url: MetadataLinkSelenium.openGraph.url,
         type: "website"
@@ -20,13 +20,13 @@ export const MetadataSeleniumEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Selenium Testing Services | CHORN",
-        description: "Enhance your application’s quality with CHORN’s Selenium testing technical-expertise for automated and effective testing.",
+        description: "Enhance your application’s quality with Selenium testing technical expertise for automated and effective testing.",
         images: MetadataLinkSelenium.twitter.images,
     },
     keywords: [
         "Selenium testing", "automated testing", "CHORN", "Cloud DevOps",
         "application quality assurance", "test automation", "software testing",
-        "quality assurance technical-expertise", "testing technical-expertise", "test scripts",
-        "software testing Thailand", "selenium technical-expertise", "web application testing"
+        "quality assurance technical expertise", "testing technical expertise", "test scripts",
+        "software testing Thailand", "selenium technical expertise", "web application testing"
     ]
 }

@@ -3,7 +3,7 @@ import {MetadataLinkCss3} from "@/data/metadata/pages/frontend/css3/common/Metad
 
 export const MetadataCss3EN: Metadata = {
     title: "CSS3 Development Services | CHORN",
-    description: "Enhance your web applications with CHORN’s CSS3 development technical-expertise for modern and visually appealing designs.",
+    description: "Enhance your web applications with CSS3 development, technical expertise for modern and visually appealing designs.",
     alternates: MetadataLinkCss3.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataCss3EN: Metadata = {
     ],
     openGraph: {
         title: "CSS3 Development | CHORN",
-        description: "CHORN offers CSS3 development technical-expertise to create stylish and responsive web designs.",
+        description: "CSS3 development with technical expertise to create stylish and responsive web designs.",
         images: MetadataLinkCss3.openGraph.images,
         url: MetadataLinkCss3.openGraph.url,
         type: "website"
@@ -20,7 +20,7 @@ export const MetadataCss3EN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "CSS3 Development Services | CHORN",
-        description: "Create visually stunning web designs with CSS3. CHORN provides expert CSS3 development technical-expertise.",
+        description: "Create visually stunning web designs with CSS3 with providing CSS3 development technical expertise.",
         images: MetadataLinkCss3.twitter.images,
     },
 }

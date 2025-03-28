@@ -3,7 +3,7 @@ import {MetadataLinkAngular} from "@/data/metadata/pages/frontend/angular/common
 
 export const MetadataAngularEN: Metadata = {
     title: "Angular Development Services | CHORN",
-    description: "Expert Angular development technical-expertise by CHORN. Build dynamic, scalable, and high-performance web applications using Angular.",
+    description: "Angular development service, build dynamic, scalable, and high-performance web applications using Angular.",
     alternates: MetadataLinkAngular.alternates,
     authors: [
         {
@@ -12,7 +12,7 @@ export const MetadataAngularEN: Metadata = {
     ],
     openGraph: {
         title: "Angular Development | CHORN",
-        description: "CHORN offers expert Angular development technical-expertise to create fast, scalable, and dynamic web applications.",
+        description: "Angular development with technical expertise to create fast, scalable, and dynamic web applications.",
         images: MetadataLinkAngular.openGraph.images,
         url: MetadataLinkAngular.openGraph.url,
         type: "website"
@@ -20,13 +20,13 @@ export const MetadataAngularEN: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Angular Development Services | CHORN",
-        description: "Elevate your web applications with expert Angular development technical-expertise from CHORN.",
+        description: "Elevate your web applications with expert Angular development.",
         images: MetadataLinkAngular.twitter.images,
     },
     keywords: [
         // Core Angular & service Keywords
         "Angular development", "Angular technical-expertise", "Angular developer", "Angular development Thailand",
-        "Angular development Bangkok", "Angular development Chiangmai", "Angular development company",
+        "Angular development Bangkok", "Angular development Chiang Mai", "Angular development company",
         "custom Angular development", "custom software development", "enterprise Angular applications",
 
         // Web & Application Development Keywords
@@ -35,7 +35,7 @@ export const MetadataAngularEN: Metadata = {
 
         // Developer & Location-Specific Keywords
         "web developer", "full stack developer", "software engineer", "software developer Thailand",
-        "Angular developer Thailand", "frontend developer Thailand", "web developer Bangkok", "Angular developer Chiangmai",
+        "Angular developer Thailand", "frontend developer Thailand", "web developer Bangkok", "Angular developer Chiang Mai",
         "Angular developer Bangkok", "Angular development company",
 
         // Brand & Innovation Keywords
