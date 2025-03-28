@@ -7,7 +7,7 @@ export const AboutEN: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN was launched in March 2023 by K.Khachornchit, offering expertise in technology and software development. With an electrical engineering background and over 20 years of experience, he specializes in system architecture, business analysis, full-cycle software development engineering, web development, API (Application Programming Interface) development, software quality assurance and testing (Software QA/Testing), DevOps (Development + Operations) development, and CI/CD (Continuous Integration and Continuous Deployment)."
+            description: "CHORN was launched in March 2023 by K. Khachornchit, offering technology and software development expertise. With an electrical engineering background and over 20 years of experience, he specializes in IT, system architecture, business analysis, full-cycle software development engineering, web development, API (Application Programming Interface) development, Software QA/Testing, DevOps (Development + Operations), and CI/CD (Continuous Integration and Continuous Deployment).",
         },
         {
             title: "",
