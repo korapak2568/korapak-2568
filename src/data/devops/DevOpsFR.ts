@@ -1,151 +1,17 @@
 import {IDevOps} from "@/data/devops/model/IDevOps";
+import {DockerFR} from "@/data/devops/frameworks/docker/DockerFR";
+import {KubeFR} from "@/data/devops/frameworks/kube/KubeFR";
+import {GitHubFR} from "@/data/devops/frameworks/github/GitHubFR";
 
 export const DevOpsFR: IDevOps = {
     title: "Cloud DevOps",
     span: "Outstanding DevOps Testing",
     subTitle: "",
 
-    docker: {
-        title: "Docker",
-        description: "Simplifiez le déploiement de vos applications grâce à la conteneurisation pour des environnements cohérents et efficaces.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
-        "alt": "Logo représentant l'expérience en technologie Docker",
-        "readMore": "Explorez Docker pour des tests DevOps efficaces",
-        "link": "/technical-expertise/cloud-devops/docker",
-        "features": [
-            {
-                title: "Docker",
-                description: "Docker est une plateforme puissante pour développer, livrer et exécuter des applications dans des conteneurs, assurant la cohérence entre plusieurs environnements. Idéal pour les pratiques DevOps modernes.",
-                "list": []
-            },
-            {
-                title: "Points forts de Docker",
-                description: "Docker excelle avec ses fonctionnalités clés",
-                "list": [
-                    "Conteneurisation",
-                    "Cohérence des environnements",
-                    "Efficacité des ressources",
-                    "Évolutivité",
-                    "Isolation",
-                    "Déploiement rapide",
-                    "Configuration simplifiée"
-                ]
-            },
-            {
-                title: "Défis et Solutions",
-                description: "Docker répond aux défis de déploiement en fournissant des solutions de conteneurisation qui améliorent les performances, l'évolutivité et la cohérence.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Qu'est-ce que Docker ?",
-                "answer": "Docker est une plateforme qui utilise la conteneurisation pour déployer des applications dans des environnements cohérents et isolés."
-            },
-            {
-                "question": "Comment Docker améliore-t-il la cohérence du déploiement ?",
-                "answer": "Docker assure la cohérence du déploiement en emballant les applications et leurs dépendances dans des conteneurs qui fonctionnent uniformément dans différents environnements."
-            },
-            {
-                "question": "Quels sont les avantages de l'utilisation de Docker ?",
-                "answer": "Les avantages de l'utilisation de Docker comprennent la cohérence des environnements, l'efficacité des ressources, l'évolutivité, l'isolation et le déploiement rapide."
-            }
-        ]
-    },
-    kubernetes: {
-        title: "Kubernetes",
-        description: "Automatisez l'orchestration de vos conteneurs avec Kubernetes pour des applications évolutives et résilientes.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
-        "alt": "Logo représentant l'expérience de la technologie Kubernetes",
-        "readMore": "Découvrez les solutions de test DevOps Kubernetes",
-        "link": "/technical-expertise/cloud-devops/kubernetes",
-        "features": [
-            {
-                title: "Kubernetes",
-                description: "Kubernetes est une plateforme leader d'orchestration de conteneurs qui automatise le déploiement, la mise à l'échelle et la gestion des applications conteneurisées. Essentiel pour les systèmes à grande échelle et résilients.",
-                "list": []
-            },
-            {
-                title: "Points forts de Kubernetes",
-                description: "Kubernetes se distingue par ses fonctionnalités robustes",
-                "list": [
-                    "Déploiement automatisé",
-                    "Évolutivité",
-                    "Auto-réparation",
-                    "Découverte de services",
-                    "Équilibrage de charge",
-                    "Orchestration du stockage",
-                    "Gestion de la configuration"
-                ]
-            },
-            {
-                title: "Défis et Solutions",
-                description: "Kubernetes répond aux défis d'orchestration en fournissant des solutions évolutives et automatisées pour les applications conteneurisées.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Qu'est-ce que Kubernetes?",
-                "answer": "Kubernetes est une plateforme d'orchestration de conteneurs qui automatise le déploiement, la mise à l'échelle et la gestion des applications conteneurisées."
-            },
-            {
-                "question": "Comment Kubernetes améliore-t-il l'évolutivité des applications?",
-                "answer": "Kubernetes améliore l'évolutivité des applications en gérant automatiquement la mise à l'échelle des applications conteneurisées en fonction de la demande."
-            },
-            {
-                "question": "Quels sont les avantages d'utiliser Kubernetes?",
-                "answer": "Les avantages d'utiliser Kubernetes comprennent le déploiement automatisé, l'évolutivité, l'auto-réparation, la découverte de services, l'équilibrage de charge et l'orchestration du stockage."
-            }
-        ]
-    },
-    github: {
-        title: "GitHub",
-        description: "Améliorez votre flux de travail de développement avec la plateforme de contrôle de version et de collaboration de GitHub.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
-        "alt": "Logo représentant l'expérience de la technologie GitHub",
-        "readMore": "Découvrez comment GitHub optimise les tests DevOps",
-        "link": "/technical-expertise/cloud-devops/github",
-        "features": [
-            {
-                title: "GitHub",
-                description: "GitHub est une plateforme web qui fournit l'hébergement de dépôts Git, des outils de développement collaboratif et une large gamme d'intégrations, favorisant un développement logiciel efficace et collaboratif.",
-                "list": []
-            },
-            {
-                title: "Points forts de GitHub",
-                description: "GitHub excelle avec ses fonctionnalités clés",
-                "list": [
-                    "Contrôle de MetadataChorn",
-                    "Développement collaboratif",
-                    "Demandes de fusion (pull requests)",
-                    "Suivi des problèmes",
-                    "Revue de code",
-                    "Intégration continue",
-                    "Intégrations extensives"
-                ]
-            },
-            {
-                title: "Défis et Solutions",
-                description: "GitHub relève les défis du flux de travail de développement en fournissant un contrôle de version robuste et des outils collaboratifs pour une gestion efficace de projet.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Qu'est-ce que GitHub ?",
-                "answer": "GitHub est une plateforme web qui fournit l'hébergement de dépôts Git et des outils de développement collaboratif."
-            },
-            {
-                "question": "Comment GitHub améliore-t-il la collaboration ?",
-                "answer": "GitHub améliore la collaboration en offrant des fonctionnalités comme les demandes de fusion, le suivi des problèmes et la revue de code pour faciliter le développement en équipe."
-            },
-            {
-                "question": "Quels sont les avantages d'utiliser GitHub ?",
-                "answer": "Les avantages d'utiliser GitHub incluent le contrôle de version, le développement collaboratif, les demandes de fusion, le suivi des problèmes, la revue de code, l'intégration continue et des intégrations extensives."
-            }
-        ]
-    },
+    // Active
+    docker: DockerFR,
+    kubernetes: KubeFR,
+    github: GitHubFR,
 
     // Not-Active
     appium: {

@@ -1,151 +1,17 @@
 import {IDevOps} from "@/data/devops/model/IDevOps";
+import {DockerJA} from "@/data/devops/frameworks/docker/DockerJA";
+import {KubeJA} from "@/data/devops/frameworks/kube/KubeJA";
+import {GitHubJA} from "@/data/devops/frameworks/github/GitHubJA";
 
 export const DevOpsJA: IDevOps = {
     title: "Cloud DevOps",
     span: "Outstanding DevOps Testing",
     subTitle: "",
 
-    docker: {
-        title: "Docker",
-        description: "一貫性のある効率的な環境のためにコンテナ化を使用して、アプリケーションのデプロイを効率化します。",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
-        "alt": "Docker技術体験を表すロゴ",
-        "readMore": "効率的なDevOpsテスト用のDockerを探索する",
-        "link": "/technical-expertise/cloud-devops/docker",
-        "features": [
-            {
-                title: "Docker",
-                description: "Dockerは、コンテナ内でアプリケーションを開発、配送、実行するための強力なプラットフォームであり、複数の環境間での一貫性を確保します。最新のDevOpsプラクティスに最適です。",
-                "list": []
-            },
-            {
-                title: "Dockerの強み",
-                description: "Dockerはその主要機能で優れています",
-                "list": [
-                    "コンテナ化",
-                    "環境の一貫性",
-                    "リソース効率",
-                    "スケーラビリティ",
-                    "分離",
-                    "迅速なデプロイメント",
-                    "シンプルな構成"
-                ]
-            },
-            {
-                title: "課題と解決策",
-                description: "Dockerは、パフォーマンス、スケーラビリティ、および一貫性を向上させるコンテナ化ソリューションを提供することで、デプロイメントの課題に対処します。",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Dockerとは何ですか？",
-                "answer": "Dockerは、一貫性のある分離された環境でアプリケーションをデプロイするためにコンテナ化を使用するプラットフォームです。"
-            },
-            {
-                "question": "Dockerはどのようにデプロイメントの一貫性を向上させますか？",
-                "answer": "Dockerは、アプリケーションとその依存関係を異なる環境で均一に実行されるコンテナにパッケージ化することで、デプロイメントの一貫性を確保します。"
-            },
-            {
-                "question": "Dockerを使用する利点は何ですか？",
-                "answer": "Dockerを使用する利点には、環境の一貫性、リソース効率、スケーラビリティ、分離、および迅速なデプロイメントが含まれます。"
-            }
-        ]
-    },
-    kubernetes: {
-        title: "Kubernetes",
-        description: "スケーラブルでレジリエントなアプリケーションのためにKubernetesでコンテナオーケストレーションを自動化します。",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
-        "alt": "Kubernetesテクノロジー経験を表すロゴ",
-        "readMore": "Kubernetes DevOpsテストソリューションを発見する",
-        "link": "/technical-expertise/cloud-devops/kubernetes",
-        "features": [
-            {
-                title: "Kubernetes",
-                description: "Kubernetesは、コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化する主要なコンテナオーケストレーションプラットフォームです。大規模で回復力のあるシステムに不可欠です。",
-                "list": []
-            },
-            {
-                title: "Kubernetesの強み",
-                description: "Kubernetesはその堅牢な機能で際立っています",
-                "list": [
-                    "自動デプロイ",
-                    "スケーラビリティ",
-                    "セルフヒーリング",
-                    "サービスディスカバリー",
-                    "ロードバランシング",
-                    "ストレージオーケストレーション",
-                    "設定管理"
-                ]
-            },
-            {
-                title: "課題と解決策",
-                description: "Kubernetesはコンテナ化されたアプリケーションのためのスケーラブルで自動化されたソリューションを提供することによってオーケストレーションの課題に対処します。",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Kubernetesとは何ですか？",
-                "answer": "Kubernetesは、コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するコンテナオーケストレーションプラットフォームです。"
-            },
-            {
-                "question": "Kubernetesはアプリケーションのスケーラビリティをどのように向上させますか？",
-                "answer": "Kubernetesは需要に基づいてコンテナ化されたアプリケーションのスケーリングを自動的に管理することで、アプリケーションのスケーラビリティを向上させます。"
-            },
-            {
-                "question": "Kubernetesを使用する利点は何ですか？",
-                "answer": "Kubernetesを使用する利点には、自動デプロイ、スケーラビリティ、セルフヒーリング、サービスディスカバリー、ロードバランシング、ストレージオーケストレーションが含まれます。"
-            }
-        ]
-    },
-    github: {
-        title: "GitHub",
-        description: "GitHubのバージョン管理と共同作業プラットフォームで開発ワークフローを強化します。",
-        "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
-        "alt": "GitHub技術経験を表すロゴ",
-        "readMore": "GitHubが効果的なDevOpsテストをどのように支えるかを学ぶ",
-        "link": "/technical-expertise/cloud-devops/github",
-        "features": [
-            {
-                title: "GitHub",
-                description: "GitHubはGitリポジトリホスティング、共同開発ツール、幅広い統合機能を提供するWebベースのプラットフォームで、効率的で協力的なソフトウェア開発を促進します。",
-                "list": []
-            },
-            {
-                title: "GitHubの強み",
-                description: "GitHubは主要機能で優れています",
-                "list": [
-                    "ChornMetadataの管理",
-                    "共同開発",
-                    "プルリクエスト",
-                    "課題追跡",
-                    "コードレビュー",
-                    "継続的インテグレーション",
-                    "広範囲な統合機能"
-                ]
-            },
-            {
-                title: "課題と解決策",
-                description: "GitHubは堅牢なバージョン管理と共同作業ツールを提供することで、効率的なプロジェクト管理のための開発ワークフローの課題に取り組みます。",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "GitHubとは何ですか？",
-                "answer": "GitHubはGitリポジトリホスティングと共同開発ツールを提供するWebベースのプラットフォームです。"
-            },
-            {
-                "question": "GitHubはどのように共同作業を改善しますか？",
-                "answer": "GitHubはプルリクエスト、課題追跡、コードレビューなどの機能を提供することで、チーム開発を促進し、共同作業を改善します。"
-            },
-            {
-                "question": "GitHubを使用する利点は何ですか？",
-                "answer": "GitHubを使用する利点には、バージョン管理、共同開発、プルリクエスト、課題追跡、コードレビュー、継続的インテグレーション、広範囲な統合機能が含まれます。"
-            }
-        ]
-    },
+    // Active
+    docker: DockerJA,
+    kubernetes: KubeJA,
+    github: GitHubJA,
 
     // Not-active
     appium: {

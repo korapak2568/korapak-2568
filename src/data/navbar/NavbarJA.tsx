@@ -70,7 +70,7 @@ export const NavbarJA: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "クラウドソリューション",
+                label: "クラウドとインフラストラクチャ",
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: [],
             },

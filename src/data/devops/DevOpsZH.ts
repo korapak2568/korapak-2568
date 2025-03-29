@@ -1,151 +1,17 @@
 import {IDevOps} from "@/data/devops/model/IDevOps";
+import {DockerZH} from "@/data/devops/frameworks/docker/DockerZH";
+import {KubeZH} from "@/data/devops/frameworks/kube/KubeZH";
+import {GitHubZH} from "@/data/devops/frameworks/github/GitHubZH";
 
 export const DevOpsZH: IDevOps = {
     title: "Cloud DevOps",
     span: "Outstanding DevOps Testing",
     subTitle: "",
 
-    docker: {
-        title: "Docker",
-        description: "通过容器化简化应用程序部署，实现一致高效的环境。",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
-        "alt": "代表Docker技术经验的标志",
-        "readMore": "探索Docker以实现高效的DevOps测试",
-        "link": "/technical-expertise/cloud-devops/docker",
-        "features": [
-            {
-                title: "Docker",
-                description: "Docker是一个强大的平台，用于在容器中开发、交付和运行应用程序，确保在多种环境中的一致性。非常适合现代DevOps实践。",
-                "list": []
-            },
-            {
-                title: "Docker的优势",
-                description: "Docker凭借其关键特性脱颖而出",
-                "list": [
-                    "容器化",
-                    "环境一致性",
-                    "资源效率",
-                    "可扩展性",
-                    "隔离性",
-                    "快速部署",
-                    "简化配置"
-                ]
-            },
-            {
-                title: "挑战与解决方案",
-                description: "Docker通过提供容器化解决方案来解决部署挑战，提高性能、可扩展性和一致性。",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "什么是Docker？",
-                "answer": "Docker是一个平台，它使用容器化在一致且隔离的环境中部署应用程序。"
-            },
-            {
-                "question": "Docker如何提高部署一致性？",
-                "answer": "Docker通过将应用程序及其依赖项打包到在不同环境中统一运行的容器中，确保部署一致性。"
-            },
-            {
-                "question": "使用Docker有哪些好处？",
-                "answer": "使用Docker的好处包括环境一致性、资源效率、可扩展性、隔离性和快速部署。"
-            }
-        ]
-    },
-    kubernetes: {
-        title: "Kubernetes",
-        description: "使用Kubernetes自动化容器编排，实现可扩展且弹性的应用程序。",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
-        "alt": "代表Kubernetes技术经验的标志",
-        "readMore": "探索Kubernetes DevOps测试解决方案",
-        "link": "/technical-expertise/cloud-devops/kubernetes",
-        "features": [
-            {
-                title: "Kubernetes",
-                description: "Kubernetes是领先的容器编排平台，可自动化部署、扩展和管理容器化应用程序。对于大规模、弹性系统至关重要。",
-                "list": []
-            },
-            {
-                title: "Kubernetes的优势",
-                description: "Kubernetes以其强大的功能脱颖而出",
-                "list": [
-                    "自动化部署",
-                    "可扩展性",
-                    "自我修复",
-                    "服务发现",
-                    "负载均衡",
-                    "存储编排",
-                    "配置管理"
-                ]
-            },
-            {
-                title: "挑战与解决方案",
-                description: "Kubernetes通过为容器化应用程序提供可扩展和自动化的解决方案来解决编排挑战。",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "什么是Kubernetes？",
-                "answer": "Kubernetes是一个容器编排平台，可自动化部署、扩展和管理容器化应用程序。"
-            },
-            {
-                "question": "Kubernetes如何提高应用程序的可扩展性？",
-                "answer": "Kubernetes通过根据需求自动管理容器化应用程序的扩展来提高应用程序的可扩展性。"
-            },
-            {
-                "question": "使用Kubernetes有哪些好处？",
-                "answer": "使用Kubernetes的好处包括自动化部署、可扩展性、自我修复、服务发现、负载均衡和存储编排。"
-            }
-        ]
-    },
-    github: {
-        title: "GitHub",
-        description: "借助 GitHub 的版本控制和协作平台增强您的开发工作流程。",
-        "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
-        "alt": "代表 GitHub 技术经验的标志",
-        "readMore": "了解 GitHub 如何助力高效的 DevOps 测试",
-        "link": "/technical-expertise/cloud-devops/github",
-        "features": [
-            {
-                title: "GitHub",
-                description: "GitHub 是一个基于网络的平台，提供 Git 存储库托管、协作开发工具和广泛的集成，促进高效协作的软件开发。",
-                "list": []
-            },
-            {
-                title: "GitHub 的优势",
-                description: "GitHub 凭借其关键功能脱颖而出",
-                "list": [
-                    "MetadataChorn 控制",
-                    "协作开发",
-                    "拉取请求",
-                    "问题跟踪",
-                    "代码审查",
-                    "持续集成",
-                    "广泛的集成"
-                ]
-            },
-            {
-                title: "挑战与解决方案",
-                description: "GitHub 通过提供强大的版本控制和协作工具来应对开发工作流程的挑战，实现高效的项目管理。",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "什么是 GitHub？",
-                "answer": "GitHub 是一个提供 Git 存储库托管和协作开发工具的基于网络的平台。"
-            },
-            {
-                "question": "GitHub 如何改善协作？",
-                "answer": "GitHub 通过提供拉取请求、问题跟踪和代码审查等功能来促进团队开发，从而改善协作。"
-            },
-            {
-                "question": "使用 GitHub 的好处是什么？",
-                "answer": "使用 GitHub 的好处包括版本控制、协作开发、拉取请求、问题跟踪、代码审查、持续集成和广泛的集成。"
-            }
-        ]
-    },
+    // Active
+    docker: DockerZH,
+    kubernetes: KubeZH,
+    github: GitHubZH,
 
     // Not-active
     appium: {

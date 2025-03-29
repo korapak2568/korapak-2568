@@ -1,10 +1,19 @@
 import {IDevOps} from "@/data/devops/model/IDevOps";
+import {DockerKO} from "@/data/devops/frameworks/docker/DockerKO";
+import {KubeKO} from "@/data/devops/frameworks/kube/KubeKO";
+import {GitHubKO} from "@/data/devops/frameworks/github/GitHubKO";
 
 export const DevOpsKO: IDevOps = {
     title: "Cloud DevOps",
     span: "Outstanding DevOps Testing",
     subTitle: "",
 
+    // Active
+    docker: DockerKO,
+    kubernetes: KubeKO,
+    github: GitHubKO,
+
+    // Not active
     appium: {
         title: "Appium",
         description: "Automate your mobile application testing with Appium's versatile and open-source framework.",
@@ -49,100 +58,6 @@ export const DevOpsKO: IDevOps = {
             {
                 question: "What are the benefits of using Appium?",
                 answer: "Benefits of using Appium include cross-platform testing, support for native, hybrid, and mobile web apps, extensive language support, and active community support."
-            }
-        ],
-    },
-    docker: {
-        title: "Docker",
-        description: "Streamline your application deployment with containerization for consistent and efficient environments.",
-        image: "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
-        alt: "Logo representing Docker technology experience",
-        readMore: "Explore Docker for efficient DevOps testing",
-        link: "/technical-expertise/cloud-devops/docker",
-        features: [
-            {
-                title: "Docker",
-                description: "Docker is a powerful platform for developing, shipping, and running applications in containers, ensuring consistency across multiple environments. Ideal for modern DevOps practices.",
-                list: []
-            },
-            {
-                title: "Strong Points of Docker",
-                description: "Docker excels with its key features",
-                list: [
-                    "Containerization",
-                    "Environment consistency",
-                    "Resource efficiency",
-                    "Scalability",
-                    "Isolation",
-                    "Rapid deployment",
-                    "Simplified configuration"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "Docker addresses deployment challenges by providing containerization solutions that enhance performance, scalability, and consistency.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is Docker?",
-                answer: "Docker is a platform that uses containerization to deploy applications in consistent and isolated environments."
-            },
-            {
-                question: "How does Docker improve deployment consistency?",
-                answer: "Docker ensures deployment consistency by packaging applications and their dependencies into containers that run uniformly across different environments."
-            },
-            {
-                question: "What are the benefits of using Docker?",
-                answer: "Benefits of using Docker include environment consistency, resource efficiency, scalability, isolation, and rapid deployment."
-            }
-        ],
-    },
-    github: {
-        title: "GitHub",
-        description: "Enhance your development workflow with GitHub's version control and collaborative platform.",
-        image: "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
-        alt: "Logo representing GitHub technology experience",
-        readMore: "Learn how GitHub powers effective DevOps testing",
-        link: "/technical-expertise/cloud-devops/github",
-        features: [
-            {
-                title: "GitHub",
-                description: "GitHub is a web-based platform that provides Git repository hosting, collaborative development tools, and a wide range of integrations, fostering efficient and collaborative software development.",
-                list: []
-            },
-            {
-                title: "Strong Points of GitHub",
-                description: "GitHub excels with its key features",
-                list: [
-                    "MetadataChorn control",
-                    "Collaborative development",
-                    "Pull requests",
-                    "Issue tracking",
-                    "Code review",
-                    "Continuous integration",
-                    "Extensive integrations"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "GitHub tackles development workflow challenges by providing robust version control and collaborative tools for efficient project management.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is GitHub?",
-                answer: "GitHub is a web-based platform that provides Git repository hosting and collaborative development tools."
-            },
-            {
-                question: "How does GitHub improve collaboration?",
-                answer: "GitHub improves collaboration by offering features like pull requests, issue tracking, and code review to facilitate team development."
-            },
-            {
-                question: "What are the benefits of using GitHub?",
-                answer: "Benefits of using GitHub include version control, collaborative development, pull requests, issue tracking, code review, continuous integration, and extensive integrations."
             }
         ],
     },
@@ -237,53 +152,6 @@ export const DevOpsKO: IDevOps = {
             {
                 question: "What are the benefits of using Jenkins?",
                 answer: "Benefits of using Jenkins include continuous integration, continuous delivery, build automation, automated testing, pipeline support, and wide community support."
-            }
-        ],
-    },
-    kubernetes: {
-        title: "Kubernetes",
-        description: "Automate your container orchestration with Kubernetes for scalable and resilient applications.",
-        image: "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
-        alt: "Logo representing Kubernetes technology experience",
-        readMore: "Discover Kubernetes DevOps testing solutions",
-        link: "/technical-expertise/cloud-devops/kubernetes",
-        features: [
-            {
-                title: "Kubernetes",
-                description: "Kubernetes is a leading container orchestration platform that automates deployment, scaling, and management of containerized applications. Essential for large-scale, resilient systems.",
-                list: []
-            },
-            {
-                title: "Strong Points of Kubernetes",
-                description: "Kubernetes stands out with its robust features",
-                list: [
-                    "Automated deployment",
-                    "Scalability",
-                    "Self-healing",
-                    "service discovery",
-                    "Load balancing",
-                    "Storage orchestration",
-                    "Configuration management"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "Kubernetes addresses orchestration challenges by providing scalable and automated solutions for containerized applications.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is Kubernetes?",
-                answer: "Kubernetes is a container orchestration platform that automates deployment, scaling, and management of containerized applications."
-            },
-            {
-                question: "How does Kubernetes improve application scalability?",
-                answer: "Kubernetes improves application scalability by automatically managing the scaling of containerized applications based on demand."
-            },
-            {
-                question: "What are the benefits of using Kubernetes?",
-                answer: "Benefits of using Kubernetes include automated deployment, scalability, self-healing, service discovery, load balancing, and storage orchestration."
             }
         ],
     },

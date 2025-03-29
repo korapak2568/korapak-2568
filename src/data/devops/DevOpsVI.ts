@@ -1,151 +1,17 @@
 import {IDevOps} from "@/data/devops/model/IDevOps";
+import {DockerVI} from "@/data/devops/frameworks/docker/DockerVI";
+import {KubeVI} from "@/data/devops/frameworks/kube/KubeVI";
+import {GitHubVI} from "@/data/devops/frameworks/github/GitHubVI";
 
 export const DevOpsVI: IDevOps = {
     title: "Cloud DevOps",
     span: "Outstanding DevOps Testing",
     subTitle: "",
 
-    docker: {
-        title: "Docker",
-        description: "Hợp lý hóa việc triển khai ứng dụng của bạn với công nghệ container hóa để có môi trường nhất quán và hiệu quả.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
-        "alt": "Logo thể hiện kinh nghiệm công nghệ Docker",
-        "readMore": "Khám phá Docker để kiểm thử DevOps hiệu quả",
-        "link": "/technical-expertise/cloud-devops/docker",
-        "features": [
-            {
-                title: "Docker",
-                description: "Docker là một nền tảng mạnh mẽ để phát triển, vận chuyển và chạy ứng dụng trong các container, đảm bảo tính nhất quán trên nhiều môi trường. Lý tưởng cho các thực hành DevOps hiện đại.",
-                "list": []
-            },
-            {
-                title: "Điểm mạnh của Docker",
-                description: "Docker vượt trội với các tính năng chính của nó",
-                "list": [
-                    "Container hóa",
-                    "Tính nhất quán của môi trường",
-                    "Hiệu quả về tài nguyên",
-                    "Khả năng mở rộng",
-                    "Sự cô lập",
-                    "Triển khai nhanh chóng",
-                    "Cấu hình đơn giản hóa"
-                ]
-            },
-            {
-                title: "Thách thức và Giải pháp",
-                description: "Docker giải quyết các thách thức triển khai bằng cách cung cấp các giải pháp container hóa nâng cao hiệu suất, khả năng mở rộng và tính nhất quán.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Docker là gì?",
-                "answer": "Docker là một nền tảng sử dụng container hóa để triển khai ứng dụng trong các môi trường nhất quán và cô lập."
-            },
-            {
-                "question": "Docker cải thiện tính nhất quán của việc triển khai như thế nào?",
-                "answer": "Docker đảm bảo tính nhất quán của việc triển khai bằng cách đóng gói các ứng dụng và các phụ thuộc của chúng vào các container chạy đồng nhất trên các môi trường khác nhau."
-            },
-            {
-                "question": "Lợi ích của việc sử dụng Docker là gì?",
-                "answer": "Lợi ích của việc sử dụng Docker bao gồm tính nhất quán của môi trường, hiệu quả về tài nguyên, khả năng mở rộng, sự cô lập và triển khai nhanh chóng."
-            }
-        ]
-    },
-    kubernetes: {
-        title: "Kubernetes",
-        description: "Tự động hóa điều phối container của bạn với Kubernetes để có các ứng dụng có khả năng mở rộng và linh hoạt.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
-        "alt": "Logo đại diện cho kinh nghiệm công nghệ Kubernetes",
-        "readMore": "Khám phá các giải pháp kiểm thử DevOps Kubernetes",
-        "link": "/technical-expertise/cloud-devops/kubernetes",
-        "features": [
-            {
-                title: "Kubernetes",
-                description: "Kubernetes là nền tảng điều phối container hàng đầu tự động hóa việc triển khai, mở rộng và quản lý các ứng dụng container hóa. Cần thiết cho các hệ thống quy mô lớn, linh hoạt.",
-                "list": []
-            },
-            {
-                title: "Điểm mạnh của Kubernetes",
-                description: "Kubernetes nổi bật với các tính năng mạnh mẽ",
-                "list": [
-                    "Triển khai tự động",
-                    "Khả năng mở rộng",
-                    "Tự khắc phục",
-                    "Khám phá dịch vụ",
-                    "Cân bằng tải",
-                    "Điều phối lưu trữ",
-                    "Quản lý cấu hình"
-                ]
-            },
-            {
-                title: "Thách thức và Giải pháp",
-                description: "Kubernetes giải quyết các thách thức về điều phối bằng cách cung cấp các giải pháp có khả năng mở rộng và tự động hóa cho các ứng dụng container hóa.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Kubernetes là gì?",
-                "answer": "Kubernetes là nền tảng điều phối container tự động hóa việc triển khai, mở rộng và quản lý các ứng dụng container hóa."
-            },
-            {
-                "question": "Kubernetes cải thiện khả năng mở rộng ứng dụng như thế nào?",
-                "answer": "Kubernetes cải thiện khả năng mở rộng ứng dụng bằng cách tự động quản lý việc mở rộng các ứng dụng container hóa dựa trên nhu cầu."
-            },
-            {
-                "question": "Những lợi ích của việc sử dụng Kubernetes là gì?",
-                "answer": "Lợi ích của việc sử dụng Kubernetes bao gồm triển khai tự động, khả năng mở rộng, tự khắc phục, khám phá dịch vụ, cân bằng tải và điều phối lưu trữ."
-            }
-        ]
-    },
-    github: {
-        title: "GitHub",
-        description: "Nâng cao quy trình phát triển của bạn với nền tảng kiểm soát phiên bản và cộng tác của GitHub.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
-        "alt": "Logo đại diện cho kinh nghiệm công nghệ GitHub",
-        "readMore": "Tìm hiểu cách GitHub hỗ trợ kiểm thử DevOps hiệu quả",
-        "link": "/technical-expertise/cloud-devops/github",
-        "features": [
-            {
-                title: "GitHub",
-                description: "GitHub là nền tảng dựa trên web cung cấp lưu trữ kho Git, công cụ phát triển cộng tác và nhiều tích hợp đa dạng, thúc đẩy phát triển phần mềm hiệu quả và cộng tác.",
-                "list": []
-            },
-            {
-                title: "Điểm mạnh của GitHub",
-                description: "GitHub nổi bật với các tính năng chính của nó",
-                "list": [
-                    "Kiểm soát MetadataChorn",
-                    "Phát triển cộng tác",
-                    "Yêu cầu kéo (pull requests)",
-                    "Theo dõi vấn đề",
-                    "Đánh giá mã",
-                    "Tích hợp liên tục",
-                    "Tích hợp mở rộng"
-                ]
-            },
-            {
-                title: "Thách thức và Giải pháp",
-                description: "GitHub giải quyết các thách thức trong quy trình phát triển bằng cách cung cấp kiểm soát phiên bản mạnh mẽ và công cụ cộng tác để quản lý dự án hiệu quả.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "GitHub là gì?",
-                "answer": "GitHub là nền tảng dựa trên web cung cấp lưu trữ kho Git và công cụ phát triển cộng tác."
-            },
-            {
-                "question": "GitHub cải thiện sự cộng tác như thế nào?",
-                "answer": "GitHub cải thiện sự cộng tác bằng cách cung cấp các tính năng như yêu cầu kéo, theo dõi vấn đề và đánh giá mã để tạo điều kiện cho phát triển nhóm."
-            },
-            {
-                "question": "Lợi ích của việc sử dụng GitHub là gì?",
-                "answer": "Lợi ích của việc sử dụng GitHub bao gồm kiểm soát phiên bản, phát triển cộng tác, yêu cầu kéo, theo dõi vấn đề, đánh giá mã, tích hợp liên tục và tích hợp mở rộng."
-            }
-        ]
-    },
+    // Active
+    docker: DockerVI,
+    kubernetes: KubeVI,
+    github: GitHubVI,
 
     // Not-active
     appium: {

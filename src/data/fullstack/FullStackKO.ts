@@ -1,466 +1,50 @@
 import {IFullStack} from "@/data/fullstack/model/IFullStack";
+import {PythonKO} from "@/data/fullstack/frameworks/python/PythonKO";
+import {PhpKO} from "@/data/fullstack/frameworks/php/PhpKO";
+import {NodejsKO} from "@/data/fullstack/frameworks/nodejs/NodejsKO";
+import {JavaKO} from "@/data/fullstack/frameworks/java/JavaKO";
+import {GoKO} from "@/data/fullstack/frameworks/go/GoKO";
+import {DotnetKO} from "@/data/fullstack/frameworks/dotnet/DotnetKO";
 
 export const FullStackKO: IFullStack = {
     title: "백엔드 및 API 경험",
     span: "백엔드 및 API 개발 경험",
     subTitle: "",
 
-    dotnetcore: {
-        title: ".NET Core C#",
-        description: ".NET Core C# is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core C# provides a robust environment for enterprise-level solutions.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
-        alt: "Logo representing .NET Core API development",
-        readMore: "Explore more .NET Core API full-stack development solutions",
-        link: "/technical-expertise/full-stack-developer/dotnetcore-developer",
-        features: [
-            {
-                title: "C# .NET Core Development",
-                description: ".NET Core C# is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core C# is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
-                list: []
-            },
-            {
-                title: "ASP.NET Core C#",
-                description: "ASP.NET Core C# is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It is particularly suited for building web applications, APIs, and microservices with a focus on performance, security, and scalability.",
-                list: [
-                    "Cross-platform",
-                    "High performance",
-                    "Built-in dependency injection",
-                    "Modular architecture",
-                    "Unified MVC and Web API framework",
-                    "Supports Razor Pages",
-                    "Secure authentication and authorization"
-                ]
-            },
-            {
-                title: ".NET Core API",
-                description: ".NET Core API provides developers with the tools to build RESTful technical-expertise and APIs that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. Its lightweight, modular design ensures high performance and easy integration with other technical-expertise.",
-                list: []
-            },
-            {
-                title: "C# .NET Core",
-                description: "C# .NET Core is the primary language used for developing applications in .NET Core C#. Known for its simplicity, versatility, and modern features, C# allows developers to build robust, maintainable, and scalable applications with ease.",
-                list: [
-                    "Modern syntax",
-                    "Object-oriented",
-                    "Rich standard library",
-                    "Supports asynchronous programming",
-                    "LINQ support",
-                    "Cross-platform compatibility",
-                    "Interoperability with other .NET languages"
-                ]
-            }
-        ],
-        faqs: [
-            {
-                question: "What is .NET Core C#?",
-                answer: ".NET Core C# is an open-source, cross-platform framework for building modern applications that run on Windows, macOS, and Linux."
-            },
-            {
-                question: "What is ASP.NET Core C# used for?",
-                answer: "ASP.NET Core C# is a framework for building web applications, APIs, and microservices with high performance and cross-platform capabilities."
-            },
-            {
-                question: "What makes C# .NET Core a good choice for development?",
-                answer: "C# is a modern, versatile programming language that offers a wide range of features, making it ideal for developing scalable, maintainable applications in .NET Core C#."
-            }
-        ],
-    },
-    go: {
-        title: "GO",
-        description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
-        alt: "Logo representing Go programming language",
-        readMore: "Explore more Go full-stack development solutions",
-        link: "/technical-expertise/full-stack-developer/go-developer",
-        features: [
-            {
-                title: "Go Development",
-                description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
-                list: []
-            },
-            {
-                title: "Efficient Concurrency",
-                description: "Go's goroutines and channels provide robust support for concurrent programming, allowing developers to build highly efficient and scalable applications. This makes Go a preferred language for developing microservices that require handling multiple tasks simultaneously.",
-                list: [
-                    "Concurrent programming",
-                    "Fast compilation",
-                    "Simplicity",
-                    "Strong performance",
-                    "Statically typed",
-                    "Garbage collection",
-                    "Great for microservices"
-                ]
-            },
-            {
-                title: "Fast Compilation",
-                description: "Go compiles quickly to machine code, resulting in fast execution times. This efficiency, combined with its garbage collection and static typing, ensures that Go applications perform well, even under heavy loads.",
-                list: []
-            },
-            {
-                title: "Interoperability",
-                description: "Go's simplicity and clarity make it easy to integrate with other programming languages. This interoperability allows developers to leverage Go's strengths in performance-critical parts of an application while using other languages for different components.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is Go?",
-                answer: "Go is a statically typed, compiled programming language designed for simplicity and performance."
-            },
-            {
-                question: "Why use Go?",
-                answer: "Go offers fast performance, simplicity, and powerful concurrency features, making it ideal for web servers and microservices."
-            },
-            {
-                question: "Is Go good for web development?",
-                answer: "Yes, Go is well-suited for building fast and efficient web servers and APIs."
-            }
-        ],
-    },
-
-    java: {
-        title: "Java, Spring Boot",
-        description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
-        alt: "Logo representing Java with Spring Boot framework",
-        readMore: "Explore more Java Spring Boot full-stack development solutions",
-        link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
-        features: [
-            {
-                title: "Java Spring Boot Development",
-                description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
-                list: []
-            },
-            {
-                title: "Robust Ecosystem",
-                description: "The combination of Java and Spring Boot provides a robust ecosystem for building scalable, secure, and high-performance applications. Spring Boot simplifies the setup and development process, enabling rapid development and deployment.",
-                list: [
-                    "Robust and scalable",
-                    "Mature ecosystem",
-                    "Object-oriented",
-                    "Spring Boot framework",
-                    "Kotlin integration",
-                    "High performance",
-                    "Enterprise-grade applications"
-                ]
-            },
-            {
-                title: "Modern Languages Features",
-                description: "Kotlin offers modern language features such as null safety, extension functions, and coroutines, making it a preferred choice for new projects. Its seamless interoperability with Java allows developers to leverage existing Java libraries and frameworks while enjoying Kotlin's enhancements.",
-                list: []
-            },
-            {
-                title: "Enterprise-Grade Solutions",
-                description: "Java and Spring Boot are widely used in enterprise environments due to their reliability and scalability. These technologies power mission-critical applications across various industries, ensuring that they can handle large-scale operations with ease.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is Spring Boot?",
-                answer: "Spring Boot is a framework for building stand-alone, production-grade Spring-based applications."
-            },
-            {
-                question: "Why use Kotlin with Java?",
-                answer: "Kotlin is fully interoperable with Java and offers modern language features for more concise and safer code."
-            },
-            {
-                question: "What are the advantages of Java?",
-                answer: "Java is known for its robustness, scalability, and extensive ecosystem for enterprise applications."
-            }
-        ],
-    },
-    nodejs: {
-        title: "NodeJS",
-        description: "Node.js is a powerful, open-source, cross-platform JavaScript runtime environment that allows developers to build scalable network applications efficiently. With an event-driven, non-blocking I/O model, Node.js is ideal for building fast, lightweight applications, real-time communication systems, and data-intensive tasks, making it a popular choice for modern software development, including AI integrations.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
-        alt: "Logo representing NodeJS technology",
-        readMore: "Explore more NodeJS full-stack development solutions",
-        link: "/technical-expertise/full-stack-developer/nodejs-developer",
-        features: [
-            {
-                title: "NodeJS Development",
-                description: "Node.js provides an event-driven, non-blocking architecture perfect for building scalable, real-time applications. " +
-                    "It excels at handling large numbers of simultaneous connections, enabling the development of data-intensive technical-expertise with minimal latency. " +
-                    "Node.js is also used for server-side scripting, microservices, and AI-related features, or integrating with external AI technical-expertise.",
-                list: [
-                    "Non-blocking I/O",
-                    "Event-driven architecture",
-                    "High performance under load",
-                    "Lightweight and fast",
-                    "Support for real-time applications",
-                    "AI and machine learning integration"
-                ]
-            },
-            {
-                title: "Versatile Frameworks",
-                description: "Node.js supports various frameworks tailored for building scalable, robust server-side applications. " +
-                    "Nest.js, Express, and Koa.js are the most prominent. With modern ES6+ support, these frameworks make it easy to build efficient APIs, web apps, and microservices. Additionally, Nest.js integrates seamlessly with TypeScript for statically typed code, improving code quality and maintainability.",
-                list: [
-                    "Asynchronous I/O and event-loop",
-                    "Single-threaded, highly concurrent",
-                    "Microservices architecture support",
-                    "RESTful and GraphQL APIs",
-                    "Modular and scalable with Nest.js",
-                    "Easy integration with TypeScript",
-                    "Built-in WebSocket support for real-time applications"
-                ]
-            },
-            {
-                title: "Real-time Capabilities",
-                description: "Node.js enables the building of real-time applications, such as live chat apps, collaborative tools, and gaming servers, through frameworks like Socket.io. It allows instantaneous data exchange between the server and clients, making it ideal for applications requiring low latency communication.",
-                list: [
-                    "WebSocket support",
-                    "Real-time data syncing",
-                    "Low-latency messaging",
-                    "Collaborative applications",
-                    "IoT support"
-                ]
-            },
-            {
-                title: "Rich Ecosystem and NPM",
-                description: "Node.js boasts a rich ecosystem of libraries and tools accessible via npm, the largest software registry. This vast selection simplifies development, from handling database operations to implementing complex business logic and AI capabilities. Developers can leverage pre-built modules to boost productivity and streamline the development process.",
-                list: [
-                    "Over 1 million packages in npm",
-                    "Pre-built integrations for databases, AI, security, etc.",
-                    "Microservices support via frameworks and libraries",
-                    "Tools for serverless architectures"
-                ]
-            },
-            {
-                title: "AI Integration",
-                description: "Node.js, with its high-performance, event-driven nature, is a great choice for integrating AI into applications. " +
-                    "Using libraries like TensorFlow.js, Node.js can handle AI model inference in the browser or on the server. Additionally, Node.js can serve as a middleware to communicate with AI-powered cloud APIs (e.g., AWS, Azure AI, or Google Cloud AI), enabling smart capabilities such as natural language processing, image recognition, and recommendation systems.",
-                list: [
-                    "Integration with TensorFlow.js",
-                    "AI model inference on the server",
-                    "Communication with cloud AI APIs",
-                    "Real-time AI-powered features",
-                    "Scalable AI-powered microservices"
-                ]
-            }
-        ],
-        faqs: [
-            {
-                question: "What is Node.js?",
-                answer: "Node.js is a JavaScript runtime that enables the building of fast and scalable network applications, making it ideal for I/O-heavy tasks and real-time technical-expertise."
-            },
-            {
-                question: "What is Express.js used for?",
-                answer: "Express.js is a lightweight framework for Node.js, widely used to build RESTful APIs and web applications with a simple and flexible approach."
-            },
-            {
-                question: "How does Nest.js differ from Express.js?",
-                answer: "Nest.js is built on top of Express.js, providing an opinionated architecture for building scalable, maintainable, and testable server-side applications, with a strong emphasis on TypeScript integration."
-            },
-            {
-                question: "Can Node.js be used for AI?",
-                answer: "Yes, Node.js can be used for AI tasks, leveraging libraries like TensorFlow.js or connecting with cloud AI technical-expertise for natural language processing, image recognition, and more."
-            }
-        ]
-    },
-    php: {
-        title: "PHP",
-        description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
-        alt: "Logo representing PHP programming language",
-        readMore: "Explore more PHP full-stack development solutions",
-        link: "/technical-expertise/full-stack-developer/php-developer",
-        features: [
-            {
-                title: "PHP Development",
-                description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
-                list: []
-            },
-            {
-                title: "Structured Development",
-                description: "Symfony and Laravel offer a structured approach to PHP development, promoting best practices and design patterns. Symfony provides a reusable set of components, while Laravel focuses on developer productivity with its elegant syntax and tools. Twig, the templating engine used in Symfony, provides a flexible, secure, and fast way to design templates. Phalcon, a high-performance framework delivered as a C extension, offers low-level optimization and exceptional speed, ensuring efficient resource management.",
-                list: [
-                    "Server-side scripting",
-                    "Easy to learn",
-                    "Large ecosystem",
-                    "Popular frameworks",
-                    "WordPress integration",
-                    "Great for web development",
-                    "Strong community"
-                ]
-            },
-            {
-                title: "Rapid Development",
-                description: "Laravel, known for its expressive syntax and powerful tools, enables rapid development and deployment of web applications. Features like Eloquent ORM, Blade templating engine, and Laravel Artisan command-line tool streamline development tasks. Phalcon enhances rapid development with its robust performance and low-level architecture. WordPress provides a quick setup and a vast array of plugins and themes, allowing developers to rapidly deploy feature-rich websites. Headless WordPress decouples the front-end-developer and back-end, enabling the use of modern JavaScript frameworks like React or Vue for a dynamic and responsive user experience.",
-                list: []
-            },
-            {
-                title: "Community and Ecosystem",
-                description: "PHP has a vast community and a rich ecosystem of libraries, plugins, and frameworks. Both Symfony and Laravel benefit from active community support, extensive documentation, and many third-party packages, making PHP development efficient and enjoyable. Phalcon has a growing community and provides detailed documentation and tutorials to assist developers. WordPress boasts an extensive ecosystem with a large user base, offering numerous plugins and themes, while Headless WordPress leverages the flexibility of modern front-end-developer frameworks, supported by a robust community and resources.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is PHP used for?",
-                answer: "PHP is a server-side scripting language designed for web development and widely used in creating dynamic web pages."
-            },
-            {
-                question: "What are Symfony and Laravel?",
-                answer: "Symfony and Laravel are popular PHP frameworks that facilitate the development of robust and scalable web applications."
-            },
-            {
-                question: "Why use WordPress?",
-                answer: "WordPress is a versatile content management system built on PHP, ideal for creating blogs, websites, and online stores."
-            }
-        ],
-    },
-    python: {
-        title: "Python",
-        description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
-        alt: "Logo representing Python with Flask framework",
-        readMore: "Explore more Python, Flask, Django full-stack development solutions",
-        link: "/technical-expertise/full-stack-developer/python-developer",
-        features: [
-            {
-                title: "Python Development",
-                description: "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used across various domains, from web development and data analysis to artificial intelligence and scientific computing.",
-                list: []
-            },
-            {
-                title: "Easy to Learn and Use",
-                description: "Python's simple syntax and readability make it an excellent choice for beginners and experienced developers alike. Its extensive standard library and community-contributed modules provide ready-to-use solutions for a wide range of tasks.",
-                list: [
-                    "Easy to learn",
-                    "Readable syntax",
-                    "Versatile",
-                    "Large standard library",
-                    "Strong community",
-                    "Popular for ai/ML",
-                    "Cross-platform"
-                ]
-            },
-            {
-                title: "Versatile Applications",
-                description: "Python is used in diverse fields, including web development with frameworks like Django and Flask, data science with libraries like pandas and NumPy, and machine learning with TensorFlow and scikit-learn. This versatility makes Python a go-to language for many developers.",
-                list: []
-            },
-            {
-                title: "Strong Community Support",
-                description: "Python has a vibrant and active community that continuously contributes to its growth. With numerous tutorials, forums, and open-source projects available, developers can easily find support and resources to enhance their skills and solve challenges.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is Python used for?",
-                answer: "Python is used for web development, data analysis, artificial intelligence, scientific computing, and more."
-            },
-            {
-                question: "Why is Python so popular?",
-                answer: "Python's simplicity, readability, and versatility make it a popular choice for both beginners and experienced developers."
-            },
-            {
-                question: "Is Python good for web development?",
-                answer: "Yes, frameworks like Django and Flask make Python a powerful tool for web development."
-            }
-        ],
-        frameworks: [
-            {
-                name: "Django",
-                overview: "Django is a high-level web framework that encourages rapid development and clean, pragmatic design.",
-                strengths: [
-                    "Batteries-included: Comes with many built-in features like ORM, authentication, and an admin panel.",
-                    "Scalability: Suitable for large-scale applications.",
-                    "Security: Includes built-in protection against many common security threats."
-                ],
-                useCases: [
-                    "Large-scale web applications",
-                    "e-commerce sites",
-                    "content management systems"
-                ]
-            },
-            {
-                name: "Flask",
-                overview: "Flask is a micro web framework that provides the essentials to get a web application up and running without much boilerplate code.",
-                strengths: [
-                    "Lightweight: Minimalistic and flexible.",
-                    "Extensible: Can be easily extended with various extensions.",
-                    "Easy to learn: Simple to understand and start with."
-                ],
-                useCases: [
-                    "Small to medium-sized applications",
-                    "APIs",
-                    "prototyping"
-                ]
-            },
-            {
-                name: "FastAPI",
-                overview: "FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.",
-                strengths: [
-                    "Speed: Asynchronous support and high performance.",
-                    "Automatic docs: Generates OpenAPI and JSON Schema documentation.",
-                    "Type safety: Uses Python type hints for validation and serialization."
-                ],
-                useCases: [
-                    "APIs",
-                    "microservices",
-                    "real-time applications"
-                ]
-            },
-            {
-                name: "Pyramid",
-                overview: "Pyramid is a general-purpose web framework that is designed to make it easy to write web applications.",
-                strengths: [
-                    "Flexibility: Can be used for both small and large applications.",
-                    "Customization: Highly configurable and modular.",
-                    "Security: Provides several security features."
-                ],
-                useCases: [
-                    "Versatile applications ranging from microservices to large web applications"
-                ]
-            },
-            {
-                name: "Tornado",
-                overview: "Tornado is a scalable, non-blocking web server and web application framework.",
-                strengths: [
-                    "Performance: Designed for handling long-lived network connections.",
-                    "Real-time: Suitable for real-time web technical-expertise.",
-                    "Scalability: Can handle thousands of simultaneous connections."
-                ],
-                useCases: [
-                    "Real-time applications",
-                    "WebSockets",
-                    "long polling"
-                ]
-            }
-        ]
-    },
+    dotnetcore: DotnetKO,
+    go: GoKO,
+    java: JavaKO,
+    nodejs: NodejsKO,
+    php: PhpKO,
+    python: PythonKO,
 
     stacks: [],
 
     services: {
-        title: "Back-End & API Development",
+        title: "백엔드 및 API 개발",
         descriptions: [
-            "Build powerful, secure, and scalable web applications with our expert full-stack development services. Our developers excel in both front-end and back-end technologies, creating comprehensive solutions tailored to your specific business requirements. CHORN's technical expertise spans multiple technology stacks including Node.js, .NET Core C#, Java Spring Boot, Python, Go, and PHP, allowing us to handle projects of any complexity. Whether you're launching an initial Proof of Concept (PoC) or developing a market-ready Minimum Viable Product (MVP), our skilled team ensures seamless integration between user interfaces and server-side functionality for an exceptional user experience."
+            "전문적인 풀스택 개발 서비스로 강력하고 안전하며 확장 가능한 웹 애플리케이션을 구축하세요. 우리 개발자들은 프론트엔드와 백엔드 기술 모두에서 뛰어난 역량을 발휘하며, 비즈니스 요구에 맞춘 종합적인 솔루션을 제공합니다. CHORN의 기술 전문성은 Node.js, .NET Core C#, Java Spring Boot, Python, Go, PHP 등 다양한 기술 스택을 포괄하며, 복잡한 프로젝트도 처리할 수 있습니다. 초기 개념 증명(PoC)을 출시하거나 시장 준비가 된 최소 기능 제품(MVP)을 개발하든, 우리 팀은 사용자 인터페이스와 서버 측 기능 간의 원활한 통합을 보장하여 뛰어난 사용자 경험을 제공합니다."
         ],
         items: [
             {
-                title: "Seamless Front-End & Back-End Integration",
-                description: "Develop cohesive web applications with perfectly synchronized client and server components that deliver speed, security, and scalability."
+                title: "프론트엔드 및 백엔드 통합",
+                description: "클라이언트와 서버 컴포넌트가 완벽하게 동기화된 웹 애플리케이션을 개발하여 속도, 보안 및 확장성을 제공합니다."
             },
             {
-                title: "Comprehensive SEO & Performance Optimization",
-                description: "Improve your website's search engine visibility and user experience through optimized code structure, faster loading times, and efficient resource management."
+                title: "종합 SEO 및 성능 최적화",
+                description: "최적화된 코드 구조, 더 빠른 로딩 시간 및 효율적인 리소스 관리를 통해 웹사이트의 검색 엔진 가시성과 사용자 경험을 향상시킵니다."
             },
             {
-                title: "Robust Automation Testing",
-                description: "Ensure application reliability and stability with comprehensive testing frameworks integrated throughout the development lifecycle."
+                title: "강력한 자동화 테스트",
+                description: "개발 주기 전반에 걸쳐 통합된 테스트 프레임워크로 애플리케이션의 신뢰성과 안정성을 보장합니다."
             },
             {
-                title: "Advanced Database Management",
-                description: "Structure and manage your data effectively with optimized database solutions including MySQL, MongoDB, PostgreSQL, and other leading technologies."
+                title: "고급 데이터베이스 관리",
+                description: "MySQL, MongoDB, PostgreSQL 및 기타 주요 기술을 포함한 최적화된 데이터베이스 솔루션을 통해 데이터를 효과적으로 구조화하고 관리합니다."
             },
             {
-                title: "Enterprise-Grade Cloud Services",
-                description: "Deploy and scale your applications efficiently using AWS, Azure, Google Cloud, or other cloud platforms with optimized infrastructure configurations."
+                title: "기업 수준의 클라우드 서비스",
+                description: "AWS, Azure, Google Cloud 또는 기타 클라우드 플랫폼을 사용하여 최적화된 인프라 구성으로 애플리케이션을 효율적으로 배포하고 확장합니다."
             }
         ]
     }

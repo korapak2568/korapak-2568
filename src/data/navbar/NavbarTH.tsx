@@ -70,7 +70,7 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "การแก้ไขปัญหาแบบคลาวด์",
+                label: "คลาวด์และโครงสร้างพื้นฐาน",
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: [],
             },

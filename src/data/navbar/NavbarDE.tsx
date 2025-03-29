@@ -70,7 +70,7 @@ export const NavbarDE: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "Cloud-Lösungen",
+                label: "Cloud und Infrastruktur",
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: [],
             },

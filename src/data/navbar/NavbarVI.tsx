@@ -70,7 +70,7 @@ export const NavbarVI: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "Giải pháp đám mây",
+                label: "Đám mây và Cơ sở hạ tầng",
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: [],
             },

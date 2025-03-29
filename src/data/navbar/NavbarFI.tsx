@@ -70,7 +70,7 @@ export const NavbarFI: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "Pilviratkaisut",
+                label: "Pilvi ja infrastruktuuri",
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: [],
             },

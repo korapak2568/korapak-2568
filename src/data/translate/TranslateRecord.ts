@@ -8,7 +8,7 @@ export const TranslateRecord: Record<string, ITranslate> = {
     'ja': Languages.ja,
     'vi': Languages.vi,
     'zh': Languages.zh,
-    'de': Languages.da,
+    'de': Languages.de,
     'nl': Languages.nl,
     'da': Languages.da,
     'fi': Languages.fi,

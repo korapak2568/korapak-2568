@@ -1,151 +1,17 @@
 import {IDevOps} from "@/data/devops/model/IDevOps";
+import {DockerDE} from "@/data/devops/frameworks/docker/DockerDE";
+import {KubeDE} from "@/data/devops/frameworks/kube/KubeDE";
+import {GitHubDE} from "@/data/devops/frameworks/github/GitHubDE";
 
 export const DevOpsDE: IDevOps = {
     title: "Cloud DevOps",
     span: "Outstanding DevOps Testing",
     subTitle: "",
 
-    docker: {
-        title: "Docker",
-        description: "Optimieren Sie Ihre Anwendungsbereitstellung mit Containerisierung für konsistente und effiziente Umgebungen.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
-        "alt": "Logo, das Docker-Technologieerfahrung repräsentiert",
-        "readMore": "Entdecken Sie Docker für effizientes DevOps-Testing",
-        "link": "/technical-expertise/cloud-devops/docker",
-        "features": [
-            {
-                title: "Docker",
-                description: "Docker ist eine leistungsstarke Plattform für die Entwicklung, Bereitstellung und Ausführung von Anwendungen in Containern, die Konsistenz über mehrere Umgebungen hinweg gewährleistet. Ideal für moderne DevOps-Praktiken.",
-                "list": []
-            },
-            {
-                title: "Stärken von Docker",
-                description: "Docker überzeugt mit seinen Schlüsselfunktionen",
-                "list": [
-                    "Containerisierung",
-                    "Umgebungskonsistenz",
-                    "Ressourceneffizienz",
-                    "Skalierbarkeit",
-                    "Isolation",
-                    "Schnelle Bereitstellung",
-                    "Vereinfachte Konfiguration"
-                ]
-            },
-            {
-                title: "Herausforderungen und Lösungen",
-                description: "Docker adressiert Bereitstellungsherausforderungen durch Containerisierungslösungen, die Leistung, Skalierbarkeit und Konsistenz verbessern.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Was ist Docker?",
-                "answer": "Docker ist eine Plattform, die Containerisierung nutzt, um Anwendungen in konsistenten und isolierten Umgebungen bereitzustellen."
-            },
-            {
-                "question": "Wie verbessert Docker die Konsistenz bei der Bereitstellung?",
-                "answer": "Docker gewährleistet Bereitstellungskonsistenz, indem es Anwendungen und ihre Abhängigkeiten in Containern verpackt, die in verschiedenen Umgebungen einheitlich ausgeführt werden."
-            },
-            {
-                "question": "Welche Vorteile bietet die Nutzung von Docker?",
-                "answer": "Zu den Vorteilen der Nutzung von Docker gehören Umgebungskonsistenz, Ressourceneffizienz, Skalierbarkeit, Isolation und schnelle Bereitstellung."
-            }
-        ]
-    },
-    kubernetes: {
-        title: "Kubernetes",
-        description: "Automatisieren Sie Ihre Container-Orchestrierung mit Kubernetes für skalierbare und widerstandsfähige Anwendungen.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
-        "alt": "Logo, das Kubernetes-Technologieerfahrung repräsentiert",
-        "readMore": "Entdecken Sie Kubernetes DevOps-Testlösungen",
-        "link": "/technical-expertise/cloud-devops/kubernetes",
-        "features": [
-            {
-                title: "Kubernetes",
-                description: "Kubernetes ist eine führende Container-Orchestrierungsplattform, die die Bereitstellung, Skalierung und Verwaltung von containerbasierten Anwendungen automatisiert. Unerlässlich für große, widerstandsfähige Systeme.",
-                "list": []
-            },
-            {
-                title: "Stärken von Kubernetes",
-                description: "Kubernetes zeichnet sich durch seine robusten Funktionen aus",
-                "list": [
-                    "Automatisierte Bereitstellung",
-                    "Skalierbarkeit",
-                    "Selbstheilung",
-                    "Service-Erkennung",
-                    "Lastverteilung",
-                    "Speicherorchestrierung",
-                    "Konfigurationsmanagement"
-                ]
-            },
-            {
-                title: "Herausforderungen und Lösungen",
-                description: "Kubernetes adressiert Orchestrierungsherausforderungen durch skalierbare und automatisierte Lösungen für containerbasierte Anwendungen.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Was ist Kubernetes?",
-                "answer": "Kubernetes ist eine Container-Orchestrierungsplattform, die die Bereitstellung, Skalierung und Verwaltung von containerbasierten Anwendungen automatisiert."
-            },
-            {
-                "question": "Wie verbessert Kubernetes die Skalierbarkeit von Anwendungen?",
-                "answer": "Kubernetes verbessert die Skalierbarkeit von Anwendungen, indem es die Skalierung von containerbasierten Anwendungen basierend auf der Nachfrage automatisch verwaltet."
-            },
-            {
-                "question": "Welche Vorteile bietet die Verwendung von Kubernetes?",
-                "answer": "Vorteile der Verwendung von Kubernetes umfassen automatisierte Bereitstellung, Skalierbarkeit, Selbstheilung, Service-Erkennung, Lastverteilung und Speicherorchestrierung."
-            }
-        ]
-    },
-    github: {
-        title: "GitHub",
-        description: "Verbessern Sie Ihren Entwicklungsworkflow mit GitHubs Versionskontrolle und Kollaborationsplattform.",
-        "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
-        "alt": "Logo, das die GitHub-Technologieerfahrung repräsentiert",
-        "readMore": "Erfahren Sie, wie GitHub effektives DevOps-Testing unterstützt",
-        "link": "/technical-expertise/cloud-devops/github",
-        "features": [
-            {
-                title: "GitHub",
-                description: "GitHub ist eine webbasierte Plattform, die Git-Repository-Hosting, kollaborative Entwicklungstools und eine breite Palette von Integrationen bietet und so eine effiziente und kollaborative Softwareentwicklung fördert.",
-                "list": []
-            },
-            {
-                title: "Stärken von GitHub",
-                description: "GitHub überzeugt mit seinen Schlüsselfunktionen",
-                "list": [
-                    "MetadataChorn-Kontrolle",
-                    "Kollaborative Entwicklung",
-                    "Pull-Requests",
-                    "Issue-Tracking",
-                    "Code-Review",
-                    "Kontinuierliche Integration",
-                    "Umfangreiche Integrationen"
-                ]
-            },
-            {
-                title: "Herausforderungen und Lösungen",
-                description: "GitHub bewältigt die Herausforderungen des Entwicklungsworkflows durch robuste Versionskontrolle und kollaborative Tools für ein effizientes Projektmanagement.",
-                "list": []
-            }
-        ],
-        "faqs": [
-            {
-                "question": "Was ist GitHub?",
-                "answer": "GitHub ist eine webbasierte Plattform, die Git-Repository-Hosting und kollaborative Entwicklungstools bereitstellt."
-            },
-            {
-                "question": "Wie verbessert GitHub die Zusammenarbeit?",
-                "answer": "GitHub verbessert die Zusammenarbeit durch Funktionen wie Pull-Requests, Issue-Tracking und Code-Review, um die Teamentwicklung zu erleichtern."
-            },
-            {
-                "question": "Welche Vorteile bietet die Nutzung von GitHub?",
-                "answer": "Zu den Vorteilen der Nutzung von GitHub gehören Versionskontrolle, kollaborative Entwicklung, Pull-Requests, Issue-Tracking, Code-Review, kontinuierliche Integration und umfangreiche Integrationen."
-            }
-        ]
-    },
+    // Active
+    docker: DockerDE,
+    kubernetes: KubeDE,
+    github: GitHubDE,
 
     // Not-active
     appium: {

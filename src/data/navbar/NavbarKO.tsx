@@ -70,7 +70,7 @@ export const NavbarKO: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "클라우드 솔루션",
+                label: "클라우드 및 인프라",
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: [],
             },

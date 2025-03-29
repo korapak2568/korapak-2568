@@ -1,427 +1,55 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
 import {FrontEndEN} from "@/data/frontend/FrontEndEN";
+import {VueKO} from "@/data/frontend/frameworks/vue/VueKO";
+import {TypeScriptKO} from "@/data/frontend/frameworks/typescript/TypeScriptKO";
+import {ReactKO} from "@/data/frontend/frameworks/react/ReactKO";
+import {NextjsKO} from "@/data/frontend/frameworks/nextjs/NextjsKO";
+import {JavaScriptKO} from "@/data/frontend/frameworks/javascript/JavaScriptKO";
+import {Html5KO} from "@/data/frontend/frameworks/html5/Html5KO";
+import {Css3KO} from "@/data/frontend/frameworks/css3/Css3KO";
+import {AngularKO} from "@/data/frontend/frameworks/angular/AngularKO";
 
 export const FrontEndKO: IFrontEnd = {
     title: "프론트엔드 경험",
     span: "프론트엔드 개발 경험",
     subTitle: "",
 
-    angular: {
-        title: "Angular",
-        description: "Develop robust, enterprise-grade web applications with Angular's comprehensive and versatile framework.",
-        image: "/chorn-images/technical-expertise/front-end-developer/angular-developer.webp",
-        alt: "Logo representing Angular framework",
-        readMore: "Explore more Angular front-end development solutions",
-        link: "/technical-expertise/front-end-developer/angular-developer",
-        features: [
-            {
-                title: "Angular Development",
-                description: "Angular is a powerful web application framework developed by Google. It facilitates the creation of dynamic, single-page applications with its comprehensive toolset and MVC architecture.",
-                list: []
-            },
-            {
-                title: "Strong Points of Angular",
-                description: "Angular stands out for its robust architecture and rich features.",
-                list: [
-                    "Two-way data binding",
-                    "Dependency injection",
-                    "Component-based structure",
-                    "TypeScript integration",
-                    "Comprehensive testing tools",
-                    "Rich CLI",
-                    "Extensive documentation"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "Angular tackles complexities in large-scale applications with a strong architecture, efficient data binding, and dependency injection.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is Angular?",
-                answer: "Angular is a web application framework developed by Google for creating dynamic web apps."
-            },
-            {
-                question: "What is two-way data binding?",
-                answer: "Two-way data binding synchronizes the model and the view, ensuring changes in one reflect in the other."
-            },
-            {
-                question: "Why use TypeScript with Angular?",
-                answer: "TypeScript enhances Angular development with strong typing, modern features, and improved tooling."
-            }
-        ],
-    },
-    css3: {
-        title: "CSS3",
-        description: "Enhance your website's look with advanced styling techniques using CSS3.",
-        image: "/chorn-images/technical-expertise/front-end-developer/css3-developer.webp",
-        alt: "Logo representing CSS3 technology",
-        readMore: "Explore more CSS3 front-end development solutions",
-        link: "/technical-expertise/front-end-developer/css3-developer",
-        features: [
-            {
-                title: "CSS3 Responsive Design",
-                description: "CSS3 is the latest evolution of Cascading Style Sheets, offering advanced features for enhancing the visual presentation of web pages.",
-                list: []
-            },
-            {
-                title: "Strong Points of CSS3",
-                description: "CSS3 brings modern styling capabilities to web development.",
-                list: [
-                    "Advanced selectors",
-                    "Flexible box layout",
-                    "Grid layout",
-                    "Animations and transitions",
-                    "Media queries",
-                    "Custom properties",
-                    "Improved typography"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "CSS3 meets the demand for responsive, visually engaging web design with powerful new features.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is CSS3?",
-                answer: "CSS3 is the latest version of Cascading Style Sheets, offering new features for web styling."
-            },
-            {
-                question: "What are media queries?",
-                answer: "Media queries allow for responsive designs by applying styles based on device characteristics."
-            },
-            {
-                question: "What is the Flexbox layout?",
-                answer: "Flexbox layout provides a more efficient way to design layouts, distribute space, and align items."
-            },
-            {
-                question: "What are popular CSS frameworks?",
-                answer: "The popular CSS frameworks are Bootstrap, Tailwind CSS, Bulma, Foundation, and Materialize."
-            }
-        ],
-    },
-    html5: {
-        title: "HTML5",
-        description: "Master the latest standards in web development for rich, interactive content.",
-        image: "/chorn-images/technical-expertise/front-end-developer/html5-developer.webp",
-        alt: "Logo representing HTML5 technology",
-        readMore: "Explore more HTML5 front-end development solutions",
-        link: "/technical-expertise/front-end-developer/html5-developer",
-        features: [
-            {
-                title: "HTML5 Web Design",
-                description: "HTML5 is the latest version of the HyperText Markup Languages, introducing new elements and APIs for a richer web experience.",
-                list: []
-            },
-            {
-                title: "Strong Points of HTML5",
-                description: "HTML5 enhances web development with its modern features and capabilities.",
-                list: [
-                    "New semantic elements",
-                    "Audio and video support",
-                    "Canvas element",
-                    "Improved form controls",
-                    "Offline capabilities",
-                    "Geolocation API",
-                    "Enhanced accessibility"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "HTML5 addresses the need for more interactive and media-rich web experiences with new elements and APIs.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is HTML5?",
-                answer: "HTML5 is the latest version of the HyperText Markup Languages, introducing new features and elements."
-            },
-            {
-                question: "What are the new semantic elements?",
-                answer: "New semantic elements include <article>, <section>, <header>, <footer>, and more for better content structure."
-            },
-            {
-                question: "What is the canvas element?",
-                answer: "The canvas element provides a space for drawing graphics via JavaScript."
-            }
-        ],
-    },
-    nextjs: {
-        title: "NextJS",
-        description: "Boost your React applications with seamless server-side rendering and static site generation for optimal performance.",
-        image: "/chorn-images/technical-expertise/front-end-developer/nextjs-developer.webp",
-        alt: "Logo representing Next.js framework",
-        readMore: "Explore more NextJS front-end development solutions ",
-        link: "/technical-expertise/front-end-developer/nextjs-developer",
-        features: [
-            {
-                title: "NextJS Development",
-                description: "Next.js is a leading React framework that offers server-side rendering and static site generation, delivering high-performance, SEO-friendly web applications with minimal configuration. Perfect for modern web development needs.",
-                list: []
-            },
-            {
-                title: "Strong Points of NextJS",
-                description: "NextJS stands out with its robust features",
-                list: [
-                    "Server-side rendering",
-                    "Static site generation",
-                    "Automatic code splitting",
-                    "API routes",
-                    "Incremental static regeneration",
-                    "Built-in CSS and Sass support",
-                    "Excellent developer experience"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "Next.js tackles web development challenges by providing solutions for performance, scalability, and SEO, ensuring optimal application delivery.",
-                list: []
-            },
-        ],
-        faqs: [
-            {
-                question: "What is Next.js?",
-                answer: "Next.js is a React framework that provides server-side rendering and static site generation for optimized web applications."
-            },
-            {
-                question: "How does server-side rendering in Next.js improve performance?",
-                answer: "Server-side rendering improves performance by pre-rendering pages on the server, reducing client-side rendering time."
-            },
-            {
-                question: "What is static site generation in Next.js?",
-                answer: "Static site generation pre-renders pages at build time, providing fast load times and improved SEO."
-            }
-        ],
-    },
-
-    react: {
-        title: "React",
-        description: "Build dynamic, high-performance user interfaces effortlessly with React's powerful component-based architecture.",
-        image: "/chorn-images/technical-expertise/front-end-developer/react-developer.webp",
-        alt: "Logo representing React.js library",
-        readMore: "Explore more ReactJS front-end development solutions",
-        link: "/technical-expertise/front-end-developer/react-developer",
-        features: [
-            {
-                title: "React Development",
-                description: "React.js is a popular JavaScript library for building user interfaces. It enables developers to create reusable UI components, enhancing development efficiency and application performance.",
-                list: []
-            },
-            {
-                title: "Strong Points of React.js",
-                description: "React.js offers a robust set of features that make it a preferred choice for developers.",
-                list: [
-                    "Component-based architecture",
-                    "Virtual DOM for improved performance",
-                    "Unidirectional data flow",
-                    "JSX syntax",
-                    "Rich ecosystem and community",
-                    "React Hooks",
-                    "Extensive developer tools"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "React.js addresses challenges in dynamic UI development with a virtual DOM, component reusability, and an active community.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is React.js?",
-                answer: "React.js is a JavaScript library for building user interfaces, maintained by Facebook."
-            },
-            {
-                question: "What are React Hooks?",
-                answer: "React Hooks are functions that let you use state and lifecycle features in functional components."
-            },
-            {
-                question: "How does the virtual DOM work?",
-                answer: "The virtual DOM updates only the changed elements, improving application performance."
-            }
-        ],
-    },
-    typescript: {
-        title: "TypeScript",
-        description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles to plain JavaScript, making it compatible with all browsers and frameworks.",
-        image: "/chorn-images/technical-expertise/front-end-developer/typescript-developer.webp",
-        alt: "Logo representing TypeScript programming language",
-        readMore: "Explore more TypeScript full-stack development solutions",
-        link: "/technical-expertise/front-end-developer/typescript-developer",
-        features: [
-            {
-                title: "TypeScript Development",
-                description: "TypeScript enhances development by introducing static typing and object-oriented programming features, allowing developers to build scalable and maintainable applications with confidence.",
-                list: []
-            },
-            {
-                title: "Enhanced Code Quality",
-                description: "TypeScript's type-checking features ensure that potential errors are caught during the development phase, reducing runtime errors and improving maintainability for large-scale projects.",
-                list: [
-                    "Static typing",
-                    "Advanced error checking",
-                    "Improved code quality",
-                    "Enhanced IDE support",
-                    "Scalable application architecture",
-                    "Large community support"
-                ]
-            },
-            {
-                title: "Improved Developer Productivity",
-                description: "With features like type inference, interfaces, and generics, TypeScript makes managing complex codebases easier. It integrates seamlessly with modern tools, boosting productivity and collaboration.",
-                list: []
-            },
-            {
-                title: "Seamless Integration with Frameworks",
-                description: "TypeScript integrates effortlessly with popular JavaScript frameworks such as React, Angular, and Vue.js. Developers can gradually adopt TypeScript in existing JavaScript projects, ensuring compatibility and scalability.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is TypeScript?",
-                answer: "TypeScript is a superset of JavaScript that adds static typing and other advanced features for improved development."
-            },
-            {
-                question: "Why use TypeScript over JavaScript?",
-                answer: "TypeScript's static typing and robust tooling catch errors early, improve code quality, and enhance developer productivity."
-            },
-            {
-                question: "Can TypeScript work with JavaScript frameworks?",
-                answer: "Yes, TypeScript is fully compatible with JavaScript frameworks such as React, Angular, and Vue.js."
-            }
-        ],
-    },
-    vue: {
-        title: "Vue",
-        description: "Create modern, reactive web interfaces quickly with Vue's intuitive and flexible design. ",
-        image: "/chorn-images/technical-expertise/front-end-developer/vue-developer.webp",
-        alt: "Logo representing Vue.js framework",
-        readMore: "Explore more VueJS front-end development solutions",
-        link: "/technical-expertise/front-end-developer/vue-developer",
-        features: [
-            {
-                title: "Vue Development",
-                description: "Vue.js is a progressive JavaScript framework for building user interfaces. It is designed to be incrementally adoptable, with a core library focusing on the view layer.",
-                list: []
-            },
-            {
-                title: "Strong Points of Vue",
-                description: "Vue.js offers a flexible and performant framework with key strengths.",
-                list: [
-                    "Reactive data binding",
-                    "Component-based structure",
-                    "Virtual DOM",
-                    "Easy integration",
-                    "Comprehensive documentation",
-                    "Vue CLI",
-                    "Active community"
-                ]
-            },
-            {
-                title: "Challenge and Solutions",
-                description: "Vue.js simplifies web development with its intuitive API, reactive data binding, and ease of integration.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is Vue.js?",
-                answer: "Vue.js is a progressive JavaScript framework for building user interfaces."
-            },
-            {
-                question: "What is the virtual DOM?",
-                answer: "The virtual DOM is a lightweight copy of the actual DOM, optimizing updates and performance."
-            },
-            {
-                question: "How does Vue.js differ from React?",
-                answer: "Vue.js offers a more flexible and simpler integration compared to React's more complex setup."
-            }
-        ],
-    },
-    javascript: {
-        title: "JavaScript",
-        description: "JavaScript is a versatile and dynamic programming language widely used for building interactive and responsive web applications. Its flexibility and extensive ecosystem make it an essential tool for modern web development.",
-        image: "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
-        alt: "Logo representing JavaScript programming language",
-        readMore: "Explore more JavaScript full-stack development solutions",
-        link: "/technical-expertise/front-end-developer/javascript-developer",
-        features: [
-            {
-                title: "JavaScript Development",
-                description: "JavaScript powers the dynamic behavior of websites and web applications, offering unparalleled versatility and compatibility with browsers and frameworks.",
-                list: []
-            },
-            {
-                title: "Rich Interactive Experiences",
-                description: "JavaScript enables developers to create interactive user interfaces, animations, and real-time features like chat applications, delivering engaging user experiences.",
-                list: [
-                    "Dynamic content updates",
-                    "Interactive web interfaces",
-                    "Animation and transitions",
-                    "Real-time features (e.g., chats, notifications)",
-                    "Cross-platform compatibility"
-                ]
-            },
-            {
-                title: "Wide Ecosystem and Tooling",
-                description: "JavaScript boasts a vast ecosystem of libraries and frameworks like React, Angular, and Vue.js, empowering developers to build robust web applications efficiently.",
-                list: []
-            },
-            {
-                title: "Back-End Development with Node.js",
-                description: "JavaScript extends to back-end development through Node.js, enabling full-stack development with a single language, from server-side logic to client-side interactions.",
-                list: []
-            }
-        ],
-        faqs: [
-            {
-                question: "What is JavaScript?",
-                answer: "JavaScript is a dynamic programming language commonly used for creating interactive web applications."
-            },
-            {
-                question: "Why use JavaScript for web development?",
-                answer: "JavaScript offers versatility, extensive libraries, and compatibility across browsers, making it a go-to language for web developers."
-            },
-            {
-                question: "What frameworks are built on JavaScript?",
-                answer: "Popular JavaScript frameworks include React, Angular, and Vue.js."
-            }
-        ],
-    },
+    angular: AngularKO,
+    css3: Css3KO,
+    html5: Html5KO,
+    nextjs: NextjsKO,
+    react: ReactKO,
+    typescript: TypeScriptKO,
+    vue: VueKO,
+    javascript: JavaScriptKO,
 
     stacks: [],
 
     services: {
-        title: "Front-End Development Services",
+        title: "프론트엔드 개발 서비스",
         descriptions: [
-            "Transform your web vision into reality with our expert front-end development services. CHORN delivers user-friendly, visually stunning, and fully responsive websites that engage your audience. We specialize in modern frameworks including Next.js, React, Angular, and Vue.js, alongside core web technologies like HTML5 and CSS3. Whether you need a high-performance single-page application (SPA) optimized for search engines or a sophisticated multi-page platform, our developers deliver quality results on time. Partner with CHORN to create compelling digital experiences that captivate visitors and drive business growth."
+            "전문적인 프론트엔드 개발 서비스로 웹 비전을 현실로 만드세요. CHORN은 사용자 친화적이고 시각적으로 뛰어나며 완전히 반응형인 웹사이트를 제공하여 방문자를 효과적으로 참여시킵니다. Next.js, React, Angular, Vue.js와 같은 최신 프레임워크는 물론 HTML5 및 CSS3과 같은 핵심 웹 기술을 활용합니다. 검색 엔진 최적화(SEO)가 적용된 고성능 단일 페이지 애플리케이션(SPA)부터 복잡한 다중 페이지 플랫폼까지, CHORN은 기한 내에 고품질 결과를 제공합니다. CHORN과 협력하여 방문자를 사로잡고 비즈니스 성장을 촉진하는 강력한 디지털 경험을 만들어 보세요."
         ],
         items: [
             {
-                title: "Modern Framework Implementation",
-                description: "Build dynamic, interactive web applications using cutting-edge frameworks like Next.js and React that provide optimal performance and user experience."
+                title: "최신 프레임워크 구현",
+                description: "Next.js 및 React와 같은 최신 프레임워크를 사용하여 동적이고 상호작용적인 웹 애플리케이션을 구축하고 최적의 성능과 사용자 경험을 제공합니다."
             },
             {
-                title: "SEO Optimization",
-                description: "Improve your website's visibility on Google and other search engines through optimized code structure, fast loading times, and mobile-friendly design."
+                title: "SEO 최적화",
+                description: "최적화된 코드 구조, 빠른 로딩 속도, 모바일 친화적 디자인을 통해 Google 및 기타 검색 엔진에서 웹사이트의 가시성을 향상하세요."
             },
             {
-                title: "Proof of Concept (PoC) Development",
-                description: "Test and validate your innovative ideas quickly with functional prototypes before committing to full-scale development."
+                title: "개념 증명(PoC) 개발",
+                description: "대규모 개발을 시작하기 전에 기능적인 프로토타입을 사용하여 혁신적인 아이디어를 신속하게 테스트하고 검증하세요."
             },
             {
-                title: "Minimum Viable Product (MVP) Creation",
-                description: "Launch a feature-complete, scalable initial version of your product to attract early users, gather feedback, and secure potential investors."
+                title: "최소 기능 제품(MVP) 개발",
+                description: "초기 사용자 확보, 피드백 수집 및 투자자 유치를 위해 기능이 완전하고 확장 가능한 초기 제품을 출시하세요."
             },
             {
-                title: "UI/UX Design Excellence",
-                description: "Enhance user satisfaction with intuitive, beautiful interfaces that boost engagement, reduce bounce rates, and increase conversions."
+                title: "UI/UX 디자인 최적화",
+                description: "직관적이고 아름다운 인터페이스를 제공하여 사용자 만족도를 높이고 이탈률을 줄이며 전환율을 향상시키세요."
             }
         ]
     }
