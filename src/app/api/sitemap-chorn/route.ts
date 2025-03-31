@@ -9,7 +9,7 @@ export async function GET() {
     const localizedUrls = chornUrls.flatMap(url => chornLocales.map(locale =>
         `<url>
             <loc>${baseUrl}/${locale}${url}</loc>
-            <lastmod>lastModified: ${lastModified}</lastmod>
+            <lastmod>${lastModified}</lastmod>
             <priority>0.8</priority>
         </url>`));
 
