@@ -7,7 +7,7 @@ export const WorkplacePolicyFI: IPolicy = {
     list: [
         {
             title: "Työmallit",
-            description: "CHORN tukee <strong>etä-, toimisto- ja hybridityömalleja</strong>, mukautuen kunkin projektin ainutlaatuisiin vaatimuksiin. Tämä lähestymistapa varmistaa sujuvan viestinnän, tehokkuuden ja mahdollisuuden hyödyntää maailmanlaajuista osaamista, samalla ylläpitäen tiimin yhtenäisyyttä."
+            description: "CHORN mukautuu erilaisiin työskentelymalleihin, mukaan lukien etätyö, toimistotyö ja hybridityö, räätälöiden ne kunkin projektin erityistarpeisiin. Tämä lähestymistapa varmistaa sujuvan viestinnän ja tehokkuuden.",
         },
         {
             title: "Miksi hybridi?",

@@ -11,18 +11,18 @@ import {MetadataGitLab} from "@/data/metadata/pages/devops/gitlab/common/Metadat
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataGitLab[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataGitLab[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].DevOps.gitlab.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].DevOps.gitlab.features[0].title}/>
 
             <ServicesDetailsGitLab/>
 

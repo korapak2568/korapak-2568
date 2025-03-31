@@ -7,7 +7,7 @@ export const WorkplacePolicyDA: IPolicy = {
     list: [
         {
             title: "Arbejdsmodeller",
-            description: "CHORN understøtter <strong>fjernarbejde, kontor og hybrid</strong> arbejdsmodeller, der tilpasser sig de unikke krav i hvert projekt. Denne tilgang sikrer problemfri kommunikation, effektivitet og muligheden for at udnytte globalt talent, samtidig med at teamkohæsionen opretholdes."
+            description: "CHORN tilpasser sig forskellige arbejdsmodeller, herunder fjernarbejde, kontorarbejde og hybridmodeller, skræddersyet til de specifikke behov i hvert projekt. Denne tilgang sikrer problemfri kommunikation og effektivitet.",
         },
         {
             title: "Hvorfor Hybrid?",

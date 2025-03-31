@@ -11,18 +11,18 @@ import {MetadataSoapUI} from "@/data/metadata/pages/devops/soapui/common/Metadat
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataSoapUI[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataSoapUI[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].DevOps.soapui.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].DevOps.soapui.features[0].title}/>
 
             <ServicesDetailsSoapUI/>
 

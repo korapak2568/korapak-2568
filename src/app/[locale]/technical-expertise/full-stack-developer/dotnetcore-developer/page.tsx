@@ -12,18 +12,18 @@ import {MetadataDotnetCore} from "@/data/metadata/pages/backend/dotnetcore/commo
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataDotnetCore[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataDotnetCore[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FullStack.dotnetcore.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FullStack.dotnetcore.features[0].title}/>
 
             <ServicesDetailsDotNetCore/>
 

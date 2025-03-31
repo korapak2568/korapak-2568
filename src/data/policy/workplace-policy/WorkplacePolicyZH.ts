@@ -7,7 +7,7 @@ export const WorkplacePolicyZH: IPolicy = {
     list: [
         {
             title: "工作模式",
-            description: "CHORN 支持 <strong>远程、办公室和混合</strong> 工作模式，适应每个项目的独特需求。这种方法确保了无缝沟通、效率以及利用全球人才的能力，同时保持团队凝聚力。"
+            description: "CHORN 适应各种工作模式，包括远程办公、办公室办公和混合办公，并根据每个项目的具体需求进行调整。这种方法确保了顺畅的沟通和高效的工作。",
         },
         {
             title: "为什么选择混合模式？",

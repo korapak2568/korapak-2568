@@ -2,23 +2,25 @@ import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
 import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
-import {Info} from "@/data/info/Info";
 import AiPloyLandingPage from "@/components/AiCompanions/landing/AiPloyLandingPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
 import {MetadataAiPloy} from "@/data/metadata/pages/aiPloy/common/MetadataAiPloy";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataAiPloy[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataAiPloy[lang]
 }
 
 const Page = () => {
+    const lang = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.AiCompanions.ploy.title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].AiCompanions.ploy.title}/>
 
             <AiPloyLandingPage/>
 

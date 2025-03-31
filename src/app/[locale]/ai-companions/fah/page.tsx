@@ -3,22 +3,24 @@ import Navbar from "@/components/Layouts/Navbar";
 import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import AiFahLandingPage from "@/components/AiCompanions/landing/AiFahLandingPage";
-import {Info} from "@/data/info/Info";
 import {Metadata} from "next";
 import {headers} from "next/headers";
 import {MetadataAiFah} from "@/data/metadata/pages/aiFah/common/MetadataAiFah";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataAiFah[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataAiFah[lang]
 }
 
 const Page = () => {
+    const lang = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={Info.AiCompanions.fah.title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].AiCompanions.fah.title}/>
 
             <AiFahLandingPage/>
 

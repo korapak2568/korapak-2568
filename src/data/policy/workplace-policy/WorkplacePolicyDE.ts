@@ -7,7 +7,7 @@ export const WorkplacePolicyDE: IPolicy = {
     list: [
         {
             title: "Arbeitsmodelle",
-            description: "CHORN unterstützt <strong>remote, Büro- und hybride</strong> Arbeitsmodelle und passt sich den einzigartigen Anforderungen jedes Projekts an. Dieser Ansatz gewährleistet nahtlose Kommunikation, Effizienz und die Möglichkeit, globale Talente zu nutzen, während die Teamkohäsion erhalten bleibt."
+            description: "CHORN passt sich verschiedenen Arbeitsmodellen an, einschließlich Remote-, Büro- und Hybridarbeit, und richtet sie auf die spezifischen Anforderungen jedes Projekts aus. Dieser Ansatz gewährleistet eine nahtlose Kommunikation und Effizienz.",
         },
         {
             title: "Warum Hybrid?",

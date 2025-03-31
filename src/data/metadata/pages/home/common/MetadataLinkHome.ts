@@ -3,7 +3,7 @@ import {IMetadataLinkPage} from "@/data/metadata/model/IMetadataLinkPage";
 
 export const MetadataLinkHome: IMetadataLinkPage = {
     alternates: {
-        canonical: 'https://chorn.in.th/en',
+        canonical: 'https://chorn.in.th/',
         languages: {
             "en": "https://chorn.in.th/en",
             "th": "https://chorn.in.th/th",
@@ -27,7 +27,7 @@ export const MetadataLinkHome: IMetadataLinkPage = {
                 alt: OpenGraph.home.alt,
             },
         ],
-        url: "https://chorn.in.th/en",
+        url: "https://chorn.in.th/en/",
         type: "website",
     },
     twitter: {

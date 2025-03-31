@@ -11,18 +11,18 @@ import {MetadataKube} from "@/data/metadata/pages/devops/kube/common/MetadataKub
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataKube[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataKube[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].DevOps.kubernetes.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].DevOps.kubernetes.features[0].title}/>
 
             <ServicesDetailsKubernetes/>
 

@@ -11,18 +11,18 @@ import {MetadataAngular} from "@/data/metadata/pages/frontend/angular/common/Met
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataAngular[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataAngular[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.angular.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FrontEnd.angular.features[0].title}/>
 
             <ServicesDetailsAngular/>
 

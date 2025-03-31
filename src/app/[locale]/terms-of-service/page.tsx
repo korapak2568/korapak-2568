@@ -1,5 +1,3 @@
-"use client"
-
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
 import PageBanner from "@/components/Common/PageBanner";
@@ -7,10 +5,17 @@ import Footer from "@/components/Layouts/Footer";
 import SubscribeForm from "@/components/Common/SubscribeForm";
 import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import type {Metadata} from "next";
+import {headers} from "next/headers";
+import {MetadataTermOfService} from "@/data/metadata/pages/terms-of-service/common/MetadataTermOfService";
+
+export async function generateMetadata(): Promise<Metadata> {
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataTermOfService[lang]
+}
 
 export default function TermsOfService() {
-    const locale = useLocale()
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
@@ -21,7 +26,7 @@ export default function TermsOfService() {
             <div className="terms-of-service-area ptb-100">
                 <div className="container">
                     <div className="privacy-content">
-                        {InfoTranslation[locale.value].TermOfService.list.map((item: IPolicyContent, index: number) => (
+                        {InfoTranslation[lang].TermOfService.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
 
                                 {item.description != undefined && (

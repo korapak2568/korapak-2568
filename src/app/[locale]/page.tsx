@@ -17,8 +17,8 @@ import {MetadataHome} from "@/data/metadata/pages/home/common/MetadataHome";
 import {headers} from "next/headers";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataHome[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataHome[lang]
 }
 
 export default function Home() {

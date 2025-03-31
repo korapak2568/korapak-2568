@@ -7,7 +7,7 @@ export const WorkplacePolicyNL: IPolicy = {
     list: [
         {
             title: "Werkmodellen",
-            description: "CHORN ondersteunt <strong>remote, kantoor en hybride</strong> werkmodellen, die zich aanpassen aan de unieke vereisten van elk project. Deze aanpak zorgt voor naadloze communicatie, efficiëntie en de mogelijkheid om wereldwijd talent te benutten, terwijl de teamcohesie behouden blijft."
+            description: "CHORN past zich aan verschillende werkmodellen aan, waaronder werken op afstand, op kantoor en hybride werken, afgestemd op de specifieke behoeften van elk project. Deze aanpak zorgt voor naadloze communicatie en efficiëntie.",
         },
         {
             title: "Waarom Hybride?",

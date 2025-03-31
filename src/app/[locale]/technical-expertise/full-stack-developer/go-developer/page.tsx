@@ -11,18 +11,18 @@ import {MetadataGo} from "@/data/metadata/pages/backend/go/common/MetadataGo";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataGo[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataGo[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FullStack.go.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FullStack.go.features[0].title}/>
 
             <ServicesDetailsGoLang/>
 

@@ -9,17 +9,17 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {MetadataAiFah} from "@/data/metadata/pages/aiFah/common/MetadataAiFah";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataAiFah[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataAiFah[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
-            <PageBanner pageTitle={InfoTranslation[locale].Service.demo.title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].Service.demo.title}/>
             <AiCompanionsPage/>
             <Footer/>
         </>

@@ -11,18 +11,18 @@ import {MetadataNextjs} from "@/data/metadata/pages/frontend/nextjs/common/Metad
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataNextjs[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataNextjs[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.nextjs.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FrontEnd.nextjs.features[0].title}/>
 
             <ServicesDetailsNextJS/>
 

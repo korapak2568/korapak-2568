@@ -11,18 +11,18 @@ import {MetadataAppium} from "@/data/metadata/pages/devops/appium/common/Metadat
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataAppium[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataAppium[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].DevOps.appium.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].DevOps.appium.features[0].title}/>
 
             <ServicesDetailsAppium/>
 

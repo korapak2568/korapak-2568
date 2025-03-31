@@ -12,18 +12,18 @@ import {MetadataReact} from "@/data/metadata/pages/frontend/react/common/Metadat
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataReact[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataReact[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.typescript.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FrontEnd.typescript.features[0].title}/>
 
             <ServicesDetailsTypeScript/>
 

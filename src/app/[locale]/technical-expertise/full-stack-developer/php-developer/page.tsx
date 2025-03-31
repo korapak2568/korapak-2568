@@ -11,18 +11,18 @@ import {MetadataPhp} from "@/data/metadata/pages/backend/php/common/MetadataPhp"
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataPhp[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataPhp[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FullStack.php.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FullStack.php.features[0].title}/>
 
             <ServicesDetailsPhp/>
 

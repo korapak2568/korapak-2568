@@ -11,18 +11,18 @@ import {MetadataDocker} from "@/data/metadata/pages/devops/docker/common/Metadat
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataDocker[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataDocker[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].DevOps.docker.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].DevOps.docker.features[0].title}/>
 
             <ServicesDetailsDocker/>
 

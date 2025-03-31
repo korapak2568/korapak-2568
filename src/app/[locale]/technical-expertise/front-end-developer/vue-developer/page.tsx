@@ -11,18 +11,18 @@ import {MetadataVue} from "@/data/metadata/pages/frontend/vue/common/MetadataVue
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataVue[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataVue[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.vue.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FrontEnd.vue.features[0].title}/>
 
             <ServicesDetailsVue/>
 

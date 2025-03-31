@@ -1,0 +1,29 @@
+import {Metadata} from "next";
+import {MetadataLinkTermOfService} from "@/data/metadata/pages/terms-of-service/common/MetadataLinkTermOfService";
+
+export const MetadataTermOfServiceTH: Metadata = {
+    title: "เงื่อนไขการให้บริการ | CHORN",
+    description: "CHORN จัดทำเงื่อนไขการให้บริการเพื่อควบคุมการใช้งานเว็บไซต์ การเข้าถึงหรือการใช้งานเว็บไซต์นี้ถือว่าคุณยอมรับที่จะปฏิบัติตามเงื่อนไขเหล่านี้",
+    icons: {
+        icon: '/favicon.ico',
+    },
+    alternates: MetadataLinkTermOfService.alternates,
+    authors: [
+        {
+            name: "CHORN"
+        }
+    ],
+    openGraph: {
+        title: "เงื่อนไขการให้บริการ | CHORN",
+        description: "CHORN จัดทำเงื่อนไขการให้บริการเพื่อควบคุมการใช้งานเว็บไซต์ การเข้าถึงหรือการใช้งานเว็บไซต์นี้ถือว่าคุณยอมรับที่จะปฏิบัติตามเงื่อนไขเหล่านี้",
+        images: MetadataLinkTermOfService.openGraph.images,
+        url: MetadataLinkTermOfService.openGraph.url,
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "เงื่อนไขการให้บริการ | CHORN",
+        description: "CHORN จัดทำเงื่อนไขการให้บริการเพื่อควบคุมการใช้งานเว็บไซต์ การเข้าถึงหรือการใช้งานเว็บไซต์นี้ถือว่าคุณยอมรับที่จะปฏิบัติตามเงื่อนไขเหล่านี้",
+        images: MetadataLinkTermOfService.twitter.images,
+    },
+}

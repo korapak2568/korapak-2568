@@ -11,18 +11,18 @@ import {MetadataNodejs} from "@/data/metadata/pages/backend/nodejs/common/Metada
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataNodejs[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataNodejs[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FullStack.nodejs.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FullStack.nodejs.features[0].title}/>
 
             <ServicesDetailsNodejs/>
 

@@ -7,7 +7,7 @@ export const WorkplacePolicyFR: IPolicy = {
     list: [
         {
             title: "Modèles de Travail",
-            description: "CHORN prend en charge les modèles de travail <strong>à distance, au bureau et hybride</strong>, en s'adaptant aux exigences uniques de chaque projet. Cette approche garantit une communication fluide, une efficacité accrue et la capacité d'exploiter les talents mondiaux tout en maintenant la cohésion de l'équipe."
+            description: "CHORN s'adapte à divers modèles de travail, y compris à distance, en bureau et hybride, en les ajustant aux besoins spécifiques de chaque projet. Cette approche garantit une communication fluide et une efficacité optimale.",
         },
         {
             title: "Pourquoi Hybride ?",

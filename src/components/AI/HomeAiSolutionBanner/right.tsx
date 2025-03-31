@@ -3,7 +3,6 @@ import React from "react";
 import {Info} from "@/data/info/Info";
 
 export default function Right() {
-
     return (
         <div className="col-lg-6">
             <div className="main-banner-image main-banner-image-custom">

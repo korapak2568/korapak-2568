@@ -11,18 +11,18 @@ import {MetadataPython} from "@/data/metadata/pages/backend/python/common/Metada
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataPython[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataPython[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FullStack.python.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FullStack.python.features[0].title}/>
 
             <ServicesDetailsPython/>
 

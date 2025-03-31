@@ -7,7 +7,7 @@ export const WorkplacePolicyVI: IPolicy = {
     list: [
         {
             title: "Mô Hình Làm Việc",
-            description: "CHORN hỗ trợ các mô hình làm việc <strong>từ xa, tại văn phòng và kết hợp</strong>, thích ứng với yêu cầu riêng của từng dự án. Cách tiếp cận này đảm bảo giao tiếp liền mạch, hiệu quả và khả năng tận dụng nguồn nhân tài toàn cầu trong khi vẫn duy trì sự gắn kết trong nhóm."
+            description: "CHORN thích ứng với các mô hình làm việc khác nhau, bao gồm làm việc từ xa, tại văn phòng và mô hình kết hợp, điều chỉnh theo nhu cầu cụ thể của từng dự án. Cách tiếp cận này đảm bảo giao tiếp trôi chảy và hiệu quả.",
         },
         {
             title: "Tại Sao Lại Kết Hợp?",

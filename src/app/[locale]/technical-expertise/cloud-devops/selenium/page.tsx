@@ -11,18 +11,18 @@ import {MetadataSelenium} from "@/data/metadata/pages/devops/selenium/common/Met
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataSelenium[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataSelenium[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].DevOps.selenium.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].DevOps.selenium.features[0].title}/>
 
             <ServicesDetailsSelenium/>
 

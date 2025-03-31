@@ -1,5 +1,3 @@
-"use client"
-
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
 import PageBanner from "@/components/Common/PageBanner";
@@ -7,24 +5,29 @@ import Footer from "@/components/Layouts/Footer";
 import SubscribeForm from "@/components/Common/SubscribeForm";
 import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import type {Metadata} from "next";
+import {headers} from "next/headers";
+import {MetadataPrivacyPolicy} from "@/data/metadata/pages/privacy-policy/common/MetadataPrivacyPolicy";
+
+export async function generateMetadata(): Promise<Metadata> {
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataPrivacyPolicy[lang]
+}
 
 export default function Page() {
-    const locale = useLocale()
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale.value].PrivacyPolicy.title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].PrivacyPolicy.title}/>
 
             <div className="privacy-policy-area ptb-100">
                 <div className="container">
                     <div className="privacy-content">
-                        {InfoTranslation[locale.value].PrivacyPolicy.list.map((item: IPolicyContent, iItem: number) => (
+                        {InfoTranslation[lang].PrivacyPolicy.list.map((item: IPolicyContent, iItem: number) => (
                             <div key={iItem} className="addition-ptb-20">
-                                <h3>{item.title}</h3>
-
                                 {item.description != undefined && (
                                     <p dangerouslySetInnerHTML={{__html: item.description}}/>
                                 )}

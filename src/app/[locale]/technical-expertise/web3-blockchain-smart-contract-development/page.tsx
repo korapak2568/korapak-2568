@@ -12,17 +12,17 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {MetadataWeb3} from "@/data/metadata/pages/web3/common/MetadataWeb3";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataWeb3[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataWeb3[lang]
 }
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].Web3.title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].Web3.title}/>
 
             <ServicesCardWeb3Blockchain/>
 

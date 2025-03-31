@@ -13,18 +13,18 @@ import {MetadataCloudSolution} from "@/data/metadata/pages/cloudSolution/common/
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataCloudSolution[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataCloudSolution[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].CloudSolution.title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].CloudSolution.title}/>
 
             <ServicesCardCloudInfrastructureSystemsArchitecture/>
 

@@ -12,18 +12,18 @@ import {MetadataJavaScript} from "@/data/metadata/pages/frontend/javascript/comm
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const locale = headers().get('x-locale') || 'en';
-    return MetadataJavaScript[locale]
+    const lang = headers().get('x-locale') || 'en';
+    return MetadataJavaScript[lang]
 }
 
 const Page = () => {
-    const locale = headers().get('x-locale') || 'en';
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[locale].FrontEnd.javascript.features[0].title}/>
+            <PageBanner pageTitle={InfoTranslation[lang].FrontEnd.javascript.features[0].title}/>
 
             <ServicesDetailsJavaScript/>
 
