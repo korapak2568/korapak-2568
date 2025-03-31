@@ -2,7 +2,7 @@
 
 import {NextResponse} from 'next/server';
 import type {NextRequest} from 'next/server';
-import {locales} from "@/lib/utils";
+import {chornLocales} from "@/lib/utils";
 
 const defaultLocale = 'en';
 
@@ -34,7 +34,7 @@ export function middleware(request: NextRequest) {
     // Redirect root ("/") to the default locale ("/en")
     if (
         pathname === '/' ||
-        !locales.includes(locale)
+        !chornLocales.includes(locale)
     ) {
         return NextResponse.redirect(new URL(`/${defaultLocale}`, request.url));
     }
