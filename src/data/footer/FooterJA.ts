@@ -97,12 +97,6 @@ export const FooterJA: IFooter = {
             linkText: "リモート、オフィス、ハイブリッド",
             link: "/",
             icon: "flaticon-speed hover-rotate",
-        },
-        {
-            label: "サービスモデル",
-            linkText: "常勤、契約、プロジェクトベース",
-            link: "/",
-            icon: "flaticon-connection hover-rotate",
-        },
+        }
     ],
 };

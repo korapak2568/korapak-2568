@@ -96,12 +96,6 @@ export const FooterTH: IFooter = {
             linkText: "ระยะไกล ออฟฟิศ แบบผสม",
             link: "/",
             icon: "flaticon-speed hover-rotate",
-        },
-        {
-            label: "รูปแบบบริการ",
-            linkText: "งานประจำ งานสัญญาจ้าง งานแบบรายโปรเจ็กต์",
-            link: "/",
-            icon: "flaticon-connection hover-rotate",
-        },
+        }
     ],
 };

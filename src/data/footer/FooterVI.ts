@@ -96,12 +96,6 @@ export const FooterVI: IFooter = {
             linkText: "Từ xa, Văn phòng, Kết hợp",
             link: "/",
             icon: "flaticon-speed hover-rotate",
-        },
-        {
-            label: "Mô hình dịch vụ",
-            linkText: "Cố định, Hợp đồng, Theo dự án",
-            link: "/",
-            icon: "flaticon-connection hover-rotate",
-        },
+        }
     ],
 };

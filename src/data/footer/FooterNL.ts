@@ -96,12 +96,6 @@ export const FooterNL: IFooter = {
             linkText: "Op afstand, Kantoor, Hybride",
             link: "/",
             icon: "flaticon-speed hover-rotate",
-        },
-        {
-            label: "Dienstmodellen",
-            linkText: "Vast, Contract, Projectbasis",
-            link: "/",
-            icon: "flaticon-connection hover-rotate",
-        },
+        }
     ],
 };

@@ -96,12 +96,6 @@ export const FooterFI: IFooter = {
             linkText: "Etätyö, toimisto, hybridi",
             link: "/",
             icon: "flaticon-speed hover-rotate", // Represents work or career
-        },
-        {
-            label: "Palvelumallit",
-            linkText: "Vakituinen, määräaikainen, projektipohjainen",
-            link: "/",
-            icon: "flaticon-connection hover-rotate", // Represents flexibility and service customization
-        },
+        }
     ],
 }

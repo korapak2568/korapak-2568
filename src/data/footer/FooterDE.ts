@@ -96,12 +96,6 @@ export const FooterDE: IFooter = {
             linkText: "Remote, Büro, Hybrid",
             link: "/",
             icon: "flaticon-speed hover-rotate",
-        },
-        {
-            label: "Dienstleistungsmodelle",
-            linkText: "Vollzeit, Vertrag, Projektbasiert",
-            link: "/",
-            icon: "flaticon-connection hover-rotate",
-        },
+        }
     ],
 };

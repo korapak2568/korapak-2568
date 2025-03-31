@@ -96,12 +96,6 @@ export const FooterDA: IFooter = {
             linkText: "Fjernarbejde, Kontor, Hybrid",
             link: "/",
             icon: "flaticon-speed hover-rotate",
-        },
-        {
-            label: "Servicemodeller",
-            linkText: "Fuld tid, Kontrakt, Projektbasis",
-            link: "/",
-            icon: "flaticon-connection hover-rotate",
-        },
+        }
     ],
 };

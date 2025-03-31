@@ -96,12 +96,6 @@ export const FooterEN: IFooter = {
             linkText: "Remote, Office, Hybrid",
             link: "/",
             icon: "flaticon-speed hover-rotate", // Represents work or career
-        },
-        {
-            label: "Service Models",
-            linkText: "Permanent, Contract, Project-based",
-            link: "/",
-            icon: "flaticon-connection hover-rotate", // Represents flexibility and service customization
-        },
+        }
     ],
 }

@@ -96,12 +96,6 @@ export const FooterKO: IFooter = {
             linkText: "원격, 사무실, 하이브리드",
             link: "/",
             icon: "flaticon-speed hover-rotate", // Represents work or career
-        },
-        {
-            label: "서비스 모델",
-            linkText: "정규직, 계약직, 프로젝트 기반",
-            link: "/",
-            icon: "flaticon-connection hover-rotate", // Represents flexibility and service customization
-        },
+        }
     ],
 }

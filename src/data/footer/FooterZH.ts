@@ -96,12 +96,6 @@ export const FooterZH: IFooter = {
             linkText: "远程、办公室、混合",
             link: "/",
             icon: "flaticon-speed hover-rotate",
-        },
-        {
-            label: "服务模式",
-            linkText: "长期、合同、项目制",
-            link: "/",
-            icon: "flaticon-connection hover-rotate",
-        },
+        }
     ],
 };

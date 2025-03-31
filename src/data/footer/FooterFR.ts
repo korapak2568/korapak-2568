@@ -96,12 +96,6 @@ export const FooterFR: IFooter = {
             linkText: "Télétravail, Bureau, Hybride",
             link: "/",
             icon: "flaticon-speed hover-rotate",
-        },
-        {
-            label: "Modèles de service",
-            linkText: "Permanent, Contrat, Basé sur le projet",
-            link: "/",
-            icon: "flaticon-connection hover-rotate",
-        },
+        }
     ],
 };
