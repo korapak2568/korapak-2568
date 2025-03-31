@@ -16,6 +16,11 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/:locale/technical-expertise/full-stack-developer/javascript-javascript-developer/',
+                destination: '/:locale/technical-expertise/front-end-developer/javascript-developer/',
+                permanent: true,
+            },
+            {
                 source: '/:locale/technical-expertise/full-stack-developer/typescript-javascript-developer/',
                 destination: '/:locale/technical-expertise/front-end-developer/typescript-developer/',
                 permanent: true,
@@ -41,17 +46,17 @@ const nextConfig = {
                 permanent: true,
             },
             {
-                source: '/en/ai-companions/buakaew',
+                source: '/:locale/ai-companions/buakaew',
                 destination: '/en/ai-companions/fah',
                 permanent: true,
             },
             {
-                source: '/en/ai-companions/tonnam',
+                source: '/:locale/ai-companions/tonnam',
                 destination: '/en/ai-companions/fah',
                 permanent: true,
             },
             {
-                source: '/en/ai-companions/milk',
+                source: '/:locale/ai-companions/milk',
                 destination: '/en/ai-companions/fah',
                 permanent: true,
             },
