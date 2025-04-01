@@ -12,7 +12,7 @@ const SubscribeForm: React.FC = () => {
             <div
                 className="subscribe-area ptb-100"
                 style={{
-                    backgroundImage: `url(/images/subscribe-bg.jpg)`,
+                    backgroundImage: `url(https://cdn.chorn.in.th/obsolete/subscribe-bg.jpg)`,
                 }}
             >
                 <div className="container">

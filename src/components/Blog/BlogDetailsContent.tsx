@@ -16,7 +16,7 @@ const BlogDetailsContent: React.FC = () => {
               <div className="blog-details-desc">
                 <div className="article-image">
                   <Image
-                    src="/images/blog-details.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/blog-details.jpg"
                     alt="image"
                     width={1000}
                     height={600}
@@ -73,7 +73,7 @@ const BlogDetailsContent: React.FC = () => {
                     <li className="blocks-gallery-item">
                       <figure>
                         <Image
-                          src="/images/blog/blog-4.jpg"
+                          src="https://cdn.chorn.in.th/obsolete/blog/blog-4.jpg"
                           alt="image"
                           width={650}
                           height={500}
@@ -84,7 +84,7 @@ const BlogDetailsContent: React.FC = () => {
                     <li className="blocks-gallery-item">
                       <figure>
                         <Image
-                          src="/images/blog/blog-5.jpg"
+                          src="https://cdn.chorn.in.th/obsolete/blog/blog-5.jpg"
                           alt="image"
                           width={650}
                           height={500}
@@ -95,7 +95,7 @@ const BlogDetailsContent: React.FC = () => {
                     <li className="blocks-gallery-item">
                       <figure>
                         <Image
-                          src="/images/blog/blog-6.jpg"
+                          src="https://cdn.chorn.in.th/obsolete/blog/blog-6.jpg"
                           alt="image"
                           width={650}
                           height={500}

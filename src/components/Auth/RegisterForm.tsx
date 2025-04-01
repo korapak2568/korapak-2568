@@ -12,7 +12,7 @@ const RegisterForm: React.FC = () => {
             <div className="col-lg-6">
               <div className="register-image pr-15">
                 <Image
-                  src="/images/register-form.png"
+                  src="https://cdn.chorn.in.th/obsolete/register-form.png"
                   alt="image"
                   width={750}
                   height={515}

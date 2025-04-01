@@ -38,7 +38,7 @@ const TestimonialStyleTwo: React.FC = () => {
                     <div 
                       className="testimonial-image" 
                       style={{
-                        backgroundImage: `url(/images/testimonial/testimonial-1.jpg)`,
+                        backgroundImage: `url(https://cdn.chorn.in.th/obsolete/testimonial/testimonial-1.jpg)`,
                       }}
                     ></div>
                   </div>
@@ -72,7 +72,7 @@ const TestimonialStyleTwo: React.FC = () => {
                     <div 
                       className="testimonial-image" 
                       style={{
-                        backgroundImage: `url(/images/testimonial/testimonial-2.jpg)`,
+                        backgroundImage: `url(https://cdn.chorn.in.th/obsolete/testimonial/testimonial-2.jpg)`,
                       }}
                     ></div>
                   </div>
@@ -106,7 +106,7 @@ const TestimonialStyleTwo: React.FC = () => {
                     <div 
                       className="testimonial-image" 
                       style={{
-                        backgroundImage: `url(/images/testimonial/testimonial-3.jpg)`,
+                        backgroundImage: `url(https://cdn.chorn.in.th/obsolete/testimonial/testimonial-3.jpg)`,
                       }}
                     ></div>
                   </div>

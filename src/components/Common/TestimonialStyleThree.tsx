@@ -11,7 +11,7 @@ const TestimonialStyleThree: React.FC = () => {
       <div
         className="client-area ptb-100"
         style={{
-          backgroundImage: `url(/images/client-bg.jpg)`,
+          backgroundImage: `url(https://cdn.chorn.in.th/obsolete/client-bg.jpg)`,
         }}
       >
         <div className="container">
@@ -48,7 +48,7 @@ const TestimonialStyleThree: React.FC = () => {
 
                 <div className="client-info">
                   <Image
-                    src="/images/client/client-1.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/client/client-1.jpg"
                     alt="image"
                     width={300}
                     height={300}
@@ -74,7 +74,7 @@ const TestimonialStyleThree: React.FC = () => {
 
                 <div className="client-info">
                   <Image
-                    src="/images/client/client-2.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/client/client-2.jpg"
                     alt="image"
                     width={300}
                     height={300}
@@ -100,7 +100,7 @@ const TestimonialStyleThree: React.FC = () => {
 
                 <div className="client-info">
                   <Image
-                    src="/images/client/client-3.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/client/client-3.jpg"
                     alt="image"
                     width={300}
                     height={300}

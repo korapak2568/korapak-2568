@@ -72,7 +72,7 @@ const PriceTableTwo: React.FC = () => {
 
                       <div className="pricing-shape">
                         <Image
-                          src="/images/pricing-shape.png"
+                          src="https://cdn.chorn.in.th/obsolete/pricing-shape.png"
                           alt="image"
                           width={120}
                           height={120}
@@ -128,7 +128,7 @@ const PriceTableTwo: React.FC = () => {
 
                       <div className="pricing-shape">
                         <Image
-                          src="/images/pricing-shape.png"
+                          src="https://cdn.chorn.in.th/obsolete/pricing-shape.png"
                           alt="image"
                           width={120}
                           height={120}
@@ -184,7 +184,7 @@ const PriceTableTwo: React.FC = () => {
 
                       <div className="pricing-shape">
                         <Image
-                          src="/images/pricing-shape.png"
+                          src="https://cdn.chorn.in.th/obsolete/pricing-shape.png"
                           alt="image"
                           width={120}
                           height={120}
@@ -244,7 +244,7 @@ const PriceTableTwo: React.FC = () => {
 
                       <div className="pricing-shape">
                         <Image
-                          src="/images/pricing-shape.png"
+                          src="https://cdn.chorn.in.th/obsolete/pricing-shape.png"
                           alt="image"
                           width={120}
                           height={120}
@@ -300,7 +300,7 @@ const PriceTableTwo: React.FC = () => {
 
                       <div className="pricing-shape">
                         <Image
-                          src="/images/pricing-shape.png"
+                          src="https://cdn.chorn.in.th/obsolete/pricing-shape.png"
                           alt="image"
                           width={120}
                           height={120}
@@ -356,7 +356,7 @@ const PriceTableTwo: React.FC = () => {
 
                       <div className="pricing-shape">
                         <Image
-                          src="/images/pricing-shape.png"
+                          src="https://cdn.chorn.in.th/obsolete/pricing-shape.png"
                           alt="image"
                           width={120}
                           height={120}

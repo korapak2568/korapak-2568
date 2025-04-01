@@ -13,7 +13,7 @@ const LoginForm: React.FC = () => {
             <div className="col-lg-6">
               <div className="login-image pr-15">
                 <Image
-                  src="/images/login-form.png"
+                  src="https://cdn.chorn.in.th/obsolete/login-form.png"
                   alt="image"
                   width={680}
                   height={480}

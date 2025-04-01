@@ -19,7 +19,7 @@ const TeamMemberStyle2: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team/team-6.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-6.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -60,7 +60,7 @@ const TeamMemberStyle2: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team/team-7.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-7.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -101,7 +101,7 @@ const TeamMemberStyle2: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team/team-8.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-8.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -142,7 +142,7 @@ const TeamMemberStyle2: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team/team-9.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-9.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -183,7 +183,7 @@ const TeamMemberStyle2: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team/team-10.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-10.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -224,7 +224,7 @@ const TeamMemberStyle2: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team/team-11.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-11.jpg"
                     alt="image"
                     width={500}
                     height={500}

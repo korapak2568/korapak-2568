@@ -135,7 +135,7 @@ const ServicesStyleThree: React.FC = () => {
         <div className="default-shape">
           <div className="shape1">
             <Image
-              src="/images/default-shape/default-shape1.png"
+              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape1.png"
               alt="image"
               width={52}
               height={52}
@@ -143,7 +143,7 @@ const ServicesStyleThree: React.FC = () => {
           </div>
           <div className="shape2">
             <Image
-              src="/images/default-shape/default-shape2.png"
+              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape2.png"
               alt="image"
               width={14}
               height={16}
@@ -151,7 +151,7 @@ const ServicesStyleThree: React.FC = () => {
           </div>
           <div className="shape3">
             <Image
-              src="/images/default-shape/default-shape3.png"
+              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape3.png"
               alt="image"
               width={18}
               height={18}
@@ -159,7 +159,7 @@ const ServicesStyleThree: React.FC = () => {
           </div>
           <div className="shape4">
             <Image
-              src="/images/default-shape/default-shape4.png"
+              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape4.png"
               alt="image"
               width={52}
               height={52}

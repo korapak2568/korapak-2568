@@ -13,7 +13,7 @@ const AboutUsContent: React.FC = () => {
             <div className="col-lg-6">
               <div className="about-image">
                 <Image
-                  src="/images/about/about-1.png"
+                  src="https://cdn.chorn.in.th/obsolete/about/about-1.png"
                   alt="image"
                   width={595}
                   height={536}

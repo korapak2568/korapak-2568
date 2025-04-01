@@ -47,7 +47,7 @@ const TeamMember: React.FC = () => {
               <div className="single-team">
                 <div className="image">
                   <Image
-                    src="/images/team/team-1.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-1.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -88,7 +88,7 @@ const TeamMember: React.FC = () => {
               <div className="single-team">
                 <div className="image">
                   <Image
-                    src="/images/team/team-2.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-2.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -129,7 +129,7 @@ const TeamMember: React.FC = () => {
               <div className="single-team">
                 <div className="image">
                   <Image
-                    src="/images/team/team-3.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-3.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -170,7 +170,7 @@ const TeamMember: React.FC = () => {
               <div className="single-team">
                 <div className="image">
                   <Image
-                    src="/images/team/team-4.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-4.jpg"
                     alt="image"
                     width={500}
                     height={500}
@@ -211,7 +211,7 @@ const TeamMember: React.FC = () => {
               <div className="single-team">
                 <div className="image">
                   <Image
-                    src="/images/team/team-5.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/team/team-5.jpg"
                     alt="image"
                     width={500}
                     height={500}

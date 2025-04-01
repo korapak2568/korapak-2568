@@ -79,7 +79,7 @@ const QuoteForm: React.FC = () => {
             <div className="col-lg-6">
               <div className="quote-image">
                 <Image
-                  src="/images/quote/quote-1.png"
+                  src="https://cdn.chorn.in.th/obsolete/quote/quote-1.png"
                   alt="image"
                   width={585}
                   height={555}

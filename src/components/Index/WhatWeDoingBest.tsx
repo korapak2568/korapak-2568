@@ -38,7 +38,7 @@ const WhatWeDoingBest: React.FC = () => {
             <div className="col-lg-6">
               <div className="overview-image">
                 <Image
-                  src="/images/overview.jpg"
+                  src="https://cdn.chorn.in.th/obsolete/overview.jpg"
                   alt="image"
                   width={750}
                   height={650}

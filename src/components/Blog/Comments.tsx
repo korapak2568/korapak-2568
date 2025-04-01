@@ -13,7 +13,7 @@ const Comments: React.FC = () => {
               <footer className="comment-meta">
                 <div className="comment-author vcard">
                   <Image
-                    src="/images/client/client-1.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/client/client-1.jpg"
                     className="avatar"
                     alt="image"
                     width={300}
@@ -46,7 +46,7 @@ const Comments: React.FC = () => {
                   <footer className="comment-meta">
                     <div className="comment-author vcard">
                       <Image
-                        src="/images/client/client-2.jpg"
+                        src="https://cdn.chorn.in.th/obsolete/client/client-2.jpg"
                         className="avatar"
                         alt="image"
                         width={300}
@@ -78,7 +78,7 @@ const Comments: React.FC = () => {
               <footer className="comment-meta">
                 <div className="comment-author vcard">
                   <Image
-                    src="/images/client/client-3.jpg"
+                    src="https://cdn.chorn.in.th/obsolete/client/client-3.jpg"
                     className="avatar"
                     alt="image"
                     width={300}

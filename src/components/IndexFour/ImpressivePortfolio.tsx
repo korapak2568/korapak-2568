@@ -49,7 +49,7 @@ const ImpressivePortfolio: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="/images/portfolio/portfolio-1.jpg"
+                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-1.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -71,7 +71,7 @@ const ImpressivePortfolio: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="/images/portfolio/portfolio-2.jpg"
+                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-2.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -93,7 +93,7 @@ const ImpressivePortfolio: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="/images/portfolio/portfolio-3.jpg"
+                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-3.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -115,7 +115,7 @@ const ImpressivePortfolio: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="/images/portfolio/portfolio-4.jpg"
+                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-4.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -137,7 +137,7 @@ const ImpressivePortfolio: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="/images/portfolio/portfolio-5.jpg"
+                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-5.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -159,7 +159,7 @@ const ImpressivePortfolio: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="/images/portfolio/portfolio-6.jpg"
+                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-6.jpg"
                       alt="image"
                       width={650}
                       height={500}
