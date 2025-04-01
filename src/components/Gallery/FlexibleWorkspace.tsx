@@ -58,7 +58,7 @@ const FlexibleWorkspace: React.FC = () => {
                 <div className="main-slider-shape">
                     <div className="shape-1">
                         <Image
-                            src="https://cdn.chorn.in.th/obsolete/main-slider/slider-shape-1.png"
+                            src="https://cdn.chorn.in.th/public/main-slider/slider-shape-1.png"
                             alt="image"
                             width={399}
                             height={438}
@@ -66,7 +66,7 @@ const FlexibleWorkspace: React.FC = () => {
                     </div>
                     <div className="shape-2">
                         <Image
-                            src="https://cdn.chorn.in.th/obsolete/main-slider/slider-shape-2.png"
+                            src="https://cdn.chorn.in.th/public/main-slider/slider-shape-2.png"
                             alt="image"
                             width={66}
                             height={62}
@@ -74,7 +74,7 @@ const FlexibleWorkspace: React.FC = () => {
                     </div>
                     <div className="shape-3">
                         <Image
-                            src="https://cdn.chorn.in.th/obsolete/main-slider/slider-shape-3.png"
+                            src="https://cdn.chorn.in.th/public/main-slider/slider-shape-3.png"
                             alt="image"
                             width={117}
                             height={119}
@@ -82,7 +82,7 @@ const FlexibleWorkspace: React.FC = () => {
                     </div>
                     <div className="shape-4">
                         <Image
-                            src="https://cdn.chorn.in.th/obsolete/main-slider/slider-shape-4.png"
+                            src="https://cdn.chorn.in.th/public/main-slider/slider-shape-4.png"
                             alt="image"
                             width={164}
                             height={164}
@@ -90,7 +90,7 @@ const FlexibleWorkspace: React.FC = () => {
                     </div>
                     <div className="shape-5">
                         <Image
-                            src="https://cdn.chorn.in.th/obsolete/main-slider/slider-shape-5.png"
+                            src="https://cdn.chorn.in.th/public/main-slider/slider-shape-5.png"
                             alt="image"
                             width={438}
                             height={399}
