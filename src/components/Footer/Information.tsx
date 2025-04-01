@@ -25,7 +25,7 @@ export const Information: React.FC = () => {
 
                 {/* <div className={'footer-line-information'}>
                     <a href={Info.Contact.chorn.link} target={'_blank'}>
-                        <Image
+                        <ImageUrl
                             src={Info.Contact.chorn.iconImageLink}
                             alt="เพิ่มเพื่อน"
                             width={120}

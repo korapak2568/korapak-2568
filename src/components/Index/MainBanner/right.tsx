@@ -1,8 +1,9 @@
 import Image from "next/image";
 import React from "react";
-import {Info} from "@/data/info/Info";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export default function Right() {
+
     return (
         <div className="col-lg-6">
             <div
@@ -13,7 +14,7 @@ export default function Right() {
                 data-aos-once="true"
             >
                 <Image
-                    src={Info.Images.home.mainBanner.path}
+                    src={ImageUrl.home.mainBanner.path}
                     alt="image"
                     width={650}
                     height={500}

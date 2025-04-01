@@ -6,6 +6,7 @@ import ServiceFaqNextJS from "./ServiceFaqNextJS";
 import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const ServicesDetailsNextJS: React.FC = () => {
     const locale = useLocale()
@@ -26,7 +27,7 @@ const ServicesDetailsNextJS: React.FC = () => {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={InfoTranslation[locale.value].Images.serviceDetails.nextjs.path}
+                                            src={ImageUrl.serviceDetails.nextjs.path}
                                             alt="image"
                                             width={500}
                                             height={500}

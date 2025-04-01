@@ -1,13 +1,15 @@
 "use client";
 
 import React from "react";
-import Link from "next/link";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Pagination, Autoplay} from "swiper/modules";
 import Image from "next/image";
-import {Info} from "@/data/info/Info";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const ImpressivePortfolio: React.FC = () => {
+    const locale = useLocale()
+
     return (
         <>
             <div className="portfolio-area pb-100">
@@ -40,7 +42,7 @@ const ImpressivePortfolio: React.FC = () => {
                         modules={[Pagination, Autoplay]}
                         className="portfolio-slider"
                     >
-                        {Info.Gallery.globalSlides.map((item, index) => (
+                        {InfoTranslation[locale.value].Gallery.globalSlides.map((item, index) => (
                             <SwiperSlide key={index}>
                                 <div className="single-portfolio-item">
                                     <div className="portfolio-image">

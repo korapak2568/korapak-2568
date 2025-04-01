@@ -1,7 +1,6 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Image} from "@/data/image/Image";
 import {Translates} from "@/data/translate/Translates";
 import {AboutDE} from "@/data/about/AboutDE";
 import {GalleryDE} from "@/data/gallery/GalleryDE";
@@ -48,8 +47,6 @@ export const InfoDE: IInfo = {
 
     Contact: Contact2025,
     Consent: ConsentDE,
-
-    Images: Image,
 
     Gallery: GalleryDE,
     Translates,

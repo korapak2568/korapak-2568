@@ -1,13 +1,13 @@
 import Image from "next/image";
 import React from "react";
-import {Info} from "@/data/info/Info";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export default function Right() {
     return (
         <div className="col-lg-6">
             <div className="main-banner-image main-banner-image-custom">
                 <Image
-                    src={Info.Images.banner.banner1.path}
+                    src={ImageUrl.banner.banner1.path}
                     className={'image-opacity'}
                     alt="image"
                     width={1200}

@@ -2,7 +2,6 @@ import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
 import {AboutEN} from "@/data/about/AboutEN";
-import {Image} from "@/data/image/Image";
 import {Translates} from "@/data/translate/Translates";
 import {GalleryEN} from "@/data/gallery/GalleryEN";
 import {FullStackEN} from "@/data/fullstack/FullStackEN";
@@ -48,8 +47,6 @@ export const InfoEN: IInfo = {
 
     Contact: Contact2025,
     Consent: ConsentEN,
-
-    Images: Image,
 
     Gallery: GalleryEN,
     Translates,

@@ -35,11 +35,11 @@ export const OpenGraph: IOpenGraph = {
     },
     about: {
         url: "https://chorn.in.th/chorn-images/about/about-og-image.jpg" + ImageVersion,
-        alt: "About CHORN Banner Image"
+        alt: "About CHORN Banner ImageUrl"
     },
     contact: {
         url: "https://chorn.in.th/chorn-images/contact/contact-og-image.jpg" + ImageVersion,
-        alt: "Contact CHORN Banner Image"
+        alt: "Contact CHORN Banner ImageUrl"
     },
 
     cloudSolutions: {

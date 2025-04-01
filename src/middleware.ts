@@ -13,7 +13,6 @@ export function middleware(request: NextRequest) {
     if (
         pathname.startsWith('/_next') ||            // Next.js internal assets
         pathname.startsWith('/api') ||            // Custom static images
-        pathname.startsWith('/brand') ||            // Custom static images
         pathname.startsWith('/chorn-images') ||     // Custom static images
         pathname.startsWith('/contracts') ||        // Custom static images
         pathname.startsWith('/fonts') ||            // Custom static images

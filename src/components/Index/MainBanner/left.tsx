@@ -1,8 +1,10 @@
 import Link from "next/link";
 import React from "react";
-import {Info} from "@/data/info/Info";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export default function Left() {
+    const locale = useLocale()
 
     return (
         <div className="col-lg-6">
@@ -14,7 +16,7 @@ export default function Left() {
                     data-aos-once="true"
                     className="mobile-optimized-heading"
                 >
-                    {Info.Service.title}
+                    {InfoTranslation[locale.value].Service.title}
                 </h1>
 
                 <p
@@ -23,7 +25,7 @@ export default function Left() {
                     data-aos-delay="200"
                     data-aos-once="true"
                 >
-                    {Info.Service.description}
+                    {InfoTranslation[locale.value].Service.description}
                 </p>
 
                 <div className="option-item addition-pt-20">

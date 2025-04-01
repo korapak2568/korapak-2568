@@ -6,6 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const ConsentModal = () => {
         const locale = useLocale();
@@ -55,8 +56,8 @@ const ConsentModal = () => {
                                     <div className="add-cookie-left">
                                         <Image
                                             className="logo"
-                                            src={InfoTranslation[locale.value].Images.logo.sm.path}
-                                            alt={InfoTranslation[locale.value].Images.logo.sm.title}
+                                            src={ImageUrl.logo.sm.path}
+                                            alt={ImageUrl.logo.sm.title}
                                             width={50}
                                             height={50}
                                         />

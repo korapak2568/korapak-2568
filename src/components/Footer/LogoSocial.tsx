@@ -6,6 +6,7 @@ import Image from "next/image";
 import {IFooterDetail} from "@/data/footer/model/IFooterDetail";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const LogoSocial: React.FC = () => {
     const locale = useLocale()
@@ -16,8 +17,8 @@ export const LogoSocial: React.FC = () => {
                 <div className="logo logo-bg-custom">
                     <Link href={'/' + locale.value}>
                         <Image
-                            src={InfoTranslation[locale.value].Images.logo.md.path}
-                            alt={InfoTranslation[locale.value].Images.logo.md.title}
+                            src={ImageUrl.logo.md.path}
+                            alt={ImageUrl.logo.md.title}
                             width={100}
                             height={100}
                         />

@@ -1,5 +1,5 @@
 import {IAiImage} from "@/data/ai/model/IAiImage";
-import {IImageDetail} from "@/data/image/model/IImageDetail";
+import {IImageUnit} from "@/data/image/model/IImageUnit";
 
 export interface IAiDetail {
     name: string;
@@ -8,11 +8,11 @@ export interface IAiDetail {
     pages: {
         home: {
             link: string;
-            image: IImageDetail,
+            image: IImageUnit,
         },
         landing: {
             link: string;
-            image: IImageDetail
+            image: IImageUnit
         };
     },
 

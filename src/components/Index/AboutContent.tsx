@@ -2,10 +2,12 @@
 
 import React, {useState} from "react";
 import Link from "next/link";
-import {Info} from "@/data/info/Info";
 import {IAboutContent} from "@/data/about/model/IAboutContent";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const AboutContent: React.FC = () => {
+    const locale = useLocale()
 
     return (
         <>
@@ -23,20 +25,20 @@ const AboutContent: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="about-content warp contrast-content">
                                 <span>
-                                  {Info.About.title}
+                                  {InfoTranslation[locale.value].About.title}
                                 </span>
 
                                 <h3>
-                                    {Info.About.span}
+                                    {InfoTranslation[locale.value].About.span}
                                 </h3>
 
                                 <div className="bar"></div>
 
                                 <p>
-                                    {Info.About.description[0].description}
+                                    {InfoTranslation[locale.value].About.description[0].description}
                                 </p>
 
-                                {Info.About.stacks.map((item: IAboutContent, index: any) => (
+                                {InfoTranslation[locale.value].About.stacks.map((item: IAboutContent, index: any) => (
                                     <div key={index} className="about-inner-content">
                                         <div className="icon">
                                             <i className="flaticon-check"></i>

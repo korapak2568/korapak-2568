@@ -1,17 +1,20 @@
 import React from "react";
-import {Info} from "@/data/info/Info";
 import Image from "next/image";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 export const ContactSidebar: React.FC = () => {
+    const locale = useLocale()
+
     return (
 
         <div className="services-contact-info">
             <h3>Contact</h3>
 
             <div>
-                <a href={Info.Contact.chorn.link} target={'_blank'}>
+                <a href={InfoTranslation[locale.value].Contact.chorn.link} target={'_blank'}>
                     <Image
-                        src={Info.Contact.chorn.iconImageLink}
+                        src={InfoTranslation[locale.value].Contact.chorn.iconImageLink}
                         alt="เพิ่มเพื่อน"
                         width={120}
                         height={36}

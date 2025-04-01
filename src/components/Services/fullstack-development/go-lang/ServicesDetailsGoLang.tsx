@@ -6,6 +6,7 @@ import Image from "next/image";
 import ServiceSidebarFullStack from "@/components/Services/ServiceSidebarFullStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const ServicesDetailsGoLang: React.FC = () => {
     const locale = useLocale()
@@ -26,7 +27,7 @@ const ServicesDetailsGoLang: React.FC = () => {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={InfoTranslation[locale.value].Images.serviceDetails.go.path}
+                                            src={ImageUrl.serviceDetails.go.path}
                                             alt="image"
                                             width={500}
                                             height={500}

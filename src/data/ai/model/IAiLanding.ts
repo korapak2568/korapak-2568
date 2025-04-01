@@ -2,7 +2,7 @@ import {ILandingFeature} from "@/data/ai/model/ILandingFeature";
 import {ILandingSidebarItem} from "@/data/ai/model/ILandingSidebarItem";
 import {ILandingImage} from "@/data/ai/model/ILandingImage";
 import {IAiDetail} from "@/data/ai/model/IAiDetail";
-import {IImageDetail} from "@/data/image/model/IImageDetail";
+import {IImageUnit} from "@/data/image/model/IImageUnit";
 
 export interface IAiLanding {
     name: string;
@@ -11,7 +11,7 @@ export interface IAiLanding {
     pages: {
         landing: {
             link: string;
-            image: IImageDetail
+            image: IImageUnit
         };
     },
     title: string,

@@ -12,6 +12,7 @@ import {useDispatch} from "react-redux";
 import {setTranslate} from "@/redux/serviceSlice";
 import {useRouter} from "next/navigation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const Navbar: React.FC = () => {
     const router = useRouter();
@@ -69,8 +70,8 @@ const Navbar: React.FC = () => {
                         <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/" className="navbar-brand add-navbar-logo">
                                 <Image
-                                    src={InfoTranslation[locale.value].Images.logo.rec.sm.path}
-                                    alt={InfoTranslation[locale.value].Images.logo.rec.sm.title}
+                                    src={ImageUrl.logo.rec.sm.path}
+                                    alt={ImageUrl.logo.rec.sm.title}
                                     width={150}
                                     height={75}
                                 />

@@ -4,9 +4,11 @@ import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
 import {IRecommendDetail} from "@/data/recommend/model/IRecommendDetail";
-import {Info} from "@/data/info/Info";
+import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const Recommendations: React.FC = () => {
+    const locale = useLocale()
 
     return (
         <>
@@ -15,8 +17,8 @@ const Recommendations: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-6 offset-lg-6">
                             <div className="testimonial-content">
-                                <span>{Info.Recommend.span}</span>
-                                <h2>{Info.Recommend.title}</h2>
+                                <span>{InfoTranslation[locale.value].Recommend.span}</span>
+                                <h2>{InfoTranslation[locale.value].Recommend.title}</h2>
                                 <div className="bar"></div>
                             </div>
                         </div>
@@ -34,7 +36,7 @@ const Recommendations: React.FC = () => {
                         modules={[Autoplay, Navigation]}
                         className="testimonial-slider"
                     >
-                        {Info.Recommend.list.map((item: IRecommendDetail, index: number) => (
+                        {InfoTranslation[locale.value].Recommend.list.map((item: IRecommendDetail, index: number) => (
                             <SwiperSlide key={index}>
                                 <div className="testimonial-item">
                                     <div className="row">

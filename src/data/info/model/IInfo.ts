@@ -2,7 +2,6 @@ import {IRecommend} from "@/data/recommend/model/IRecommend";
 import {IFooter} from "@/data/footer/model/IFooter";
 import {IBusiness} from "@/data/business/model/IBusiness";
 import {IConsent} from "@/data/consent/model/IConsent";
-import {IImage} from "@/data/image/model/IImage";
 import {IContact} from "@/data/contact/model/IContact";
 import {IPolicy} from "@/data/policy/model/IPolicy";
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
@@ -46,7 +45,6 @@ export interface IInfo {
 
     Contact: IContact,
     Consent: IConsent,
-    Images: IImage,
 
     Gallery: IGallery,
     Translates: ITranslate[],

@@ -6,6 +6,7 @@ import Image from "next/image";
 import ServiceSidebarDevOpsTesting from "@/components/Services/ServiceSidebarDevOpsTesting";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const ServicesDetailsPostman: React.FC = () => {
     const locale = useLocale()
@@ -26,7 +27,7 @@ const ServicesDetailsPostman: React.FC = () => {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={InfoTranslation[locale.value].Images.devopsTesting.postman.path}
+                                            src={ImageUrl.devopsTesting.postman.path}
                                             alt="image"
                                             width={500}
                                             height={500}

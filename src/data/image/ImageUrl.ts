@@ -1,6 +1,10 @@
-import {IImage} from "@/data/image/model/IImage";
+import {IImageUrl} from "@/data/image/model/IImageUrl";
 
-export const Image: IImage = {
+export const ImageUrl: IImageUrl = {
+    NotFound404: {
+        title: "Not Found 404",
+        path: "/chorn-images/404-error.webp"
+    },
     whatsapp: {
         md: {
             title: "whatsapp-md",
@@ -55,7 +59,7 @@ export const Image: IImage = {
     },
     banner: {
         banner1: {
-            title: "CHORN Banner Image",
+            title: "CHORN Banner ImageUrl",
             path: "/chorn-images/banner/chorn-banner-1.webp"
         }
     },
