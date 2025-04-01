@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const KubeVI: IDevOpsStack = {
     title: "Kubernetes",
     description: "Tự động hóa điều phối container của bạn với Kubernetes để có các ứng dụng có khả năng mở rộng và linh hoạt.",
-    "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
+    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Kubernetes.webp",
     "alt": "Logo đại diện cho kinh nghiệm công nghệ Kubernetes",
     "readMore": "Khám phá các giải pháp kiểm thử DevOps Kubernetes",
     "link": "/technical-expertise/cloud-devops/kubernetes",

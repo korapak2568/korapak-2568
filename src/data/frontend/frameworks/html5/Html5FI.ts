@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const Html5FI: IFrontEndStack = {
     title: "HTML5",
     description: "Hallitse uusimmat verkkokehityksen standardit ja luo rikasta, vuorovaikutteista sisältöä.",
-    image: "/chorn-images/technical-expertise/front-end-developer/html5-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/html5-developer.webp",
     alt: "Logo, joka edustaa HTML5-teknologiaa",
     readMore: "Tutustu lisää HTML5 front-end-kehitysratkaisuihin",
     link: "/technical-expertise/front-end-developer/html5-developer",

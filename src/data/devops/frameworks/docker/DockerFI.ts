@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const DockerFI: IDevOpsStack = {
     title: "Docker",
     description: "Tehosta sovellusten käyttöönottoa konttiteknologialla varmistaaksesi johdonmukaiset ja tehokkaat ympäristöt.",
-    image: "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Docker.webp",
     alt: "Logo, joka edustaa Docker-teknologiaosaamista",
     readMore: "Tutustu Dockeriin tehokasta DevOps-testausta varten",
     link: "/technical-expertise/cloud-devops/docker",

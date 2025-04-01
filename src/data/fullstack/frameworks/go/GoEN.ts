@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const GoEN: IFullStackStack = {
     title: "GO",
     description: "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, efficiency, and strong concurrency support, making it an ideal choice for developing microservices.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/go-developer.webp",
     alt: "Logo representing Go programming language",
     readMore: "Explore more Go full-stack development solutions",
     link: "/technical-expertise/full-stack-developer/go-developer",

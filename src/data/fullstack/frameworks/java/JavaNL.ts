@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const JavaNL: IFullStackStack = {
     title: "Java, Spring Boot",
     description: "Java is een veelzijdige, hoogwaardige programmeertaal die bekend staat om zijn draagbaarheid, robuustheid en prestaties. Spring Boot is een framework dat de ontwikkeling van productierijpe applicaties vereenvoudigt. Kotlin, een moderne programmeertaal, werkt samen met Java en verbetert productiviteit en veiligheid.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
     alt: "Logo dat Java met Spring Boot-framework vertegenwoordigt",
     readMore: "Ontdek meer Java Spring Boot full-stack ontwikkelingsoplossingen",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",

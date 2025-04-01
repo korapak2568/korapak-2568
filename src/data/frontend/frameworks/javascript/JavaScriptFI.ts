@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const JavaScriptFI: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript on monipuolinen ja dynaaminen ohjelmointikieli, jota käytetään laajasti interaktiivisten ja responsiivisten verkkosovellusten rakentamiseen. Sen joustavuus ja laaja ekosysteemi tekevät siitä olennaisen työkalun modernissa verkkokehityksessä.",
-    image: "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/javascript-developer.webp",
     alt: "JavaScript-ohjelmointikieltä edustava logo",
     readMore: "Tutustu lisää JavaScript full-stack-kehitysratkaisuihin",
     link: "/technical-expertise/front-end-developer/javascript-developer",

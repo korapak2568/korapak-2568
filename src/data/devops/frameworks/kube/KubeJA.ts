@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const KubeJA: IDevOpsStack = {
     title: "Kubernetes",
     description: "スケーラブルでレジリエントなアプリケーションのためにKubernetesでコンテナオーケストレーションを自動化します。",
-    "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
+    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Kubernetes.webp",
     "alt": "Kubernetesテクノロジー経験を表すロゴ",
     "readMore": "Kubernetes DevOpsテストソリューションを発見する",
     "link": "/technical-expertise/cloud-devops/kubernetes",

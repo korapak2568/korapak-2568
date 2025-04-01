@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const KubeDA: IDevOpsStack = {
     title: "Kubernetes",
     description: "Automatiser din containerorkestrering med Kubernetes for skalerbare og robuste applikationer.",
-    "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
+    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Kubernetes.webp",
     "alt": "Logo der repræsenterer Kubernetes teknologierfaring",
     "readMore": "Udforsk Kubernetes DevOps testløsninger",
     "link": "/technical-expertise/cloud-devops/kubernetes",

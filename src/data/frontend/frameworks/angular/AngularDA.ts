@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const AngularDA: IFrontEndStack = {
     title: "Angular",
     description: "Udvikl robuste, virksomhedsklare webapplikationer med Angulars omfattende og alsidige framework.",
-    image: "/chorn-images/technical-expertise/front-end-developer/angular-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/angular-developer.webp",
     alt: "Logo der repræsenterer Angular-frameworket",
     readMore: "Udforsk flere Angular frontend-udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/angular-developer",

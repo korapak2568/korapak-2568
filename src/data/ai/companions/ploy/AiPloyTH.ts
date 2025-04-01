@@ -7,20 +7,20 @@ import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
 export const AiPloyTH: IAiLanding = {
     name: 'พลอย',
     category: 'เพื่อนนักเรียนบน LINE',
-    thumbnail: '/images-ai/ai-companions/ai-ploy-thumbnail.webp',
+    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-ploy-thumbnail.webp',
 
     pages: {
         landing: {
             link: '/ai-companions/ploy',
             image: {
                 title: 'พลอย เพื่อนคุยเอไอ',
-                path: '/images-ai/ai-ploy-details.png',
+                path: 'https://cdn.chorn.in.th/public/ai/ai-ploy-details.png',
             }
         }
     },
     title: "พลอย, เอไอคุยเก่ง",
     image: {
-        src: "/images-ai/ai-ploy-details.png",
+        src: "https://cdn.chorn.in.th/public/ai/ai-ploy-details.png",
         alt: "พลอย - เพื่อนคุยเอไอของไทย"
     },
     features: [

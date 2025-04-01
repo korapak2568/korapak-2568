@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const GoZH: IFullStackStack = {
     title: "GO",
     description: "Go，也称为Golang，是由谷歌设计的静态类型、编译型编程语言。它以简洁、高效和强大的并发支持而闻名，使其成为开发微服务的理想选择。",
-    image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/go-developer.webp",
     alt: "代表Go编程语言的标志",
     readMore: "探索更多Go全栈开发解决方案",
     link: "/technical-expertise/full-stack-developer/go-developer",

@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const GoFI: IFullStackStack = {
     title: "GO",
     description: "Go, eli Golang, on Googlen suunnittelema staattisesti tyypitetty, käännettävä ohjelmointikieli. Se tunnetaan yksinkertaisuudestaan, tehokkuudestaan ja vahvasta rinnakkaisuuden tuestaan, mikä tekee siitä erinomaisen valinnan mikropalvelujen kehittämiseen.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/go-developer.webp",
     alt: "Logo representing Go programming language",
     readMore: "Tutustu lisää Go full-stack kehitysrRatkaisuihin",
     link: "/technical-expertise/full-stack-developer/go-developer",

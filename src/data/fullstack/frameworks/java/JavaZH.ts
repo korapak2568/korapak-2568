@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const JavaZH: IFullStackStack = {
     title: "Java, Spring Boot",
     description: "Java是一种多功能的高级编程语言，以其可移植性、健壮性和性能而闻名。Spring Boot是一个简化生产就绪应用程序开发的框架。Kotlin是一种现代编程语言，可与Java互操作，提高生产力和安全性。",
-    image: "/chorn-images/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
     alt: "代表Java与Spring Boot框架的标志",
     readMore: "探索更多Java Spring Boot全栈开发解决方案",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",

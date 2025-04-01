@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const PythonFR: IFullStackStack = {
     title: "Python",
     description: "Python est un langage de programmation de haut niveau et interprété, connu pour sa simplicité, sa lisibilité et sa polyvalence. Il est largement utilisé dans divers domaines, du développement web et de l'analyse de données à l'intelligence artificielle et au calcul scientifique.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/python-developer.webp",
     alt: "Logo représentant Python avec le framework Flask",
     readMore: "Explorez davantage de solutions de développement full-stack Python, Flask, Django",
     link: "/technical-expertise/full-stack-developer/python-developer",

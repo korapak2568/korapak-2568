@@ -7,20 +7,20 @@ import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
 export const AiPloyNL: IAiLanding = {
     name: 'Ploy',
     category: 'LINE-Vriend voor Studenten',
-    thumbnail: '/images-ai/ai-companions/ai-ploy-thumbnail.webp',
+    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-ploy-thumbnail.webp',
 
     pages: {
         landing: {
             link: '/ai-companions/ploy',
             image: {
                 title: 'พลอย เพื่อนคุยเอไอ',
-                path: '/images-ai/ai-ploy-details.png',
+                path: 'https://cdn.chorn.in.th/public/ai/ai-ploy-details.png',
             }
         }
     },
     title: "Ploy, AI LINE Chat",
     image: {
-        src: "/images-ai/ai-ploy-details.png",
+        src: "https://cdn.chorn.in.th/public/ai/ai-ploy-details.png",
         alt: "Ploy - Thaise AI-chatmaatje"
     },
     features: [

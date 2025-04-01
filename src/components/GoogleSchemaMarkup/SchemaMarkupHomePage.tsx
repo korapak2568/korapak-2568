@@ -6,7 +6,7 @@ export const SchemaMarkupHomePage: React.FC = () => {
         "@type": "Organization",
         "name": "CHORN",
         "url": "https://chorn.in.th",
-        "logo": "https://chorn.in.th/chorn-images/logo/chorn-logo-circle-md.webp",
+        "logo": "cdn.chorn.in.th/public/logo/chorn-logo-circle-md.webp",
         "sameAs": [
             "https://www.facebook.com/chorn",
             "https://twitter.com/chorn",

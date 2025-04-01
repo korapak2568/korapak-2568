@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const VueFI: IFrontEndStack = {
     title: "Vue",
     description: "Luo moderneja, reaktiivisia verkkokäyttöliittymiä nopeasti Vue:n intuitiivisella ja joustavalla suunnittelulla.",
-    image: "/chorn-images/technical-expertise/front-end-developer/vue-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/vue-developer.webp",
     alt: "Vue.js-kehystä edustava logo",
     readMore: "Tutustu lisää VueJS front-end-kehitysratkaisuihin",
     link: "/technical-expertise/front-end-developer/vue-developer",

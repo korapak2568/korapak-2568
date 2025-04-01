@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const KubeTH: IDevOpsStack = {
     title: "Kubernetes",
     description: "ระบบออโตเมชันการจัดการคอนเทนเนอร์ด้วย Kubernetes เพื่อแอปพลิเคชันที่ขยายขนาดได้และมีความยืดหยุ่น",
-    "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
+    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Kubernetes.webp",
     "alt": "โลโก้แสดงประสบการณ์เทคโนโลยี Kubernetes",
     "readMore": "ค้นพบโซลูชันการทดสอบ DevOps ของ Kubernetes",
     "link": "/technical-expertise/cloud-devops/kubernetes",

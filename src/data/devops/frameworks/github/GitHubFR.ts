@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const GitHubFR: IDevOpsStack = {
     title: "GitHub",
     description: "Améliorez votre flux de travail de développement avec la plateforme de contrôle de version et de collaboration de GitHub.",
-    "image": "/chorn-images/technical-expertise/cloud-devops/GitHub.webp",
+    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/GitHub.webp",
     "alt": "Logo représentant l'expérience de la technologie GitHub",
     "readMore": "Découvrez comment GitHub optimise les tests DevOps",
     "link": "/technical-expertise/cloud-devops/github",

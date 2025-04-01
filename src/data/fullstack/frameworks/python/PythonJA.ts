@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const PythonJA: IFullStackStack = {
     title: "Python",
     description: "Pythonは、シンプルさ、読みやすさ、汎用性で知られる高水準インタープリタ型プログラミング言語です。ウェブ開発やデータ分析から人工知能や科学計算まで、様々な分野で広く使用されています。",
-    image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/python-developer.webp",
     alt: "Flaskフレームワークを表すPythonのロゴ",
     readMore: "Python、Flask、Djangoフルスタック開発ソリューションをさらに探索する",
     link: "/technical-expertise/full-stack-developer/python-developer",

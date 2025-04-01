@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const NodejsFR: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js est un environnement d'exécution JavaScript puissant, open-source et multiplateforme qui permet aux développeurs de créer efficacement des applications réseau évolutives. Avec un modèle d'E/S non bloquant et piloté par événements, Node.js est idéal pour construire des applications rapides et légères, des systèmes de communication en temps réel et des tâches intensives en données, ce qui en fait un choix populaire pour le développement logiciel moderne, y compris les intégrations d'IA.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
     alt: "Logo représentant la technologie NodeJS",
     readMore: "Explorez davantage de solutions de développement full-stack NodeJS",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

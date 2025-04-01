@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const NextjsKO: IFrontEndStack = {
     title: "NextJS",
     description: "서버 사이드 렌더링(SSR)과 정적 사이트 생성(SSG)을 통해 React 애플리케이션의 성능을 극대화하세요.",
-    image: "/chorn-images/technical-expertise/front-end-developer/nextjs-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/nextjs-developer.webp",
     alt: "Next.js 프레임워크를 나타내는 로고",
     readMore: "NextJS 프론트엔드 개발 솔루션 더 알아보기",
     link: "/technical-expertise/front-end-developer/nextjs-developer",

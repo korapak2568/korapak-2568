@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const NodejsKO: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js는 개발자가 확장 가능한 네트워크 애플리케이션을 효율적으로 구축할 수 있도록 하는 강력하고 오픈 소스인 크로스 플랫폼 JavaScript 런타임 환경입니다. 이벤트 기반의 논블로킹 I/O 모델을 통해 Node.js는 빠르고 가벼운 애플리케이션, 실시간 통신 시스템 및 데이터 집약적인 작업을 구축하는 데 이상적입니다. 이는 AI 통합을 포함한 현대 소프트웨어 개발에서 인기 있는 선택입니다.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
     alt: "Logo representing NodeJS technology",
     readMore: "NodeJS 풀스택 개발 솔루션 더 알아보기",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

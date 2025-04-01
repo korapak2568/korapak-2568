@@ -16,6 +16,16 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/images-ai/:path*',
+                destination: 'https://cdn.chorn.in.th/public/ai/:path*',
+                permanent: true,
+            },
+            {
+                source: '/chorn-images/:path*',
+                destination: 'https://cdn.chorn.in.th/public/:path*',
+                permanent: true,
+            },
+            {
                 source: '/:locale/technical-expertise/full-stack-developer/javascript-javascript-developer/',
                 destination: '/:locale/technical-expertise/front-end-developer/javascript-developer/',
                 permanent: true,

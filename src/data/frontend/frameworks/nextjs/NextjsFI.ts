@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const NextjsFI: IFrontEndStack = {
     title: "NextJS",
     description: "Tehosta React-sovelluksiasi saumattomalla palvelinpuolen renderöinnillä ja staattisella sivugeneroinnilla optimaalisen suorituskyvyn saavuttamiseksi.",
-    image: "/chorn-images/technical-expertise/front-end-developer/nextjs-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/nextjs-developer.webp",
     alt: "Next.js-kehystä edustava logo",
     readMore: "Tutustu lisää NextJS front-end-kehitysratkaisuihin",
     link: "/technical-expertise/front-end-developer/nextjs-developer",

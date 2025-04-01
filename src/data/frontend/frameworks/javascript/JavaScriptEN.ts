@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const JavaScriptEN: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript is a versatile and dynamic programming language widely used for building interactive and responsive web applications. Its flexibility and extensive ecosystem make it an essential tool for modern web development.",
-    image: "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/javascript-developer.webp",
     alt: "Logo representing JavaScript programming language",
     readMore: "Explore more JavaScript full-stack development solutions",
     link: "/technical-expertise/front-end-developer/javascript-developer",

@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const DockerFR: IDevOpsStack = {
     title: "Docker",
     description: "Simplifiez le déploiement de vos applications grâce à la conteneurisation pour des environnements cohérents et efficaces.",
-    "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
+    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Docker.webp",
     "alt": "Logo représentant l'expérience en technologie Docker",
     "readMore": "Explorez Docker pour des tests DevOps efficaces",
     "link": "/technical-expertise/cloud-devops/docker",

@@ -7,20 +7,20 @@ import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
 export const AiAomFR: IAiLanding = {
     name: 'Aom',
     category: 'Amie Santé sur LINE',
-    thumbnail: '/images-ai/ai-companions/ai-aom-thumbnail.webp',
+    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-aom-thumbnail.webp',
 
     pages: {
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: 'Aom, Compagne IA',
-                path: '/images-ai/ai-aom-details.png',
+                path: 'https://cdn.chorn.in.th/public/ai/ai-aom-details.png',
             }
         }
     },
     title: "Aom, Discussion IA",
     image: {
-        src: "/images-ai/ai-aom-details.png",
+        src: "https://cdn.chorn.in.th/public/ai/ai-aom-details.png",
         alt: "Aom - Compagne de Discussion IA Thaïlandaise"
     },
     features: [

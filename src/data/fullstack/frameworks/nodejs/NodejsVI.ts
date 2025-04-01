@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const NodejsVI: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js là một môi trường thực thi JavaScript mạnh mẽ, mã nguồn mở, đa nền tảng cho phép các nhà phát triển xây dựng hiệu quả các ứng dụng mạng có khả năng mở rộng. Với mô hình I/O không chặn, hướng sự kiện, Node.js lý tưởng để xây dựng các ứng dụng nhanh, nhẹ, hệ thống giao tiếp thời gian thực và các tác vụ dữ liệu lớn, khiến nó trở thành lựa chọn phổ biến cho phát triển phần mềm hiện đại, bao gồm cả tích hợp AI.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
     alt: "Logo đại diện cho công nghệ NodeJS",
     readMore: "Khám phá thêm các giải pháp phát triển full-stack NodeJS",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

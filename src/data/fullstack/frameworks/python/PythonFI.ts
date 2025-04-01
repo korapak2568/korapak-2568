@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const PythonFI: IFullStackStack = {
     title: "Python",
     description: "Python on korkean tason, tulkattu ohjelmointikieli, joka tunnetaan yksinkertaisuudestaan, luettavuudestaan ja monipuolisuudestaan. Sitä käytetään laajalti eri alueilla, kuten verkkokehityksessä, data-analyysissä, tekoälyssä ja tieteellisessä laskennassa.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/python-developer.webp",
     alt: "Logo representing Python with Flask framework",
     readMore: "Tutustu lisää Python, Flask, Django full-stack kehitysrRatkaisuihin",
     link: "/technical-expertise/full-stack-developer/python-developer",

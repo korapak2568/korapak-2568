@@ -8,7 +8,7 @@ export const FullStackDA: IFullStack = {
     dotnetcore: {
         title: ".NET Core C#",
         description: ".NET Core C# er et alsidigt, open-source, platformuafhængigt framework udviklet af Microsoft. Det gør det muligt for udviklere at bygge moderne, højtydende og skalerbare applikationer på forskellige platforme, herunder Windows, macOS og Linux. Med støtte til at bygge webapplikationer, API'er og mikrotjenester tilbyder .NET Core C# et robust miljø for løsninger på virksomhedsniveau.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
         alt: "Logo, der repræsenterer .NET Core API-udvikling",
         readMore: "Udforsk flere .NET Core API full-stack udviklingsløsninger",
         link: "/technical-expertise/full-stack-developer/dotnetcore-developer",
@@ -68,7 +68,7 @@ export const FullStackDA: IFullStack = {
     go: {
         title: "GO",
         description: "Go, også kendt som Golang, er et statisk typet, kompileret programmeringssprog designet af Google. Det er kendt for sin enkelhed, effektivitet og stærke støtte til samtidighed, hvilket gør det til et ideelt valg til udvikling af mikroservices.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/go-developer.webp",
         alt: "Logo, der repræsenterer Go-programmeringssproget",
         readMore: "Udforsk flere full-stack udviklingsløsninger med Go",
         link: "/technical-expertise/full-stack-developer/go-developer",
@@ -120,7 +120,7 @@ export const FullStackDA: IFullStack = {
     java: {
         title: "Java, Spring Boot",
         description: "Java er et alsidigt, højniveau programmeringssprog kendt for sin portabilitet, robusthed og ydeevne. Spring Boot er et framework, der forenkler udviklingen af produktionsklare applikationer. Kotlin, et moderne programmeringssprog, samarbejder med Java og forbedrer produktivitet og sikkerhed.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
         alt: "Logo der repræsenterer Java med Spring Boot framework",
         readMore: "Udforsk flere Java Spring Boot full-stack udviklingsløsninger",
         link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
@@ -172,7 +172,7 @@ export const FullStackDA: IFullStack = {
     nodejs: {
         title: "NodeJS",
         description: "Node.js er et kraftfuldt, open-source, krydsplatform JavaScript-runtime-miljø, der giver udviklere mulighed for effektivt at bygge skalerbare netværksapplikationer. Med en event-drevet, ikke-blokerende I/O-model er Node.js ideel til at bygge hurtige, letvægtsapplikationer, realtidskommunikationssystemer og dataintensive opgaver, hvilket gør det til et populært valg til moderne softwareudvikling, herunder AI-integrationer.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
         alt: "Logo representing NodeJS technology",
         readMore: "Udforsk flere NodeJS full-stack udviklingsløsninger",
         link: "/technical-expertise/full-stack-developer/nodejs-developer",
@@ -261,7 +261,7 @@ export const FullStackDA: IFullStack = {
     php: {
         title: "PHP",
         description: "PHP er et populært server-side scriptsprog, der er udbredt til webudvikling. Frameworks som Symfony, Laravel, Phalcon og template-engines som Twig, sammen med platforme som WordPress og dets headless variant, har løftet PHP-udvikling ved at levere strukturerede, effektive og skalerbare løsninger til opbygning af komplekse webapplikationer.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/php-developer.webp",
         alt: "Logo der repræsenterer PHP-programmeringssproget",
         readMore: "Udforsk flere PHP full-stack udviklingsløsninger",
         link: "/technical-expertise/full-stack-developer/php-developer",
@@ -313,7 +313,7 @@ export const FullStackDA: IFullStack = {
     python: {
         title: "Python",
         description: "Python er et højniveau, fortolket programmeringssprog kendt for sin enkelhed, læsbarhed og alsidighed. Det bruges i vid udstrækning på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
-        image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/python-developer.webp",
         alt: "Logo der repræsenterer Python med Flask framework",
         readMore: "Udforsk flere Python, Flask, Django full-stack udviklingsløsninger",
         link: "/technical-expertise/full-stack-developer/python-developer",

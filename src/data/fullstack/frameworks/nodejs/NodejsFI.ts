@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const NodejsFI: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js on tehokas, avoimen lähdekoodin, monialustainen JavaScript-suoritusaikainen ympäristö, joka mahdollistaa kehittäjien rakentaa skaalautuvia verkkosovelluksia tehokkaasti. Tapahtumapohjaisen, estämättömän I/O-mallin avulla Node.js on ihanteellinen nopeiden, kevyiden sovellusten, reaaliaikaisen viestinnän järjestelmien ja tietointensiivisten tehtävien rakentamiseen, mikä tekee siitä suositun valinnan nykyaikaisessa ohjelmistokehityksessä, myös AI-integraatioissa.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
     alt: "Logo representing NodeJS technology",
     readMore: "Tutustu lisää NodeJS full-stack kehitysrRatkaisuihin",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

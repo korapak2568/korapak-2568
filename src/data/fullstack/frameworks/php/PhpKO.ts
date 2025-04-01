@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const PhpKO: IFullStackStack = {
     title: "PHP",
     description: "PHP는 웹 개발에 널리 사용되는 인기 있는 서버 측 스크립팅 언어입니다. Symfony, Laravel, Phalcon과 같은 프레임워크, Twig와 같은 템플릿 엔진 및 WordPress와 그 헤드리스 변형은 구조적이고 효율적이며 확장 가능한 복잡한 웹 애플리케이션 구축 솔루션을 제공함으로써 PHP 개발을 한 단계 끌어올렸습니다.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/php-developer.webp",
     alt: "Logo representing PHP programming language",
     readMore: "PHP 풀스택 개발 솔루션 더 알아보기",
     link: "/technical-expertise/full-stack-developer/php-developer",

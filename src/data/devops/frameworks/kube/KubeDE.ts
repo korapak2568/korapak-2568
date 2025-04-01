@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const KubeDE: IDevOpsStack = {
     title: "Kubernetes",
     description: "Automatisieren Sie Ihre Container-Orchestrierung mit Kubernetes für skalierbare und widerstandsfähige Anwendungen.",
-    "image": "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
+    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Kubernetes.webp",
     "alt": "Logo, das Kubernetes-Technologieerfahrung repräsentiert",
     "readMore": "Entdecken Sie Kubernetes DevOps-Testlösungen",
     "link": "/technical-expertise/cloud-devops/kubernetes",

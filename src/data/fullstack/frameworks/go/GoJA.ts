@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const GoJA: IFullStackStack = {
     title: "GO",
     description: "Go（Golangとしても知られる）は、Googleによって設計された静的型付けのコンパイル言語です。シンプルさ、効率性、そして強力な並行処理のサポートで知られており、マイクロサービスの開発に理想的な選択肢です。",
-    image: "/chorn-images/technical-expertise/full-stack-developer/go-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/go-developer.webp",
     alt: "Goプログラミング言語を表すロゴ",
     readMore: "さらに多くのGoフルスタック開発ソリューションを探索する",
     link: "/technical-expertise/full-stack-developer/go-developer",

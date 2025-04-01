@@ -1,11 +1,12 @@
 import React from "react";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export default function AboutLeft() {
     return (
         <div className="col-lg-4">
             <div
                 className="about-image-warp about-image-custom"
-                style={{backgroundImage: `url(/chorn-images/about/about-chorn.jpg)`}}
+                style={{backgroundImage: `url(${ImageUrl.about.path})`}}
             />
             <div className="single-footer-widget about-linkedin-widget">
                 <div className="social social-about">

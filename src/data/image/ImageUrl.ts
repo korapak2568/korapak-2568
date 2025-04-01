@@ -1,179 +1,189 @@
 import {IImageUrl} from "@/data/image/model/IImageUrl";
 
+export const CHORN_SPACE_PUBLIC = `https://cdn.chorn.in.th/public`
+
 export const ImageUrl: IImageUrl = {
+    feature: {
+        title: `feature image`,
+        path: `${CHORN_SPACE_PUBLIC}/features/features-2.webp`
+    },
+    about: {
+        title: `about image`,
+        path: `${CHORN_SPACE_PUBLIC}/about/about-chorn.jpg`
+    },
     NotFound404: {
-        title: "Not Found 404",
-        path: "/chorn-images/404-error.webp"
+        title: `Not Found 404`,
+        path: `${CHORN_SPACE_PUBLIC}/404-error.webp`
     },
     whatsapp: {
         md: {
-            title: "whatsapp-md",
-            path: "/chorn-images/logo-2025/whatsapp.png"
+            title: `whatsapp-md`,
+            path: `${CHORN_SPACE_PUBLIC}/logo-2025/whatsapp.png`
         }
     },
     profile: {
         md: {
-            title: "chorn-profile-md",
-            path: "/chorn-images/contact/chorn-profile-md.png"
+            title: `chorn-profile-md`,
+            path: `${CHORN_SPACE_PUBLIC}/contact/chorn-profile-md.png`
         }
     },
     logo: {
         lg: {
-            title: "CHORN",
-            path: "/chorn-images/logo-2025/chorn-logo-2025-circle-lg.png"
+            title: `CHORN`,
+            path: `${CHORN_SPACE_PUBLIC}/logo-2025/chorn-logo-2025-circle-lg.png`
         },
         md: {
-            title: "CHORN",
-            path: "/chorn-images/logo-2025/chorn-logo-2025-circle-md.png"
+            title: `CHORN`,
+            path: `${CHORN_SPACE_PUBLIC}/logo-2025/chorn-logo-2025-circle-md.png`
         },
         sm: {
-            title: "CHORN",
-            path: "/chorn-images/logo-2025/chorn-logo-2025-circle-sm.png"
+            title: `CHORN`,
+            path: `${CHORN_SPACE_PUBLIC}/logo-2025/chorn-logo-2025-circle-sm.png`
         },
         business: {
-            title: "CHORN",
-            path: "/chorn-images/logo-2025/chorn-logo-2025-circle-md.png"
+            title: `CHORN`,
+            path: `${CHORN_SPACE_PUBLIC}/logo-2025/chorn-logo-2025-circle-md.png`
         },
         rec: {
             sm: {
-                title: "CHORN",
-                path: "/chorn-images/logo-2025/chorn-logo-2025-rec-sm.png"
+                title: `CHORN`,
+                path: `${CHORN_SPACE_PUBLIC}/logo-2025/chorn-logo-2025-rec-sm.png`
             },
             lg: {
-                title: "CHORN",
-                path: "/chorn-images/logo-2025/chorn-logo-2025-rec-lg.png"
+                title: `CHORN`,
+                path: `${CHORN_SPACE_PUBLIC}/logo-2025/chorn-logo-2025-rec-lg.png`
             },
         },
         line: {
             sm: {
-                title: "LINE OA",
-                path: "/chorn-images/line/com.linecorp.lineoa.icon_.png"
+                title: `LINE OA`,
+                path: `${CHORN_SPACE_PUBLIC}/line/com.linecorp.lineoa.icon_.png`
             },
         }
     },
     home: {
         mainBanner: {
-            title: "CHORN",
-            path: "/chorn-images/metadata/home.png"
+            title: `CHORN`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/home.png`
         }
     },
     banner: {
         banner1: {
-            title: "CHORN Banner ImageUrl",
-            path: "/chorn-images/banner/chorn-banner-1.webp"
+            title: `CHORN Banner ImageUrl`,
+            path: `${CHORN_SPACE_PUBLIC}/banner/chorn-banner-1.webp`
         }
     },
     pageBanner: {
         cover1: {
-            title: 'Cover-1',
-            path: '/chorn-images/page-banner/cover-1.webp',
+            title: `Cover-1`,
+            path: `${CHORN_SPACE_PUBLIC}/page-banner/cover-1.webp`,
         },
     },
     line: {
         qrcode: {
-            title: 'QR Code',
-            path: '/chorn-images/line/line-qr-code.jpg',
+            title: `QR Code`,
+            path: `${CHORN_SPACE_PUBLIC}/line/line-qr-code.jpg`,
         },
         icon: {
-            title: 'LINE',
-            path: '/chorn-images/line/line-icon.png',
-            link: "https://lin.ee/HzWJ2bJ",
+            title: `LINE`,
+            path: `${CHORN_SPACE_PUBLIC}/line/line-icon.png`,
+            link: `https://lin.ee/HzWJ2bJ`,
         }
     },
     serviceDetails: {
         nextjs: {
-            title: 'Next.js',
-            path: "/chorn-images/metadata/technical-expertise/frontend-development/nextjs-development-service.png",
+            title: `Next.js`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/frontend-development/nextjs-development-service.png`,
         },
         react: {
-            title: 'React',
-            path: "/chorn-images/metadata/technical-expertise/frontend-development/react-development-service.png",
+            title: `React`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/frontend-development/react-development-service.png`,
         },
         angular: {
-            title: 'Angular',
-            path: "/chorn-images/metadata/technical-expertise/frontend-development/angular-development-service.png",
+            title: `Angular`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/frontend-development/angular-development-service.png`,
         },
         vue: {
-            title: 'Vue',
-            path: "/chorn-images/metadata/technical-expertise/frontend-development/vue-development-service.png",
+            title: `Vue`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/frontend-development/vue-development-service.png`,
         },
         html5: {
-            title: 'HTML5',
-            path: "/chorn-images/metadata/technical-expertise/frontend-development/html5-development-service.png",
+            title: `HTML5`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/frontend-development/html5-development-service.png`,
         },
         css3: {
-            title: 'CSS3',
-            path: "/chorn-images/metadata/technical-expertise/frontend-development/css3-development-service.png",
+            title: `CSS3`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/frontend-development/css3-development-service.png`,
         },
         nodejs: {
-            title: 'Node.js',
-            path: "/chorn-images/metadata/technical-expertise/fullstack-development/nodejs-development-service.png",
+            title: `Node.js`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/fullstack-development/nodejs-development-service.png`,
         },
         typescript: {
-            title: 'TypeScript',
-            path: "/chorn-images/metadata/technical-expertise/frontend-development/typescript-development-service.png",
+            title: `TypeScript`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/frontend-development/typescript-development-service.png`,
         },
         javascript: {
-            title: 'TypeScript',
-            path: "/chorn-images/metadata/technical-expertise/frontend-development/javascript-development-service.png",
+            title: `TypeScript`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/frontend-development/javascript-development-service.png`,
         },
         dotnetcore: {
-            title: 'TypeScript',
-            path: "/chorn-images/metadata/technical-expertise/fullstack-development/dotnet-core-development-service.png",
+            title: `TypeScript`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/fullstack-development/dotnet-core-development-service.png`,
         },
         java: {
-            title: 'Java, Spring Boot, Kotlin',
-            path: "/chorn-images/metadata/technical-expertise/fullstack-development/java-spring-boot-development-service.png",
+            title: `Java, Spring Boot, Kotlin`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/fullstack-development/java-spring-boot-development-service.png`,
         },
         python: {
-            title: 'Python',
-            path: "/chorn-images/metadata/technical-expertise/fullstack-development/python-development-service.png",
+            title: `Python`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/fullstack-development/python-development-service.png`,
         },
         go: {
-            title: 'Go-lang',
-            path: "/chorn-images/metadata/technical-expertise/fullstack-development/go-development-service.png",
+            title: `Go-lang`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/fullstack-development/go-development-service.png`,
         },
         php: {
-            title: 'PHP',
-            path: "/chorn-images/metadata/technical-expertise/fullstack-development/php-development-service.png",
+            title: `PHP`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/fullstack-development/php-development-service.png`,
         },
     },
     devopsTesting: {
         docker: {
-            title: 'Docker',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/docker.png",
+            title: `Docker`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/docker.png`,
         },
         kubernetes: {
-            title: 'Kubernetes',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/kubernetes.png",
+            title: `Kubernetes`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/kubernetes.png`,
         },
         github: {
-            title: 'GitHub',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/github.png",
+            title: `GitHub`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/github.png`,
         },
         gitlab: {
-            title: 'GitLab',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/gitlab.png",
+            title: `GitLab`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/gitlab.png`,
         },
         jenkins: {
-            title: 'Jenkins',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/jenkins.png",
+            title: `Jenkins`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/jenkins.png`,
         },
         postman: {
-            title: 'Postman',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/postman.png",
+            title: `Postman`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/postman.png`,
         },
         selenium: {
-            title: 'Selenium',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/selenium.png",
+            title: `Selenium`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/selenium.png`,
         },
         soapui: {
-            title: 'SOAPUI',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/soapui.png",
+            title: `SOAPUI`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/soapui.png`,
         },
         appium: {
-            title: 'Appium',
-            path: "/chorn-images/metadata/technical-expertise/devops-testing/appium.png",
+            title: `Appium`,
+            path: `${CHORN_SPACE_PUBLIC}/metadata/technical-expertise/devops-testing/appium.png`,
         }
     }
 }

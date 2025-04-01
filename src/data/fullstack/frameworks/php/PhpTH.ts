@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const PhpTH: IFullStackStack = {
     title: "PHP",
     description: "PHP เป็นภาษาสคริปต์ฝั่งเซิร์ฟเวอร์ที่ได้รับความนิยมอย่างแพร่หลายสำหรับการพัฒนาเว็บ เฟรมเวิร์กอย่าง Symfony, Laravel, Phalcon และเครื่องมือสร้างเทมเพลตอย่าง Twig รวมถึงแพลตฟอร์มอย่าง WordPress และรูปแบบ headless ของมัน ได้ยกระดับการพัฒนา PHP โดยการให้โซลูชันที่มีโครงสร้าง มีประสิทธิภาพ และขยายขนาดได้สำหรับการสร้างแอปพลิเคชันเว็บที่ซับซ้อน",
-    image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/php-developer.webp",
     alt: "โลโก้แสดงถึงภาษาโปรแกรมมิ่ง PHP",
     readMore: "สำรวจโซลูชันการพัฒนาฟูลสแต็ก PHP เพิ่มเติม",
     link: "/technical-expertise/full-stack-developer/php-developer",

@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const DockerJA: IDevOpsStack = {
     title: "Docker",
     description: "一貫性のある効率的な環境のためにコンテナ化を使用して、アプリケーションのデプロイを効率化します。",
-    "image": "/chorn-images/technical-expertise/cloud-devops/Docker.webp",
+    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Docker.webp",
     "alt": "Docker技術体験を表すロゴ",
     "readMore": "効率的なDevOpsテスト用のDockerを探索する",
     "link": "/technical-expertise/cloud-devops/docker",

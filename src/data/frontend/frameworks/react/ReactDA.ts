@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const ReactDA: IFrontEndStack = {
     title: "React",
     description: "Byg dynamiske brugergrænseflader med høj ydeevne uden besvær med Reacts kraftfulde komponentbaserede arkitektur.",
-    image: "/chorn-images/technical-expertise/front-end-developer/react-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/react-developer.webp",
     alt: "Logo der repræsenterer React.js-biblioteket",
     readMore: "Udforsk flere ReactJS front-end udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/react-developer",

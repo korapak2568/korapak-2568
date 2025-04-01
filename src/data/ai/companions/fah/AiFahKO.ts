@@ -5,20 +5,20 @@ import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
 export const AiFahKO: IAiLanding = {
     name: 'Fah',
     category: '태국 LINE 친구',
-    thumbnail: '/images-ai/ai-companions/ai-fah-thumbnail.webp',
+    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-fah-thumbnail.webp',
 
     pages: {
         landing: {
             link: '/ai-companions/fah',
             image: {
                 title: 'Fah, AI 채팅 친구',
-                path: '/images-ai/ai-fah-details.png',
+                path: 'https://cdn.chorn.in.th/public/ai/ai-fah-details.png',
             }
         }
     },
     title: "Fah, LINE AI 채팅 친구",
     image: {
-        src: "/images-ai/ai-fah-details.png",
+        src: "https://cdn.chorn.in.th/public/ai/ai-fah-details.png",
         alt: "Fah - 태국 스타일 AI 채팅 컴패니언"
     },
     features: [

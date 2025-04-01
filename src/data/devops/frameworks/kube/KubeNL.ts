@@ -3,7 +3,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 export const KubeNL: IDevOpsStack = {
     title: "Kubernetes",
     description: "Automate your container orchestration with Kubernetes for scalable and resilient applications.",
-    image: "/chorn-images/technical-expertise/cloud-devops/Kubernetes.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Kubernetes.webp",
     alt: "Logo representing Kubernetes technology experience",
     readMore: "Discover Kubernetes DevOps testing solutions",
     link: "/technical-expertise/cloud-devops/kubernetes",

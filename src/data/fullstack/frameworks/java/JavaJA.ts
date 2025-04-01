@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const JavaJA: IFullStackStack = {
     title: "Java, Spring Boot",
     description: "Javaは、移植性、堅牢性、パフォーマンスで知られる多目的な高級プログラミング言語です。Spring Bootは、本番環境対応のアプリケーション開発を簡素化するフレームワークです。Kotlinは現代的なプログラミング言語で、Javaと相互運用し、生産性と安全性を向上させます。",
-    image: "/chorn-images/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
     alt: "Spring BootフレームワークとJavaを表すロゴ",
     readMore: "Java Spring Bootフルスタック開発ソリューションをさらに探る",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",

@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const NodejsJA: IFullStackStack = {
     title: "NodeJS",
     description: "Node.jsは、開発者が効率的にスケーラブルなネットワークアプリケーションを構築できる、強力なオープンソースのクロスプラットフォームJavaScriptランタイム環境です。イベント駆動型、ノンブロッキングI/Oモデルを備えたNode.jsは、高速で軽量なアプリケーション、リアルタイム通信システム、データ集約型タスクの構築に最適であり、AI統合を含む最新のソフトウェア開発において人気の選択肢となっています。",
-    image: "/chorn-images/technical-expertise/full-stack-developer/nodejs-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
     alt: "NodeJS技術を表すロゴ",
     readMore: "NodeJSフルスタック開発ソリューションをさらに探る",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

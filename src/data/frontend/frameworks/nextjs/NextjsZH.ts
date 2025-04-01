@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const NextjsZH: IFrontEndStack = {
     title: "NextJS",
     description: "通过无缝的服务器端渲染和静态站点生成，提升您的React应用程序性能。",
-    image: "/chorn-images/technical-expertise/front-end-developer/nextjs-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/nextjs-developer.webp",
     alt: "代表Next.js框架的标志",
     readMore: "探索更多NextJS前端开发解决方案",
     link: "/technical-expertise/front-end-developer/nextjs-developer",

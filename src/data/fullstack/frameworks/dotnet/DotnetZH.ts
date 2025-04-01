@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const DotnetZH: IFullStackStack = {
     title: ".NET Core C#",
     description: ".NET Core C# 是一个由 Microsoft 开发的多功能、开源、跨平台框架。它允许开发人员在多个平台上构建现代化、高性能、可扩展的应用程序，包括 Windows、macOS 和 Linux。通过支持构建 Web 应用程序、API 和微服务，.NET Core C# 提供了一个强大的企业级解决方案环境。",
-    image: "/chorn-images/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
     alt: "代表 .NET Core API 开发的 Logo",
     readMore: "探索更多 .NET Core API 全栈开发解决方案",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

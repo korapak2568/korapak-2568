@@ -17,7 +17,7 @@ export const DevOpsVI: IDevOps = {
     appium: {
         title: "Appium",
         description: "Automate your mobile application testing with Appium's versatile and open-source framework.",
-        image: "/chorn-images/technical-expertise/cloud-devops/Appium.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Appium.webp",
         alt: "Logo representing Appium technology experience",
         readMore: "Find out how Appium powers mobile DevOps testing",
         link: "/technical-expertise/cloud-devops/appium",
@@ -64,7 +64,7 @@ export const DevOpsVI: IDevOps = {
     gitlab: {
         title: "GitLab",
         description: "Optimize your DevOps pipeline with GitLab's all-in-one platform for version control, CI/CD, and more.",
-        image: "/chorn-images/technical-expertise/cloud-devops/GitLab.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/GitLab.webp",
         alt: "Logo representing GitLab technology experience",
         readMore: "Discover GitLab for streamlined DevOps testing",
         link: "/technical-expertise/cloud-devops/gitlab",
@@ -111,7 +111,7 @@ export const DevOpsVI: IDevOps = {
     jenkins: {
         title: "Jenkins",
         description: "Automate your software development with Jenkins, the leading open-source CI/CD tool.",
-        image: "/chorn-images/technical-expertise/cloud-devops/Jenkins.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Jenkins.webp",
         alt: "Logo representing Jenkins technology experience",
         readMore: "Discover Jenkins CI/CD solutions for DevOps testing",
         link: "/technical-expertise/cloud-devops/jenkins",
@@ -158,7 +158,7 @@ export const DevOpsVI: IDevOps = {
     postman: {
         title: "Postman",
         description: "Streamline your API development and testing with Postman's collaborative platform.",
-        image: "/chorn-images/technical-expertise/cloud-devops/Postman.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Postman.webp",
         alt: "Logo representing Postman technology experience",
         readMore: "Learn how Postman enhances DevOps API testing",
         link: "/technical-expertise/cloud-devops/postman",
@@ -205,7 +205,7 @@ export const DevOpsVI: IDevOps = {
     selenium: {
         title: "Selenium",
         description: "Automate your web application testing with Selenium's powerful testing suite.",
-        image: "/chorn-images/technical-expertise/cloud-devops/Selenium.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Selenium.webp",
         alt: "Logo representing Selenium technology experience",
         readMore: "Discover Selenium for automated DevOps testing",
         link: "/technical-expertise/cloud-devops/selenium",
@@ -252,7 +252,7 @@ export const DevOpsVI: IDevOps = {
     soapui: {
         title: "SOAPUI",
         description: "Simplify your API testing with SOAPUI's comprehensive testing toolset for REST and SOAP APIs.",
-        image: "/chorn-images/technical-expertise/cloud-devops/SoapUI.webp",
+        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/SoapUI.webp",
         alt: "Logo representing SOAPUI technology experience",
         readMore: "Learn model SoapUI for API and DevOps testing",
         link: "/technical-expertise/cloud-devops/soapui", features: [

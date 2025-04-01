@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const DotnetNL: IFullStackStack = {
     title: ".NET Core C#",
     description: ".NET Core C# is een veelzijdig, open-source, platformonafhankelijk framework ontwikkeld door Microsoft. Het stelt ontwikkelaars in staat om moderne, krachtige en schaalbare applicaties te bouwen voor verschillende platformen, waaronder Windows, macOS en Linux. Met ondersteuning voor het bouwen van webapplicaties, API's en microservices biedt .NET Core C# een robuuste omgeving voor oplossingen op bedrijfsniveau.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
     alt: "Logo dat de .NET Core API-ontwikkeling vertegenwoordigt",
     readMore: "Verken meer .NET Core API full-stack ontwikkelingsoplossingen",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

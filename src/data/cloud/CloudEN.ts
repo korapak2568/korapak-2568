@@ -8,7 +8,7 @@ export const CloudEN: ICloud = {
         {
             title: "AWS",
             description: "Cloud Experience",
-            image: "/chorn-images/cloud/thumbnail/aws.webp",
+            image: "https://cdn.chorn.in.th/public/cloud/thumbnail/aws.webp",
             alt: "Logo representing AWS technology experience",
             readMore: "Learn model AWS cloud solutions and technical-expertise",
             link: "/technical-expertise/details",
@@ -16,7 +16,7 @@ export const CloudEN: ICloud = {
         {
             title: "Azure",
             description: "Cloud Experience",
-            image: "/chorn-images/cloud/thumbnail/azure.webp",
+            image: "https://cdn.chorn.in.th/public/cloud/thumbnail/azure.webp",
             alt: "Logo representing Azure technology experience",
             readMore: "Explore Azure cloud technical-expertise and infrastructure solutions",
             link: "/technical-expertise/details",
@@ -24,7 +24,7 @@ export const CloudEN: ICloud = {
         {
             title: "GCP",
             description: "Cloud Experience",
-            image: "/chorn-images/cloud/thumbnail/gcp.webp",
+            image: "https://cdn.chorn.in.th/public/cloud/thumbnail/gcp.webp",
             alt: "Logo representing GCP technology experience",
             readMore: "Find out model Google Cloud Platform technical-expertise",
             link: "/technical-expertise/details",
@@ -32,7 +32,7 @@ export const CloudEN: ICloud = {
         {
             title: "Cloud",
             description: "Digital Ocean",
-            image: "/chorn-images/cloud/thumbnail/digital-ocean.webp",
+            image: "https://cdn.chorn.in.th/public/cloud/thumbnail/digital-ocean.webp",
             alt: "Logo representing DigitalOcean technology experience",
             readMore: "Learn model DigitalOcean cloud solutions for developers",
             link: "/technical-expertise/details",

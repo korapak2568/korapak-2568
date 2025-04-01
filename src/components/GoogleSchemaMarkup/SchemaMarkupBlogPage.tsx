@@ -15,7 +15,7 @@ export const SchemaMarkupBlogPage: React.FC = () => {
             "name": "CHORN",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://chorn.in.th/chorn-images/logo/chorn-logo-circle-md.webp"
+                "url": "https://cdn.chorn.in.th/public/logo/chorn-logo-circle-md.webp"
             }
         },
         "mainEntityOfPage": {

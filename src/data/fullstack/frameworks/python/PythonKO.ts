@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const PythonKO: IFullStackStack = {
     title: "Python",
     description: "Python은 단순성, 가독성 및 다재다능성으로 잘 알려진 고급 인터프리터형 프로그래밍 언어입니다. 웹 개발, 데이터 분석, 인공지능 및 과학 컴퓨팅을 비롯한 다양한 분야에서 널리 사용됩니다.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/python-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/python-developer.webp",
     alt: "Logo representing Python with Flask framework",
     readMore: "Python, Flask, Django 풀스택 개발 솔루션 더 알아보기",
     link: "/technical-expertise/full-stack-developer/python-developer",

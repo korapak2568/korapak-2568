@@ -7,6 +7,7 @@ import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {IFeatureStack} from "@/data/feature/model/IFeatureStack";
 import {truncateText} from "@/lib/truncateText";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const Features: React.FC = () => {
     const locale = useLocale()
@@ -25,7 +26,7 @@ const Features: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="features-image-warp">
                                 <Image
-                                    src="/chorn-images/features/features-2.webp"
+                                    src={ImageUrl.feature.path}
                                     alt="image"
                                     width={720}
                                     height={620}

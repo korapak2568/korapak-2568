@@ -2,6 +2,8 @@ import {IImageUnit} from "@/data/image/model/IImageUnit";
 import {IImageLink} from "@/data/image/model/IImageLink";
 
 export interface IImageUrl {
+    feature: IImageUnit,
+    about: IImageUnit,
     NotFound404: IImageUnit,
     whatsapp: {
         md: IImageUnit,

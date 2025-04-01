@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const ReactTH: IFrontEndStack = {
     title: "React",
     description: "สร้างส่วนติดต่อผู้ใช้ที่มีประสิทธิภาพสูงและไดนามิกได้อย่างง่ายดายด้วยสถาปัตยกรรมแบบคอมโพเนนต์อันทรงพลังของ React",
-    image: "/chorn-images/technical-expertise/front-end-developer/react-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/react-developer.webp",
     alt: "โลโก้ที่แสดงถึงไลบรารี React.js",
     readMore: "สำรวจโซลูชันการพัฒนาฟรอนต์เอนด์ ReactJS เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/react-developer",

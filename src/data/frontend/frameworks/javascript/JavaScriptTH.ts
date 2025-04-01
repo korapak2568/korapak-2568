@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const JavaScriptTH: IFrontEndStack = {
     title: "JavaScript",
     description: "จาวาสคริปต์เป็นภาษาโปรแกรมมิ่งที่หลากหลายและไดนามิก ถูกใช้อย่างแพร่หลายในการสร้างแอปพลิเคชันเว็บที่มีการโต้ตอบและตอบสนองได้ดี ความยืดหยุ่นและระบบนิเวศที่กว้างขวางทำให้มันเป็นเครื่องมือที่จำเป็นสำหรับการพัฒนาเว็บสมัยใหม่",
-    image: "/chorn-images/technical-expertise/front-end-developer/javascript-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/javascript-developer.webp",
     alt: "โลโก้ที่แสดงถึงภาษาโปรแกรมมิ่งจาวาสคริปต์",
     readMore: "สำรวจโซลูชันการพัฒนาแบบจาวาสคริปต์ full-stack เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/javascript-developer",

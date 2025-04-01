@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const DotnetTH: IFullStackStack = {
     title: ".NET Core C#",
     description: ".NET Core C# คือเฟรมเวิร์กที่มีความยืดหยุ่น, เปิดแหล่ง, และรองรับหลายแพลตฟอร์มที่พัฒนาโดย Microsoft ซึ่งช่วยให้นักพัฒนาสามารถสร้างแอปพลิเคชันที่ทันสมัย, มีประสิทธิภาพสูง, และสามารถขยายตัวได้ในหลากหลายแพลตฟอร์ม เช่น Windows, macOS, และ Linux โดยรองรับการสร้างเว็บแอปพลิเคชัน, API, และไมโครเซอร์วิส ซึ่งทำให้ .NET Core C# เป็นสภาพแวดล้อมที่แข็งแกร่งสำหรับโซลูชันในระดับองค์กร",
-    image: "/chorn-images/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
     alt: "โลโก้ที่แสดงการพัฒนา .NET Core API",
     readMore: "สำรวจโซลูชันการพัฒนา .NET Core API แบบฟูลสแต็กเพิ่มเติม",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

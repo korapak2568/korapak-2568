@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const VueDE: IFrontEndStack = {
     title: "Vue",
     description: "Erstellen Sie moderne, reaktive Webschnittstellen schnell mit Vues intuitiver und flexibler Gestaltung.",
-    image: "/chorn-images/technical-expertise/front-end-developer/vue-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/vue-developer.webp",
     alt: "Logo, das das Vue.js-Framework repräsentiert",
     readMore: "Entdecken Sie weitere VueJS-Frontend-Entwicklungslösungen",
     link: "/technical-expertise/front-end-developer/vue-developer",

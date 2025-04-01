@@ -3,7 +3,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 export const PhpEN: IFullStackStack = {
     title: "PHP",
     description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
-    image: "/chorn-images/technical-expertise/full-stack-developer/php-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/php-developer.webp",
     alt: "Logo representing PHP programming language",
     readMore: "Explore more PHP full-stack development solutions",
     link: "/technical-expertise/full-stack-developer/php-developer",

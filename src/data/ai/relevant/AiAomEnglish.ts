@@ -3,21 +3,21 @@ import {IAiDetail} from "@/data/ai/model/IAiDetail";
 export const AiAomEnglish: IAiDetail = {
     name: 'Aom',
     category: 'Health LINE Friend',
-    thumbnail: '/images-ai/ai-companions/ai-aom-thumbnail.webp',
+    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-aom-thumbnail.webp',
 
     pages: {
         home: {
             link: '/',
             image: {
                 title: 'ออม เพื่อนคุยเอไอ',
-                path: '/images-ai/fah/fah-003.png',
+                path: 'https://cdn.chorn.in.th/public/ai/fah/fah-003.png',
             }
         },
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: 'ออม เพื่อนคุยเอไอ',
-                path: '/images-ai/ai-aom-details.png',
+                path: 'https://cdn.chorn.in.th/public/ai/ai-aom-details.png',
             }
         }
     },

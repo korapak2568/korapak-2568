@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const Css3FR: IFrontEndStack = {
     title: "CSS3",
     description: "Améliorez l'apparence de votre site web avec des techniques de style avancées utilisant CSS3.",
-    image: "/chorn-images/technical-expertise/front-end-developer/css3-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/css3-developer.webp",
     alt: "Logo représentant la technologie CSS3",
     readMore: "Explorez plus de solutions de développement front-end CSS3",
     link: "/technical-expertise/front-end-developer/css3-developer",

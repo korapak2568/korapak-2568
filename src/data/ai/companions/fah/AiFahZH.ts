@@ -5,20 +5,20 @@ import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
 export const AiFahZH: IAiLanding = {
     name: '法',
     category: '泰国LINE好友',
-    thumbnail: '/images-ai/ai-companions/ai-fah-thumbnail.webp',
+    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-fah-thumbnail.webp',
 
     pages: {
         landing: {
             link: '/ai-companions/fah',
             image: {
                 title: '法，AI聊天好友',
-                path: '/images-ai/ai-fah-details.png',
+                path: 'https://cdn.chorn.in.th/public/ai/ai-fah-details.png',
             }
         }
     },
     title: "法，LINE AI聊天好友",
     image: {
-        src: "/images-ai/ai-fah-details.png",
+        src: "https://cdn.chorn.in.th/public/ai/ai-fah-details.png",
         alt: "法 - 泰式风格AI聊天伙伴"
     },
     features: [

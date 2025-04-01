@@ -14,19 +14,19 @@ export const OpenGraph: IOpenGraph = {
         alt: "LLM/AI Integration Banner",
     },
     aiCompanions: {
-        url: "https://chorn.in.th/images-ai/ai-companions/ai-companions-og-image.jpg" + ImageVersion,
+        url: "https://chorn.in.thhttps://cdn.chorn.in.th/public/ai/ai-companions/ai-companions-og-image.jpg" + ImageVersion,
         alt: "AI Chat Companion Demo",
     },
     aiFah: {
-        url: "https://chorn.in.th/images-ai/ai-og-images/ai-og-fah.jpg" + ImageVersion,
+        url: "https://chorn.in.thhttps://cdn.chorn.in.th/public/ai/ai-og-images/ai-og-fah.jpg" + ImageVersion,
         alt: "AI Fah - LINE Chat AI Integration",
     },
     aiAom: {
-        url: "https://chorn.in.th/images-ai/ai-og-images/ai-og-aom.jpg" + ImageVersion,
+        url: "https://chorn.in.thhttps://cdn.chorn.in.th/public/ai/ai-og-images/ai-og-aom.jpg" + ImageVersion,
         alt: "AI Aom - LINE Chat AI Integration",
     },
     aiPloy: {
-        url: "https://chorn.in.th/images-ai/ai-og-images/ai-og-ploy.jpg" + ImageVersion,
+        url: "https://chorn.in.thhttps://cdn.chorn.in.th/public/ai/ai-og-images/ai-og-ploy.jpg" + ImageVersion,
         alt: "AI Ploy - LINE Chat AI Integration",
     },
     gallery: {

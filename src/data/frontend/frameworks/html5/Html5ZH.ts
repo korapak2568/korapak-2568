@@ -3,7 +3,7 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 export const Html5ZH: IFrontEndStack = {
     title: "HTML5",
     description: "掌握网页开发的最新标准，创建丰富、交互式内容。",
-    image: "/chorn-images/technical-expertise/front-end-developer/html5-developer.webp",
+    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/html5-developer.webp",
     alt: "代表HTML5技术的标志",
     readMore: "探索更多HTML5前端开发解决方案",
     link: "/technical-expertise/front-end-developer/html5-developer",
