@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const ReactFI: IFrontEndStack = {
     title: "React",
     description: "Luo dynaamisia ja suorituskykyisiä käyttöliittymiä helposti Reactin tehokkaan komponenttipohjaisen arkkitehtuurin avulla.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/react-developer.webp",
+    image: ImageUrl.frontend.react.path,
     alt: "React.js-kirjastoa edustava logo",
     readMore: "Tutustu lisää ReactJS front-end-kehitysratkaisuihin",
     link: "/technical-expertise/front-end-developer/react-developer",

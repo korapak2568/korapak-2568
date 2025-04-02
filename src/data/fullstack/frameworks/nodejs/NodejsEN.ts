@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const NodejsEN: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js is a powerful, open-source, cross-platform JavaScript runtime environment that allows developers to build scalable network applications efficiently. With an event-driven, non-blocking I/O model, Node.js is ideal for building fast, lightweight applications, real-time communication systems, and data-intensive tasks, making it a popular choice for modern software development, including AI integrations.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
+    image: ImageUrl.fullstack.nodejs.path,
     alt: "Logo representing NodeJS technology",
     readMore: "Explore more NodeJS full-stack development solutions",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

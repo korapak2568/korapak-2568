@@ -1,63 +1,41 @@
 import {IGallery} from "@/data/gallery/model/IGallery";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const GalleryNL: IGallery = {
     slides: [
         {
             title: "CHORN",
             description: "Full-stack softwareontwikkelingstechniek met flexibele werkplekken volgens klantbehoeften in Bangkok, Thailand, dichtbij BTS- en MRT-stations, belangrijke monumenten en toonaangevende winkelcentra zoals Siam Paragon, Central World en ICON Siam. Klaar voor werk op afstand, hybride werk of kantoorwerk in Chiang Mai, Bangkok, Thailand en in het buitenland.",
-            image: "/chorn-images/home/chorn-workplace-001.jpg"
+            image: ImageUrl.slide.homes[0]
         },
         {
             title: "CHORN",
             description: "Full-stack softwareontwikkelingstechniek met flexibele werkplekken volgens klantbehoeften in Bangkok, Thailand, dichtbij BTS- en MRT-stations, belangrijke monumenten en toonaangevende winkelcentra zoals Siam Paragon, Central World en ICON Siam. Klaar voor werk op afstand, hybride werk of kantoorwerk in Chiang Mai, Bangkok, Thailand en in het buitenland.",
-            image: "/chorn-images/home/chorn-workplace-002.jpg"
+            image: ImageUrl.slide.homes[1]
         },
         {
             title: "CHORN",
             description: "Full-stack softwareontwikkelingstechniek met flexibele werkplekken volgens klantbehoeften in Bangkok, Thailand, dichtbij BTS- en MRT-stations, belangrijke monumenten en toonaangevende winkelcentra zoals Siam Paragon, Central World en ICON Siam. Klaar voor werk op afstand, hybride werk of kantoorwerk in Chiang Mai, Bangkok, Thailand en in het buitenland.",
-            image: "/chorn-images/home/chorn-workplace-003.jpg"
+            image: ImageUrl.slide.homes[2]
         },
         {
             title: "CHORN",
             description: "Full-stack softwareontwikkelingstechniek met flexibele werkplekken volgens klantbehoeften in Bangkok, Thailand, dichtbij BTS- en MRT-stations, belangrijke monumenten en toonaangevende winkelcentra zoals Siam Paragon, Central World en ICON Siam. Klaar voor werk op afstand, hybride werk of kantoorwerk in Chiang Mai, Bangkok, Thailand en in het buitenland.",
-            image: "/chorn-images/home/chorn-workplace-004.jpg"
+            image: ImageUrl.slide.homes[3]
         },
         {
             title: "CHORN",
             description: "Full-stack softwareontwikkelingstechniek met flexibele werkplekken volgens klantbehoeften in Bangkok, Thailand, dichtbij BTS- en MRT-stations, belangrijke monumenten en toonaangevende winkelcentra zoals Siam Paragon, Central World en ICON Siam. Klaar voor werk op afstand, hybride werk of kantoorwerk in Chiang Mai, Bangkok, Thailand en in het buitenland.",
-            image: "/chorn-images/home/chorn-workplace-005.jpg"
+            image: ImageUrl.slide.homes[4]
         },
         {
             title: "CHORN",
             description: "Full-stack softwareontwikkelingstechniek met flexibele werkplekken volgens klantbehoeften in Bangkok, Thailand, dichtbij BTS- en MRT-stations, belangrijke monumenten en toonaangevende winkelcentra zoals Siam Paragon, Central World en ICON Siam. Klaar voor werk op afstand, hybride werk of kantoorwerk in Chiang Mai, Bangkok, Thailand en in het buitenland.",
-            image: "/chorn-images/home/chorn-workplace-006.jpg"
+            image: ImageUrl.slide.homes[5]
         },
     ],
     global: {
         title: "Internationaal Reizen",
         description: "CHORN heeft ervaring met internationale reizen voor training, internationale werkstudietrips in zowel ASEAN als de Verenigde Staten, het geven van workshops, en is klaar voor zowel binnenlandse als internationale reizen. CHORN biedt werk op afstand, hybride werk en kantoorgebaseerd werk in Chiang Mai, Bangkok, Thailand en internationaal.",
-        image: "/chorn-images/gallery/chorn-global-001.jpg"
-    },
-    globalSlides: [
-        {
-            title: "",
-            description: "",
-            image: "/chorn-images/gallery/chorn-global-002.jpg"
-        },
-        {
-            title: "",
-            description: "",
-            image: "/chorn-images/gallery/chorn-global-003.jpg"
-        },
-        {
-            title: "",
-            description: "",
-            image: "/chorn-images/gallery/chorn-global-004.jpg"
-        },
-        {
-            title: "",
-            description: "",
-            image: "/chorn-images/gallery/chorn-global-005.jpg"
-        }
-    ]
+    }
 };

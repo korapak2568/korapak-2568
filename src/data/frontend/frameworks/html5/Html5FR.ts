@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const Html5FR: IFrontEndStack = {
     title: "HTML5",
     description: "Maîtrisez les dernières normes en matière de développement web pour un contenu riche et interactif.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/html5-developer.webp",
+    image: ImageUrl.frontend.html5.path,
     alt: "Logo représentant la technologie HTML5",
     readMore: "Explorez davantage de solutions de développement front-end HTML5",
     link: "/technical-expertise/front-end-developer/html5-developer",

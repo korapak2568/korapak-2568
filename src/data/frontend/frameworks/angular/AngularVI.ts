@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AngularVI: IFrontEndStack = {
     title: "Angular",
     description: "Phát triển các ứng dụng web mạnh mẽ, cấp doanh nghiệp với framework toàn diện và linh hoạt của Angular.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/angular-developer.webp",
+    image: ImageUrl.frontend.angular.path,
     alt: "Logo đại diện cho framework Angular",
     readMore: "Khám phá thêm các giải pháp phát triển front-end Angular",
     link: "/technical-expertise/front-end-developer/angular-developer",

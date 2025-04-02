@@ -3,10 +3,8 @@
 import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
-import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
-import {ImageUrl} from "@/data/image/ImageUrl";
 import {MainSlideShape} from "@/components/Shape/MainSlideShape";
 
 const FlexibleWorkspace: React.FC = () => {
@@ -44,7 +42,7 @@ const FlexibleWorkspace: React.FC = () => {
                                                     <div
                                                         className="main-slider-image"
                                                         style={{
-                                                            backgroundImage: `url(${slide.image})`,
+                                                            backgroundImage: `url(${slide.image.path})`,
                                                         }}
                                                     ></div>
                                                 </div>

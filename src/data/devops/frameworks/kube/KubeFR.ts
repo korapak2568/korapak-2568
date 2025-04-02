@@ -1,22 +1,23 @@
 import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const KubeFR: IDevOpsStack = {
     title: "Kubernetes",
     description: "Automatisez l'orchestration de vos conteneurs avec Kubernetes pour des applications évolutives et résilientes.",
-    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Kubernetes.webp",
-    "alt": "Logo représentant l'expérience de la technologie Kubernetes",
-    "readMore": "Découvrez les solutions de test DevOps Kubernetes",
-    "link": "/technical-expertise/cloud-devops/kubernetes",
-    "features": [
+    image: ImageUrl.devops.kube.path,
+    alt: "Logo représentant l'expérience de la technologie Kubernetes",
+    readMore: "Découvrez les solutions de test DevOps Kubernetes",
+    link: "/technical-expertise/cloud-devops/kubernetes",
+    features: [
         {
             title: "Kubernetes",
             description: "Kubernetes est une plateforme leader d'orchestration de conteneurs qui automatise le déploiement, la mise à l'échelle et la gestion des applications conteneurisées. Essentiel pour les systèmes à grande échelle et résilients.",
-            "list": []
+            list: []
         },
         {
             title: "Points forts de Kubernetes",
             description: "Kubernetes se distingue par ses fonctionnalités robustes",
-            "list": [
+            list: [
                 "Déploiement automatisé",
                 "Évolutivité",
                 "Auto-réparation",
@@ -29,21 +30,21 @@ export const KubeFR: IDevOpsStack = {
         {
             title: "Défis et Solutions",
             description: "Kubernetes répond aux défis d'orchestration en fournissant des solutions évolutives et automatisées pour les applications conteneurisées.",
-            "list": []
+            list: []
         }
     ],
-    "faqs": [
+    faqs: [
         {
-            "question": "Qu'est-ce que Kubernetes?",
-            "answer": "Kubernetes est une plateforme d'orchestration de conteneurs qui automatise le déploiement, la mise à l'échelle et la gestion des applications conteneurisées."
+            question: "Qu'est-ce que Kubernetes?",
+            answer: "Kubernetes est une plateforme d'orchestration de conteneurs qui automatise le déploiement, la mise à l'échelle et la gestion des applications conteneurisées."
         },
         {
-            "question": "Comment Kubernetes améliore-t-il l'évolutivité des applications?",
-            "answer": "Kubernetes améliore l'évolutivité des applications en gérant automatiquement la mise à l'échelle des applications conteneurisées en fonction de la demande."
+            question: "Comment Kubernetes améliore-t-il l'évolutivité des applications?",
+            answer: "Kubernetes améliore l'évolutivité des applications en gérant automatiquement la mise à l'échelle des applications conteneurisées en fonction de la demande."
         },
         {
-            "question": "Quels sont les avantages d'utiliser Kubernetes?",
-            "answer": "Les avantages d'utiliser Kubernetes comprennent le déploiement automatisé, l'évolutivité, l'auto-réparation, la découverte de services, l'équilibrage de charge et l'orchestration du stockage."
+            question: "Quels sont les avantages d'utiliser Kubernetes?",
+            answer: "Les avantages d'utiliser Kubernetes comprennent le déploiement automatisé, l'évolutivité, l'auto-réparation, la découverte de services, l'équilibrage de charge et l'orchestration du stockage."
         }
     ]
 }

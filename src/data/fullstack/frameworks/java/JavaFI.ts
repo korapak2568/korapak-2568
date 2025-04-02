@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import { ImageUrl } from "@/data/image/ImageUrl";
 
 export const JavaFI: IFullStackStack = {
     title: "Java, Spring Boot",
     description: "Java on monipuolinen, korkean tason ohjelmointikieli, joka tunnetaan sen siirrettävyydestä, luotettavuudesta ja suorituskyvystä. Spring Boot on kehys, joka yksinkertaistaa tuotantovalmiiden sovellusten kehittämistä. Kotlin, moderni ohjelmointikieli, on yhteensopiva Java:n kanssa, mikä parantaa tuottavuutta ja turvallisuutta.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
+    image: ImageUrl.fullstack.java.path,
     alt: "Logo representing Java with Spring Boot framework",
     readMore: "Tutustu lisää Java Spring Boot full-stack kehitysrRatkaisuihin",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",

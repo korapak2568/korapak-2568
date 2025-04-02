@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const ReactZH: IFrontEndStack = {
     title: "React",
     description: "通过React强大的基于组件的架构，轻松构建动态、高性能的用户界面。",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/react-developer.webp",
+    image: ImageUrl.frontend.react.path,
     alt: "代表React.js库的标志",
     readMore: "探索更多ReactJS前端开发解决方案",
     link: "/technical-expertise/front-end-developer/react-developer",

@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const GoNL: IFullStackStack = {
     title: "GO",
     description: "Go, ook bekend als Golang, is een statisch getypeerde, gecompileerde programmeertaal ontworpen door Google. Het staat bekend om zijn eenvoud, efficiëntie en sterke ondersteuning voor gelijktijdigheid, waardoor het een ideale keuze is voor het ontwikkelen van microservices.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/go-developer.webp",
+    image: ImageUrl.fullstack.go.path,
     alt: "Logo dat de programmeertaal Go vertegenwoordigt",
     readMore: "Ontdek meer full-stack ontwikkelingsoplossingen met Go",
     link: "/technical-expertise/full-stack-developer/go-developer",

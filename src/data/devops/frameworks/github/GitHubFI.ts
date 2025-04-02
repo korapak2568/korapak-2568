@@ -1,9 +1,10 @@
 import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const GitHubFI: IDevOpsStack = {
     title: "GitHub",
     description: "Tehosta kehitysprosessia GitHubin versionhallinta- ja yhteistyöalustalla.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/GitHub.webp",
+    image: ImageUrl.devops.github.path,
     alt: "Logo, joka edustaa GitHub-teknologiaosaamista",
     readMore: "Opi, miten GitHub tukee tehokasta DevOps-testausta",
     link: "/technical-expertise/cloud-devops/github",

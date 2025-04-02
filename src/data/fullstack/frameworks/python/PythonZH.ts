@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const PythonZH: IFullStackStack = {
     title: "Python",
     description: "Python是一种高级解释型编程语言，以其简单性、可读性和多功能性而闻名。它被广泛应用于各个领域，从网络开发和数据分析到人工智能和科学计算。",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/python-developer.webp",
+    image: ImageUrl.fullstack.python.path,
     alt: "代表Python与Flask框架的标志",
     readMore: "探索更多Python、Flask、Django全栈开发解决方案",
     link: "/technical-expertise/full-stack-developer/python-developer",

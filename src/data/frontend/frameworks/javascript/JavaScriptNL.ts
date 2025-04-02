@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const JavaScriptNL: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript is een veelzijdige en dynamische programmeertaal die veel wordt gebruikt voor het bouwen van interactieve en responsieve webapplicaties. De flexibiliteit en het uitgebreide ecosysteem maken het een essentiële tool voor moderne webontwikkeling.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/javascript-developer.webp",
+    image: ImageUrl.frontend.javascript.path,
     alt: "Logo dat de JavaScript programmeertaal vertegenwoordigt",
     readMore: "Ontdek meer JavaScript full-stack ontwikkelingsoplossingen",
     link: "/technical-expertise/front-end-developer/javascript-developer",

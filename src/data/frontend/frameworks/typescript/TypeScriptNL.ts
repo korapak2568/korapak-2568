@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import { ImageUrl } from "@/data/image/ImageUrl";
 
 export const TypeScriptNL: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScript is een sterk getypeerde superset van JavaScript die statische types toevoegt, de ontwikkelingservaring verbetert door vroeg fouten op te sporen en de codekwaliteit te verbeteren. Het compileert naar gewone JavaScript, waardoor het compatibel is met alle browsers en frameworks.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/typescript-developer.webp",
+    image: ImageUrl.frontend.typescript.path,
     alt: "Logo dat de TypeScript programmeertaal vertegenwoordigt",
     readMore: "Ontdek meer TypeScript full-stack ontwikkelingsoplossingen",
     link: "/technical-expertise/front-end-developer/typescript-developer",

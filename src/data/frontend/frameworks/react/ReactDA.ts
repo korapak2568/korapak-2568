@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const ReactDA: IFrontEndStack = {
     title: "React",
     description: "Byg dynamiske brugergrænseflader med høj ydeevne uden besvær med Reacts kraftfulde komponentbaserede arkitektur.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/react-developer.webp",
+    image: ImageUrl.frontend.react.path,
     alt: "Logo der repræsenterer React.js-biblioteket",
     readMore: "Udforsk flere ReactJS front-end udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/react-developer",

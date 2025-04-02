@@ -8,6 +8,7 @@ import Link from "next/link";
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const FullStackExperience: React.FC = () => {
     const locale = useLocale()
@@ -110,7 +111,7 @@ const FullStackExperience: React.FC = () => {
                                         <div className="col-lg-6">
                                             <div className="digital-experience-image">
                                                 <Image
-                                                    src={InfoTranslation[locale.value].Gallery.global.image}
+                                                    src={ImageUrl.slide.global.path}
                                                     alt="Service image"
                                                     width={750}
                                                     height={680}

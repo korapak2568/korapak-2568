@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const NextjsEN: IFrontEndStack = {
     title: "NextJS",
     description: "Boost your React applications with seamless server-side rendering and static site generation for optimal performance.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/nextjs-developer.webp",
+    image: ImageUrl.frontend.nextjs.path,
     alt: "Logo representing Next.js framework",
     readMore: "Explore more NextJS front-end development solutions ",
     link: "/technical-expertise/front-end-developer/nextjs-developer",

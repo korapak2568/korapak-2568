@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AngularZH: IFrontEndStack = {
     title: "Angular",
     description: "使用Angular全面且多功能的框架开发强大的企业级Web应用程序。",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/angular-developer.webp",
+    image: ImageUrl.frontend.angular.path,
     alt: "代表Angular框架的标志",
     readMore: "探索更多Angular前端开发解决方案",
     link: "/technical-expertise/front-end-developer/angular-developer",

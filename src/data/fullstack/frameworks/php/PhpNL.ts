@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const PhpNL: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js is een krachtige, open-source, cross-platform JavaScript runtime-omgeving die ontwikkelaars in staat stelt om efficiënt schaalbare netwerkapplicaties te bouwen. Met een event-driven, non-blocking I/O-model is Node.js ideaal voor het bouwen van snelle, lichtgewicht applicaties, realtime communicatiesystemen en data-intensieve taken, waardoor het een populaire keuze is voor moderne softwareontwikkeling, inclusief AI-integraties.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
+    image: ImageUrl.fullstack.php.path,
     alt: "Logo representing NodeJS technology",
     readMore: "Ontdek meer NodeJS full-stack ontwikkelingsoplossingen",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

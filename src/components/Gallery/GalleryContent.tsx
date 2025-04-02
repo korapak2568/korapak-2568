@@ -4,6 +4,7 @@ import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const GalleryContent: React.FC = () => {
     const locale = useLocale()
@@ -16,7 +17,7 @@ const GalleryContent: React.FC = () => {
                         <div className="col-lg-6">
                             <div
                                 className="about-image-warp gallery-global-image"
-                                style={{backgroundImage: `url(${InfoTranslation[locale.value].Gallery.global.image})`}}
+                                style={{backgroundImage: `url(${ImageUrl.slide.global.path})`}}
                             ></div>
                         </div>
 
@@ -31,6 +32,7 @@ const GalleryContent: React.FC = () => {
                     </div>
                 </div>
             </div>
+
             <DefaultShape/>
         </>
     );

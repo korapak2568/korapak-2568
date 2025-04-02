@@ -1,22 +1,23 @@
 import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const KubeTH: IDevOpsStack = {
     title: "Kubernetes",
     description: "ระบบออโตเมชันการจัดการคอนเทนเนอร์ด้วย Kubernetes เพื่อแอปพลิเคชันที่ขยายขนาดได้และมีความยืดหยุ่น",
-    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Kubernetes.webp",
-    "alt": "โลโก้แสดงประสบการณ์เทคโนโลยี Kubernetes",
-    "readMore": "ค้นพบโซลูชันการทดสอบ DevOps ของ Kubernetes",
-    "link": "/technical-expertise/cloud-devops/kubernetes",
-    "features": [
+    image: ImageUrl.devops.kube.path,
+    alt: "โลโก้แสดงประสบการณ์เทคโนโลยี Kubernetes",
+    readMore: "ค้นพบโซลูชันการทดสอบ DevOps ของ Kubernetes",
+    link: "/technical-expertise/cloud-devops/kubernetes",
+    features: [
         {
             title: "Kubernetes",
             description: "Kubernetes เป็นแพลตฟอร์มการจัดการคอนเทนเนอร์ชั้นนำที่ทำงานอัตโนมัติในการปรับใช้ การปรับขนาด และการจัดการแอปพลิเคชันที่อยู่ในคอนเทนเนอร์ จำเป็นสำหรับระบบขนาดใหญ่ที่มีความยืดหยุ่น",
-            "list": []
+            list: []
         },
         {
             title: "จุดเด่นของ Kubernetes",
             description: "Kubernetes โดดเด่นด้วยคุณสมบัติที่แข็งแกร่ง",
-            "list": [
+            list: [
                 "การปรับใช้อัตโนมัติ",
                 "ความสามารถในการปรับขนาด",
                 "การซ่อมแซมตัวเอง",
@@ -29,21 +30,21 @@ export const KubeTH: IDevOpsStack = {
         {
             title: "ความท้าทายและโซลูชัน",
             description: "Kubernetes แก้ไขความท้าทายในการจัดการโดยให้โซลูชันที่ปรับขนาดได้และทำงานอัตโนมัติสำหรับแอปพลิเคชันที่อยู่ในคอนเทนเนอร์",
-            "list": []
+            list: []
         }
     ],
-    "faqs": [
+    faqs: [
         {
-            "question": "Kubernetes คืออะไร?",
-            "answer": "Kubernetes เป็นแพลตฟอร์มการจัดการคอนเทนเนอร์ที่ทำงานอัตโนมัติในการปรับใช้ การปรับขนาด และการจัดการแอปพลิเคชันที่อยู่ในคอนเทนเนอร์"
+            question: "Kubernetes คืออะไร?",
+            answer: "Kubernetes เป็นแพลตฟอร์มการจัดการคอนเทนเนอร์ที่ทำงานอัตโนมัติในการปรับใช้ การปรับขนาด และการจัดการแอปพลิเคชันที่อยู่ในคอนเทนเนอร์"
         },
         {
-            "question": "Kubernetes ปรับปรุงความสามารถในการปรับขนาดของแอปพลิเคชันอย่างไร?",
-            "answer": "Kubernetes ปรับปรุงความสามารถในการปรับขนาดของแอปพลิเคชันโดยการจัดการการปรับขนาดของแอปพลิเคชันที่อยู่ในคอนเทนเนอร์โดยอัตโนมัติตามความต้องการ"
+            question: "Kubernetes ปรับปรุงความสามารถในการปรับขนาดของแอปพลิเคชันอย่างไร?",
+            answer: "Kubernetes ปรับปรุงความสามารถในการปรับขนาดของแอปพลิเคชันโดยการจัดการการปรับขนาดของแอปพลิเคชันที่อยู่ในคอนเทนเนอร์โดยอัตโนมัติตามความต้องการ"
         },
         {
-            "question": "ประโยชน์ของการใช้ Kubernetes มีอะไรบ้าง?",
-            "answer": "ประโยชน์ของการใช้ Kubernetes รวมถึงการปรับใช้อัตโนมัติ ความสามารถในการปรับขนาด การซ่อมแซมตัวเอง การค้นพบบริการ การกระจายโหลด และการจัดการพื้นที่เก็บข้อมูล"
+            question: "ประโยชน์ของการใช้ Kubernetes มีอะไรบ้าง?",
+            answer: "ประโยชน์ของการใช้ Kubernetes รวมถึงการปรับใช้อัตโนมัติ ความสามารถในการปรับขนาด การซ่อมแซมตัวเอง การค้นพบบริการ การกระจายโหลด และการจัดการพื้นที่เก็บข้อมูล"
         }
     ]
 }

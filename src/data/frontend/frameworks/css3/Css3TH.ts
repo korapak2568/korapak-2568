@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const Css3TH: IFrontEndStack = {
     title: "CSS3",
     description: "เพิ่มรูปลักษณ์ของเว็บไซต์ของคุณด้วยเทคนิคการจัดรูปแบบขั้นสูงโดยใช้ CSS3",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/css3-developer.webp",
+    image: ImageUrl.frontend.css3.path,
     alt: "โลโก้ที่แสดงถึงเทคโนโลยี CSS3",
     readMore: "สำรวจโซลูชันการพัฒนาฟรอนต์เอนด์ CSS3 เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/css3-developer",

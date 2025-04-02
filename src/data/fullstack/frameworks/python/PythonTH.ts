@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const PythonTH: IFullStackStack = {
     title: "Python",
     description: "Python เป็นภาษาโปรแกรมมิ่งระดับสูง แบบอินเตอร์พรีเตอร์ที่เป็นที่รู้จักในด้านความเรียบง่าย ความอ่านง่าย และความหลากหลายในการใช้งาน มันถูกใช้อย่างแพร่หลายในหลากหลายด้าน ตั้งแต่การพัฒนาเว็บและการวิเคราะห์ข้อมูล ไปจนถึงปัญญาประดิษฐ์และการคำนวณทางวิทยาศาสตร์",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/python-developer.webp",
+    image: ImageUrl.fullstack.python.path,
     alt: "โลโก้ที่แสดงถึง Python กับเฟรมเวิร์ค Flask",
     readMore: "สำรวจโซลูชั่นการพัฒนาแบบฟูลสแต็กด้วย Python, Flask, Django เพิ่มเติม",
     link: "/technical-expertise/full-stack-developer/python-developer",

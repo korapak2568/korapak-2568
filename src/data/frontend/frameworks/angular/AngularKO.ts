@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AngularKO: IFrontEndStack = {
     title: "Angular",
     description: "Angular의 포괄적이고 다재다능한 프레임워크를 활용하여 강력한 엔터프라이즈급 웹 애플리케이션을 개발하세요.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/angular-developer.webp",
+    image: ImageUrl.frontend.angular.path,
     alt: "Angular 프레임워크를 나타내는 로고",
     readMore: "Angular 프론트엔드 개발 솔루션 더 알아보기",
     link: "/technical-expertise/front-end-developer/angular-developer",

@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const Css3KO: IFrontEndStack = {
     title: "CSS3",
     description: "CSS3를 사용하여 고급 스타일링 기술로 웹사이트의 외형을 향상하세요.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/css3-developer.webp",
+    image: ImageUrl.frontend.css3.path,
     alt: "CSS3 기술을 나타내는 로고",
     readMore: "CSS3 프론트엔드 개발 솔루션 더 알아보기",
     link: "/technical-expertise/front-end-developer/css3-developer",

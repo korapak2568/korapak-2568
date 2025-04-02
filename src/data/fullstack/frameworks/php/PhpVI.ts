@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const PhpVI: IFullStackStack = {
     title: "PHP",
     description: "PHP là ngôn ngữ kịch bản phía máy chủ phổ biến được sử dụng rộng rãi cho phát triển web. Các framework như Symfony, Laravel, Phalcon, và các công cụ tạo mẫu như Twig, cùng với các nền tảng như WordPress và biến thể headless của nó, đã nâng cao việc phát triển PHP bằng cách cung cấp các giải pháp có cấu trúc, hiệu quả và có khả năng mở rộng cho việc xây dựng các ứng dụng web phức tạp.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/php-developer.webp",
+    image: ImageUrl.fullstack.php.path,
     alt: "Logo đại diện cho ngôn ngữ lập trình PHP",
     readMore: "Khám phá thêm các giải pháp phát triển full-stack PHP",
     link: "/technical-expertise/full-stack-developer/php-developer",

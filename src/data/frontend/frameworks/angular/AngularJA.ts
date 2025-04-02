@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import { ImageUrl } from "@/data/image/ImageUrl";
 
 export const AngularJA: IFrontEndStack = {
     title: "Angular",
     description: "Angularの包括的で多目的なフレームワークで堅牢なエンタープライズグレードのWebアプリケーションを開発します。",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/angular-developer.webp",
+    image: ImageUrl.frontend.angular.path,
     alt: "Angularフレームワークを表すロゴ",
     readMore: "さらなるAngularフロントエンド開発ソリューションを探索する",
     link: "/technical-expertise/front-end-developer/angular-developer",

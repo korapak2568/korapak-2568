@@ -1,7 +1,7 @@
 import {IGalleryItem} from "@/data/gallery/model/IGalleryItem";
+import {IGalleryItemImage} from "@/data/gallery/model/IGalleryItemImage";
 
 export interface IGallery {
-    slides: IGalleryItem[],
-    global: IGalleryItem,
-    globalSlides: IGalleryItem[]
+    slides: IGalleryItemImage[],
+    global: IGalleryItem
 }

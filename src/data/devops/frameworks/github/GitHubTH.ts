@@ -1,22 +1,23 @@
 import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const GitHubTH: IDevOpsStack = {
     title: "GitHub",
     description: "เพิ่มประสิทธิภาพขั้นตอนการพัฒนาของคุณด้วยการควบคุมเวอร์ชันและแพลตฟอร์มการทำงานร่วมกันของ GitHub",
-    "image": "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/GitHub.webp",
-    "alt": "โลโก้แสดงประสบการณ์เทคโนโลยี GitHub",
-    "readMore": "เรียนรู้วิธีที่ GitHub ช่วยเพิ่มประสิทธิภาพการทดสอบ DevOps",
-    "link": "/technical-expertise/cloud-devops/github",
-    "features": [
+    image: ImageUrl.devops.github.path,
+    alt: "โลโก้แสดงประสบการณ์เทคโนโลยี GitHub",
+    readMore: "เรียนรู้วิธีที่ GitHub ช่วยเพิ่มประสิทธิภาพการทดสอบ DevOps",
+    link: "/technical-expertise/cloud-devops/github",
+    features: [
         {
             title: "GitHub",
             description: "GitHub เป็นแพลตฟอร์มบนเว็บที่ให้บริการโฮสติ้งพื้นที่เก็บข้อมูล Git เครื่องมือสำหรับการพัฒนาร่วมกัน และการผสานรวมที่หลากหลาย ซึ่งส่งเสริมการพัฒนาซอฟต์แวร์ที่มีประสิทธิภาพและเป็นการทำงานร่วมกัน",
-            "list": []
+            list: []
         },
         {
             title: "จุดเด่นของ GitHub",
             description: "GitHub โดดเด่นด้วยคุณสมบัติสำคัญ",
-            "list": [
+            list: [
                 "การควบคุม MetadataChorn",
                 "การพัฒนาแบบร่วมมือ",
                 "Pull requests",
@@ -29,21 +30,21 @@ export const GitHubTH: IDevOpsStack = {
         {
             title: "ความท้าทายและวิธีแก้ไข",
             description: "GitHub จัดการกับความท้าทายในกระบวนการพัฒนาโดยให้การควบคุมเวอร์ชันที่แข็งแกร่งและเครื่องมือการทำงานร่วมกันสำหรับการจัดการโครงการที่มีประสิทธิภาพ",
-            "list": []
+            list: []
         }
     ],
-    "faqs": [
+    faqs: [
         {
-            "question": "GitHub คืออะไร?",
-            "answer": "GitHub เป็นแพลตฟอร์มบนเว็บที่ให้บริการโฮสติ้งพื้นที่เก็บข้อมูล Git และเครื่องมือสำหรับการพัฒนาร่วมกัน"
+            question: "GitHub คืออะไร?",
+            answer: "GitHub เป็นแพลตฟอร์มบนเว็บที่ให้บริการโฮสติ้งพื้นที่เก็บข้อมูล Git และเครื่องมือสำหรับการพัฒนาร่วมกัน"
         },
         {
-            "question": "GitHub ช่วยปรับปรุงการทำงานร่วมกันอย่างไร?",
-            "answer": "GitHub ช่วยปรับปรุงการทำงานร่วมกันโดยนำเสนอคุณสมบัติต่างๆ เช่น pull requests การติดตามปัญหา และการตรวจสอบโค้ด เพื่ออำนวยความสะดวกในการพัฒนาเป็นทีม"
+            question: "GitHub ช่วยปรับปรุงการทำงานร่วมกันอย่างไร?",
+            answer: "GitHub ช่วยปรับปรุงการทำงานร่วมกันโดยนำเสนอคุณสมบัติต่างๆ เช่น pull requests การติดตามปัญหา และการตรวจสอบโค้ด เพื่ออำนวยความสะดวกในการพัฒนาเป็นทีม"
         },
         {
-            "question": "ประโยชน์ของการใช้ GitHub มีอะไรบ้าง?",
-            "answer": "ประโยชน์ของการใช้ GitHub รวมถึงการควบคุมเวอร์ชัน การพัฒนาแบบร่วมมือ pull requests การติดตามปัญหา การตรวจสอบโค้ด การบูรณาการต่อเนื่อง และการผสานรวมที่ครอบคลุม"
+            question: "ประโยชน์ของการใช้ GitHub มีอะไรบ้าง?",
+            answer: "ประโยชน์ของการใช้ GitHub รวมถึงการควบคุมเวอร์ชัน การพัฒนาแบบร่วมมือ pull requests การติดตามปัญหา การตรวจสอบโค้ด การบูรณาการต่อเนื่อง และการผสานรวมที่ครอบคลุม"
         }
     ]
 }

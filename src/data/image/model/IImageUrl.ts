@@ -2,6 +2,40 @@ import {IImageUnit} from "@/data/image/model/IImageUnit";
 import {IImageLink} from "@/data/image/model/IImageLink";
 
 export interface IImageUrl {
+    devops: {
+        appium: IImageUnit,
+        docker: IImageUnit,
+        github: IImageUnit,
+        gitlab: IImageUnit,
+        jenkins: IImageUnit,
+        kube: IImageUnit,
+        postman: IImageUnit,
+        selenium: IImageUnit,
+        soapui: IImageUnit,
+    },
+    fullstack: {
+        dotnetcore: IImageUnit,
+        go: IImageUnit,
+        java: IImageUnit,
+        nodejs: IImageUnit,
+        php: IImageUnit,
+        python: IImageUnit,
+    },
+    frontend: {
+        angular: IImageUnit,
+        css3: IImageUnit,
+        html5: IImageUnit,
+        nextjs: IImageUnit,
+        react: IImageUnit,
+        typescript: IImageUnit,
+        vue: IImageUnit,
+        javascript: IImageUnit,
+    },
+    slide: {
+        homes: IImageUnit[];
+        globals: IImageUnit[];
+        global: IImageUnit,
+    },
     default: {
         shape1: IImageUnit,
         shape2: IImageUnit,

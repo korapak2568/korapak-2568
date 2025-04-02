@@ -2,6 +2,7 @@ import {IDevOps} from "@/data/devops/model/IDevOps";
 import {DockerNL} from "@/data/devops/frameworks/docker/DockerNL";
 import {GitHubNL} from "@/data/devops/frameworks/github/GitHubNL";
 import {KubeNL} from "@/data/devops/frameworks/kube/KubeNL";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const DevOpsNL: IDevOps = {
     title: "Cloud DevOps",
@@ -17,7 +18,7 @@ export const DevOpsNL: IDevOps = {
     appium: {
         title: "Appium",
         description: "Automate your mobile application testing with Appium's versatile and open-source framework.",
-        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Appium.webp",
+        image: ImageUrl.devops.appium.path,
         alt: "Logo representing Appium technology experience",
         readMore: "Find out how Appium powers mobile DevOps testing",
         link: "/technical-expertise/cloud-devops/appium",
@@ -64,7 +65,7 @@ export const DevOpsNL: IDevOps = {
     gitlab: {
         title: "GitLab",
         description: "Optimize your DevOps pipeline with GitLab's all-in-one platform for version control, CI/CD, and more.",
-        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/GitLab.webp",
+        image: ImageUrl.devops.gitlab.path,
         alt: "Logo representing GitLab technology experience",
         readMore: "Discover GitLab for streamlined DevOps testing",
         link: "/technical-expertise/cloud-devops/gitlab",
@@ -111,7 +112,7 @@ export const DevOpsNL: IDevOps = {
     jenkins: {
         title: "Jenkins",
         description: "Automate your software development with Jenkins, the leading open-source CI/CD tool.",
-        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Jenkins.webp",
+        image: ImageUrl.devops.jenkins.path,
         alt: "Logo representing Jenkins technology experience",
         readMore: "Discover Jenkins CI/CD solutions for DevOps testing",
         link: "/technical-expertise/cloud-devops/jenkins",
@@ -158,7 +159,7 @@ export const DevOpsNL: IDevOps = {
     postman: {
         title: "Postman",
         description: "Streamline your API development and testing with Postman's collaborative platform.",
-        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Postman.webp",
+        image: ImageUrl.devops.postman.path,
         alt: "Logo representing Postman technology experience",
         readMore: "Learn how Postman enhances DevOps API testing",
         link: "/technical-expertise/cloud-devops/postman",
@@ -205,7 +206,7 @@ export const DevOpsNL: IDevOps = {
     selenium: {
         title: "Selenium",
         description: "Automate your web application testing with Selenium's powerful testing suite.",
-        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/Selenium.webp",
+        image: ImageUrl.devops.selenium.path,
         alt: "Logo representing Selenium technology experience",
         readMore: "Discover Selenium for automated DevOps testing",
         link: "/technical-expertise/cloud-devops/selenium",
@@ -252,7 +253,7 @@ export const DevOpsNL: IDevOps = {
     soapui: {
         title: "SOAPUI",
         description: "Simplify your API testing with SOAPUI's comprehensive testing toolset for REST and SOAP APIs.",
-        image: "https://cdn.chorn.in.th/public/technical-expertise/cloud-devops/SoapUI.webp",
+        image: ImageUrl.devops.soapui.path,
         alt: "Logo representing SOAPUI technology experience",
         readMore: "Learn model SoapUI for API and DevOps testing",
         link: "/technical-expertise/cloud-devops/soapui", features: [

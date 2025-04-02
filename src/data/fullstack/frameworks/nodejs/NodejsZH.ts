@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const NodejsZH: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js是一个强大的、开源的、跨平台的JavaScript运行环境，使开发人员能够高效地构建可扩展的网络应用程序。凭借事件驱动、非阻塞I/O模型，Node.js非常适合构建快速、轻量级的应用程序、实时通信系统和数据密集型任务，使其成为现代软件开发（包括AI集成）的流行选择。",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/nodejs-developer.webp",
+    image: ImageUrl.fullstack.nodejs.path,
     alt: "Logo representing NodeJS technology",
     readMore: "探索更多NodeJS全栈开发解决方案",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

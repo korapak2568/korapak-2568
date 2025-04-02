@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const JavaScriptFR: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript est un langage de programmation polyvalent et dynamique largement utilisé pour créer des applications web interactives et réactives. Sa flexibilité et son écosystème étendu en font un outil essentiel pour le développement web moderne.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/javascript-developer.webp",
+    image: ImageUrl.frontend.javascript.path,
     alt: "Logo représentant le langage de programmation JavaScript",
     readMore: "Explorez plus de solutions de développement full-stack JavaScript",
     link: "/technical-expertise/front-end-developer/javascript-developer",

@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const PhpZH: IFullStackStack = {
     title: "PHP",
     description: "PHP是一种广泛用于Web开发的流行服务器端脚本语言。像Symfony、Laravel、Phalcon等框架，以及像Twig这样的模板引擎，再加上WordPress及其无头变体等平台，通过提供结构化、高效且可扩展的解决方案来构建复杂的Web应用程序，从而提升了PHP开发水平。",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/php-developer.webp",
+    image: ImageUrl.fullstack.php.path,
     alt: "代表PHP编程语言的标志",
     readMore: "探索更多PHP全栈开发解决方案",
     link: "/technical-expertise/full-stack-developer/php-developer",

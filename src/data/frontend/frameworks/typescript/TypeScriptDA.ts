@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const TypeScriptDA: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScript er en stærkt typet overbygning af JavaScript, der tilføjer statiske typer, forbedrer udviklingsoplevelsen ved at fange fejl tidligt og forbedrer kodekvaliteten. Det kompileres til almindelig JavaScript, hvilket gør det kompatibelt med alle browsere og frameworks.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/typescript-developer.webp",
+    image: ImageUrl.frontend.typescript.path,
     alt: "Logo der repræsenterer TypeScript programmeringssprog",
     readMore: "Udforsk flere TypeScript full-stack udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/typescript-developer",

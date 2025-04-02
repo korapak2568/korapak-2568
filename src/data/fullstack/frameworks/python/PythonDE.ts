@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const PythonDE: IFullStackStack = {
     title: "Python",
     description: "Python ist eine interpretierte Programmiersprache auf hoher Ebene, die für ihre Einfachheit, Lesbarkeit und Vielseitigkeit bekannt ist. Sie wird in verschiedenen Bereichen eingesetzt, von der Webentwicklung und Datenanalyse bis hin zu künstlicher Intelligenz und wissenschaftlichem Rechnen.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/python-developer.webp",
+    image: ImageUrl.fullstack.python.path,
     alt: "Logo, das Python mit dem Flask-Framework darstellt",
     readMore: "Entdecken Sie weitere Python-, Flask- und Django-Lösungen für Full-Stack-Entwicklung",
     link: "/technical-expertise/full-stack-developer/python-developer",

@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const TypeScriptFI: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScript on vahvasti tyypitetty JavaScriptin superset, joka lisää staattisen tyypityksen, parantaen kehityskokemusta havaitsemalla virheet aikaisessa vaiheessa ja parantamalla koodin laatua. Se kääntyy tavalliseksi JavaScriptiksi, joten se on yhteensopiva kaikkien selainten ja kehysten kanssa.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/typescript-developer.webp",
+    image: ImageUrl.frontend.typescript.path,
     alt: "TypeScript-ohjelmointikieltä edustava logo",
     readMore: "Tutustu lisää TypeScript full-stack-kehitysratkaisuihin",
     link: "/technical-expertise/front-end-developer/typescript-developer",

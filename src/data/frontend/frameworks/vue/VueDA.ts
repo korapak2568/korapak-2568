@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const VueDA: IFrontEndStack = {
     title: "Vue",
     description: "Skab moderne, reaktive webgrænseflader hurtigt med Vues intuitive og fleksible design.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/vue-developer.webp",
+    image: ImageUrl.frontend.vue.path,
     alt: "Logo, der repræsenterer Vue.js-frameworket",
     readMore: "Udforsk flere VueJS frontend-udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/vue-developer",

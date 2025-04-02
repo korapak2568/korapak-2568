@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const JavaDE: IFullStackStack = {
     title: "Java, Spring Boot",
     description: "Java ist eine vielseitige, hochentwickelte Programmiersprache, die für ihre Portabilität, Robustheit und Leistung bekannt ist. Spring Boot ist ein Framework, das die Entwicklung produktionsreifer Anwendungen vereinfacht. Kotlin, eine moderne Programmiersprache, interagiert mit Java und verbessert Produktivität und Sicherheit.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/java-spring-boot-developer.webp",
+    image: ImageUrl.fullstack.java.path,
     alt: "Logo, das Java mit dem Spring Boot-Framework darstellt",
     readMore: "Entdecken Sie weitere Java Spring Boot Full-Stack-Entwicklungslösungen",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",

@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import { ImageUrl } from "@/data/image/ImageUrl";
 
 export const AngularTH: IFrontEndStack = {
     title: "Angular",
     description: "พัฒนาแอปพลิเคชันเว็บระดับองค์กรที่แข็งแกร่งด้วยเฟรมเวิร์กที่ครอบคลุมและหลากหลายของ Angular",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/angular-developer.webp",
+    image: ImageUrl.frontend.angular.path,
     alt: "โลโก้ที่แสดงถึงเฟรมเวิร์ก Angular",
     readMore: "สำรวจโซลูชันการพัฒนาฟรอนต์เอนด์ Angular เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/angular-developer",

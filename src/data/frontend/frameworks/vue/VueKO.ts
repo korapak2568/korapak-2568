@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import { ImageUrl } from "@/data/image/ImageUrl";
 
 export const VueKO: IFrontEndStack = {
     title: "Vue",
     description: "Vue의 직관적이고 유연한 설계를 통해 현대적인 반응형 웹 인터페이스를 신속하게 개발하세요.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/vue-developer.webp",
+    image: ImageUrl.frontend.vue.path,
     alt: "Vue.js 프레임워크를 나타내는 로고",
     readMore: "VueJS 프론트엔드 개발 솔루션 더 알아보기",
     link: "/technical-expertise/front-end-developer/vue-developer",

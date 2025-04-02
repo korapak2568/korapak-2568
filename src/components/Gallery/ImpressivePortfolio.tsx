@@ -6,6 +6,7 @@ import {Pagination, Autoplay} from "swiper/modules";
 import Image from "next/image";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 const ImpressivePortfolio: React.FC = () => {
     const locale = useLocale()
@@ -42,13 +43,13 @@ const ImpressivePortfolio: React.FC = () => {
                         modules={[Pagination, Autoplay]}
                         className="portfolio-slider"
                     >
-                        {InfoTranslation[locale.value].Gallery.globalSlides.map((item, index) => (
+                        {ImageUrl.slide.globals.map((image, index) => (
                             <SwiperSlide key={index}>
                                 <div className="single-portfolio-item">
                                     <div className="portfolio-image">
                                         <Image
-                                            src={item.image}
-                                            alt="image"
+                                            src={image.path}
+                                            alt={image.title}
                                             width={650}
                                             height={500}
                                         />

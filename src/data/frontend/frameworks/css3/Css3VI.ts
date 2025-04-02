@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const Css3VI: IFrontEndStack = {
     title: "CSS3",
     description: "Nâng cao giao diện trang web của bạn với các kỹ thuật tạo kiểu nâng cao sử dụng CSS3.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/css3-developer.webp",
+    image:  ImageUrl.frontend.css3.path,
     alt: "Logo đại diện cho công nghệ CSS3",
     readMore: "Khám phá thêm các giải pháp phát triển front-end CSS3",
     link: "/technical-expertise/front-end-developer/css3-developer",

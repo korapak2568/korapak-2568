@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const VueNL: IFrontEndStack = {
     title: "Vue",
     description: "Creëer snel moderne, reactieve webinterfaces met het intuïtieve en flexibele ontwerp van Vue.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/vue-developer.webp",
+    image: ImageUrl.frontend.vue.path,
     alt: "Logo dat het Vue.js-framework vertegenwoordigt",
     readMore: "Ontdek meer VueJS front-end ontwikkelingsoplossingen",
     link: "/technical-expertise/front-end-developer/vue-developer",

@@ -1,9 +1,10 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const PythonDA: IFullStackStack = {
     title: ".NET Core C#",
     description: ".NET Core C# is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core C# provides a robust environment for enterprise-level solutions.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/full-stack-developer/dotnetcore-developer.webp",
+    image: ImageUrl.fullstack.python.path,
     alt: "Logo representing .NET Core API development",
     readMore: "Explore more .NET Core API full-stack development solutions",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

@@ -1,15 +1,15 @@
 // src/app/api/sitemap-chorn/route.ts
 
+import {ChornLocales, ChornUrls} from "@/lib/Structure";
 import {NextResponse} from "next/server";
-import {chornLocales, chornUrls} from "@/lib/utils";
 
 export async function GET() {
     const baseUrl = "https://www.chorn.in.th";
     const lastModified = new Date().toISOString().split('T')[0];
-    const localizedUrls = chornUrls.flatMap(url => {
+    const localizedUrls = ChornUrls.flatMap(url => {
 
             if (url.includes("/technical-expertise/")) {
-                return chornLocales.map(locale =>
+                return ChornLocales.map(locale =>
                     `<url>
                         <loc>${baseUrl}/${locale}${url}</loc>
                         <lastmod>${lastModified}</lastmod>
@@ -17,7 +17,7 @@ export async function GET() {
                     </url>`)
             }
 
-            return chornLocales.map(locale =>
+            return ChornLocales.map(locale =>
                 `<url>
                     <loc>${baseUrl}/${locale}${url}</loc>
                     <lastmod>${lastModified}</lastmod>

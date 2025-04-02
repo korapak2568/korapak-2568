@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const TypeScriptKO: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScript는 정적 타입을 추가한 JavaScript의 상위 집합으로, 오류를 조기에 발견하고 코드 품질을 향상시켜 개발 경험을 개선합니다. 일반 JavaScript로 컴파일되므로 모든 브라우저 및 프레임워크와 호환됩니다.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/typescript-developer.webp",
+    image: ImageUrl.frontend.typescript.path,
     alt: "TypeScript 프로그래밍 언어를 나타내는 로고",
     readMore: "TypeScript 풀스택 개발 솔루션 더 알아보기",
     link: "/technical-expertise/front-end-developer/typescript-developer",

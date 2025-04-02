@@ -1,9 +1,10 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const TypeScriptDE: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScript ist ein stark typisierter Superset von JavaScript, der statische Typen hinzufügt, die Entwicklungserfahrung verbessert, indem Fehler frühzeitig erkannt werden und die Codequalität verbessert wird. Es wird zu reinem JavaScript kompiliert, wodurch es mit allen Browsern und Frameworks kompatibel ist.",
-    image: "https://cdn.chorn.in.th/public/technical-expertise/front-end-developer/typescript-developer.webp",
+    image: ImageUrl.frontend.typescript.path,
     alt: "Logo der Programmiersprache TypeScript",
     readMore: "Entdecken Sie weitere TypeScript Full-Stack-Entwicklungslösungen",
     link: "/technical-expertise/front-end-developer/typescript-developer",
