@@ -10,48 +10,48 @@ export const OpenGraph: IOpenGraph = {
         alt: "CHORN's image of home flexible workplace"
     },
     llmAi: {
-        url: "https://chorn.in.th/images/banner/chorn-banner.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/banner/chorn-banner.jpg" + TrackVersion,
         alt: "CHORN's image of LLM/AI integration",
     },
     aiCompanions: {
-        url: "https://chorn.in.th/images/ai/ai-companions/ai-companions-og-image.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/ai/ai-companions-og-image.jpg" + TrackVersion,
         alt: "CHORN's image of AI companions",
     },
     aiFah: {
-        url: "https://chorn.in.th/images/ai/ai-og-images/ai-og-fah.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/ai/ai-og-fah.jpg" + TrackVersion,
         alt: "CHORN's image of AI-Fah - LINE Chat AI Integration",
     },
     aiAom: {
-        url: "https://chorn.in.th/images/ai/ai-og-images/ai-og-aom.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/ai/ai-og-aom.jpg" + TrackVersion,
         alt: "CHORN's image of AI-Aom - LINE Chat AI Integration",
     },
     aiPloy: {
-        url: "https://chorn.in.th/images/ai/ai-og-images/ai-og-ploy.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/ai/ai-og-ploy.jpg" + TrackVersion,
         alt: "CHORN's image of AI-Ploy - LINE Chat AI Integration",
     },
     gallery: {
-        url: "https://chorn.in.th/images/gallery/gallery-og-image.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/gallery/gallery-og-image.jpg" + TrackVersion,
         alt: "CHORN's image of gallery",
     },
     about: {
-        url: "https://chorn.in.th/images/about/about-og-image.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/about/about-og-image.jpg" + TrackVersion,
         alt: "CHORN's image of about"
     },
     contact: {
-        url: "https://chorn.in.th/images/contact/contact-og-image.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/contact/contact-og-image.jpg" + TrackVersion,
         alt: "CHORN's image of contacting"
     },
 
     cloudSolutions: {
-        url: "https://chorn.in.th/images/metadata/banner-logo.png" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/banner/banner-logo.png" + TrackVersion,
         alt: "CHORN's image of cloud solutions"
     },
     webDevelopment: {
-        url: "https://chorn.in.th/images/metadata/frontend-development-services.png" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/frontend/frontend-development-services.png" + TrackVersion,
         alt: "CHORN's image of web development"
     },
     blockchain: {
-        url: "https://chorn.in.th/images/metadata/banner-logo.png" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/banner/banner-logo.png" + TrackVersion,
         alt: "CHORN's banner of web3 and blockchain development"
     },
 
