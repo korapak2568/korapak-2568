@@ -6,6 +6,7 @@ import Image from "next/image";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const ServicesCardFrontEnd: React.FC = () => {
     const locale = useLocale()
@@ -53,40 +54,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                     </div>
                 </div>
 
-                <div className="default-shape">
-                    <div className="shape1">
-                        <Image
-                            src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape1.png"
-                            alt="image"
-                            width={52}
-                            height={52}
-                        />
-                    </div>
-                    <div className="shape2">
-                        <Image
-                            src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape2.png"
-                            alt="image"
-                            width={14}
-                            height={16}
-                        />
-                    </div>
-                    <div className="shape3">
-                        <Image
-                            src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape3.png"
-                            alt="image"
-                            width={18}
-                            height={18}
-                        />
-                    </div>
-                    <div className="shape4">
-                        <Image
-                            src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape4.png"
-                            alt="image"
-                            width={52}
-                            height={52}
-                        />
-                    </div>
-                </div>
+                <DefaultShape/>
             </div>
         </>
     );

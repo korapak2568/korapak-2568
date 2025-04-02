@@ -7,7 +7,7 @@ import ServicesDetailsSoapUI from "@/components/Services/cloud-devops/soapui/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataSoapUI} from "@/data/metadata/pages/devops/soapui/common/MetadataSoapui";
+import {MetadataSoapUI} from "@/metadata/pages/devops/soapui/common/MetadataSoapui";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

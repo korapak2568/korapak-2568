@@ -7,7 +7,7 @@ import ServicesDetailsKubernetes from "@/components/Services/cloud-devops/kubern
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataKube} from "@/data/metadata/pages/devops/kube/common/MetadataKube";
+import {MetadataKube} from "@/metadata/pages/devops/kube/common/MetadataKube";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

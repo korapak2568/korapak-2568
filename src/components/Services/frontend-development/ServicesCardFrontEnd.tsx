@@ -6,6 +6,7 @@ import Image from "next/image";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const ServicesCardFrontEnd: React.FC = () => {
     const locale = useLocale()
@@ -55,6 +56,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                     </div>
                 </div>
             </div>
+            <DefaultShape/>
         </>
     );
 };

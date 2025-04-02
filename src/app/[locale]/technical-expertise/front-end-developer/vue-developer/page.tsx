@@ -7,7 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataVue} from "@/data/metadata/pages/frontend/vue/common/MetadataVue";
+import {MetadataVue} from "@/metadata/pages/frontend/vue/common/MetadataVue";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

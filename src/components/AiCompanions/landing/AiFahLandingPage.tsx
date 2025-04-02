@@ -7,6 +7,7 @@ import Image from "next/image";
 import Link from "next/link";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const AiFahLandingPage: React.FC = () => {
     const locale = useLocale()
@@ -90,6 +91,7 @@ const AiFahLandingPage: React.FC = () => {
                     </div>
                 </div>
             </div>
+            <DefaultShape/>
         </>
     );
 };

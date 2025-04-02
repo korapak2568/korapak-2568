@@ -6,7 +6,7 @@ import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {MetadataAiFah} from "@/data/metadata/pages/aiFah/common/MetadataAiFah";
+import {MetadataAiFah} from "@/metadata/pages/ai-fah/common/MetadataAiFah";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

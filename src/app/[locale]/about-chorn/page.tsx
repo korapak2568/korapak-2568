@@ -6,7 +6,7 @@ import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataAbout} from "@/data/metadata/pages/about/common/MetadataAbout";
+import {MetadataAbout} from "@/metadata/pages/about/common/MetadataAbout";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

@@ -5,7 +5,7 @@ import Footer from "@/components/Layouts/Footer";
 import {Metadata} from "next";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import {headers} from "next/headers";
-import {MetadataGallery} from "@/data/metadata/pages/gallery/common/MetadataGallery";
+import {MetadataGallery} from "@/metadata/pages/gallery/common/MetadataGallery";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

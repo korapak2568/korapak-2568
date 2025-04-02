@@ -7,7 +7,7 @@ import ServicesDetailsGitHub from "@/components/Services/cloud-devops/github/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataGitHub} from "@/data/metadata/pages/devops/github/common/MetadataGitHub";
+import {MetadataGitHub} from "@/metadata/pages/devops/github/common/MetadataGitHub";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

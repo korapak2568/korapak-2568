@@ -4,7 +4,7 @@ import Footer from "../../../components/Layouts/Footer";
 import PageBanner from "@/components/Common/PageBanner";
 import type {Metadata} from "next";
 import {headers} from "next/headers";
-import {Metadata404} from "@/data/metadata/pages/404/common/Metadata404";
+import {Metadata404} from "@/metadata/pages/404/common/Metadata404";
 import Link from "next/link";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 

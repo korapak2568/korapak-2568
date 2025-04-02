@@ -7,7 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataAngular} from "@/data/metadata/pages/frontend/angular/common/MetadataAngular";
+import {MetadataAngular} from "@/metadata/pages/frontend/angular/common/MetadataAngular";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

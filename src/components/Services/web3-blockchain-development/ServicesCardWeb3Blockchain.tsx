@@ -3,6 +3,7 @@
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const ServicesCardWeb3Blockchain: React.FC = () => {
     const locale = useLocale()
@@ -32,6 +33,7 @@ const ServicesCardWeb3Blockchain: React.FC = () => {
                     </div>
                 </div>
             </div>
+            <DefaultShape/>
         </>
     );
 };

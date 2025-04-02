@@ -7,7 +7,7 @@ import ServicesDetailsAppium from "@/components/Services/cloud-devops/appium/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataAppium} from "@/data/metadata/pages/devops/appium/common/MetadataAppium";
+import {MetadataAppium} from "@/metadata/pages/devops/appium/common/MetadataAppium";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

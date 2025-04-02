@@ -7,7 +7,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataPhp} from "@/data/metadata/pages/backend/php/common/MetadataPhp";
+import {MetadataPhp} from "@/metadata/pages/backend/php/common/MetadataPhp";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

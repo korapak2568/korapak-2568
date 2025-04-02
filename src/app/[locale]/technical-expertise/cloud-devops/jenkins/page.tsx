@@ -7,7 +7,7 @@ import ServicesDetailsJenkins from "@/components/Services/cloud-devops/jenkins/S
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataJenkins} from "@/data/metadata/pages/devops/jenkins/common/MetadataJenkins";
+import {MetadataJenkins} from "@/metadata/pages/devops/jenkins/common/MetadataJenkins";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

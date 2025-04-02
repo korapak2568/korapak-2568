@@ -8,7 +8,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataFrontEndMain} from "@/data/metadata/pages/frontend/main/common/MetadataFrontEndMain";
+import {MetadataFrontEndMain} from "@/metadata/pages/frontend/main/common/MetadataFrontEndMain";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

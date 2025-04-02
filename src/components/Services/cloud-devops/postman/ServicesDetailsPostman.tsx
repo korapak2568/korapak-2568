@@ -7,6 +7,7 @@ import ServiceSidebarDevOpsTesting from "@/components/Services/ServiceSidebarDev
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {ImageUrl} from "@/data/image/ImageUrl";
+import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const ServicesDetailsPostman: React.FC = () => {
     const locale = useLocale()
@@ -60,6 +61,7 @@ const ServicesDetailsPostman: React.FC = () => {
                     </div>
                 </div>
             </div>
+            <DefaultShape/>
         </>
     );
 };

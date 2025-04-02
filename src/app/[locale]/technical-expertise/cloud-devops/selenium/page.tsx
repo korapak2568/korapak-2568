@@ -7,7 +7,7 @@ import ServicesDetailsSelenium from "@/components/Services/cloud-devops/selenium
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataSelenium} from "@/data/metadata/pages/devops/selenium/common/MetadataSelenium";
+import {MetadataSelenium} from "@/metadata/pages/devops/selenium/common/MetadataSelenium";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

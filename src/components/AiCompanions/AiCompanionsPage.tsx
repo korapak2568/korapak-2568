@@ -6,6 +6,7 @@ import MainBannerAiFah from "@/components/AI/MainBannerAiFah/page";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {ImageUrl} from "@/data/image/ImageUrl";
+import {MainSlideShape} from "@/components/Shape/MainSlideShape";
 
 const AiCompanionsPage: React.FC = () => {
     const locale = useLocale()
@@ -70,6 +71,7 @@ const AiCompanionsPage: React.FC = () => {
                     </div>
                 </div>
             </div>
+            <MainSlideShape/>
         </>
     );
 };

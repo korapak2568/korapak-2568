@@ -7,7 +7,7 @@ import ServicesDetailsPostman from "@/components/Services/cloud-devops/postman/S
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataPostman} from "@/data/metadata/pages/devops/postman/common/MetadataPostman";
+import {MetadataPostman} from "@/metadata/pages/devops/postman/common/MetadataPostman";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

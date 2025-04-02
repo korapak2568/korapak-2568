@@ -7,7 +7,7 @@ import ServicesDetailsGitLab from "@/components/Services/cloud-devops/gitlab/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataGitLab} from "@/data/metadata/pages/devops/gitlab/common/MetadataGitLab";
+import {MetadataGitLab} from "@/metadata/pages/devops/gitlab/common/MetadataGitLab";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

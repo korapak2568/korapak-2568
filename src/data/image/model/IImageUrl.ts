@@ -2,6 +2,12 @@ import {IImageUnit} from "@/data/image/model/IImageUnit";
 import {IImageLink} from "@/data/image/model/IImageLink";
 
 export interface IImageUrl {
+    default: {
+        shape1: IImageUnit,
+        shape2: IImageUnit,
+        shape3: IImageUnit,
+        shape4: IImageUnit,
+    },
     ai: {
         defaultShape1: IImageUnit,
         defaultShape2: IImageUnit,

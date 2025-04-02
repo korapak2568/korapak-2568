@@ -4,10 +4,9 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
-import {useSelector} from "react-redux";
-import {RootState} from "@/redux/store";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const ServiceCardWebDevelopment: React.FC = () => {
     const locale = useLocale()
@@ -79,6 +78,7 @@ const ServiceCardWebDevelopment: React.FC = () => {
                     </div>
                 </div>
             </div>
+            <DefaultShape/>
         </>
     );
 };

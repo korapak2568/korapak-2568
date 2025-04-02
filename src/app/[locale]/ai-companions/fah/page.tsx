@@ -5,7 +5,7 @@ import Footer from "@/components/Layouts/Footer";
 import AiFahLandingPage from "@/components/AiCompanions/landing/AiFahLandingPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
-import {MetadataAiFah} from "@/data/metadata/pages/aiFah/common/MetadataAiFah";
+import {MetadataAiFah} from "@/metadata/pages/ai-fah/common/MetadataAiFah";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

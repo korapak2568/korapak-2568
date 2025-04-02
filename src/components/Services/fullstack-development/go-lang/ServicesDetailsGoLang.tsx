@@ -7,6 +7,7 @@ import ServiceSidebarFullStack from "@/components/Services/ServiceSidebarFullSta
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {ImageUrl} from "@/data/image/ImageUrl";
+import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const ServicesDetailsGoLang: React.FC = () => {
     const locale = useLocale()
@@ -61,6 +62,7 @@ const ServicesDetailsGoLang: React.FC = () => {
                     </div>
                 </div>
             </div>
+            <DefaultShape/>
         </>
     );
 };

@@ -5,7 +5,7 @@ import Footer from "@/components/Layouts/Footer";
 import AiAomLandingPage from "@/components/AiCompanions/landing/AiAomLandingPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
-import {MetadataAiAom} from "@/data/metadata/pages/aiAom/common/MetadataAiAom";
+import {MetadataAiAom} from "@/metadata/pages/ai-aom/common/MetadataAiAom";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

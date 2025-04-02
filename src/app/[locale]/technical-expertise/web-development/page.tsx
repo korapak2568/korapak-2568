@@ -9,7 +9,7 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import ServiceCardWebDevelopment from "@/components/Services/WebDevelopment/ServicesCardWebDevelopment";
 import {headers} from "next/headers";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {MetadataWebDevelopment} from "@/data/metadata/pages/webDevelopment/common/MetadataWebDevelopment";
+import {MetadataWebDevelopment} from "@/metadata/pages/web-development/common/MetadataWebDevelopment";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

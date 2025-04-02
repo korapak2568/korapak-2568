@@ -7,7 +7,7 @@ import ServicesDetailsDocker from "@/components/Services/cloud-devops/docker/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataDocker} from "@/data/metadata/pages/devops/docker/common/MetadataDocker";
+import {MetadataDocker} from "@/metadata/pages/devops/docker/common/MetadataDocker";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

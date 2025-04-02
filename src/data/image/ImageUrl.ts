@@ -3,6 +3,24 @@ import {IImageUrl} from "@/data/image/model/IImageUrl";
 export const CHORN_SPACE_PUBLIC = `https://cdn.chorn.in.th/public`
 
 export const ImageUrl: IImageUrl = {
+    default: {
+        shape1: {
+            title: "CHORN's default shape-1",
+            path: "https://cdn.chorn.in.th/public/default-shape/default-shape1.png"
+        },
+        shape2: {
+            title: "CHORN's default shape-1",
+            path: "https://cdn.chorn.in.th/public/default-shape/default-shape2.png"
+        },
+        shape3: {
+            title: "CHORN's default shape-1",
+            path: "https://cdn.chorn.in.th/public/default-shape/default-shape3.png"
+        },
+        shape4: {
+            title: "CHORN's default shape-1",
+            path: "https://cdn.chorn.in.th/public/default-shape/default-shape4.png"
+        }
+    },
     ai: {
         defaultShape1: {
             title: "CHORN's AI default shape-1",

@@ -6,7 +6,7 @@ import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
 import AiSolutionsPage from "@/components/AiSolutions/AiSolutionsPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
-import {MetadataLlmAi} from "@/data/metadata/pages/llmAi/common/MetadataLlmAi";
+import {MetadataLlmAi} from "@/metadata/pages/llm-ai/common/MetadataLlmAi";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

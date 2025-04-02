@@ -13,7 +13,7 @@ import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkup
 import type {Metadata} from "next";
 import FlexibleWorkspace from "@/components/Gallery/FlexibleWorkspace";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
-import {MetadataHome} from "@/data/metadata/pages/home/common/MetadataHome";
+import {MetadataHome} from "@/metadata/pages/home/common/MetadataHome";
 import {headers} from "next/headers";
 
 export async function generateMetadata(): Promise<Metadata> {

@@ -9,7 +9,7 @@ import ServicesCardWeb3Blockchain from "@/components/Services/web3-blockchain-de
 import CloudExperience from "@/components/Common/CloudExperience";
 import {headers} from "next/headers";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {MetadataWeb3} from "@/data/metadata/pages/web3/common/MetadataWeb3";
+import {MetadataWeb3} from "@/metadata/pages/web3/common/MetadataWeb3";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

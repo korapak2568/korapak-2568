@@ -8,7 +8,7 @@ import ServicesDetailsDotNetCore
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataDotnetCore} from "@/data/metadata/pages/backend/dotnetcore/common/MetadataDotnetCore";
+import {MetadataDotnetCore} from "@/metadata/pages/backend/dotnet/common/MetadataDotnetCore";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

@@ -8,7 +8,7 @@ import ServicesCardDevOpsTesting from "@/components/Services/cloud-devops/Servic
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataBackEndMain} from "@/data/metadata/pages/backend/main/common/MetadataBackEndMain";
+import {MetadataBackEndMain} from "@/metadata/pages/backend/main/common/MetadataBackEndMain";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

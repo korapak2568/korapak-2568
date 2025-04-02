@@ -9,7 +9,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesCardCloudInfrastructureSystemsArchitecture
     from "@/components/Services/cloud-infrastructure-systems-architecture/ServicesCardCloudInfrastructureSystemsArchitecture";
 import {headers} from "next/headers";
-import {MetadataCloudSolution} from "@/data/metadata/pages/cloudSolution/common/MetadataCloudSolution";
+import {MetadataCloudSolution} from "@/metadata/pages/cloud-solution/common/MetadataCloudSolution";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {

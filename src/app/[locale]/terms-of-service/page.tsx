@@ -7,7 +7,7 @@ import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import type {Metadata} from "next";
 import {headers} from "next/headers";
-import {MetadataTermOfService} from "@/data/metadata/pages/terms-of-service/common/MetadataTermOfService";
+import {MetadataTermOfService} from "@/metadata/pages/terms-of-service/common/MetadataTermOfService";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';
