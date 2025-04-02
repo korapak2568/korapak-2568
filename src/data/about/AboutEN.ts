@@ -25,7 +25,7 @@ export const AboutEN: IAbout = {
         },
         {
             title: "Agile Software Development, Coordination with Business Teams",
-            description: "Experience in agile software development and coordination with business teams. Experience working closely with teams both domestically and internationally, internal and external clients, business users, and vendors. Continuous improvement projects in Agile, Waterfall, and Hybrid formats."
+            description: "Experience in agile software development and coordination with business teams. Experience working closely with teams both domestically and internationally, internal-images and external clients, business users, and vendors. Continuous improvement projects in Agile, Waterfall, and Hybrid formats."
         }
     ]
 };

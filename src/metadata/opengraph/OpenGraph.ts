@@ -6,7 +6,7 @@ import {TrackVersion} from "../version/MetadataVersion";
 
 export const OpenGraph: IOpenGraph = {
     home: {
-        url: "https://chorn.in.th/images/home/home-og-image.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/home/home-og-image.jpg" + TrackVersion,
         alt: "CHORN's image of home flexible workplace"
     },
     llmAi: {
