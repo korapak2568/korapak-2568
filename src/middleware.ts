@@ -13,11 +13,11 @@ export function middleware(request: NextRequest) {
     if (
         pathname.startsWith('/_next') ||            // Next.js internal assets
         pathname.startsWith('/api') ||            // Custom static images
+        pathname.startsWith('/images') ||           // Custom static images
+        pathname.startsWith('/images-ai') ||        // Custom static images
         pathname.startsWith('/chorn-images') ||     // Custom static images
         pathname.startsWith('/contracts') ||        // Custom static images
         pathname.startsWith('/fonts') ||            // Custom static images
-        pathname.startsWith('/images') ||           // Custom static images
-        pathname.startsWith('/images-ai') ||        // Custom static images
         pathname.startsWith('/sitemap') ||          // Sitemaps (e.g., /sitemap.xml, /sitemap-0.xml)
         pathname === '/favicon.ico' ||              // Favicon
         pathname === '/robots.txt'                  // Robots.txt for SEO

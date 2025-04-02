@@ -21,7 +21,7 @@ const RelatedServices: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-7.jpg"
+                      src="/obsolete-images/services/services-7.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -42,7 +42,7 @@ const RelatedServices: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-8.jpg"
+                      src="/obsolete-images/services/services-8.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -63,7 +63,7 @@ const RelatedServices: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-9.jpg"
+                      src="/obsolete-images/services/services-9.jpg"
                       alt="image"
                       width={650}
                       height={500}

@@ -12,7 +12,7 @@ export default function Page() {
                 <div
                     className="main-banner-item main-banner-fah"
                     style={{
-                        backgroundImage: `url(https://cdn.chorn.in.th/obsolete/main-banner-bg-1.jpg)`,
+                        backgroundImage: `url(/obsolete-images/main-banner-bg-1.jpg)`,
                     }}
                 >
                     <div className="d-table d-table-fah">
@@ -30,7 +30,7 @@ export default function Page() {
                 <div className="main-banner-shape">
                     <div className="shape-1">
                         <Image
-                            src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-1.png"
+                            src="/obsolete-images/banner/banner-shape-1.png"
                             alt="image"
                             width={70}
                             height={85}
@@ -38,7 +38,7 @@ export default function Page() {
                     </div>
                     <div className="shape-2">
                         <Image
-                            src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-2.png"
+                            src="/obsolete-images/banner/banner-shape-2.png"
                             alt="image"
                             width={92}
                             height={95}
@@ -46,7 +46,7 @@ export default function Page() {
                     </div>
                     <div className="shape-3">
                         <Image
-                            src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-3.png"
+                            src="/obsolete-images/banner/banner-shape-3.png"
                             alt="image"
                             width={65}
                             height={70}

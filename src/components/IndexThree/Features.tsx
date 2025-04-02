@@ -66,7 +66,7 @@ const Features: React.FC = () => {
             <div className="col-lg-6">
               <div className="features-image">
                 <Image
-                  src="https://cdn.chorn.in.th/obsolete/features/features-1.png"
+                  src="/obsolete-images/features/features-1.png"
                   alt="image"
                   width={865}
                   height={615}

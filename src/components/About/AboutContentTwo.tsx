@@ -14,7 +14,7 @@ const AboutContentTwo: React.FC = () => {
             <div className="col-lg-6">
               <div
                 className="about-image-warp"
-                style={{ backgroundImage: `url(https://cdn.chorn.in.th/obsolete/about/about-5.jpg)` }}
+                style={{ backgroundImage: `url(/obsolete-images/about/about-5.jpg)` }}
               >
                 <div
                   onClick={() => setToggle(!toggle)}

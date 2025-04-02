@@ -5,7 +5,6 @@ import Link from "next/link";
 import {IAboutContent} from "@/data/about/model/IAboutContent";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {Space} from "@/lib/Space";
 
 const AboutContent: React.FC = () => {
     const locale = useLocale()
@@ -18,7 +17,7 @@ const AboutContent: React.FC = () => {
                         <div className="col-lg-6">
                             <div
                                 className="about-image-warp "
-                                style={{backgroundImage: `url(${Space.public}/page-banner/cover-1.webp)`}}
+                                style={{backgroundImage: `url(/images/page-banner/cover-1.webp)`}}
                             >
                             </div>
                         </div>

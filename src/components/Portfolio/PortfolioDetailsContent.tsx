@@ -12,7 +12,7 @@ const PortfolioDetailsContent: React.FC = () => {
             <div className="col-lg-8">
               <div className="portfolio-details-image">
                 <Image
-                  src="https://cdn.chorn.in.th/obsolete/portfolio-details.jpg"
+                  src="/obsolete-images/portfolio-details.jpg"
                   alt="portfolio"
                   width={1000}
                   height={600}

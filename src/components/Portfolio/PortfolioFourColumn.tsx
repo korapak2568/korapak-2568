@@ -15,7 +15,7 @@ const PortfolioFourColumn: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-1.jpg"
+                      src="/obsolete-images/portfolio/portfolio-1.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -37,7 +37,7 @@ const PortfolioFourColumn: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-2.jpg"
+                      src="/obsolete-images/portfolio/portfolio-2.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -59,7 +59,7 @@ const PortfolioFourColumn: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-3.jpg"
+                      src="/obsolete-images/portfolio/portfolio-3.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -81,7 +81,7 @@ const PortfolioFourColumn: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-4.jpg"
+                      src="/obsolete-images/portfolio/portfolio-4.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -103,7 +103,7 @@ const PortfolioFourColumn: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-5.jpg"
+                      src="/obsolete-images/portfolio/portfolio-5.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -125,7 +125,7 @@ const PortfolioFourColumn: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-6.jpg"
+                      src="/obsolete-images/portfolio/portfolio-6.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -147,7 +147,7 @@ const PortfolioFourColumn: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-7.jpg"
+                      src="/obsolete-images/portfolio/portfolio-7.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -169,7 +169,7 @@ const PortfolioFourColumn: React.FC = () => {
                 <div className="portfolio-image">
                   <Link href="/portfolio/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/portfolio/portfolio-8.jpg"
+                      src="/obsolete-images/portfolio/portfolio-8.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -214,7 +214,7 @@ const PortfolioFourColumn: React.FC = () => {
         <div className="default-shape">
           <div className="shape1">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape1.png"
+              src="/obsolete-images/default-shape/default-shape1.png"
               alt="image"
               width={52}
               height={52}
@@ -222,7 +222,7 @@ const PortfolioFourColumn: React.FC = () => {
           </div>
           <div className="shape2">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape2.png"
+              src="/obsolete-images/default-shape/default-shape2.png"
               alt="image"
               width={14}
               height={16}
@@ -230,7 +230,7 @@ const PortfolioFourColumn: React.FC = () => {
           </div>
           <div className="shape3">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape3.png"
+              src="/obsolete-images/default-shape/default-shape3.png"
               alt="image"
               width={18}
               height={18}
@@ -238,7 +238,7 @@ const PortfolioFourColumn: React.FC = () => {
           </div>
           <div className="shape4">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape4.png"
+              src="/obsolete-images/default-shape/default-shape4.png"
               alt="image"
               width={52}
               height={52}

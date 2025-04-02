@@ -11,7 +11,7 @@ const MainBanner: React.FC = () => {
         <div 
           className="main-banner-item item-two"
           style={{
-            backgroundImage: `url(https://cdn.chorn.in.th/obsolete/main-banner-bg-2.jpg)`,
+            backgroundImage: `url(/obsolete-images/main-banner-bg-2.jpg)`,
           }}
         >
           <div className="d-table">
@@ -59,7 +59,7 @@ const MainBanner: React.FC = () => {
                   <div className="col-lg-6">
                     <div className="main-banner-image">
                       <Image
-                        src="https://cdn.chorn.in.th/obsolete/banner/banner-image-2.png"
+                        src="/obsolete-images/banner/banner-image-2.png"
                         alt="image"
                         width={985}
                         height={1040}
@@ -75,7 +75,7 @@ const MainBanner: React.FC = () => {
         <div className="main-banner-shape">
           <div className="shape-4">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-2.png"
+              src="/obsolete-images/banner/banner-shape-2.png"
               alt="image"
               width={92}
               height={95}
@@ -83,7 +83,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-5">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-2.png"
+              src="/obsolete-images/banner/banner-shape-2.png"
               alt="image"
               width={92}
               height={95}
@@ -91,7 +91,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-6">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-3.png"
+              src="/obsolete-images/banner/banner-shape-3.png"
               alt="image"
               width={65}
               height={70}
@@ -99,7 +99,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-7">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-4.png"
+              src="/obsolete-images/banner/banner-shape-4.png"
               alt="image"
               width={55}
               height={55}
@@ -107,7 +107,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-8">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-5.png"
+              src="/obsolete-images/banner/banner-shape-5.png"
               alt="image"
               width={56}
               height={56}

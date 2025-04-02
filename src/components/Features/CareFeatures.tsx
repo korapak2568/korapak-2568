@@ -35,7 +35,7 @@ const CareFeatures: React.FC = () => {
 
                 <div className="shape">
                   <Image
-                    src="https://cdn.chorn.in.th/obsolete/features-shape/features-shape-1.png"
+                    src="/obsolete-images/features-shape/features-shape-1.png"
                     alt="image"
                     width={250}
                     height={200}
@@ -63,7 +63,7 @@ const CareFeatures: React.FC = () => {
 
                 <div className="shape">
                   <Image
-                    src="https://cdn.chorn.in.th/obsolete/features-shape/features-shape-1.png"
+                    src="/obsolete-images/features-shape/features-shape-1.png"
                     alt="image"
                     width={250}
                     height={200}
@@ -91,7 +91,7 @@ const CareFeatures: React.FC = () => {
 
                 <div className="shape">
                   <Image
-                    src="https://cdn.chorn.in.th/obsolete/features-shape/features-shape-1.png"
+                    src="/obsolete-images/features-shape/features-shape-1.png"
                     alt="image"
                     width={250}
                     height={200}
@@ -119,7 +119,7 @@ const CareFeatures: React.FC = () => {
 
                 <div className="shape">
                   <Image
-                    src="https://cdn.chorn.in.th/obsolete/features-shape/features-shape-1.png"
+                    src="/obsolete-images/features-shape/features-shape-1.png"
                     alt="image"
                     width={250}
                     height={200}

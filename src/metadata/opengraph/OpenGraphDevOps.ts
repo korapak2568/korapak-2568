@@ -1,46 +1,45 @@
 import {IOpenGraphDevOps} from "@/metadata/model/opengraph/IOpenGraphDevOps";
 import {ImageVersion} from "@/metadata/ImageVersion";
-import {Space} from "@/lib/Space";
 
 export const OpenGraphDevOps: IOpenGraphDevOps = {
     main: {
-        url: `${Space.public}/metadata/devops-testing-services.png` + ImageVersion,
-        alt: `DevOps & Testing Services Banner`
+        url: "https://chorn.in.th/images/metadata/devops-testing-services.png" + ImageVersion,
+        alt: "CHORN's image of DevOps & Testing Services Banner"
     },
     appium: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/appium.png` + ImageVersion,
-        alt: `Appium Testing Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/appium.png" + ImageVersion,
+        alt: "CHORN's image of Appium Testing Banner"
     },
     docker: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/docker.png` + ImageVersion,
-        alt: `Docker DevOps Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/docker.png" + ImageVersion,
+        alt: "CHORN's image of Docker DevOps Banner"
     },
     github: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/github.png` + ImageVersion,
-        alt: `GitHub DevOps Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/github.png" + ImageVersion,
+        alt: "CHORN's image of GitHub DevOps Banner"
     },
     gitlab: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/gitlab.png` + ImageVersion,
-        alt: `GitLab DevOps Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/gitlab.png" + ImageVersion,
+        alt: "CHORN's image of GitLab DevOps Banner"
     },
     jenkins: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/jenkins.png` + ImageVersion,
-        alt: `Jenkins DevOps Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/jenkins.png" + ImageVersion,
+        alt: "CHORN's image of Jenkins DevOps Banner"
     },
     kube: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/kubernetes.png` + ImageVersion,
-        alt: `Kubernetes DevOps Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/kubernetes.png" + ImageVersion,
+        alt: "CHORN's image of Kubernetes DevOps Banner"
     },
     postman: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/postman.png` + ImageVersion,
-        alt: `Postman API Testing Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/postman.png" + ImageVersion,
+        alt: "CHORN's image of Postman API Testing Banner"
     },
     selenium: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/selenium.png` + ImageVersion,
-        alt: `Selenium Testing Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/selenium.png" + ImageVersion,
+        alt: "CHORN's image of Selenium Testing Banner"
     },
     soapui: {
-        url: `${Space.public}/metadata/technical-expertise/devops-testing/soapui.png` + ImageVersion,
-        alt: `SoapUI Testing Banner`
+        url: "https://chorn.in.th/images/metadata/technical-expertise/devops-testing/soapui.png" + ImageVersion,
+        alt: "CHORN's image of SoapUI Testing Banner"
     },
 }

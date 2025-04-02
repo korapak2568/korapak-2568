@@ -32,7 +32,7 @@ const BlogSidebar: React.FC = () => {
               <span
                 className="fullimage cover"
                 role="img"
-                style={{ backgroundImage: `url(https://cdn.chorn.in.th/obsolete/blog/blog-1.jpg)` }}
+                style={{ backgroundImage: `url(/obsolete-images/blog/blog-1.jpg)` }}
               ></span>
             </Link>
             <div className="info">
@@ -50,7 +50,7 @@ const BlogSidebar: React.FC = () => {
               <span
                 className="fullimage cover"
                 role="img"
-                style={{ backgroundImage: `url(https://cdn.chorn.in.th/obsolete/blog/blog-2.jpg)` }}
+                style={{ backgroundImage: `url(/obsolete-images/blog/blog-2.jpg)` }}
               ></span>
             </Link>
             <div className="info">
@@ -68,7 +68,7 @@ const BlogSidebar: React.FC = () => {
               <span
                 className="fullimage cover"
                 role="img"
-                style={{ backgroundImage: `url(https://cdn.chorn.in.th/obsolete/blog/blog-3.jpg)` }}
+                style={{ backgroundImage: `url(/obsolete-images/blog/blog-3.jpg)` }}
               ></span>
             </Link>
             <div className="info">
@@ -86,7 +86,7 @@ const BlogSidebar: React.FC = () => {
               <span
                 className="fullimage cover"
                 role="img"
-                style={{ backgroundImage: `url(https://cdn.chorn.in.th/obsolete/blog/blog-4.jpg)` }}
+                style={{ backgroundImage: `url(/obsolete-images/blog/blog-4.jpg)` }}
               ></span>
             </Link>
             <div className="info">
@@ -104,7 +104,7 @@ const BlogSidebar: React.FC = () => {
               <span
                 className="fullimage cover"
                 role="img"
-                style={{ backgroundImage: `url(https://cdn.chorn.in.th/obsolete/blog/blog-5.jpg)` }}
+                style={{ backgroundImage: `url(/obsolete-images/blog/blog-5.jpg)` }}
               ></span>
             </Link>
             <div className="info">

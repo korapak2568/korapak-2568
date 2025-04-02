@@ -16,7 +16,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-1.png"
+                      src="/obsolete-images/services/services-1.png"
                       alt="image"
                       width={125}
                       height={135}
@@ -42,7 +42,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-2.png"
+                      src="/obsolete-images/services/services-2.png"
                       alt="image"
                       width={170}
                       height={135}
@@ -68,7 +68,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-3.png"
+                      src="/obsolete-images/services/services-3.png"
                       alt="image"
                       width={125}
                       height={135}
@@ -94,7 +94,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-4.png"
+                      src="/obsolete-images/services/services-4.png"
                       alt="image"
                       width={180}
                       height={135}
@@ -122,7 +122,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-5.png"
+                      src="/obsolete-images/services/services-5.png"
                       alt="image"
                       width={160}
                       height={135}
@@ -148,7 +148,7 @@ const ServicesCardFrontEnd: React.FC = () => {
                 <div className="image">
                   <Link href="/technical-expertise/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/services/services-6.png"
+                      src="/obsolete-images/services/services-6.png"
                       alt="image"
                       width={150}
                       height={135}
@@ -174,7 +174,7 @@ const ServicesCardFrontEnd: React.FC = () => {
         <div className="default-shape">
           <div className="shape1">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape1.png"
+              src="/obsolete-images/default-shape/default-shape1.png"
               alt="image"
               width={52}
               height={52}
@@ -182,7 +182,7 @@ const ServicesCardFrontEnd: React.FC = () => {
           </div>
           <div className="shape2">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape2.png"
+              src="/obsolete-images/default-shape/default-shape2.png"
               alt="image"
               width={14}
               height={16}
@@ -190,7 +190,7 @@ const ServicesCardFrontEnd: React.FC = () => {
           </div>
           <div className="shape3">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape3.png"
+              src="/obsolete-images/default-shape/default-shape3.png"
               alt="image"
               width={18}
               height={18}
@@ -198,7 +198,7 @@ const ServicesCardFrontEnd: React.FC = () => {
           </div>
           <div className="shape4">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape4.png"
+              src="/obsolete-images/default-shape/default-shape4.png"
               alt="image"
               width={52}
               height={52}

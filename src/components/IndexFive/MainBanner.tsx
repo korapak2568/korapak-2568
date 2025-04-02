@@ -11,7 +11,7 @@ const MainBanner: React.FC = () => {
         <div 
           className="main-banner-item item-three"
           style={{
-            backgroundImage: `url(https://cdn.chorn.in.th/obsolete/main-banner-bg-3.jpg)`,
+            backgroundImage: `url(/obsolete-images/main-banner-bg-3.jpg)`,
           }}
         >
           <div className="d-table">
@@ -65,7 +65,7 @@ const MainBanner: React.FC = () => {
                       data-aos-once="true"
                     >
                       <Image
-                        src="https://cdn.chorn.in.th/obsolete/banner/banner-image-3.jpg"
+                        src="/obsolete-images/banner/banner-image-3.jpg"
                         alt="image"
                         width={590}
                         height={665}
@@ -81,7 +81,7 @@ const MainBanner: React.FC = () => {
         <div className="main-banner-shape">
           <div className="shape-9">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-6.png"
+              src="/obsolete-images/banner/banner-shape-6.png"
               alt="image"
               width={399}
               height={438}
@@ -89,7 +89,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-10">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-7.png"
+              src="/obsolete-images/banner/banner-shape-7.png"
               alt="image"
               width={66}
               height={62}
@@ -97,7 +97,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-11">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-8.png"
+              src="/obsolete-images/banner/banner-shape-8.png"
               alt="image"
               width={117}
               height={119}
@@ -105,7 +105,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-12">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-9.png"
+              src="/obsolete-images/banner/banner-shape-9.png"
               alt="image"
               width={164}
               height={164}
@@ -113,7 +113,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-13">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-10.png"
+              src="/obsolete-images/banner/banner-shape-10.png"
               alt="image"
               width={438}
               height={399}
@@ -121,7 +121,7 @@ const MainBanner: React.FC = () => {
           </div>
           <div className="shape-14">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/banner/banner-shape-11.png"
+              src="/obsolete-images/banner/banner-shape-11.png"
               alt="image"
               width={125}
               height={125}

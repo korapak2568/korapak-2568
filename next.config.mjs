@@ -16,6 +16,11 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/images/:path*',
+                destination: 'https://cdn.chorn.in.th/public/:path*',
+                permanent: true,
+            },
+            {
                 source: '/images-ai/:path*',
                 destination: 'https://cdn.chorn.in.th/public/ai/:path*',
                 permanent: true,
@@ -23,6 +28,11 @@ const nextConfig = {
             {
                 source: '/chorn-images/:path*',
                 destination: 'https://cdn.chorn.in.th/public/:path*',
+                permanent: true,
+            },
+            {
+                source: '/obsolete-images/:path*',
+                destination: 'https://cdn.chorn.in.th/obsolete/:path*',
                 permanent: true,
             },
             {

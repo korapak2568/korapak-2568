@@ -15,7 +15,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-1.jpg"
+                      src="/obsolete-images/blog/blog-1.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -42,7 +42,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-2.jpg"
+                      src="/obsolete-images/blog/blog-2.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -69,7 +69,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-3.jpg"
+                      src="/obsolete-images/blog/blog-3.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -95,7 +95,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-4.jpg"
+                      src="/obsolete-images/blog/blog-4.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -122,7 +122,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-5.jpg"
+                      src="/obsolete-images/blog/blog-5.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -148,7 +148,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-6.jpg"
+                      src="/obsolete-images/blog/blog-6.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -174,7 +174,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-7.jpg"
+                      src="/obsolete-images/blog/blog-7.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -201,7 +201,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-8.jpg"
+                      src="/obsolete-images/blog/blog-8.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -227,7 +227,7 @@ const BlogThreeColumn: React.FC = () => {
                 <div className="image">
                   <Link href="/blog/details">
                     <Image
-                      src="https://cdn.chorn.in.th/obsolete/blog/blog-9.jpg"
+                      src="/obsolete-images/blog/blog-9.jpg"
                       alt="image"
                       width={650}
                       height={500}
@@ -276,7 +276,7 @@ const BlogThreeColumn: React.FC = () => {
         <div className="default-shape">
           <div className="shape1">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape1.png"
+              src="/obsolete-images/default-shape/default-shape1.png"
               alt="image"
               width={52}
               height={52}
@@ -284,7 +284,7 @@ const BlogThreeColumn: React.FC = () => {
           </div>
           <div className="shape2">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape2.png"
+              src="/obsolete-images/default-shape/default-shape2.png"
               alt="image"
               width={14}
               height={16}
@@ -292,7 +292,7 @@ const BlogThreeColumn: React.FC = () => {
           </div>
           <div className="shape3">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape3.png"
+              src="/obsolete-images/default-shape/default-shape3.png"
               alt="image"
               width={18}
               height={18}
@@ -300,7 +300,7 @@ const BlogThreeColumn: React.FC = () => {
           </div>
           <div className="shape4">
             <Image
-              src="https://cdn.chorn.in.th/obsolete/default-shape/default-shape4.png"
+              src="/obsolete-images/default-shape/default-shape4.png"
               alt="image"
               width={52}
               height={52}
