@@ -42,6 +42,7 @@
     "sharp": "^0.33.3",
     "solc": "0.8.20",
     "swiper": "^11.1.0",
+    "uuid": "^11.1.0",
     "web3": "^4.16.0"
   },
   "devDependencies": {
