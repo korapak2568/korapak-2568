@@ -7,7 +7,7 @@ export const AboutDA: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN blev lanceret i marts 2023 af K. Khachornchit og tilbyder ekspertise inden for teknologi og softwareudvikling. Med en baggrund i elektroingeniørarbejde og over 20 års erfaring er han specialiseret i IT, systemarkitektur, analyse, fuld-cyklus softwareudviklingsarbejde, webudvikling, software QA/test, DevOps og CI/CD.",
+            "description": "CHORN blev lanceret i marts 2023 og tilbyder ekspertise inden for teknologi og softwareudvikling. Vi er specialiserede i IT, systemarkitektur, analyse, fuld-cyklus softwareudviklingsudvikling, webudvikling, software QA/test, DevOps og CI/CD."
         },
         {
             title: "",

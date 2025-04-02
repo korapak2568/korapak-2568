@@ -32,7 +32,7 @@ export const FooterDE: IFooter = {
         },
         {
             label: "LinkedIn",
-            link: "https://www.linkedin.com/in/khachornchit",
+            link: "https://www.linkedin.com/company/chorn",
             icon: "bx bxl-linkedin hover-rotate",
             iconClass: "linkedin",
             ariaLabel: "Vernetzen Sie sich mit uns auf LinkedIn"

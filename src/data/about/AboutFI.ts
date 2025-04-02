@@ -7,7 +7,7 @@ export const AboutFI: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN perustettiin maaliskuussa 2023 K. Khachornchitin toimesta, tarjoten asiantuntemusta teknologian ja ohjelmistokehityksen alalla. Sähkötekniikan taustalla ja yli 20 vuoden kokemuksella hän on erikoistunut IT-alaan, järjestelmäarkkitehtuuriin, analyysiin, täyden kierron ohjelmistokehitykseen, verkkokehitykseen, ohjelmistojen laadunvarmistukseen/testaukseen, DevOpsiin ja CI/CD:hen.",
+            "description": "CHORN perustettiin maaliskuussa 2023 tarjoamaan teknologia- ja ohjelmistokehitysasiantuntemusta. Erikoisalueitamme ovat IT, järjestelmäarkkitehtuuri, analyysi, täyden kierron ohjelmistokehitys, verkkokehitys, ohjelmistojen laadunvarmistus/testaus, DevOps ja CI/CD."
         },
         {
             title: "",

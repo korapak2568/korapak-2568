@@ -7,7 +7,7 @@ export const AboutVI: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN được thành lập vào tháng 3 năm 2023 bởi K. Khachornchit, cung cấp chuyên môn về công nghệ và phát triển phần mềm. Với nền tảng kỹ thuật điện và hơn 20 năm kinh nghiệm, ông chuyên về CNTT, kiến trúc hệ thống, phân tích, kỹ thuật phát triển phần mềm toàn chu trình, phát triển web, Đảm bảo chất lượng/Kiểm thử phần mềm, DevOps và CI/CD.",
+            "description": "CHORN được ra mắt vào tháng 3 năm 2023, cung cấp chuyên môn về công nghệ và phát triển phần mềm. Chúng tôi chuyên về CNTT, kiến trúc hệ thống, phân tích, kỹ thuật phát triển phần mềm toàn chu trình, phát triển web, Kiểm tra/Đảm bảo chất lượng phần mềm, DevOps và CI/CD."
         },
         {
             title: "",

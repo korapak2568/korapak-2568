@@ -34,7 +34,7 @@ export const OpenGraph: IOpenGraph = {
         alt: "CHORN's image of gallery",
     },
     about: {
-        url: "https://chorn.in.th/internal-images/about/about-og-image.jpg" + TrackVersion,
+        url: "https://chorn.in.th/internal-images/about/about-og-image.png" + TrackVersion,
         alt: "CHORN's image of about"
     },
     contact: {

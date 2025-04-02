@@ -32,7 +32,7 @@ export const FooterKO: IFooter = {
         },
         {
             label: "Linked",
-            link: "https://www.linkedin.com/in/khachornchit",
+            link: "https://www.linkedin.com/company/chorn",
             icon: "bx bxl-linkedin hover-rotate",
             iconClass: "linkedin",
             ariaLabel: "LinkedIn에서 연결하기"

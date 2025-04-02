@@ -7,7 +7,8 @@ export const AboutKO: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN은 2023년 3월 K. Khachornchit에 의해 설립되어 기술 및 소프트웨어 개발 전문 지식을 제공합니다. 전기 공학 배경과 20년 이상의 경험을 바탕으로 IT, 시스템 아키텍처, 분석, 전체 주기 소프트웨어 개발 엔지니어링, 웹 개발, 소프트웨어 QA/테스팅, DevOps 및 CI/CD를 전문으로 합니다."
+            "description": "CHORN은 2023년 3월에 출시되어 기술 및 소프트웨어 개발 전문 지식을 제공합니다. IT, 시스템 아키텍처, 분석, 전체 주기 소프트웨어 개발 엔지니어링, 웹 개발, 소프트웨어 QA/테스팅, DevOps 및 CI/CD를 전문으로 합니다."
+
         },
         {
             title: "",

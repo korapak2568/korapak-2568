@@ -7,7 +7,7 @@ export const AboutDE: IAbout = {
     description: [
         {
             title: "",
-            description: "CHORN wurde im März 2023 von K. Khachornchit gegründet und bietet Fachwissen in Technologie und Softwareentwicklung. Mit einem Hintergrund in Elektrotechnik und mehr als 20 Jahren Erfahrung ist er spezialisiert auf IT, Systemarchitektur, Analyse, Full-Cycle-Softwareentwicklung, Webentwicklung, Software-QA/Testing, DevOps und CI/CD.",
+            "description": "CHORN wurde im März 2023 gegründet und bietet Fachwissen in den Bereichen Technologie und Softwareentwicklung. Wir sind spezialisiert auf IT, Systemarchitektur, Analyse, Full-Cycle-Softwareentwicklung, Webentwicklung, Software-QA/Testing, DevOps und CI/CD."
         },
         {
             title: "",

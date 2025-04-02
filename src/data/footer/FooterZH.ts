@@ -32,7 +32,7 @@ export const FooterZH: IFooter = {
         },
         {
             label: "LinkedIn",
-            link: "https://www.linkedin.com/in/khachornchit",
+            link: "https://www.linkedin.com/company/chorn",
             icon: "bx bxl-linkedin hover-rotate",
             iconClass: "linkedin",
             ariaLabel: "在 LinkedIn 上与我们联系"

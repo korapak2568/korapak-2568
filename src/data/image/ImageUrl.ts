@@ -219,7 +219,7 @@ export const ImageUrl: IImageUrl = {
     },
     about: {
         title: "CHORN's about image",
-        path: "/images/about/about-chorn.jpg"
+        path: "/images/about/about-chorn-optimize.webp"
     },
     NotFound404: {
         title: "CHORN's 404 not found image",
