@@ -1,1 +1,0 @@
-export const ImageVersion = "?v=NAH0fzZUaqOEdP8zt7jCW51BQNgbaPsHpAMjAsRr77cvIZM3sn"

@@ -1,5 +1,3 @@
-export const CHORN_SPACE_PUBLIC = `https://cdn.chorn.in.th/public`
-
 export const ChornLocales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da', 'fi', 'ko']
 
 export const ChornUrls = [

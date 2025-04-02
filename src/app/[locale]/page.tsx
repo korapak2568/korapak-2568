@@ -26,7 +26,7 @@ export default function Home() {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "CHORN | AI & Software Solutions",
-        "logo": "https://cdn.chorn.in.th/public/logo-2025/chorn-logo-2025-circle-md.png",
+        "logo": "https://chorn.in.th/images/logo-2025/chorn-logo-2025-circle-md.png",
         "@id": "https://chorn.in.th",
         "url": "https://chorn.in.th",
         "contactPoint": {
