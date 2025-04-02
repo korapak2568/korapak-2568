@@ -6,15 +6,28 @@ import {chornLocales, chornUrls} from "@/lib/utils";
 export async function GET() {
     const baseUrl = "https://www.chorn.in.th";
     const lastModified = new Date().toISOString().split('T')[0];
-    const localizedUrls = chornUrls.flatMap(url => chornLocales.map(locale =>
-        `<url>
-            <loc>${baseUrl}/${locale}${url}</loc>
-            <lastmod>${lastModified}</lastmod>
-            <priority>0.8</priority>
-        </url>`));
+    const localizedUrls = chornUrls.flatMap(url => {
+
+            if (url.includes("/technical-expertise/")) {
+                return chornLocales.map(locale =>
+                    `<url>
+                        <loc>${baseUrl}/${locale}${url}</loc>
+                        <lastmod>${lastModified}</lastmod>
+                        <priority>0.8</priority>
+                    </url>`)
+            }
+
+            return chornLocales.map(locale =>
+                `<url>
+                    <loc>${baseUrl}/${locale}${url}</loc>
+                    <lastmod>${lastModified}</lastmod>
+                    <priority>0.8</priority>
+                </url>`)
+        }
+    )
 
     const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       ${localizedUrls.join("\n")}
     </urlset>`;
 

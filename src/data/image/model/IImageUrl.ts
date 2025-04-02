@@ -2,6 +2,19 @@ import {IImageUnit} from "@/data/image/model/IImageUnit";
 import {IImageLink} from "@/data/image/model/IImageLink";
 
 export interface IImageUrl {
+    ai: {
+        defaultShape1: IImageUnit,
+        defaultShape2: IImageUnit,
+        defaultShape3: IImageUnit,
+        defaultShape4: IImageUnit,
+    },
+    mainSlide: {
+        shape1: IImageUnit,
+        shape2: IImageUnit,
+        shape3: IImageUnit,
+        shape4: IImageUnit,
+        shape5: IImageUnit,
+    },
     feature: IImageUnit,
     about: IImageUnit,
     NotFound404: IImageUnit,
