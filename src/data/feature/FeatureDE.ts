@@ -18,13 +18,13 @@ export const FeatureDE: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "Web- und API-Entwicklung",
+            title: "Webentwicklung",
             description: "End-to-End-Webentwicklungslösungen mit modernen Technologien wie Node.js, Java, Spring Boot, Go, PHP und Python zur Erstellung dynamischer, reaktionsschneller Websites.",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "Web3- und Blockchain-Entwicklung",
+            title: "Web3-Blockchain-Entwicklung",
             description: "Erfahrung in Spitzentechnologien wie Blockchain, Decentralized Finance (DeFi), Smart Contracts und Web3, um sicherzustellen, dass Ihr finanzielles Fachwissen stets an der Spitze bleibt.",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"

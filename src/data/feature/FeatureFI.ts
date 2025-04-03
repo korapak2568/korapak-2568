@@ -19,13 +19,13 @@ export const FeatureFI: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "Verkko- ja API-kehitys",
+            title: "Verkkosovelluskehitys",
             description: "Päästä päähän verkkokehitysratkaisut käyttäen moderneja teknologioita kuten Node.js, Java, Spring Boot, Go, PHP ja Python dynaamisten ja responsiivisten verkkosivustojen luomiseen.",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "Web3- ja lohkoketjukehitys",
+            title: "Web3-lohkoketjukehitys",
             description: "Kokemus huippuluokan teknologioista kuten lohkoketju, hajautettu rahoitus (DeFi), älysopimukset ja Web3, varmistaen että rahoituksen tekninen asiantuntemus pysyy kehityksen kärjessä.",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"

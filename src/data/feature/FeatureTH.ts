@@ -18,13 +18,13 @@ export const FeatureTH: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "การพัฒนาเว็บไซต์ และ เอพีไอ",
+            title: "การพัฒนาเว็บแอพพลิเคชั่น",
             description: "โซลูชันการพัฒนาเว็บแบบครบวงจรโดยใช้เทคโนโลยีสมัยใหม่เช่น Node.js, Java, Spring Boot, Go, PHP และ Python เพื่อสร้างเว็บไซต์แบบไดนามิกและตอบสนอง",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "การพัฒนาเว็บ ๓ และ บล็อกเชน",
+            title: "การพัฒนาเว็บ ๓ บล็อกเชน",
             description: "ประสบการณ์ในเทคโนโลยีล้ำสมัยเช่น Blockchain, Decentralized Finance (DeFi), Smart Contracts และ Web3 เพื่อให้แน่ใจว่าความเชี่ยวชาญเทคนิคด้านการเงินของคุณยังคงล้ำหน้าอยู่เสมอ",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"

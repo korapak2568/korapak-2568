@@ -19,13 +19,13 @@ export const FeatureKO: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "웹 및 API 개발",
+            title: "웹 애플리케이션 개발",
             description: "동적이고 반응형 웹사이트를 만들기 위해 Node.js, Java, Spring Boot, Go, PHP, Python과 같은 현대적인 기술을 사용한 종합적인 웹 개발 솔루션.",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "Web3 및 블록체인 개발",
+            title: "Web3 블록체인 개발",
             description: "블록체인, 분산 금융(DeFi), 스마트 계약, Web3와 같은 최첨단 기술 경험으로 금융 기술 전문성이 항상 앞서 나가도록 보장합니다.",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"

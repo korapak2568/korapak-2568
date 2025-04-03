@@ -18,13 +18,13 @@ export const FeatureJA: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "WebおよびAPI開発",
+            title: "ウェブアプリケーション開発",
             description: "動的でレスポンシブなウェブサイトを作成するためにNode.js、Java、Spring Boot、Go、PHP、Pythonなどの最新テクノロジーを使用したエンドツーエンドのウェブ開発ソリューション。",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "Web3およびブロックチェーン開発",
+            title: "Web3ブロックチェーン開発",
             description: "ブロックチェーン、分散型金融（DeFi）、スマートコントラクト、Web3などの最先端テクノロジーの経験により、あなたの金融技術専門知識が常に最先端であることを保証します。",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"

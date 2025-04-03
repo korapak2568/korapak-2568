@@ -18,13 +18,13 @@ export const FeatureVI: IFeature = {
             icon: "bx bx-server"
         },
         {
-            title: "Phát triển Web và API",
+            title: "Phát triển Ứng dụng Web",
             description: "Giải pháp phát triển web từ đầu đến cuối sử dụng các công nghệ hiện đại như Node.js, Java, Spring Boot, Go, PHP và Python để tạo ra các trang web động, phản hồi nhanh.",
             link: "/technical-expertise/web-development/",
             icon: "bx bx-globe"
         },
         {
-            title: "Phát triển Web3 và Blockchain",
+            title: "Phát triển Blockchain Web3",
             description: "Kinh nghiệm trong các công nghệ tiên tiến như Blockchain, Tài chính Phi tập trung (DeFi), Hợp đồng thông minh và Web3, đảm bảo chuyên môn kỹ thuật tài chính của bạn luôn đi đầu.",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"
