@@ -7,7 +7,7 @@ export const Contact2025: IContact = {
         isLink: true,
         link: "https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu",
         linkText: "Chiang Mai, Thailand",
-        iconImageLink: ""
+        button: ""
     },
     email: {
         icon: "flaticon-email-1",
@@ -15,7 +15,7 @@ export const Contact2025: IContact = {
         isLink: true,
         link: "mailto:contact@chorn.in.th",
         linkText: "contact@chorn.in.th",
-        iconImageLink: ""
+        button: ""
     },
     tel: {
         icon: "flaticon-call",
@@ -23,7 +23,7 @@ export const Contact2025: IContact = {
         isLink: false,
         link: "",
         linkText: "Mon-  Fri : 08:30 - 17:30",
-        iconImageLink: ""
+        button: ""
     },
     github: {
         icon: "bx bxl-github",
@@ -31,7 +31,7 @@ export const Contact2025: IContact = {
         isLink: true,
         link: "https://github.com/chorn-digital",
         linkText: "CHORN Digital",
-        iconImageLink: ""
+        button: ""
     },
     linkedin: {
         icon: "bx bxl-linkedin",
@@ -39,23 +39,15 @@ export const Contact2025: IContact = {
         isLink: true,
         link: "https://www.linkedin.com/company/chorn",
         linkText: "CHORN LinkedIn",
-        iconImageLink: ""
+        button: ""
     },
-    lineoa: {
+    line: {
         icon: "",
         label: "Line OA",
         isLink: false,
-        link: "",
+        link: "https://line.me/R/ti/p/@813hbixu",
         linkText: "Line OA Development",
-        iconImageLink: ""
-    },
-    chorn: {
-        icon: "",
-        label: "LINE",
-        isLink: true,
-        link: "https://line.me/ti/p/QUzi-bM6W2",
-        linkText: "CHORN LINE",
-        iconImageLink: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
+        button: "https://scdn.line-apps.com/n/line_add_friends/btn/en.png",
     },
     contacts: [
         {
@@ -64,7 +56,7 @@ export const Contact2025: IContact = {
             isLink: true,
             link: "https://www.google.com/maps/place/CHORN/@18.84633,99.059526,17z/data=!4m6!3m5!1s0x42b952d661374a4f:0x924779e8f9fe3248!8m2!3d18.8463263!4d99.0594875!16s%2Fg%2F11kp_0g9hq?hl=th-TH&entry=ttu",
             linkText: "Chiang Mai, Thailand",
-            iconImageLink: ""
+            button: ""
         },
     ]
 }

@@ -6,8 +6,7 @@ export interface IContact {
     tel: IContactDetail,
     github: IContactDetail,
     linkedin: IContactDetail,
-    lineoa: IContactDetail,
-    chorn: IContactDetail,
+    line: IContactDetail,
 
     contacts: IContactDetail[];
 }

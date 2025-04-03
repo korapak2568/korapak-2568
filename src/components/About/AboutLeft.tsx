@@ -1,5 +1,8 @@
 import React from "react";
 import {ImageUrl} from "@/data/image/ImageUrl";
+import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import Image from "next/image";
+import {Contact2025} from "@/data/contact/Contact2025";
 
 export default function AboutLeft() {
     return (
@@ -23,9 +26,20 @@ export default function AboutLeft() {
                         <a href="https://www.linkedin.com/company/chorn/"
                            target="_blank"
                         >
-                            www.linkedin.com/chorn
+                            linkedin.com/chorn
                         </a>
                     </div>
+                </div>
+                <div>
+                    <a href={Contact2025.line.link}
+                       target={'_blank'}>
+                        <Image
+                            src={Contact2025.line.button}
+                            alt="เพิ่มเพื่อน"
+                            width={120}
+                            height={36}
+                        />
+                    </a>
                 </div>
             </div>
         </div>

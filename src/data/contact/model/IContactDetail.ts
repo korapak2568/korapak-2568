@@ -4,5 +4,5 @@ export interface IContactDetail {
     isLink: boolean,
     link: string,
     linkText: string,
-    iconImageLink: string
+    button: string
 }
