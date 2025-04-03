@@ -11,7 +11,7 @@ export const AboutVI: IAbout = {
         },
         {
             title: "Chuyên Môn",
-            description: "CHORN cam kết liên tục phát triển kiến thức về kỹ thuật phần mềm và CNTT. Điều này bao gồm việc tham gia vào các nền tảng AI Tạo sinh tiên tiến nhất thế giới để giúp đào tạo AI và xây dựng kiến thức và chuyên môn trong các lĩnh vực liên quan khác nhau như kiến trúc hệ thống, phân tích dữ liệu, phát triển ứng dụng web, kiểm thử phần mềm và điện toán đám mây."
+            description: "Cam kết liên tục phát triển kiến thức về kỹ thuật phần mềm và công nghệ thông tin, bao gồm tham gia vào các nền tảng Trí tuệ nhân tạo tạo sinh (Generative AI) để giúp đào tạo AI và mở rộng chuyên môn trong các lĩnh vực liên quan như kiến trúc hệ thống, phân tích dữ liệu, phát triển ứng dụng web, kiểm thử phần mềm và điện toán đám mây"
         },
         {
             title: "Địa Điểm và Hình Thức Làm Việc",

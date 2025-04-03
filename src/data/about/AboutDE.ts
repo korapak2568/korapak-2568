@@ -11,7 +11,7 @@ export const AboutDE: IAbout = {
         },
         {
             title: "Fachwissen",
-            description: "CHORN ist bestrebt, kontinuierlich Wissen in Softwareentwicklung und IT zu entwickeln. Dazu gehört die Teilnahme an den fortschrittlichsten Generative-AI-Plattformen der Welt, um bei der Schulung von KI zu helfen und Wissen und Expertise in verschiedenen verwandten Bereichen wie Systemarchitektur, Datenanalyse, Webentwicklung, Softwaretests und Cloud-Computing aufzubauen."
+            description: "Kontinuierlich engagiert in der Weiterentwicklung von Kenntnissen in Softwareentwicklung und IT, einschließlich der Teilnahme an Plattformen für generative KI, um bei der Schulung von KI zu helfen und Fachwissen in verwandten Bereichen wie Systemarchitektur, Datenanalyse, Webentwicklung, Softwaretests und Cloud-Technologie auszubauen"
         },
         {
             title: "Standort und Arbeitsform",

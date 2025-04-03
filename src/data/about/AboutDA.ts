@@ -11,7 +11,7 @@ export const AboutDA: IAbout = {
         },
         {
             title: "Ekspertise",
-            description: "CHORN er forpligtet til kontinuerligt at udvikle viden inden for softwareudvikling og IT. Dette inkluderer deltagelse i verdens mest avancerede Generative AI-platforme for at hjælpe med at træne AI og opbygge viden og ekspertise inden for forskellige relaterede områder såsom systemarkitektur, dataanalyse, webapplikationsudvikling, softwaretest og cloud computing."
+            description: "Kontinuerligt engageret i at udvikle viden inden for softwareingeniørarbejde og IT, herunder deltagelse i generativ AI-platforme for at hjælpe med at træne AI og udbygge ekspertise inden for relaterede områder såsom systemarkitektur, dataanalyse, webapplikationsudvikling, softwaretest og cloud"
         },
         {
             title: "Placering og Arbejdsform",

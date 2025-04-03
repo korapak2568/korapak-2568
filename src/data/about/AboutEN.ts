@@ -11,7 +11,7 @@ export const AboutEN: IAbout = {
         },
         {
             title: "Expertise",
-            description: "CHORN is committed to continuously developing knowledge in software engineering and IT. This includes participating in the world's most advanced Generative AI platforms to help train AI and build upon knowledge and expertise in various related fields such as system architecture, data analysis, web application development, software testing, and cloud computing."
+            description: "Continuously committed to developing knowledge in software engineering and IT, including participating in Generative AI platforms to help train AI and build upon related expertise in various areas such as system architecture, data analysis, web application development, software testing, and cloud technology"
         },
         {
             title: "Location and Work Format",

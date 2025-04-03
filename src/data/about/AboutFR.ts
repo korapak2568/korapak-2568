@@ -11,7 +11,7 @@ export const AboutFR: IAbout = {
         },
         {
             title: "Expertise",
-            description: "CHORN s'engage à développer continuellement ses connaissances en ingénierie logicielle et en informatique. Cela comprend la participation aux plateformes d'IA générative les plus avancées du monde pour aider à former l'IA et développer des connaissances et une expertise dans divers domaines connexes tels que l'architecture des systèmes, l'analyse de données, le développement d'applications web, les tests de logiciels et le cloud."
+            description: "Engagé continuellement dans le développement des connaissances en génie logiciel et en informatique, y compris la participation aux plateformes d'IA générative pour aider à former l'IA et développer l'expertise dans divers domaines connexes tels que l'architecture système, l'analyse de données, le développement d'applications web, les tests logiciels et le cloud"
         },
         {
             title: "Lieu et Format de Travail",

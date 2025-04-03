@@ -11,7 +11,7 @@ export const AboutNL: IAbout = {
         },
         {
             title: "Expertise",
-            description: "CHORN zet zich in voor het continu ontwikkelen van kennis op het gebied van software-engineering en IT. Dit omvat deelname aan 's werelds meest geavanceerde Generative AI-platforms om AI te helpen trainen en kennis en expertise op te bouwen in verschillende gerelateerde gebieden zoals systeemarchitectuur, gegevensanalyse, webapplicatieontwikkeling, softwaretesten en cloud computing."
+            description: "Voortdurend toegewijd aan het ontwikkelen van kennis op het gebied van software-engineering en IT, inclusief deelname aan platforms voor generatieve AI om te helpen bij het trainen van AI en het uitbreiden van expertise in gerelateerde gebieden zoals systeemarchitectuur, gegevensanalyse, webapplicatieontwikkeling, softwaretesten en cloud"
         },
         {
             title: "Locatie en Werkvorm",

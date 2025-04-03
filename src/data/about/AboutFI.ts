@@ -11,7 +11,7 @@ export const AboutFI: IAbout = {
         },
         {
             title: "Asiantuntemus",
-            description: "CHORN on sitoutunut kehittämään jatkuvasti osaamistaan ohjelmistotuotannossa ja IT-alalla. Tähän sisältyy osallistuminen maailman kehittyneimpiin generatiivisen tekoälyn alustoihin auttaakseen tekoälyn kouluttamisessa ja rakentaakseen tietämystä ja asiantuntemusta erilaisilla liittyvillä alueilla kuten järjestelmäarkkitehtuuri, data-analyysi, verkkosovellusten kehittäminen, ohjelmistotestaus ja pilvipalvelut."
+            description: "Jatkuvasti sitoutunut kehittämään osaamista ohjelmistotekniikan ja IT:n alalla, mukaan lukien osallistuminen generatiivisen tekoälyn alustoille auttaakseen tekoälyn kouluttamisessa ja laajentaakseen asiantuntemusta liittyviltä alueilta kuten järjestelmäarkkitehtuuri, data-analyysi, verkkosovellusten kehittäminen, ohjelmistotestaus ja pilvipalvelut"
         },
         {
             title: "Sijainti ja Työmuoto",
