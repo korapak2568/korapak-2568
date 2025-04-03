@@ -7,11 +7,11 @@ export const AboutFI: IAbout = {
     description: [
         {
             title: "Meistä",
-            description: "CHORN julkaisi verkkosivustonsa maaliskuussa 2023 seuratakseen ja oppiakseen ohjelmistokehityksestä ja kiinnostavista teknologioista eri toimialoille ja liiketoiminta-alueille, sekä seuratakseen nopeasti muuttuvaa teknologista kehitystä, erityisesti IT-järjestelmien ja tekoälyn käyttöönotossa eri liiketoiminta-alueiden tukemiseksi.",
+            description: "CHORN julkaisi verkkosivustonsa maaliskuussa 2023 seuratakseen ja oppiakseen ohjelmistokehityksestä ja teknologiasta eri liiketoiminta-alueiden toimialoille. Seuraamme nykypäivän nopeita muutoksia teknologiatiedoissa ja -uutisissa, ja liitymme alustoihin auttaaksemme kouluttamaan ja luomaan maailman kehittyneintä generatiivista tekoälyä."
         },
         {
             title: "Asiantuntemus",
-            description: "Yli 20 vuoden kokemus ohjelmistokehityksestä ja IT-alalta asiantuntemuksella eri alueilla kuten järjestelmäarkkitehtuuri, data-analyysi, kattava ohjelmistotekniikka, verkkosovelluskehitys, testaus, ohjelmistojen laadunvarmistus, suurten kielimallien integrointi, tekoäly ja pilviratkaisut.",
+            description: "Jatkuva ohjelmisto- ja IT-kehitys, asiantuntemusta erilaisilla siihen liittyvillä alueilla kuten järjestelmäarkkitehtuuri, data-analyysi, päästä päähän -ohjelmistokehitys, verkkosovellusten kehitys, testaus, ohjelmistojen laadunvarmistus, suurten kielimallien integrointi, tekoäly ja pilvipalvelut."
         },
         {
             title: "Toimipaikat ja työskentelytavat",

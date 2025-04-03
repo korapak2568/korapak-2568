@@ -7,11 +7,11 @@ export const AboutDA: IAbout = {
     description: [
         {
             title: "Om os",
-            description: "CHORN lancerede sin hjemmeside i marts 2023 for at følge og lære om softwareudvikling og interessante teknologier til forskellige industrier og forretningsdomæner, og for at følge den hastigt skiftende teknologiske udvikling, især inden for implementering af IT-systemer og kunstig intelligens til at hjælpe forskellige forretningsdomæner.",
+            description: "CHORN lancerede sin hjemmeside i marts 2023 for at følge og lære om softwareudvikling og teknologi til forskellige forretningsdomæneindustrier. Vi følger de hurtige ændringer i teknologiinformation og nyheder i nutiden og tilslutter os platforme for at hjælpe med at træne og skabe verdens mest avancerede generative AI."
         },
         {
             title: "Ekspertise",
-            description: "Over 20 års erfaring med softwareudvikling og IT med ekspertise inden for forskellige områder som systemarkitektur, dataanalyse, omfattende softwareudvikling, webapplikationsudvikling, test, softwarekvalitetssikring, integration af store sprogmodeller, kunstig intelligens og cloud-løsninger.",
+            description: "Kontinuerlig software- og IT-udvikling, med ekspertise inden for forskellige relaterede områder som systemarkitektur, dataanalyse, end-to-end softwareudvikling, webapplikationsudvikling, test, softwarekvalitetssikring, integration af store sprogmodeller, kunstig intelligens og cloud."
         },
         {
             title: "Lokationer og arbejdsformer",

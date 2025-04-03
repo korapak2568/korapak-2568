@@ -7,11 +7,11 @@ export const AboutVI: IAbout = {
     description: [
         {
             title: "Về chúng tôi",
-            description: "CHORN ra mắt trang web vào tháng 3 năm 2023 để theo dõi và học hỏi về phát triển phần mềm và các công nghệ thú vị cho các ngành công nghiệp và lĩnh vực kinh doanh khác nhau, đồng thời theo dõi các tiến bộ công nghệ đang thay đổi nhanh chóng, đặc biệt là trong việc triển khai hệ thống CNTT và trí tuệ nhân tạo để hỗ trợ các lĩnh vực kinh doanh khác nhau.",
+            description: "CHORN ra mắt trang web vào tháng 3 năm 2023 để theo dõi và học hỏi về phát triển phần mềm và công nghệ cho các ngành lĩnh vực kinh doanh khác nhau. Chúng tôi theo dõi những thay đổi nhanh chóng trong thông tin và tin tức công nghệ hiện nay, và tham gia các nền tảng để giúp đào tạo và tạo ra AI Tạo sinh tiên tiến nhất thế giới."
         },
         {
             title: "Chuyên môn",
-            description: "Hơn 20 năm kinh nghiệm phát triển phần mềm và CNTT với chuyên môn trong các lĩnh vực khác nhau như kiến trúc hệ thống, phân tích dữ liệu, kỹ thuật phần mềm toàn diện, phát triển ứng dụng web, kiểm thử, đảm bảo chất lượng phần mềm, tích hợp mô hình ngôn ngữ lớn, trí tuệ nhân tạo và giải pháp đám mây.",
+            description: "Phát triển phần mềm và CNTT liên tục, với chuyên môn trong các lĩnh vực liên quan như kiến trúc hệ thống, phân tích dữ liệu, kỹ thuật phần mềm end-to-end, phát triển ứng dụng web, kiểm thử, đảm bảo chất lượng phần mềm, tích hợp mô hình ngôn ngữ lớn, trí tuệ nhân tạo và điện toán đám mây."
         },
         {
             title: "Địa điểm và hình thức làm việc",

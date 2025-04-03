@@ -7,11 +7,11 @@ export const AboutFR: IAbout = {
     description: [
         {
             title: "Qui sommes-nous",
-            description: "CHORN a lancé son site web en mars 2023 pour suivre et apprendre le développement logiciel et les technologies intéressantes pour diverses industries et domaines d'activités, et pour suivre les avancées technologiques en rapide évolution, en particulier dans l'implémentation des systèmes informatiques et d'intelligence artificielle pour aider divers domaines d'activités.",
+            description: "CHORN a lancé son site web en mars 2023 pour suivre et apprendre le développement de logiciels et la technologie pour diverses industries de domaines d'affaires. Nous suivons les changements rapides dans l'information et les actualités technologiques à l'heure actuelle, et rejoignons des plateformes pour aider à former et créer l'IA générative la plus avancée au monde."
         },
         {
             title: "Expertise",
-            description: "Plus de 20 ans d'expérience en développement logiciel et en informatique avec une expertise dans divers domaines tels que l'architecture système, l'analyse de données, l'ingénierie logicielle complète, le développement d'applications web, les tests, l'assurance qualité logicielle, l'intégration de modèles de langage de grande taille, l'intelligence artificielle et les solutions cloud.",
+            description: "Développement continu de logiciels et d'informatique, avec une expertise dans divers domaines connexes tels que l'architecture de systèmes, l'analyse de données, l'ingénierie logicielle de bout en bout, le développement d'applications web, les tests, l'assurance qualité des logiciels, l'intégration de grands modèles de langage, l'intelligence artificielle et le cloud.",
         },
         {
             title: "Lieux et modalités de travail",

@@ -7,11 +7,11 @@ export const AboutNL: IAbout = {
     description: [
         {
             title: "Over ons",
-            description: "CHORN lanceerde zijn website in maart 2023 om softwareontwikkeling en interessante technologieën voor verschillende industrieën en bedrijfsdomeinen te volgen en te leren, en om de snel veranderende technologische vooruitgang te volgen, vooral bij het implementeren van IT-systemen en kunstmatige intelligentie om verschillende bedrijfsdomeinen te ondersteunen.",
+            description: "CHORN lanceerde zijn website in maart 2023 om softwareontwikkeling en technologie voor verschillende bedrijfsdomeinen te volgen en erover te leren. We volgen de snelle veranderingen in technologie-informatie en nieuws in de huidige tijd, en sluiten ons aan bij platforms om te helpen bij het trainen en creëren van de meest geavanceerde generatieve AI ter wereld."
         },
         {
             title: "Expertise",
-            description: "Meer dan 20 jaar ervaring in softwareontwikkeling en IT met expertise in verschillende gebieden zoals systeemarchitectuur, gegevensanalyse, uitgebreide software-engineering, webapplicatieontwikkeling, testen, softwarekwaliteitsborging, integratie van grote taalmodellen, kunstmatige intelligentie en cloudoplossingen.",
+            description: "Continue software- en IT-ontwikkeling, met expertise in verschillende gerelateerde gebieden zoals systeemarchitectuur, gegevensanalyse, end-to-end software engineering, webapplicatieontwikkeling, testen, softwarekwaliteitsborging, integratie van grote taalmodellen, kunstmatige intelligentie en cloud."
         },
         {
             title: "Locaties en werkwijzen",

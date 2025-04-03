@@ -7,11 +7,11 @@ export const AboutDE: IAbout = {
     description: [
         {
             title: "Über uns",
-            description: "CHORN startete seine Website im März 2023, um Softwareentwicklung und interessante Technologien für verschiedene Branchen und Geschäftsbereiche zu verfolgen und zu erlernen sowie den rasanten technologischen Fortschritt zu beobachten, insbesondere bei der Implementierung von IT-Systemen und künstlicher Intelligenz zur Unterstützung verschiedener Geschäftsbereiche.",
+            description: "CHORN startete seine Website im März 2023, um die Softwareentwicklung und Technologie für verschiedene Geschäftsdomänen zu verfolgen und darüber zu lernen. Wir verfolgen die schnellen Veränderungen in den Technologieinformationen und -nachrichten in der heutigen Zeit und schließen uns Plattformen an, um bei der Schulung und Erstellung der fortschrittlichsten generativen KI der Welt zu helfen."
         },
         {
             title: "Expertise",
-            description: "Über 20 Jahre Erfahrung in Softwareentwicklung und IT mit Expertise in verschiedenen Bereichen wie Systemarchitektur, Datenanalyse, umfassende Softwareentwicklung, Webapplikationsentwicklung, Testing, Softwarequalitätssicherung, Integration großer Sprachmodelle, künstliche Intelligenz und Cloud-Lösungen.",
+            description: "Kontinuierliche Software- und IT-Entwicklung mit Fachwissen in verschiedenen verwandten Bereichen wie Systemarchitektur, Datenanalyse, End-to-End-Softwareentwicklung, Webentwicklung, Testing, Software-Qualitätssicherung, Integration großer Sprachmodelle, künstliche Intelligenz und Cloud."
         },
         {
             title: "Standorte und Arbeitsmodelle",
