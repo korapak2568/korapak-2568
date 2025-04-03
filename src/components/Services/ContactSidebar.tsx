@@ -12,9 +12,9 @@ export const ContactSidebar: React.FC = () => {
             <h3>Contact</h3>
 
             <div>
-                <a href={InfoTranslation[locale.value].Contact.chorn.link} target={'_blank'}>
+                <a href={InfoTranslation[locale.value].Contact.line.link} target={'_blank'}>
                     <Image
-                        src={InfoTranslation[locale.value].Contact.chorn.iconImageLink}
+                        src={InfoTranslation[locale.value].Contact.line.button}
                         alt="เพิ่มเพื่อน"
                         width={120}
                         height={36}
