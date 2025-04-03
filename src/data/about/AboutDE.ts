@@ -6,16 +6,16 @@ export const AboutDE: IAbout = {
     subTitle: "Technologische Innovation für Geschäftserfolg",
     description: [
         {
-            title: "Über uns",
-            description: "CHORN startete seine Website im März 2023, um die Softwareentwicklung und Technologie für verschiedene Geschäftsdomänen zu verfolgen und darüber zu lernen. Wir verfolgen die schnellen Veränderungen in den Technologieinformationen und -nachrichten in der heutigen Zeit und schließen uns Plattformen an, um bei der Schulung und Erstellung der fortschrittlichsten generativen KI der Welt zu helfen."
+            title: "Über Uns",
+            description: "CHORN hat seine Website im März 2023 gestartet, um die Softwareentwicklung und Technologie für verschiedene Geschäftsbereiche zu verfolgen und zu erlernen. Wir verfolgen den Fortschritt und die Informationen über die sich schnell verändernde Technologie in der heutigen Zeit."
         },
         {
-            title: "Expertise",
-            description: "Kontinuierliche Software- und IT-Entwicklung mit Fachwissen in verschiedenen verwandten Bereichen wie Systemarchitektur, Datenanalyse, End-to-End-Softwareentwicklung, Webentwicklung, Testing, Software-Qualitätssicherung, Integration großer Sprachmodelle, künstliche Intelligenz und Cloud."
+            title: "Fachwissen",
+            description: "CHORN ist bestrebt, kontinuierlich Wissen in Softwareentwicklung und IT zu entwickeln. Dazu gehört die Teilnahme an den fortschrittlichsten Generative-AI-Plattformen der Welt, um bei der Schulung von KI zu helfen und Wissen und Expertise in verschiedenen verwandten Bereichen wie Systemarchitektur, Datenanalyse, Webentwicklung, Softwaretests und Cloud-Computing aufzubauen."
         },
         {
-            title: "Standorte und Arbeitsmodelle",
-            description: "Dienstleistungen werden remote, hybrid und vor Ort in Chiang Mai, Bangkok und international angeboten."
+            title: "Standort und Arbeitsform",
+            description: "Verfügbar für Remote-Arbeit, Hybrid-Arbeit und Büroarbeit in Chiang Mai, Bangkok und im Ausland."
         }
     ],
     stacks: [

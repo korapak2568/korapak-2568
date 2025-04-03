@@ -7,15 +7,15 @@ export const AboutFI: IAbout = {
     description: [
         {
             title: "Meistä",
-            description: "CHORN julkaisi verkkosivustonsa maaliskuussa 2023 seuratakseen ja oppiakseen ohjelmistokehityksestä ja teknologiasta eri liiketoiminta-alueiden toimialoille. Seuraamme nykypäivän nopeita muutoksia teknologiatiedoissa ja -uutisissa, ja liitymme alustoihin auttaaksemme kouluttamaan ja luomaan maailman kehittyneintä generatiivista tekoälyä."
+            description: "CHORN lanseerasi verkkosivustonsa maaliskuussa 2023 seuratakseen ja oppiakseen ohjelmistokehityksestä ja teknologiasta eri liiketoiminta-alueiden toimialoille. Seuraamme nykyajan nopeasti muuttuvan teknologian edistymistä ja tietoa."
         },
         {
             title: "Asiantuntemus",
-            description: "Jatkuva ohjelmisto- ja IT-kehitys, asiantuntemusta erilaisilla siihen liittyvillä alueilla kuten järjestelmäarkkitehtuuri, data-analyysi, päästä päähän -ohjelmistokehitys, verkkosovellusten kehitys, testaus, ohjelmistojen laadunvarmistus, suurten kielimallien integrointi, tekoäly ja pilvipalvelut."
+            description: "CHORN on sitoutunut kehittämään jatkuvasti osaamistaan ohjelmistotuotannossa ja IT-alalla. Tähän sisältyy osallistuminen maailman kehittyneimpiin generatiivisen tekoälyn alustoihin auttaakseen tekoälyn kouluttamisessa ja rakentaakseen tietämystä ja asiantuntemusta erilaisilla liittyvillä alueilla kuten järjestelmäarkkitehtuuri, data-analyysi, verkkosovellusten kehittäminen, ohjelmistotestaus ja pilvipalvelut."
         },
         {
-            title: "Toimipaikat ja työskentelytavat",
-            description: "Palveluja tarjotaan etänä, hybridimallilla ja toimistotyönä Chiang Maissa, Bangkokissa ja kansainvälisesti."
+            title: "Sijainti ja Työmuoto",
+            description: "Saatavilla etätyöhön, hybridityöhön ja toimistopohjaiseen työhön Chiang Maissa, Bangkokissa ja ulkomailla."
         }
     ],
     stacks: [

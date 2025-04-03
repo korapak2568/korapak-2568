@@ -7,15 +7,15 @@ export const AboutEN: IAbout = {
     description: [
         {
             title: "About Us",
-            description: "CHORN launched its website in March 2023 to track and learn about software development and technology for various business domain industries. We follow the rapid changes in technology information and news in the present day, and join platforms to help train and create the world's most advanced Generative AI."
+            description: "CHORN launched its website in March 2023 to track and learn about software development and technology for various business domain industries. We follow the progress and information about rapidly changing technology in the present day."
         },
         {
             title: "Expertise",
-            description: "Continuous software and IT development, with expertise in various related areas such as system architecture, data analysis, end-to-end software engineering, web application development, testing, software quality assurance, large language model integration, artificial intelligence, and cloud.",
+            description: "CHORN is committed to continuously developing knowledge in software engineering and IT. This includes participating in the world's most advanced Generative AI platforms to help train AI and build upon knowledge and expertise in various related fields such as system architecture, data analysis, web application development, software testing, and cloud computing."
         },
         {
-            title: "Locations and Work Arrangements",
-            description: "Services provided remotely, hybrid, and office-based in Chiang Mai, Bangkok, and internationally."
+            title: "Location and Work Format",
+            description: "Available for remote, hybrid, and office-based work in Chiang Mai, Bangkok, and abroad."
         }
     ],
     stacks: [

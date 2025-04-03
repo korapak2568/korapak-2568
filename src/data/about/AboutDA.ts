@@ -6,16 +6,16 @@ export const AboutDA: IAbout = {
     subTitle: "Teknologisk innovation for forretningssucces",
     description: [
         {
-            title: "Om os",
-            description: "CHORN lancerede sin hjemmeside i marts 2023 for at følge og lære om softwareudvikling og teknologi til forskellige forretningsdomæneindustrier. Vi følger de hurtige ændringer i teknologiinformation og nyheder i nutiden og tilslutter os platforme for at hjælpe med at træne og skabe verdens mest avancerede generative AI."
+            title: "Om Os",
+            description: "CHORN lancerede sin hjemmeside i marts 2023 for at følge og lære om softwareudvikling og teknologi til forskellige forretningsdomæner. Vi følger fremskridt og information om hurtigt skiftende teknologi i nutiden."
         },
         {
             title: "Ekspertise",
-            description: "Kontinuerlig software- og IT-udvikling, med ekspertise inden for forskellige relaterede områder som systemarkitektur, dataanalyse, end-to-end softwareudvikling, webapplikationsudvikling, test, softwarekvalitetssikring, integration af store sprogmodeller, kunstig intelligens og cloud."
+            description: "CHORN er forpligtet til kontinuerligt at udvikle viden inden for softwareudvikling og IT. Dette inkluderer deltagelse i verdens mest avancerede Generative AI-platforme for at hjælpe med at træne AI og opbygge viden og ekspertise inden for forskellige relaterede områder såsom systemarkitektur, dataanalyse, webapplikationsudvikling, softwaretest og cloud computing."
         },
         {
-            title: "Lokationer og arbejdsformer",
-            description: "Tjenester leveres remote, hybrid og kontorbaseret i Chiang Mai, Bangkok og internationalt."
+            title: "Placering og Arbejdsform",
+            description: "Tilgængelig for fjernarbejde, hybrid og kontorbaseret arbejde i Chiang Mai, Bangkok og i udlandet."
         }
     ],
     stacks: [

@@ -6,16 +6,16 @@ export const AboutFR: IAbout = {
     subTitle: "Innovation technologique pour le succès des entreprises",
     description: [
         {
-            title: "Qui sommes-nous",
-            description: "CHORN a lancé son site web en mars 2023 pour suivre et apprendre le développement de logiciels et la technologie pour diverses industries de domaines d'affaires. Nous suivons les changements rapides dans l'information et les actualités technologiques à l'heure actuelle, et rejoignons des plateformes pour aider à former et créer l'IA générative la plus avancée au monde."
+            title: "À Propos de Nous",
+            description: "CHORN a lancé son site web en mars 2023 pour suivre et apprendre le développement de logiciels et les technologies pour diverses industries de domaines d'affaires. Nous suivons les progrès et les informations concernant les technologies en évolution rapide à l'heure actuelle."
         },
         {
             title: "Expertise",
-            description: "Développement continu de logiciels et d'informatique, avec une expertise dans divers domaines connexes tels que l'architecture de systèmes, l'analyse de données, l'ingénierie logicielle de bout en bout, le développement d'applications web, les tests, l'assurance qualité des logiciels, l'intégration de grands modèles de langage, l'intelligence artificielle et le cloud.",
+            description: "CHORN s'engage à développer continuellement ses connaissances en ingénierie logicielle et en informatique. Cela comprend la participation aux plateformes d'IA générative les plus avancées du monde pour aider à former l'IA et développer des connaissances et une expertise dans divers domaines connexes tels que l'architecture des systèmes, l'analyse de données, le développement d'applications web, les tests de logiciels et le cloud."
         },
         {
-            title: "Lieux et modalités de travail",
-            description: "Services fournis à distance, en mode hybride et en présentiel à Chiang Mai, Bangkok et à l'international."
+            title: "Lieu et Format de Travail",
+            description: "Disponible pour le travail à distance, hybride et en bureau à Chiang Mai, Bangkok et à l'étranger."
         }
     ],
     stacks: [

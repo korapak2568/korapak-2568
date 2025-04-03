@@ -6,16 +6,16 @@ export const AboutVI: IAbout = {
     subTitle: "Đổi mới công nghệ cho sự thành công của doanh nghiệp",
     description: [
         {
-            title: "Về chúng tôi",
-            description: "CHORN ra mắt trang web vào tháng 3 năm 2023 để theo dõi và học hỏi về phát triển phần mềm và công nghệ cho các ngành lĩnh vực kinh doanh khác nhau. Chúng tôi theo dõi những thay đổi nhanh chóng trong thông tin và tin tức công nghệ hiện nay, và tham gia các nền tảng để giúp đào tạo và tạo ra AI Tạo sinh tiên tiến nhất thế giới."
+            title: "Về Chúng Tôi",
+            description: "CHORN ra mắt trang web vào tháng 3 năm 2023 để theo dõi và học hỏi về phát triển phần mềm và công nghệ cho các ngành công nghiệp thuộc nhiều lĩnh vực kinh doanh khác nhau. Chúng tôi theo dõi tiến trình và thông tin về công nghệ đang thay đổi nhanh chóng trong thời đại hiện nay."
         },
         {
-            title: "Chuyên môn",
-            description: "Phát triển phần mềm và CNTT liên tục, với chuyên môn trong các lĩnh vực liên quan như kiến trúc hệ thống, phân tích dữ liệu, kỹ thuật phần mềm end-to-end, phát triển ứng dụng web, kiểm thử, đảm bảo chất lượng phần mềm, tích hợp mô hình ngôn ngữ lớn, trí tuệ nhân tạo và điện toán đám mây."
+            title: "Chuyên Môn",
+            description: "CHORN cam kết liên tục phát triển kiến thức về kỹ thuật phần mềm và CNTT. Điều này bao gồm việc tham gia vào các nền tảng AI Tạo sinh tiên tiến nhất thế giới để giúp đào tạo AI và xây dựng kiến thức và chuyên môn trong các lĩnh vực liên quan khác nhau như kiến trúc hệ thống, phân tích dữ liệu, phát triển ứng dụng web, kiểm thử phần mềm và điện toán đám mây."
         },
         {
-            title: "Địa điểm và hình thức làm việc",
-            description: "Dịch vụ được cung cấp từ xa, kết hợp, và tại văn phòng ở Chiang Mai, Bangkok, và quốc tế."
+            title: "Địa Điểm và Hình Thức Làm Việc",
+            description: "Sẵn sàng cho công việc từ xa, kết hợp và làm việc tại văn phòng ở Chiang Mai, Bangkok và nước ngoài."
         }
     ],
     stacks: [

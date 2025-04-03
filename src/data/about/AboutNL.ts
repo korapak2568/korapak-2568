@@ -6,16 +6,16 @@ export const AboutNL: IAbout = {
     subTitle: "Technologische innovatie voor zakelijk succes",
     description: [
         {
-            title: "Over ons",
-            description: "CHORN lanceerde zijn website in maart 2023 om softwareontwikkeling en technologie voor verschillende bedrijfsdomeinen te volgen en erover te leren. We volgen de snelle veranderingen in technologie-informatie en nieuws in de huidige tijd, en sluiten ons aan bij platforms om te helpen bij het trainen en creëren van de meest geavanceerde generatieve AI ter wereld."
+            title: "Over Ons",
+            description: "CHORN lanceerde zijn website in maart 2023 om softwareontwikkeling en technologie voor verschillende zakelijke domeinen te volgen en erover te leren. We volgen de voortgang en informatie over snel veranderende technologie in de huidige tijd."
         },
         {
             title: "Expertise",
-            description: "Continue software- en IT-ontwikkeling, met expertise in verschillende gerelateerde gebieden zoals systeemarchitectuur, gegevensanalyse, end-to-end software engineering, webapplicatieontwikkeling, testen, softwarekwaliteitsborging, integratie van grote taalmodellen, kunstmatige intelligentie en cloud."
+            description: "CHORN zet zich in voor het continu ontwikkelen van kennis op het gebied van software-engineering en IT. Dit omvat deelname aan 's werelds meest geavanceerde Generative AI-platforms om AI te helpen trainen en kennis en expertise op te bouwen in verschillende gerelateerde gebieden zoals systeemarchitectuur, gegevensanalyse, webapplicatieontwikkeling, softwaretesten en cloud computing."
         },
         {
-            title: "Locaties en werkwijzen",
-            description: "Diensten op afstand, hybride en op kantoor in Chiang Mai, Bangkok en internationaal."
+            title: "Locatie en Werkvorm",
+            description: "Beschikbaar voor externe, hybride en kantoorgebonden werk in Chiang Mai, Bangkok en in het buitenland."
         }
     ],
     stacks: [
