@@ -25,7 +25,7 @@ export const FooterKO: IFooter = {
     socialLinks: [
         {
             label: "GitHub",
-            link: "https://github.com/khachornchit",
+            link: "https://github.com/chorn-digital",
             icon: "bx bxl-github hover-rotate",
             iconClass: "facebook",
             ariaLabel: "GitHub에서 팔로우하기"

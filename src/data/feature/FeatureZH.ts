@@ -1,7 +1,7 @@
 import {IFeature} from "@/data/feature/model/IFeature";
 
 export const FeatureZH: IFeature = {
-    title: "网站开发概述",
+    title: "网络应用程序开发",
     span: "系统分析与软件开发",
     subTitle: "",
     stacks: [

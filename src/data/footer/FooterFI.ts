@@ -25,7 +25,7 @@ export const FooterFI: IFooter = {
     socialLinks: [
         {
             label: "GitHub",
-            link: "https://github.com/khachornchit",
+            link: "https://github.com/chorn-digital",
             icon: "bx bxl-github hover-rotate",
             iconClass: "facebook",
             ariaLabel: "Seuraa meitä GitHubissa"

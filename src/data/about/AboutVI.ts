@@ -1,31 +1,35 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutVI: IAbout = {
-    title: "VỀ CHORN",
-    span: "Phân Tích Hệ Thống và Giải Pháp Phần Mềm",
-    subTitle: "Đổi Mới Công Nghệ cho Thành Công Kinh Doanh",
+    title: "Về CHORN",
+    span: "Phân tích hệ thống và phát triển phần mềm toàn diện",
+    subTitle: "Đổi mới công nghệ cho sự thành công của doanh nghiệp",
     description: [
         {
-            title: "",
-            "description": "CHORN được ra mắt vào tháng 3 năm 2023, cung cấp chuyên môn về công nghệ và phát triển phần mềm. Chúng tôi chuyên về CNTT, kiến trúc hệ thống, phân tích, kỹ thuật phát triển phần mềm toàn chu trình, phát triển web, Kiểm tra/Đảm bảo chất lượng phần mềm, DevOps và CI/CD."
+            title: "Về chúng tôi",
+            description: "CHORN ra mắt trang web vào tháng 3 năm 2023 để theo dõi và học hỏi về phát triển phần mềm và các công nghệ thú vị cho các ngành công nghiệp và lĩnh vực kinh doanh khác nhau, đồng thời theo dõi các tiến bộ công nghệ đang thay đổi nhanh chóng, đặc biệt là trong việc triển khai hệ thống CNTT và trí tuệ nhân tạo để hỗ trợ các lĩnh vực kinh doanh khác nhau.",
         },
         {
-            title: "",
-            description: "Tích hợp giải pháp LLM (Mô Hình Ngôn Ngữ Lớn) và AI (Trí Tuệ Nhân Tạo), triển khai hệ thống đám mây, dịch vụ từ xa, sắp xếp làm việc kết hợp, làm việc tại văn phòng ở Chiang Mai, Bangkok, Thái Lan và quốc tế."
+            title: "Chuyên môn",
+            description: "Hơn 20 năm kinh nghiệm phát triển phần mềm và CNTT với chuyên môn trong các lĩnh vực khác nhau như kiến trúc hệ thống, phân tích dữ liệu, kỹ thuật phần mềm toàn diện, phát triển ứng dụng web, kiểm thử, đảm bảo chất lượng phần mềm, tích hợp mô hình ngôn ngữ lớn, trí tuệ nhân tạo và giải pháp đám mây.",
         },
+        {
+            title: "Địa điểm và hình thức làm việc",
+            description: "Dịch vụ được cung cấp từ xa, kết hợp, và tại văn phòng ở Chiang Mai, Bangkok, và quốc tế."
+        }
     ],
     stacks: [
         {
-            title: "Phân Tích Hệ Thống và Hỗ Trợ Kỹ Thuật",
-            description: "Kinh nghiệm về phân tích hệ thống chuyên sâu, khuyến nghị kỹ thuật và hỗ trợ cho các ứng dụng quan trọng trong kinh doanh nhằm đảm bảo độ tin cậy và hiệu quả hoạt động của hệ thống. Cải tiến tối ưu hóa hệ thống, QA/Kiểm thử, LLM/AI và triển khai công nghệ tiên tiến cho hoạt động kinh doanh bền vững."
+            title: "Phân tích hệ thống và hỗ trợ kỹ thuật",
+            description: "Kinh nghiệm trong phân tích hệ thống chuyên sâu, đề xuất kỹ thuật và hỗ trợ cho các ứng dụng quan trọng đối với doanh nghiệp để đảm bảo độ tin cậy, đáng tin cậy và hiệu quả của hệ thống. Tối ưu hóa hệ thống, kiểm soát chất lượng và kiểm thử phần mềm, mô hình ngôn ngữ lớn, trí tuệ nhân tạo và triển khai công nghệ tiên tiến cho hoạt động kinh doanh bền vững."
         },
         {
-            title: "Kỹ Thuật Phát Triển Phần Mềm",
-            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng công nghệ tiên tiến. Phát triển phần mềm với các framework hiện đại. Chuyên môn về frontend, backend, giải pháp đám mây, blockchain, Web3 và phát triển hợp đồng thông minh."
+            title: "Kỹ thuật phần mềm và AI",
+            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng công nghệ tiên tiến. Phát triển phần mềm với các framework hiện đại, chuyên môn về frontend, backend, giải pháp đám mây, blockchain, Web3, phát triển hợp đồng thông minh, tích hợp hệ thống trí tuệ nhân tạo và mô hình ngôn ngữ lớn."
         },
         {
-            title: "Phát Triển Phần Mềm Linh Hoạt, Phối Hợp với Đội Ngũ Kinh Doanh",
-            description: "Kinh nghiệm phát triển phần mềm linh hoạt và phối hợp với các đội ngũ kinh doanh. Kinh nghiệm làm việc chặt chẽ với các đội ngũ trong nước và quốc tế, khách hàng nội bộ và bên ngoài, người dùng kinh doanh và nhà cung cấp. Các dự án cải tiến liên tục theo định dạng Agile, Waterfall và Hybrid."
+            title: "Phát triển phần mềm Agile và phối hợp đội ngũ kinh doanh",
+            description: "Kinh nghiệm trong phát triển phần mềm linh hoạt và phối hợp đội ngũ kinh doanh. Kinh nghiệm làm việc chặt chẽ với các đội trong nước và quốc tế, khách hàng nội bộ và bên ngoài, người dùng doanh nghiệp và nhà cung cấp. Các dự án cải tiến liên tục trong phương pháp làm việc agile, waterfall và kết hợp."
         }
     ]
 };

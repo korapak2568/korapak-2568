@@ -103,55 +103,55 @@ export const ImageUrl: IImageUrl = {
         homes: [
             {
                 title: "CHORN home slide-1",
-                path: "/images/home/chorn-workplace-001.jpg"
+                path: "/images/home/chorn-workplace-001-optimize.webp"
             },
             {
 
                 title: "CHORN home slide-2",
-                path: "/images/home/chorn-workplace-002.jpg"
+                path: "/images/home/chorn-workplace-002-optimize.webp"
             },
             {
 
                 title: "CHORN home slide-3",
-                path: "/images/home/chorn-workplace-003.jpg"
+                path: "/images/home/chorn-workplace-003-optimize.webp"
             },
             {
 
                 title: "CHORN home slide-4",
-                path: "/images/home/chorn-workplace-004.jpg"
+                path: "/images/home/chorn-workplace-004-optimize.webp"
             },
             {
 
                 title: "CHORN home slide-5",
-                path: "/images/home/chorn-workplace-005.jpg"
+                path: "/images/home/chorn-workplace-005-optimize.webp"
             },
             {
 
                 title: "CHORN home slide-6",
-                path: "/images/home/chorn-workplace-006.jpg"
+                path: "/images/home/chorn-workplace-006-optimize.webp"
             },
         ],
         global: {
             title: "CHORN's gallery global main",
-            path: "/images/gallery/chorn-global-001.jpg"
+            path: "/images/gallery/chorn-global-001-optimize.webp"
         },
         globals: [
 
             {
                 title: "CHORN global slide-1",
-                path: "/images/gallery/chorn-global-002.jpg"
+                path: "/images/gallery/chorn-global-002-optimize.webp"
             },
             {
                 title: "CHORN global slide-2",
-                path: "/images/gallery/chorn-global-003.jpg"
+                path: "/images/gallery/chorn-global-003-optimize.webp"
             },
             {
                 title: "CHORN global slide-3",
-                path: "/images/gallery/chorn-global-004.jpg"
+                path: "/images/gallery/chorn-global-004-optimize.webp"
             },
             {
                 title: "CHORN global slide-4",
-                path: "/images/gallery/chorn-global-005.jpg"
+                path: "/images/gallery/chorn-global-005-optimize.webp"
             },
         ]
     },
@@ -214,8 +214,22 @@ export const ImageUrl: IImageUrl = {
         },
     },
     feature: {
-        title: "CHORN's feature image",
-        path: "/images/features/features-2.webp"
+        default: {
+            title: "CHORN's feature image",
+            path: "/images/features/features-2.webp"
+        },
+        suvarnabhumi: {
+            title: "CHORN's image suvarnbhumi",
+            path: "/images/features/suvarnabhumi-airport-optimize.webp"
+        },
+        cloudGuru: {
+            title: "CHORN's image cloud guru",
+            path: "/images/features/cloud-guru-optimize.webp"
+        },
+        morningSky: {
+            title: "CHORN's image cloud guru",
+            path: "/images/features/morning-sky-optimize.webp"
+        }
     },
     about: {
         title: "CHORN's about image",

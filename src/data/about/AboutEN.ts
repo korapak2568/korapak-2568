@@ -1,31 +1,35 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutEN: IAbout = {
-    title: "ABOUT CHORN",
-    span: "System Analysis and Software Solutions",
-    subTitle: "Technological Innovation for Business Success",
+    title: "About CHORN",
+    span: "Comprehensive System Analysis and Software Development",
+    subTitle: "Technology Innovation for Business Success",
     description: [
         {
-            title: "",
-            description: "CHORN was launched in March 2023 offering technology and software development expertise. We specialize in IT, system architecture, analysis, full-cycle software development engineering, web development, Software QA/Testing, DevOps, and CI/CD.",
+            title: "About Us",
+            description: "CHORN launched its website in March 2023 to track and learn about software development and interesting technologies for various industries and business domains, and to follow the rapidly changing technological advancements, especially in implementing IT systems and artificial intelligence to assist various business domains.",
         },
         {
-            title: "",
-            description: "Integration of LLM (Large Language Model) and AI (Artificial Intelligence) solutions, cloud system implementation, remote services, hybrid working arrangements, office-based work in Chiang Mai, Bangkok, Thailand and internationally."
+            title: "Expertise",
+            description: "Over 20 years of software development and IT experience with expertise in various areas such as system architecture, data analysis, comprehensive software engineering, web application development, testing, software quality assurance, large language model integration, artificial intelligence, and cloud solutions.",
         },
+        {
+            title: "Locations and Work Arrangements",
+            description: "Services provided remotely, hybrid, and office-based in Chiang Mai, Bangkok, and internationally."
+        }
     ],
     stacks: [
         {
             title: "System Analysis and Technical Support",
-            description: "Experience in in-depth system analysis, technical recommendations, and support for business-critical applications to ensure system reliability and operational efficiency. System optimization improvements, QA/Testing, LLM/AI, and implementation of cutting-edge technologies for sustainable business operations."
+            description: "Experience in in-depth system analysis, technical recommendations, and support for business-critical applications to ensure system reliability, trustworthiness, and efficiency. System optimization, quality control and software testing, large language models, artificial intelligence, and implementation of cutting-edge technologies for sustainable business operations."
         },
         {
-            title: "Software Development Engineering",
-            description: "Website and custom software system development using advanced technologies. Software development with modern frameworks. Expertise in frontend, backend, cloud solutions, blockchain, Web3, and smart contract development."
+            title: "Software Engineering and AI",
+            description: "Website and custom software system development using advanced technologies. Software development with modern frameworks, expertise in frontend, backend, cloud solutions, blockchain, Web3, smart contract development, artificial intelligence system integration, and large language models."
         },
         {
-            title: "Agile Software Development, Coordination with Business Teams",
-            description: "Experience in agile software development and coordination with business teams. Experience working closely with teams both domestically and internationally, internal-images and external clients, business users, and vendors. Continuous improvement projects in Agile, Waterfall, and Hybrid formats."
+            title: "Agile Software Development and Business Team Coordination",
+            description: "Experience in agile software development and business team coordination. Experience working closely with teams both domestically and internationally, internal and external clients, business users, and vendors. Continuous improvement projects in agile, waterfall, and hybrid work methodologies."
         }
     ]
 };

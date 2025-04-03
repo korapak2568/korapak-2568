@@ -1,31 +1,35 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutFI: IAbout = {
-    title: "TIETOA CHORN:ISTA",
-    span: "Järjestelmäanalyysi ja Ohjelmistoratkaisut",
-    subTitle: "Teknologinen Innovaatio Liiketoiminnan Menestykseen",
+    title: "Tietoa CHORNista",
+    span: "Kattava järjestelmäanalyysi ja ohjelmistokehitys",
+    subTitle: "Teknologinen innovaatio liiketoiminnan menestykseen",
     description: [
         {
-            title: "",
-            "description": "CHORN perustettiin maaliskuussa 2023 tarjoamaan teknologia- ja ohjelmistokehitysasiantuntemusta. Erikoisalueitamme ovat IT, järjestelmäarkkitehtuuri, analyysi, täyden kierron ohjelmistokehitys, verkkokehitys, ohjelmistojen laadunvarmistus/testaus, DevOps ja CI/CD."
+            title: "Meistä",
+            description: "CHORN julkaisi verkkosivustonsa maaliskuussa 2023 seuratakseen ja oppiakseen ohjelmistokehityksestä ja kiinnostavista teknologioista eri toimialoille ja liiketoiminta-alueille, sekä seuratakseen nopeasti muuttuvaa teknologista kehitystä, erityisesti IT-järjestelmien ja tekoälyn käyttöönotossa eri liiketoiminta-alueiden tukemiseksi.",
         },
         {
-            title: "",
-            description: "LLM (Large Language Model) ja tekoälyn (AI) ratkaisujen integrointi, pilvipalvelujen käyttöönotto, etäpalvelut, hybridityöjärjestelyt, toimistotyöskentely Chiang Maissa, Bangkokissa, Thaimaassa ja kansainvälisesti."
+            title: "Asiantuntemus",
+            description: "Yli 20 vuoden kokemus ohjelmistokehityksestä ja IT-alalta asiantuntemuksella eri alueilla kuten järjestelmäarkkitehtuuri, data-analyysi, kattava ohjelmistotekniikka, verkkosovelluskehitys, testaus, ohjelmistojen laadunvarmistus, suurten kielimallien integrointi, tekoäly ja pilviratkaisut.",
         },
+        {
+            title: "Toimipaikat ja työskentelytavat",
+            description: "Palveluja tarjotaan etänä, hybridimallilla ja toimistotyönä Chiang Maissa, Bangkokissa ja kansainvälisesti."
+        }
     ],
     stacks: [
         {
-            title: "Järjestelmäanalyysi ja Tekninen Tuki",
-            description: "Kokemus syvällisestä järjestelmäanalyysista, teknisistä suosituksista ja tuesta liiketoimintakriittisille sovelluksille järjestelmän luotettavuuden ja toiminnallisen tehokkuuden varmistamiseksi. Järjestelmän optimoinnin parannukset, QA/Testaus, LLM/Tekoäly ja huippuluokan teknologioiden käyttöönotto kestävää liiketoimintaa varten."
+            title: "Järjestelmäanalyysi ja tekninen tuki",
+            description: "Kokemus syvällisestä järjestelmäanalyysistä, teknisistä suosituksista ja liiketoiminnan kannalta kriittisten sovellusten tuesta järjestelmän luotettavuuden, uskottavuuden ja tehokkuuden varmistamiseksi. Järjestelmien optimointi, laadunvalvonta ja ohjelmistotestaus, suuret kielimallit, tekoäly ja huipputeknologian käyttöönotto kestävää liiketoimintaa varten."
         },
         {
-            title: "Ohjelmistokehitystekniikka",
-            description: "Verkkosivujen ja räätälöityjen ohjelmistojärjestelmien kehittäminen käyttäen edistyneitä teknologioita. Ohjelmistokehitys moderneilla sovelluskehyksillä. Asiantuntemus front-endissä, back-endissä, pilvessä, lohkoketjussa, Web3:ssa ja älysopimusten kehittämisessä."
+            title: "Ohjelmistotekniikka ja tekoäly",
+            description: "Verkkosivustojen ja räätälöityjen ohjelmistojärjestelmien kehittäminen edistyksellisillä teknologioilla. Ohjelmistokehitys moderneilla sovelluskehyksillä, asiantuntemus frontendin, backendin, pilviratkaisujen, lohkoketjun, Web3:n, älysopimuskehityksen, tekoälyjärjestelmien integroinnin ja suurten kielimallien alueilla."
         },
         {
-            title: "Ketterä Ohjelmistokehitys, Koordinointi Liiketoimintatiimien kanssa",
-            description: "Kokemus ketterästä ohjelmistokehityksestä ja koordinoinnista liiketoimintatiimien kanssa. Kokemus tiiviistä yhteistyöstä sekä kotimaisten että kansainvälisten tiimien, sisäisten ja ulkoisten asiakkaiden, liiketoimintakäyttäjien ja toimittajien kanssa. Jatkuvan parantamisen projektit Agile-, Waterfall- ja Hybrid-muodoissa."
+            title: "Ketterä ohjelmistokehitys ja liiketoimintatiimien koordinointi",
+            description: "Kokemus ketterästä ohjelmistokehityksestä ja liiketoimintatiimien koordinoinnista. Kokemus tiiviistä yhteistyöstä kotimaisten ja kansainvälisten tiimien, sisäisten ja ulkoisten asiakkaiden, liiketoimintakäyttäjien ja toimittajien kanssa. Jatkuvan parantamisen projekteja ketterissä, vesiputous- ja hybridityöskentelymenetelmissä."
         }
     ]
 };

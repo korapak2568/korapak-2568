@@ -55,7 +55,12 @@ export interface IImageUrl {
         shape4: IImageUnit,
         shape5: IImageUnit,
     },
-    feature: IImageUnit,
+    feature: {
+        default: IImageUnit,
+        suvarnabhumi: IImageUnit,
+        cloudGuru: IImageUnit,
+        morningSky: IImageUnit
+    },
     about: IImageUnit,
     NotFound404: IImageUnit,
     whatsapp: {

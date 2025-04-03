@@ -8,6 +8,26 @@ export default function AboutLeft() {
                 className="about-image-warp about-image-custom"
                 style={{backgroundImage: `url(${ImageUrl.about.path})`}}
             />
+            <div className="single-footer-widget about-linkedin-widget">
+                <div className="social social-about">
+                    <div className="linkedin-symbol">
+                        <a href="https://www.linkedin.com/company/chorn/"
+                           className="linkedin"
+                           target="_blank"
+                           aria-label="LinkedIn"
+                        >
+                            <i className="bx bxl-linkedin hover-rotate"/>
+                        </a>
+                    </div>
+                    <div className="linkedin-text">
+                        <a href="https://www.linkedin.com/company/chorn/"
+                           target="_blank"
+                        >
+                            www.linkedin.com/chorn
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     )
 }

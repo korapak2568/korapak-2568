@@ -1,7 +1,7 @@
 import {IFeature} from "@/data/feature/model/IFeature";
 
 export const FeatureDE: IFeature = {
-    title: "Überblick zur Webentwicklung",
+    title: "Webapplikationsentwicklung",
     span: "Systemanalyse und Softwareentwicklung",
     subTitle: "",
     stacks: [

@@ -8,6 +8,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {IFeatureStack} from "@/data/feature/model/IFeatureStack";
 import {truncateText} from "@/lib/truncateText";
 import {ImageUrl} from "@/data/image/ImageUrl";
+import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const Features: React.FC = () => {
     const locale = useLocale()
@@ -26,7 +27,7 @@ const Features: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="features-image-warp">
                                 <Image
-                                    src={ImageUrl.feature.path}
+                                    src={ImageUrl.feature.morningSky.path}
                                     alt="image"
                                     width={720}
                                     height={620}
@@ -35,7 +36,7 @@ const Features: React.FC = () => {
                         </div>
 
                         <div className="col-lg-6">
-                            <div className="pl-30">
+                            <div className="pl-30 pt-4">
                                 <div className="row">
                                     {InfoTranslation[locale.value].Feature.stacks.map((stack: IFeatureStack, index: number) => (
                                         <div key={index} className="col-lg-6 col-sm-6">

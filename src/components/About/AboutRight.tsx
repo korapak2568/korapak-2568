@@ -11,12 +11,9 @@ export default function AboutRight() {
             <div className="about-content">
                 {InfoTranslation[locale.value].About.description.map((item: IAboutContent, index: number) => (
                     <div key={index}>
-                        <h3 className={'mt-3'}>
-                            {item.title}
-                        </h3>
-
                         {item.description != undefined && (
-                            <p dangerouslySetInnerHTML={{__html: item.description}}/>
+                            <p className="mt-0 mb-3"
+                               dangerouslySetInnerHTML={{__html: item.description}}/>
                         )}
                     </div>
                 ))}
