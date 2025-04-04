@@ -92,7 +92,7 @@ export interface IImageUrl {
         }
     },
     home: {
-        mainBanner: IImageUnit,
+        main: IImageUnit,
         slides: IImageUnit[];
     },
     banner: {

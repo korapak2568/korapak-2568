@@ -7,7 +7,7 @@ export const AboutNL: IAbout = {
     description: [
         {
             title: "Over Ons",
-            description: "CHORN lanceerde zijn website in maart 2023 om softwareontwikkeling en technologie voor verschillende zakelijke domeinen te volgen en erover te leren. We volgen de voortgang en informatie over snel veranderende technologie in de huidige tijd."
+            description: "CHORN lanceerde zijn website in maart 2023 om softwareontwikkeling en technologie voor verschillende bedrijfsdomeinen te volgen en erover te leren, en om de nieuwste informatie over snel veranderende technologie in de huidige tijd bij te houden."
         },
         {
             title: "Expertise",

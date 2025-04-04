@@ -7,7 +7,7 @@ export const AboutEN: IAbout = {
     description: [
         {
             title: "About Us",
-            description: "CHORN launched its website in March 2023 to track and learn about software development and technology for various business domain industries. We follow the progress and information about rapidly changing technology in the present day."
+            description: "CHORN launched its website in March 2023 to track and learn about software development and technology for various business domain industries, and following the latest information about rapidly changing technology in the present day."
         },
         {
             title: "Expertise",

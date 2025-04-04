@@ -7,7 +7,7 @@ export const AboutFR: IAbout = {
     description: [
         {
             title: "À Propos de Nous",
-            description: "CHORN a lancé son site web en mars 2023 pour suivre et apprendre le développement de logiciels et les technologies pour diverses industries de domaines d'affaires. Nous suivons les progrès et les informations concernant les technologies en évolution rapide à l'heure actuelle."
+            description: "CHORN a lancé son site web en mars 2023 pour suivre et apprendre sur le développement logiciel et la technologie pour diverses industries du domaine des affaires, et suivre les dernières informations sur les technologies en rapide évolution à l'heure actuelle."
         },
         {
             title: "Expertise",

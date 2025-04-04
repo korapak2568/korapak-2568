@@ -7,7 +7,7 @@ export const AboutZH: IAbout = {
     description: [
         {
             title: "关于我们",
-            description: "CHORN于2023年3月推出网站，旨在跟踪和学习各种商业领域行业的软件开发和技术。我们关注当今快速变化的技术进展和信息。"
+            description: "CHORN于2023年3月推出其网站，旨在跟踪和了解各种商业领域行业的软件开发和技术，并跟踪当今快速变化的技术的最新信息。"
         },
         {
             title: "专业知识",

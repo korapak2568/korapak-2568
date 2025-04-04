@@ -14,7 +14,7 @@ export default function Right() {
                 data-aos-once="true"
             >
                 <Image
-                    src={ImageUrl.home.mainBanner.path}
+                    src={ImageUrl.home.main.path}
                     alt="image"
                     width={650}
                     height={500}

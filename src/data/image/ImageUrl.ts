@@ -276,7 +276,7 @@ export const ImageUrl: IImageUrl = {
         }
     },
     home: {
-        mainBanner: {
+        main: {
             title: "CHORN's main banner image",
             path: "/images/metadata/home.png"
         },
