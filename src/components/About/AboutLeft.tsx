@@ -1,6 +1,5 @@
 import React from "react";
 import {ImageUrl} from "@/data/image/ImageUrl";
-import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import Image from "next/image";
 import {Contact2025} from "@/data/contact/Contact2025";
 

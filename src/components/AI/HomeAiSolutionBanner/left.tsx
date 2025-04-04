@@ -22,10 +22,16 @@ export default function Left() {
                 />
 
                 <div className={"add-web-content"}>
-                    <ul>
+                    <ul className="feature-list">
                         {InfoTranslation[locale.value].Service.services.map((service, index) => (
-                            <li key={index}>
-                                <strong>{service.title}</strong> {service.description}
+                            <li key={index} className="feature-item">
+                                <div className="icon">
+                                    <i className="flaticon-check"></i>
+                                </div>
+                                <div className="content">
+                                    <strong>{service.title}</strong>
+                                    <p>{service.description}</p>
+                                </div>
                             </li>
                         ))}
                     </ul>

@@ -12,21 +12,39 @@ const ServicesCardFrontEnd: React.FC = () => {
             <div className="services-area pt-4 pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
-                        <div className={'add-web-content'}>
-                            <h2>{InfoTranslation[lang].FrontEnd.services.title}</h2>
-                            {InfoTranslation[lang].FrontEnd.services.descriptions.map((item, index) => (
-                                <p key={index}>{item}</p>
-                            ))}
 
-                            <ul>
-                                {InfoTranslation[lang].FrontEnd.services.items.map((item, index) => (
-                                    <li key={index}>
-                                        <strong>{item.title}</strong>
-                                        {item.description}
-                                    </li>
+                        {/*<div className="row align-items-center">*/}
+
+                            {/*<div className="col-lg-6">*/}
+                            {/*    Hello*/}
+                            {/*</div>*/}
+                            {/* <div className={'col-lg-6 add-web-content'}>*/}
+
+                            <div>
+                                <h2>{InfoTranslation[lang].FrontEnd.services.title}</h2>
+                                {InfoTranslation[lang].FrontEnd.services.descriptions.map((item, index) => (
+                                    <p key={index}>{item}</p>
                                 ))}
-                            </ul>
-                        </div>
+
+                                <ul className="feature-list">
+                                    {InfoTranslation[lang].FrontEnd.services.items.map((item, index) => (
+                                        <li key={index} className="feature-item">
+                                            <div className="icon">
+                                                <i className="flaticon-check"></i>
+                                            </div>
+                                            <div className="content">
+                                                <strong>{item.title}</strong>
+                                                <p>
+                                                    {item.description}
+                                                </p>
+                                            </div>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+
+                        {/*</div>*/}
+
                         <FrontEndStack/>
                     </div>
                 </div>

@@ -2500,7 +2500,7 @@ Portfolio Area CSS
 =================================================*/
 .portfolio-area {
   position: relative;
-  z-index: 1;
+  z-index: -10;
   overflow: hidden;
 }
 .portfolio-area.bg-fff5ee {

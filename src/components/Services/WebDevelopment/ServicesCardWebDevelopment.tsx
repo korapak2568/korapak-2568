@@ -24,11 +24,16 @@ const ServiceCardWebDevelopment: React.FC = () => {
                                 <p key={index}>{item}</p>
                             ))}
 
-                            <ul>
+                            <ul className="feature-list">
                                 {InfoTranslation[lang].FullStack.services.items.map((item, index) => (
-                                    <li key={index}>
-                                        <strong>{item.title}</strong>
-                                        {item.description}
+                                    <li key={index} className="feature-item">
+                                        <div className="icon">
+                                            <i className="flaticon-check"></i>
+                                        </div>
+                                        <div className="content">
+                                            <strong>{item.title}</strong>
+                                            <p>{item.description}</p>
+                                        </div>
                                     </li>
                                 ))}
                             </ul>
