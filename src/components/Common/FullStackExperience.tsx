@@ -111,7 +111,7 @@ const FullStackExperience: React.FC = () => {
                                         <div className="col-lg-6">
                                             <div className="digital-experience-image">
                                                 <Image
-                                                    src={ImageUrl.slide.global.path}
+                                                    src={ImageUrl.gallery.main.path}
                                                     alt="Service image"
                                                     width={750}
                                                     height={680}

@@ -4,7 +4,7 @@ import { ImageUrl } from "@/data/image/ImageUrl";
 export const GoTH: IFullStackStack = {
     title: "GO",
     description: "Go หรือที่รู้จักกันในชื่อ Golang เป็นภาษาโปรแกรมมิ่งแบบ statically typed และคอมไพล์ที่ออกแบบโดย Google มีชื่อเสียงในด้านความเรียบง่าย ประสิทธิภาพ และการรองรับการทำงานแบบพร้อมกัน (concurrency) ที่แข็งแกร่ง ทำให้เป็นตัวเลือกที่เหมาะสมสำหรับการพัฒนาไมโครเซอร์วิส",
-    image: ImageUrl.fullstack.go.path,
+    image: ImageUrl.fullstackThumbnails.go.path,
     alt: "โลโก้แสดงถึงภาษาโปรแกรมมิ่ง Go",
     readMore: "สำรวจโซลูชันการพัฒนาแบบ full-stack ด้วย Go เพิ่มเติม",
     link: "/technical-expertise/full-stack-developer/go-developer",

@@ -1,26 +1,23 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiFahZH: IAiLanding = {
     name: '法',
     category: '泰国LINE好友',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-fah-thumbnail.webp',
+    thumbnail: ImageUrl.ai.fah.thumbnail.path,
 
     pages: {
         landing: {
             link: '/ai-companions/fah',
             image: {
                 title: '法，AI聊天好友',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-fah-details.png',
+                path: ImageUrl.ai.fah.main.path,
             }
         }
     },
     title: "法，LINE AI聊天好友",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-fah-details.png",
-        alt: "法 - 泰式风格AI聊天伙伴"
-    },
     features: [
         {
             title: "独特特点",

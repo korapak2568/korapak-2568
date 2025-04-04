@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const DockerVI: IDevOpsStack = {
     title: "Docker",
     description: "Hợp lý hóa việc triển khai ứng dụng của bạn với công nghệ container hóa để có môi trường nhất quán và hiệu quả.",
-    image: ImageUrl.devops.docker.path,
+    image: ImageUrl.devopsThumbnails.docker.path,
     alt: "Logo thể hiện kinh nghiệm công nghệ Docker",
     readMore: "Khám phá Docker để kiểm thử DevOps hiệu quả",
     link: "/technical-expertise/cloud-devops/docker",

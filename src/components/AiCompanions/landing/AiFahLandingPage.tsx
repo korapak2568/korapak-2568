@@ -20,7 +20,7 @@ const AiFahLandingPage: React.FC = () => {
                         <div className="col-lg-8">
                             <div className="portfolio-details-image">
                                 <Image
-                                    src={InfoTranslation[locale.value].AiCompanions.fah.image.src}
+                                    src={InfoTranslation[locale.value].AiCompanions.fah.pages.landing.image.path}
                                     alt="portfolio"
                                     width={1000}
                                     height={600}

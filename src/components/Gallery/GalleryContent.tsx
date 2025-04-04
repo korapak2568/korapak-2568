@@ -17,7 +17,7 @@ const GalleryContent: React.FC = () => {
                         <div className="col-lg-6">
                             <div
                                 className="about-image-warp gallery-global-image"
-                                style={{backgroundImage: `url(${ImageUrl.slide.global.path})`}}
+                                style={{backgroundImage: `url(${ImageUrl.gallery.main.path})`}}
                             ></div>
                         </div>
 

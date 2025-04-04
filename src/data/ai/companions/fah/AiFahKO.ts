@@ -1,26 +1,23 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiFahKO: IAiLanding = {
     name: 'Fah',
     category: '태국 LINE 친구',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-fah-thumbnail.webp',
+    thumbnail: ImageUrl.ai.fah.thumbnail.path,
 
     pages: {
         landing: {
             link: '/ai-companions/fah',
             image: {
                 title: 'Fah, AI 채팅 친구',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-fah-details.png',
+                path: ImageUrl.ai.fah.main.path,
             }
         }
     },
     title: "Fah, LINE AI 채팅 친구",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-fah-details.png",
-        alt: "Fah - 태국 스타일 AI 채팅 컴패니언"
-    },
     features: [
         {
             title: "독특한 특징",

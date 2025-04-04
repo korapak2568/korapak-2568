@@ -1,26 +1,23 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiFahDA: IAiLanding = {
     name: 'Fah',
     category: 'Thailandsk LINE Ven',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-fah-thumbnail.webp',
+    thumbnail: ImageUrl.ai.fah.thumbnail.path,
 
     pages: {
         landing: {
             link: '/ai-companions/fah',
             image: {
                 title: 'Fah, AI Chat Ven',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-fah-details.png',
+                path: ImageUrl.ai.fah.main.path,
             }
         }
     },
     title: "Fah, LINE AI Chat Ven",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-fah-details.png",
-        alt: "Fah - Thailandsk Stil AI Chat Ledsager"
-    },
     features: [
         {
             title: "Unikke Funktioner",

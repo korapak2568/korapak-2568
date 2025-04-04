@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const PythonFI: IFullStackStack = {
     title: "Python",
     description: "Python on korkean tason, tulkattu ohjelmointikieli, joka tunnetaan yksinkertaisuudestaan, luettavuudestaan ja monipuolisuudestaan. Sitä käytetään laajalti eri alueilla, kuten verkkokehityksessä, data-analyysissä, tekoälyssä ja tieteellisessä laskennassa.",
-    image: ImageUrl.fullstack.python.path,
+    image: ImageUrl.fullstackThumbnails.python.path,
     alt: "Logo representing Python with Flask framework",
     readMore: "Tutustu lisää Python, Flask, Django full-stack kehitysrRatkaisuihin",
     link: "/technical-expertise/full-stack-developer/python-developer",

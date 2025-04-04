@@ -28,7 +28,7 @@ const ServicesDetailsKubernetes: React.FC = () => {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.devops.kube.path}
+                                            src={ImageUrl.devopsThumbnails.kube.path}
                                             alt="image"
                                             width={500}
                                             height={500}

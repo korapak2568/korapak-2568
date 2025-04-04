@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const Css3EN: IFrontEndStack = {
     title: "CSS3",
     description: "Enhance your website's look with advanced styling techniques using CSS3.",
-    image: ImageUrl.frontend.css3.path,
+    image: ImageUrl.frontendThumbnails.css3.path,
     alt: "Logo representing CSS3 technology",
     readMore: "Explore more CSS3 front-end development solutions",
     link: "/technical-expertise/front-end-developer/css3-developer",

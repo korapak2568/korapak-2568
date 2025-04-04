@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const DockerZH: IDevOpsStack = {
     title: "Docker",
     description: "通过容器化简化应用程序部署，实现一致高效的环境。",
-    image: ImageUrl.devops.docker.path,
+    image: ImageUrl.devopsThumbnails.docker.path,
     alt: "代表Docker技术经验的标志",
     readMore: "探索Docker以实现高效的DevOps测试",
     link: "/technical-expertise/cloud-devops/docker",

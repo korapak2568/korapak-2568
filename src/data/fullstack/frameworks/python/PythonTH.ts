@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const PythonTH: IFullStackStack = {
     title: "Python",
     description: "Python เป็นภาษาโปรแกรมมิ่งระดับสูง แบบอินเตอร์พรีเตอร์ที่เป็นที่รู้จักในด้านความเรียบง่าย ความอ่านง่าย และความหลากหลายในการใช้งาน มันถูกใช้อย่างแพร่หลายในหลากหลายด้าน ตั้งแต่การพัฒนาเว็บและการวิเคราะห์ข้อมูล ไปจนถึงปัญญาประดิษฐ์และการคำนวณทางวิทยาศาสตร์",
-    image: ImageUrl.fullstack.python.path,
+    image: ImageUrl.fullstackThumbnails.python.path,
     alt: "โลโก้ที่แสดงถึง Python กับเฟรมเวิร์ค Flask",
     readMore: "สำรวจโซลูชั่นการพัฒนาแบบฟูลสแต็กด้วย Python, Flask, Django เพิ่มเติม",
     link: "/technical-expertise/full-stack-developer/python-developer",

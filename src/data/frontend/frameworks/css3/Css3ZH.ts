@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const Css3ZH: IFrontEndStack = {
     title: "CSS3",
     description: "使用CSS3的高级样式技术增强您网站的外观。",
-    image:  ImageUrl.frontend.css3.path,
+    image:  ImageUrl.frontendThumbnails.css3.path,
     alt: "代表CSS3技术的标志",
     readMore: "探索更多CSS3前端开发解决方案",
     link: "/technical-expertise/front-end-developer/css3-developer",

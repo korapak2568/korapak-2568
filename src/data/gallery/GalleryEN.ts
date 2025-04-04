@@ -6,37 +6,37 @@ export const GalleryEN: IGallery = {
         {
             title: "CHORN",
             description: "Full-stack software development engineering with flexible workplaces according to customer needs in Bangkok, Thailand, near BTS and MRT stations, important landmarks, and leading shopping centers such as Siam Paragon, Central World, and ICON Siam. Ready for remote work, hybrid work, or on-site work in Chiang Mai, Bangkok, Thailand, and abroad.",
-            image: ImageUrl.slide.homes[0]
+            image: ImageUrl.home.slides[0]
         },
         {
 
             title: "CHORN",
             description: "Full-stack software development engineering with flexible workplaces according to customer needs in Bangkok, Thailand, near BTS and MRT stations, important landmarks, and leading shopping centers such as Siam Paragon, Central World, and ICON Siam. Ready for remote work, hybrid work, or on-site work in Chiang Mai, Bangkok, Thailand, and abroad.",
-            image: ImageUrl.slide.homes[1]
+            image: ImageUrl.home.slides[1]
         },
         {
 
             title: "CHORN",
             description: "Full-stack software development engineering with flexible workplaces according to customer needs in Bangkok, Thailand, near BTS and MRT stations, important landmarks, and leading shopping centers such as Siam Paragon, Central World, and ICON Siam. Ready for remote work, hybrid work, or on-site work in Chiang Mai, Bangkok, Thailand, and abroad.",
-            image: ImageUrl.slide.homes[2]
+            image: ImageUrl.home.slides[2]
         },
         {
 
             title: "CHORN",
             description: "Full-stack software development engineering with flexible workplaces according to customer needs in Bangkok, Thailand, near BTS and MRT stations, important landmarks, and leading shopping centers such as Siam Paragon, Central World, and ICON Siam. Ready for remote work, hybrid work, or on-site work in Chiang Mai, Bangkok, Thailand, and abroad.",
-            image: ImageUrl.slide.homes[3]
+            image: ImageUrl.home.slides[3]
         },
         {
 
             title: "CHORN",
             description: "Full-stack software development engineering with flexible workplaces according to customer needs in Bangkok, Thailand, near BTS and MRT stations, important landmarks, and leading shopping centers such as Siam Paragon, Central World, and ICON Siam. Ready for remote work, hybrid work, or on-site work in Chiang Mai, Bangkok, Thailand, and abroad.",
-            image: ImageUrl.slide.homes[4]
+            image: ImageUrl.home.slides[4]
         },
         {
 
             title: "CHORN",
             description: "Full-stack software development engineering with flexible workplaces according to customer needs in Bangkok, Thailand, near BTS and MRT stations, important landmarks, and leading shopping centers such as Siam Paragon, Central World, and ICON Siam. Ready for remote work, hybrid work, or on-site work in Chiang Mai, Bangkok, Thailand, and abroad.",
-            image: ImageUrl.slide.homes[5]
+            image: ImageUrl.home.slides[5]
         },
     ],
     global: {

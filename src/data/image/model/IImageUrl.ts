@@ -2,7 +2,7 @@ import {IImageUnit} from "@/data/image/model/IImageUnit";
 import {IImageLink} from "@/data/image/model/IImageLink";
 
 export interface IImageUrl {
-    devops: {
+    devopsThumbnails: {
         appium: IImageUnit,
         docker: IImageUnit,
         github: IImageUnit,
@@ -13,7 +13,7 @@ export interface IImageUrl {
         selenium: IImageUnit,
         soapui: IImageUnit,
     },
-    fullstack: {
+    fullstackThumbnails: {
         dotnetcore: IImageUnit,
         go: IImageUnit,
         java: IImageUnit,
@@ -21,7 +21,7 @@ export interface IImageUrl {
         php: IImageUnit,
         python: IImageUnit,
     },
-    frontend: {
+    frontendThumbnails: {
         angular: IImageUnit,
         css3: IImageUnit,
         html5: IImageUnit,
@@ -31,16 +31,19 @@ export interface IImageUrl {
         vue: IImageUnit,
         javascript: IImageUnit,
     },
-    slide: {
-        homes: IImageUnit[];
-        globals: IImageUnit[];
-        global: IImageUnit,
-    },
     ai: {
-        defaultShape1: IImageUnit,
-        defaultShape2: IImageUnit,
-        defaultShape3: IImageUnit,
-        defaultShape4: IImageUnit,
+        fah: {
+            main: IImageUnit,
+            thumbnail: IImageUnit,
+        },
+        aom: {
+            main: IImageUnit,
+            thumbnail: IImageUnit,
+        },
+        ploy: {
+            main: IImageUnit,
+            thumbnail: IImageUnit,
+        },
     },
     shape: {
         default: {
@@ -62,6 +65,10 @@ export interface IImageUrl {
         suvarnabhumi: IImageUnit,
         cloudGuru: IImageUnit,
         morningSky: IImageUnit
+    },
+    gallery: {
+        main: IImageUnit;
+        slides: IImageUnit[],
     },
     about: IImageUnit,
     NotFound404: IImageUnit,
@@ -86,9 +93,14 @@ export interface IImageUrl {
     },
     home: {
         mainBanner: IImageUnit,
+        slides: IImageUnit[];
     },
     banner: {
         banner1: IImageUnit,
+        mainBannerBg1: IImageUnit,
+        mainBannerBg2: IImageUnit,
+        mainBannerBg3: IImageUnit,
+        mainBannerBg4: IImageUnit,
     },
     pageBanner: {
         cover1: IImageUnit,

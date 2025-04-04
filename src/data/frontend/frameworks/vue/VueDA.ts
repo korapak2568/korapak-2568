@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const VueDA: IFrontEndStack = {
     title: "Vue",
     description: "Skab moderne, reaktive webgrænseflader hurtigt med Vues intuitive og fleksible design.",
-    image: ImageUrl.frontend.vue.path,
+    image: ImageUrl.frontendThumbnails.vue.path,
     alt: "Logo, der repræsenterer Vue.js-frameworket",
     readMore: "Udforsk flere VueJS frontend-udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/vue-developer",

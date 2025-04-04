@@ -3,26 +3,23 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
 import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiAomNL: IAiLanding = {
     name: 'Aom',
     category: 'Gezondheids-LINE-Vriend',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-aom-thumbnail.webp',
+    thumbnail: ImageUrl.ai.aom.thumbnail.path,
 
     pages: {
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: 'Aom, AI-Chatpartner',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-aom-details.png',
+                path: ImageUrl.ai.aom.main.path,
             }
         }
     },
     title: "Aom, AI-Chat",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-aom-details.png",
-        alt: "Aom - Thaise AI-Chatpartner"
-    },
     features: [
         {
             title: "Unieke Eigenschappen",

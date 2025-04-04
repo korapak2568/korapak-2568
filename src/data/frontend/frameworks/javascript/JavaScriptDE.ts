@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const JavaScriptDE: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript ist eine vielseitige und dynamische Programmiersprache, die häufig für die Erstellung interaktiver und reaktionsfähiger Webanwendungen verwendet wird. Ihre Flexibilität und ihr umfangreiches Ökosystem machen sie zu einem unverzichtbaren Werkzeug für die moderne Webentwicklung.",
-    image: ImageUrl.frontend.javascript.path,
+    image: ImageUrl.frontendThumbnails.javascript.path,
     alt: "Logo, das die Programmiersprache JavaScript repräsentiert",
     readMore: "Entdecken Sie weitere JavaScript Full-Stack-Entwicklungslösungen",
     link: "/technical-expertise/front-end-developer/javascript-developer",

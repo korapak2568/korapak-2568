@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const GoKO: IFullStackStack = {
     title: "GO",
     description: "Go, 또는 Golang은 Google에서 설계한 정적 타입을 가진 컴파일된 프로그래밍 언어입니다. Go는 단순성, 효율성 및 강력한 동시성 지원으로 잘 알려져 있으며, 이는 마이크로서비스 개발에 이상적인 선택이 됩니다.",
-    image: ImageUrl.fullstack.go.path,
+    image: ImageUrl.fullstackThumbnails.go.path,
     alt: "Logo representing Go programming language",
     readMore: "Go 풀스택 개발 솔루션 더 알아보기",
     link: "/technical-expertise/full-stack-developer/go-developer",

@@ -5,7 +5,7 @@ import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
-import {MainSlideShape} from "@/components/Shape/MainSlideShape";
+import {MainShape} from "@/components/Shape/MainShape";
 
 const FlexibleWorkspace: React.FC = () => {
     const locale = useLocale()
@@ -55,7 +55,7 @@ const FlexibleWorkspace: React.FC = () => {
                     ))}
                 </Swiper>
 
-                <MainSlideShape/>
+                <MainShape/>
             </div>
         </>
     );

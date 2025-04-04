@@ -3,26 +3,22 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
 import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiPloyEN: IAiLanding = {
     name: 'Ploy',
     category: 'Students LINE Friend',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-ploy-thumbnail.webp',
-
+    thumbnail: ImageUrl.ai.ploy.thumbnail.path,
     pages: {
         landing: {
             link: '/ai-companions/ploy',
             image: {
                 title: 'พลอย เพื่อนคุยเอไอ',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-ploy-details.png',
+                path: ImageUrl.ai.ploy.main.path,
             }
         }
     },
     title: "Ploy, AI LINE Chat",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-ploy-details.png",
-        alt: "Ploy - Thai AI Chat Companion"
-    },
     features: [
         {
             title: "Unique Features",

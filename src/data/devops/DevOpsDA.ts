@@ -18,7 +18,7 @@ export const DevOpsDA: IDevOps = {
     appium: {
         title: "Appium",
         description: "Automate your mobile application testing with Appium's versatile and open-source framework.",
-        image: ImageUrl.devops.appium.path,
+        image: ImageUrl.devopsThumbnails.appium.path,
         alt: "Logo representing Appium technology experience",
         readMore: "Find out how Appium powers mobile DevOps testing",
         link: "/technical-expertise/cloud-devops/appium",
@@ -65,7 +65,7 @@ export const DevOpsDA: IDevOps = {
     gitlab: {
         title: "GitLab",
         description: "Optimize your DevOps pipeline with GitLab's all-in-one platform for version control, CI/CD, and more.",
-        image: ImageUrl.devops.gitlab.path,
+        image: ImageUrl.devopsThumbnails.gitlab.path,
         alt: "Logo representing GitLab technology experience",
         readMore: "Discover GitLab for streamlined DevOps testing",
         link: "/technical-expertise/cloud-devops/gitlab",
@@ -112,7 +112,7 @@ export const DevOpsDA: IDevOps = {
     jenkins: {
         title: "Jenkins",
         description: "Automate your software development with Jenkins, the leading open-source CI/CD tool.",
-        image: ImageUrl.devops.jenkins.path,
+        image: ImageUrl.devopsThumbnails.jenkins.path,
         alt: "Logo representing Jenkins technology experience",
         readMore: "Discover Jenkins CI/CD solutions for DevOps testing",
         link: "/technical-expertise/cloud-devops/jenkins",
@@ -159,7 +159,7 @@ export const DevOpsDA: IDevOps = {
     postman: {
         title: "Postman",
         description: "Streamline your API development and testing with Postman's collaborative platform.",
-        image: ImageUrl.devops.postman.path,
+        image: ImageUrl.devopsThumbnails.postman.path,
         alt: "Logo representing Postman technology experience",
         readMore: "Learn how Postman enhances DevOps API testing",
         link: "/technical-expertise/cloud-devops/postman",
@@ -206,7 +206,7 @@ export const DevOpsDA: IDevOps = {
     selenium: {
         title: "Selenium",
         description: "Automate your web application testing with Selenium's powerful testing suite.",
-        image: ImageUrl.devops.selenium.path,
+        image: ImageUrl.devopsThumbnails.selenium.path,
         alt: "Logo representing Selenium technology experience",
         readMore: "Discover Selenium for automated DevOps testing",
         link: "/technical-expertise/cloud-devops/selenium",
@@ -253,7 +253,7 @@ export const DevOpsDA: IDevOps = {
     soapui: {
         title: "SOAPUI",
         description: "Simplify your API testing with SOAPUI's comprehensive testing toolset for REST and SOAP APIs.",
-        image: ImageUrl.devops.soapui.path,
+        image: ImageUrl.devopsThumbnails.soapui.path,
         alt: "Logo representing SOAPUI technology experience",
         readMore: "Learn model SoapUI for API and DevOps testing",
         link: "/technical-expertise/cloud-devops/soapui", features: [

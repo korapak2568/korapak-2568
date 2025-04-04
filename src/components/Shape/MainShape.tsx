@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import {ImageUrl} from "@/data/image/ImageUrl";
 
-export const MainSlideShape: React.FC = () => {
+export const MainShape: React.FC = () => {
     return (
         <div className="main-slider-shape">
             <div className="shape-1">

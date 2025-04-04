@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const GoZH: IFullStackStack = {
     title: "GO",
     description: "Go，也称为Golang，是由谷歌设计的静态类型、编译型编程语言。它以简洁、高效和强大的并发支持而闻名，使其成为开发微服务的理想选择。",
-    image: ImageUrl.fullstack.go.path,
+    image: ImageUrl.fullstackThumbnails.go.path,
     alt: "代表Go编程语言的标志",
     readMore: "探索更多Go全栈开发解决方案",
     link: "/technical-expertise/full-stack-developer/go-developer",

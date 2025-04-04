@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const TypeScriptTH: IFrontEndStack = {
     title: "TypeScript",
     description: "ไทป์สคริปต์เป็นซูเปอร์เซ็ตของจาวาสคริปต์ ที่มีการพิมพ์แบบเข้มงวด เพิ่มการพิมพ์แบบสแตติก ช่วยปรับปรุงประสบการณ์การพัฒนาโดยจับข้อผิดพลาดตั้งแต่เนิ่นๆ และปรับปรุงคุณภาพโค้ด มันคอมไพล์เป็นจาวาสคริปต์ ธรรมดา ทำให้เข้ากันได้กับทุกเบราว์เซอร์และเฟรมเวิร์ก",
-    image: ImageUrl.frontend.typescript.path,
+    image: ImageUrl.frontendThumbnails.typescript.path,
     alt: "โลโก้ที่แสดงถึงภาษาการเขียนโปรแกรมไทป์สคริปต์",
     readMore: "สำรวจโซลูชั่นการพัฒนาแบบไทป์สคริปต์ full-stack เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/typescript-developer",

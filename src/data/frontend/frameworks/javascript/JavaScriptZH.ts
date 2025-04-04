@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const JavaScriptZH: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript是一种通用且动态的编程语言，广泛用于构建交互式和响应式Web应用程序。其灵活性和广泛的生态系统使其成为现代Web开发的重要工具。",
-    image: ImageUrl.frontend.javascript.path,
+    image: ImageUrl.frontendThumbnails.javascript.path,
     alt: "代表JavaScript编程语言的标志",
     readMore: "探索更多JavaScript全栈开发解决方案",
     link: "/technical-expertise/front-end-developer/javascript-developer",

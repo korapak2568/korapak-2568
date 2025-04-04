@@ -4,7 +4,7 @@ import { ImageUrl } from "@/data/image/ImageUrl";
 export const ReactJA: IFrontEndStack = {
     title: "React",
     description: "Reactの強力なコンポーネントベースのアーキテクチャで、動的で高性能なユーザーインターフェースを簡単に構築できます。",
-    image: ImageUrl.frontend.react.path,
+    image: ImageUrl.frontendThumbnails.react.path,
     alt: "React.jsライブラリを表すロゴ",
     readMore: "ReactJSフロントエンド開発ソリューションをさらに探る",
     link: "/technical-expertise/front-end-developer/react-developer",

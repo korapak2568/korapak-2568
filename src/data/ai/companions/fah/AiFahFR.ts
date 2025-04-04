@@ -1,26 +1,23 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiFahFR: IAiLanding = {
     name: 'Fah',
     category: 'Amie LINE Thaïlandaise',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-fah-thumbnail.webp',
+    thumbnail: ImageUrl.ai.fah.thumbnail.path,
 
     pages: {
         landing: {
             link: '/ai-companions/fah',
             image: {
                 title: 'Fah, Amie de Chat IA',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-fah-details.png',
+                path: ImageUrl.ai.fah.main.path,
             }
         }
     },
     title: "Fah, Amie de Chat IA sur LINE",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-fah-details.png",
-        alt: "Fah - Compagne de Chat IA de Style Thaïlandais"
-    },
     features: [
         {
             title: "Caractéristiques Uniques",

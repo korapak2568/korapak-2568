@@ -1,177 +1,141 @@
 import {IImageUrl} from "@/data/image/model/IImageUrl";
 
 export const ImageUrl: IImageUrl = {
-    devops: {
+    //devops thumbnail
+    devopsThumbnails: {
         appium: {
-            title: "CHORN devops Appium",
-            path: "/images/technical-expertise/front-end-developer/Appium.webp"
+            title: "CHORN devops thumbnail Appium",
+            path: "/images/technical-expertise/cloud-devops/Appium.webp"
         },
         docker: {
-            title: "CHORN devops Docker",
+            title: "CHORN devops thumbnail Docker",
             path: "/images/technical-expertise/cloud-devops/Docker.webp"
         },
         github: {
-            title: "CHORN devops GitHub",
+            title: "CHORN devops thumbnail GitHub",
             path: "/images/technical-expertise/cloud-devops/GitHub.webp"
         },
         gitlab: {
-            title: "CHORN devops GitLab",
+            title: "CHORN devops thumbnail GitLab",
             path: "/images/technical-expertise/cloud-devops/GitLab.webp"
         },
         jenkins: {
-            title: "CHORN devops Jenkins",
+            title: "CHORN devops thumbnail Jenkins",
             path: "/images/technical-expertise/cloud-devops/Jenkins.webp"
         },
         kube: {
-            title: "CHORN devops Kubernetes",
+            title: "CHORN devops thumbnail Kubernetes",
             path: "/images/technical-expertise/cloud-devops/Kubernetes.webp"
         },
         postman: {
-            title: "CHORN devops Postman",
+            title: "CHORN devops thumbnail Postman",
             path: "/images/technical-expertise/cloud-devops/Postman.webp"
         },
         selenium: {
-            title: "CHORN devops Selenium",
+            title: "CHORN devops thumbnail Selenium",
             path: "/images/technical-expertise/cloud-devops/Selenium.webp"
         },
         soapui: {
-            title: "CHORN devops SoapUI",
+            title: "CHORN devops thumbnail SoapUI",
             path: "/images/technical-expertise/cloud-devops/SoapUI.webp"
         },
     },
-    fullstack: {
+
+    //fullstack thumbnail
+    fullstackThumbnails: {
         dotnetcore: {
-            title: "CHORN full-stack development Dotnet Core",
+            title: "CHORN full-stack development thumbnail Dotnet Core",
             path: "/images/technical-expertise/full-stack-developer/dotnetcore-developer.webp"
         },
         go: {
-            title: "CHORN full-stack development Go-lang",
+            title: "CHORN full-stack development thumbnail Go-lang",
             path: "/images/technical-expertise/full-stack-developer/go-developer.webp"
         },
         java: {
-            title: "CHORN full-stack development Java Spring Boot",
+            title: "CHORN full-stack development thumbnail Java Spring Boot",
             path: "/images/technical-expertise/full-stack-developer/java-spring-boot-developer.webp"
         },
         nodejs: {
-            title: "CHORN full-stack development Node.js",
+            title: "CHORN full-stack development thumbnail Node.js",
             path: "/images/technical-expertise/full-stack-developer/nodejs-developer.webp"
         },
         php: {
-            title: "CHORN full-stack development PHP",
+            title: "CHORN full-stack development thumbnail PHP",
             path: "/images/technical-expertise/full-stack-developer/php-developer.webp"
         },
         python: {
-            title: "CHORN full-stack development Python",
+            title: "CHORN full-stack development thumbnail Python",
             path: "/images/technical-expertise/full-stack-developer/python-developer.webp"
         },
     },
-    frontend: {
+
+    //frontend thumbnail
+    frontendThumbnails: {
         angular: {
-            title: "CHORN full-stack development Angular",
+            title: "CHORN full-stack development thumbnail Angular",
             path: "/images/technical-expertise/front-end-developer/angular-developer.webp"
         },
         css3: {
-            title: "CHORN full-stack development CSS3",
+            title: "CHORN full-stack development thumbnail CSS3",
             path: "/images/technical-expertise/front-end-developer/css3-developer.webp"
         },
         html5: {
-            title: "CHORN full-stack development HTML5",
+            title: "CHORN full-stack development thumbnail HTML5",
             path: "/images/technical-expertise/front-end-developer/html5-developer.webp"
         },
         nextjs: {
-            title: "CHORN full-stack development Next.js",
+            title: "CHORN full-stack development thumbnail Next.js",
             path: "/images/technical-expertise/front-end-developer/nextjs-developer.webp"
         },
         react: {
-            title: "CHORN full-stack development React.js",
+            title: "CHORN full-stack development thumbnail React.js",
             path: "/images/technical-expertise/front-end-developer/react-developer.webp"
         },
         typescript: {
-            title: "CHORN full-stack development TypeScript",
+            title: "CHORN full-stack development thumbnail TypeScript",
             path: "/images/technical-expertise/front-end-developer/typescript-developer.webp"
         },
         vue: {
-            title: "CHORN full-stack development Vue.js",
+            title: "CHORN full-stack development thumbnail Vue.js",
             path: "/images/technical-expertise/front-end-developer/vue-developer.webp"
         },
         javascript: {
-            title: "CHORN full-stack development JavaScript",
+            title: "CHORN full-stack development thumbnail JavaScript",
             path: "/images/technical-expertise/front-end-developer/javascript-developer.webp"
         },
     },
-    slide: {
-        homes: [
-            {
-                title: "CHORN home slide-1",
-                path: "/images/home/chorn-workplace-001-optimize.webp"
-            },
-            {
 
-                title: "CHORN home slide-2",
-                path: "/images/home/chorn-workplace-002-optimize.webp"
-            },
-            {
-
-                title: "CHORN home slide-3",
-                path: "/images/home/chorn-workplace-003-optimize.webp"
-            },
-            {
-
-                title: "CHORN home slide-4",
-                path: "/images/home/chorn-workplace-004-optimize.webp"
-            },
-            {
-
-                title: "CHORN home slide-5",
-                path: "/images/home/chorn-workplace-005-optimize.webp"
-            },
-            {
-
-                title: "CHORN home slide-6",
-                path: "/images/home/chorn-workplace-006-optimize.webp"
-            },
-        ],
-        global: {
-            title: "CHORN's gallery global main",
-            path: "/images/gallery/chorn-global-001-optimize.webp"
-        },
-        globals: [
-
-            {
-                title: "CHORN global slide-1",
-                path: "/images/gallery/chorn-global-002-optimize.webp"
-            },
-            {
-                title: "CHORN global slide-2",
-                path: "/images/gallery/chorn-global-003-optimize.webp"
-            },
-            {
-                title: "CHORN global slide-3",
-                path: "/images/gallery/chorn-global-004-optimize.webp"
-            },
-            {
-                title: "CHORN global slide-4",
-                path: "/images/gallery/chorn-global-005-optimize.webp"
-            },
-        ]
-    },
     ai: {
-        defaultShape1: {
-            title: "CHORN's AI default shape-1",
-            path: "/images/ai/default-shape/default-shape1.png"
+        fah: {
+            main: {
+                title: "CHORN's Fah, AI Chat Friend",
+                path: "/images/ai/ai-fah-details.png",
+            },
+            thumbnail: {
+                title: "CHORN's Fah thumbnail",
+                path: "/images/ai/ai-companions/ai-fah-thumbnail.webp",
+            }
         },
-        defaultShape2: {
-            title: "CHORN's AI default shape-1",
-            path: "/images/ai/default-shape/default-shape2.png"
+        aom: {
+            main: {
+                title: "CHORN's Aom, AI Chat Friend",
+                path: "/images/ai/ai-aom-details.png",
+            },
+            thumbnail: {
+                title: "CHORN's Aom thumbnail",
+                path: "/images/ai/ai-companions/ai-aom-thumbnail.webp",
+            }
         },
-        defaultShape3: {
-            title: "CHORN's AI default shape-1",
-            path: "/images/ai/default-shape/default-shape3.png"
+        ploy: {
+            main: {
+                title: "CHORN's Ploy, AI Chat Friend",
+                path: "/images/ai/ai-ploy-details.png",
+            },
+            thumbnail: {
+                title: "CHORN's Ploy thumbnail",
+                path: "/images/ai/ai-companions/ai-ploy-thumbnail.webp",
+            }
         },
-        defaultShape4: {
-            title: "CHORN's AI default shape-1",
-            path: "/images/ai/default-shape/default-shape4.png"
-        }
     },
     shape: {
         default: {
@@ -233,6 +197,30 @@ export const ImageUrl: IImageUrl = {
             path: "/images/features/morning-sky-optimize.webp"
         }
     },
+    gallery: {
+        main: {
+            title: "CHORN's gallery global main",
+            path: "/images/gallery/chorn-global-001-optimize.webp"
+        },
+        slides: [
+            {
+                title: "CHORN global slide-1",
+                path: "/images/gallery/chorn-global-002-optimize.webp"
+            },
+            {
+                title: "CHORN global slide-2",
+                path: "/images/gallery/chorn-global-003-optimize.webp"
+            },
+            {
+                title: "CHORN global slide-3",
+                path: "/images/gallery/chorn-global-004-optimize.webp"
+            },
+            {
+                title: "CHORN global slide-4",
+                path: "/images/gallery/chorn-global-005-optimize.webp"
+            },
+        ]
+    },
     about: {
         title: "CHORN's about image",
         path: "/images/about/about-chorn-optimize.webp"
@@ -291,13 +279,60 @@ export const ImageUrl: IImageUrl = {
         mainBanner: {
             title: "CHORN's main banner image",
             path: "/images/metadata/home.png"
-        }
+        },
+        slides: [
+            {
+                title: "CHORN home slide-1",
+                path: "/images/home/chorn-workplace-001-optimize.webp"
+            },
+            {
+
+                title: "CHORN home slide-2",
+                path: "/images/home/chorn-workplace-002-optimize.webp"
+            },
+            {
+
+                title: "CHORN home slide-3",
+                path: "/images/home/chorn-workplace-003-optimize.webp"
+            },
+            {
+
+                title: "CHORN home slide-4",
+                path: "/images/home/chorn-workplace-004-optimize.webp"
+            },
+            {
+
+                title: "CHORN home slide-5",
+                path: "/images/home/chorn-workplace-005-optimize.webp"
+            },
+            {
+
+                title: "CHORN home slide-6",
+                path: "/images/home/chorn-workplace-006-optimize.webp"
+            },
+        ]
     },
     banner: {
         banner1: {
             title: "CHORN's banner image",
             path: "/images/banner/chorn-banner-1.webp"
-        }
+        },
+        mainBannerBg1: {
+            title: "CHORN's main banner bg - 1",
+            path: "/images/main-banner-bg-1.webp"
+        },
+        mainBannerBg2: {
+            title: "CHORN's main banner bg - 2",
+            path: "/images/main-banner-bg-2.webp"
+        },
+        mainBannerBg3: {
+            title: "CHORN's main banner bg - 3",
+            path: "/images/main-banner-bg-3.webp"
+        },
+        mainBannerBg4: {
+            title: "CHORN's main banner bg - 4",
+            path: "/images/main-banner-bg-4.webp"
+        },
     },
     pageBanner: {
         cover1: {

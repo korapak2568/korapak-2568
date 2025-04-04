@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const PhpFI: IFullStackStack = {
     title: "PHP",
     description: "PHP on suosittu palvelinpuolen skriptikieli, jota käytetään laajasti verkkokehityksessä. Symfony, Laravel, Phalcon -kehykset sekä Twig-tyyppimoottorit ja WordPress-alustat sen headless-version kanssa ovat nostaneet PHP-kehityksen uudelle tasolle tarjoamalla rakenteellisia, tehokkaita ja skaalautuvia ratkaisuja monimutkaisten verkkosovellusten rakentamiseen.",
-    image: ImageUrl.fullstack.php.path,
+    image: ImageUrl.fullstackThumbnails.php.path,
     alt: "Logo representing PHP programming language",
     readMore: "Tutustu lisää PHP full-stack kehitysrRatkaisuihin",
     link: "/technical-expertise/full-stack-developer/php-developer",

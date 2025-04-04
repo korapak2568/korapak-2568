@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const TypeScriptZH: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScript 是 JavaScript 的强类型超集，它添加了静态类型，通过及早捕获错误并提高代码质量来增强开发体验。它编译为纯 JavaScript，使其与所有浏览器和框架兼容。",
-    image: ImageUrl.frontend.typescript.path,
+    image: ImageUrl.frontendThumbnails.typescript.path,
     alt: "代表 TypeScript 编程语言的标志",
     readMore: "探索更多 TypeScript 全栈开发解决方案",
     link: "/technical-expertise/front-end-developer/typescript-developer",

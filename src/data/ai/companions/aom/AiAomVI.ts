@@ -3,26 +3,23 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
 import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiAomVI: IAiLanding = {
     name: 'Aom',
     category: 'Bạn LINE Sức khỏe',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-aom-thumbnail.webp',
+    thumbnail: ImageUrl.ai.aom.thumbnail.path,
 
     pages: {
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: 'Aom, Bạn trò chuyện AI',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-aom-details.png',
+                path: ImageUrl.ai.aom.main.path,
             }
         }
     },
     title: "Aom, Trò chuyện AI",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-aom-details.png",
-        alt: "Aom - Bạn trò chuyện AI Thái Lan"
-    },
     features: [
         {
             title: "Tính năng Độc đáo",

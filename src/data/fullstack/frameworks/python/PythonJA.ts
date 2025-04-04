@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const PythonJA: IFullStackStack = {
     title: "Python",
     description: "Pythonは、シンプルさ、読みやすさ、汎用性で知られる高水準インタープリタ型プログラミング言語です。ウェブ開発やデータ分析から人工知能や科学計算まで、様々な分野で広く使用されています。",
-    image: ImageUrl.fullstack.python.path,
+    image: ImageUrl.fullstackThumbnails.python.path,
     alt: "Flaskフレームワークを表すPythonのロゴ",
     readMore: "Python、Flask、Djangoフルスタック開発ソリューションをさらに探索する",
     link: "/technical-expertise/full-stack-developer/python-developer",

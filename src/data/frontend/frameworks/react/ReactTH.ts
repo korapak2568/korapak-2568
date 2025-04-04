@@ -4,7 +4,7 @@ import { ImageUrl } from "@/data/image/ImageUrl";
 export const ReactTH: IFrontEndStack = {
     title: "React",
     description: "สร้างส่วนติดต่อผู้ใช้ที่มีประสิทธิภาพสูงและไดนามิกได้อย่างง่ายดายด้วยสถาปัตยกรรมแบบคอมโพเนนต์อันทรงพลังของ React",
-    image: ImageUrl.frontend.react.path,
+    image: ImageUrl.frontendThumbnails.react.path,
     alt: "โลโก้ที่แสดงถึงไลบรารี React.js",
     readMore: "สำรวจโซลูชันการพัฒนาฟรอนต์เอนด์ ReactJS เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/react-developer",

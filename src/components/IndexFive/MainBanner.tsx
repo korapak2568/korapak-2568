@@ -3,6 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { ImageUrl } from "@/data/image/ImageUrl";
 
 const MainBanner: React.FC = () => {
   return (
@@ -11,7 +12,7 @@ const MainBanner: React.FC = () => {
         <div 
           className="main-banner-item item-three"
           style={{
-            backgroundImage: `url(/obsolete-images/main-banner-bg-3.jpg)`,
+            backgroundImage: `url(${ImageUrl.banner.mainBannerBg3.path})`,
           }}
         >
           <div className="d-table">

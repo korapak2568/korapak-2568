@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const ReactDA: IFrontEndStack = {
     title: "React",
     description: "Byg dynamiske brugergrænseflader med høj ydeevne uden besvær med Reacts kraftfulde komponentbaserede arkitektur.",
-    image: ImageUrl.frontend.react.path,
+    image: ImageUrl.frontendThumbnails.react.path,
     alt: "Logo der repræsenterer React.js-biblioteket",
     readMore: "Udforsk flere ReactJS front-end udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/react-developer",

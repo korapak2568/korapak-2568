@@ -4,7 +4,7 @@ import { ImageUrl } from "@/data/image/ImageUrl";
 export const JavaScriptJA: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScriptは、インタラクティブでレスポンシブなウェブアプリケーションの構築に広く使用されている多用途で動的なプログラミング言語です。その柔軟性と広範なエコシステムにより、現代のウェブ開発に不可欠なツールとなっています。",
-    image: ImageUrl.frontend.javascript.path,
+    image: ImageUrl.frontendThumbnails.javascript.path,
     alt: "JavaScriptプログラミング言語を表すロゴ",
     readMore: "JavaScriptフルスタック開発ソリューションをさらに探る",
     link: "/technical-expertise/front-end-developer/javascript-developer",

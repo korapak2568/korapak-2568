@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const Html5ZH: IFrontEndStack = {
     title: "HTML5",
     description: "掌握网页开发的最新标准，创建丰富、交互式内容。",
-    image: ImageUrl.frontend.html5.path,
+    image: ImageUrl.frontendThumbnails.html5.path,
     alt: "代表HTML5技术的标志",
     readMore: "探索更多HTML5前端开发解决方案",
     link: "/technical-expertise/front-end-developer/html5-developer",

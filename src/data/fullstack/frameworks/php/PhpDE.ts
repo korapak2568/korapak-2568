@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const PhpDE: IFullStackStack = {
     title: "PHP",
     description: "PHP ist eine beliebte serverseitige Skriptsprache, die für die Webentwicklung weit verbreitet ist. Frameworks wie Symfony, Laravel, Phalcon und Template-Engines wie Twig, zusammen mit Plattformen wie WordPress und dessen Headless-Variante, haben die PHP-Entwicklung verbessert, indem sie strukturierte, effiziente und skalierbare Lösungen für den Aufbau komplexer Webanwendungen bieten.",
-    image: ImageUrl.fullstack.php.path,
+    image: ImageUrl.fullstackThumbnails.php.path,
     alt: "Logo, das die PHP-Programmiersprache repräsentiert",
     readMore: "Entdecken Sie weitere PHP-Full-Stack-Entwicklungslösungen",
     link: "/technical-expertise/full-stack-developer/php-developer",

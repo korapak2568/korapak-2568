@@ -6,37 +6,37 @@ export const GalleryFI: IGallery = {
         {
             title: "CHORN",
             description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
-            image: ImageUrl.slide.homes[0]
+            image: ImageUrl.home.slides[0]
         },
         {
 
             title: "CHORN",
             description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
-            image: ImageUrl.slide.homes[1]
+            image: ImageUrl.home.slides[1]
         },
         {
 
             title: "CHORN",
             description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
-            image: ImageUrl.slide.homes[2]
+            image: ImageUrl.home.slides[2]
         },
         {
 
             title: "CHORN",
             description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
-            image: ImageUrl.slide.homes[3]
+            image: ImageUrl.home.slides[3]
         },
         {
 
             title: "CHORN",
             description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
-            image: ImageUrl.slide.homes[4]
+            image: ImageUrl.home.slides[4]
         },
         {
 
             title: "CHORN",
             description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
-            image: ImageUrl.slide.homes[5]
+            image: ImageUrl.home.slides[5]
         },
     ],
     global: {

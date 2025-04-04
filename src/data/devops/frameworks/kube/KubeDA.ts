@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const KubeDA: IDevOpsStack = {
     title: "Kubernetes",
     description: "Automatiser din containerorkestrering med Kubernetes for skalerbare og robuste applikationer.",
-    image: ImageUrl.devops.kube.path,
+    image: ImageUrl.devopsThumbnails.kube.path,
     alt: "Logo der repræsenterer Kubernetes teknologierfaring",
     readMore: "Udforsk Kubernetes DevOps testløsninger",
     link: "/technical-expertise/cloud-devops/kubernetes",

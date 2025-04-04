@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const NodejsTH: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js เป็นสภาพแวดล้อมการทำงานของ JavaScript แบบโอเพนซอร์สที่ปฏิวัติวงการ ช่วยให้นักพัฒนาสามารถสร้างแอปพลิเคชันเครือข่ายที่มีประสิทธิภาพสูงและขยายขนาดได้บนทุกแพลตฟอร์ม สถาปัตยกรรมแบบขับเคลื่อนด้วยเหตุการณ์และไม่บล็อก I/O ที่เป็นเอกลักษณ์ทำให้เป็นตัวเลือกที่เหมาะสมสำหรับการพัฒนาแอปพลิเคชันที่รวดเร็วดุจสายฟ้า ระบบการสื่อสารแบบเรียลไทม์ที่ซับซ้อน และโซลูชันที่ใช้ข้อมูลเข้มข้น ความหลากหลายนี้ทำให้ Node.js กลายเป็นเทคโนโลยีหลักในการพัฒนาซอฟต์แวร์สมัยใหม่ โดยเฉพาะอย่างยิ่งสำหรับการบูรณาการ AI ที่ล้ำสมัยและโซลูชันระดับองค์กร",
-    image: ImageUrl.fullstack.nodejs.path,
+    image: ImageUrl.fullstackThumbnails.nodejs.path,
     alt: "ภาพประกอบโลโก้เทคโนโลยี NodeJS",
     readMore: "ค้นพบโซลูชันการพัฒนา full-stack NodeJS ที่ครอบคลุมของเรา",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

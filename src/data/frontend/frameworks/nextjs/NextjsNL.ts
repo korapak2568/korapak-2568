@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const NextjsNL: IFrontEndStack = {
     title: "NextJS",
     description: "Verbeter uw React-applicaties met naadloze server-side rendering en statische site-generatie voor optimale prestaties.",
-    image: ImageUrl.frontend.nextjs.path,
+    image: ImageUrl.frontendThumbnails.nextjs.path,
     alt: "Logo dat het Next.js-framework vertegenwoordigt",
     readMore: "Ontdek meer NextJS front-end ontwikkelingsoplossingen",
     link: "/technical-expertise/front-end-developer/nextjs-developer",

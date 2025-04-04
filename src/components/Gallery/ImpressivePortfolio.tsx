@@ -5,7 +5,6 @@ import {Swiper, SwiperSlide} from "swiper/react";
 import {Pagination, Autoplay} from "swiper/modules";
 import Image from "next/image";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
-import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/data/image/ImageUrl";
 
 const ImpressivePortfolio: React.FC = () => {
@@ -43,7 +42,7 @@ const ImpressivePortfolio: React.FC = () => {
                         modules={[Pagination, Autoplay]}
                         className="portfolio-slider"
                     >
-                        {ImageUrl.slide.globals.map((image, index) => (
+                        {ImageUrl.gallery.slides.map((image, index) => (
                             <SwiperSlide key={index}>
                                 <div className="single-portfolio-item">
                                     <div className="portfolio-image">

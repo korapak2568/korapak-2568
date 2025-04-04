@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const DotnetJA: IFullStackStack = {
     title: ".NET Core C#",
     description: ".NET Core C# は、Microsoft によって開発された、柔軟でオープンソースのクロスプラットフォームフレームワークです。これにより、開発者は Windows、macOS、Linux などのさまざまなプラットフォームで現代的で高性能、かつスケーラブルなアプリケーションを構築できます。ウェブアプリケーション、API、およびマイクロサービスの構築をサポートしており、.NET Core C# は企業レベルのソリューションに最適な堅牢な環境を提供します。",
-    image: ImageUrl.fullstack.dotnetcore.path,
+    image: ImageUrl.fullstackThumbnails.dotnetcore.path,
     alt: ".NET Core API 開発を表すロゴ",
     readMore: ".NET Core API フルスタック開発ソリューションについてさらに調べる",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

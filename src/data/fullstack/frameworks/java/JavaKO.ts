@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const JavaKO: IFullStackStack = {
     title: "Java, Spring Boot",
     description: "Java는 이식성, 견고성 및 성능으로 잘 알려진 다목적 고급 프로그래밍 언어입니다. Spring Boot는 생산 준비가 완료된 애플리케이션 개발을 단순화하는 프레임워크입니다. Kotlin은 Java와 상호 운용 가능하며 생산성과 안전성을 향상시킵니다.",
-    image: ImageUrl.fullstack.java.path,
+    image: ImageUrl.fullstackThumbnails.java.path,
     alt: "Logo representing Java with Spring Boot framework",
     readMore: "Java Spring Boot 풀스택 개발 솔루션 더 알아보기",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",

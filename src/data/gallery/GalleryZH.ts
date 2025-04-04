@@ -6,32 +6,32 @@ export const GalleryZH: IGallery = {
         {
             title: "CHORN",
             description: "全栈软件开发工程，根据客户需求提供灵活的工作场所，位于泰国曼谷，靠近BTS和MRT站点、重要地标以及暹罗百丽宫、中央世界和ICON暹罗等领先购物中心。准备在清迈、曼谷、泰国和国外进行远程工作、混合工作或办公室工作。",
-            image: ImageUrl.slide.homes[0]
+            image: ImageUrl.home.slides[0]
         },
         {
             title: "CHORN",
             description: "全栈软件开发工程，根据客户需求提供灵活的工作场所，位于泰国曼谷，靠近BTS和MRT站点、重要地标以及暹罗百丽宫、中央世界和ICON暹罗等领先购物中心。准备在清迈、曼谷、泰国和国外进行远程工作、混合工作或办公室工作。",
-            image: ImageUrl.slide.homes[1]
+            image: ImageUrl.home.slides[1]
         },
         {
             title: "CHORN",
             description: "全栈软件开发工程，根据客户需求提供灵活的工作场所，位于泰国曼谷，靠近BTS和MRT站点、重要地标以及暹罗百丽宫、中央世界和ICON暹罗等领先购物中心。准备在清迈、曼谷、泰国和国外进行远程工作、混合工作或办公室工作。",
-            image: ImageUrl.slide.homes[2]
+            image: ImageUrl.home.slides[2]
         },
         {
             title: "CHORN",
             description: "全栈软件开发工程，根据客户需求提供灵活的工作场所，位于泰国曼谷，靠近BTS和MRT站点、重要地标以及暹罗百丽宫、中央世界和ICON暹罗等领先购物中心。准备在清迈、曼谷、泰国和国外进行远程工作、混合工作或办公室工作。",
-            image: ImageUrl.slide.homes[3]
+            image: ImageUrl.home.slides[3]
         },
         {
             title: "CHORN",
             description: "全栈软件开发工程，根据客户需求提供灵活的工作场所，位于泰国曼谷，靠近BTS和MRT站点、重要地标以及暹罗百丽宫、中央世界和ICON暹罗等领先购物中心。准备在清迈、曼谷、泰国和国外进行远程工作、混合工作或办公室工作。",
-            image: ImageUrl.slide.homes[4]
+            image: ImageUrl.home.slides[4]
         },
         {
             title: "CHORN",
             description: "全栈软件开发工程，根据客户需求提供灵活的工作场所，位于泰国曼谷，靠近BTS和MRT站点、重要地标以及暹罗百丽宫、中央世界和ICON暹罗等领先购物中心。准备在清迈、曼谷、泰国和国外进行远程工作、混合工作或办公室工作。",
-            image: ImageUrl.slide.homes[5]
+            image: ImageUrl.home.slides[5]
         }
     ],
     global: {

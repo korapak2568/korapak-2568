@@ -4,7 +4,7 @@ import { ImageUrl } from "@/data/image/ImageUrl";
 export const GitHubDE: IDevOpsStack = {
     title: "GitHub",
     description: "Verbessern Sie Ihren Entwicklungsworkflow mit GitHubs Versionskontrolle und Kollaborationsplattform.",
-    image: ImageUrl.devops.github.path,
+    image: ImageUrl.devopsThumbnails.github.path,
     alt: "Logo, das die GitHub-Technologieerfahrung repräsentiert",
     readMore: "Erfahren Sie, wie GitHub effektives DevOps-Testing unterstützt",
     link: "/technical-expertise/cloud-devops/github",

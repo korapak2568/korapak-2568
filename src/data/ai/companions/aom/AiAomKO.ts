@@ -3,26 +3,23 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
 import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiAomKO: IAiLanding = {
     name: 'Aom',
     category: '건강 LINE 친구',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-aom-thumbnail.webp',
+    thumbnail: ImageUrl.ai.aom.thumbnail.path,
 
     pages: {
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: 'ออม เพื่อนคุยเอไอ',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-aom-details.png',
+                path: ImageUrl.ai.aom.main.path,
             }
         }
     },
     title: "Aom, AI 채팅",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-aom-details.png",
-        alt: "Aom - 태국 AI 채팅 컴패니언"
-    },
     features: [
         {
             title: "독특한 특징",

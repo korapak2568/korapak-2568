@@ -3,26 +3,22 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
 import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const AiAomZH: IAiLanding = {
     name: '奥姆',
     category: '健康LINE好友',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-aom-thumbnail.webp',
-
+    thumbnail: ImageUrl.ai.aom.thumbnail.path,
     pages: {
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: '奥姆 AI聊天伙伴',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-aom-details.png',
+                path: ImageUrl.ai.aom.main.path,
             }
         }
     },
     title: "奥姆，AI聊天",
-    image: {
-        src: "https://cdn.chorn.in.th/public/ai/ai-aom-details.png",
-        alt: "奥姆 - 泰国AI聊天伙伴"
-    },
     features: [
         {
             title: "独特功能",

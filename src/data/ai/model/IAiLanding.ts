@@ -15,7 +15,6 @@ export interface IAiLanding {
         };
     },
     title: string,
-    image: ILandingImage,
     features: ILandingFeature[],
     sidebars: ILandingSidebarItem[],
     line: {

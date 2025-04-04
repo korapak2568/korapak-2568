@@ -4,7 +4,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 export const PhpEN: IFullStackStack = {
     title: "PHP",
     description: "PHP is a popular server-side scripting language widely used for web development. Frameworks like Symfony, Laravel, Phalcon, and templating engines like Twig, along with platforms like WordPress and its headless variant, have elevated PHP development by providing structured, efficient, and scalable solutions for building complex web applications.",
-    image: ImageUrl.fullstack.php.path,
+    image: ImageUrl.fullstackThumbnails.php.path,
     alt: "Logo representing PHP programming language",
     readMore: "Explore more PHP full-stack development solutions",
     link: "/technical-expertise/full-stack-developer/php-developer",

@@ -2,16 +2,28 @@
 
 import {ChornLocales, ChornUrls} from "@/lib/Structure";
 import {NextResponse} from "next/server";
+import {SitemapChorns} from "@/lib/SitemapChorns";
+import {ISitemapImage} from "@/lib/model/ISitemapImage";
+
+const baseUrl = "https://chorn.in.th";
+
+function getImageUrls(images: ISitemapImage[]) {
+    return images.map((image: ISitemapImage) =>
+        `<image:image>
+            <image:loc>${baseUrl}${image.path}</image:loc>
+        </image:image>`
+    )
+}
 
 export async function GET() {
-    const baseUrl = "https://www.chorn.in.th";
     const lastModified = new Date().toISOString().split('T')[0];
-    const localizedUrls = ChornUrls.flatMap(url => {
+    const localizedUrls = SitemapChorns.flatMap(sitemapChorn => {
 
-            if (url.includes("/technical-expertise/")) {
+            if (sitemapChorn.images.length > 0) {
                 return ChornLocales.map(locale =>
                     `<url>
-                        <loc>${baseUrl}/${locale}${url}</loc>
+                        <loc>${baseUrl}/${locale}${sitemapChorn.url}</loc>
+                        ${getImageUrls(sitemapChorn.images)}
                         <lastmod>${lastModified}</lastmod>
                         <priority>0.8</priority>
                     </url>`)
@@ -19,7 +31,7 @@ export async function GET() {
 
             return ChornLocales.map(locale =>
                 `<url>
-                    <loc>${baseUrl}/${locale}${url}</loc>
+                    <loc>${baseUrl}/${locale}${sitemapChorn.url}</loc>
                     <lastmod>${lastModified}</lastmod>
                     <priority>0.8</priority>
                 </url>`)

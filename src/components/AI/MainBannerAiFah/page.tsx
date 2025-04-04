@@ -3,6 +3,7 @@
 import React from "react";
 import Left from "@/components/AI/MainBannerAiFah/left";
 import Right from "@/components/AI/MainBannerAiFah/right";
+import {ImageUrl} from "@/data/image/ImageUrl";
 
 export default function Page() {
     return (
@@ -11,7 +12,7 @@ export default function Page() {
                 <div
                     className="main-banner-item main-banner-fah"
                     style={{
-                        backgroundImage: `url(/obsolete-images/main-banner-bg-1.jpg)`,
+                        backgroundImage: `url(${ImageUrl.banner.mainBannerBg1.path})`,
                     }}
                 >
                     <div className="d-table d-table-fah">
