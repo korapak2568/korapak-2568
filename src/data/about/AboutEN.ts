@@ -14,8 +14,8 @@ export const AboutEN: IAbout = {
             description: "Continuously committed to developing knowledge in software engineering and IT, including participating in Generative AI platforms to help train AI and build upon related expertise in various areas such as system architecture, data analysis, web application development, software testing, and cloud technology"
         },
         {
-            title: "Location and Work Format",
-            description: "Available for remote, hybrid, and office-based work in Chiang Mai, Bangkok, and abroad."
+            title: "Software Development Solutions",
+            description: "CHORN provides software development services for remote, hybrid, and office-based work in Chiang Mai, Bangkok, and abroad. We specialize in building proof-of-concept (PoC) applications, minimum viable products (MVPs), analyzing system requirements, and enhancing existing systems to meet evolving business needs."
         }
     ],
     stacks: [

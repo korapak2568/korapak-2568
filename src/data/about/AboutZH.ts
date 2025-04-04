@@ -15,7 +15,7 @@ export const AboutZH: IAbout = {
         },
         {
             title: "工作地点和形式",
-            description: "提供清迈、曼谷和海外的远程、混合和办公室工作模式。"
+            description: "CHORN为清迈、曼谷和国外提供远程、混合和办公室工作的软件开发服务。我们专注于构建概念验证（PoC）应用程序、最小可行产品（MVP）、分析系统需求，以及增强现有系统以满足不断变化的业务需求。"
         }
     ],
     stacks: [

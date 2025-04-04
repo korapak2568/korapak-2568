@@ -15,7 +15,7 @@ export const AboutVI: IAbout = {
         },
         {
             title: "Địa Điểm và Hình Thức Làm Việc",
-            description: "Sẵn sàng cho công việc từ xa, kết hợp và làm việc tại văn phòng ở Chiang Mai, Bangkok và nước ngoài."
+            description: "CHORN cung cấp dịch vụ phát triển phần mềm cho công việc từ xa, kết hợp và tại văn phòng ở Chiang Mai, Bangkok và nước ngoài. Chúng tôi chuyên xây dựng các ứng dụng chứng minh khái niệm (PoC), sản phẩm khả thi tối thiểu (MVP), phân tích yêu cầu hệ thống và nâng cấp các hệ thống hiện có để đáp ứng nhu cầu kinh doanh đang phát triển."
         }
     ],
     stacks: [

@@ -15,7 +15,7 @@ export const AboutDE: IAbout = {
         },
         {
             title: "Standort und Arbeitsform",
-            description: "Verfügbar für Remote-Arbeit, Hybrid-Arbeit und Büroarbeit in Chiang Mai, Bangkok und im Ausland."
+            description: "CHORN bietet Softwareentwicklungsdienste für Remote-, Hybrid- und Büroarbeit in Chiang Mai, Bangkok und im Ausland an. Wir sind spezialisiert auf die Entwicklung von Proof-of-Concept (PoC) Anwendungen, Minimum Viable Products (MVPs), die Analyse von Systemanforderungen und die Verbesserung bestehender Systeme, um sich ändernde Geschäftsanforderungen zu erfüllen."
         }
     ],
     stacks: [
