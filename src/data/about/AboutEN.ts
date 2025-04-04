@@ -15,7 +15,7 @@ export const AboutEN: IAbout = {
         },
         {
             title: "Software Development Solutions",
-            description: "CHORN provides software development services for remote, hybrid, and office-based work in Chiang Mai, Bangkok, and abroad. We specialize in building proof-of-concept (PoC) applications, minimum viable products (MVPs), analyzing system requirements, and enhancing existing systems to meet evolving business needs."
+            description: "Software development services for remote, hybrid, and office-based work in Chiang Mai, Bangkok, and abroad. Building proof-of-concept (PoC) applications, minimum viable products (MVP), analyzing system requirements, and enhancing existing systems to meet evolving business needs."
         }
     ],
     stacks: [

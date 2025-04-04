@@ -15,7 +15,7 @@ export const AboutNL: IAbout = {
         },
         {
             title: "Locatie en Werkvorm",
-            description: "CHORN biedt softwareontwikkelingsdiensten voor remote, hybride en kantoorwerk in Chiang Mai, Bangkok en in het buitenland. Wij zijn gespecialiseerd in het bouwen van proof-of-concept (PoC) applicaties, minimaal levensvatbare producten (MVP's), het analyseren van systeemvereisten en het verbeteren van bestaande systemen om aan veranderende zakelijke behoeften te voldoen."
+            description: "Softwareontwikkelingsdiensten voor remote, hybride en kantoorwerk in Chiang Mai, Bangkok en in het buitenland. Bouwen van proof-of-concept (PoC) applicaties, minimaal levensvatbare producten (MVP's), analyseren van systeemvereisten en verbeteren van bestaande systemen om aan veranderende zakelijke behoeften te voldoen."
         }
     ],
     stacks: [

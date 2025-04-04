@@ -15,7 +15,7 @@ export const AboutFI: IAbout = {
         },
         {
             title: "Sijainti ja Työmuoto",
-            description: "CHORN tarjoaa ohjelmistokehityspalveluita etä-, hybridi- ja toimistotyöhön Chiang Maissa, Bangkokissa ja ulkomailla. Erikoisalamme on proof-of-concept (PoC) -sovellusten, pienimmän toimivan tuotteen (MVP) rakentaminen, järjestelmävaatimusten analysointi ja olemassa olevien järjestelmien parantaminen kehittyvien liiketoimintatarpeiden täyttämiseksi."
+            description: "Ohjelmistokehityspalveluita etä-, hybridi- ja toimistotyöhön Chiang Maissa, Bangkokissa ja ulkomailla. Proof-of-concept (PoC) -sovellusten, pienimmän toimivan tuotteen (MVP) rakentaminen, järjestelmävaatimusten analysointi ja olemassa olevien järjestelmien parantaminen kehittyvien liiketoimintatarpeiden täyttämiseksi."
         }
     ],
     stacks: [

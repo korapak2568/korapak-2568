@@ -15,7 +15,7 @@ export const AboutDA: IAbout = {
         },
         {
             title: "Placering og Arbejdsform",
-            description: "CHORN tilbyder softwareudviklingstjenester til fjernarbejde, hybrid og kontorbaseret arbejde i Chiang Mai, Bangkok og i udlandet. Vi er specialiseret i at bygge proof-of-concept (PoC) applikationer, minimum viable products (MVP'er), analysere systemkrav og forbedre eksisterende systemer for at imødekomme skiftende forretningsbehov."
+            description: "Softwareudviklingstjenester til fjernarbejde, hybrid og kontorbaseret arbejde i Chiang Mai, Bangkok og i udlandet. Bygning af proof-of-concept (PoC) applikationer, minimum viable products (MVP'er), analyse af systemkrav og forbedring af eksisterende systemer for at imødekomme skiftende forretningsbehov."
         }
     ],
     stacks: [
