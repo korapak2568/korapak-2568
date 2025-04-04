@@ -1,11 +1,9 @@
-"use client";
-
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {headers} from "next/headers";
 
 const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
-    const locale = useLocale()
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
@@ -14,12 +12,12 @@ const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
                     <div className="row justify-content-md-center">
 
                         <div className={'add-web-content'}>
-                            {InfoTranslation[locale.value].CloudSolution.descriptions.map(
+                            {InfoTranslation[lang].CloudSolution.descriptions.map(
                                 (description, index) =>
                                     <p key={index}>{description.description}</p>
                             )}
 
-                            {InfoTranslation[locale.value].CloudSolution.sections.map(
+                            {InfoTranslation[lang].CloudSolution.sections.map(
                                 (section, index) => (
                                     <div key={index}>
                                         <h2>{section.title}</h2>

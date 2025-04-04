@@ -1,10 +1,9 @@
-"use client";
+"use client"
 
 import React from "react";
 import Link from "next/link";
 import {useEffect, useState} from 'react';
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
-import {ContactSidebar} from "@/components/Services/ContactSidebar";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
@@ -42,8 +41,6 @@ const ServiceSidebarFrontEnd: React.FC = () => {
                         )
                     })}
                 </ul>
-
-                {/*<ContactSidebar/>*/}
             </div>
         </>
     );

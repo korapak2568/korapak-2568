@@ -1,17 +1,15 @@
-"use client";
-
 import React from "react";
 import ServiceFaqReact from "./ServiceFaqReact";
 import Image from "next/image";
 import ServiceSidebarFrontEnd from "@/components/Services/ServiceSidebarFrontEnd";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
+import {headers} from "next/headers";
 
 const ServicesDetailsReact: React.FC = () => {
-    const locale = useLocale()
-    
+    const lang = headers().get('x-locale') || 'en';
+
     return (
         <>
             <div className="services-details-area ptb-100">
@@ -19,11 +17,11 @@ const ServicesDetailsReact: React.FC = () => {
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="services-details-desc">
-                                <h3>{InfoTranslation[locale.value].FrontEnd.react.features[0].title}</h3>
-                                <p>{InfoTranslation[locale.value].FrontEnd.react.features[0].description}</p>
+                                <h3>{InfoTranslation[lang].FrontEnd.react.features[0].title}</h3>
+                                <p>{InfoTranslation[lang].FrontEnd.react.features[0].description}</p>
 
-                                <h3>{InfoTranslation[locale.value].FrontEnd.react.features[1].title}</h3>
-                                <p>{InfoTranslation[locale.value].FrontEnd.react.features[1].description}</p>
+                                <h3>{InfoTranslation[lang].FrontEnd.react.features[1].title}</h3>
+                                <p>{InfoTranslation[lang].FrontEnd.react.features[1].description}</p>
 
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
@@ -36,7 +34,7 @@ const ServicesDetailsReact: React.FC = () => {
 
                                         <div className="col-lg-6">
                                             <ul className="features-list">
-                                                {InfoTranslation[locale.value].FrontEnd.react.features[1].list.map((item: string, index: number) => (
+                                                {InfoTranslation[lang].FrontEnd.react.features[1].list.map((item: string, index: number) => (
                                                     <li key={index}>
                                                         <i className="flaticon-check"></i> {item}
                                                     </li>
@@ -47,8 +45,8 @@ const ServicesDetailsReact: React.FC = () => {
                                 </div>
 
                                 <div className="text-result">
-                                    <h3>{InfoTranslation[locale.value].FrontEnd.react.features[2].title}</h3>
-                                    <p>{InfoTranslation[locale.value].FrontEnd.react.features[2].description}</p>
+                                    <h3>{InfoTranslation[lang].FrontEnd.react.features[2].title}</h3>
+                                    <p>{InfoTranslation[lang].FrontEnd.react.features[2].description}</p>
                                 </div>
 
                                 <ServiceFaqReact/>

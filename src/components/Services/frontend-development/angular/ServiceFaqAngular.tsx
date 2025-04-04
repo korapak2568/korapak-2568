@@ -1,4 +1,4 @@
-"use client";
+"use client"
 
 import React from "react";
 import {
@@ -13,15 +13,15 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
 const ServiceFaqAngular: React.FC = () => {
-    const locale = useLocale()
+    const lang = useLocale().value
 
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${sanitizeUUID(InfoTranslation[locale.value].FrontEnd.angular.faqs[0].question)}`
+                    `${sanitizeUUID(InfoTranslation[lang].FrontEnd.angular.faqs[0].question)}`
                 ]}>
-                    {InfoTranslation[locale.value].FrontEnd.angular.faqs.map((item, index: number) => (
+                    {InfoTranslation[lang].FrontEnd.angular.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>

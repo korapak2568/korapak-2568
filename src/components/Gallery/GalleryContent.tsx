@@ -1,13 +1,11 @@
-"use client";
-
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 import {ImageUrl} from "@/data/image/ImageUrl";
+import {headers} from "next/headers";
 
 const GalleryContent: React.FC = () => {
-    const locale = useLocale()
+    const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
@@ -24,9 +22,9 @@ const GalleryContent: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="about-content warp mx-100">
                                 <span></span>
-                                <h3>{InfoTranslation[locale.value].Gallery.global.title}</h3>
+                                <h3>{InfoTranslation[lang].Gallery.global.title}</h3>
                                 <div className="bar"></div>
-                                <p>{InfoTranslation[locale.value].Gallery.global.description}</p>
+                                <p>{InfoTranslation[lang].Gallery.global.description}</p>
                             </div>
                         </div>
                     </div>

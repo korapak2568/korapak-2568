@@ -1,14 +1,12 @@
-"use client";
+"use client"
 
 import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Pagination, Autoplay} from "swiper/modules";
 import Image from "next/image";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {ImageUrl} from "@/data/image/ImageUrl";
 
 const ImpressivePortfolio: React.FC = () => {
-    const locale = useLocale()
 
     return (
         <>
