@@ -1491,7 +1491,7 @@ Main Slider Area CSS
 
 .home-wrapper-area {
   position: relative;
-  z-index: 1;
+  z-index: -1;
   overflow: hidden;
 }
 

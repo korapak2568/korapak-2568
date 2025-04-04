@@ -155,24 +155,6 @@ export const ImageUrl: IImageUrl = {
             },
         ]
     },
-    default: {
-        shape1: {
-            title: "CHORN's default shape-1",
-            path: "/images/default-shape/default-shape1.png"
-        },
-        shape2: {
-            title: "CHORN's default shape-1",
-            path: "/images/default-shape/default-shape2.png"
-        },
-        shape3: {
-            title: "CHORN's default shape-1",
-            path: "/images/default-shape/default-shape3.png"
-        },
-        shape4: {
-            title: "CHORN's default shape-1",
-            path: "/images/default-shape/default-shape4.png"
-        }
-    },
     ai: {
         defaultShape1: {
             title: "CHORN's AI default shape-1",
@@ -191,26 +173,46 @@ export const ImageUrl: IImageUrl = {
             path: "/images/ai/default-shape/default-shape4.png"
         }
     },
-    mainSlide: {
-        shape1: {
-            title: "CHORN's main slide shape-1",
-            path: "/images/main-slider/slider-shape-1.png"
+    shape: {
+        default: {
+            shape1: {
+                title: "CHORN's default shape-1",
+                path: "/images/default-shape/default-shape1.png"
+            },
+            shape2: {
+                title: "CHORN's default shape-1",
+                path: "/images/default-shape/default-shape2.png"
+            },
+            shape3: {
+                title: "CHORN's default shape-1",
+                path: "/images/default-shape/default-shape3.png"
+            },
+            shape4: {
+                title: "CHORN's default shape-1",
+                path: "/images/default-shape/default-shape4.png"
+            }
         },
-        shape2: {
-            title: "CHORN's main slide shape-2",
-            path: "/images/main-slider/slider-shape-2.png"
-        },
-        shape3: {
-            title: "CHORN's main slide shape-3",
-            path: "/images/main-slider/slider-shape-3.png"
-        },
-        shape4: {
-            title: "CHORN's main slide shape-4",
-            path: "/images/main-slider/slider-shape-4.png"
-        },
-        shape5: {
-            title: "CHORN's main slide shape-5",
-            path: "/images/main-slider/slider-shape-5.png"
+        main: {
+            shape1: {
+                title: "CHORN's main slide shape-1",
+                path: "/images/main-slider/slider-shape-1.png"
+            },
+            shape2: {
+                title: "CHORN's main slide shape-2",
+                path: "/images/main-slider/slider-shape-2.png"
+            },
+            shape3: {
+                title: "CHORN's main slide shape-3",
+                path: "/images/main-slider/slider-shape-3.png"
+            },
+            shape4: {
+                title: "CHORN's main slide shape-4",
+                path: "/images/main-slider/slider-shape-4.png"
+            },
+            shape5: {
+                title: "CHORN's main slide shape-5",
+                path: "/images/main-slider/slider-shape-5.png"
+            },
         },
     },
     feature: {

@@ -36,24 +36,26 @@ export interface IImageUrl {
         globals: IImageUnit[];
         global: IImageUnit,
     },
-    default: {
-        shape1: IImageUnit,
-        shape2: IImageUnit,
-        shape3: IImageUnit,
-        shape4: IImageUnit,
-    },
     ai: {
         defaultShape1: IImageUnit,
         defaultShape2: IImageUnit,
         defaultShape3: IImageUnit,
         defaultShape4: IImageUnit,
     },
-    mainSlide: {
-        shape1: IImageUnit,
-        shape2: IImageUnit,
-        shape3: IImageUnit,
-        shape4: IImageUnit,
-        shape5: IImageUnit,
+    shape: {
+        default: {
+            shape1: IImageUnit,
+            shape2: IImageUnit,
+            shape3: IImageUnit,
+            shape4: IImageUnit,
+        },
+        main: {
+            shape1: IImageUnit,
+            shape2: IImageUnit,
+            shape3: IImageUnit,
+            shape4: IImageUnit,
+            shape5: IImageUnit,
+        },
     },
     feature: {
         default: IImageUnit,

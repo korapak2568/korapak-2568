@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import Image from "next/image";
 import Left from "@/components/AI/MainBannerAiFah/left";
 import Right from "@/components/AI/MainBannerAiFah/right";
 
@@ -24,33 +23,6 @@ export default function Page() {
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-
-                <div className="main-banner-shape">
-                    <div className="shape-1">
-                        <Image
-                            src="/obsolete-images/banner/banner-shape-1.png"
-                            alt="image"
-                            width={70}
-                            height={85}
-                        />
-                    </div>
-                    <div className="shape-2">
-                        <Image
-                            src="/obsolete-images/banner/banner-shape-2.png"
-                            alt="image"
-                            width={92}
-                            height={95}
-                        />
-                    </div>
-                    <div className="shape-3">
-                        <Image
-                            src="/obsolete-images/banner/banner-shape-3.png"
-                            alt="image"
-                            width={65}
-                            height={70}
-                        />
                     </div>
                 </div>
             </div>
