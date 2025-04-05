@@ -1,15 +1,12 @@
-"use client";
+"use client"
 
 import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {MainShape} from "@/components/Shape/MainShape";
 
-const FlexibleWorkspace: React.FC = () => {
-    const locale = useLocale()
-
+const HomeWorkspace: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
             <div className="home-wrapper-area">
@@ -25,7 +22,7 @@ const FlexibleWorkspace: React.FC = () => {
                     modules={[Autoplay, Navigation]}
                     className="home-slides"
                 >
-                    {InfoTranslation[locale.value].Gallery.slides.map((slide, index) => (
+                    {InfoTranslation[lang].Gallery.slides.map((slide, index) => (
                         <SwiperSlide key={index}>
                             <div className="main-slider-item">
                                 <div className="d-table">
@@ -42,7 +39,7 @@ const FlexibleWorkspace: React.FC = () => {
                                                     <div
                                                         className="main-slider-image"
                                                         style={{
-                                                            backgroundImage: `url(${slide.image.path})`,
+                                                            backgroundImage: `url(${slide.image.image1200})`,
                                                         }}
                                                     ></div>
                                                 </div>
@@ -61,4 +58,4 @@ const FlexibleWorkspace: React.FC = () => {
     );
 };
 
-export default FlexibleWorkspace;
+export default HomeWorkspace;

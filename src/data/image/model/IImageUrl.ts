@@ -1,7 +1,11 @@
 import {IImageUnit} from "@/data/image/model/IImageUnit";
 import {IImageLink} from "@/data/image/model/IImageLink";
+import {IImageResponsiveUnit} from "@/data/image/model/IImageResponsiveUnit";
 
 export interface IImageUrl {
+    frontend: {
+        side: IImageResponsiveUnit[]
+    },
     devopsThumbnails: {
         appium: IImageUnit,
         docker: IImageUnit,
@@ -67,10 +71,10 @@ export interface IImageUrl {
         morningSky: IImageUnit
     },
     gallery: {
-        main: IImageUnit;
-        slides: IImageUnit[],
+        main: IImageResponsiveUnit;
+        slides: IImageResponsiveUnit[]
     },
-    about: IImageUnit,
+    about: IImageResponsiveUnit,
     NotFound404: IImageUnit,
     whatsapp: {
         md: IImageUnit,
@@ -93,7 +97,7 @@ export interface IImageUrl {
     },
     home: {
         main: IImageUnit,
-        slides: IImageUnit[];
+        slides: IImageResponsiveUnit[]
     },
     banner: {
         banner1: IImageUnit,

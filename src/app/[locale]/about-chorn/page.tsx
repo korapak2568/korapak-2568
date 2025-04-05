@@ -24,10 +24,8 @@ export default function Page() {
             <PageBanner pageTitle={InfoTranslation[lang].About.title}/>
 
             <AboutContent/>
-
             <div className="pb-100">
             </div>
-
             <WeWorkForIndustries/>
 
             <Footer/>

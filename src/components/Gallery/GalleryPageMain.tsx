@@ -1,22 +1,15 @@
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
-import {ImageUrl} from "@/data/image/ImageUrl";
-import {headers} from "next/headers";
 
-const GalleryContent: React.FC = () => {
-    const lang = headers().get('x-locale') || 'en';
-
+const GalleryPageMain: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
             <div className="about-area ptb-100">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
-                            <div
-                                className="about-image-warp gallery-global-image"
-                                style={{backgroundImage: `url(${ImageUrl.gallery.main.path})`}}
-                            ></div>
+                            <div className="about-image-warp gallery-main"/>
                         </div>
 
                         <div className="col-lg-6">
@@ -36,4 +29,4 @@ const GalleryContent: React.FC = () => {
     );
 };
 
-export default GalleryContent;
+export default GalleryPageMain;

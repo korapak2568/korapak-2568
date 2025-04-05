@@ -6,7 +6,7 @@ import {Pagination, Autoplay} from "swiper/modules";
 import Image from "next/image";
 import {ImageUrl} from "@/data/image/ImageUrl";
 
-const ImpressivePortfolio: React.FC = () => {
+const GalleryModuleBottom: React.FC = () => {
 
     return (
         <>
@@ -19,7 +19,7 @@ const ImpressivePortfolio: React.FC = () => {
                             clickable: true,
                         }}
                         autoplay={{
-                            delay: 6000,
+                            delay: 3000,
                             disableOnInteraction: true,
                             pauseOnMouseEnter: true,
                         }}
@@ -45,10 +45,15 @@ const ImpressivePortfolio: React.FC = () => {
                                 <div className="single-portfolio-item">
                                     <div className="portfolio-image">
                                         <Image
-                                            src={image.path}
+                                            src={image.image1200}
                                             alt={image.title}
-                                            width={650}
-                                            height={500}
+                                            width={1200}
+                                            height={677}
+                                            sizes="(max-width: 600px) 100vw, (max-width: 1024px) 50vw), 400px)"
+                                            quality={80}
+                                            priority={false}
+                                            loading={"eager"}
+                                            className="gallery-bottom-unit"
                                         />
                                     </div>
                                 </div>
@@ -62,4 +67,4 @@ const ImpressivePortfolio: React.FC = () => {
     );
 };
 
-export default ImpressivePortfolio;
+export default GalleryModuleBottom;

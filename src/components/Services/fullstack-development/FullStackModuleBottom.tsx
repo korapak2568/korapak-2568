@@ -1,13 +1,10 @@
 import React from "react";
-import {headers} from "next/headers";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 import Image from "next/image";
 import Link from "next/link";
 
-const BackEndStack: React.FC = () => {
-    const lang = headers().get('x-locale') || 'en';
-
+const FullStackModuleBottom: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
             {InfoTranslation[lang].FullStack.stacks.map((item: IFrontEndStack, index: number) => (
@@ -32,4 +29,4 @@ const BackEndStack: React.FC = () => {
     )
 }
 
-export default BackEndStack;
+export default FullStackModuleBottom;

@@ -3,7 +3,14 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const SitemapChorns: ISitemapChorn[] = [
     {
-        url: '', images: []
+        url: '', images: [
+            {path: ImageUrl.home.slides[0].image750},
+            {path: ImageUrl.home.slides[1].image750},
+            {path: ImageUrl.home.slides[2].image750},
+            {path: ImageUrl.home.slides[3].image750},
+            {path: ImageUrl.home.slides[4].image750},
+            {path: ImageUrl.home.slides[5].image750},
+        ]
     },
     {
         url: '/404', images: []
@@ -11,7 +18,7 @@ export const SitemapChorns: ISitemapChorn[] = [
     {
         url: '/about-chorn', images: [
             {
-                path: ImageUrl.about.path
+                path: ImageUrl.about.image750
             }
         ]
     },
@@ -45,7 +52,13 @@ export const SitemapChorns: ISitemapChorn[] = [
     },
     {
         url: '/gallery',
-        images: ImageUrl.gallery.slides
+        images: [
+            {path: ImageUrl.gallery.main.image1200},
+            {path: ImageUrl.gallery.slides[0].image1200},
+            {path: ImageUrl.gallery.slides[1].image1200},
+            {path: ImageUrl.gallery.slides[2].image1200},
+            {path: ImageUrl.gallery.slides[3].image1200},
+        ]
     },
 
     //technical-expertise/ai-solutions

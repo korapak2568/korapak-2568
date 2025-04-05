@@ -3,10 +3,8 @@ import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import {headers} from "next/headers";
 
-const FrontEndStack: React.FC = () => {
-    const lang = headers().get('x-locale') || 'en';
+const FrontEndModuleBottom: React.FC<{ lang: string }> = ({lang}) => {
 
     return (
         <>
@@ -36,4 +34,4 @@ const FrontEndStack: React.FC = () => {
     )
 }
 
-export default FrontEndStack
+export default FrontEndModuleBottom

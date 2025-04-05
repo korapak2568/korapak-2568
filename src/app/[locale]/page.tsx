@@ -11,7 +11,7 @@ import Footer from "../../components/Layouts/Footer";
 import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
-import FlexibleWorkspace from "@/components/Gallery/FlexibleWorkspace";
+import HomeWorkspace from "@/components/Home/HomeWorkspace";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import {MetadataHome} from "@/metadata/pages/home/common/MetadataHome";
 import {headers} from "next/headers";
@@ -22,6 +22,7 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default function Home() {
+    const lang = headers().get('x-locale') || 'en';
     const localBusinessSchema = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
@@ -59,7 +60,7 @@ export default function Home() {
     return (
         <>
             <Navbar/>
-            <FlexibleWorkspace/>
+            <HomeWorkspace lang={lang}/>
             <Features/>
             <AboutContent/>
             <FrontEndExperience/>

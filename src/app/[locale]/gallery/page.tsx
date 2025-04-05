@@ -1,6 +1,6 @@
 import Navbar from "@/components/Layouts/Navbar";
-import GalleryContent from "@/components/Gallery/GalleryContent";
-import ImpressivePortfolio from "@/components/Gallery/ImpressivePortfolio";
+import GalleryPageMain from "@/components/Gallery/GalleryPageMain";
+import GalleryModuleBottom from "@/components/Gallery/GalleryModuleBottom";
 import Footer from "@/components/Layouts/Footer";
 import {Metadata} from "next";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
@@ -13,11 +13,13 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default function Page() {
+    const lang = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
-            <GalleryContent/>
-            <ImpressivePortfolio/>
+            <GalleryPageMain lang={lang}/>
+            <GalleryModuleBottom/>
             <WeWorkForIndustries/>
             <Footer/>
         </>

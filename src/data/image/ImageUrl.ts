@@ -1,6 +1,54 @@
 import {IImageUrl} from "@/data/image/model/IImageUrl";
 
 export const ImageUrl: IImageUrl = {
+    // frontend
+    frontend: {
+        side: [
+            {
+                title: "CHORN's image of frontend side 1.",
+                image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-1-image-375.webp",
+                image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-1-image-750.webp",
+                image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-1-image-1200.webp",
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-1-large.webp",
+            },
+            {
+                title: "CHORN's image of frontend side 2.",
+                image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-image-375.webp",
+                image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-image-750.webp",
+                image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-image-1200.webp",
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 3.",
+                image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-image-375.webp",
+                image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-image-750.webp",
+                image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-image-1200.webp",
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 4.",
+                image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-image-375.webp",
+                image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-image-750.webp",
+                image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-image-1200.webp",
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 5.",
+                image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-image-375.webp",
+                image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-image-750.webp",
+                image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-image-1200.webp",
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 6.",
+                image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-image-375.webp",
+                image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-image-750.webp",
+                image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-image-1200.webp",
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-large.webp"
+            },
+        ]
+    },
+
     //devops thumbnail
     devopsThumbnails: {
         appium: {
@@ -137,6 +185,7 @@ export const ImageUrl: IImageUrl = {
             }
         },
     },
+
     shape: {
         default: {
             shape1: {
@@ -179,6 +228,7 @@ export const ImageUrl: IImageUrl = {
             },
         },
     },
+
     feature: {
         default: {
             title: "CHORN's feature image",
@@ -197,33 +247,52 @@ export const ImageUrl: IImageUrl = {
             path: "/images/features/morning-sky-optimize.webp"
         }
     },
+
     gallery: {
         main: {
             title: "CHORN's gallery global main",
-            path: "/images/gallery/chorn-global-001-optimize.webp"
+            image375: "/images/gallery/chorn-global-001-image-375.webp",
+            image750: "/images/gallery/chorn-global-001-image-750.webp",
+            image1200: "/images/gallery/chorn-global-001-image-1200.webp",
+            large: "/images/gallery/chorn-global-001-optimize.webp"
         },
         slides: [
             {
                 title: "CHORN global slide-1",
-                path: "/images/gallery/chorn-global-002-optimize.webp"
+                image375: "/images/gallery/chorn-global-002-image-375.webp",
+                image750: "/images/gallery/chorn-global-002-image-750.webp",
+                image1200: "/images/gallery/chorn-global-002-image-1200.webp",
+                large: "/images/gallery/chorn-global-002-optimize.webp"
             },
             {
                 title: "CHORN global slide-2",
-                path: "/images/gallery/chorn-global-003-optimize.webp"
+                image375: "/images/gallery/chorn-global-003-image-375.webp",
+                image750: "/images/gallery/chorn-global-003-image-750.webp",
+                image1200: "/images/gallery/chorn-global-003-image-1200.webp",
+                large: "/images/gallery/chorn-global-003-optimize.webp"
             },
             {
                 title: "CHORN global slide-3",
-                path: "/images/gallery/chorn-global-004-optimize.webp"
+                image375: "/images/gallery/chorn-global-004-image-375.webp",
+                image750: "/images/gallery/chorn-global-004-image-750.webp",
+                image1200: "/images/gallery/chorn-global-004-image-1200.webp",
+                large: "/images/gallery/chorn-global-004-optimize.webp"
             },
             {
                 title: "CHORN global slide-4",
-                path: "/images/gallery/chorn-global-005-optimize.webp"
+                image375: "/images/gallery/chorn-global-005-image-375.webp",
+                image750: "/images/gallery/chorn-global-005-image-750.webp",
+                image1200: "/images/gallery/chorn-global-005-image-1200.webp",
+                large: "/images/gallery/chorn-global-005-optimize.webp"
             },
         ]
     },
     about: {
         title: "CHORN's about image",
-        path: "/images/about/about-chorn-optimize.webp"
+        image375: "/images/about/about-chorn-image-375.webp",
+        image750: "/images/about/about-chorn-image-750.webp",
+        image1200: "/images/about/about-chorn-image-1200.webp",
+        large: "/images/about/about-chorn-large.webp"
     },
     NotFound404: {
         title: "CHORN's 404 not found image",
@@ -283,32 +352,50 @@ export const ImageUrl: IImageUrl = {
         slides: [
             {
                 title: "CHORN home slide-1",
-                path: "/images/home/chorn-workplace-001-optimize.webp"
+                image375: "/images/home/chorn-workplace-001-image-375.webp",
+                image750: "/images/home/chorn-workplace-001-image-750.webp",
+                image1200: "/images/home/chorn-workplace-001-image-1200.webp",
+                large: "/images/home/chorn-workplace-001-large.webp"
             },
             {
 
                 title: "CHORN home slide-2",
-                path: "/images/home/chorn-workplace-002-optimize.webp"
+                image375: "/images/home/chorn-workplace-002-image-375.webp",
+                image750: "/images/home/chorn-workplace-002-image-750.webp",
+                image1200: "/images/home/chorn-workplace-002-image-1200.webp",
+                large: "/images/home/chorn-workplace-002-large.webp"
             },
             {
 
                 title: "CHORN home slide-3",
-                path: "/images/home/chorn-workplace-003-optimize.webp"
+                image375: "/images/home/chorn-workplace-003-image-375.webp",
+                image750: "/images/home/chorn-workplace-003-image-750.webp",
+                image1200: "/images/home/chorn-workplace-003-image-1200.webp",
+                large: "/images/home/chorn-workplace-003-large.webp"
             },
             {
 
                 title: "CHORN home slide-4",
-                path: "/images/home/chorn-workplace-004-optimize.webp"
+                image375: "/images/home/chorn-workplace-004-image-375.webp",
+                image750: "/images/home/chorn-workplace-004-image-750.webp",
+                image1200: "/images/home/chorn-workplace-004-image-1200.webp",
+                large: "/images/home/chorn-workplace-004-large.webp"
             },
             {
 
                 title: "CHORN home slide-5",
-                path: "/images/home/chorn-workplace-005-optimize.webp"
+                image375: "/images/home/chorn-workplace-005-image-375.webp",
+                image750: "/images/home/chorn-workplace-005-image-750.webp",
+                image1200: "/images/home/chorn-workplace-005-image-1200.webp",
+                large: "/images/home/chorn-workplace-005-large.webp"
             },
             {
 
                 title: "CHORN home slide-6",
-                path: "/images/home/chorn-workplace-006-optimize.webp"
+                image375: "/images/home/chorn-workplace-006-image-375.webp",
+                image750: "/images/home/chorn-workplace-006-image-750.webp",
+                image1200: "/images/home/chorn-workplace-006-image-1200.webp",
+                large: "/images/home/chorn-workplace-006-large.webp"
             },
         ]
     },

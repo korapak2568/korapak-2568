@@ -3,7 +3,7 @@ import Navbar from "@/components/Layouts/Navbar";
 import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
-import ServicesCardFrontEnd from "@/components/Services/frontend-development/ServicesCardFrontEnd";
+import FrontEndPageMain from "@/components/Services/frontend-development/FrontEndPageMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
@@ -25,7 +25,7 @@ const Page = () => {
 
             <PageBanner pageTitle={InfoTranslation[lang].FrontEnd.title}/>
 
-            <ServicesCardFrontEnd/>
+            <FrontEndPageMain lang={lang}/>
 
             <CloudExperience/>
 

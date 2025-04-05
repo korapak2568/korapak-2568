@@ -1,4 +1,4 @@
-// src/components/LogoSocial/FlexibleWorkspace/HomeAiSolutionBanner.tsx
+// src/components/LogoSocial/HomeWorkspace/HomeAiSolutionBanner.tsx
 
 "use client";
 

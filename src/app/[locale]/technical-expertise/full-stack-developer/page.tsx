@@ -3,7 +3,7 @@ import Navbar from "@/components/Layouts/Navbar";
 import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
-import ServicesCardFullStack from "@/components/Services/fullstack-development/ServicesCardFullStack";
+import FullStackPageMain from "@/components/Services/fullstack-development/FullStackPageMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
@@ -25,7 +25,7 @@ const Page = () => {
 
             <PageBanner pageTitle={InfoTranslation[lang].FullStack.title}/>
 
-            <ServicesCardFullStack/>
+            <FullStackPageMain lang={lang}/>
 
             <CloudExperience/>
 
