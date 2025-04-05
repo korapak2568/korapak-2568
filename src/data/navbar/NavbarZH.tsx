@@ -14,7 +14,7 @@ export const NavbarZH: INavbar[] = [
         submenu: [
             {
                 group: "/technical-expertise/",
-                label: "Web 和 API 开发",
+                label:"网络应用程序开发",
                 link: "/technical-expertise/web-development/",
                 submenu: [],
             },
@@ -26,7 +26,7 @@ export const NavbarZH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "后端与 API 开发",
+                label:  "后端开发",
                 link: "/technical-expertise/full-stack-developer/",
                 submenu: [],
             },

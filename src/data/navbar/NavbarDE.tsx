@@ -14,7 +14,7 @@ export const NavbarDE: INavbar[] = [
         submenu: [
             {
                 group: "/technical-expertise/",
-                label: "Web- und API-Entwicklung",
+                label: "Web-Anwendungsentwicklung",
                 link: "/technical-expertise/web-development/",
                 submenu: [],
             },
@@ -26,7 +26,7 @@ export const NavbarDE: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "Back-End- und API-Entwicklung",
+                label: "Backend-Entwicklung",
                 link: "/technical-expertise/full-stack-developer/",
                 submenu: [],
             },

@@ -14,7 +14,7 @@ export const NavbarKO: INavbar[] = [
         submenu: [
             {
                 group: "/technical-expertise/",
-                label: "웹 및 API 개발",
+                label: "웹 애플리케이션 개발",
                 link: "/technical-expertise/web-development/",
                 submenu: [],
             },
@@ -26,7 +26,7 @@ export const NavbarKO: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "백엔드 및 API 개발",
+                label: "백엔드 개발",
                 link: "/technical-expertise/full-stack-developer/",
                 submenu: [],
             },

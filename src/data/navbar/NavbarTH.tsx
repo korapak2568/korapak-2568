@@ -14,7 +14,7 @@ export const NavbarTH: INavbar[] = [
         submenu: [
             {
                 group: "/technical-expertise/",
-                label: "การพัฒนาเว็บไซต์และเอพีไอ",
+                label: "การพัฒนาเว็บแอพพลิเคชั่น",
                 link: "/technical-expertise/web-development/",
                 submenu: [],
             },
@@ -26,7 +26,7 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "การพัฒนาฝั่งหลังบ้านและเอเพีไอ",
+                label: "การพัฒนาฝั่งหลังบ้าน",
                 link: "/technical-expertise/full-stack-developer/",
                 submenu: [],
             },

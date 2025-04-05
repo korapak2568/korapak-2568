@@ -14,7 +14,7 @@ export const NavbarJA: INavbar[] = [
         submenu: [
             {
                 group: "/technical-expertise/",
-                label: "WebおよびAPI開発",
+                label: "ウェブアプリケーション開発",
                 link: "/technical-expertise/web-development/",
                 submenu: [],
             },
@@ -26,7 +26,7 @@ export const NavbarJA: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "バックエンドおよびAPI開発",
+                label: "バックエンド開発",
                 link: "/technical-expertise/full-stack-developer/",
                 submenu: [],
             },
