@@ -1,29 +1,29 @@
 import {IWeb3} from "@/data/web3/model/IWeb3";
 
 export const Web3EN: IWeb3 = {
-    title: "Web3 and Blockchain Development",
-    span: "Outstanding Testing and DevOps Solutions",
+    title: "Web3 Blockchain Development",
+    span: "Decentralized Technology Solutions",
     subTitle: "Empowering the future with decentralized technology",
 
     services: {
-        title: "Web3 and Blockchain Development",
+        title: "Web3 Blockchain Development",
         descriptions: [
-            "CHORN is interested in learning, consulting, and is ready to manage projects related to Web3 technology, blockchain, decentralized application development (dApps), smart contract development for clients who need consultation and to develop decentralized finance platforms (DeFi), NFT marketplaces, or dApps.",
+            "Web3 technology and blockchain systems provide unprecedented levels of transparency, security, and user autonomy not possible with traditional centralized applications. These decentralized solutions eliminate single points of failure, reduce third-party dependencies, and give users direct control over their digital assets and data. Blockchain's immutable ledger technology ensures transaction integrity while smart contracts automate trusted processes without intermediaries, significantly reducing costs and increasing operational efficiency. For businesses and end-users, these technologies enable new revenue models, tokenized asset ownership, and seamless global value transfer across previously siloed systems.",
 
-            "Develop and study the creation of Web3 applications, the use of Solidity for Ethereum and Polygon networks, as well as the use of related technologies such as Hardhat and Ganache to help with efficient blockchain project development, testing, and management"
+            "The combination of Ethereum, Polygon, and other blockchain networks with development tools like Hardhat and Ganache creates a robust environment for building resilient decentralized applications. These technologies support scalable, gas-efficient solutions that balance security and usability, enabling true digital ownership and new forms of collaboration in a trustless environment."
         ],
         items: [
             {
                 title: "Smart Contract Development",
-                description: "Design, develop, and verify the security of smart contracts using Solidity"
+                description: "Secure, auditable, and transparent automated agreements that execute without intermediaries, reducing operational costs and eliminating counterparty risk through immutable code execution."
             },
             {
                 title: "DeFi and NFT Platforms",
-                description: "Develop decentralized finance platforms, NFT marketplaces, and other blockchain solutions according to business needs"
+                description: "Accessible financial services and digital asset marketplaces that operate 24/7 without centralized control, enabling global participation, fractional ownership, and new monetization opportunities."
             },
             {
                 title: "Full-Stack dApp Development",
-                description: "Create Web3 applications that seamlessly integrate with blockchain."
+                description: "End-to-end decentralized applications that preserve user privacy, resist censorship, and provide seamless integration between traditional web interfaces and blockchain infrastructure."
             },
         ]
     }

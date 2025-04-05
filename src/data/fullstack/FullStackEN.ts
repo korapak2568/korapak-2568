@@ -7,8 +7,8 @@ import {PhpEN} from "@/data/fullstack/frameworks/php/PhpEN";
 import {PythonEN} from "@/data/fullstack/frameworks/python/PythonEN";
 
 export const FullStackEN: IFullStack = {
-    title: "Back-End and API Experience",
-    span: "Back-End and API Development Experience",
+    title: "Back-End Development",
+    span: "Back-End Development Experience",
     subTitle: "",
 
     dotnetcore: DotnetEN,
@@ -21,30 +21,30 @@ export const FullStackEN: IFullStack = {
     stacks: [],
 
     services: {
-        title: "Back-End and API Development",
+        title: "Back-End Development",
         descriptions: [
-            "Build powerful, secure, and scalable web applications with our expert full-stack development services. Our developers excel in both front-end and back-end technologies, creating comprehensive solutions tailored to your specific business requirements. CHORN's technical expertise spans multiple technology stacks including Node.js, .NET Core C#, Java Spring Boot, Python, Go, and PHP, allowing us to handle projects of any complexity. Whether you're launching an initial Proof of Concept (PoC) or developing a market-ready Minimum Viable Product (MVP), our skilled team ensures seamless integration between user interfaces and server-side functionality for an exceptional user experience."
+            "Back-end development is the essential foundation for powerful, secure, and scalable web applications. This behind-the-scenes system is necessary for data processing, database management, and security, enabling businesses to accommodate many users simultaneously, create seamless experiences, and protect critical information. Technologies covered include Node.js, Java Spring Boot, Python, Go, PHP, and .NET Core, capable of meeting the needs of projects at all complexity levels, from Proof of Concept (PoC) to market-ready Minimum Viable Product (MVP). The smooth integration between user interfaces and server-side functionality provides users with superior experiences and helps businesses achieve their goals efficiently."
         ],
         items: [
             {
                 title: "Seamless Front-End & Back-End Integration",
-                description: "Develop cohesive web applications with perfectly synchronized client and server components that deliver speed, security, and scalability."
+                description: "Cohesive web applications with perfectly synchronized client and server components delivering speed, security, and scalability."
             },
             {
                 title: "Comprehensive SEO & Performance Optimization",
-                description: "Improve your website's search engine visibility and user experience through optimized code structure, faster loading times, and efficient resource management."
+                description: "Enhanced search engine visibility and user experience through optimized code structure, faster loading times, and efficient resource management."
             },
             {
                 title: "Robust Automation Testing",
-                description: "Ensure application reliability and stability with comprehensive testing frameworks integrated throughout the development lifecycle."
+                description: "Reliable and stable applications with comprehensive testing frameworks integrated throughout the development lifecycle."
             },
             {
                 title: "Advanced Database Management",
-                description: "Structure and manage your data effectively with optimized database solutions including MySQL, MongoDB, PostgreSQL, and other leading technologies."
+                description: "Effectively structured and managed data with optimized database solutions including MySQL, MongoDB, PostgreSQL, and other leading technologies."
             },
             {
                 title: "Enterprise-Grade Cloud Services",
-                description: "Deploy and scale your applications efficiently using AWS, Azure, Google Cloud, or other cloud platforms with optimized infrastructure configurations."
+                description: "Efficiently deployed and scaled applications using AWS, Azure, Google Cloud, or other cloud platforms with optimized infrastructure configurations."
             }
         ]
     }

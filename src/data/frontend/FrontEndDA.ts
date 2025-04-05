@@ -10,8 +10,8 @@ import {Css3DA} from "@/data/frontend/frameworks/css3/Css3DA";
 import {AngularDA} from "@/data/frontend/frameworks/angular/AngularDA";
 
 export const FrontEndDA: IFrontEnd = {
-    title: "Front-End Erfaring",
-    span: "Front-End Udvikling Erfaring",
+    title: "Front-End Udvikling",
+    span: "Front-End Udviklingserfaring",
     subTitle: "",
 
     angular: AngularDA,
@@ -26,30 +26,30 @@ export const FrontEndDA: IFrontEnd = {
     stacks: [],
 
     services: {
-        title: "Front-End Udviklingsydelser",
+        title: "Front-End Udvikling",
         descriptions: [
-            "Omsæt din webvision til virkelighed med vores ekspertise inden for front-end udvikling. CHORN leverer brugervenlige, visuelt imponerende og fuldt responsive hjemmesider, der engagerer dit publikum. Vi specialiserer os i moderne frameworks som Next.js, React, Angular og Vue.js, sammen med kerneteknologier som HTML5 og CSS3. Uanset om du har brug for en højtydende single-page applikation (SPA) optimeret til søgemaskiner eller en sofistikeret multi-page platform, leverer vores udviklere kvalitetsresultater til tiden. Samarbejd med CHORN for at skabe overbevisende digitale oplevelser, der fanger besøgende og driver forretningsvækst."
+            "Front-end udvikling er den afgørende grænseflade mellem brugere og digitale tjenester, der skaber de visuelle elementer og interaktive komponenter, som definerer brugeroplevelsen. Dette essentielle lag transformerer komplekse backend-systemer til intuitive, tilgængelige grænseflader, der engagerer publikum og driver forretningsvækst. Moderne frameworks som Next.js, React, Angular og Vue.js, sammen med kerneteknologier som HTML5 og CSS3, muliggør højtydende applikationer, der indlæses hurtigt og reagerer problemfrit på tværs af alle enheder. Effektive front-end løsninger øger brugerengagement, forbedrer konverteringsrater og styrker brandopfattelsen gennem konsistente, professionelle digitale oplevelser, der både opfylder forretningsmål og brugerbehov."
         ],
         items: [
             {
                 title: "Implementering af Moderne Frameworks",
-                description: "Byg dynamiske, interaktive webapplikationer ved hjælp af banebrydende frameworks som Next.js og React, der giver optimal ydeevne og brugeroplevelse."
+                description: "Dynamiske, interaktive webapplikationer ved hjælp af banebrydende frameworks som Next.js og React, der giver optimal ydeevne, responsivitet og forbedret brugeroplevelse."
             },
             {
-                title: "SEO-Optimering",
-                description: "Forbedrer din hjemmesides synlighed på Google og andre søgemaskiner gennem optimeret kodestruktur, hurtige indlæsningstider og mobilvenligt design."
+                title: "SEO Optimering",
+                description: "Forbedret webstedssynlighed på Google og andre søgemaskiner gennem optimeret kodestruktur, hurtige indlæsningstider og mobilvenligt design, der driver organisk trafik og reducerer anskaffelsesomkostninger."
             },
             {
                 title: "Proof of Concept (PoC) Udvikling",
-                description: "Test og valider dine innovative idéer hurtigt med funktionelle prototyper, før du forpligter dig til fuld udvikling."
+                description: "Hurtig validering af innovative ideer gennem funktionelle prototyper, reducering af risici og mulighed for interessenter at visualisere koncepter før fuldskalainvestering."
             },
             {
-                title: "Minimum Viable Product (MVP) Skabelse",
-                description: "Lancér en funktionel, skalerbar første version af dit produkt for at tiltrække tidlige brugere, indsamle feedback og sikre potentielle investorer."
+                title: "Minimum Viable Product (MVP) Oprettelse",
+                description: "Funktionskomplette, skalerbare første versioner, der tiltrækker tidlige brugere, genererer værdifuld feedback og appellerer til potentielle investorer, mens de etablerer markedstilstedeværelse."
             },
             {
-                title: "UI/UX Design Excellence",
-                description: "Forøg brugertilfredsheden med intuitive, smukke grænseflader, der øger engagement, reducerer bounce-rater og øger konverteringer."
+                title: "UI/UX Design",
+                description: "Intuitive, smukke grænseflader, der øger engagement, reducerer bounce-rater og øger konverteringer gennem brugercentrerede designprincipper og tilgængelighedsstandarder."
             }
         ]
     }

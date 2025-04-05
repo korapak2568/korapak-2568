@@ -2,21 +2,21 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const DotnetFI: IFullStackStack = {
-    title: ".NET Core C#",
-    description: ".NET Core C# on monipuolinen, avoimen lähdekoodin, monialustainen kehys, jonka on kehittänyt Microsoft. Sen avulla kehittäjät voivat rakentaa moderneja, suorituskykyisiä ja skaalautuvia sovelluksia eri alustoilla, kuten Windows, macOS ja Linux. Tukea tarjoavat web-sovellusten, API:en ja mikropalveluiden rakentaminen, ja .NET Core C# tarjoaa vankan ympäristön yritystason ratkaisuille.",
+    title: ".NET Core",
+    description: ".NET Core on monipuolinen, avoimen lähdekoodin, monialustainen kehys, jonka on kehittänyt Microsoft. Sen avulla kehittäjät voivat rakentaa moderneja, suorituskykyisiä ja skaalautuvia sovelluksia eri alustoilla, kuten Windows, macOS ja Linux. Tukea tarjoavat web-sovellusten, API:en ja mikropalveluiden rakentaminen, ja .NET Core tarjoaa vankan ympäristön yritystason ratkaisuille.",
     image: ImageUrl.fullstackThumbnails.dotnetcore.path,
     alt: "Logo representing .NET Core API development",
     readMore: "Tutustu lisää .NET Core API -full-stack-kehitysrRatkaisuihin",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",
     features: [
         {
-            title: "C# .NET Core Kehitys",
-            description: ".NET Core C# on tehokas, avoimen lähdekoodin kehys, joka soveltuu suorituskykyisten sovellusten rakentamiseen. Moduulirakenne ja tuki monille ohjelmointikielille tekevät siitä ihanteellisen ratkaisun skaalautuvien web-sovellusten, API:en ja mikropalveluiden kehittämiseen, jotka voivat toimia kaikilla alustoilla.",
+            title: ".NET Core Kehitys",
+            description: ".NET Core on tehokas, avoimen lähdekoodin kehys, joka soveltuu suorituskykyisten sovellusten rakentamiseen. Moduulirakenne ja tuki monille ohjelmointikielille tekevät siitä ihanteellisen ratkaisun skaalautuvien web-sovellusten, API:en ja mikropalveluiden kehittämiseen, jotka voivat toimia kaikilla alustoilla.",
             list: []
         },
         {
-            title: "ASP.NET Core C#",
-            description: "ASP.NET Core C# on monialustainen, suorituskykyinen kehys, jonka avulla voidaan rakentaa moderneja, pilvipohjaisia ja internet-yhteydessä olevia sovelluksia. Se soveltuu erityisesti web-sovellusten, API:en ja mikropalveluiden rakentamiseen, joissa keskitytään suorituskykyyn, turvallisuuteen ja skaalautuvuuteen.",
+            title: "ASP.NET Core",
+            description: "ASP.NET Core on monialustainen, suorituskykyinen kehys, jonka avulla voidaan rakentaa moderneja, pilvipohjaisia ja internet-yhteydessä olevia sovelluksia. Se soveltuu erityisesti web-sovellusten, API:en ja mikropalveluiden rakentamiseen, joissa keskitytään suorituskykyyn, turvallisuuteen ja skaalautuvuuteen.",
             list: [
                 "Monialustainen",
                 "Korkea suorituskyky",
@@ -33,8 +33,8 @@ export const DotnetFI: IFullStackStack = {
             list: []
         },
         {
-            title: "C# .NET Core",
-            description: "C# .NET Core on pääasiallinen kieli, jota käytetään sovellusten kehittämiseen .NET Core C#:lla. C#:n moderni syntaksi, monipuolisuus ja nykyaikaiset ominaisuudet tekevät siitä erinomaisen valinnan skaalautuvien, ylläpidettävien ja luotettavien sovellusten kehittämiseen.",
+            title: ".NET Core",
+            description: ".NET Core on pääasiallinen kieli, jota käytetään sovellusten kehittämiseen .NET Core:lla. C#:n moderni syntaksi, monipuolisuus ja nykyaikaiset ominaisuudet tekevät siitä erinomaisen valinnan skaalautuvien, ylläpidettävien ja luotettavien sovellusten kehittämiseen.",
             list: [
                 "Moderni syntaksi",
                 "Objektipohjainen",
@@ -48,16 +48,16 @@ export const DotnetFI: IFullStackStack = {
     ],
     faqs: [
         {
-            question: "Mikä on .NET Core C#?",
-            answer: ".NET Core C# on avoimen lähdekoodin, monialustainen kehys, jonka avulla voidaan rakentaa moderneja sovelluksia, jotka toimivat Windowsilla, macOS:llä ja Linuxilla."
+            question: "Mikä on .NET Core?",
+            answer: ".NET Core on avoimen lähdekoodin, monialustainen kehys, jonka avulla voidaan rakentaa moderneja sovelluksia, jotka toimivat Windowsilla, macOS:llä ja Linuxilla."
         },
         {
-            question: "Mihin ASP.NET Core C#-kehystä käytetään?",
-            answer: "ASP.NET Core C# on kehys web-sovellusten, API:en ja mikropalveluiden rakentamiseen, jossa on korkea suorituskyky ja monialustainen tuki."
+            question: "Mihin ASP.NET Core-kehystä käytetään?",
+            answer: "ASP.NET Core on kehys web-sovellusten, API:en ja mikropalveluiden rakentamiseen, jossa on korkea suorituskyky ja monialustainen tuki."
         },
         {
-            question: "Miksi C# .NET Core on hyvä valinta kehitykseen?",
-            answer: "C# on moderni, monipuolinen ohjelmointikieli, joka tarjoaa laajan ominaisuusvalikoiman ja tekee siitä erinomaisen valinnan skaalautuvien, ylläpidettävien sovellusten kehittämiseen .NET Core C#:lla."
+            question: "Miksi .NET Core on hyvä valinta kehitykseen?",
+            answer: "C# on moderni, monipuolinen ohjelmointikieli, joka tarjoaa laajan ominaisuusvalikoiman ja tekee siitä erinomaisen valinnan skaalautuvien, ylläpidettävien sovellusten kehittämiseen .NET Core:lla."
         }
     ],
 }

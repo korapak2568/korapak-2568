@@ -1,71 +1,71 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceZH: IService = {
-    title: "LLM/AI集成",
-    description: "CHORN专注于LLM/AI代理开发，提供智能、响应迅速的解决方案，量身定制以满足特定需求。专业知识包括可扩展网站、移动应用程序和全栈软件系统。通过LINE提供的<strong>由LLM驱动</strong>的技术专业知识伴侣展示了ChatGPT、Perplexity和DeepSeek等大型语言模型的能力，展示了增强数字存在和简化运营效率的创新方法。",
+    title: "LLM/AI 集成",
+    description: "通过量身定制的智能响应式 LLM/AI 代理解决方案转变业务运营。强大的后端开发确保可靠、可扩展且安全的数据处理 - 这对于在网站、移动应用和复杂软件系统中提供无缝用户体验至关重要。通过 LINE 的<strong>LLM 驱动</strong>助手展示了 ChatGPT、Perplexity 和 DeepSeek 等大型语言模型如何增强数字交互并为企业和终端用户简化运营。",
 
     services: [
         {
-            title: "LLM代理开发",
-            description: "设计和部署由ChatGPT和DeepSeek等先进LLM驱动的智能AI代理，与您的遗留系统无缝集成，以提高自动化和效率。"
+            title: "LLM 代理开发",
+            description: "利用由先进 LLM 驱动的智能 AI 代理，无缝集成到现有系统中，为企业提高自动化和效率的同时为用户提供直观的交互体验。"
         },
         {
-            title: "遗留系统集成",
-            description: "通过集成先进的AI功能来现代化现有系统，确保数据流畅通和功能改进。"
+            title: "现有系统集成",
+            description: "体验通过先进 AI 功能现代化的系统，确保数据流畅通和功能改进，使现有基础设施更有价值和效果。"
         },
         {
-            title: "定制LLM解决方案",
-            description: "开发定制AI模型，利用最先进的LLM解决特定业务挑战并优化运营。"
+            title: "定制 LLM 解决方案",
+            description: "利用最先进的 LLM 定制 AI 模型解决特定业务挑战并优化运营，提供满足独特需求的量身定制解决方案。"
         },
         {
-            title: "AI工作流自动化",
-            description: "使用AI驱动的自动化解决方案简化重复任务并优化工作流程，提高生产力。"
+            title: "AI 工作流自动化",
+            description: "通过 AI 驱动的自动化简化重复任务，节省时间和资源，使团队能够专注于更高价值的活动，同时提高整体生产力。"
         },
         {
             title: "预测分析和洞察",
-            description: "利用AI分析数据模式，预测趋势，并提供可执行的洞察，以便更好地决策。"
+            description: "借助 AI 驱动的数据模式分析做出更好的业务决策，预测趋势并提供可行洞察，将原始数据转化为战略优势。"
         }
     ],
 
     demo: {
-        title: "LLM/AI集成演示",
-        description: "欢迎来到AI聊天伙伴，这是一个AI驱动集成的演示。探索各种AI伙伴，" +
-            "每个伙伴都有独特的个性，旨在通过LINE应用程序与用户无缝互动。" +
-            "这些AI伙伴可以用多种语言交流，包括泰语、英语、中文、" +
+        title: "LLM/AI LINE 集成",
+        description: "体验 AI 驱动的 LLM/AI 和 LINE 集成。探索各种 AI 助手，" +
+            "每个助手都有独特的个性，设计用于通过 LINE 应用程序无缝互动。" +
+            "这些 AI 助手可以用多种语言交流，包括泰语、英语、中文、" +
             "日语、韩语、法语和越南语。",
         link: {
-            text: "在<a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok</a>上查看我们的演示。",
+            text: "在 <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok</a> 上查看演示。",
             href: "https://vt.tiktok.com/ZS6X8PfDT/"
         },
         procedure: {
-            title: "运作方式",
+            title: "使用方法",
             steps: [
                 {
-                    title: "选择你的AI伙伴",
-                    description: "浏览可用的AI伙伴列表，选择你最喜欢的一个。"
+                    title: "选择你的 AI 助手",
+                    description: "浏览可用 AI 助手列表并选择你最喜欢的一个。"
                 },
                 {
-                    title: "将AI添加为好友",
-                    description: "点击你所选AI的 '添加好友' 按钮，或使用LINE应用扫描提供的二维码。"
+                    title: "添加 AI 为好友",
+                    description: "点击所选 AI 的 '添加好友' 按钮或使用 LINE 应用扫描提供的二维码。"
                 },
                 {
                     title: "开始聊天",
-                    description: "开始与AI对话。默认语言是泰语，但AI会用你的语言回应，并附上泰语翻译。"
+                    description: "开始与 AI 对话。默认语言为泰语，但 AI 会用你的语言回复并附带泰语翻译。"
                 },
                 {
-                    title: "添加更多伙伴",
-                    description: "随时连接所有可用的AI伙伴，享受多样化的互动。"
+                    title: "添加更多助手",
+                    description: "与所有可用的 AI 助手建立连接，享受多样化的互动。"
                 }
             ]
         },
         note: [
             {
                 title: "注意",
-                description: "此演示运行在测试服务器上。如果AI没有回应你的第一条消息，请继续发送额外的消息，直到它回应。"
+                description: "此演示在测试服务器上运行。如果 AI 没有回复你的第一条消息，请继续发送消息直到它回复。"
             },
             {
                 title: "",
-                description: "今天就体验多语言对话，发现每个AI伙伴的独特个性！"
+                description: "立即体验多语言对话，探索每个 AI 助手的独特个性！"
             }]
     }
 };

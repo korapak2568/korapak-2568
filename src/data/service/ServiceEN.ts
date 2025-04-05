@@ -2,39 +2,39 @@ import {IService} from "@/data/service/model/IService";
 
 export const ServiceEN: IService = {
     title: "LLM/AI Integration",
-    description: "CHORN specializes in LLM/AI agent development, delivering intelligent, responsive solutions tailored to meet specific needs. Expertise includes scalable websites, mobile applications, and full-stack software systems. The <strong>LLM-powered</strong> companion technical-expertise via LINE demonstrates the capabilities of large language models like ChatGPT, Perplexity, and DeepSeek, showcasing innovative approaches to enhancing digital presence and streamlining operational efficiency.",
-    
+    description: "Transform business operations with intelligent, responsive LLM/AI agent solutions tailored to specific needs. Robust backend development ensures reliable, scalable, and secure data processing - critical for delivering seamless user experiences across websites, mobile applications, and complex software systems. The <strong>LLM-powered</strong> companion via LINE demonstrates how large language models like ChatGPT, Perplexity, and DeepSeek can enhance digital interactions and streamline operations for both businesses and end-users.",
+
     services: [
         {
             title: "LLM Agent Development",
-            description: "Design and deploy intelligent AI agents powered by advanced LLMs such as ChatGPT and DeepSeek, seamlessly integrating with your legacy systems to enhance automation and efficiency."
+            description: "Harness intelligent AI agents powered by advanced LLMs that seamlessly integrate with legacy systems, enhancing automation and efficiency for businesses while providing intuitive interactions for users."
         },
         {
             title: "Legacy System Integration",
-            description: "Modernize existing systems by integrating advanced AI capabilities, ensuring smooth data flow and improved functionality."
+            description: "Experience modernized systems with advanced AI capabilities that ensure smooth data flow and improved functionality, making existing infrastructure more valuable and effective."
         },
         {
-             title: "Custom LLM Solutions",
-            description: "Develop bespoke AI models, leveraging state-of-the-art LLMs to tackle specific business challenges and optimize operations."
+            title: "Custom LLM Solutions",
+            description: "Solve specific business challenges and optimize operations with bespoke AI models that leverage state-of-the-art LLMs, delivering tailored solutions that address unique requirements."
         },
         {
             title: "AI Workflow Automation",
-            description: "Streamline repetitive tasks and optimize workflows using AI-driven automation solutions for improved productivity."
+            description: "Save time and resources by streamlining repetitive tasks through AI-driven automation, allowing teams to focus on higher-value activities while improving overall productivity."
         },
         {
             title: "Predictive Analytics and Insights",
-            description: "Leverage AI to analyze data patterns, forecast trends, and provide actionable insights for better decision-making."
+            description: "Make better business decisions with AI-powered data pattern analysis that forecasts trends and provides actionable insights, turning raw data into strategic advantages."
         }
     ],
 
     demo: {
-        title: "LLM/AI Integration Demo",
-        description: "Welcome to the AI Chat Companion, a demo of AI-powered integration. Explore a variety of AI companions, " +
-            "each with unique personalities, designed to interact seamlessly with users via the LINE application. " +
-            "These AI companions can communicate in multiple languages, including Thai, English, Chinese, " +
+        title: "LLM/AI LINE Integration",
+        description: "Experience an AI-powered integration of LLM/AI and LINE. Explore a variety of AI companions, " +
+            "each with unique personalities, designed to interact seamlessly via the LINE application. " +
+            "These AI companions communicate in multiple languages, including Thai, English, Chinese, " +
             "Japanese, Korean, French, and Vietnamese.",
         link: {
-            text: "Check out our demo in action on <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
+            text: "Check out the demo in action on <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
             href: "https://vt.tiktok.com/ZS6X8PfDT/"
         },
         procedure: {
@@ -54,7 +54,7 @@ export const ServiceEN: IService = {
                 },
                 {
                     title: "Add More Companions",
-                    description: "Feel free to connect with all the available AI companions and enjoy diverse interactions."
+                    description: "Connect with all the available AI companions and enjoy diverse interactions."
                 }
             ]
         },

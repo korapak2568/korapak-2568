@@ -7,8 +7,8 @@ import {PhpDA} from "@/data/fullstack/frameworks/php/PhpDA";
 import {PythonDA} from "@/data/fullstack/frameworks/python/PythonDA";
 
 export const FullStackDA: IFullStack = {
-    title: "Back-End & API Erfaring",
-    span: "Back-End & API Udvikling Erfaring",
+    title: "Back-End Udvikling",
+    span: "Back-End Udviklingserfaring",
     subTitle: "",
 
     dotnetcore: DotnetDA,
@@ -21,30 +21,30 @@ export const FullStackDA: IFullStack = {
     stacks: [],
 
     services: {
-        title: "Back-End & API Udvikling",
+        title: "Back-End Udvikling",
         descriptions: [
-            "Byg kraftfulde, sikre og skalerbare webapplikationer med vores ekspertise inden for full-stack udvikling. Vores udviklere udmærker sig inden for både front-end og back-end teknologier og skaber omfattende løsninger, der er skræddersyet til dine specifikke forretningsbehov. CHORN's tekniske ekspertise spænder over flere teknologistakke, herunder Node.js, .NET Core C#, Java Spring Boot, Python, Go og PHP, hvilket giver os mulighed for at håndtere projekter af enhver kompleksitet. Uanset om du lancerer et indledende Proof of Concept (PoC) eller udvikler et markedsklart Minimum Viable Product (MVP), sikrer vores dygtige team en problemfri integration mellem brugergrænseflader og serversidesfunktionalitet for en enestående brugeroplevelse."
+            "Back-end udvikling er det essentielle fundament for kraftfulde, sikre og skalerbare webapplikationer. Dette system bag kulisserne er nødvendigt for databehandling, databaseadministration og sikkerhed, hvilket gør det muligt for virksomheder at imødekomme mange brugere samtidigt, skabe problemfri oplevelser og beskytte kritiske oplysninger. Teknologier omfatter Node.js, Java Spring Boot, Python, Go, PHP og .NET Core, der kan imødekomme behovene i projekter på alle kompleksitetsniveauer, fra konceptbeviser (PoC) til markedsklare minimum viable products (MVP). Den gnidningsfri integration mellem brugergrænseflader og serverfunktionalitet giver brugerne overlegne oplevelser og hjælper virksomheder med at nå deres mål effektivt."
         ],
         items: [
             {
                 title: "Problemfri Front-End & Back-End Integration",
-                description: "Udvikl sammenhængende webapplikationer med perfekt synkroniserede klient- og serverkomponenter, der leverer hastighed, sikkerhed og skalerbarhed."
+                description: "Sammenhængende webapplikationer med perfekt synkroniserede klient- og serverkomponenter, der leverer hastighed, sikkerhed og skalerbarhed."
             },
             {
-                title: "Omfattende SEO & Ydeevneoptimering",
-                description: "Forbedre din hjemmesides synlighed i søgemaskiner og brugeroplevelse gennem optimeret kodestruktur, hurtigere indlæsningstider og effektiv ressourcestyring."
+                title: "Omfattende SEO & Ydelsesoptimering",
+                description: "Forbedret synlighed i søgemaskiner og brugeroplevelse gennem optimeret kodestruktur, hurtigere indlæsningstider og effektiv ressourcestyring."
             },
             {
                 title: "Robust Automatiseret Test",
-                description: "Sikre applikationens pålidelighed og stabilitet med omfattende testframework integreret gennem hele udviklingslivscyklussen."
+                description: "Pålidelige og stabile applikationer med omfattende testframeworks integreret gennem hele udviklingsprocessen."
             },
             {
                 title: "Avanceret Databaseadministration",
-                description: "Strukturer og administrer dine data effektivt med optimerede databaseløsninger, herunder MySQL, MongoDB, PostgreSQL og andre førende teknologier."
+                description: "Effektivt strukturerede og administrerede data med optimerede databaseløsninger, herunder MySQL, MongoDB, PostgreSQL og andre førende teknologier."
             },
             {
-                title: "Enterprise-Grade Cloud-tjenester",
-                description: "Implementer og skaler dine applikationer effektivt ved hjælp af AWS, Azure, Google Cloud eller andre cloudplatforme med optimerede infrastrukturkonfigurationer."
+                title: "Enterprise-grade Cloudtjenester",
+                description: "Effektivt implementerede og skalerede applikationer ved hjælp af AWS, Azure, Google Cloud eller andre cloudplatforme med optimerede infrastrukturkonfigurationer."
             }
         ]
     }

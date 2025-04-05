@@ -1,44 +1,134 @@
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 
 export const CloudSolutionDA: ICloudSolution = {
-    title: "Cloud-migrering",
+    title: "Cloud Migration",
     descriptions: [
         {
-            title: "",
-            span: "",
-            description: "Udnyt det fulde potentiale af cloud-infrastruktur med ekspert løsningsarkitektur systemanalyse",
+            title: "Transformér Forretningsdriften",
+            span: "Accelerér Digital Transformation",
+            description: "Frigør det fulde potentiale af cloud-infrastruktur med strategisk arkitektur og systemanalyse, der leverer målbare forretningsresultater.",
+            features: []
         },
         {
-            title: "",
-            span: "",
-            description: "I nutidens hurtigt udviklende digitale landskab kræver opbygning af robuste, skalerbare og fremtidssikrede systemer dyb teknisk ekspertise og strategisk fremsyn. Vores tjenester som løsningsarkitekt og systemanalytiker er designet til at guide dig gennem komplekse cloud-arkitekturbeslutninger, der sikrer optimal ydeevne, sikkerhed og omkostningseffektivitet for din virksomhed.",
+            title: "Datadrevet Beslutningstagning",
+            span: "Fremtidssikret Teknologistak",
+            description: "I dagens hurtigt udviklende digitale landskab gør robuste, skalerbare og fremtidssikrede systemer virksomheder i stand til at reagere hurtigt på markedsændringer, samtidig med at de opretholder operationel ekspertise. Strategisk cloud-arkitektur sikrer optimal ydeevne, forbedret sikkerhed og omkostningseffektivitet, samtidig med at den understøtter forretningsmæssige vækstmål.",
+            features: []
         },
+    ],
+    benefits: [
+        "Reducerede infrastrukturomkostninger gennem optimeret ressourceallokering",
+        "Forbedret forretningsagilitet med hurtige implementeringsmuligheder",
+        "Forbedret datasikkerhed med branchestandardiserede compliance-rammer",
+        "Forenklet katastrofeopretning med automatiserede backup-løsninger",
+        "Øget applikationsydeevne for bedre brugeroplevelser",
+        "Problemfri skalerbarhed til at understøtte forretningsvækst",
+        "Kontinuerlig innovation gennem de nyeste cloud-teknologier"
     ],
     sections: [
         {
-            title: "Vælg den passende cloud",
-            span: "",
-            description: "CHORN har erfaring med at forbedre eksisterende infrastruktur til cloud-migrering, opsætte nye systemer i skyen fra begyndelsen af projekter, udnytte verdens førende cloud-udbydere som AWS, Azure, Google Cloud Platform (GCP) og DigitalOcean, og designe løsninger, der problemfrit integreres med dine forretningsmål, hvad enten det er i cloud-native, hybride eller multi-cloud-miljøer.",
+            title: "Strategisk Cloud-valg",
+            span: "Skræddersyet Cloud-infrastruktur",
+            description: "Succesen med cloud-migration afhænger af at vælge den rigtige platform til specifikke forretningskrav. Uanset om det drejer sig om at forbedre eksisterende infrastruktur eller opbygge nye systemer fra bunden, skal det ideelle cloud-miljø passe perfekt sammen med forretningsmålene. Cloud-native, hybrid eller multi-cloud-miljøer tilbyder hver især forskellige fordele afhængigt af skaleringsbehov, compliance-krav og driftsmål.",
+            features: []
         },
         {
             title: "AWS",
-            span: "AWS: Kraften i fleksibilitet og skalerbarhed",
-            description: "Udnyt de robuste funktioner i Amazon Web Services (AWS) til dynamisk at skalere din infrastruktur. Vi hjælper virksomheder med at implementere serverløse arkitekturer, udnytte AWS Lambda til mikroservices og optimere lagring med S3. Vores fokus er at sikre, at dine systemer forbliver agile, omkostningseffektive og yderst sikre ved hjælp af AWS's omfattende pakke af tjenester.",
+            span: "AWS: Fleksibilitet og Virksomhedsskalerbarhed",
+            description: "Amazon Web Services (AWS) leverer dynamisk infrastrukturskalering, der tilpasser sig svingende forretningsbehov. Organisationer drager fordel af serverløse arkitekturer, der eliminerer bekymringer om infrastrukturforvaltning, Lambda-funktioner, der muliggør effektiv mikroserviceimplementering, og S3-lageroptimering, der reducerer omkostninger, samtidig med at ydeevnen forbedres. Disse funktioner sikrer, at systemer forbliver agile, omkostningseffektive og yderst sikre, hvilket giver interessenter ro i sindet, samtidig med at de leverer exceptionelle brugeroplevelser.",
+            features: [
+                "Serverløs arkitektur med AWS Lambda",
+                "Containerisering med Amazon EKS og ECS",
+                "Infrastruktur som kode ved hjælp af CloudFormation og CDK",
+                "Databasemigrering med DMS",
+                "Automatiserede CI/CD-pipelines med CodePipeline",
+                "Hændelses-drevne arkitekturer med EventBridge",
+                "Omkostningsoptimering gennem AWS Well-Architected Framework"
+            ]
         },
         {
             title: "Azure",
-            span: "Azure: Problemfri virksomhedsintegration",
-            description: "Microsoft Azure er det ideelle valg for virksomheder, der ønsker at modernisere ældre systemer eller implementere hybrid cloud-løsninger. Vi hjælper med at opbygge end-to-end-løsninger, der inkorporerer avanceret analyse, AI og virksomhedssikkerhed. Vores tjenester omfatter alt fra opsætning af virtuelle maskiner til konfigurering af komplekse dataflows, hvilket hjælper dig med fuldt ud at udnytte Azure-funktionerne.",
+            span: "Azure: Problemfri Virksomhedsintegration",
+            description: "Microsoft Azure udmærker sig ved at modernisere ældre systemer og implementere hybrid cloud-løsninger til etablerede virksomheder. End-to-end-løsninger, der inkorporerer avanceret analyse, kunstig intelligens og virksomhedssikkerhed, transformerer forretningsdriften og skaber exceptionelle kundeoplevelser. Fra implementering af virtuelle maskiner til komplekse data-pipelines muliggør Azures omfattende platform digital transformation, samtidig med at forretningskontinuiteten opretholdes.",
+            features: [
+                "Modernisering af ældre systemer med Azure App Service",
+                "Hybrid-konnektivitet med Azure Arc",
+                "Containeriserede applikationer med Azure Kubernetes Service",
+                "Serverløs databehandling med Azure Functions",
+                "DevSecOps-implementering med Azure DevOps",
+                "Identitetsstyring med Azure Active Directory",
+                "Realtidsanalyse med Azure Synapse"
+            ]
         },
         {
             title: "GCP",
-            span: "GCP: Avanceret analyse og AI-integration",
-            description: "Google Cloud Platform (GCP) tilbyder uovertrufne muligheder inden for big data, maskinlæring og AI-drevne løsninger. Vores ekspertise i GCP hjælper dig med at udnytte kraftfulde dataanalyser, automatisere arbejdsgange og strømline komplekse forretningsprocesser. Vi sikrer også, at din cloud-infrastruktur er optimeret for både ydeevne og omkostningseffektivitet.",
+            span: "GCP: Avanceret Analyse og AI-integration",
+            description: "Google Cloud Platform (GCP) leverer uforlignelige muligheder inden for big data-behandling, maskinlæringsimplementering og AI-drevne løsningsudvikling. Organisationer opnår konkurrencemæssige fordele gennem kraftfuld dataanalyse, der afslører forretningsindsigter, arbejdsgangsautomatisering, der øger driftseffektiviteten, og strømlinede forretningsprocesser, der reducerer omkostninger. Ydeevneoptimering kombineret med omkostningseffektiv infrastruktur sikrer maksimalt afkast af cloud-investeringen, samtidig med at slutbrugere får responsive, intelligente applikationer.",
+            features: [
+                "Maskinlæringsoperationer med Vertex AI",
+                "Big data-behandling med BigQuery og Dataflow",
+                "Containerisering med Google Kubernetes Engine",
+                "Serverløs databehandling med Cloud Functions og Cloud Run",
+                "API-styring med Apigee",
+                "DevOps-automatisering med Cloud Build",
+                "Intelligent analyse med Looker"
+            ]
         },
         {
             title: "DigitalOcean",
-            span: "DigitalOcean: Enkel, kraftfuld cloud til startups og SMV'er",
-            description: "For startups og små til mellemstore virksomheder (SMV'er) tilbyder DigitalOcean en enkel, men kraftfuld cloud-platform. Vi hjælper med at implementere skalerbare webapplikationer, databaser og andre cloud-løsninger på DigitalOceans infrastruktur, med vægt på enkelthed og udviklervenlige værktøjer.",
+            span: "DigitalOcean: Omkostningseffektive Løsninger til Vækst",
+            description: "Startups og små til mellemstore virksomheder (SMV'er) drager fordel af DigitalOceans enkle, men kraftfulde cloud-platform. Skalerbare webapplikationer, administrerede databaser og containeriserede implementeringer giver det tekniske fundament for forretningsvækst uden unødvendig kompleksitet. Udviklervenlige værktøjer accelererer udviklingsforløb, samtidig med at omkostningseffektiviteten opretholdes, hvilket giver virksomheder mulighed for at fokusere på innovation frem for infrastrukturforvaltning.",
+            features: [
+                "Administrerede Kubernetes-klynger til container-orkestrering",
+                "App Platform til forenklet PaaS-implementering",
+                "Administrerede databaser med automatiserede backups",
+                "Spaces objektlagring til medier og aktiver",
+                "Load balancing til højtilgængelige applikationer",
+                "Overvågning og advarsler med integrerede værktøjer",
+                "Globalt CDN til forbedret brugeroplevelse"
+            ]
         },
+    ],
+    migrationProcess: [
+        {
+            phase: "Vurdering & Planlægning",
+            description: "Omfattende analyse af eksisterende infrastruktur, applikationsafhængigheder og forretningskrav for at udvikle en skræddersyet migrationsstrategi.",
+            outcomes: [
+                "Detaljeret cloud-parathedsvurdering",
+                "TCO-analyse og ROI-prognoser",
+                "Risikoreduceringsstrategier",
+                "Prioriteret migrationsroadmap"
+            ]
+        },
+        {
+            phase: "Design & Arkitektur",
+            description: "Oprettelse af optimerede cloud-arkitektur-blueprints, der er på linje med forretningsmål, samtidig med at sikkerhed, ydeevne og omkostningseffektivitet sikres.",
+            outcomes: [
+                "Fremtidige tilstandsarkitekturdiagrammer",
+                "Sikkerheds- og compliance-rammer",
+                "Katastrofeopretningsplaner",
+                "Ressourceoptimeringsstragier"
+            ]
+        },
+        {
+            phase: "Migration & Implementering",
+            description: "Systematisk overførsel af applikationer, data og arbejdsbelastninger til cloud-miljøet med minimal forretningsafbrydelse.",
+            outcomes: [
+                "Nultids-nedetid migrationsudførelse",
+                "Dataintegritetsvalidering",
+                "Ydeevnetests",
+                "Operationel overdragelsesdokumentation"
+            ]
+        },
+        {
+            phase: "Optimering & Styring",
+            description: "Kontinuerlig forbedring af cloud-infrastruktur for at maksimere ydeevne, sikkerhed og omkostningseffektivitet.",
+            outcomes: [
+                "Automatiserede skaleringspolitikker",
+                "Anbefalinger til omkostningsoptimering",
+                "Strategier til ydeevneforbedring",
+                "Styrkelse af sikkerhedsstilling"
+            ]
+        }
     ]
 }

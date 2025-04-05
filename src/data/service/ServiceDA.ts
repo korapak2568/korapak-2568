@@ -1,71 +1,71 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceDA: IService = {
-    title: "LLM/AI-integration",
-    description: "CHORN specialiserer sig i udvikling af LLM/AI-agenter og leverer intelligente, responsive løsninger skræddersyet til at opfylde specifikke behov. Ekspertisen omfatter skalerbare hjemmesider, mobilapplikationer og full-stack softwaresystemer. Den <strong>LLM-drevne</strong> tekniske ekspertise-ledsager via LINE demonstrerer mulighederne i store sprogmodeller som ChatGPT, Perplexity og DeepSeek, og viser innovative tilgange til at forbedre digital tilstedeværelse og strømline operationel effektivitet.",
+    title: "LLM/AI Integration",
+    description: "Transformer forretningsdriften med intelligente, responsive LLM/AI-agentløsninger skræddersyet til specifikke behov. Robust backend-udvikling sikrer pålidelig, skalerbar og sikker databehandling - afgørende for at levere problemfri brugeroplevelser på tværs af hjemmesider, mobilapplikationer og komplekse softwaresystemer. Den <strong>LLM-drevne</strong> assistent via LINE demonstrerer, hvordan store sprogmodeller som ChatGPT, Perplexity og DeepSeek kan forbedre digitale interaktioner og strømline operationer for både virksomheder og slutbrugere.",
 
     services: [
         {
-            title: "LLM-agentudvikling",
-            description: "Design og implementering af intelligente AI-agenter drevet af avancerede LLM'er som ChatGPT og DeepSeek, der integreres problemfrit med dine eksisterende systemer for at forbedre automatisering og effektivitet."
+            title: "LLM Agent Udvikling",
+            description: "Udnyt intelligente AI-agenter drevet af avancerede LLMs, der integreres problemfrit med eksisterende systemer, forbedrer automatisering og effektivitet for virksomheder og samtidig giver intuitive interaktioner for brugere."
         },
         {
-            title: "Integration af ældre systemer",
-            description: "Modernisér eksisterende systemer ved at integrere avancerede AI-funktioner, hvilket sikrer jævn datastrøm og forbedret funktionalitet."
+            title: "Integration med Eksisterende Systemer",
+            description: "Oplev moderniserede systemer med avancerede AI-funktioner, der sikrer gnidningsfri dataflow og forbedret funktionalitet, hvilket gør eksisterende infrastruktur mere værdifuld og effektiv."
         },
         {
-            title: "Skræddersyede LLM-løsninger",
-            description: "Udvikl skræddersyede AI-modeller ved at udnytte state-of-the-art LLM'er til at tackle specifikke forretningsmæssige udfordringer og optimere drift."
+            title: "Skræddersyede LLM Løsninger",
+            description: "Løs specifikke forretningsudfordringer og optimer operationer med skræddersyede AI-modeller, der udnytter avancerede LLMs, og leverer målrettede løsninger, der imødekommer unikke krav."
         },
         {
-            title: "AI-arbejdsgangsautomatisering",
-            description: "Strømlin gentagende opgaver og optimér arbejdsgange ved hjælp af AI-drevne automatiseringsløsninger for forbedret produktivitet."
+            title: "AI Workflow Automatisering",
+            description: "Spar tid og ressourcer ved at strømline gentagne opgaver gennem AI-drevet automatisering, så teams kan fokusere på aktiviteter med højere værdi, samtidig med at den overordnede produktivitet forbedres."
         },
         {
-            title: "Forudsigende analyse og indsigt",
-            description: "Udnyt AI til at analysere datamønstre, forudsige tendenser og levere handlingsorienterede indsigter for bedre beslutningstagning."
+            title: "Prædiktiv Analyse og Indsigt",
+            description: "Tag bedre forretningsbeslutninger med AI-drevet datamønsteranalyse, der forudsiger tendenser og giver handlingsorienterede indsigter, der omdanner rådata til strategiske fordele."
         }
     ],
 
     demo: {
-        title: "LLM/AI-integrationsdemonstration",
-        description: "Velkommen til AI Chat-ledsageren, en demonstration af AI-drevet integration. Udforsk en række AI-ledsagere, " +
-            "hver med unikke personligheder, designet til at interagere problemfrit med brugere via LINE-applikationen. " +
-            "Disse AI-ledsagere kan kommunikere på flere sprog, herunder thai, engelsk, kinesisk, " +
+        title: "LLM/AI LINE Integration",
+        description: "Oplev en AI-drevet integration af LLM/AI og LINE. Udforsk forskellige AI-assistenter, " +
+            "hver med unikke personligheder, designet til at interagere problemfrit via LINE-applikationen. " +
+            "Disse AI-assistenter kan kommunikere på flere sprog, herunder thai, engelsk, kinesisk, " +
             "japansk, koreansk, fransk og vietnamesisk.",
         link: {
-            text: "Se vores demo i aktion på <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
+            text: "Se demoen i aktion på <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
             href: "https://vt.tiktok.com/ZS6X8PfDT/"
         },
         procedure: {
-            title: "Sådan fungerer det",
+            title: "Sådan Fungerer Det",
             steps: [
                 {
-                    title: "Vælg din AI-ledsager",
-                    description: "Gennemse listen over tilgængelige AI-ledsagere og vælg den, du bedst kan lide."
+                    title: "Vælg Din AI-Assistent",
+                    description: "Gennemse listen over tilgængelige AI-assistenter og vælg den, du bedst kan lide."
                 },
                 {
-                    title: "Tilføj AI'en som ven",
-                    description: "Klik på knappen 'Tilføj ven' for din valgte AI eller brug LINE-appen til at scanne den medfølgende QR-kode."
+                    title: "Tilføj AI'en som Ven",
+                    description: "Klik på knappen 'Tilføj ven' for din valgte AI, eller brug LINE-appen til at scanne den medfølgende QR-kode."
                 },
                 {
-                    title: "Start chatting",
+                    title: "Start Chatten",
                     description: "Begynd din samtale med AI'en. Standardsproget er thai, men AI'en vil svare på dit sprog sammen med en thai-oversættelse."
                 },
                 {
-                    title: "Tilføj flere ledsagere",
-                    description: "Du er velkommen til at forbinde med alle tilgængelige AI-ledsagere og nyde forskellige interaktioner."
+                    title: "Tilføj Flere Assistenter",
+                    description: "Forbind med alle tilgængelige AI-assistenter og nyd forskellige interaktioner."
                 }
             ]
         },
         note: [
             {
                 title: "Bemærk",
-                description: "Denne demo kører på en testserver. Hvis AI'en ikke svarer på din første besked, bedes du sende yderligere beskeder, indtil den svarer."
+                description: "Denne demo kører på en testserver. Hvis AI'en ikke reagerer på din første besked, send venligst yderligere beskeder, indtil den reagerer."
             },
             {
                 title: "",
-                description: "Oplev flersprogede samtaler og opdag de unikke personligheder hos hver AI-ledsager i dag!"
+                description: "Oplev flersprogede samtaler og opdag de unikke personligheder af hver AI-assistent i dag!"
             }]
     }
 };

@@ -10,8 +10,8 @@ import {Css3VI} from "@/data/frontend/frameworks/css3/Css3VI";
 import {AngularVI} from "@/data/frontend/frameworks/angular/AngularVI";
 
 export const FrontEndVI: IFrontEnd = {
-    title: "Kinh nghiệm Front-End",
-    span: "Kinh nghiệm phát triển Front-End",
+    title: "Phát triển Front-End",
+    span: "Kinh nghiệm Phát triển Front-End",
     subTitle: "",
 
     angular: AngularVI,
@@ -26,30 +26,30 @@ export const FrontEndVI: IFrontEnd = {
     stacks: [],
 
     services: {
-        title: "Dịch Vụ Phát Triển Front-End",
+        title: "Phát triển Front-End",
         descriptions: [
-            "Biến tầm nhìn web của bạn thành hiện thực với dịch vụ phát triển front-end chuyên nghiệp của chúng tôi. CHORN cung cấp các trang web thân thiện với người dùng, đẹp mắt và hoàn toàn responsive thu hút khán giả của bạn. Chúng tôi chuyên về các framework hiện đại bao gồm Next.js, React, Angular và Vue.js, cùng với các công nghệ web cốt lõi như HTML5 và CSS3. Cho dù bạn cần một ứng dụng đơn trang (SPA) hiệu suất cao được tối ưu hóa cho công cụ tìm kiếm hay một nền tảng đa trang phức tạp, đội ngũ phát triển của chúng tôi cung cấp kết quả chất lượng đúng thời hạn. Hợp tác với CHORN để tạo ra những trải nghiệm số hấp dẫn thu hút khách truy cập và thúc đẩy tăng trưởng kinh doanh."
+            "Phát triển front-end là giao diện quan trọng giữa người dùng và dịch vụ kỹ thuật số, tạo ra các yếu tố hình ảnh và thành phần tương tác định hình trải nghiệm người dùng. Lớp thiết yếu này chuyển đổi các hệ thống backend phức tạp thành giao diện trực quan, dễ tiếp cận, thu hút khán giả và thúc đẩy tăng trưởng kinh doanh. Các framework hiện đại bao gồm Next.js, React, Angular và Vue.js, cùng với các công nghệ web cốt lõi như HTML5 và CSS3, cho phép các ứng dụng hiệu suất cao tải nhanh và phản hồi mượt mà trên mọi thiết bị. Giải pháp front-end hiệu quả tăng sự tương tác của người dùng, cải thiện tỷ lệ chuyển đổi và củng cố nhận thức thương hiệu thông qua trải nghiệm kỹ thuật số nhất quán, chuyên nghiệp đáp ứng cả mục tiêu kinh doanh và nhu cầu người dùng."
         ],
         items: [
             {
-                title: "Triển Khai Framework Hiện Đại",
-                description: "Xây dựng ứng dụng web động, tương tác sử dụng các framework tiên tiến như Next.js và React cung cấp hiệu suất và trải nghiệm người dùng tối ưu."
+                title: "Triển khai Framework Hiện đại",
+                description: "Ứng dụng web động, tương tác sử dụng các framework tiên tiến như Next.js và React cung cấp hiệu suất tối ưu, khả năng phản hồi và trải nghiệm người dùng nâng cao."
             },
             {
-                title: "Tối Ưu Hóa SEO",
-                description: "Cải thiện khả năng hiển thị của trang web của bạn trên Google và các công cụ tìm kiếm khác thông qua cấu trúc mã được tối ưu hóa, thời gian tải nhanh và thiết kế thân thiện với thiết bị di động."
+                title: "Tối ưu hóa SEO",
+                description: "Cải thiện khả năng hiển thị website trên Google và các công cụ tìm kiếm khác thông qua cấu trúc mã được tối ưu hóa, thời gian tải nhanh và thiết kế thân thiện với thiết bị di động, thu hút lưu lượng truy cập tự nhiên và giảm chi phí thu hút khách hàng."
             },
             {
-                title: "Phát Triển Proof of Concept (PoC)",
-                description: "Kiểm tra và xác nhận ý tưởng sáng tạo của bạn nhanh chóng với các nguyên mẫu chức năng trước khi cam kết phát triển toàn diện."
+                title: "Phát triển Proof of Concept (PoC)",
+                description: "Xác thực nhanh chóng các ý tưởng đổi mới thông qua các nguyên mẫu chức năng, giảm rủi ro và cho phép các bên liên quan hình dung các khái niệm trước khi đầu tư quy mô đầy đủ."
             },
             {
-                title: "Tạo Sản Phẩm Khả Thi Tối Thiểu (MVP)",
-                description: "Ra mắt phiên bản ban đầu hoàn chỉnh và có khả năng mở rộng của sản phẩm để thu hút người dùng sớm, thu thập phản hồi và đảm bảo nhà đầu tư tiềm năng."
+                title: "Tạo Minimum Viable Product (MVP)",
+                description: "Phiên bản ban đầu đầy đủ tính năng, có khả năng mở rộng thu hút người dùng ban đầu, tạo ra phản hồi có giá trị và thu hút các nhà đầu tư tiềm năng đồng thời thiết lập sự hiện diện trên thị trường."
             },
             {
-                title: "Thiết Kế UI/UX Xuất Sắc",
-                description: "Nâng cao sự hài lòng của người dùng với giao diện trực quan, đẹp mắt giúp tăng tương tác, giảm tỷ lệ thoát và tăng tỷ lệ chuyển đổi."
+                title: "Thiết kế UI/UX",
+                description: "Giao diện trực quan, đẹp mắt thúc đẩy sự tương tác, giảm tỷ lệ thoát và tăng tỷ lệ chuyển đổi thông qua các nguyên tắc thiết kế lấy người dùng làm trung tâm và tiêu chuẩn truy cập."
             }
         ]
     }

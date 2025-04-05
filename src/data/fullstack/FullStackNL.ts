@@ -7,8 +7,8 @@ import {GoNL} from "@/data/fullstack/frameworks/go/GoNL";
 import {DotnetNL} from "@/data/fullstack/frameworks/dotnet/DotnetNL";
 
 export const FullStackNL: IFullStack = {
-    title: "Back-End & API Ervaring",
-    span: "Back-End & API Ontwikkeling Ervaring",
+    title: "Back-End Ontwikkeling",
+    span: "Back-End Ontwikkelingservaring",
     subTitle: "",
 
     dotnetcore: DotnetNL,
@@ -21,30 +21,30 @@ export const FullStackNL: IFullStack = {
     stacks: [],
 
     services: {
-        title: "Back-End & API Ontwikkeling",
+        title: "Back-End Ontwikkeling",
         descriptions: [
-            "Bouw krachtige, veilige en schaalbare webapplicaties met onze deskundige full-stack ontwikkelingsdiensten. Onze ontwikkelaars excelleren in zowel front-end als back-end technologieën en creëren uitgebreide oplossingen op maat van uw specifieke zakelijke vereisten. De technische expertise van CHORN omvat meerdere technologiestacks, waaronder Node.js, .NET Core C#, Java Spring Boot, Python, Go en PHP, waardoor we projecten van elke complexiteit kunnen afhandelen. Of u nu een eerste Proof of Concept (PoC) lanceert of een marktklaar Minimum Viable Product (MVP) ontwikkelt, ons bekwame team zorgt voor een naadloze integratie tussen gebruikersinterfaces en serverzijde functionaliteit voor een uitzonderlijke gebruikerservaring."
+            "Back-end ontwikkeling is de essentiële basis voor krachtige, veilige en schaalbare webapplicaties. Dit achterliggende systeem is noodzakelijk voor gegevensverwerking, databasebeheer en beveiliging, waardoor bedrijven veel gebruikers tegelijkertijd kunnen bedienen, naadloze ervaringen kunnen creëren en kritieke informatie kunnen beschermen. Ondersteunde technologieën omvatten Node.js, Java Spring Boot, Python, Go, PHP en .NET Core, die in staat zijn om aan de behoeften van projecten van alle complexiteitsniveaus te voldoen, van Proof of Concept (PoC) tot marktklaar Minimum Viable Product (MVP). De soepele integratie tussen gebruikersinterfaces en serverfunctionaliteit biedt gebruikers superieure ervaringen en helpt bedrijven hun doelen efficiënt te bereiken."
         ],
         items: [
             {
                 title: "Naadloze Front-End & Back-End Integratie",
-                description: "Ontwikkel samenhangende webapplicaties met perfect gesynchroniseerde client- en servercomponenten die snelheid, veiligheid en schaalbaarheid bieden."
+                description: "Coherente webapplicaties met perfect gesynchroniseerde client- en servercomponenten die snelheid, veiligheid en schaalbaarheid bieden."
             },
             {
                 title: "Uitgebreide SEO & Prestatie-optimalisatie",
-                description: "Verbeter de zichtbaarheid van uw website in zoekmachines en de gebruikerservaring door geoptimaliseerde codestructuur, snellere laadtijden en efficiënt middelenbeheer."
+                description: "Verbeterde zichtbaarheid in zoekmachines en gebruikerservaring door geoptimaliseerde codestructuur, snellere laadtijden en efficiënt resourcebeheer."
             },
             {
-                title: "Robuuste Geautomatiseerde Tests",
-                description: "Zorg voor betrouwbaarheid en stabiliteit van applicaties met uitgebreide testframeworks die in de gehele ontwikkelingscyclus zijn geïntegreerd."
+                title: "Robuuste Automatische Tests",
+                description: "Betrouwbare en stabiele applicaties met uitgebreide testframeworks die geïntegreerd zijn in de hele ontwikkelingscyclus."
             },
             {
                 title: "Geavanceerd Databasebeheer",
-                description: "Structureer en beheer uw gegevens effectief met geoptimaliseerde databaseoplossingen waaronder MySQL, MongoDB, PostgreSQL en andere toonaangevende technologieën."
+                description: "Effectief gestructureerde en beheerde gegevens met geoptimaliseerde databaseoplossingen, waaronder MySQL, MongoDB, PostgreSQL en andere toonaangevende technologieën."
             },
             {
-                title: "Enterprise-Grade Cloud Diensten",
-                description: "Deploy en schaal uw applicaties efficiënt met AWS, Azure, Google Cloud of andere cloudplatforms met geoptimaliseerde infrastructuurconfiguraties."
+                title: "Enterprise-grade Clouddiensten",
+                description: "Efficiënt geïmplementeerde en geschaalde applicaties met AWS, Azure, Google Cloud of andere cloudplatforms met geoptimaliseerde infrastructuurconfiguraties."
             }
         ]
     }

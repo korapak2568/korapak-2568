@@ -2,59 +2,59 @@ import {IService} from "@/data/service/model/IService";
 
 export const ServiceDE: IService = {
     title: "LLM/KI-Integration",
-    description: "CHORN ist spezialisiert auf die Entwicklung von LLM/KI-Agenten und liefert intelligente, reaktionsschnelle Lösungen, die auf spezifische Bedürfnisse zugeschnitten sind. Die Expertise umfasst skalierbare Websites, mobile Anwendungen und Full-Stack-Softwaresysteme. Der <strong>LLM-gestützte</strong> technische Expertenbegleiter über LINE demonstriert die Fähigkeiten großer Sprachmodelle wie ChatGPT, Perplexity und DeepSeek und zeigt innovative Ansätze zur Verbesserung der digitalen Präsenz und zur Optimierung der betrieblichen Effizienz.",
+    description: "Transformieren Sie Geschäftsprozesse mit intelligenten, reaktionsschnellen LLM/KI-Agentenlösungen, die auf spezifische Bedürfnisse zugeschnitten sind. Eine robuste Backend-Entwicklung gewährleistet eine zuverlässige, skalierbare und sichere Datenverarbeitung - entscheidend für die Bereitstellung nahtloser Benutzererfahrungen auf Websites, mobilen Anwendungen und komplexen Softwaresystemen. Der <strong>LLM-gestützte</strong> Assistent über LINE zeigt, wie große Sprachmodelle wie ChatGPT, Perplexity und DeepSeek digitale Interaktionen verbessern und Abläufe für Unternehmen und Endnutzer optimieren können.",
 
     services: [
         {
             title: "LLM-Agentenentwicklung",
-            description: "Entwicklung und Bereitstellung intelligenter KI-Agenten, die von fortschrittlichen LLMs wie ChatGPT und DeepSeek angetrieben werden und sich nahtlos in Ihre Legacy-Systeme integrieren, um Automatisierung und Effizienz zu verbessern."
+            description: "Nutzen Sie intelligente KI-Agenten, die von fortschrittlichen LLMs angetrieben werden und sich nahtlos in bestehende Systeme integrieren, die Automatisierung und Effizienz für Unternehmen verbessern und gleichzeitig intuitive Interaktionen für Benutzer bieten."
         },
         {
-            title: "Legacy-Systemintegration",
-            description: "Modernisierung bestehender Systeme durch Integration fortschrittlicher KI-Funktionen, Gewährleistung eines reibungslosen Datenflusses und verbesserter Funktionalität."
+            title: "Integration bestehender Systeme",
+            description: "Erleben Sie modernisierte Systeme mit fortschrittlichen KI-Funktionen, die einen reibungslosen Datenfluss und verbesserte Funktionalität gewährleisten und bestehende Infrastruktur wertvoller und effektiver machen."
         },
         {
             title: "Maßgeschneiderte LLM-Lösungen",
-            description: "Entwicklung maßgeschneiderter KI-Modelle unter Nutzung modernster LLMs zur Bewältigung spezifischer Geschäftsherausforderungen und zur Optimierung von Abläufen."
+            description: "Lösen Sie spezifische Geschäftsherausforderungen und optimieren Sie Abläufe mit maßgeschneiderten KI-Modellen, die modernste LLMs nutzen und passgenaue Lösungen liefern, die einzigartige Anforderungen erfüllen."
         },
         {
             title: "KI-Workflow-Automatisierung",
-            description: "Rationalisierung wiederkehrender Aufgaben und Optimierung von Arbeitsabläufen durch KI-gestützte Automatisierungslösungen für verbesserte Produktivität."
+            description: "Sparen Sie Zeit und Ressourcen durch die Optimierung sich wiederholender Aufgaben mittels KI-gesteuerter Automatisierung, die es Teams ermöglicht, sich auf Aktivitäten mit höherem Mehrwert zu konzentrieren und gleichzeitig die Gesamtproduktivität zu verbessern."
         },
         {
-            title: "Prädiktive Analytik und Erkenntnisse",
-            description: "Nutzung von KI zur Analyse von Datenmustern, Prognose von Trends und Bereitstellung handlungsorientierter Erkenntnisse für bessere Entscheidungsfindung."
+            title: "Prädiktive Analysen und Einblicke",
+            description: "Treffen Sie bessere Geschäftsentscheidungen mit KI-gestützter Datenanalyse, die Trends vorhersagt und umsetzbare Einblicke liefert, um Rohdaten in strategische Vorteile zu verwandeln."
         }
     ],
 
     demo: {
-        title: "LLM/KI-Integrationsdemo",
-        description: "Willkommen beim KI-Chat-Begleiter, einer Demonstration der KI-gestützten Integration. Entdecken Sie eine Vielzahl von KI-Begleitern, " +
-            "jeder mit einer einzigartigen Persönlichkeit, die für eine nahtlose Interaktion mit Nutzern über die LINE-Anwendung entwickelt wurde. " +
-            "Diese KI-Begleiter können in mehreren Sprachen kommunizieren, darunter Thai, Englisch, Chinesisch, " +
+        title: "LLM/KI-LINE-Integration",
+        description: "Erleben Sie eine KI-gestützte Integration von LLM/KI und LINE. Entdecken Sie eine Vielzahl von KI-Assistenten, " +
+            "jeder mit einer einzigartigen Persönlichkeit, die für nahtlose Interaktionen über die LINE-Anwendung konzipiert sind. " +
+            "Diese KI-Assistenten kommunizieren in mehreren Sprachen, darunter Thai, Englisch, Chinesisch, " +
             "Japanisch, Koreanisch, Französisch und Vietnamesisch.",
         link: {
-            text: "Sehen Sie unsere Demo in Aktion auf <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
+            text: "Sehen Sie sich die Demo in Aktion auf <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok</a> an.",
             href: "https://vt.tiktok.com/ZS6X8PfDT/"
         },
         procedure: {
             title: "So funktioniert es",
             steps: [
                 {
-                    title: "Wählen Sie Ihren KI-Begleiter",
-                    description: "Durchsuchen Sie die Liste der verfügbaren KI-Begleiter und wählen Sie denjenigen, der Ihnen am besten gefällt."
+                    title: "Wählen Sie Ihren KI-Assistenten",
+                    description: "Durchsuchen Sie die Liste der verfügbaren KI-Assistenten und wählen Sie den aus, der Ihnen am besten gefällt."
                 },
                 {
                     title: "Fügen Sie die KI als Freund hinzu",
-                    description: "Klicken Sie auf die Schaltfläche 'Freund hinzufügen' für Ihre gewählte KI oder verwenden Sie die LINE-App, um den bereitgestellten QR-Code zu scannen."
+                    description: "Klicken Sie auf die Schaltfläche 'Als Freund hinzufügen' für Ihre gewählte KI oder verwenden Sie die LINE-App, um den bereitgestellten QR-Code zu scannen."
                 },
                 {
                     title: "Starten Sie den Chat",
-                    description: "Beginnen Sie Ihr Gespräch mit der KI. Die Standardsprache ist Thai, aber die KI wird in Ihrer Sprache antworten, zusammen mit einer Thai-Übersetzung."
+                    description: "Beginnen Sie Ihr Gespräch mit der KI. Die Standardsprache ist Thai, aber die KI wird in Ihrer Sprache mit einer Thai-Übersetzung antworten."
                 },
                 {
-                    title: "Fügen Sie weitere Begleiter hinzu",
-                    description: "Verbinden Sie sich gerne mit allen verfügbaren KI-Begleitern und genießen Sie vielfältige Interaktionen."
+                    title: "Fügen Sie weitere Assistenten hinzu",
+                    description: "Verbinden Sie sich mit allen verfügbaren KI-Assistenten und genießen Sie vielfältige Interaktionen."
                 }
             ]
         },
@@ -65,7 +65,7 @@ export const ServiceDE: IService = {
             },
             {
                 title: "",
-                description: "Erleben Sie heute mehrsprachige Gespräche und entdecken Sie die einzigartigen Persönlichkeiten jedes KI-Begleiters!"
+                description: "Erleben Sie noch heute mehrsprachige Konversationen und entdecken Sie die einzigartigen Persönlichkeiten jedes KI-Assistenten!"
             }]
     }
 };

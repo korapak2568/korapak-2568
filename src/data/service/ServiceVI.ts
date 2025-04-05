@@ -1,67 +1,67 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceVI: IService = {
-    title: "Tích hợp LLM/AI",
-    description: "CHORN chuyên về phát triển đại lý LLM/AI, cung cấp các giải pháp thông minh, phản hồi nhanh được thiết kế để đáp ứng nhu cầu cụ thể. Chuyên môn bao gồm các trang web có khả năng mở rộng, ứng dụng di động và hệ thống phần mềm full-stack. Trợ lý chuyên môn kỹ thuật <strong>được hỗ trợ bởi LLM</strong> thông qua LINE thể hiện khả năng của các mô hình ngôn ngữ lớn như ChatGPT, Perplexity và DeepSeek, giới thiệu các phương pháp tiếp cận sáng tạo để nâng cao sự hiện diện kỹ thuật số và hợp lý hóa hiệu quả hoạt động.",
+    title: "Tích Hợp LLM/AI",
+    description: "Chuyển đổi hoạt động kinh doanh với các giải pháp đại diện LLM/AI thông minh, phản hồi nhanh được thiết kế phù hợp với nhu cầu cụ thể. Phát triển backend mạnh mẽ đảm bảo xử lý dữ liệu đáng tin cậy, có khả năng mở rộng và bảo mật - yếu tố quan trọng để mang đến trải nghiệm người dùng liền mạch trên các trang web, ứng dụng di động và hệ thống phần mềm phức tạp. Trợ lý <strong>được hỗ trợ bởi LLM</strong> thông qua LINE minh họa cách các mô hình ngôn ngữ lớn như ChatGPT, Perplexity và DeepSeek có thể nâng cao tương tác kỹ thuật số và tối ưu hóa hoạt động cho cả doanh nghiệp và người dùng cuối.",
 
     services: [
         {
-            title: "Phát triển Đại lý LLM",
-            description: "Thiết kế và triển khai các đại lý AI thông minh được hỗ trợ bởi các LLM tiên tiến như ChatGPT và DeepSeek, tích hợp liền mạch với các hệ thống cũ của bạn để nâng cao tự động hóa và hiệu quả."
+            title: "Phát Triển Đại Diện LLM",
+            description: "Tận dụng các đại diện AI thông minh được hỗ trợ bởi LLM tiên tiến tích hợp liền mạch với các hệ thống hiện có, nâng cao tự động hóa và hiệu quả cho doanh nghiệp đồng thời cung cấp tương tác trực quan cho người dùng."
         },
         {
-            title: "Tích hợp Hệ thống Cũ",
-            description: "Hiện đại hóa các hệ thống hiện có bằng cách tích hợp khả năng AI tiên tiến, đảm bảo luồng dữ liệu trơn tru và chức năng được cải thiện."
+            title: "Tích Hợp Hệ Thống Hiện Có",
+            description: "Trải nghiệm hệ thống hiện đại hóa với khả năng AI tiên tiến đảm bảo luồng dữ liệu trơn tru và chức năng cải thiện, làm cho cơ sở hạ tầng hiện có có giá trị và hiệu quả hơn."
         },
         {
-            title: "Giải pháp LLM Tùy chỉnh",
-            description: "Phát triển các mô hình AI tùy chỉnh, tận dụng các LLM tiên tiến nhất để giải quyết các thách thức kinh doanh cụ thể và tối ưu hóa hoạt động."
+            title: "Giải Pháp LLM Tùy Chỉnh",
+            description: "Giải quyết các thách thức kinh doanh cụ thể và tối ưu hóa hoạt động với các mô hình AI tùy chỉnh tận dụng LLM tiên tiến, cung cấp giải pháp phù hợp đáp ứng yêu cầu độc đáo."
         },
         {
-            title: "Tự động hóa Quy trình làm việc bằng AI",
-            description: "Đơn giản hóa các tác vụ lặp đi lặp lại và tối ưu hóa quy trình làm việc bằng các giải pháp tự động hóa dựa trên AI để nâng cao năng suất."
+            title: "Tự Động Hóa Quy Trình Làm Việc AI",
+            description: "Tiết kiệm thời gian và tài nguyên bằng cách tối ưu hóa các tác vụ lặp đi lặp lại thông qua tự động hóa được hỗ trợ bởi AI, cho phép các đội tập trung vào các hoạt động giá trị cao hơn trong khi cải thiện năng suất tổng thể."
         },
         {
-            title: "Phân tích Dự đoán và Hiểu biết sâu sắc",
-            description: "Tận dụng AI để phân tích mẫu dữ liệu, dự báo xu hướng và cung cấp thông tin chi tiết có thể hành động để ra quyết định tốt hơn."
+            title: "Phân Tích Dự Đoán và Thông Tin Chi Tiết",
+            description: "Đưa ra quyết định kinh doanh tốt hơn với phân tích mẫu dữ liệu được hỗ trợ bởi AI dự đoán xu hướng và cung cấp thông tin chi tiết khả thi, biến dữ liệu thô thành lợi thế chiến lược."
         }
     ],
 
     demo: {
-        title: "Demo Tích hợp LLM/AI",
-        description: "Chào mừng đến với Trợ lý Chat AI, một bản demo về tích hợp được hỗ trợ bởi AI. Khám phá nhiều trợ lý AI, " +
-            "mỗi trợ lý có tính cách độc đáo, được thiết kế để tương tác liền mạch với người dùng thông qua ứng dụng LINE. " +
-            "Các trợ lý AI này có thể giao tiếp bằng nhiều ngôn ngữ, bao gồm tiếng Thái, tiếng Anh, tiếng Trung, " +
-            "tiếng Nhật, tiếng Hàn, tiếng Pháp và tiếng Việt.",
+        title: "Tích Hợp LLM/AI với LINE",
+        description: "Trải nghiệm tích hợp LLM/AI với LINE được hỗ trợ bởi AI. Khám phá nhiều trợ lý AI, " +
+            "mỗi trợ lý có tính cách độc đáo, được thiết kế để tương tác liền mạch qua ứng dụng LINE. " +
+            "Các trợ lý AI này giao tiếp bằng nhiều ngôn ngữ, bao gồm tiếng Thái, Anh, Trung, " +
+            "Nhật, Hàn, Pháp và Việt.",
         link: {
-            text: "Xem demo của chúng tôi trực tiếp trên <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
+            text: "Xem bản demo trên <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
             href: "https://vt.tiktok.com/ZS6X8PfDT/"
         },
         procedure: {
             title: "Cách Thức Hoạt Động",
             steps: [
                 {
-                    title: "Chọn Trợ lý AI của bạn",
-                    description: "Duyệt qua danh sách các trợ lý AI có sẵn và chọn trợ lý bạn thích nhất."
+                    title: "Chọn Trợ Lý AI của Bạn",
+                    description: "Duyệt qua danh sách trợ lý AI có sẵn và chọn trợ lý bạn thích nhất."
                 },
                 {
-                    title: "Thêm AI làm bạn",
-                    description: "Nhấp vào nút 'Thêm bạn' cho AI bạn đã chọn hoặc sử dụng ứng dụng LINE để quét mã QR được cung cấp."
+                    title: "Thêm AI làm Bạn",
+                    description: "Nhấp vào nút 'Thêm Bạn' cho AI bạn đã chọn hoặc sử dụng ứng dụng LINE để quét mã QR được cung cấp."
                 },
                 {
-                    title: "Bắt đầu trò chuyện",
+                    title: "Bắt Đầu Trò Chuyện",
                     description: "Bắt đầu cuộc trò chuyện với AI. Ngôn ngữ mặc định là tiếng Thái, nhưng AI sẽ phản hồi bằng ngôn ngữ của bạn cùng với bản dịch tiếng Thái."
                 },
                 {
-                    title: "Thêm nhiều trợ lý",
-                    description: "Hãy thoải mái kết nối với tất cả các trợ lý AI có sẵn và tận hưởng các tương tác đa dạng."
+                    title: "Thêm Nhiều Trợ Lý",
+                    description: "Kết nối với tất cả trợ lý AI có sẵn và tận hưởng các tương tác đa dạng."
                 }
             ]
         },
         note: [
             {
                 title: "Lưu ý",
-                description: "Demo này đang chạy trên máy chủ thử nghiệm. Nếu AI không phản hồi tin nhắn đầu tiên của bạn, vui lòng gửi thêm tin nhắn cho đến khi nó phản hồi."
+                description: "Bản demo này đang chạy trên máy chủ thử nghiệm. Nếu AI không phản hồi tin nhắn đầu tiên của bạn, vui lòng gửi thêm tin nhắn cho đến khi nó phản hồi."
             },
             {
                 title: "",

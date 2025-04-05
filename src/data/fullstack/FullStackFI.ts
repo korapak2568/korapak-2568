@@ -7,8 +7,8 @@ import {GoFI} from "@/data/fullstack/frameworks/go/GoFI";
 import {DotnetFI} from "@/data/fullstack/frameworks/dotnet/DotnetFI";
 
 export const FullStackFI: IFullStack = {
-    title: "Back-End & API Kokemus",
-    span: "Back-End & API Kehityskokemus",
+    title: "Back-End-kehitys",
+    span: "Back-End-kehityskokemus",
     subTitle: "",
 
     dotnetcore: DotnetFI,
@@ -21,34 +21,33 @@ export const FullStackFI: IFullStack = {
     stacks: [],
 
     services: {
-        title: "Back-End- ja API-kehitys",
+        title: "Back-End-kehitys",
         descriptions: [
-            "Rakenna tehokkaita, turvallisia ja skaalautuvia verkkosovelluksia asiantuntevilla full-stack-kehityspalveluillamme. Kehittäjämme erikoistuvat sekä front-end- että back-end-teknologioihin, luoden kattavia ratkaisuja, jotka on räätälöity liiketoimintasi tarpeiden mukaan. CHORNin tekninen asiantuntemus kattaa useita teknologiapinoja, kuten Node.js, .NET Core C#, Java Spring Boot, Python, Go ja PHP, joten pystymme käsittelemään projekteja kaikessa monimutkaisuudessa. Olipa kyseessä alkuperäisen Proof of Concept (PoC) -version julkaisu tai markkinavalmiin Minimum Viable Product (MVP) -version kehittäminen, tiimimme varmistaa saumattoman integraation käyttöliittymien ja palvelinpuolen toiminnallisuuden välillä erinomaisen käyttäjäkokemuksen takaamiseksi."
+            "Back-end-kehitys on olennainen perusta tehokkaille, turvallisille ja skaalautuville verkkosovelluksille. Tämä taustajärjestelmä on välttämätön tietojenkäsittelyä, tietokantojen hallintaa ja turvallisuutta varten, mahdollistaen yritysten palvella monia käyttäjiä samanaikaisesti, luoda saumattomia kokemuksia ja suojata kriittisiä tietoja. Teknologioihin kuuluvat Node.js, Java Spring Boot, Python, Go, PHP ja .NET Core, jotka pystyvät vastaamaan kaikenlaisten projektien tarpeisiin, konseptitodistuksesta (PoC) markkinakelpoisen minimituotteen (MVP) kehittämiseen. Käyttöliittymien ja palvelinpuolen toiminnallisuuden saumaton integraatio tarjoaa käyttäjille ylivertaisia kokemuksia ja auttaa yrityksiä saavuttamaan tavoitteensa tehokkaasti."
         ],
         items: [
             {
-                title: "Saumaton front-end ja back-end integraatio",
-                description: "Kehitä yhtenäisiä verkkosovelluksia, joissa asiakas- ja palvelinkomponentit ovat täydellisesti synkronoituja tarjoten nopeutta, turvallisuutta ja skaalautuvuutta."
+                title: "Saumaton Front-End- ja Back-End-integraatio",
+                description: "Yhtenäiset verkkosovellukset täydellisesti synkronoiduilla asiakas- ja palvelinkomponenteilla, jotka tarjoavat nopeutta, turvallisuutta ja skaalautuvuutta."
             },
             {
-                title: "Kattava SEO- ja suorituskykyoptimointi",
-                description: "Paranna verkkosivustosi hakukonenäkyvyyttä ja käyttäjäkokemusta optimoidulla koodirakenteella, nopeammilla latausajoilla ja tehokkaalla resurssien hallinnalla."
+                title: "Kokonaisvaltainen SEO- ja suorituskyvyn optimointi",
+                description: "Parannettu hakukonenäkyvyys ja käyttäjäkokemus optimoidun koodirakenteen, nopeampien latausaikojen ja tehokkaan resurssienhallinnan avulla."
             },
             {
-                title: "Vahva automaattinen testaus",
-                description: "Varmista sovelluksen luotettavuus ja vakaus kattavilla testauskehyksillä, jotka on integroitu koko kehityssyklin ajan."
+                title: "Vahva automaatiotestaus",
+                description: "Luotettavat ja vakaat sovellukset kattavilla testikehyksillä, jotka on integroitu koko kehityssykliin."
             },
             {
-                title: "Edistynyt tietokannan hallinta",
-                description: "Rakenna ja hallitse tietojasi tehokkaasti optimoiduilla tietokantaratkaisuilla, kuten MySQL, MongoDB, PostgreSQL ja muilla johtavilla teknologioilla."
+                title: "Edistynyt tietokantojen hallinta",
+                description: "Tehokkaasti jäsennellyt ja hallitut tiedot optimoiduilla tietokantaratkaisuilla, mukaan lukien MySQL, MongoDB, PostgreSQL ja muut johtavat teknologiat."
             },
             {
-                title: "Yritystason pilvipalvelut",
-                description: "Ota sovelluksesi käyttöön ja skaalaa niitä tehokkaasti käyttäen AWS, Azure, Google Cloud tai muita pilvialustoja optimoiduilla infrastruktuurikonfiguraatioilla."
+                title: "Yrityskäyttöön soveltuvat pilvipalvelut",
+                description: "Tehokkaasti käyttöönotetut ja skaalatut sovellukset AWS-, Azure-, Google Cloud- tai muilla pilvipalvelualustoilla optimoiduilla infrastruktuurikonfiguraatioilla."
             }
         ]
     }
-
 }
 
 FullStackFI.stacks = [

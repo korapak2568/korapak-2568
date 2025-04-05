@@ -2,21 +2,21 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const DotnetNL: IFullStackStack = {
-    title: ".NET Core C#",
-    description: ".NET Core C# is een veelzijdig, open-source, platformonafhankelijk framework ontwikkeld door Microsoft. Het stelt ontwikkelaars in staat om moderne, krachtige en schaalbare applicaties te bouwen voor verschillende platformen, waaronder Windows, macOS en Linux. Met ondersteuning voor het bouwen van webapplicaties, API's en microservices biedt .NET Core C# een robuuste omgeving voor oplossingen op bedrijfsniveau.",
+    title: ".NET Core",
+    description: ".NET Core is een veelzijdig, open-source, platformonafhankelijk framework ontwikkeld door Microsoft. Het stelt ontwikkelaars in staat om moderne, krachtige en schaalbare applicaties te bouwen voor verschillende platformen, waaronder Windows, macOS en Linux. Met ondersteuning voor het bouwen van webapplicaties, API's en microservices biedt .NET Core een robuuste omgeving voor oplossingen op bedrijfsniveau.",
     image: ImageUrl.fullstackThumbnails.dotnetcore.path,
     alt: "Logo dat de .NET Core API-ontwikkeling vertegenwoordigt",
     readMore: "Verken meer .NET Core API full-stack ontwikkelingsoplossingen",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",
     features: [
         {
-            title: "C# .NET Core Ontwikkeling",
-            description: ".NET Core C# is een krachtig open-source framework voor het bouwen van hoogwaardige applicaties. Met een modulair ontwerp en ondersteuning voor verschillende programmeertalen is .NET Core C# ideaal voor het ontwikkelen van schaalbare webapplicaties, API's en microservices die op elk platform kunnen draaien.",
+            title: ".NET Core Ontwikkeling",
+            description: ".NET Core is een krachtig open-source framework voor het bouwen van hoogwaardige applicaties. Met een modulair ontwerp en ondersteuning voor verschillende programmeertalen is .NET Core ideaal voor het ontwikkelen van schaalbare webapplicaties, API's en microservices die op elk platform kunnen draaien.",
             list: []
         },
         {
-            title: "ASP.NET Core C#",
-            description: "ASP.NET Core C# is een platformonafhankelijk, krachtig framework voor het bouwen van moderne, op de cloud gebaseerde en internetverbonden applicaties. Het is bijzonder geschikt voor het bouwen van webapplicaties, API's en microservices met een focus op prestaties, beveiliging en schaalbaarheid.",
+            title: "ASP.NET Core",
+            description: "ASP.NET Core is een platformonafhankelijk, krachtig framework voor het bouwen van moderne, op de cloud gebaseerde en internetverbonden applicaties. Het is bijzonder geschikt voor het bouwen van webapplicaties, API's en microservices met een focus op prestaties, beveiliging en schaalbaarheid.",
             list: [
                 "Platformonafhankelijk",
                 "Hoge prestaties",
@@ -33,8 +33,8 @@ export const DotnetNL: IFullStackStack = {
             list: []
         },
         {
-            title: "C# .NET Core",
-            description: "C# .NET Core is de primaire taal die wordt gebruikt voor het ontwikkelen van applicaties in .NET Core C#. Bekend om zijn eenvoud, veelzijdigheid en moderne functies, stelt C# ontwikkelaars in staat om robuuste, onderhoudbare en schaalbare applicaties gemakkelijk te bouwen.",
+            title: ".NET Core",
+            description: ".NET Core is de primaire taal die wordt gebruikt voor het ontwikkelen van applicaties in .NET Core. Bekend om zijn eenvoud, veelzijdigheid en moderne functies, stelt C# ontwikkelaars in staat om robuuste, onderhoudbare en schaalbare applicaties gemakkelijk te bouwen.",
             list: [
                 "Moderne syntaxis",
                 "Objectgeoriënteerd",
@@ -48,16 +48,16 @@ export const DotnetNL: IFullStackStack = {
     ],
     faqs: [
         {
-            question: "Wat is .NET Core C#?",
-            answer: ".NET Core C# is een open-source framework voor het bouwen van moderne applicaties die draaien op Windows, macOS en Linux."
+            question: "Wat is .NET Core?",
+            answer: ".NET Core is een open-source framework voor het bouwen van moderne applicaties die draaien op Windows, macOS en Linux."
         },
         {
-            question: "Waarvoor wordt ASP.NET Core C# gebruikt?",
-            answer: "ASP.NET Core C# is een framework voor het bouwen van webapplicaties, API's en microservices met hoge prestaties en platformonafhankelijke mogelijkheden."
+            question: "Waarvoor wordt ASP.NET Core gebruikt?",
+            answer: "ASP.NET Core is een framework voor het bouwen van webapplicaties, API's en microservices met hoge prestaties en platformonafhankelijke mogelijkheden."
         },
         {
-            question: "Waarom is C# .NET Core een goede keuze voor ontwikkeling?",
-            answer: "C# is een moderne, veelzijdige programmeertaal die een breed scala aan functies biedt, waardoor het ideaal is voor het ontwikkelen van schaalbare, onderhoudbare applicaties in .NET Core C#."
+            question: "Waarom is .NET Core een goede keuze voor ontwikkeling?",
+            answer: "C# is een moderne, veelzijdige programmeertaal die een breed scala aan functies biedt, waardoor het ideaal is voor het ontwikkelen van schaalbare, onderhoudbare applicaties in .NET Core."
         }
     ],
 }

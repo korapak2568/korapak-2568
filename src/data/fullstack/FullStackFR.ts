@@ -7,8 +7,8 @@ import {GoFR} from "@/data/fullstack/frameworks/go/GoFR";
 import {DotnetFR} from "@/data/fullstack/frameworks/dotnet/DotnetFR";
 
 export const FullStackFR: IFullStack = {
-    title: "Expérience Back-End & API",
-    span: "Expérience en développement Back-End & API",
+    title: "Développement Back-End",
+    span: "Expérience en Développement Back-End",
     subTitle: "",
 
     dotnetcore: DotnetFR,
@@ -21,30 +21,30 @@ export const FullStackFR: IFullStack = {
     stacks: [],
 
     services: {
-        title: "Développement Back-End & API",
+        title: "Développement Back-End",
         descriptions: [
-            "Construisez des applications web puissantes, sécurisées et évolutives grâce à nos services experts de développement full-stack. Nos développeurs excellent dans les technologies front-end et back-end, créant des solutions complètes adaptées à vos besoins professionnels spécifiques. L'expertise technique de CHORN couvre plusieurs piles technologiques, notamment Node.js, .NET Core C#, Java Spring Boot, Python, Go et PHP, nous permettant de gérer des projets de toute complexité. Que vous lanciez une preuve de concept initiale (PoC) ou que vous développiez un produit minimum viable (MVP) prêt pour le marché, notre équipe qualifiée assure une intégration transparente entre les interfaces utilisateur et les fonctionnalités côté serveur pour une expérience utilisateur exceptionnelle."
+            "Le développement back-end constitue la fondation essentielle des applications web puissantes, sécurisées et évolutives. Ce système en coulisses est nécessaire pour le traitement des données, la gestion des bases de données et la sécurité, permettant aux entreprises d'accueillir de nombreux utilisateurs simultanément, de créer des expériences fluides et de protéger les informations critiques. Les technologies couvertes comprennent Node.js, Java Spring Boot, Python, Go, PHP et .NET Core, capables de répondre aux besoins de projets de tous niveaux de complexité, de la preuve de concept (PoC) au produit minimum viable (MVP) prêt pour le marché. L'intégration harmonieuse entre les interfaces utilisateur et les fonctionnalités côté serveur offre aux utilisateurs des expériences supérieures et aide les entreprises à atteindre efficacement leurs objectifs."
         ],
         items: [
             {
                 title: "Intégration Transparente Front-End & Back-End",
-                description: "Développez des applications web cohérentes avec des composants client et serveur parfaitement synchronisés qui offrent rapidité, sécurité et évolutivité."
+                description: "Applications web cohésives avec des composants client et serveur parfaitement synchronisés offrant vitesse, sécurité et évolutivité."
             },
             {
-                title: "Optimisation Complète du SEO & des Performances",
-                description: "Améliorez la visibilité de votre site web sur les moteurs de recherche et l'expérience utilisateur grâce à une structure de code optimisée, des temps de chargement plus rapides et une gestion efficace des ressources."
+                title: "Optimisation Complète du SEO et des Performances",
+                description: "Visibilité améliorée dans les moteurs de recherche et expérience utilisateur optimisée grâce à une structure de code optimisée, des temps de chargement plus rapides et une gestion efficace des ressources."
             },
             {
-                title: "Tests Automatisés Robustes",
-                description: "Assurez la fiabilité et la stabilité des applications avec des cadres de test complets intégrés tout au long du cycle de développement."
+                title: "Tests d'Automatisation Robustes",
+                description: "Applications fiables et stables avec des frameworks de test complets intégrés tout au long du cycle de développement."
             },
             {
-                title: "Gestion Avancée de Bases de Données",
-                description: "Structurez et gérez efficacement vos données avec des solutions de bases de données optimisées, notamment MySQL, MongoDB, PostgreSQL et autres technologies de pointe."
+                title: "Gestion Avancée des Bases de Données",
+                description: "Données structurées et gérées efficacement avec des solutions de bases de données optimisées, notamment MySQL, MongoDB, PostgreSQL et d'autres technologies de pointe."
             },
             {
                 title: "Services Cloud de Niveau Entreprise",
-                description: "Déployez et faites évoluer vos applications efficacement en utilisant AWS, Azure, Google Cloud ou d'autres plateformes cloud avec des configurations d'infrastructure optimisées."
+                description: "Applications déployées et mises à l'échelle efficacement à l'aide d'AWS, Azure, Google Cloud ou d'autres plateformes cloud avec des configurations d'infrastructure optimisées."
             }
         ]
     }

@@ -4,41 +4,130 @@ export const CloudSolutionFR: ICloudSolution = {
     title: "Migration vers le Cloud",
     descriptions: [
         {
-            title: "",
-            span: "",
-            description: "Libérez tout le potentiel de l'infrastructure cloud grâce à l'analyse système d'architecture de solution experte",
+            title: "Transformer les Opérations Commerciales",
+            span: "Accélérer la Transformation Numérique",
+            description: "Libérez tout le potentiel de l'infrastructure cloud grâce à une architecture stratégique et une analyse de système qui offrent des résultats commerciaux mesurables.",
+            features: []
         },
         {
-            title: "",
-            span: "",
-            description: "Dans le paysage numérique en rapide évolution d'aujourd'hui, la création de systèmes résilients, évolutifs et pérennes nécessite une expertise technique approfondie et une vision stratégique. Nos services d'architecte de solutions et d'analyste système sont conçus pour vous guider à travers des décisions complexes d'architecture cloud, garantissant des performances optimales, la sécurité et la rentabilité pour votre entreprise.",
+            title: "Prise de Décision Basée sur les Données",
+            span: "Stack Technologique Pérenne",
+            description: "Dans le paysage numérique en rapide évolution d'aujourd'hui, des systèmes résilients, évolutifs et pérennes permettent aux entreprises de répondre rapidement aux changements du marché tout en maintenant l'excellence opérationnelle. L'architecture cloud stratégique garantit des performances optimales, une sécurité renforcée et une rentabilité tout en soutenant les objectifs de croissance de l'entreprise.",
+            features: []
         },
+    ],
+    benefits: [
+        "Réduction des coûts d'infrastructure grâce à une allocation optimisée des ressources",
+        "Amélioration de l'agilité commerciale avec des capacités de déploiement rapide",
+        "Sécurité des données renforcée avec des cadres de conformité aux normes de l'industrie",
+        "Reprise après sinistre simplifiée grâce à des solutions de sauvegarde automatisées",
+        "Performances accrues des applications pour de meilleures expériences utilisateur",
+        "Évolutivité transparente pour soutenir la croissance de l'entreprise",
+        "Innovation continue grâce aux dernières technologies cloud"
     ],
     sections: [
         {
-            title: "Choisir le cloud adapté",
-            span: "",
-            description: "CHORN possède une expérience dans l'amélioration des infrastructures existantes pour la migration vers le cloud, la mise en place de nouveaux systèmes sur le cloud dès le début des projets, l'utilisation des principaux fournisseurs de cloud mondiaux tels qu'AWS, Azure, Google Cloud Platform (GCP) et DigitalOcean, et la conception de solutions qui s'intègrent parfaitement à vos objectifs commerciaux, que ce soit dans des environnements cloud natifs, hybrides ou multi-cloud.",
+            title: "Sélection Stratégique du Cloud",
+            span: "Infrastructure Cloud Sur Mesure",
+            description: "Le succès de la migration vers le cloud dépend de la sélection de la bonne plateforme pour les besoins spécifiques de l'entreprise. Qu'il s'agisse d'améliorer l'infrastructure existante ou de construire de nouveaux systèmes à partir de zéro, l'environnement cloud idéal s'aligne parfaitement avec les objectifs commerciaux. Les environnements cloud natifs, hybrides ou multi-cloud offrent chacun des avantages distincts selon les besoins d'évolutivité, les exigences de conformité et les objectifs opérationnels.",
         },
         {
             title: "AWS",
-            span: "AWS : La puissance de la flexibilité et de l'évolutivité",
-            description: "Exploitez les capacités robustes d'Amazon Web Services (AWS) pour faire évoluer dynamiquement votre infrastructure. Nous aidons les entreprises à déployer des architectures sans serveur, à tirer parti d'AWS Lambda pour les microservices et à optimiser le stockage avec S3. Notre objectif est de garantir que vos systèmes restent agiles, rentables et hautement sécurisés en utilisant la vaste gamme de services d'AWS.",
+            span: "AWS: Flexibilité et Évolutivité pour les Entreprises",
+            description: "Amazon Web Services (AWS) fournit une infrastructure à mise à l'échelle dynamique qui s'adapte aux demandes fluctuantes des entreprises. Les organisations bénéficient d'architectures sans serveur qui éliminent les préoccupations liées à la gestion de l'infrastructure, de fonctions Lambda qui permettent un déploiement efficace des microservices, et d'une optimisation du stockage S3 qui réduit les coûts tout en améliorant les performances. Ces capacités garantissent que les systèmes restent agiles, rentables et hautement sécurisés, donnant aux parties prenantes une tranquillité d'esprit tout en offrant des expériences utilisateur exceptionnelles.",
+            features: [
+                "Architecture sans serveur avec AWS Lambda",
+                "Conteneurisation avec Amazon EKS et ECS",
+                "Infrastructure en tant que Code avec CloudFormation et CDK",
+                "Migration de bases de données avec DMS",
+                "Pipelines CI/CD automatisés avec CodePipeline",
+                "Architectures pilotées par événements avec EventBridge",
+                "Optimisation des coûts grâce au AWS Well-Architected Framework"
+            ]
         },
         {
             title: "Azure",
-            span: "Azure : Intégration transparente pour entreprises",
-            description: "Microsoft Azure est le choix idéal pour les entreprises qui cherchent à moderniser les systèmes existants ou à adopter des solutions de cloud hybride. Nous aidons à construire des solutions de bout en bout qui intègrent l'analytique avancée, l'IA et la sécurité de niveau entreprise. Nos services comprennent tout, de la configuration de machines virtuelles à la configuration de pipelines de données complexes, vous aidant à utiliser pleinement les capacités d'Azure.",
+            span: "Azure: Intégration Transparente pour les Entreprises",
+            description: "Microsoft Azure excelle dans la modernisation des systèmes hérités et la mise en œuvre de solutions cloud hybrides pour les entreprises établies. Des solutions de bout en bout incorporant des analyses avancées, l'intelligence artificielle et la sécurité de niveau entreprise transforment les opérations commerciales et créent des expériences client exceptionnelles. Des déploiements de machines virtuelles aux pipelines de données complexes, la plateforme complète d'Azure permet la transformation numérique tout en maintenant la continuité des activités.",
+            features: [
+                "Modernisation des systèmes hérités avec Azure App Service",
+                "Connectivité hybride avec Azure Arc",
+                "Applications conteneurisées avec Azure Kubernetes Service",
+                "Calcul sans serveur avec Azure Functions",
+                "Implémentation DevSecOps avec Azure DevOps",
+                "Gestion des identités avec Azure Active Directory",
+                "Analyses en temps réel avec Azure Synapse"
+            ]
         },
         {
             title: "GCP",
-            span: "GCP : Analyses avancées et intégration de l'IA",
-            description: "Google Cloud Platform (GCP) offre des capacités inégalées en matière de big data, d'apprentissage automatique et de solutions basées sur l'IA. Notre expertise en GCP vous aide à exploiter de puissantes analyses de données, à automatiser les flux de travail et à rationaliser les processus commerciaux complexes. Nous veillons également à ce que votre infrastructure cloud soit optimisée tant pour les performances que pour la rentabilité.",
+            span: "GCP: Analyses Avancées et Intégration IA",
+            description: "Google Cloud Platform (GCP) offre des capacités inégalées dans le traitement de données volumineuses, la mise en œuvre de l'apprentissage automatique et le développement de solutions basées sur l'IA. Les organisations acquièrent des avantages concurrentiels grâce à des analyses de données puissantes qui révèlent des informations commerciales, l'automatisation des flux de travail qui augmente l'efficacité opérationnelle, et des processus commerciaux rationalisés qui réduisent les coûts. L'optimisation des performances associée à une infrastructure rentable assure un retour maximal sur l'investissement cloud tout en fournissant aux utilisateurs finaux des applications réactives et intelligentes.",
+            features: [
+                "Opérations d'apprentissage automatique avec Vertex AI",
+                "Traitement de données volumineuses avec BigQuery et Dataflow",
+                "Conteneurisation avec Google Kubernetes Engine",
+                "Calcul sans serveur avec Cloud Functions et Cloud Run",
+                "Gestion des API avec Apigee",
+                "Automatisation DevOps avec Cloud Build",
+                "Analyses intelligentes avec Looker"
+            ]
         },
         {
             title: "DigitalOcean",
-            span: "DigitalOcean : Cloud simple et puissant pour startups et PME",
-            description: "Pour les startups et les petites et moyennes entreprises (PME), DigitalOcean offre une plateforme cloud simple mais puissante. Nous aidons au déploiement d'applications web évolutives, de bases de données et d'autres solutions cloud sur l'infrastructure de DigitalOcean, en mettant l'accent sur la simplicité et les outils adaptés aux développeurs.",
+            span: "DigitalOcean: Solutions Rentables pour la Croissance",
+            description: "Les startups et les petites et moyennes entreprises (PME) bénéficient de la plateforme cloud simple mais puissante de DigitalOcean. Des applications web évolutives, des bases de données gérées et des déploiements conteneurisés fournissent la base technique pour la croissance des entreprises sans complexité inutile. Des outils conviviaux pour les développeurs accélèrent les cycles de développement tout en maintenant la rentabilité, permettant aux entreprises de se concentrer sur l'innovation plutôt que sur la gestion de l'infrastructure.",
+            features: [
+                "Clusters Kubernetes gérés pour l'orchestration de conteneurs",
+                "App Platform pour un déploiement PaaS simplifié",
+                "Bases de données gérées avec sauvegardes automatisées",
+                "Stockage d'objets Spaces pour médias et ressources",
+                "Équilibrage de charge pour applications à haute disponibilité",
+                "Surveillance et alertes avec outils intégrés",
+                "CDN mondial pour une meilleure expérience utilisateur"
+            ]
         },
+    ],
+    migrationProcess: [
+        {
+            phase: "Évaluation et Planification",
+            description: "Analyse complète de l'infrastructure existante, des dépendances d'applications et des exigences commerciales pour développer une stratégie de migration sur mesure.",
+            outcomes: [
+                "Évaluation détaillée de la préparation au cloud",
+                "Analyse du coût total de possession et projections de ROI",
+                "Stratégies d'atténuation des risques",
+                "Feuille de route de migration hiérarchisée"
+            ]
+        },
+        {
+            phase: "Conception et Architecture",
+            description: "Création de plans d'architecture cloud optimisés qui s'alignent avec les objectifs commerciaux tout en garantissant la sécurité, les performances et la rentabilité.",
+            outcomes: [
+                "Diagrammes d'architecture d'état futur",
+                "Cadres de sécurité et de conformité",
+                "Plans de reprise après sinistre",
+                "Stratégies d'optimisation des ressources"
+            ]
+        },
+        {
+            phase: "Migration et Implémentation",
+            description: "Transfert systématique des applications, des données et des charges de travail vers l'environnement cloud avec une perturbation minimale des activités.",
+            outcomes: [
+                "Exécution de migration sans temps d'arrêt",
+                "Validation de l'intégrité des données",
+                "Tests de performance",
+                "Documentation de transfert opérationnel"
+            ]
+        },
+        {
+            phase: "Optimisation et Gestion",
+            description: "Amélioration continue de l'infrastructure cloud pour maximiser les performances, la sécurité et la rentabilité.",
+            outcomes: [
+                "Politiques de mise à l'échelle automatisées",
+                "Recommandations d'optimisation des coûts",
+                "Stratégies d'amélioration des performances",
+                "Renforcement de la posture de sécurité"
+            ]
+        }
     ]
 }

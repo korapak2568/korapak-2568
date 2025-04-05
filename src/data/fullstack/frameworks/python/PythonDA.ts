@@ -2,21 +2,21 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/data/image/ImageUrl";
 
 export const PythonDA: IFullStackStack = {
-    title: ".NET Core C#",
-    description: ".NET Core C# is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core C# provides a robust environment for enterprise-level solutions.",
+    title: ".NET Core",
+    description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
     image: ImageUrl.fullstackThumbnails.python.path,
     alt: "Logo representing .NET Core API development",
     readMore: "Explore more .NET Core API full-stack development solutions",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",
     features: [
         {
-            title: "C# .NET Core Development",
-            description: ".NET Core C# is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core C# is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
+            title: ".NET Core Development",
+            description: ".NET Core is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
             list: []
         },
         {
-            title: "ASP.NET Core C#",
-            description: "ASP.NET Core C# is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It is particularly suited for building web applications, APIs, and microservices with a focus on performance, security, and scalability.",
+            title: "ASP.NET Core",
+            description: "ASP.NET Core is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It is particularly suited for building web applications, APIs, and microservices with a focus on performance, security, and scalability.",
             list: [
                 "Cross-platform",
                 "High performance",
@@ -33,8 +33,8 @@ export const PythonDA: IFullStackStack = {
             list: []
         },
         {
-            title: "C# .NET Core",
-            description: "C# .NET Core is the primary language used for developing applications in .NET Core C#. Known for its simplicity, versatility, and modern features, C# allows developers to build robust, maintainable, and scalable applications with ease.",
+            title: ".NET Core",
+            description: ".NET Core is the primary language used for developing applications in .NET Core. Known for its simplicity, versatility, and modern features, C# allows developers to build robust, maintainable, and scalable applications with ease.",
             list: [
                 "Modern syntax",
                 "Object-oriented",
@@ -48,16 +48,16 @@ export const PythonDA: IFullStackStack = {
     ],
     faqs: [
         {
-            question: "What is .NET Core C#?",
-            answer: ".NET Core C# is an open-source, cross-platform framework for building modern applications that run on Windows, macOS, and Linux."
+            question: "What is .NET Core?",
+            answer: ".NET Core is an open-source, cross-platform framework for building modern applications that run on Windows, macOS, and Linux."
         },
         {
-            question: "What is ASP.NET Core C# used for?",
-            answer: "ASP.NET Core C# is a framework for building web applications, APIs, and microservices with high performance and cross-platform capabilities."
+            question: "What is ASP.NET Core used for?",
+            answer: "ASP.NET Core is a framework for building web applications, APIs, and microservices with high performance and cross-platform capabilities."
         },
         {
-            question: "What makes C# .NET Core a good choice for development?",
-            answer: "C# is a modern, versatile programming language that offers a wide range of features, making it ideal for developing scalable, maintainable applications in .NET Core C#."
+            question: "What makes .NET Core a good choice for development?",
+            answer: "C# is a modern, versatile programming language that offers a wide range of features, making it ideal for developing scalable, maintainable applications in .NET Core."
         }
     ],
 }

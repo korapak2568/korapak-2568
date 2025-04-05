@@ -1,30 +1,30 @@
 import {IWeb3} from "@/data/web3/model/IWeb3";
 
 export const Web3NL: IWeb3 = {
-    title: "Web3- en Blockchain-ontwikkeling",
-    span: "Uitstekende test- en DevOps-oplossingen",
-    subTitle: "Versterk de toekomst met gedecentraliseerde technologie",
+    title: "Web3 Blockchain Ontwikkeling",
+    span: "Gedecentraliseerde Technologieoplossingen",
+    subTitle: "De toekomst versterken met gedecentraliseerde technologie",
 
     services: {
-        title: "Web3- en Blockchain-ontwikkeling",
+        title: "Web3 Blockchain Ontwikkeling",
         descriptions: [
-            "CHORN is geïnteresseerd in leren, adviseren en staat klaar om projecten te beheren die verband houden met Web3-technologie, blockchain, de ontwikkeling van gedecentraliseerde applicaties (dApps), de ontwikkeling van smart contracts voor klanten die advies nodig hebben en om gedecentraliseerde financiële platforms (DeFi), NFT-markten of dApps te ontwikkelen.",
+            "Web3-technologie en blockchainsystemen bieden ongekende niveaus van transparantie, veiligheid en gebruikersautonomie die niet mogelijk zijn met traditionele gecentraliseerde toepassingen. Deze gedecentraliseerde oplossingen elimineren single points of failure, verminderen afhankelijkheden van derden en geven gebruikers directe controle over hun digitale activa en gegevens. De onveranderlijke grootboektechnologie van blockchain zorgt voor transactie-integriteit, terwijl smart contracts vertrouwde processen automatiseren zonder tussenpersonen, wat de kosten aanzienlijk vermindert en de operationele efficiëntie verhoogt. Voor bedrijven en eindgebruikers maken deze technologieën nieuwe inkomstenmodellen, tokenized eigendom van activa en naadloze wereldwijde waardeoverdracht tussen voorheen geïsoleerde systemen mogelijk.",
 
-            "Ontwikkelt en onderzoekt het creëren van Web3-applicaties, het gebruik van Solidity voor Ethereum- en Polygon-netwerken, evenals het gebruik van gerelateerde technologieën zoals Hardhat en Ganache om de ontwikkeling, het testen en het efficiënt beheer van blockchain-projecten te ondersteunen."
+            "De combinatie van Ethereum, Polygon en andere blockchainnetwerken met ontwikkelingstools zoals Hardhat en Ganache creëert een robuuste omgeving voor het bouwen van veerkrachtige gedecentraliseerde applicaties. Deze technologieën ondersteunen schaalbare, gas-efficiënte oplossingen die veiligheid en gebruiksgemak in balans brengen, waardoor echt digitaal eigendom en nieuwe vormen van samenwerking in een trustless omgeving mogelijk zijn."
         ],
         items: [
             {
                 title: "Smart Contract Ontwikkeling",
-                description: "Ontwerp, ontwikkeling en veiligheidsaudits van smart contracts met Solidity"
+                description: "Veilige, controleerbare en transparante geautomatiseerde overeenkomsten die zonder tussenpersonen worden uitgevoerd, operationele kosten verlagen en tegenpartijrisico elimineren door onveranderlijke code-uitvoering."
             },
             {
-                title: "DeFi- en NFT-platforms",
-                description: "Ontwikkeling van gedecentraliseerde financiële platforms, NFT-markten en andere blockchain-oplossingen volgens zakelijke behoeften"
+                title: "DeFi en NFT Platforms",
+                description: "Toegankelijke financiële diensten en digitale activamarkten die 24/7 functioneren zonder gecentraliseerde controle, waardoor wereldwijde deelname, fractioneel eigendom en nieuwe monetisatiemogelijkheden mogelijk zijn."
             },
             {
-                title: "Full-Stack dApp-ontwikkeling",
-                description: "Bouwen van Web3-applicaties die naadloos integreren met blockchain"
-            },
+                title: "Full-Stack dApp Ontwikkeling",
+                description: "End-to-end gedecentraliseerde applicaties die de privacy van gebruikers beschermen, bestand zijn tegen censuur en naadloze integratie bieden tussen traditionele webinterfaces en blockchain-infrastructuur."
+            }
         ]
     }
 };

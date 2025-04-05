@@ -2,70 +2,70 @@ import {IService} from "@/data/service/model/IService";
 
 export const ServiceFR: IService = {
     title: "Intégration LLM/IA",
-    description: "CHORN est spécialisé dans le développement d'agents LLM/IA, fournissant des solutions intelligentes et réactives adaptées pour répondre à des besoins spécifiques. L'expertise inclut des sites web évolutifs, des applications mobiles et des systèmes logiciels full-stack. L'assistant technique <strong>alimenté par LLM</strong> via LINE démontre les capacités des grands modèles de langage comme ChatGPT, Perplexity et DeepSeek, présentant des approches innovantes pour améliorer la présence numérique et rationaliser l'efficacité opérationnelle.",
+    description: "Transformez les opérations commerciales grâce à des solutions d'agents LLM/IA intelligentes et réactives adaptées à des besoins spécifiques. Un développement backend robuste garantit un traitement des données fiable, évolutif et sécurisé - essentiel pour offrir des expériences utilisateur fluides sur les sites web, les applications mobiles et les systèmes logiciels complexes. Le compagnon <strong>alimenté par LLM</strong> via LINE démontre comment les grands modèles de langage comme ChatGPT, Perplexity et DeepSeek peuvent améliorer les interactions numériques et rationaliser les opérations pour les entreprises et les utilisateurs finaux.",
 
     services: [
         {
             title: "Développement d'Agents LLM",
-            description: "Conception et déploiement d'agents IA intelligents alimentés par des LLM avancés tels que ChatGPT et DeepSeek, s'intégrant parfaitement à vos systèmes existants pour améliorer l'automatisation et l'efficacité."
+            description: "Exploitez des agents IA intelligents propulsés par des LLM avancés qui s'intègrent parfaitement aux systèmes existants, améliorant l'automatisation et l'efficacité pour les entreprises tout en offrant des interactions intuitives aux utilisateurs."
         },
         {
-            title: "Intégration de Systèmes Existants",
-            description: "Modernisation des systèmes existants en intégrant des capacités d'IA avancées, assurant un flux de données fluide et une fonctionnalité améliorée."
+            title: "Intégration aux Systèmes Existants",
+            description: "Expérimentez des systèmes modernisés avec des capacités d'IA avancées qui assurent un flux de données fluide et des fonctionnalités améliorées, rendant l'infrastructure existante plus précieuse et efficace."
         },
         {
-            title: "Solutions LLM sur Mesure",
-            description: "Développement de modèles d'IA sur mesure, exploitant des LLM à la pointe de la technologie pour relever des défis commerciaux spécifiques et optimiser les opérations."
+            title: "Solutions LLM Personnalisées",
+            description: "Résolvez des défis commerciaux spécifiques et optimisez les opérations avec des modèles d'IA sur mesure qui exploitent des LLM à la pointe de la technologie, offrant des solutions adaptées qui répondent à des exigences uniques."
         },
         {
             title: "Automatisation des Flux de Travail par IA",
-            description: "Rationalisation des tâches répétitives et optimisation des flux de travail grâce à des solutions d'automatisation pilotées par l'IA pour une productivité améliorée."
+            description: "Économisez du temps et des ressources en rationalisant les tâches répétitives grâce à l'automatisation pilotée par l'IA, permettant aux équipes de se concentrer sur des activités à plus forte valeur ajoutée tout en améliorant la productivité globale."
         },
         {
             title: "Analyses Prédictives et Insights",
-            description: "Exploitation de l'IA pour analyser les modèles de données, prévoir les tendances et fournir des insights actionnables pour une meilleure prise de décision."
+            description: "Prenez de meilleures décisions commerciales grâce à l'analyse de modèles de données alimentée par l'IA qui prévoit les tendances et fournit des informations exploitables, transformant les données brutes en avantages stratégiques."
         }
     ],
 
     demo: {
-        title: "Démonstration d'intégration LLM/IA",
-        description: "Bienvenue au Compagnon de Chat IA, une démonstration d'intégration alimentée par l'IA. Explorez une variété de compagnons IA, " +
-            "chacun avec des personnalités uniques, conçus pour interagir de manière fluide avec les utilisateurs via l'application LINE. " +
-            "Ces compagnons IA peuvent communiquer en plusieurs langues, notamment le thaï, l'anglais, le chinois, " +
+        title: "Intégration LLM/IA avec LINE",
+        description: "Découvrez une intégration alimentée par l'IA entre LLM/IA et LINE. Explorez une variété de compagnons IA, " +
+            "chacun avec des personnalités uniques, conçus pour interagir parfaitement via l'application LINE. " +
+            "Ces compagnons IA communiquent en plusieurs langues, notamment le thaï, l'anglais, le chinois, " +
             "le japonais, le coréen, le français et le vietnamien.",
         link: {
-            text: "Découvrez notre démo en action sur <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
+            text: "Découvrez la démo en action sur <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
             href: "https://vt.tiktok.com/ZS6X8PfDT/"
         },
         procedure: {
-            title: "Comment ça fonctionne",
+            title: "Comment Ça Fonctionne",
             steps: [
                 {
-                    title: "Choisissez votre compagnon IA",
+                    title: "Choisissez Votre Compagnon IA",
                     description: "Parcourez la liste des compagnons IA disponibles et sélectionnez celui que vous préférez."
                 },
                 {
-                    title: "Ajoutez l'IA comme ami",
-                    description: "Cliquez sur le bouton 'Ajouter un ami' pour l'IA de votre choix ou utilisez l'application LINE pour scanner le code QR fourni."
+                    title: "Ajoutez l'IA Comme Ami",
+                    description: "Cliquez sur le bouton 'Ajouter un ami' pour l'IA choisie ou utilisez l'application LINE pour scanner le code QR fourni."
                 },
                 {
-                    title: "Commencez à discuter",
+                    title: "Commencez à Discuter",
                     description: "Débutez votre conversation avec l'IA. La langue par défaut est le thaï, mais l'IA répondra dans votre langue avec une traduction en thaï."
                 },
                 {
-                    title: "Ajoutez d'autres compagnons",
-                    description: "N'hésitez pas à vous connecter avec tous les compagnons IA disponibles et profitez d'interactions diverses."
+                    title: "Ajoutez Plus de Compagnons",
+                    description: "Connectez-vous avec tous les compagnons IA disponibles et profitez d'interactions diverses."
                 }
             ]
         },
         note: [
             {
                 title: "Remarque",
-                description: "Cette démonstration fonctionne sur un serveur de test. Si l'IA ne répond pas à votre premier message, veuillez envoyer des messages supplémentaires jusqu'à ce qu'elle réponde."
+                description: "Cette démo fonctionne sur un serveur de test. Si l'IA ne répond pas à votre premier message, veuillez envoyer des messages supplémentaires jusqu'à ce qu'elle réponde."
             },
             {
                 title: "",
-                description: "Faites l'expérience de conversations multilingues et découvrez les personnalités uniques de chaque compagnon IA dès aujourd'hui !"
+                description: "Expérimentez des conversations multilingues et découvrez les personnalités uniques de chaque compagnon IA dès aujourd'hui !"
             }]
     }
 };

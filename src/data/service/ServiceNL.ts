@@ -1,71 +1,71 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceNL: IService = {
-    title: "LLM/AI-integratie",
-    description: "CHORN is gespecialiseerd in LLM/AI-agentontwikkeling en levert intelligente, responsieve oplossingen op maat om aan specifieke behoeften te voldoen. Expertise omvat schaalbare websites, mobiele applicaties en full-stack softwaresystemen. De <strong>LLM-aangedreven</strong> technische expertise-partner via LINE demonstreert de mogelijkheden van grote taalmodellen zoals ChatGPT, Perplexity en DeepSeek, en toont innovatieve benaderingen voor het verbeteren van digitale aanwezigheid en het stroomlijnen van operationele efficiëntie.",
+    title: "LLM/AI Integratie",
+    description: "Transformeer bedrijfsactiviteiten met intelligente, responsieve LLM/AI-agentoplossingen op maat van specifieke behoeften. Robuuste backend-ontwikkeling zorgt voor betrouwbare, schaalbare en veilige gegevensverwerking - essentieel voor het leveren van naadloze gebruikerservaringen op websites, mobiele applicaties en complexe softwaresystemen. De <strong>LLM-aangedreven</strong> assistent via LINE demonstreert hoe grote taalmodellen zoals ChatGPT, Perplexity en DeepSeek digitale interacties kunnen verbeteren en operaties kunnen stroomlijnen voor zowel bedrijven als eindgebruikers.",
 
     services: [
         {
-            title: "LLM Agent-ontwikkeling",
-            description: "Ontwerp en implementatie van intelligente AI-agenten aangedreven door geavanceerde LLM's zoals ChatGPT en DeepSeek, die naadloos integreren met uw bestaande systemen om automatisering en efficiëntie te verbeteren."
+            title: "LLM Agent Ontwikkeling",
+            description: "Benut intelligente AI-agenten aangedreven door geavanceerde LLMs die naadloos integreren met bestaande systemen, voor verbeterde automatisering en efficiëntie voor bedrijven en intuïtieve interacties voor gebruikers."
         },
         {
-            title: "Integratie van Bestaande Systemen",
-            description: "Moderniseer bestaande systemen door geavanceerde AI-mogelijkheden te integreren, wat zorgt voor een soepele gegevensstroom en verbeterde functionaliteit."
+            title: "Bestaande Systeem Integratie",
+            description: "Ervaar gemoderniseerde systemen met geavanceerde AI-mogelijkheden die zorgen voor een soepele gegevensstroom en verbeterde functionaliteit, waardoor bestaande infrastructuur waardevoller en effectiever wordt."
         },
         {
-            title: "Aangepaste LLM-oplossingen",
-            description: "Ontwikkel op maat gemaakte AI-modellen, gebruikmakend van state-of-the-art LLM's om specifieke zakelijke uitdagingen aan te pakken en operaties te optimaliseren."
+            title: "Aangepaste LLM Oplossingen",
+            description: "Los specifieke zakelijke uitdagingen op en optimaliseer operaties met op maat gemaakte AI-modellen die gebruik maken van geavanceerde LLMs, met oplossingen die voldoen aan unieke vereisten."
         },
         {
-            title: "AI-workflowautomatisering",
-            description: "Stroomlijn repetitieve taken en optimaliseer werkprocessen met door AI-gestuurde automatiseringsoplossingen voor verbeterde productiviteit."
+            title: "AI Werkstroom Automatisering",
+            description: "Bespaar tijd en middelen door het stroomlijnen van repetitieve taken via AI-gestuurde automatisering, zodat teams zich kunnen richten op activiteiten met hogere waarde terwijl de algehele productiviteit verbetert."
         },
         {
-            title: "Voorspellende Analyse en Inzichten",
-            description: "Benut AI om datapatronen te analyseren, trends te voorspellen en bruikbare inzichten te bieden voor betere besluitvorming."
+            title: "Voorspellende Analyses en Inzichten",
+            description: "Neem betere zakelijke beslissingen met AI-gestuurde gegevenspatroonanalyse die trends voorspelt en bruikbare inzichten biedt, waardoor ruwe gegevens worden omgezet in strategische voordelen."
         }
     ],
 
     demo: {
-        title: "LLM/AI-integratiedemo",
-        description: "Welkom bij de AI Chat Companion, een demonstratie van AI-gestuurde integratie. Verken diverse AI-metgezellen, " +
-            "elk met unieke persoonlijkheden, ontworpen om naadloos te communiceren met gebruikers via de LINE-applicatie. " +
-            "Deze AI-metgezellen kunnen in meerdere talen communiceren, waaronder Thai, Engels, Chinees, " +
+        title: "LLM/AI LINE Integratie",
+        description: "Ervaar een AI-gestuurde integratie van LLM/AI en LINE. Verken verschillende AI-assistenten, " +
+            "elk met unieke persoonlijkheden, ontworpen voor naadloze interactie via de LINE-applicatie. " +
+            "Deze AI-assistenten communiceren in meerdere talen, waaronder Thai, Engels, Chinees, " +
             "Japans, Koreaans, Frans en Vietnamees.",
         link: {
-            text: "Bekijk onze demo in actie op <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
+            text: "Bekijk de demo in actie op <a target='_blank' href='https://vt.tiktok.com/ZS6X8PfDT/'>TikTok.</a>",
             href: "https://vt.tiktok.com/ZS6X8PfDT/"
         },
         procedure: {
-            title: "Hoe het werkt",
+            title: "Hoe Het Werkt",
             steps: [
                 {
-                    title: "Kies je AI-metgezel",
-                    description: "Blader door de lijst met beschikbare AI-metgezellen en selecteer degene die je het leukst vindt."
+                    title: "Kies Je AI-Assistent",
+                    description: "Blader door de lijst met beschikbare AI-assistenten en selecteer degene die je het meest bevalt."
                 },
                 {
-                    title: "Voeg de AI toe als vriend",
-                    description: "Klik op de knop 'Vriend toevoegen' voor jouw gekozen AI of gebruik de LINE-app om de meegeleverde QR-code te scannen."
+                    title: "Voeg de AI toe als Vriend",
+                    description: "Klik op de knop 'Vriend toevoegen' voor je gekozen AI of gebruik de LINE-app om de verstrekte QR-code te scannen."
                 },
                 {
-                    title: "Begin met chatten",
+                    title: "Begin met Chatten",
                     description: "Begin je gesprek met de AI. De standaardtaal is Thai, maar de AI zal antwoorden in jouw taal samen met een Thaise vertaling."
                 },
                 {
-                    title: "Voeg meer metgezellen toe",
-                    description: "Voel je vrij om verbinding te maken met alle beschikbare AI-metgezellen en geniet van diverse interacties."
+                    title: "Voeg Meer Assistenten Toe",
+                    description: "Maak verbinding met alle beschikbare AI-assistenten en geniet van diverse interacties."
                 }
             ]
         },
         note: [
             {
                 title: "Opmerking",
-                description: "Deze demo draait op een testserver. Als de AI niet op je eerste bericht reageert, stuur dan aanvullende berichten totdat deze reageert."
+                description: "Deze demo draait op een testserver. Als de AI niet reageert op je eerste bericht, stuur dan aanvullende berichten totdat deze reageert."
             },
             {
                 title: "",
-                description: "Ervaar vandaag nog meertalige gesprekken en ontdek de unieke persoonlijkheden van elke AI-metgezel!"
+                description: "Ervaar vandaag nog meertalige gesprekken en ontdek de unieke persoonlijkheden van elke AI-assistent!"
             }]
     }
 };

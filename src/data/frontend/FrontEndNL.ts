@@ -10,8 +10,8 @@ import {Css3NL} from "@/data/frontend/frameworks/css3/Css3NL";
 import {AngularNL} from "@/data/frontend/frameworks/angular/AngularNL";
 
 export const FrontEndNL: IFrontEnd = {
-    title: "Front-End Ervaring",
-    span: "Front-End Ontwikkeling Ervaring",
+    title: "Front-End Ontwikkeling",
+    span: "Front-End Ontwikkelingservaring",
     subTitle: "",
 
     angular: AngularNL,
@@ -26,30 +26,30 @@ export const FrontEndNL: IFrontEnd = {
     stacks: [],
 
     services: {
-        title: "Front-End Ontwikkelingsservices",
+        title: "Front-End Ontwikkeling",
         descriptions: [
-            "Transformeer uw webvisie naar realiteit met onze deskundige front-end ontwikkelingsservices. CHORN levert gebruiksvriendelijke, visueel indrukwekkende en volledig responsieve websites die uw publiek boeien. We zijn gespecialiseerd in moderne frameworks zoals Next.js, React, Angular en Vue.js, naast kernwebtechnologieën zoals HTML5 en CSS3. Of u nu een hoogwaardige single-page applicatie (SPA) nodig heeft die geoptimaliseerd is voor zoekmachines of een geavanceerd multi-page platform, onze ontwikkelaars leveren kwaliteitsresultaten op tijd. Werk samen met CHORN om boeiende digitale ervaringen te creëren die bezoekers aantrekken en bedrijfsgroei stimuleren."
+            "Front-end ontwikkeling is de cruciale interface tussen gebruikers en digitale diensten, die de visuele elementen en interactieve componenten creëert die de gebruikerservaring definiëren. Deze essentiële laag transformeert complexe backend-systemen in intuïtieve, toegankelijke interfaces die het publiek boeien en bedrijfsgroei stimuleren. Moderne frameworks waaronder Next.js, React, Angular en Vue.js, naast kerntechnologieën zoals HTML5 en CSS3, maken hoogwaardige applicaties mogelijk die snel laden en naadloos reageren op alle apparaten. Effectieve front-end oplossingen verhogen de betrokkenheid van gebruikers, verbeteren conversiepercentages en versterken de merkperceptie door consistente, professionele digitale ervaringen die zowel aan bedrijfsdoelstellingen als aan gebruikersbehoeften voldoen."
         ],
         items: [
             {
-                title: "Implementatie van Moderne Frameworks",
-                description: "Bouw dynamische, interactieve webapplicaties met geavanceerde frameworks zoals Next.js en React die optimale prestaties en gebruikerservaring bieden."
+                title: "Moderne Framework Implementatie",
+                description: "Dynamische, interactieve webapplicaties met geavanceerde frameworks zoals Next.js en React die optimale prestaties, responsiviteit en verbeterde gebruikerservaring bieden."
             },
             {
-                title: "SEO-Optimalisatie",
-                description: "Verbeter de zichtbaarheid van uw website op Google en andere zoekmachines door geoptimaliseerde codestructuur, snelle laadtijden en mobiel-vriendelijk ontwerp."
+                title: "SEO Optimalisatie",
+                description: "Verbeterde zichtbaarheid van websites op Google en andere zoekmachines door geoptimaliseerde codestructuur, snelle laadtijden en mobiel-vriendelijk ontwerp, wat organisch verkeer stimuleert en acquisitiekosten verlaagt."
             },
             {
                 title: "Proof of Concept (PoC) Ontwikkeling",
-                description: "Test en valideer uw innovatieve ideeën snel met functionele prototypes voordat u zich vastlegt op volledige ontwikkeling."
+                description: "Snelle validatie van innovatieve ideeën via functionele prototypes, risicovermindering en de mogelijkheid voor belanghebbenden om concepten te visualiseren voordat er grootschalig wordt geïnvesteerd."
             },
             {
                 title: "Minimum Viable Product (MVP) Creatie",
-                description: "Lanceer een complete, schaalbare eerste versie van uw product om vroege gebruikers aan te trekken, feedback te verzamelen en potentiële investeerders te overtuigen."
+                description: "Functie-complete, schaalbare eerste versies die vroege gebruikers aantrekken, waardevolle feedback genereren en potentiële investeerders aanspreken terwijl ze marktaanwezigheid vestigen."
             },
             {
-                title: "UI/UX Design Excellence",
-                description: "Verhoog de tevredenheid van gebruikers met intuïtieve, aantrekkelijke interfaces die betrokkenheid verbeteren, bouncerates verminderen en conversies verhogen."
+                title: "UI/UX Design",
+                description: "Intuïtieve, aantrekkelijke interfaces die betrokkenheid verhogen, bouncepercentages verlagen en conversies verhogen door gebruikersgerichte ontwerpprincipes en toegankelijkheidsnormen."
             }
         ]
     }

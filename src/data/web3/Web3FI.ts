@@ -1,30 +1,30 @@
 import {IWeb3} from "@/data/web3/model/IWeb3";
 
 export const Web3FI: IWeb3 = {
-    title: "Web3 ja lohkoketjukehitys",
-    span: "Erinomaisia testaus- ja DevOps-ratkaisuja",
-    subTitle: "Tulevaisuuden voimaannuttamista hajautetulla teknologialla",
+    title: "Web3 Lohkoketjukehitys",
+    span: "Hajautetut Teknologiaratkaisut",
+    subTitle: "Tulevaisuuden voimaannuttaminen hajautetulla teknologialla",
 
     services: {
-        title: "Web3 ja lohkoketjukehitys",
+        title: "Web3 Lohkoketjukehitys",
         descriptions: [
-            "CHORN on kiinnostunut oppimisesta, konsultoinnista ja on valmis hallinnoimaan Web3-teknologiaan, lohkoketjuun ja hajautettujen sovellusten kehittämiseen (dApps) liittyviä projekteja sekä älysopimusten kehittämiseen asiakkaille, jotka tarvitsevat konsultointia ja hajautettujen rahoitusalustojen (DeFi), NFT-markkinapaikkojen tai dApp-sovellusten kehittämistä.",
+            "Web3-teknologia ja lohkoketjujärjestelmät tarjoavat ennennäkemätöntä läpinäkyvyyttä, turvallisuutta ja käyttäjien itsemääräämisoikeutta, joka ei ole mahdollista perinteisillä keskitetyillä sovelluksilla. Nämä hajautetut ratkaisut poistavat yksittäiset vikapisteet, vähentävät riippuvuutta kolmansista osapuolista ja antavat käyttäjille suoran hallinnan digitaalisiin omaisuuksiinsa ja tietoihinsa. Lohkoketjun muuttumaton pääkirjateknologia varmistaa transaktioiden eheyden, kun taas älysopimukset automatisoivat luotettavat prosessit ilman välikäsiä, mikä vähentää merkittävästi kustannuksia ja lisää toiminnallista tehokkuutta. Yrityksille ja loppukäyttäjille nämä teknologiat mahdollistavat uudet tulomallit, tokenisoidun omaisuuden omistuksen ja saumattoman globaalin arvonsiirron aiemmin eristettyjen järjestelmien välillä.",
 
-            "Kehitämme ja tutkimme Web3-sovellusten luomista, Solidityn käyttöä Ethereum- ja Polygon-verkoissa, sekä Hardhat ja Ganache -teknologioiden käyttöä tehokkaan lohkoketjuprojektien kehityksen, testauksen ja hallinnan tukemiseksi"
+            "Ethereumin, Polygonin ja muiden lohkoketjuverkkojen yhdistäminen kehitystyökaluihin kuten Hardhat ja Ganache luo vankan ympäristön kestävien hajautettujen sovellusten rakentamiseen. Nämä teknologiat tukevat skaalautuvia, kaasutehokkuuden kannalta optimoituja ratkaisuja, jotka tasapainottavat turvallisuuden ja käytettävyyden, mahdollistaen aidon digitaalisen omistajuuden ja uudet yhteistyömuodot luottamuksettomassa ympäristössä."
         ],
         items: [
             {
-                title: "Älysopimusten kehitys",
-                description: "Suunnittelemme, kehitämme ja varmennamme älysopimusten turvallisuuden käyttäen Solidity-kieltä"
+                title: "Älysopimusten Kehittäminen",
+                description: "Turvalliset, tarkastettavat ja läpinäkyvät automatisoidut sopimukset, jotka toteutuvat ilman välikäsiä, vähentävät toimintakustannuksia ja poistavat vastapuoliriskin muuttumattoman koodin suorittamisen kautta."
             },
             {
-                title: "DeFi- ja NFT-alustat",
-                description: "Kehitämme hajautettuja rahoitusalustoja, NFT-markkinapaikkoja ja muita lohkoketjuratkaisuja liiketoimintatarpeiden mukaan"
+                title: "DeFi ja NFT Alustat",
+                description: "Saavutettavat finanssipalvelut ja digitaalisten omaisuuksien markkinapaikat, jotka toimivat 24/7 ilman keskitettyä valvontaa, mahdollistaen maailmanlaajuisen osallistumisen, osittaisomistuksen ja uudet ansaintamahdollisuudet."
             },
             {
-                title: "Full-Stack dApp-kehitys",
-                description: "Luomme Web3-sovelluksia, jotka integroituvat saumattomasti lohkoketjuun"
-            },
+                title: "Full-Stack dApp Kehitys",
+                description: "Päästä päähän hajautetut sovellukset, jotka suojaavat käyttäjien yksityisyyttä, vastustavat sensuuria ja tarjoavat saumattoman integraation perinteisten verkkoliittymien ja lohkoketjuinfrastruktuurin välillä."
+            }
         ]
     }
 };
