@@ -48,6 +48,98 @@ export const ImageUrl: IImageUrl = {
             },
         ]
     },
+    backend: {
+        side: [
+            {
+                title: "CHORN's image of frontend side 1.",
+                image375: "/images/technical-expertise/full-stack-developer/side-images/backend-1-image-375.webp",
+                image750: "/images/technical-expertise/full-stack-developer/side-images/backend-1-image-750.webp",
+                image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-1-image-1200.webp",
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-1-large.webp",
+            },
+            {
+                title: "CHORN's image of frontend side 2.",
+                image375: "/images/technical-expertise/full-stack-developer/side-images/backend-2-image-375.webp",
+                image750: "/images/technical-expertise/full-stack-developer/side-images/backend-2-image-750.webp",
+                image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-2-image-1200.webp",
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-2-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 3.",
+                image375: "/images/technical-expertise/full-stack-developer/side-images/backend-3-image-375.webp",
+                image750: "/images/technical-expertise/full-stack-developer/side-images/backend-3-image-750.webp",
+                image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-3-image-1200.webp",
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-3-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 4.",
+                image375: "/images/technical-expertise/full-stack-developer/side-images/backend-4-image-375.webp",
+                image750: "/images/technical-expertise/full-stack-developer/side-images/backend-4-image-750.webp",
+                image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-4-image-1200.webp",
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-4-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 5.",
+                image375: "/images/technical-expertise/full-stack-developer/side-images/backend-5-image-375.webp",
+                image750: "/images/technical-expertise/full-stack-developer/side-images/backend-5-image-750.webp",
+                image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-5-image-1200.webp",
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-5-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 6.",
+                image375: "/images/technical-expertise/full-stack-developer/side-images/backend-6-image-375.webp",
+                image750: "/images/technical-expertise/full-stack-developer/side-images/backend-6-image-750.webp",
+                image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-6-image-1200.webp",
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-6-large.webp"
+            },
+        ]
+    },
+    web3: {
+        side: [
+            {
+                title: "CHORN's image of frontend side 1.",
+                image375: "/images/technical-expertise/blockchain/web3-1-image-375.webp",
+                image750: "/images/technical-expertise/blockchain/web3-1-image-750.webp",
+                image1200: "/images/technical-expertise/blockchain/web3-1-image-1200.webp",
+                large: "/images/technical-expertise/blockchain/web3-1-large.webp",
+            },
+            {
+                title: "CHORN's image of frontend side 2.",
+                image375: "/images/technical-expertise/blockchain/web3-2-image-375.webp",
+                image750: "/images/technical-expertise/blockchain/web3-2-image-750.webp",
+                image1200: "/images/technical-expertise/blockchain/web3-2-image-1200.webp",
+                large: "/images/technical-expertise/blockchain/web3-2-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 3.",
+                image375: "/images/technical-expertise/blockchain/web3-3-image-375.webp",
+                image750: "/images/technical-expertise/blockchain/web3-3-image-750.webp",
+                image1200: "/images/technical-expertise/blockchain/web3-3-image-1200.webp",
+                large: "/images/technical-expertise/blockchain/web3-3-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 4.",
+                image375: "/images/technical-expertise/blockchain/web3-4-image-375.webp",
+                image750: "/images/technical-expertise/blockchain/web3-4-image-750.webp",
+                image1200: "/images/technical-expertise/blockchain/web3-4-image-1200.webp",
+                large: "/images/technical-expertise/blockchain/web3-4-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 5.",
+                image375: "/images/technical-expertise/blockchain/web3-5-image-375.webp",
+                image750: "/images/technical-expertise/blockchain/web3-5-image-750.webp",
+                image1200: "/images/technical-expertise/blockchain/web3-5-image-1200.webp",
+                large: "/images/technical-expertise/blockchain/web3-5-large.webp"
+            },
+            {
+                title: "CHORN's image of frontend side 6.",
+                image375: "/images/technical-expertise/blockchain/web3-6-image-375.webp",
+                image750: "/images/technical-expertise/blockchain/web3-6-image-750.webp",
+                image1200: "/images/technical-expertise/blockchain/web3-6-image-1200.webp",
+                large: "/images/technical-expertise/blockchain/web3-6-large.webp"
+            },
+        ]
+    },
 
     //devops thumbnail
     devopsThumbnails: {

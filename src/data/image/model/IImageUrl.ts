@@ -6,6 +6,12 @@ export interface IImageUrl {
     frontend: {
         side: IImageResponsiveUnit[]
     },
+    backend: {
+        side: IImageResponsiveUnit[]
+    },
+    web3: {
+        side: IImageResponsiveUnit[]
+    },
     devopsThumbnails: {
         appium: IImageUnit,
         docker: IImageUnit,

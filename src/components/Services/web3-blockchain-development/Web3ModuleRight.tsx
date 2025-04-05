@@ -2,11 +2,11 @@ import React from "react";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import Image from "next/image";
 
-const FullStackModuleRight: React.FC<{ lang: string }> = ({lang}) => {
+const Web3ModuleRight: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <div className="col-lg-6 frontend-images-side-container">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {ImageUrl.backend.side.slice(0, 4).map((image, index) => (
+                {ImageUrl.web3.side.slice(0, 4).map((image, index) => (
                     <Image
                         key={index}
                         src={image.image1200}
@@ -25,4 +25,4 @@ const FullStackModuleRight: React.FC<{ lang: string }> = ({lang}) => {
     )
 }
 
-export default FullStackModuleRight
+export default Web3ModuleRight

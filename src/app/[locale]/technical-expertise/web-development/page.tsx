@@ -6,7 +6,7 @@ import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import ServiceCardWebDevelopment from "@/components/Services/WebDevelopment/ServicesCardWebDevelopment";
+import WebDevelopmentPageMain from "@/components/Services/WebDevelopment/WebDevelopmentPageMain";
 import {headers} from "next/headers";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {MetadataWebDevelopment} from "@/metadata/pages/web-development/common/MetadataWebDevelopment";
@@ -25,7 +25,7 @@ const Page = () => {
 
             <PageBanner pageTitle={InfoTranslation[lang].Feature.stacks[2].title}/>
 
-            <ServiceCardWebDevelopment/>
+            <WebDevelopmentPageMain lang={lang}/>
 
             <CloudExperience/>
 

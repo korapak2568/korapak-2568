@@ -5,7 +5,7 @@ import Footer from "@/components/Layouts/Footer";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
-import ServicesCardWeb3Blockchain from "@/components/Services/web3-blockchain-development/ServicesCardWeb3Blockchain";
+import Web3PageMain from "@/components/Services/web3-blockchain-development/Web3PageMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {headers} from "next/headers";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
@@ -15,6 +15,7 @@ export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';
     return MetadataWeb3[lang]
 }
+
 const Page = () => {
     const lang = headers().get('x-locale') || 'en';
 
@@ -24,7 +25,7 @@ const Page = () => {
 
             <PageBanner pageTitle={InfoTranslation[lang].Web3.title}/>
 
-            <ServicesCardWeb3Blockchain/>
+            <Web3PageMain lang={lang}/>
 
             <CloudExperience/>
 
