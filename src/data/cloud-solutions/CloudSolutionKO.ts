@@ -1,7 +1,7 @@
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 
 export const CloudSolutionKO: ICloudSolution = {
-    title: "클라우드 마이그레이션",
+    title: "클라우드 인프라",
     descriptions: [
         {
             title: "데이터 기반 의사결정",

@@ -1,7 +1,7 @@
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 
 export const CloudSolutionZH: ICloudSolution = {
-    title: "云迁移",
+    title: "云基础设施",
     descriptions: [
         {
             title: "数据驱动决策",

@@ -1,7 +1,7 @@
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 
 export const CloudSolutionVI: ICloudSolution = {
-    title: "Di Chuyển Lên Đám Mây",
+    title: "Hạ tầng đám mây",
     descriptions: [
         {
             title: "Ra Quyết Định Dựa Trên Dữ Liệu",

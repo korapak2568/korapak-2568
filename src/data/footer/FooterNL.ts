@@ -48,7 +48,7 @@ export const FooterNL: IFooter = {
             link: "/technical-expertise/web-development"
         },
         {
-            label: "Servicevoorwaarden",
+            label: "Back-End Ontwikkeling",
             link: "/terms-of-service"
         },
         {

@@ -70,7 +70,7 @@ export const FooterTH: IFooter = {
             link: "/technical-expertise/front-end-developer/"
         },
         {
-            label: "การพัฒนาฝั่งหลังบ้านและเอพีไอ",
+            label: "การพัฒนาฝั่งหลังบ้าน",
             link: "/technical-expertise/full-stack-developer/"
         },
         {

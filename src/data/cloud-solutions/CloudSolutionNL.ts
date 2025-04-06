@@ -1,7 +1,7 @@
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 
 export const CloudSolutionNL: ICloudSolution = {
-    title: "Cloud Migratie",
+    title: "Cloudinfrastructuur",
     descriptions: [
         {
             title: "Data-Gedreven Besluitvorming",

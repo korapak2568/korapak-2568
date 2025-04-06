@@ -48,7 +48,7 @@ export const FooterVI: IFooter = {
             link: "/technical-expertise/web-development"
         },
         {
-            label: "Điều khoản dịch vụ",
+            label: "Phát triển Back-End",
             link: "/terms-of-service"
         },
         {

@@ -70,7 +70,7 @@ export const FooterZH: IFooter = {
             link: "/technical-expertise/front-end-developer/"
         },
         {
-            label: "后端与 API 开发",
+            label: "后端开发",
             link: "/technical-expertise/full-stack-developer/"
         },
         {

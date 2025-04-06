@@ -66,11 +66,11 @@ export const FooterEN: IFooter = {
             link: "/technical-expertise/web-development"
         },
         {
-            label: "Front End Development",
+            label: "Front-End Development",
             link: "/technical-expertise/front-end-developer/"
         },
         {
-            label: "Back-End & API Development",
+            label: "Back-End Development",
             link: "/technical-expertise/full-stack-developer/"
         },
         {

@@ -1,7 +1,7 @@
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 
 export const CloudSolutionFI: ICloudSolution = {
-    title: "Pilvimigraatio",
+    title: "Pilvi-infrastruktuuri",
     descriptions: [
         {
             title: "Datapohjainen Päätöksenteko",

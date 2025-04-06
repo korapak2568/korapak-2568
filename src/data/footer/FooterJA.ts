@@ -71,7 +71,7 @@ export const FooterJA: IFooter = {
             link: "/technical-expertise/front-end-developer/"
         },
         {
-            label: "バックエンド＆API開発",
+            label: "バックエンド開発",
             link: "/technical-expertise/full-stack-developer/"
         },
         {

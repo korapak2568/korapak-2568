@@ -70,7 +70,7 @@ export const FooterDA: IFooter = {
             link: "/technical-expertise/front-end-developer/"
         },
         {
-            label: "Back-End & API-udvikling",
+            label: "Back-End Udvikling",
             link: "/technical-expertise/full-stack-developer/"
         },
         {

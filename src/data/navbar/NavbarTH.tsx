@@ -64,13 +64,13 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "คลาวด์ เดฟออปส์",
+                label: "แนวทางการปฏิบัติพัฒนาคลาวด์",
                 link: "/technical-expertise/cloud-devops/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "คลาวด์และโครงสร้างพื้นฐาน",
+                label: "โครงสร้างพื้นฐานคลาวด์",
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
                 submenu: [],
             },

@@ -1,7 +1,7 @@
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 
 export const CloudSolutionTH: ICloudSolution = {
-    title: "การย้ายระบบสู่คลาวด์",
+    title: "โครงสร้างพื้นฐานคลาวด์",
     descriptions: [
         {
             title: "การตัดสินใจโดยอิงข้อมูล",
