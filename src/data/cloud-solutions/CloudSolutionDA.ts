@@ -4,12 +4,6 @@ export const CloudSolutionDA: ICloudSolution = {
     title: "Cloud Migration",
     descriptions: [
         {
-            title: "Transformér Forretningsdriften",
-            span: "Accelerér Digital Transformation",
-            description: "Frigør det fulde potentiale af cloud-infrastruktur med strategisk arkitektur og systemanalyse, der leverer målbare forretningsresultater.",
-            features: []
-        },
-        {
             title: "Datadrevet Beslutningstagning",
             span: "Fremtidssikret Teknologistak",
             description: "I dagens hurtigt udviklende digitale landskab gør robuste, skalerbare og fremtidssikrede systemer virksomheder i stand til at reagere hurtigt på markedsændringer, samtidig med at de opretholder operationel ekspertise. Strategisk cloud-arkitektur sikrer optimal ydeevne, forbedret sikkerhed og omkostningseffektivitet, samtidig med at den understøtter forretningsmæssige vækstmål.",
@@ -26,12 +20,6 @@ export const CloudSolutionDA: ICloudSolution = {
         "Kontinuerlig innovation gennem de nyeste cloud-teknologier"
     ],
     sections: [
-        {
-            title: "Strategisk Cloud-valg",
-            span: "Skræddersyet Cloud-infrastruktur",
-            description: "Succesen med cloud-migration afhænger af at vælge den rigtige platform til specifikke forretningskrav. Uanset om det drejer sig om at forbedre eksisterende infrastruktur eller opbygge nye systemer fra bunden, skal det ideelle cloud-miljø passe perfekt sammen med forretningsmålene. Cloud-native, hybrid eller multi-cloud-miljøer tilbyder hver især forskellige fordele afhængigt af skaleringsbehov, compliance-krav og driftsmål.",
-            features: []
-        },
         {
             title: "AWS",
             span: "AWS: Fleksibilitet og Virksomhedsskalerbarhed",

@@ -4,12 +4,6 @@ export const CloudSolutionZH: ICloudSolution = {
     title: "云迁移",
     descriptions: [
         {
-            title: "转变业务运营",
-            span: "加速数字化转型",
-            description: "通过战略性架构和系统分析释放云基础设施的全部潜力，提供可衡量的业务成果。",
-            features: []
-        },
-        {
             title: "数据驱动决策",
             span: "面向未来的技术栈",
             description: "在当今快速发展的数字环境中，弹性、可扩展和面向未来的系统使企业能够在保持卓越运营的同时快速响应市场变化。战略性云架构确保最佳性能、增强安全性和成本效益，同时支持业务增长目标。",
@@ -26,11 +20,6 @@ export const CloudSolutionZH: ICloudSolution = {
         "通过最新云技术持续创新"
     ],
     sections: [
-        {
-            title: "战略性云选择",
-            span: "定制云基础设施",
-            description: "云迁移的成功取决于为特定业务需求选择正确的平台。无论是改进现有基础设施还是从零开始构建新系统，理想的云环境都必须与业务目标完全一致。云原生、混合或多云环境根据可扩展性需求、合规要求和运营目标各自提供不同的优势。",
-        },
         {
             title: "AWS",
             span: "AWS：灵活性和企业可扩展性",

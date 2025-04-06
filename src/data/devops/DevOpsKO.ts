@@ -302,25 +302,24 @@ export const DevOpsKO: IDevOps = {
     services: {
         title: "클라우드 & DevOps",
         descriptions: [
-            "CHORN은 멀티 클라우드 전략(AWS, Azure, GCP, DigitalOcean)과 Infrastructure as Code(IaC) 구현에 특화되어 자동화된 워크플로우로 확장 가능하고 안전하며 효율적인 클라우드 환경을 제공합니다.",
-            "다음에 중점을 둔 포괄적인 클라우드 및 DevOps 전문 지식을 제공합니다:"
+            "전문화된 멀티 클라우드 전략(AWS, Azure, GCP, DigitalOcean)과 Infrastructure as Code(IaC) 구현을 통해 자동화된 워크플로우와 함께 확장 가능하고, 안전하며 효율적인 클라우드 환경을 구축하여 인프라를 더욱 향상시킵니다."
         ],
         items: [
             {
-                title: "클라우드 인프라 & 자동화",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                title: "클라우드 인프라 및 자동화",
+                description: "Terraform, AWS CloudFormation 및 Kubernetes를 사용하여 비즈니스 민첩성을 높이고 운영 비용을 절감합니다."
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "통합 보안을 갖춘 GitLab, GitHub Actions"
+                description: "GitLab 및 GitHub Actions를 활용한 내장 보안을 통해 제품 출시 속도를 높이고 더 빠르고 신뢰할 수 있는 배포를 실현합니다."
             },
             {
                 title: "컨테이너화 & 오케스트레이션",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                description: "Docker, Kubernetes, Terraform 및 AWS CloudFormation을 사용하여 일관된 배포 환경과 원활한 확장성을 제공합니다."
             },
             {
-                title: "모니터링 & 관측성",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                title: "모니터링 및 가시성",
+                description: "AWS CloudWatch, Prometheus, Grafana를 통한 실시간 인사이트로 다운타임을 방지하고 성능을 최적화합니다."
             }
         ]
     }

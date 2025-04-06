@@ -4,12 +4,6 @@ export const CloudSolutionVI: ICloudSolution = {
     title: "Di Chuyển Lên Đám Mây",
     descriptions: [
         {
-            title: "Chuyển Đổi Hoạt Động Kinh Doanh",
-            span: "Đẩy Nhanh Chuyển Đổi Số",
-            description: "Khai thác toàn bộ tiềm năng của cơ sở hạ tầng đám mây với kiến trúc chiến lược và phân tích hệ thống mang lại kết quả kinh doanh đo lường được.",
-            features: []
-        },
-        {
             title: "Ra Quyết Định Dựa Trên Dữ Liệu",
             span: "Hệ Thống Công Nghệ Hướng Tương Lai",
             description: "Trong bối cảnh kỹ thuật số phát triển nhanh chóng hiện nay, hệ thống có khả năng phục hồi, mở rộng và hướng đến tương lai giúp doanh nghiệp phản ứng nhanh chóng với những thay đổi của thị trường trong khi vẫn duy trì sự xuất sắc trong hoạt động. Kiến trúc đám mây chiến lược đảm bảo hiệu suất tối ưu, tăng cường bảo mật và hiệu quả chi phí trong khi hỗ trợ các mục tiêu tăng trưởng kinh doanh.",
@@ -26,11 +20,6 @@ export const CloudSolutionVI: ICloudSolution = {
         "Đổi mới liên tục thông qua công nghệ đám mây mới nhất"
     ],
     sections: [
-        {
-            title: "Lựa Chọn Đám Mây Chiến Lược",
-            span: "Cơ Sở Hạ Tầng Đám Mây Tùy Chỉnh",
-            description: "Sự thành công trong việc di chuyển lên đám mây phụ thuộc vào việc lựa chọn nền tảng phù hợp cho các yêu cầu kinh doanh cụ thể. Dù là cải thiện cơ sở hạ tầng hiện có hay xây dựng hệ thống mới từ đầu, môi trường đám mây lý tưởng phải phù hợp hoàn toàn với mục tiêu kinh doanh. Môi trường cloud-native, hybrid, hoặc multi-cloud đều mang lại những lợi thế riêng biệt tùy thuộc vào nhu cầu khả năng mở rộng, yêu cầu tuân thủ và mục tiêu hoạt động.",
-        },
         {
             title: "AWS",
             span: "AWS: Tính Linh Hoạt và Khả Năng Mở Rộng Doanh Nghiệp",

@@ -300,27 +300,26 @@ export const DevOpsZH: IDevOps = {
     stacks: [],
 
     services: {
-        title: "云计算和 DevOps",
+        title: "云计算与DevOps",
         descriptions: [
-            "CHORN 专注于多云策略（AWS、Azure、GCP、DigitalOcean）和基础设施即代码（IaC）实施，通过自动化工作流提供可扩展、安全和高效的云环境。",
-            "提供全面的云计算和 DevOps 专业知识，专注于："
+            "专业的多云策略（AWS、Azure、GCP、DigitalOcean），结合基础设施即代码（IaC）的实施，创建可扩展、安全、高效的云环境，并通过自动化工作流程进一步改善基础设施。"
         ],
         items: [
             {
-                title: "云基础设施和自动化",
-                description: "Terraform、AWS CloudFormation、Kubernetes"
+                title: "云基础设施与自动化",
+                description: "使用Terraform、AWS CloudFormation和Kubernetes，提高业务敏捷性并降低运营成本。"
             },
             {
-                title: "CI/CD 和 DevSecOps",
-                description: "GitLab、GitHub Actions 与集成安全"
+                title: "CI/CD与DevSecOps",
+                description: "利用GitLab和GitHub Actions内置的安全性，加速产品上市时间，实现更快速、更可靠的软件发布。"
             },
             {
-                title: "容器化和编排",
-                description: "Docker、Kubernetes、Terraform、AWS CloudFormation"
+                title: "容器化与编排",
+                description: "使用Docker、Kubernetes、Terraform和AWS CloudFormation，创建一致的部署环境和无缝的可扩展性。"
             },
             {
-                title: "监控和可观测性",
-                description: "AWS CloudWatch、Prometheus、Grafana"
+                title: "监控与可观测性",
+                description: "通过AWS CloudWatch、Prometheus和Grafana实时洞察，防止停机并优化性能。"
             }
         ]
     }

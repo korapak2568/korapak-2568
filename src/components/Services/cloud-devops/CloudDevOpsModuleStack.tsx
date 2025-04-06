@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import {headers} from "next/headers";
 
-const CloudDevOpsStack: React.FC = () => {
+const CloudDevOpsModuleStack: React.FC = () => {
     const lang = headers().get('x-locale') || 'en';
 
     return (
@@ -32,4 +32,4 @@ const CloudDevOpsStack: React.FC = () => {
     )
 }
 
-export default CloudDevOpsStack;
+export default CloudDevOpsModuleStack;

@@ -302,25 +302,24 @@ export const DevOpsNL: IDevOps = {
     services: {
         title: "Cloud & DevOps",
         descriptions: [
-            "CHORN is gespecialiseerd in multi-cloud strategieën (AWS, Azure, GCP, DigitalOcean) en implementatie van Infrastructure as Code (IaC) om schaalbare, veilige en efficiënte cloudomgevingen te leveren met geautomatiseerde workflows.",
-            "Biedt uitgebreide cloud- en DevOps-expertise gericht op:"
+            "Gespecialiseerde multi-cloud strategieën (AWS, Azure, GCP, DigitalOcean) met implementatie van Infrastructure as Code (IaC) om schaalbare, veilige en efficiënte cloudomgevingen te creëren met geautomatiseerde workflows — voor verdere verbetering van de infrastructuur."
         ],
         items: [
             {
-                title: "Cloud-infrastructuur & Automatisering",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                title: "Cloudinfrastructuur & Automatisering",
+                description: "Vergroot de bedrijfsflexibiliteit en verlaag de operationele kosten met Terraform, AWS CloudFormation en Kubernetes."
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "GitLab, GitHub Actions met geïntegreerde beveiliging"
+                description: "Versnel de time-to-market met ingebouwde beveiliging via GitLab en GitHub Actions, waardoor snellere en betrouwbaardere software-releases mogelijk zijn."
             },
             {
-                title: "Containerisatie & Orchestratie",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                title: "Containerisatie & Orkestratie",
+                description: "Creëer consistente implementatieomgevingen en naadloze schaalbaarheid met Docker, Kubernetes, Terraform en AWS CloudFormation."
             },
             {
-                title: "Monitoring & Observeerbaarheid",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                title: "Monitoring & Observatie",
+                description: "Voorkom downtime en optimaliseer prestaties met realtime inzichten via AWS CloudWatch, Prometheus en Grafana."
             }
         ]
     }

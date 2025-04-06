@@ -300,27 +300,26 @@ export const DevOpsTH: IDevOps = {
     stacks: [],
 
     services: {
-        title: "คลาวด์และเดฟออปส์",
+        title: "คลาวด์ & เดฟออปส์",
         descriptions: [
-            "CHORN เชี่ยวชาญในกลยุทธ์มัลติคลาวด์ (AWS, Azure, GCP, DigitalOcean) และการใช้โครงสร้างพื้นฐานในรูปแบบโค้ด (IaC) เพื่อส่งมอบสภาพแวดล้อมคลาวด์ที่ขยายได้ ปลอดภัย และมีประสิทธิภาพพร้อมกับเวิร์กโฟลว์อัตโนมัติ",
-            "นำเสนอความเชี่ยวชาญด้านคลาวด์และเดฟออปส์ครอบคลุมด้าน"
+            "กลยุทธ์มัลติคลาวด์แบบเฉพาะทาง (AWS, Azure, GCP, DigitalOcean) พร้อมการใช้ Infrastructure as Code (IaC) เพื่อสร้างสภาพแวดล้อมคลาวด์ที่สามารถปรับขนาดได้ ปลอดภัย และมีประสิทธิภาพ พร้อมเวิร์กโฟลว์แบบอัตโนมัติ ช่วยในการปรับปรุงโครงสร้างพื้นฐานให้ดียิ่งขึ้น",
         ],
         items: [
             {
-                title: "โครงสร้างพื้นฐานคลาวด์และระบบอัตโนมัติ",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                title: "โครงสร้างพื้นฐานคลาวด์ & ระบบอัตโนมัติ",
+                description: "เพิ่มความคล่องตัวทางธุรกิจและลดต้นทุนการดำเนินงานด้วย Terraform, AWS CloudFormation และ Kubernetes"
             },
             {
-                title: "CI/CD และความปลอดภัยในกระบวนการเดฟออปส์",
-                description: "GitLab, GitHub Actions พร้อมระบบความปลอดภัยแบบบูรณาการ"
+                title: "CI/CD & DevSecOps",
+                description: "เร่งการออกสู่ตลาดด้วยความปลอดภัยที่ฝังอยู่ในระบบโดยใช้ GitLab และ GitHub Actions ช่วยให้ปล่อยซอฟต์แวร์ได้เร็วและเชื่อถือได้มากขึ้น"
             },
             {
-                title: "การจัดการคอนเทนเนอร์และออร์เคสเตรชัน",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                title: "การใช้คอนเทนเนอร์ & การจัดการระบบ",
+                description: "สร้างสภาพแวดล้อมการปรับใช้ที่สม่ำเสมอและปรับขนาดได้อย่างราบรื่นด้วย Docker, Kubernetes, Terraform และ AWS CloudFormation"
             },
             {
-                title: "การตรวจสอบและการสังเกตการณ์",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                title: "การมอนิเตอร์ & การสังเกตการณ์",
+                description: "ป้องกันระบบล่มและเพิ่มประสิทธิภาพด้วยข้อมูลเชิงลึกแบบเรียลไทม์ผ่าน AWS CloudWatch, Prometheus และ Grafana"
             }
         ]
     }

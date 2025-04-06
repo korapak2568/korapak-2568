@@ -3,7 +3,7 @@ import Navbar from "@/components/Layouts/Navbar";
 import Footer from "@/components/Layouts/Footer";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import CloudExperience from "@/components/Common/CloudExperience";
-import ServicesCardDevOpsTesting from "@/components/Services/cloud-devops/ServicesCardDevOpsTesting";
+import CloudDevOpsModuleMain from "@/components/Services/cloud-devops/CloudDevOpsModuleMain";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
@@ -20,7 +20,7 @@ const Page = () => {
     return (
         <>
             <Navbar/>
-            <ServicesCardDevOpsTesting lang={lang}/>
+            <CloudDevOpsModuleMain lang={lang}/>
             <CloudExperience/>
             <WeWorkForIndustries/>
             <Footer/>

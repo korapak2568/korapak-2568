@@ -4,12 +4,6 @@ export const CloudSolutionEN: ICloudSolution = {
     title: "Cloud Migration",
     descriptions: [
         {
-            title: "Transform Business Operations",
-            span: "Accelerate Digital Transformation",
-            description: "Unlock the full potential of cloud infrastructure with strategic architecture and system analysis that delivers measurable business outcomes.",
-            features: []
-        },
-        {
             title: "Data-Driven Decision Making",
             span: "Future-Proof Technology Stack",
             description: "In today's rapidly evolving digital landscape, resilient, scalable, and future-proof systems enable businesses to respond quickly to market changes while maintaining operational excellence. Strategic cloud architecture ensures optimal performance, enhanced security, and cost-efficiency while supporting business growth objectives.",
@@ -26,12 +20,6 @@ export const CloudSolutionEN: ICloudSolution = {
         "Continuous innovation through latest cloud technologies"
     ],
     sections: [
-        {
-            title: "Strategic Cloud Selection",
-            span: "Tailored Cloud Infrastructure",
-            description: "Successful cloud migration depends on selecting the right platform for specific business requirements. Whether improving existing infrastructure or building new systems from scratch, the ideal cloud environment aligns perfectly with business objectives. Cloud-native, hybrid, or multi-cloud environments each offer distinct advantages depending on scalability needs, compliance requirements, and operational goals.",
-            features: []
-        },
         {
             title: "AWS",
             span: "AWS: Flexibility and Enterprise Scalability",

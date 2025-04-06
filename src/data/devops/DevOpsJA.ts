@@ -300,27 +300,26 @@ export const DevOpsJA: IDevOps = {
     stacks: [],
 
     services: {
-        title: "クラウド＆DevOps",
+        title: "クラウド & DevOps",
         descriptions: [
-            "CHORNはマルチクラウド戦略（AWS、Azure、GCP、DigitalOcean）とInfrastructure as Code（IaC）の実装に特化し、自動化されたワークフローで拡張性、安全性、効率性の高いクラウド環境を提供します。",
-            "包括的なクラウドとDevOpsの専門知識を提供し、以下に焦点を当てています："
+            "インフラストラクチャ・アズ・コード（IaC）の実装を伴う専門的なマルチクラウド戦略（AWS、Azure、GCP、DigitalOcean）により、スケーラブルで安全かつ効率的なクラウド環境を自動化されたワークフローで構築し、インフラストラクチャのさらなる改善を支援します。"
         ],
         items: [
             {
-                title: "クラウドインフラストラクチャ＆自動化",
-                description: "Terraform、AWS CloudFormation、Kubernetes"
+                title: "クラウドインフラストラクチャ & オートメーション",
+                description: "Terraform、AWS CloudFormation、Kubernetesを使用して、ビジネスの俊敏性を高め、運用コストを削減します。"
             },
             {
-                title: "CI/CD＆DevSecOps",
-                description: "統合されたセキュリティを備えたGitLab、GitHub Actions"
+                title: "CI/CD & DevSecOps",
+                description: "GitLabやGitHub Actionsを活用した組み込みのセキュリティで市場投入までの時間を短縮し、より迅速で信頼性の高いソフトウェアリリースを実現します。"
             },
             {
-                title: "コンテナ化＆オーケストレーション",
-                description: "Docker、Kubernetes、Terraform、AWS CloudFormation"
+                title: "コンテナ化 & オーケストレーション",
+                description: "Docker、Kubernetes、Terraform、AWS CloudFormationを使用して、一貫したデプロイメント環境とシームレスなスケーラビリティを実現します。"
             },
             {
-                title: "モニタリング＆オブザーバビリティ",
-                description: "AWS CloudWatch、Prometheus、Grafana"
+                title: "モニタリング & 可観測性",
+                description: "AWS CloudWatch、Prometheus、Grafanaを通じてリアルタイムのインサイトを得ることで、ダウンタイムを防止し、パフォーマンスを最適化します。"
             }
         ]
     }

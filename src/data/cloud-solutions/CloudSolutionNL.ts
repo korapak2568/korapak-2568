@@ -4,12 +4,6 @@ export const CloudSolutionNL: ICloudSolution = {
     title: "Cloud Migratie",
     descriptions: [
         {
-            title: "Transformeer Bedrijfsactiviteiten",
-            span: "Versnelde Digitale Transformatie",
-            description: "Ontgrendel het volledige potentieel van cloudinfrastructuur met strategische architectuur en systeemanalyse die meetbare bedrijfsresultaten oplevert.",
-            features: []
-        },
-        {
             title: "Data-Gedreven Besluitvorming",
             span: "Toekomstbestendige Technologiestack",
             description: "In het snel evoluerende digitale landschap van vandaag stellen veerkrachtige, schaalbare en toekomstbestendige systemen bedrijven in staat om snel te reageren op marktveranderingen met behoud van operationele uitmuntendheid. Strategische cloudarchitectuur zorgt voor optimale prestaties, verbeterde beveiliging en kostenefficiëntie terwijl bedrijfsgroeidoelstellingen worden ondersteund.",
@@ -26,12 +20,6 @@ export const CloudSolutionNL: ICloudSolution = {
         "Continue innovatie door middel van de nieuwste cloudtechnologieën"
     ],
     sections: [
-        {
-            title: "Strategische Cloud Selectie",
-            span: "Op Maat Gemaakte Cloudinfrastructuur",
-            description: "Succesvolle cloudmigratie hangt af van het selecteren van het juiste platform voor specifieke bedrijfsbehoeften. Of het nu gaat om het verbeteren van bestaande infrastructuur of het bouwen van nieuwe systemen vanaf de grond, de ideale cloudomgeving sluit perfect aan bij bedrijfsdoelstellingen. Cloud-native, hybride of multi-cloudomgevingen bieden elk specifieke voordelen, afhankelijk van schaalbaarheidsbehoeften, compliance-vereisten en operationele doelen.",
-            features: []
-        },
         {
             title: "AWS",
             span: "AWS: Flexibiliteit en Ondernemingsschaalbaarheid",

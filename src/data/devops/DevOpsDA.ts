@@ -302,25 +302,24 @@ export const DevOpsDA: IDevOps = {
     services: {
         title: "Cloud & DevOps",
         descriptions: [
-            "CHORN specialiserer sig i multi-cloud strategier (AWS, Azure, GCP, DigitalOcean) og implementering af Infrastructure as Code (IaC) for at levere skalerbare, sikre og effektive cloud-miljøer med automatiserede arbejdsgange.",
-            "Tilbyder omfattende cloud- og DevOps-ekspertise med fokus på:"
+            "Specialiserede multi-cloud strategier (AWS, Azure, GCP, DigitalOcean) med implementering af Infrastructure as Code (IaC) skaber skalerbare, sikre og effektive cloudmiljøer med automatiserede arbejdsgange — hvilket forbedrer infrastrukturen yderligere."
         ],
         items: [
             {
-                title: "Cloud-infrastruktur & Automatisering",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                title: "Cloud Infrastruktur & Automatisering",
+                description: "Forøg forretningsagilitet og reducer driftsomkostninger med Terraform, AWS CloudFormation og Kubernetes."
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "GitLab, GitHub Actions med integreret sikkerhed"
+                description: "Fremskynd time-to-market med indbygget sikkerhed ved brug af GitLab og GitHub Actions, hvilket muliggør hurtigere og mere pålidelige softwareudgivelser."
             },
             {
                 title: "Containerisering & Orkestrering",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                description: "Skab konsistente deployments og problemfri skalerbarhed med Docker, Kubernetes, Terraform og AWS CloudFormation."
             },
             {
-                title: "Overvågning & Observerbarhed",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                title: "Overvågning & Observabilitet",
+                description: "Undgå nedetid og optimer ydeevne med realtidsindsigt via AWS CloudWatch, Prometheus og Grafana."
             }
         ]
     }

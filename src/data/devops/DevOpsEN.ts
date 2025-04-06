@@ -302,28 +302,28 @@ export const DevOpsEN: IDevOps = {
     services: {
         title: "Cloud & DevOps",
         descriptions: [
-            "CHORN specialize in multi-cloud strategies (AWS, Azure, GCP, DigitalOcean) and Infrastructure as Code (IaC) implementation to deliver scalable, secure, and efficient cloud environments with automated workflows.",
-            "Offers comprehensive cloud and DevOps expertise focusing on:"
+            "Specialized multi-cloud strategies (AWS, Azure, GCP, DigitalOcean) with Infrastructure as Code (IaC) implementation to create scalable, secure, and efficient cloud environments with automated workflows — helping to further improve infrastructure."
         ],
         items: [
             {
                 title: "Cloud Infrastructure & Automation",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                description: "Enhance business agility and reduce operational costs using Terraform, AWS CloudFormation, and Kubernetes."
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "GitLab, GitHub Actions with integrated security"
+                description: "Accelerate time-to-market with built-in security by leveraging GitLab and GitHub Actions, enabling faster and more reliable software releases."
             },
             {
                 title: "Containerization & Orchestration",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                description: "Create consistent deployment environments and seamless scalability with Docker, Kubernetes, Terraform, and AWS CloudFormation."
             },
             {
                 title: "Monitoring & Observability",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                description: "Prevent downtime and optimize performance with real-time insights through AWS CloudWatch, Prometheus, and Grafana."
             }
         ]
     }
+
 }
 
 DevOpsEN.stacks = [

@@ -302,25 +302,24 @@ export const DevOpsDE: IDevOps = {
     services: {
         title: "Cloud & DevOps",
         descriptions: [
-            "CHORN spezialisiert sich auf Multi-Cloud-Strategien (AWS, Azure, GCP, DigitalOcean) und die Implementierung von Infrastructure as Code (IaC), um skalierbare, sichere und effiziente Cloud-Umgebungen mit automatisierten Workflows bereitzustellen.",
-            "Bietet umfassende Cloud- und DevOps-Expertise mit Fokus auf:"
+            "Spezialisierte Multi-Cloud-Strategien (AWS, Azure, GCP, DigitalOcean) mit Implementierung von Infrastructure as Code (IaC), um skalierbare, sichere und effiziente Cloud-Umgebungen mit automatisierten Workflows zu schaffen — zur weiteren Verbesserung der Infrastruktur."
         ],
         items: [
             {
                 title: "Cloud-Infrastruktur & Automatisierung",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                description: "Steigern Sie die geschäftliche Agilität und senken Sie Betriebskosten durch den Einsatz von Terraform, AWS CloudFormation und Kubernetes."
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "GitLab, GitHub Actions mit integrierter Sicherheit"
+                description: "Beschleunigen Sie die Markteinführung mit integrierter Sicherheit durch Nutzung von GitLab und GitHub Actions, was schnellere und zuverlässigere Software-Releases ermöglicht."
             },
             {
                 title: "Containerisierung & Orchestrierung",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                description: "Schaffen Sie konsistente Bereitstellungsumgebungen und nahtlose Skalierbarkeit mit Docker, Kubernetes, Terraform und AWS CloudFormation."
             },
             {
                 title: "Überwachung & Beobachtbarkeit",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                description: "Verhindern Sie Ausfallzeiten und optimieren Sie die Leistung durch Echtzeit-Einblicke mit AWS CloudWatch, Prometheus und Grafana."
             }
         ]
     }

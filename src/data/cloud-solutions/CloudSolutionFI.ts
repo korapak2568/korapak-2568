@@ -4,12 +4,6 @@ export const CloudSolutionFI: ICloudSolution = {
     title: "Pilvimigraatio",
     descriptions: [
         {
-            title: "Liiketoiminnan Muutos",
-            span: "Digitaalisen Muutoksen Kiihdyttäminen",
-            description: "Vapauta pilvi-infrastruktuurin koko potentiaali strategisella arkkitehtuurilla ja järjestelmäanalyysilla, joka tuottaa mitattavia liiketoimintatuloksia.",
-            features: []
-        },
-        {
             title: "Datapohjainen Päätöksenteko",
             span: "Tulevaisuuden Teknologiapino",
             description: "Nykypäivän nopeasti kehittyvässä digitaalisessa ympäristössä joustavat, skaalautuvat ja tulevaisuuden kestävät järjestelmät mahdollistavat yritysten nopean reagoinnin markkinoiden muutoksiin säilyttäen samalla toiminnallisen erinomaisuuden. Strateginen pilviarkitehtuuri varmistaa optimaalisen suorituskyvyn, parannetun turvallisuuden ja kustannustehokkuuden tukien samalla liiketoiminnan kasvutavoitteita.",
@@ -26,11 +20,6 @@ export const CloudSolutionFI: ICloudSolution = {
         "Jatkuva innovaatio uusimpien pilviteknologioiden avulla"
     ],
     sections: [
-        {
-            title: "Strateginen Pilven Valinta",
-            span: "Räätälöity Pilvi-infrastruktuuri",
-            description: "Pilvimigraation onnistuminen riippuu oikean alustan valinnasta erityisiin liiketoimintavaatimuksiin. Oli kyseessä sitten olemassa olevan infrastruktuurin parantaminen tai uusien järjestelmien rakentaminen alusta alkaen, ihanteellinen pilviympäristö on täydellisesti linjassa liiketoimintatavoitteiden kanssa. Pilvinatiivi, hybridi tai multipilviympäristöt tarjoavat kukin erilaisia etuja riippuen skaalautuvuustarpeista, vaatimustenmukaisuusvaatimuksista ja toiminnallisista tavoitteista.",
-        },
         {
             title: "AWS",
             span: "AWS: Joustavuus ja Yritystason Skaalautuvuus",

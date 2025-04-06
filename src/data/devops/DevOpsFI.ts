@@ -302,25 +302,24 @@ export const DevOpsFI: IDevOps = {
     services: {
         title: "Pilvi & DevOps",
         descriptions: [
-            "CHORN on erikoistunut monipilvistrategioihin (AWS, Azure, GCP, DigitalOcean) ja Infrastructure as Code (IaC) -toteutukseen tarjotakseen skaalautuvia, turvallisia ja tehokkaita pilviympäristöjä automatisoiduilla työnkuluilla.",
-            "Tarjoaa kattavaa pilvi- ja DevOps-asiantuntemusta keskittyen:"
+            "Erikoistuneet monipilvistrategiat (AWS, Azure, GCP, DigitalOcean) ja Infrastructure as Code (IaC) -toteutukset luovat skaalautuvia, turvallisia ja tehokkaita pilviympäristöjä automaattisilla työnkuluilla — parantaen infrastruktuuria entisestään."
         ],
         items: [
             {
                 title: "Pilvi-infrastruktuuri & Automaatio",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                description: "Paranna liiketoiminnan ketteryyttä ja vähennä toimintakustannuksia Terraformin, AWS CloudFormationin ja Kubernetesin avulla."
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "GitLab, GitHub Actions integroidulla tietoturvalla"
+                description: "Nopeuta markkinoille pääsyä sisäänrakennetun tietoturvan avulla hyödyntämällä GitLabia ja GitHub Actionsia, mahdollistaen nopeammat ja luotettavammat ohjelmistojulkaisut."
             },
             {
                 title: "Kontitus & Orkestrointi",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                description: "Luo yhdenmukaiset käyttöönottoympäristöt ja saumatonta skaalautuvuutta Dockerilla, Kubernetesilla, Terraformilla ja AWS CloudFormationilla."
             },
             {
-                title: "Valvonta & Havainnointikyvykkyys",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                title: "Valvonta & Havainnointikyky",
+                description: "Estä käyttökatkot ja optimoi suorituskyky reaaliaikaisen näkyvyyden avulla AWS CloudWatchin, Prometheuksen ja Grafanan kautta."
             }
         ]
     }

@@ -4,12 +4,6 @@ export const CloudSolutionDE: ICloudSolution = {
     title: "Cloud Migration",
     descriptions: [
         {
-            title: "Geschäftsprozesse transformieren",
-            span: "Digitale Transformation beschleunigen",
-            description: "Entfesseln Sie das volle Potenzial der Cloud-Infrastruktur durch strategische Architektur und Systemanalyse, die messbare Geschäftsergebnisse liefert.",
-            features: []
-        },
-        {
             title: "Datengestützte Entscheidungsfindung",
             span: "Zukunftssichere Technologie-Stack",
             description: "In der heutigen schnelllebigen digitalen Landschaft ermöglichen widerstandsfähige, skalierbare und zukunftssichere Systeme Unternehmen, schnell auf Marktveränderungen zu reagieren und gleichzeitig betriebliche Exzellenz zu gewährleisten. Strategische Cloud-Architektur sorgt für optimale Leistung, verbesserte Sicherheit und Kosteneffizienz bei gleichzeitiger Unterstützung der Unternehmenswachstumsziele.",
@@ -26,11 +20,6 @@ export const CloudSolutionDE: ICloudSolution = {
         "Kontinuierliche Innovation durch neueste Cloud-Technologien"
     ],
     sections: [
-        {
-            title: "Strategische Cloud-Auswahl",
-            span: "Maßgeschneiderte Cloud-Infrastruktur",
-            description: "Der Erfolg der Cloud-Migration hängt von der Auswahl der richtigen Plattform für spezifische Geschäftsanforderungen ab. Ob es darum geht, bestehende Infrastruktur zu verbessern oder neue Systeme von Grund auf zu entwickeln – die ideale Cloud-Umgebung stimmt perfekt mit den Geschäftszielen überein. Cloud-native, hybride oder Multi-Cloud-Umgebungen bieten jeweils eigene Vorteile, abhängig von Skalierbarkeitsanforderungen, Compliance-Vorgaben und betrieblichen Zielen.",
-        },
         {
             title: "AWS",
             span: "AWS: Flexibilität und Unternehmens-Skalierbarkeit",

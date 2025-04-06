@@ -300,27 +300,26 @@ export const DevOpsVI: IDevOps = {
     stacks: [],
 
     services: {
-        title: "Điện toán đám mây & DevOps",
+        title: "Cloud & DevOps",
         descriptions: [
-            "CHORN chuyên về các chiến lược đa đám mây (AWS, Azure, GCP, DigitalOcean) và triển khai Cơ sở hạ tầng dưới dạng Mã (IaC) để cung cấp môi trường đám mây có khả năng mở rộng, an toàn và hiệu quả với quy trình làm việc tự động.",
-            "Cung cấp chuyên môn toàn diện về đám mây và DevOps tập trung vào:"
+            "Chiến lược đa đám mây chuyên biệt (AWS, Azure, GCP, DigitalOcean) với việc triển khai Infrastructure as Code (IaC) để tạo ra môi trường đám mây có thể mở rộng, an toàn và hiệu quả với quy trình làm việc tự động — giúp cải thiện hơn nữa cơ sở hạ tầng."
         ],
         items: [
             {
-                title: "Cơ sở hạ tầng đám mây & Tự động hóa",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                title: "Hạ tầng đám mây & Tự động hóa",
+                description: "Nâng cao tính linh hoạt trong kinh doanh và giảm chi phí vận hành bằng cách sử dụng Terraform, AWS CloudFormation và Kubernetes."
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "GitLab, GitHub Actions với bảo mật tích hợp"
+                description: "Tăng tốc độ đưa sản phẩm ra thị trường với bảo mật tích hợp bằng cách tận dụng GitLab và GitHub Actions, cho phép phát hành phần mềm nhanh hơn và đáng tin cậy hơn."
             },
             {
                 title: "Container hóa & Điều phối",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                description: "Tạo môi trường triển khai nhất quán và khả năng mở rộng liền mạch với Docker, Kubernetes, Terraform và AWS CloudFormation."
             },
             {
-                title: "Giám sát & Quan sát",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                title: "Giám sát & Khả năng quan sát",
+                description: "Ngăn chặn thời gian chết và tối ưu hóa hiệu suất với thông tin chi tiết theo thời gian thực thông qua AWS CloudWatch, Prometheus và Grafana."
             }
         ]
     }

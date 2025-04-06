@@ -302,25 +302,24 @@ export const DevOpsFR: IDevOps = {
     services: {
         title: "Cloud & DevOps",
         descriptions: [
-            "CHORN se spécialise dans les stratégies multi-cloud (AWS, Azure, GCP, DigitalOcean) et l'implémentation de l'Infrastructure as Code (IaC) pour fournir des environnements cloud évolutifs, sécurisés et efficaces avec des flux de travail automatisés.",
-            "Offre une expertise complète en cloud et DevOps axée sur :"
+            "Stratégies multi-cloud spécialisées (AWS, Azure, GCP, DigitalOcean) avec mise en œuvre de l'Infrastructure as Code (IaC) pour créer des environnements cloud évolutifs, sécurisés et efficaces avec des flux de travail automatisés — contribuant à améliorer davantage l'infrastructure."
         ],
         items: [
             {
                 title: "Infrastructure Cloud & Automatisation",
-                description: "Terraform, AWS CloudFormation, Kubernetes"
+                description: "Améliorez l'agilité de l'entreprise et réduisez les coûts opérationnels en utilisant Terraform, AWS CloudFormation et Kubernetes."
             },
             {
                 title: "CI/CD & DevSecOps",
-                description: "GitLab, GitHub Actions avec sécurité intégrée"
+                description: "Accélérez le time-to-market avec une sécurité intégrée en tirant parti de GitLab et GitHub Actions, permettant des versions logicielles plus rapides et plus fiables."
             },
             {
                 title: "Conteneurisation & Orchestration",
-                description: "Docker, Kubernetes, Terraform, AWS CloudFormation"
+                description: "Créez des environnements de déploiement cohérents et une évolutivité transparente avec Docker, Kubernetes, Terraform et AWS CloudFormation."
             },
             {
                 title: "Surveillance & Observabilité",
-                description: "AWS CloudWatch, Prometheus, Grafana"
+                description: "Prévenez les temps d'arrêt et optimisez les performances avec des informations en temps réel via AWS CloudWatch, Prometheus et Grafana."
             }
         ]
     }

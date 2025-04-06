@@ -4,12 +4,6 @@ export const CloudSolutionFR: ICloudSolution = {
     title: "Migration vers le Cloud",
     descriptions: [
         {
-            title: "Transformer les Opérations Commerciales",
-            span: "Accélérer la Transformation Numérique",
-            description: "Libérez tout le potentiel de l'infrastructure cloud grâce à une architecture stratégique et une analyse de système qui offrent des résultats commerciaux mesurables.",
-            features: []
-        },
-        {
             title: "Prise de Décision Basée sur les Données",
             span: "Stack Technologique Pérenne",
             description: "Dans le paysage numérique en rapide évolution d'aujourd'hui, des systèmes résilients, évolutifs et pérennes permettent aux entreprises de répondre rapidement aux changements du marché tout en maintenant l'excellence opérationnelle. L'architecture cloud stratégique garantit des performances optimales, une sécurité renforcée et une rentabilité tout en soutenant les objectifs de croissance de l'entreprise.",
@@ -26,11 +20,6 @@ export const CloudSolutionFR: ICloudSolution = {
         "Innovation continue grâce aux dernières technologies cloud"
     ],
     sections: [
-        {
-            title: "Sélection Stratégique du Cloud",
-            span: "Infrastructure Cloud Sur Mesure",
-            description: "Le succès de la migration vers le cloud dépend de la sélection de la bonne plateforme pour les besoins spécifiques de l'entreprise. Qu'il s'agisse d'améliorer l'infrastructure existante ou de construire de nouveaux systèmes à partir de zéro, l'environnement cloud idéal s'aligne parfaitement avec les objectifs commerciaux. Les environnements cloud natifs, hybrides ou multi-cloud offrent chacun des avantages distincts selon les besoins d'évolutivité, les exigences de conformité et les objectifs opérationnels.",
-        },
         {
             title: "AWS",
             span: "AWS: Flexibilité et Évolutivité pour les Entreprises",
