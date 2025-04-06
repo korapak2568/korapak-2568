@@ -1,11 +1,11 @@
 import React from "react";
 import ServiceFaqJavaScript from "./ServiceFaqJavaScript";
 import Image from "next/image";
-import ServiceSidebarFrontEnd from "@/components/Services/ServiceSidebarFrontEnd";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
-import {headers} from "next/headers";
+import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
+import SidebarFullStack from "@/components/Services/SidebarFullStack";
 
 const ServicesDetailsJavaScript: React.FC<{ lang: string }> = ({lang}) => {
     return (
@@ -60,7 +60,8 @@ const ServicesDetailsJavaScript: React.FC<{ lang: string }> = ({lang}) => {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <ServiceSidebarFrontEnd/>
+                            <SidebarFrontEnd/>
+                            <SidebarFullStack/>
                         </div>
                     </div>
                 </div>

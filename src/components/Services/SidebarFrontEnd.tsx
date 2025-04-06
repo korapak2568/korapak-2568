@@ -1,13 +1,13 @@
-"use client"
+"use client";
 
 import React from "react";
 import Link from "next/link";
 import {useEffect, useState} from 'react';
-import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
+import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const ServiceSidebarFrontEnd: React.FC = () => {
+const SidebarFrontEnd: React.FC = () => {
     const locale = useLocale()
     const [currentUrl, setCurrentUrl] = useState('');
 
@@ -20,13 +20,14 @@ const ServiceSidebarFrontEnd: React.FC = () => {
     return (
         <>
             <div className="services-details-information ml-10">
+
                 <ul className="framework-list">
-                    {InfoTranslation[locale.value].FrontEnd.stacks.map((item: IFrontEndStack, index: number) => {
+                    {InfoTranslation[locale.value].FrontEnd.stacks.map((item: IFullStackStack, index: number) => {
                         if (currentUrl.includes(item.link)) {
                             return (
                                 <li key={index}>
                                     <Link href={'/' + locale.value + item.link} className="active">
-                                        <i className="bx bx-code-alt"></i>
+                                        <i className="bx bx-layer"></i>
                                         <span className="px-3">{item.features[0].title}</span>
                                     </Link>
                                 </li>
@@ -34,7 +35,7 @@ const ServiceSidebarFrontEnd: React.FC = () => {
                         }
 
                         return (
-                            <li key={index}>
+                            <li key={index} className="service-item">
                                 <Link href={'/' + locale.value + item.link}>
                                     <i className="bx bx-git-branch"></i>
                                     <span className="px-3">{item.features[0].title}</span>
@@ -48,4 +49,4 @@ const ServiceSidebarFrontEnd: React.FC = () => {
     );
 };
 
-export default ServiceSidebarFrontEnd;
+export default SidebarFrontEnd;

@@ -7,7 +7,7 @@ export const AboutVI: IAbout = {
     description: [
         {
             title: "Về Chúng Tôi",
-            description: "CHORN đã ra mắt trang web của mình vào tháng 3 năm 2023 để theo dõi và tìm hiểu về phát triển phần mềm và công nghệ cho các ngành lĩnh vực kinh doanh khác nhau, đồng thời cập nhật thông tin mới nhất về công nghệ đang thay đổi nhanh chóng trong thời đại hiện nay."
+            description: "CHORN ra mắt trang web vào tháng 3 năm 2023 để theo dõi sự phát triển phần mềm và công nghệ cho các ngành lĩnh vực kinh doanh đang thay đổi nhanh chóng."
         },
         {
             title: "Chuyên Môn",
@@ -15,7 +15,7 @@ export const AboutVI: IAbout = {
         },
         {
             title: "Địa Điểm và Hình Thức Làm Việc",
-            description: "Dịch vụ phát triển phần mềm cho công việc từ xa, kết hợp và tại văn phòng ở Chiang Mai, Bangkok và nước ngoài. Xây dựng các ứng dụng chứng minh khái niệm (PoC), sản phẩm khả thi tối thiểu (MVP), phân tích yêu cầu hệ thống và nâng cấp các hệ thống hiện có để đáp ứng nhu cầu kinh doanh đang phát triển."
+            description: "Phát triển phần mềm thông qua làm việc từ xa, kết hợp và văn phòng tại Chiang Mai, Bangkok và quốc tế. Tạo ra các ứng dụng chứng minh khái niệm (PoC), sản phẩm khả thi tối thiểu (MVP), giúp phân tích yêu cầu hệ thống và cải thiện hệ thống hiện có để đáp ứng nhu cầu kinh doanh thay đổi."
         }
     ],
     stacks: [

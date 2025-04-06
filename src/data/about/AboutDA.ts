@@ -7,7 +7,7 @@ export const AboutDA: IAbout = {
     description: [
         {
             title: "Om Os",
-            description: "CHORN lancerede sin hjemmeside i marts 2023 for at følge og lære om softwareudvikling og teknologi til forskellige forretningsdomæneindustrier, samt følge de seneste oplysninger om hurtigt skiftende teknologi i nutiden.",
+            description: "CHORN lancerede sin hjemmeside i marts 2023 for at følge softwareudvikling og teknologi til forskellige hurtigt skiftende forretningsdomæneindustrier."
         },
         {
             title: "Ekspertise",
@@ -15,7 +15,7 @@ export const AboutDA: IAbout = {
         },
         {
             title: "Placering og Arbejdsform",
-            description: "Softwareudviklingstjenester til fjernarbejde, hybrid og kontorbaseret arbejde i Chiang Mai, Bangkok og i udlandet. Bygning af proof-of-concept (PoC) applikationer, minimum viable products (MVP'er), analyse af systemkrav og forbedring af eksisterende systemer for at imødekomme skiftende forretningsbehov."
+            description: "Udvikler software gennem fjernarbejde, hybrid og kontorarbejde i Chiang Mai, Bangkok og internationalt. Skaber proof of concept (PoC) applikationer, minimum levedygtige produkter (MVP), hjælper med at analysere systemkrav og forbedrer eksisterende systemer for at imødekomme skiftende forretningsbehov."
         }
     ],
     stacks: [

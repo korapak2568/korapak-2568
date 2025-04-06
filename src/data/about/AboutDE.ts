@@ -7,7 +7,7 @@ export const AboutDE: IAbout = {
     description: [
         {
             title: "Über Uns",
-            description: "CHORN startete seine Website im März 2023, um Softwareentwicklung und Technologie für verschiedene Geschäftsbereiche zu verfolgen und zu erlernen, sowie die neuesten Informationen über die sich schnell ändernde Technologie in der heutigen Zeit zu verfolgen."
+            description: "CHORN startete seine Website im März 2023, um die Softwareentwicklung und Technologie für verschiedene sich schnell verändernde Geschäftsdomänenindustrien zu verfolgen."
         },
         {
             title: "Fachwissen",
@@ -15,7 +15,7 @@ export const AboutDE: IAbout = {
         },
         {
             title: "Standort und Arbeitsform",
-            description: "Softwareentwicklungsdienste für Remote-, Hybrid- und Büroarbeit in Chiang Mai, Bangkok und im Ausland. Entwicklung von Proof-of-Concept (PoC) Anwendungen, Minimum Viable Products (MVPs), Analyse von Systemanforderungen und Verbesserung bestehender Systeme, um sich ändernde Geschäftsanforderungen zu erfüllen."
+            description: "Entwickelt Software durch Remote-, Hybrid- und Büroarbeit in Chiang Mai, Bangkok und international. Erstellt Proof-of-Concept (PoC)-Anwendungen, minimale funktionsfähige Produkte (MVP), hilft bei der Analyse von Systemanforderungen und verbessert bestehende Systeme, um auf sich ändernde Geschäftsanforderungen zu reagieren."
         }
     ],
     stacks: [

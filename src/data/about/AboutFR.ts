@@ -7,7 +7,7 @@ export const AboutFR: IAbout = {
     description: [
         {
             title: "À Propos de Nous",
-            description: "CHORN a lancé son site web en mars 2023 pour suivre et apprendre sur le développement logiciel et la technologie pour diverses industries du domaine des affaires, et suivre les dernières informations sur les technologies en rapide évolution à l'heure actuelle."
+            description: "CHORN a lancé son site web en mars 2023 pour suivre le développement logiciel et les technologies pour diverses industries à domaines d'activité en évolution rapide."
         },
         {
             title: "Expertise",
@@ -15,7 +15,7 @@ export const AboutFR: IAbout = {
         },
         {
             title: "Lieu et Format de Travail",
-            description: "Services de développement logiciel pour le travail à distance, hybride et en bureau à Chiang Mai, Bangkok et à l'étranger. Création d'applications de preuve de concept (PoC), de produits minimum viables (MVP), analyse des exigences système et amélioration des systèmes existants pour répondre aux besoins commerciaux en évolution."
+            description: "Développe des logiciels via le travail à distance, hybride et en bureau à Chiang Mai, Bangkok et à l'international. Crée des applications de preuve de concept (PoC), des produits minimum viables (MVP), aide à analyser les exigences système et améliore les systèmes existants pour répondre aux besoins commerciaux changeants."
         }
     ],
     stacks: [

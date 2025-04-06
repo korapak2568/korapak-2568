@@ -7,7 +7,7 @@ export const AboutFI: IAbout = {
     description: [
         {
             title: "Meistä",
-            description: "CHORN julkaisi verkkosivustonsa maaliskuussa 2023 seuratakseen ja oppiakseen ohjelmistokehityksestä ja teknologiasta eri liiketoiminta-aloilla, sekä seuratakseen viimeisimpiä tietoja nykyajan nopeasti muuttuvasta teknologiasta.",
+            description: "CHORN julkaisi verkkosivustonsa maaliskuussa 2023 seuratakseen ohjelmistokehitystä ja teknologiaa erilaisille nopeasti muuttuville liiketoiminta-alueiden toimialoille."
         },
         {
             title: "Asiantuntemus",
@@ -15,7 +15,7 @@ export const AboutFI: IAbout = {
         },
         {
             title: "Sijainti ja Työmuoto",
-            description: "Ohjelmistokehityspalveluita etä-, hybridi- ja toimistotyöhön Chiang Maissa, Bangkokissa ja ulkomailla. Proof-of-concept (PoC) -sovellusten, pienimmän toimivan tuotteen (MVP) rakentaminen, järjestelmävaatimusten analysointi ja olemassa olevien järjestelmien parantaminen kehittyvien liiketoimintatarpeiden täyttämiseksi."
+            description: "Kehittää ohjelmistoja etä-, hybridi- ja toimistotyön kautta Chiang Maissa, Bangkokissa ja kansainvälisesti. Luo proof of concept (PoC) -sovelluksia, pienimpiä toimivia tuotteita (MVP), auttaa analysoimaan järjestelmävaatimuksia ja parantaa olemassa olevia järjestelmiä vastaamaan muuttuviin liiketoimintatarpeisiin."
         }
     ],
     stacks: [

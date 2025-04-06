@@ -1,10 +1,11 @@
 import React from "react";
 import ServiceFaqPhp from "./ServiceFaqPhp";
 import Image from "next/image";
-import ServiceSidebarFullStack from "@/components/Services/ServiceSidebarFullStack";
+import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
+import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 
 const ServicesDetailsPhp: React.FC<{ lang: string }> = ({lang}) => {
     return (
@@ -59,7 +60,8 @@ const ServicesDetailsPhp: React.FC<{ lang: string }> = ({lang}) => {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <ServiceSidebarFullStack/>
+                            <SidebarFullStack/>
+                            <SidebarFrontEnd/>
                         </div>
                     </div>
                 </div>

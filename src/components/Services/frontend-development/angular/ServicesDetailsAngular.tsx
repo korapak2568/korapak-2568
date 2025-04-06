@@ -1,10 +1,11 @@
 import React from "react";
 import ServiceFaqAngular from "./ServiceFaqAngular";
 import Image from "next/image";
-import ServiceSidebarFrontEnd from "@/components/Services/ServiceSidebarFrontEnd";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
+import SidebarFullStack from "@/components/Services/SidebarFullStack";
+import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 
 const ServicesDetailsAngular: React.FC<{ lang: string }> = ({lang}) => {
     return (
@@ -58,7 +59,8 @@ const ServicesDetailsAngular: React.FC<{ lang: string }> = ({lang}) => {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <ServiceSidebarFrontEnd/>
+                            <SidebarFrontEnd/>
+                            <SidebarFullStack/>
                         </div>
                     </div>
                 </div>

@@ -7,7 +7,8 @@ export const AboutEN: IAbout = {
     description: [
         {
             title: "About Us",
-            description: "CHORN launched its website in March 2023 to track and learn about software development and technology for various business domain industries, and following the latest information about rapidly changing technology in the present day."
+            description: "CHORN launched its website in March 2023 to track software development and technology for various rapidly changing business domain industries."
+
         },
         {
             title: "Expertise",
@@ -15,7 +16,7 @@ export const AboutEN: IAbout = {
         },
         {
             title: "Software Development Solutions",
-            description: "Software development services for remote, hybrid, and office-based work in Chiang Mai, Bangkok, and abroad. Building proof-of-concept (PoC) applications, minimum viable products (MVP), analyzing system requirements, and enhancing existing systems to meet evolving business needs."
+            description: "Develops software through remote, hybrid, and office work in Chiang Mai, Bangkok, and internationally. Creates proof of concept (PoC) applications, minimum viable products (MVP), helps analyze system requirements, and improves existing systems to respond to changing business needs."
         }
     ],
     stacks: [

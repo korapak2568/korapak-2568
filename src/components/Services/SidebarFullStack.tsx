@@ -7,7 +7,7 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const ServiceSidebarFullStack: React.FC = () => {
+const SidebarFullStack: React.FC = () => {
     const locale = useLocale()
     const [currentUrl, setCurrentUrl] = useState('');
 
@@ -44,11 +44,9 @@ const ServiceSidebarFullStack: React.FC = () => {
                         )
                     })}
                 </ul>
-
-                {/*<ContactSidebar/>*/}
             </div>
         </>
     );
 };
 
-export default ServiceSidebarFullStack;
+export default SidebarFullStack;
