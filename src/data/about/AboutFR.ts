@@ -20,16 +20,16 @@ export const AboutFR: IAbout = {
     ],
     stacks: [
         {
-            title: "Analyse de système et support technique",
-            description: "Expérience en analyse approfondie des systèmes, recommandations techniques et support pour les applications critiques pour les entreprises afin d'assurer la fiabilité, la crédibilité et l'efficacité du système. Optimisation des systèmes, contrôle qualité et tests logiciels, modèles de langage de grande taille, intelligence artificielle et mise en œuvre de technologies de pointe pour des opérations commerciales durables."
+            title: "Analyse de Système et Support Technique",
+            description: "Analyse approfondie des systèmes et recommandations techniques pour améliorer les applications et systèmes critiques. Assure la fiabilité, le contrôle qualité, les tests logiciels et l'implémentation de technologies modernes pour un fonctionnement et une amélioration continue des activités."
         },
         {
-            title: "Ingénierie logicielle et IA",
-            description: "Développement de sites web et de systèmes logiciels personnalisés utilisant des technologies avancées. Développement logiciel avec des frameworks modernes, expertise en frontend, backend, solutions cloud, blockchain, Web3, développement de contrats intelligents, intégration de systèmes d'intelligence artificielle et modèles de langage de grande taille."
+            title: "Ingénierie du Développement Logiciel et Intégration de Systèmes d'IA",
+            description: "Développement de sites web et de systèmes logiciels personnalisés utilisant des frameworks modernes. Expertise en développement frontend, backend et solutions d'infrastructure cloud. Développement de contrats intelligents, blockchain, Web3, intégration de systèmes d'IA et de grands modèles de langage."
         },
         {
-            title: "Développement logiciel agile et coordination d'équipes commerciales",
-            description: "Expérience en développement logiciel agile et coordination d'équipes commerciales. Expérience de travail en étroite collaboration avec des équipes nationales et internationales, des clients internes et externes, des utilisateurs professionnels et des fournisseurs. Projets d'amélioration continue dans les méthodologies de travail agile, en cascade et hybrides."
+            title: "Développement Agile et Coordination d'Équipe Business",
+            description: "Développement logiciel agile avec coordination d'équipes business. Collaboration étroite avec des équipes nationales et internationales, clients internes et externes, utilisateurs métier. Les méthodologies de travail incluent les approches agile, en cascade et hybrides."
         }
     ]
 };

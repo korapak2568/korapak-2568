@@ -23,7 +23,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[lang].FrontEnd.title}/>
+            {/*<PageBanner pageTitle={InfoTranslation[lang].FrontEnd.title}/>*/}
 
             <FrontEndPageMain lang={lang}/>
 

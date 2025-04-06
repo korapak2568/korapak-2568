@@ -5,22 +5,19 @@ import ServiceSidebarDevOpsTesting from "@/components/Services/ServiceSidebarDev
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
-import {headers} from "next/headers";
 
-const ServicesDetailsPostman: React.FC = () => {
-    const lang = headers().get('x-locale') || 'en';
-
+const ServicesDetailsPostman: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
-            <div className="services-details-area ptb-100">
+            <div className="services-details-area ptb-50">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="services-details-desc">
-                                <h3>{InfoTranslation[lang].DevOps.postman.features[0].title}</h3>
+                                <h1>{InfoTranslation[lang].DevOps.postman.features[0].title}</h1>
                                 <p>{InfoTranslation[lang].DevOps.postman.features[0].description}</p>
 
-                                <h3>{InfoTranslation[lang].DevOps.postman.features[1].title}</h3>
+                                <h2 className="pt-4">{InfoTranslation[lang].DevOps.postman.features[1].title}</h2>
                                 <p>{InfoTranslation[lang].DevOps.postman.features[1].description}</p>
 
                                 <div className="services-details-features">
@@ -33,10 +30,17 @@ const ServicesDetailsPostman: React.FC = () => {
                                         />
 
                                         <div className="col-lg-6">
-                                            <ul className="features-list">
+                                            <ul className="feature-list">
                                                 {InfoTranslation[lang].DevOps.postman.features[1].list.map((item: string, index: number) => (
-                                                    <li key={index}>
-                                                        <i className="flaticon-check"></i> {item}
+                                                    <li key={index} className="feature-item">
+                                                        <div className="icon">
+                                                            <i className="flaticon-check"></i>
+                                                        </div>
+                                                        <div className="content">
+                                                            <p>
+                                                                {item}
+                                                            </p>
+                                                        </div>
                                                     </li>
                                                 ))}
                                             </ul>

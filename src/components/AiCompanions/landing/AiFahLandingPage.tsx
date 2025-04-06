@@ -10,7 +10,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const AiFahLandingPage: React.FC = () => {
-    const locale = useLocale()
+    const lang = useLocale().value
 
     return (
         <>
@@ -18,25 +18,28 @@ const AiFahLandingPage: React.FC = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-8">
+
+                            <h1>{InfoTranslation[lang].AiCompanions.fah.title}</h1>
+
                             <div className="portfolio-details-image">
                                 <Image
-                                    src={InfoTranslation[locale.value].AiCompanions.fah.pages.landing.image.path}
+                                    src={InfoTranslation[lang].AiCompanions.fah.pages.landing.image.path}
                                     alt="portfolio"
                                     width={1000}
                                     height={600}
                                 />
                             </div>
 
-                            {InfoTranslation[locale.value].AiCompanions.fah.features.map((feature, index: number) => (
+                            {InfoTranslation[lang].AiCompanions.fah.features.map((feature, index: number) => (
                                 <div key={index} className={`portfolio-details-desc portfolio-details-desc-custom`}>
                                     <div className={'unique-features-container'}>
                                         <h3>{feature.title}</h3>
 
                                         {index == 0 &&
-                                            <a href={InfoTranslation[locale.value].AiCompanions.fah.line.link}
+                                            <a href={InfoTranslation[lang].AiCompanions.fah.line.link}
                                                target={'_blank'}>
                                                 <Image
-                                                    src={InfoTranslation[locale.value].AiCompanions.fah.line.button}
+                                                    src={InfoTranslation[lang].AiCompanions.fah.line.button}
                                                     alt="เพิ่มเพื่อน"
                                                     width={120}
                                                     height={36}
@@ -63,7 +66,7 @@ const AiFahLandingPage: React.FC = () => {
                         <div className="col-lg-4 col-md-12">
                             <div className="portfolio-details-information ml-10">
                                 <ul className={'ul-custom'}>
-                                    {InfoTranslation[locale.value].AiCompanions.fah.sidebars.map((sidebar, index: number) => (
+                                    {InfoTranslation[lang].AiCompanions.fah.sidebars.map((sidebar, index: number) => (
                                         <li key={index} className={'li-sidebar-custom'}>
                                             <div className="icon">
                                                 <i className={sidebar.icon}></i>
@@ -73,8 +76,8 @@ const AiFahLandingPage: React.FC = () => {
                                         </li>
                                     ))}
 
-                                    {InfoTranslation[locale.value].AiCompanions.fah.relevants.map((ai, index) => (
-                                        <Link key={index} href={'/' + locale.value + ai.pages.landing.link}>
+                                    {InfoTranslation[lang].AiCompanions.fah.relevants.map((ai, index) => (
+                                        <Link key={index} href={'/' + lang + ai.pages.landing.link}>
                                             <li className="li-sidebar-relevant">
                                                 <Image
                                                     src={ai.thumbnail}

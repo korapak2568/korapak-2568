@@ -20,16 +20,16 @@ export const AboutDE: IAbout = {
     ],
     stacks: [
         {
-            title: "Systemanalyse und technischer Support",
-            description: "Erfahrung in tiefgreifender Systemanalyse, technischen Empfehlungen und Support für geschäftskritische Anwendungen, um Zuverlässigkeit, Vertrauenswürdigkeit und Effizienz des Systems zu gewährleisten. Systemoptimierung, Qualitätskontrolle und Softwaretests, große Sprachmodelle, künstliche Intelligenz und Implementierung hochmoderner Technologien für nachhaltige Geschäftsabläufe."
+            title: "Systemanalyse und Technischer Support",
+            description: "Tiefgehende Systemanalyse und technische Empfehlungen zur Verbesserung kritischer Anwendungen und Systeme. Gewährleistet Zuverlässigkeit, Qualitätskontrolle, Softwaretests und die Implementierung moderner Technologien für kontinuierlichen Geschäftsbetrieb und Verbesserung."
         },
         {
-            title: "Softwareentwicklung und KI",
-            description: "Website- und kundenspezifische Softwaresystementwicklung mit fortschrittlichen Technologien. Softwareentwicklung mit modernen Frameworks, Expertise in Frontend, Backend, Cloud-Lösungen, Blockchain, Web3, Smart-Contract-Entwicklung, Integration von KI-Systemen und großen Sprachmodellen."
+            title: "Software-Entwicklungstechnik und KI-Systemintegration",
+            description: "Entwicklung maßgeschneiderter Websites und Softwaresysteme mit modernen Frameworks. Expertise in Frontend, Backend und Cloud-Infrastrukturlösungen. Entwicklung von Smart Contracts, Blockchain, Web3, KI-Systemintegration und großen Sprachmodellen."
         },
         {
-            title: "Agile Softwareentwicklung und Koordination von Geschäftsteams",
-            description: "Erfahrung in agiler Softwareentwicklung und Koordination von Geschäftsteams. Erfahrung in enger Zusammenarbeit mit Teams im In- und Ausland, internen und externen Kunden, Geschäftsanwendern und Lieferanten. Kontinuierliche Verbesserungsprojekte in agilen, Wasserfall- und hybriden Arbeitsmethoden."
+            title: "Agile Softwareentwicklung und Business-Team-Koordination",
+            description: "Agile Softwareentwicklung mit Business-Team-Koordination. Enge Zusammenarbeit mit nationalen und internationalen Teams, internen und externen Kunden, Business-Anwendern. Arbeitsmethoden umfassen agile, Wasserfall- und hybride Ansätze."
         }
     ]
 };

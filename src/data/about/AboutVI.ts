@@ -20,16 +20,16 @@ export const AboutVI: IAbout = {
     ],
     stacks: [
         {
-            title: "Phân tích hệ thống và hỗ trợ kỹ thuật",
-            description: "Kinh nghiệm trong phân tích hệ thống chuyên sâu, đề xuất kỹ thuật và hỗ trợ cho các ứng dụng quan trọng đối với doanh nghiệp để đảm bảo độ tin cậy, đáng tin cậy và hiệu quả của hệ thống. Tối ưu hóa hệ thống, kiểm soát chất lượng và kiểm thử phần mềm, mô hình ngôn ngữ lớn, trí tuệ nhân tạo và triển khai công nghệ tiên tiến cho hoạt động kinh doanh bền vững."
+            title: "Phân Tích Hệ Thống và Hỗ Trợ Kỹ Thuật",
+            description: "Phân tích hệ thống chuyên sâu và đề xuất kỹ thuật nâng cao ứng dụng và hệ thống quan trọng. Đảm bảo độ tin cậy, kiểm soát chất lượng, kiểm thử phần mềm và triển khai công nghệ hiện đại cho hoạt động kinh doanh liên tục và cải tiến."
         },
         {
-            title: "Kỹ thuật phần mềm và AI",
-            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng công nghệ tiên tiến. Phát triển phần mềm với các framework hiện đại, chuyên môn về frontend, backend, giải pháp đám mây, blockchain, Web3, phát triển hợp đồng thông minh, tích hợp hệ thống trí tuệ nhân tạo và mô hình ngôn ngữ lớn."
+            title: "Kỹ Thuật Phát Triển Phần Mềm và Tích Hợp Hệ Thống AI",
+            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng các framework hiện đại. Chuyên môn về frontend, backend và giải pháp cơ sở hạ tầng đám mây. Phát triển hợp đồng thông minh, blockchain, Web3, tích hợp hệ thống AI và mô hình ngôn ngữ lớn."
         },
         {
-            title: "Phát triển phần mềm Agile và phối hợp đội ngũ kinh doanh",
-            description: "Kinh nghiệm trong phát triển phần mềm linh hoạt và phối hợp đội ngũ kinh doanh. Kinh nghiệm làm việc chặt chẽ với các đội trong nước và quốc tế, khách hàng nội bộ và bên ngoài, người dùng doanh nghiệp và nhà cung cấp. Các dự án cải tiến liên tục trong phương pháp làm việc agile, waterfall và kết hợp."
+            title: "Phát Triển Phần Mềm Agile và Phối Hợp Đội Kinh Doanh",
+            description: "Phát triển phần mềm agile với sự phối hợp của đội kinh doanh. Hợp tác chặt chẽ với các đội trong nước và quốc tế, khách hàng nội bộ và bên ngoài, người dùng doanh nghiệp. Phương pháp làm việc bao gồm agile, waterfall và các cách tiếp cận kết hợp."
         }
     ]
 };

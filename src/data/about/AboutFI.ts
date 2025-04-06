@@ -20,16 +20,16 @@ export const AboutFI: IAbout = {
     ],
     stacks: [
         {
-            title: "Järjestelmäanalyysi ja tekninen tuki",
-            description: "Kokemus syvällisestä järjestelmäanalyysistä, teknisistä suosituksista ja liiketoiminnan kannalta kriittisten sovellusten tuesta järjestelmän luotettavuuden, uskottavuuden ja tehokkuuden varmistamiseksi. Järjestelmien optimointi, laadunvalvonta ja ohjelmistotestaus, suuret kielimallit, tekoäly ja huipputeknologian käyttöönotto kestävää liiketoimintaa varten."
+            title: "Järjestelmäanalyysi ja Tekninen Tuki",
+            description: "Perusteellinen järjestelmäanalyysi ja tekniset suositukset kriittisten sovellusten ja järjestelmien parantamiseksi. Varmistaa luotettavuuden, laadunvalvonnan, ohjelmistotestauksen ja modernien teknologioiden käyttöönoton jatkuvaa liiketoimintaa ja kehitystä varten."
         },
         {
-            title: "Ohjelmistotekniikka ja tekoäly",
-            description: "Verkkosivustojen ja räätälöityjen ohjelmistojärjestelmien kehittäminen edistyksellisillä teknologioilla. Ohjelmistokehitys moderneilla sovelluskehyksillä, asiantuntemus frontendin, backendin, pilviratkaisujen, lohkoketjun, Web3:n, älysopimuskehityksen, tekoälyjärjestelmien integroinnin ja suurten kielimallien alueilla."
+            title: "Ohjelmistokehitystekniikka ja Tekoälyjärjestelmien Integrointi",
+            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehittäminen käyttäen moderneja ohjelmistokehyksiä. Asiantuntemus frontend-, backend- ja pilvi-infrastruktuuriratkaisuissa. Älysopimusten, lohkoketjun, Web3:n, tekoälyjärjestelmien integroinnin ja suurten kielimallien kehittäminen."
         },
         {
-            title: "Ketterä ohjelmistokehitys ja liiketoimintatiimien koordinointi",
-            description: "Kokemus ketterästä ohjelmistokehityksestä ja liiketoimintatiimien koordinoinnista. Kokemus tiiviistä yhteistyöstä kotimaisten ja kansainvälisten tiimien, sisäisten ja ulkoisten asiakkaiden, liiketoimintakäyttäjien ja toimittajien kanssa. Jatkuvan parantamisen projekteja ketterissä, vesiputous- ja hybridityöskentelymenetelmissä."
+            title: "Ketterä Ohjelmistokehitys ja Liiketoimintatiimien Koordinointi",
+            description: "Ketterä ohjelmistokehitys liiketoimintatiimien koordinoinnilla. Tiivis yhteistyö kotimaisten ja kansainvälisten tiimien, sisäisten ja ulkoisten asiakkaiden sekä liiketoimintakäyttäjien kanssa. Työmenetelmät sisältävät ketteriä, vesiputous- ja hybridilähestymistapoja."
         }
     ]
 };

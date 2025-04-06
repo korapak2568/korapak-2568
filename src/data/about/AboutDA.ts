@@ -20,16 +20,16 @@ export const AboutDA: IAbout = {
     ],
     stacks: [
         {
-            title: "Systemanalyse og teknisk support",
-            description: "Erfaring med dybdegående systemanalyse, tekniske anbefalinger og support til forretningskritiske applikationer for at sikre systemets pålidelighed, troværdighed og effektivitet. Systemoptimering, kvalitetskontrol og softwaretest, store sprogmodeller, kunstig intelligens og implementering af banebrydende teknologier til bæredygtig forretningsdrift."
+            title: "Systemanalyse og Teknisk Support",
+            description: "Dybdegående systemanalyse og tekniske anbefalinger til forbedring af kritiske applikationer og systemer. Sikrer pålidelighed, kvalitetskontrol, softwaretest og implementering af moderne teknologier til kontinuerlig forretningsdrift og forbedring."
         },
         {
-            title: "Softwareudvikling og AI",
-            description: "Udvikling af hjemmesider og skræddersyede softwaresystemer ved hjælp af avancerede teknologier. Softwareudvikling med moderne frameworks, ekspertise inden for frontend, backend, cloud-løsninger, blockchain, Web3, smart contract-udvikling, integration af kunstig intelligens-systemer og store sprogmodeller."
+            title: "Softwareudviklingsteknologi og AI-systemintegration",
+            description: "Udvikling af skræddersyede hjemmesider og softwaresystemer ved hjælp af moderne frameworks. Ekspertise inden for frontend, backend og cloudinfrastrukturløsninger. Udvikling af smart contracts, blockchain, Web3, AI-systemintegration og store sprogmodeller."
         },
         {
-            title: "Agil softwareudvikling og koordinering af forretningsteams",
-            description: "Erfaring med agil softwareudvikling og koordinering af forretningsteams. Erfaring med at arbejde tæt sammen med teams både nationalt og internationalt, interne og eksterne kunder, forretningsbrugere og leverandører. Kontinuerlige forbedringsprojekter i agile, waterfall og hybride arbejdsmetoder."
+            title: "Agil Softwareudvikling og Forretningsteamkoordinering",
+            description: "Agil softwareudvikling med forretningsteamkoordinering. Tæt samarbejde med indenlandske og internationale teams, interne og eksterne kunder, forretningsbrugere. Arbejdsmetoder omfatter agile, vandfalds- og hybride tilgange."
         }
     ]
 };

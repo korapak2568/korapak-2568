@@ -21,15 +21,9 @@ const Page = () => {
     return (
         <>
             <Navbar/>
-
-            <PageBanner pageTitle={InfoTranslation[lang].FullStack.go.features[0].title}/>
-
-            <ServicesDetailsGoLang/>
-
+            <ServicesDetailsGoLang lang={lang}/>
             <CloudExperience/>
-
             <Footer/>
-
             <SchemaMarkupServicePage
                 name="Go Full Stack Development | CHORN"
                 description="CHORN offers Go full stack development services for building efficient and scalable web applications."

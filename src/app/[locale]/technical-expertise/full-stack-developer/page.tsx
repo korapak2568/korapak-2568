@@ -23,7 +23,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[lang].FullStack.title}/>
+            {/*<PageBanner pageTitle={InfoTranslation[lang].FullStack.title}/>*/}
 
             <FullStackPageMain lang={lang}/>
 

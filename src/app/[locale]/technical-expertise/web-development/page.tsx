@@ -8,7 +8,6 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import WebDevelopmentPageMain from "@/components/Services/WebDevelopment/WebDevelopmentPageMain";
 import {headers} from "next/headers";
-import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {MetadataWebDevelopment} from "@/metadata/pages/web-development/common/MetadataWebDevelopment";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -23,7 +22,7 @@ const Page = () => {
         <>
             <Navbar/>
 
-            <PageBanner pageTitle={InfoTranslation[lang].Feature.stacks[2].title}/>
+            {/*<PageBanner pageTitle={InfoTranslation[lang].Feature.stacks[2].title}/>*/}
 
             <WebDevelopmentPageMain lang={lang}/>
 

@@ -20,18 +20,21 @@ const AboutRight: React.FC = () => {
                     </div>
                 ))}
 
-                {InfoTranslation[lang].About.stacks.map((item: IAboutContent, index: any) => (
-                    <div key={index} className="about-inner-content">
-                        <div className="icon">
-                            <i className="flaticon-check"></i>
-                        </div>
-                        <h4>{item.title}</h4>
-
-                        {item.description != undefined && (
-                            <p dangerouslySetInnerHTML={{__html: item.description}}/>
-                        )}
-                    </div>
-                ))}
+                <ul className="feature-list">
+                    {InfoTranslation[lang].About.stacks.map((item: IAboutContent, index: any) => (
+                        <li key={index} className="feature-item">
+                            <div className="icon">
+                                <i className="flaticon-check"></i>
+                            </div>
+                            <div className="content">
+                                <strong>{item.title}</strong>
+                                <p>
+                                    {item.description}
+                                </p>
+                            </div>
+                        </li>
+                    ))}
+                </ul>
             </div>
         </div>
     )

@@ -15,7 +15,7 @@ const AiCompanionsPage: React.FC = () => {
                 <div className="container">
                     <div className="row">
                         <div className={"add-web-content"}>
-                            <h2>{InfoTranslation[locale.value].Service.demo.title}</h2>
+                            <h1>{InfoTranslation[locale.value].Service.demo.title}</h1>
                             <p>{InfoTranslation[locale.value].Service.demo.description}</p>
 
                             <div>

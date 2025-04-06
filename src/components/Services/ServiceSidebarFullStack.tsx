@@ -21,22 +21,24 @@ const ServiceSidebarFullStack: React.FC = () => {
         <>
             <div className="services-details-information ml-10">
 
-                <ul className="services-list">
+                <ul className="framework-list">
                     {InfoTranslation[locale.value].FullStack.stacks.map((item: IFullStackStack, index: number) => {
                         if (currentUrl.includes(item.link)) {
                             return (
                                 <li key={index}>
                                     <Link href={'/' + locale.value + item.link} className="active">
-                                        <i className="bx bx-layer"></i>{item.features[0].title}
+                                        <i className="bx bx-layer"></i>
+                                        <span className="px-3">{item.features[0].title}</span>
                                     </Link>
                                 </li>
                             )
                         }
 
                         return (
-                            <li key={index}>
+                            <li key={index} className="service-item">
                                 <Link href={'/' + locale.value + item.link}>
-                                    <i className="bx bx-git-branch"></i>{item.features[0].title}
+                                    <i className="bx bx-git-branch"></i>
+                                    <span className="px-3">{item.features[0].title}</span>
                                 </Link>
                             </li>
                         )

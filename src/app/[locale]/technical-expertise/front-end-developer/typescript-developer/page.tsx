@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsTypeScript
     from "@/components/Services/frontend-development/typescript/ServicesDetailsTypeScript";
@@ -9,7 +8,6 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
 import {MetadataReact} from "@/metadata/pages/frontend/react/common/MetadataReact";
-import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';
@@ -22,15 +20,9 @@ const Page = () => {
     return (
         <>
             <Navbar/>
-
-            <PageBanner pageTitle={InfoTranslation[lang].FrontEnd.typescript.features[0].title}/>
-
-            <ServicesDetailsTypeScript/>
-
+            <ServicesDetailsTypeScript lang={lang}/>
             <CloudExperience/>
-
             <Footer/>
-
             <SchemaMarkupServicePage
                 name="TypeScript | CHORN - Custom Software Development Experts"
                 description="Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries."

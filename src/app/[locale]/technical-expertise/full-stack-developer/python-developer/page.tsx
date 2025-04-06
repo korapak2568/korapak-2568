@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsPython from "@/components/Services/fullstack-development/python/ServicesDetailsPython";
 import CloudExperience from "@/components/Common/CloudExperience";
@@ -8,7 +7,6 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
 import {MetadataPython} from "@/metadata/pages/backend/python/common/MetadataPython";
-import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';
@@ -21,15 +19,9 @@ const Page = () => {
     return (
         <>
             <Navbar/>
-
-            <PageBanner pageTitle={InfoTranslation[lang].FullStack.python.features[0].title}/>
-
-            <ServicesDetailsPython/>
-
+            <ServicesDetailsPython lang={lang}/>
             <CloudExperience/>
-
             <Footer/>
-
             <SchemaMarkupServicePage
                 name="Python Full Stack Development | CHORN"
                 description="CHORN offers Python full stack development services to build dynamic and scalable web applications."

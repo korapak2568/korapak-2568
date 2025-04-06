@@ -1,16 +1,13 @@
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {headers} from "next/headers";
 
-const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
-    const lang = headers().get('x-locale') || 'en';
-
+const CloudInfraPageMain: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
             <div className="services-area pt-100 pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
-
+                        <h1>{InfoTranslation[lang].CloudSolution.title}</h1>
                         <div className={'add-web-content'}>
                             {InfoTranslation[lang].CloudSolution.descriptions.map(
                                 (description, index) =>
@@ -34,4 +31,4 @@ const ServicesCardCloudInfrastructureSystemsArchitecture: React.FC = () => {
     );
 };
 
-export default ServicesCardCloudInfrastructureSystemsArchitecture;
+export default CloudInfraPageMain;

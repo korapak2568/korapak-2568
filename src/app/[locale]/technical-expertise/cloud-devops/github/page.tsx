@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsGitHub from "@/components/Services/cloud-devops/github/ServicesDetailsGitHub";
@@ -8,7 +7,6 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
 import {MetadataGitHub} from "@/metadata/pages/devops/github/common/MetadataGitHub";
-import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';
@@ -21,15 +19,9 @@ const Page = () => {
     return (
         <>
             <Navbar/>
-
-            <PageBanner pageTitle={InfoTranslation[lang].DevOps.github.features[0].title}/>
-
-            <ServicesDetailsGitHub/>
-
+            <ServicesDetailsGitHub lang={lang}/>
             <CloudExperience/>
-
             <Footer/>
-
             <SchemaMarkupServicePage
                 name="GitHub DevOps Services | CHORN"
                 description="CHORN offers DevOps services integrating GitHub for version control, continuous integration, and automated workflows."

@@ -20,13 +20,14 @@ const ServiceSidebarDevOpsTesting: React.FC = () => {
     return (
         <>
             <div className="services-details-information ml-10">
-                <ul className="services-list">
+                <ul className="framework-list">
                     {InfoTranslation[locale.value].DevOps.stacks.map((item: IDevOpsStack, index: number) => {
                         if (currentUrl.includes(item.link)) {
                             return (
                                 <li key={index}>
                                     <Link href={'/' + locale.value + item.link} className="active">
-                                        <i className="bx bx-cog"></i> {item.features[0].title}
+                                        <i className="bx bx-cog"></i>
+                                        <span className="px-3">{item.features[0].title}</span>
                                     </Link>
                                 </li>
                             )
@@ -35,7 +36,8 @@ const ServiceSidebarDevOpsTesting: React.FC = () => {
                         return (
                             <li key={index}>
                                 <Link href={'/' + locale.value + item.link}>
-                                    <i className="bx bx-git-branch"></i> {item.features[0].title}
+                                    <i className="bx bx-git-branch"></i>
+                                    <span className="px-3">{item.features[0].title}</span>
                                 </Link>
                             </li>
                         )

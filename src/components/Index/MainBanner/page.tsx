@@ -1,12 +1,10 @@
 // src/components/LogoSocial/HomeWorkspace/HomeAiSolutionBanner.tsx
 
-"use client";
-
 import React from "react";
 import Left from "@/components/AI/HomeAiSolutionBanner/left";
 import Right from "@/components/AI/HomeAiSolutionBanner/right";
 
-export default function Page() {
+export default function Page({lang}: { lang: string }) {
 
     return (
         <>
@@ -16,7 +14,7 @@ export default function Page() {
                         <div className="d-table-cell">
                             <div className="container-fluid">
                                 <div className="row align-items-center">
-                                    <Left/>
+                                    <Left lang={lang}/>
                                     <Right/>
                                 </div>
                             </div>

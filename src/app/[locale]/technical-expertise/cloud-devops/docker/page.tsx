@@ -21,15 +21,9 @@ const Page = () => {
     return (
         <>
             <Navbar/>
-
-            <PageBanner pageTitle={InfoTranslation[lang].DevOps.docker.features[0].title}/>
-
-            <ServicesDetailsDocker/>
-
+            <ServicesDetailsDocker lang={lang}/>
             <CloudExperience/>
-
             <Footer/>
-
             <SchemaMarkupServicePage
                 name="Docker DevOps Services | CHORN"
                 description="CHORN offers Docker-based DevOps services for efficient containerization and scalable application deployment."

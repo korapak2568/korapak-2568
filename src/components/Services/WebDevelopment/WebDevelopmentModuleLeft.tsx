@@ -4,7 +4,6 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 const WebDevelopmentModuleLeft: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <div className={'col-lg-6 add-web-content'}>
-            <h2>{InfoTranslation[lang].FrontEnd.services.title}</h2>
             {InfoTranslation[lang].FrontEnd.services.descriptions.map((item, index) => (
                 <p key={index}>{item}</p>
             ))}
@@ -23,7 +22,6 @@ const WebDevelopmentModuleLeft: React.FC<{ lang: string }> = ({lang}) => {
                 ))}
             </ul>
 
-            <h2>{InfoTranslation[lang].FullStack.services.title}</h2>
             {InfoTranslation[lang].FullStack.services.descriptions.map((item, index) => (
                 <p key={index}>{item}</p>
             ))}

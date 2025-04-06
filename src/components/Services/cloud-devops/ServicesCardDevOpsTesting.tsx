@@ -1,18 +1,15 @@
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {headers} from "next/headers";
 import CloudDevOpsStack from "@/components/Services/cloud-devops/CloudDevOpsStack";
 
-const ServicesCardDevOpsTesting: React.FC = () => {
-    const lang = headers().get('x-locale') || 'en';
-
+const ServicesCardDevOpsTesting: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
             <div className="services-area pt-4 pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
                         <div className={'add-web-content'}>
-                            <h2>{InfoTranslation[lang].DevOps.services.title}</h2>
+                            <h1>{InfoTranslation[lang].DevOps.services.title}</h1>
                             {InfoTranslation[lang].DevOps.services.descriptions.map((item, index) => (
                                 <p key={index}>{item}</p>
                             ))}

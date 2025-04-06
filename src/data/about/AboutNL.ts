@@ -20,16 +20,16 @@ export const AboutNL: IAbout = {
     ],
     stacks: [
         {
-            title: "Systeemanalyse en technische ondersteuning",
-            description: "Ervaring in diepgaande systeemanalyse, technische aanbevelingen en ondersteuning voor bedrijfskritische toepassingen om betrouwbaarheid, betrouwwaardigheid en efficiëntie van het systeem te waarborgen. Systeemoptimalisatie, kwaliteitscontrole en softwaretesten, grote taalmodellen, kunstmatige intelligentie en implementatie van geavanceerde technologieën voor duurzame bedrijfsvoering."
+            title: "Systeemanalyse en Technische Ondersteuning",
+            description: "Diepgaande systeemanalyse en technische aanbevelingen ter verbetering van kritieke applicaties en systemen. Zorgt voor betrouwbaarheid, kwaliteitscontrole, softwaretesten en implementatie van moderne technologieën voor continue bedrijfsvoering en verbetering."
         },
         {
-            title: "Software-engineering en AI",
-            description: "Website- en aangepaste softwaresysteemontwikkeling met geavanceerde technologieën. Softwareontwikkeling met moderne frameworks, expertise in frontend, backend, cloudoplossingen, blockchain, Web3, smart contract-ontwikkeling, integratie van AI-systemen en grote taalmodellen."
+            title: "Software Ontwikkelingstechniek en AI-systeemintegratie",
+            description: "Ontwikkeling van aangepaste websites en softwaresystemen met behulp van moderne frameworks. Expertise in frontend, backend en cloudinfrastructuuroplossingen. Ontwikkeling van smart contracts, blockchain, Web3, AI-systeemintegratie en grote taalmodellen."
         },
         {
-            title: "Agile softwareontwikkeling en coördinatie van bedrijfsteams",
-            description: "Ervaring in agile softwareontwikkeling en coördinatie van bedrijfsteams. Ervaring in nauw samenwerken met teams in binnen- en buitenland, interne en externe klanten, zakelijke gebruikers en leveranciers. Continue verbeteringsprojecten in agile, waterval en hybride werkmethoden."
+            title: "Agile Softwareontwikkeling en Coördinatie van Business Teams",
+            description: "Agile softwareontwikkeling met coördinatie van business teams. Nauwe samenwerking met binnen- en buitenlandse teams, interne en externe klanten, zakelijke gebruikers. Werkmethoden omvatten agile, waterval en hybride benaderingen."
         }
     ]
 };
