@@ -39,13 +39,13 @@ export const NavbarJA: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "LLM-AI LINEチャット友達",
-                link: "/ai-companions/fah/",
+                label: "LLM-AI LINE 統合",
+                link: "/ai-companions/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "LLM-AI接続 (LLM-AI Setsuzoku)",
+                label: "LLM-AI 統合",
                 link: "/technical-expertise/ai-solutions/",
                 submenu: [],
             },

@@ -39,13 +39,13 @@ export const NavbarNL: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "LLM-AI LINE-chatvriend",
-                link: "/ai-companions/fah/",
+                label: "LLM-AI LINE-integratie",
+                link: "/ai-companions/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "LLM-AI Consultant",
+                label: "LLM-AI-integratie",
                 link: "/technical-expertise/ai-solutions/",
                 submenu: [],
             },

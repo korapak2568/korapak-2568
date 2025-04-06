@@ -78,8 +78,8 @@ export const FooterVI: IFooter = {
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "Bạn trò chuyện LINE LLM-AI",
-            link: "/ai-companions/fah/",
+            label: "Tích hợp LLM-AI LINE",
+            link: "/ai-companions/",
         },
         {
             label: "Tư vấn LLM-AI",

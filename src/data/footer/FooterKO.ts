@@ -78,11 +78,11 @@ export const FooterKO: IFooter = {
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "LLM-AI LINE 채팅 친구",
-            link: "/ai-companions/fah/",
+            label: "LLM-AI LINE 통합",
+            link: "/ai-companions/",
         },
         {
-            label: "LLM-AI 컨설턴트",
+            label: "LLM-AI 통합",
             link: "/technical-expertise/ai-solutions"
         },
         {

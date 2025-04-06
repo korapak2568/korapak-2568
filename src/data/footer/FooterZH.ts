@@ -78,11 +78,11 @@ export const FooterZH: IFooter = {
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "LLM-AI LINE聊天好友",
-            link: "/ai-companions/fah/",
+            label: "LLM-AI LINE 集成",
+            link: "/ai-companions/",
         },
         {
-            label: "LLM-AI 顾问",
+            label:  "LLM-AI 集成",
             link: "/technical-expertise/ai-solutions"
         },
         {
