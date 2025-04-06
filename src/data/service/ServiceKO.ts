@@ -1,8 +1,8 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceKO: IService = {
-    title: "LLM/AI 통합",
-    description: "특정 요구 사항에 맞게 제작된 지능형 반응형 LLM/AI 에이전트 솔루션으로 비즈니스 운영을 혁신하세요. 견고한 백엔드 개발은 신뢰할 수 있고 확장 가능하며 안전한 데이터 처리를 보장합니다 - 웹사이트, 모바일 애플리케이션 및 복잡한 소프트웨어 시스템 전반에 걸쳐 원활한 사용자 경험을 제공하는 데 중요합니다. LINE을 통한 <strong>LLM 기반</strong> 도우미는 ChatGPT, Perplexity, DeepSeek와 같은 대규모 언어 모델이 기업과 최종 사용자 모두를 위한 디지털 상호 작용을 향상하고 운영을 간소화하는 방법을 보여줍니다.",
+    title: "LLM-AI 통합",
+    description: "특정 요구 사항에 맞게 제작된 지능형 반응형 LLM-AI 에이전트 솔루션으로 비즈니스 운영을 혁신하세요. 견고한 백엔드 개발은 신뢰할 수 있고 확장 가능하며 안전한 데이터 처리를 보장합니다 - 웹사이트, 모바일 애플리케이션 및 복잡한 소프트웨어 시스템 전반에 걸쳐 원활한 사용자 경험을 제공하는 데 중요합니다. LINE을 통한 <strong>LLM 기반</strong> 도우미는 ChatGPT, Perplexity, DeepSeek와 같은 대규모 언어 모델이 기업과 최종 사용자 모두를 위한 디지털 상호 작용을 향상하고 운영을 간소화하는 방법을 보여줍니다.",
 
     services: [
         {
@@ -28,8 +28,8 @@ export const ServiceKO: IService = {
     ],
 
     demo: {
-        title: "LLM/AI LINE 통합",
-        description: "LLM/AI와 LINE의 AI 기반 통합을 경험해보세요. LINE 애플리케이션을 통해 원활하게 상호 작용하도록 설계된 " +
+        title: "LLM-AI LINE 통합",
+        description: "LLM-AI와 LINE의 AI 기반 통합을 경험해보세요. LINE 애플리케이션을 통해 원활하게 상호 작용하도록 설계된 " +
             "각각 고유한 개성을 가진 다양한 AI 도우미를 탐색하세요. " +
             "이러한 AI 도우미는 태국어, 영어, 중국어, " +
             "일본어, 한국어, 프랑스어 및 베트남어를 포함한 여러 언어로 의사소통합니다.",

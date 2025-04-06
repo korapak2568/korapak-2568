@@ -1,8 +1,8 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceEN: IService = {
-    title: "LLM/AI Integration",
-    description: "Transform business operations with intelligent, responsive LLM/AI agent solutions tailored to specific needs. Robust backend development ensures reliable, scalable, and secure data processing - critical for delivering seamless user experiences across websites, mobile applications, and complex software systems. The <strong>LLM-powered</strong> companion via LINE demonstrates how large language models like ChatGPT, Perplexity, and DeepSeek can enhance digital interactions and streamline operations for both businesses and end-users.",
+    title: "LLM-AI Integration",
+    description: "Transform business operations with intelligent, responsive LLM-AI agent solutions tailored to specific needs. Robust backend development ensures reliable, scalable, and secure data processing - critical for delivering seamless user experiences across websites, mobile applications, and complex software systems. The <strong>LLM-powered</strong> companion via LINE demonstrates how large language models like ChatGPT, Perplexity, and DeepSeek can enhance digital interactions and streamline operations for both businesses and end-users.",
 
     services: [
         {
@@ -28,8 +28,8 @@ export const ServiceEN: IService = {
     ],
 
     demo: {
-        title: "LLM/AI LINE Integration",
-        description: "Experience an AI-powered integration of LLM/AI and LINE. Explore a variety of AI companions, " +
+        title: "LLM-AI LINE Integration",
+        description: "Experience an AI-powered integration of LLM-AI and LINE. Explore a variety of AI companions, " +
             "each with unique personalities, designed to interact seamlessly via the LINE application. " +
             "These AI companions communicate in multiple languages, including Thai, English, Chinese, " +
             "Japanese, Korean, French, and Vietnamese.",

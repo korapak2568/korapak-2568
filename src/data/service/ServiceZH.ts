@@ -1,8 +1,8 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceZH: IService = {
-    title: "LLM/AI 集成",
-    description: "通过量身定制的智能响应式 LLM/AI 代理解决方案转变业务运营。强大的后端开发确保可靠、可扩展且安全的数据处理 - 这对于在网站、移动应用和复杂软件系统中提供无缝用户体验至关重要。通过 LINE 的<strong>LLM 驱动</strong>助手展示了 ChatGPT、Perplexity 和 DeepSeek 等大型语言模型如何增强数字交互并为企业和终端用户简化运营。",
+    title: "LLM-AI 集成",
+    description: "通过量身定制的智能响应式 LLM-AI 代理解决方案转变业务运营。强大的后端开发确保可靠、可扩展且安全的数据处理 - 这对于在网站、移动应用和复杂软件系统中提供无缝用户体验至关重要。通过 LINE 的<strong>LLM 驱动</strong>助手展示了 ChatGPT、Perplexity 和 DeepSeek 等大型语言模型如何增强数字交互并为企业和终端用户简化运营。",
 
     services: [
         {
@@ -28,8 +28,8 @@ export const ServiceZH: IService = {
     ],
 
     demo: {
-        title: "LLM/AI LINE 集成",
-        description: "体验 AI 驱动的 LLM/AI 和 LINE 集成。探索各种 AI 助手，" +
+        title: "LLM-AI LINE 集成",
+        description: "体验 AI 驱动的 LLM-AI 和 LINE 集成。探索各种 AI 助手，" +
             "每个助手都有独特的个性，设计用于通过 LINE 应用程序无缝互动。" +
             "这些 AI 助手可以用多种语言交流，包括泰语、英语、中文、" +
             "日语、韩语、法语和越南语。",

@@ -74,19 +74,19 @@ export const FooterTH: IFooter = {
             link: "/technical-expertise/full-stack-developer/"
         },
         {
-            label: "เดฟออปส์และคลาวด์",
+            label: "ปฏิบัติการพัฒนาบนคลาวด์",
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "เพื่อนคุยเอไอไลน์ด้วยแบบจำลองขนาดใหญ่",
+            label: "เพื่อนคุยไลน์กับแบบจำลองขนาดใหญ่",
             link: "/ai-companions/fah/",
         },
         {
-            label: "การเชื่อมต่อกับแบบจำลองขนาดใหญ่และเอไอ",
+            label: "การเชื่อมต่อแบบจำลองขนาดใหญ่",
             link: "/technical-expertise/ai-solutions"
         },
         {
-            label: "เว็บ ๓ และสัญญาอัจฉริยะ",
+            label: "เว็บ ๓ บล็อกเชน",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
         },
     ],

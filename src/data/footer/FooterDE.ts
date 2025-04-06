@@ -82,7 +82,7 @@ export const FooterDE: IFooter = {
             link: "/ai-companions/fah/",
         },
         {
-            label: "LLM/AI-Beratung",
+            label: "LLM-AI-Beratung",
             link: "/technical-expertise/ai-solutions"
         },
         {

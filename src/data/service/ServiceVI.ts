@@ -1,8 +1,8 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceVI: IService = {
-    title: "Tích Hợp LLM/AI",
-    description: "Chuyển đổi hoạt động kinh doanh với các giải pháp đại diện LLM/AI thông minh, phản hồi nhanh được thiết kế phù hợp với nhu cầu cụ thể. Phát triển backend mạnh mẽ đảm bảo xử lý dữ liệu đáng tin cậy, có khả năng mở rộng và bảo mật - yếu tố quan trọng để mang đến trải nghiệm người dùng liền mạch trên các trang web, ứng dụng di động và hệ thống phần mềm phức tạp. Trợ lý <strong>được hỗ trợ bởi LLM</strong> thông qua LINE minh họa cách các mô hình ngôn ngữ lớn như ChatGPT, Perplexity và DeepSeek có thể nâng cao tương tác kỹ thuật số và tối ưu hóa hoạt động cho cả doanh nghiệp và người dùng cuối.",
+    title: "Tích Hợp LLM-AI",
+    description: "Chuyển đổi hoạt động kinh doanh với các giải pháp đại diện LLM-AI thông minh, phản hồi nhanh được thiết kế phù hợp với nhu cầu cụ thể. Phát triển backend mạnh mẽ đảm bảo xử lý dữ liệu đáng tin cậy, có khả năng mở rộng và bảo mật - yếu tố quan trọng để mang đến trải nghiệm người dùng liền mạch trên các trang web, ứng dụng di động và hệ thống phần mềm phức tạp. Trợ lý <strong>được hỗ trợ bởi LLM</strong> thông qua LINE minh họa cách các mô hình ngôn ngữ lớn như ChatGPT, Perplexity và DeepSeek có thể nâng cao tương tác kỹ thuật số và tối ưu hóa hoạt động cho cả doanh nghiệp và người dùng cuối.",
 
     services: [
         {
@@ -28,8 +28,8 @@ export const ServiceVI: IService = {
     ],
 
     demo: {
-        title: "Tích Hợp LLM/AI với LINE",
-        description: "Trải nghiệm tích hợp LLM/AI với LINE được hỗ trợ bởi AI. Khám phá nhiều trợ lý AI, " +
+        title: "Tích Hợp LLM-AI với LINE",
+        description: "Trải nghiệm tích hợp LLM-AI với LINE được hỗ trợ bởi AI. Khám phá nhiều trợ lý AI, " +
             "mỗi trợ lý có tính cách độc đáo, được thiết kế để tương tác liền mạch qua ứng dụng LINE. " +
             "Các trợ lý AI này giao tiếp bằng nhiều ngôn ngữ, bao gồm tiếng Thái, Anh, Trung, " +
             "Nhật, Hàn, Pháp và Việt.",

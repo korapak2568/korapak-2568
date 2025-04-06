@@ -79,11 +79,11 @@ export const FooterJA: IFooter = {
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "LLM/AI LINEチャット友達",
+            label: "LLM-AI LINEチャット友達",
             link: "/ai-companions/fah/",
         },
         {
-            label: "LLM/AIコンサルタント",
+            label: "LLM-AIコンサルタント",
             link: "/technical-expertise/ai-solutions"
         },
         {

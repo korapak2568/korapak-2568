@@ -1,8 +1,8 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceDA: IService = {
-    title: "LLM/AI Integration",
-    description: "Transformer forretningsdriften med intelligente, responsive LLM/AI-agentløsninger skræddersyet til specifikke behov. Robust backend-udvikling sikrer pålidelig, skalerbar og sikker databehandling - afgørende for at levere problemfri brugeroplevelser på tværs af hjemmesider, mobilapplikationer og komplekse softwaresystemer. Den <strong>LLM-drevne</strong> assistent via LINE demonstrerer, hvordan store sprogmodeller som ChatGPT, Perplexity og DeepSeek kan forbedre digitale interaktioner og strømline operationer for både virksomheder og slutbrugere.",
+    title: "LLM-AI Integration",
+    description: "Transformer forretningsdriften med intelligente, responsive LLM-AI-agentløsninger skræddersyet til specifikke behov. Robust backend-udvikling sikrer pålidelig, skalerbar og sikker databehandling - afgørende for at levere problemfri brugeroplevelser på tværs af hjemmesider, mobilapplikationer og komplekse softwaresystemer. Den <strong>LLM-drevne</strong> assistent via LINE demonstrerer, hvordan store sprogmodeller som ChatGPT, Perplexity og DeepSeek kan forbedre digitale interaktioner og strømline operationer for både virksomheder og slutbrugere.",
 
     services: [
         {
@@ -28,8 +28,8 @@ export const ServiceDA: IService = {
     ],
 
     demo: {
-        title: "LLM/AI LINE Integration",
-        description: "Oplev en AI-drevet integration af LLM/AI og LINE. Udforsk forskellige AI-assistenter, " +
+        title: "LLM-AI LINE Integration",
+        description: "Oplev en AI-drevet integration af LLM-AI og LINE. Udforsk forskellige AI-assistenter, " +
             "hver med unikke personligheder, designet til at interagere problemfrit via LINE-applikationen. " +
             "Disse AI-assistenter kan kommunikere på flere sprog, herunder thai, engelsk, kinesisk, " +
             "japansk, koreansk, fransk og vietnamesisk.",

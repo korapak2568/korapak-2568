@@ -39,13 +39,13 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "เพื่อนคุยเอไอไลน์ด้วยแบบจำลองขนาดใหญ่",
+                label: "เพื่อนคุยไลน์กับแบบจำลองขนาดใหญ่",
                 link: "/ai-companions/fah/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "การเชื่อมต่อกับแบบจำลองขนาดใหญ่และเอไอ",
+                label: "การเชื่อมต่อกับแบบจำลองขนาดใหญ่",
                 link: "/technical-expertise/ai-solutions/",
                 submenu: [],
             },
@@ -58,13 +58,13 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "เว็บ ๓ และบล็อกเชน",
+                label: "เว็บ ๓ บล็อกเชน",
                 link: "/technical-expertise/web3-blockchain-smart-contract-development/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "แนวทางการปฏิบัติพัฒนาคลาวด์",
+                label: "ปฏิบัตการพัฒนาบนคลาวด์",
                 link: "/technical-expertise/cloud-devops/",
                 submenu: [],
             },

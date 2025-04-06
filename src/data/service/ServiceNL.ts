@@ -1,8 +1,8 @@
 import {IService} from "@/data/service/model/IService";
 
 export const ServiceNL: IService = {
-    title: "LLM/AI Integratie",
-    description: "Transformeer bedrijfsactiviteiten met intelligente, responsieve LLM/AI-agentoplossingen op maat van specifieke behoeften. Robuuste backend-ontwikkeling zorgt voor betrouwbare, schaalbare en veilige gegevensverwerking - essentieel voor het leveren van naadloze gebruikerservaringen op websites, mobiele applicaties en complexe softwaresystemen. De <strong>LLM-aangedreven</strong> assistent via LINE demonstreert hoe grote taalmodellen zoals ChatGPT, Perplexity en DeepSeek digitale interacties kunnen verbeteren en operaties kunnen stroomlijnen voor zowel bedrijven als eindgebruikers.",
+    title: "LLM-AI Integratie",
+    description: "Transformeer bedrijfsactiviteiten met intelligente, responsieve LLM-AI-agentoplossingen op maat van specifieke behoeften. Robuuste backend-ontwikkeling zorgt voor betrouwbare, schaalbare en veilige gegevensverwerking - essentieel voor het leveren van naadloze gebruikerservaringen op websites, mobiele applicaties en complexe softwaresystemen. De <strong>LLM-aangedreven</strong> assistent via LINE demonstreert hoe grote taalmodellen zoals ChatGPT, Perplexity en DeepSeek digitale interacties kunnen verbeteren en operaties kunnen stroomlijnen voor zowel bedrijven als eindgebruikers.",
 
     services: [
         {
@@ -28,8 +28,8 @@ export const ServiceNL: IService = {
     ],
 
     demo: {
-        title: "LLM/AI LINE Integratie",
-        description: "Ervaar een AI-gestuurde integratie van LLM/AI en LINE. Verken verschillende AI-assistenten, " +
+        title: "LLM-AI LINE Integratie",
+        description: "Ervaar een AI-gestuurde integratie van LLM-AI en LINE. Verken verschillende AI-assistenten, " +
             "elk met unieke persoonlijkheden, ontworpen voor naadloze interactie via de LINE-applicatie. " +
             "Deze AI-assistenten communiceren in meerdere talen, waaronder Thai, Engels, Chinees, " +
             "Japans, Koreaans, Frans en Vietnamees.",

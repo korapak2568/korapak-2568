@@ -78,11 +78,11 @@ export const FooterDA: IFooter = {
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "LLM/AI LINE-chatven",
+            label: "LLM-AI LINE-chatven",
             link: "/ai-companions/fah/",
         },
         {
-            label: "LLM/AI-konsulenttjenester",
+            label: "LLM-AI-konsulenttjenester",
             link: "/technical-expertise/ai-solutions"
         },
         {
