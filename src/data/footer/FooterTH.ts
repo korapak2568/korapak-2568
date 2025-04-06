@@ -78,8 +78,8 @@ export const FooterTH: IFooter = {
             link: "/technical-expertise/cloud-devops/"
         },
         {
-            label: "เพื่อนคุยไลน์ผสาน LLM-AI",
-            link: "/ai-companions/fah/",
+            label: "การผสาน LLM-AI กับ LINE",
+            link: "/ai-companions/",
         },
         {
             label: "การผสานเทคโนโลยี LLM-AI",

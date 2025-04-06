@@ -39,8 +39,8 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "เพื่อนคุยไลน์ผสาน LLM-AI",
-                link: "/ai-companions/fah/",
+                label: "การผสาน LLM-AI กับ LINE",
+                link: "/ai-companions/",
                 submenu: [],
             },
             {
@@ -64,7 +64,7 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "ปฏิบัตการพัฒนาบนคลาวด์",
+                label: "ปฏิบัติการพัฒนาบนคลาวด์",
                 link: "/technical-expertise/cloud-devops/",
                 submenu: [],
             },
