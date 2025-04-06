@@ -39,13 +39,13 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "เพื่อนคุยไลน์กับแบบจำลองขนาดใหญ่",
+                label: "เพื่อนคุยไลน์ผสาน LLM-AI",
                 link: "/ai-companions/fah/",
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
-                label: "การเชื่อมต่อกับแบบจำลองขนาดใหญ่",
+                label: "การผสานเทคโนโลยี LLM-AI",
                 link: "/technical-expertise/ai-solutions/",
                 submenu: [],
             },
