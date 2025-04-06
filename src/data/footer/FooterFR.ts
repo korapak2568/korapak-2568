@@ -79,7 +79,7 @@ export const FooterFR: IFooter = {
         },
         {
             label: "Intégration LLM-IA LINE",
-            link: "/ai-companions/",
+            link: "/ai-companions/fah/",
         },
         {
             label: "Intégration LLM-IA",

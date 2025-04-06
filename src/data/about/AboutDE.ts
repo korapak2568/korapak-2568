@@ -11,7 +11,7 @@ export const AboutDE: IAbout = {
         },
         {
             title: "Fachwissen",
-            description: "Kontinuierlich engagiert in der Weiterentwicklung von Kenntnissen in Softwareentwicklung und IT, einschließlich der Teilnahme an Plattformen für generative KI, um bei der Schulung von KI zu helfen und Fachwissen in verwandten Bereichen wie Systemarchitektur, Datenanalyse, Webentwicklung, Softwaretests und Cloud-Technologie auszubauen"
+            "description": "Kontinuierliches Engagement für die Entwicklung von Wissen in Softwareentwicklung und IT, einschließlich der Teilnahme an globalen Plattformen zur Unterstützung beim Training von KI und der Erstellung von Generativer KI. Regelmäßige Erweiterung von Wissen und Expertise in verwandten Bereichen wie Systemarchitektur, Datenanalyse, Webentwicklung, Softwaretests und Cloud-Computing."
         },
         {
             title: "Standort und Arbeitsform",

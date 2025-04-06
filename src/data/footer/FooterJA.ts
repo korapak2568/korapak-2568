@@ -80,7 +80,7 @@ export const FooterJA: IFooter = {
         },
         {
             label: "LLM-AI LINE 統合",
-            link: "/ai-companions/",
+            link: "/ai-companions/fah/",
         },
         {
             label: "LLM-AI 統合",

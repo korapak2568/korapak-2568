@@ -79,7 +79,7 @@ export const FooterKO: IFooter = {
         },
         {
             label: "LLM-AI LINE 통합",
-            link: "/ai-companions/",
+            link: "/ai-companions/fah/",
         },
         {
             label: "LLM-AI 통합",

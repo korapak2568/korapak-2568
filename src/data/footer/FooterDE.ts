@@ -79,7 +79,7 @@ export const FooterDE: IFooter = {
         },
         {
             label: "LLM/KI LINE-Chat-Freund",
-            link: "/ai-companions/",
+            link: "/ai-companions/fah/",
         },
         {
             label: "LLM-AI-Beratung",

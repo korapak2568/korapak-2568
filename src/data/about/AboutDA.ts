@@ -11,7 +11,7 @@ export const AboutDA: IAbout = {
         },
         {
             title: "Ekspertise",
-            description: "Kontinuerligt engageret i at udvikle viden inden for softwareingeniørarbejde og IT, herunder deltagelse i generativ AI-platforme for at hjælpe med at træne AI og udbygge ekspertise inden for relaterede områder såsom systemarkitektur, dataanalyse, webapplikationsudvikling, softwaretest og cloud"
+            "description": "Kontinuerligt engageret i at udvikle viden inden for softwareudvikling og IT, herunder deltagelse i globale platforme for at hjælpe med at træne AI og skabe Generativ AI. Udvider regelmæssigt viden og ekspertise inden for relaterede områder såsom systemarkitektur, dataanalyse, webudvikling, softwaretest og cloud computing."
         },
         {
             title: "Placering og Arbejdsform",

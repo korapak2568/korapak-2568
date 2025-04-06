@@ -11,7 +11,7 @@ export const AboutFR: IAbout = {
         },
         {
             title: "Expertise",
-            description: "Engagé continuellement dans le développement des connaissances en génie logiciel et en informatique, y compris la participation aux plateformes d'IA générative pour aider à former l'IA et développer l'expertise dans divers domaines connexes tels que l'architecture système, l'analyse de données, le développement d'applications web, les tests logiciels et le cloud"
+            "description": "Engagé continuellement dans le développement des connaissances en ingénierie logicielle et en informatique, notamment en participant à des plateformes mondiales pour aider à former l'IA et à créer de l'IA générative. Extension régulière des connaissances et de l'expertise dans des domaines connexes tels que l'architecture système, l'analyse de données, le développement d'applications web, les tests logiciels et l'informatique en nuage."
         },
         {
             title: "Lieu et Format de Travail",

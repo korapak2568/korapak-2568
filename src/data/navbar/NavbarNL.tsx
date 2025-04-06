@@ -40,7 +40,7 @@ export const NavbarNL: INavbar[] = [
             {
                 group: "/technical-expertise/",
                 label: "LLM-AI LINE-integratie",
-                link: "/ai-companions/",
+                link: "/ai-companions/fah/",
                 submenu: [],
             },
             {

@@ -11,7 +11,7 @@ export const AboutVI: IAbout = {
         },
         {
             title: "Chuyên Môn",
-            description: "Cam kết liên tục phát triển kiến thức về kỹ thuật phần mềm và công nghệ thông tin, bao gồm tham gia vào các nền tảng Trí tuệ nhân tạo tạo sinh (Generative AI) để giúp đào tạo AI và mở rộng chuyên môn trong các lĩnh vực liên quan như kiến trúc hệ thống, phân tích dữ liệu, phát triển ứng dụng web, kiểm thử phần mềm và điện toán đám mây"
+            "description": "Liên tục cam kết phát triển kiến thức về kỹ thuật phần mềm và công nghệ thông tin, bao gồm việc tham gia vào các nền tảng toàn cầu để giúp đào tạo AI và tạo ra AI Sinh thành. Thường xuyên mở rộng kiến thức và chuyên môn trong các lĩnh vực liên quan như kiến trúc hệ thống, phân tích dữ liệu, phát triển ứng dụng web, kiểm thử phần mềm và điện toán đám mây."
         },
         {
             title: "Địa Điểm và Hình Thức Làm Việc",

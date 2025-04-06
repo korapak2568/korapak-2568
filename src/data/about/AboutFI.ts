@@ -11,7 +11,7 @@ export const AboutFI: IAbout = {
         },
         {
             title: "Asiantuntemus",
-            description: "Jatkuvasti sitoutunut kehittämään osaamista ohjelmistotekniikan ja IT:n alalla, mukaan lukien osallistuminen generatiivisen tekoälyn alustoille auttaakseen tekoälyn kouluttamisessa ja laajentaakseen asiantuntemusta liittyviltä alueilta kuten järjestelmäarkkitehtuuri, data-analyysi, verkkosovellusten kehittäminen, ohjelmistotestaus ja pilvipalvelut"
+            "description": "Jatkuvasti sitoutunut kehittämään ohjelmistotuotannon ja IT-alan osaamista, mukaan lukien osallistuminen maailmanlaajuisiin alustoihin auttaakseen tekoälyn kouluttamisessa ja generatiivisen tekoälyn luomisessa. Laajentaa säännöllisesti tietämystä ja asiantuntemusta liittyvillä alueilla, kuten järjestelmäarkkitehtuuri, data-analyysi, verkkosovelluskehitys, ohjelmistotestaus ja pilvipalvelut."
         },
         {
             title: "Sijainti ja Työmuoto",

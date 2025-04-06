@@ -79,7 +79,7 @@ export const FooterZH: IFooter = {
         },
         {
             label: "LLM-AI LINE 集成",
-            link: "/ai-companions/",
+            link: "/ai-companions/fah/",
         },
         {
             label:  "LLM-AI 集成",

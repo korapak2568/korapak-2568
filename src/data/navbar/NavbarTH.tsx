@@ -40,7 +40,7 @@ export const NavbarTH: INavbar[] = [
             {
                 group: "/technical-expertise/",
                 label: "การผสาน LLM-AI กับ LINE",
-                link: "/ai-companions/",
+                link: "/ai-companions/fah/",
                 submenu: [],
             },
             {

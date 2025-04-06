@@ -40,7 +40,7 @@ export const NavbarKO: INavbar[] = [
             {
                 group: "/technical-expertise/",
                 label: "LLM-AI LINE 통합",
-                link: "/ai-companions/",
+                link: "/ai-companions/fah/",
                 submenu: [],
             },
             {

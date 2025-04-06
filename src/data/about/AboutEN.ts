@@ -12,7 +12,7 @@ export const AboutEN: IAbout = {
         },
         {
             title: "Expertise",
-            description: "Continuously committed to developing knowledge in software engineering and IT, including participating in Generative AI platforms to help train AI and build upon related expertise in various areas such as system architecture, data analysis, web application development, software testing, and cloud technology"
+            description: "Continuously committed to developing software engineering and IT knowledge, including participating in global platforms to help train AI and create Generative AI. Regularly extending knowledge and expertise in related areas such as system architecture, data analysis, web application development, software testing, and cloud computing."
         },
         {
             title: "Software Development Solutions",
