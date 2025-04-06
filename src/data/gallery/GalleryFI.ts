@@ -40,7 +40,7 @@ export const GalleryFI: IGallery = {
         },
     ],
     global: {
-        title: "Kansainvälinen matkustaminen",
-        description: "CHORN:lla on kokemusta kansainvälisestä matkustamisesta koulutuksia varten, kansainvälisistä työopiskelumatkoista sekä ASEAN-maissa että Yhdysvalloissa, työpajojen järjestämisestä, ja on valmis sekä kotimaiseen että kansainväliseen matkustamiseen. CHORN tarjoaa etätyötä, hybridityötä ja toimistopohjaista työtä Chiang Maissa, Bangkokissa, Thaimaassa ja kansainvälisesti.",
+        title: "Kansainvälinen Matkustaminen",
+        description: "Matkustuskokemuksia koulutusta ja kansainvälisten tiimien koordinointia varten. Työ- ja opiskelumatkakokemuksia sekä ASEAN-maissa että Yhdysvalloissa. Työpajojen järjestäminen. Kyky matkustaa työn vuoksi kotimaassa ja kansainvälisesti. Etätyö, hybridityö ja toimistotyö Chiang Maissa, Bangkokissa ja ulkomailla."
     }
 }

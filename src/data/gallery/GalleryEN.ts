@@ -41,6 +41,6 @@ export const GalleryEN: IGallery = {
     ],
     global: {
         title: "International Travel",
-        description: "CHORN has experience in international travel for training, international work study trips in both ASEAN and the United States, conducting workshops, and is ready for both domestic and international travel. CHORN offers remote work, hybrid work, and office-based work in Chiang Mai, Bangkok, and internationally.",
+        description: "Travel experiences for training and coordination with international teams. Work-study travel experiences in both ASEAN countries and the United States. Facilitation of workshops. Ability to travel for work domestically and internationally. Remote work, hybrid work, and office work in Chiang Mai, Bangkok, and abroad.",
     }
 }

@@ -31,7 +31,7 @@ const HomeWorkspace: React.FC<{ lang: string }> = ({lang}) => {
                                             <div className="row">
                                                 <div className="col-lg-6">
                                                     <div className="main-slider-content main-slider-content-custom">
-                                                        <p><strong>{slide.title} </strong> {slide.description}</p>
+                                                        <p>{slide.description}</p>
                                                     </div>
                                                 </div>
 

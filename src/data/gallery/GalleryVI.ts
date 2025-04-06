@@ -36,6 +36,6 @@ export const GalleryVI: IGallery = {
     ],
     global: {
         title: "Du Lịch Quốc Tế",
-        description: "CHORN có kinh nghiệm đi công tác quốc tế để đào tạo, các chuyến đi nghiên cứu công việc quốc tế tại cả ASEAN và Hoa Kỳ, tổ chức hội thảo, và sẵn sàng đi công tác trong nước và quốc tế. CHORN cung cấp làm việc từ xa, làm việc kết hợp và làm việc tại văn phòng ở Chiang Mai, Bangkok, Thái Lan và quốc tế.",
+        description: "Kinh nghiệm du lịch để đào tạo và phối hợp với các đội ngũ quốc tế. Kinh nghiệm du lịch học tập và làm việc tại các quốc gia ASEAN và Hoa Kỳ. Hỗ trợ tổ chức hội thảo. Khả năng di chuyển công tác trong nước và quốc tế. Làm việc từ xa, làm việc kết hợp, và làm việc tại văn phòng ở Chiang Mai, Bangkok và nước ngoài."
     }
 }

@@ -36,6 +36,6 @@ export const GalleryDA: IGallery = {
     ],
     global: {
         title: "International Rejse",
-        description: "CHORN har erfaring med internationale rejser til træning, internationale arbejdsstudierejser både i ASEAN og USA, afholdelse af workshops og er klar til både indenlandske og internationale rejser. CHORN tilbyder fjernarbejde, hybridarbejde og kontorbaseret arbejde i Chiang Mai, Bangkok, og internationalt.",
+        description: "Rejseoplevelser for træning og koordinering med internationale teams. Arbejds- og studieoplevelser i både ASEAN-lande og USA. Facilitering af workshops. Mulighed for at rejse i arbejdsøjemed nationalt og internationalt. Fjernarbejde, hybridarbejde og kontorarbejde i Chiang Mai, Bangkok og i udlandet."
     }
 };
