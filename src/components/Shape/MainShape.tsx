@@ -5,14 +5,6 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const MainShape: React.FC = () => {
     return (
         <div className="main-slider-shape">
-            <div className="shape-1">
-                <Image
-                    src={ImageUrl.shape.main.shape1.path}
-                    alt={ImageUrl.shape.main.shape1.title}
-                    width={399}
-                    height={438}
-                />
-            </div>
             <div className="shape-2">
                 <Image
                     src={ImageUrl.shape.main.shape2.path}
@@ -27,14 +19,6 @@ export const MainShape: React.FC = () => {
                     alt={ImageUrl.shape.main.shape3.title}
                     width={117}
                     height={119}
-                />
-            </div>
-            <div className="shape-5">
-                <Image
-                    src={ImageUrl.shape.main.shape5.path}
-                    alt={ImageUrl.shape.main.shape5.title}
-                    width={120}
-                    height={100}
                 />
             </div>
         </div>
