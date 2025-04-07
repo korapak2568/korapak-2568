@@ -2,7 +2,7 @@
 
 import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
-import {Autoplay, Navigation} from "swiper/modules";
+import {Autoplay, FreeMode, Navigation} from "swiper/modules";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {MainShape} from "@/components/Shape/MainShape";
 
@@ -11,15 +11,18 @@ const HomeWorkspace: React.FC<{ lang: string }> = ({lang}) => {
         <>
             <div className="home-wrapper-area">
                 <Swiper
+                    speed={3000}
                     spaceBetween={30}
                     centeredSlides={true}
+                    grabCursor={true} // Shows a grab cursor
+                    freeMode={true} // Enables smooth drag
                     autoplay={{
                         delay: 3000,
-                        disableOnInteraction: true,
+                        disableOnInteraction: false, // So it continues autoplay even after interaction
                         pauseOnMouseEnter: true,
                     }}
                     navigation={true}
-                    modules={[Autoplay, Navigation]}
+                    modules={[Autoplay, Navigation, FreeMode]}
                     className="home-slides"
                 >
                     {InfoTranslation[lang].Gallery.slides.map((slide, index) => (
