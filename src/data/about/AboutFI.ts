@@ -11,7 +11,7 @@ export const AboutFI: IAbout = {
         },
         {
             title: "Asiantuntemus",
-            "description": "Jatkuvasti sitoutunut kehittämään ohjelmistotuotannon ja IT-alan osaamista, mukaan lukien osallistuminen maailmanlaajuisiin alustoihin auttaakseen tekoälyn kouluttamisessa ja generatiivisen tekoälyn luomisessa. Laajentaa säännöllisesti tietämystä ja asiantuntemusta liittyvillä alueilla, kuten järjestelmäarkkitehtuuri, data-analyysi, verkkosovelluskehitys, ohjelmistotestaus ja pilvipalvelut."
+            description: "Jatkuvasti sitoutunut kehittämään ohjelmistotuotannon ja IT-alan osaamista, mukaan lukien osallistuminen maailmanlaajuisiin alustoihin auttaakseen tekoälyn kouluttamisessa ja generatiivisen tekoälyn luomisessa. Laajentaa säännöllisesti tietämystä ja asiantuntemusta liittyvillä alueilla, kuten järjestelmäarkkitehtuuri, data-analyysi, verkkosovelluskehitys, ohjelmistotestaus ja pilvipalvelut."
         },
         {
             title: "Sijainti ja Työmuoto",
@@ -30,6 +30,10 @@ export const AboutFI: IAbout = {
         {
             title: "Ketterä Ohjelmistokehitys ja Liiketoimintatiimien Koordinointi",
             description: "Ketterä ohjelmistokehitys liiketoimintatiimien koordinoinnilla. Tiivis yhteistyö kotimaisten ja kansainvälisten tiimien, sisäisten ja ulkoisten asiakkaiden sekä liiketoimintakäyttäjien kanssa. Työmenetelmät sisältävät ketteriä, vesiputous- ja hybridilähestymistapoja."
+        },
+        {
+            title: "Yritysjärjestelmien integrointi",
+            description: "Yritysjärjestelmien, kuten ERP:n (esim. SAP), CRM:n, verkkokauppa-alustojen, Google API:en sekä talous- ja kirjanpitojärjestelmien suunnittelu ja parantaminen, jotta voidaan parantaa osastojen välistä tiedon yhdistettävyyttä, mahdollistaa automaatio ja yhteistyö sekä tukea tehokasta liiketoimintapäätöksentekoa ja digitaalista transformaatiota."
         }
     ]
 };

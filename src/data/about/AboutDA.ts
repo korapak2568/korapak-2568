@@ -11,7 +11,7 @@ export const AboutDA: IAbout = {
         },
         {
             title: "Ekspertise",
-            "description": "Kontinuerligt engageret i at udvikle viden inden for softwareudvikling og IT, herunder deltagelse i globale platforme for at hjælpe med at træne AI og skabe Generativ AI. Udvider regelmæssigt viden og ekspertise inden for relaterede områder såsom systemarkitektur, dataanalyse, webudvikling, softwaretest og cloud computing."
+            description: "Kontinuerligt engageret i at udvikle viden inden for softwareudvikling og IT, herunder deltagelse i globale platforme for at hjælpe med at træne AI og skabe Generativ AI. Udvider regelmæssigt viden og ekspertise inden for relaterede områder såsom systemarkitektur, dataanalyse, webudvikling, softwaretest og cloud computing."
         },
         {
             title: "Placering og Arbejdsform",
@@ -30,6 +30,10 @@ export const AboutDA: IAbout = {
         {
             title: "Agil Softwareudvikling og Forretningsteamkoordinering",
             description: "Agil softwareudvikling med forretningsteamkoordinering. Tæt samarbejde med indenlandske og internationale teams, interne og eksterne kunder, forretningsbrugere. Arbejdsmetoder omfatter agile, vandfalds- og hybride tilgange."
+        },
+        {
+            title: "Integration af virksomhedssystemer",
+            description: "Design og forbedring af virksomhedssystemer såsom ERP (f.eks. SAP), CRM, e-handelsplatforme, Google API'er samt finans- og regnskabssystemer for at forbedre datatilslutningen mellem afdelinger, muliggøre automatisering og samarbejde samt støtte effektiv forretningsbeslutning og digital transformation."
         }
     ]
 };

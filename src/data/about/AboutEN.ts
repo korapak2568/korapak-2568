@@ -31,6 +31,10 @@ export const AboutEN: IAbout = {
         {
             title: "Agile Software Development and Business Team Coordination",
             description: "Agile software development with business team coordination. Close collaboration with domestic and international teams, internal and external clients, business users. Work methodologies include agile, waterfall, and hybrid approaches."
+        },
+        {
+            title: "Enterprise System Integration",
+            description: "Design and improvement of enterprise systems such as ERP (e.g., SAP), CRM, e-commerce platforms, Google APIs, and financial and accounting systems to enhance data connectivity across departments, enable automation and collaboration, and support effective business decision-making and digital transformation."
         }
     ]
 };

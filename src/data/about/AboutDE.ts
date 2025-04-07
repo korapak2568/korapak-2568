@@ -11,7 +11,7 @@ export const AboutDE: IAbout = {
         },
         {
             title: "Fachwissen",
-            "description": "Kontinuierliches Engagement für die Entwicklung von Wissen in Softwareentwicklung und IT, einschließlich der Teilnahme an globalen Plattformen zur Unterstützung beim Training von KI und der Erstellung von Generativer KI. Regelmäßige Erweiterung von Wissen und Expertise in verwandten Bereichen wie Systemarchitektur, Datenanalyse, Webentwicklung, Softwaretests und Cloud-Computing."
+            description: "Kontinuierliches Engagement für die Entwicklung von Wissen in Softwareentwicklung und IT, einschließlich der Teilnahme an globalen Plattformen zur Unterstützung beim Training von KI und der Erstellung von Generativer KI. Regelmäßige Erweiterung von Wissen und Expertise in verwandten Bereichen wie Systemarchitektur, Datenanalyse, Webentwicklung, Softwaretests und Cloud-Computing."
         },
         {
             title: "Standort und Arbeitsform",
@@ -30,6 +30,10 @@ export const AboutDE: IAbout = {
         {
             title: "Agile Softwareentwicklung und Business-Team-Koordination",
             description: "Agile Softwareentwicklung mit Business-Team-Koordination. Enge Zusammenarbeit mit nationalen und internationalen Teams, internen und externen Kunden, Business-Anwendern. Arbeitsmethoden umfassen agile, Wasserfall- und hybride Ansätze."
+        },
+        {
+            title: "Integration von Unternehmenssystemen",
+            description: "Entwurf und Verbesserung von Unternehmenssystemen wie ERP (z. B. SAP), CRM, E-Commerce-Plattformen, Google-APIs sowie Finanz- und Buchhaltungssystemen, um die Datenverbindung zwischen Abteilungen zu verbessern, Automatisierung und Zusammenarbeit zu ermöglichen und effektive Geschäftsentscheidungen sowie digitale Transformation zu unterstützen."
         }
     ]
 };

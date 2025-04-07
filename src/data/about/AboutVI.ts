@@ -11,7 +11,7 @@ export const AboutVI: IAbout = {
         },
         {
             title: "Chuyên Môn",
-            "description": "Liên tục cam kết phát triển kiến thức về kỹ thuật phần mềm và công nghệ thông tin, bao gồm việc tham gia vào các nền tảng toàn cầu để giúp đào tạo AI và tạo ra AI Sinh thành. Thường xuyên mở rộng kiến thức và chuyên môn trong các lĩnh vực liên quan như kiến trúc hệ thống, phân tích dữ liệu, phát triển ứng dụng web, kiểm thử phần mềm và điện toán đám mây."
+            description: "Liên tục cam kết phát triển kiến thức về kỹ thuật phần mềm và công nghệ thông tin, bao gồm việc tham gia vào các nền tảng toàn cầu để giúp đào tạo AI và tạo ra AI Sinh thành. Thường xuyên mở rộng kiến thức và chuyên môn trong các lĩnh vực liên quan như kiến trúc hệ thống, phân tích dữ liệu, phát triển ứng dụng web, kiểm thử phần mềm và điện toán đám mây."
         },
         {
             title: "Địa Điểm và Hình Thức Làm Việc",
@@ -30,6 +30,10 @@ export const AboutVI: IAbout = {
         {
             title: "Phát Triển Phần Mềm Agile và Phối Hợp Đội Kinh Doanh",
             description: "Phát triển phần mềm agile với sự phối hợp của đội kinh doanh. Hợp tác chặt chẽ với các đội trong nước và quốc tế, khách hàng nội bộ và bên ngoài, người dùng doanh nghiệp. Phương pháp làm việc bao gồm agile, waterfall và các cách tiếp cận kết hợp."
+        },
+        {
+            title: "Tích hợp Hệ thống Doanh nghiệp",
+            description: "Thiết kế và cải tiến các hệ thống doanh nghiệp như ERP (ví dụ: SAP), CRM, nền tảng thương mại điện tử, Google API và hệ thống tài chính kế toán nhằm nâng cao khả năng kết nối dữ liệu giữa các phòng ban, thúc đẩy tự động hóa và hợp tác, hỗ trợ ra quyết định kinh doanh hiệu quả và chuyển đổi số."
         }
     ]
 };

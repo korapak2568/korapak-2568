@@ -11,7 +11,7 @@ export const AboutNL: IAbout = {
         },
         {
             title: "Expertise",
-            "description": "Voortdurend toegewijd aan het ontwikkelen van kennis op het gebied van software-engineering en IT, inclusief deelname aan wereldwijde platforms om te helpen bij het trainen van AI en het creëren van Generatieve AI. Regelmatig uitbreiden van kennis en expertise in gerelateerde gebieden zoals systeemarchitectuur, gegevensanalyse, webapplicatieontwikkeling, softwaretesten en cloudcomputing."
+            description: "Voortdurend toegewijd aan het ontwikkelen van kennis op het gebied van software-engineering en IT, inclusief deelname aan wereldwijde platforms om te helpen bij het trainen van AI en het creëren van Generatieve AI. Regelmatig uitbreiden van kennis en expertise in gerelateerde gebieden zoals systeemarchitectuur, gegevensanalyse, webapplicatieontwikkeling, softwaretesten en cloudcomputing."
         },
         {
             title: "Locatie en Werkvorm",
@@ -30,6 +30,10 @@ export const AboutNL: IAbout = {
         {
             title: "Agile Softwareontwikkeling en Coördinatie van Business Teams",
             description: "Agile softwareontwikkeling met coördinatie van business teams. Nauwe samenwerking met binnen- en buitenlandse teams, interne en externe klanten, zakelijke gebruikers. Werkmethoden omvatten agile, waterval en hybride benaderingen."
+        },
+        {
+            title: "Integratie van Bedrijfssystemen",
+            description: "Ontwerp en verbetering van bedrijfssystemen zoals ERP (bijv. SAP), CRM, e-commerceplatforms, Google API's en financiële en boekhoudsystemen om de gegevensconnectiviteit tussen afdelingen te verbeteren, automatisering en samenwerking mogelijk te maken en effectieve zakelijke besluitvorming en digitale transformatie te ondersteunen."
         }
     ]
 };

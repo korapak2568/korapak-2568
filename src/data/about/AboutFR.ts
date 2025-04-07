@@ -11,7 +11,7 @@ export const AboutFR: IAbout = {
         },
         {
             title: "Expertise",
-            "description": "Engagé continuellement dans le développement des connaissances en ingénierie logicielle et en informatique, notamment en participant à des plateformes mondiales pour aider à former l'IA et à créer de l'IA générative. Extension régulière des connaissances et de l'expertise dans des domaines connexes tels que l'architecture système, l'analyse de données, le développement d'applications web, les tests logiciels et l'informatique en nuage."
+            description: "Engagé continuellement dans le développement des connaissances en ingénierie logicielle et en informatique, notamment en participant à des plateformes mondiales pour aider à former l'IA et à créer de l'IA générative. Extension régulière des connaissances et de l'expertise dans des domaines connexes tels que l'architecture système, l'analyse de données, le développement d'applications web, les tests logiciels et l'informatique en nuage."
         },
         {
             title: "Lieu et Format de Travail",
@@ -30,6 +30,10 @@ export const AboutFR: IAbout = {
         {
             title: "Développement Agile et Coordination d'Équipe Business",
             description: "Développement logiciel agile avec coordination d'équipes business. Collaboration étroite avec des équipes nationales et internationales, clients internes et externes, utilisateurs métier. Les méthodologies de travail incluent les approches agile, en cascade et hybrides."
+        },
+        {
+            title: "Intégration des systèmes d'entreprise",
+            description: "Conception et amélioration des systèmes d'entreprise tels que les ERP (par exemple SAP), les CRM, les plateformes de commerce électronique, les API Google et les systèmes financiers et comptables afin d'améliorer la connectivité des données entre les départements, d'activer l'automatisation et la collaboration, et de soutenir la prise de décision commerciale efficace et la transformation numérique."
         }
     ]
 };
