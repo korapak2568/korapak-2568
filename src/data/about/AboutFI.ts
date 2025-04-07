@@ -24,16 +24,12 @@ export const AboutFI: IAbout = {
             description: "Perusteellinen järjestelmäanalyysi ja tekniset suositukset kriittisten sovellusten ja järjestelmien parantamiseksi. Varmistaa luotettavuuden, laadunvalvonnan, ohjelmistotestauksen ja modernien teknologioiden käyttöönoton jatkuvaa liiketoimintaa ja kehitystä varten."
         },
         {
-            title: "Ohjelmistokehitystekniikka ja Tekoälyjärjestelmien Integrointi",
-            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehittäminen käyttäen moderneja ohjelmistokehyksiä. Asiantuntemus frontend-, backend- ja pilvi-infrastruktuuriratkaisuissa. Älysopimusten, lohkoketjun, Web3:n, tekoälyjärjestelmien integroinnin ja suurten kielimallien kehittäminen."
+            title: "Ohjelmistokehitystekniikka ja yritysjärjestelmien integrointi",
+            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehittäminen käyttäen moderneja kehyksiä. Frontend-, backend-, älysopimus-, lohkoketju-, Web3- ja tekoälykehitys. Yritysjärjestelmien integrointi, kuten ERP (esim. SAP), CRM, verkkokauppa-alustat, Google API:t sekä talous- ja kirjanpitojärjestelmät, parantaa tietojen yhteyttä osastojen välillä, mahdollistaen automaation ja yhteistyön."
         },
         {
             title: "Ketterä Ohjelmistokehitys ja Liiketoimintatiimien Koordinointi",
             description: "Ketterä ohjelmistokehitys liiketoimintatiimien koordinoinnilla. Tiivis yhteistyö kotimaisten ja kansainvälisten tiimien, sisäisten ja ulkoisten asiakkaiden sekä liiketoimintakäyttäjien kanssa. Työmenetelmät sisältävät ketteriä, vesiputous- ja hybridilähestymistapoja."
-        },
-        {
-            title: "Yritysjärjestelmien integrointi",
-            description: "Yritysjärjestelmien, kuten ERP:n (esim. SAP), CRM:n, verkkokauppa-alustojen, Google API:en sekä talous- ja kirjanpitojärjestelmien suunnittelu ja parantaminen, jotta voidaan parantaa osastojen välistä tiedon yhdistettävyyttä, mahdollistaa automaatio ja yhteistyö sekä tukea tehokasta liiketoimintapäätöksentekoa ja digitaalista transformaatiota."
         }
     ]
 };

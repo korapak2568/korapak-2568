@@ -1,5 +1,5 @@
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const Css3TH: IFrontEndStack = {
     title: "CSS3",

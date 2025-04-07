@@ -1,5 +1,5 @@
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const PhpZH: IFullStackStack = {
     title: "PHP",

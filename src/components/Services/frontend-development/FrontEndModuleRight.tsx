@@ -1,5 +1,5 @@
 import React from "react";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 import Image from "next/image";
 
 const FrontEndLeftContent: React.FC<{ lang: string }> = ({lang}) => {

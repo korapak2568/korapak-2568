@@ -1,5 +1,5 @@
 import {IGallery} from "@/data/gallery/model/IGallery";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const GalleryTH: IGallery = {
     slides: [

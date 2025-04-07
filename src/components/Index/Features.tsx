@@ -4,7 +4,7 @@ import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {IFeatureStack} from "@/data/feature/model/IFeatureStack";
 import {truncateText} from "@/lib/truncateText";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 import {headers} from "next/headers";
 
 const Features: React.FC = () => {

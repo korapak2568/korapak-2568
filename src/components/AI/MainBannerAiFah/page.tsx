@@ -3,7 +3,7 @@
 import React from "react";
 import Left from "@/components/AI/MainBannerAiFah/left";
 import Right from "@/components/AI/MainBannerAiFah/right";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export default function Page() {
     return (

@@ -24,16 +24,12 @@ export const AboutVI: IAbout = {
             description: "Phân tích hệ thống chuyên sâu và đề xuất kỹ thuật nâng cao ứng dụng và hệ thống quan trọng. Đảm bảo độ tin cậy, kiểm soát chất lượng, kiểm thử phần mềm và triển khai công nghệ hiện đại cho hoạt động kinh doanh liên tục và cải tiến."
         },
         {
-            title: "Kỹ Thuật Phát Triển Phần Mềm và Tích Hợp Hệ Thống AI",
-            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng các framework hiện đại. Chuyên môn về frontend, backend và giải pháp cơ sở hạ tầng đám mây. Phát triển hợp đồng thông minh, blockchain, Web3, tích hợp hệ thống AI và mô hình ngôn ngữ lớn."
+            title: "Kỹ thuật phát triển phần mềm và tích hợp hệ thống doanh nghiệp",
+            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng các framework hiện đại. Phát triển frontend, backend, hợp đồng thông minh, blockchain, Web3 và AI. Tích hợp hệ thống doanh nghiệp như ERP (ví dụ: SAP), CRM, nền tảng thương mại điện tử, API Google và hệ thống tài chính kế toán, nâng cao kết nối dữ liệu giữa các phòng ban, hỗ trợ tự động hóa và hợp tác."
         },
         {
             title: "Phát Triển Phần Mềm Agile và Phối Hợp Đội Kinh Doanh",
             description: "Phát triển phần mềm agile với sự phối hợp của đội kinh doanh. Hợp tác chặt chẽ với các đội trong nước và quốc tế, khách hàng nội bộ và bên ngoài, người dùng doanh nghiệp. Phương pháp làm việc bao gồm agile, waterfall và các cách tiếp cận kết hợp."
-        },
-        {
-            title: "Tích hợp Hệ thống Doanh nghiệp",
-            description: "Thiết kế và cải tiến các hệ thống doanh nghiệp như ERP (ví dụ: SAP), CRM, nền tảng thương mại điện tử, Google API và hệ thống tài chính kế toán nhằm nâng cao khả năng kết nối dữ liệu giữa các phòng ban, thúc đẩy tự động hóa và hợp tác, hỗ trợ ra quyết định kinh doanh hiệu quả và chuyển đổi số."
         }
     ]
 };

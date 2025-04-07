@@ -1,5 +1,5 @@
 import {ISitemapChorn} from "@/lib/model/ISitemapChorn";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const SitemapChorns: ISitemapChorn[] = [
     {

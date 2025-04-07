@@ -24,16 +24,12 @@ export const AboutNL: IAbout = {
             description: "Diepgaande systeemanalyse en technische aanbevelingen ter verbetering van kritieke applicaties en systemen. Zorgt voor betrouwbaarheid, kwaliteitscontrole, softwaretesten en implementatie van moderne technologieën voor continue bedrijfsvoering en verbetering."
         },
         {
-            title: "Software Ontwikkelingstechniek en AI-systeemintegratie",
-            description: "Ontwikkeling van aangepaste websites en softwaresystemen met behulp van moderne frameworks. Expertise in frontend, backend en cloudinfrastructuuroplossingen. Ontwikkeling van smart contracts, blockchain, Web3, AI-systeemintegratie en grote taalmodellen."
+            title: "Software-ontwikkelingstechniek en bedrijfssysteemintegratie",
+            description: "Ontwikkeling van aangepaste websites en softwaresystemen met behulp van moderne frameworks. Ontwikkeling van frontend, backend, smart contracts, blockchain, Web3 en AI. Integratie van bedrijfssystemen, zoals ERP (bijv. SAP), CRM, e-commerce platforms, Google API's en financiële en boekhoudkundige systemen, verbetert de dataconnectiviteit tussen afdelingen, waardoor automatisering en samenwerking mogelijk worden."
         },
         {
             title: "Agile Softwareontwikkeling en Coördinatie van Business Teams",
             description: "Agile softwareontwikkeling met coördinatie van business teams. Nauwe samenwerking met binnen- en buitenlandse teams, interne en externe klanten, zakelijke gebruikers. Werkmethoden omvatten agile, waterval en hybride benaderingen."
-        },
-        {
-            title: "Integratie van Bedrijfssystemen",
-            description: "Ontwerp en verbetering van bedrijfssystemen zoals ERP (bijv. SAP), CRM, e-commerceplatforms, Google API's en financiële en boekhoudsystemen om de gegevensconnectiviteit tussen afdelingen te verbeteren, automatisering en samenwerking mogelijk te maken en effectieve zakelijke besluitvorming en digitale transformatie te ondersteunen."
         }
     ]
 };

@@ -2,7 +2,7 @@ import React from "react";
 import ServiceFaqCss3 from "./ServiceFaqCss3";
 import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";

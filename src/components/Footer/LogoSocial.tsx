@@ -6,7 +6,7 @@ import Image from "next/image";
 import {IFooterDetail} from "@/data/footer/model/IFooterDetail";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const LogoSocial: React.FC = () => {
     const locale = useLocale()

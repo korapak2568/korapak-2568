@@ -1,7 +1,7 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiAomEnglish} from "@/data/ai/relevant/AiAomEnglish";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const AiFahNL: IAiLanding = {
     name: 'Fah',

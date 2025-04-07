@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export default function NotFound() {
     return (

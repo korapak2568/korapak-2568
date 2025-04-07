@@ -3,7 +3,7 @@ import ServiceFaqJava from "./ServiceFaqJava";
 import Image from "next/image";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarDevOps from "@/components/Services/SidebarDevOps";

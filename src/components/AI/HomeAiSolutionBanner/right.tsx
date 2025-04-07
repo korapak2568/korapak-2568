@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export default function Right() {
     return (

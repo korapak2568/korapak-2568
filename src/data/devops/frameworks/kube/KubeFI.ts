@@ -1,5 +1,5 @@
 import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const KubeFI: IDevOpsStack = {
     title: "Kubernetes",

@@ -1,5 +1,5 @@
 import {IAiImage} from "@/data/ai/model/IAiImage";
-import {IImageUnit} from "@/data/image/model/IImageUnit";
+import {IImageUnit} from "@/image/model/IImageUnit";
 
 export interface IAiDetail {
     name: string;

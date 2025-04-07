@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const MainShape: React.FC = () => {
     return (

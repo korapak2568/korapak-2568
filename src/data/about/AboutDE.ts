@@ -24,16 +24,12 @@ export const AboutDE: IAbout = {
             description: "Tiefgehende Systemanalyse und technische Empfehlungen zur Verbesserung kritischer Anwendungen und Systeme. Gewährleistet Zuverlässigkeit, Qualitätskontrolle, Softwaretests und die Implementierung moderner Technologien für kontinuierlichen Geschäftsbetrieb und Verbesserung."
         },
         {
-            title: "Software-Entwicklungstechnik und KI-Systemintegration",
-            description: "Entwicklung maßgeschneiderter Websites und Softwaresysteme mit modernen Frameworks. Expertise in Frontend, Backend und Cloud-Infrastrukturlösungen. Entwicklung von Smart Contracts, Blockchain, Web3, KI-Systemintegration und großen Sprachmodellen."
+            title: "Softwareentwicklungstechnik und Unternehmenssystemintegration",
+            description: "Entwicklung individueller Websites und Softwaresysteme mit modernen Frameworks. Entwicklung von Frontend, Backend, Smart Contracts, Blockchain, Web3 und KI. Die Integration von Unternehmenssystemen wie ERP (z.B. SAP), CRM, E-Commerce-Plattformen, Google APIs und Finanz- und Buchhaltungssystemen verbessert die Datenverbindung zwischen Abteilungen und ermöglicht Automatisierung und Zusammenarbeit."
         },
         {
             title: "Agile Softwareentwicklung und Business-Team-Koordination",
             description: "Agile Softwareentwicklung mit Business-Team-Koordination. Enge Zusammenarbeit mit nationalen und internationalen Teams, internen und externen Kunden, Business-Anwendern. Arbeitsmethoden umfassen agile, Wasserfall- und hybride Ansätze."
-        },
-        {
-            title: "Integration von Unternehmenssystemen",
-            description: "Entwurf und Verbesserung von Unternehmenssystemen wie ERP (z. B. SAP), CRM, E-Commerce-Plattformen, Google-APIs sowie Finanz- und Buchhaltungssystemen, um die Datenverbindung zwischen Abteilungen zu verbessern, Automatisierung und Zusammenarbeit zu ermöglichen und effektive Geschäftsentscheidungen sowie digitale Transformation zu unterstützen."
         }
     ]
 };

@@ -1,6 +1,6 @@
-import {IImageUnit} from "@/data/image/model/IImageUnit";
-import {IImageLink} from "@/data/image/model/IImageLink";
-import {IImageResponsiveUnit} from "@/data/image/model/IImageResponsiveUnit";
+import {IImageUnit} from "@/image/model/IImageUnit";
+import {IImageLink} from "@/image/model/IImageLink";
+import {IImageResponsiveUnit} from "@/image/model/IImageResponsiveUnit";
 
 export interface IImageUrl {
     frontend: {

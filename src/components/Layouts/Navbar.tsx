@@ -12,7 +12,7 @@ import {useDispatch} from "react-redux";
 import {setTranslate} from "@/redux/serviceSlice";
 import {useRouter} from "next/navigation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 const Navbar: React.FC = () => {
     const router = useRouter();

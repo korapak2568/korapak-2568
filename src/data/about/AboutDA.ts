@@ -24,16 +24,12 @@ export const AboutDA: IAbout = {
             description: "Dybdegående systemanalyse og tekniske anbefalinger til forbedring af kritiske applikationer og systemer. Sikrer pålidelighed, kvalitetskontrol, softwaretest og implementering af moderne teknologier til kontinuerlig forretningsdrift og forbedring."
         },
         {
-            title: "Softwareudviklingsteknologi og AI-systemintegration",
-            description: "Udvikling af skræddersyede hjemmesider og softwaresystemer ved hjælp af moderne frameworks. Ekspertise inden for frontend, backend og cloudinfrastrukturløsninger. Udvikling af smart contracts, blockchain, Web3, AI-systemintegration og store sprogmodeller."
+            title: "Softwareudviklingsteknologi og virksomhedssystemintegration",
+            description: "Udvikling af skræddersyede hjemmesider og softwaresystemer ved hjælp af moderne frameworks. Udvikling af frontend, backend, smart contracts, blockchain, Web3 og AI. Integration af virksomhedssystemer, såsom ERP (f.eks. SAP), CRM, e-handelsplatforme, Google API'er og finans- og regnskabssystemer, forbedrer dataforbindelsen på tværs af afdelinger, hvilket muliggør automatisering og samarbejde."
         },
         {
             title: "Agil Softwareudvikling og Forretningsteamkoordinering",
             description: "Agil softwareudvikling med forretningsteamkoordinering. Tæt samarbejde med indenlandske og internationale teams, interne og eksterne kunder, forretningsbrugere. Arbejdsmetoder omfatter agile, vandfalds- og hybride tilgange."
-        },
-        {
-            title: "Integration af virksomhedssystemer",
-            description: "Design og forbedring af virksomhedssystemer såsom ERP (f.eks. SAP), CRM, e-handelsplatforme, Google API'er samt finans- og regnskabssystemer for at forbedre datatilslutningen mellem afdelinger, muliggøre automatisering og samarbejde samt støtte effektiv forretningsbeslutning og digital transformation."
         }
     ]
 };

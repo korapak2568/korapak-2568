@@ -1,4 +1,4 @@
-import {IImageResponsiveUnit} from "@/data/image/model/IImageResponsiveUnit";
+import {IImageResponsiveUnit} from "@/image/model/IImageResponsiveUnit";
 
 export interface IGalleryItemImage {
     title: string,

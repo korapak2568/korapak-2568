@@ -2,7 +2,7 @@ import {IDevOps} from "@/data/devops/model/IDevOps";
 import {DockerJA} from "@/data/devops/frameworks/docker/DockerJA";
 import {KubeJA} from "@/data/devops/frameworks/kube/KubeJA";
 import {GitHubJA} from "@/data/devops/frameworks/github/GitHubJA";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const DevOpsJA: IDevOps = {
     title: "Cloud DevOps",

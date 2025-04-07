@@ -3,7 +3,7 @@
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiPloyEnglish} from "@/data/ai/relevant/AiPloyEnglish";
 import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const AiAomEN: IAiLanding = {
     name: 'Aom',

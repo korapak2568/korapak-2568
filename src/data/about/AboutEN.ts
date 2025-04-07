@@ -25,16 +25,12 @@ export const AboutEN: IAbout = {
             description: "In-depth system analysis and technical recommendations enhance mission-critical applications and systems. Ensures reliability, quality control, software testing, and implementation of modern technologies for continuous business operation and improvement."
         },
         {
-            title: "Software Development Engineering and AI System Integration",
-            description: "Custom website and software system development using modern frameworks. Expertise in frontend, backend, and cloud infrastructure solutions. Development of smart contracts, blockchain, Web3, AI system integration, and large language models."
+            title: "Software Development Engineering and Enterprise System Integration",
+            description: "Custom website and software system development using modern frameworks. Development of frontend, backend, smart contracts, blockchain, Web3, and AI. Enterprise system integration, such as ERP (e.g., SAP), CRM, e-commerce platforms, Google APIs, and financial and accounting systems, enhances data connectivity across departments, enabling automation and collaboration."
         },
         {
             title: "Agile Software Development and Business Team Coordination",
             description: "Agile software development with business team coordination. Close collaboration with domestic and international teams, internal and external clients, business users. Work methodologies include agile, waterfall, and hybrid approaches."
-        },
-        {
-            title: "Enterprise System Integration",
-            description: "Design and improvement of enterprise systems such as ERP (e.g., SAP), CRM, e-commerce platforms, Google APIs, and financial and accounting systems to enhance data connectivity across departments, enable automation and collaboration, and support effective business decision-making and digital transformation."
         }
     ]
 };

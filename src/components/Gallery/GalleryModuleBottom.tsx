@@ -4,7 +4,7 @@ import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Pagination, Autoplay} from "swiper/modules";
 import Image from "next/image";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 const GalleryModuleBottom: React.FC = () => {
 

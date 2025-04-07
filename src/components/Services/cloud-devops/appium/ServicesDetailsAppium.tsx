@@ -3,7 +3,7 @@ import ServiceFaqAppium from "./ServiceFaqAppium";
 import Image from "next/image";
 import SidebarDevOps from "@/components/Services/SidebarDevOps";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 
 const ServicesDetailsAppium: React.FC<{ lang: string }> = ({lang}) => {

@@ -1,4 +1,4 @@
-import {IImageUrl} from "@/data/image/model/IImageUrl";
+import {IImageUrl} from "@/image/model/IImageUrl";
 
 export const ImageUrl: IImageUrl = {
     // frontend

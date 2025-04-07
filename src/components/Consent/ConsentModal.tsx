@@ -6,7 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 const ConsentModal = () => {
         const locale = useLocale();

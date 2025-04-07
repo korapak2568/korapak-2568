@@ -3,5 +3,6 @@ export interface IImageResponsiveUnit {
     image375: string,
     image750: string,
     image1200: string,
+    thumbnail?: string,
     large: string,
 }

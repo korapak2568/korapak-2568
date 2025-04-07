@@ -2,7 +2,7 @@ import {IDevOps} from "@/data/devops/model/IDevOps";
 import {DockerVI} from "@/data/devops/frameworks/docker/DockerVI";
 import {KubeVI} from "@/data/devops/frameworks/kube/KubeVI";
 import {GitHubVI} from "@/data/devops/frameworks/github/GitHubVI";
-import {ImageUrl} from "@/data/image/ImageUrl";
+import {ImageUrl} from "@/image/ImageUrl";
 
 export const DevOpsVI: IDevOps = {
     title: "Cloud DevOps",

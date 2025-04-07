@@ -24,16 +24,12 @@ export const AboutFR: IAbout = {
             description: "Analyse approfondie des systèmes et recommandations techniques pour améliorer les applications et systèmes critiques. Assure la fiabilité, le contrôle qualité, les tests logiciels et l'implémentation de technologies modernes pour un fonctionnement et une amélioration continue des activités."
         },
         {
-            title: "Ingénierie du Développement Logiciel et Intégration de Systèmes d'IA",
-            description: "Développement de sites web et de systèmes logiciels personnalisés utilisant des frameworks modernes. Expertise en développement frontend, backend et solutions d'infrastructure cloud. Développement de contrats intelligents, blockchain, Web3, intégration de systèmes d'IA et de grands modèles de langage."
+            title: "Ingénierie de développement logiciel et intégration de systèmes d'entreprise",
+            description: "Développement de sites web et de systèmes logiciels personnalisés utilisant des frameworks modernes. Développement frontend, backend, smart contracts, blockchain, Web3 et IA. L'intégration de systèmes d'entreprise, tels que ERP (par ex. SAP), CRM, plateformes e-commerce, APIs Google, et systèmes financiers et comptables, améliore la connectivité des données entre les départements, permettant l'automatisation et la collaboration."
         },
         {
             title: "Développement Agile et Coordination d'Équipe Business",
             description: "Développement logiciel agile avec coordination d'équipes business. Collaboration étroite avec des équipes nationales et internationales, clients internes et externes, utilisateurs métier. Les méthodologies de travail incluent les approches agile, en cascade et hybrides."
-        },
-        {
-            title: "Intégration des systèmes d'entreprise",
-            description: "Conception et amélioration des systèmes d'entreprise tels que les ERP (par exemple SAP), les CRM, les plateformes de commerce électronique, les API Google et les systèmes financiers et comptables afin d'améliorer la connectivité des données entre les départements, d'activer l'automatisation et la collaboration, et de soutenir la prise de décision commerciale efficace et la transformation numérique."
         }
     ]
 };
