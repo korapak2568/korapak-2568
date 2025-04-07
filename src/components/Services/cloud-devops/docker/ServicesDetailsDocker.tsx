@@ -1,10 +1,12 @@
 import React from "react";
 import ServiceFaqDocker from "./ServiceFaqDocker";
 import Image from "next/image";
-import ServiceSidebarDevOpsTesting from "@/components/Services/ServiceSidebarDevOpsTesting";
+import SidebarDevOps from "@/components/Services/SidebarDevOps";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
+import SidebarFullStack from "@/components/Services/SidebarFullStack";
+import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 
 const ServicesDetailsDocker: React.FC<{ lang: string }> = ({lang}) => {
     return (
@@ -58,7 +60,9 @@ const ServicesDetailsDocker: React.FC<{ lang: string }> = ({lang}) => {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <ServiceSidebarDevOpsTesting/>
+                            <SidebarDevOps/>
+                            <SidebarFullStack/>
+                            <SidebarFrontEnd/>
                         </div>
                     </div>
                 </div>

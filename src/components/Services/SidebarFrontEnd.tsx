@@ -19,7 +19,7 @@ const SidebarFrontEnd: React.FC = () => {
 
     return (
         <>
-            <div className="services-details-information ml-10">
+            <div className="services-details-information ml-10 border-top">
 
                 <ul className="framework-list">
                     {InfoTranslation[locale.value].FrontEnd.stacks.map((item: IFullStackStack, index: number) => {

@@ -6,6 +6,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
+import SidebarDevOps from "@/components/Services/SidebarDevOps";
 
 const ServicesDetailsNodejs: React.FC<{ lang: string }> = ({lang}) => {
     return (
@@ -62,6 +63,7 @@ const ServicesDetailsNodejs: React.FC<{ lang: string }> = ({lang}) => {
                         <div className="col-lg-4 col-md-12">
                             <SidebarFullStack/>
                             <SidebarFrontEnd/>
+                            <SidebarDevOps/>
                         </div>
                     </div>
                 </div>

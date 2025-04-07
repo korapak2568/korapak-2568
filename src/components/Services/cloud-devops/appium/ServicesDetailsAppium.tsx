@@ -1,7 +1,7 @@
 import React from "react";
 import ServiceFaqAppium from "./ServiceFaqAppium";
 import Image from "next/image";
-import ServiceSidebarDevOpsTesting from "@/components/Services/ServiceSidebarDevOpsTesting";
+import SidebarDevOps from "@/components/Services/SidebarDevOps";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
@@ -58,7 +58,7 @@ const ServicesDetailsAppium: React.FC<{ lang: string }> = ({lang}) => {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <ServiceSidebarDevOpsTesting/>
+                            <SidebarDevOps/>
                         </div>
                     </div>
                 </div>

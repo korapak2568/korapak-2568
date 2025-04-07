@@ -1,4 +1,4 @@
-// src/data/ai/landing/AiPloyEN.ts
+// src/data/ai/Main/AiPloyEN.ts
 
 import {IAiLanding} from "@/data/ai/model/IAiLanding";
 import {AiFahEnglish} from "@/data/ai/relevant/AiFahEnglish";

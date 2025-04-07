@@ -6,6 +6,7 @@ import {ImageUrl} from "@/data/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
+import SidebarDevOps from "@/components/Services/SidebarDevOps";
 
 const ServicesDetailsJavaScript: React.FC<{ lang: string }> = ({lang}) => {
     return (
@@ -62,6 +63,7 @@ const ServicesDetailsJavaScript: React.FC<{ lang: string }> = ({lang}) => {
                         <div className="col-lg-4 col-md-12">
                             <SidebarFrontEnd/>
                             <SidebarFullStack/>
+                            <SidebarDevOps/>
                         </div>
                     </div>
                 </div>

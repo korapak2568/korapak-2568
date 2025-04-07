@@ -1,47 +1,4 @@
-// Background color
-.bg-orange {
-  background: #fd9b5f !important;
-}
-
-.bg-green {
-  background: #06c755 !important;
-}
-
-.bg-red {
-  background: #f44336 !important;
-}
-
-.bg-blue {
-  background: #2196f3 !important;
-}
-
-.bg-blue-go {
-  background: #0ca6d1 !important;
-}
-
-.bg-purple {
-  background: #9c27b0 !important;
-}
-
-.bg-pink {
-  background: #e91e63 !important;
-}
-
-.bg-teal {
-  background: #009688 !important;
-}
-
-.bg-yellow {
-  background: #fbc02d !important;
-}
-
-.bg-indigo {
-  background: #3f51b5 !important;
-}
-
-.bg-brown {
-  background: #8d6e63 !important;
-}
+// src/styles/addition.scss
 
 .addition-border-none {
   border: none !important;
@@ -876,7 +833,7 @@
   box-shadow: 0 5px 40px 10px #eaeaef;
 
   @media (min-width: 1024px) {
-    padding-inline-start: 40px;
+    //padding-inline-start: 40px;
   }
 
   li {
@@ -892,18 +849,23 @@
   }
 
   li a.active {
-    //background-color: #06c755 !important;
-    //border-color: #06c755 !important;
     background: #fd9b5f !important;
     border-color: #fd9b5f !important;
     color: #ffffff;
   }
 
   li a:hover {
-    //background-color: #06c755 !important;
-    //border-color: #06c755 !important;
     background: #fd9b5f !important;
     border-color: #fd9b5f !important;
     color: #ffffff;
   }
+}
+
+// Add border
+.border-top {
+  background-color: #fff;
+  box-shadow: 0 -10px 30px rgba(0, 0, 0, .1);
+  border-radius: 5px;
+  border-top: 3px solid #06c755 !important;
+  padding: 30px 20px;
 }

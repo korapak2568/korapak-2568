@@ -9,10 +9,11 @@ import "swiper/css";
 import "swiper/css/bundle";
 import {SpeedInsights} from "@vercel/speed-insights/next"
 
-// Global Styles
+// Custom Styles
 import "@/styles/style.css";
 import "@/styles/responsive.css";
 import "@/styles/addition.scss";
+import "@/styles/x-color-style.scss";
 
 import {DM_Sans} from "next/font/google";
 import AosAnimation from "@/components/Layouts/AosAnimation";

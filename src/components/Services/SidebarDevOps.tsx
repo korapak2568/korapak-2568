@@ -7,7 +7,7 @@ import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const ServiceSidebarDevOpsTesting: React.FC = () => {
+const SidebarDevOps: React.FC = () => {
     const locale = useLocale()
     const [currentUrl, setCurrentUrl] = useState('');
 
@@ -19,7 +19,7 @@ const ServiceSidebarDevOpsTesting: React.FC = () => {
 
     return (
         <>
-            <div className="services-details-information ml-10">
+            <div className="services-details-information ml-10 border-top">
                 <ul className="framework-list">
                     {InfoTranslation[locale.value].DevOps.stacks.map((item: IDevOpsStack, index: number) => {
                         if (currentUrl.includes(item.link)) {
@@ -43,11 +43,9 @@ const ServiceSidebarDevOpsTesting: React.FC = () => {
                         )
                     })}
                 </ul>
-
-                {/*<ContactSidebar/>*/}
             </div>
         </>
     );
 };
 
-export default ServiceSidebarDevOpsTesting;
+export default SidebarDevOps;
