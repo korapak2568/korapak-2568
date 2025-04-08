@@ -7,9 +7,11 @@
  * @returns The truncated string with ellipsis if it exceeds the limit.
  */
 export function truncateText(text: string, limit: number = 200): string {
+    const readMoreSymbol = ' ↗️';
+
     if (text.length <= limit) {
-        return text + ' ... ';
+        return text + readMoreSymbol;
     }
 
-    return text.substring(0, limit) + ' ... ';
+    return text.substring(0, limit) + readMoreSymbol;
 }

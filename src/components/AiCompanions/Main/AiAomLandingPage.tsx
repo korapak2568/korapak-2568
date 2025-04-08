@@ -9,7 +9,7 @@ import AomBottomFeature from "@/components/AiCompanions/BottomFeature/AomBottomF
 const AiAomLandingPage: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
-            <div className="portfolio-details-area pt-4">
+            <div className="portfolio-details-area pt-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-8">

@@ -869,3 +869,148 @@
   border-top: 3px solid #06c755 !important;
   padding: 30px 20px;
 }
+
+// Feature
+
+.home-feature-top {
+  max-width: 100%;
+  margin: 0 auto 45px;
+
+  span {
+    font-size: 0.8rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+
+  @media (min-width: 768px) {
+    span {
+      font-size: 1rem;
+    }
+
+    h2 {
+      font-size: 3rem;
+    }
+  }
+}
+
+.home-feature-container {
+  .feature-box {
+    margin-bottom: 10px;
+    padding: 15px 5px 15px 15px;
+    border: solid 1px #06c755 !important;
+
+    .feature-box-icon {
+      margin-bottom: 0;
+    }
+
+    .title {
+      font-weight: bold;
+      padding-left: 15px;
+      font-size: 1.1rem;
+    }
+
+    .description {
+      padding-left: 60px;
+    }
+  }
+
+  .feature-icon {
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 45px !important;
+    font-size: 21px !important;
+    background-color: #06c755 !important;
+    color: #ffffff !important;
+  }
+
+  .feature-box:hover {
+    background-color: #06c755;
+    color: #ffffff;
+
+    p {
+      color: #ffffff !important;
+    }
+
+    .feature-box-icon {
+      .feature-icon {
+        color: #06c755 !important;
+        background-color: #ffffff !important;
+      }
+    }
+
+  }
+
+  @media (min-width: 1024px) {
+    padding-right: 0;
+
+    .feature-box {
+    }
+  }
+}
+
+// Home Front End
+.home-frontend-box {
+  background-color: #ffffff;
+  border: 1px solid #06c755;
+  margin-bottom: 30px;
+  text-align: center;
+  padding: 35px 30px;
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  transition: 0.5s;
+
+  h3 {
+    margin-top: 20px;
+  }
+}
+
+.home-frontend-box:hover {
+  background-color: #06c755;
+
+  h3 {
+    color: #ffffff !important;
+  }
+}
+
+// Home Back-End
+.home-backend-icon-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  padding-right: 0;
+
+  .home-backend-icon {
+    padding: 15px;
+    border: 1px solid #06c755;
+    width: 50%;
+  }
+
+  .home-backend-icon:hover {
+    background-color: #06c755;
+  }
+
+  @media (min-width: 768px) {
+    padding-right: 0 !important;
+
+    .home-backend-icon {
+      padding: 30px;
+      margin-right: 2px;
+      border-radius: 5px;
+      flex: 1;
+    }
+  }
+}
+
+.home-backend-image {
+  margin-bottom: 20px;
+
+  @media (min-width: 768px) {
+    padding: 30px;
+    margin-bottom: 0;
+  }
+}
+

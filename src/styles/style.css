@@ -17,7 +17,7 @@ This files table contents are outlined below>>>>>
 ** - Navbar Area CSS
 ** - Main Banner Area CSS
 ** - Main Slider Area CSS
-** - Features Area CSS
+** - HomeFeatureMain Area CSS
 ** - model Area CSS
 ** - Services Area CSS
 ** - Default Shape CSS
@@ -1554,7 +1554,7 @@ Main Slider Area CSS
 }
 
 /*================================================
-Features Area CSS
+HomeFeatureMain Area CSS
 =================================================*/
 .single-features {
   background-color: #ffffff;

@@ -29,7 +29,7 @@ export const PhpEN: IFullStackStack = {
         },
         {
             title: "Rapid Development",
-            description: "Laravel, known for its expressive syntax and powerful tools, enables rapid development and deployment of web applications. Features like Eloquent ORM, Blade templating engine, and Laravel Artisan command-line tool streamline development tasks. Phalcon enhances rapid development with its robust performance and low-level architecture. WordPress provides a quick setup and a vast array of plugins and themes, allowing developers to rapidly deploy feature-rich websites. Headless WordPress decouples the front-end-developer and back-end, enabling the use of modern JavaScript frameworks like React or Vue for a dynamic and responsive user experience.",
+            description: "Laravel, known for its expressive syntax and powerful tools, enables rapid development and deployment of web applications. HomeFeatureMain like Eloquent ORM, Blade templating engine, and Laravel Artisan command-line tool streamline development tasks. Phalcon enhances rapid development with its robust performance and low-level architecture. WordPress provides a quick setup and a vast array of plugins and themes, allowing developers to rapidly deploy feature-rich websites. Headless WordPress decouples the front-end-developer and back-end, enabling the use of modern JavaScript frameworks like React or Vue for a dynamic and responsive user experience.",
             list: []
         },
         {

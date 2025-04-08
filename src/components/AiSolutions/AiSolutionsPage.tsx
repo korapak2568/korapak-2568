@@ -2,17 +2,17 @@ import React from "react";
 import HomeAiSolutionBanner from "@/components/AI/HomeAiSolutionBanner/HomeAiSolutionBanner";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 
-const AiSolutionsPage: React.FC<{ lang: string }> = ({lang}) => {
+export default function AiSolutionsPage({lang}: { lang: string }) {
     return (
         <>
-            <div className="portfolio-area pt-4">
+            <div className="services-area pt-5">
                 <div className="container">
-                    <HomeAiSolutionBanner lang={lang}/>
+                    <div className="row justify-content-md-center">
+                        <HomeAiSolutionBanner lang={lang}/>
+                    </div>
                 </div>
-                <DefaultShape/>
             </div>
+            <DefaultShape/>
         </>
     );
 };
-
-export default AiSolutionsPage;

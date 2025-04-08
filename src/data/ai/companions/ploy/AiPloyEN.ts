@@ -21,7 +21,7 @@ export const AiPloyEN: IAiLanding = {
     title: "Ploy, AI LINE Chat",
     features: [
         {
-            title: "Unique Features",
+            title: "Unique HomeFeatureMain",
             description: "Ploy is an AI chat friend using LINE Application. Friends can press the Add Friend button or scan LINE QR Code to add Ploy as a friend right away. Ploy is cheerful and creative, bringing the energy of youth and art to every conversation. As a 17-year-old high school student from Thailand, she is passionate about drawing, music, photography, and learning. Ploy can speak seven languages, help you with various subjects, and inspire you to express yourself creatively. Whether you're exploring art or doing homework, Ploy is the perfect friend to guide you with friendliness and enthusiasm.",
             items: [
                 {

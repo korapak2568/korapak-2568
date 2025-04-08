@@ -6,7 +6,7 @@ import Web3ModuleRight from "@/components/Services/web3-blockchain-development/W
 const Web3PageMain: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
-            <div className="services-area pt-4 pb-70">
+            <div className="services-area pt-5 pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
                         <div className="row align-items-center align-items-center-custom">

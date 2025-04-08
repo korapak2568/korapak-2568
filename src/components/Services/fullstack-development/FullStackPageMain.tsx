@@ -7,7 +7,7 @@ import FullStackModuleRight from "@/components/Services/fullstack-development/Fu
 const FullStackPageMain: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
-            <div className="services-area pt-4 pb-70">
+            <div className="services-area pt-5 pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
                         <div className="row align-items-center align-items-center-custom">

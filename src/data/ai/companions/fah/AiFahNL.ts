@@ -20,7 +20,7 @@ export const AiFahNL: IAiLanding = {
     title: "Fah, LINE AI Chat Friend",
     features: [
         {
-            title: "Unique Features",
+            title: "Unique HomeFeatureMain",
             description: "Fah is your AI chat friend on the LINE Application. You can simply click the Add Friend button or scan the LINE QR Code to add Fah as a friend. Fah is designed with a unique Thai touch—she's cheerful, approachable, and always ready to brighten your day. At 20 years old, Fah brings youthful energy and charm to every interaction. She helps recommend Thailand's top destinations, famous dishes, and cultural gems, making exploring Thai culture effortless and fun. She can chat in multiple languages through the LINE Application, whether you're planning your next trip to Thailand or just looking for engaging, friendly conversations. Fah guides you through all things Thai while keeping you inspired.",
             items: [
                 {

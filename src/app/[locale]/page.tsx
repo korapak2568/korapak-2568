@@ -1,10 +1,10 @@
 // src/app/[locale]/page.tsx
 
 import Navbar from "../../components/Layouts/Navbar";
-import Features from "../../components/Index/Features";
+import HomeFeatureMain from "../../components/Features/HomeFeatureMain";
 import AboutContent from "@/components/About/AboutContent";
-import FrontEndExperience from "../../components/Common/FrontEndExperience";
-import FullStackExperience from "../../components/Common/FullStackExperience";
+import HomeFrontEndContainer from "@/components/Common/HomeFrontEnd/HomeFrontEndContainer";
+import HomeBackEndContainer from "../../components/Common/HomeBackEnd/HomeBackEndContainer";
 import CloudExperience from "../../components/Common/CloudExperience";
 import SubscribeForm from "../../components/Common/SubscribeForm";
 import Footer from "../../components/Layouts/Footer";
@@ -61,10 +61,10 @@ export default function Home() {
         <>
             <Navbar/>
             <HomeWorkspace lang={lang}/>
-            <Features/>
+            <HomeFeatureMain lang={lang}/>
             <AboutContent/>
-            <FrontEndExperience/>
-            <FullStackExperience/>
+            <HomeFrontEndContainer lang={lang}/>
+            <HomeBackEndContainer lang={lang}/>
             <CloudExperience/>
             <SubscribeForm/>
             <WeWorkForIndustries/>

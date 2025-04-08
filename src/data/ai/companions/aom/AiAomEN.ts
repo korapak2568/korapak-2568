@@ -22,7 +22,7 @@ export const AiAomEN: IAiLanding = {
     title: "Aom, AI Chat",
     features: [
         {
-            title: "Unique Features",
+            title: "Unique HomeFeatureMain",
             description: "Aom can be accessed through the LINE Application. You can press the Add Friend button or scan the LINE QR Code to add Aom as a friend right away. Aom is a friendly and vibrant AI companion who is passionate about healthy living and wellness. With her youthful energy and radiant smile, she's ready to inspire you to live your healthiest life. At 21 years old, Aom combines fresh perspectives with valuable insights, making her an ideal guide for anyone looking to improve their lifestyle. Whether you're looking for nutritional tips, exercise routines, or mindfulness practices, Aom's engaging conversations and positive attitude will keep you motivated. With her ability to chat in multiple languages, Aom is the perfect guide to help you maintain a balanced lifestyle while keeping things fun and interactive.",
             items: [
                 {
