@@ -803,11 +803,16 @@
 
 .align-items-center-custom {
   padding-right: 0;
-  align-items: start!important;
+  align-items: start !important;
 
   @media (min-width: 768px) {
     padding-right: 10px;
+    margin-left: -30px !important;
   }
+}
+
+.llm-integration-vertical {
+  align-items: start !important;
 }
 
 // Gallery responsive

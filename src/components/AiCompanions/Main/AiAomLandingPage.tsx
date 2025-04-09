@@ -11,9 +11,9 @@ const AiAomLandingPage: React.FC<{ lang: string }> = ({lang}) => {
         <>
             <div className="portfolio-details-area pt-5">
                 <div className="container">
+                    <h1>{InfoTranslation[lang].AiCompanions.aom.title}</h1>
                     <div className="row">
                         <div className="col-lg-8">
-                            <h1>{InfoTranslation[lang].AiCompanions.aom.title}</h1>
                             <div className="portfolio-details-image">
                                 <Image
                                     src={InfoTranslation[lang].AiCompanions.aom.pages.landing.image.path}

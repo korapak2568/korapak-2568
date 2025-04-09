@@ -11,9 +11,9 @@ const AiFahLandingPage: React.FC<{ lang: string }> = ({lang}) => {
         <>
             <div className="portfolio-details-area pt-5">
                 <div className="container">
+                    <h1>{InfoTranslation[lang].AiCompanions.fah.title}</h1>
                     <div className="row">
                         <div className="col-lg-8">
-                            <h1>{InfoTranslation[lang].AiCompanions.fah.title}</h1>
                             <div className="portfolio-details-image">
                                 <Image
                                     src={InfoTranslation[lang].AiCompanions.fah.pages.landing.image.path}
