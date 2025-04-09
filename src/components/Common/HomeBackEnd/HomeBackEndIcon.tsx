@@ -8,10 +8,11 @@ export default function HomeBackEndIcon({lang}: { lang: string }) {
     return (
         <div className="home-backend-icon-container">
             {InfoTranslation[lang].FullStack.stacks.map((item: IFullStackStack, index: any) => (
-                <div key={index}>
-                    <Link href={`/${lang}/${item.link}`} className="home-backend-icon">
+                <div key={index}
+                     className={`home-backend-icon${item.image.includes(`nodejs`) ? ' icon-orange' : ''}`}>
+                    <Link href={`/${lang}/${item.link}`}>
                         <Image
-                            className="hover-rotate"
+                            className="hover-rotate image-box"
                             src={item.image}
                             alt={item.alt}
                             width={150}

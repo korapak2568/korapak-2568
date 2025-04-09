@@ -978,29 +978,54 @@
 
 // Home Back-End
 .home-backend-icon-container {
+  // Starting from Samsung Galaxy S8+
+  // min-width: 360px
+
   display: flex;
   flex-wrap: wrap;
   align-content: space-between;
-  padding-right: 0;
 
   .home-backend-icon {
-    padding: 15px;
     border: 1px solid #06c755;
-    width: 50%;
+    border-radius: 10px;
+
+    width: 48%;
+    margin: 0.6%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .icon-orange {
+    background-color: #06c755;
+  }
+
+  .image-box {
+    width: 150px;
+    height: 150px;
   }
 
   .home-backend-icon:hover {
     background-color: #06c755;
   }
 
-  @media (min-width: 768px) {
-    padding-right: 0 !important;
-
+  // iPad Pro, Surface Pro 7
+  // 3 images
+  @media (min-width: 900px) {
     .home-backend-icon {
-      padding: 30px;
-      margin-right: 2px;
-      border-radius: 5px;
-      flex: 1;
+      width: 32%;
+      padding-top: 15px;
+      padding-bottom: 15px;
+    }
+  }
+
+  // Desktop
+  // 6 images
+  @media (min-width: 1360px) {
+    .home-backend-icon {
+      width: 15%;
     }
   }
 }
