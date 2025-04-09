@@ -20,7 +20,7 @@ const Page = () => {
         <>
             <Navbar/>
             <ServicesDetailsPhp lang={lang}/>
-            <CloudExperience/>
+            <CloudExperience lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name="PHP Full Stack Development | CHORN"

@@ -22,8 +22,8 @@ const Page = () => {
         <>
             <Navbar/>
             <CloudInfraPageMain lang={lang}/>
-            <CloudExperience/>
-            <WeWorkForIndustries/>
+            <CloudExperience lang={lang}/>
+            <WeWorkForIndustries lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name="Cloud Solution Architecture & Systems Analysis | CHORN | AWS, Azure, GCP, DigitalOcean"

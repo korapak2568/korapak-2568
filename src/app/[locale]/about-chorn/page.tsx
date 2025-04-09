@@ -18,8 +18,8 @@ export default function Page() {
     return (
         <>
             <Navbar/>
-            <AboutContent/>
-            <WeWorkForIndustries/>
+            <AboutContent lang={lang}/>
+            <WeWorkForIndustries lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name="About Us | CHORN - Custom Software Development Experts"

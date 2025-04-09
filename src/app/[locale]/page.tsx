@@ -62,12 +62,12 @@ export default function Home() {
             <Navbar/>
             <HomeWorkspace lang={lang}/>
             <HomeFeatureMain lang={lang}/>
-            <AboutContent/>
+            <AboutContent lang={lang}/>
             <HomeFrontEndContainer lang={lang}/>
             <HomeBackEndContainer lang={lang}/>
-            <CloudExperience/>
-            <SubscribeForm/>
-            <WeWorkForIndustries/>
+            <CloudExperience lang={lang}/>
+            <SubscribeForm lang={lang}/>
+            <WeWorkForIndustries lang={lang}/>
             <Footer/>
             <SchemaMarkupHomePage/>
 

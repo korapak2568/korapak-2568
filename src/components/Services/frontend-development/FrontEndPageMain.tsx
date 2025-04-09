@@ -5,7 +5,6 @@ import FrontEndModuleLeft from "@/components/Services/frontend-development/Front
 import FrontEndRightImages from "@/components/Services/frontend-development/FrontEndModuleRight";
 
 const FrontEndPageMain: React.FC<{ lang: string }> = ({lang}) => {
-
     return (
         <>
             <div className="services-area pt-5 pb-70">
@@ -19,7 +18,6 @@ const FrontEndPageMain: React.FC<{ lang: string }> = ({lang}) => {
                     </div>
                 </div>
             </div>
-
             <DefaultShape/>
         </>
     );

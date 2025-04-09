@@ -8,7 +8,7 @@ import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarDevOps from "@/components/Services/SidebarDevOps";
 
-const ServicesDetailsPython: React.FC<{ lang: string }> = ({lang}) => {
+export default function ServicesDetailsPython({lang}: { lang: string }) {
     return (
         <>
             <div className="services-details-area ptb-50">
@@ -56,21 +56,19 @@ const ServicesDetailsPython: React.FC<{ lang: string }> = ({lang}) => {
                                 <h3>{InfoTranslation[lang].FullStack.python.features[3].title}</h3>
                                 <p>{InfoTranslation[lang].FullStack.python.features[3].description}</p>
 
-                                <ServiceFaqPython/>
+                                <ServiceFaqPython lang={lang}/>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarFullStack/>
-                            <SidebarFrontEnd/>
-                            <SidebarDevOps/>
+                            <SidebarFullStack lang={lang}/>
+                            <SidebarFrontEnd lang={lang}/>
+                            <SidebarDevOps lang={lang}/>
                         </div>
                     </div>
                 </div>
             </div>
             <DefaultShape/>
         </>
-    );
-};
-
-export default ServicesDetailsPython;
+    )
+}

@@ -5,8 +5,10 @@ import SidebarDevOps from "@/components/Services/SidebarDevOps";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
+import SidebarFullStack from "@/components/Services/SidebarFullStack";
+import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 
-const ServicesDetailsAppium: React.FC<{ lang: string }> = ({lang}) => {
+export default function ServicesDetailsAppium({lang}: { lang: string }) {
     return (
         <>
             <div className="services-details-area ptb-50">
@@ -52,20 +54,19 @@ const ServicesDetailsAppium: React.FC<{ lang: string }> = ({lang}) => {
                                     <h3>{InfoTranslation[lang].DevOps.appium.features[2].title}</h3>
                                     <p>{InfoTranslation[lang].DevOps.appium.features[2].description}</p>
                                 </div>
-
-                                <ServiceFaqAppium/>
+                                <ServiceFaqAppium lang={lang}/>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarDevOps/>
+                            <SidebarDevOps lang={lang}/>
+                            <SidebarFullStack lang={lang}/>
+                            <SidebarFrontEnd lang={lang}/>
                         </div>
                     </div>
                 </div>
             </div>
             <DefaultShape/>
         </>
-    );
-};
-
-export default ServicesDetailsAppium;
+    )
+}

@@ -12,16 +12,14 @@ import {sanitizeUUID} from "@/lib/utils";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const ServiceFaqTypeScript: React.FC = () => {
-    const locale = useLocale()
-
+export default function ServiceFaqTypeScript({lang}: { lang: string }) {
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${sanitizeUUID(InfoTranslation[locale.value].FrontEnd.typescript.faqs[0].question)}`
+                    `${sanitizeUUID(InfoTranslation[lang].FrontEnd.typescript.faqs[0].question)}`
                 ]}>
-                    {InfoTranslation[locale.value].FrontEnd.typescript.faqs.map((item, index: number) => (
+                    {InfoTranslation[lang].FrontEnd.typescript.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
@@ -37,6 +35,4 @@ const ServiceFaqTypeScript: React.FC = () => {
             </div>
         </>
     );
-};
-
-export default ServiceFaqTypeScript;
+}

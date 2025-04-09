@@ -21,8 +21,8 @@ const Page = () => {
         <>
             <Navbar/>
             <CloudDevOpsModuleMain lang={lang}/>
-            <CloudExperience/>
-            <WeWorkForIndustries/>
+            <CloudExperience lang={lang}/>
+            <WeWorkForIndustries lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name="DevOps & Testing Services | CHORN"

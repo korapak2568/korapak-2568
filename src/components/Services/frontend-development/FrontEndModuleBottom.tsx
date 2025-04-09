@@ -1,37 +1,34 @@
+import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
-import Image from "next/image";
 import Link from "next/link";
-import React from "react";
+import Image from "next/image";
 
-const FrontEndModuleBottom: React.FC<{ lang: string }> = ({lang}) => {
-
+export default function FrontEndModuleBottom({lang}: { lang: string }) {
     return (
-        <>
-            {
-                InfoTranslation[lang].FrontEnd.stacks.slice(0, -2).map((item: IFrontEndStack, index: number) => (
-                    <div key={index} className="col-lg-4 col-md-6">
-                        <div className="single-services-box">
-                            <div className="icon">
-                                <Image
-                                    src={item.image}
-                                    alt={item.title}
-                                    width={120}
-                                    height={120}
-                                />
-                            </div>
+        <div className="services-area bg-fafafa pt-100 pb-70 addition-ptb-0">
+            <div className="container">
+                <div className="row">
+                    {InfoTranslation[lang].FrontEnd.stacks.slice(0, 6).map((item: IFrontEndStack, index: number) => (
+                        <div key={index} className="col-lg-4 col-md-6">
+                            <Link href={'/' + lang + item.link}>
+                                <div className="home-frontend-box">
+                                    <div className="icon hover-rotate">
+                                        <Image
+                                            src={item.image}
+                                            alt={item.title}
+                                            width={150}
+                                            height={150}
+                                        />
+                                    </div>
 
-                            <h3>
-                                <Link href={'/' + lang + item.link}>
-                                    {item.title}
-                                </Link>
-                            </h3>
+                                    <h3> {item.title} </h3>
+                                </div>
+                            </Link>
                         </div>
-                    </div>
-                ))
-            }
-        </>
+                    ))}
+                </div>
+            </div>
+        </div>
     )
 }
-
-export default FrontEndModuleBottom

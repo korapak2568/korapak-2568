@@ -42,7 +42,7 @@ export default function TermsOfService() {
                 </div>
             </div>
 
-            <SubscribeForm/>
+            <SubscribeForm lang={lang}/>
 
             <Footer/>
         </>

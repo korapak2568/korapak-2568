@@ -20,7 +20,7 @@ const Page = () => {
         <>
             <Navbar/>
             <ServicesDetailsPython lang={lang}/>
-            <CloudExperience/>
+            <CloudExperience lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name="Python Full Stack Development | CHORN"

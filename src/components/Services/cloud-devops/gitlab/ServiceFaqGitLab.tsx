@@ -10,18 +10,15 @@ import {
 } from "react-accessible-accordion";
 import {sanitizeUUID} from "@/lib/utils";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const ServiceFaqGitLab: React.FC = () => {
-    const locale = useLocale()
-
+export default function ServiceFaqGitLab({lang}: { lang: string }) {
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${InfoTranslation[locale.value].DevOps.gitlab.faqs[0].question}`
+                    `${InfoTranslation[lang].DevOps.gitlab.faqs[0].question}`
                 ]}>
-                    {InfoTranslation[locale.value].DevOps.gitlab.faqs.map((item, index: number) => (
+                    {InfoTranslation[lang].DevOps.gitlab.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
@@ -36,7 +33,5 @@ const ServiceFaqGitLab: React.FC = () => {
                 </Accordion>
             </div>
         </>
-    );
-};
-
-export default ServiceFaqGitLab;
+    )
+}

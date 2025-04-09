@@ -20,7 +20,7 @@ const Page = () => {
         <>
             <Navbar/>
             <ServicesDetailsNodejs lang={lang}/>
-            <CloudExperience/>
+            <CloudExperience lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name="Node.js Full Stack Development | CHORN"

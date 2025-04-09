@@ -21,8 +21,8 @@ const Page = () => {
         <>
             <Navbar/>
             <Web3PageMain lang={lang}/>
-            <CloudExperience/>
-            <WeWorkForIndustries/>
+            <CloudExperience lang={lang}/>
+            <WeWorkForIndustries lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name="Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions"

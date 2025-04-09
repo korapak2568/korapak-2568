@@ -5,10 +5,8 @@ import Link from "next/link";
 import {useEffect, useState} from 'react';
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const SidebarFullStack: React.FC = () => {
-    const locale = useLocale()
+export default function SidebarFullStack({lang}: { lang: string }) {
     const [currentUrl, setCurrentUrl] = useState('');
 
     useEffect(() => {
@@ -21,11 +19,11 @@ const SidebarFullStack: React.FC = () => {
         <>
             <div className="services-details-information ml-10 border-top">
                 <ul className="framework-list">
-                    {InfoTranslation[locale.value].FullStack.stacks.map((item: IFullStackStack, index: number) => {
+                    {InfoTranslation[lang].FullStack.stacks.map((item: IFullStackStack, index: number) => {
                         if (currentUrl.includes(item.link)) {
                             return (
                                 <li key={index}>
-                                    <Link href={'/' + locale.value + item.link} className="active">
+                                    <Link href={'/' + lang + item.link} className="active">
                                         <i className="bx bx-layer"></i>
                                         <span className="px-3">{item.features[0].title}</span>
                                     </Link>
@@ -35,7 +33,7 @@ const SidebarFullStack: React.FC = () => {
 
                         return (
                             <li key={index} className="service-item">
-                                <Link href={'/' + locale.value + item.link}>
+                                <Link href={'/' + lang + item.link}>
                                     <i className="bx bx-git-branch"></i>
                                     <span className="px-3">{item.features[0].title}</span>
                                 </Link>
@@ -45,7 +43,5 @@ const SidebarFullStack: React.FC = () => {
                 </ul>
             </div>
         </>
-    );
-};
-
-export default SidebarFullStack;
+    )
+}

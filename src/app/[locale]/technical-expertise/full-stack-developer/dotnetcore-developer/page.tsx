@@ -21,7 +21,7 @@ const Page = () => {
         <>
             <Navbar/>
             <ServicesDetailsDotNetCore lang={lang}/>
-            <CloudExperience/>
+            <CloudExperience lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name=".NET Core C# Full Stack Development | CHORN"

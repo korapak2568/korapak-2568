@@ -1,13 +1,8 @@
-"use client"
-
 import React from "react";
 import {IAboutContent} from "@/data/about/model/IAboutContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const AboutRight: React.FC = () => {
-    const lang = useLocale().value
-
+export default function AboutRight({lang}: { lang: string }) {
     return (
         <div className="col-lg-8">
             <div className="about-content">
@@ -43,5 +38,3 @@ const AboutRight: React.FC = () => {
         </div>
     )
 }
-
-export default AboutRight;

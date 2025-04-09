@@ -49,7 +49,7 @@ export default function Page() {
                 </div>
             </div>
 
-            <SubscribeForm/>
+            <SubscribeForm lang={lang}/>
 
             <Footer/>
         </>

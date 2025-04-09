@@ -1,5 +1,4 @@
 import React from "react";
-import ServiceFaqPhp from "./ServiceFaqPhp";
 import Image from "next/image";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
@@ -7,8 +6,9 @@ import {ImageUrl} from "@/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarDevOps from "@/components/Services/SidebarDevOps";
+import ServiceFaqPython from "@/components/Services/fullstack-development/python/ServiceFaqPython";
 
-const ServicesDetailsPhp: React.FC<{ lang: string }> = ({lang}) => {
+export default function ServicesDetailsPhp({lang}: { lang: string }) {
     return (
         <>
             <div className="services-details-area ptb-50">
@@ -56,21 +56,19 @@ const ServicesDetailsPhp: React.FC<{ lang: string }> = ({lang}) => {
                                 <h3>{InfoTranslation[lang].FullStack.php.features[3].title}</h3>
                                 <p>{InfoTranslation[lang].FullStack.php.features[3].description}</p>
 
-                                <ServiceFaqPhp/>
+                                <ServiceFaqPython lang={lang}/>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarFullStack/>
-                            <SidebarFrontEnd/>
-                            <SidebarDevOps/>
+                            <SidebarFullStack lang={lang}/>
+                            <SidebarFrontEnd lang={lang}/>
+                            <SidebarDevOps lang={lang}/>
                         </div>
                     </div>
                 </div>
             </div>
             <DefaultShape/>
         </>
-    );
-};
-
-export default ServicesDetailsPhp;
+    )
+}

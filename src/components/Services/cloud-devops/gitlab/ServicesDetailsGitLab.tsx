@@ -8,7 +8,7 @@ import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 
-const ServicesDetailsGitLab: React.FC<{ lang: string }> = ({lang}) => {
+export default function ServicesDetailsGitLab({lang}: { lang: string }) {
     return (
         <>
             <div className="services-details-area ptb-50">
@@ -54,15 +54,14 @@ const ServicesDetailsGitLab: React.FC<{ lang: string }> = ({lang}) => {
                                     <h3>{InfoTranslation[lang].DevOps.gitlab.features[2].title}</h3>
                                     <p>{InfoTranslation[lang].DevOps.gitlab.features[2].description}</p>
                                 </div>
-
-                                <ServiceFaqGitLab/>
+                                <ServiceFaqGitLab lang={lang}/>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarDevOps/>
-                            <SidebarFullStack/>
-                            <SidebarFrontEnd/>
+                            <SidebarDevOps lang={lang}/>
+                            <SidebarFullStack lang={lang}/>
+                            <SidebarFrontEnd lang={lang}/>
                         </div>
                     </div>
                 </div>
@@ -70,6 +69,4 @@ const ServicesDetailsGitLab: React.FC<{ lang: string }> = ({lang}) => {
             <DefaultShape/>
         </>
     );
-};
-
-export default ServicesDetailsGitLab;
+}

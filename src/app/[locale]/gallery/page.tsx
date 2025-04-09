@@ -20,7 +20,7 @@ export default function Page() {
             <Navbar/>
             <GalleryPageMain lang={lang}/>
             <GalleryModuleBottom/>
-            <WeWorkForIndustries/>
+            <WeWorkForIndustries lang={lang}/>
             <Footer/>
         </>
     );

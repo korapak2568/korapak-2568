@@ -8,8 +8,7 @@ import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import SidebarDevOps from "@/components/Services/SidebarDevOps";
 
-const ServicesDetailsVue: React.FC<{ lang: string }> = ({lang}) => {
-
+export default function ServicesDetailsVue({lang}: { lang: string }) {
     return (
         <>
             <div className="services-details-area ptb-50">
@@ -56,21 +55,19 @@ const ServicesDetailsVue: React.FC<{ lang: string }> = ({lang}) => {
                                     <p>{InfoTranslation[lang].FrontEnd.vue.features[2].description}</p>
                                 </div>
 
-                                <ServiceFaqVue/>
+                                <ServiceFaqVue lang={lang}/>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarFrontEnd/>
-                            <SidebarFullStack/>
-                            <SidebarDevOps/>
+                            <SidebarFrontEnd lang={lang}/>
+                            <SidebarFullStack lang={lang}/>
+                            <SidebarDevOps lang={lang}/>
                         </div>
                     </div>
                 </div>
             </div>
             <DefaultShape/>
         </>
-    );
-};
-
-export default ServicesDetailsVue;
+    )
+}

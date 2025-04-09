@@ -8,7 +8,7 @@ import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import SidebarDevOps from "@/components/Services/SidebarDevOps";
 
-const ServicesDetailsReact: React.FC<{ lang: string }> = ({lang}) => {
+export default function ServicesDetailsReact({lang}: { lang: string }) {
     return (
         <>
             <div className="services-details-area ptb-50">
@@ -55,21 +55,19 @@ const ServicesDetailsReact: React.FC<{ lang: string }> = ({lang}) => {
                                     <p>{InfoTranslation[lang].FrontEnd.react.features[2].description}</p>
                                 </div>
 
-                                <ServiceFaqReact/>
+                                <ServiceFaqReact lang={lang}/>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarFrontEnd/>
-                            <SidebarFullStack/>
-                            <SidebarDevOps/>
+                            <SidebarFrontEnd lang={lang}/>
+                            <SidebarFullStack lang={lang}/>
+                            <SidebarDevOps lang={lang}/>
                         </div>
                     </div>
                 </div>
             </div>
             <DefaultShape/>
         </>
-    );
-};
-
-export default ServicesDetailsReact;
+    )
+}

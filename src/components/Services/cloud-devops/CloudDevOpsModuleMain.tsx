@@ -1,9 +1,9 @@
 import React from "react";
-import CloudDevOpsModuleStack from "@/components/Services/cloud-devops/CloudDevOpsModuleStack";
 import CloudDevOpsModuleLeft from "@/components/Services/cloud-devops/CloudDevOpsModuleLeft";
 import CloudDevOpsModuleRight from "@/components/Services/cloud-devops/CloudDevOpsModuleRight";
+import CloudDevOpsModuleBottom from "@/components/Services/cloud-devops/CloudDevOpsModuleBottom";
 
-const CloudDevOpsModuleMain: React.FC<{ lang: string }> = ({lang}) => {
+export default function CloudDevOpsModuleMain({lang}: { lang: string }) {
     return (
         <>
             <div className="services-area pt-5 pb-70">
@@ -13,12 +13,10 @@ const CloudDevOpsModuleMain: React.FC<{ lang: string }> = ({lang}) => {
                             <CloudDevOpsModuleLeft lang={lang}/>
                             <CloudDevOpsModuleRight lang={lang}/>
                         </div>
-                        <CloudDevOpsModuleStack/>
+                        <CloudDevOpsModuleBottom lang={lang}/>
                     </div>
                 </div>
             </div>
         </>
-    );
-};
-
-export default CloudDevOpsModuleMain;
+    )
+}

@@ -8,7 +8,7 @@ import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 
-const ServicesDetailsDocker: React.FC<{ lang: string }> = ({lang}) => {
+export default function ServicesDetailsDocker({lang}: { lang: string }) {
     return (
         <>
             <div className="services-details-area ptb-50">
@@ -54,22 +54,19 @@ const ServicesDetailsDocker: React.FC<{ lang: string }> = ({lang}) => {
                                     <h3>{InfoTranslation[lang].DevOps.docker.features[2].title}</h3>
                                     <p>{InfoTranslation[lang].DevOps.docker.features[2].description}</p>
                                 </div>
-
-                                <ServiceFaqDocker/>
+                                <ServiceFaqDocker lang={lang}/>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarDevOps/>
-                            <SidebarFullStack/>
-                            <SidebarFrontEnd/>
+                            <SidebarDevOps lang={lang}/>
+                            <SidebarFullStack lang={lang}/>
+                            <SidebarFrontEnd lang={lang}/>
                         </div>
                     </div>
                 </div>
             </div>
             <DefaultShape/>
         </>
-    );
-};
-
-export default ServicesDetailsDocker;
+    )
+}

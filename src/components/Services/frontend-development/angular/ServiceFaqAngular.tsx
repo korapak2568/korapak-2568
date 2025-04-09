@@ -10,11 +10,8 @@ import {
 } from "react-accessible-accordion";
 import {sanitizeUUID} from "@/lib/utils";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const ServiceFaqAngular: React.FC = () => {
-    const lang = useLocale().value
-
+export default function ServiceFaqAngular({lang}: { lang: string }) {
     return (
         <>
             <div className="faq-accordion mt-3">
@@ -36,7 +33,5 @@ const ServiceFaqAngular: React.FC = () => {
                 </Accordion>
             </div>
         </>
-    );
-};
-
-export default ServiceFaqAngular;
+    )
+}

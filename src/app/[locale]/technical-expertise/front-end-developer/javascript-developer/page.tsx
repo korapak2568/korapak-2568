@@ -21,7 +21,7 @@ const Page = () => {
         <>
             <Navbar/>
             <ServicesDetailsJavaScript lang={lang}/>
-            <CloudExperience/>
+            <CloudExperience lang={lang}/>
             <Footer/>
             <SchemaMarkupServicePage
                 name="JavaScript | CHORN - Custom Software Development Experts"

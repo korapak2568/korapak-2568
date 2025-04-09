@@ -1,4 +1,4 @@
-"use client";
+"use client"
 
 import React from "react";
 import {
@@ -10,18 +10,15 @@ import {
 } from "react-accessible-accordion";
 import {sanitizeUUID} from "@/lib/utils";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const ServiceFaqVue: React.FC = () => {
-    const locale = useLocale()
-
+export default function ServiceFaqVue({lang}: { lang: string }) {
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${sanitizeUUID(InfoTranslation[locale.value].FrontEnd.vue.faqs[0].question)}`
+                    `${sanitizeUUID(InfoTranslation[lang].FrontEnd.vue.faqs[0].question)}`
                 ]}>
-                    {InfoTranslation[locale.value].FrontEnd.vue.faqs.map((item, index: number) => (
+                    {InfoTranslation[lang].FrontEnd.vue.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
@@ -36,7 +33,5 @@ const ServiceFaqVue: React.FC = () => {
                 </Accordion>
             </div>
         </>
-    );
-};
-
-export default ServiceFaqVue;
+    )
+}

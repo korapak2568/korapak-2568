@@ -5,10 +5,8 @@ import Link from "next/link";
 import {useEffect, useState} from 'react';
 import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const SidebarDevOps: React.FC = () => {
-    const locale = useLocale()
+export default function SidebarDevOps({lang}: { lang: string }) {
     const [currentUrl, setCurrentUrl] = useState('');
 
     useEffect(() => {
@@ -21,11 +19,11 @@ const SidebarDevOps: React.FC = () => {
         <>
             <div className="services-details-information ml-10 border-top">
                 <ul className="framework-list">
-                    {InfoTranslation[locale.value].DevOps.stacks.map((item: IDevOpsStack, index: number) => {
+                    {InfoTranslation[lang].DevOps.stacks.map((item: IDevOpsStack, index: number) => {
                         if (currentUrl.includes(item.link)) {
                             return (
                                 <li key={index}>
-                                    <Link href={'/' + locale.value + item.link} className="active">
+                                    <Link href={'/' + lang + item.link} className="active">
                                         <i className="bx bx-cog"></i>
                                         <span className="px-3">{item.features[0].title}</span>
                                     </Link>
@@ -35,7 +33,7 @@ const SidebarDevOps: React.FC = () => {
 
                         return (
                             <li key={index}>
-                                <Link href={'/' + locale.value + item.link}>
+                                <Link href={'/' + lang + item.link}>
                                     <i className="bx bx-git-branch"></i>
                                     <span className="px-3">{item.features[0].title}</span>
                                 </Link>
@@ -45,7 +43,5 @@ const SidebarDevOps: React.FC = () => {
                 </ul>
             </div>
         </>
-    );
-};
-
-export default SidebarDevOps;
+    )
+}

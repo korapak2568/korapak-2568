@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import FullStackPageMain from "@/components/Services/fullstack-development/FullStackPageMain";
@@ -9,7 +8,6 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
 import {MetadataBackEndMain} from "@/metadata/pages/backend/main/common/MetadataBackEndMain";
-import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';
@@ -27,9 +25,9 @@ const Page = () => {
 
             <FullStackPageMain lang={lang}/>
 
-            <CloudExperience/>
+            <CloudExperience lang={lang}/>
 
-            <WeWorkForIndustries/>
+            <WeWorkForIndustries lang={lang}/>
 
             <Footer/>
 

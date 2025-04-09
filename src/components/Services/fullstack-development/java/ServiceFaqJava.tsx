@@ -10,18 +10,15 @@ import {
 } from "react-accessible-accordion";
 import {sanitizeUUID} from "@/lib/utils";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-const ServiceFaqJava: React.FC = () => {
-    const locale = useLocale()
-
+export default function ServiceFaqJava({lang}: { lang: string }) {
     return (
         <>
             <div className="faq-accordion mt-3">
                 <Accordion allowZeroExpanded preExpanded={[
-                    `${sanitizeUUID(InfoTranslation[locale.value].FullStack.java.faqs[0].question)}`
+                    `${sanitizeUUID(InfoTranslation[lang].FullStack.java.faqs[0].question)}`
                 ]}>
-                    {InfoTranslation[locale.value].FullStack.java.faqs.map((item, index: number) => (
+                    {InfoTranslation[lang].FullStack.java.faqs.map((item, index: number) => (
                         <AccordionItem key={index} uuid={sanitizeUUID(item.question)}>
                             <AccordionItemHeading>
                                 <AccordionItemButton>
@@ -36,7 +33,5 @@ const ServiceFaqJava: React.FC = () => {
                 </Accordion>
             </div>
         </>
-    );
-};
-
-export default ServiceFaqJava;
+    )
+}

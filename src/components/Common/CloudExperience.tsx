@@ -1,14 +1,9 @@
-"use client";
-
 import React from "react";
 import Image from "next/image";
 import {ICloudStack} from "@/data/cloud/model/ICloudStack";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-const CloudExperience: React.FC = () => {
-    const lang = useLocale().value
-
+export default function CloudExperience({lang}: { lang: string }) {
     return (
         <div className="fun-facts-area pb-70">
             <div className="container">
@@ -33,7 +28,5 @@ const CloudExperience: React.FC = () => {
                 </div>
             </div>
         </div>
-    );
-};
-
-export default CloudExperience;
+    )
+}
