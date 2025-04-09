@@ -12,12 +12,16 @@ const FrontEndModuleLeft: React.FC<{ lang: string }> = ({lang}) => {
             <ul className="feature-list">
                 {InfoTranslation[lang].FrontEnd.services.items.map((item, index) => (
                     <li key={index} className="feature-item">
-                        <div className="icon">
-                            <i className="flaticon-check"></i>
+                        <div className="feature-icon-container">
+                            <div className="feature-icon">
+                                <i className="flaticon-check"></i>
+                            </div>
+                            <div className="feature-title">
+                                {item.title}
+                            </div>
                         </div>
-                        <div className="content">
-                            <strong>{item.title}</strong>
-                            <p>
+                        <div className="feature-content">
+                            <p className="feature-description">
                                 {item.description}
                             </p>
                         </div>

@@ -13,10 +13,14 @@ export default function HomeFeatureRight({lang}: { lang: string }) {
                         <Link href={'/' + lang + stack.link}>
                             <div className="custom-single-features-box feature-box">
                                 <div className="icon feature-box-icon">
-                                    <i className={stack.icon + " feature-icon hover-rotate"}></i>
-                                    <span className="title">{stack.title}</span>
+                                    <i className={stack.icon + " feature-icon hover-rotate"}/>
+                                    <span className="feature-box-title">
+                                        {stack.title}
+                                    </span>
                                 </div>
-                                <p className="description">{truncateText(stack.description, 120)}</p>
+                                <p className="feature-box-description">
+                                    {truncateText(stack.description, 110)}
+                                </p>
                             </div>
                         </Link>
                     </div>

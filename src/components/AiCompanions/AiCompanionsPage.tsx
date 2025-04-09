@@ -20,14 +20,20 @@ const AiCompanionsPage: React.FC = () => {
 
                             <div>
                                 <ul className="feature-list">
-                                    {InfoTranslation[locale.value].Service.demo.procedure.steps.map((service, index) => (
+                                    {InfoTranslation[locale.value].Service.demo.procedure.steps.map((item, index) => (
                                         <li key={index} className="feature-item">
-                                            <div className="icon">
-                                                <i className="flaticon-check"></i>
+                                            <div className="feature-icon-container">
+                                                <div className="feature-icon">
+                                                    <i className="flaticon-check"></i>
+                                                </div>
+                                                <div className="feature-title">
+                                                    {item.title}
+                                                </div>
                                             </div>
-                                            <div className="content">
-                                                <strong>{service.title}</strong>
-                                                <p>{service.description}</p>
+                                            <div className="feature-content">
+                                                <p className="feature-description">
+                                                    {item.description}
+                                                </p>
                                             </div>
                                         </li>
                                     ))}

@@ -27,12 +27,18 @@ export default function PloyBottomFeature({lang}: { lang: string }) {
                     <ul className="feature-list">
                         {feature.items.length > 1 && feature.items.map((item, index: number) => (
                             <li key={index} className="feature-item">
-                                <div className="icon">
-                                    <i className="flaticon-check"></i>
+                                <div className="feature-icon-container">
+                                    <div className="feature-icon">
+                                        <i className="flaticon-check"></i>
+                                    </div>
+                                    <div className="feature-title">
+                                        {item.title}
+                                    </div>
                                 </div>
-                                <div className="content">
-                                    <strong>{item.title}</strong>
-                                    <p>  {item.description}</p>
+                                <div className="feature-content">
+                                    <p className="feature-description">
+                                        {item.description}
+                                    </p>
                                 </div>
                             </li>
                         ))}
