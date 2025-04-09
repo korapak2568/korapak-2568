@@ -17,7 +17,6 @@ const FullStackPageMain: React.FC<{ lang: string }> = ({lang}) => {
                         <FullStackModuleBottom lang={lang}/>
                     </div>
                 </div>
-
                 <DefaultShape/>
             </div>
         </>

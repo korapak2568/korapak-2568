@@ -803,6 +803,7 @@
 
 .align-items-center-custom {
   padding-right: 0;
+  align-items: start!important;
 
   @media (min-width: 768px) {
     padding-right: 10px;

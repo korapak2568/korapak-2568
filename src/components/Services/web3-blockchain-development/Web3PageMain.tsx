@@ -16,7 +16,6 @@ const Web3PageMain: React.FC<{ lang: string }> = ({lang}) => {
                     </div>
                 </div>
             </div>
-
             <DefaultShape/>
         </>
     );

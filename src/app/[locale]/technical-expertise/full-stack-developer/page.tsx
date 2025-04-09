@@ -20,17 +20,10 @@ const Page = () => {
     return (
         <>
             <Navbar/>
-
-            {/*<PageBanner pageTitle={InfoTranslation[lang].FullStack.title}/>*/}
-
             <FullStackPageMain lang={lang}/>
-
             <CloudExperience lang={lang}/>
-
             <WeWorkForIndustries lang={lang}/>
-
             <Footer/>
-
             <SchemaMarkupServicePage
                 name="Back-End & API Development Services | CHORN"
                 description="CHORN offers expert Back-End & API Development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions."
