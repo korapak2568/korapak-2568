@@ -1,12 +1,12 @@
 import React from "react";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
-import WebDevelopmentFrontEndStack from "@/components/Services/WebDevelopment/WebDevelopmentFrontEndStack";
-import WebDevelopmentBackEndStack from "@/components/Services/WebDevelopment/WebDevelopmentBackEndStack";
-import WebDevelopmentModuleLeft from "@/components/Services/WebDevelopment/WebDevelopmentModuleLeft";
-import WebDevelopmentModuleRight from "@/components/Services/WebDevelopment/WebDevelopmentModuleRight";
+import WebDevelopmentLeft from "@/components/Services/WebDevelopment/WebDevelopmentLeft";
+import WebDevelopmentRight from "@/components/Services/WebDevelopment/WebDevelopmentRight";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import WebDevelopmentBackEndBottom from "@/components/Services/WebDevelopment/WebDevelopmentBackEndBottom";
+import WevDevelopmentFrontEndBottom from "@/components/Services/WebDevelopment/WevDevelopmentFrontEndBottom";
 
-const WebDevelopmentPageMain: React.FC<{ lang: string }> = ({lang}) => {
+export default function WebDevelopmentPageMain({lang}: { lang: string }) {
     return (
         <>
             <div className="services-area pt-5 pb-70">
@@ -14,17 +14,15 @@ const WebDevelopmentPageMain: React.FC<{ lang: string }> = ({lang}) => {
                     <div className="row justify-content-md-center">
                         <div className="row align-items-center align-items-center-custom">
                             <h1>{InfoTranslation[lang].Feature.stacks[2].title}</h1>
-                            <WebDevelopmentModuleLeft lang={lang}/>
-                            <WebDevelopmentModuleRight lang={lang}/>
+                            <WebDevelopmentLeft lang={lang}/>
+                            <WebDevelopmentRight lang={lang}/>
                         </div>
-                        <WebDevelopmentFrontEndStack/>
-                        <WebDevelopmentBackEndStack/>
+                        <WevDevelopmentFrontEndBottom lang={lang}/>
+                        <WebDevelopmentBackEndBottom lang={lang}/>
                     </div>
                 </div>
             </div>
             <DefaultShape/>
         </>
-    );
-};
-
-export default WebDevelopmentPageMain;
+    )
+}

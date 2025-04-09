@@ -1,7 +1,7 @@
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-const WebDevelopmentModuleLeft: React.FC<{ lang: string }> = ({lang}) => {
+export default function WebDevelopmentLeft({lang}: { lang: string }) {
     return (
         <div className={'col-lg-6 add-web-content'}>
             {InfoTranslation[lang].FrontEnd.services.descriptions.map((item, index) => (
@@ -55,5 +55,3 @@ const WebDevelopmentModuleLeft: React.FC<{ lang: string }> = ({lang}) => {
         </div>
     )
 }
-
-export default WebDevelopmentModuleLeft

@@ -2,7 +2,7 @@ import React from "react";
 import {ImageUrl} from "@/image/ImageUrl";
 import Image from "next/image";
 
-const WebDevelopmentModuleRight: React.FC<{ lang: string }> = ({lang}) => {
+export default function WebDevelopmentRight({lang}: { lang: string }) {
     return (
         <div className="col-lg-6 frontend-images-side-container">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -40,5 +40,3 @@ const WebDevelopmentModuleRight: React.FC<{ lang: string }> = ({lang}) => {
         </div>
     )
 }
-
-export default WebDevelopmentModuleRight
