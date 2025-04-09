@@ -1,7 +1,7 @@
 import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const BusinessKO: IBusiness = {
-    span: "다양한 산업을 위한 소프트웨어 학습 및 개발",
+    span: "다양한 산업을 위한 소프트웨어를 개발하다",
     title: "비즈니스 도메인을 위한 소프트웨어 개발",
     domains: [
         {

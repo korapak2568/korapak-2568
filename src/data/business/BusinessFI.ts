@@ -1,7 +1,7 @@
 import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const BusinessFI: IBusiness = {
-    span: "Opi ja kehitä ohjelmistoja eri toimialoille",
+    span: "kehittää ohjelmistoja eri toimialoille",
     title: "Ohjelmistokehitys liiketoiminta-alueille",
     domains: [
         {

@@ -1,7 +1,7 @@
 import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const BusinessVI: IBusiness = {
-    span: "Học và phát triển phần mềm cho các ngành công nghiệp khác nhau",
+    span: "phát triển phần mềm cho nhiều ngành công nghiệp khác nhau",
     title: "Phát triển phần mềm cho các lĩnh vực kinh doanh",
     domains: [
         {

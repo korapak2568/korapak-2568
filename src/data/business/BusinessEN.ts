@@ -1,7 +1,7 @@
 import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const BusinessEN: IBusiness = {
-    span: "Learn and develop software for various industries",
+    span: "develop software for various industries",
     title: "Software Development for Businesses Domains",
     domains: [
         {

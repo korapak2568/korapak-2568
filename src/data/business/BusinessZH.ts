@@ -1,7 +1,7 @@
 import {IBusiness} from "@/data/business/model/IBusiness";
 
 export const BusinessZH: IBusiness = {
-    span: "学习和开发适用于各行业的软件",
+    span: "为各行各业开发软件",
     title: "商业领域的软件开发",
     domains: [
         {
