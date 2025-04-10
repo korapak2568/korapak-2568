@@ -100,9 +100,11 @@ const nextConfig = {
                 destination: '/da/:path*',
                 permanent: true,
             },
+
+            // Front-End Redirect -------------------------------------------------------------
             {
-                source: '/services/fullstack-development/',
-                destination: '/en/technical-expertise/full-stack-developer/',
+                source: '/services/frontend-development/angular/',
+                destination: '/en/technical-expertise/front-end-developer/angular-developer/',
                 permanent: true,
             },
             {
@@ -111,15 +113,66 @@ const nextConfig = {
                 permanent: true,
             },
             {
-                source: '/services/fullstack-development/python/',
-                destination: '/en/technical-expertise/full-stack-developer/python-developer/',
-                permanent: true,
+                source: '/outsourcing-software-development/front-end-developer/html5/',
+                destination: '/en/technical-expertise/front-end-developer/html5-developer/',
+                permanent: true
             },
             {
                 source: '/en/technical-expertise/frontend-development/react/',
                 destination: '/en/technical-expertise/front-end-developer/react-developer/',
                 permanent: true,
             },
+            {
+                source: '/services/frontend-development/css3/',
+                destination: '/en/technical-expertise/front-end-developer/css3-developer/',
+                permanent: true,
+            },
+            {
+                source: '/services/frontend-development/:path*',
+                destination: '/en/technical-expertise/front-end-developer/:path*',
+                permanent: true,
+            },
+
+            // Full-Stack Redirect -------------------------------------------------------------
+            {
+                source: '/services/fullstack-development/go-lang/',
+                destination: '/en/technical-expertise/full-stack-developer/go-developer/',
+                permanent: true,
+            },
+            {
+                source: '/services/fullstack-development/python/',
+                destination: '/en/technical-expertise/full-stack-developer/python-developer/',
+                permanent: true,
+            },
+            {
+                source: '/outsourcing-software-development/full-stack-developer/javascript-javascript-developer/',
+                destination: '/en/technical-expertise/full-stack-developer/javascript-developer/',
+                permanent: true,
+            },
+            {
+                source: '/services/fullstack-development/java-spring-boot-kotlin/',
+                destination: '/en/technical-expertise/full-stack-developer/java-spring-boot-developer/',
+                permanent: true,
+            },
+            {
+                source: '/services/fullstack-development/:path*',
+                destination: '/en/technical-expertise/full-stack-developer/:path*',
+                permanent: true,
+            },
+
+            // DevOps Redirect -------------------------------------------------------------
+            {
+                source: '/services/devops-testing/kubernetes/',
+                destination: '/en/technical-expertise/cloud-devops/kubernetes/',
+                permanent: true,
+            },
+            {
+                source: '/services/devops-testing/:path*',
+                destination: '/en/technical-expertise/cloud-devops/:path*',
+                permanent: true,
+            },
+
+            // Otherwise ---------------------------------------------------------------------
             {
                 source: '/contact',
                 destination: 'https://www.linkedin.com/in/khachornchit/',
@@ -138,11 +191,6 @@ const nextConfig = {
             {
                 source: '/services/full-stack-developer/:path*',
                 destination: '/en/technical-expertise/full-stack-developer/:path*',
-                permanent: true,
-            },
-            {
-                source: '/services/devops-testing/:path*',
-                destination: '/en/technical-expertise/cloud-devops/:path*',
                 permanent: true,
             },
             {
