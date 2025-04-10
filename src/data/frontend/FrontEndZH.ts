@@ -1,6 +1,4 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
-import {FrontEndVI} from "@/data/frontend/FrontEndVI";
-import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 import {VueZH} from "@/data/frontend/frameworks/vue/VueZH";
 import {TypeScriptZH} from "@/data/frontend/frameworks/typescript/TypeScriptZH";
 import {ReactZH} from "@/data/frontend/frameworks/react/ReactZH";
@@ -24,7 +22,16 @@ export const FrontEndZH: IFrontEnd = {
     vue: VueZH,
     javascript: JavaScriptZH,
 
-    stacks: [],
+    stacks: [
+        NextjsZH,
+        ReactZH,
+        AngularZH,
+        VueZH,
+        JavaScriptZH,
+        TypeScriptZH,
+        Html5ZH,
+        Css3ZH
+    ],
 
     services: {
         title: "前端开发",
@@ -55,14 +62,3 @@ export const FrontEndZH: IFrontEnd = {
         ]
     }
 }
-
-FrontEndZH.stacks = [
-    FrontEndEN.nextjs,
-    FrontEndEN.react,
-    FrontEndEN.angular,
-    FrontEndEN.vue,
-    FrontEndEN.javascript,
-    FrontEndEN.typescript,
-    FrontEndEN.html5,
-    FrontEndEN.css3
-]

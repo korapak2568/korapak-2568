@@ -2,62 +2,124 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/image/ImageUrl";
 
 export const PythonDA: IFullStackStack = {
-    title: ".NET Core",
-    description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
+    title: "Python",
+    description: "Python er et højniveau, fortolket programmeringssprog, der er kendt for sin enkelhed, læsbarhed og alsidighed. Det anvendes bredt på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
     image: ImageUrl.backend.frameworks.python.thumbnail,
-    alt: "Logo representing .NET Core API development",
-    readMore: "Explore more .NET Core API full-stack development solutions",
-    link: "/technical-expertise/full-stack-developer/dotnetcore-developer",
+    alt: "Logo der repræsenterer Python med Flask-frameworket",
+    readMore: "Udforsk flere Python-, Flask-, Django full-stack udviklingsløsninger",
+    link: "/technical-expertise/full-stack-developer/python-developer",
     features: [
         {
-            title: ".NET Core Development",
-            description: ".NET Core is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
+            title: "Python Udvikling",
+            description: "Python er et højniveau, fortolket programmeringssprog, der er kendt for sin enkelhed, læsbarhed og alsidighed. Det anvendes bredt på tværs af forskellige domæner, fra webudvikling og dataanalyse til kunstig intelligens og videnskabelig databehandling.",
             list: []
         },
         {
-            title: "ASP.NET Core",
-            description: "ASP.NET Core is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It is particularly suited for building web applications, APIs, and microservices with a focus on performance, security, and scalability.",
+            title: "Let at Lære og Bruge",
+            description: "Pythons enkle syntaks og læsbarhed gør det til et fremragende valg for både begyndere og erfarne udviklere. Dets omfattende standardbibliotek og fællesskabsmoduler giver færdige løsninger til en bred vifte af opgaver.",
             list: [
-                "Cross-platform",
-                "High performance",
-                "Built-in dependency injection",
-                "Modular architecture",
-                "Unified MVC and Web API framework",
-                "Supports Razor Pages",
-                "Secure authentication and authorization"
+                "Let at lære",
+                "Læsbar syntaks",
+                "Alsidigt",
+                "Stort standardbibliotek",
+                "Stærkt fællesskab",
+                "Populært til AI/ML",
+                "Platformuafhængigt"
             ]
         },
         {
-            title: ".NET Core API",
-            description: ".NET Core API provides developers with the tools to build RESTful technical-expertise and APIs that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. Its lightweight, modular design ensures high performance and easy integration with other technical-expertise.",
+            title: "Alsidige Anvendelser",
+            description: "Python bruges i mange forskellige områder, herunder webudvikling med frameworks som Django og Flask, datavidenskab med biblioteker som pandas og NumPy, og maskinlæring med TensorFlow og scikit-learn. Denne alsidighed gør Python til et foretrukket sprog blandt mange udviklere.",
             list: []
         },
         {
-            title: ".NET Core",
-            description: ".NET Core is the primary language used for developing applications in .NET Core. Known for its simplicity, versatility, and modern features, C# allows developers to build robust, maintainable, and scalable applications with ease.",
-            list: [
-                "Modern syntax",
-                "Object-oriented",
-                "Rich standard library",
-                "Supports asynchronous programming",
-                "LINQ support",
-                "Cross-platform compatibility",
-                "Interoperability with other .NET languages"
-            ]
+            title: "Stærk Fællesskabsstøtte",
+            description: "Python har et levende og aktivt fællesskab, der kontinuerligt bidrager til dets udvikling. Med masser af tutorials, fora og open source-projekter tilgængelige kan udviklere nemt finde støtte og ressourcer til at forbedre deres færdigheder og løse udfordringer.",
+            list: []
         }
     ],
     faqs: [
         {
-            question: "What is .NET Core?",
-            answer: ".NET Core is an open-source, cross-platform framework for building modern applications that run on Windows, macOS, and Linux."
+            question: "Hvad bruges Python til?",
+            answer: "Python bruges til webudvikling, dataanalyse, kunstig intelligens, videnskabelig databehandling og meget mere."
         },
         {
-            question: "What is ASP.NET Core used for?",
-            answer: "ASP.NET Core is a framework for building web applications, APIs, and microservices with high performance and cross-platform capabilities."
+            question: "Hvorfor er Python så populært?",
+            answer: "Pythons enkelhed, læsbarhed og alsidighed gør det populært blandt både begyndere og erfarne udviklere."
         },
         {
-            question: "What makes .NET Core a good choice for development?",
-            answer: "C# is a modern, versatile programming language that offers a wide range of features, making it ideal for developing scalable, maintainable applications in .NET Core."
+            question: "Er Python godt til webudvikling?",
+            answer: "Ja, frameworks som Django og Flask gør Python til et stærkt værktøj til webudvikling."
         }
     ],
+    frameworks: [
+        {
+            name: "Django",
+            overview: "Django er et højniveau webframework, der fremmer hurtig udvikling og et rent, pragmatisk design.",
+            strengths: [
+                "Alt-i-en: Leveres med mange indbyggede funktioner som ORM, autentificering og et adminpanel.",
+                "Skalerbarhed: Velegnet til store applikationer.",
+                "Sikkerhed: Inkluderer beskyttelse mod mange almindelige sikkerhedstrusler."
+            ],
+            useCases: [
+                "Større webapplikationer",
+                "e-handelssider",
+                "content management systemer"
+            ]
+        },
+        {
+            name: "Flask",
+            overview: "Flask er et mikro-webframework, der giver det nødvendige for at få en webapplikation i gang uden meget boilerplate-kode.",
+            strengths: [
+                "Letvægts: Minimalistisk og fleksibelt.",
+                "Udvideligt: Kan nemt udvides med forskellige udvidelser.",
+                "Let at lære: Simpelt at forstå og komme i gang med."
+            ],
+            useCases: [
+                "Små til mellemstore applikationer",
+                "API’er",
+                "Prototyper"
+            ]
+        },
+        {
+            name: "FastAPI",
+            overview: "FastAPI er et moderne, hurtigt (højtydende) webframework til opbygning af API’er med Python 3.6+ baseret på standard Python type hints.",
+            strengths: [
+                "Hastighed: Asynkron understøttelse og høj ydeevne.",
+                "Automatisk dokumentation: Genererer OpenAPI og JSON Schema-dokumentation.",
+                "Typesikkerhed: Bruger Python type hints til validering og serialisering."
+            ],
+            useCases: [
+                "API’er",
+                "Mikrotjenester",
+                "Real-time applikationer"
+            ]
+        },
+        {
+            name: "Pyramid",
+            overview: "Pyramid er et alsidigt webframework, der er designet til at gøre det nemt at skrive webapplikationer.",
+            strengths: [
+                "Fleksibilitet: Kan bruges til både små og store applikationer.",
+                "Tilpasning: Meget konfigurerbart og modulært.",
+                "Sikkerhed: Tilbyder flere sikkerhedsfunktioner."
+            ],
+            useCases: [
+                "Alsidige applikationer fra mikrotjenester til store webapplikationer"
+            ]
+        },
+        {
+            name: "Tornado",
+            overview: "Tornado er en skalerbar, ikke-blokerende webserver og webapplikationsframework.",
+            strengths: [
+                "Ydeevne: Designet til håndtering af langvarige netværksforbindelser.",
+                "Real-time: Velegnet til real-time web-løsninger.",
+                "Skalerbarhed: Kan håndtere tusindvis af samtidige forbindelser."
+            ],
+            useCases: [
+                "Real-time applikationer",
+                "WebSockets",
+                "Long polling"
+            ]
+        }
+    ]
 }

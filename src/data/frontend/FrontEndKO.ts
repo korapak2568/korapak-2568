@@ -1,5 +1,4 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
-import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 import {VueKO} from "@/data/frontend/frameworks/vue/VueKO";
 import {TypeScriptKO} from "@/data/frontend/frameworks/typescript/TypeScriptKO";
 import {ReactKO} from "@/data/frontend/frameworks/react/ReactKO";
@@ -23,7 +22,16 @@ export const FrontEndKO: IFrontEnd = {
     vue: VueKO,
     javascript: JavaScriptKO,
 
-    stacks: [],
+    stacks: [
+        NextjsKO,
+        ReactKO,
+        AngularKO,
+        VueKO,
+        JavaScriptKO,
+        TypeScriptKO,
+        Html5KO,
+        Css3KO
+    ],
 
     services: {
         title: "프론트엔드 개발",
@@ -54,14 +62,3 @@ export const FrontEndKO: IFrontEnd = {
         ]
     }
 }
-
-FrontEndKO.stacks = [
-    FrontEndEN.nextjs,
-    FrontEndEN.react,
-    FrontEndEN.angular,
-    FrontEndEN.vue,
-    FrontEndEN.javascript,
-    FrontEndEN.typescript,
-    FrontEndEN.html5,
-    FrontEndEN.css3
-]

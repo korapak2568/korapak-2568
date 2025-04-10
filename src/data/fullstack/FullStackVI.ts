@@ -18,7 +18,14 @@ export const FullStackVI: IFullStack = {
     php: PhpVI,
     python: PythonVI,
 
-    stacks: [],
+    stacks: [
+        NodejsVI,
+        GoVI,
+        JavaVI,
+        PythonVI,
+        PhpVI,
+        DotnetVI,
+    ],
 
     services: {
         title: "Phát triển Back-End",
@@ -49,12 +56,3 @@ export const FullStackVI: IFullStack = {
         ]
     }
 }
-
-FullStackVI.stacks = [
-    FullStackVI.nodejs,
-    FullStackVI.go,
-    FullStackVI.java,
-    FullStackVI.python,
-    FullStackVI.php,
-    FullStackVI.dotnetcore
-]

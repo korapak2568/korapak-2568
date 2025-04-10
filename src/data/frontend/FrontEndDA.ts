@@ -23,7 +23,16 @@ export const FrontEndDA: IFrontEnd = {
     vue: VueDA,
     javascript: JavaScriptDA,
 
-    stacks: [],
+    stacks: [
+        NextjsDA,
+        ReactDA,
+        AngularDA,
+        VueDA,
+        JavaScriptDA,
+        TypeScriptDA,
+        Html5DA,
+        Css3DA
+    ],
 
     services: {
         title: "Front-End Udvikling",
@@ -54,14 +63,3 @@ export const FrontEndDA: IFrontEnd = {
         ]
     }
 }
-
-FrontEndDA.stacks = [
-    FrontEndEN.nextjs,
-    FrontEndEN.react,
-    FrontEndEN.angular,
-    FrontEndEN.vue,
-    FrontEndEN.javascript,
-    FrontEndEN.typescript,
-    FrontEndEN.html5,
-    FrontEndEN.css3
-]

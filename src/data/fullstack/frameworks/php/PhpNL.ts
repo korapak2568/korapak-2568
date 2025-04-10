@@ -2,91 +2,54 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/image/ImageUrl";
 
 export const PhpNL: IFullStackStack = {
-    title: "NodeJS",
-    description: "Node.js is een krachtige, open-source, cross-platform JavaScript runtime-omgeving die ontwikkelaars in staat stelt om efficiënt schaalbare netwerkapplicaties te bouwen. Met een event-driven, non-blocking I/O-model is Node.js ideaal voor het bouwen van snelle, lichtgewicht applicaties, realtime communicatiesystemen en data-intensieve taken, waardoor het een populaire keuze is voor moderne softwareontwikkeling, inclusief AI-integraties.",
+    title: "PHP",
+    description: "PHP is een populaire server-side scriptingtaal die veel wordt gebruikt voor webontwikkeling. Frameworks zoals Symfony, Laravel, Phalcon, en sjabloonengines zoals Twig, samen met platforms zoals WordPress en de headless variant, hebben de PHP-ontwikkeling naar een hoger niveau getild door gestructureerde, efficiënte en schaalbare oplossingen te bieden voor het bouwen van complexe webapplicaties.",
     image: ImageUrl.backend.frameworks.php.thumbnail,
-    alt: "Logo representing NodeJS technology",
-    readMore: "Ontdek meer NodeJS full-stack ontwikkelingsoplossingen",
-    link: "/technical-expertise/full-stack-developer/nodejs-developer",
+    alt: "Logo dat de PHP programmeertaal vertegenwoordigt",
+    readMore: "Verken meer PHP full-stack ontwikkelingsoplossingen",
+    link: "/technical-expertise/full-stack-developer/php-developer",
     features: [
         {
-            title: "NodeJS-ontwikkeling",
-            description: "Node.js biedt een event-driven, non-blocking architectuur die perfect is voor het bouwen van schaalbare, realtime applicaties. " +
-                "Het blinkt uit in het verwerken van grote aantallen gelijktijdige verbindingen, waardoor data-intensieve technische expertise met minimale latentie kan worden ontwikkeld. " +
-                "Node.js wordt ook gebruikt voor server-side scripting, microservices en AI-gerelateerde functies, of integratie met externe AI technische expertise.",
+            title: "PHP Ontwikkeling",
+            description: "PHP is een populaire server-side scriptingtaal die veel wordt gebruikt voor webontwikkeling. Frameworks zoals Symfony, Laravel, Phalcon, en sjabloonengines zoals Twig, samen met platforms zoals WordPress en de headless variant, hebben de PHP-ontwikkeling naar een hoger niveau getild door gestructureerde, efficiënte en schaalbare oplossingen te bieden voor het bouwen van complexe webapplicaties.",
+            list: []
+        },
+        {
+            title: "Gestructureerde Ontwikkeling",
+            description: "Symfony en Laravel bieden een gestructureerde benadering van PHP-ontwikkeling, waarbij best practices en ontwerpprincipes worden gepromoot. Symfony biedt een herbruikbare set componenten, terwijl Laravel de nadruk legt op de productiviteit van de ontwikkelaar met zijn elegante syntaxis en tools. Twig, de sjabloonengine die in Symfony wordt gebruikt, biedt een flexibele, veilige en snelle manier om sjablonen te ontwerpen. Phalcon, een high-performance framework geleverd als een C-extensie, biedt lage-niveau optimalisatie en uitzonderlijke snelheid, wat zorgt voor efficiënte resourcebeheer.",
             list: [
-                "Non-blocking I/O",
-                "Event-driven architectuur",
-                "Hoge prestaties onder belasting",
-                "Lichtgewicht en snel",
-                "Ondersteuning voor realtime applicaties",
-                "AI- en machine learning-integratie"
+                "Server-side scripting",
+                "Gemakkelijk te leren",
+                "Groot ecosysteem",
+                "Populaire frameworks",
+                "WordPress integratie",
+                "Geweldig voor webontwikkeling",
+                "Sterke gemeenschap"
             ]
         },
         {
-            title: "Veelzijdige frameworks",
-            description: "Node.js ondersteunt verschillende frameworks die zijn toegesneden op het bouwen van schaalbare, robuuste server-side applicaties. " +
-                "Nest.js, Express en Koa.js zijn de meest prominente. Met moderne ES6+-ondersteuning maken deze frameworks het eenvoudig om efficiënte API's, webapplicaties en microservices te bouwen. Daarnaast integreert Nest.js naadloos met TypeScript voor statisch getypeerde code, wat de codekwaliteit en onderhoudbaarheid verbetert.",
-            list: [
-                "Asynchrone I/O en event-loop",
-                "Single-threaded, zeer concurrent",
-                "Ondersteuning voor microservices-architectuur",
-                "RESTful- en GraphQL-API's",
-                "Modulair en schaalbaar met Nest.js",
-                "Eenvoudige integratie met TypeScript",
-                "Ingebouwde WebSocket-ondersteuning voor realtime applicaties"
-            ]
+            title: "Snelle Ontwikkeling",
+            description: "Laravel, bekend om zijn expressieve syntaxis en krachtige tools, maakt snelle ontwikkeling en implementatie van webapplicaties mogelijk. Functies zoals Eloquent ORM, Blade sjabloonengine en de Laravel Artisan command-line tool stroomlijnen ontwikkeltaken. Phalcon verbetert snelle ontwikkeling met zijn robuuste prestaties en low-level architectuur. WordPress biedt een snelle installatie en een breed scala aan plugins en thema's, waardoor ontwikkelaars snel feature-rijke websites kunnen implementeren. Headless WordPress scheidt de front-end ontwikkelaar van de back-end, waardoor het gebruik van moderne JavaScript-frameworks zoals React of Vue mogelijk wordt voor een dynamische en responsieve gebruikerservaring.",
+            list: []
         },
         {
-            title: "Realtime mogelijkheden",
-            description: "Node.js maakt het mogelijk om realtime applicaties te bouwen, zoals live chat-apps, samenwerkingstools en gameservers, via frameworks zoals Socket.io. Het maakt onmiddellijke gegevensuitwisseling tussen de server en clients mogelijk, waardoor het ideaal is voor applicaties die communicatie met lage latentie vereisen.",
-            list: [
-                "WebSocket-ondersteuning",
-                "Realtime gegevenssynchronisatie",
-                "Messaging met lage latentie",
-                "Collaboratieve applicaties",
-                "IoT-ondersteuning"
-            ]
-        },
-        {
-            title: "Rijk ecosysteem en NPM",
-            description: "Node.js beschikt over een rijk ecosysteem van bibliotheken en tools die toegankelijk zijn via npm, het grootste softwareregister. Deze uitgebreide selectie vereenvoudigt de ontwikkeling, van het afhandelen van databaseoperaties tot het implementeren van complexe bedrijfslogica en AI-mogelijkheden. Ontwikkelaars kunnen vooraf gebouwde modules gebruiken om de productiviteit te verhogen en het ontwikkelingsproces te stroomlijnen.",
-            list: [
-                "Meer dan 1 miljoen pakketten in npm",
-                "Vooraf gebouwde integraties voor databases, AI, beveiliging, enz.",
-                "Ondersteuning voor microservices via frameworks en bibliotheken",
-                "Tools voor serverloze architecturen"
-            ]
-        },
-        {
-            title: "AI-integratie",
-            description: "Node.js is met zijn hoogwaardige, event-driven karakter een uitstekende keuze voor het integreren van AI in applicaties. " +
-                "Met behulp van bibliotheken zoals TensorFlow.js kan Node.js AI-modelinferentie in de browser of op de server afhandelen. Daarnaast kan Node.js dienen als middleware om te communiceren met AI-aangedreven cloud-API's (bijv. AWS, Azure AI of Google Cloud AI), waardoor intelligente mogelijkheden zoals natuurlijke taalverwerking, beeldherkenning en aanbevelingssystemen mogelijk worden.",
-            list: [
-                "Integratie met TensorFlow.js",
-                "AI-modelinferentie op de server",
-                "Communicatie met cloud AI-API's",
-                "Realtime AI-aangedreven functies",
-                "Schaalbare AI-aangedreven microservices"
-            ]
+            title: "Gemeenschap en Ecosysteem",
+            description: "PHP heeft een enorme gemeenschap en een rijk ecosysteem van bibliotheken, plugins en frameworks. Zowel Symfony als Laravel profiteren van actieve gemeenschapssteun, uitgebreide documentatie en veel third-party pakketten, wat de PHP-ontwikkeling efficiënt en plezierig maakt. Phalcon heeft een groeiende gemeenschap en biedt gedetailleerde documentatie en tutorials om ontwikkelaars te ondersteunen. WordPress heeft een uitgebreid ecosysteem met een grote gebruikersbasis en biedt talloze plugins en thema's, terwijl Headless WordPress de flexibiliteit van moderne front-end frameworks benut, ondersteund door een robuuste gemeenschap en middelen.",
+            list: []
         }
     ],
     faqs: [
         {
-            question: "Wat is Node.js?",
-            answer: "Node.js is een JavaScript runtime die het bouwen van snelle en schaalbare netwerkapplicaties mogelijk maakt, waardoor het ideaal is voor I/O-intensieve taken en realtime technische expertise."
+            question: "Waarvoor wordt PHP gebruikt?",
+            answer: "PHP is een server-side scriptingtaal die is ontworpen voor webontwikkeling en veel wordt gebruikt voor het maken van dynamische webpagina's."
         },
         {
-            question: "Waarvoor wordt Express.js gebruikt?",
-            answer: "Express.js is een lichtgewicht framework voor Node.js, dat veel wordt gebruikt om RESTful API's en webapplicaties te bouwen met een eenvoudige en flexibele aanpak."
+            question: "Wat zijn Symfony en Laravel?",
+            answer: "Symfony en Laravel zijn populaire PHP-frameworks die de ontwikkeling van robuuste en schaalbare webapplicaties vergemakkelijken."
         },
         {
-            question: "Hoe verschilt Nest.js van Express.js?",
-            answer: "Nest.js is gebouwd bovenop Express.js en biedt een uitgesproken architectuur voor het bouwen van schaalbare, onderhoudbare en testbare server-side applicaties, met een sterke nadruk op TypeScript-integratie."
-        },
-        {
-            question: "Kan Node.js worden gebruikt voor AI?",
-            answer: "Ja, Node.js kan worden gebruikt voor AI-taken, door gebruik te maken van bibliotheken zoals TensorFlow.js of door verbinding te maken met cloud AI technische expertise voor natuurlijke taalverwerking, beeldherkenning en meer."
+            question: "Waarom WordPress gebruiken?",
+            answer: "WordPress is een veelzijdig contentmanagementsysteem gebouwd op PHP, ideaal voor het maken van blogs, websites en webshops."
         }
     ]
 }

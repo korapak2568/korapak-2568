@@ -18,7 +18,14 @@ export const FullStackKO: IFullStack = {
     php: PhpKO,
     python: PythonKO,
 
-    stacks: [],
+    stacks: [
+        NodejsKO,
+        GoKO,
+        JavaKO,
+        PythonKO,
+        PhpKO,
+        DotnetKO,
+    ],
 
     services: {
         title: "백엔드 개발",
@@ -49,12 +56,3 @@ export const FullStackKO: IFullStack = {
         ]
     }
 }
-
-FullStackKO.stacks = [
-    FullStackKO.nodejs,
-    FullStackKO.go,
-    FullStackKO.java,
-    FullStackKO.python,
-    FullStackKO.php,
-    FullStackKO.dotnetcore
-]

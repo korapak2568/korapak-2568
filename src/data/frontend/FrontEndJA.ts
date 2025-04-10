@@ -1,5 +1,4 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
-import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 import {VueJA} from "@/data/frontend/frameworks/vue/VueJA";
 import {TypeScriptJA} from "@/data/frontend/frameworks/typescript/TypeScriptJA";
 import {ReactJA} from "@/data/frontend/frameworks/react/ReactJA";
@@ -23,7 +22,16 @@ export const FrontEndJA: IFrontEnd = {
     vue: VueJA,
     javascript: JavaScriptJA,
 
-    stacks: [],
+    stacks: [
+        NextjsJA,
+        ReactJA,
+        AngularJA,
+        VueJA,
+        JavaScriptJA,
+        TypeScriptJA,
+        Html5JA,
+        Css3JA
+    ],
 
     services: {
         title: "フロントエンド開発",
@@ -54,14 +62,3 @@ export const FrontEndJA: IFrontEnd = {
         ]
     }
 }
-
-FrontEndJA.stacks = [
-    FrontEndEN.nextjs,
-    FrontEndEN.react,
-    FrontEndEN.angular,
-    FrontEndEN.vue,
-    FrontEndEN.javascript,
-    FrontEndEN.typescript,
-    FrontEndEN.html5,
-    FrontEndEN.css3
-]

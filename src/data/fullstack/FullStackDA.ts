@@ -18,7 +18,14 @@ export const FullStackDA: IFullStack = {
     php: PhpDA,
     python: PythonDA,
 
-    stacks: [],
+    stacks: [
+        NodejsDA,
+        GoDA,
+        JavaDA,
+        PythonDA,
+        PhpDA,
+        DotnetDA,
+    ],
 
     services: {
         title: "Back-End Udvikling",
@@ -49,12 +56,3 @@ export const FullStackDA: IFullStack = {
         ]
     }
 }
-
-FullStackDA.stacks = [
-    FullStackDA.nodejs,
-    FullStackDA.go,
-    FullStackDA.java,
-    FullStackDA.python,
-    FullStackDA.php,
-    FullStackDA.dotnetcore
-]

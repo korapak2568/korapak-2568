@@ -18,7 +18,14 @@ export const FullStackTH: IFullStack = {
     php: PhpTH,
     python: PythonTH,
 
-    stacks: [],
+    stacks: [
+        NodejsTH,
+        GoTH,
+        JavaTH,
+        PythonTH,
+        PhpTH,
+        DotnetTH,
+    ],
 
     services: {
         title: "การพัฒนาฝั่งหลังบ้าน",
@@ -49,12 +56,3 @@ export const FullStackTH: IFullStack = {
         ]
     }
 }
-
-FullStackTH.stacks = [
-    FullStackTH.nodejs,
-    FullStackTH.go,
-    FullStackTH.java,
-    FullStackTH.python,
-    FullStackTH.php,
-    FullStackTH.dotnetcore
-]

@@ -1,5 +1,4 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
-import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 import {VueFI} from "@/data/frontend/frameworks/vue/VueFI";
 import {TypeScriptFI} from "@/data/frontend/frameworks/typescript/TypeScriptFI";
 import {ReactFI} from "@/data/frontend/frameworks/react/ReactFI";
@@ -23,7 +22,16 @@ export const FrontEndFI: IFrontEnd = {
     vue: VueFI,
     javascript: JavaScriptFI,
 
-    stacks: [],
+    stacks: [
+        NextjsFI,
+        ReactFI,
+        AngularFI,
+        VueFI,
+        JavaScriptFI,
+        TypeScriptFI,
+        Html5FI,
+        Css3FI
+    ],
 
     services: {
         title: "Front-End-kehitys",
@@ -54,14 +62,3 @@ export const FrontEndFI: IFrontEnd = {
         ]
     }
 }
-
-FrontEndFI.stacks = [
-    FrontEndEN.nextjs,
-    FrontEndEN.react,
-    FrontEndEN.angular,
-    FrontEndEN.vue,
-    FrontEndEN.javascript,
-    FrontEndEN.typescript,
-    FrontEndEN.html5,
-    FrontEndEN.css3
-]

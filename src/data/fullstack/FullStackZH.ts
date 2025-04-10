@@ -18,7 +18,14 @@ export const FullStackZH: IFullStack = {
     php: PhpZH,
     python: PythonZH,
 
-    stacks: [],
+    stacks: [
+        NodejsZH,
+        GoZH,
+        JavaZH,
+        PythonZH,
+        PhpZH,
+        DotnetZH,
+    ],
 
     services: {
         title: "后端开发",
@@ -49,12 +56,3 @@ export const FullStackZH: IFullStack = {
         ]
     }
 }
-
-FullStackZH.stacks = [
-    FullStackZH.nodejs,
-    FullStackZH.go,
-    FullStackZH.java,
-    FullStackZH.python,
-    FullStackZH.php,
-    FullStackZH.dotnetcore
-]

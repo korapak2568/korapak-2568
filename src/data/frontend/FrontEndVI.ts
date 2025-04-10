@@ -1,5 +1,4 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
-import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 import {VueVI} from "@/data/frontend/frameworks/vue/VueVI";
 import {TypeScriptVI} from "@/data/frontend/frameworks/typescript/TypeScriptVI";
 import {ReactVI} from "@/data/frontend/frameworks/react/ReactVI";
@@ -23,7 +22,16 @@ export const FrontEndVI: IFrontEnd = {
     vue: VueVI,
     javascript: JavaScriptVI,
 
-    stacks: [],
+    stacks: [
+        NextjsVI,
+        ReactVI,
+        AngularVI,
+        VueVI,
+        JavaScriptVI,
+        TypeScriptVI,
+        Html5VI,
+        Css3VI
+    ],
 
     services: {
         title: "Phát triển Front-End",
@@ -54,14 +62,3 @@ export const FrontEndVI: IFrontEnd = {
         ]
     }
 }
-
-FrontEndVI.stacks = [
-    FrontEndEN.nextjs,
-    FrontEndEN.react,
-    FrontEndEN.angular,
-    FrontEndEN.vue,
-    FrontEndEN.javascript,
-    FrontEndEN.typescript,
-    FrontEndEN.html5,
-    FrontEndEN.css3
-]

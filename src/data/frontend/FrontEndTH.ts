@@ -1,5 +1,4 @@
 import {IFrontEnd} from "@/data/frontend/model/IFrontEnd";
-import {FrontEndEN} from "@/data/frontend/FrontEndEN";
 import {VueTH} from "@/data/frontend/frameworks/vue/VueTH";
 import {TypeScriptTH} from "@/data/frontend/frameworks/typescript/TypeScriptTH";
 import {ReactTH} from "@/data/frontend/frameworks/react/ReactTH";
@@ -23,7 +22,16 @@ export const FrontEndTH: IFrontEnd = {
     vue: VueTH,
     javascript: JavaScriptTH,
 
-    stacks: [],
+    stacks: [
+        NextjsTH,
+        ReactTH,
+        AngularTH,
+        VueTH,
+        JavaScriptTH,
+        TypeScriptTH,
+        Html5TH,
+        Css3TH
+    ],
 
     services: {
         title: "การพัฒนาฝั่งหน้าบ้าน",
@@ -54,14 +62,3 @@ export const FrontEndTH: IFrontEnd = {
         ]
     }
 }
-
-FrontEndTH.stacks = [
-    FrontEndEN.nextjs,
-    FrontEndEN.react,
-    FrontEndEN.angular,
-    FrontEndEN.vue,
-    FrontEndEN.javascript,
-    FrontEndEN.typescript,
-    FrontEndEN.html5,
-    FrontEndEN.css3
-]
