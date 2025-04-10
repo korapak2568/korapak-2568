@@ -4,7 +4,7 @@ import { ImageUrl } from "@/image/ImageUrl";
 export const VueVI: IFrontEndStack = {
     title: "Vue",
     description: "Tạo giao diện web hiện đại, phản ứng nhanh chóng với thiết kế trực quan và linh hoạt của Vue.",
-    image: ImageUrl.frontendThumbnails.vue.path,
+    image: ImageUrl.frontend.frameworks.vue.thumbnail,
     alt: "Logo đại diện cho framework Vue.js",
     readMore: "Khám phá thêm các giải pháp phát triển front-end VueJS",
     link: "/technical-expertise/front-end-developer/vue-developer",

@@ -25,7 +25,7 @@ export default function ServicesDetailsGoLang({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.go.path}
+                                            src={ImageUrl.backend.frameworks.go.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

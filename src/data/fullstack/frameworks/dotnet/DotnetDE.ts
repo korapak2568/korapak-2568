@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const DotnetDE: IFullStackStack = {
     title: ".NET Core",
     description: ".NET Core ist ein vielseitiges, Open-Source, plattformübergreifendes Framework, das von Microsoft entwickelt wurde. Es ermöglicht Entwicklern, moderne, leistungsstarke und skalierbare Anwendungen auf verschiedenen Plattformen wie Windows, macOS und Linux zu erstellen. Mit der Unterstützung für die Entwicklung von Webanwendungen, APIs und Mikrodiensten bietet .NET Core eine robuste Umgebung für unternehmensweite Lösungen.",
-    image: ImageUrl.fullstackThumbnails.dotnetcore.path,
+    image: ImageUrl.backend.frameworks.dotnetcore.thumbnail,
     alt: "Logo, das die .NET Core API-Entwicklung darstellt",
     readMore: "Erforschen Sie weitere .NET Core API Full-Stack-Entwicklungslösungen",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

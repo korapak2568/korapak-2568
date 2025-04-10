@@ -8,14 +8,14 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const AiAomDE: IAiLanding = {
     name: 'Aom',
     category: 'Gesundheits-LINE-Freund',
-    thumbnail: ImageUrl.ai.aom.thumbnail.path,
+    thumbnail: ImageUrl.ai.aom.thumbnail,
 
     pages: {
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: 'Aom, KI-Chatbegleiter',
-                path: ImageUrl.ai.aom.main.path,
+                path: ImageUrl.ai.aom.image750,
             }
         }
     },

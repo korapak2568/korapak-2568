@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const NodejsJA: IFullStackStack = {
     title: "NodeJS",
     description: "Node.jsは、開発者が効率的にスケーラブルなネットワークアプリケーションを構築できる、強力なオープンソースのクロスプラットフォームJavaScriptランタイム環境です。イベント駆動型、ノンブロッキングI/Oモデルを備えたNode.jsは、高速で軽量なアプリケーション、リアルタイム通信システム、データ集約型タスクの構築に最適であり、AI統合を含む最新のソフトウェア開発において人気の選択肢となっています。",
-    image: ImageUrl.fullstackThumbnails.nodejs.path,
+    image: ImageUrl.backend.frameworks.nodejs.thumbnail,
     alt: "NodeJS技術を表すロゴ",
     readMore: "NodeJSフルスタック開発ソリューションをさらに探る",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

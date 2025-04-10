@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const DockerEN: IDevOpsStack = {
     title: "Docker",
     description: "Streamline your application deployment with containerization for consistent and efficient environments.",
-    image: ImageUrl.devopsThumbnails.docker.path,
+    image: ImageUrl.devops.frameworks.docker.thumbnail,
     alt: "Logo representing Docker technology experience",
     readMore: "Explore Docker for efficient DevOps testing",
     link: "/technical-expertise/cloud-devops/docker",

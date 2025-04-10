@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const Css3DA: IFrontEndStack = {
     title: "CSS3",
     description: "Forbedre din hjemmesides udseende med avancerede styling-teknikker ved hjælp af CSS3.",
-    image: ImageUrl.frontendThumbnails.css3.path,
+    image: ImageUrl.frontend.frameworks.css3.thumbnail,
     alt: "Logo der repræsenterer CSS3-teknologi",
     readMore: "Udforsk flere CSS3 front-end udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/css3-developer",

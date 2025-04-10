@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const DotnetVI: IFullStackStack = {
     title: ".NET Core",
     description: ".NET Core là một framework đa năng, mã nguồn mở và đa nền tảng được phát triển bởi Microsoft. Nó cho phép các nhà phát triển xây dựng các ứng dụng hiện đại, hiệu suất cao và có thể mở rộng trên nhiều nền tảng khác nhau, bao gồm Windows, macOS và Linux. Với sự hỗ trợ để xây dựng các ứng dụng web, API và microservices, .NET Core cung cấp một môi trường mạnh mẽ cho các giải pháp cấp doanh nghiệp.",
-    image: ImageUrl.fullstackThumbnails.dotnetcore.path,
+    image: ImageUrl.backend.frameworks.dotnetcore.thumbnail,
     alt: "Logo đại diện cho phát triển API .NET Core",
     readMore: "Khám phá thêm các giải pháp phát triển API .NET Core full-stack",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const JavaScriptTH: IFrontEndStack = {
     title: "JavaScript",
     description: "จาวาสคริปต์เป็นภาษาโปรแกรมมิ่งที่หลากหลายและไดนามิก ถูกใช้อย่างแพร่หลายในการสร้างแอปพลิเคชันเว็บที่มีการโต้ตอบและตอบสนองได้ดี ความยืดหยุ่นและระบบนิเวศที่กว้างขวางทำให้มันเป็นเครื่องมือที่จำเป็นสำหรับการพัฒนาเว็บสมัยใหม่",
-    image: ImageUrl.frontendThumbnails.javascript.path,
+    image: ImageUrl.frontend.frameworks.javascript.thumbnail,
     alt: "โลโก้ที่แสดงถึงภาษาโปรแกรมมิ่งจาวาสคริปต์",
     readMore: "สำรวจโซลูชันการพัฒนาแบบจาวาสคริปต์ full-stack เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/javascript-developer",

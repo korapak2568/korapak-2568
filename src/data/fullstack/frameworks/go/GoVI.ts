@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const GoVI: IFullStackStack = {
     title: "GO",
     description: "Go, còn được gọi là Golang, là một ngôn ngữ lập trình được biên dịch và kiểu tĩnh được thiết kế bởi Google. Nó nổi tiếng với sự đơn giản, hiệu quả và hỗ trợ mạnh mẽ cho xử lý đồng thời, khiến nó trở thành lựa chọn lý tưởng cho việc phát triển các microservices.",
-    image: ImageUrl.fullstackThumbnails.go.path,
+    image: ImageUrl.backend.frameworks.go.thumbnail,
     alt: "Logo đại diện cho ngôn ngữ lập trình Go",
     readMore: "Khám phá thêm các giải pháp phát triển full-stack Go",
     link: "/technical-expertise/full-stack-developer/go-developer",

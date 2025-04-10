@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const VueFI: IFrontEndStack = {
     title: "Vue",
     description: "Luo moderneja, reaktiivisia verkkokäyttöliittymiä nopeasti Vue:n intuitiivisella ja joustavalla suunnittelulla.",
-    image: ImageUrl.frontendThumbnails.vue.path,
+    image: ImageUrl.frontend.frameworks.vue.thumbnail,
     alt: "Vue.js-kehystä edustava logo",
     readMore: "Tutustu lisää VueJS front-end-kehitysratkaisuihin",
     link: "/technical-expertise/front-end-developer/vue-developer",

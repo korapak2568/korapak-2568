@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const NodejsDE: IFullStackStack = {
     title: "NodeJS",
     description: "Node.js ist eine leistungsstarke, quelloffene, plattformübergreifende JavaScript-Laufzeitumgebung, die es Entwicklern ermöglicht, skalierbare Netzwerkanwendungen effizient zu erstellen. Mit einem ereignisgesteuerten, nicht-blockierenden I/O-Modell ist Node.js ideal für den Aufbau schneller, leichtgewichtiger Anwendungen, Echtzeit-Kommunikationssysteme und datenintensive Aufgaben und damit eine beliebte Wahl für moderne Softwareentwicklung, einschließlich KI-Integrationen.",
-    image: ImageUrl.fullstackThumbnails.nodejs.path,
+    image: ImageUrl.backend.frameworks.nodejs.thumbnail,
     alt: "Logo representing NodeJS technology",
     readMore: "Erkunden Sie weitere NodeJS Full-Stack-Entwicklungslösungen",
     link: "/technical-expertise/full-stack-developer/nodejs-developer",

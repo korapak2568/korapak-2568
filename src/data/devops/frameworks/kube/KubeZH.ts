@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const KubeZH: IDevOpsStack ={
     title: "Kubernetes",
     description: "使用Kubernetes自动化容器编排，实现可扩展且弹性的应用程序。",
-    image: ImageUrl.devopsThumbnails.kube.path,
+    image: ImageUrl.devops.frameworks.kube.thumbnail,
     alt: "代表Kubernetes技术经验的标志",
     readMore: "探索Kubernetes DevOps测试解决方案",
     link: "/technical-expertise/cloud-devops/kubernetes",

@@ -25,7 +25,7 @@ export default function ServicesDetailsVue({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.vue.path}
+                                            src={ImageUrl.frontend.frameworks.vue.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

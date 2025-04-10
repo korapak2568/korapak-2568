@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const JavaDA: IFullStackStack = {
     title: ".NET Core",
     description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
-    image: ImageUrl.fullstackThumbnails.java.path,
+    image: ImageUrl.backend.frameworks.java.thumbnail,
     alt: "Logo representing .NET Core API development",
     readMore: "Explore more .NET Core API full-stack development solutions",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

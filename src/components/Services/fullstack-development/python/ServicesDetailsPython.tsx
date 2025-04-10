@@ -25,7 +25,7 @@ export default function ServicesDetailsPython({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.python.path}
+                                            src={ImageUrl.backend.frameworks.python.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

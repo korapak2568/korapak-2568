@@ -6,14 +6,14 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const AiFahTH: IAiLanding = {
     name: 'ฟ้า',
     category: 'เพื่อนไลน์คนไทย',
-    thumbnail: ImageUrl.ai.fah.thumbnail.path,
+    thumbnail: ImageUrl.ai.fah.thumbnail,
 
     pages: {
         landing: {
             link: '/ai-companions/fah',
             image: {
                 title: 'น้องฟ้า เพื่อนคุยเอไอ',
-                path: ImageUrl.ai.fah.main.path,
+                path: ImageUrl.ai.fah.image750
             }
         }
     },

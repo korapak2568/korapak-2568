@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const PhpJA: IFullStackStack = {
     title: "PHP",
     description: "PHPは、Webの開発に広く使用されている人気のあるサーバーサイドスクリプト言語です。Symfony、Laravel、Phalconなどのフレームワークや、Twigなどのテンプレートエンジン、そしてWordPressとそのヘッドレスバリアントなどのプラットフォームは、複雑なWebアプリケーションを構築するための構造化された効率的でスケーラブルなソリューションを提供することで、PHP開発を向上させています。",
-    image: ImageUrl.fullstackThumbnails.php.path,
+    image: ImageUrl.backend.frameworks.php.thumbnail,
     alt: "PHPプログラミング言語を表すロゴ",
     readMore: "PHPフルスタック開発ソリューションをさらに探る",
     link: "/technical-expertise/full-stack-developer/php-developer",

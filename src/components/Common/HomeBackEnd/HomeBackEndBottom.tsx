@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default function HomeBackEndBottom({lang}: { lang: string }) {
     return (
-        <div className="row align-items-center">
+        <div className="row row-vertical-start pt-5">
             <div className="col-lg-6">
                 <div className="digital-experience-content">
                     <ul className="feature-list">
@@ -32,19 +32,24 @@ export default function HomeBackEndBottom({lang}: { lang: string }) {
             </div>
 
             <div className="col-lg-6">
-                <div className="digital-experience-image home-backend-image">
-                    {ImageUrl.gallery.slides.slice(0, 2).map((image: any, index: any) => (
-                        <div key={index} className="home-backend-image">
-                            <Link href={"/" + lang + "/gallery"}>
-                                <Image
-                                    src={image.image750}
-                                    alt={image.title}
-                                    width={750}
-                                    height={500}
-                                />
-                            </Link>
-                        </div>
-                    ))}
+                <div className="digital-experience-image">
+                    <ul className="ul-image-container">
+                        {ImageUrl.gallery.slides.slice(0, 2).map((image: any, index: any) => (
+                            <li key={index}>
+                                <Link href={"/" + lang + "/gallery"}>
+                                    <div className="li-image-container">
+                                        <Image
+                                            src={image.image750}
+                                            alt={image.title}
+                                            width={750}
+                                            height={500}
+                                            className="li-image"
+                                        />
+                                    </div>
+                                </Link>
+                            </li>
+                        ))}
+                    </ul>
                 </div>
             </div>
         </div>

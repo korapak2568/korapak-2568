@@ -8,13 +8,13 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const AiAomZH: IAiLanding = {
     name: '奥姆',
     category: '健康LINE好友',
-    thumbnail: ImageUrl.ai.aom.thumbnail.path,
+    thumbnail: ImageUrl.ai.aom.thumbnail,
     pages: {
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: '奥姆 AI聊天伙伴',
-                path: ImageUrl.ai.aom.main.path,
+                path: ImageUrl.ai.aom.image750,
             }
         }
     },

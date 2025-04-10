@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const JavaScriptDA: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript er et alsidigt og dynamisk programmeringssprog, der bruges i vid udstrækning til at bygge interaktive og responsive webapplikationer. Dets fleksibilitet og omfattende økosystem gør det til et essentielt værktøj til moderne webudvikling.",
-    image: ImageUrl.frontendThumbnails.javascript.path,
+    image: ImageUrl.frontend.frameworks.javascript.thumbnail,
     alt: "Logo der repræsenterer JavaScript programmeringssprog",
     readMore: "Udforsk flere JavaScript full-stack udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/javascript-developer",

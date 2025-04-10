@@ -10,43 +10,115 @@ export const ImageUrl: IImageUrl = {
                 image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-1-image-750.webp",
                 image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-1-image-1200.webp",
                 large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-1-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 2.",
                 image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-image-375.webp",
                 image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-image-750.webp",
                 image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-image-1200.webp",
-                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-large.webp"
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-2-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 3.",
                 image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-image-375.webp",
                 image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-image-750.webp",
                 image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-image-1200.webp",
-                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-large.webp"
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-3-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 4.",
                 image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-image-375.webp",
                 image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-image-750.webp",
                 image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-image-1200.webp",
-                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-large.webp"
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-4-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 5.",
                 image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-image-375.webp",
                 image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-image-750.webp",
                 image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-image-1200.webp",
-                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-large.webp"
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-5-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 6.",
                 image375: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-image-375.webp",
                 image750: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-image-750.webp",
                 image1200: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-image-1200.webp",
-                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-large.webp"
+                large: "/images/technical-expertise/front-end-developer/side-images/frontend-side-6-large.webp",
+                thumbnail: ""
             },
-        ]
+        ],
+        frameworks: {
+            angular: {
+                title: "CHORN full-stack development thumbnail Angular",
+                image375: "/images/technical-expertise/frontend/framework/angular-qrcode-375.webp",
+                image750: "/images/technical-expertise/frontend/framework/angular-qrcode-750.webp",
+                image1200: "/images/technical-expertise/frontend/framework/angular-qrcode-1200.webp",
+                large: "/images/technical-expertise/frontend/framework/angular-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/frontend/framework/angular-thumbnail.webp"
+            },
+            css3: {
+                title: "CHORN full-stack development thumbnail CSS3",
+                image375: "/images/technical-expertise/frontend/framework/css3-qrcode-375.webp",
+                image750: "/images/technical-expertise/frontend/framework/css3-qrcode-750.webp",
+                image1200: "/images/technical-expertise/frontend/framework/css3-qrcode-1200.webp",
+                large: "/images/technical-expertise/frontend/framework/css3-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/frontend/framework/css3-thumbnail.webp"
+            },
+            html5: {
+                title: "CHORN full-stack development thumbnail HTML5",
+                image375: "/images/technical-expertise/frontend/framework/html5-qrcode-375.webp",
+                image750: "/images/technical-expertise/frontend/framework/html5-qrcode-750.webp",
+                image1200: "/images/technical-expertise/frontend/framework/html5-qrcode-1200.webp",
+                large: "/images/technical-expertise/frontend/framework/html5-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/frontend/framework/html5-thumbnail.webp"
+            },
+            nextjs: {
+                title: "CHORN full-stack development thumbnail Next.js",
+                image375: "/images/technical-expertise/frontend/framework/nextjs-qrcode-375.webp",
+                image750: "/images/technical-expertise/frontend/framework/nextjs-qrcode-750.webp",
+                image1200: "/images/technical-expertise/frontend/framework/nextjs-qrcode-1200.webp",
+                large: "/images/technical-expertise/frontend/framework/nextjs-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/frontend/framework/nextjs-thumbnail.webp"
+            },
+            react: {
+                title: "CHORN full-stack development thumbnail React.js",
+                image375: "/images/technical-expertise/frontend/framework/react-qrcode-375.webp",
+                image750: "/images/technical-expertise/frontend/framework/react-qrcode-750.webp",
+                image1200: "/images/technical-expertise/frontend/framework/react-qrcode-1200.webp",
+                large: "/images/technical-expertise/frontend/framework/react-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/frontend/framework/react-thumbnail.webp"
+            },
+            typescript: {
+                title: "CHORN full-stack development thumbnail TypeScript",
+                image375: "/images/technical-expertise/frontend/framework/typescript-qrcode-375.webp",
+                image750: "/images/technical-expertise/frontend/framework/typescript-qrcode-750.webp",
+                image1200: "/images/technical-expertise/frontend/framework/typescript-qrcode-1200.webp",
+                large: "/images/technical-expertise/frontend/framework/typescript-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/frontend/framework/typescript-thumbnail.webp"
+            },
+            vue: {
+                title: "CHORN full-stack development thumbnail Vue.js",
+                image375: "/images/technical-expertise/frontend/framework/vue-qrcode-375.webp",
+                image750: "/images/technical-expertise/frontend/framework/vue-qrcode-750.webp",
+                image1200: "/images/technical-expertise/frontend/framework/vue-qrcode-1200.webp",
+                large: "/images/technical-expertise/frontend/framework/vue-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/frontend/framework/vue-thumbnail.webp"
+            },
+            javascript: {
+                title: "CHORN full-stack development thumbnail JavaScript",
+                image375: "/images/technical-expertise/frontend/framework/javascript-qrcode-375.webp",
+                image750: "/images/technical-expertise/frontend/framework/javascript-qrcode-750.webp",
+                image1200: "/images/technical-expertise/frontend/framework/javascript-qrcode-1200.webp",
+                large: "/images/technical-expertise/frontend/framework/javascript-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/frontend/framework/javascript-thumbnail.webp"
+            },
+        },
     },
     backend: {
         side: [
@@ -56,43 +128,176 @@ export const ImageUrl: IImageUrl = {
                 image750: "/images/technical-expertise/full-stack-developer/side-images/backend-1-image-750.webp",
                 image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-1-image-1200.webp",
                 large: "/images/technical-expertise/full-stack-developer/side-images/backend-1-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 2.",
                 image375: "/images/technical-expertise/full-stack-developer/side-images/backend-2-image-375.webp",
                 image750: "/images/technical-expertise/full-stack-developer/side-images/backend-2-image-750.webp",
                 image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-2-image-1200.webp",
-                large: "/images/technical-expertise/full-stack-developer/side-images/backend-2-large.webp"
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-2-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 3.",
                 image375: "/images/technical-expertise/full-stack-developer/side-images/backend-3-image-375.webp",
                 image750: "/images/technical-expertise/full-stack-developer/side-images/backend-3-image-750.webp",
                 image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-3-image-1200.webp",
-                large: "/images/technical-expertise/full-stack-developer/side-images/backend-3-large.webp"
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-3-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 4.",
                 image375: "/images/technical-expertise/full-stack-developer/side-images/backend-4-image-375.webp",
                 image750: "/images/technical-expertise/full-stack-developer/side-images/backend-4-image-750.webp",
                 image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-4-image-1200.webp",
-                large: "/images/technical-expertise/full-stack-developer/side-images/backend-4-large.webp"
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-4-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 5.",
                 image375: "/images/technical-expertise/full-stack-developer/side-images/backend-5-image-375.webp",
                 image750: "/images/technical-expertise/full-stack-developer/side-images/backend-5-image-750.webp",
                 image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-5-image-1200.webp",
-                large: "/images/technical-expertise/full-stack-developer/side-images/backend-5-large.webp"
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-5-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 6.",
                 image375: "/images/technical-expertise/full-stack-developer/side-images/backend-6-image-375.webp",
                 image750: "/images/technical-expertise/full-stack-developer/side-images/backend-6-image-750.webp",
                 image1200: "/images/technical-expertise/full-stack-developer/side-images/backend-6-image-1200.webp",
-                large: "/images/technical-expertise/full-stack-developer/side-images/backend-6-large.webp"
+                large: "/images/technical-expertise/full-stack-developer/side-images/backend-6-large.webp",
+                thumbnail: ""
             },
-        ]
+        ],
+        frameworks: {
+            dotnetcore: {
+                title: "CHORN full-stack development thumbnail Dotnet Core",
+                image375: "/images/technical-expertise/backend/framework/dotnetcore-qrcode-375.webp",
+                image750: "/images/technical-expertise/backend/framework/dotnetcore-qrcode-750.webp",
+                image1200: "/images/technical-expertise/backend/framework/dotnetcore-qrcode-1200.webp",
+                large: "/images/technical-expertise/backend/framework/dotnetcore-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/backend/framework/dotnetcore-thumbnail.webp"
+            },
+            go: {
+                title: "CHORN full-stack development thumbnail Go-lang",
+                image375: "/images/technical-expertise/backend/framework/go-qrcode-375.webp",
+                image750: "/images/technical-expertise/backend/framework/go-qrcode-750.webp",
+                image1200: "/images/technical-expertise/backend/framework/go-qrcode-1200.webp",
+                large: "/images/technical-expertise/backend/framework/go-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/backend/framework/go-thumbnail.webp"
+            },
+            java: {
+                title: "CHORN full-stack development thumbnail Java Spring Boot",
+                image375: "/images/technical-expertise/backend/framework/java-qrcode-375.webp",
+                image750: "/images/technical-expertise/backend/framework/java-qrcode-750.webp",
+                image1200: "/images/technical-expertise/backend/framework/java-qrcode-1200.webp",
+                large: "/images/technical-expertise/backend/framework/java-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/backend/framework/java-thumbnail.webp"
+            },
+            nodejs: {
+                title: "CHORN full-stack development thumbnail Node.js",
+                image375: "/images/technical-expertise/backend/framework/nodejs-qrcode-375.webp",
+                image750: "/images/technical-expertise/backend/framework/nodejs-qrcode-750.webp",
+                image1200: "/images/technical-expertise/backend/framework/nodejs-qrcode-1200.webp",
+                large: "/images/technical-expertise/backend/framework/nodejs-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/backend/framework/nodejs-thumbnail.webp"
+            },
+            php: {
+                title: "CHORN full-stack development thumbnail PHP",
+                image375: "/images/technical-expertise/backend/framework/php-qrcode-375.webp",
+                image750: "/images/technical-expertise/backend/framework/php-qrcode-750.webp",
+                image1200: "/images/technical-expertise/backend/framework/php-qrcode-1200.webp",
+                large: "/images/technical-expertise/backend/framework/php-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/backend/framework/php-thumbnail.webp"
+            },
+            python: {
+                title: "CHORN full-stack development thumbnail Python",
+                image375: "/images/technical-expertise/backend/framework/python-qrcode-375.webp",
+                image750: "/images/technical-expertise/backend/framework/python-qrcode-750.webp",
+                image1200: "/images/technical-expertise/backend/framework/python-qrcode-1200.webp",
+                large: "/images/technical-expertise/backend/framework/python-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/backend/framework/python-thumbnail.webp"
+            },
+        },
+    },
+    devops: {
+        side: [],
+        frameworks: {
+            appium: {
+                title: "CHORN devops thumbnail Appium",
+                image375: "/images/technical-expertise/devops/framework/appium-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/appium-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/appium-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/appium-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/appium-thumbnail.webp"
+            },
+            docker: {
+                title: "CHORN devops thumbnail Docker",
+                image375: "/images/technical-expertise/devops/framework/docker-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/docker-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/docker-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/docker-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/docker-thumbnail.webp"
+            },
+            github: {
+                title: "CHORN devops thumbnail GitHub",
+                image375: "/images/technical-expertise/devops/framework/github-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/github-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/github-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/github-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/github-thumbnail.webp"
+            },
+            gitlab: {
+                title: "CHORN devops thumbnail GitLab",
+                image375: "/images/technical-expertise/devops/framework/gitlab-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/gitlab-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/gitlab-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/gitlab-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/gitlab-thumbnail.webp"
+            },
+            jenkins: {
+                title: "CHORN devops thumbnail Jenkins",
+                image375: "/images/technical-expertise/devops/framework/jenkins-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/jenkins-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/jenkins-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/jenkins-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/jenkins-thumbnail.webp"
+            },
+            kube: {
+                title: "CHORN devops thumbnail Kubernetes",
+                image375: "/images/technical-expertise/devops/framework/kube-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/kube-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/kube-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/kube-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/kube-thumbnail.webp"
+            },
+            postman: {
+                title: "CHORN devops thumbnail Postman",
+                image375: "/images/technical-expertise/devops/framework/postman-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/postman-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/postman-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/postman-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/postman-thumbnail.webp"
+            },
+            selenium: {
+                title: "CHORN devops thumbnail Selenium",
+                image375: "/images/technical-expertise/devops/framework/selenium-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/selenium-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/selenium-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/selenium-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/selenium-thumbnail.webp"
+            },
+            soapui: {
+                title: "CHORN devops thumbnail SoapUI",
+                image375: "/images/technical-expertise/devops/framework/soapui-qrcode-375.webp",
+                image750: "/images/technical-expertise/devops/framework/soapui-qrcode-750.webp",
+                image1200: "/images/technical-expertise/devops/framework/soapui-qrcode-1200.webp",
+                large: "/images/technical-expertise/devops/framework/soapui-qrcode-large.webp",
+                thumbnail: "/images/technical-expertise/devops/framework/soapui-thumbnail.webp"
+            },
+        },
     },
     web3: {
         side: [
@@ -102,182 +307,76 @@ export const ImageUrl: IImageUrl = {
                 image750: "/images/technical-expertise/blockchain/web3-1-image-750.webp",
                 image1200: "/images/technical-expertise/blockchain/web3-1-image-1200.webp",
                 large: "/images/technical-expertise/blockchain/web3-1-large.webp",
+            thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 2.",
                 image375: "/images/technical-expertise/blockchain/web3-2-image-375.webp",
                 image750: "/images/technical-expertise/blockchain/web3-2-image-750.webp",
                 image1200: "/images/technical-expertise/blockchain/web3-2-image-1200.webp",
-                large: "/images/technical-expertise/blockchain/web3-2-large.webp"
+                large: "/images/technical-expertise/blockchain/web3-2-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 3.",
                 image375: "/images/technical-expertise/blockchain/web3-3-image-375.webp",
                 image750: "/images/technical-expertise/blockchain/web3-3-image-750.webp",
                 image1200: "/images/technical-expertise/blockchain/web3-3-image-1200.webp",
-                large: "/images/technical-expertise/blockchain/web3-3-large.webp"
+                large: "/images/technical-expertise/blockchain/web3-3-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 4.",
                 image375: "/images/technical-expertise/blockchain/web3-4-image-375.webp",
                 image750: "/images/technical-expertise/blockchain/web3-4-image-750.webp",
                 image1200: "/images/technical-expertise/blockchain/web3-4-image-1200.webp",
-                large: "/images/technical-expertise/blockchain/web3-4-large.webp"
+                large: "/images/technical-expertise/blockchain/web3-4-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 5.",
                 image375: "/images/technical-expertise/blockchain/web3-5-image-375.webp",
                 image750: "/images/technical-expertise/blockchain/web3-5-image-750.webp",
                 image1200: "/images/technical-expertise/blockchain/web3-5-image-1200.webp",
-                large: "/images/technical-expertise/blockchain/web3-5-large.webp"
+                large: "/images/technical-expertise/blockchain/web3-5-large.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 6.",
                 image375: "/images/technical-expertise/blockchain/web3-6-image-375.webp",
                 image750: "/images/technical-expertise/blockchain/web3-6-image-750.webp",
                 image1200: "/images/technical-expertise/blockchain/web3-6-image-1200.webp",
-                large: "/images/technical-expertise/blockchain/web3-6-large.webp"
+                large: "/images/technical-expertise/blockchain/web3-6-large.webp",
+                thumbnail: ""
             },
         ]
     },
-
-    //devops thumbnail
-    devopsThumbnails: {
-        appium: {
-            title: "CHORN devops thumbnail Appium",
-            path: "/images/technical-expertise/cloud-devops/Appium.webp"
-        },
-        docker: {
-            title: "CHORN devops thumbnail Docker",
-            path: "/images/technical-expertise/cloud-devops/Docker.webp"
-        },
-        github: {
-            title: "CHORN devops thumbnail GitHub",
-            path: "/images/technical-expertise/cloud-devops/GitHub.webp"
-        },
-        gitlab: {
-            title: "CHORN devops thumbnail GitLab",
-            path: "/images/technical-expertise/cloud-devops/GitLab.webp"
-        },
-        jenkins: {
-            title: "CHORN devops thumbnail Jenkins",
-            path: "/images/technical-expertise/cloud-devops/Jenkins.webp"
-        },
-        kube: {
-            title: "CHORN devops thumbnail Kubernetes",
-            path: "/images/technical-expertise/cloud-devops/Kubernetes.webp"
-        },
-        postman: {
-            title: "CHORN devops thumbnail Postman",
-            path: "/images/technical-expertise/cloud-devops/Postman.webp"
-        },
-        selenium: {
-            title: "CHORN devops thumbnail Selenium",
-            path: "/images/technical-expertise/cloud-devops/Selenium.webp"
-        },
-        soapui: {
-            title: "CHORN devops thumbnail SoapUI",
-            path: "/images/technical-expertise/cloud-devops/SoapUI.webp"
-        },
-    },
-
-    //fullstack thumbnail
-    fullstackThumbnails: {
-        dotnetcore: {
-            title: "CHORN full-stack development thumbnail Dotnet Core",
-            path: "/images/technical-expertise/full-stack-developer/dotnetcore-developer.webp"
-        },
-        go: {
-            title: "CHORN full-stack development thumbnail Go-lang",
-            path: "/images/technical-expertise/full-stack-developer/go-developer.webp"
-        },
-        java: {
-            title: "CHORN full-stack development thumbnail Java Spring Boot",
-            path: "/images/technical-expertise/full-stack-developer/java-spring-boot-developer.webp"
-        },
-        nodejs: {
-            title: "CHORN full-stack development thumbnail Node.js",
-            path: "/images/technical-expertise/full-stack-developer/nodejs-developer.webp"
-        },
-        php: {
-            title: "CHORN full-stack development thumbnail PHP",
-            path: "/images/technical-expertise/full-stack-developer/php-developer.webp"
-        },
-        python: {
-            title: "CHORN full-stack development thumbnail Python",
-            path: "/images/technical-expertise/full-stack-developer/python-developer.webp"
-        },
-    },
-
-    //frontend thumbnail
-    frontendThumbnails: {
-        angular: {
-            title: "CHORN full-stack development thumbnail Angular",
-            path: "/images/technical-expertise/front-end-developer/angular-developer.webp"
-        },
-        css3: {
-            title: "CHORN full-stack development thumbnail CSS3",
-            path: "/images/technical-expertise/front-end-developer/css3-developer.webp"
-        },
-        html5: {
-            title: "CHORN full-stack development thumbnail HTML5",
-            path: "/images/technical-expertise/front-end-developer/html5-developer.webp"
-        },
-        nextjs: {
-            title: "CHORN full-stack development thumbnail Next.js",
-            path: "/images/technical-expertise/front-end-developer/nextjs-developer.webp"
-        },
-        react: {
-            title: "CHORN full-stack development thumbnail React.js",
-            path: "/images/technical-expertise/front-end-developer/react-developer.webp"
-        },
-        typescript: {
-            title: "CHORN full-stack development thumbnail TypeScript",
-            path: "/images/technical-expertise/front-end-developer/typescript-developer.webp"
-        },
-        vue: {
-            title: "CHORN full-stack development thumbnail Vue.js",
-            path: "/images/technical-expertise/front-end-developer/vue-developer.webp"
-        },
-        javascript: {
-            title: "CHORN full-stack development thumbnail JavaScript",
-            path: "/images/technical-expertise/front-end-developer/javascript-developer.webp"
-        },
-    },
-
     ai: {
         fah: {
-            main: {
-                title: "CHORN's Fah, AI Chat Friend",
-                path: "/images/ai/ai-fah-details.png",
-            },
-            thumbnail: {
-                title: "CHORN's Fah thumbnail",
-                path: "/images/ai/ai-companions/ai-fah-thumbnail.webp",
-            }
+            title: "CHORN's Fah, AI Chat Friend",
+            image375: "/images/ai/ai-fah-qrcode-375.webp",
+            image750: "/images/ai/ai-fah-qrcode-750.webp",
+            image1200: "/images/ai/ai-fah-qrcode-1200.webp",
+            large: "/images/ai/ai-fah-qrcode-large.webp",
+            thumbnail: "/images/ai/ai-fah-thumbnail.webp",
         },
         aom: {
-            main: {
-                title: "CHORN's Aom, AI Chat Friend",
-                path: "/images/ai/ai-aom-details.png",
-            },
-            thumbnail: {
-                title: "CHORN's Aom thumbnail",
-                path: "/images/ai/ai-companions/ai-aom-thumbnail.webp",
-            }
+            title: "CHORN's Aom, AI Chat Friend",
+            image375: "/images/ai/ai-aom-qrcode-375.webp",
+            image750: "/images/ai/ai-aom-qrcode-750.webp",
+            image1200: "/images/ai/ai-aom-qrcode-1200.webp",
+            large: "/images/ai/ai-aom-qrcode-large.webp",
+            thumbnail: "/images/ai/ai-aom-thumbnail.webp",
         },
         ploy: {
-            main: {
-                title: "CHORN's Ploy, AI Chat Friend",
-                path: "/images/ai/ai-ploy-details.png",
-            },
-            thumbnail: {
-                title: "CHORN's Ploy thumbnail",
-                path: "/images/ai/ai-companions/ai-ploy-thumbnail.webp",
-            }
+            title: "CHORN's Ploy, AI Chat Friend",
+            image375: "/images/ai/ai-ploy-qrcode-375.webp",
+            image750: "/images/ai/ai-ploy-qrcode-750.webp",
+            image1200: "/images/ai/ai-ploy-qrcode-1200.webp",
+            large: "/images/ai/ai-ploy-qrcode-large.webp",
+            thumbnail: "/images/ai/ai-ploy-thumbnail.webp",
         },
     },
-
     shape: {
         default: {
             shape1: {
@@ -320,7 +419,6 @@ export const ImageUrl: IImageUrl = {
             },
         },
     },
-
     feature: {
         default: {
             title: "CHORN's feature image",
@@ -339,14 +437,14 @@ export const ImageUrl: IImageUrl = {
             path: "/images/features/morning-sky-optimize.webp"
         }
     },
-
     gallery: {
         main: {
             title: "CHORN's gallery global main",
             image375: "/images/gallery/chorn-global-001-image-375.webp",
             image750: "/images/gallery/chorn-global-001-image-750.webp",
             image1200: "/images/gallery/chorn-global-001-image-1200.webp",
-            large: "/images/gallery/chorn-global-001-optimize.webp"
+            large: "/images/gallery/chorn-global-001-optimize.webp",
+            thumbnail: ""
         },
         slides: [
             {
@@ -354,28 +452,32 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/gallery/chorn-global-002-image-375.webp",
                 image750: "/images/gallery/chorn-global-002-image-750.webp",
                 image1200: "/images/gallery/chorn-global-002-image-1200.webp",
-                large: "/images/gallery/chorn-global-002-optimize.webp"
+                large: "/images/gallery/chorn-global-002-optimize.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN global slide-2",
                 image375: "/images/gallery/chorn-global-003-image-375.webp",
                 image750: "/images/gallery/chorn-global-003-image-750.webp",
                 image1200: "/images/gallery/chorn-global-003-image-1200.webp",
-                large: "/images/gallery/chorn-global-003-optimize.webp"
+                large: "/images/gallery/chorn-global-003-optimize.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN global slide-3",
                 image375: "/images/gallery/chorn-global-004-image-375.webp",
                 image750: "/images/gallery/chorn-global-004-image-750.webp",
                 image1200: "/images/gallery/chorn-global-004-image-1200.webp",
-                large: "/images/gallery/chorn-global-004-optimize.webp"
+                large: "/images/gallery/chorn-global-004-optimize.webp",
+                thumbnail: ""
             },
             {
                 title: "CHORN global slide-4",
                 image375: "/images/gallery/chorn-global-005-image-375.webp",
                 image750: "/images/gallery/chorn-global-005-image-750.webp",
                 image1200: "/images/gallery/chorn-global-005-image-1200.webp",
-                large: "/images/gallery/chorn-global-005-optimize.webp"
+                large: "/images/gallery/chorn-global-005-optimize.webp",
+                thumbnail: ""
             },
         ]
     },
@@ -384,7 +486,8 @@ export const ImageUrl: IImageUrl = {
         image375: "/images/about/about-chorn-image-375.webp",
         image750: "/images/about/about-chorn-image-750.webp",
         image1200: "/images/about/about-chorn-image-1200.webp",
-        large: "/images/about/about-chorn-large.webp"
+        large: "/images/about/about-chorn-large.webp",
+        thumbnail: ""
     },
     NotFound404: {
         title: "CHORN's 404 not found image",
@@ -447,7 +550,8 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/home/chorn-workplace-001-image-375.webp",
                 image750: "/images/home/chorn-workplace-001-image-750.webp",
                 image1200: "/images/home/chorn-workplace-001-image-1200.webp",
-                large: "/images/home/chorn-workplace-001-large.webp"
+                large: "/images/home/chorn-workplace-001-large.webp",
+                thumbnail: ""
             },
             {
 
@@ -455,7 +559,8 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/home/chorn-workplace-002-image-375.webp",
                 image750: "/images/home/chorn-workplace-002-image-750.webp",
                 image1200: "/images/home/chorn-workplace-002-image-1200.webp",
-                large: "/images/home/chorn-workplace-002-large.webp"
+                large: "/images/home/chorn-workplace-002-large.webp",
+                thumbnail: ""
             },
             {
 
@@ -463,7 +568,8 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/home/chorn-workplace-003-image-375.webp",
                 image750: "/images/home/chorn-workplace-003-image-750.webp",
                 image1200: "/images/home/chorn-workplace-003-image-1200.webp",
-                large: "/images/home/chorn-workplace-003-large.webp"
+                large: "/images/home/chorn-workplace-003-large.webp",
+                thumbnail: ""
             },
             {
 
@@ -471,7 +577,8 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/home/chorn-workplace-004-image-375.webp",
                 image750: "/images/home/chorn-workplace-004-image-750.webp",
                 image1200: "/images/home/chorn-workplace-004-image-1200.webp",
-                large: "/images/home/chorn-workplace-004-large.webp"
+                large: "/images/home/chorn-workplace-004-large.webp",
+                thumbnail: ""
             },
             {
 
@@ -479,7 +586,8 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/home/chorn-workplace-005-image-375.webp",
                 image750: "/images/home/chorn-workplace-005-image-750.webp",
                 image1200: "/images/home/chorn-workplace-005-image-1200.webp",
-                large: "/images/home/chorn-workplace-005-large.webp"
+                large: "/images/home/chorn-workplace-005-large.webp",
+                thumbnail: ""
             },
             {
 
@@ -487,7 +595,8 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/home/chorn-workplace-006-image-375.webp",
                 image750: "/images/home/chorn-workplace-006-image-750.webp",
                 image1200: "/images/home/chorn-workplace-006-image-1200.webp",
-                large: "/images/home/chorn-workplace-006-large.webp"
+                large: "/images/home/chorn-workplace-006-large.webp",
+                thumbnail: ""
             },
         ]
     },
@@ -528,102 +637,6 @@ export const ImageUrl: IImageUrl = {
             title: "CHORN's LINE icon",
             path: "/images/line/line-icon.png",
             link: "https://lin.ee/HzWJ2bJ",
-        }
-    },
-    serviceDetails: {
-        nextjs: {
-            title: "CHORN's Next.js development image service",
-            path: "/images/metadata/technical-expertise/frontend-development/nextjs-development-service.png",
-        },
-        react: {
-            title: "CHORN's React.js development image service",
-            path: "/images/metadata/technical-expertise/frontend-development/react-development-service.png",
-        },
-        angular: {
-            title: "CHORN's Angular development image service",
-            path: "/images/metadata/technical-expertise/frontend-development/angular-development-service.png",
-        },
-        vue: {
-            title: "CHORN's Vue.js development image service",
-            path: "/images/metadata/technical-expertise/frontend-development/vue-development-service.png",
-        },
-        html5: {
-            title: "CHORN's HTML5 development image service",
-            path: "/images/metadata/technical-expertise/frontend-development/html5-development-service.png",
-        },
-        css3: {
-            title: "CHORN's CSS3 development image service",
-            path: "/images/metadata/technical-expertise/frontend-development/css3-development-service.png",
-        },
-        nodejs: {
-            title: "CHORN's Node.js development image service",
-            path: "/images/metadata/technical-expertise/fullstack-development/nodejs-development-service.png",
-        },
-        typescript: {
-            title: "CHORN's TypeScript development image service",
-            path: "/images/metadata/technical-expertise/frontend-development/typescript-development-service.png",
-        },
-        javascript: {
-            title: "CHORN's JavaScript development image service",
-            path: "/images/metadata/technical-expertise/frontend-development/javascript-development-service.png",
-        },
-        dotnetcore: {
-            title: "CHORN's DotNet Core development image service",
-            path: "/images/metadata/technical-expertise/fullstack-development/dotnet-core-development-service.png",
-        },
-        java: {
-            title: "CHORN's Java/Spring Boot development image service",
-            path: "/images/metadata/technical-expertise/fullstack-development/java-spring-boot-development-service.png",
-        },
-        python: {
-            title: "CHORN's Python development image service",
-            path: "/images/metadata/technical-expertise/fullstack-development/python-development-service.png",
-        },
-        go: {
-            title: "CHORN's Go-lang development image service",
-            path: "/images/metadata/technical-expertise/fullstack-development/go-development-service.png",
-        },
-        php: {
-            title: "CHORN's PHP development image service",
-            path: "/images/metadata/technical-expertise/fullstack-development/php-development-service.png",
-        },
-    },
-    devopsTesting: {
-        docker: {
-            title: "CHORN's Docker DevOps",
-            path: "/images/metadata/technical-expertise/devops-testing/docker.png",
-        },
-        kubernetes: {
-            title: "CHORN's Kubernetes DevOps",
-            path: "/images/metadata/technical-expertise/devops-testing/kubernetes.png",
-        },
-        github: {
-            title: "CHORN's GitHub DevOps",
-            path: "/images/metadata/technical-expertise/devops-testing/github.png",
-        },
-        gitlab: {
-            title: "CHORN's GitLab DevOps",
-            path: "/images/metadata/technical-expertise/devops-testing/gitlab.png",
-        },
-        jenkins: {
-            title: "CHORN's Jenkins DevOps",
-            path: "/images/metadata/technical-expertise/devops-testing/jenkins.png",
-        },
-        postman: {
-            title: "CHORN's Postman API Testing",
-            path: "/images/metadata/technical-expertise/devops-testing/postman.png",
-        },
-        selenium: {
-            title: "CHORN's Selenium Browser Testing",
-            path: "/images/metadata/technical-expertise/devops-testing/selenium.png",
-        },
-        soapui: {
-            title: "CHORN's SOAPUI API Testing Tool",
-            path: "/images/metadata/technical-expertise/devops-testing/soapui.png",
-        },
-        appium: {
-            title: "CHORN's Appium Testing Tool",
-            path: "/images/metadata/technical-expertise/devops-testing/appium.png",
         }
     }
 }

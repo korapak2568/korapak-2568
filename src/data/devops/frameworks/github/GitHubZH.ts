@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const GitHubZH: IDevOpsStack = {
     title: "GitHub",
     description: "借助 GitHub 的版本控制和协作平台增强您的开发工作流程。",
-    image: ImageUrl.devopsThumbnails.github.path,
+    image: ImageUrl.devops.frameworks.github.thumbnail,
     alt: "代表 GitHub 技术经验的标志",
     readMore: "了解 GitHub 如何助力高效的 DevOps 测试",
     link: "/technical-expertise/cloud-devops/github",

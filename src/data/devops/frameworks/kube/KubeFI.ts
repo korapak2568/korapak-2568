@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const KubeFI: IDevOpsStack = {
     title: "Kubernetes",
     description: "Automatisoi konttien orkestrointi Kubernetesilla skaalautuvien ja vikasietoisien sovellusten luomiseksi.",
-    image: ImageUrl.devopsThumbnails.kube.path,
+    image: ImageUrl.devops.frameworks.kube.thumbnail,
     alt: "Logo, joka edustaa Kubernetes-teknologiaosaamista",
     readMore: "Tutustu Kubernetesin DevOps-testiratkaisuihin",
     link: "/technical-expertise/cloud-devops/kubernetes",

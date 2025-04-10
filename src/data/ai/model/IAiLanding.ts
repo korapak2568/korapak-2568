@@ -7,7 +7,7 @@ import {IImageUnit} from "@/image/model/IImageUnit";
 export interface IAiLanding {
     name: string;
     category: string;
-    thumbnail: string;
+    thumbnail?: string;
     pages: {
         landing: {
             link: string;

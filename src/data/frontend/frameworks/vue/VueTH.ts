@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const VueTH: IFrontEndStack = {
     title: "Vue",
     description: "สร้างอินเตอร์เฟซเว็บที่ทันสมัยและตอบสนองอย่างรวดเร็วด้วยการออกแบบที่ใช้งานง่ายและยืดหยุ่นของ Vue",
-    image: ImageUrl.frontendThumbnails.vue.path,
+    image: ImageUrl.frontend.frameworks.vue.thumbnail,
     alt: "โลโก้ที่แสดงถึงเฟรมเวิร์ก Vue.js",
     readMore: "สำรวจโซลูชันการพัฒนาฟรอนต์เอนด์ VueJS เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/vue-developer",

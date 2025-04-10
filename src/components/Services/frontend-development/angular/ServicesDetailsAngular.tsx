@@ -25,7 +25,7 @@ export default function ServicesDetailsAngular({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.angular.path}
+                                            src={ImageUrl.frontend.frameworks.angular.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

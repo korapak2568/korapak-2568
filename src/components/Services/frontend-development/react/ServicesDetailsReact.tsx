@@ -25,7 +25,7 @@ export default function ServicesDetailsReact({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.react.path}
+                                            src={ImageUrl.frontend.frameworks.react.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

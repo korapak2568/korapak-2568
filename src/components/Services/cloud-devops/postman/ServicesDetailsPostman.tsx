@@ -25,7 +25,7 @@ export default function ServicesDetailsPostman({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.devopsTesting.postman.path}
+                                            src={ImageUrl.devops.frameworks.postman.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

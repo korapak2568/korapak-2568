@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const NextjsVI: IFrontEndStack = {
     title: "NextJS",
     description: "Tăng cường ứng dụng React của bạn với khả năng render phía máy chủ liền mạch và tạo trang tĩnh để có hiệu suất tối ưu.",
-    image: ImageUrl.frontendThumbnails.nextjs.path,
+    image: ImageUrl.frontend.frameworks.nextjs.thumbnail,
     alt: "Logo đại diện cho framework Next.js",
     readMore: "Khám phá thêm các giải pháp phát triển front-end NextJS",
     link: "/technical-expertise/front-end-developer/nextjs-developer",

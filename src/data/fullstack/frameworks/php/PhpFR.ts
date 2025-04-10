@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const PhpFR: IFullStackStack = {
     title: "PHP",
     description: "PHP est un langage de script côté serveur populaire largement utilisé pour le développement web. Des frameworks comme Symfony, Laravel, Phalcon, et des moteurs de templates comme Twig, ainsi que des plateformes comme WordPress et sa variante headless, ont élevé le développement PHP en fournissant des solutions structurées, efficaces et évolutives pour la création d'applications web complexes.",
-    image: ImageUrl.fullstackThumbnails.php.path,
+    image: ImageUrl.backend.frameworks.php.thumbnail,
     alt: "Logo représentant le langage de programmation PHP",
     readMore: "Explorez plus de solutions de développement full-stack PHP",
     link: "/technical-expertise/full-stack-developer/php-developer",

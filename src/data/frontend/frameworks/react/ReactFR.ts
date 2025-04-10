@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const ReactFR: IFrontEndStack = {
     title: "React",
     description: "Créez sans effort des interfaces utilisateur dynamiques et performantes grâce à l'architecture puissante basée sur les composants de React.",
-    image: ImageUrl.frontendThumbnails.react.path,
+    image: ImageUrl.frontend.frameworks.react.thumbnail,
     alt: "Logo représentant la bibliothèque React.js",
     readMore: "Explorez plus de solutions de développement front-end ReactJS",
     link: "/technical-expertise/front-end-developer/react-developer",

@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const AngularDA: IFrontEndStack = {
     title: "Angular",
     description: "Udvikl robuste, virksomhedsklare webapplikationer med Angulars omfattende og alsidige framework.",
-    image: ImageUrl.frontendThumbnails.angular.path,
+    image: ImageUrl.frontend.frameworks.angular.thumbnail,
     alt: "Logo der repræsenterer Angular-frameworket",
     readMore: "Udforsk flere Angular frontend-udviklingsløsninger",
     link: "/technical-expertise/front-end-developer/angular-developer",

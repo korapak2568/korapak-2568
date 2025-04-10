@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const JavaVI: IFullStackStack = {
     title: "Java, Spring Boot",
     description: "Java là một ngôn ngữ lập trình đa năng cấp cao nổi tiếng với khả năng di động, mạnh mẽ và hiệu suất. Spring Boot là một framework đơn giản hóa việc phát triển các ứng dụng sẵn sàng cho sản xuất. Kotlin, một ngôn ngữ lập trình hiện đại, tương tác với Java, nâng cao năng suất và an toàn.",
-    image: ImageUrl.fullstackThumbnails.java.path,
+    image: ImageUrl.backend.frameworks.java.thumbnail,
     alt: "Logo đại diện cho Java với framework Spring Boot",
     readMore: "Khám phá thêm các giải pháp phát triển full-stack Java Spring Boot",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",

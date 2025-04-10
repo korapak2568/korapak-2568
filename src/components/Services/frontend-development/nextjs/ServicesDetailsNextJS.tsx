@@ -25,7 +25,7 @@ export default function ServicesDetailsNextJS({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.nextjs.path}
+                                            src={ImageUrl.frontend.frameworks.nextjs.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

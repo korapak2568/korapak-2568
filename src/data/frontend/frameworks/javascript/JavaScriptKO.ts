@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const JavaScriptKO: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript는 인터랙티브하고 반응형 웹 애플리케이션을 구축하는 데 널리 사용되는 다재다능하고 동적인 프로그래밍 언어입니다. 유연성과 광범위한 생태계를 갖춘 JavaScript는 현대적인 웹 개발에서 필수적인 도구입니다.",
-    image: ImageUrl.frontendThumbnails.javascript.path,
+    image: ImageUrl.frontend.frameworks.javascript.thumbnail,
     alt: "JavaScript 프로그래밍 언어를 나타내는 로고",
     readMore: "JavaScript 풀스택 개발 솔루션 더 알아보기",
     link: "/technical-expertise/front-end-developer/javascript-developer",

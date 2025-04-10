@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const TypeScriptVI: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScript là một tập cha có kiểu dữ liệu mạnh của JavaScript, bổ sung các kiểu tĩnh, nâng cao trải nghiệm phát triển bằng cách phát hiện lỗi sớm và cải thiện chất lượng mã. Nó biên dịch thành JavaScript thuần túy, khiến nó tương thích với tất cả các trình duyệt và framework.",
-    image: ImageUrl.frontendThumbnails.typescript.path,
+    image: ImageUrl.frontend.frameworks.typescript.thumbnail,
     alt: "Logo đại diện cho ngôn ngữ lập trình TypeScript",
     readMore: "Khám phá thêm các giải pháp phát triển full-stack TypeScript",
     link: "/technical-expertise/front-end-developer/typescript-developer",

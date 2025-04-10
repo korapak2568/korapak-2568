@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const Html5VI: IFrontEndStack = {
     title: "HTML5",
     description: "Làm chủ các tiêu chuẩn mới nhất trong phát triển web cho nội dung phong phú và tương tác.",
-    image: ImageUrl.frontendThumbnails.html5.path,
+    image: ImageUrl.frontend.frameworks.html5.thumbnail,
     alt: "Logo đại diện cho công nghệ HTML5",
     readMore: "Khám phá thêm các giải pháp phát triển front-end HTML5",
     link: "/technical-expertise/front-end-developer/html5-developer",

@@ -25,7 +25,7 @@ export default function ServicesDetailsPhp({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.php.path}
+                                            src={ImageUrl.backend.frameworks.php.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

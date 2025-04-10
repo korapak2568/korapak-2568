@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const Css3TH: IFrontEndStack = {
     title: "CSS3",
     description: "เพิ่มรูปลักษณ์ของเว็บไซต์ของคุณด้วยเทคนิคการจัดรูปแบบขั้นสูงโดยใช้ CSS3",
-    image: ImageUrl.frontendThumbnails.css3.path,
+    image: ImageUrl.frontend.frameworks.css3.thumbnail,
     alt: "โลโก้ที่แสดงถึงเทคโนโลยี CSS3",
     readMore: "สำรวจโซลูชันการพัฒนาฟรอนต์เอนด์ CSS3 เพิ่มเติม",
     link: "/technical-expertise/front-end-developer/css3-developer",

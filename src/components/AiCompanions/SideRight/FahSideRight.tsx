@@ -20,7 +20,7 @@ export default function FahSideRight({lang}: { lang: string }) {
 
                     {InfoTranslation[lang].AiCompanions.fah.relevants.map((ai, index) => (
                         <Link key={index} href={'/' + lang + ai.pages.landing.link}>
-                            <li className="li-sidebar-relevant">
+                            <li className="image-sidebar-list">
                                 <Image
                                     src={ai.thumbnail}
                                     alt="image"

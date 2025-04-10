@@ -25,7 +25,7 @@ export default function ServicesDetailsGitLab({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.devopsTesting.gitlab.path}
+                                            src={ImageUrl.devops.frameworks.gitlab.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

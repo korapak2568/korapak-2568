@@ -8,13 +8,13 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const AiPloyNL: IAiLanding = {
     name: 'Ploy',
     category: 'LINE-Vriend voor Studenten',
-    thumbnail: ImageUrl.ai.ploy.thumbnail.path,
+    thumbnail: ImageUrl.ai.ploy.thumbnail,
     pages: {
         landing: {
             link: '/ai-companions/ploy',
             image: {
                 title: 'พลอย เพื่อนคุยเอไอ',
-                path: ImageUrl.ai.ploy.main.path,
+                path: ImageUrl.ai.ploy.image750,
             }
         }
     },

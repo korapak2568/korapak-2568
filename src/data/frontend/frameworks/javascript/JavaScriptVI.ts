@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const JavaScriptVI: IFrontEndStack = {
     title: "JavaScript",
     description: "JavaScript là ngôn ngữ lập trình linh hoạt và năng động được sử dụng rộng rãi để xây dựng các ứng dụng web tương tác và phản hồi nhanh. Tính linh hoạt và hệ sinh thái rộng lớn của nó làm cho JavaScript trở thành công cụ thiết yếu cho phát triển web hiện đại.",
-    image: ImageUrl.frontendThumbnails.javascript.path,
+    image: ImageUrl.frontend.frameworks.javascript.thumbnail,
     alt: "Logo đại diện cho ngôn ngữ lập trình JavaScript",
     readMore: "Khám phá thêm các giải pháp phát triển full-stack JavaScript",
     link: "/technical-expertise/front-end-developer/javascript-developer",

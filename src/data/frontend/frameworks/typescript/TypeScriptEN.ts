@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const TypeScriptEN: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScript is a strongly-typed superset of JavaScript that adds static types, enhancing the development experience by catching errors early and improving code quality. It compiles to plain JavaScript, making it compatible with all browsers and frameworks.",
-    image: ImageUrl.frontendThumbnails.typescript.path,
+    image: ImageUrl.frontend.frameworks.typescript.thumbnail,
     alt: "Logo representing TypeScript programming language",
     readMore: "Explore more TypeScript full-stack development solutions",
     link: "/technical-expertise/front-end-developer/typescript-developer",

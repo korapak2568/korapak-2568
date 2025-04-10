@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const DockerKO: IDevOpsStack = {
     title: "Docker",
     description: "컨테이너화를 통해 애플리케이션 배포를 간소화하여 일관되고 효율적인 환경을 제공합니다.",
-    image: ImageUrl.devopsThumbnails.docker.path,
+    image: ImageUrl.devops.frameworks.docker.thumbnail,
     alt: "Docker 기술 경험을 나타내는 로고",
     readMore: "효율적인 DevOps 테스트를 위한 Docker 탐색",
     link: "/technical-expertise/cloud-devops/docker",

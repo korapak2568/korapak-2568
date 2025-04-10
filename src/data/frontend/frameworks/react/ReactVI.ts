@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const ReactVI: IFrontEndStack = {
     title: "React",
     description: "Xây dựng giao diện người dùng động, hiệu suất cao một cách dễ dàng với kiến trúc dựa trên component mạnh mẽ của React.",
-    image: ImageUrl.frontendThumbnails.react.path,
+    image: ImageUrl.frontend.frameworks.react.thumbnail,
     alt: "Logo đại diện cho thư viện React.js",
     readMore: "Khám phá thêm các giải pháp phát triển front-end ReactJS",
     link: "/technical-expertise/front-end-developer/react-developer",

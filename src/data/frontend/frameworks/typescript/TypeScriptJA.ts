@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const TypeScriptJA: IFrontEndStack = {
     title: "TypeScript",
     description: "TypeScriptは、静的型付けを追加したJavaScriptの強力な型付けスーパーセットであり、早期にエラーを検出してコード品質を向上させることで開発体験を強化します。プレーンなJavaScriptにコンパイルされるため、すべてのブラウザやフレームワークと互換性があります。",
-    image: ImageUrl.frontendThumbnails.typescript.path,
+    image: ImageUrl.frontend.frameworks.typescript.thumbnail,
     alt: "TypeScriptプログラミング言語を表すロゴ",
     readMore: "TypeScriptフルスタック開発ソリューションをさらに探る",
     link: "/technical-expertise/front-end-developer/typescript-developer",

@@ -25,7 +25,7 @@ export default function ServicesDetailsJavaScript({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.javascript.path}
+                                            src={ImageUrl.frontend.frameworks.javascript.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

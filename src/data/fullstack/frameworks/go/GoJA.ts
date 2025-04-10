@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const GoJA: IFullStackStack = {
     title: "GO",
     description: "Go（Golangとしても知られる）は、Googleによって設計された静的型付けのコンパイル言語です。シンプルさ、効率性、そして強力な並行処理のサポートで知られており、マイクロサービスの開発に理想的な選択肢です。",
-    image: ImageUrl.fullstackThumbnails.go.path,
+    image: ImageUrl.backend.frameworks.go.thumbnail,
     alt: "Goプログラミング言語を表すロゴ",
     readMore: "さらに多くのGoフルスタック開発ソリューションを探索する",
     link: "/technical-expertise/full-stack-developer/go-developer",

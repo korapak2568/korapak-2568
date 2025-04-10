@@ -25,7 +25,7 @@ export default function ServicesDetailsJenkins({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.devopsTesting.jenkins.path}
+                                            src={ImageUrl.devops.frameworks.jenkins.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

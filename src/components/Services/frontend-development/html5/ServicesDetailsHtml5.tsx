@@ -25,7 +25,7 @@ export default function ServicesDetailsHtml5({lang}: { lang: string }) {
                                 <div className="services-details-features">
                                     <div className="row align-items-center">
                                         <Image
-                                            src={ImageUrl.serviceDetails.html5.path}
+                                            src={ImageUrl.frontend.frameworks.html5.image1200}
                                             alt="image"
                                             width={500}
                                             height={500}

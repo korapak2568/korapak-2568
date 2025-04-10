@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const Html5NL: IFrontEndStack = {
     title: "HTML5",
     description: "Beheers de nieuwste standaarden in webontwikkeling voor rijke, interactieve inhoud.",
-    image: ImageUrl.frontendThumbnails.html5.path,
+    image: ImageUrl.frontend.frameworks.html5.thumbnail,
     alt: "Logo dat HTML5-technologie vertegenwoordigt",
     readMore: "Ontdek meer HTML5 front-end ontwikkelingsoplossingen",
     link: "/technical-expertise/front-end-developer/html5-developer",

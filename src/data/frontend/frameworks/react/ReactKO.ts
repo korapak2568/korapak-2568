@@ -4,7 +4,7 @@ import { ImageUrl } from "@/image/ImageUrl";
 export const ReactKO: IFrontEndStack = {
     title: "React",
     description: "React의 강력한 컴포넌트 기반 아키텍처를 활용하여 동적이고 고성능의 사용자 인터페이스를 쉽게 구축하세요.",
-    image: ImageUrl.frontendThumbnails.react.path,
+    image: ImageUrl.frontend.frameworks.react.thumbnail,
     alt: "React.js 라이브러리를 나타내는 로고",
     readMore: "ReactJS 프론트엔드 개발 솔루션 더 알아보기",
     link: "/technical-expertise/front-end-developer/react-developer",

@@ -4,56 +4,50 @@ import {IImageResponsiveUnit} from "@/image/model/IImageResponsiveUnit";
 
 export interface IImageUrl {
     frontend: {
-        side: IImageResponsiveUnit[]
+        side: IImageResponsiveUnit[],
+        frameworks: {
+            angular: IImageResponsiveUnit,
+            css3: IImageResponsiveUnit,
+            html5: IImageResponsiveUnit,
+            nextjs: IImageResponsiveUnit,
+            react: IImageResponsiveUnit,
+            typescript: IImageResponsiveUnit,
+            vue: IImageResponsiveUnit,
+            javascript: IImageResponsiveUnit,
+        },
     },
     backend: {
-        side: IImageResponsiveUnit[]
+        side: IImageResponsiveUnit[],
+        frameworks: {
+            dotnetcore: IImageResponsiveUnit,
+            go: IImageResponsiveUnit,
+            java: IImageResponsiveUnit,
+            nodejs: IImageResponsiveUnit,
+            php: IImageResponsiveUnit,
+            python: IImageResponsiveUnit,
+        },
+    },
+    devops: {
+        side: IImageResponsiveUnit[],
+        frameworks: {
+            appium: IImageResponsiveUnit,
+            docker: IImageResponsiveUnit,
+            github: IImageResponsiveUnit,
+            gitlab: IImageResponsiveUnit,
+            jenkins: IImageResponsiveUnit,
+            kube: IImageResponsiveUnit,
+            postman: IImageResponsiveUnit,
+            selenium: IImageResponsiveUnit,
+            soapui: IImageResponsiveUnit,
+        },
     },
     web3: {
         side: IImageResponsiveUnit[]
     },
-    devopsThumbnails: {
-        appium: IImageUnit,
-        docker: IImageUnit,
-        github: IImageUnit,
-        gitlab: IImageUnit,
-        jenkins: IImageUnit,
-        kube: IImageUnit,
-        postman: IImageUnit,
-        selenium: IImageUnit,
-        soapui: IImageUnit,
-    },
-    fullstackThumbnails: {
-        dotnetcore: IImageUnit,
-        go: IImageUnit,
-        java: IImageUnit,
-        nodejs: IImageUnit,
-        php: IImageUnit,
-        python: IImageUnit,
-    },
-    frontendThumbnails: {
-        angular: IImageUnit,
-        css3: IImageUnit,
-        html5: IImageUnit,
-        nextjs: IImageUnit,
-        react: IImageUnit,
-        typescript: IImageUnit,
-        vue: IImageUnit,
-        javascript: IImageUnit,
-    },
     ai: {
-        fah: {
-            main: IImageUnit,
-            thumbnail: IImageUnit,
-        },
-        aom: {
-            main: IImageUnit,
-            thumbnail: IImageUnit,
-        },
-        ploy: {
-            main: IImageUnit,
-            thumbnail: IImageUnit,
-        },
+        fah: IImageResponsiveUnit,
+        aom: IImageResponsiveUnit,
+        ploy: IImageResponsiveUnit,
     },
     shape: {
         default: {
@@ -118,32 +112,5 @@ export interface IImageUrl {
     line: {
         qrcode: IImageUnit,
         icon: IImageLink,
-    },
-    serviceDetails: {
-        nextjs: IImageUnit,
-        react: IImageUnit,
-        angular: IImageUnit,
-        vue: IImageUnit,
-        html5: IImageUnit,
-        css3: IImageUnit,
-        nodejs: IImageUnit,
-        typescript: IImageUnit,
-        javascript: IImageUnit,
-        dotnetcore: IImageUnit,
-        java: IImageUnit,
-        python: IImageUnit,
-        go: IImageUnit,
-        php: IImageUnit,
-    },
-    devopsTesting: {
-        docker: IImageUnit,
-        kubernetes: IImageUnit,
-        github: IImageUnit,
-        gitlab: IImageUnit,
-        jenkins: IImageUnit,
-        postman: IImageUnit,
-        selenium: IImageUnit,
-        soapui: IImageUnit,
-        appium: IImageUnit,
     }
 }

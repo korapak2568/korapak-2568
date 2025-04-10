@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const DotnetFI: IFullStackStack = {
     title: ".NET Core",
     description: ".NET Core on monipuolinen, avoimen lähdekoodin, monialustainen kehys, jonka on kehittänyt Microsoft. Sen avulla kehittäjät voivat rakentaa moderneja, suorituskykyisiä ja skaalautuvia sovelluksia eri alustoilla, kuten Windows, macOS ja Linux. Tukea tarjoavat web-sovellusten, API:en ja mikropalveluiden rakentaminen, ja .NET Core tarjoaa vankan ympäristön yritystason ratkaisuille.",
-    image: ImageUrl.fullstackThumbnails.dotnetcore.path,
+    image: ImageUrl.backend.frameworks.dotnetcore.thumbnail,
     alt: "Logo representing .NET Core API development",
     readMore: "Tutustu lisää .NET Core API -full-stack-kehitysrRatkaisuihin",
     link: "/technical-expertise/full-stack-developer/dotnetcore-developer",

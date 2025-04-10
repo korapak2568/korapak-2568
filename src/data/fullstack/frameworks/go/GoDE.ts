@@ -4,7 +4,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const GoDE: IFullStackStack = {
     title: "GO",
     description: "Go, auch bekannt als Golang, ist eine statisch typisierte, kompilierte Programmiersprache, die von Google entwickelt wurde. Sie ist bekannt für ihre Einfachheit, Effizienz und starke Unterstützung für Nebenläufigkeit, was sie zur idealen Wahl für die Entwicklung von Microservices macht.",
-    image: ImageUrl.fullstackThumbnails.go.path,
+    image: ImageUrl.backend.frameworks.go.thumbnail,
     alt: "Logo der Programmiersprache Go",
     readMore: "Entdecken Sie weitere Full-Stack-Entwicklungslösungen mit Go",
     link: "/technical-expertise/full-stack-developer/go-developer",

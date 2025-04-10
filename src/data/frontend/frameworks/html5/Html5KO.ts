@@ -4,7 +4,7 @@ import { ImageUrl } from "@/image/ImageUrl";
 export const Html5KO: IFrontEndStack = {
     title: "HTML5",
     description: "최신 웹 개발 표준을 익히고 풍부하고 인터랙티브한 콘텐츠를 제작하세요.",
-    image: ImageUrl.frontendThumbnails.html5.path,
+    image: ImageUrl.frontend.frameworks.html5.thumbnail,
     alt: "HTML5 기술을 나타내는 로고",
     readMore: "HTML5 프론트엔드 개발 솔루션 더 알아보기",
     link: "/technical-expertise/front-end-developer/html5-developer",
