@@ -2,54 +2,49 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/image/ImageUrl";
 
 export const JavaJA: IFullStackStack = {
-    title: "Java, Spring Boot",
-    description: "Javaは、移植性、堅牢性、パフォーマンスで知られる多目的な高級プログラミング言語です。Spring Bootは、本番環境対応のアプリケーション開発を簡素化するフレームワークです。Kotlinは現代的なプログラミング言語で、Javaと相互運用し、生産性と安全性を向上させます。",
+    title: "Java開発",
+    description: "Javaは移植性、堅牢性、パフォーマンスに優れた多用途な高級プログラミング言語です。Spring Bootは、本番環境向けアプリケーションの開発を簡素化するフレームワークです。",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Spring BootフレームワークとJavaを表すロゴ",
-    readMore: "Java Spring Bootフルスタック開発ソリューションをさらに探る",
+    alt: "JavaとSpring Bootフレームワーク開発",
+    readMore: "Java Spring Boot フルスタック開発ソリューションをさらに詳しく見る",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java Spring Boot開発",
-            description: "Javaは、移植性、堅牢性、パフォーマンスで知られる多目的な高級プログラミング言語です。Spring Bootは、本番環境対応のアプリケーション開発を簡素化するフレームワークです。Kotlinは現代的なプログラミング言語で、Javaと相互運用し、生産性と安全性を向上させます。",
+            title: "Java開発",
+            description: "Javaは移植性、堅牢性、パフォーマンスに優れた多用途な高級プログラミング言語です。Spring Bootは、本番環境向けアプリケーションの開発を簡素化するフレームワークです。",
             list: []
         },
         {
-            title: "堅牢なエコシステム",
-            description: "JavaとSpring Bootの組み合わせは、スケーラブルで安全かつ高性能なアプリケーションを構築するための堅牢なエコシステムを提供します。Spring Bootはセットアップと開発プロセスを簡素化し、迅速な開発とデプロイメントを可能にします。",
+            title: "強力なエコシステム",
+            description: "JavaとSpring Bootを組み合わせることで、拡張性が高く、安全で高性能なアプリケーションを構築できる強力なエコシステムを提供します。Spring Bootは構成や開発プロセスを簡素化し、迅速な開発と展開を可能にします。",
             list: [
                 "堅牢でスケーラブル",
                 "成熟したエコシステム",
                 "オブジェクト指向",
-                "Spring Bootフレームワーク",
-                "Kotlin統合",
-                "高性能",
-                "エンタープライズグレードアプリケーション"
+                "Spring Boot フレームワーク",
+                "高パフォーマンス",
+                "エンタープライズ対応アプリケーション"
             ]
         },
         {
-            title: "現代的な言語機能",
-            description: "Kotlinはnull安全性、拡張関数、コルーチンなどの現代的な言語機能を提供し、新しいプロジェクトに好まれる選択肢となっています。Javaとのシームレスな相互運用性により、開発者はKotlinの強化を享受しながら、既存のJavaライブラリやフレームワークを活用できます。",
+            title: "最新の開発機能",
+            description: "Javaは常に進化しており、生産性、型安全性、効率的な開発を支援する最新の機能、ライブラリ、ツールを提供しています。",
             list: []
         },
         {
-            title: "エンタープライズグレードソリューション",
-            description: "JavaとSpring Bootは、その信頼性とスケーラビリティから企業環境で広く使用されています。これらの技術は様々な業界でミッションクリティカルなアプリケーションを支え、大規模な運用を容易に処理できることを保証します。",
+            title: "エンタープライズ向けソリューション",
+            description: "JavaとSpring Bootはその信頼性とスケーラビリティにより、企業環境で広く使用されています。さまざまな業界の重要なアプリケーションを支えています。",
             list: []
         }
     ],
     faqs: [
         {
-            question: "Spring Bootとは何ですか？",
-            answer: "Spring Bootは、スタンドアロンの本番環境対応のSpringベースアプリケーションを構築するためのフレームワークです。"
-        },
-        {
-            question: "なぜJavaとKotlinを使用するのですか？",
-            answer: "KotlinはJavaと完全に相互運用でき、より簡潔で安全なコードのための現代的な言語機能を提供します。"
+            question: "Spring Bootとは？",
+            answer: "Spring Bootは、独立型で本番対応のSpringベースのアプリケーションを構築するためのフレームワークです。"
         },
         {
             question: "Javaの利点は何ですか？",
-            answer: "Javaは、エンタープライズアプリケーション向けの堅牢性、スケーラビリティ、および広範なエコシステムで知られています。"
+            answer: "Javaは、その堅牢性、スケーラビリティ、そしてエンタープライズアプリケーションに適した豊富なエコシステムで知られています。"
         }
-    ],
+    ]
 }

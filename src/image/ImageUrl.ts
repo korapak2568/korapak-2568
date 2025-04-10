@@ -452,15 +452,15 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/gallery/chorn-global-002-image-375.webp",
                 image750: "/images/gallery/chorn-global-002-image-750.webp",
                 image1200: "/images/gallery/chorn-global-002-image-1200.webp",
-                large: "/images/gallery/chorn-global-002-optimize.webp",
+                large: "/images/gallery/chorn-global-002-large.webp",
                 thumbnail: ""
             },
             {
                 title: "CHORN global slide-2",
-                image375: "/images/gallery/chorn-global-003-image-375.webp",
-                image750: "/images/gallery/chorn-global-003-image-750.webp",
-                image1200: "/images/gallery/chorn-global-003-image-1200.webp",
-                large: "/images/gallery/chorn-global-003-optimize.webp",
+                image375: "/images/gallery/chorn-global-003-image-375-1.webp",
+                image750: "/images/gallery/chorn-global-003-image-750-1.webp",
+                image1200: "/images/gallery/chorn-global-003-image-1200-1.webp",
+                large: "/images/gallery/chorn-global-003-large-1.webp",
                 thumbnail: ""
             },
             {
@@ -468,7 +468,7 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/gallery/chorn-global-004-image-375.webp",
                 image750: "/images/gallery/chorn-global-004-image-750.webp",
                 image1200: "/images/gallery/chorn-global-004-image-1200.webp",
-                large: "/images/gallery/chorn-global-004-optimize.webp",
+                large: "/images/gallery/chorn-global-004-large.webp",
                 thumbnail: ""
             },
             {
@@ -476,7 +476,7 @@ export const ImageUrl: IImageUrl = {
                 image375: "/images/gallery/chorn-global-005-image-375.webp",
                 image750: "/images/gallery/chorn-global-005-image-750.webp",
                 image1200: "/images/gallery/chorn-global-005-image-1200.webp",
-                large: "/images/gallery/chorn-global-005-optimize.webp",
+                large: "/images/gallery/chorn-global-005-large.webp",
                 thumbnail: ""
             },
         ]

@@ -1,12 +1,12 @@
 import React from "react";
 import ServiceFaqDocker from "./ServiceFaqDocker";
 import Image from "next/image";
-import SidebarDevOps from "@/components/Services/SidebarDevOps";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFullStack from "@/components/Services/SidebarFullStack";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
+import SidebarDevOps from "@/components/Services/SidebarDevOps";
 
 export default function ServicesDetailsDocker({lang}: { lang: string }) {
     return (

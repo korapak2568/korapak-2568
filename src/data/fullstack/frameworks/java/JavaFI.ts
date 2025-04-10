@@ -2,54 +2,49 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import { ImageUrl } from "@/image/ImageUrl";
 
 export const JavaFI: IFullStackStack = {
-    title: "Java, Spring Boot",
-    description: "Java on monipuolinen, korkean tason ohjelmointikieli, joka tunnetaan sen siirrettävyydestä, luotettavuudesta ja suorituskyvystä. Spring Boot on kehys, joka yksinkertaistaa tuotantovalmiiden sovellusten kehittämistä. Kotlin, moderni ohjelmointikieli, on yhteensopiva Java:n kanssa, mikä parantaa tuottavuutta ja turvallisuutta.",
+    title: "Java-kehitys",
+    description: "Java on monipuolinen, korkean tason ohjelmointikieli, joka tunnetaan siirrettävyydestään, vankkuudestaan ja suorituskyvystään. Spring Boot on kehys, joka yksinkertaistaa tuotantovalmiiden sovellusten kehittämistä.",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Logo representing Java with Spring Boot framework",
-    readMore: "Tutustu lisää Java Spring Boot full-stack kehitysrRatkaisuihin",
+    alt: "Java- ja Spring Boot -kehyskehitys",
+    readMore: "Tutustu lisää Java Spring Boot -täyspinoiseen kehitysratkaisuun",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java Spring Boot Kehitys",
-            description: "Java on monipuolinen, korkean tason ohjelmointikieli, joka tunnetaan sen siirrettävyydestä, luotettavuudesta ja suorituskyvystä. Spring Boot on kehys, joka yksinkertaistaa tuotantovalmiiden sovellusten kehittämistä. Kotlin, moderni ohjelmointikieli, on yhteensopiva Java:n kanssa, mikä parantaa tuottavuutta ja turvallisuutta.",
+            title: "Java-kehitys",
+            description: "Java on monipuolinen, korkean tason ohjelmointikieli, joka tunnetaan siirrettävyydestään, vankkuudestaan ja suorituskyvystään. Spring Boot on kehys, joka yksinkertaistaa tuotantovalmiiden sovellusten kehittämistä.",
             list: []
         },
         {
-            title: "Vankka Ekosysteemi",
-            description: "Java ja Spring Boot yhdistelmä tarjoaa vankan ekosysteemin skaalautuvien, turvallisten ja korkean suorituskyvyn sovellusten rakentamiseen. Spring Boot yksinkertaistaa asetusten ja kehityksen prosessia, mahdollistaen nopean kehityksen ja käyttöönoton.",
+            title: "Vahva ekosysteemi",
+            description: "Java ja Spring Boot yhdessä tarjoavat vahvan ekosysteemin skaalautuvien, turvallisten ja suorituskykyisten sovellusten kehittämiseen. Spring Boot nopeuttaa kehitystä yksinkertaistamalla asennusta ja käyttöönottoa.",
             list: [
-                "Vankka ja skaalautuva",
+                "Vahva ja skaalautuva",
                 "Kypsä ekosysteemi",
-                "Objektiorientoitunut",
-                "Spring Boot kehys",
-                "Kotlin integraatio",
+                "Oliopohjainen",
+                "Spring Boot -kehys",
                 "Korkea suorituskyky",
                 "Yritystason sovellukset"
             ]
         },
         {
-            title: "Modernit Kielen Ominaisuudet",
-            description: "Kotlin tarjoaa moderneja kieliominaisuuksia, kuten null-turvallisuuden, laajennusfunktiot ja korutiinit, mikä tekee siitä suosikin uusille projekteille. Sen saumaton yhteensopivuus Java:n kanssa antaa kehittäjille mahdollisuuden hyödyntää olemassa olevia Java-kirjastoja ja -kehyksiä samalla nauttien Kotlinin parannuksista.",
+            title: "Modernit kehitysominaisuudet",
+            description: "Java kehittyy jatkuvasti ja tarjoaa moderneja ominaisuuksia, kirjastoja ja työkaluja, jotka parantavat tuottavuutta, tyyppiturvallisuutta ja tehokasta kehitystyötä.",
             list: []
         },
         {
-            title: "Yritystason Ratkaisut",
-            description: "Java ja Spring Boot ovat laajasti käytössä yritysympäristöissä niiden luotettavuuden ja skaalautuvuuden vuoksi. Nämä teknologiat tukevat kriittisiä sovelluksia eri teollisuudenaloilla, varmistaen, että ne pystyvät käsittelemään suuria operaatioita vaivattomasti.",
+            title: "Yritystason ratkaisut",
+            description: "Javaa ja Spring Bootia käytetään laajalti yritysympäristöissä niiden luotettavuuden ja skaalautuvuuden ansiosta. Nämä teknologiat tukevat kriittisiä sovelluksia eri toimialoilla ja suoriutuvat vaativista tehtävistä tehokkaasti.",
             list: []
         }
     ],
     faqs: [
         {
             question: "Mikä on Spring Boot?",
-            answer: "Spring Boot on kehys itsenäisten, tuotantovalmiiden Spring-pohjaisten sovellusten rakentamiseen."
+            answer: "Spring Boot on kehys, jonka avulla voidaan luoda itsenäisiä, tuotantovalmiita Spring-pohjaisia sovelluksia."
         },
         {
-            question: "Miksi käyttää Kotlinia Java:n kanssa?",
-            answer: "Kotlin on täysin yhteensopiva Java:n kanssa ja tarjoaa moderneja kieliominaisuuksia tiiviimpään ja turvallisempaan koodiin."
-        },
-        {
-            question: "Mitkä ovat Java:n edut?",
-            answer: "Java tunnetaan sen luotettavuudesta, skaalautuvuudesta ja laajasta ekosysteemistä yrityssovelluksia varten."
+            question: "Mitkä ovat Javan edut?",
+            answer: "Java tunnetaan vankkuudestaan, skaalautuvuudestaan ja laajasta ekosysteemistään, joka soveltuu erityisesti yrityssovelluksiin."
         }
-    ],
+    ]
 }

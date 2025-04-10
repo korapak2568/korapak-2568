@@ -2,62 +2,49 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/image/ImageUrl";
 
 export const JavaDA: IFullStackStack = {
-    title: ".NET Core",
-    description: ".NET Core is a versatile, open-source, cross-platform framework developed by Microsoft. It allows developers to build modern, high-performance, and scalable applications across various platforms, including Windows, macOS, and Linux. With support for building web applications, APIs, and microservices, .NET Core provides a robust environment for enterprise-level solutions.",
+    title: "Java-udvikling",
+    description: "Java er et alsidigt programmeringssprog på højt niveau, kendt for dets portabilitet, robusthed og ydeevne. Spring Boot er et framework, der forenkler udviklingen af produktionsklare applikationer.",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Logo representing .NET Core API development",
-    readMore: "Explore more .NET Core API full-stack development solutions",
-    link: "/technical-expertise/full-stack-developer/dotnetcore-developer",
+    alt: "Udvikling med Java og Spring Boot framework",
+    readMore: "Udforsk flere Java Spring Boot full-stack udviklingsløsninger",
+    link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: ".NET Core Development",
-            description: ".NET Core is a powerful, open-source framework for building high-performance applications. With a modular design and support for various programming languages, .NET Core is ideal for developing scalable web applications, APIs, and microservices that can run on any platform.",
+            title: "Java-udvikling",
+            description: "Java er et alsidigt programmeringssprog på højt niveau, kendt for dets portabilitet, robusthed og ydeevne. Spring Boot er et framework, der forenkler udviklingen af produktionsklare applikationer.",
             list: []
         },
         {
-            title: "ASP.NET Core",
-            description: "ASP.NET Core is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It is particularly suited for building web applications, APIs, and microservices with a focus on performance, security, and scalability.",
+            title: "Robust økosystem",
+            description: "Kombinationen af Java og Spring Boot giver et robust økosystem til at bygge skalerbare, sikre og højtydende applikationer. Spring Boot forenkler konfigurationen og muliggør hurtig udvikling og implementering.",
             list: [
-                "Cross-platform",
-                "High performance",
-                "Built-in dependency injection",
-                "Modular architecture",
-                "Unified MVC and Web API framework",
-                "Supports Razor Pages",
-                "Secure authentication and authorization"
+                "Robust og skalerbar",
+                "Modent økosystem",
+                "Objektorienteret",
+                "Spring Boot framework",
+                "Høj ydeevne",
+                "Enterprise-applikationer"
             ]
         },
         {
-            title: ".NET Core API",
-            description: ".NET Core API provides developers with the tools to build RESTful technical-expertise and APIs that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. Its lightweight, modular design ensures high performance and easy integration with other technical-expertise.",
+            title: "Moderne funktioner",
+            description: "Java udvikler sig konstant og tilbyder moderne funktioner, biblioteker og værktøjer, som forbedrer produktivitet, typesikkerhed og effektiv udvikling.",
             list: []
         },
         {
-            title: ".NET Core",
-            description: ".NET Core is the primary language used for developing applications in .NET Core. Known for its simplicity, versatility, and modern features, C# allows developers to build robust, maintainable, and scalable applications with ease.",
-            list: [
-                "Modern syntax",
-                "Object-oriented",
-                "Rich standard library",
-                "Supports asynchronous programming",
-                "LINQ support",
-                "Cross-platform compatibility",
-                "Interoperability with other .NET languages"
-            ]
+            title: "Enterprise-løsninger",
+            description: "Java og Spring Boot bruges bredt i erhvervsmæssige miljøer på grund af deres pålidelighed og skalerbarhed. De understøtter forretningskritiske applikationer i mange brancher.",
+            list: []
         }
     ],
     faqs: [
         {
-            question: "What is .NET Core?",
-            answer: ".NET Core is an open-source, cross-platform framework for building modern applications that run on Windows, macOS, and Linux."
+            question: "Hvad er Spring Boot?",
+            answer: "Spring Boot er et framework til at bygge selvstændige, produktionsklare Spring-baserede applikationer."
         },
         {
-            question: "What is ASP.NET Core used for?",
-            answer: "ASP.NET Core is a framework for building web applications, APIs, and microservices with high performance and cross-platform capabilities."
-        },
-        {
-            question: "What makes .NET Core a good choice for development?",
-            answer: "C# is a modern, versatile programming language that offers a wide range of features, making it ideal for developing scalable, maintainable applications in .NET Core."
+            question: "Hvad er fordelene ved Java?",
+            answer: "Java er kendt for sin robusthed, skalerbarhed og omfattende økosystem til enterprise-applikationer."
         }
-    ],
+    ]
 }

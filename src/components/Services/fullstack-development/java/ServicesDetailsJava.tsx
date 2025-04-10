@@ -6,7 +6,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
 import SidebarFrontEnd from "@/components/Services/SidebarFrontEnd";
 import SidebarDevOps from "@/components/Services/SidebarDevOps";
-import ServiceFaqPython from "@/components/Services/fullstack-development/python/ServiceFaqPython";
+import ServiceFaqJava from "@/components/Services/fullstack-development/java/ServiceFaqJava";
 
 export default function ServicesDetailsJava({lang}: { lang: string }) {
     return (
@@ -56,7 +56,7 @@ export default function ServicesDetailsJava({lang}: { lang: string }) {
                                 <h3>{InfoTranslation[lang].FullStack.java.features[3].title}</h3>
                                 <p>{InfoTranslation[lang].FullStack.java.features[3].description}</p>
 
-                                <ServiceFaqPython lang={lang}/>
+                                <ServiceFaqJava lang={lang}/>
                             </div>
                         </div>
 

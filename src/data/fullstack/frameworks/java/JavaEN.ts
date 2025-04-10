@@ -2,16 +2,16 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/image/ImageUrl";
 
 export const JavaEN: IFullStackStack = {
-    title: "Java, Spring Boot",
-    description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
+    title: "Java Development",
+    description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications.",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Logo representing Java with Spring Boot framework",
+    alt: "Java and spring boot framework development",
     readMore: "Explore more Java Spring Boot full-stack development solutions",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java Spring Boot Development",
-            description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications. Kotlin, a modern programming language, interoperates with Java, enhancing productivity and safety.",
+            title: "Java Development",
+            description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications.",
             list: []
         },
         {
@@ -22,14 +22,13 @@ export const JavaEN: IFullStackStack = {
                 "Mature ecosystem",
                 "Object-oriented",
                 "Spring Boot framework",
-                "Kotlin integration",
                 "High performance",
                 "Enterprise-grade applications"
             ]
         },
         {
-            title: "Modern Languages HomeFeatureMain",
-            description: "Kotlin offers modern language features such as null safety, extension functions, and coroutines, making it a preferred choice for new projects. Its seamless interoperability with Java allows developers to leverage existing Java libraries and frameworks while enjoying Kotlin's enhancements.",
+            title: "Modern Development Features",
+            description: "Java continues to evolve with modern features, libraries, and tools that support high productivity, strong type safety, and efficient development workflows.",
             list: []
         },
         {
@@ -44,12 +43,8 @@ export const JavaEN: IFullStackStack = {
             answer: "Spring Boot is a framework for building stand-alone, production-grade Spring-based applications."
         },
         {
-            question: "Why use Kotlin with Java?",
-            answer: "Kotlin is fully interoperable with Java and offers modern language features for more concise and safer code."
-        },
-        {
             question: "What are the advantages of Java?",
             answer: "Java is known for its robustness, scalability, and extensive ecosystem for enterprise applications."
         }
-    ],
+    ]
 }

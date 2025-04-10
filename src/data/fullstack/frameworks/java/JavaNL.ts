@@ -2,54 +2,49 @@ import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {ImageUrl} from "@/image/ImageUrl";
 
 export const JavaNL: IFullStackStack = {
-    title: "Java, Spring Boot",
-    description: "Java is een veelzijdige, hoogwaardige programmeertaal die bekend staat om zijn draagbaarheid, robuustheid en prestaties. Spring Boot is een framework dat de ontwikkeling van productierijpe applicaties vereenvoudigt. Kotlin, een moderne programmeertaal, werkt samen met Java en verbetert productiviteit en veiligheid.",
+    title: "Java-ontwikkeling",
+    description: "Java is een veelzijdige, high-level programmeertaal die bekend staat om zijn draagbaarheid, robuustheid en prestaties. Spring Boot is een framework dat het ontwikkelen van productieklare applicaties vereenvoudigt.",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Logo dat Java met Spring Boot-framework vertegenwoordigt",
+    alt: "Java- en Spring Boot-framework ontwikkeling",
     readMore: "Ontdek meer Java Spring Boot full-stack ontwikkelingsoplossingen",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java Spring Boot Ontwikkeling",
-            description: "Java is een veelzijdige, hoogwaardige programmeertaal die bekend staat om zijn draagbaarheid, robuustheid en prestaties. Spring Boot is een framework dat de ontwikkeling van productierijpe applicaties vereenvoudigt. Kotlin, een moderne programmeertaal, werkt samen met Java en verbetert productiviteit en veiligheid.",
+            title: "Java-ontwikkeling",
+            description: "Java is een veelzijdige, high-level programmeertaal die bekend staat om zijn draagbaarheid, robuustheid en prestaties. Spring Boot is een framework dat het ontwikkelen van productieklare applicaties vereenvoudigt.",
             list: []
         },
         {
-            title: "Robuust Ecosysteem",
-            description: "De combinatie van Java en Spring Boot biedt een robuust ecosysteem voor het bouwen van schaalbare, veilige en hoogwaardige applicaties. Spring Boot vereenvoudigt het opzet- en ontwikkelingsproces, waardoor snelle ontwikkeling en implementatie mogelijk wordt.",
+            title: "Robuust ecosysteem",
+            description: "De combinatie van Java en Spring Boot biedt een krachtig ecosysteem voor het bouwen van schaalbare, veilige en krachtige applicaties. Spring Boot vereenvoudigt de configuratie en versnelt de ontwikkeling en implementatie.",
             list: [
                 "Robuust en schaalbaar",
-                "Volwassen ecosysteem",
+                "Volgroeid ecosysteem",
                 "Objectgeoriënteerd",
-                "Spring Boot framework",
-                "Kotlin integratie",
+                "Spring Boot-framework",
                 "Hoge prestaties",
                 "Enterprise-grade applicaties"
             ]
         },
         {
-            title: "Moderne Taalfuncties",
-            description: "Kotlin biedt moderne taalfuncties zoals null-veiligheid, extensiefuncties en coroutines, waardoor het een voorkeursoptie is voor nieuwe projecten. De naadloze interoperabiliteit met Java stelt ontwikkelaars in staat om bestaande Java-bibliotheken en -frameworks te benutten terwijl ze profiteren van Kotlin's verbeteringen.",
+            title: "Moderne functies",
+            description: "Java blijft zich ontwikkelen en biedt moderne functies, bibliotheken en tools voor productieve, veilige en efficiënte ontwikkeling.",
             list: []
         },
         {
-            title: "Enterprise-Grade Oplossingen",
-            description: "Java en Spring Boot worden veel gebruikt in bedrijfsomgevingen vanwege hun betrouwbaarheid en schaalbaarheid. Deze technologieën ondersteunen bedrijfskritische applicaties in verschillende industrieën, en zorgen ervoor dat ze grootschalige operaties moeiteloos kunnen verwerken.",
+            title: "Enterprise-oplossingen",
+            description: "Java en Spring Boot worden veel gebruikt in bedrijfsomgevingen vanwege hun betrouwbaarheid en schaalbaarheid. Ze ondersteunen bedrijfskritische applicaties in diverse sectoren.",
             list: []
         }
     ],
     faqs: [
         {
             question: "Wat is Spring Boot?",
-            answer: "Spring Boot is een framework voor het bouwen van zelfstandige, productierijpe Spring-gebaseerde applicaties."
-        },
-        {
-            question: "Waarom Kotlin gebruiken met Java?",
-            answer: "Kotlin is volledig interoperabel met Java en biedt moderne taalfuncties voor beknoptere en veiligere code."
+            answer: "Spring Boot is een framework voor het bouwen van zelfstandige, productieklare Spring-gebaseerde applicaties."
         },
         {
             question: "Wat zijn de voordelen van Java?",
             answer: "Java staat bekend om zijn robuustheid, schaalbaarheid en uitgebreide ecosysteem voor bedrijfsapplicaties."
         }
-    ],
+    ]
 }
