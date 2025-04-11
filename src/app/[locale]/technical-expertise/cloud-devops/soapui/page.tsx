@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
+import FooterMain from "@/components/Footer/FooterMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsSoapUI from "@/components/Services/cloud-devops/soapui/ServicesDetailsSoapUI";
 import {Metadata} from "next";
@@ -21,7 +21,7 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsSoapUI lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
+            <FooterMain lang={lang}/>
             <SchemaMarkupServicePage
                 name="SoapUI Testing Services | CHORN"
                 description="CHORN provides expert SoapUI testing services to ensure your web services and APIs are thoroughly tested and reliable."

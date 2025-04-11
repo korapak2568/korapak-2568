@@ -1,7 +1,7 @@
 import {ISitemapChorn} from "@/lib/model/ISitemapChorn";
 import {ImageUrl} from "@/image/ImageUrl";
 
-export const SitemapChorns: ISitemapChorn[] = [
+export const SitemapMain: ISitemapChorn[] = [
     {
         url: '', images: [
             {path: ImageUrl.home.slides[0].image750},

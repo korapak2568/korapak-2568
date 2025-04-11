@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
+import FooterMain from "@/components/Footer/FooterMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsKubernetes from "@/components/Services/cloud-devops/kubernetes/ServicesDetailsKubernetes";
 import {Metadata} from "next";
@@ -21,7 +21,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsKubernetes lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="Kubernetes DevOps Services | CHORN"
                 description="CHORN provides Kubernetes-based DevOps services for automating deployment, scaling, and management of containerized applications."

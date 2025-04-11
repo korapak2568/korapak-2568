@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
+import FooterMain from "@/components/Footer/FooterMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsJenkins from "@/components/Services/cloud-devops/jenkins/ServicesDetailsJenkins";
 import {Metadata} from "next";
@@ -21,7 +21,7 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsJenkins lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
+            <FooterMain lang={lang}/>
             <SchemaMarkupServicePage
                 name="Jenkins DevOps Services | CHORN"
                 description="CHORN offers Jenkins-based DevOps services for automating builds, testing, and deployment in your development pipeline."

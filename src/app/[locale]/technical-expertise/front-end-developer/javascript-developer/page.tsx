@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsJavaScript
     from "@/components/Services/frontend-development/javascript/ServicesDetailsJavaScript";
 import CloudExperience from "@/components/Common/CloudExperience";
@@ -22,7 +21,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsJavaScript lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="JavaScript | CHORN - Custom Software Development Experts"
                 description="Learn how CHORN leverages JavaScript to build scalable, robust, and efficient custom software solutions for businesses across industries."

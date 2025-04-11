@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsReact from "@/components/Services/frontend-development/react/ServicesDetailsReact";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -21,7 +20,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsReact lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="React Development Services | CHORN"
                 description="CHORN provides top-tier React development services. Build dynamic and responsive user interfaces with React."

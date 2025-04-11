@@ -1,8 +1,8 @@
 // src/app/api/sitemap-chorn/route.ts
 
-import {ChornLocales, ChornUrls} from "@/lib/Structure";
+import {LocaleMain, UrlMain} from "@/lib/UrlMain";
 import {NextResponse} from "next/server";
-import {SitemapChorns} from "@/lib/SitemapChorns";
+import {SitemapMain} from "@/lib/SitemapMain";
 import {ISitemapImage} from "@/lib/model/ISitemapImage";
 
 const baseUrl = "https://chorn.in.th";
@@ -17,10 +17,10 @@ function getImageUrls(images: ISitemapImage[]) {
 
 export async function GET() {
     const lastModified = new Date().toISOString().split('T')[0];
-    const localizedUrls = SitemapChorns.flatMap(sitemapChorn => {
+    const localizedUrls = SitemapMain.flatMap(sitemapChorn => {
 
             if (sitemapChorn.images.length > 0) {
-                return ChornLocales.map(locale =>
+                return LocaleMain.map(locale =>
                     `<url>
                         <loc>${baseUrl}/${locale}${sitemapChorn.url}</loc>
                         ${getImageUrls(sitemapChorn.images)}
@@ -29,7 +29,7 @@ export async function GET() {
                     </url>`)
             }
 
-            return ChornLocales.map(locale =>
+            return LocaleMain.map(locale =>
                 `<url>
                     <loc>${baseUrl}/${locale}${sitemapChorn.url}</loc>
                     <lastmod>${lastModified}</lastmod>

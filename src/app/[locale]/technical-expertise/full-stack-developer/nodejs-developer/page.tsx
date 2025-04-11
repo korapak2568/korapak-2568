@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsNodejs from "@/components/Services/fullstack-development/nodejs/ServicesDetailsNodejs";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -21,7 +20,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsNodejs lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="Node.js Full Stack Development | CHORN"
                 description="CHORN offers Node.js full stack development services for building scalable and efficient applications."

@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsGitLab from "@/components/Services/cloud-devops/gitlab/ServicesDetailsGitLab";
 import {Metadata} from "next";
@@ -21,7 +20,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsGitLab lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="GitLab DevOps Services | CHORN"
                 description="CHORN provides GitLab-based DevOps services for continuous integration, automation, and version control solutions."

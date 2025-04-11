@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsDocker from "@/components/Services/cloud-devops/docker/ServicesDetailsDocker";
 import {Metadata} from "next";
@@ -21,7 +20,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsDocker lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="Docker DevOps Services | CHORN"
                 description="CHORN offers Docker-based DevOps services for efficient containerization and scalable application deployment."

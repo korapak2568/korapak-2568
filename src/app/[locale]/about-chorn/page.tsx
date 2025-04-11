@@ -1,7 +1,5 @@
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import AboutContent from "@/components/About/AboutContent";
-import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
@@ -19,8 +17,6 @@ export default function Page() {
         <>
             <Navbar/>
             <AboutContent lang={lang}/>
-            <WeWorkForIndustries lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="About Us | CHORN - Custom Software Development Experts"
                 description="Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology."

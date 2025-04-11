@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsCss3 from "@/components/Services/frontend-development/css3/ServicesDetailsCss3";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -21,7 +20,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsCss3 lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="CSS3 Development Services | CHORN"
                 description="Enhance your web applications with CHORN’s CSS3 development services for modern and visually appealing designs."

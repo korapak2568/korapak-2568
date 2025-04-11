@@ -1,8 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import PageBanner from "@/components/Common/PageBanner";
-import Footer from "@/components/Layouts/Footer";
-import SubscribeForm from "@/components/Common/SubscribeForm";
 import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import type {Metadata} from "next";
@@ -20,11 +17,9 @@ export default function Page() {
     return (
         <>
             <Navbar/>
-
-            <PageBanner pageTitle={InfoTranslation[lang].WorkplacePolicy.title}/>
-
             <div className="privacy-policy-area ptb-100">
                 <div className="container">
+                    <h1>{InfoTranslation[lang].WorkplacePolicy.title}</h1>
                     <div className="privacy-content">
                         {InfoTranslation[lang].WorkplacePolicy.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
@@ -36,10 +31,6 @@ export default function Page() {
                     </div>
                 </div>
             </div>
-
-            <SubscribeForm lang={lang}/>
-
-            <Footer/>
         </>
     );
 }

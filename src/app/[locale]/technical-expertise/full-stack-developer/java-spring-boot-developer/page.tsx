@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsJava from "@/components/Services/fullstack-development/java/ServicesDetailsJava";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -21,7 +20,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsJava lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="Java Spring Boot Full Stack Development | CHORN"
                 description="CHORN offers Java Spring Boot full stack development services to build robust and scalable enterprise applications."

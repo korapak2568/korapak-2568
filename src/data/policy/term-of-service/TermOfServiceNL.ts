@@ -11,7 +11,7 @@ export const TermOfServiceNL: IPolicy = {
         },
         {
             title: "1. Use of the Website",
-            description: "1.1 CHORN provides an overview of technical-expertise for informational purposes only. Information from this Website must not be used for reference or other purposes without permission."
+            description: "1.1 CHORN provides an overview of technical-expertise for informational purposes only. FooterInformation from this Website must not be used for reference or other purposes without permission."
         },
         {
             title: "2. Intellectual Property",

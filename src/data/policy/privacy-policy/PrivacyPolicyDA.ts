@@ -11,7 +11,7 @@ export const PrivacyPolicyDA: IPolicy = {
             isDetailed: false,
         },
         {
-            title: "1. Indsamlet Information",
+            title: "1. Indsamlet FooterInformation",
             description: "Personlige oplysninger indsamles ikke direkte fra besøgende, medmindre de giver samtykke til brugen af cookies til analyseformål. Når cookies er aktiveret, kan ikke-personhenførbare oplysninger såsom din browseradfærd, sidevisninger og interaktioner med webstedet indsamles via tredjepartsværktøjer som Google Analytics.",
             isDetailed: false,
         },

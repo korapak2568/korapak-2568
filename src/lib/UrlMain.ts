@@ -1,6 +1,6 @@
-export const ChornLocales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da', 'fi', 'ko']
+export const LocaleMain = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da', 'fi', 'ko']
 
-export const ChornUrls = [
+export const UrlMain = [
     '',
     '/404',
     '/about-chorn',

@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
+import FooterMain from "@/components/Footer/FooterMain";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import CloudExperience from "@/components/Common/CloudExperience";
 import CloudDevOpsModuleMain from "@/components/Services/cloud-devops/CloudDevOpsModuleMain";
@@ -23,7 +23,7 @@ const Page = () => {
             <CloudDevOpsModuleMain lang={lang}/>
             <CloudExperience lang={lang}/>
             <WeWorkForIndustries lang={lang}/>
-            <Footer/>
+            <FooterMain lang={lang}/>
             <SchemaMarkupServicePage
                 name="DevOps & Testing Services | CHORN"
                 description="CHORN offers expert DevOps and testing services to streamline your software development process. Ensure high performance and quality with our continuous integration, automated testing, and cloud-based solutions."

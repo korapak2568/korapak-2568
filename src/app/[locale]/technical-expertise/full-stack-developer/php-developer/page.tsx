@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsPhp from "@/components/Services/fullstack-development/php/ServicesDetailsPhp";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -21,7 +20,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsPhp lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="PHP Full Stack Development | CHORN"
                 description="CHORN offers PHP full stack development services for building dynamic and scalable web applications."

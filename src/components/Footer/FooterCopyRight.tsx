@@ -1,13 +1,9 @@
-"use client";
-
-import React, {useState} from "react";
+import React from "react";
 import Link from "next/link";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
 
-export const CopyRight: React.FC = () => {
-    const locale = useLocale()
-    const [year] = useState(new Date().getFullYear());
+export default function Information({lang}: { lang: string }) {
+    const year = new Date().getFullYear()
 
     return (
         <div className="copyright-area">
@@ -16,7 +12,7 @@ export const CopyRight: React.FC = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
                             <p>
-                                Copyright &copy; {year} by <a href={'/' + locale.value}>CHORN</a>
+                                Copyright &copy; {year} by <a href={'/' + lang}>CHORN</a>
                             </p>
                         </div>
 
@@ -24,20 +20,20 @@ export const CopyRight: React.FC = () => {
                             <ul>
                                 <li>
                                     <Link
-                                        href={'/' + locale.value + InfoTranslation[locale.value].Footer.termOfService.link}>
-                                        {InfoTranslation[locale.value].Footer.termOfService.label}
+                                        href={'/' + lang + InfoTranslation[lang].Footer.termOfService.link}>
+                                        {InfoTranslation[lang].Footer.termOfService.label}
                                     </Link>
                                 </li>
                                 <li>
                                     <Link
-                                        href={'/' + locale.value + InfoTranslation[locale.value].Footer.privacyPolicy.link}>
-                                        {InfoTranslation[locale.value].Footer.privacyPolicy.label}
+                                        href={'/' + lang + InfoTranslation[lang].Footer.privacyPolicy.link}>
+                                        {InfoTranslation[lang].Footer.privacyPolicy.label}
                                     </Link>
                                 </li>
                                 <li>
                                     <Link
-                                        href={'/' + locale.value + InfoTranslation[locale.value].Footer.workplacePolicy.link}>
-                                        {InfoTranslation[locale.value].Footer.workplacePolicy.label}
+                                        href={'/' + lang + InfoTranslation[lang].Footer.workplacePolicy.link}>
+                                        {InfoTranslation[lang].Footer.workplacePolicy.label}
                                     </Link>
                                 </li>
                             </ul>

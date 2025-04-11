@@ -1,4 +1,4 @@
-// src/components/LogoSocial/HomeWorkspace/HomeAiSolutionBanner.tsx
+// src/components/FooterLogoSocial/HomeWorkspace/HomeAiSolutionBanner.tsx
 
 import React from "react";
 import Left from "@/components/AI/HomeAiSolutionBanner/left";

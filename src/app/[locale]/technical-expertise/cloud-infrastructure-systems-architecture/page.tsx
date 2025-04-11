@@ -1,7 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
-import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import CloudExperience from "@/components/Common/CloudExperience";
@@ -23,8 +21,6 @@ const Page = () => {
             <Navbar/>
             <CloudInfraPageMain lang={lang}/>
             <CloudExperience lang={lang}/>
-            <WeWorkForIndustries lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="Cloud Solution Architecture & Systems Analysis | CHORN | AWS, Azure, GCP, DigitalOcean"
                 description="CHORN delivers expert cloud solution architecture and system analysis services. We optimize cloud infrastructures across AWS, Azure, GCP, and DigitalOcean, ensuring performance, scalability, and cost-efficiency."

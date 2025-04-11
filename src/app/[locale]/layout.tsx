@@ -22,6 +22,9 @@ import React from "react";
 import ProviderWrapper from "../../components/ProviderWrapper/ProviderWrapper";
 import ConsentModal from "@/components/Consent/ConsentModal";
 import {headers} from "next/headers";
+import SubscribeForm from "@/components/Common/SubscribeForm";
+import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
+import FooterMain from "@/components/Footer/FooterMain";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
@@ -34,6 +37,12 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
         <ProviderWrapper locale={lang}>
             <ConsentModal/>
             {children}
+
+            <div>
+                <SubscribeForm lang={lang}/>
+                <WeWorkForIndustries lang={lang}/>
+                <FooterMain lang={lang}/>
+            </div>
         </ProviderWrapper>
         <AosAnimation/>
         <GoTop/>

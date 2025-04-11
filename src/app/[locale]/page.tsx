@@ -6,13 +6,10 @@ import AboutContent from "@/components/About/AboutContent";
 import HomeFrontEndContainer from "@/components/Common/HomeFrontEnd/HomeFrontEndContainer";
 import HomeBackEndContainer from "../../components/Common/HomeBackEnd/HomeBackEndContainer";
 import CloudExperience from "../../components/Common/CloudExperience";
-import SubscribeForm from "../../components/Common/SubscribeForm";
-import Footer from "../../components/Layouts/Footer";
 import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
 import HomeWorkspace from "@/components/Home/HomeWorkspace";
-import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import {MetadataHome} from "@/metadata/pages/home/common/MetadataHome";
 import {headers} from "next/headers";
 
@@ -66,9 +63,6 @@ export default function Home() {
             <HomeFrontEndContainer lang={lang}/>
             <HomeBackEndContainer lang={lang}/>
             <CloudExperience lang={lang}/>
-            <SubscribeForm lang={lang}/>
-            <WeWorkForIndustries lang={lang}/>
-            <Footer/>
             <SchemaMarkupHomePage/>
 
             <script

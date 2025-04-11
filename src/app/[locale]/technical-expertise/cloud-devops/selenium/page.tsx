@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
+import FooterMain from "@/components/Footer/FooterMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsSelenium from "@/components/Services/cloud-devops/selenium/ServicesDetailsSelenium";
 import {Metadata} from "next";
@@ -21,7 +21,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsSelenium lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="Selenium Testing Services | CHORN"
                 description="CHORN offers comprehensive Selenium testing services to ensure the quality and performance of your applications through automated testing."

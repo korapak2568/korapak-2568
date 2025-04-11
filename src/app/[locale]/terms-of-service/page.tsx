@@ -1,8 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import PageBanner from "@/components/Common/PageBanner";
-import Footer from "@/components/Layouts/Footer";
-import SubscribeForm from "@/components/Common/SubscribeForm";
 import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import type {Metadata} from "next";
@@ -20,11 +17,9 @@ export default function TermsOfService() {
     return (
         <>
             <Navbar/>
-
-            <PageBanner pageTitle="Terms Of Service"/>
-
             <div className="terms-of-service-area ptb-100">
                 <div className="container">
+                    <h1>{InfoTranslation[lang].TermOfService.title}</h1>
                     <div className="privacy-content">
                         {InfoTranslation[lang].TermOfService.list.map((item: IPolicyContent, index: number) => (
                             <div key={index} className="addition-ptb-20">
@@ -41,10 +36,6 @@ export default function TermsOfService() {
                     </div>
                 </div>
             </div>
-
-            <SubscribeForm lang={lang}/>
-
-            <Footer/>
         </>
     );
 }

@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
@@ -12,11 +11,12 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 const Page = () => {
+    const lang = headers().get('x-locale') || 'en';
+
     return (
         <>
             <Navbar/>
             <AiCompanionsPage/>
-            <Footer/>
         </>
     );
 }

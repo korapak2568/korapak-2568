@@ -33,7 +33,7 @@ This files table contents are outlined below>>>>>
 ** - Subscribe Area CSS
 ** - Quote Area CSS
 ** - Overview Area CSS
-** - LogoSocial Banner CSS
+** - FooterLogoSocial Banner CSS
 ** - FAQ Area CSS
 ** - Login Area CSS
 ** - Register Area CSS
@@ -53,7 +53,7 @@ This files table contents are outlined below>>>>>
 ** - Checkout Area CSS
 ** - Product Details Area CSS
 ** - Partner Area CSS
-** - Footer Area CSS
+** - FooterMain Area CSS
 ** - Copy Right Area CSS
 ** - Go Top CSS
 
@@ -3673,7 +3673,7 @@ Overview Area CSS
 }
 
 /*================================================
-LogoSocial Banner CSS
+FooterLogoSocial Banner CSS
 =================================================*/
 .page-banner-area {
   position: relative;
@@ -6380,7 +6380,7 @@ Partner Area CSS
 }
 
 /*================================================
-Footer Area CSS
+FooterMain Area CSS
 =================================================*/
 .footer-area {
   background-color: #f5f3f3;

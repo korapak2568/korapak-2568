@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
+import FooterMain from "@/components/Footer/FooterMain";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import FullStackPageMain from "@/components/Services/fullstack-development/FullStackPageMain";
 import CloudExperience from "@/components/Common/CloudExperience";
@@ -23,7 +23,7 @@ const Page = () => {
             <FullStackPageMain lang={lang}/>
             <CloudExperience lang={lang}/>
             <WeWorkForIndustries lang={lang}/>
-            <Footer/>
+            <FooterMain lang={lang}/>
             <SchemaMarkupServicePage
                 name="Back-End & API Development Services | CHORN"
                 description="CHORN offers expert Back-End & API Development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions."

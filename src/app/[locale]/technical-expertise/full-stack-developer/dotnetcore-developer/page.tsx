@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsDotNetCore
     from "@/components/Services/fullstack-development/dotnetcore/ServicesDetailsDotNetCore";
@@ -22,7 +21,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsDotNetCore lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name=".NET Core C# Full Stack Development | CHORN"
                 description="CHORN offers .NET Core C# full stack development services to build modern, scalable, and secure web applications."

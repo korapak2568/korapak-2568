@@ -11,7 +11,7 @@ export const PrivacyPolicyEN: IPolicy = {
             isDetailed: false,
         },
         {
-            title: "1. Information Collected",
+            title: "1. FooterInformation Collected",
             description: "Personal information is not collected directly from visitors unless they consent to the use of cookies for analytics purposes. When cookies are enabled, non-personally identifiable information such as browsing behavior, page views, and site interactions may be collected via third-party technical-expertise like Google Analytics.",
             isDetailed: false,
         },

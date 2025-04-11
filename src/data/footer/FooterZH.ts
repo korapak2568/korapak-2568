@@ -1,4 +1,4 @@
-import { IFooter } from "@/data/footer/model/IFooter";
+import {IFooter} from "@/data/footer/model/IFooter";
 
 export const FooterZH: IFooter = {
     title: "CHORN",
@@ -82,7 +82,7 @@ export const FooterZH: IFooter = {
             link: "/ai-companions/fah/",
         },
         {
-            label:  "LLM-AI 集成",
+            label: "LLM-AI 集成",
             link: "/technical-expertise/ai-solutions"
         },
         {
@@ -98,4 +98,99 @@ export const FooterZH: IFooter = {
             icon: "flaticon-speed hover-rotate",
         }
     ],
+    frontend: {
+        title: "Front-End",
+        items: [
+            {
+                label: "Next.js",
+                link: '/technical-expertise/front-end-developer/nextjs-developer',
+                icon: "flaticon-speed hover-rotate"
+            },
+            {
+                label: "React.js",
+                link: '/technical-expertise/front-end-developer/react-developer',
+                icon: "flaticon-speed hover-rotate"
+            },
+            {
+                label: "Vue.js",
+                link: '/technical-expertise/front-end-developer/vue-developer',
+                icon: "flaticon-speed hover-rotate"
+            },
+            {
+                label: "Angular",
+                link: '/technical-expertise/front-end-developer/angular-developer',
+                icon: "flaticon-speed hover-rotate"
+            },
+            {
+                label: "JavaScript",
+                link: '/technical-expertise/front-end-developer/javascript-developer',
+                icon: "flaticon-speed hover-rotate"
+            },
+            {
+                label: "TypeScript",
+                link: '/technical-expertise/front-end-developer/typescript-developer',
+                icon: "flaticon-speed hover-rotate"
+            },
+            {
+                label: "CSS3",
+                link: '/technical-expertise/front-end-developer/css3-developer',
+                icon: "flaticon-speed hover-rotate"
+            },
+            {
+                label: "HTML5",
+                link: '/technical-expertise/front-end-developer/html5-developer',
+                icon: "flaticon-speed hover-rotate"
+            },
+        ]
+    },
+    backend: {
+        title: "Back-End",
+        items: [
+            {
+                label: "Java",
+                link: '/technical-expertise/full-stack-developer/java-spring-boot-developer',
+            },
+            {
+                label: "Node.js",
+                link: '/technical-expertise/full-stack-developer/nodejs-developer',
+            },
+            {
+                label: "Python",
+                link: '/technical-expertise/full-stack-developer/python-developer',
+            },
+            {
+                label: "Go",
+                link: '/technical-expertise/full-stack-developer/go-developer',
+            },
+            {
+                label: "PHP",
+                link: '/technical-expertise/full-stack-developer/php-developer',
+            },
+            {
+                label: "DotNet Core",
+                link: '/technical-expertise/full-stack-developer/dotnetcore-developer',
+            },
+        ]
+    },
+    devops: {
+        title: "DevOps",
+        items: [
+            {
+                label: "Docker",
+                link: '/technical-expertise/cloud-devops/docker',
+            },
+            {
+                label: "Kubernetes",
+                link: '/technical-expertise/cloud-devops/kubernetes',
+            },
+            {
+                label: "GitHub",
+                link: '/technical-expertise/cloud-devops/github',
+            },
+            {
+                label: "GitLab",
+                link: '/technical-expertise/cloud-devops/gitlab',
+            }
+        ]
+    }
 };

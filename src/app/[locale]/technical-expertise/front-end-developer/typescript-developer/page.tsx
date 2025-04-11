@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import ServicesDetailsTypeScript
     from "@/components/Services/frontend-development/typescript/ServicesDetailsTypeScript";
 import CloudExperience from "@/components/Common/CloudExperience";
@@ -22,7 +21,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsTypeScript lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="TypeScript | CHORN - Custom Software Development Experts"
                 description="Learn how CHORN leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries."

@@ -17,4 +17,17 @@ export interface IFooter {
     importantLinks: IFooterDetail[]
     featuredLinks: IFooterDetail[]
     infoLinks: IFooterDetail[]
+
+    frontend: {
+        title: string,
+        items: IFooterDetail[]
+    },
+    backend: {
+        title: string,
+        items: IFooterDetail[]
+    },
+    devops: {
+        title: string,
+        items: IFooterDetail[]
+    },
 }

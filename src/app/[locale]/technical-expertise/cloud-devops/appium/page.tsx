@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsAppium from "@/components/Services/cloud-devops/appium/ServicesDetailsAppium";
 import {Metadata} from "next";
@@ -21,7 +20,6 @@ const Page = () => {
             <Navbar/>
             <ServicesDetailsAppium lang={lang}/>
             <CloudExperience lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="Appium Testing Services | CHORN"
                 description="CHORN offers Appium testing services for automated mobile app testing across multiple platforms to ensure high-quality performance."

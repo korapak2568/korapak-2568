@@ -1,7 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
-import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
@@ -22,8 +20,6 @@ const Page = () => {
             <Navbar/>
             <WebDevelopmentPageMain lang={lang}/>
             <CloudExperience lang={lang}/>
-            <WeWorkForIndustries lang={lang}/>
-            <Footer/>
             <SchemaMarkupServicePage
                 name="Web Development Services | CHORN | Custom Software & Technology Solutions"
                 description="Explore CHORN's web development services, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more."

@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "@/components/Layouts/Navbar";
-import Footer from "@/components/Layouts/Footer";
 import AiPloyLandingPage from "@/components/AiCompanions/Main/AiPloyLandingPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
@@ -18,7 +17,6 @@ const Page = () => {
         <>
             <Navbar/>
             <AiPloyLandingPage lang={lang}/>
-            <Footer/>
         </>
     );
 };
