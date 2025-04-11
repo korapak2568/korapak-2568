@@ -38,13 +38,15 @@ export default function HomeBackEndBottom({lang}: { lang: string }) {
                             <li key={index}>
                                 <Link href={"/" + lang + "/gallery"}>
                                     <div className="li-image-container">
-                                        <Image
-                                            src={image.image750}
-                                            alt={image.title}
-                                            width={750}
-                                            height={500}
-                                            className="li-image"
-                                        />
+                                        <div className="li-image">
+                                            <Image
+                                                src={image.image750}
+                                                alt={image.title}
+                                                width={750}
+                                                height={500}
+                                            />
+                                            <div className="x-bar-animation"/>
+                                        </div>
                                     </div>
                                 </Link>
                             </li>

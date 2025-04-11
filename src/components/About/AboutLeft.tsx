@@ -6,6 +6,7 @@ export default function AboutLeft() {
     return (
         <div className="col-lg-4">
             <div className="about-image-warp about-image-custom"/>
+            <div className="x-bar-animation"/>
 
             <div className="single-footer-widget about-linkedin-widget">
                 <div className="social social-about">

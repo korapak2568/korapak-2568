@@ -845,7 +845,6 @@
   background-repeat: no-repeat;
   width: 100%;
   height: 500px;
-  margin-bottom: 10px;
   z-index: -1;
 
   @media (min-width: 600px) {
@@ -939,6 +938,19 @@
     border: solid 1px #06c755 !important;
     color: #333333;
 
+    // Transition
+    position: relative;
+    overflow: hidden;
+    background-color: transparent;
+    transition: color .5s ease;
+
+    // Optional: smooth color for inner content
+    * {
+      position: relative;
+      z-index: 1;
+      transition: color 0.5s ease;
+    }
+
     .feature-box-icon {
       margin-bottom: 0;
 
@@ -949,6 +961,8 @@
         font-size: 20px !important;
         background-color: #06c755 !important;
         color: #ffffff !important;
+
+        transition: background-color 0.5s ease, color 0.5s ease;
       }
 
       .feature-box-title {
@@ -962,9 +976,25 @@
     }
   }
 
-  .feature-box:hover {
+  .feature-box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
     background-color: #06c755;
+    z-index: 0;
+    transition: width 0.5s ease;
+  }
+
+  .feature-box:hover::before {
+    width: 100%;
+  }
+
+  .feature-box:hover {
     color: #ffffff;
+    z-index: 1;
 
     p {
       color: #ffffff !important;
@@ -977,6 +1007,25 @@
       }
     }
 
+  }
+
+  .feature-box:hover p {
+    color: #ffffff !important;
+    position: relative;
+    z-index: 1;
+  }
+
+  .feature-box:hover .feature-box-icon .feature-box-title {
+    color: #ffffff !important;
+    position: relative;
+    z-index: 1;
+  }
+
+  .feature-box:hover .feature-box-icon .feature-icon {
+    background-color: #ffffff !important;
+    color: #06c755 !important;
+    position: relative;
+    z-index: 1;
   }
 
   @media (min-width: 768px) {
@@ -1010,24 +1059,49 @@
 
 // Home Front End
 .home-frontend-box {
-  background-color: #ffffff;
   border: 1px solid #06c755;
   margin-bottom: 30px;
   text-align: center;
   padding: 35px 30px;
   border-radius: 5px;
   position: relative;
-  z-index: 1;
   overflow: hidden;
-  transition: 0.5s;
+  background-color: transparent;
+  transition: color 0.5s ease;
 
   h3 {
     margin-top: 20px;
+    position: relative;
+    z-index: 1;
+    transition: color 0.5s ease;
+  }
+
+  .icon {
+    position: relative;
+    z-index: 1;
+    transition: all 0.5s ease;
   }
 }
 
-.home-frontend-box:hover {
+.home-frontend-box::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0; /* Start from bottom */
+  width: 100%;
+  height: 0;
   background-color: #06c755;
+  z-index: 0;
+  transition: height 0.5s ease;
+}
+
+.home-frontend-box:hover::before {
+  height: 100%;
+}
+
+.home-frontend-box:hover {
+  color: #ffffff;
+  z-index: 1;
 
   h3 {
     color: #ffffff !important;
@@ -1044,9 +1118,10 @@
   align-content: space-between;
 
   .home-backend-icon {
+    position: relative;
+    overflow: hidden;
     border: 1px solid #06c755;
     border-radius: 10px;
-
     width: 48%;
     margin: 0.6%;
     padding-top: 10px;
@@ -1054,6 +1129,39 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: transparent;
+    transition: color 0.5s ease;
+
+    // Optional: smooth color for inner content
+    * {
+      position: relative;
+      z-index: 1;
+      transition: color 0.5s ease;
+    }
+  }
+
+  .home-backend-icon::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-color: #06c755;
+    z-index: 0;
+    transition: width 0.5s ease;
+  }
+
+  .home-backend-icon:hover::before {
+    width: 100%;
+  }
+
+  .home-backend-icon:hover {
+    color: #ffffff;
+
+    * {
+      color: #ffffff !important;
+    }
   }
 
   .icon-orange {
@@ -1063,10 +1171,6 @@
   .image-box {
     width: 150px;
     height: 150px;
-  }
-
-  .home-backend-icon:hover {
-    background-color: #06c755;
   }
 
   // iPad Pro, Surface Pro 7
@@ -1105,7 +1209,7 @@
       font-size: 28px;
 
       .li-image {
-        padding: 20px;
+        padding: 20px 20px 10px;
       }
 
       @media (min-width: 768px) {
@@ -1312,5 +1416,43 @@
         margin-left: 45px;
       }
     }
+  }
+}
+
+// Animated bar
+.x-bar-animation {
+  position: relative;
+  width: 100%;
+  height: 3px;
+  background-color: #eee;
+  overflow: hidden;
+
+  /* ✅ Helps isolate rendering */
+  will-change: transform;
+  contain: strict;
+  backface-visibility: hidden;
+}
+
+.x-bar-animation::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  height: 100%;
+  width: 100%;
+  background-color: #fd9b5f;
+
+  /* ✅ Use transform for smoother GPU animation */
+  animation: bar-slide-left-to-right 2s linear infinite;
+  will-change: transform;
+  transform: translateX(0);
+}
+
+@keyframes bar-slide-left-to-right {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
   }
 }

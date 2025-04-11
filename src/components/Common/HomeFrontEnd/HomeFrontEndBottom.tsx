@@ -13,7 +13,7 @@ export default function HomeFrontEndBottom({lang}: { lang: string }) {
                         <div key={index} className="col-lg-4 col-md-6">
                             <Link href={'/' + lang + item.link}>
                                 <div className="home-frontend-box">
-                                    <div className="icon hover-rotate">
+                                    <div className="icon">
                                         <Image
                                             src={item.image}
                                             alt={item.title}
@@ -21,7 +21,6 @@ export default function HomeFrontEndBottom({lang}: { lang: string }) {
                                             height={150}
                                         />
                                     </div>
-
                                     <h3> {item.title} </h3>
                                 </div>
                             </Link>

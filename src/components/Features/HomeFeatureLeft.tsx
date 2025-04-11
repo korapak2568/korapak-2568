@@ -12,6 +12,7 @@ export default function HomeFeatureLeft({lang}: { lang: string }) {
                     width={720}
                     height={620}
                 />
+                <div className="x-bar-animation" />
             </div>
         </div>
     )
