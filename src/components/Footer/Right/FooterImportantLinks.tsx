@@ -9,7 +9,7 @@ export default function FooterImportantLinks({lang}: { lang: string }) {
             <div className="single-footer-widget pl-5">
                 <h3>{InfoTranslation[lang].Footer.importantTitle}</h3>
                 <div className="footer-bar footer-bar-bottom-addition"/>
-                <ul className="quick-links">
+                <ul className="quick-links ul-footer">
                     {InfoTranslation[lang].Footer.importantLinks
                         .filter((item: IFooterDetail) => item.link !== undefined)
                         .map((item: IFooterDetail, index: number) => (

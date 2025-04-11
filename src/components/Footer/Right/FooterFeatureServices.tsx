@@ -9,7 +9,7 @@ export default function FooterFeatureServices({lang}: { lang: string }) {
             <div className="single-footer-widget pl-5">
                 <h3>{InfoTranslation[lang].Footer.featureTitle}</h3>
                 <div className="footer-bar footer-bar-bottom-addition"/>
-                <ul className="quick-links">
+                <ul className="quick-links ul-footer">
                     {InfoTranslation[lang].Footer.featuredLinks
                         .filter((item: IFooterDetail) => item.link !== undefined)
                         .map((item: IFooterDetail, index: number) => (
