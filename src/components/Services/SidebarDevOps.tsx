@@ -5,6 +5,7 @@ import Link from "next/link";
 import {useEffect, useState} from 'react';
 import {IDevOpsStack} from "@/data/devops/model/IDevOpsStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import Image from "next/image";
 
 export default function SidebarDevOps({lang}: { lang: string }) {
     const [currentUrl, setCurrentUrl] = useState('');
@@ -24,7 +25,7 @@ export default function SidebarDevOps({lang}: { lang: string }) {
                             return (
                                 <li key={index}>
                                     <Link href={'/' + lang + item.link} className="active">
-                                        <i className="bx bx-cog"></i>
+                                        <Image src={item.image} alt={item.alt} width="40" height="40"/>
                                         <span className="px-3">{item.features[0].title}</span>
                                     </Link>
                                 </li>
@@ -34,7 +35,7 @@ export default function SidebarDevOps({lang}: { lang: string }) {
                         return (
                             <li key={index}>
                                 <Link href={'/' + lang + item.link}>
-                                    <i className="bx bx-git-branch"></i>
+                                    <Image src={item.image} alt={item.alt} width="40" height="40"/>
                                     <span className="px-3">{item.features[0].title}</span>
                                 </Link>
                             </li>

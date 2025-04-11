@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import ServicesDetailsReact from "@/components/Services/frontend-development/react/ServicesDetailsReact";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -12,12 +11,11 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataReact[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
-            <Navbar/>
             <ServicesDetailsReact lang={lang}/>
             <CloudExperience lang={lang}/>
             <SchemaMarkupServicePage
@@ -27,6 +25,4 @@ const Page = () => {
             />
         </>
     );
-};
-
-export default Page;
+}

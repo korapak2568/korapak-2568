@@ -7,7 +7,7 @@ export default function FooterImportantLinks({lang}: { lang: string }) {
     return (
         <div className="footer-right-column">
             <div className="single-footer-widget pl-5">
-                <h3>{InfoTranslation[lang].Footer.importantTitle}</h3>
+                <h3 className='pb-2'>{InfoTranslation[lang].Footer.importantTitle}</h3>
                 <div className="footer-bar footer-bar-bottom-addition"/>
                 <ul className="quick-links ul-footer">
                     {InfoTranslation[lang].Footer.importantLinks

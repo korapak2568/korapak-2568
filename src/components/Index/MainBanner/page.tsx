@@ -1,8 +1,8 @@
-// src/components/FooterLogoSocial/HomeWorkspace/HomeAiSolutionBanner.tsx
+// src/components/FooterLogoSocial/HomeWorkspace/AiSolutionMain.tsx
 
 import React from "react";
-import Left from "@/components/AI/HomeAiSolutionBanner/left";
-import Right from "@/components/AI/HomeAiSolutionBanner/right";
+import AiSolutionLeft from "@/components/AiSolutions/AiSolutionLeft";
+import AiSolutionRight from "@/components/AiSolutions/AiSolutionRight";
 
 export default function Page({lang}: { lang: string }) {
 
@@ -14,8 +14,8 @@ export default function Page({lang}: { lang: string }) {
                         <div className="d-table-cell">
                             <div className="container-fluid">
                                 <div className="row align-items-center">
-                                    <Left lang={lang}/>
-                                    <Right/>
+                                    <AiSolutionLeft lang={lang}/>
+                                    <AiSolutionRight/>
                                 </div>
                             </div>
                         </div>

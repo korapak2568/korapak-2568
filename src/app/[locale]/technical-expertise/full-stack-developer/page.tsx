@@ -1,7 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
-import FooterMain from "@/components/Footer/FooterMain";
-import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import FullStackPageMain from "@/components/Services/fullstack-development/FullStackPageMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -14,16 +11,13 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataBackEndMain[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
-            <Navbar/>
             <FullStackPageMain lang={lang}/>
             <CloudExperience lang={lang}/>
-            <WeWorkForIndustries lang={lang}/>
-            <FooterMain lang={lang}/>
             <SchemaMarkupServicePage
                 name="Back-End & API Development Services | CHORN"
                 description="CHORN offers expert Back-End & API Development services utilizing modern technologies like Node.js, Java Spring Boot, .NET Core, Go, Python, and PHP. Build scalable and robust web applications with our custom software solutions."
@@ -31,6 +25,4 @@ const Page = () => {
             />
         </>
     );
-};
-
-export default Page;
+}

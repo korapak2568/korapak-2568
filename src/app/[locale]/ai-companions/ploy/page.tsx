@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import AiPloyLandingPage from "@/components/AiCompanions/Main/AiPloyLandingPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
@@ -10,15 +9,10 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataAiPloy[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
-        <>
-            <Navbar/>
-            <AiPloyLandingPage lang={lang}/>
-        </>
-    );
-};
-
-export default Page;
+        <AiPloyLandingPage lang={lang}/>
+    )
+}

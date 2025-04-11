@@ -532,6 +532,16 @@ export const ImageUrl: IImageUrl = {
                 path: "/images/logo-2025/chorn-logo-2025-rec-lg.png"
             },
         },
+        whiteRec: {
+            sm: {
+                title: "CHORN's rectangle logo sm-size",
+                path: "/images/logo-2025/chorn-logo-2025-rec-white-sm.png"
+            },
+            lg: {
+                title: "CHORN's rectangle logo lg-size",
+                path: "/images/logo-2025/chorn-logo-2025-rec-white-lg.png"
+            },
+        },
         line: {
             sm: {
                 title: "CHORN's LINE OA image",

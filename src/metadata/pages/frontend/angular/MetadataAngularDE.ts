@@ -27,7 +27,7 @@ export const MetadataAngularDE: Metadata = {
         "Angular Entwicklung", "Angular technische Expertise", "Angular Entwickler", "Angular Entwicklung Thailand",
         "Angular Entwicklung Bangkok", "Angular Entwicklung Chiang Mai", "Angular Entwicklungsfirma",
         "maßgeschneiderte Angular Entwicklung", "maßgeschneiderte Softwareentwicklung", "Unternehmens-Angular-Anwendungen",
-        "Frontend-Entwicklung", "Single-Page-Anwendungen", "dynamische Benutzeroberflächen",
+        "Frontend-Entwicklung", "Single-AiBannerFahMain-Anwendungen", "dynamische Benutzeroberflächen",
         "leistungsstarke Anwendungen", "skalierbare Webanwendungen", "individuelle Webanwendungen",
         "Webentwickler", "Full-Stack-Entwickler", "Softwareingenieur", "Softwareentwickler Thailand",
         "Angular Entwickler Thailand", "Frontend-Entwickler Thailand", "Webentwickler Bangkok",

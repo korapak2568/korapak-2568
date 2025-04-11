@@ -1,4 +1,3 @@
-import Navbar from "@/components/Layouts/Navbar";
 import AboutContent from "@/components/About/AboutContent";
 import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
@@ -15,7 +14,6 @@ export default function Page() {
 
     return (
         <>
-            <Navbar/>
             <AboutContent lang={lang}/>
             <SchemaMarkupServicePage
                 name="About Us | CHORN - Custom Software Development Experts"

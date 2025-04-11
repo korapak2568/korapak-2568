@@ -308,11 +308,11 @@
 }
 
 .add-navbar-active {
-  color: #c12b42 !important; // Darker red for better contrast
+  color: #c12b42 !important;
 
   &:hover, &:focus {
-    color: #9b1f31 !important; // Even darker red for hover/focus states
-    text-decoration: underline; // Optional: adds emphasis when hovered/focused
+    color: #9b1f31 !important;
+    text-decoration: underline;
   }
 }
 
@@ -542,7 +542,7 @@
   height: 450px !important;
 }
 
-// HomeAiSolutionBanner Title
+// AiSolutionMain Title
 .h2-page-title {
   text-transform: unset !important;
 }
@@ -860,16 +860,11 @@
   }
 }
 
-//service-list
+// Framework List Sidebar
 .framework-list {
   display: block;
   padding-left: 0;
   list-style-type: none;
-  background-color: #ffffff;
-
-  @media (min-width: 1024px) {
-    //padding-inline-start: 40px;
-  }
 
   li {
     display: list-item;
@@ -879,19 +874,37 @@
 
   li a {
     display: block;
-    padding: 17px 30px;
+    padding: 6px 0 6px 30px;
     position: relative;
+    overflow: hidden;
+    z-index: 0;
+    color: #333; // default color
+    transition: color 0.3s ease;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 0;
+      height: 100%;
+      z-index: -1;
+      background: linear-gradient(to right, #06c755, #0f91ff); // ✨ premium green-to-blue
+      transition: width 0.4s ease;
+    }
+
+    &:hover::before {
+      width: 100%;
+    }
+
+    &:hover {
+      color: #fff;
+    }
   }
 
   li a.active {
-    background: #fd9b5f !important;
-    border-color: #fd9b5f !important;
-    color: #ffffff;
-  }
-
-  li a:hover {
-    background: #fd9b5f !important;
-    border-color: #fd9b5f !important;
+    background: linear-gradient(to right, #06c755, #0f91ff) !important;
+    border-color: transparent !important;
     color: #ffffff;
   }
 }
@@ -983,8 +996,8 @@
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #06c755;
-    z-index: 0;
+    z-index: -1;
+    background: linear-gradient(to right, #06c755, #0f91ff); // ✨ premium green-to-blue
     transition: width 0.5s ease;
   }
 
@@ -1090,8 +1103,8 @@
   bottom: 0; /* Start from bottom */
   width: 100%;
   height: 0;
-  background-color: #06c755;
-  z-index: 0;
+  z-index: -1;
+  background: linear-gradient(to right, #06c755, #0f91ff); // ✨ premium green-to-blue
   transition: height 0.5s ease;
 }
 
@@ -1145,10 +1158,10 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 0%;
+    width: 0;
     height: 100%;
-    background-color: #06c755;
-    z-index: 0;
+    z-index: -1;
+    background: linear-gradient(to right, #06c755, #0f91ff); // ✨ premium green-to-blue
     transition: width 0.5s ease;
   }
 
@@ -1259,7 +1272,7 @@
   align-items: start;
 }
 
-// FooterMain
+// Footer Main
 .footer-container {
   display: flex;
   flex-wrap: wrap;
@@ -1272,12 +1285,12 @@
 
     padding-top: 30px;
     padding-left: 30px;
-    background: rgb(0, 185, 0);
-    background: linear-gradient(90deg, rgba(0, 185, 0, 1) 10%, rgba(0, 185, 0, 1) 20%, rgba(255, 255, 255, 1) 100%);
+    background: linear-gradient(to right, #06c755, #0f91ff); // ✨ premium green-to-blue
 
     .footer-logo-social-container {
       .logo-social {
         .footer-description {
+          color: white;
           padding-top: 30px;
           padding-right: 50px;
         }
@@ -1285,7 +1298,7 @@
     }
 
     @media (min-width: 1300px) {
-      width: 25%;
+      width: 20%;
       padding-left: 30px;
 
       .footer-logo-social-container {
@@ -1313,6 +1326,7 @@
 
       h3 {
         margin-bottom: 10px;
+        font-size: 1.3rem;
       }
 
       .footer-bar {
@@ -1335,7 +1349,7 @@
     }
 
     @media (min-width: 1300px) {
-      width: 75%;
+      width: 80%;
       padding-top: 30px;
       padding-left: 20px;
       padding-right: 20px;
@@ -1360,7 +1374,7 @@
   list-style: none;
 
   .feature-item {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 
     .feature-icon-container {
       display: flex;
@@ -1383,7 +1397,7 @@
       }
 
       .feature-title {
-        margin-left: 45px;
+        margin-left: 10px;
         position: relative;
         display: inline-block;
         color: inherit;
@@ -1454,5 +1468,23 @@
   }
   100% {
     transform: translateX(100%);
+  }
+}
+
+// scroll-to-top-scope
+.scroll-to-top-scope {
+  z-index: 999;
+  transition: opacity 0.3s ease;
+
+  /* ✅ Helps prevent jank on mobile */
+  will-change: transform;
+  transform: translateZ(0);
+}
+
+.navbar-area-addition {
+  background: linear-gradient(to right, #06c755, #0f91ff) !important;
+
+  .navbar .navbar-nav .nav-item a {
+    color: #ffffff;
   }
 }

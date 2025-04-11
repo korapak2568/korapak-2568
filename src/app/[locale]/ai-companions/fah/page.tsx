@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import AiFahLandingPage from "@/components/AiCompanions/Main/AiFahLandingPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
@@ -10,15 +9,10 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataAiFah[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
-        <>
-            <Navbar/>
-            <AiFahLandingPage lang={lang}/>
-        </>
+        <AiFahLandingPage lang={lang}/>
     );
-};
-
-export default Page;
+}

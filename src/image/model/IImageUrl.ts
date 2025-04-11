@@ -93,7 +93,11 @@ export interface IImageUrl {
         },
         line: {
             sm: IImageUnit,
-        }
+        },
+        whiteRec: {
+            sm: IImageUnit,
+            lg: IImageUnit,
+        },
     },
     home: {
         main: IImageUnit,

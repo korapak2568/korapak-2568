@@ -10,6 +10,7 @@ const GalleryPageMain: React.FC<{ lang: string }> = ({lang}) => {
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="about-image-warp gallery-main"/>
+                            <div className="x-bar-animation"/>
                         </div>
 
                         <div className="col-lg-6">

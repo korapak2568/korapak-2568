@@ -11,7 +11,7 @@ export const AngularDE: IFrontEndStack = {
     features: [
         {
             title: "Angular-Entwicklung",
-            description: "Angular ist ein leistungsstarkes Webanwendungs-Framework, das von Google entwickelt wurde. Es erleichtert die Erstellung dynamischer Single-Page-Anwendungen mit seinem umfassenden Toolset und der MVC-Architektur.",
+            description: "Angular ist ein leistungsstarkes Webanwendungs-Framework, das von Google entwickelt wurde. Es erleichtert die Erstellung dynamischer Single-AiBannerFahMain-Anwendungen mit seinem umfassenden Toolset und der MVC-Architektur.",
             list: []
         },
         {

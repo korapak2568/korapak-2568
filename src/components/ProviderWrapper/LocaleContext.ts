@@ -1,3 +1,5 @@
+"use client"
+
 import {createContext, useContext} from "react";
 import {TranslateRecord} from "@/data/translate/TranslateRecord";
 import {useDispatch} from "react-redux";

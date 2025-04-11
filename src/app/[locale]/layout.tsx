@@ -25,6 +25,7 @@ import {headers} from "next/headers";
 import SubscribeForm from "@/components/Common/SubscribeForm";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import FooterMain from "@/components/Footer/FooterMain";
+import Navbar from "@/components/Layouts/Navbar";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
@@ -36,6 +37,8 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
         <body className={dm_sans.className}>
         <ProviderWrapper locale={lang}>
             <ConsentModal/>
+            <Navbar/>
+
             {children}
 
             <div>

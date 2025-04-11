@@ -1,4 +1,4 @@
-// src/app/[locale]/page.tsx
+// src/app/[locale]/AiBannerFahMain.tsx
 
 import Navbar from "../../components/Layouts/Navbar";
 import HomeFeatureMain from "../../components/Features/HomeFeatureMain";
@@ -56,7 +56,6 @@ export default function Home() {
 
     return (
         <>
-            <Navbar/>
             <HomeWorkspace lang={lang}/>
             <HomeFeatureMain lang={lang}/>
             <AboutContent lang={lang}/>

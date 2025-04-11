@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import CloudExperience from "@/components/Common/CloudExperience";
@@ -13,12 +12,11 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataCloudSolution[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
-            <Navbar/>
             <CloudInfraPageMain lang={lang}/>
             <CloudExperience lang={lang}/>
             <SchemaMarkupServicePage
@@ -27,7 +25,5 @@ const Page = () => {
                 url="https://chorn.in.th/technical-expertise/cloud-solution-architecture-systems-analysis/"
             />
         </>
-    );
-};
-
-export default Page;
+    )
+}

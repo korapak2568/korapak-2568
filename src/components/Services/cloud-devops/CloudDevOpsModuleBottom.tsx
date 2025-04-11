@@ -13,7 +13,7 @@ export default function CloudDevOpsModuleBottom({lang}: { lang: string }) {
                         <div key={index} className="col-lg-4 col-md-6">
                             <Link href={'/' + lang + item.link}>
                                 <div className="home-frontend-box">
-                                    <div className="icon hover-rotate">
+                                    <div className="icon">
                                         <Image
                                             src={item.image}
                                             alt={item.title}

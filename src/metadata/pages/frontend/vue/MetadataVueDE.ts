@@ -25,10 +25,10 @@ export const MetadataVueDE: Metadata = {
     },
     keywords: [
         "Vue.js Entwicklung", "Vue.js technische Expertise", "Vue.js Entwickler", "maßgeschneiderte Vue.js Entwicklung", "Vue.js Anwendungen",
-        "Vue.js Full-Stack-Entwicklung", "Vue.js Single-Page-Anwendungen", "Vue.js Benutzeroberflächen", "maßgeschneiderte Webanwendungen",
+        "Vue.js Full-Stack-Entwicklung", "Vue.js Single-AiBannerFahMain-Anwendungen", "Vue.js Benutzeroberflächen", "maßgeschneiderte Webanwendungen",
         "maßgeschneiderte Softwareentwicklung",
         "skalierbare Webanwendungen", "Frontend-Entwicklung", "leistungsstarke Webanwendungen",
-        "dynamische Benutzeroberflächen", "Single-Page-Anwendungen", "Vue.js Entwickler",
+        "dynamische Benutzeroberflächen", "Single-AiBannerFahMain-Anwendungen", "Vue.js Entwickler",
         "Vue.js Entwickler Thailand", "Vue.js Entwickler Bangkok", "Vue.js Entwickler Chiang Mai", "Frontend-Entwickler Thailand",
         "Web-Entwickler Bangkok", "Software-Ingenieur", "Software-Entwickler Thailand",
         "CHORN", "digitale Innovation", "Unternehmenssoftware"

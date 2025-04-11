@@ -1,11 +1,9 @@
-"use client";
-
 import React from "react";
-import Left from "@/components/AI/MainBannerAiFah/left";
-import Right from "@/components/AI/MainBannerAiFah/right";
+import AiBannerFahLeft from "@/components/AiFahBanner/AiBannerFahLeft";
+import AiBannerFahRight from "@/components/AiFahBanner/AiBannerFahRight";
 import {ImageUrl} from "@/image/ImageUrl";
 
-export default function Page() {
+export default function AiBannerFahMain({lang}: { lang: string }) {
     return (
         <>
             <div className="main-banner">
@@ -19,8 +17,8 @@ export default function Page() {
                         <div className="d-table-cell">
                             <div className="container-fluid">
                                 <div className="row align-items-center">
-                                    <Left/>
-                                    <Right/>
+                                    <AiBannerFahLeft lang={lang}/>
+                                    <AiBannerFahRight lang={lang}/>
                                 </div>
                             </div>
                         </div>

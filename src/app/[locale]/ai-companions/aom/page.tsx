@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import AiAomLandingPage from "@/components/AiCompanions/Main/AiAomLandingPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
@@ -10,15 +9,10 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataAiAom[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
-        <>
-            <Navbar/>
-            <AiAomLandingPage lang={lang}/>
-        </>
-    );
-};
-
-export default Page;
+        <AiAomLandingPage lang={lang}/>
+    )
+}

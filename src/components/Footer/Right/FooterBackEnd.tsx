@@ -1,7 +1,8 @@
 import React from "react";
-import {IFooterDetail} from "@/data/footer/model/IFooterDetail";
 import Link from "next/link";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
+import Image from "next/image";
 
 export default function FooterBackEnd({lang}: { lang: string }) {
     return (
@@ -10,20 +11,20 @@ export default function FooterBackEnd({lang}: { lang: string }) {
                 <h3>{InfoTranslation[lang].Footer.backend.title}</h3>
                 <div className="footer-bar"/>
                 <ul className="footer-list">
-                    {InfoTranslation[lang].Footer.backend.items.map((item: IFooterDetail, index: number) => (
-                        <Link key={index} href={item.link}>
+                    {InfoTranslation[lang].FullStack.stacks.map((item: IFullStackStack, index: number) => {
+                        return (
                             <li key={index} className="feature-item">
                                 <div className="feature-icon-container">
-                                    <div className="feature-icon">
-                                        <i className="flaticon-check"></i>
-                                    </div>
-                                    <div className="feature-title">
-                                        {item.label}
-                                    </div>
+                                    <Link href={'/' + lang + item.link}>
+                                        <Image src={item.image} alt={item.alt} width="35" height="35"/>
+                                        <span className="feature-title">
+                                            {item.features[0].title}
+                                        </span>
+                                    </Link>
                                 </div>
                             </li>
-                        </Link>
-                    ))}
+                        )
+                    })}
                 </ul>
             </div>
         </div>

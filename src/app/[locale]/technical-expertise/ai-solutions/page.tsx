@@ -1,7 +1,6 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
-import AiSolutionsPage from "@/components/AiSolutions/AiSolutionsPage";
+import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
 import {Metadata} from "next";
 import {headers} from "next/headers";
 import {MetadataLlmAi} from "@/metadata/pages/llm-ai/common/MetadataLlmAi";
@@ -11,16 +10,13 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataLlmAi[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
-            <Navbar/>
-            <AiSolutionsPage lang={lang}/>
-            <AiCompanionsPage/>
+            <AiSolutionsMain lang={lang}/>
+            <AiCompanionsPage lang={lang}/>
         </>
-    );
-};
-
-export default Page;
+    )
+}

@@ -55,6 +55,7 @@ const GalleryModuleBottom: React.FC = () => {
                                             loading={"eager"}
                                             className="gallery-bottom-unit"
                                         />
+                                        <div className="x-bar-animation"/>
                                     </div>
                                 </div>
                             </SwiperSlide>

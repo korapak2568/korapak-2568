@@ -5,6 +5,7 @@ import Link from "next/link";
 import {useEffect, useState} from 'react';
 import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import Image from "next/image";
 
 export default function SidebarFrontEnd({lang}: { lang: string }) {
     const [currentUrl, setCurrentUrl] = useState('');
@@ -24,7 +25,7 @@ export default function SidebarFrontEnd({lang}: { lang: string }) {
                             return (
                                 <li key={index}>
                                     <Link href={'/' + lang + item.link} className="active">
-                                        <i className="bx bx-layer"></i>
+                                        <Image src={item.image} alt={item.alt} width="35" height="35"/>
                                         <span className="px-3">{item.features[0].title}</span>
                                     </Link>
                                 </li>
@@ -32,10 +33,12 @@ export default function SidebarFrontEnd({lang}: { lang: string }) {
                         }
 
                         return (
-                            <li key={index} className="service-item">
+                            <li key={index}>
                                 <Link href={'/' + lang + item.link}>
-                                    <i className="bx bx-git-branch"></i>
-                                    <span className="px-3">{item.features[0].title}</span>
+                                    <Image src={item.image} alt={item.alt} width="35" height="35"/>
+                                    <span className="px-3">
+                                        {item.features[0].title}
+                                    </span>
                                 </Link>
                             </li>
                         )

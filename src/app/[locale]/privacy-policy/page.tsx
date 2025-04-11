@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import type {Metadata} from "next";
@@ -16,7 +15,6 @@ export default function Page() {
 
     return (
         <>
-            <Navbar/>
             <div className="privacy-policy-area ptb-100">
                 <div className="container">
                     <h1>{InfoTranslation[lang].PrivacyPolicy.title}</h1>

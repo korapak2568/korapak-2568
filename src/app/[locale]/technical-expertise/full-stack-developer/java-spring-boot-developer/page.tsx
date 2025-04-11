@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import ServicesDetailsJava from "@/components/Services/fullstack-development/java/ServicesDetailsJava";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -12,12 +11,11 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataJava[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
-            <Navbar/>
             <ServicesDetailsJava lang={lang}/>
             <CloudExperience lang={lang}/>
             <SchemaMarkupServicePage
@@ -26,7 +24,5 @@ const Page = () => {
                 url="https://chorn.in.th/technical-expertise/full-stack-developer/java-spring-boot-developer/"
             />
         </>
-    );
-};
-
-export default Page;
+    )
+}

@@ -27,7 +27,7 @@ export const MetadataNextjsDE: Metadata = {
         "Next.js Entwicklung", "Next.js technische Expertise", "Next.js Entwickler", "maßgeschneiderte Next.js Entwicklung", "Server-Side Rendering",
         "Next.js Full Stack Entwicklung", "Next.js SEO-Optimierung", "Next.js Anwendungen", "maßgeschneiderte Webanwendungen",
         "skalierbare Webanwendungen", "Frontend Entwicklung", "leistungsstarke Webanwendungen",
-        "Single-Page-Anwendungen", "dynamische Benutzeroberflächen", "Full Stack Entwickler", "maßgeschneiderte Softwareentwicklung",
+        "Single-AiBannerFahMain-Anwendungen", "dynamische Benutzeroberflächen", "Full Stack Entwickler", "maßgeschneiderte Softwareentwicklung",
         "Next.js Entwickler Deutschland", "Next.js Entwickler Berlin", "Next.js Entwickler München", "Frontend Entwickler Deutschland",
         "Web Entwickler Berlin", "Software Ingenieur", "Software Entwickler Deutschland",
         "CHORN", "digitale Innovation", "Unternehmenssoftware"

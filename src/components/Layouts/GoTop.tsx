@@ -27,7 +27,7 @@ const GoTop = () => {
     return (
         <>
             {showButton && (
-                <div className="scroll-to-top" onClick={scrollToTop}>
+                <div className="scroll-to-top scroll-to-top-scope" onClick={scrollToTop}>
                     <i className="bx bx-up-arrow-alt"></i>
                 </div>
             )}

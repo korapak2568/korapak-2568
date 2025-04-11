@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import ServicesDetailsCss3 from "@/components/Services/frontend-development/css3/ServicesDetailsCss3";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
@@ -12,12 +11,11 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataCss3[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
-            <Navbar/>
             <ServicesDetailsCss3 lang={lang}/>
             <CloudExperience lang={lang}/>
             <SchemaMarkupServicePage
@@ -27,6 +25,4 @@ const Page = () => {
             />
         </>
     );
-};
-
-export default Page;
+}

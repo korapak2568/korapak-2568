@@ -27,7 +27,7 @@ export const MetadataHtml5DE: Metadata = {
         "HTML5 Entwicklung", "HTML5 technische Expertise", "HTML5 Entwickler", "benutzerdefinierte HTML5 Entwicklung", "HTML5 responsive Design",
         "HTML5 Webanwendungen", "HTML5 mobile Entwicklung", "benutzerdefinierte Webanwendungen", "HTML5 plattformübergreifende Apps",
         "maßgeschneiderte Softwareentwicklung",
-        "Single-Page-Anwendungen", "Frontend-Entwicklung", "Webentwickler", "skalierbare Webanwendungen",
+        "Single-AiBannerFahMain-Anwendungen", "Frontend-Entwicklung", "Webentwickler", "skalierbare Webanwendungen",
         "hochleistungsfähiges Webdesign", "responsives Webdesign", "dynamische Benutzeroberflächen",
         "HTML5 Entwickler Thailand", "HTML5 Entwickler Bangkok", "HTML5 Entwickler Chiang Mai", "Frontend-Entwickler Thailand",
         "Webentwickler Bangkok", "Softwareingenieur", "Softwareentwickler Thailand",

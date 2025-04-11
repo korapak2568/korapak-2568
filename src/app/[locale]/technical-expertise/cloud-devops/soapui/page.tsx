@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
 import FooterMain from "@/components/Footer/FooterMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsSoapUI from "@/components/Services/cloud-devops/soapui/ServicesDetailsSoapUI";
@@ -13,12 +12,11 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataSoapUI[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
-            <Navbar/>
             <ServicesDetailsSoapUI lang={lang}/>
             <CloudExperience lang={lang}/>
             <FooterMain lang={lang}/>
@@ -28,7 +26,5 @@ const Page = () => {
                 url="https://chorn.in.th/technical-expertise/cloud-devops/soapui/"
             />
         </>
-    );
-};
-
-export default Page;
+    )
+}

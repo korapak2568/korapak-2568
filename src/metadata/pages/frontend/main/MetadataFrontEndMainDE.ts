@@ -25,7 +25,7 @@ export const MetadataFrontEndMainDE: Metadata = {
     },
     keywords: [
         "Frontend-Entwicklung", "Frontend-Experten", "Frontend-Entwickler", "individuelle Frontend-Entwicklung",
-        "dynamische Benutzeroberflächen", "Single-Page-Anwendungen", "responsives Webdesign",
+        "dynamische Benutzeroberflächen", "Single-AiBannerFahMain-Anwendungen", "responsives Webdesign",
         "leistungsstarke Frontend-Anwendungen", "individuelle Softwareentwicklung",
         "React-Entwicklung", "Angular-Entwicklung", "Vue.js-Entwicklung", "Next.js Frontend-Entwicklung",
         "React.js-Entwicklung", "individuelle Angular-Frontend-Entwicklung", "React.js-Frontend-Anwendungen",

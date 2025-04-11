@@ -1,6 +1,4 @@
 import React from "react";
-import Navbar from "@/components/Layouts/Navbar";
-import FooterMain from "@/components/Footer/FooterMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import ServicesDetailsSelenium from "@/components/Services/cloud-devops/selenium/ServicesDetailsSelenium";
 import {Metadata} from "next";
@@ -13,12 +11,11 @@ export async function generateMetadata(): Promise<Metadata> {
     return MetadataSelenium[lang]
 }
 
-const Page = () => {
+export default function Page() {
     const lang = headers().get('x-locale') || 'en';
 
     return (
         <>
-            <Navbar/>
             <ServicesDetailsSelenium lang={lang}/>
             <CloudExperience lang={lang}/>
             <SchemaMarkupServicePage
@@ -27,7 +24,5 @@ const Page = () => {
                 url="https://chorn.in.th/technical-expertise/cloud-devops/selenium/"
             />
         </>
-    );
-};
-
-export default Page;
+    )
+}

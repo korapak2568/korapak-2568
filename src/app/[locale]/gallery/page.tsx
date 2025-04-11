@@ -1,4 +1,3 @@
-import Navbar from "@/components/Layouts/Navbar";
 import GalleryPageMain from "@/components/Gallery/GalleryPageMain";
 import GalleryModuleBottom from "@/components/Gallery/GalleryModuleBottom";
 import {Metadata} from "next";
@@ -15,7 +14,6 @@ export default function Page() {
 
     return (
         <>
-            <Navbar/>
             <GalleryPageMain lang={lang}/>
             <GalleryModuleBottom/>
         </>
