@@ -7,7 +7,7 @@ export const AboutFI: IAbout = {
     description: [
         {
             title: "Meistä",
-            description: "CHORN julkaisi verkkosivustonsa maaliskuussa 2023 seuratakseen ohjelmistokehitystä ja teknologiaa erilaisille nopeasti muuttuville liiketoiminta-alueiden toimialoille."
+            description: "CHORN julkaisi verkkosivustonsa maaliskuussa 2023 seuratakseen uusimpia tietoja nykypäivän nopeasti muuttuvasta teknologiasta, ohjelmistokehityksestä, eri liiketoiminta-alojen tietotekniikasta sekä mielenkiintoisista uutisista."
         },
         {
             title: "Asiantuntemus",

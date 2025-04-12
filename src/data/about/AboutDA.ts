@@ -7,7 +7,7 @@ export const AboutDA: IAbout = {
     description: [
         {
             title: "Om Os",
-            description: "CHORN lancerede sin hjemmeside i marts 2023 for at følge softwareudvikling og teknologi til forskellige hurtigt skiftende forretningsdomæneindustrier."
+            description: "CHORN lancerede sin hjemmeside i marts 2023 for at følge de seneste oplysninger om nutidens hurtigt skiftende teknologi, softwareudvikling, informationsteknologi til forskellige forretningsdomæneindustrier og interessante nyheder."
         },
         {
             title: "Ekspertise",

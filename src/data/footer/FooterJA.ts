@@ -4,10 +4,7 @@ export const FooterJA: IFooter = {
     title: "CHORN",
     link: "https://chorn.in.th/",
     www: "www.chorn.in.th",
-    description: "CHORNは、最先端のソフトウェアソリューション、" +
-        "数百万ユーザー向けのスケーラブルなウェブサイト、" +
-        "そして未来を見据えた卓越性を提供するイノベーションパートナーです。" +
-        "デジタルプレゼンスを私たちと共に向上させましょう。",
+    description: "CHORNは、現代の急速に変化するテクノロジー、ソフトウェア開発、様々なビジネスドメイン産業向けの情報技術、そして興味深いニュースに関する最新情報をフォローしています。",
     importantTitle: "重要リンク",
     featureTitle: "技術的専門知識",
     infoTitle: "情報",

@@ -7,7 +7,7 @@ export const AboutVI: IAbout = {
     description: [
         {
             title: "Về Chúng Tôi",
-            description: "CHORN ra mắt trang web vào tháng 3 năm 2023 để theo dõi sự phát triển phần mềm và công nghệ cho các ngành lĩnh vực kinh doanh đang thay đổi nhanh chóng."
+            description: "CHORN đã ra mắt trang web của mình vào tháng 3 năm 2023 để theo dõi thông tin mới nhất về công nghệ đang thay đổi nhanh chóng hiện nay, phát triển phần mềm, công nghệ thông tin cho các ngành lĩnh vực kinh doanh khác nhau, và những tin tức thú vị."
         },
         {
             title: "Chuyên Môn",

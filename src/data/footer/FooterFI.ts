@@ -4,9 +4,7 @@ export const FooterFI: IFooter = {
     title: "CHORN",
     link: "https://chorn.in.th/",
     www: "www.chorn.in.th",
-    description: "CHORN on innovaatiokumppanisi, joka toimittaa huippuluokan ohjelmistoratkaisuja, " +
-        "skaalautuvia verkkosivustoja miljoonille käyttäjille ja tulevaisuutta varten valmiita erinomaisia ratkaisuja. " +
-        "Kohota digitaalista läsnäoloasi kanssamme.",
+    description: "CHORN seuraa uusimpia tietoja nykypäivän nopeasti muuttuvasta teknologiasta, ohjelmistokehityksestä, eri liiketoiminta-alojen tietotekniikasta sekä mielenkiintoisista uutisista.",
     importantTitle: "Tärkeät linkit",
     featureTitle: "Tekninen asiantuntemus",
     infoTitle: "Tietoa",

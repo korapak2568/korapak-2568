@@ -4,9 +4,7 @@ export const FooterKO: IFooter = {
     title: "CHORN",
     link: "https://chorn.in.th/",
     www: "www.chorn.in.th",
-    description: "CHORN은 혁신적인 파트너로서 최첨단 소프트웨어 솔루션, " +
-        "수백만 사용자를 위한 확장 가능한 웹사이트, 그리고 미래를 대비한 우수성을 제공합니다. " +
-        "저희와 함께 디지털 존재감을 향상시키세요.",
+    description: "CHORN은 오늘날 빠르게 변화하는 기술, 소프트웨어 개발, 다양한 비즈니스 도메인 산업을 위한 정보 기술 및 흥미로운 뉴스에 대한 최신 정보를 팔로우합니다.",
     importantTitle: "중요 링크",
     featureTitle: "기술 전문 지식",
     infoTitle: "정보",
