@@ -10,7 +10,7 @@ export const Css3JA: IFrontEndStack = {
     link: "/technical-expertise/front-end-developer/css3-developer",
     features: [
         {
-            title: "CSS3レスポンシブデザイン",
+            title: "CSS3ウェブデザイン",
             description: "CSS3はカスケーディングスタイルシートの最新の進化であり、ウェブページの視覚的表現を向上させるための高度な機能を提供します。",
             list: []
         },

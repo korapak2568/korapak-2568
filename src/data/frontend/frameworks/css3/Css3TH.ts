@@ -10,7 +10,7 @@ export const Css3TH: IFrontEndStack = {
     link: "/technical-expertise/front-end-developer/css3-developer",
     features: [
         {
-            title: "การออกแบบที่ตอบสนองด้วย CSS3",
+            title: "การออกแบบเว็บด้วย CSS3",
             description: "CSS3 เป็นวิวัฒนาการล่าสุดของ Cascading Style Sheets ที่มอบคุณสมบัติขั้นสูงสำหรับการเพิ่มการนำเสนอภาพของหน้าเว็บ",
             list: []
         },

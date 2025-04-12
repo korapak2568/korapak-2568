@@ -10,7 +10,7 @@ export const Css3VI: IFrontEndStack = {
     link: "/technical-expertise/front-end-developer/css3-developer",
     features: [
         {
-            title: "Thiết kế Responsive CSS3",
+            title: "Thiết kế Web CSS3",
             description: "CSS3 là sự phát triển mới nhất của Cascading Style Sheets, cung cấp các tính năng nâng cao để cải thiện trình bày trực quan của trang web.",
             list: []
         },

@@ -10,7 +10,7 @@ export const Css3FI: IFrontEndStack = {
     link: "/technical-expertise/front-end-developer/css3-developer",
     features: [
         {
-            title: "CSS3-responsiivinen suunnittelu",
+            title: "CSS3-verkkosuunnittelu",
             description: "CSS3 on tyyliohjelmoinnin uusin kehitysvaihe, joka tarjoaa kehittyneitä ominaisuuksia verkkosivujen visuaalisen ilmeen parantamiseen.",
             list: []
         },

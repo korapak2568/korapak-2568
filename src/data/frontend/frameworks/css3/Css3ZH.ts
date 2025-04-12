@@ -10,7 +10,7 @@ export const Css3ZH: IFrontEndStack = {
     link: "/technical-expertise/front-end-developer/css3-developer",
     features: [
         {
-            title: "CSS3响应式设计",
+            title: "CSS3网页设计",
             description: "CSS3是层叠样式表的最新演进，提供增强网页视觉呈现的高级功能。",
             list: []
         },

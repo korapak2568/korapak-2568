@@ -10,7 +10,7 @@ export const Css3EN: IFrontEndStack = {
     link: "/technical-expertise/front-end-developer/css3-developer",
     features: [
         {
-            title: "CSS3 Responsive Design",
+            title: "CSS3 Web Design",
             description: "CSS3 is the latest evolution of Cascading Style Sheets, offering advanced features for enhancing the visual presentation of web pages.",
             list: []
         },

@@ -10,7 +10,7 @@ export const Css3DA: IFrontEndStack = {
     link: "/technical-expertise/front-end-developer/css3-developer",
     features: [
         {
-            title: "CSS3 Responsivt Design",
+            title: "CSS3 Webdesign",
             description: "CSS3 er den seneste udvikling af Cascading Style Sheets, der tilbyder avancerede funktioner til at forbedre den visuelle præsentation af websider.",
             list: []
         },

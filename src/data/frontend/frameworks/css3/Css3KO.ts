@@ -10,7 +10,7 @@ export const Css3KO: IFrontEndStack = {
     link: "/technical-expertise/front-end-developer/css3-developer",
     features: [
         {
-            title: "CSS3 반응형 디자인",
+            title: "CSS3 웹 디자인",
             description: "CSS3는 최신 스타일시트 기술로, 웹 페이지의 시각적 표현을 향상시키는 고급 기능을 제공합니다.",
             list: []
         },
