@@ -1364,6 +1364,11 @@
       display: flex;
       align-items: center;
 
+      // fixing the icons disappears on the mobile device
+      backface-visibility: hidden;
+      transform: translate3d(0, 0, 0);
+      // end of fixing the icons disappears
+
       .feature-icon {
         display: inline-block;
         height: 25px;
