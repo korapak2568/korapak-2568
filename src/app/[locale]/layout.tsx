@@ -1,5 +1,8 @@
 // src/app/[locale]/layout.tsx
 
+import "@/styles/globals.scss"
+
+// Fundamental css
 import "@/styles/bootstrap.min.css";
 import "@/styles/animate.css";
 import "@/styles/boxicons.min.css";
@@ -9,9 +12,9 @@ import "swiper/css";
 import "swiper/css/bundle";
 import {SpeedInsights} from "@vercel/speed-insights/next"
 
-// Custom Styles
-import "@/styles/style.css";
-import "@/styles/responsive.css";
+// Custom scss, css
+import "@/styles/style.scss";
+import "@/styles/responsive.scss";
 import "@/styles/addition.scss";
 import "@/styles/x-color-style.scss";
 
@@ -34,22 +37,24 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
 
     return (
         <html lang={lang}>
-        <body className={dm_sans.className}>
-        <ProviderWrapper locale={lang}>
-            <ConsentModal/>
-            <Navbar/>
+        <body className={`${dm_sans.className} main}`}>
+        <div className="main-container">
+            <ProviderWrapper locale={lang}>
+                <ConsentModal/>
+                <Navbar/>
 
-            {children}
+                {children}
 
-            <div>
-                <SubscribeForm lang={lang}/>
-                <WeWorkForIndustries lang={lang}/>
-                <FooterMain lang={lang}/>
-            </div>
-        </ProviderWrapper>
-        <AosAnimation/>
-        <GoTop/>
-        <SpeedInsights/>
+                <div>
+                    <SubscribeForm lang={lang}/>
+                    <WeWorkForIndustries lang={lang}/>
+                    <FooterMain lang={lang}/>
+                </div>
+            </ProviderWrapper>
+            <AosAnimation/>
+            <GoTop/>
+            <SpeedInsights/>
+        </div>
         </body>
         </html>
     );

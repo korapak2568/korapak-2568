@@ -1,6 +1,5 @@
 // src/app/[locale]/AiBannerFahMain.tsx
 
-import Navbar from "../../components/Layouts/Navbar";
 import HomeFeatureMain from "../../components/Features/HomeFeatureMain";
 import AboutContent from "@/components/About/AboutContent";
 import HomeFrontEndContainer from "@/components/Common/HomeFrontEnd/HomeFrontEndContainer";

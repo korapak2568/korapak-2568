@@ -35,14 +35,17 @@ export default function ServicesDetailsGoLang({lang}: { lang: string }) {
                                             <ul className="feature-list">
                                                 {InfoTranslation[lang].FullStack.go.features[1].list.map((item: string, index: number) => (
                                                     <li key={index} className="feature-item">
-                                                        <div className="icon">
-                                                            <i className="flaticon-check"></i>
-                                                        </div>
-                                                        <div className="content">
-                                                            <p>
-                                                                {item}
-                                                            </p>
-                                                        </div>
+                                                        <li key={index} className="feature-item">
+                                                            <div className="feature-icon-container">
+                                                                <div className="feature-icon">
+                                                                    <i className="flaticon-check"></i>
+                                                                </div>
+                                                                <div className="feature-title">
+                                                                    {item}
+                                                                </div>
+                                                            </div>
+                                                            <div className="feature-content"/>
+                                                        </li>
                                                     </li>
                                                 ))}
                                             </ul>

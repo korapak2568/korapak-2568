@@ -5,7 +5,7 @@ import HomeWorkspaceSlice from "@/components/Home/HomeWorkspaceSlice";
 export default function HomeWorkspace({lang}: { lang: string }) {
     return (
         <>
-            <div className="home-wrapper-area">
+            <div className="home-wrapper-area deep-screen-m10">
                 <HomeWorkspaceSlice lang={lang}/>
                 <MainShape/>
             </div>

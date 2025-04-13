@@ -35,14 +35,15 @@ export default function ServicesDetailsPhp({lang}: { lang: string }) {
                                             <ul className="feature-list">
                                                 {InfoTranslation[lang].FullStack.php.features[1].list.map((item: string, index: number) => (
                                                     <li key={index} className="feature-item">
-                                                        <div className="icon">
-                                                            <i className="flaticon-check"></i>
-                                                        </div>
-                                                        <div className="content">
-                                                            <p>
+                                                        <div className="feature-icon-container">
+                                                            <div className="feature-icon">
+                                                                <i className="flaticon-check"></i>
+                                                            </div>
+                                                            <div className="feature-title">
                                                                 {item}
-                                                            </p>
+                                                            </div>
                                                         </div>
+                                                        <div className="feature-content"/>
                                                     </li>
                                                 ))}
                                             </ul>

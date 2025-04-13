@@ -4,11 +4,10 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 export default function SubscribeForm({lang}: { lang: string }) {
     return (
         <>
-            <div
-                className="subscribe-area ptb-100"
-                style={{
-                    backgroundImage: `url(/images/main-banner-bg-1.webp)`,
-                }}
+            <div className="subscribe-area ptb-100 deep-screen-m10"
+                 style={{
+                     backgroundImage: `url(/images/main-banner-bg-1.webp)`,
+                 }}
             >
                 <div className="container">
                     <div className="subscribe-content">

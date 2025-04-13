@@ -704,6 +704,7 @@
     .feature-icon-container {
       display: flex;
       align-items: center;
+      position: relative;
 
       .feature-icon {
         display: inline-block;
@@ -738,33 +739,6 @@
         margin-left: 45px;
       }
     }
-
-    // Legacy icon and content
-    .icon {
-      display: inline-block;
-      height: 30px;
-      width: 30px;
-      line-height: 30px;
-      background: #06c755;
-      color: #fff;
-      text-align: center;
-      font-size: 15px;
-      border-radius: 30px;
-      margin-right: 30px;
-      transition: .5s;
-      position: absolute;
-    }
-
-    .content {
-      margin-left: 50px;
-      margin-bottom: 20px;
-
-      p {
-        margin-top: 0;
-      }
-    }
-
-    // End of legacy icon and content
   }
 }
 
@@ -1492,4 +1466,44 @@
   .navbar .navbar-nav .nav-item a {
     color: #ffffff;
   }
+}
+
+.deep-screen-m1 {
+  position: relative;
+  z-index: -1 !important;
+}
+
+.deep-screen-m10 {
+  position: relative;
+  z-index: -10 !important;
+}
+
+.deep-screen-m100 {
+  position: relative;
+  z-index: -100 !important;
+}
+
+.deep-screen-m1000 {
+  position: relative;
+  z-index: -1000 !important;
+}
+
+.deep-screen-p1 {
+  position: relative;
+  z-index: 1 !important;
+}
+
+.deep-screen-p10 {
+  position: relative;
+  z-index: 10 !important;
+}
+
+.deep-screen-p100 {
+  position: relative;
+  z-index: 100 !important;
+}
+
+.deep-screen-p1000 {
+  position: relative;
+  z-index: 1000 !important;
 }
