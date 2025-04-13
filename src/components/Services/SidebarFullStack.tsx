@@ -33,7 +33,7 @@ export default function SidebarFullStack({lang}: { lang: string }) {
                         }
 
                         return (
-                            <li key={index} className="service-item">
+                            <li key={index}>
                                 <Link href={'/' + lang + item.link}>
                                     <Image src={item.image} alt={item.alt} width="50" height="50"/>
                                     <span className="px-3">{item.features[0].title}</span>
