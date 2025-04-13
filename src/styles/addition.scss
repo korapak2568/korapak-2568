@@ -705,6 +705,7 @@
       display: flex;
       align-items: center;
       position: relative;
+      z-index: 1;
 
       .feature-icon {
         display: inline-block;
@@ -720,6 +721,10 @@
         margin-right: 30px;
         transition: .5s;
         position: absolute;
+
+        // fixing the icons disappears on the mobile device
+        backface-visibility: hidden;
+        transform: translate3d(0, 0, 0);
       }
 
       .feature-title {

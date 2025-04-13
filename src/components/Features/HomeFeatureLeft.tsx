@@ -4,7 +4,7 @@ import React from "react";
 
 export default function HomeFeatureLeft({lang}: { lang: string }) {
     return (
-        <div className="col-lg-6 deep-screen-m10">
+        <div className="col-lg-6">
             <div className="features-image-warp">
                 <Image
                     src={ImageUrl.feature.morningSky.path}
