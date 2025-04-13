@@ -665,6 +665,11 @@
   display: flex;
   justify-content: space-between;
 
+  // fixing the icons disappears on the mobile device
+  backface-visibility: hidden;
+  transform: translate3d(0, 0, 0);
+  // end of fixing the icons disappears
+
   .social-about {
     margin-bottom: 0;
     margin-top: 10px;
@@ -859,7 +864,7 @@
     display: list-item;
     text-align: -webkit-match-parent;
     unicode-bidi: isolate;
-    
+
     // fixing the icons disappears on the mobile device
     backface-visibility: hidden;
     transform: translate3d(0, 0, 0);
@@ -1280,6 +1285,11 @@
     padding-top: 30px;
     padding-left: 30px;
     background: linear-gradient(to right, #06c755, #0f91ff); // ✨ premium green-to-blue
+
+    // fixing the icons disappears on the mobile device
+    backface-visibility: hidden;
+    transform: translate3d(0, 0, 0);
+    // end of fixing the icons disappears
 
     .footer-logo-social-container {
       .logo-social {
