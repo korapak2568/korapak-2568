@@ -1,6 +1,6 @@
 "use client";
 
-import React, {useState, useEffect} from "react";
+import React, {useState, useEffect, useReducer} from "react";
 import Link from "next/link";
 import Image from "next/image";
 import MenuItem from "./MenuItem";
@@ -8,30 +8,26 @@ import {INavbar} from "@/data/navbar/model/INavbar";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {Globe} from "lucide-react";
 import {ITranslate} from "@/data/translate/model/ITranslate";
-import {useDispatch} from "react-redux";
-import {setTranslate} from "@/redux/serviceSlice";
+import {useDispatch, useSelector} from "react-redux";
+import {
+    setTranslate,
+    toggleLanguageMenuVisible, toggleMobileMenuVisible
+} from "@/provider/redux/AppSlice";
 import {useRouter} from "next/navigation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {useLanguage} from "@/provider/hooks/LanguageHook";
 import {ImageUrl} from "@/image/ImageUrl";
+import {RootState} from "@/provider/redux/store";
 
 const Navbar: React.FC = () => {
     const router = useRouter();
-    const [menu, setMenu] = useState(true);
-    const [isLanguageMenuOpen, setIsLanguageMenuOpen] = useState(false);
     const dispatch = useDispatch();
-    const locale = useLocale()
-
-    const toggleNavbar = () => {
-        setMenu(!menu);
-    };
-
-    const toggleLanguageMenu = () => {
-        setIsLanguageMenuOpen(!isLanguageMenuOpen);
-    }
+    const locale = useLanguage()
+    const mobileMenuVisible = useSelector((state: RootState) => state.app.mobileMenuVisible);
+    const languageMenuVisible = useSelector((state: RootState) => state.app.languageMenuVisible);
 
     const changeLanguage = (translate: ITranslate) => {
         dispatch(setTranslate(translate));
-        setIsLanguageMenuOpen(!isLanguageMenuOpen);
+        dispatch(toggleLanguageMenuVisible());
 
         const pathSegments = window.location.pathname.split("/");
         const currentPath = pathSegments.slice(2).join("/") || "";
@@ -55,10 +51,10 @@ const Navbar: React.FC = () => {
     }, []);
 
     // Search Modal
-    const classOne = menu
+    const classOne = mobileMenuVisible
         ? "collapse navbar-collapse"
         : "collapse navbar-collapse show";
-    const classTwo = menu
+    const classTwo = mobileMenuVisible
         ? "navbar-toggler navbar-toggler-right collapsed"
         : "navbar-toggler navbar-toggler-right";
 
@@ -79,7 +75,8 @@ const Navbar: React.FC = () => {
 
                             <div className="navbar-langs">
                                 <button
-                                    onClick={toggleLanguageMenu}
+                                    onClick={() =>
+                                        dispatch(toggleLanguageMenuVisible())}
                                     className="language-button"
                                     type="button"
                                     aria-label="Select language"
@@ -88,7 +85,7 @@ const Navbar: React.FC = () => {
                                     {locale.label}
                                 </button>
                                 {
-                                    isLanguageMenuOpen &&
+                                    languageMenuVisible &&
                                     <ul className="dropdown-langs">
                                         {InfoTranslation[locale.value].Translates.map((translate, index) =>
                                             <li key={index}
@@ -102,7 +99,8 @@ const Navbar: React.FC = () => {
                             </div>
 
                             <button
-                                onClick={toggleNavbar}
+                                onClick={() =>
+                                    dispatch(toggleMobileMenuVisible())}
                                 className={classTwo}
                                 type="button"
                                 data-toggle="collapse"
@@ -118,9 +116,9 @@ const Navbar: React.FC = () => {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
-                                    {InfoTranslation[locale.value].Navbar.map((menuItem: INavbar, index) => (
-                                        <MenuItem key={index} {...menuItem} />
-                                    ))}
+                                    {InfoTranslation[locale.value].Navbar.map((menuItem: INavbar, index) => {
+                                        return <MenuItem key={index} {...menuItem} />
+                                    })}
                                 </ul>
                             </div>
 

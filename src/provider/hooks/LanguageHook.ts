@@ -1,14 +1,13 @@
 "use client"
 
-import {createContext, useContext} from "react";
+import {useContext} from "react";
 import {TranslateRecord} from "@/data/translate/TranslateRecord";
 import {useDispatch} from "react-redux";
-import {setTranslate} from "@/redux/serviceSlice";
+import {setTranslate} from "@/provider/redux/AppSlice";
+import {LanguageContext} from "@/provider/context/DefineContext";
 
-export const LocaleContext = createContext<string | undefined>('en');
-
-export const useLocale = () => {
-    const language = useContext(LocaleContext);
+export const useLanguage = () => {
+    const language = useContext(LanguageContext);
     if (!language) throw new Error("useLocale() must be used within the LocaleProvider");
 
     const translate = TranslateRecord[language]

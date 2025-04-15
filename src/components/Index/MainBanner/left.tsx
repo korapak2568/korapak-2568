@@ -1,10 +1,10 @@
 import Link from "next/link";
 import React from "react";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {useLanguage} from "@/provider/hooks/LanguageHook";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export default function Left() {
-    const locale = useLocale()
+    const locale = useLanguage()
 
     return (
         <div className="col-lg-6">

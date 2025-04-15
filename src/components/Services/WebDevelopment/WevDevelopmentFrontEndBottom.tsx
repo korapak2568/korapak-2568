@@ -7,27 +7,24 @@ import Image from "next/image";
 export default function WevDevelopmentFrontEndBottom({lang}: { lang: string }) {
     return (
         <div className="services-area bg-fafafa pt-100 pb-70 addition-ptb-0">
-            <div className="container">
-                <div className="row">
-                    {InfoTranslation[lang].FrontEnd.stacks.slice(0, 3).map((item: IFrontEndStack, index: number) => (
-                        <div key={index} className="col-lg-4 col-md-6">
-                            <Link href={'/' + lang + item.link}>
-                                <div className="home-frontend-box">
-                                    <div className="icon">
-                                        <Image
-                                            src={item.image}
-                                            alt={item.title}
-                                            width={150}
-                                            height={150}
-                                        />
-                                    </div>
-
-                                    <h3> {item.title} </h3>
+            <div className="row">
+                {InfoTranslation[lang].FrontEnd.stacks.slice(0, 3).map((item: IFrontEndStack, index: number) => (
+                    <div key={index} className="col-lg-4 col-md-6">
+                        <Link href={'/' + lang + item.link}>
+                            <div className="home-frontend-box">
+                                <div className="icon">
+                                    <Image
+                                        src={item.image}
+                                        alt={item.title}
+                                        width={150}
+                                        height={150}
+                                    />
                                 </div>
-                            </Link>
-                        </div>
-                    ))}
-                </div>
+                                <h3> {item.title} </h3>
+                            </div>
+                        </Link>
+                    </div>
+                ))}
             </div>
         </div>
     )

@@ -3,8 +3,8 @@
 
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { RootState } from '@/redux/store';
-import { increment, decrement, incrementByAmount } from '@/redux/counterSlice';
+import { RootState } from '@/provider/redux/store';
+import { increment, decrement, incrementByAmount } from '@/provider/redux/CounterSlice';
 
 export default function Counter(){
     const count = useSelector((state: RootState) => state.counter.value);

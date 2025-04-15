@@ -4,12 +4,12 @@
 import {useState, useEffect} from 'react';
 import Link from "next/link";
 import Image from "next/image";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {useLanguage} from "@/provider/hooks/LanguageHook";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/image/ImageUrl";
 
 const ConsentModal = () => {
-        const locale = useLocale();
+        const locale = useLanguage();
         const [isVisible, setIsVisible] = useState(false);
 
         useEffect(() => {

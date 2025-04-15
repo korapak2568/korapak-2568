@@ -1,4 +1,4 @@
-// src/features/counterSlice.ts
+// src/features/CounterSlice.ts
 import {createSlice} from '@reduxjs/toolkit';
 
 export interface CounterState {

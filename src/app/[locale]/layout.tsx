@@ -22,7 +22,7 @@ import {DM_Sans} from "next/font/google";
 import AosAnimation from "@/components/Layouts/AosAnimation";
 import GoTop from "@/components/Layouts/GoTop";
 import React from "react";
-import ProviderWrapper from "../../components/ProviderWrapper/ProviderWrapper";
+import ProviderWrapper from "../../provider/ProviderWrapper";
 import ConsentModal from "@/components/Consent/ConsentModal";
 import {headers} from "next/headers";
 import SubscribeForm from "@/components/Common/SubscribeForm";

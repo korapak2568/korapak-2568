@@ -1,10 +1,10 @@
 import React from "react";
 import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLocale} from "@/components/ProviderWrapper/LocaleContext";
+import {useLanguage} from "@/provider/hooks/LanguageHook";
 
 export const ContactSidebar: React.FC = () => {
-    const locale = useLocale()
+    const locale = useLanguage()
 
     return (
 
