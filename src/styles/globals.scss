@@ -27,7 +27,7 @@ html, body {
   overflow-x: hidden;
 
   -webkit-overflow-scrolling: touch;
-  touch-action: none;
+  touch-action: manipulation;
   overscroll-behavior: none;
   scroll-behavior: smooth;
 
