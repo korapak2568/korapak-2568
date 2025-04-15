@@ -15,11 +15,11 @@ export default function MenuItem({group, label, link, submenu}:
     const menuLabelIncludeSubmenu: IMenuLabel = {language, link, pathname, group, label, isIncludeSubMenu: true}
 
     return submenu.length == 0 ?
-        <li className="nav-item">
+        <div className="nav-item x-navbar-item">
             <MenuLabel menuLabel={menuLabel}/>
-        </li>
+        </div>
         :
-        <li className="nav-item">
+        <li className="nav-item x-navbar-item">
             <MenuLabel menuLabel={menuLabelIncludeSubmenu}/>
             <MenuDropDown submenu={submenu} language={language} pathname={pathname} group={group}/>
         </li>

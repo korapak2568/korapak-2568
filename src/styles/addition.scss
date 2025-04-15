@@ -312,12 +312,37 @@
   color: white;
 }
 
-.add-navbar-active {
-  color: #c12b42 !important;
+// Navbar
+.x-navbar-item {
+  background-color: #f2f2f2;
 
-  &:hover, &:focus {
-    color: #9b1f31 !important;
-    text-decoration: underline;
+  @media (min-width: 1024px) {
+    background-color: unset !important;
+  }
+
+  a {
+    padding: 5px 25px 5px 25px !important;
+  }
+
+  &:hover, &:focus, a.active, a:hover {
+    background: linear-gradient(to right, #06c755, #0f91ff) !important;
+    color: #ffffff !important;
+  }
+
+  .x-navbar-dropdown {
+    top: 0 !important;
+
+    li a {
+      padding-left: 50px !important;
+    }
+
+    @media (min-width: 1024px) {
+      top: 35px !important;
+
+      li a {
+        padding-left: 25px !important;
+      }
+    }
   }
 }
 
@@ -1496,13 +1521,13 @@
   transform: translateZ(0);
 }
 
-.navbar-area-addition {
-  background: linear-gradient(to right, #06c755, #0f91ff) !important;
-
-  .navbar .navbar-nav .nav-item a {
-    color: #ffffff;
-  }
-}
+//.navbar-area-addition {
+//  background: linear-gradient(to right, #06c755, #0f91ff) !important;
+//
+//  .navbar .navbar-nav .nav-item a {
+//    color: #ffffff;
+//  }
+//}
 
 .deep-screen-m1 {
   position: relative;

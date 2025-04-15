@@ -32,10 +32,12 @@ export default function MenuLabel({menuLabel}: { menuLabel: IMenuLabel }) {
     return (
         <Link
             href={'/' + menuLabel.language.value + menuLabel.link}
-            className={`nav-link ${isCheckActiveMenu ? "active add-navbar-active" : ""}`}
+            className={`nav-link ${isCheckActiveMenu ? "active x-active" : ""}`}
             onClick={() => saveClickedLinked(menuLabel.group)}
         >
-            {menuLabel.label} {menuLabel.isIncludeSubMenu && <i className="bx bx-chevron-down"></i>}
+            {/*<div className="x-menu-label-container">*/}
+                {menuLabel.label} {menuLabel.isIncludeSubMenu && <i className="bx bx-chevron-down"></i>}
+            {/*</div>*/}
         </Link>
     )
 }

@@ -14,7 +14,7 @@ export default function MenuDropDown(
     }
 ) {
     return (
-        <ul className="dropdown-menu">
+        <ul className="dropdown-menu x-navbar-dropdown">
             {submenu.map((subItem: INavbar, index) => {
                 const subMenuLabel: IMenuLabel = {
                     language,
@@ -27,7 +27,7 @@ export default function MenuDropDown(
 
                 return subItem.isSeparated ?
                     <MenuLabelHorizontalLine key={index}/> :
-                    <li className="nav-item" key={index}>
+                    <li key={index}>
                         <MenuLabel menuLabel={subMenuLabel}/>
                     </li>
             })}
