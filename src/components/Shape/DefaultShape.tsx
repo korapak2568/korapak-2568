@@ -5,7 +5,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const DefaultShape: React.FC = () => {
     return (
         <div className="default-shape">
-            <div className="shape1">
+            <div className="shape1 deep-screen-p10">
                 <Image
                     src={ImageUrl.shape.default.shape1.path}
                     alt="image"
@@ -13,7 +13,7 @@ export const DefaultShape: React.FC = () => {
                     height={52}
                 />
             </div>
-            <div className="shape2">
+            <div className="shape2 deep-screen-p10">
                 <Image
                     src={ImageUrl.shape.default.shape2.path}
                     alt="image"
@@ -21,7 +21,7 @@ export const DefaultShape: React.FC = () => {
                     height={16}
                 />
             </div>
-            <div className="shape3">
+            <div className="shape3 deep-screen-p10">
                 <Image
                     src={ImageUrl.shape.default.shape3.path}
                     alt="image"
@@ -29,7 +29,7 @@ export const DefaultShape: React.FC = () => {
                     height={18}
                 />
             </div>
-            <div className="shape4">
+            <div className="shape4 deep-screen-p10">
                 <Image
                     src={ImageUrl.shape.default.shape4.path}
                     alt="image"
