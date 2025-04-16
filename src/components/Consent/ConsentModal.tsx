@@ -6,10 +6,10 @@ import Link from "next/link";
 import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/image/ImageUrl";
-import {useLanguageHook} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/AppStateHook";
 
 const ConsentModal = () => {
-        const language = useLanguageHook()
+        const language = useLanguage()
         const [isVisible, setIsVisible] = useState(false);
 
         useEffect(() => {

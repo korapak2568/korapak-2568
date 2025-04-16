@@ -1,13 +1,26 @@
 "use client"
 
-import {useSelector} from "react-redux";
+import {TypedUseSelectorHook, useSelector} from "react-redux";
 import {RootState} from "@/provider/redux/store";
 import {IAppState} from "@/provider/redux/model/IAppState";
 import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
 
-export const useLanguageOptionHook: () => ILanguageOption = () => useSelector((state: RootState) => state.app.languageOption)
-export const useAppStateHook: () => IAppState = () => useSelector((state: RootState) => state.app)
+// App Selector
+export const useAppSelector: TypedUseSelectorHook<RootState> = useSelector
 
-export const useLanguageHook: () => string = () => useLanguageOptionHook().language
-export const useMobileMenuVisibleHook = () => useAppStateHook().mobileMenuVisible
-export const useLanguageMenuVisibleHook = () => useAppStateHook().languageMenuVisible
+// App state hooks
+export const useAppState: () => IAppState = () =>
+    useAppSelector(state => state.app)
+
+// App variable hooks
+export const useLanguageOption: () => ILanguageOption = () =>
+    useAppState().languageOption
+
+export const useLanguage: () => string = () =>
+    useAppState().languageOption.language
+
+export const useMobileMenuVisible: () => boolean = () =>
+    useAppState().mobileMenuVisible
+
+export const useLanguageMenuVisible: () => boolean = () =>
+    useAppState().languageMenuVisible

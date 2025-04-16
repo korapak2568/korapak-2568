@@ -3,11 +3,11 @@
 import React, {useState} from "react";
 import Link from "next/link";
 import {IAboutContent} from "@/data/about/model/IAboutContent";
-import {useLanguageHook} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/AppStateHook";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const AboutContent: React.FC = () => {
-    const language = useLanguageHook()
+    const language = useLanguage()
 
     return (
         <>

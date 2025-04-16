@@ -6,11 +6,11 @@ import React from "react";
 import {toggleMobileMenuVisible} from "@/provider/redux/AppSlice";
 import {useDispatch} from "react-redux";
 import {IMenuLabel} from "@/components/Layouts/model/IMenuLabel";
-import {useLanguageHook} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/AppStateHook";
 
 export default function MenuLabel({menuLabel}: { menuLabel: IMenuLabel }) {
     const dispatch = useDispatch();
-    const language = useLanguageHook()
+    const language = useLanguage()
     const isActiveMain = isActiveMainMenu(menuLabel.pathname, menuLabel.group)
     const isActiveSub = isActiveSubMenu(menuLabel.pathname, '/' + language + menuLabel.link)
     const isCheckActiveMenu = menuLabel.isSubMenu ? isActiveSub : isActiveMain

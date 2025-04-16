@@ -3,10 +3,10 @@
 import Link from "next/link";
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLanguageHook} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/AppStateHook";
 
 export default function Left() {
-    const language = useLanguageHook()
+    const language = useLanguage()
 
     return (
         <div className="col-lg-6">

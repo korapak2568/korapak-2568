@@ -1,11 +1,11 @@
 "use client"
 
 import React from "react";
-import {useLanguageHook} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/AppStateHook";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export function ContactLocation() {
-    const language = useLanguageHook()
+    const language = useLanguage()
 
     return (
         <div className="col-lg-4 col-md-6 col-sm-6">

@@ -4,11 +4,11 @@ import React from "react";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation} from "swiper/modules";
 import {IRecommendDetail} from "@/data/recommend/model/IRecommendDetail";
-import {useLanguageHook} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/AppStateHook";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const Recommendations: React.FC = () => {
-    const language = useLanguageHook()
+    const language = useLanguage()
 
     return (
         <>

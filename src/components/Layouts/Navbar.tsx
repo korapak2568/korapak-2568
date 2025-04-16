@@ -16,19 +16,19 @@ import {useRouter} from "next/navigation";
 import {ImageUrl} from "@/image/ImageUrl";
 import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
 import {
-    useLanguageHook,
-    useLanguageMenuVisibleHook,
-    useLanguageOptionHook,
-    useMobileMenuVisibleHook
+    useLanguage,
+    useLanguageMenuVisible,
+    useLanguageOption,
+    useMobileMenuVisible
 } from "@/provider/hooks/AppStateHook";
 
 export default function Navbar() {
     const router = useRouter();
     const dispatch = useDispatch();
-    const language = useLanguageHook()
-    const languageOption = useLanguageOptionHook()
-    const mobileMenuVisible = useMobileMenuVisibleHook()
-    const languageMenuVisible = useLanguageMenuVisibleHook()
+    const language = useLanguage()
+    const languageOption = useLanguageOption()
+    const mobileMenuVisible = useMobileMenuVisible()
+    const languageMenuVisible = useLanguageMenuVisible()
 
     const changeLanguage = (languageOption: ILanguageOption) => {
         dispatch(setLanguageOption(languageOption));
