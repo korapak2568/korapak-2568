@@ -1,7 +1,7 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AboutVI} from "@/data/about/AboutVI";
 import {GalleryVI} from "@/data/gallery/GalleryVI";
 import {FullStackVI} from "@/data/fullstack/FullStackVI";
@@ -49,7 +49,7 @@ export const InfoVI: IInfo = {
     Consent: ConsentVI,
 
     Gallery: GalleryVI,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionVI,
     TransformBusiness: TransformBusinessVI,
 

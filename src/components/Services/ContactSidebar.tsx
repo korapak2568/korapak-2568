@@ -1,10 +1,10 @@
 import React from "react";
 import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLanguage} from "@/provider/hooks/LanguageHook";
+import {useLanguageHook} from "@/provider/hooks/AppStateHook";
 
 export const ContactSidebar: React.FC = () => {
-    const locale = useLanguage()
+    const language = useLanguageHook()
 
     return (
 
@@ -12,9 +12,9 @@ export const ContactSidebar: React.FC = () => {
             <h3>Contact</h3>
 
             <div>
-                <a href={InfoTranslation[locale.value].Contact.line.link} target={'_blank'}>
+                <a href={InfoTranslation[language].Contact.line.link} target={'_blank'}>
                     <Image
-                        src={InfoTranslation[locale.value].Contact.line.button}
+                        src={InfoTranslation[language].Contact.line.button}
                         alt="เพิ่มเพื่อน"
                         width={120}
                         height={36}

@@ -1,7 +1,7 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AboutNL} from "@/data/about/AboutNL";
 import {GalleryNL} from "@/data/gallery/GalleryNL";
 import {FullStackNL} from "@/data/fullstack/FullStackNL";
@@ -49,7 +49,7 @@ export const InfoNL: IInfo = {
     Consent: ConsentNL,
 
     Gallery: GalleryNL,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionNL,
     TransformBusiness: TransformBusinessNL,
 

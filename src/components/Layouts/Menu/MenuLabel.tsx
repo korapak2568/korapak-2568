@@ -3,25 +3,16 @@
 import {isActiveMainMenu, isActiveSubMenu} from "@/lib/utils";
 import Link from "next/link";
 import React from "react";
-import {ITranslate} from "@/data/translate/model/ITranslate";
 import {toggleMobileMenuVisible} from "@/provider/redux/AppSlice";
 import {useDispatch} from "react-redux";
-
-export interface IMenuLabel {
-    language: ITranslate
-    link: string,
-    pathname: string
-    group: string
-    label: string
-    isIncludeSubMenu?: boolean,
-    isSubMenu?: boolean,
-}
+import {IMenuLabel} from "@/components/Layouts/model/IMenuLabel";
+import {useLanguageHook} from "@/provider/hooks/AppStateHook";
 
 export default function MenuLabel({menuLabel}: { menuLabel: IMenuLabel }) {
     const dispatch = useDispatch();
-
+    const language = useLanguageHook()
     const isActiveMain = isActiveMainMenu(menuLabel.pathname, menuLabel.group)
-    const isActiveSub = isActiveSubMenu(menuLabel.pathname, '/' + menuLabel.language.value + menuLabel.link)
+    const isActiveSub = isActiveSubMenu(menuLabel.pathname, '/' + language + menuLabel.link)
     const isCheckActiveMenu = menuLabel.isSubMenu ? isActiveSub : isActiveMain
 
     const saveClickedLinked = (group: string) => {
@@ -31,13 +22,11 @@ export default function MenuLabel({menuLabel}: { menuLabel: IMenuLabel }) {
 
     return (
         <Link
-            href={'/' + menuLabel.language.value + menuLabel.link}
+            href={'/' + language + menuLabel.link}
             className={`nav-link ${isCheckActiveMenu ? "active x-active" : ""}`}
             onClick={() => saveClickedLinked(menuLabel.group)}
         >
-            {/*<div className="x-menu-label-container">*/}
-                {menuLabel.label} {menuLabel.isIncludeSubMenu && <i className="bx bx-chevron-down"></i>}
-            {/*</div>*/}
+            {menuLabel.label} {menuLabel.isIncludeSubMenu && <i className="bx bx-chevron-down"></i>}
         </Link>
     )
 }

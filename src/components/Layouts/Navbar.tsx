@@ -1,42 +1,47 @@
 "use client";
 
-import React, {useState, useEffect, useReducer} from "react";
+import React, {useEffect} from "react";
 import Link from "next/link";
 import Image from "next/image";
 import MenuItem from "./MenuItem";
 import {INavbar} from "@/data/navbar/model/INavbar";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {Globe} from "lucide-react";
-import {ITranslate} from "@/data/translate/model/ITranslate";
-import {useDispatch, useSelector} from "react-redux";
+import {useDispatch} from "react-redux";
 import {
-    setTranslate,
+    setLanguageOption,
     toggleLanguageMenuVisible, toggleMobileMenuVisible
 } from "@/provider/redux/AppSlice";
 import {useRouter} from "next/navigation";
-import {useLanguage} from "@/provider/hooks/LanguageHook";
 import {ImageUrl} from "@/image/ImageUrl";
-import {RootState} from "@/provider/redux/store";
+import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
+import {
+    useLanguageHook,
+    useLanguageMenuVisibleHook,
+    useLanguageOptionHook,
+    useMobileMenuVisibleHook
+} from "@/provider/hooks/AppStateHook";
 
-const Navbar: React.FC = () => {
+export default function Navbar() {
     const router = useRouter();
     const dispatch = useDispatch();
-    const locale = useLanguage()
-    const mobileMenuVisible = useSelector((state: RootState) => state.app.mobileMenuVisible);
-    const languageMenuVisible = useSelector((state: RootState) => state.app.languageMenuVisible);
+    const language = useLanguageHook()
+    const languageOption = useLanguageOptionHook()
+    const mobileMenuVisible = useMobileMenuVisibleHook()
+    const languageMenuVisible = useLanguageMenuVisibleHook()
 
-    const changeLanguage = (translate: ITranslate) => {
-        dispatch(setTranslate(translate));
+    const changeLanguage = (languageOption: ILanguageOption) => {
+        dispatch(setLanguageOption(languageOption));
         dispatch(toggleLanguageMenuVisible());
 
         const pathSegments = window.location.pathname.split("/");
         const currentPath = pathSegments.slice(2).join("/") || "";
 
-        router.push(`/${translate.value}/${currentPath}`);
+        router.push(`/${languageOption.language}/${currentPath}`);
     }
 
-    const isActiveTranslate = (translate: ITranslate) => {
-        return translate.value == locale.value;
+    const isActiveTranslate = (languageOption: ILanguageOption) => {
+        return languageOption.language == language;
     }
 
     useEffect(() => {
@@ -82,12 +87,12 @@ const Navbar: React.FC = () => {
                                     aria-label="Select language"
                                 >
                                     <Globe size={16} color="white" style={{marginRight: "5px"}}/>
-                                    {locale.label}
+                                    {languageOption.label}
                                 </button>
                                 {
                                     languageMenuVisible &&
                                     <ul className="dropdown-langs">
-                                        {InfoTranslation[locale.value].Translates.map((translate, index) =>
+                                        {InfoTranslation[language].Translates.map((translate, index) =>
                                             <li key={index}
                                                 className={isActiveTranslate(translate) ? 'dropdown-active' : ''}
                                                 onClick={() => changeLanguage(translate)}
@@ -116,7 +121,7 @@ const Navbar: React.FC = () => {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
-                                    {InfoTranslation[locale.value].Navbar.map((menuItem: INavbar, index) => {
+                                    {InfoTranslation[language].Navbar.map((menuItem: INavbar, index) => {
                                         return <MenuItem key={index} {...menuItem} />
                                     })}
                                 </ul>
@@ -127,7 +132,5 @@ const Navbar: React.FC = () => {
                 </div>
             </div>
         </>
-    );
-};
-
-export default Navbar;
+    )
+}

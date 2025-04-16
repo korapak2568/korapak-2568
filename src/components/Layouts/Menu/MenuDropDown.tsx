@@ -1,14 +1,13 @@
 import {INavbar} from "@/data/navbar/model/INavbar";
-import MenuLabel, {IMenuLabel} from "@/components/Layouts/Menu/MenuLabel";
+import MenuLabel from "@/components/Layouts/Menu/MenuLabel";
 import MenuLabelHorizontalLine from "@/components/Layouts/Menu/MenuLabelHorizontalLine";
 import React from "react";
-import {ITranslate} from "@/data/translate/model/ITranslate";
+import {IMenuLabel} from "../model/IMenuLabel";
 
 export default function MenuDropDown(
-    {submenu, language, pathname, group}:
+    {submenu, pathname, group}:
     {
         submenu: INavbar[],
-        language: ITranslate,
         pathname: string,
         group: string
     }
@@ -17,7 +16,6 @@ export default function MenuDropDown(
         <ul className="dropdown-menu x-navbar-dropdown">
             {submenu.map((subItem: INavbar, index) => {
                 const subMenuLabel: IMenuLabel = {
-                    language,
                     link: subItem.link,
                     pathname,
                     group,

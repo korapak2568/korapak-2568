@@ -1,7 +1,7 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AiCompanionKO} from "@/data/ai/companions/AiCompanionKO";
 import {ServiceKO} from "@/data/service/ServiceKO";
 import {FeatureKO} from "@/data/feature/FeatureKO";
@@ -49,7 +49,7 @@ export const InfoKO: IInfo = {
     Consent: ConsentKO,
 
     Gallery: GalleryKO,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionKO,
     TransformBusiness: TransformBusinessKO,
 

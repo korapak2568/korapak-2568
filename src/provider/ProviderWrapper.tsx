@@ -3,19 +3,20 @@
 
 import {Provider} from "react-redux";
 import {ReactNode} from "react";
-import store from "@/provider/redux/store";
-import {LanguageContext} from "./context/DefineContext";
+import {createStoreWithLang} from "@/provider/redux/store";
 
 const ProviderWrapper = (
-    {children, locale}: { children: ReactNode, locale: string }) => {
+    {children, language}:
+    { children: ReactNode, language: string }
+) => {
+
+    const store = createStoreWithLang(language);
 
     return (
         <Provider store={store}>
-            <LanguageContext.Provider value={locale}>
-                {children}
-            </LanguageContext.Provider>
+            {children}
         </Provider>
     )
-};
+}
 
 export default ProviderWrapper;

@@ -1,7 +1,7 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AboutDA} from "@/data/about/AboutDA";
 import {GalleryDA} from "@/data/gallery/GalleryDA";
 import {FullStackDA} from "@/data/fullstack/FullStackDA";
@@ -49,7 +49,7 @@ export const InfoDA: IInfo = {
     Consent: ConsentDA,
 
     Gallery: GalleryDA,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionDA,
     TransformBusiness: TransformBusinessDA,
 

@@ -1,7 +1,7 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AboutZH} from "@/data/about/AboutZH";
 import {GalleryZH} from "@/data/gallery/GalleryZH";
 import {FullStackZH} from "@/data/fullstack/FullStackZH";
@@ -48,7 +48,7 @@ export const InfoZH: IInfo = {
     Consent: ConsentZH,
 
     Gallery: GalleryZH,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionZH,
     TransformBusiness: TransformBusinessZH,
 

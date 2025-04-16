@@ -10,7 +10,7 @@ import {
 } from "react-accessible-accordion";
 import {sanitizeUUID} from "@/lib/utils";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLanguage} from "@/provider/hooks/LanguageHook";
+import {useLanguageHook} from "@/provider/hooks/AppStateHook";
 
 export default function ServiceFaqTypeScript({lang}: { lang: string }) {
     return (

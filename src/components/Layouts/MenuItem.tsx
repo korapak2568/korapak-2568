@@ -3,16 +3,21 @@
 import React from "react";
 import {usePathname} from "next/navigation";
 import {INavbar} from "@/data/navbar/model/INavbar";
-import {useLanguage} from "@/provider/hooks/LanguageHook";
-import MenuLabel, {IMenuLabel} from "@/components/Layouts/Menu/MenuLabel";
+import MenuLabel from "@/components/Layouts/Menu/MenuLabel";
 import MenuDropDown from "@/components/Layouts/Menu/MenuDropDown";
+import {IMenuLabel} from "./model/IMenuLabel";
 
 export default function MenuItem({group, label, link, submenu}:
                                  { group: string, label: string, link: string, submenu: INavbar[] }) {
     const pathname = usePathname();
-    const language = useLanguage()
-    const menuLabel: IMenuLabel = {language, link, pathname, group, label}
-    const menuLabelIncludeSubmenu: IMenuLabel = {language, link, pathname, group, label, isIncludeSubMenu: true}
+    const menuLabel: IMenuLabel = {link, pathname, group, label}
+    const menuLabelIncludeSubmenu: IMenuLabel = {
+        link,
+        pathname,
+        group,
+        label,
+        isIncludeSubMenu: true
+    }
 
     return submenu.length == 0 ?
         <div className="nav-item x-navbar-item">
@@ -21,6 +26,6 @@ export default function MenuItem({group, label, link, submenu}:
         :
         <li className="nav-item x-navbar-item">
             <MenuLabel menuLabel={menuLabelIncludeSubmenu}/>
-            <MenuDropDown submenu={submenu} language={language} pathname={pathname} group={group}/>
+            <MenuDropDown submenu={submenu} pathname={pathname} group={group}/>
         </li>
 }

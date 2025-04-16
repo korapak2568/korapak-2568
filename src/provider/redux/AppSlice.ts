@@ -1,32 +1,15 @@
 // src/redux/AppSlice.ts
 import {createSlice} from '@reduxjs/toolkit';
-import {ITranslate} from "@/data/translate/model/ITranslate";
-import {Translates} from "@/data/translate/Translates";
-
-export interface AppState {
-    translate: ITranslate;
-    mobileMenuVisible: boolean
-    languageMenuVisible: boolean
-}
-
-const AppStateDefault: AppState = {
-    translate: Translates[0],
-    mobileMenuVisible: true,
-    languageMenuVisible: false,
-};
+import {fallbackAppState} from "@/provider/redux/initial/InitialAppState";
+import {LanguageOptionRecord} from "@/data/translate/LanguageOptionRecord";
 
 export const appSlice = createSlice({
     name: 'app',
-    initialState: AppStateDefault,
+    initialState: fallbackAppState, // this will be overridden if preloadedState is passed
     reducers: {
-        setTranslate: (state, action) => {
-            state.translate = action.payload;
-        },
-        setMobileMenuVisible: (state, action) => {
-            state.mobileMenuVisible = action.payload;
-        },
-        setLanguageMenuVisible: (state, action) => {
-            state.languageMenuVisible = action.payload;
+        setLanguageOption: (state, action: { payload: { language: string } }) => {
+            state.languageOption = LanguageOptionRecord[action.payload.language]
+            state.language = action.payload.language
         },
         toggleMobileMenuVisible: (state) => {
             state.mobileMenuVisible = !state.mobileMenuVisible;
@@ -38,9 +21,7 @@ export const appSlice = createSlice({
 });
 
 export const {
-    setTranslate,
-    setMobileMenuVisible,
-    setLanguageMenuVisible,
+    setLanguageOption,
     toggleMobileMenuVisible,
     toggleLanguageMenuVisible,
 } = appSlice.actions;

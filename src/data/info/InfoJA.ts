@@ -1,7 +1,7 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AboutJA} from "@/data/about/AboutJA";
 import {GalleryJA} from "@/data/gallery/GalleryJA";
 import {FullStackJA} from "@/data/fullstack/FullStackJA";
@@ -49,7 +49,7 @@ export const InfoJA: IInfo = {
     Consent: ConsentJA,
 
     Gallery: GalleryJA,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionJA,
     TransformBusiness: TransformBusinessJA,
 

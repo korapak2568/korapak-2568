@@ -2,7 +2,7 @@ import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
 import {AiCompanionTH} from "@/data/ai/companions/AiCompanionTH";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AboutTH} from "@/data/about/AboutTH";
 import {GalleryTH} from "@/data/gallery/GalleryTH";
 import {FullStackTH} from "@/data/fullstack/FullStackTH";
@@ -49,7 +49,7 @@ export const InfoTH: IInfo = {
     Consent: ConsentTH,
 
     Gallery: GalleryTH,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionTH,
     TransformBusiness: TransformBusinessTH,
 

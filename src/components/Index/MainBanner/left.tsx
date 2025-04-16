@@ -1,10 +1,12 @@
+"use client"
+
 import Link from "next/link";
 import React from "react";
-import {useLanguage} from "@/provider/hooks/LanguageHook";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {useLanguageHook} from "@/provider/hooks/AppStateHook";
 
 export default function Left() {
-    const locale = useLanguage()
+    const language = useLanguageHook()
 
     return (
         <div className="col-lg-6">
@@ -16,7 +18,7 @@ export default function Left() {
                     data-aos-once="true"
                     className="mobile-optimized-heading"
                 >
-                    {InfoTranslation[locale.value].Service.title}
+                    {InfoTranslation[language].Service.title}
                 </h1>
 
                 <p
@@ -25,7 +27,7 @@ export default function Left() {
                     data-aos-delay="200"
                     data-aos-once="true"
                 >
-                    {InfoTranslation[locale.value].Service.description}
+                    {InfoTranslation[language].Service.description}
                 </p>
 
                 <div className="option-item addition-pt-20">

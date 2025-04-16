@@ -39,7 +39,7 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
         <html lang={lang}>
         <body className={`${dm_sans.className} main}`}>
         <div className="main-container">
-            <ProviderWrapper locale={lang}>
+            <ProviderWrapper language={lang}>
                 <ConsentModal/>
                 <Navbar/>
                 {children}

@@ -3,11 +3,11 @@
 import React, {useState} from "react";
 import Link from "next/link";
 import {IAboutContent} from "@/data/about/model/IAboutContent";
-import {useLanguage} from "@/provider/hooks/LanguageHook";
+import {useLanguageHook} from "@/provider/hooks/AppStateHook";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const AboutContent: React.FC = () => {
-    const locale = useLanguage()
+    const language = useLanguageHook()
 
     return (
         <>
@@ -25,20 +25,20 @@ const AboutContent: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="about-content warp contrast-content">
                                 <span>
-                                  {InfoTranslation[locale.value].About.title}
+                                  {InfoTranslation[language].About.title}
                                 </span>
 
                                 <h3>
-                                    {InfoTranslation[locale.value].About.span}
+                                    {InfoTranslation[language].About.span}
                                 </h3>
 
                                 <div className="bar"></div>
 
                                 <p>
-                                    {InfoTranslation[locale.value].About.description[0].description}
+                                    {InfoTranslation[language].About.description[0].description}
                                 </p>
 
-                                {InfoTranslation[locale.value].About.stacks.map((item: IAboutContent, index: any) => (
+                                {InfoTranslation[language].About.stacks.map((item: IAboutContent, index: any) => (
                                     <div key={index} className="about-inner-content">
                                         <div className="icon">
                                             <i className="flaticon-check"></i>

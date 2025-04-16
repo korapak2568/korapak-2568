@@ -14,11 +14,11 @@ import {IAiCompanions} from "@/data/ai/model/IAiCompanions";
 import {IService} from "@/data/service/model/IService";
 import {IWeb3} from "@/data/web3/model/IWeb3";
 import {IGallery} from "@/data/gallery/model/IGallery";
-import {ITranslate} from "@/data/translate/model/ITranslate";
 import {INavbar} from "@/data/navbar/model/INavbar";
 import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 import {ITransformBusiness} from "@/data/transform-business/model/ITransformBusiness";
 import {IAiFahCover} from "@/data/ai/fah-cover/model/IAiFahCover";
+import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
 
 export interface IInfo {
 
@@ -47,7 +47,7 @@ export interface IInfo {
     Consent: IConsent,
 
     Gallery: IGallery,
-    Translates: ITranslate[],
+    Translates: ILanguageOption[],
     CloudSolution: ICloudSolution,
     TransformBusiness: ITransformBusiness,
 

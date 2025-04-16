@@ -1,7 +1,7 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AboutFR} from "@/data/about/AboutFR";
 import {GalleryFR} from "@/data/gallery/GalleryFR";
 import {FullStackFR} from "@/data/fullstack/FullStackFR";
@@ -49,7 +49,7 @@ export const InfoFR: IInfo = {
     Consent: ConsentFR,
 
     Gallery: GalleryFR,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionFR,
     TransformBusiness: TransformBusinessFR,
 

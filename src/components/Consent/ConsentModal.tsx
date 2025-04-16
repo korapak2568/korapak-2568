@@ -4,12 +4,12 @@
 import {useState, useEffect} from 'react';
 import Link from "next/link";
 import Image from "next/image";
-import {useLanguage} from "@/provider/hooks/LanguageHook";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/image/ImageUrl";
+import {useLanguageHook} from "@/provider/hooks/AppStateHook";
 
 const ConsentModal = () => {
-        const locale = useLanguage();
+        const language = useLanguageHook()
         const [isVisible, setIsVisible] = useState(false);
 
         useEffect(() => {
@@ -62,12 +62,12 @@ const ConsentModal = () => {
                                             height={50}
                                         />
                                         <div className="text">
-                                            {InfoTranslation[locale.value].Consent.description}
+                                            {InfoTranslation[language].Consent.description}
                                             <Link
                                                 className="a-privacy"
-                                                href={'/' + locale.value + InfoTranslation[locale.value].Consent.policyLink}
+                                                href={'/' + language + InfoTranslation[language].Consent.policyLink}
                                             >
-                                                {InfoTranslation[locale.value].Consent.policyLabel}
+                                                {InfoTranslation[language].Consent.policyLabel}
                                             </Link>
                                         </div>
                                     </div>
@@ -75,7 +75,7 @@ const ConsentModal = () => {
                                         <button
                                             className="btn btn-success add-button"
                                             onClick={handleAccept}>
-                                            {InfoTranslation[locale.value].Consent.buttonText}
+                                            {InfoTranslation[language].Consent.buttonText}
                                         </button>
                                     </div>
                                 </div>

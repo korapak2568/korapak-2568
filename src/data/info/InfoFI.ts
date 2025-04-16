@@ -1,7 +1,7 @@
 import {IInfo} from "@/data/info/model/IInfo";
 import {Recommend2025} from "@/data/recommend/Recommend2025";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Translates} from "@/data/translate/Translates";
+import {LanguageOptions} from "@/data/translate/LanguageOptions";
 import {AiCompanionFI} from "@/data/ai/companions/AiCompanionFI";
 import {ServiceFI} from "@/data/service/ServiceFI";
 import {FeatureFI} from "@/data/feature/FeatureFI";
@@ -49,7 +49,7 @@ export const InfoFI: IInfo = {
     Consent: ConsentFI,
 
     Gallery: GalleryFI,
-    Translates,
+    Translates: LanguageOptions,
     CloudSolution: CloudSolutionFI,
     TransformBusiness: TransformBusinessFI,
 
