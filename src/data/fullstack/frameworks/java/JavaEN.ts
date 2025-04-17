@@ -3,48 +3,73 @@ import {ImageUrl} from "@/image/ImageUrl";
 
 export const JavaEN: IFullStackStack = {
     title: "Java Development",
-    description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications.",
+    description:
+        "Java is a robust and versatile language ideal for modern enterprise and cloud-native applications. With frameworks like Spring Boot, technologies such as gRPC, and legacy-friendly tools like RMI, Java remains a cornerstone for scalable full-stack solutions.",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Java and spring boot framework development",
-    readMore: "Explore more Java Spring Boot full-stack development solutions",
+    alt: "Java, Spring Boot, gRPC, and RMI development",
+    readMore: "Explore full-stack development with modern Java and Spring Boot",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java Development",
-            description: "Java is a versatile, high-level programming language renowned for its portability, robustness, and performance. Spring Boot is a framework that simplifies the development of production-ready applications.",
-            list: []
-        },
-        {
-            title: "Robust Ecosystem",
-            description: "The combination of Java and Spring Boot provides a robust ecosystem for building scalable, secure, and high-performance applications. Spring Boot simplifies the setup and development process, enabling rapid development and deployment.",
+            title: "Modern Java Development",
+            description:
+                "Java continues to evolve with features like records, pattern matching, and virtual threads, boosting developer productivity and performance for full-stack development.",
             list: [
-                "Robust and scalable",
-                "Mature ecosystem",
-                "Object-oriented",
-                "Spring Boot framework",
-                "High performance",
-                "Enterprise-grade applications"
+                "Java 17+ LTS support",
+                "Improved performance with virtual threads",
+                "Strong type safety and maintainability",
+                "Wide adoption in enterprise and microservices"
             ]
         },
         {
-            title: "Modern Development Features",
-            description: "Java continues to evolve with modern features, libraries, and tools that support high productivity, strong type safety, and efficient development workflows.",
-            list: []
+            title: "Spring Boot & Cloud-Native Applications",
+            description:
+                "Spring Boot streamlines application development by providing preconfigured components and integrations with cloud platforms. It enables rapid development of REST APIs, microservices, and full-stack solutions.",
+            list: [
+                "Auto-configuration and dependency management",
+                "Microservice-ready architecture",
+                "RESTful APIs and WebSocket support",
+                "Seamless cloud deployment with Spring Cloud"
+            ]
         },
         {
-            title: "Enterprise-Grade Solutions",
-            description: "Java and Spring Boot are widely used in enterprise environments due to their reliability and scalability. These technologies power mission-critical applications across various industries, ensuring that they can handle large-scale operations with ease.",
-            list: []
+            title: "Inter-service Communication with gRPC and RMI",
+            description:
+                "For high-performance, language-agnostic services, Java applications leverage gRPC. To maintain legacy systems, RMI (Remote Method Invocation) remains a proven solution for Java-to-Java communication.",
+            list: [
+                "Efficient binary communication with gRPC",
+                "Backward compatibility with RMI",
+                "Secure and controlled remote access",
+                "Hybrid integration for modernizing legacy apps"
+            ]
+        },
+        {
+            title: "Enterprise-Grade Systems & J2EE Modernization",
+            description:
+                "While J2EE provided a foundation for enterprise apps, modern Java frameworks like Jakarta EE and Spring modernize these systems with better modularity, speed, and cloud support—without losing legacy compatibility.",
+            list: [
+                "Jakarta EE evolution of J2EE",
+                "Modernized deployment with Docker and Kubernetes",
+                "Secure enterprise-grade architectures",
+                "Support for existing systems with modern APIs"
+            ]
         }
     ],
     faqs: [
         {
             question: "What is Spring Boot?",
-            answer: "Spring Boot is a framework for building stand-alone, production-grade Spring-based applications."
+            answer:
+                "Spring Boot is a framework for creating stand-alone, production-grade Spring applications with minimal configuration. It accelerates backend development with built-in features like auto-configuration, dependency injection, and embedded servers."
         },
         {
-            question: "What are the advantages of Java?",
-            answer: "Java is known for its robustness, scalability, and extensive ecosystem for enterprise applications."
+            question: "How does Java support modern and legacy systems?",
+            answer:
+                "Java supports modern development through tools like Spring Boot and gRPC while maintaining compatibility with legacy technologies like RMI and J2EE. This ensures smooth transitions and integration in enterprise environments."
+        },
+        {
+            question: "What is gRPC and how is it used in Java?",
+            answer:
+                "gRPC is a high-performance, open-source universal RPC framework. In Java, it’s used for inter-service communication in microservice architectures, offering efficient binary serialization via Protocol Buffers."
         }
     ]
-}
+};

@@ -3,48 +3,65 @@ import {ImageUrl} from "@/image/ImageUrl";
 
 export const JavaDE: IFullStackStack = {
     title: "Java-Entwicklung",
-    description: "Java ist eine vielseitige, hochentwickelte Programmiersprache, die für ihre Portabilität, Robustheit und Leistung bekannt ist. Spring Boot ist ein Framework, das die Entwicklung produktionsreifer Anwendungen vereinfacht.",
+    description: "Java ist eine leistungsstarke und flexible Programmiersprache, ideal für moderne Unternehmens- und Cloud-Anwendungen. Mit Spring Boot, gRPC und Unterstützung für RMI bleibt Java ein zentraler Bestandteil skalierbarer Full-Stack-Lösungen.",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Entwicklung mit Java und Spring Boot Framework",
-    readMore: "Mehr über Full-Stack-Entwicklung mit Java Spring Boot erfahren",
+    alt: "Java-, Spring Boot-, gRPC- und RMI-Entwicklung",
+    readMore: "Entdecken Sie umfassende Java- und Spring Boot-Lösungen für die Full-Stack-Entwicklung",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java-Entwicklung",
-            description: "Java ist eine vielseitige, hochentwickelte Programmiersprache, die für ihre Portabilität, Robustheit und Leistung bekannt ist. Spring Boot ist ein Framework, das die Entwicklung produktionsreifer Anwendungen vereinfacht.",
-            list: []
-        },
-        {
-            title: "Robustes Ökosystem",
-            description: "Die Kombination aus Java und Spring Boot bietet ein robustes Ökosystem zum Aufbau skalierbarer, sicherer und leistungsstarker Anwendungen. Spring Boot vereinfacht die Einrichtung und ermöglicht eine schnelle Entwicklung und Bereitstellung.",
+            title: "Moderne Java-Entwicklung",
+            description: "Java entwickelt sich mit Features wie Records, Pattern Matching und Virtual Threads weiter und bietet höhere Produktivität und Leistung.",
             list: [
-                "Robust und skalierbar",
-                "Reifes Ökosystem",
-                "Objektorientiert",
-                "Spring Boot Framework",
-                "Hohe Leistung",
-                "Unternehmensgerechte Anwendungen"
+                "Unterstützung für Java 17+ LTS",
+                "Virtual Threads für effizientes Multithreading",
+                "Typsicherheit und Wartbarkeit",
+                "Geeignet für Microservices und Unternehmenslösungen"
             ]
         },
         {
-            title: "Moderne Funktionen",
-            description: "Java entwickelt sich stetig weiter und bietet moderne Sprachfunktionen, Bibliotheken und Tools für produktive, sichere und effiziente Entwicklung.",
-            list: []
+            title: "Spring Boot & Cloud-native Anwendungen",
+            description: "Spring Boot bietet automatische Konfiguration und Cloud-Integration für die schnelle Entwicklung von REST-APIs, Microservices und modernen Full-Stack-Anwendungen.",
+            list: [
+                "Automatische Konfiguration und Abhängigkeitsmanagement",
+                "Microservices-Architektur",
+                "RESTful APIs & WebSocket-Unterstützung",
+                "Spring Cloud-Integration"
+            ]
         },
         {
-            title: "Lösungen für Unternehmen",
-            description: "Java und Spring Boot werden aufgrund ihrer Zuverlässigkeit und Skalierbarkeit häufig in Unternehmensumgebungen eingesetzt und unterstützen kritische Anwendungen in verschiedenen Branchen.",
-            list: []
+            title: "gRPC & RMI zur Dienstkommunikation",
+            description: "Java nutzt gRPC für leistungsstarke Interprozesskommunikation und RMI zur Anbindung an bestehende Systeme.",
+            list: [
+                "Effiziente binäre Kommunikation mit gRPC",
+                "Abwärtskompatibilität mit RMI",
+                "Sichere Fernzugriffe",
+                "Integration alter und neuer Systeme"
+            ]
+        },
+        {
+            title: "Enterprise-Lösungen & Modernisierung von J2EE",
+            description: "Jakarta EE und Spring ermöglichen eine moderne, modulare Version von J2EE mit Rückwärtskompatibilität und Cloud-Unterstützung.",
+            list: [
+                "Jakarta EE als Nachfolger von J2EE",
+                "Cloud-Bereitstellung mit Docker & Kubernetes",
+                "Sichere Architektur für Unternehmen",
+                "Moderne APIs für Altsysteme"
+            ]
         }
     ],
     faqs: [
         {
             question: "Was ist Spring Boot?",
-            answer: "Spring Boot ist ein Framework zum Erstellen eigenständiger, produktionsreifer Spring-Anwendungen."
+            answer: "Spring Boot ist ein Framework zum schnellen Aufbau eigenständiger, produktionsbereiter Spring-Anwendungen mit eingebettetem Server."
         },
         {
-            question: "Was sind die Vorteile von Java?",
-            answer: "Java ist bekannt für seine Robustheit, Skalierbarkeit und sein umfangreiches Ökosystem für Unternehmensanwendungen."
+            question: "Wie unterstützt Java neue und alte Systeme?",
+            answer: "Java kombiniert moderne Tools wie Spring Boot und gRPC mit Legacy-Unterstützung über RMI und J2EE."
+        },
+        {
+            question: "Was ist gRPC und wie wird es in Java verwendet?",
+            answer: "gRPC ist ein leistungsfähiges RPC-Framework mit Protocol Buffers. Es wird in Java für die Kommunikation zwischen Microservices verwendet."
         }
     ]
 }

@@ -3,48 +3,65 @@ import {ImageUrl} from "@/image/ImageUrl";
 
 export const JavaZH: IFullStackStack = {
     title: "Java开发",
-    description: "Java是一种多功能的高级编程语言，以其可移植性、健壮性和高性能而著称。Spring Boot是一个简化生产级应用开发的框架。",
+    description: "Java是一种强大而灵活的编程语言，适用于现代企业和云应用。通过Spring Boot、gRPC以及对RMI的支持，Java仍是构建可扩展全栈解决方案的核心。",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Java和Spring Boot框架开发",
-    readMore: "了解更多Java Spring Boot全栈开发解决方案",
+    alt: "Java、Spring Boot、gRPC、RMI开发",
+    readMore: "探索更多关于Java和Spring Boot的全栈开发方案",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java开发",
-            description: "Java是一种多功能的高级编程语言，以其可移植性、健壮性和高性能而著称。Spring Boot是一个简化生产级应用开发的框架。",
-            list: []
-        },
-        {
-            title: "强大的生态系统",
-            description: "Java与Spring Boot的结合提供了一个强大的生态系统，用于构建可扩展、安全且高性能的应用程序。Spring Boot简化配置过程，加快开发和部署。",
+            title: "现代Java开发",
+            description: "Java引入record、模式匹配、虚拟线程等新特性，提升开发效率与系统性能。",
             list: [
-                "强大且可扩展",
-                "成熟的生态系统",
-                "面向对象",
-                "Spring Boot框架",
-                "高性能",
-                "企业级应用"
+                "支持Java 17+ LTS",
+                "虚拟线程提升并发处理能力",
+                "强类型安全、易于维护",
+                "广泛用于微服务和企业开发"
             ]
         },
         {
-            title: "现代语言特性",
-            description: "Java持续发展，提供现代化功能、库和工具，提升开发效率、安全性和生产力。",
-            list: []
+            title: "Spring Boot与云原生应用",
+            description: "Spring Boot通过自动配置和云集成，支持快速开发REST API、微服务及全栈解决方案。",
+            list: [
+                "自动配置与依赖管理",
+                "微服务架构支持",
+                "REST API与WebSocket支持",
+                "Spring Cloud集成"
+            ]
         },
         {
-            title: "企业级解决方案",
-            description: "Java和Spring Boot因其可靠性和可扩展性在企业环境中广泛使用，适用于处理各行业的关键应用。",
-            list: []
+            title: "gRPC与RMI的服务通信",
+            description: "gRPC用于高效的服务间通信，RMI则帮助Java系统与传统组件兼容。",
+            list: [
+                "gRPC高性能二进制通信",
+                "RMI兼容传统Java系统",
+                "安全的远程访问机制",
+                "支持新旧系统集成"
+            ]
+        },
+        {
+            title: "企业级系统与J2EE现代化",
+            description: "Jakarta EE和Spring使J2EE架构更加模块化、现代化，并在保留兼容性的同时适应云部署。",
+            list: [
+                "Jakarta EE继承J2EE优势",
+                "支持Docker与Kubernetes部署",
+                "企业级安全架构",
+                "通过现代API支持旧系统"
+            ]
         }
     ],
     faqs: [
         {
             question: "什么是Spring Boot？",
-            answer: "Spring Boot是一个用于构建独立、生产级Spring应用程序的框架。"
+            answer: "Spring Boot是一个快速构建独立、可部署Spring应用的框架，拥有自动配置和内嵌服务器支持。"
         },
         {
-            question: "Java有哪些优势？",
-            answer: "Java以其健壮性、可扩展性以及适用于企业级应用的庞大生态系统而著称。"
+            question: "Java如何支持现代系统和旧系统？",
+            answer: "Java通过Spring Boot和gRPC支持现代开发，同时借助RMI和J2EE与旧系统保持兼容。"
+        },
+        {
+            question: "什么是gRPC？在Java中如何使用？",
+            answer: "gRPC是一种高性能RPC框架，Java中结合Protocol Buffers用于微服务间通信。"
         }
     ]
 }

@@ -3,48 +3,65 @@ import {ImageUrl} from "@/image/ImageUrl";
 
 export const JavaDA: IFullStackStack = {
     title: "Java-udvikling",
-    description: "Java er et alsidigt programmeringssprog på højt niveau, kendt for dets portabilitet, robusthed og ydeevne. Spring Boot er et framework, der forenkler udviklingen af produktionsklare applikationer.",
+    description: "Java er et kraftfuldt og fleksibelt programmeringssprog, velegnet til moderne enterprise- og cloudbaserede applikationer. Med Spring Boot, gRPC og understøttelse af RMI er Java stadig en kernekomponent i skalerbare full-stack-løsninger.",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Udvikling med Java og Spring Boot framework",
-    readMore: "Udforsk flere Java Spring Boot full-stack udviklingsløsninger",
+    alt: "Java-, Spring Boot-, gRPC- og RMI-udvikling",
+    readMore: "Udforsk Java og Spring Boot løsninger til full-stack udvikling",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java-udvikling",
-            description: "Java er et alsidigt programmeringssprog på højt niveau, kendt for dets portabilitet, robusthed og ydeevne. Spring Boot er et framework, der forenkler udviklingen af produktionsklare applikationer.",
-            list: []
-        },
-        {
-            title: "Robust økosystem",
-            description: "Kombinationen af Java og Spring Boot giver et robust økosystem til at bygge skalerbare, sikre og højtydende applikationer. Spring Boot forenkler konfigurationen og muliggør hurtig udvikling og implementering.",
+            title: "Moderne Java-udvikling",
+            description: "Java udvikler sig med moderne funktioner som records, pattern matching og virtuelle tråde, som giver øget produktivitet og ydeevne.",
             list: [
-                "Robust og skalerbar",
-                "Modent økosystem",
-                "Objektorienteret",
-                "Spring Boot framework",
-                "Høj ydeevne",
-                "Enterprise-applikationer"
+                "Support for Java 17+ LTS",
+                "Virtuelle tråde forbedrer skalerbarhed",
+                "Sikker typning og nem vedligeholdelse",
+                "Velegnet til microservices og enterprise"
             ]
         },
         {
-            title: "Moderne funktioner",
-            description: "Java udvikler sig konstant og tilbyder moderne funktioner, biblioteker og værktøjer, som forbedrer produktivitet, typesikkerhed og effektiv udvikling.",
-            list: []
+            title: "Spring Boot & cloud-native applikationer",
+            description: "Spring Boot giver hurtig udvikling gennem automatisk konfiguration og cloudintegration – perfekt til REST APIs og microservices.",
+            list: [
+                "Automatisk konfiguration og afhængighedsstyring",
+                "Microservice-arkitektur",
+                "REST API- og WebSocket-support",
+                "Integration med Spring Cloud"
+            ]
         },
         {
-            title: "Enterprise-løsninger",
-            description: "Java og Spring Boot bruges bredt i erhvervsmæssige miljøer på grund af deres pålidelighed og skalerbarhed. De understøtter forretningskritiske applikationer i mange brancher.",
-            list: []
+            title: "Kommunikation med gRPC og RMI",
+            description: "gRPC bruges til effektiv tjenestekommunikation, mens RMI muliggør integration med ældre systemer.",
+            list: [
+                "Højtydende binær kommunikation med gRPC",
+                "RMI muliggør ældre systemintegration",
+                "Sikker fjernadgang",
+                "Sammenkobling af gamle og nye systemer"
+            ]
+        },
+        {
+            title: "Enterprise-løsninger og modernisering af J2EE",
+            description: "Jakarta EE og Spring moderniserer J2EE med bedre modularitet og cloud-kompatibilitet, samtidig med at bagudkompatibilitet opretholdes.",
+            list: [
+                "Jakarta EE som efterfølger til J2EE",
+                "Moderne deployment med Docker og Kubernetes",
+                "Sikker enterprise-arkitektur",
+                "Understøttelse af legacy gennem moderne APIs"
+            ]
         }
     ],
     faqs: [
         {
             question: "Hvad er Spring Boot?",
-            answer: "Spring Boot er et framework til at bygge selvstændige, produktionsklare Spring-baserede applikationer."
+            answer: "Spring Boot er et framework til at bygge selvstændige, produktionsklare Spring-applikationer med indbygget server."
         },
         {
-            question: "Hvad er fordelene ved Java?",
-            answer: "Java er kendt for sin robusthed, skalerbarhed og omfattende økosystem til enterprise-applikationer."
+            question: "Hvordan understøtter Java både nye og ældre systemer?",
+            answer: "Java kombinerer moderne udvikling med Spring Boot og gRPC med legacy-support via RMI og J2EE."
+        },
+        {
+            question: "Hvad er gRPC, og hvordan bruges det i Java?",
+            answer: "gRPC er et effektivt RPC-framework, der bruger Protocol Buffers til kommunikation mellem Java microservices."
         }
     ]
 }

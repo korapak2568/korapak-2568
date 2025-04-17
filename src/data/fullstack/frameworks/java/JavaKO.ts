@@ -1,51 +1,67 @@
-import {IFullStackStack} from "@/data/fullstack/model/IFullStackStack";
-import {ImageUrl} from "@/image/ImageUrl";
+import { IFullStackStack } from "@/data/fullstack/model/IFullStackStack";
+import { ImageUrl } from "@/image/ImageUrl";
 
 export const JavaKO: IFullStackStack = {
     title: "Java 개발",
-    description: "Java는 이식성, 안정성, 성능으로 잘 알려진 다재다능한 고급 프로그래밍 언어입니다. Spring Boot는 프로덕션 준비가 완료된 애플리케이션 개발을 간소화해주는 프레임워크입니다.",
+    description: "Java는 강력하고 유연한 언어로, 현대의 엔터프라이즈 및 클라우드 애플리케이션에 적합합니다. Spring Boot 프레임워크, gRPC 기술, RMI와 같은 레거시 시스템 호환 도구를 통해 Java는 여전히 확장 가능한 풀스택 솔루션의 핵심 언어로 자리 잡고 있습니다.",
     image: ImageUrl.backend.frameworks.java.thumbnail,
-    alt: "Java 및 Spring Boot 프레임워크 개발",
-    readMore: "Java Spring Boot 풀스택 개발 솔루션 자세히 보기",
+    alt: "Java, Spring Boot, gRPC 및 RMI 개발",
+    readMore: "Java 및 Spring Boot 기반 풀스택 개발 더 알아보기",
     link: "/technical-expertise/full-stack-developer/java-spring-boot-developer",
     features: [
         {
-            title: "Java 개발",
-            description: "Java는 이식성, 안정성, 성능으로 잘 알려진 다재다능한 고급 프로그래밍 언어입니다. Spring Boot는 프로덕션 준비가 완료된 애플리케이션 개발을 간소화해주는 프레임워크입니다.",
-            list: []
-        },
-        {
-            title: "강력한 생태계",
-            description: "Java와 Spring Boot는 확장 가능하고 안전하며 성능이 뛰어난 애플리케이션을 구축할 수 있는 강력한 생태계를 제공합니다. Spring Boot는 설정과 개발 프로세스를 단순화하여 빠른 개발과 배포를 지원합니다.",
+            title: "현대 Java 개발",
+            description: "Java는 record, pattern matching, virtual thread와 같은 최신 기능으로 지속적으로 진화하며, 생산성과 성능을 동시에 향상시킵니다.",
             list: [
-                "강력하고 확장 가능함",
-                "성숙한 생태계",
-                "객체 지향",
-                "Spring Boot 프레임워크",
-                "높은 성능",
-                "엔터프라이즈급 애플리케이션"
+                "Java 17+ LTS 지원",
+                "virtual thread로 향상된 성능",
+                "강력한 타입 안정성과 유지 보수 용이성",
+                "마이크로서비스 및 엔터프라이즈에 널리 사용됨"
             ]
         },
         {
-            title: "현대적인 개발 기능",
-            description: "Java는 지속적으로 진화하며, 높은 생산성과 강력한 타입 안정성, 효율적인 개발을 지원하는 최신 기능과 도구들을 제공합니다.",
-            list: []
+            title: "Spring Boot 및 클라우드 네이티브 앱",
+            description: "Spring Boot는 사전 구성된 컴포넌트와 클라우드 통합을 통해 빠른 애플리케이션 개발을 지원하며, REST API, 마이크로서비스, 풀스택 솔루션 구축을 용이하게 합니다.",
+            list: [
+                "자동 구성 및 의존성 관리",
+                "마이크로서비스 아키텍처에 적합",
+                "RESTful API 및 WebSocket 지원",
+                "Spring Cloud를 통한 클라우드 배포"
+            ]
         },
         {
-            title: "엔터프라이즈급 솔루션",
-            description: "Java와 Spring Boot는 신뢰성과 확장성을 바탕으로 기업 환경에서 널리 사용됩니다. 이 기술들은 다양한 산업 분야의 핵심 애플리케이션을 안정적으로 지원합니다.",
-            list: []
+            title: "gRPC 및 RMI를 통한 서비스 간 통신",
+            description: "Java는 고성능 다국어 서비스 통신을 위해 gRPC를 활용하고, 레거시 Java 시스템과의 통합에는 RMI가 여전히 안정적인 선택지입니다.",
+            list: [
+                "gRPC를 통한 효율적인 이진 통신",
+                "RMI로 레거시 시스템 호환 가능",
+                "보안 및 제어 가능한 원격 접근",
+                "현대 시스템과 레거시 시스템의 통합"
+            ]
+        },
+        {
+            title: "엔터프라이즈 시스템 및 J2EE 현대화",
+            description: "J2EE는 기업용 앱의 기반이었으며, Jakarta EE 및 Spring은 이를 더 모듈화되고 빠르며 클라우드에 적합하도록 개선하며 레거시 호환성을 유지합니다.",
+            list: [
+                "J2EE의 진화된 형태인 Jakarta EE",
+                "Docker 및 Kubernetes를 통한 현대적 배포",
+                "엔터프라이즈 보안 아키텍처",
+                "현대 API를 통한 기존 시스템 지원"
+            ]
         }
     ],
     faqs: [
         {
             question: "Spring Boot란 무엇인가요?",
-            answer: "Spring Boot는 독립 실행형의 프로덕션급 Spring 기반 애플리케이션을 쉽게 개발할 수 있도록 돕는 프레임워크입니다."
+            answer: "Spring Boot는 독립 실행형 및 프로덕션 수준의 Spring 기반 애플리케이션을 쉽게 개발할 수 있는 프레임워크입니다. 자동 구성, 의존성 관리, 내장 서버 기능을 제공합니다."
         },
         {
-            question: "Java의 장점은 무엇인가요?",
-            answer: "Java는 안정성, 확장성, 그리고 기업용 애플리케이션에 적합한 광범위한 생태계로 유명합니다."
+            question: "Java는 어떻게 현대 시스템과 레거시 시스템을 지원하나요?",
+            answer: "Java는 Spring Boot와 gRPC를 통해 최신 개발을 지원하며, 동시에 RMI와 J2EE를 통해 기존 시스템과의 호환성도 유지합니다."
+        },
+        {
+            question: "gRPC란 무엇이며 Java에서 어떻게 사용하나요?",
+            answer: "gRPC는 고성능 오픈소스 RPC 프레임워크로, 마이크로서비스 아키텍처에서 서비스 간 통신에 사용됩니다. Java에서는 Protocol Buffers를 사용하여 효율적인 이진 데이터 직렬화를 수행합니다."
         }
     ]
-}
-
+};
