@@ -6,6 +6,13 @@ const nextConfig = {
     basePath: '', // Add the base path if your app is hosted in a subpath
     images: {
         unoptimized: true,
+        remotePatterns: [
+            {
+                protocol: 'https',
+                hostname: 'cdn.chorn.in.th',
+                pathname: '/**',
+            },
+        ],
     },
     optimizeFonts: false,
     i18n: {
@@ -13,28 +20,28 @@ const nextConfig = {
         defaultLocale: 'en-US',
         localeDetection: false,
     },
-    async redirects() {
+    async rewrites() {
         return [
             {
                 source: '/images/:path*',
-                destination: 'https://cdn.chorn.in.th/public/:path*',
-                permanent: true,
+                destination: 'https://cdn.chorn.in.th/public/:path*'
             },
             {
                 source: '/images-ai/:path*',
-                destination: 'https://cdn.chorn.in.th/public/ai/:path*',
-                permanent: true,
+                destination: 'https://cdn.chorn.in.th/public/ai/:path*'
             },
             {
                 source: '/chorn-images/:path*',
-                destination: 'https://cdn.chorn.in.th/public/:path*',
-                permanent: true,
+                destination: 'https://cdn.chorn.in.th/public/:path*'
             },
             {
                 source: '/obsolete-images/:path*',
-                destination: 'https://cdn.chorn.in.th/obsolete/:path*',
-                permanent: true,
+                destination: 'https://cdn.chorn.in.th/obsolete/:path*'
             },
+        ];
+    },
+    async redirects() {
+        return [
             {
                 source: '/:locale/technical-expertise/full-stack-developer/javascript-javascript-developer/',
                 destination: '/:locale/technical-expertise/front-end-developer/javascript-developer/',
