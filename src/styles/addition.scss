@@ -821,7 +821,7 @@
 
 // Gallery responsive
 .gallery-main {
-  background-image: url('/images/gallery/chorn-global-001-image-750.webp'); /* default */
+  background-image: url('https://cdn.chorn.in.th/public/gallery/chorn-global-001-image-750.webp'); /* default */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -830,12 +830,12 @@
   z-index: -1;
 
   @media (min-width: 600px) {
-    background-image: url('/images/gallery/chorn-global-001-image-750.webp');
+    background-image: url('https://cdn.chorn.in.th/public/gallery/chorn-global-001-image-750.webp');
     height: 300px;
   }
 
   @media (min-width: 1024px) {
-    background-image: url('/images/gallery/chorn-global-001-image-1200.webp');
+    background-image: url('https://cdn.chorn.in.th/public/gallery/chorn-global-001-image-1200.webp');
     height: 400px;
   }
 }
@@ -853,7 +853,7 @@
 
 // About responsive
 .about-image-custom {
-  background-image: url('/images/about/about-chorn-image-750.webp'); /* default */
+  background-image: url('https://cdn.chorn.in.th/public/about/about-chorn-image-750.webp'); /* default */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -862,13 +862,13 @@
   z-index: -1;
 
   @media (min-width: 600px) {
-    background-image: url('/images/about/about-chorn-image-750.webp');
+    background-image: url('https://cdn.chorn.in.th/public/about/about-chorn-image-750.webp');
     width: 100%;
     height: 500px;
   }
 
   @media (min-width: 1024px) {
-    background-image: url('/images/about/about-chorn-image-1200.webp');
+    background-image: url('https://cdn.chorn.in.th/public/about/about-chorn-image-1200.webp');
     width: 100%;
     height: 500px;
   }

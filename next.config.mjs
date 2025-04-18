@@ -13,6 +13,7 @@ const nextConfig = {
                 pathname: '/**',
             },
         ],
+        minimumCacheTTL: 31536000,
     },
     optimizeFonts: false,
     i18n: {
