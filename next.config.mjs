@@ -48,6 +48,11 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/na/:path*',
+                destination: '/da/:path*',
+                permanent: true,
+            },
+            {
                 source: '/:locale/technical-expertise/full-stack-developer/javascript-javascript-developer/',
                 destination: '/:locale/technical-expertise/front-end-developer/javascript-developer/',
                 permanent: true,
