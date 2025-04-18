@@ -22,6 +22,10 @@ const nextConfig = {
         localeDetection: false,
     },
     async rewrites() {
+        // ****
+        // Use rewrite for OpenGraph images only
+        // ****
+
         return [
             {
                 source: '/images/:path*',

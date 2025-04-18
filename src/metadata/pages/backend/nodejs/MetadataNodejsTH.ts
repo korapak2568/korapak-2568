@@ -2,8 +2,8 @@ import {Metadata} from "next";
 import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
 
 export const MetadataNodejsTH: Metadata = {
-    title: "การพัฒนาซอฟต์แวร์ครบวงจรด้วย Go | CHORN",
-    description: "บริการการพัฒนาซอฟต์แวร์ด้วย Go-lang ด้วยความเชี่ยวชาญด้านเทคนิคในการสร้างแอปพลิเคชันเว็บที่มีประสิทธิภาพและสามารถขยายได้",
+    title: "พัฒนา Node.js แบบ Full Stack | CHORN",
+    description: "การพัฒนา Node.js แบบ Full Stack ความเชี่ยวชาญทางเทคนิคในการสร้างเว็บแอปพลิเคชันที่มีประสิทธิภาพและสามารถขยายได้",
     alternates: MetadataLinkNodejs.alternates,
     authors: [
         {
@@ -11,16 +11,16 @@ export const MetadataNodejsTH: Metadata = {
         }
     ],
     openGraph: {
-        title: "การพัฒนาซอฟต์แวร์ครบวงจรด้วย Go | CHORN",
-        description: "สร้างแอปพลิเคชันเว็บที่มีประสิทธิภาพและสามารถขยายได้ด้วยความเชี่ยวชาญด้านการพัฒนาด้วย Go-lang",
+        title: "พัฒนา Node.js | CHORN",
+        description: "สร้างเว็บแอปพลิเคชันที่มีประสิทธิภาพและสามารถขยายได้ด้วยความเชี่ยวชาญด้านการพัฒนา Node.js แบบ Full Stack",
         images: MetadataLinkNodejs.openGraph.images,
         url: MetadataLinkNodejs.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
-        title: "การพัฒนาซอฟต์แวร์ครบวงจรด้วย Go | CHORN",
-        description: "ความเชี่ยวชาญในการพัฒนาซอฟต์แวร์ด้วย Go-lang สำหรับแอปพลิเคชันเว็บที่มีประสิทธิภาพและสามารถขยายได้",
+        title: "พัฒนา Node.js แบบ Full Stack | CHORN",
+        description: "ความเชี่ยวชาญด้านการพัฒนา Node.js แบบ Full Stack เพื่อสร้างเว็บแอปพลิเคชันที่มีประสิทธิภาพและสามารถขยายได้",
         images: MetadataLinkNodejs.twitter.images,
     },
     keywords: [

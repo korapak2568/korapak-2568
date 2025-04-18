@@ -2,8 +2,8 @@ import {Metadata} from "next";
 import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
 
 export const MetadataNodejsEN: Metadata = {
-    title: "Go Full Stack Development | CHORN",
-    description: "Go full-stack development, technical-expertise for building efficient and scalable web applications.",
+    title: "Node.js Full Stack Development | CHORN",
+    description: "Node.js full-stack development, technical-expertise for building efficient and scalable web applications.",
     alternates: MetadataLinkNodejs.alternates,
     authors: [
         {
@@ -11,16 +11,16 @@ export const MetadataNodejsEN: Metadata = {
         }
     ],
     openGraph: {
-        title: "Go Development | CHORN",
-        description: "Build efficient and scalable web applications with Go full-stack development technical expertise.",
+        title: "Node.js Development | CHORN",
+        description: "Build efficient and scalable web applications with Node.js full-stack development technical expertise.",
         images: MetadataLinkNodejs.openGraph.images,
         url: MetadataLinkNodejs.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
-        title: "Go Full-Stack Development | CHORN",
-        description: "Go full-stack development technical expertise for efficient and scalable web applications.",
+        title: "Node.js Full-Stack Development | CHORN",
+        description: "Node.js full-stack development technical expertise for efficient and scalable web applications.",
         images: MetadataLinkNodejs.twitter.images,
     },
     keywords: [

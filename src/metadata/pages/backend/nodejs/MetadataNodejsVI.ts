@@ -2,8 +2,8 @@ import {Metadata} from "next";
 import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
 
 export const MetadataNodejsVI: Metadata = {
-    title: "Phát triển Full Stack Go | CHORN",
-    description: "Chuyên môn kỹ thuật phát triển full-stack Go để xây dựng các ứng dụng web hiệu quả và có thể mở rộng.",
+    title: "Phát triển Full Stack Node.js | CHORN",
+    description: "Phát triển Full Stack với Node.js, chuyên môn kỹ thuật để xây dựng ứng dụng web hiệu quả và có khả năng mở rộng.",
     alternates: MetadataLinkNodejs.alternates,
     authors: [
         {
@@ -11,17 +11,17 @@ export const MetadataNodejsVI: Metadata = {
         }
     ],
     openGraph: {
-        title: "Phát triển Go | CHORN",
-        description: "Xây dựng các ứng dụng web hiệu quả và có thể mở rộng với chuyên môn kỹ thuật phát triển full-stack Go.",
+        title: "Phát triển Node.js | CHORN",
+        description: "Xây dựng ứng dụng web hiệu quả và mở rộng với chuyên môn phát triển Full Stack Node.js.",
         images: MetadataLinkNodejs.openGraph.images,
         url: MetadataLinkNodejs.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
-        title: "Phát triển Full Stack Go | CHORN",
-        description: "Chuyên môn phát triển full-stack Go để cung cấp các ứng dụng web hiệu quả và có thể mở rộng.",
-        images: MetadataLinkNodejs.twitter.images,
+        title: "Phát triển Full Stack Node.js | CHORN",
+        description: "Chuyên môn phát triển Full Stack Node.js để xây dựng ứng dụng web hiệu quả và mở rộng.",
+        images: MetadataLinkNodejs.twitter.images
     },
     keywords: [
         "phát triển Node.js", "chuyên môn kỹ thuật Node.js", "lập trình viên Node.js", "phát triển Node.js tùy chỉnh",

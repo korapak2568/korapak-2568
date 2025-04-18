@@ -2,8 +2,8 @@ import {Metadata} from "next";
 import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
 
 export const MetadataNodejsFR: Metadata = {
-    title: "Développement Full Stack Go | CHORN",
-    description: "Développement full-stack Go, expertise technique pour la création d'applications web efficaces et évolutives.",
+    title: "Développement Full Stack Node.js | CHORN",
+    description: "Développement Full Stack avec Node.js, expertise technique pour créer des applications web efficaces et évolutives.",
     alternates: MetadataLinkNodejs.alternates,
     authors: [
         {
@@ -11,17 +11,17 @@ export const MetadataNodejsFR: Metadata = {
         }
     ],
     openGraph: {
-        title: "Développement Go | CHORN",
-        description: "Créez des applications web efficaces et évolutives avec l'expertise technique du développement full-stack Go.",
+        title: "Développement Node.js | CHORN",
+        description: "Créez des applications web efficaces et évolutives grâce à une expertise en développement Node.js Full Stack.",
         images: MetadataLinkNodejs.openGraph.images,
         url: MetadataLinkNodejs.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
-        title: "Développement Full-Stack Go | CHORN",
-        description: "Expertise technique en développement full-stack Go pour des applications web efficaces et évolutives.",
-        images: MetadataLinkNodejs.twitter.images,
+        title: "Développement Full Stack Node.js | CHORN",
+        description: "Expertise en développement Full Stack Node.js pour des applications web performantes et évolutives.",
+        images: MetadataLinkNodejs.twitter.images
     },
     keywords: [
         "développement Node.js", "expertise technique Node.js", "développeur Node.js", "développement personnalisé Node.js",

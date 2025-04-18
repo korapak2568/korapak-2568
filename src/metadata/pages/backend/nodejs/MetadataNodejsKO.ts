@@ -2,8 +2,8 @@ import {Metadata} from "next";
 import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
 
 export const MetadataNodejsKO: Metadata = {
-    title: "Go 풀스택 개발 | CHORN",
-    description: "효율적이고 확장 가능한 웹 애플리케이션을 구축하기 위한 Go 풀스택 개발 기술 전문성.",
+    title: "Node.js 풀스택 개발 | CHORN",
+    description: "Node.js 풀스택 개발, 효율적이고 확장 가능한 웹 애플리케이션을 구축하기 위한 기술 전문성.",
     alternates: MetadataLinkNodejs.alternates,
     authors: [
         {
@@ -11,17 +11,17 @@ export const MetadataNodejsKO: Metadata = {
         }
     ],
     openGraph: {
-        title: "Go 개발 | CHORN",
-        description: "Go 풀스택 개발 기술 전문성을 통해 효율적이고 확장 가능한 웹 애플리케이션을 구축하세요.",
+        title: "Node.js 개발 | CHORN",
+        description: "Node.js 풀스택 개발 전문성을 통해 효율적이고 확장 가능한 웹 애플리케이션 구축.",
         images: MetadataLinkNodejs.openGraph.images,
         url: MetadataLinkNodejs.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
-        title: "Go 풀스택 개발 | CHORN",
-        description: "효율적이고 확장 가능한 웹 애플리케이션을 위한 Go 풀스택 개발 기술 전문성.",
-        images: MetadataLinkNodejs.twitter.images,
+        title: "Node.js 풀스택 개발 | CHORN",
+        description: "효율적이고 확장 가능한 웹 앱 구축을 위한 Node.js 풀스택 개발 기술력.",
+        images: MetadataLinkNodejs.twitter.images
     },
     keywords: [
         "Node.js 개발", "Node.js 기술 전문성", "Node.js 개발자", "맞춤형 Node.js 개발",

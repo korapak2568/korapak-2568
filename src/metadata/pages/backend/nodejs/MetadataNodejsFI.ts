@@ -2,8 +2,8 @@ import {Metadata} from "next";
 import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
 
 export const MetadataNodejsFI: Metadata = {
-    title: "Go Full Stack Kehitys | CHORN",
-    description: "Go full-stack kehitys, tekninen asiantuntemus tehokkaiden ja skaalautuvien web-sovellusten rakentamiseen.",
+    title: "Node.js Full Stack Kehitys | CHORN",
+    description: "Node.js full stack -kehitys, tekninen asiantuntemus tehokkaiden ja skaalautuvien verkkosovellusten rakentamiseen.",
     alternates: MetadataLinkNodejs.alternates,
     authors: [
         {
@@ -11,17 +11,17 @@ export const MetadataNodejsFI: Metadata = {
         }
     ],
     openGraph: {
-        title: "Go Kehitys | CHORN",
-        description: "Rakenna tehokkaita ja skaalautuvia web-sovelluksia Go full-stack kehityksen teknisellä asiantuntemuksella.",
+        title: "Node.js Kehitys | CHORN",
+        description: "Rakenna tehokkaita ja skaalautuvia verkkosovelluksia Node.js full stack -kehityksen asiantuntemuksella.",
         images: MetadataLinkNodejs.openGraph.images,
         url: MetadataLinkNodejs.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
-        title: "Go Full-Stack Kehitys | CHORN",
-        description: "Go full-stack kehityksen tekninen asiantuntemus tehokkaille ja skaalautuville web-sovelluksille.",
-        images: MetadataLinkNodejs.twitter.images,
+        title: "Node.js Full Stack Kehitys | CHORN",
+        description: "Node.js full stack -kehitysosaamista tehokkaille ja skaalautuville web-sovelluksille.",
+        images: MetadataLinkNodejs.twitter.images
     },
     keywords: [
         "Node.js kehitys", "Node.js tekninen asiantuntemus", "Node.js kehittäjä", "räätälöity Node.js kehitys",
