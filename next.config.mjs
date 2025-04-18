@@ -120,6 +120,11 @@ const nextConfig = {
 
             // Front-End Redirect -------------------------------------------------------------
             {
+                source: '/:locale/technical-expertise/front-end-developer/react/',
+                destination: '/:locale/technical-expertise/front-end-developer/react-developer/',
+                permanent: true,
+            },
+            {
                 source: '/services/frontend-development/angular/',
                 destination: '/en/technical-expertise/front-end-developer/angular-developer/',
                 permanent: true,
@@ -191,13 +196,18 @@ const nextConfig = {
 
             // Otherwise ---------------------------------------------------------------------
             {
-                source: '/contact',
-                destination: 'https://www.linkedin.com/in/khachornchit/',
+                source: '/:locale/contact-chorn',
+                destination: '/:locale/about-chorn',
                 permanent: true,
             },
             {
+                source: "/contact",
+                destination: "/en/about-chorn",
+                permanent: true
+            },
+            {
                 source: '/contact-chorn',
-                destination: 'https://www.linkedin.com/in/khachornchit/',
+                destination: "/en/about-chorn",
                 permanent: true,
             },
             {
@@ -216,8 +226,8 @@ const nextConfig = {
                 permanent: true,
             },
             {
-                source: '/en/technical-expertise/',
-                destination: '/en/technical-expertise/web-development/',
+                source: '/:locale/technical-expertise/',
+                destination: '/:locale/technical-expertise/web-development/',
                 permanent: true,
             },
             {
@@ -248,11 +258,6 @@ const nextConfig = {
             {
                 source: "/back-end-development",
                 destination: "/en/technical-expertise/full-stack-developer/",
-                permanent: true
-            },
-            {
-                source: "/contact",
-                destination: "/en/about-chorn",
                 permanent: true
             },
             {
