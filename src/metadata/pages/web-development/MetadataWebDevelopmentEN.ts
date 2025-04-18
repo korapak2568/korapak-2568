@@ -1,10 +1,10 @@
 import {Metadata} from "next";
-import {MetadataLinkContact} from "@/metadata/pages/contact/common/MetadataLinkContact";
+import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
 
 export const MetadataWebDevelopmentEN: Metadata = {
     title: "Web Development Services | Custom Software & Technology Solutions",
     description: "Explore CHORN's web development technical-expertise, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
-    alternates: MetadataLinkContact.alternates,
+    alternates: MetadataLinkWebDevelopment.alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +13,15 @@ export const MetadataWebDevelopmentEN: Metadata = {
     openGraph: {
         title: "Top Web Development Services | CHORN",
         description: "CHORN provides cutting-edge web development technical-expertise with expertise in popular frameworks like Next.js, React, Angular, and more. CHORN caters to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
-        images: MetadataLinkContact.openGraph.images,
-        url: MetadataLinkContact.openGraph.url,
+        images: MetadataLinkWebDevelopment.openGraph.images,
+        url: MetadataLinkWebDevelopment.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Web Development Services | CHORN",
         description: "Discover CHORN’s expert web development technical-expertise. From Next.js to Angular and beyond, CHORN offers solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
-        images: MetadataLinkContact.twitter.images,
+        images: MetadataLinkWebDevelopment.twitter.images,
     },
     keywords: [
         // Core Web Development Keywords

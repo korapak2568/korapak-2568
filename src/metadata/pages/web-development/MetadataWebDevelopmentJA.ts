@@ -1,10 +1,10 @@
 import {Metadata} from "next";
-import {MetadataLinkContact} from "@/metadata/pages/contact/common/MetadataLinkContact";
+import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
 
 export const MetadataWebDevelopmentJA: Metadata = {
     title: "ウェブ開発サービス | カスタムソフトウェアとテクノロジーソリューション",
     description: "CHORNのウェブ開発技術的専門知識を探索してください。Next.js、React、Angular、Vueなどの技術を含む専門知識を提供します。CHORNは、デジタルマーケティング、ブロックチェーン、Eコマースなどのさまざまな分野で企業向けのカスタマイズされたソリューションを提供します。",
-    alternates: MetadataLinkContact.alternates,
+    alternates: MetadataLinkWebDevelopment.alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +13,15 @@ export const MetadataWebDevelopmentJA: Metadata = {
     openGraph: {
         title: "トップウェブ開発サービス | CHORN",
         description: "CHORNはNext.js、React、Angularなどの人気のあるフレームワークに精通した最先端のウェブ開発技術的専門知識を提供します。CHORNは、デジタルマーケティング、Eコマース、ブロックチェーンなどの多様なビジネスニーズに対応します。",
-        images: MetadataLinkContact.openGraph.images,
-        url: MetadataLinkContact.openGraph.url,
+        images: MetadataLinkWebDevelopment.openGraph.images,
+        url: MetadataLinkWebDevelopment.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "ウェブ開発サービス | CHORN",
         description: "Next.jsからAngularまで、CHORNの専門的なウェブ開発技術を発見してください。CHORNは、デジタルマーケティング、ブロックチェーン、Eコマースなど、すべてのビジネスニーズに対応するソリューションを提供します。",
-        images: MetadataLinkContact.twitter.images
+        images: MetadataLinkWebDevelopment.twitter.images
     },
     keywords: [
         "ウェブ開発", "ウェブ開発技術", "ウェブ開発者", "カスタムウェブ開発",

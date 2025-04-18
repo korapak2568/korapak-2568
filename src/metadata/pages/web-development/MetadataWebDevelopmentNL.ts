@@ -1,10 +1,10 @@
 import {Metadata} from "next";
-import {MetadataLinkContact} from "@/metadata/pages/contact/common/MetadataLinkContact";
+import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
 
 export const MetadataWebDevelopmentNL: Metadata = {
     title: "Webontwikkelingsdiensten | Aangepaste Software- en Technologieleveringen",
     description: "Ontdek de technische expertise van CHORN op het gebied van webontwikkeling, inclusief ervaring met Next.js, React, Angular, Vue en meer. CHORN biedt op maat gemaakte oplossingen voor bedrijven in verschillende sectoren, zoals digitale marketing, blockchain, e-commerce en meer.",
-    alternates: MetadataLinkContact.alternates,
+    alternates: MetadataLinkWebDevelopment.alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +13,15 @@ export const MetadataWebDevelopmentNL: Metadata = {
     openGraph: {
         title: "Top Webontwikkelingsdiensten | CHORN",
         description: "CHORN biedt webontwikkelingsdeskundigheid met ervaring in populaire frameworks zoals Next.js, React, Angular en meer. CHORN biedt oplossingen voor verschillende zakelijke behoeften, zoals digitale marketing, e-commerce, blockchain en meer.",
-        images: MetadataLinkContact.openGraph.images,
-        url: MetadataLinkContact.openGraph.url,
+        images: MetadataLinkWebDevelopment.openGraph.images,
+        url: MetadataLinkWebDevelopment.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Webontwikkelingsdiensten | CHORN",
         description: "Ontdek de webontwikkelingsdeskundigheid van CHORN. Van Next.js tot Angular en meer biedt CHORN oplossingen voor allerlei zakelijke behoeften, waaronder digitale marketing, blockchain, e-commerce en meer.",
-        images: MetadataLinkContact.twitter.images
+        images: MetadataLinkWebDevelopment.twitter.images
     },
     keywords: [
         "webontwikkeling", "webontwikkelingsdeskundigheid", "webontwikkelaar", "aangepaste webontwikkeling",

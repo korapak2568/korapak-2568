@@ -1,10 +1,10 @@
 import {Metadata} from "next";
-import {MetadataLinkContact} from "@/metadata/pages/contact/common/MetadataLinkContact";
+import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
 
 export const MetadataWebDevelopmentDE: Metadata = {
     title: "Webentwicklungsdienste | Maßgeschneiderte Software- und Technologielösungen",
     description: "Entdecken Sie das technische Fachwissen von CHORN in der Webentwicklung, einschließlich Expertise in Next.js, React, Angular, Vue und mehr. CHORN bietet maßgeschneiderte Lösungen für Unternehmen in Bereichen wie Digitales Marketing, Blockchain, E-Commerce und mehr.",
-    alternates: MetadataLinkContact.alternates,
+    alternates: MetadataLinkWebDevelopment.alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +13,15 @@ export const MetadataWebDevelopmentDE: Metadata = {
     openGraph: {
         title: "Top Webentwicklungsdienste | CHORN",
         description: "CHORN bietet fachliches Know-how in der Webentwicklung mit Expertise in beliebten Frameworks wie Next.js, React, Angular und mehr. CHORN bedient verschiedene Geschäftsanforderungen, einschließlich Digitalem Marketing, E-Commerce, Blockchain und mehr.",
-        images: MetadataLinkContact.openGraph.images,
-        url: MetadataLinkContact.openGraph.url,
+        images: MetadataLinkWebDevelopment.openGraph.images,
+        url: MetadataLinkWebDevelopment.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Webentwicklungsdienste | CHORN",
         description: "Entdecken Sie das technische Fachwissen von CHORN in der Webentwicklung. Von Next.js bis Angular und mehr bietet CHORN Lösungen für alle geschäftlichen Anforderungen, einschließlich Digitalem Marketing, Blockchain, E-Commerce und mehr.",
-        images: MetadataLinkContact.twitter.images
+        images: MetadataLinkWebDevelopment.twitter.images
     },
     keywords: [
         "Webentwicklung", "technisches Fachwissen Webentwicklung", "Webentwickler", "maßgeschneiderte Webentwicklung",

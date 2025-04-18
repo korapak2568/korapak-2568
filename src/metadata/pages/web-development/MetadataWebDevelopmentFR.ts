@@ -1,10 +1,10 @@
 import {Metadata} from "next";
-import {MetadataLinkContact} from "@/metadata/pages/contact/common/MetadataLinkContact";
+import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
 
 export const MetadataWebDevelopmentFR: Metadata = {
     title: "Services de développement web | Solutions logicielles personnalisées et technologiques",
     description: "Découvrez l'expertise technique de CHORN en développement web, incluant une expertise dans Next.js, React, Angular, Vue et plus. CHORN propose des solutions sur mesure pour les entreprises dans des domaines variés tels que le marketing numérique, la blockchain, l'e-commerce et plus encore.",
-    alternates: MetadataLinkContact.alternates,
+    alternates: MetadataLinkWebDevelopment.alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +13,15 @@ export const MetadataWebDevelopmentFR: Metadata = {
     openGraph: {
         title: "Services de développement web de premier plan | CHORN",
         description: "CHORN offre une expertise technique de pointe en développement web, avec une expertise dans des frameworks populaires comme Next.js, React, Angular et bien plus encore. CHORN répond aux besoins d'affaires variés, incluant le marketing numérique, l'e-commerce, la blockchain et plus encore.",
-        images: MetadataLinkContact.openGraph.images,
-        url: MetadataLinkContact.openGraph.url,
+        images: MetadataLinkWebDevelopment.openGraph.images,
+        url: MetadataLinkWebDevelopment.openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Services de développement web | CHORN",
         description: "Découvrez l'expertise de CHORN en développement web. De Next.js à Angular et bien plus, CHORN propose des solutions pour tous les besoins d'affaires incluant le marketing numérique, la blockchain, l'e-commerce et plus encore.",
-        images: MetadataLinkContact.twitter.images
+        images: MetadataLinkWebDevelopment.twitter.images
     },
     keywords: [
         "développement web", "expertise en développement web", "développeur web", "développement web personnalisé",

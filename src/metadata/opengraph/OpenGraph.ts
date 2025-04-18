@@ -38,7 +38,7 @@ export const OpenGraph: IOpenGraph = {
         alt: "CHORN's image of about"
     },
     contact: {
-        url: "/images/metadata/contact/contact-og-image.jpg" + MetadataImageVersion,
+        url: "/images/metadata/contact/contact-og-image.png" + MetadataImageVersion,
         alt: "CHORN's image of contacting"
     },
 
