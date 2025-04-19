@@ -21,6 +21,19 @@ const nextConfig = {
         defaultLocale: 'en-US',
         localeDetection: false,
     },
+    async headers() {
+        return [
+            {
+                source: "/(.*)",
+                headers: [
+                    {
+                        key: "Cache-Control",
+                        value: "public, max-age=0, s-maxage=86400, stale-while-revalidate"
+                    }
+                ]
+            }
+        ]
+    },
     async rewrites() {
         // ****
         // Use rewrite for OpenGraph images only
