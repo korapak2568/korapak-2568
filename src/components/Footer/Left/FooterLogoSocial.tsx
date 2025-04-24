@@ -9,7 +9,7 @@ export default function FooterLogoSocial({lang}: { lang: string }) {
     return (
         <div className="footer-logo-social-container">
             <div className="single-footer-widget logo-social">
-                <Link href={'/public' + lang}>
+                <Link href={'/' + lang}>
                     <Image
                         src={ImageUrl.logo.md.path}
                         alt={ImageUrl.logo.md.title}

@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeNL: Metadata = {
-    title: "CHORN | Systeemanalyse & Full-Stack Softwareontwikkeling",
+    title: "CHORN | Ontwikkeling van bedrijfssoftware en systeemintegratie",
     description: "Versterk uw bedrijf met professionele systeemanalyse en geavanceerde softwareoplossingen. CHORN is gespecialiseerd in full-stack ontwikkeling, AI-gedreven automatisering, cloud computing en systeemmodernisering om innovatie en efficiëntie te stimuleren.",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeNL: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | Systeemanalyse & Full-Stack Softwareontwikkeling",
+        title: "CHORN | Ontwikkeling van bedrijfssoftware en systeemintegratie",
         description: "Versterk uw bedrijf met professionele systeemanalyse en geavanceerde softwareoplossingen. CHORN is gespecialiseerd in full-stack ontwikkeling, AI-gedreven automatisering, cloud computing en systeemmodernisering om innovatie en efficiëntie te stimuleren.",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeNL: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | Systeemanalyse & Full-Stack Softwareontwikkeling",
+        title: "CHORN | Ontwikkeling van bedrijfssoftware en systeemintegratie",
         description: "Versterk uw bedrijf met professionele systeemanalyse en geavanceerde softwareoplossingen. CHORN is gespecialiseerd in full-stack ontwikkeling, AI-gedreven automatisering, cloud computing en systeemmodernisering om innovatie en efficiëntie te stimuleren.",
         images: MetadataLinkHome.twitter.images,
     },

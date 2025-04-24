@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeDE: Metadata = {
-    title: "CHORN | Systemanalyse & Full-Stack Softwareentwicklung",
+    title: "CHORN | Entwicklung von Unternehmenssoftware und Systemintegration",
     description: "Stärken Sie Ihr Unternehmen mit professioneller Systemanalyse und modernsten Softwarelösungen. CHORN spezialisiert sich auf Full-Stack-Entwicklung, KI-gestützte Automatisierung, Cloud-Computing und Systemmodernisierung, um Innovation und Effizienz voranzutreiben.",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeDE: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | Systemanalyse & Full-Stack Softwareentwicklung",
+        title: "CHORN | Entwicklung von Unternehmenssoftware und Systemintegration",
         description: "Stärken Sie Ihr Unternehmen mit professioneller Systemanalyse und modernsten Softwarelösungen. CHORN spezialisiert sich auf Full-Stack-Entwicklung, KI-gestützte Automatisierung, Cloud-Computing und Systemmodernisierung, um Innovation und Effizienz voranzutreiben.",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeDE: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | Systemanalyse & Full-Stack Softwareentwicklung",
+        title: "CHORN | Entwicklung von Unternehmenssoftware und Systemintegration",
         description: "Stärken Sie Ihr Unternehmen mit professioneller Systemanalyse und modernsten Softwarelösungen. CHORN spezialisiert sich auf Full-Stack-Entwicklung, KI-gestützte Automatisierung, Cloud-Computing und Systemmodernisierung, um Innovation und Effizienz voranzutreiben.",
         images: MetadataLinkHome.twitter.images,
     },

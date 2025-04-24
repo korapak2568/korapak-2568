@@ -9,7 +9,7 @@ export default function HomeBackEndIcon({lang}: { lang: string }) {
         <div className="home-backend-icon-container">
             {InfoTranslation[lang].FullStack.stacks.map((item: IFullStackStack, index: any) => (
                 <div key={index} className={`home-backend-icon`}>
-                    <Link href={`/${lang}/${item.link}`}>
+                    <Link href={"/" + lang + item.link}>
                         <Image className="image-box"
                                src={item.image}
                                alt={item.alt}

@@ -1,4 +1,5 @@
 import {INavbar} from "@/data/navbar/model/INavbar";
+import {SubMenuFrontEnd} from "@/data/navbar/submenu/SubMenuFrontEnd";
 
 export const NavbarEN: INavbar[] = [
     {
@@ -22,7 +23,7 @@ export const NavbarEN: INavbar[] = [
                 group: "/technical-expertise/",
                 label: "Front-End Development",
                 link: "/technical-expertise/front-end-developer/",
-                submenu: [],
+                submenu: SubMenuFrontEnd,
             },
             {
                 group: "/technical-expertise/",

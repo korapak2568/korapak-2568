@@ -20,12 +20,12 @@ export const AboutFR: IAbout = {
     ],
     stacks: [
         {
-            title: "Analyse de Système et Support Technique",
-            description: "Analyse approfondie des systèmes et recommandations techniques pour améliorer les applications et systèmes critiques. Assure la fiabilité, le contrôle qualité, les tests logiciels et l'implémentation de technologies modernes pour un fonctionnement et une amélioration continue des activités."
+            title: "Développement logiciel et intégration de systèmes d'entreprise",
+            description: "Développement de sites web et de systèmes logiciels personnalisés utilisant des frameworks modernes. Développement frontend, backend, smart contracts, blockchain, Web3 et IA. L'intégration de systèmes d'entreprise, tels que ERP (par ex. SAP), CRM, plateformes e-commerce, APIs Google, et systèmes financiers et comptables, améliore la connectivité des données entre les départements, permettant l'automatisation et la collaboration."
         },
         {
-            title: "Ingénierie de développement logiciel et intégration de systèmes d'entreprise",
-            description: "Développement de sites web et de systèmes logiciels personnalisés utilisant des frameworks modernes. Développement frontend, backend, smart contracts, blockchain, Web3 et IA. L'intégration de systèmes d'entreprise, tels que ERP (par ex. SAP), CRM, plateformes e-commerce, APIs Google, et systèmes financiers et comptables, améliore la connectivité des données entre les départements, permettant l'automatisation et la collaboration."
+            title: "Analyse de Système et Support Technique",
+            description: "Analyse approfondie des systèmes et recommandations techniques pour améliorer les applications et systèmes critiques. Assure la fiabilité, le contrôle qualité, les tests logiciels et l'implémentation de technologies modernes pour un fonctionnement et une amélioration continue des activités."
         },
         {
             title: "Développement Agile et Coordination d'Équipe Business",

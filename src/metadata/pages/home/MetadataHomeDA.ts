@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeDA: Metadata = {
-    title: "CHORN | Systemanalyse & Full-Stack Softwareudvikling",
+    title: "CHORN | Udvikling af virksomhedssoftware og systemintegration",
     description: "Styrk din virksomhed med professionel systemanalyse og avancerede softwareløsninger. CHORN er specialiseret i full-stack udvikling, AI-drevet automatisering, cloud computing og systemmodernisering for at fremme innovation og effektivitet.",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeDA: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | Systemanalyse & Full-Stack Softwareudvikling",
+        title: "CHORN | Udvikling af virksomhedssoftware og systemintegration",
         description: "Styrk din virksomhed med professionel systemanalyse og avancerede softwareløsninger. CHORN er specialiseret i full-stack udvikling, AI-drevet automatisering, cloud computing og systemmodernisering for at fremme innovation og effektivitet.",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeDA: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | Systemanalyse & Full-Stack Softwareudvikling",
+        title: "CHORN | Udvikling af virksomhedssoftware og systemintegration",
         description: "Styrk din virksomhed med professionel systemanalyse og avancerede softwareløsninger. CHORN er specialiseret i full-stack udvikling, AI-drevet automatisering, cloud computing og systemmodernisering for at fremme innovation og effektivitet.",
         images: MetadataLinkHome.twitter.images,
     },

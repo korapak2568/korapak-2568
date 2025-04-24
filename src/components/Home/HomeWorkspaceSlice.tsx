@@ -31,6 +31,7 @@ export default function HomeWorkspaceSlice({lang}: { lang: string }) {
                                     <div className="row">
                                         <div className="col-lg-6">
                                             <div className="main-slider-content main-slider-content-custom">
+                                                <div className="title">{slide.title}</div>
                                                 <p>{slide.description}</p>
                                             </div>
                                         </div>

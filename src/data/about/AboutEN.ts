@@ -21,12 +21,12 @@ export const AboutEN: IAbout = {
     ],
     stacks: [
         {
-            title: "System Analysis and Technical Support",
-            description: "In-depth system analysis and technical recommendations enhance mission-critical applications and systems. Ensures reliability, quality control, software testing, and implementation of modern technologies for continuous business operation and improvement."
+            title: "Software Development and Enterprise System Integration",
+            description: "Custom website and software system development using modern frameworks. Development of frontend, backend, smart contracts, blockchain, Web3, and AI. Enterprise system integration, such as ERP (e.g., SAP), CRM, e-commerce platforms, Google APIs, and financial and accounting systems, enhances data connectivity across departments, enabling automation and collaboration."
         },
         {
-            title: "Software Development Engineering and Enterprise System Integration",
-            description: "Custom website and software system development using modern frameworks. Development of frontend, backend, smart contracts, blockchain, Web3, and AI. Enterprise system integration, such as ERP (e.g., SAP), CRM, e-commerce platforms, Google APIs, and financial and accounting systems, enhances data connectivity across departments, enabling automation and collaboration."
+            title: "System Analysis and Technical Support",
+            description: "In-depth system analysis and technical recommendations enhance mission-critical applications and systems. Ensures reliability, quality control, software testing, and implementation of modern technologies for continuous business operation and improvement."
         },
         {
             title: "Agile Software Development and Business Team Coordination",

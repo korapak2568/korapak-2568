@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeFI: Metadata = {
-    title: "CHORN | Järjestelmäanalyysi & Full-Stack Ohjelmistokehitys",
+    title: "CHORN | Yritysohjelmistokehitys ja järjestelmäintegraatio",
     description: "Vahvista liiketoimintaasi asiantuntevalla järjestelmäanalyysillä ja huipputason ohjelmistoratkaisuilla. CHORN on erikoistunut full-stack kehitykseen, tekoälypohjaiseen automaatioon, pilvipalveluihin ja järjestelmän modernisointiin innovaatioiden ja tehokkuuden edistämiseksi.",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeFI: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | Järjestelmäanalyysi & Full-Stack Ohjelmistokehitys",
+        title: "CHORN | Yritysohjelmistokehitys ja järjestelmäintegraatio",
         description: "Vahvista liiketoimintaasi asiantuntevalla järjestelmäanalyysillä ja huipputason ohjelmistoratkaisuilla. CHORN on erikoistunut full-stack kehitykseen, tekoälypohjaiseen automaatioon, pilvipalveluihin ja järjestelmän modernisointiin innovaatioiden ja tehokkuuden edistämiseksi.",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeFI: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | Järjestelmäanalyysi & Full-Stack Ohjelmistokehitys",
+        title: "CHORN | Yritysohjelmistokehitys ja järjestelmäintegraatio",
         description: "Vahvista liiketoimintaasi asiantuntevalla järjestelmäanalyysillä ja huipputason ohjelmistoratkaisuilla. CHORN on erikoistunut full-stack kehitykseen, tekoälypohjaiseen automaatioon, pilvipalveluihin ja järjestelmän modernisointiin innovaatioiden ja tehokkuuden edistämiseksi.",
         images: MetadataLinkHome.twitter.images,
     },

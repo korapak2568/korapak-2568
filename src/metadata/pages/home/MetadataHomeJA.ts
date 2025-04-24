@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeJA: Metadata = {
-    title: "CHORN | システム分析 & フルスタックソフトウェア開発エンジニアリング",
+    title: "CHORN | 企業向けソフトウェア開発とシステム統合",
     description: "専門的なシステム分析と最先端のソフトウェアソリューションでビジネスを強化します。CHORNは、フルスタック開発、AI駆動の自動化、クラウドコンピューティング、システムの近代化に特化し、イノベーションと効率を推進します。",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeJA: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | システム分析 & フルスタックソフトウェア開発エンジニアリング",
+        title: "CHORN | 企業向けソフトウェア開発とシステム統合",
         description: "専門的なシステム分析と最先端のソフトウェアソリューションでビジネスを強化します。CHORNは、フルスタック開発、AI駆動の自動化、クラウドコンピューティング、システムの近代化に特化し、イノベーションと効率を推進します。",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeJA: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | システム分析 & フルスタックソフトウェア開発エンジニアリング",
+        title: "CHORN | 企業向けソフトウェア開発とシステム統合",
         description: "専門的なシステム分析と最先端のソフトウェアソリューションでビジネスを強化します。CHORNは、フルスタック開発、AI駆動の自動化、クラウドコンピューティング、システムの近代化に特化し、イノベーションと効率を推進します。",
         images: MetadataLinkHome.twitter.images,
     },

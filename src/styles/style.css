@@ -14,7 +14,7 @@ This files table contents are outlined below>>>>>
 ** - Section Title CSS
 ** - Default btn CSS
 ** - Preloader Area CSS
-** - Navbar Area CSS
+** - NavbarContainer Area CSS
 ** - Main Banner Area CSS
 ** - Main Slider Area CSS
 ** - HomeFeatureMain Area CSS
@@ -343,7 +343,7 @@ Preloader Area CSS
   }
 }
 /*================================================
-Navbar Area CSS
+NavbarContainer Area CSS
 =================================================*/
 .main-navbar {
   padding-top: 0;
@@ -742,7 +742,7 @@ Navbar Area CSS
   top: 2px;
 }
 
-/* Navbar toggler */
+/* NavbarContainer toggler */
 .navbar-toggler {
   border: none;
   border-radius: 0;

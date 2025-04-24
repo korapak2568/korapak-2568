@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeTH: Metadata = {
-    title: "CHORN | วิเคราะห์ระบบ & วิศวกรรมพัฒนาซอฟต์แวร์ครบวงจร",
+    title: "CHORN | การพัฒนาซอฟต์แวร์องค์กรและการบูรณาการระบบ",
     description: "เพิ่มศักยภาพให้ธุรกิจของคุณด้วยการวิเคราะห์ระบบอย่างเชี่ยวชาญและโซลูชันซอฟต์แวร์ที่ทันสมัย CHORN เชี่ยวชาญการพัฒนาซอฟต์แวร์ครบวงจร, ระบบอัตโนมัติด้วย AI, คลาวด์, และการปรับปรุงระบบเพื่อขับเคลื่อนนวัตกรรมและประสิทธิภาพ",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeTH: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | วิเคราะห์ระบบ & วิศวกรรมพัฒนาซอฟต์แวร์ครบวงจร",
+        title: "CHORN | การพัฒนาซอฟต์แวร์องค์กรและการบูรณาการระบบ",
         description: "เพิ่มศักยภาพให้ธุรกิจของคุณด้วยการวิเคราะห์ระบบอย่างเชี่ยวชาญและโซลูชันซอฟต์แวร์ที่ทันสมัย CHORN เชี่ยวชาญการพัฒนาซอฟต์แวร์ครบวงจร, ระบบอัตโนมัติด้วย AI, คลาวด์, และการปรับปรุงระบบเพื่อขับเคลื่อนนวัตกรรมและประสิทธิภาพ",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeTH: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | วิเคราะห์ระบบ & วิศวกรรมพัฒนาซอฟต์แวร์ครบวงจร",
+        title: "CHORN | การพัฒนาซอฟต์แวร์องค์กรและการบูรณาการระบบ",
         description: "เพิ่มศักยภาพให้ธุรกิจของคุณด้วยการวิเคราะห์ระบบอย่างเชี่ยวชาญและโซลูชันซอฟต์แวร์ที่ทันสมัย CHORN เชี่ยวชาญการพัฒนาซอฟต์แวร์ครบวงจร, ระบบอัตโนมัติด้วย AI, คลาวด์, และการปรับปรุงระบบเพื่อขับเคลื่อนนวัตกรรมและประสิทธิภาพ",
         images: MetadataLinkHome.twitter.images,
     },

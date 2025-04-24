@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeEN: Metadata = {
-    title: "CHORN | System Analysis & Full-Stack Software Development Engineering",
+    title: "CHORN | Enterprise Software Development and System Integration",
     description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud, and system modernization to drive innovation and efficiency.",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeEN: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | System Analysis & Full-Stack Software Development Engineering",
+        title: "CHORN | Enterprise Software Development and System Integration",
         description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud, and system modernization to drive innovation and efficiency.",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeEN: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | System Analysis & Full-Stack Software Development Engineering",
+        title: "CHORN | Enterprise Software Development and System Integration",
         description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud, and system modernization to drive innovation and efficiency.",
         images: MetadataLinkHome.twitter.images,
     },

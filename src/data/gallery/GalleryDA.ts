@@ -4,33 +4,33 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const GalleryDA: IGallery = {
     slides: [
         {
-            title: "CHORN",
-            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, , tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, og i udlandet.",
+            title: "Softwareudvikling og integration af virksomhedssystemer",
+            description: "Fleksible arbejdspladser tilpasset kundernes behov i Bangkok tæt på BTS, MRT og førende shoppingcentre som Siam Paragon, Central World og ICON Siam. Tilgængelig for fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok og i udlandet.",
             image: ImageUrl.home.slides[0]
         },
         {
-            title: "CHORN",
-            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, , tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, og i udlandet.",
+            title: "Softwareudvikling og integration af virksomhedssystemer",
+            description: "Fleksible arbejdspladser tilpasset kundernes behov i Bangkok tæt på BTS, MRT og førende shoppingcentre som Siam Paragon, Central World og ICON Siam. Tilgængelig for fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok og i udlandet.",
             image: ImageUrl.home.slides[1]
         },
         {
-            title: "CHORN",
-            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, , tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, og i udlandet.",
+            title: "Softwareudvikling og integration af virksomhedssystemer",
+            description: "Fleksible arbejdspladser tilpasset kundernes behov i Bangkok tæt på BTS, MRT og førende shoppingcentre som Siam Paragon, Central World og ICON Siam. Tilgængelig for fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok og i udlandet.",
             image: ImageUrl.home.slides[2]
         },
         {
-            title: "CHORN",
-            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, , tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, og i udlandet.",
+            title: "Softwareudvikling og integration af virksomhedssystemer",
+            description: "Fleksible arbejdspladser tilpasset kundernes behov i Bangkok tæt på BTS, MRT og førende shoppingcentre som Siam Paragon, Central World og ICON Siam. Tilgængelig for fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok og i udlandet.",
             image: ImageUrl.home.slides[3]
         },
         {
-            title: "CHORN",
-            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, , tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, og i udlandet.",
+            title: "Softwareudvikling og integration af virksomhedssystemer",
+            description: "Fleksible arbejdspladser tilpasset kundernes behov i Bangkok tæt på BTS, MRT og førende shoppingcentre som Siam Paragon, Central World og ICON Siam. Tilgængelig for fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok og i udlandet.",
             image: ImageUrl.home.slides[4]
         },
         {
-            title: "CHORN",
-            description: "Full-stack softwareudviklingsteknik med fleksible arbejdspladser efter kundernes behov i Bangkok, , tæt på BTS- og MRT-stationer, vigtige vartegn og førende indkøbscentre som Siam Paragon, Central World og ICON Siam. Klar til fjernarbejde, hybridarbejde eller kontorarbejde i Chiang Mai, Bangkok, og i udlandet.",
+            title: "Softwareudvikling og integration af virksomhedssystemer",
+            description: "Fleksible arbejdspladser tilpasset kundernes behov i Bangkok tæt på BTS, MRT og førende shoppingcentre som Siam Paragon, Central World og ICON Siam. Tilgængelig for fjernarbejde, hybridarbejde eller arbejde på stedet i Chiang Mai, Bangkok og i udlandet.",
             image: ImageUrl.home.slides[5]
         },
     ],

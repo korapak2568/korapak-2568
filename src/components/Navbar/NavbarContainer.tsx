@@ -3,7 +3,7 @@
 import React, {useEffect} from "react";
 import Link from "next/link";
 import Image from "next/image";
-import MenuItem from "./MenuItem";
+import MenuContainer from "./MenuContainer/MenuContainer";
 import {INavbar} from "@/data/navbar/model/INavbar";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {Globe} from "lucide-react";
@@ -22,7 +22,7 @@ import {
     useMobileMenuVisible
 } from "@/provider/hooks/AppStateHook";
 
-export default function Navbar() {
+export default function NavbarContainer() {
     const router = useRouter();
     const dispatch = useDispatch();
     const language = useLanguage()
@@ -69,7 +69,7 @@ export default function Navbar() {
                 <div className="main-navbar">
                     <div className="container">
                         <nav className="navbar navbar-expand-md navbar-light">
-                            <Link href="/" className="navbar-brand add-navbar-logo">
+                            <Link href="/public" className="navbar-brand add-navbar-logo">
                                 <Image
                                     src={ImageUrl.logo.rec.sm.path}
                                     alt={ImageUrl.logo.rec.sm.title}
@@ -122,11 +122,10 @@ export default function Navbar() {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     {InfoTranslation[language].Navbar.map((menuItem: INavbar, index) => {
-                                        return <MenuItem key={index} {...menuItem} />
+                                        return <MenuContainer key={index} {...menuItem} />
                                     })}
                                 </ul>
                             </div>
-
                         </nav>
                     </div>
                 </div>

@@ -20,12 +20,12 @@ export const AboutDE: IAbout = {
     ],
     stacks: [
         {
-            title: "Systemanalyse und Technischer Support",
-            description: "Tiefgehende Systemanalyse und technische Empfehlungen zur Verbesserung kritischer Anwendungen und Systeme. Gewährleistet Zuverlässigkeit, Qualitätskontrolle, Softwaretests und die Implementierung moderner Technologien für kontinuierlichen Geschäftsbetrieb und Verbesserung."
+            title: "Softwareudvikling og integration af virksomhedssystemer",
+            description: "Entwicklung individueller Websites und Softwaresysteme mit modernen Frameworks. Entwicklung von Frontend, Backend, Smart Contracts, Blockchain, Web3 und KI. Die Integration von Unternehmenssystemen wie ERP (z.B. SAP), CRM, E-Commerce-Plattformen, Google APIs und Finanz- und Buchhaltungssystemen verbessert die Datenverbindung zwischen Abteilungen und ermöglicht Automatisierung und Zusammenarbeit."
         },
         {
-            title: "Softwareentwicklungstechnik und Unternehmenssystemintegration",
-            description: "Entwicklung individueller Websites und Softwaresysteme mit modernen Frameworks. Entwicklung von Frontend, Backend, Smart Contracts, Blockchain, Web3 und KI. Die Integration von Unternehmenssystemen wie ERP (z.B. SAP), CRM, E-Commerce-Plattformen, Google APIs und Finanz- und Buchhaltungssystemen verbessert die Datenverbindung zwischen Abteilungen und ermöglicht Automatisierung und Zusammenarbeit."
+            title: "Systemanalyse und Technischer Support",
+            description: "Tiefgehende Systemanalyse und technische Empfehlungen zur Verbesserung kritischer Anwendungen und Systeme. Gewährleistet Zuverlässigkeit, Qualitätskontrolle, Softwaretests und die Implementierung moderner Technologien für kontinuierlichen Geschäftsbetrieb und Verbesserung."
         },
         {
             title: "Agile Softwareentwicklung und Business-Team-Koordination",

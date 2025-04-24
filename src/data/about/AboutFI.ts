@@ -20,12 +20,12 @@ export const AboutFI: IAbout = {
     ],
     stacks: [
         {
-            title: "Järjestelmäanalyysi ja Tekninen Tuki",
-            description: "Perusteellinen järjestelmäanalyysi ja tekniset suositukset kriittisten sovellusten ja järjestelmien parantamiseksi. Varmistaa luotettavuuden, laadunvalvonnan, ohjelmistotestauksen ja modernien teknologioiden käyttöönoton jatkuvaa liiketoimintaa ja kehitystä varten."
+            title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
+            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehittäminen käyttäen moderneja kehyksiä. Frontend-, backend-, älysopimus-, lohkoketju-, Web3- ja tekoälykehitys. Yritysjärjestelmien integrointi, kuten ERP (esim. SAP), CRM, verkkokauppa-alustat, Google API:t sekä talous- ja kirjanpitojärjestelmät, parantaa tietojen yhteyttä osastojen välillä, mahdollistaen automaation ja yhteistyön."
         },
         {
-            title: "Ohjelmistokehitystekniikka ja yritysjärjestelmien integrointi",
-            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehittäminen käyttäen moderneja kehyksiä. Frontend-, backend-, älysopimus-, lohkoketju-, Web3- ja tekoälykehitys. Yritysjärjestelmien integrointi, kuten ERP (esim. SAP), CRM, verkkokauppa-alustat, Google API:t sekä talous- ja kirjanpitojärjestelmät, parantaa tietojen yhteyttä osastojen välillä, mahdollistaen automaation ja yhteistyön."
+            title: "Järjestelmäanalyysi ja Tekninen Tuki",
+            description: "Perusteellinen järjestelmäanalyysi ja tekniset suositukset kriittisten sovellusten ja järjestelmien parantamiseksi. Varmistaa luotettavuuden, laadunvalvonnan, ohjelmistotestauksen ja modernien teknologioiden käyttöönoton jatkuvaa liiketoimintaa ja kehitystä varten."
         },
         {
             title: "Ketterä Ohjelmistokehitys ja Liiketoimintatiimien Koordinointi",

@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeFR: Metadata = {
-    title: "CHORN | Analyse des systèmes & Ingénierie de développement logiciel Full-Stack",
+    title: "CHORN | Développement de logiciels d'entreprise et intégration de systèmes",
     description: "Donnez à votre entreprise un avantage avec une analyse experte des systèmes et des solutions logicielles de pointe. CHORN se spécialise dans le développement full-stack, l'automatisation alimentée par l'IA, l'informatique en nuage et la modernisation des systèmes pour stimuler l'innovation et l'efficacité.",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeFR: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | Analyse des systèmes & Ingénierie de développement logiciel Full-Stack",
+        title: "CHORN | Développement de logiciels d'entreprise et intégration de systèmes",
         description: "Donnez à votre entreprise un avantage avec une analyse experte des systèmes et des solutions logicielles de pointe. CHORN se spécialise dans le développement full-stack, l'automatisation alimentée par l'IA, l'informatique en nuage et la modernisation des systèmes pour stimuler l'innovation et l'efficacité.",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeFR: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | Analyse des systèmes & Ingénierie de développement logiciel Full-Stack",
+        title: "CHORN | Développement de logiciels d'entreprise et intégration de systèmes",
         description: "Donnez à votre entreprise un avantage avec une analyse experte des systèmes et des solutions logicielles de pointe. CHORN se spécialise dans le développement full-stack, l'automatisation alimentée par l'IA, l'informatique en nuage et la modernisation des systèmes pour stimuler l'innovation et l'efficacité.",
         images: MetadataLinkHome.twitter.images,
     },

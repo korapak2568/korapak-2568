@@ -20,12 +20,12 @@ export const AboutVI: IAbout = {
     ],
     stacks: [
         {
-            title: "Phân Tích Hệ Thống và Hỗ Trợ Kỹ Thuật",
-            description: "Phân tích hệ thống chuyên sâu và đề xuất kỹ thuật nâng cao ứng dụng và hệ thống quan trọng. Đảm bảo độ tin cậy, kiểm soát chất lượng, kiểm thử phần mềm và triển khai công nghệ hiện đại cho hoạt động kinh doanh liên tục và cải tiến."
+            title: "Phát triển phần mềm và tích hợp hệ thống doanh nghiệp",
+            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng các framework hiện đại. Phát triển frontend, backend, hợp đồng thông minh, blockchain, Web3 và AI. Tích hợp hệ thống doanh nghiệp như ERP (ví dụ: SAP), CRM, nền tảng thương mại điện tử, API Google và hệ thống tài chính kế toán, nâng cao kết nối dữ liệu giữa các phòng ban, hỗ trợ tự động hóa và hợp tác."
         },
         {
-            title: "Kỹ thuật phát triển phần mềm và tích hợp hệ thống doanh nghiệp",
-            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng các framework hiện đại. Phát triển frontend, backend, hợp đồng thông minh, blockchain, Web3 và AI. Tích hợp hệ thống doanh nghiệp như ERP (ví dụ: SAP), CRM, nền tảng thương mại điện tử, API Google và hệ thống tài chính kế toán, nâng cao kết nối dữ liệu giữa các phòng ban, hỗ trợ tự động hóa và hợp tác."
+            title: "Phân Tích Hệ Thống và Hỗ Trợ Kỹ Thuật",
+            description: "Phân tích hệ thống chuyên sâu và đề xuất kỹ thuật nâng cao ứng dụng và hệ thống quan trọng. Đảm bảo độ tin cậy, kiểm soát chất lượng, kiểm thử phần mềm và triển khai công nghệ hiện đại cho hoạt động kinh doanh liên tục và cải tiến."
         },
         {
             title: "Phát Triển Phần Mềm Agile và Phối Hợp Đội Kinh Doanh",

@@ -20,12 +20,12 @@ export const AboutNL: IAbout = {
     ],
     stacks: [
         {
-            title: "Systeemanalyse en Technische Ondersteuning",
-            description: "Diepgaande systeemanalyse en technische aanbevelingen ter verbetering van kritieke applicaties en systemen. Zorgt voor betrouwbaarheid, kwaliteitscontrole, softwaretesten en implementatie van moderne technologieën voor continue bedrijfsvoering en verbetering."
+            title: "Softwareontwikkeling en integratie van bedrijfssystemen",
+            description: "Ontwikkeling van aangepaste websites en softwaresystemen met behulp van moderne frameworks. Ontwikkeling van frontend, backend, smart contracts, blockchain, Web3 en AI. Integratie van bedrijfssystemen, zoals ERP (bijv. SAP), CRM, e-commerce platforms, Google API's en financiële en boekhoudkundige systemen, verbetert de dataconnectiviteit tussen afdelingen, waardoor automatisering en samenwerking mogelijk worden."
         },
         {
-            title: "Software-ontwikkelingstechniek en bedrijfssysteemintegratie",
-            description: "Ontwikkeling van aangepaste websites en softwaresystemen met behulp van moderne frameworks. Ontwikkeling van frontend, backend, smart contracts, blockchain, Web3 en AI. Integratie van bedrijfssystemen, zoals ERP (bijv. SAP), CRM, e-commerce platforms, Google API's en financiële en boekhoudkundige systemen, verbetert de dataconnectiviteit tussen afdelingen, waardoor automatisering en samenwerking mogelijk worden."
+            title: "Systeemanalyse en Technische Ondersteuning",
+            description: "Diepgaande systeemanalyse en technische aanbevelingen ter verbetering van kritieke applicaties en systemen. Zorgt voor betrouwbaarheid, kwaliteitscontrole, softwaretesten en implementatie van moderne technologieën voor continue bedrijfsvoering en verbetering."
         },
         {
             title: "Agile Softwareontwikkeling en Coördinatie van Business Teams",

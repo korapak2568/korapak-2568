@@ -4,38 +4,34 @@ import {ImageUrl} from "@/image/ImageUrl";
 export const GalleryFI: IGallery = {
     slides: [
         {
-            title: "CHORN",
-            description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
+            title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
+            description: "Joustavat työtilat asiakkaiden tarpeiden mukaan Bangkokissa, lähellä BTS:ää, MRT:tä ja tunnettuja ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Mahdollisuus etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa ja ulkomailla.",
             image: ImageUrl.home.slides[0]
         },
         {
 
-            title: "CHORN",
-            description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
+            title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
+            description: "Joustavat työtilat asiakkaiden tarpeiden mukaan Bangkokissa, lähellä BTS:ää, MRT:tä ja tunnettuja ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Mahdollisuus etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa ja ulkomailla.",
             image: ImageUrl.home.slides[1]
         },
         {
-
-            title: "CHORN",
-            description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
+            title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
+            description: "Joustavat työtilat asiakkaiden tarpeiden mukaan Bangkokissa, lähellä BTS:ää, MRT:tä ja tunnettuja ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Mahdollisuus etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa ja ulkomailla.",
             image: ImageUrl.home.slides[2]
         },
         {
-
-            title: "CHORN",
-            description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
+            title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
+            description: "Joustavat työtilat asiakkaiden tarpeiden mukaan Bangkokissa, lähellä BTS:ää, MRT:tä ja tunnettuja ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Mahdollisuus etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa ja ulkomailla.",
             image: ImageUrl.home.slides[3]
         },
         {
-
-            title: "CHORN",
-            description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
+            title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
+            description: "Joustavat työtilat asiakkaiden tarpeiden mukaan Bangkokissa, lähellä BTS:ää, MRT:tä ja tunnettuja ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Mahdollisuus etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa ja ulkomailla.",
             image: ImageUrl.home.slides[4]
         },
         {
-
-            title: "CHORN",
-            description: "Full-stack-ohjelmistokehitysinsinööritoimintaa joustavilla työpaikoilla asiakkaiden tarpeiden mukaan Bangkokissa, Thaimaassa, lähellä BTS- ja MRT-asemia, tärkeitä maamerkkejä ja johtavia ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Valmiina etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa, Thaimaassa ja ulkomailla.",
+            title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
+            description: "Joustavat työtilat asiakkaiden tarpeiden mukaan Bangkokissa, lähellä BTS:ää, MRT:tä ja tunnettuja ostoskeskuksia kuten Siam Paragon, Central World ja ICON Siam. Mahdollisuus etätyöhön, hybridityöhön tai paikan päällä työskentelyyn Chiang Maissa, Bangkokissa ja ulkomailla.",
             image: ImageUrl.home.slides[5]
         },
     ],

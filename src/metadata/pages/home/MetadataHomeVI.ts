@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeVI: Metadata = {
-    title: "CHORN | Phân Tích Hệ Thống & Kỹ Thuật Phát Triển Phần Mềm Full-Stack",
+    title: "CHORN | Phát triển phần mềm doanh nghiệp và tích hợp hệ thống",
     description: "Nâng cao doanh nghiệp của bạn với phân tích hệ thống chuyên nghiệp và các giải pháp phần mềm tiên tiến. CHORN chuyên về phát triển full-stack, tự động hóa dựa trên AI, điện toán đám mây và hiện đại hóa hệ thống để thúc đẩy đổi mới và hiệu quả.",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeVI: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | Phân Tích Hệ Thống & Kỹ Thuật Phát Triển Phần Mềm Full-Stack",
+        title: "CHORN | Phát triển phần mềm doanh nghiệp và tích hợp hệ thống",
         description: "Nâng cao doanh nghiệp của bạn với phân tích hệ thống chuyên nghiệp và các giải pháp phần mềm tiên tiến. CHORN chuyên về phát triển full-stack, tự động hóa dựa trên AI, điện toán đám mây và hiện đại hóa hệ thống để thúc đẩy đổi mới và hiệu quả.",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeVI: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | Phân Tích Hệ Thống & Kỹ Thuật Phát Triển Phần Mềm Full-Stack",
+        title: "CHORN | Phát triển phần mềm doanh nghiệp và tích hợp hệ thống",
         description: "Nâng cao doanh nghiệp của bạn với phân tích hệ thống chuyên nghiệp và các giải pháp phần mềm tiên tiến. CHORN chuyên về phát triển full-stack, tự động hóa dựa trên AI, điện toán đám mây và hiện đại hóa hệ thống để thúc đẩy đổi mới và hiệu quả.",
         images: MetadataLinkHome.twitter.images,
     },

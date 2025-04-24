@@ -20,12 +20,12 @@ export const AboutDA: IAbout = {
     ],
     stacks: [
         {
-            title: "Systemanalyse og Teknisk Support",
-            description: "Dybdegående systemanalyse og tekniske anbefalinger til forbedring af kritiske applikationer og systemer. Sikrer pålidelighed, kvalitetskontrol, softwaretest og implementering af moderne teknologier til kontinuerlig forretningsdrift og forbedring."
-        },
-        {
             title: "Softwareudviklingsteknologi og virksomhedssystemintegration",
             description: "Udvikling af skræddersyede hjemmesider og softwaresystemer ved hjælp af moderne frameworks. Udvikling af frontend, backend, smart contracts, blockchain, Web3 og AI. Integration af virksomhedssystemer, såsom ERP (f.eks. SAP), CRM, e-handelsplatforme, Google API'er og finans- og regnskabssystemer, forbedrer dataforbindelsen på tværs af afdelinger, hvilket muliggør automatisering og samarbejde."
+        },
+        {
+            title: "Systemanalyse og Teknisk Support",
+            description: "Dybdegående systemanalyse og tekniske anbefalinger til forbedring af kritiske applikationer og systemer. Sikrer pålidelighed, kvalitetskontrol, softwaretest og implementering af moderne teknologier til kontinuerlig forretningsdrift og forbedring."
         },
         {
             title: "Agil Softwareudvikling og Forretningsteamkoordinering",

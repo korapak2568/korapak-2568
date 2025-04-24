@@ -2,7 +2,7 @@ import {Metadata} from "next";
 import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
 
 export const MetadataHomeZH: Metadata = {
-    title: "CHORN | 系统分析与全栈软件开发工程",
+    title: "CHORN | 企业软件开发与系统集成",
     description: "通过专业的系统分析和尖端的软件解决方案，增强您的业务。CHORN 专注于全栈开发、AI 驱动的自动化、云计算和系统现代化，推动创新与效率。",
     icons: {
         icon: '/favicon.ico',
@@ -14,7 +14,7 @@ export const MetadataHomeZH: Metadata = {
         }
     ],
     openGraph: {
-        title: "CHORN | 系统分析与全栈软件开发工程",
+        title: "CHORN | 企业软件开发与系统集成",
         description: "通过专业的系统分析和尖端的软件解决方案，增强您的业务。CHORN 专注于全栈开发、AI 驱动的自动化、云计算和系统现代化，推动创新与效率。",
         images: MetadataLinkHome.openGraph.images,
         url: MetadataLinkHome.openGraph.url,
@@ -22,7 +22,7 @@ export const MetadataHomeZH: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "CHORN | 系统分析与全栈软件开发工程",
+        title: "CHORN | 企业软件开发与系统集成",
         description: "通过专业的系统分析和尖端的软件解决方案，增强您的业务。CHORN 专注于全栈开发、AI 驱动的自动化、云计算和系统现代化，推动创新与效率。",
         images: MetadataLinkHome.twitter.images,
     },

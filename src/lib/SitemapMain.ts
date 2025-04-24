@@ -60,11 +60,11 @@ export const SitemapMain: ISitemapChorn[] = [
     {
         url: '/gallery',
         images: [
-            {path: ImageUrl.gallery.main.image750},
-            {path: ImageUrl.gallery.slides[0].image750},
-            {path: ImageUrl.gallery.slides[1].image750},
-            {path: ImageUrl.gallery.slides[2].image750},
-            {path: ImageUrl.gallery.slides[3].image750},
+            {path: ImageUrl.gallery.main.image1200},
+            {path: ImageUrl.gallery.slides[0].image1200},
+            {path: ImageUrl.gallery.slides[1].image1200},
+            {path: ImageUrl.gallery.slides[2].image1200},
+            {path: ImageUrl.gallery.slides[3].image1200},
         ]
     },
 
@@ -81,42 +81,58 @@ export const SitemapMain: ISitemapChorn[] = [
     {
         url: '/technical-expertise/cloud-devops',
         images: [
-            {path: ImageUrl.devops.frameworks.docker.image750},
-            {path: ImageUrl.devops.frameworks.kube.image750},
-            {path: ImageUrl.devops.frameworks.github.image750},
+            {path: ImageUrl.devops.frameworks.docker.thumbnail},
+            {path: ImageUrl.devops.frameworks.kube.thumbnail},
+            {path: ImageUrl.devops.frameworks.github.thumbnail},
         ]
     },
     {
         url: '/technical-expertise/cloud-devops/appium',
-        images: [{path: ImageUrl.devops.frameworks.appium.image750}]
+        images: [
+            {path: ImageUrl.devops.frameworks.appium.image1200}
+        ]
     },
     {
         url: '/technical-expertise/cloud-devops/docker',
-        images: [{path: ImageUrl.devops.frameworks.docker.image750}]
+        images: [
+            {path: ImageUrl.devops.frameworks.docker.image1200}
+        ]
     },
     {
         url: '/technical-expertise/cloud-devops/github',
-        images: [{path: ImageUrl.devops.frameworks.github.image750}]
+        images: [
+            {path: ImageUrl.devops.frameworks.github.image1200}
+        ]
     },
     {
         url: '/technical-expertise/cloud-devops/gitlab',
-        images: [{path: ImageUrl.devops.frameworks.gitlab.image750}]
+        images: [
+            {path: ImageUrl.devops.frameworks.gitlab.image1200}
+        ]
     },
     {
         url: '/technical-expertise/cloud-devops/jenkins',
-        images: [{path: ImageUrl.devops.frameworks.jenkins.image750}]
+        images: [
+            {path: ImageUrl.devops.frameworks.jenkins.image1200}
+        ]
     },
     {
         url: '/technical-expertise/cloud-devops/kubernetes',
-        images: [{path: ImageUrl.devops.frameworks.kube.image750}]
+        images: [
+            {path: ImageUrl.devops.frameworks.kube.image1200}
+        ]
     },
     {
         url: '/technical-expertise/cloud-devops/postman',
-        images: [{path: ImageUrl.devops.frameworks.postman.image750}]
+        images: [
+            {path: ImageUrl.devops.frameworks.postman.image1200}
+        ]
     },
     {
         url: '/technical-expertise/cloud-devops/soapui',
-        images: [{path: ImageUrl.devops.frameworks.soapui.image750}]
+        images: [
+            {path: ImageUrl.devops.frameworks.soapui.image1200}
+        ]
     },
 
     // cloud-infrastructure-systems-architecture
@@ -129,60 +145,60 @@ export const SitemapMain: ISitemapChorn[] = [
     {
         url: '/technical-expertise/front-end-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.nextjs.image750},
-            {path: ImageUrl.frontend.frameworks.react.image750},
-            {path: ImageUrl.frontend.frameworks.angular.image750},
-            {path: ImageUrl.frontend.frameworks.vue.image750},
-            {path: ImageUrl.frontend.frameworks.javascript.image750},
-            {path: ImageUrl.frontend.frameworks.typescript.image750},
+            {path: ImageUrl.frontend.frameworks.nextjs.thumbnail},
+            {path: ImageUrl.frontend.frameworks.react.thumbnail},
+            {path: ImageUrl.frontend.frameworks.angular.thumbnail},
+            {path: ImageUrl.frontend.frameworks.vue.thumbnail},
+            {path: ImageUrl.frontend.frameworks.javascript.thumbnail},
+            {path: ImageUrl.frontend.frameworks.typescript.thumbnail},
         ]
     },
     {
         url: '/technical-expertise/front-end-developer/angular-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.angular.image750}
+            {path: ImageUrl.frontend.frameworks.angular.image1200}
         ]
     },
     {
         url: '/technical-expertise/front-end-developer/css3-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.css3.image750}
+            {path: ImageUrl.frontend.frameworks.css3.image1200}
         ]
     },
     {
         url: '/technical-expertise/front-end-developer/html5-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.html5.image750}
+            {path: ImageUrl.frontend.frameworks.html5.image1200}
         ]
     },
     {
         url: '/technical-expertise/front-end-developer/javascript-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.javascript.image750}
+            {path: ImageUrl.frontend.frameworks.javascript.image1200}
         ]
     },
     {
         url: '/technical-expertise/front-end-developer/nextjs-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.nextjs.image750}
+            {path: ImageUrl.frontend.frameworks.nextjs.image1200}
         ]
     },
     {
         url: '/technical-expertise/front-end-developer/react-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.react.image750}
+            {path: ImageUrl.frontend.frameworks.react.image1200}
         ]
     },
     {
         url: '/technical-expertise/front-end-developer/typescript-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.typescript.image750}
+            {path: ImageUrl.frontend.frameworks.typescript.image1200}
         ]
     },
     {
         url: '/technical-expertise/front-end-developer/vue-developer',
         images: [
-            {path: ImageUrl.frontend.frameworks.vue.image750}
+            {path: ImageUrl.frontend.frameworks.vue.image1200}
         ]
     },
 
@@ -190,48 +206,48 @@ export const SitemapMain: ISitemapChorn[] = [
     {
         url: '/technical-expertise/full-stack-developer',
         images: [
-            {path: ImageUrl.backend.frameworks.nodejs.image750},
-            {path: ImageUrl.backend.frameworks.go.image750},
-            {path: ImageUrl.backend.frameworks.java.image750},
-            {path: ImageUrl.backend.frameworks.python.image750},
-            {path: ImageUrl.backend.frameworks.php.image750},
-            {path: ImageUrl.backend.frameworks.dotnetcore.image750}
+            {path: ImageUrl.backend.frameworks.nodejs.thumbnail},
+            {path: ImageUrl.backend.frameworks.go.thumbnail},
+            {path: ImageUrl.backend.frameworks.java.thumbnail},
+            {path: ImageUrl.backend.frameworks.python.thumbnail},
+            {path: ImageUrl.backend.frameworks.php.thumbnail},
+            {path: ImageUrl.backend.frameworks.dotnetcore.thumbnail}
         ]
     },
     {
         url: '/technical-expertise/full-stack-developer/dotnetcore-developer',
         images: [
-            {path: ImageUrl.backend.frameworks.dotnetcore.image750}
+            {path: ImageUrl.backend.frameworks.dotnetcore.image1200}
         ]
     },
     {
         url: '/technical-expertise/full-stack-developer/go-developer',
         images: [
-            {path: ImageUrl.backend.frameworks.go.image750}
+            {path: ImageUrl.backend.frameworks.go.image1200}
         ]
     },
     {
         url: '/technical-expertise/full-stack-developer/java-spring-boot-developer',
         images: [
-            {path: ImageUrl.backend.frameworks.java.image750}
+            {path: ImageUrl.backend.frameworks.java.image1200}
         ]
     },
     {
         url: '/technical-expertise/full-stack-developer/nodejs-developer',
         images: [
-            {path: ImageUrl.backend.frameworks.nodejs.image750}
+            {path: ImageUrl.backend.frameworks.nodejs.image1200}
         ]
     },
     {
         url: '/technical-expertise/full-stack-developer/php-developer',
         images: [
-            {path: ImageUrl.backend.frameworks.php.image750}
+            {path: ImageUrl.backend.frameworks.php.image1200}
         ]
     },
     {
         url: '/technical-expertise/full-stack-developer/python-developer',
         images: [
-            {path: ImageUrl.backend.frameworks.python.image750}
+            {path: ImageUrl.backend.frameworks.python.image1200}
         ]
     },
 

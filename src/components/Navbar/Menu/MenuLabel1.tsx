@@ -5,14 +5,16 @@ import Link from "next/link";
 import React from "react";
 import {toggleMobileMenuVisible} from "@/provider/redux/AppSlice";
 import {useDispatch} from "react-redux";
-import {IMenuLabel} from "@/components/Layouts/model/IMenuLabel";
+import {IMenuLabel} from "@/components/Navbar/model/IMenuLabel";
 import {useLanguage} from "@/provider/hooks/AppStateHook";
+import {usePathname} from "next/navigation";
 
-export default function MenuLabel({menuLabel}: { menuLabel: IMenuLabel }) {
+export default function MenuLabel1({menuLabel}: { menuLabel: IMenuLabel }) {
     const dispatch = useDispatch();
     const language = useLanguage()
-    const isActiveMain = isActiveMainMenu(menuLabel.pathname, menuLabel.group)
-    const isActiveSub = isActiveSubMenu(menuLabel.pathname, '/' + language + menuLabel.link)
+    const pathname = usePathname();
+    const isActiveMain = isActiveMainMenu(pathname, menuLabel.group)
+    const isActiveSub = isActiveSubMenu(pathname, '/' + language + menuLabel.link)
     const isCheckActiveMenu = menuLabel.isSubMenu ? isActiveSub : isActiveMain
 
     const saveClickedLinked = (group: string) => {

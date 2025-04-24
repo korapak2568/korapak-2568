@@ -14,7 +14,7 @@ This files table contents are outlined below>>>>>
 ** - Section Title CSS
 ** - Default btn CSS
 ** - Preloader Area CSS
-** - Navbar Area CSS
+** - NavbarContainer Area CSS
 ** - Main Banner Area CSS
 ** - Main Slider Area CSS
 ** - HomeFeatureMain Area CSS
@@ -354,7 +354,7 @@ Preloader Area CSS
 }
 
 /*================================================
-Navbar Area CSS
+NavbarContainer Area CSS
 =================================================*/
 .main-navbar {
     padding-top: 0;
@@ -837,7 +837,7 @@ Navbar Area CSS
     }
 }
 
-/* Navbar toggler */
+/* NavbarContainer toggler */
 .navbar-toggler {
     border: none;
 	border-radius: 0;
@@ -1189,7 +1189,7 @@ Search Overlay CSS
     }
 }
 
-// Mobile and iPad Navbar
+// Mobile and iPad NavbarContainer
 @media only screen and (max-width: 1199px) {
     .navbar-area {
         background-color: $white-color;
