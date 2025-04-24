@@ -5,24 +5,22 @@ import React from "react";
 import {IMenuLabel} from "@/components/Navbar/model/IMenuLabel";
 
 export default function MenuLabel2(
-    {submenu, group}: { submenu: INavbar[], group: string }
+    {menu2, group}: { menu2: INavbar[], group: string }
 ) {
-    return (
-        <ul className="dropdown-menu x-navbar-dropdown">
-            {submenu.map((subItem: INavbar, index) => {
-                const subMenuLabel: IMenuLabel = {
-                    link: subItem.link,
-                    group,
-                    label: subItem.label,
-                    isSubMenu: true
-                }
+    return <ul className="dropdown-menu x-navbar-dropdown">
+        {menu2.map((subItem: INavbar, index) => {
+            const subMenuLabel: IMenuLabel = {
+                link: subItem.link,
+                group,
+                label: subItem.label,
+                isSubMenu: true
+            }
 
-                return subItem.isSeparated ?
-                    <MenuLabelHorizontalLine key={index}/> :
-                    <li key={index}>
-                        <MenuLabel1 menuLabel={subMenuLabel}/>
-                    </li>
-            })}
-        </ul>
-    )
+            return subItem.isSeparated ?
+                <MenuLabelHorizontalLine key={index}/> :
+                <li key={index}>
+                    <MenuLabel1 menuLabel={subMenuLabel}/>
+                </li>
+        })}
+    </ul>
 }

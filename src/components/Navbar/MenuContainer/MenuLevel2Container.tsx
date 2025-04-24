@@ -5,11 +5,11 @@ import MenuLabel2 from "@/components/Navbar/Menu/MenuLabel2";
 import {INavbar} from "@/data/navbar/model/INavbar";
 
 export default function MenuLevel2Container(
-    {menuLabel, group, submenu}: { menuLabel: IMenuLabel, group: string, submenu: INavbar[] },) {
+    {menu1, group, menu2}: { menu1: IMenuLabel, group: string, menu2: INavbar[] },) {
     return (
         <li className="nav-item x-navbar-item">
-            <MenuLabel1 menuLabel={menuLabel}/>
-            <MenuLabel2 submenu={submenu} group={group}/>
+            <MenuLabel1 menuLabel={menu1}/>
+            <MenuLabel2 menu2={menu2} group={group}/>
         </li>
     )
 }

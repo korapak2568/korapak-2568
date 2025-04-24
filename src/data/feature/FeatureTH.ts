@@ -2,7 +2,7 @@ import {IFeature} from "@/data/feature/model/IFeature";
 
 export const FeatureTH: IFeature = {
     title: "การพัฒนาเว็บแอปพลิเคชัน",
-    span: "การวิเคราะห์ระบบและการพัฒนาซอฟต์แวร์",
+    span: "การพัฒนาซอฟต์แวร์สำหรับองค์กร",
     subTitle: "",
     stacks: [
         {

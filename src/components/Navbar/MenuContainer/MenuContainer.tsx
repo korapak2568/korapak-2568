@@ -8,8 +8,8 @@ import MenuLevel2Container from "./MenuLevel2Container";
 
 export default function MenuContainer({group, label, link, submenu}:
                                       { group: string, label: string, link: string, submenu: INavbar[] }) {
-    const menuLabel1: IMenuLabel = {link, group, label}
-    const menuLabel2: IMenuLabel = {
+    const menu1: IMenuLabel = {link, group, label}
+    const menu2: IMenuLabel = {
         link,
         group,
         label,
@@ -17,6 +17,6 @@ export default function MenuContainer({group, label, link, submenu}:
     }
 
     return submenu.length == 0 ?
-        <MenuLevel1Container menuLabel={menuLabel1}/> :
-        <MenuLevel2Container menuLabel={menuLabel2} group={group} submenu={submenu}/>
+        <MenuLevel1Container menu1={menu1}/> :
+        <MenuLevel2Container menu1={menu2} group={group} menu2={submenu}/>
 }
