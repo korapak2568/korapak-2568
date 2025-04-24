@@ -121,9 +121,9 @@ export default function NavbarContainer() {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
-                                    {InfoTranslation[language].Navbar.map((menuItem: INavbar, index) => {
-                                        return <MenuContainer key={index} {...menuItem} />
-                                    })}
+                                    {InfoTranslation[language].Navbar.map(
+                                        (navbar: INavbar, index) => <MenuContainer key={index} navbar1={navbar}/>
+                                    )}
                                 </ul>
                             </div>
                         </nav>

@@ -1,11 +1,11 @@
 import React from "react";
-import MenuLabel1 from "@/components/Navbar/Menu/MenuLabel1";
-import {IMenuLabel} from "@/components/Navbar/model/IMenuLabel";
+import Navbar1 from "@/components/Navbar/Menu/Navbar1";
+import {INavbar} from "@/data/navbar/model/INavbar";
 
-export default function MenuLevel1Container({menu1}: { menu1: IMenuLabel }) {
+export default function MenuLevel1Container({navbar1}: { navbar1: INavbar }) {
     return (
         <div className="nav-item x-navbar-item">
-            <MenuLabel1 menuLabel={menu1}/>
+            <Navbar1 navbar1={navbar1}/>
         </div>
     )
 }

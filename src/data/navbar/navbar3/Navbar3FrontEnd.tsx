@@ -1,52 +1,68 @@
 import {INavbar} from "@/data/navbar/model/INavbar";
 
-export const SubMenuFrontEnd: INavbar[] = [
+export const Navbar3FrontEnd: INavbar[] = [
     {
         group: "/technical-expertise/front-end-developer/",
         label: "Angular",
+        level: 3,
         link: "/technical-expertise/front-end-developer/angular-developer",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/front-end-developer/",
         label: "CSS",
+        level: 3,
         link: "/technical-expertise/front-end-developer/css3-developer",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/front-end-developer/",
         label: "HTML",
+        level: 3,
         link: "/technical-expertise/front-end-developer/html5-developer",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/front-end-developer/",
         label: "JavaScript",
+        level: 3,
         link: "/technical-expertise/front-end-developer/javascript-developer",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/front-end-developer/",
         label: "React",
+        level: 3,
         link: "/technical-expertise/front-end-developer/react-developer",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/front-end-developer/",
         label: "NextJS",
+        level: 3,
         link: "/technical-expertise/front-end-developer/nextjs-developer",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/front-end-developer/",
         label: "TypeScript",
+        level: 3,
         link: "/technical-expertise/front-end-developer/typescript-developer",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/front-end-developer/",
         label: "Vue",
+        level: 3,
         link: "/technical-expertise/front-end-developer/vue-developer",
+        isSubmenu: false,
         submenu: [],
     },
 ]

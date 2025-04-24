@@ -1,78 +1,102 @@
-import { INavbar } from "@/data/navbar/model/INavbar";
-import {SubMenuFrontEnd} from "@/data/navbar/submenu/SubMenuFrontEnd";
+import {INavbar} from "@/data/navbar/model/INavbar";
+import {Navbar3FrontEnd} from "@/data/navbar/navbar3/Navbar3FrontEnd";
 
 export const NavbarDE: INavbar[] = [
     {
         group: "/info",
         label: "Startseite",
+        level: 1,
         link: "/",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/",
         label: "Technische Expertise",
+        level: 1,
         link: "/technical-expertise/web-development/",
+        isSubmenu: true,
         submenu: [
             {
                 group: "/technical-expertise/",
                 label: "Web-Anwendungsentwicklung",
+                level: 2,
                 link: "/technical-expertise/web-development/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "Front-End-Entwicklung",
+                level: 2,
                 link: "/technical-expertise/front-end-developer/",
-                submenu: SubMenuFrontEnd,
+                isSubmenu: false,
+                submenu: Navbar3FrontEnd,
             },
             {
                 group: "/technical-expertise/",
                 label: "Backend-Entwicklung",
+                level: 2,
                 link: "/technical-expertise/full-stack-developer/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "...",
+                level: 2,
                 link: "",
                 isSeparated: true,
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "LLM-AI LINE-Integration",
+                level: 2,
                 link: "/ai-companions/fah/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "LLM-AI-Integration",
+                level: 2,
                 link: "/technical-expertise/ai-solutions/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "...",
+                level: 2,
                 link: "",
                 isSeparated: true,
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "Web3 und Blockchain",
+                level: 2,
                 link: "/technical-expertise/web3-blockchain-smart-contract-development/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "Cloud DevOps",
+                level: 2,
                 link: "/technical-expertise/cloud-devops/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "Cloud und Infrastruktur",
+                level: 2,
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
+                isSubmenu: false,
                 submenu: [],
             },
         ],
@@ -80,13 +104,17 @@ export const NavbarDE: INavbar[] = [
     {
         group: "/gallery/",
         label: "Galerie",
+        level: 1,
         link: "/gallery/",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/about-chorn/",
         label: "Über uns",
+        level: 1,
         link: "/about-chorn/",
+        isSubmenu: false,
         submenu: [],
     },
 ];

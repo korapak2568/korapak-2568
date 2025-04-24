@@ -1,78 +1,102 @@
-import { INavbar } from "@/data/navbar/model/INavbar";
-import {SubMenuFrontEnd} from "@/data/navbar/submenu/SubMenuFrontEnd";
+import {INavbar} from "@/data/navbar/model/INavbar";
+import {Navbar3FrontEnd} from "@/data/navbar/navbar3/Navbar3FrontEnd";
 
 export const NavbarJA: INavbar[] = [
     {
         group: "/info",
         label: "ホーム",
+        level: 1,
         link: "/",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/technical-expertise/",
         label: "技術専門知識",
+        level: 1,
         link: "/technical-expertise/web-development/",
+        isSubmenu: true,
         submenu: [
             {
                 group: "/technical-expertise/",
                 label: "ウェブアプリケーション開発",
+                level: 2,
                 link: "/technical-expertise/web-development/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "フロントエンド開発",
+                level: 2,
                 link: "/technical-expertise/front-end-developer/",
-                submenu: SubMenuFrontEnd,
+                isSubmenu: false,
+                submenu: Navbar3FrontEnd,
             },
             {
                 group: "/technical-expertise/",
                 label: "バックエンド開発",
+                level: 2,
                 link: "/technical-expertise/full-stack-developer/",
                 submenu: [],
+                isSubmenu: false,
             },
             {
                 group: "/technical-expertise/",
                 label: "...",
+                level: 2,
                 link: "",
                 isSeparated: true,
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "LLM-AI LINE 統合",
+                level: 2,
                 link: "/ai-companions/fah/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "LLM-AI 統合",
+                level: 2,
                 link: "/technical-expertise/ai-solutions/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "...",
+                level: 2,
                 link: "",
                 isSeparated: true,
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "Web3およびブロックチェーン",
+                level: 2,
                 link: "/technical-expertise/web3-blockchain-smart-contract-development/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "クラウドDevOps",
+                level: 2,
                 link: "/technical-expertise/cloud-devops/",
+                isSubmenu: false,
                 submenu: [],
             },
             {
                 group: "/technical-expertise/",
                 label: "クラウドとインフラストラクチャ",
+                level: 2,
                 link: "/technical-expertise/cloud-infrastructure-systems-architecture/",
+                isSubmenu: false,
                 submenu: [],
             },
         ],
@@ -80,13 +104,17 @@ export const NavbarJA: INavbar[] = [
     {
         group: "/gallery/",
         label: "ギャラリー",
+        level: 1,
         link: "/gallery/",
+        isSubmenu: false,
         submenu: [],
     },
     {
         group: "/about-chorn/",
         label: "会社概要",
+        level: 1,
         link: "/about-chorn/",
+        isSubmenu: false,
         submenu: [],
     },
 ];
