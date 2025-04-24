@@ -7,6 +7,8 @@ export const fallbackAppState: IAppState = {
     language: 'en',
     mobileMenuVisible: true,
     languageMenuVisible: false,
+    navbarGroup: "",
+    navbarPage: ""
 };
 
 // Factory function to dynamically initialize AppState
@@ -15,4 +17,6 @@ export const createAppStateInitial = (lang: string): IAppState => ({
     language: lang,
     mobileMenuVisible: true,
     languageMenuVisible: false,
+    navbarGroup: "",
+    navbarPage: ""
 });

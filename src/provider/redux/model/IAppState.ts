@@ -6,7 +6,6 @@ export interface IAppState {
     language: string
     mobileMenuVisible: boolean
     languageMenuVisible: boolean,
-    activeNavbar: INavbar,
     navbarGroup: string,
     navbarPage: string,
 }
