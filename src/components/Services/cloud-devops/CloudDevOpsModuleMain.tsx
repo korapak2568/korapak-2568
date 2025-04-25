@@ -7,7 +7,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 export default function CloudDevOpsModuleMain({lang}: { lang: string }) {
     return (
         <>
-            <div className="services-area pt-5 pb-70">
+            <div className="services-area pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
                         <h1>{InfoTranslation[lang].DevOps.services.title}</h1>

@@ -6,7 +6,7 @@ import Link from "next/link";
 const AboutContent: React.FC = () => {
   return (
     <>
-      <div className="about-area ptb-100">
+      <div className="about-area pb-70">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">

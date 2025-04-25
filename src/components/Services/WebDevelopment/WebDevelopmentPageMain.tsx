@@ -9,7 +9,7 @@ import WevDevelopmentFrontEndBottom from "@/components/Services/WebDevelopment/W
 export default function WebDevelopmentPageMain({lang}: { lang: string }) {
     return (
         <>
-            <div className="services-area pt-5 pb-70">
+            <div className="services-area pb-70">
                 <div className="container">
                     <div className="row justify-content-md-center">
                         <div className="row align-items-center align-items-center-custom">

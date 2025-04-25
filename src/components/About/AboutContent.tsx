@@ -7,7 +7,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 export default function AboutContent({lang}: { lang: string }) {
     return (
         <>
-            <div className="about-area pt-5 pb-100">
+            <div className="about-area pb-70">
                 <div className="container">
                     <div className="row">
                         <h1>{InfoTranslation[lang].About.title}</h1>

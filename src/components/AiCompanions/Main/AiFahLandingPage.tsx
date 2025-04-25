@@ -9,7 +9,7 @@ import FahBottomFeature from "@/components/AiCompanions/BottomFeature/FahBottomF
 const AiFahLandingPage: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
-            <div className="portfolio-details-area pt-5">
+            <div className="portfolio-details-area">
                 <div className="container">
                     <h1>{InfoTranslation[lang].AiCompanions.fah.title}</h1>
                     <div className="row">

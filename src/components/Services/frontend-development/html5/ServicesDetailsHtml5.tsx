@@ -11,7 +11,7 @@ import SidebarDevOps from "@/components/Services/SidebarDevOps";
 export default function ServicesDetailsHtml5({lang}: { lang: string }) {
     return (
         <>
-            <div className="services-details-area ptb-50">
+            <div className="services-details-area pb-50">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-8 col-md-12">

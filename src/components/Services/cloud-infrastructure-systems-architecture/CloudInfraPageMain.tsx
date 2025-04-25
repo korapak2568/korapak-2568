@@ -8,7 +8,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 const CloudInfraPageMain: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
-            <div className="services-area pt-5 pb-70">
+            <div className="services-area pb-70">
                 <div className="container">
                     <h1>{InfoTranslation[lang].CloudSolution.title}</h1>
                     <div className="row justify-content-md-center">

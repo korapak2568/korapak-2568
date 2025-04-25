@@ -16,6 +16,12 @@ export const appSlice = createSlice({
         },
         toggleLanguageMenuVisible: (state) => {
             state.languageMenuVisible = !state.languageMenuVisible;
+        },
+        saveNavbarGroup: (state, action: { payload: { navbarGroup: string } }) => {
+            state.navbarGroup = action.payload.navbarGroup
+        },
+        saveNavbarLink: (state, action: { payload: { navbarLink: string } }) => {
+            state.navbarLink = action.payload.navbarLink
         }
     },
 });

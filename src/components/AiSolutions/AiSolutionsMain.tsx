@@ -7,7 +7,7 @@ import AiSolutionRight from "@/components/AiSolutions/AiSolutionRight";
 export default function AiSolutionsMain({lang}: { lang: string }) {
     return (
         <>
-            <div className="services-area pt-5">
+            <div className="services-area">
                 <div className="container">
                     <div className="row justify-content-md-center">
                         <h1 className="">{InfoTranslation[lang].Service.title}</h1>

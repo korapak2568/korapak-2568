@@ -5,7 +5,7 @@ import {DefaultShape} from "@/components/Shape/DefaultShape";
 const GalleryPageMain: React.FC<{ lang: string }> = ({lang}) => {
     return (
         <>
-            <div className="about-area ptb-100">
+            <div className="about-area pb-70">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">

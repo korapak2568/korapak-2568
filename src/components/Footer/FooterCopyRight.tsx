@@ -8,7 +8,7 @@ export default function Information({lang}: { lang: string }) {
     return (
         <div className="copyright-area">
             <div className="container">
-                <div className="copyright-area-content">
+                <div className="copyright-area-content copyright-area-content-x">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
                             <p>

@@ -1,5 +1,4 @@
 import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
-import {INavbar} from "@/data/navbar/model/INavbar";
 
 export interface IAppState {
     languageOption: ILanguageOption;
@@ -7,5 +6,5 @@ export interface IAppState {
     mobileMenuVisible: boolean
     languageMenuVisible: boolean,
     navbarGroup: string,
-    navbarPage: string,
+    navbarLink: string,
 }

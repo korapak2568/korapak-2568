@@ -8,7 +8,7 @@ export const fallbackAppState: IAppState = {
     mobileMenuVisible: true,
     languageMenuVisible: false,
     navbarGroup: "",
-    navbarPage: ""
+    navbarLink: ""
 };
 
 // Factory function to dynamically initialize AppState
@@ -18,5 +18,5 @@ export const createAppStateInitial = (lang: string): IAppState => ({
     mobileMenuVisible: true,
     languageMenuVisible: false,
     navbarGroup: "",
-    navbarPage: ""
+    navbarLink: ""
 });

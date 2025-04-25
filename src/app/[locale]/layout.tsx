@@ -41,7 +41,7 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
         <div className="main-container">
             <ProviderWrapper language={lang}>
                 <ConsentModal/>
-                <NavbarContainer/>
+                <NavbarContainer lang={lang}/>
                 {children}
                 <div>
                     <SubscribeForm lang={lang}/>
