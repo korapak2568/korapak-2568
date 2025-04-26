@@ -321,56 +321,6 @@
   color: white;
 }
 
-// NavbarContainer
-.x-navbar-item {
-  background-color: #f2f2f2;
-
-  @media (min-width: 1024px) {
-    background-color: unset !important;
-  }
-
-  a {
-    padding: 5px 25px 5px 25px !important;
-    color: #202647;
-    font-size: 16px;
-  }
-
-  &:hover, &:focus, a.active, a:hover {
-    background: linear-gradient(to right, #06c755, #0f91ff) !important;
-    color: #ffffff !important;
-  }
-
-  .x-navbar-dropdown {
-    position: relative;
-    z-index: 10;
-    padding-top: 5px;
-    background-color: #f2f2f2;
-
-    li a {
-      padding-left: 50px !important;
-    }
-
-    @media (min-width: 1024px) {
-      position: absolute;
-      top: 50px;
-
-      li a {
-        padding-left: 25px !important;
-      }
-    }
-  }
-
-  @media (min-width: 1024px) {
-    .x-navbar-dropdown {
-      display: none;
-    }
-
-    &:hover .x-navbar-dropdown {
-      display: block;
-    }
-  }
-}
-
 .custom-single-features-box {
   background-color: #fafafa; // Light background
   border: 1px solid #fbe4d4;

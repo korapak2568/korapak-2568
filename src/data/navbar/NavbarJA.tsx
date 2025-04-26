@@ -1,5 +1,7 @@
 import {INavbar} from "@/data/navbar/model/INavbar";
 import {Navbar3FrontEnd} from "@/data/navbar/navbar3/Navbar3FrontEnd";
+import {Navbar3BackEnd} from "@/data/navbar/navbar3/Navbar3BackEnd";
+import {Navbar3DevOps} from "@/data/navbar/navbar3/Navbar3DevOps";
 
 export const NavbarJA: INavbar[] = [
     {
@@ -19,7 +21,7 @@ export const NavbarJA: INavbar[] = [
         submenu: [
             {
                 group: "/technical-expertise/",
-                label: "ウェブアプリケーション開発",
+                label: "ウェブ開発",
                 level: 2,
                 link: "/technical-expertise/web-development/",
                 isSubmenu: false,
@@ -30,16 +32,18 @@ export const NavbarJA: INavbar[] = [
                 label: "フロントエンド開発",
                 level: 2,
                 link: "/technical-expertise/front-end-developer/",
-                isSubmenu: false,
+                isSubmenu: true,
                 submenu: Navbar3FrontEnd,
+                isFrontend: true,
             },
             {
                 group: "/technical-expertise/",
                 label: "バックエンド開発",
                 level: 2,
                 link: "/technical-expertise/full-stack-developer/",
-                submenu: [],
-                isSubmenu: false,
+                isSubmenu: true,
+                submenu: Navbar3BackEnd,
+                isBackend: true
             },
             {
                 group: "/technical-expertise/",
@@ -80,8 +84,9 @@ export const NavbarJA: INavbar[] = [
                 label: "Web3およびブロックチェーン",
                 level: 2,
                 link: "/technical-expertise/web3-blockchain-smart-contract-development/",
-                isSubmenu: false,
-                submenu: [],
+                isSubmenu: true,
+                submenu: Navbar3DevOps,
+                isDevOps: true,
             },
             {
                 group: "/technical-expertise/",

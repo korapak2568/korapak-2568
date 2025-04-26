@@ -12,11 +12,13 @@ import "swiper/css";
 import "swiper/css/bundle";
 import {SpeedInsights} from "@vercel/speed-insights/next"
 
-// Custom scss, css
+// Custom scss, CSS
 import "@/styles/style.scss";
 import "@/styles/responsive.scss";
 import "@/styles/addition.scss";
+import "@/styles/x-navbar.scss";
 import "@/styles/x-color-style.scss";
+import "@/styles/x-icon.scss";
 
 import {DM_Sans} from "next/font/google";
 import AosAnimation from "@/components/Layouts/AosAnimation";

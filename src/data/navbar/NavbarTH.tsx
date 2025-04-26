@@ -1,5 +1,7 @@
 import {INavbar} from "@/data/navbar/model/INavbar";
 import {Navbar3FrontEnd} from "@/data/navbar/navbar3/Navbar3FrontEnd";
+import {Navbar3BackEnd} from "@/data/navbar/navbar3/Navbar3BackEnd";
+import {Navbar3DevOps} from "@/data/navbar/navbar3/Navbar3DevOps";
 
 export const NavbarTH: INavbar[] = [
     {
@@ -19,7 +21,7 @@ export const NavbarTH: INavbar[] = [
         submenu: [
             {
                 group: "/technical-expertise/",
-                label: "การพัฒนาเว็บแอพพลิเคชั่น",
+                label: "การพัฒนาเว็บ",
                 level: 2,
                 link: "/technical-expertise/web-development/",
                 isSubmenu: false,
@@ -30,16 +32,18 @@ export const NavbarTH: INavbar[] = [
                 label: "การพัฒนาฝั่งหน้าบ้าน",
                 level: 2,
                 link: "/technical-expertise/front-end-developer/",
-                isSubmenu: false,
+                isSubmenu: true,
                 submenu: Navbar3FrontEnd,
+                isFrontend: true,
             },
             {
                 group: "/technical-expertise/",
                 label: "การพัฒนาฝั่งหลังบ้าน",
                 level: 2,
                 link: "/technical-expertise/full-stack-developer/",
-                isSubmenu: false,
-                submenu: [],
+                isSubmenu: true,
+                submenu: Navbar3BackEnd,
+                isBackend: true
             },
             {
                 group: "/technical-expertise/",
@@ -88,8 +92,9 @@ export const NavbarTH: INavbar[] = [
                 label: "ปฏิบัติการพัฒนาบนคลาวด์",
                 level: 2,
                 link: "/technical-expertise/cloud-devops/",
-                isSubmenu: false,
-                submenu: [],
+                isSubmenu: true,
+                submenu: Navbar3DevOps,
+                isDevOps: true,
             },
             {
                 group: "/technical-expertise/",

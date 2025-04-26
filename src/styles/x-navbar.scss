@@ -1,0 +1,129 @@
+.x-navbar1-only {
+  background-color: #f2f2f2;
+
+  @media (min-width: 1024px) {
+    background-color: unset !important;
+  }
+
+  a {
+    padding: 5px 20px 5px 20px !important;
+    color: #202647;
+    font-size: 16px;
+  }
+
+  a.active, a:hover {
+    background: linear-gradient(to right, #06c755, #0f91ff) !important;
+    color: #ffffff !important;
+  }
+
+  &:hover, &:focus {
+    .x-navbar2-container {
+      display: block;
+    }
+  }
+}
+
+.x-navbar-label-container {
+  display: flex;
+  width: 100%;
+
+  .x-label {
+    width: 95%;
+  }
+
+  @media (min-width: 1024px) {
+    width: 210px;
+  }
+}
+
+// Navbar2 container contains x-navbar2-area and x-navbar3-only
+.x-navbar2-container {
+  display: none;
+  position: relative;
+  z-index: 10;
+  padding-top: 5px;
+  background-color: #f2f2f2;
+
+  @media (min-width: 1024px) {
+    position: absolute;
+    top: 50px;
+
+    li a {
+      padding-left: 25px !important;
+    }
+  }
+}
+
+// Navbar2 only
+.x-navbar2-only {
+}
+
+// Navbar2 include Navbar3
+.x-navbar2-navbar3 {
+  &:hover {
+    .x-navbar3-only {
+      display: flex;
+    }
+  }
+}
+
+// Navbar3 Area
+.x-navbar3-only {
+  top: 0;
+  position: absolute;
+  display: none;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 5px;
+
+  // size
+  width: 300px !important;
+  //position: relative;
+  z-index: 10;
+  margin-left: 250px;
+  background: linear-gradient(to right, #0f91ff, #06c755);
+
+  .x-navbar3-item-container {
+    width: 30.5%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #f2f2f2;
+    margin: 4px;
+    background-color: white;
+
+    img {
+      margin-bottom: 5px;
+    }
+
+    a.active {
+      background: linear-gradient(to right, #0f91ff, #06c755) !important;
+    }
+
+    .x-navbar3-item {
+      display: block;
+      width: 100%;
+
+      .label {
+        margin-left: -10px;
+      }
+
+      a.active {
+        background: linear-gradient(to right, #0f91ff, #06c755) !important;
+      }
+
+    }
+  }
+}
+
+.x-is-frontend {
+  top: 0 !important;
+}
+
+.x-is-backend {
+  top: 50px !important;
+}
+
+.x-is-devops {
+  top: 190px !important;
+}

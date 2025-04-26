@@ -7,7 +7,6 @@ import HamburgerButton from "@/components/Navbar/HamburgerButton";
 import MenuContainer from "@/components/Navbar/MenuContainer";
 
 export default function NavbarContainer({lang}: { lang: string }) {
-
     return (
         <div id="navbar" className="navbar-area navbar-container">
             <div className="main-navbar">

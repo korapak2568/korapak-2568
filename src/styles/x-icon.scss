@@ -1,0 +1,35 @@
+.x-icon-arrow-right {
+  display: inline-block;
+  content: '⯈'; // fallback if used as ::before
+  font-size: 1.3rem; // adjust as needed
+  color: #06c755; // subtle dark gray
+  line-height: 1;
+  vertical-align: middle;
+
+  &::before {
+    content: '⯈';
+  }
+
+  // Optional hover/focus state
+  &:hover {
+    color: orange; // darken on hover
+  }
+}
+
+.x-icon-arrow-down {
+  display: inline-block;
+  content: '⯆'; // fallback if used as ::before
+  font-size: 1.3rem; // adjust as needed
+  color: #06c755; // subtle dark gray
+  line-height: 1;
+  vertical-align: middle;
+
+  &::before {
+    content: '⯆';
+  }
+
+  // Optional hover/focus state
+  &:hover {
+    color: orange; // darken on hover
+  }
+}
