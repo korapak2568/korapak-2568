@@ -38,13 +38,13 @@
 
 // Navbar2 container contains x-navbar2-area and x-navbar3-only
 .x-navbar2-container {
-  display: none;
   position: relative;
   z-index: 10;
   padding-top: 5px;
   background-color: #f2f2f2;
 
   @media (min-width: 1024px) {
+    display: none;
     position: absolute;
     top: 50px;
 
