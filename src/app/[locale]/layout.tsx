@@ -30,6 +30,7 @@ import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
 import FooterMain from "@/components/Footer/FooterMain";
 import NavbarContainer from "@/components/Navbar/NavbarContainer";
 import CookieConsentChecking from "@/components/Consent/CookieConsentChecking";
+import AosAnimation from "@/components/Layouts/AosAnimation";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
@@ -51,6 +52,7 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
                     <FooterMain lang={lang}/>
                 </div>
             </ProviderWrapper>
+            <AosAnimation/>
             <GoTop/>
             <SpeedInsights/>
         </div>

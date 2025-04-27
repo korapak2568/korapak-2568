@@ -1,18 +1,16 @@
-"use client";
+'use client';
 
-import React from "react";
+import {useEffect} from "react";
 import AOS from "aos";
-import "../../../node_modules/aos/dist/aos.css";
+import "aos/dist/aos.css";
 
-const AosAnimation = () => {
-
-    React.useEffect(() => {
-        AOS.init();
+export default function AosAnimation() {
+    useEffect(() => {
+        AOS.init({
+            once: true, // (optional) animations happen only once
+            duration: 800, // (optional) default duration
+        });
     }, []);
 
-    return (
-        <div></div>
-    );
-};
-
-export default AosAnimation;
+    return null; // No need to render an empty div
+}
