@@ -12,13 +12,23 @@
   }
 
   a.active, a:hover {
-    background: linear-gradient(to right, #06c755, #0f91ff) !important;
+    background: linear-gradient(to right, #06c755, #0f91ff);
     color: #ffffff !important;
   }
 
   &:hover, &:focus {
+    background: linear-gradient(to right, #06c755, #0f91ff);
+
+    a {
+      color: #ffffff;
+    }
+
     .x-navbar2-container {
       display: block;
+
+      a {
+        color: #333333;
+      }
     }
   }
 }
@@ -60,7 +70,13 @@
 
 // Navbar2 include Navbar3
 .x-navbar2-navbar3 {
-  &:hover {
+  &:hover, &:focus {
+    background: linear-gradient(to right, #06c755, #0f91ff);
+
+    a {
+      color: #ffffff;
+    }
+
     .x-navbar3-only {
       display: flex;
     }
