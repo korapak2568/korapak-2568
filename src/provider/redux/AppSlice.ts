@@ -22,6 +22,9 @@ export const appSlice = createSlice({
         },
         saveNavbarLink: (state, action: { payload: { navbarLink: string } }) => {
             state.navbarLink = action.payload.navbarLink
+        },
+        setCookieConsent: (state) => {
+            state.isCookieConsent = true;
         }
     },
 });
@@ -30,6 +33,7 @@ export const {
     setLanguageOption,
     toggleMobileMenuVisible,
     toggleLanguageMenuVisible,
+    setCookieConsent,
 } = appSlice.actions;
 
 export default appSlice.reducer;

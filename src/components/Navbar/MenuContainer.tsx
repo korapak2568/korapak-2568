@@ -5,9 +5,11 @@ import {INavbar} from "@/data/navbar/model/INavbar";
 import MenuLevelContainer from "@/components/Navbar/MenuLevelContainer/MenuLevelContainer";
 import React from "react";
 import {useMobileMenuVisible} from "@/provider/hooks/AppStateHook";
+import {usePathname} from "next/navigation";
 
 export default function MenuContainer({lang}: { lang: string }) {
     const mobileMenuVisible = useMobileMenuVisible()
+    const pathname = usePathname()
 
     const classOne = mobileMenuVisible
         ? "collapse navbar-collapse"
@@ -17,7 +19,13 @@ export default function MenuContainer({lang}: { lang: string }) {
         <div className={classOne} id="navbarSupportedContent">
             <ul className="navbar-nav">
                 {InfoTranslation[lang].Navbar.map(
-                    (navbar: INavbar, index) => <MenuLevelContainer key={index} lang={lang} navbar1={navbar}/>
+                    (navbar: INavbar, index) =>
+                        <MenuLevelContainer
+                            key={index}
+                            lang={lang}
+                            pathname={pathname}
+                            navbar1={navbar}
+                        />
                 )}
             </ul>
         </div>

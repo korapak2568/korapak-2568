@@ -1,38 +1,47 @@
-"use client";
+'use client';
 
-import React, {useEffect, useState} from "react";
+import {useEffect, useState} from 'react';
 
-const GoTop = () => {
-    // The back-to-top button is hidden at the beginning
+export default function GoTop() {
     const [showButton, setShowButton] = useState(false);
 
+    const scrollToTop = () => {
+        const container = document.querySelector('.main-container');
+        if (container) {
+            container.scrollTo({
+                top: 0,
+                behavior: 'smooth',
+            });
+        }
+    };
+
     useEffect(() => {
-        window.addEventListener("scroll", () => {
-            if (window.pageYOffset > 150) {
+        const container = document.querySelector('.main-container');
+
+        if (!container) return;
+
+        const handleScroll = () => {
+            if (container.scrollTop > 300) {
                 setShowButton(true);
             } else {
                 setShowButton(false);
             }
-        });
-    }, []);
+        };
 
-    // This function will scroll the window to the top
-    const scrollToTop = () => {
-        window.scrollTo({
-            top: 0,
-            behavior: "smooth", // for smoothly scrolling
-        });
-    };
+        container.addEventListener('scroll', handleScroll);
+
+        return () => {
+            container.removeEventListener('scroll', handleScroll);
+        };
+    }, []);
 
     return (
         <>
             {showButton && (
-                <div className="scroll-to-top scroll-to-top-scope" onClick={scrollToTop}>
+                <div className="scroll-to-top" onClick={scrollToTop}>
                     <i className="bx bx-up-arrow-alt"></i>
                 </div>
             )}
         </>
     );
-};
-
-export default GoTop;
+}

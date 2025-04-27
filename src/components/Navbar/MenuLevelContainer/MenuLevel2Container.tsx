@@ -1,19 +1,19 @@
+"use client"
+
 import React from "react";
 import {INavbar} from "@/data/navbar/model/INavbar";
 import {toggleMobileMenuVisible} from "@/provider/redux/AppSlice";
 import Link from "next/link";
 import {useDispatch} from "react-redux";
-import {usePathname} from "next/navigation";
 import {IsActiveNavbar1, IsActiveNavbar3, IsActiveNavbar2} from "@/lib/utils";
 import MenuLabelHorizontalLine from "@/components/Navbar/MenuItem/MenuLabelHorizontalLine";
 import Image from "next/image";
 import clsx from "clsx";
 
 export default function MenuLevel2Container(
-    {lang, navbar1}:
-    { lang: string, navbar1: INavbar }) {
+    {lang, pathname, navbar1}:
+    { lang: string, pathname: string, navbar1: INavbar }) {
     const dispatch = useDispatch();
-    const pathname = usePathname();
     const isActiveNavbar1 = IsActiveNavbar1(pathname, lang, navbar1, true)
 
     return (

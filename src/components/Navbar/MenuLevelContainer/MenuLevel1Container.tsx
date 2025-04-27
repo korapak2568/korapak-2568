@@ -1,14 +1,16 @@
+"use client"
+
 import React from "react";
 import {INavbar} from "@/data/navbar/model/INavbar";
 import {useDispatch} from "react-redux";
-import {usePathname} from "next/navigation";
 import {IsActiveNavbar1} from "@/lib/utils";
 import {toggleMobileMenuVisible} from "@/provider/redux/AppSlice";
 import Link from "next/link";
 
-export default function MenuLevel1Container({lang, navbar1}: { lang: string, navbar1: INavbar }) {
+export default function MenuLevel1Container(
+    {lang, pathname, navbar1}:
+    { lang: string, pathname: string, navbar1: INavbar }) {
     const dispatch = useDispatch();
-    const pathname = usePathname();
     const isActiveNavbar1 = IsActiveNavbar1(pathname, lang, navbar1)
 
     return (

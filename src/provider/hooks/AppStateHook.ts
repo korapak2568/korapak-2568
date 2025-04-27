@@ -24,3 +24,6 @@ export const useMobileMenuVisible: () => boolean = () =>
 
 export const useLanguageMenuVisible: () => boolean = () =>
     useAppState().languageMenuVisible
+
+export const useCookieConsent: () => boolean | undefined = () =>
+    useAppState().isCookieConsent

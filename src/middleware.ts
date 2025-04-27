@@ -8,6 +8,7 @@ const defaultLocale = 'en';
 
 export function middleware(request: NextRequest) {
     const {pathname} = request.nextUrl;
+    const cookie_consent: string = request.cookies.get("cookie_consent")?.value || 'false';
 
     // Skip internal-images requests
     if (
@@ -41,6 +42,7 @@ export function middleware(request: NextRequest) {
 
     // Create a response and pass the locale via a custom header
     const res = NextResponse.next();
+    res.headers.set('x-cookie-consent', cookie_consent);
     res.headers.set('x-locale', locale);
     return res
 }

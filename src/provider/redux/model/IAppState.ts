@@ -7,4 +7,5 @@ export interface IAppState {
     languageMenuVisible: boolean,
     navbarGroup: string,
     navbarLink: string,
+    isCookieConsent: boolean | undefined
 }
