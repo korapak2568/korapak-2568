@@ -26,8 +26,8 @@ export default function ConsentCookieButton(
         gtag('config', GA_TRACKING_ID);
 
         // setCookieConsent('cookie_consent', true)
-        const oneYearInSeconds = 365 * 24 * 60 * 60;
-        document.cookie = `cookie_consent=true; path=/; expires=${new Date(Date.now() + oneYearInSeconds).toUTCString()}; samesite=strict;`;
+        const oneYearInMilliseconds = 365 * 24 * 60 * 60 * 1000;
+        document.cookie = `cookie_consent=true; path=/; expires=${new Date(Date.now() + oneYearInMilliseconds).toUTCString()}; samesite=strict;`;
         dispatch(setCookieConsent());
     };
 
