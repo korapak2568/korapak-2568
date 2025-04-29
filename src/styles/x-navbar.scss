@@ -70,6 +70,7 @@
 
 // Navbar2 include Navbar3
 .x-navbar2-navbar3 {
+
   &:hover, &:focus {
     background: linear-gradient(to right, #06c755, #0f91ff);
 
@@ -78,7 +79,13 @@
     }
 
     .x-navbar3-only {
-      display: flex;
+      display: none;
+    }
+
+    @media (min-width: 1024px) {
+      .x-navbar3-only {
+        display: flex;
+      }
     }
   }
 }
