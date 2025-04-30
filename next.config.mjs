@@ -61,6 +61,16 @@ const nextConfig = {
     async redirects() {
         return [
             {
+                source: '/public/',
+                destination: '/en',
+                permanent: true,
+            },
+            {
+                source: '/public:locale/',
+                destination: '/en',
+                permanent: true,
+            },
+            {
                 source: '/na/:path*',
                 destination: '/da/:path*',
                 permanent: true,
