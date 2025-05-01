@@ -41,6 +41,10 @@ const nextConfig = {
 
         return [
             {
+                source: '/images/technical-expertise/cloud-devops/Kubernetes.webp',
+                destination: 'https://cdn.chorn.in.th/public/technical-expertise/devops/framework/kube-qrcode-1200.webp',
+            },
+            {
                 source: '/images/:path*',
                 destination: 'https://cdn.chorn.in.th/public/:path*'
             },
