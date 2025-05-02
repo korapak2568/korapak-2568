@@ -31,9 +31,8 @@ export function middleware(request: NextRequest) {
     // API protected
     if (pathname.startsWith('/api')) {
 
-        const isProtected = pathname != '/api/login'
-
-        if (!isProtected) return NextResponse.next();
+        const isLogin = pathname == '/api/login'
+        if (isLogin) return NextResponse.json({login: true});
 
         const authHeader = request.headers.get('Authorization');
         const token = authHeader?.split(' ')[1]
@@ -79,6 +78,6 @@ export const config = {
     matcher: [
         '/',
         '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*',
-        '/api/:path*'
+        '/api:path*'
     ],
 };
