@@ -24,7 +24,7 @@ export const MetadataNextjsEN: Metadata = {
         images: MetadataLinkNextjs.twitter.images,
     },
     keywords: [
-        // Core Next.js & service Keywords
+        // Core Next.js & services Keywords
         "Next.js development", "Next.js technical-expertise", "Next.js developer", "custom Next.js development", "server-side rendering",
         "Next.js full stack development", "Next.js SEO optimization", "Next.js applications", "custom web applications",
 

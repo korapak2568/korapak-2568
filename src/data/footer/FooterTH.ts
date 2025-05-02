@@ -10,7 +10,7 @@ export const FooterTH: IFooter = {
     infoTitle: "ข้อมูล",
     termOfService: {
         label: "เงื่อนไขการให้บริการ",
-        link: "/terms-of-service"
+        link: "/terms-of-services"
     },
     privacyPolicy: {
         label: "นโยบายความเป็นส่วนตัว",
@@ -47,7 +47,7 @@ export const FooterTH: IFooter = {
         },
         {
             label: "เงื่อนไขการให้บริการ",
-            link: "/terms-of-service"
+            link: "/terms-of-services"
         },
         {
             label: "นโยบายความเป็นส่วนตัว",

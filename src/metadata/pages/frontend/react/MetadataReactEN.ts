@@ -24,7 +24,7 @@ export const MetadataReactEN: Metadata = {
         images: MetadataLinkReact.twitter.images,
     },
     keywords: [
-        // Core React & service Keywords
+        // Core React & services Keywords
         "React development", "React technical-expertise", "React developer", "custom React development", "React.js applications",
         "React full stack development", "React single-page applications", "React user interfaces", "custom web applications",
         "custom software development",

@@ -9,8 +9,8 @@ export const FooterEN: IFooter = {
     featureTitle: "Technical Expertise",
     infoTitle: "FooterInformation",
     termOfService: {
-        label: "Terms of service",
-        link: "/terms-of-service"
+        label: "Terms of services",
+        link: "/terms-of-services"
     },
     privacyPolicy: {
         label: "Privacy Policy",
@@ -46,8 +46,8 @@ export const FooterEN: IFooter = {
             link: "/technical-expertise/web-development"
         },
         {
-            label: "Terms of service",
-            link: "/terms-of-service"
+            label: "Terms of services",
+            link: "/terms-of-services"
         },
         {
             label: "Privacy Policy",

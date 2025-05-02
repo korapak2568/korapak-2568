@@ -24,7 +24,7 @@ export const MetadataVueEN: Metadata = {
         images: MetadataLinkVue.twitter.images,
     },
     keywords: [
-        // Core Vue.js & service Keywords
+        // Core Vue.js & services Keywords
         "Vue.js development", "Vue.js technical-expertise", "Vue.js developer", "custom Vue.js development", "Vue.js applications",
         "Vue.js full stack development", "Vue.js single-page applications", "Vue.js user interfaces", "custom web applications",
         "custom software development",

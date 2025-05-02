@@ -31,7 +31,7 @@ export const MetadataHomeEN: Metadata = {
         "CHORN", "CHORN custom software development", "CHORN software outsourcing", "What is chorn",
         "CHORN software development thailand", "CHORN software developer Chiang Mai", "CHORN software developer bangkok",
 
-        // Core service Keywords
+        // Core services Keywords
         "custom software development", "custom software development companies", "software outsourcing",
         "software outsourcing technical-expertise", "software development outsourcing", "software development outsourcing companies",
         "top software outsourcing companies", "web development outsourcing companies", "IT development companies",

@@ -29,7 +29,7 @@ export const MetadataCloudSolutionEN: Metadata = {
         "GCP architecture", "DigitalOcean infrastructure", "cloud optimization", "multi-cloud strategies",
         "cloud scalability", "cloud infrastructure design", "cloud security analysis",
 
-        // service-Specific Keywords
+        // services-Specific Keywords
         "AWS cloud consulting", "Azure system integration", "GCP cost optimization", "DigitalOcean solutions",
         "cloud migration technical-expertise", "cloud performance tuning", "multi-cloud integration", "cloud-native applications",
 

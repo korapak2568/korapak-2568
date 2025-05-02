@@ -24,7 +24,7 @@ export const MetadataJavaScriptEN: Metadata = {
         images: MetadataLinkJavaScript.twitter.images,
     },
     keywords: [
-        // Core JavaScript & service Keywords
+        // Core JavaScript & services Keywords
         "JavaScript development", "JavaScript technical-expertise", "JavaScript developer", "custom JavaScript development",
         "JavaScript web applications", "JavaScript full stack development", "JavaScript frontend development",
         "custom software development",

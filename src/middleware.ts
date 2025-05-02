@@ -1,7 +1,7 @@
 // src/middleware.ts
 
-import {NextResponse} from 'next/server';
 import type {NextRequest} from 'next/server';
+import {NextResponse} from 'next/server';
 import {LocaleMain} from "@/lib/UrlMain";
 
 const defaultLocale = 'en';
@@ -10,21 +10,46 @@ export function middleware(request: NextRequest) {
     const {pathname} = request.nextUrl;
     const cookie_consent: string = request.cookies.get("cookie_consent")?.value || 'false';
 
+
     // Skip internal-images requests
     if (
-        pathname.startsWith('/_next') ||            // Next.js internal-images assets
-        pathname.startsWith('/api') ||              // Custom static images
-        pathname.startsWith('/images') ||           // Custom static images
-        pathname.startsWith('/images-ai') ||        // Custom static images
-        pathname.startsWith('/chorn-images') ||     // Custom static images
-        pathname.startsWith('/internal-images') ||  // Custom static images
-        pathname.startsWith('/contracts') ||        // Custom static images
-        pathname.startsWith('/fonts') ||            // Custom static images
-        pathname.startsWith('/sitemap') ||          // Sitemaps (e.g., /sitemap.xml, /sitemap-0.xml)
-        pathname === '/favicon.ico' ||                          // Favicon
-        pathname === '/robots.txt'                              // Robots.txt for SEO
+        pathname.startsWith('/_next') ||
+        pathname.startsWith('/images') ||
+        pathname.startsWith('/images-ai') ||
+        pathname.startsWith('/chorn-images') ||
+        pathname.startsWith('/internal-images') ||
+        pathname.startsWith('/contracts') ||
+        pathname.startsWith('/fonts') ||
+        pathname.startsWith('/sitemap') ||
+        pathname.startsWith('/api/sitemap') ||
+        pathname === '/favicon.ico' ||
+        pathname === '/robots.txt'
     ) {
         return NextResponse.next();
+    }
+
+    // API protected
+    if (pathname.startsWith('/api')) {
+
+        const isProtected = pathname != '/api/login'
+
+        if (!isProtected) return NextResponse.next();
+
+        const authHeader = request.headers.get('Authorization');
+        const token = authHeader?.split(' ')[1]
+
+        if (!token) {
+            return NextResponse.json({error: "Unauthorized"}, {status: 401});
+        }
+
+        const requestHeaders = new Headers(request.headers);
+        requestHeaders.set('x-auth-token', token);
+
+        return NextResponse.next({
+            request: {
+                headers: requestHeaders,
+            }
+        })
     }
 
     // Extract the locale from the pathname
@@ -51,5 +76,9 @@ export function middleware(request: NextRequest) {
 
 // Apply middleware to all paths
 export const config = {
-    matcher: ['/', '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*'],
+    matcher: [
+        '/',
+        '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*',
+        '/api/users/:path*'
+    ],
 };

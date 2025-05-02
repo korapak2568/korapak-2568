@@ -24,7 +24,7 @@ export const MetadataNodejsTH: Metadata = {
         images: MetadataLinkNodejs.twitter.images,
     },
     keywords: [
-        // Core Node.js & service Keywords
+        // Core Node.js & services Keywords
         "การพัฒนา Node.js", "ความเชี่ยวชาญด้าน Node.js", "นักพัฒนา Node.js", "การพัฒนา Node.js แบบกำหนดเอง",
         "การพัฒนา Node.js Backend", "การพัฒนา Node.js Full Stack", "ไมโครเซอร์วิส Node.js", "การพัฒนาซอฟต์แวร์แบบกำหนดเอง",
 

@@ -1,4 +1,4 @@
-// src/app/api/sitemap-chorn/route.ts
+// src/app/api/sitemap/route.ts
 
 import {LocaleMain, UrlMain} from "@/lib/UrlMain";
 import {NextResponse} from "next/server";

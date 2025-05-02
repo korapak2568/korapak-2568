@@ -24,7 +24,7 @@ export const MetadataGoEN: Metadata = {
         images: MetadataLinkGo.twitter.images,
     },
     keywords: [
-        // Core Go-lang & service Keywords
+        // Core Go-lang & services Keywords
         "Go-lang development", "Go technical-expertise", "Go developer", "custom Go-lang development", "Go web applications",
         "Go backend development", "Go microservices", "custom software development",
 

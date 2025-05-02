@@ -24,7 +24,7 @@ export const MetadataNodejsEN: Metadata = {
         images: MetadataLinkNodejs.twitter.images,
     },
     keywords: [
-        // Core Node.js & service Keywords
+        // Core Node.js & services Keywords
         "Node.js development", "Node.js technical-expertise", "Node.js developer", "custom Node.js development",
         "Node.js back-end development", "Node.js full-stack development", "Node.js microservices", "custom software development",
 

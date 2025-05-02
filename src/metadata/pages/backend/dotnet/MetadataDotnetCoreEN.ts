@@ -24,7 +24,7 @@ export const MetadataDotnetCoreEN: Metadata = {
         images: MetadataLinkGo.twitter.images,
     },
     keywords: [
-        // Core .NET Core C# & service Keywords
+        // Core .NET Core C# & services Keywords
         ".NET Core C# development", ".NET Core C# technical-expertise", ".NET Core C# developer", "custom .NET Core C# development",
         "enterprise .NET Core C# applications", "ASP.NET Core C# development", ".NET Core C# web applications",
         "custom software development",

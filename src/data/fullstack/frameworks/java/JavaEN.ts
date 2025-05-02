@@ -33,7 +33,7 @@ export const JavaEN: IFullStackStack = {
             ]
         },
         {
-            title: "Inter-service Communication with gRPC and RMI",
+            title: "Inter-services Communication with gRPC and RMI",
             description:
                 "For high-performance, language-agnostic services, Java applications leverage gRPC. To maintain legacy systems, RMI (Remote Method Invocation) remains a proven solution for Java-to-Java communication.",
             list: [
@@ -69,7 +69,7 @@ export const JavaEN: IFullStackStack = {
         {
             question: "What is gRPC and how is it used in Java?",
             answer:
-                "gRPC is a high-performance, open-source universal RPC framework. In Java, it’s used for inter-service communication in microservice architectures, offering efficient binary serialization via Protocol Buffers."
+                "gRPC is a high-performance, open-source universal RPC framework. In Java, it’s used for inter-services communication in microservice architectures, offering efficient binary serialization via Protocol Buffers."
         }
     ]
 };

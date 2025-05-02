@@ -41,6 +41,6 @@ export const UrlMain = [
     '/technical-expertise/mobile-development',
     '/technical-expertise/web3-blockchain-smart-contract-development',
     '/technical-expertise/web-development',
-    '/terms-of-service',
+    '/terms-of-services',
     '/workplace-policy',
 ]

@@ -10,7 +10,7 @@ export const FooterZH: IFooter = {
     infoTitle: "信息",
     termOfService: {
         label: "服务条款",
-        link: "/terms-of-service"
+        link: "/terms-of-services"
     },
     privacyPolicy: {
         label: "隐私政策",
@@ -47,7 +47,7 @@ export const FooterZH: IFooter = {
         },
         {
             label: "服务条款",
-            link: "/terms-of-service"
+            link: "/terms-of-services"
         },
         {
             label: "隐私政策",

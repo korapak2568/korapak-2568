@@ -24,7 +24,7 @@ export const MetadataTypeScriptEN: Metadata = {
         images: MetadataLinkTypeScript.twitter.images,
     },
     keywords: [
-        // Core TypeScript & service Keywords
+        // Core TypeScript & services Keywords
         "TypeScript development", "TypeScript technical-expertise", "TypeScript developer", "custom TypeScript development",
         "TypeScript web applications", "TypeScript full stack development", "TypeScript frontend development",
         "custom software development",

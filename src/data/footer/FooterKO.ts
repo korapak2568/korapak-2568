@@ -10,7 +10,7 @@ export const FooterKO: IFooter = {
     infoTitle: "정보",
     termOfService: {
         label: "서비스 이용약관",
-        link: "/terms-of-service"
+        link: "/terms-of-services"
     },
     privacyPolicy: {
         label: "개인정보 보호정책",
@@ -47,7 +47,7 @@ export const FooterKO: IFooter = {
         },
         {
             label: "백엔드 개발",
-            link: "/terms-of-service"
+            link: "/terms-of-services"
         },
         {
             label: "개인정보 보호정책",

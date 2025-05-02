@@ -281,7 +281,7 @@ export const SitemapMain: ISitemapChorn[] = [
         ]
     },
 
-    //term-of-service
+    //term-of-services
     {
         url: '/terms-of-service',
         images: []

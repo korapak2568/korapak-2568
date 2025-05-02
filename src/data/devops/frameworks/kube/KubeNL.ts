@@ -21,7 +21,7 @@ export const KubeNL: IDevOpsStack = {
                 "Automated deployment",
                 "Scalability",
                 "Self-healing",
-                "service discovery",
+                "services discovery",
                 "Load balancing",
                 "Storage orchestration",
                 "Configuration management"
@@ -44,7 +44,7 @@ export const KubeNL: IDevOpsStack = {
         },
         {
             question: "What are the benefits of using Kubernetes?",
-            answer: "Benefits of using Kubernetes include automated deployment, scalability, self-healing, service discovery, load balancing, and storage orchestration."
+            answer: "Benefits of using Kubernetes include automated deployment, scalability, self-healing, services discovery, load balancing, and storage orchestration."
         }
     ],
 }

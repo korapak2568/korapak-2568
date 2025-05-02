@@ -24,7 +24,7 @@ export const MetadataHtml5EN: Metadata = {
         images: MetadataLinkHtml5.twitter.images,
     },
     keywords: [
-        // Core HTML5 & service Keywords
+        // Core HTML5 & services Keywords
         "HTML5 development", "HTML5 technical-expertise", "HTML5 developer", "custom HTML5 development", "HTML5 responsive design",
         "HTML5 web applications", "HTML5 mobile development", "custom web applications", "HTML5 cross-platform apps",
         "custom software development",

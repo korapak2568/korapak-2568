@@ -24,7 +24,7 @@ export const MetadataPythonEN: Metadata = {
         images: MetadataLinkPhp.twitter.images,
     },
     keywords: [
-        // Core Python & service Keywords
+        // Core Python & services Keywords
         "Python development", "Python technical-expertise", "Python developer", "custom Python development",
         "Python web applications", "Python backend development", "Python full stack development",
         "custom software development",

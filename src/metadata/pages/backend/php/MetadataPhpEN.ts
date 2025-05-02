@@ -24,7 +24,7 @@ export const MetadataPhpEN: Metadata = {
         images: MetadataLinkPhp.twitter.images,
     },
     keywords: [
-        // Core PHP & service Keywords
+        // Core PHP & services Keywords
         "PHP development", "PHP technical-expertise", "PHP developer", "custom PHP development", "PHP web applications",
         "PHP full stack development", "enterprise PHP applications", "custom software development",
 

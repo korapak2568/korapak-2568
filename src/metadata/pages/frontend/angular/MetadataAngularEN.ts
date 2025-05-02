@@ -3,7 +3,7 @@ import {MetadataLinkAngular} from "@/metadata/pages/frontend/angular/common/Meta
 
 export const MetadataAngularEN: Metadata = {
     title: "Angular Development Services | CHORN",
-    description: "Angular development service, build dynamic, scalable, and high-performance web applications using Angular.",
+    description: "Angular development services, build dynamic, scalable, and high-performance web applications using Angular.",
     alternates: MetadataLinkAngular.alternates,
     authors: [
         {
@@ -24,7 +24,7 @@ export const MetadataAngularEN: Metadata = {
         images: MetadataLinkAngular.twitter.images,
     },
     keywords: [
-        // Core Angular & service Keywords
+        // Core Angular & services Keywords
         "Angular development", "Angular technical-expertise", "Angular developer", "Angular development Thailand",
         "Angular development Bangkok", "Angular development Chiang Mai", "Angular development company",
         "custom Angular development", "custom software development", "enterprise Angular applications",

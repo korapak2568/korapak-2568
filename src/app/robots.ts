@@ -8,11 +8,11 @@ export default function robots(): MetadataRoute.Robots {
             {
                 userAgent: '*',
                 disallow: '/sitmap.xml',
-                allow: '/api/sitemap-chorn',
+                allow: '/api/sitemap',
             },
         ],
         sitemap: [
-            'https://www.chorn.in.th/api/sitemap-chorn',
+            'https://www.chorn.in.th/api/sitemap',
         ],
     };
 }

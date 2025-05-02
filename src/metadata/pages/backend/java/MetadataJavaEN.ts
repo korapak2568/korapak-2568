@@ -24,7 +24,7 @@ export const MetadataJavaEN: Metadata = {
         images: MetadataLinkJava.twitter.images,
     },
     keywords: [
-        // Core Java Spring Boot & service Keywords
+        // Core Java Spring Boot & services Keywords
         "Spring Boot development", "Java Spring Boot technical-expertise", "Spring Boot developer", "custom Java development",
         "Java Spring Boot applications", "enterprise Java development", "Spring Boot microservices",
         "custom software development",
