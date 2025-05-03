@@ -22,6 +22,7 @@ export function middleware(request: NextRequest) {
         pathname.startsWith('/fonts') ||
         pathname.startsWith('/sitemap') ||
         pathname.startsWith('/api/sitemap') ||
+        pathname.startsWith('/api/login') ||
         pathname === '/favicon.ico' ||
         pathname === '/robots.txt'
     ) {
@@ -30,10 +31,6 @@ export function middleware(request: NextRequest) {
 
     // API protected
     if (pathname.startsWith('/api')) {
-
-        const isLogin = pathname == '/api/login'
-        if (isLogin) return NextResponse.json({login: true});
-
         const authHeader = request.headers.get('Authorization') || '';
         const token = authHeader?.split(' ')[1]
 
