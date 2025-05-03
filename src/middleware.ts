@@ -29,8 +29,9 @@ export function middleware(request: NextRequest) {
         return NextResponse.next();
     }
 
-    // API protected - Strict keep format '/api/'
-    if (pathname.startsWith('/api/')) {
+    // API protected
+    // Strict format pathname.startsWith('/api') and matcher '/api:path*'
+    if (pathname.startsWith('/api')) {
         const authHeader = request.headers.get('Authorization') || '';
         const token = authHeader?.split(' ')[1]
 
@@ -75,6 +76,6 @@ export const config = {
     matcher: [
         '/',
         '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*',
-        '/api/:path*'
+        '/api:path*'
     ],
 };
