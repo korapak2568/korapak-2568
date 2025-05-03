@@ -14,26 +14,23 @@
     "migrate-prod": "npx truffle migrate --network mainnet"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^5.2.0",
-    "@openzeppelin/contracts-upgradeable": "^5.2.0",
-    "@openzeppelin/truffle-upgrades": "^1.21.0",
+    "@line/bot-sdk": "^9.9.0",
     "@reduxjs/toolkit": "^2.2.7",
-    "@truffle/hdwallet-provider": "^2.1.15",
     "@types/aos": "^3.0.7",
     "@types/fslightbox-react": "^1.7.7",
     "@vercel/speed-insights": "^1.1.0",
     "aos": "^2.3.4",
     "aws-sdk": "^2.1692.0",
     "bcryptjs": "^3.0.2",
-    "chorn.in.th": "file:",
     "cross-env": "7.0.3",
     "dotenv": "^16.4.7",
     "fslightbox-react": "^1.7.6",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.482.0",
     "mongodb": "^6.13.0",
-    "next": "14.2.15",
+    "next": "^14.2.28",
     "node-cache": "^5.1.2",
+    "openai": "^4.97.0",
     "react": "^18",
     "react-accessible-accordion": "^5.0.0",
     "react-dom": "^18",
@@ -43,8 +40,7 @@
     "sass": "^1.74.1",
     "sharp": "^0.33.3",
     "solc": "0.8.20",
-    "swiper": "^11.1.0",
-    "web3": "^4.16.0"
+    "swiper": "^11.1.0"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^5.7.1",
@@ -57,8 +53,5 @@
     "eslint-config-next": "14.1.4",
     "ts-node": "^10.9.2",
     "typescript": "^5"
-  },
-  "resolutions": {
-    "ethereumjs-abi": "https://github.com/ethereumjs/ethereumjs-abi.git"
   }
 }

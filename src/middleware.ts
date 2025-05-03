@@ -34,11 +34,11 @@ export function middleware(request: NextRequest) {
         const isLogin = pathname == '/api/login'
         if (isLogin) return NextResponse.json({login: true});
 
-        const authHeader = request.headers.get('Authorization');
+        const authHeader = request.headers.get('Authorization') || '';
         const token = authHeader?.split(' ')[1]
 
         if (!token) {
-            return NextResponse.json({error: "Unauthorized"}, {status: 401});
+            return NextResponse.json({status: 401, message: "Unauthorized"}, {status: 401});
         }
 
         const requestHeaders = new Headers(request.headers);
@@ -78,6 +78,6 @@ export const config = {
     matcher: [
         '/',
         '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*',
-        '/api:path*'
+        '/api/:path*'
     ],
 };

@@ -3,13 +3,13 @@
 import {Task} from "@/core/domain/task.entity";
 import {TaskService} from "@/core/services/task.service";
 import {TaskRepository} from "@/adapters/outbound/mongo.repository/task.repository";
-import {authorization} from "@/utils/bcrypt";
+import {authorization, notAuthenticated} from "@/utils/authorization";
 import {NextRequest, NextResponse} from "next/server";
 
 const taskService = new TaskService(new TaskRepository());
 
 export async function GET(req: NextRequest, {params}: { params: { id: string } }) {
-    if (!authorization(req)) return new Response('Unauthorized', {status: 401})
+    if (!authorization(req)) return notAuthenticated()
 
     try {
         const task = await taskService.findById(params.id);
@@ -21,7 +21,7 @@ export async function GET(req: NextRequest, {params}: { params: { id: string } }
 }
 
 export async function PUT(req: NextRequest, {params}: { params: { id: string } }) {
-    if (!authorization(req)) return new Response('Unauthorized', {status: 401})
+    if (!authorization(req)) return notAuthenticated()
 
     try {
         const body = await req.json()
@@ -35,7 +35,7 @@ export async function PUT(req: NextRequest, {params}: { params: { id: string } }
 }
 
 export async function DELETE(req: NextRequest, {params}: { params: { id: string } }) {
-    if (!authorization(req)) return new Response('Unauthorized', {status: 401})
+    if (!authorization(req)) return notAuthenticated()
 
     try {
         await taskService.deleteById(params.id);

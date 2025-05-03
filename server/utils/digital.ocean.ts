@@ -7,11 +7,14 @@ export const uploadFile = async (file: { type: any; }, filePath: any) => {
     }
 
     const spacesEndpoint = new AWS.Endpoint(process.env.DO_CDN_URL);
-    const s3 = new AWS.S3({
+
+    const payloadS3 = {
         endpoint: spacesEndpoint,
         accessKeyId: process.env.DO_ACCESS_KEY,
         secretAccessKey: process.env.DO_SECRET_KEY,
-    });
+    }
+
+    const s3 = new AWS.S3(payloadS3);
 
     const params = {
         Bucket: process.env.DO_SPACE_NAME,

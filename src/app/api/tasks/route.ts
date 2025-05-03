@@ -2,13 +2,13 @@
 
 import {TaskService} from "@/core/services/task.service";
 import {TaskRepository} from "@/adapters/outbound/mongo.repository/task.repository";
-import {authorization} from "@/utils/bcrypt";
 import {NextResponse} from "next/server";
+import {authorization, notAuthenticated} from "@/utils/authorization";
 
 const taskService = new TaskService(new TaskRepository());
 
 export async function POST(req: Request) {
-    if (!authorization(req)) return new Response('Unauthorized', {status: 401})
+    if (!authorization(req)) return notAuthenticated()
 
     try {
         const body = await req.json()
@@ -20,7 +20,7 @@ export async function POST(req: Request) {
 }
 
 export async function GET(req: Request) {
-    if (!authorization(req)) return new Response('Unauthorized', {status: 401})
+    if (!authorization(req)) return notAuthenticated()
 
     try {
         const tasks = await taskService.findAll()
