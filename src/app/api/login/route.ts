@@ -1,8 +1,8 @@
 // src/app/api/login/route.ts
 
 import {NextRequest, NextResponse} from "next/server";
-import {UserService} from "@/api/core/services/user.service";
-import {MongoUserRepository} from "@/api/adapters/outbound/mongo.repository/user.repository";
+import {UserService} from "@/core/services/user.service";
+import {MongoUserRepository} from "@/adapters/outbound/mongo.repository/user.repository";
 import {sign} from "jsonwebtoken";
 
 const JWT_SECRET = process.env.JWT_SECRET!;

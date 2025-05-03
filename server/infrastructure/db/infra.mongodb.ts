@@ -1,8 +1,8 @@
 // src/api/infrastructure/db/infra.mongodb.ts
 
 import {Collection, MongoClient} from 'mongodb';
-import {User} from "@/api/core/domain/user.entity";
-import {Task} from "@/api/core/domain/task.entity";
+import {User} from "@/core/domain/user.entity";
+import {Task} from "@/core/domain/task.entity";
 
 const uri = process.env.MONGODB_URI!;
 const databaseName = process.env.MONGODB_DATABASE!;

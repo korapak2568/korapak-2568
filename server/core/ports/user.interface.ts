@@ -1,6 +1,6 @@
 // src/api/core/ports/user.interface.ts
 
-import {User, UserResponse} from '@/api/core/domain/user.entity';
+import {User, UserResponse} from '@/core/domain/user.entity';
 
 export interface UserInterface {
     create(user: User): Promise<UserResponse | null>;

@@ -1,8 +1,8 @@
 // src/api/core/services/user.service.ts
 
-import {UserInterface} from "@/api/core/ports/user.interface";
-import {User, UserResponse} from "@/api/core/domain/user.entity";
-import {hashPassword} from "@/api/utils/bcrypt";
+import {UserInterface} from "@/core/ports/user.interface";
+import {User, UserResponse} from "@/core/domain/user.entity";
+import {hashPassword} from "@/utils/bcrypt";
 
 export class UserService implements UserInterface {
     constructor(private userInterface: UserInterface) {

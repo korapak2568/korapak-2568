@@ -1,8 +1,8 @@
 // src/app/api/tasks/route.ts
 
-import {TaskService} from "@/api/core/services/task.service";
-import {TaskRepository} from "@/api/adapters/outbound/mongo.repository/task.repository";
-import {authorization} from "@/api/utils/bcrypt";
+import {TaskService} from "@/core/services/task.service";
+import {TaskRepository} from "@/adapters/outbound/mongo.repository/task.repository";
+import {authorization} from "@/utils/bcrypt";
 import {NextResponse} from "next/server";
 
 const taskService = new TaskService(new TaskRepository());

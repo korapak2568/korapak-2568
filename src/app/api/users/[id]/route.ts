@@ -1,9 +1,9 @@
 // src/app/api/users/[id]/route.ts
 
 import {NextRequest, NextResponse} from 'next/server';
-import {MongoUserRepository} from '@/api/adapters/outbound/mongo.repository/user.repository';
-import {UserService} from '@/api/core/services/user.service';
-import {authorization} from "@/api/utils/bcrypt";
+import {MongoUserRepository} from '@/adapters/outbound/mongo.repository/user.repository';
+import {UserService} from '@/core/services/user.service';
+import {authorization} from "@/utils/bcrypt";
 
 const userService = new UserService(new MongoUserRepository());
 

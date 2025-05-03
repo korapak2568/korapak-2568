@@ -1,8 +1,8 @@
-import {TaskInterface} from "@/api/core/ports/task.interface";
-import {Task, TaskResponse, TaskDocumentResponse, mapTaskResponse} from "@/api/core/domain/task.entity";
-import {taskCollection} from "@/api/infrastructure/db/infra.mongodb";
+import {TaskInterface} from "@/core/ports/task.interface";
+import {Task, TaskResponse, TaskDocumentResponse, mapTaskResponse} from "@/core/domain/task.entity";
+import {taskCollection} from "@/infrastructure/db/infra.mongodb";
 import {ObjectId} from "mongodb";
-import {getNowTimeBangkokAsia} from "@/api/utils/timezone";
+import {getNowTimeBangkokAsia} from "@/utils/timezone";
 
 export class TaskRepository implements TaskInterface {
 

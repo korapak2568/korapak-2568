@@ -1,6 +1,6 @@
-import {TaskInterface} from "@/api/core/ports/task.interface";
-import {TaskResponse} from "@/api/core/domain/task.entity";
-import {Task} from "@/api/core/domain/task.entity";
+import {TaskInterface} from "@/core/ports/task.interface";
+import {TaskResponse} from "@/core/domain/task.entity";
+import {Task} from "@/core/domain/task.entity";
 
 export class TaskService implements TaskInterface {
     constructor(private readonly taskInterface: TaskInterface) {
