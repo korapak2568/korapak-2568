@@ -29,8 +29,8 @@ export function middleware(request: NextRequest) {
         return NextResponse.next();
     }
 
-    // API protected
-    if (pathname.startsWith('/api')) {
+    // API protected - Strict keep format '/api/'
+    if (pathname.startsWith('/api/')) {
         const authHeader = request.headers.get('Authorization') || '';
         const token = authHeader?.split(' ')[1]
 
