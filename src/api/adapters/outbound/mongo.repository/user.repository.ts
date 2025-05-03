@@ -1,10 +1,11 @@
 // src/api/infrastructure/repositories/user.repository.ts
 
 import {UserInterface} from '@/api/core/ports/user.interface';
-import {User, UserResponse, UserDocumentResponse} from '@/api/core/domain/user.entity';
-import {usersCollection} from '@/api/infrastructure/db/mongodb';
+import {User, UserResponse, UserDocumentResponse, mapUserResponse} from '@/api/core/domain/user.entity';
+import {usersCollection} from '@/api/infrastructure/db/infra.mongodb';
 import {ObjectId} from 'mongodb';
 import bcrypt from "bcryptjs";
+import {getNowTimeBangkokAsia} from "@/api/utils/timezone";
 
 export class MongoUserRepository implements UserInterface {
 
@@ -27,28 +28,28 @@ export class MongoUserRepository implements UserInterface {
         const isValid = await bcrypt.compare(password, useDocument.password);
         if (!isValid) return null;
 
-        return mapMongoUserResponse(useDocument);
+        return mapUserResponse(useDocument);
     }
 
     async create(user: User): Promise<UserResponse | null> {
-        const {id, ...userToInsert} = user;
+        const {id, ...userToInsert} = {...user, createdAt: getNowTimeBangkokAsia()};
         const result = await usersCollection.insertOne(userToInsert);
-        const userDocument: UserDocumentResponse = {
+        const userDocument = {
             ...userToInsert,
             _id: result.insertedId,
         };
 
-        return userDocument ? mapMongoUserResponse(userDocument) : null;
+        return userDocument ? mapUserResponse(userDocument) : null;
     }
 
     async findByEmail(email: string): Promise<UserResponse | null> {
-        const userDocument: UserDocumentResponse = await usersCollection.findOne({email});
-        return userDocument ? mapMongoUserResponse(userDocument) : null;
+        const userDocument = await usersCollection.findOne({email});
+        return userDocument ? mapUserResponse(userDocument) : null;
     }
 
     async findById(id: string): Promise<UserResponse | null> {
-        const userDocument: UserDocumentResponse = await usersCollection.findOne({_id: new ObjectId(id)});
-        return userDocument ? mapMongoUserResponse(userDocument) : null;
+        const userDocument = await usersCollection.findOne({_id: new ObjectId(id)});
+        return userDocument ? mapUserResponse(userDocument) : null;
     }
 
     async deleteById(id: string): Promise<void> {
@@ -68,40 +69,28 @@ export class MongoUserRepository implements UserInterface {
         }))
     }
 
-    async update(user: User): Promise<UserResponse> {
+    async update(user: User): Promise<UserResponse | null> {
         if (!user.id) {
             throw new Error('User ID is required')
         }
 
-        const {id, ...updateData} = user;
-        const result = await usersCollection.updateOne(
-            {_id: new ObjectId(id)},
+        const {id, ...userData} = user;
+        const data = await usersCollection.updateOne(
+            {
+                _id: new ObjectId(id)
+            },
             {
                 $set: {
-                    ...updateData,
-                    updatedAt: new Date(),
+                    ...userData,
+                    updatedAt: getNowTimeBangkokAsia(),
                 }
             }
         )
 
-        if (result.modifiedCount === 0) {
+        if (data.modifiedCount === 0) {
             throw new Error('User not found')
         }
 
         return user;
     }
-}
-
-function mapMongoUserResponse(userDocument: UserDocumentResponse): UserResponse | null {
-    if (!userDocument) {
-        return null
-    }
-
-    return {
-        id: userDocument._id.toHexString(),
-        firstname: userDocument.firstname,
-        lastname: userDocument.lastname,
-        username: userDocument.username,
-        email: userDocument.email
-    };
 }

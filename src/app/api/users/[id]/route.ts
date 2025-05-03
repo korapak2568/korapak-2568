@@ -22,7 +22,7 @@ export async function PUT(req: NextRequest, {params}: { params: { id: string } }
     if (!existUser) return NextResponse.json({error: 'User not found'}, {status: 404});
 
     const body = await req.json();
-    const updateUser = {...existUser, ...body, id: params.id};
+    const updateUser = {id: params.id, ...body};
     const result = await userService.update(updateUser)
 
     if (!result) return NextResponse.json({message: 'Update not updated!'});

@@ -13,7 +13,7 @@ export interface UserInterface {
 
     findAll(): Promise<UserResponse[]>;
 
-    update(user: User): Promise<UserResponse>;
+    update(user: User): Promise<UserResponse | null>;
 
     login(email: string, password: string): Promise<UserResponse | null>;
 }

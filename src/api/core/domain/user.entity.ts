@@ -9,6 +9,7 @@ export interface User {
     username: string;
     email: string;
     password: string;
+    createdAt: Date;
 }
 
 export interface UserResponse {
@@ -26,3 +27,17 @@ export type UserDocumentResponse = {
     username: string;
     email: string;
 } | null;
+
+export function mapUserResponse(userDocument: UserDocumentResponse): UserResponse | null {
+    if (!userDocument) {
+        return null
+    }
+
+    return {
+        id: userDocument._id.toHexString(),
+        firstname: userDocument.firstname,
+        lastname: userDocument.lastname,
+        username: userDocument.username,
+        email: userDocument.email
+    };
+}

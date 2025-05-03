@@ -1,45 +1,31 @@
 // src/app/api/tasks/route.ts
 
-import {connectDB} from '@/lib/mongodb';
-import {NextResponse} from 'next/server';
-import NodeCache from "node-cache";
+import {TaskService} from "@/api/core/services/task.service";
+import {TaskRepository} from "@/api/adapters/outbound/mongo.repository/task.repository";
+import {authorization} from "@/api/utils/bcrypt";
+import {NextResponse} from "next/server";
 
-const cache = new NodeCache({stdTTL: 60})
+const taskService = new TaskService(new TaskRepository());
 
 export async function POST(req: Request) {
+    if (!authorization(req)) return new Response('Unauthorized', {status: 401})
+
     try {
-        const db = await connectDB();
-        const tasksCollection = db.collection('tasks');
-        const {title, description, status} = await req.json();
-
-        const result = await tasksCollection.insertOne({title, description, status});
-
-        // Invalidate cache after a write operation
-        cache.del("tasksCache")
-
-        return NextResponse.json({message: 'Task created successfully', id: result.insertedId}, {status: 201});
+        const body = await req.json()
+        const task = await taskService.create(body)
+        return NextResponse.json(task, {status: 201})
     } catch (error: any) {
-        return NextResponse.json({error: error.message}, {status: 500});
+        return NextResponse.json({error: error.message}, {status: 400})
     }
 }
 
-export async function GET() {
+export async function GET(req: Request) {
+    if (!authorization(req)) return new Response('Unauthorized', {status: 401})
+
     try {
-        // Try to get the data from the cache
-        let tasks = cache.get("tasksCache")
-
-        if (!tasks) {
-            // Cache miss, fetch data from the database
-            const db = await connectDB();
-            const tasksCollection = db.collection('tasks');
-            tasks = await tasksCollection.find().toArray();
-
-            // Save the data to the cache
-            cache.set("tasksCache", tasks);
-        }
-
-        return NextResponse.json(tasks, {status: 200});
+        const tasks = await taskService.findAll()
+        return NextResponse.json(tasks, {status: 200})
     } catch (error: any) {
-        return NextResponse.json({error: error.message}, {status: 500});
+        return NextResponse.json({error: error.message}, {status: 400})
     }
 }

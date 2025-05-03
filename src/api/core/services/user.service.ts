@@ -4,7 +4,7 @@ import {UserInterface} from "@/api/core/ports/user.interface";
 import {User, UserResponse} from "@/api/core/domain/user.entity";
 import {hashPassword} from "@/api/utils/bcrypt";
 
-export class UserService {
+export class UserService implements UserInterface {
     constructor(private userInterface: UserInterface) {
     }
 
@@ -28,12 +28,12 @@ export class UserService {
         return this.userInterface.findByEmail(email);
     }
 
-    async deleteById(id: string): Promise<void> {
-        return this.userInterface.deleteById(id);
+    async update(user: User): Promise<UserResponse | null> {
+        return this.userInterface.update(user);
     }
 
-    async update(user: User): Promise<UserResponse> {
-        return this.userInterface.update(user);
+    async deleteById(id: string): Promise<void> {
+        return this.userInterface.deleteById(id);
     }
 
     async login(email: string, password: string): Promise<UserResponse | null> {
