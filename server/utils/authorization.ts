@@ -14,5 +14,6 @@ export function authorization(req: Request) {
 }
 
 export function notAuthenticated() {
-    return NextResponse.json({status: 401, message: "Unauthorized"}, {status: 401});
+    return NextResponse.json(
+        {status: 401, message: "Unauthorized"}, {status: 401});
 }

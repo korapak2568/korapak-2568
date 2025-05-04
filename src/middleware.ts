@@ -35,22 +35,31 @@ export function middleware(request: NextRequest) {
         const forwardedAuth = request.headers.get('x-forwarded-authorization');
         const headers: string[] = forwardedAuth ? forwardedAuth!?.split(' ') : authorizationHeader!?.split(' ')
 
-        if (!headers || !headers.includes('Bearer')) {
-            return NextResponse.json({
-                status: 401,
-                message: "Unauthorized"
-            }, {status: 401});
-        }
+        return NextResponse.json({
+            status: 401,
+            message: "Unauthorized",
+            allHeaders: Object.fromEntries(request.headers.entries()),
+        }, {status: 401});
 
-        const token = headers[1]
-        const requestHeaders = new Headers(request.headers);
-        requestHeaders.set('x-auth-token', token);
-
-        return NextResponse.next({
-            request: {
-                headers: requestHeaders,
-            }
-        })
+        // if (!headers || !headers.includes('Bearer')) {
+        //     return NextResponse.json({
+        //         status: 401,
+        //         message: "Unauthorized",
+        //         forwardedAuth,
+        //         authorizationHeader,
+        //         headers
+        //     }, {status: 401});
+        // }
+        //
+        // const token = headers[1]
+        // const requestHeaders = new Headers(request.headers);
+        // requestHeaders.set('x-auth-token', token);
+        //
+        // return NextResponse.next({
+        //     request: {
+        //         headers: requestHeaders,
+        //     }
+        // })
     }
 
     // Extract the locale from the pathname
