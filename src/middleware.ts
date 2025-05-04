@@ -20,7 +20,6 @@ export function middleware(request: NextRequest) {
         pathname.startsWith('/internal-images') ||
         pathname.startsWith('/contracts') ||
         pathname.startsWith('/fonts') ||
-        pathname.startsWith('/sitemap') ||
         pathname.startsWith('/api/sitemap') ||
         pathname.startsWith('/api/login') ||
         pathname === '/favicon.ico' ||
@@ -31,29 +30,15 @@ export function middleware(request: NextRequest) {
 
     // API protected
     // Strict format pathname.startsWith('/api') and matcher '/api/:path*'
-    if (pathname.startsWith('/api')) {
-        const authorizationHeader = request.headers.get('authorization');
-        const AuthorizationHeader = request.headers.get('Authorization');
+    if (pathname.startsWith('/api/')) {
+        const authorizationHeader = request.headers.get('Authorization');
+        const forwardedAuth = request.headers.get('x-forwarded-authorization');
+        const headers: string[] = forwardedAuth ? forwardedAuth!?.split(' ') : authorizationHeader!?.split(' ')
 
-        if (!AuthorizationHeader) {
-            return NextResponse.json({
-                status: 401,
-                message: "Unauthorized",
-                path: pathname,
-                authorization: authorizationHeader,
-                Authorization: AuthorizationHeader,
-            }, {status: 401});
-        }
-
-        const headers: string[] = AuthorizationHeader.split(' ')
         if (!headers || !headers.includes('Bearer')) {
             return NextResponse.json({
                 status: 401,
-                message: "Unauthorized",
-                headers: headers,
-                path: pathname,
-                authorization: authorizationHeader,
-                Authorization: AuthorizationHeader,
+                message: "Unauthorized"
             }, {status: 401});
         }
 
@@ -95,6 +80,6 @@ export const config = {
     matcher: [
         '/',
         '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*',
-        '/api/:path*'
+        '/api/:path*',
     ],
 };
