@@ -1,11 +1,11 @@
 // app/api/openai/route.ts (example in App Router)
 
 import {NextResponse} from "next/server";
-import {authorization, notAuthenticated} from "@/utils/authorization";
+import {authorize, unauthorized} from "@/utils/authorize";
 import openAiPloy from "@/adapters/outbound/openai/openai.ploy";
 
 export async function POST(req: Request) {
-    if (!authorization(req)) return notAuthenticated()
+    if (!authorize(req)) return unauthorized()
 
     try {
         const {prompt} = await req.json();

@@ -3,12 +3,13 @@
 import type {NextRequest} from 'next/server';
 import {NextResponse} from 'next/server';
 import {LocaleMain} from "@/lib/UrlMain";
+import {setXAuthToken, unauthorized} from "@/utils/authorize";
 
 const defaultLocale = 'en';
 
-export function middleware(request: NextRequest) {
-    const {pathname} = request.nextUrl;
-    const cookie_consent: string = request.cookies.get("cookie_consent")?.value || 'false';
+export function middleware(req: NextRequest) {
+    const {pathname} = req.nextUrl;
+    const cookie_consent: string = req.cookies.get("cookie_consent")?.value || 'false';
 
 
     // Skip internal-images requests
@@ -29,26 +30,16 @@ export function middleware(request: NextRequest) {
     }
 
     // API protected
-    // Strict format pathname.startsWith('/api') and matcher '/api/:path*'
     if (pathname.startsWith('/api/')) {
-        const xAuthToken = {
-            name: 'x-auth-token',
-            value: request.headers.get('x-auth-token')
-        }
+        const token = setXAuthToken(req)
+        if (!token.isToken) return unauthorized()
 
-        if (!xAuthToken.value) {
-            return NextResponse.json({
-                status: 401,
-                message: "Unauthorized",
-            }, {status: 401});
-        }
-
-        const requestHeaders = new Headers(request.headers);
-        requestHeaders.set(xAuthToken.name, xAuthToken.value);
+        const newRequestHeaders = new Headers(req.headers);
+        newRequestHeaders.set(token.name, token.value!);
 
         return NextResponse.next({
             request: {
-                headers: requestHeaders,
+                headers: newRequestHeaders,
             }
         })
     }
@@ -63,7 +54,7 @@ export function middleware(request: NextRequest) {
         !LocaleMain.includes(locale)
     ) {
         const newPathName = `/${defaultLocale}${pathname === '/' ? '' : pathname}`;
-        const url = new URL(newPathName, request.url);
+        const url = new URL(newPathName, req.url);
         return NextResponse.redirect(url);
     }
 

@@ -3,12 +3,12 @@
 import {NextResponse} from 'next/server';
 import {MongoUserRepository} from '@/adapters/outbound/mongo.repository/user.repository';
 import {UserService} from '@/core/services/user.service';
-import {authorization, notAuthenticated} from "@/utils/authorization";
+import {authorize, unauthorized} from "@/utils/authorize";
 
 const userService = new UserService(new MongoUserRepository());
 
 export async function POST(req: Request) {
-    if (!authorization(req)) return notAuthenticated()
+    if (!authorize(req)) return unauthorized()
 
     try {
         const body = await req.json();
@@ -20,7 +20,7 @@ export async function POST(req: Request) {
 }
 
 export async function GET(req: Request) {
-    if (!authorization(req)) return notAuthenticated()
+    if (!authorize(req)) return unauthorized()
 
     try {
         const users = await userService.findAll()

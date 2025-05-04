@@ -1,10 +1,10 @@
 // src/app/api/route.ts
 
 import {NextResponse} from 'next/server';
-import {authorization, notAuthenticated} from "@/utils/authorization";
+import {authorize, unauthorized} from "@/utils/authorize";
 
 export async function GET(req: Request) {
-    if (!authorization(req)) return notAuthenticated()
+    if (!authorize(req)) return unauthorized()
 
     try {
         return NextResponse.json({

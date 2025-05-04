@@ -3,12 +3,12 @@
 import {NextRequest, NextResponse} from 'next/server';
 import {MongoUserRepository} from '@/adapters/outbound/mongo.repository/user.repository';
 import {UserService} from '@/core/services/user.service';
-import {authorization, notAuthenticated} from "@/utils/authorization";
+import {authorize, unauthorized} from "@/utils/authorize";
 
 const userService = new UserService(new MongoUserRepository());
 
 export async function GET(req: NextRequest, {params}: { params: { id: string } }) {
-    if (!authorization(req)) return notAuthenticated()
+    if (!authorize(req)) return unauthorized()
 
     const user = await userService.findById(params.id);
     if (!user) return NextResponse.json({error: 'User not found'}, {status: 404});
@@ -16,7 +16,7 @@ export async function GET(req: NextRequest, {params}: { params: { id: string } }
 }
 
 export async function PUT(req: NextRequest, {params}: { params: { id: string } }) {
-    if (!authorization(req)) return notAuthenticated()
+    if (!authorize(req)) return unauthorized()
 
     const existUser = await userService.findById(params.id);
     if (!existUser) return NextResponse.json({error: 'User not found'}, {status: 404});
@@ -31,7 +31,7 @@ export async function PUT(req: NextRequest, {params}: { params: { id: string } }
 }
 
 export async function DELETE(req: NextRequest, {params}: { params: { id: string } }) {
-    if (!authorization(req)) return notAuthenticated()
+    if (!authorize(req)) return unauthorized()
 
     await userService.deleteById(params.id);
     return NextResponse.json({message: 'User deleted'});
