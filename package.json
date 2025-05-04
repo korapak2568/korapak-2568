@@ -14,7 +14,6 @@
     "migrate-prod": "npx truffle migrate --network mainnet"
   },
   "dependencies": {
-    "@line/bot-sdk": "^9.9.0",
     "@reduxjs/toolkit": "^2.2.7",
     "@types/aos": "^3.0.7",
     "@types/fslightbox-react": "^1.7.7",

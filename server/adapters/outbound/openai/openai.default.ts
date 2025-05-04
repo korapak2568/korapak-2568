@@ -4,11 +4,29 @@ const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY!,
 });
 
-export default async function openaiDefault(prompt: string) {
-    const completion = await openai.chat.completions.create({
+const openaiDefaultCreate = async (prompt: string) => {
+    return openai.chat.completions.create({
         model: process.env.GPT_MODEL!,
-        messages: [{role: "user", content: prompt}],
+        store: true,
+        messages: [
+            {
+                role: "system",
+                content: ""
+            },
+            {
+                role: "user",
+                content: prompt
+            }
+        ]
     });
+}
 
-    return completion.choices[0].message.content
+export default async function openaiDefault(prompt: any) {
+    try {
+        const result = await openaiDefaultCreate(prompt);
+        const content = result.choices[0]?.message?.content;
+        return content ? content.replaceAll("**", "") : null
+    } catch (error) {
+        return error
+    }
 }

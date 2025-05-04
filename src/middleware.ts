@@ -30,15 +30,16 @@ export function middleware(request: NextRequest) {
     }
 
     // API protected
-    // Strict format pathname.startsWith('/api') and matcher '/api:path*'
+    // Strict format pathname.startsWith('/api') and matcher '/api/:path*'
     if (pathname.startsWith('/api')) {
         const authHeader = request.headers.get('Authorization') || '';
-        const token = authHeader?.split(' ')[1]
+        const headers: string[] = authHeader?.split(' ')
 
-        if (!token) {
+        if (!headers || !headers.includes('Bearer')) {
             return NextResponse.json({status: 401, message: "Unauthorized"}, {status: 401});
         }
 
+        const token = headers[1]
         const requestHeaders = new Headers(request.headers);
         requestHeaders.set('x-auth-token', token);
 
@@ -76,6 +77,6 @@ export const config = {
     matcher: [
         '/',
         '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*',
-        '/api:path*'
+        '/api/:path*'
     ],
 };
