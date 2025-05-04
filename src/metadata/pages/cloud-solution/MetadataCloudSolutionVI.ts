@@ -1,10 +1,14 @@
 import {Metadata} from "next";
-import {MetadataLinkCloudSolution} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {
+    alternativeCloudSolution, cloudSolutionUrls,
+    MetadataLinkCloudSolution
+} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionVI: Metadata = {
     title: "Kiến trúc Giải pháp Đám mây & Phân tích Hệ thống | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN cung cấp chuyên môn kỹ thuật về kiến trúc giải pháp đám mây và phân tích hệ thống. Chúng tôi tối ưu hóa cơ sở hạ tầng đám mây trên AWS, Azure, GCP và DigitalOcean, đảm bảo hiệu suất, khả năng mở rộng và tiết kiệm chi phí.",
-    alternates: MetadataLinkCloudSolution.alternates,
+    alternates: alternativeCloudSolution(LanguageCode.vi),
     authors: [
         {
             name: "CHORN"
@@ -14,7 +18,7 @@ export const MetadataCloudSolutionVI: Metadata = {
         title: "Kiến trúc Giải pháp Đám mây & Phân tích Hệ thống | CHORN",
         description: "Khám phá chuyên môn kỹ thuật về kiến trúc giải pháp đám mây và phân tích hệ thống của CHORN. Chúng tôi thiết kế các giải pháp đám mây bền vững, có thể mở rộng và tối ưu hóa trên AWS, Azure, GCP và DigitalOcean.",
         images: MetadataLinkCloudSolution.openGraph.images,
-        url: MetadataLinkCloudSolution.openGraph.url,
+        url: cloudSolutionUrls[LanguageCode.vi],
         type: "website"
     },
     twitter: {

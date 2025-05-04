@@ -1,10 +1,15 @@
 import {Metadata} from "next";
-import {MetadataLinkCloudSolution} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {
+    alternativeCloudSolution,
+    cloudSolutionUrls,
+    MetadataLinkCloudSolution
+} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionFR: Metadata = {
     title: "Architecture de solutions cloud et analyse des systèmes | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN propose des services d'architecture de solutions cloud et d'analyse des systèmes avec une expertise technique avancée. Nous optimisons les infrastructures cloud sur AWS, Azure, GCP et DigitalOcean pour garantir des performances optimales, une évolutivité et une rentabilité.",
-    alternates: MetadataLinkCloudSolution.alternates,
+    alternates: alternativeCloudSolution(LanguageCode.fr),
     authors: [
         {
             name: "CHORN"
@@ -14,7 +19,7 @@ export const MetadataCloudSolutionFR: Metadata = {
         title: "Architecture de solutions cloud et analyse des systèmes | CHORN",
         description: "Découvrez l'expertise de CHORN en architecture de solutions cloud et analyse des systèmes. Nous concevons des solutions cloud résilientes, évolutives et optimisées sur AWS, Azure, GCP et DigitalOcean.",
         images: MetadataLinkCloudSolution.openGraph.images,
-        url: MetadataLinkCloudSolution.openGraph.url,
+        url: cloudSolutionUrls[LanguageCode.fr],
         type: "website"
     },
     twitter: {

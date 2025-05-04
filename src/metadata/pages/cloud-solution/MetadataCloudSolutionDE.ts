@@ -1,10 +1,14 @@
 import {Metadata} from "next";
-import {MetadataLinkCloudSolution} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {
+    alternativeCloudSolution, cloudSolutionUrls,
+    MetadataLinkCloudSolution
+} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionDE: Metadata = {
     title: "Cloud-Lösungsarchitektur & Systemanalyse | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN bietet Fachwissen in Cloud-Lösungsarchitektur und Systemanalyse. Wir optimieren Cloud-Infrastrukturen auf AWS, Azure, GCP und DigitalOcean und gewährleisten Leistung, Skalierbarkeit und Kosteneffizienz.",
-    alternates: MetadataLinkCloudSolution.alternates,
+    alternates: alternativeCloudSolution(LanguageCode.de),
     authors: [
         {
             name: "CHORN"
@@ -14,7 +18,7 @@ export const MetadataCloudSolutionDE: Metadata = {
         title: "Cloud-Lösungsarchitektur & Systemanalyse | CHORN",
         description: "Entdecken Sie das Fachwissen von CHORN in Cloud-Lösungsarchitektur und Systemanalyse. Wir entwerfen resiliente, skalierbare und optimierte Cloud-Lösungen auf AWS, Azure, GCP und DigitalOcean.",
         images: MetadataLinkCloudSolution.openGraph.images,
-        url: MetadataLinkCloudSolution.openGraph.url,
+        url: cloudSolutionUrls[LanguageCode.de],
         type: "website"
     },
     twitter: {
