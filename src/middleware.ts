@@ -31,35 +31,26 @@ export function middleware(request: NextRequest) {
     // API protected
     // Strict format pathname.startsWith('/api') and matcher '/api/:path*'
     if (pathname.startsWith('/api/')) {
-        const authorizationHeader = request.headers.get('Authorization');
-        const forwardedAuth = request.headers.get('x-forwarded-authorization');
-        const headers: string[] = forwardedAuth ? forwardedAuth!?.split(' ') : authorizationHeader!?.split(' ')
+        const xAuthToken = {
+            name: 'x-auth-token',
+            value: request.headers.get('x-auth-token')
+        }
 
-        return NextResponse.json({
-            status: 401,
-            message: "Unauthorized",
-            allHeaders: Object.fromEntries(request.headers.entries()),
-        }, {status: 401});
+        if (!xAuthToken.value) {
+            return NextResponse.json({
+                status: 401,
+                message: "Unauthorized",
+            }, {status: 401});
+        }
 
-        // if (!headers || !headers.includes('Bearer')) {
-        //     return NextResponse.json({
-        //         status: 401,
-        //         message: "Unauthorized",
-        //         forwardedAuth,
-        //         authorizationHeader,
-        //         headers
-        //     }, {status: 401});
-        // }
-        //
-        // const token = headers[1]
-        // const requestHeaders = new Headers(request.headers);
-        // requestHeaders.set('x-auth-token', token);
-        //
-        // return NextResponse.next({
-        //     request: {
-        //         headers: requestHeaders,
-        //     }
-        // })
+        const requestHeaders = new Headers(request.headers);
+        requestHeaders.set(xAuthToken.name, xAuthToken.value);
+
+        return NextResponse.next({
+            request: {
+                headers: requestHeaders,
+            }
+        })
     }
 
     // Extract the locale from the pathname
