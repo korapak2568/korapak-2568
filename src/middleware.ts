@@ -32,11 +32,29 @@ export function middleware(request: NextRequest) {
     // API protected
     // Strict format pathname.startsWith('/api') and matcher '/api/:path*'
     if (pathname.startsWith('/api')) {
-        const authHeader = request.headers.get('Authorization') || '';
-        const headers: string[] = authHeader?.split(' ')
+        const authorizationHeader = request.headers.get('authorization');
+        const AuthorizationHeader = request.headers.get('Authorization');
 
+        if (!AuthorizationHeader) {
+            return NextResponse.json({
+                status: 401,
+                message: "Unauthorized",
+                path: pathname,
+                authorization: authorizationHeader,
+                Authorization: AuthorizationHeader,
+            }, {status: 401});
+        }
+
+        const headers: string[] = AuthorizationHeader.split(' ')
         if (!headers || !headers.includes('Bearer')) {
-            return NextResponse.json({status: 401, message: "Unauthorized"}, {status: 401});
+            return NextResponse.json({
+                status: 401,
+                message: "Unauthorized",
+                headers: headers,
+                path: pathname,
+                authorization: authorizationHeader,
+                Authorization: AuthorizationHeader,
+            }, {status: 401});
         }
 
         const token = headers[1]
