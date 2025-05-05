@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkTypeScript} from "@/metadata/pages/frontend/typescript/common/MetadataLinkTypeScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTypeScriptTH: Metadata = {
     title: "TypeScript | CHORN - ผู้เชี่ยวชาญด้านการพัฒนาซอฟต์แวร์แบบกำหนดเอง",
     description: "ใช้ TypeScript ในการสร้างโซลูชันซอฟต์แวร์ที่สามารถขยายขนาดได้ มีความเสถียร และมีประสิทธิภาพสำหรับธุรกิจในหลายอุตสาหกรรม",
-    alternates: MetadataLinkTypeScript.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.frontend.typescript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataTypeScriptTH: Metadata = {
     openGraph: {
         title: "CHORN - การพัฒนาซอฟต์แวร์แบบกำหนดเองด้วย TypeScript",
         description: "ความเชี่ยวชาญด้าน TypeScript เครื่องมือที่มีประสิทธิภาพในการสร้างแอปพลิเคชันที่สามารถขยายขนาดและมีประสิทธิภาพสูง เรียนรู้เหตุผลที่เราคัดเลือก TypeScript สำหรับโซลูชันซอฟต์แวร์แบบกำหนดเอง",
-        images: MetadataLinkTypeScript.openGraph.images,
-        url: MetadataLinkTypeScript.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.typescript).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.typescript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - การพัฒนา TypeScript สำหรับโซลูชันซอฟต์แวร์แบบกำหนดเอง",
         description: "ใช้ TypeScript เพื่อส่งมอบโซลูชันซอฟต์แวร์ที่สามารถขยายขนาดและมีคุณภาพสูงที่ตอบโจทย์ความต้องการของธุรกิจ",
-        images: MetadataLinkTypeScript.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.typescript).twitter.images,
     },
     keywords: [
         "การพัฒนา TypeScript", "ความเชี่ยวชาญด้าน TypeScript", "นักพัฒนา TypeScript", "การพัฒนา TypeScript แบบกำหนดเอง",

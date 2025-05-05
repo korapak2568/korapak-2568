@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkSoapUI} from "@/metadata/pages/devops/soapui/common/MetadataLinkSoapUI";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataSoapUIFI: Metadata = {
     title: "SoapUI Testauspalvelut | CHORN",
     description: "SoapUI-testauksen asiantuntemusta varmistaaksesi, että API:t ja verkkotekniikka testataan perusteellisesti ja ovat luotettavia.",
-    alternates: MetadataLinkSoapUI.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.devops.soapui).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataSoapUIFI: Metadata = {
     openGraph: {
         title: "SoapUI Testaus | CHORN",
         description: "Varmista API:esi ja verkkotekniikkasi luotettavuus testausasiantuntemuksella.",
-        images: MetadataLinkSoapUI.openGraph.images,
-        url: MetadataLinkSoapUI.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.devops.soapui).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.soapui).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "SoapUI Testauspalvelut | CHORN",
         description: "Optimoi API-testauksesi SoapUI-asiantuntemuksella kattavaan ja luotettavaan verkkopalvelutestaukseen.",
-        images: MetadataLinkSoapUI.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.devops.soapui).twitter.images,
     },
     keywords: [
         "SoapUI testaus", "API testaus", "CHORN", "Cloud DevOps",

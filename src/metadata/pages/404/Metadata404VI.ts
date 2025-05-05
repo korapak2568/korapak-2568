@@ -1,5 +1,7 @@
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 import {Metadata} from "next";
-import {MetadataLink404} from "@/metadata/pages/404/common/MetadataLink404";
 
 export const Metadata404VI: Metadata = {
     title: "404 - Không Tìm Thấy Trang",
@@ -7,7 +9,7 @@ export const Metadata404VI: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLink404.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks._404).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const Metadata404VI: Metadata = {
     openGraph: {
         title: "404 - Không Tìm Thấy Trang",
         description: "Rất tiếc! Chúng tôi không thể tìm thấy trang bạn đang tìm kiếm. Vui lòng kiểm tra URL hoặc trở về trang chủ của chúng tôi để tiếp tục khám phá CHORN.",
-        images: MetadataLink404.openGraph.images,
-        url: MetadataLink404.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks._404).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks._404).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "404 - Không Tìm Thấy Trang",
         description: "Rất tiếc! Chúng tôi không thể tìm thấy trang bạn đang tìm kiếm. Vui lòng kiểm tra URL hoặc trở về trang chủ của chúng tôi để tiếp tục khám phá CHORN.",
-        images: MetadataLink404.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks._404).twitter.images,
     },
 }

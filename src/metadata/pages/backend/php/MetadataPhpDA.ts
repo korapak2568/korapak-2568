@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPhpDA: Metadata = {
     title: "PHP Full Stack Udvikling | CHORN",
     description: "PHP full stack udvikling, teknisk ekspertise til at bygge dynamiske og skalerbare webapplikationer.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.backend.php).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPhpDA: Metadata = {
     openGraph: {
         title: "PHP Udvikling | CHORN",
         description: "Udnyt PHP full stack udvikling, teknisk ekspertise til at bygge skalerbare og dynamiske webapplikationer.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.backend.php).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.backend.php).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "PHP Full Stack Udvikling | CHORN",
         description: "PHP full stack udviklingsekspertise til dynamiske og skalerbare webapplikationer.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.backend.php).twitter.images,
     },
     keywords: [
         "PHP udvikling", "PHP teknisk ekspertise", "PHP udvikler", "tilpasset PHP udvikling", "PHP webapplikationer",

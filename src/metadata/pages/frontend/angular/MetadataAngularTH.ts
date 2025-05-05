@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAngular} from "@/metadata/pages/frontend/angular/common/MetadataLinkAngular";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAngularTH: Metadata = {
     title: "บริการพัฒนา Angular | CHORN",
     description: "บริการพัฒนา Angular สร้างเว็บแอปพลิเคชันที่มีความไดนามิก ขยายขนาดได้ และมีประสิทธิภาพสูงโดยใช้ Angular",
-    alternates: MetadataLinkAngular.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.frontend.angular).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataAngularTH: Metadata = {
     openGraph: {
         title: "การพัฒนา Angular | CHORN",
         description: "บริการพัฒนา Angular โดยผู้เชี่ยวชาญ เพื่อสร้างเว็บแอปพลิเคชันที่รวดเร็ว ขยายขนาดได้ และมีความไดนามิก",
-        images: MetadataLinkAngular.openGraph.images,
-        url: MetadataLinkAngular.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.angular).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.angular).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "บริการพัฒนา Angular | CHORN",
         description: "เพิ่มศักยภาพให้กับเว็บแอปพลิเคชันของคุณด้วยบริการพัฒนา Angular โดยผู้เชี่ยวชาญ",
-        images: MetadataLinkAngular.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.angular).twitter.images,
     },
     keywords: [
         // คีย์เวิร์ดหลักของ Angular และบริการ

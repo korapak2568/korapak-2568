@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNodejsNL: Metadata = {
     title: "Node.js Full Stack Ontwikkeling | CHORN",
     description: "Node.js full-stack ontwikkeling, technische expertise voor het bouwen van efficiënte en schaalbare webapplicaties.",
-    alternates: MetadataLinkNodejs.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.backend.nodejs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNodejsNL: Metadata = {
     openGraph: {
         title: "Node.js Ontwikkeling | CHORN",
         description: "Bouw efficiënte en schaalbare webapplicaties met Node.js full-stack technische expertise.",
-        images: MetadataLinkNodejs.openGraph.images,
-        url: MetadataLinkNodejs.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.backend.nodejs).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.backend.nodejs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Node.js Full Stack Ontwikkeling | CHORN",
         description: "Technische expertise in Node.js full-stack ontwikkeling voor efficiënte en schaalbare webapps.",
-        images: MetadataLinkNodejs.twitter.images
+        images: metadataLink(LanguageCode.nl, MetaLinks.backend.nodejs).twitter.images
     },
     keywords: [
         "Node.js ontwikkeling", "Node.js technische expertise", "Node.js ontwikkelaar", "maatwerk Node.js ontwikkeling",

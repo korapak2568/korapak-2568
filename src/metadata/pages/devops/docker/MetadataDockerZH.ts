@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDocker} from "@/metadata/pages/devops/docker/common/MetadataLinkDocker";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDockerZH: Metadata = {
     title: "Docker DevOps 服务 | CHORN",
     description: "基于 Docker 的 DevOps 技术专长，提供高效的容器化和可扩展的应用程序部署解决方案。",
-    alternates: MetadataLinkDocker.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.devops.docker).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDockerZH: Metadata = {
     openGraph: {
         title: "Docker DevOps 服务 | CHORN",
         description: "利用 Docker 进行容器化和可扩展的软件部署，结合 DevOps 技术专长。",
-        images: MetadataLinkDocker.openGraph.images,
-        url: MetadataLinkDocker.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.devops.docker).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.docker).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Docker DevOps 服务 | CHORN",
         description: "Docker DevOps 技术专长，提供容器化和可扩展的应用程序部署方案。",
-        images: MetadataLinkDocker.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.devops.docker).twitter.images,
     },
     keywords: [
         "Docker DevOps", "Docker 技术专长", "容器化", "CHORN", "DevOps", "可扩展部署",

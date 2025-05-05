@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGallery} from "@/metadata/pages/gallery/common/MetadataLinkGallery";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGalleryJA: Metadata = {
     title: "海外旅行 | CHORNギャラリー",
     description: "CHORNはASEANおよびアメリカでの業務から学び、研修を受けるための国際旅行の経験と準備が整っています。",
-    alternates: MetadataLinkGallery.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.gallery).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataGalleryJA: Metadata = {
     openGraph: {
         title: "海外旅行 | CHORNギャラリー",
         description: "CHORNはASEANおよびアメリカでの業務から学び、研修を受けるための国際旅行の経験と準備が整っています。",
-        images: MetadataLinkGallery.openGraph.images,
-        url: MetadataLinkGallery.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.gallery).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.gallery).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "海外旅行 | CHORNギャラリー",
         description: "CHORNはASEANおよびアメリカでの業務から学び、研修を受けるための国際旅行の経験と準備が整っています。",
-        images: MetadataLinkGallery.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.gallery).twitter.images,
     },
 }

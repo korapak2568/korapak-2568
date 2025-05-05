@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGoEN: Metadata = {
     title: "Go Full Stack Development | CHORN",
     description: "Go full stack development, technical expertise for building efficient and scalable web applications.",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.backend.go).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGoEN: Metadata = {
     openGraph: {
         title: "Go Development | CHORN",
         description: "Build efficient and scalable web applications with Go full stack development technical expertise.",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.backend.go).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.backend.go).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Go Full Stack Development | CHORN",
         description: "Expert Go full stack development, technical-expertise for efficient and scalable web applications.",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.backend.go).twitter.images,
     },
     keywords: [
         // Core Go-lang & services Keywords

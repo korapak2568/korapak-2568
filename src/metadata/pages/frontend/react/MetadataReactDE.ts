@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactDE: Metadata = {
     title: "React-Entwicklungsdienste | CHORN",
     description: "Top-React-Entwicklung mit technischer Expertise, erstellen Sie dynamische und reaktionsschnelle Benutzeroberflächen mit React.",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactDE: Metadata = {
     openGraph: {
         title: "React-Entwicklung | CHORN",
         description: "Verbessern Sie Ihre Webanwendungen mit React-Entwicklungsexpertise, technische Fachkenntnisse für leistungsstarke Anwendungen.",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "React-Entwicklungsdienste | CHORN",
         description: "Experten-React-Entwicklung, technische Expertise zur Erstellung ansprechender Benutzeroberflächen mit React.",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "React-Entwicklung", "React-Technische-Expertise", "React-Entwickler", "Benutzerdefinierte React-Entwicklung", "React.js-Anwendungen",

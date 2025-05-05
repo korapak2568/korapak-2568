@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkCss3} from "@/metadata/pages/frontend/css3/common/MetadataLinkCss3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCss3VI: Metadata = {
     title: "Dịch vụ Phát triển CSS3 | CHORN",
     description: "Nâng cao ứng dụng web của bạn với phát triển CSS3, chuyên môn kỹ thuật cho thiết kế hiện đại và hấp dẫn.",
-    alternates: MetadataLinkCss3.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.frontend.css3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataCss3VI: Metadata = {
     openGraph: {
         title: "Phát triển CSS3 | CHORN",
         description: "Phát triển CSS3 với chuyên môn kỹ thuật để tạo ra thiết kế web thời trang và phản hồi tốt.",
-        images: MetadataLinkCss3.openGraph.images,
-        url: MetadataLinkCss3.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.css3).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.css3).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ Phát triển CSS3 | CHORN",
         description: "Tạo thiết kế web ấn tượng với CSS3 và chuyên môn phát triển CSS3 của chúng tôi.",
-        images: MetadataLinkCss3.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.css3).twitter.images,
     },
     keywords: [
         "phát triển CSS3", "chuyên môn CSS3", "lập trình viên CSS3", "phát triển CSS3 tùy chỉnh", "thiết kế đáp ứng CSS3",

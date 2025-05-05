@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJavaScript} from "@/metadata/pages/frontend/javascript/common/MetadataLinkJavaScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaScriptVI: Metadata = {
     title: "JavaScript | CHORN - Chuyên gia phát triển phần mềm tùy chỉnh",
     description: "Sử dụng JavaScript để xây dựng các giải pháp phần mềm tùy chỉnh, có thể mở rộng, mạnh mẽ và hiệu quả cho các doanh nghiệp trong nhiều ngành.",
-    alternates: MetadataLinkJavaScript.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.frontend.javascript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaScriptVI: Metadata = {
     openGraph: {
         title: "CHORN - Phát triển phần mềm tùy chỉnh với JavaScript",
         description: "Chuyên môn về JavaScript, một công cụ mạnh mẽ để xây dựng các ứng dụng có thể mở rộng và hiệu suất cao. Tìm hiểu lý do tại sao chúng tôi chọn JavaScript cho các giải pháp phần mềm tùy chỉnh.",
-        images: MetadataLinkJavaScript.openGraph.images,
-        url: MetadataLinkJavaScript.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.javascript).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.javascript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - Phát triển JavaScript cho các giải pháp phần mềm tùy chỉnh",
         description: "Sử dụng JavaScript để cung cấp các giải pháp phần mềm có thể mở rộng và chất lượng cao, phù hợp với nhu cầu của các doanh nghiệp.",
-        images: MetadataLinkJavaScript.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.javascript).twitter.images,
     },
     keywords: [
         "phát triển JavaScript", "chuyên môn JavaScript", "nhà phát triển JavaScript", "phát triển JavaScript tùy chỉnh",

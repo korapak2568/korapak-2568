@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkPrivacyPolicy} from "@/metadata/pages/privacy-policy/common/MetadataLinkPrivacyPolicy";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPrivacyPolicyDE: Metadata = {
     title: "Datenschutzrichtlinie | CHORN",
@@ -7,7 +9,7 @@ export const MetadataPrivacyPolicyDE: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkPrivacyPolicy.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.privacyPolicy).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataPrivacyPolicyDE: Metadata = {
     openGraph: {
         title: "Datenschutzrichtlinie | CHORN",
         description: "CHORN respektiert Ihre Privatsphäre und verpflichtet sich zum Schutz Ihrer personenbezogenen Daten. Diese Datenschutzrichtlinie erklärt, wie Daten bei der Nutzung der Website verarbeitet werden und die Verwendung von Cookies zu Analysezwecken.",
-        images: MetadataLinkPrivacyPolicy.openGraph.images,
-        url: MetadataLinkPrivacyPolicy.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.privacyPolicy).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.privacyPolicy).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Datenschutzrichtlinie | CHORN",
         description: "CHORN respektiert Ihre Privatsphäre und verpflichtet sich zum Schutz Ihrer personenbezogenen Daten. Diese Datenschutzrichtlinie erklärt, wie Daten bei der Nutzung der Website verarbeitet werden und die Verwendung von Cookies zu Analysezwecken.",
-        images: MetadataLinkPrivacyPolicy.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.privacyPolicy).twitter.images,
     },
 }

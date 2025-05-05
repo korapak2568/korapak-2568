@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkVue} from "@/metadata/pages/frontend/vue/common/MetadataLinkVue";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataVueJA: Metadata = {
     title: "Vue.js 開発サービス | CHORN",
     description: "インタラクティブでスケーラブルなウェブアプリケーションを作成するための Vue.js 開発を専門としています。",
-    alternates: MetadataLinkVue.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.frontend.vue).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataVueJA: Metadata = {
     openGraph: {
         title: "Vue.js 開発 | CHORN",
         description: "Vue.js 開発の専門技術を活用して、モダンなウェブアプリケーションを作成します。",
-        images: MetadataLinkVue.openGraph.images,
-        url: MetadataLinkVue.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.vue).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.vue).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Vue.js 開発サービス | CHORN",
         description: "Vue.js 開発の専門技術で、ウェブアプリケーションを強化します。",
-        images: MetadataLinkVue.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.vue).twitter.images,
     },
     keywords: [
         "Vue.js 開発", "Vue.js 専門技術", "Vue.js 開発者", "カスタム Vue.js 開発", "Vue.js アプリケーション",

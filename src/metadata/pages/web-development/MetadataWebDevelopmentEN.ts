@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWebDevelopmentEN: Metadata = {
     title: "Web Development Services | Custom Software & Technology Solutions",
     description: "Explore CHORN's web development technical-expertise, including expertise in Next.js, React, Angular, Vue, and more. CHORN offers tailored solutions for businesses across various domains such as Digital Marketing, Blockchain, E-Commerce, and more.",
-    alternates: MetadataLinkWebDevelopment.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.webDevelopment).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWebDevelopmentEN: Metadata = {
     openGraph: {
         title: "Top Web Development Services | CHORN",
         description: "CHORN provides cutting-edge web development technical-expertise with expertise in popular frameworks like Next.js, React, Angular, and more. CHORN caters to diverse business needs including Digital Marketing, E-Commerce, Blockchain, and more.",
-        images: MetadataLinkWebDevelopment.openGraph.images,
-        url: MetadataLinkWebDevelopment.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.webDevelopment).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.webDevelopment).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Web Development Services | CHORN",
         description: "Discover CHORN’s expert web development technical-expertise. From Next.js to Angular and beyond, CHORN offers solutions for all business needs including Digital Marketing, Blockchain, E-Commerce, and more.",
-        images: MetadataLinkWebDevelopment.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.webDevelopment).twitter.images,
     },
     keywords: [
         // Core Web Development Keywords

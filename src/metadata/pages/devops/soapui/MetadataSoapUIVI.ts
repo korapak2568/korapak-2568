@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkSoapUI} from "@/metadata/pages/devops/soapui/common/MetadataLinkSoapUI";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataSoapUIVI: Metadata = {
     title: "Dịch vụ kiểm thử SoapUI | CHORN",
     description: "Chuyên môn kiểm thử SoapUI giúp đảm bảo API và chuyên môn kỹ thuật web của bạn được kiểm thử toàn diện và đáng tin cậy.",
-    alternates: MetadataLinkSoapUI.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.devops.soapui).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataSoapUIVI: Metadata = {
     openGraph: {
         title: "Kiểm thử SoapUI | CHORN",
         description: "Đảm bảo độ tin cậy của API và chuyên môn kỹ thuật web với chuyên môn kiểm thử kỹ thuật.",
-        images: MetadataLinkSoapUI.openGraph.images,
-        url: MetadataLinkSoapUI.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.devops.soapui).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.soapui).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ kiểm thử SoapUI | CHORN",
         description: "Tối ưu hóa kiểm thử API của bạn với chuyên môn SoapUI để kiểm thử dịch vụ web toàn diện và đáng tin cậy.",
-        images: MetadataLinkSoapUI.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.devops.soapui).twitter.images,
     },
     keywords: [
         "Kiểm thử SoapUI", "Kiểm thử API", "CHORN", "Cloud DevOps",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkVue} from "@/metadata/pages/frontend/vue/common/MetadataLinkVue";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataVueKO: Metadata = {
     title: "Vue.js 개발 서비스 | CHORN",
     description: "Vue.js 개발 전문으로, 상호작용적이고 확장 가능한 웹 애플리케이션을 만듭니다.",
-    alternates: MetadataLinkVue.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.frontend.vue).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataVueKO: Metadata = {
     openGraph: {
         title: "Vue.js 개발 | CHORN",
         description: "Vue.js 개발 전문, 최신 웹 애플리케이션을 구축하기 위한 기술적 전문성.",
-        images: MetadataLinkVue.openGraph.images,
-        url: MetadataLinkVue.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.vue).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.vue).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Vue.js 개발 서비스 | CHORN",
         description: "Vue.js 개발 전문성을 통해 웹 애플리케이션을 향상시키세요.",
-        images: MetadataLinkVue.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.vue).twitter.images,
     },
     keywords: [
         "Vue.js 개발", "Vue.js 기술 전문성", "Vue.js 개발자", "맞춤형 Vue.js 개발", "Vue.js 애플리케이션",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPhpFI: Metadata = {
     title: "PHP Full Stack Kehitys | CHORN",
     description: "PHP full stack kehitys, tekninen asiantuntemus dynaamisten ja skaalautuvien verkkosovellusten rakentamiseen.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.backend.php).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPhpFI: Metadata = {
     openGraph: {
         title: "PHP Kehitys | CHORN",
         description: "Hyödynnä PHP full stack kehitystä, teknistä asiantuntemusta skaalautuvien ja dynaamisten verkkosovellusten rakentamiseen.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.php).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.php).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "PHP Full Stack Kehitys | CHORN",
         description: "PHP full stack kehityksen asiantuntemus dynaamisten ja skaalautuvien verkkosovellusten luomiseen.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.php).twitter.images,
     },
     keywords: [
         "PHP kehitys", "PHP tekninen asiantuntemus", "PHP kehittäjä", "räätälöity PHP kehitys", "PHP verkkosovellukset",

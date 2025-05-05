@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3ZH: Metadata = {
     title: "Web3 区块链智能合约开发 | CHORN",
     description: "Web3 区块链和智能合约开发。我们使用 Solidity、Ethereum、Polygon 构建去中心化应用（DApps），并与 Hardhat、Ganache 和 MetaMask 等技术集成。",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3ZH: Metadata = {
     openGraph: {
         title: "Web3 区块链智能合约开发服务 | CHORN",
         description: "专业的 Web3 区块链和智能合约开发技术，包括使用 Solidity、Ethereum、Polygon 构建 DApps，并与 Hardhat、Ganache 和 MetaMask 集成。",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Web3 区块链智能合约开发 | CHORN",
         description: "Web3 和区块链智能合约开发技术，创建去中心化应用（DApps）使用 Solidity、Ethereum、Polygon，并与 Hardhat、Ganache 和 MetaMask 集成。",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Web3 开发", "区块链开发", "智能合约开发", "Solidity 开发",

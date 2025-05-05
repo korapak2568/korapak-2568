@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeJA: Metadata = {
     title: "CHORN | 企業向けソフトウェア開発とシステム統合",
@@ -7,7 +9,7 @@ export const MetadataHomeJA: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeJA: Metadata = {
     openGraph: {
         title: "CHORN | 企業向けソフトウェア開発とシステム統合",
         description: "専門的なシステム分析と最先端のソフトウェアソリューションでビジネスを強化します。CHORNは、フルスタック開発、AI駆動の自動化、クラウドコンピューティング、システムの近代化に特化し、イノベーションと効率を推進します。",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | 企業向けソフトウェア開発とシステム統合",
         description: "専門的なシステム分析と最先端のソフトウェアソリューションでビジネスを強化します。CHORNは、フルスタック開発、AI駆動の自動化、クラウドコンピューティング、システムの近代化に特化し、イノベーションと効率を推進します。",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.home).twitter.images,
     },
     keywords: [
         "CHORN", "CHORN カスタムソフトウェア開発", "CHORN ソフトウェアアウトソーシング", "CHORNとは",

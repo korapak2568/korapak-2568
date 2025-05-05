@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWebDevelopmentKO: Metadata = {
     title: "웹 개발 서비스 | 맞춤형 소프트웨어 및 기술 솔루션",
     description: "Next.js, React, Angular, Vue 등을 포함한 CHORN의 웹 개발 기술 전문성을 확인하십시오. CHORN은 디지털 마케팅, 블록체인, 전자 상거래 등 다양한 분야에서 기업 맞춤형 솔루션을 제공합니다.",
-    alternates: MetadataLinkWebDevelopment.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.webDevelopment).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWebDevelopmentKO: Metadata = {
     openGraph: {
         title: "최고의 웹 개발 서비스 | CHORN",
         description: "CHORN은 Next.js, React, Angular 등 인기 있는 프레임워크에서 전문성을 가진 웹 개발 기술을 제공합니다. CHORN은 디지털 마케팅, 전자 상거래, 블록체인 등 다양한 비즈니스 요구를 충족시킵니다.",
-        images: MetadataLinkWebDevelopment.openGraph.images,
-        url: MetadataLinkWebDevelopment.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.webDevelopment).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.webDevelopment).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "웹 개발 서비스 | CHORN",
         description: "CHORN의 웹 개발 기술 전문성을 확인하십시오. Next.js에서 Angular까지 다양한 프레임워크를 사용하여 CHORN은 디지털 마케팅, 블록체인, 전자 상거래 등 모든 비즈니스 요구에 대한 솔루션을 제공합니다.",
-        images: MetadataLinkWebDevelopment.twitter.images
+        images: metadataLink(LanguageCode.ko, MetaLinks.webDevelopment).twitter.images
     },
     keywords: [
         "웹 개발", "웹 개발 기술", "웹 개발자", "맞춤형 웹 개발",

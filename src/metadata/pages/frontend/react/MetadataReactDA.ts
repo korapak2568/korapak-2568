@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactDA: Metadata = {
     title: "React Udviklingstjenester | CHORN",
     description: "Top React-udvikling med teknisk ekspertise, byg dynamiske og responsive brugergrænseflader med React.",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactDA: Metadata = {
     openGraph: {
         title: "React Udvikling | CHORN",
         description: "Forbedr dine webapps med ekspert React-udvikling, teknisk ekspertise til højtydende applikationer.",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "React Udviklingstjenester | CHORN",
         description: "Ekspert React-udvikling, teknisk ekspertise til at skabe engagerende brugergrænseflader med React.",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "React udvikling", "React teknisk ekspertise", "React udvikler", "Brugerdefineret React udvikling", "React.js applikationer",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkKube} from "@/metadata/pages/devops/kube/common/MetadataLinkKube";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataKubeFI: Metadata = {
     title: "Kubernetes DevOps Services | CHORN",
     description: "Kubernetes-pohjainen DevOps-asiantuntemus konttien käyttöönoton, skaalaamisen ja hallinnan automatisoimiseksi.",
-    alternates: MetadataLinkKube.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.devops.kube).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataKubeFI: Metadata = {
     openGraph: {
         title: "Kubernetes DevOps Services | CHORN",
         description: "Optimoi infrastruktuurisi Kubernetes-pohjaisella DevOps-asiantuntemuksella sovellusten automaattiselle skaalaamiselle ja hallinnalle.",
-        images: MetadataLinkKube.openGraph.images,
-        url: MetadataLinkKube.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.devops.kube).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.kube).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Kubernetes DevOps Services | CHORN",
         description: "Hyödynnä Kubernetes DevOps-asiantuntemusta konttien hallinnan ja skaalaamisen automatisointiin.",
-        images: MetadataLinkKube.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.devops.kube).twitter.images,
     },
     keywords: [
         "Kubernetes DevOps", "Kubernetes asiantuntemus", "konttien orkestrointi", "CHORN", "DevOps",

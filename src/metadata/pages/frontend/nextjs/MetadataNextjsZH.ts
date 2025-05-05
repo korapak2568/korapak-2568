@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNextjs} from "@/metadata/pages/frontend/nextjs/common/MetadataLinkNextjs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNextjsZH: Metadata = {
     title: "Next.js开发服务 | CHORN",
     description: "专业的Next.js开发服务，使用Next.js提供可扩展、高性能的Web应用解决方案。",
-    alternates: MetadataLinkNextjs.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.frontend.nextjs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNextjsZH: Metadata = {
     openGraph: {
         title: "Next.js开发 | CHORN",
         description: "专业的Next.js开发技术，构建快速、可扩展的Web应用程序。",
-        images: MetadataLinkNextjs.openGraph.images,
-        url: MetadataLinkNextjs.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.nextjs).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.nextjs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Next.js开发服务 | CHORN",
         description: "通过Next.js开发专业技术提升您的Web应用。",
-        images: MetadataLinkNextjs.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.nextjs).twitter.images,
     },
     keywords: [
         "Next.js开发", "Next.js技术专长", "Next.js开发人员", "定制Next.js开发", "服务器端渲染",

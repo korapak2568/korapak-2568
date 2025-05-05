@@ -2,7 +2,7 @@ import React from "react";
 import AiAomLandingPage from "@/components/AiCompanions/Main/AiAomLandingPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
-import {MetadataAiAom} from "@/metadata/pages/ai-aom/common/MetadataAiAom";
+import {MetadataAiAom} from "@/metadata/main/MetadataAiAom";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

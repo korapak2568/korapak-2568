@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNodejsZH: Metadata = {
     title: "Node.js 全栈开发 | CHORN",
     description: "Node.js 全栈开发，具备构建高效且可扩展 Web 应用的技术专长。",
-    alternates: MetadataLinkNodejs.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.backend.nodejs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNodejsZH: Metadata = {
     openGraph: {
         title: "Node.js 开发 | CHORN",
         description: "通过 Node.js 全栈开发专业知识构建高效且可扩展的 Web 应用。",
-        images: MetadataLinkNodejs.openGraph.images,
-        url: MetadataLinkNodejs.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.nodejs).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.nodejs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Node.js 全栈开发 | CHORN",
         description: "提供 Node.js 全栈开发技术专长，打造高效、可扩展的 Web 应用程序。",
-        images: MetadataLinkNodejs.twitter.images
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.nodejs).twitter.images
     },
     keywords: [
         "Node.js 开发", "Node.js 技术专长", "Node.js 开发者", "定制 Node.js 开发",

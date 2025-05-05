@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkKube} from "@/metadata/pages/devops/kube/common/MetadataLinkKube";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataKubeDE: Metadata = {
     title: "Kubernetes DevOps Services | CHORN",
     description: "Kubernetes-basierte DevOps-Technik für die Automatisierung der Bereitstellung, Skalierung und Verwaltung von containerisierten Anwendungen.",
-    alternates: MetadataLinkKube.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.devops.kube).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataKubeDE: Metadata = {
     openGraph: {
         title: "Kubernetes DevOps Services | CHORN",
         description: "Optimieren Sie Ihre Infrastruktur mit Kubernetes-basierter DevOps-Technik für automatisierte Skalierung und Verwaltung von Anwendungen.",
-        images: MetadataLinkKube.openGraph.images,
-        url: MetadataLinkKube.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.devops.kube).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.devops.kube).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Kubernetes DevOps Services | CHORN",
         description: "Nutzen Sie Kubernetes DevOps-Expertise, um containerisierte Anwendungen automatisch zu skalieren und zu verwalten.",
-        images: MetadataLinkKube.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.devops.kube).twitter.images,
     },
     keywords: [
         "Kubernetes DevOps", "Kubernetes technische Expertise", "Container-Orchestrierung", "CHORN", "DevOps",

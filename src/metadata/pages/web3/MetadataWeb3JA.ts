@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3JA: Metadata = {
     title: "Web3 ブロックチェーン スマートコントラクト開発 | CHORN",
     description: "Web3 ブロックチェーンとスマートコントラクトの開発。Solidity、Ethereum、Polygonを使用して分散型アプリケーション（DApps）を構築し、Hardhat、Ganache、MetaMaskなどの技術と統合します。",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3JA: Metadata = {
     openGraph: {
         title: "Web3 ブロックチェーン スマートコントラクト開発サービス | CHORN",
         description: "Solidity、Ethereum、PolygonでDAppsを構築し、Hardhat、Ganache、MetaMaskと統合するWeb3ブロックチェーンとスマートコントラクトの専門的な開発技術。",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Web3 ブロックチェーン スマートコントラクト開発 | CHORN",
         description: "Solidity、Ethereum、Polygonで分散型アプリケーション（DApps）を作成し、Hardhat、Ganache、MetaMaskと統合するWeb3とブロックチェーンのスマートコントラクト開発技術。",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Web3 開発", "ブロックチェーン 開発", "スマートコントラクト 開発", "Solidity 開発",

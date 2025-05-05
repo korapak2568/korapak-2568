@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDevOpsMain} from "@/metadata/pages/devops/main/common/MetadataLinkDevOpsMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDevOpsMainFR: Metadata = {
     title: "Solutions DevOps et Cloud pour Entreprises | CHORN",
     description: "Accélérez votre transformation numérique avec l'expertise DevOps et Cloud. Nous fournissons des pipelines CI/CD optimisés, l'automatisation de l'infrastructure et des solutions Cloud-native qui améliorent la fiabilité et réduisent le temps de mise sur le marché.",
-    alternates: MetadataLinkDevOpsMain.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.devops.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDevOpsMainFR: Metadata = {
     openGraph: {
         title: "Solutions DevOps et Cloud pour Entreprises | CHORN",
         description: "Accélérez votre transformation numérique avec l'expertise DevOps et Cloud. Nous fournissons des pipelines CI/CD optimisés, l'automatisation de l'infrastructure et des solutions Cloud-native qui améliorent la fiabilité et réduisent le temps de mise sur le marché.",
-        images: MetadataLinkDevOpsMain.openGraph.images,
-        url: MetadataLinkDevOpsMain.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.devops.main).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.devops.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Solutions DevOps et Cloud pour Entreprises | CHORN",
         description: "Accélérez votre transformation numérique avec l'expertise DevOps et Cloud. Nous fournissons des pipelines CI/CD optimisés, l'automatisation de l'infrastructure et des solutions Cloud-native qui améliorent la fiabilité et réduisent le temps de mise sur le marché.",
-        images: MetadataLinkDevOpsMain.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.devops.main).twitter.images,
     },
     keywords: [
         "Cloud DevOps", "expertise DevOps", "test logiciel", "intégration continue", "CI/CD pipeline", "test automatisé",

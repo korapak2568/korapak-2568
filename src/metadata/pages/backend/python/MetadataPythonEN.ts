@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPythonEN: Metadata = {
     title: "Python Full Stack Development | CHORN",
     description: "Python full stack development, technical expertise to build dynamic and scalable web applications.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.backend.python).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPythonEN: Metadata = {
     openGraph: {
         title: "Python Development | CHORN",
         description: "Build dynamic and scalable web applications with Python full stack development technical expertise.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.backend.python).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.backend.python).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Python Full Stack Development | CHORN",
         description: "Expert Python full stack development, technical expertise for dynamic and scalable web applications.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.backend.python).twitter.images,
     },
     keywords: [
         // Core Python & services Keywords

@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeNL: Metadata = {
     title: "CHORN | Ontwikkeling van bedrijfssoftware en systeemintegratie",
@@ -7,7 +9,7 @@ export const MetadataHomeNL: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeNL: Metadata = {
     openGraph: {
         title: "CHORN | Ontwikkeling van bedrijfssoftware en systeemintegratie",
         description: "Versterk uw bedrijf met professionele systeemanalyse en geavanceerde softwareoplossingen. CHORN is gespecialiseerd in full-stack ontwikkeling, AI-gedreven automatisering, cloud computing en systeemmodernisering om innovatie en efficiëntie te stimuleren.",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | Ontwikkeling van bedrijfssoftware en systeemintegratie",
         description: "Versterk uw bedrijf met professionele systeemanalyse en geavanceerde softwareoplossingen. CHORN is gespecialiseerd in full-stack ontwikkeling, AI-gedreven automatisering, cloud computing en systeemmodernisering om innovatie en efficiëntie te stimuleren.",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.home).twitter.images,
     },
     keywords: [
         "CHORN", "CHORN maatwerk softwareontwikkeling", "CHORN software outsourcing", "Wat is CHORN",

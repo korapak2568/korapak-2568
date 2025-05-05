@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkTypeScript} from "@/metadata/pages/frontend/typescript/common/MetadataLinkTypeScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTypeScriptZH: Metadata = {
     title: "TypeScript | CHORN - 定制软件开发专家",
     description: "利用TypeScript为不同行业的企业构建可扩展、稳健且高效的定制软件解决方案。",
-    alternates: MetadataLinkTypeScript.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataTypeScriptZH: Metadata = {
     openGraph: {
         title: "CHORN - 使用TypeScript进行定制软件开发",
         description: "TypeScript专业知识，强大的工具，用于构建可扩展和高性能的应用程序。了解为什么我们为定制软件解决方案选择TypeScript。",
-        images: MetadataLinkTypeScript.openGraph.images,
-        url: MetadataLinkTypeScript.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - 为定制软件解决方案开发TypeScript",
         description: "使用TypeScript为企业需求提供可扩展和高质量的软件解决方案。",
-        images: MetadataLinkTypeScript.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).twitter.images,
     },
     keywords: [
         "TypeScript开发", "TypeScript技术专长", "TypeScript开发人员", "定制TypeScript开发",

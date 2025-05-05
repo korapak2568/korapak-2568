@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkFrontEndMain} from "@/metadata/pages/frontend/main/common/MetadataLinkFrontEndMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataFrontEndMainKO: Metadata = {
     title: "프론트엔드 개발 서비스 | CHORN",
     description: "CHORN은 Next.js, React, Angular, Vue, HTML5, CSS3와 같은 최신 프레임워크를 활용한 전문적인 프론트엔드 개발 서비스를 제공합니다. 최신 기술로 반응형 및 확장 가능한 웹사이트를 구축하세요.",
-    alternates: MetadataLinkFrontEndMain.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.frontend.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataFrontEndMainKO: Metadata = {
     openGraph: {
         title: "프론트엔드 개발 서비스 | CHORN",
         description: "CHORN은 Next.js, React, Angular, Vue, HTML5, CSS3 등의 최신 기술을 활용하여 빠르고 반응형이며 확장 가능한 웹사이트를 구축하는 프론트엔드 개발 전문성을 제공합니다.",
-        images: MetadataLinkFrontEndMain.openGraph.images,
-        url: MetadataLinkFrontEndMain.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.main).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "프론트엔드 개발 서비스 | CHORN",
         description: "CHORN의 프론트엔드 개발 전문성을 활용하여 Next.js, React, Angular, Vue, HTML5, CSS3를 사용한 반응형 및 확장 가능한 웹사이트를 구축하세요.",
-        images: MetadataLinkFrontEndMain.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.main).twitter.images,
     },
     keywords: [
         "프론트엔드 개발", "프론트엔드 기술 전문성", "프론트엔드 개발자", "맞춤형 프론트엔드 개발",

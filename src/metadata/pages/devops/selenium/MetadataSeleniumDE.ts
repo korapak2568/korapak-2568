@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkSelenium} from "@/metadata/pages/devops/selenium/common/MetadataLinkSelenium";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataSeleniumDE: Metadata = {
     title: "Selenium Testdienste | CHORN",
     description: "Umfassende Selenium-Testtechnische Expertise, um die Qualität und Leistung Ihrer Anwendungen durch automatisierte Tests sicherzustellen.",
-    alternates: MetadataLinkSelenium.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.devops.selenium).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataSeleniumDE: Metadata = {
     openGraph: {
         title: "Selenium Testen | CHORN",
         description: "Automatisieren Sie Ihre Anwendungstests mit Selenium-Technische Expertise für robuste und zuverlässige Ergebnisse.",
-        images: MetadataLinkSelenium.openGraph.images,
-        url: MetadataLinkSelenium.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.devops.selenium).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.devops.selenium).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Selenium Testdienste | CHORN",
         description: "Verbessern Sie die Qualität Ihrer Anwendung mit Selenium-Testtechnische Expertise für automatisierte und effektive Tests.",
-        images: MetadataLinkSelenium.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.devops.selenium).twitter.images,
     },
     keywords: [
         "Selenium-Tests", "automatisierte Tests", "CHORN", "Cloud DevOps",

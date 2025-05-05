@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGallery} from "@/metadata/pages/gallery/common/MetadataLinkGallery";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGalleryTH: Metadata = {
     title: "การเดินทางต่างประเทศ | แกลเลอรี CHORN",
     description: "CHORN มีประสบการณ์และความพร้อมในการเดินทางต่างประเทศเพื่อรับการฝึกอบรม การเดินทางไปเรียนรู้งานในอาเซียนและสหรัฐอเมริกา",
-    alternates: MetadataLinkGallery.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.gallery).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataGalleryTH: Metadata = {
     openGraph: {
         title: "การเดินทางต่างประเทศ | แกลเลอรี CHORN",
         description: "CHORN มีประสบการณ์และความพร้อมในการเดินทางต่างประเทศเพื่อรับการฝึกอบรม การเดินทางไปเรียนรู้งานในอาเซียนและสหรัฐอเมริกา",
-        images: MetadataLinkGallery.openGraph.images,
-        url: MetadataLinkGallery.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.gallery).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.gallery).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "การเดินทางต่างประเทศ | แกลเลอรี CHORN",
         description: "CHORN มีประสบการณ์และความพร้อมในการเดินทางต่างประเทศเพื่อรับการฝึกอบรม การเดินทางไปเรียนรู้งานในอาเซียนและสหรัฐอเมริกา",
-        images: MetadataLinkGallery.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.gallery).twitter.images,
     },
 }

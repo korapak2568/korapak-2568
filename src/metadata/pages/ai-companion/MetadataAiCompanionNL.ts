@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAiCompanion} from "@/metadata/pages/ai-companion/common/MetadataLinkAiCompanion";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAiCompanionNL: Metadata = {
     title: "LINE-chat met LLM/AI-integratie",
     description: "Test LINE-chat, verbind met LLM/AI en ondersteun meerdere talen.",
-    alternates: MetadataLinkAiCompanion.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.aiCompanion).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataAiCompanionNL: Metadata = {
     openGraph: {
         title: "LINE-chat met LLM/AI-integratie",
         description: "Test LINE-chat, verbind met LLM/AI en ondersteun meerdere talen.",
-        images: MetadataLinkAiCompanion.openGraph.images,
-        url: MetadataLinkAiCompanion.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.aiCompanion).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.aiCompanion).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "LINE-chat met LLM/AI-integratie",
         description: "Test LINE-chat, verbind met LLM/AI en ondersteun meerdere talen.",
-        images: MetadataLinkAiCompanion.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.aiCompanion).twitter.images,
     },
 }

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPhpFR: Metadata = {
     title: "Développement PHP Full Stack | CHORN",
     description: "Développement PHP Full Stack, expertise technique pour créer des applications web dynamiques et évolutives.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.backend.php).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPhpFR: Metadata = {
     openGraph: {
         title: "Développement PHP | CHORN",
         description: "Exploitez le développement PHP Full Stack, expertise technique pour créer des applications web évolutives et dynamiques.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.backend.php).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.backend.php).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Développement PHP Full Stack | CHORN",
         description: "Expertise en développement PHP Full Stack pour des applications web dynamiques et évolutives.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.backend.php).twitter.images,
     },
     keywords: [
         "Développement PHP", "Expertise technique PHP", "Développeur PHP", "Développement PHP personnalisé", "Applications web PHP",

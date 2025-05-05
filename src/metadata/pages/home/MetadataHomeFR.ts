@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeFR: Metadata = {
     title: "CHORN | Développement de logiciels d'entreprise et intégration de systèmes",
@@ -7,7 +9,7 @@ export const MetadataHomeFR: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeFR: Metadata = {
     openGraph: {
         title: "CHORN | Développement de logiciels d'entreprise et intégration de systèmes",
         description: "Donnez à votre entreprise un avantage avec une analyse experte des systèmes et des solutions logicielles de pointe. CHORN se spécialise dans le développement full-stack, l'automatisation alimentée par l'IA, l'informatique en nuage et la modernisation des systèmes pour stimuler l'innovation et l'efficacité.",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | Développement de logiciels d'entreprise et intégration de systèmes",
         description: "Donnez à votre entreprise un avantage avec une analyse experte des systèmes et des solutions logicielles de pointe. CHORN se spécialise dans le développement full-stack, l'automatisation alimentée par l'IA, l'informatique en nuage et la modernisation des systèmes pour stimuler l'innovation et l'efficacité.",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.home).twitter.images,
     },
     keywords: [
         "CHORN", "Développement de logiciels sur mesure CHORN", "Sous-traitance logicielle CHORN", "Qu'est-ce que CHORN",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPhpTH: Metadata = {
     title: "การพัฒนา PHP Full Stack | CHORN",
     description: "การพัฒนา PHP Full Stack, ความเชี่ยวชาญทางเทคนิคในการสร้างแอปพลิเคชันเว็บที่มีความยืดหยุ่นและสามารถขยายได้.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.backend.php).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPhpTH: Metadata = {
     openGraph: {
         title: "การพัฒนา PHP | CHORN",
         description: "ใช้ประโยชน์จากการพัฒนา PHP Full Stack, ความเชี่ยวชาญทางเทคนิคในการสร้างแอปพลิเคชันเว็บที่สามารถขยายได้และมีความยืดหยุ่น.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.php).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.php).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "การพัฒนา PHP Full Stack | CHORN",
         description: "ความเชี่ยวชาญการพัฒนา PHP Full Stack สำหรับแอปพลิเคชันเว็บที่มีความยืดหยุ่นและสามารถขยายได้.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.php).twitter.images,
     },
     keywords: [
         "การพัฒนา PHP", "ความเชี่ยวชาญทางเทคนิค PHP", "นักพัฒนา PHP", "การพัฒนา PHP แบบกำหนดเอง", "แอปพลิเคชันเว็บ PHP",

@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkTermOfService} from "@/metadata/pages/terms-of-service/common/MetadataLinkTermOfService";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTermOfServiceFI: Metadata = {
     title: "Palveluehdot | CHORN",
@@ -7,7 +9,7 @@ export const MetadataTermOfServiceFI: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkTermOfService.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.termOfServices).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataTermOfServiceFI: Metadata = {
     openGraph: {
         title: "Palveluehdot | CHORN",
         description: "CHORN tarjoaa palveluehdot, jotka säätelevät tämän verkkosivuston käyttöä. Käyttämällä verkkosivustoa hyväksyt nämä ehdot.",
-        images: MetadataLinkTermOfService.openGraph.images,
-        url: MetadataLinkTermOfService.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.termOfServices).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.termOfServices).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Palveluehdot | CHORN",
         description: "CHORN tarjoaa palveluehdot, jotka säätelevät tämän verkkosivuston käyttöä. Käyttämällä verkkosivustoa hyväksyt nämä ehdot.",
-        images: MetadataLinkTermOfService.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.termOfServices).twitter.images,
     },
 }

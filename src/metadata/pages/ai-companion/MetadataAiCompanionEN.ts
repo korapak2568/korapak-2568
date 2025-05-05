@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAiCompanion} from "@/metadata/pages/ai-companion/common/MetadataLinkAiCompanion";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAiCompanionEN: Metadata = {
     title: "Line Chat With LLM/AI Integration",
     description: "Test LINE chat, connect to LLM/AI with supporting multiple languages.",
-    alternates: MetadataLinkAiCompanion.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.aiCompanion).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataAiCompanionEN: Metadata = {
     openGraph: {
         title: "Line Chat With LLM/AI Integration",
         description: "Test LINE chat, connect to LLM/AI with supporting multiple languages.",
-        images: MetadataLinkAiCompanion.openGraph.images,
-        url: MetadataLinkAiCompanion.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.aiCompanion).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.aiCompanion).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Line Chat With LLM/AI Integration",
         description: "Test LINE chat, connect to LLM/AI with supporting multiple languages.",
-        images: MetadataLinkAiCompanion.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.aiCompanion).twitter.images,
     },
 }

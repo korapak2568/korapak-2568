@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeEN: Metadata = {
     title: "CHORN | Enterprise Software Development and System Integration",
@@ -7,7 +9,7 @@ export const MetadataHomeEN: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeEN: Metadata = {
     openGraph: {
         title: "CHORN | Enterprise Software Development and System Integration",
         description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud, and system modernization to drive innovation and efficiency.",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | Enterprise Software Development and System Integration",
         description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud, and system modernization to drive innovation and efficiency.",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.home).twitter.images,
     },
     keywords: [
         // Brand Keywords

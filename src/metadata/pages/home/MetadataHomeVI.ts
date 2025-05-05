@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeVI: Metadata = {
     title: "CHORN | Phát triển phần mềm doanh nghiệp và tích hợp hệ thống",
@@ -7,7 +9,7 @@ export const MetadataHomeVI: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeVI: Metadata = {
     openGraph: {
         title: "CHORN | Phát triển phần mềm doanh nghiệp và tích hợp hệ thống",
         description: "Nâng cao doanh nghiệp của bạn với phân tích hệ thống chuyên nghiệp và các giải pháp phần mềm tiên tiến. CHORN chuyên về phát triển full-stack, tự động hóa dựa trên AI, điện toán đám mây và hiện đại hóa hệ thống để thúc đẩy đổi mới và hiệu quả.",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | Phát triển phần mềm doanh nghiệp và tích hợp hệ thống",
         description: "Nâng cao doanh nghiệp của bạn với phân tích hệ thống chuyên nghiệp và các giải pháp phần mềm tiên tiến. CHORN chuyên về phát triển full-stack, tự động hóa dựa trên AI, điện toán đám mây và hiện đại hóa hệ thống để thúc đẩy đổi mới và hiệu quả.",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.home).twitter.images,
     },
     keywords: [
         "CHORN", "CHORN phát triển phần mềm tùy chỉnh", "CHORN gia công phần mềm", "CHORN là gì",

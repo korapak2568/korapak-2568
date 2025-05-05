@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLink404} from "@/metadata/pages/404/common/MetadataLink404";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const Metadata404ZH: Metadata = {
     title: "404 - 页面未找到",
@@ -7,7 +9,7 @@ export const Metadata404ZH: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLink404.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks._404).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const Metadata404ZH: Metadata = {
     openGraph: {
         title: "404 - 页面未找到",
         description: "糟糕！我们找不到您正在寻找的页面。请检查URL或返回我们的主页以继续探索CHORN。",
-        images: MetadataLink404.openGraph.images,
-        url: MetadataLink404.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks._404).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks._404).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "404 - 页面未找到",
         description: "糟糕！我们找不到您正在寻找的页面。请检查URL或返回我们的主页以继续探索CHORN。",
-        images: MetadataLink404.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks._404).twitter.images,
     },
 }

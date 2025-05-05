@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkSoapUI} from "@/metadata/pages/devops/soapui/common/MetadataLinkSoapUI";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataSoapUIDA: Metadata = {
     title: "SoapUI Testtjenester | CHORN",
     description: "SoapUI testekspertise til at sikre, at dine API'er og webteknologi er grundigt testet og pålidelige.",
-    alternates: MetadataLinkSoapUI.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.devops.soapui).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataSoapUIDA: Metadata = {
     openGraph: {
         title: "SoapUI Test | CHORN",
         description: "Sørg for pålideligheden af dine API'er og webteknologi med testekspertise.",
-        images: MetadataLinkSoapUI.openGraph.images,
-        url: MetadataLinkSoapUI.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.devops.soapui).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.soapui).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "SoapUI Testtjenester | CHORN",
         description: "Optimer din API-testning med SoapUI-ekspertise for omfattende og pålidelige webservicetest.",
-        images: MetadataLinkSoapUI.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.devops.soapui).twitter.images,
     },
     keywords: [
         "SoapUI test", "API test", "CHORN", "Cloud DevOps",

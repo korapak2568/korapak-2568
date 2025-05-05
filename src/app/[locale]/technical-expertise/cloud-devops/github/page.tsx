@@ -4,7 +4,7 @@ import ServicesDetailsGitHub from "@/components/Services/cloud-devops/github/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataGitHub} from "@/metadata/pages/devops/github/common/MetadataGitHub";
+import {MetadataGitHub} from "@/metadata/main/devops/MetadataGitHub";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

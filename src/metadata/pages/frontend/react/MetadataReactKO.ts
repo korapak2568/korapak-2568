@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactKO: Metadata = {
     title: "React 개발 서비스 | CHORN",
     description: "기술적 전문성을 갖춘 최고의 React 개발, React를 사용하여 동적이고 반응형 사용자 인터페이스를 구축합니다.",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactKO: Metadata = {
     openGraph: {
         title: "React 개발 | CHORN",
         description: "전문 React 개발로 웹 애플리케이션을 향상시키고, 고성능 애플리케이션을 위한 기술적 전문성을 제공합니다.",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "React 개발 서비스 | CHORN",
         description: "전문 React 개발, React로 매력적인 사용자 인터페이스를 만들기 위한 기술적 전문성.",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "React 개발", "React 기술 전문성", "React 개발자", "커스텀 React 개발", "React.js 애플리케이션",

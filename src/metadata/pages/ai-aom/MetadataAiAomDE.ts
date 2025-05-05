@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAiAom} from "@/metadata/pages/ai-aom/common/MetadataLinkAiAom";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAiAomDE: Metadata = {
     title: "AI-Chat-Begleiter | CHORN AI-Integration",
     description: "Aom ist über die LINE-App zugänglich. Sie können die Schaltfläche „Freund hinzufügen“ drücken oder den LINE QR-Code scannen, um sie als Freundin hinzuzufügen. Mit 21 Jahren ist sie ein freundlicher und lebendiger AI-Begleiter, der sich für gesunde Lebensweise und Wellness interessiert und Ernährungsberatung, Trainingsroutinen und Achtsamkeitspraktiken bietet. Mit ihrer Fähigkeit, in mehreren Sprachen zu chatten, hilft Aom Ihnen, einen ausgewogenen Lebensstil zu pflegen und dabei Spaß zu haben.",
-    alternates: MetadataLinkAiAom.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.aiAom).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataAiAomDE: Metadata = {
     openGraph: {
         title: "Lerne Aom kennen - Dein Wellness-Guide auf LINE",
         description: "Verbinde dich mit Aom, einem 21-jährigen AI-Begleiter, der sich auf Wellness konzentriert und Ernährungsberatung, Trainingsroutinen und Achtsamkeitspraktiken in mehreren Sprachen bietet, um dir zu helfen, dein gesundestes Leben zu führen.",
-        images: MetadataLinkAiAom.openGraph.images,
-        url: MetadataLinkAiAom.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.aiAom).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.aiAom).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Aom - Dein gesunder Lebenscoach auf LINE",
         description: "Füge Aom hinzu, deinen lebendigen 21-jährigen Wellness-AI-Begleiter auf LINE, der dich mit Ernährungsberatung, Trainingsroutinen und Achtsamkeitspraktiken in mehreren Sprachen motiviert.",
-        images: MetadataLinkAiAom.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.aiAom).twitter.images,
     },
 }

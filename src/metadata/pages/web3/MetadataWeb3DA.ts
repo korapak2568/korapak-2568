@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3DA: Metadata = {
     title: "Web3 Blockchain Smart Contract Udvikling | CHORN",
     description: "Web3 blockchain og smart contract udvikling. Vi bygger decentrale applikationer (DApps) ved hjælp af Solidity, Ethereum, Polygon og integrerer med teknologier som Hardhat, Ganache og MetaMask.",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3DA: Metadata = {
     openGraph: {
         title: "Web3 Blockchain Smart Contract Udviklingstjenester | CHORN",
         description: "Specialiseret teknisk ekspertise inden for Web3 blockchain og smart contract udvikling, herunder opbygning af DApps med Solidity, Ethereum, Polygon og integration med Hardhat, Ganache og MetaMask.",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Web3 Blockchain Smart Contract Udvikling | CHORN",
         description: "Teknisk ekspertise inden for Web3 og blockchain smart contract udvikling, med oprettelse af decentrale applikationer (DApps) ved hjælp af Solidity, Ethereum, Polygon og integration med Hardhat, Ganache og MetaMask.",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Web3 udvikling", "blockchain udvikling", "smart contract udvikling", "Solidity udvikling",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3NL: Metadata = {
     title: "Web3 Blockchain Smart Contract Ontwikkeling | CHORN",
     description: "Web3 blockchain en smart contract ontwikkeling. We bouwen gedecentraliseerde applicaties (DApps) met Solidity, Ethereum, Polygon en integreren met technologieën zoals Hardhat, Ganache en MetaMask.",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3NL: Metadata = {
     openGraph: {
         title: "Web3 Blockchain Smart Contract Ontwikkelingsdiensten | CHORN",
         description: "Gespecialiseerde technische expertise in Web3 blockchain en smart contract ontwikkeling, inclusief het bouwen van DApps met Solidity, Ethereum, Polygon en integratie met Hardhat, Ganache en MetaMask.",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Web3 Blockchain Smart Contract Ontwikkeling | CHORN",
         description: "Technische expertise in Web3 en blockchain smart contract ontwikkeling, met het creëren van gedecentraliseerde applicaties (DApps) met Solidity, Ethereum, Polygon en integratie met Hardhat, Ganache en MetaMask.",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Web3 ontwikkeling", "blockchain ontwikkeling", "smart contract ontwikkeling", "Solidity ontwikkeling",

@@ -5,7 +5,7 @@ import ServicesDetailsSoapUI from "@/components/Services/cloud-devops/soapui/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataSoapUI} from "@/metadata/pages/devops/soapui/common/MetadataSoapui";
+import {MetadataSoapUI} from "@/metadata/main/devops/MetadataSoapui";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

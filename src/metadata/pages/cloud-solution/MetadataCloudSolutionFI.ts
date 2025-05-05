@@ -1,11 +1,12 @@
 import {Metadata} from "next";
-import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCloudSolutionFI: Metadata = {
     title: "Pilviratkaisujen arkkitehtuuri & Järjestelmäanalyysi | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN tarjoaa asiantuntemusta pilviratkaisujen arkkitehtuurissa ja järjestelmäanalyysissä. Optimoimme pilvi-infrastruktuurit AWS:ssä, Azuren, GCP:n ja DigitalOceanin ympäristöissä suorituskyvyn, skaalautuvuuden ja kustannustehokkuuden varmistamiseksi.",
-    alternates: metadataLinkCloudSolution(LanguageCode.fi).alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.cloudSolutions).alternates,
     authors: [
         {
             name: "CHORN"
@@ -14,15 +15,15 @@ export const MetadataCloudSolutionFI: Metadata = {
     openGraph: {
         title: "Pilviratkaisujen arkkitehtuuri & Järjestelmäanalyysi | CHORN",
         description: "Tutustu CHORNin asiantuntemukseen pilviratkaisujen arkkitehtuurissa ja järjestelmäanalyysissä. Suunnittelemme kestäviä, skaalautuvia ja optimoituja pilviratkaisuja AWS:ssä, Azuren, GCP:n ja DigitalOceanin ympäristöissä.",
-        images: metadataLinkCloudSolution(LanguageCode.fi).openGraph.images,
-        url: metadataLinkCloudSolution(LanguageCode.fi).alternates.canonical,
+        images: metadataLink(LanguageCode.fi, MetaLinks.cloudSolutions).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.cloudSolutions).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Pilviratkaisujen arkkitehtuuri & Järjestelmäanalyysi | CHORN",
         description: "Optimoi pilvi-infrastruktuurisi CHORNin asiantuntemuksella pilviratkaisujen arkkitehtuurissa ja järjestelmäanalyysissä AWS:n, Azuren, GCP:n ja DigitalOceanin ympäristöissä.",
-        images: metadataLinkCloudSolution(LanguageCode.fi).twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.cloudSolutions).twitter.images,
     },
     keywords: [
         "pilviratkaisujen arkkitehtuuri", "järjestelmäanalyysi", "AWS-arkkitehtuuri", "Azure-pilviratkaisut",

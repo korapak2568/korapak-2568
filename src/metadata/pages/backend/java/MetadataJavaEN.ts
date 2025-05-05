@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJava} from "@/metadata/pages/backend/java/common/MetadataLinkJava";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaEN: Metadata = {
     title: "Java Spring Boot Full Stack Development | CHORN",
     description: "Java Spring Boot full stack development, technical expertise to build robust and scalable enterprise applications.",
-    alternates: MetadataLinkJava.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.backend.java).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaEN: Metadata = {
     openGraph: {
         title: "Java Spring Boot Development | CHORN",
         description: "Leverage Java Spring Boot full stack development with technical expertise to build scalable, secure, and high-performance applications.",
-        images: MetadataLinkJava.openGraph.images,
-        url: MetadataLinkJava.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.backend.java).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.backend.java).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Java Spring Boot Full Stack Development | CHORN",
         description: "Expert Java Spring Boot full stack development, technical expertise to build secure and scalable applications.",
-        images: MetadataLinkJava.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.backend.java).twitter.images,
     },
     keywords: [
         // Core Java Spring Boot & services Keywords

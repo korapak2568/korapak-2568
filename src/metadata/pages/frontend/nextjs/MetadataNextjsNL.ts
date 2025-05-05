@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNextjs} from "@/metadata/pages/frontend/nextjs/common/MetadataLinkNextjs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNextjsNL: Metadata = {
     title: "Next.js Ontwikkelingsdiensten | CHORN",
     description: "Next.js ontwikkelingsdiensten, verbeter je webapplicaties met schaalbare en high-performance oplossingen met behulp van Next.js.",
-    alternates: MetadataLinkNextjs.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.frontend.nextjs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNextjsNL: Metadata = {
     openGraph: {
         title: "Next.js Ontwikkeling | CHORN",
         description: "Gespecialiseerde Next.js ontwikkeling, technische expertise om snelle en schaalbare webapplicaties te creëren.",
-        images: MetadataLinkNextjs.openGraph.images,
-        url: MetadataLinkNextjs.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.frontend.nextjs).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.nextjs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Next.js Ontwikkelingsdiensten | CHORN",
         description: "Verhoog je webapplicaties met Next.js ontwikkelingstechnische expertise.",
-        images: MetadataLinkNextjs.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.frontend.nextjs).twitter.images,
     },
     keywords: [
         "Next.js ontwikkeling", "Next.js technische expertise", "Next.js ontwikkelaar", "op maat gemaakte Next.js ontwikkeling", "server-side rendering",

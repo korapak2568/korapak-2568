@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkKube} from "@/metadata/pages/devops/kube/common/MetadataLinkKube";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataKubeEN: Metadata = {
     title: "Kubernetes DevOps Services | CHORN",
     description: "Kubernetes-based DevOps technical expertise for automating deployment, scaling, and management of containerized applications.",
-    alternates: MetadataLinkKube.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.devops.kube).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataKubeEN: Metadata = {
     openGraph: {
         title: "Kubernetes DevOps Services | CHORN",
         description: "Optimize your infrastructure with Kubernetes DevOps technical expertise for automated scaling and management of applications.",
-        images: MetadataLinkKube.openGraph.images,
-        url: MetadataLinkKube.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.devops.kube).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.devops.kube).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Kubernetes DevOps Services | CHORN",
         description: "Leverage Kubernetes DevOps expertise for automating and managing scalable containerized applications.",
-        images: MetadataLinkKube.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.devops.kube).twitter.images,
     },
     keywords: [
         "Kubernetes DevOps", "Kubernetes technical expertise", "container orchestration", "CHORN", "DevOps",

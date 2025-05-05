@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJava} from "@/metadata/pages/backend/java/common/MetadataLinkJava";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaFI: Metadata = {
     title: "Java Spring Boot Full Stack Kehitys | CHORN",
     description: "Java Spring Boot full stack kehitys, tekninen asiantuntemus luoda vahvoja ja skaalautuvia yrityssovelluksia.",
-    alternates: MetadataLinkJava.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.backend.java).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaFI: Metadata = {
     openGraph: {
         title: "Java Spring Boot Kehitys | CHORN",
         description: "Hyödynnä Java Spring Boot full stack kehitys ja tekninen asiantuntemus rakentaaksesi skaalautuvia, turvallisia ja suorituskykyisiä sovelluksia.",
-        images: MetadataLinkJava.openGraph.images,
-        url: MetadataLinkJava.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.java).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.java).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Java Spring Boot Full Stack Kehitys | CHORN",
         description: "Asiantunteva Java Spring Boot full stack kehitys turvallisten ja skaalautuvien sovellusten luomiseksi.",
-        images: MetadataLinkJava.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.java).twitter.images,
     },
     keywords: [
         "Spring Boot kehitys", "Java Spring Boot tekninen asiantuntemus", "Spring Boot kehittäjä", "Räätälöity Java kehitys",

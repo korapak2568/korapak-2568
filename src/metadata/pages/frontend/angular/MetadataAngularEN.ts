@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAngular} from "@/metadata/pages/frontend/angular/common/MetadataLinkAngular";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAngularEN: Metadata = {
     title: "Angular Development Services | CHORN",
     description: "Angular development services, build dynamic, scalable, and high-performance web applications using Angular.",
-    alternates: MetadataLinkAngular.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.frontend.angular).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataAngularEN: Metadata = {
     openGraph: {
         title: "Angular Development | CHORN",
         description: "Angular development with technical expertise to create fast, scalable, and dynamic web applications.",
-        images: MetadataLinkAngular.openGraph.images,
-        url: MetadataLinkAngular.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.frontend.angular).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.frontend.angular).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Angular Development Services | CHORN",
         description: "Elevate your web applications with expert Angular development.",
-        images: MetadataLinkAngular.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.frontend.angular).twitter.images,
     },
     keywords: [
         // Core Angular & services Keywords

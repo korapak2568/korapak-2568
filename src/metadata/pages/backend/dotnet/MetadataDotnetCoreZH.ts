@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDotnetCoreZH: Metadata = {
     title: ".NET Core C# 全栈开发 | CHORN",
     description: ".NET Core C# 全栈开发，利用技术专长构建现代化、可扩展和安全的 Web 应用程序。",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.backend.dotnetcore).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDotnetCoreZH: Metadata = {
     openGraph: {
         title: ".NET Core C# 开发 | CHORN",
         description: "利用 .NET Core C# 全栈开发的技术专长，构建安全、可扩展和现代化的 Web 应用程序。",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.dotnetcore).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.dotnetcore).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: ".NET Core C# 全栈开发 | CHORN",
         description: "为现代化、可扩展的 Web 应用程序提供 .NET Core C# 全栈开发技术专长。",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.dotnetcore).twitter.images,
     },
     keywords: [
         ".NET Core C# 开发", ".NET Core C# 技术专长", ".NET Core C# 开发者", "定制 .NET Core C# 开发",

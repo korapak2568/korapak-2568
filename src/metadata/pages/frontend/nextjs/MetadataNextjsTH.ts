@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNextjs} from "@/metadata/pages/frontend/nextjs/common/MetadataLinkNextjs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNextjsTH: Metadata = {
     title: "บริการพัฒนา Next.js | CHORN",
     description: "ผู้เชี่ยวชาญด้านการพัฒนา Next.js เพิ่มศักยภาพให้เว็บแอปพลิเคชันของคุณด้วยโซลูชันที่ขยายขนาดได้และมีประสิทธิภาพสูงโดยใช้ Next.js",
-    alternates: MetadataLinkNextjs.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.frontend.nextjs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNextjsTH: Metadata = {
     openGraph: {
         title: "การพัฒนา Next.js | CHORN",
         description: "บริการพัฒนา Next.js โดยผู้เชี่ยวชาญ สร้างเว็บแอปพลิเคชันที่รวดเร็วและขยายขนาดได้",
-        images: MetadataLinkNextjs.openGraph.images,
-        url: MetadataLinkNextjs.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.nextjs).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.nextjs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "บริการพัฒนา Next.js | CHORN",
         description: "ยกระดับเว็บแอปพลิเคชันของคุณด้วยบริการพัฒนา Next.js โดยผู้เชี่ยวชาญ",
-        images: MetadataLinkNextjs.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.nextjs).twitter.images,
     },
     keywords: [
         // คีย์เวิร์ดหลักเกี่ยวกับ Next.js และบริการ

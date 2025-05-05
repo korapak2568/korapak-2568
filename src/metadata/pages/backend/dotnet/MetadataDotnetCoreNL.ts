@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDotnetCoreNL: Metadata = {
     title: ".NET Core C# Full Stack Ontwikkeling | CHORN",
     description: ".NET Core C# full stack ontwikkeling met technische expertise om moderne, schaalbare en veilige webapplicaties te bouwen.",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.backend.dotnetcore).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDotnetCoreNL: Metadata = {
     openGraph: {
         title: ".NET Core C# Ontwikkeling | CHORN",
         description: "Bouw veilige, schaalbare en moderne webapplicaties met technische expertise in .NET Core C# full stack ontwikkeling.",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.backend.dotnetcore).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.backend.dotnetcore).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: ".NET Core C# Full Stack Ontwikkeling | CHORN",
         description: "Technische expertise in .NET Core C# full stack ontwikkeling voor moderne en schaalbare webapplicaties.",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.backend.dotnetcore).twitter.images,
     },
     keywords: [
         ".NET Core C# ontwikkeling", ".NET Core C# technische expertise", ".NET Core C# ontwikkelaar", "maatwerk .NET Core C# ontwikkeling",

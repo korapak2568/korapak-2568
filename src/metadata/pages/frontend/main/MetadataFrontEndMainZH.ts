@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkFrontEndMain} from "@/metadata/pages/frontend/main/common/MetadataLinkFrontEndMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataFrontEndMainZH: Metadata = {
     title: "前端开发服务 | CHORN",
     description: "CHORN 提供专业的前端开发技术，专注于现代框架，如 Next.js、React、Angular、Vue、HTML5 和 CSS3。利用前沿技术构建响应式、可扩展的网站。",
-    alternates: MetadataLinkFrontEndMain.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.frontend.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataFrontEndMainZH: Metadata = {
     openGraph: {
         title: "前端开发服务 | CHORN",
         description: "CHORN 提供前端开发专业技术，使用 Next.js、React、Angular、Vue、HTML5 和 CSS3 等现代技术，打造快速、响应式、可扩展的网站。",
-        images: MetadataLinkFrontEndMain.openGraph.images,
-        url: MetadataLinkFrontEndMain.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.main).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "前端开发服务 | CHORN",
         description: "CHORN 通过 Next.js、React、Angular、Vue、HTML5 和 CSS3 提供前端开发技术，打造响应式、可扩展的网站。",
-        images: MetadataLinkFrontEndMain.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.main).twitter.images,
     },
     keywords: [
         "前端开发", "前端技术专家", "前端开发人员", "定制前端开发",

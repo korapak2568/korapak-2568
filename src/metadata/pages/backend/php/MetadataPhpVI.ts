@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPhpVI: Metadata = {
     title: "Phát triển PHP Full Stack | CHORN",
     description: "Phát triển PHP Full Stack, chuyên môn kỹ thuật để xây dựng các ứng dụng web động và có thể mở rộng.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.backend.php).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPhpVI: Metadata = {
     openGraph: {
         title: "Phát triển PHP | CHORN",
         description: "Tận dụng phát triển PHP Full Stack, chuyên môn kỹ thuật để xây dựng các ứng dụng web có thể mở rộng và động.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.backend.php).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.php).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Phát triển PHP Full Stack | CHORN",
         description: "Chuyên môn phát triển PHP Full Stack cho các ứng dụng web động và có thể mở rộng.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.backend.php).twitter.images,
     },
     keywords: [
         "Phát triển PHP", "Chuyên môn kỹ thuật PHP", "Lập trình viên PHP", "Phát triển PHP tùy chỉnh", "Ứng dụng web PHP",

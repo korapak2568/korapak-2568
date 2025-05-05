@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkHtml5} from "@/metadata/pages/frontend/html5/common/MetadataLinkHtml5";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHtml5FR: Metadata = {
     title: "Services de Développement HTML5 | CHORN",
     description: "Expertise en développement HTML5 pour créer des applications web interactives et réactives.",
-    alternates: MetadataLinkHtml5.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.frontend.html5).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataHtml5FR: Metadata = {
     openGraph: {
         title: "Développement HTML5 | CHORN",
         description: "Construisez des applications web modernes et interactives avec une expertise technique.",
-        images: MetadataLinkHtml5.openGraph.images,
-        url: MetadataLinkHtml5.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.frontend.html5).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.frontend.html5).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Services de Développement HTML5 | CHORN",
         description: "Créez des applications web interactives avec l'expertise en HTML5.",
-        images: MetadataLinkHtml5.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.frontend.html5).twitter.images,
     },
     keywords: [
         "Développement HTML5", "Expertise technique HTML5", "Développeur HTML5", "Développement HTML5 sur mesure", "Conception responsive HTML5",

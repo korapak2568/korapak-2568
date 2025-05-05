@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNodejsVI: Metadata = {
     title: "Phát triển Full Stack Node.js | CHORN",
     description: "Phát triển Full Stack với Node.js, chuyên môn kỹ thuật để xây dựng ứng dụng web hiệu quả và có khả năng mở rộng.",
-    alternates: MetadataLinkNodejs.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.backend.nodejs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNodejsVI: Metadata = {
     openGraph: {
         title: "Phát triển Node.js | CHORN",
         description: "Xây dựng ứng dụng web hiệu quả và mở rộng với chuyên môn phát triển Full Stack Node.js.",
-        images: MetadataLinkNodejs.openGraph.images,
-        url: MetadataLinkNodejs.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.backend.nodejs).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.nodejs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Phát triển Full Stack Node.js | CHORN",
         description: "Chuyên môn phát triển Full Stack Node.js để xây dựng ứng dụng web hiệu quả và mở rộng.",
-        images: MetadataLinkNodejs.twitter.images
+        images: metadataLink(LanguageCode.vi, MetaLinks.backend.nodejs).twitter.images
     },
     keywords: [
         "phát triển Node.js", "chuyên môn kỹ thuật Node.js", "lập trình viên Node.js", "phát triển Node.js tùy chỉnh",

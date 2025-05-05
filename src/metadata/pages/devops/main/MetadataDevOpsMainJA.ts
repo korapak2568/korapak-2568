@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDevOpsMain} from "@/metadata/pages/devops/main/common/MetadataLinkDevOpsMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDevOpsMainJA: Metadata = {
     title: "エンタープライズDevOpsおよびクラウドソリューション | CHORN",
     description: "DevOpsおよびクラウドの専門知識を活用して、デジタルトランスフォーメーションを加速します。効率的なCI/CDパイプライン、インフラの自動化、および信頼性を向上させ、マーケット投入までの時間を短縮するクラウドネイティブソリューションを提供します。",
-    alternates: MetadataLinkDevOpsMain.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.devops.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDevOpsMainJA: Metadata = {
     openGraph: {
         title: "エンタープライズDevOpsおよびクラウドソリューション | CHORN",
         description: "DevOpsおよびクラウドの専門知識を活用して、デジタルトランスフォーメーションを加速します。効率的なCI/CDパイプライン、インフラの自動化、および信頼性を向上させ、マーケット投入までの時間を短縮するクラウドネイティブソリューションを提供します。",
-        images: MetadataLinkDevOpsMain.openGraph.images,
-        url: MetadataLinkDevOpsMain.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.devops.main).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.devops.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "エンタープライズDevOpsおよびクラウドソリューション | CHORN",
         description: "DevOpsおよびクラウドの専門知識を活用して、デジタルトランスフォーメーションを加速します。効率的なCI/CDパイプライン、インフラの自動化、および信頼性を向上させ、マーケット投入までの時間を短縮するクラウドネイティブソリューションを提供します。",
-        images: MetadataLinkDevOpsMain.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.devops.main).twitter.images,
     },
     keywords: [
         "Cloud DevOps", "DevOpsの専門知識", "ソフトウェアテスト", "継続的インテグレーション", "CI/CDパイプライン", "自動化テスト",

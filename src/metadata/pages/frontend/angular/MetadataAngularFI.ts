@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAngular} from "@/metadata/pages/frontend/angular/common/MetadataLinkAngular";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAngularFI: Metadata = {
     title: "Angular Kehityspalvelut | CHORN",
     description: "Angular-kehityspalvelu, rakenna dynaamisia, skaalautuvia ja suorituskykyisiä verkkosovelluksia Angularilla.",
-    alternates: MetadataLinkAngular.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.frontend.angular).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataAngularFI: Metadata = {
     openGraph: {
         title: "Angular Kehitys | CHORN",
         description: "Angular-kehitys teknisellä asiantuntemuksella nopeiden, skaalautuvien ja dynaamisten verkkosovellusten luomiseen.",
-        images: MetadataLinkAngular.openGraph.images,
-        url: MetadataLinkAngular.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.angular).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.angular).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Angular Kehityspalvelut | CHORN",
         description: "Paranna verkkosovelluksiasi asiantuntevalla Angular-kehityksellä.",
-        images: MetadataLinkAngular.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.angular).twitter.images,
     },
     keywords: [
         "Angular kehitys", "Angular tekninen asiantuntemus", "Angular kehittäjä", "Angular kehitys Thaimaa",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPhpNL: Metadata = {
     title: "PHP Full Stack Ontwikkeling | CHORN",
     description: "PHP full stack ontwikkeling, technische expertise voor het bouwen van dynamische en schaalbare webapplicaties.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.backend.php).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPhpNL: Metadata = {
     openGraph: {
         title: "PHP Ontwikkeling | CHORN",
         description: "Benut PHP full stack ontwikkeling, technische expertise om schaalbare en dynamische webapplicaties te bouwen.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.backend.php).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.backend.php).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "PHP Full Stack Ontwikkeling | CHORN",
         description: "Expertise in PHP full stack ontwikkeling voor dynamische en schaalbare webapplicaties.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.backend.php).twitter.images,
     },
     keywords: [
         "PHP ontwikkeling", "PHP technische expertise", "PHP ontwikkelaar", "maatwerk PHP ontwikkeling", "PHP webapplicaties",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3KO: Metadata = {
     title: "Web3 블록체인 스마트 계약 개발 | CHORN",
     description: "Web3 블록체인 및 스마트 계약 개발. Solidity, Ethereum, Polygon을 사용하여 분산 애플리케이션(DApps)을 구축하고 Hardhat, Ganache, MetaMask와 같은 기술과 통합합니다.",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3KO: Metadata = {
     openGraph: {
         title: "Web3 블록체인 스마트 계약 개발 서비스 | CHORN",
         description: "Solidity, Ethereum, Polygon을 사용하여 DApp을 구축하고 Hardhat, Ganache, MetaMask와 통합하는 Web3 블록체인 및 스마트 계약 개발에 대한 전문 기술.",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Web3 블록체인 스마트 계약 개발 | CHORN",
         description: "Solidity, Ethereum, Polygon을 사용하여 분산 애플리케이션(DApps)을 만들고 Hardhat, Ganache, MetaMask와 통합하는 Web3 및 블록체인 스마트 계약 개발 전문 기술.",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Web3 개발", "블록체인 개발", "스마트 계약 개발", "Solidity 개발",

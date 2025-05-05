@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLink404} from "@/metadata/pages/404/common/MetadataLink404";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const Metadata404DE: Metadata = {
     title: "404 - Seite nicht gefunden",
@@ -7,7 +9,7 @@ export const Metadata404DE: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLink404.alternates,
+    alternates:  metadataLink(LanguageCode.de, MetaLinks._404).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const Metadata404DE: Metadata = {
     openGraph: {
         title: "404 - Seite nicht gefunden",
         description: "Hoppla! Wir konnten die von Ihnen gesuchte Seite nicht finden. Bitte überprüfen Sie die URL oder kehren Sie zu unserer Startseite zurück, um CHORN weiter zu erkunden.",
-        images: MetadataLink404.openGraph.images,
-        url: MetadataLink404.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks._404).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks._404).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "404 - Seite nicht gefunden",
         description: "Hoppla! Wir konnten die von Ihnen gesuchte Seite nicht finden. Bitte überprüfen Sie die URL oder kehren Sie zu unserer Startseite zurück, um CHORN weiter zu erkunden.",
-        images: MetadataLink404.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks._404).twitter.images,
     },
 }

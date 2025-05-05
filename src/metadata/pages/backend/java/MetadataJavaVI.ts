@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJava} from "@/metadata/pages/backend/java/common/MetadataLinkJava";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaVI: Metadata = {
     title: "Phát triển Full Stack Java Spring Boot | CHORN",
     description: "Phát triển Full Stack với Java Spring Boot, chuyên môn kỹ thuật để xây dựng các ứng dụng doanh nghiệp mạnh mẽ và có thể mở rộng.",
-    alternates: MetadataLinkJava.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.backend.java).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaVI: Metadata = {
     openGraph: {
         title: "Phát triển Java Spring Boot | CHORN",
         description: "Tận dụng phát triển Full Stack với Java Spring Boot và chuyên môn kỹ thuật để xây dựng các ứng dụng có thể mở rộng, bảo mật và hiệu suất cao.",
-        images: MetadataLinkJava.openGraph.images,
-        url: MetadataLinkJava.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.backend.java).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.java).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Phát triển Full Stack Java Spring Boot | CHORN",
         description: "Chuyên môn phát triển Full Stack Java Spring Boot để xây dựng các ứng dụng bảo mật và có thể mở rộng.",
-        images: MetadataLinkJava.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.backend.java).twitter.images,
     },
     keywords: [
         "Phát triển Spring Boot", "Chuyên môn kỹ thuật Java Spring Boot", "Nhà phát triển Spring Boot", "Phát triển Java tùy chỉnh",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkTypeScript} from "@/metadata/pages/frontend/typescript/common/MetadataLinkTypeScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTypeScriptJA: Metadata = {
     title: "TypeScript | CHORN - カスタムソフトウェア開発の専門家",
     description: "TypeScriptを活用して、さまざまな業界向けにスケーラブルで堅牢かつ効率的なカスタムソフトウェアソリューションを構築します。",
-    alternates: MetadataLinkTypeScript.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.frontend.typescript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataTypeScriptJA: Metadata = {
     openGraph: {
         title: "CHORN - TypeScriptを使用したカスタムソフトウェア開発",
         description: "TypeScriptの専門知識は、スケーラブルで高パフォーマンスなアプリケーションを作成するための強力なツールです。なぜ私たちがカスタムソフトウェアソリューションにTypeScriptを選ぶのかを学びましょう。",
-        images: MetadataLinkTypeScript.openGraph.images,
-        url: MetadataLinkTypeScript.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.typescript).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.typescript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - カスタムソフトウェアソリューションのためのTypeScript開発",
         description: "TypeScriptを使用して、企業のニーズに合わせたスケーラブルで高品質なソフトウェアソリューションを提供します。",
-        images: MetadataLinkTypeScript.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.typescript).twitter.images,
     },
     keywords: [
         "TypeScript開発", "TypeScriptの専門知識", "TypeScript開発者", "カスタムTypeScript開発",

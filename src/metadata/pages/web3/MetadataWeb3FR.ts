@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3FR: Metadata = {
     title: "Développement de Smart Contracts Web3 Blockchain | CHORN",
     description: "Développement Web3 blockchain et smart contract. Nous construisons des applications décentralisées (DApps) en utilisant Solidity, Ethereum, Polygon et intégrons des technologies telles que Hardhat, Ganache et MetaMask.",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3FR: Metadata = {
     openGraph: {
         title: "Services de développement de Smart Contracts Web3 Blockchain | CHORN",
         description: "Expertise technique spécialisée en développement Web3 blockchain et smart contract, y compris la création de DApps avec Solidity, Ethereum, Polygon, et l'intégration avec Hardhat, Ganache et MetaMask.",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Développement de Smart Contracts Web3 Blockchain | CHORN",
         description: "Expertise technique en développement Web3 et smart contract blockchain, avec la création d'applications décentralisées (DApps) utilisant Solidity, Ethereum, Polygon et intégration avec Hardhat, Ganache et MetaMask.",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Développement Web3", "Développement blockchain", "Développement smart contract", "Développement Solidity",

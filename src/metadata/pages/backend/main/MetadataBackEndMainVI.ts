@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkBackEndMain} from "@/metadata/pages/backend/main/common/MetadataLinkBackEndMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataBackEndMainVI: Metadata = {
     title: "Phát triển API Back-End | CHORN",
     description: "Dịch vụ phát triển API Back-End với chuyên môn kỹ thuật, sử dụng công nghệ hiện đại như Node.js, Java Spring Boot, .NET Core, Go, Python và PHP để xây dựng ứng dụng chất lượng cao và có thể mở rộng theo nhu cầu doanh nghiệp.",
-    alternates: MetadataLinkBackEndMain.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.backend.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataBackEndMainVI: Metadata = {
     openGraph: {
         title: "Phát triển API Back-End | CHORN",
         description: "Phát triển API Back-End với chuyên môn kỹ thuật, sử dụng Node.js, Java Spring Boot, .NET Core, Go, Python và PHP để xây dựng ứng dụng chất lượng cao và có thể mở rộng theo nhu cầu doanh nghiệp.",
-        images: MetadataLinkBackEndMain.openGraph.images,
-        url: MetadataLinkBackEndMain.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.backend.main).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Phát triển API Back-End | CHORN",
         description: "Phát triển API Back-End để xây dựng ứng dụng web có thể mở rộng bằng Node.js, Java Spring Boot, .NET Core, Go, Python và PHP.",
-        images: MetadataLinkBackEndMain.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.backend.main).twitter.images,
     },
 }

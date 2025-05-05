@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkTypeScript} from "@/metadata/pages/frontend/typescript/common/MetadataLinkTypeScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTypeScriptFR: Metadata = {
     title: "TypeScript | CHORN - Experts en développement de logiciels personnalisés",
     description: "Exploitez TypeScript pour créer des solutions logicielles évolutives, robustes et efficaces pour les entreprises de divers secteurs.",
-    alternates: MetadataLinkTypeScript.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.frontend.typescript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataTypeScriptFR: Metadata = {
     openGraph: {
         title: "CHORN - Développement de logiciels personnalisés avec TypeScript",
         description: "Expertise en TypeScript, un outil puissant pour créer des applications évolutives et performantes. Découvrez pourquoi nous choisissons TypeScript pour les solutions logicielles personnalisées.",
-        images: MetadataLinkTypeScript.openGraph.images,
-        url: MetadataLinkTypeScript.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.frontend.typescript).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.frontend.typescript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - Développement TypeScript pour des solutions logicielles personnalisées",
         description: "Utilisez TypeScript pour offrir des solutions logicielles évolutives et de haute qualité adaptées aux besoins des entreprises.",
-        images: MetadataLinkTypeScript.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.frontend.typescript).twitter.images,
     },
     keywords: [
         "Développement TypeScript", "Expertise technique TypeScript", "Développeur TypeScript", "Développement TypeScript personnalisé",

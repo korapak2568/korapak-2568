@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJavaScript} from "@/metadata/pages/frontend/javascript/common/MetadataLinkJavaScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaScriptJA: Metadata = {
     title: "JavaScript | CHORN - カスタムソフトウェア開発の専門家",
     description: "業界を問わず、スケーラブルで堅牢かつ効率的なカスタムソフトウェアソリューションをJavaScriptを使用して構築します。",
-    alternates: MetadataLinkJavaScript.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.frontend.javascript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaScriptJA: Metadata = {
     openGraph: {
         title: "CHORN - JavaScriptによるカスタムソフトウェア開発",
         description: "JavaScriptの専門知識を活用し、スケーラブルで高性能なアプリケーションを構築するための強力なツールです。なぜカスタムソフトウェアソリューションにJavaScriptを選んだのかを学びましょう。",
-        images: MetadataLinkJavaScript.openGraph.images,
-        url: MetadataLinkJavaScript.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.javascript).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.javascript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - カスタムソフトウェアソリューションのためのJavaScript開発",
         description: "ビジネスのニーズに合わせたスケーラブルで高品質なソフトウェアソリューションを提供するためにJavaScriptを使用します。",
-        images: MetadataLinkJavaScript.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.javascript).twitter.images,
     },
     keywords: [
         "JavaScript開発", "JavaScriptの専門知識", "JavaScript開発者", "カスタムJavaScript開発",

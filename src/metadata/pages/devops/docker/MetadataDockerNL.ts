@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDocker} from "@/metadata/pages/devops/docker/common/MetadataLinkDocker";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDockerNL: Metadata = {
     title: "Docker DevOps Diensten | CHORN",
     description: "Docker-gebaseerde DevOps technische expertise voor efficiënte containerisatie en schaalbare applicatie-implementatie.",
-    alternates: MetadataLinkDocker.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.devops.docker).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDockerNL: Metadata = {
     openGraph: {
         title: "Docker DevOps Diensten | CHORN",
         description: "Gebruik Docker voor containerisatie en schaalbare software-implementatie met DevOps technische expertise.",
-        images: MetadataLinkDocker.openGraph.images,
-        url: MetadataLinkDocker.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.devops.docker).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.devops.docker).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Docker DevOps Diensten | CHORN",
         description: "Docker DevOps technische expertise voor containerisatie en schaalbare applicatie-implementatie.",
-        images: MetadataLinkDocker.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.devops.docker).twitter.images,
     },
     keywords: [
         "Docker DevOps", "Docker technische expertise", "containerisatie", "CHORN", "DevOps", "schaalbare implementatie",

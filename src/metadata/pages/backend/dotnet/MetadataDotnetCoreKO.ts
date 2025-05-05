@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDotnetCoreKO: Metadata = {
     title: ".NET Core C# 풀 스택 개발 | CHORN",
     description: ".NET Core C# 풀 스택 개발, 현대적이고 확장 가능하며 안전한 웹 애플리케이션을 구축하는 기술 전문성.",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.backend.dotnetcore).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDotnetCoreKO: Metadata = {
     openGraph: {
         title: ".NET Core C# 개발 | CHORN",
         description: ".NET Core C# 풀 스택 개발 기술 전문성을 활용하여 안전하고 확장 가능하며 현대적인 웹 애플리케이션을 구축합니다.",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.backend.dotnetcore).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.dotnetcore).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: ".NET Core C# 풀 스택 개발 | CHORN",
         description: ".NET Core C# 풀 스택 개발의 기술 전문성으로 현대적이고 확장 가능한 웹 애플리케이션을 개발합니다.",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.backend.dotnetcore).twitter.images,
     },
     keywords: [
         ".NET Core C# 개발", ".NET Core C# 기술 전문성", ".NET Core C# 개발자", "맞춤형 .NET Core C# 개발",

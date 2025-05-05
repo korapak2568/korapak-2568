@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGitHub} from "@/metadata/pages/devops/github/common/MetadataLinkGitHub";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGitHubVI: Metadata = {
     title: "Dịch vụ GitHub DevOps | CHORN",
     description: "Chuyên môn kỹ thuật DevOps tích hợp GitHub cho kiểm soát phiên bản, tích hợp liên tục và các quy trình làm việc tự động.",
-    alternates: MetadataLinkGitHub.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.devops.github).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGitHubVI: Metadata = {
     openGraph: {
         title: "Dịch vụ GitHub DevOps | CHORN",
         description: "Tăng cường quy trình phát triển của bạn với chuyên môn kỹ thuật DevOps dựa trên GitHub cho CI/CD và kiểm soát phiên bản.",
-        images: MetadataLinkGitHub.openGraph.images,
-        url: MetadataLinkGitHub.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.devops.github).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.github).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ GitHub DevOps | CHORN",
         description: "Đơn giản hóa quy trình phát triển của bạn với chuyên môn GitHub DevOps cho kiểm soát phiên bản và quy trình CI/CD.",
-        images: MetadataLinkGitHub.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.devops.github).twitter.images,
     },
     keywords: [
         "GitHub DevOps", "chuyên môn GitHub", "kiểm soát phiên bản", "CI/CD", "DevOps", "phát triển phần mềm tùy chỉnh",

@@ -4,7 +4,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import WebDevelopmentPageMain from "@/components/Services/WebDevelopment/WebDevelopmentPageMain";
 import {headers} from "next/headers";
-import {MetadataWebDevelopment} from "@/metadata/pages/web-development/common/MetadataWebDevelopment";
+import {MetadataWebDevelopment} from "@/metadata/main/MetadataWebDevelopment";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

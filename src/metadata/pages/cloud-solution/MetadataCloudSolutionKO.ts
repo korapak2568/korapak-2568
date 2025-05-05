@@ -1,11 +1,12 @@
 import {Metadata} from "next";
-import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCloudSolutionKO: Metadata = {
     title: "클라우드 솔루션 아키텍처 및 시스템 분석 | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN은 클라우드 솔루션 아키텍처 및 시스템 분석에 대한 전문 지식을 제공합니다. AWS, Azure, GCP, DigitalOcean 환경에서 성능, 확장성 및 비용 효율성을 보장하도록 클라우드 인프라를 최적화합니다.",
-    alternates: metadataLinkCloudSolution(LanguageCode.ko).alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.cloudSolutions).alternates,
     authors: [
         {
             name: "CHORN"
@@ -14,15 +15,15 @@ export const MetadataCloudSolutionKO: Metadata = {
     openGraph: {
         title: "클라우드 솔루션 아키텍처 및 시스템 분석 | CHORN",
         description: "CHORN의 클라우드 솔루션 아키텍처 및 시스템 분석 전문 지식을 확인하세요. AWS, Azure, GCP, DigitalOcean 환경에서 견고하고 확장 가능하며 최적화된 클라우드 솔루션을 설계합니다.",
-        images: metadataLinkCloudSolution(LanguageCode.ko).openGraph.images,
-        url: metadataLinkCloudSolution(LanguageCode.ko).alternates.canonical,
+        images: metadataLink(LanguageCode.ko, MetaLinks.cloudSolutions).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.cloudSolutions).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "클라우드 솔루션 아키텍처 및 시스템 분석 | CHORN",
         description: "CHORN의 클라우드 솔루션 아키텍처 및 시스템 분석 전문 지식으로 AWS, Azure, GCP 및 DigitalOcean 환경에서 클라우드 인프라를 최적화하세요.",
-        images: metadataLinkCloudSolution(LanguageCode.ko).twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.cloudSolutions).twitter.images,
     },
     keywords: [
         "클라우드 솔루션 아키텍처", "시스템 분석", "AWS 아키텍처", "Azure 클라우드 솔루션",

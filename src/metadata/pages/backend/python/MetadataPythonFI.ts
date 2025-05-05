@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPythonFI: Metadata = {
     title: "Python Full Stack Kehitys | CHORN",
     description: "Python full stack kehitys, tekninen asiantuntemus dynaamisten ja skaalautuvien verkkosovellusten rakentamiseen.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.backend.python).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPythonFI: Metadata = {
     openGraph: {
         title: "Python Kehitys | CHORN",
         description: "Rakenna dynaamisia ja skaalautuvia verkkosovelluksia Python full stack kehityksen teknisellä asiantuntemuksella.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.python).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.python).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Python Full Stack Kehitys | CHORN",
         description: "Python full stack kehityksen asiantuntemus dynaamisiin ja skaalautuviin verkkosovelluksiin.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.python).twitter.images,
     },
     keywords: [
         "Python kehitys", "Python tekninen asiantuntemus", "Python kehittäjä", "räätälöity Python kehitys", "Python verkkosovellukset",

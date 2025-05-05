@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkHtml5} from "@/metadata/pages/frontend/html5/common/MetadataLinkHtml5";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHtml5EN: Metadata = {
     title: "HTML5 Development Services | CHORN",
     description: "HTML5 development technical expertise to create responsive and engaging web applications.",
-    alternates: MetadataLinkHtml5.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.frontend.html5).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataHtml5EN: Metadata = {
     openGraph: {
         title: "HTML5 Development | CHORN",
         description: "Build modern and interactive web applications with technical expertise.",
-        images: MetadataLinkHtml5.openGraph.images,
-        url: MetadataLinkHtml5.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.frontend.html5).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.frontend.html5).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "HTML5 Development Services | CHORN",
         description: "Create interactive web apps with HTML5 technical-expertise.",
-        images: MetadataLinkHtml5.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.frontend.html5).twitter.images,
     },
     keywords: [
         // Core HTML5 & services Keywords

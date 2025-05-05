@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactTH: Metadata = {
     title: "บริการพัฒนา React | CHORN",
     description: "บริการพัฒนา React ระดับมืออาชีพ พร้อมความเชี่ยวชาญด้านเทคนิค สร้างอินเตอร์เฟซผู้ใช้ที่มีพลศาสตร์และตอบสนองได้ด้วย React",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactTH: Metadata = {
     openGraph: {
         title: "การพัฒนา React | CHORN",
         description: "ยกระดับแอปพลิเคชันเว็บของคุณด้วยการพัฒนา React จากผู้เชี่ยวชาญ ด้านเทคนิคเพื่อแอปพลิเคชันที่มีประสิทธิภาพสูง",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "บริการพัฒนา React | CHORN",
         description: "พัฒนา React ด้วยความเชี่ยวชาญทางเทคนิค สร้างอินเตอร์เฟซผู้ใช้ที่มีส่วนร่วมด้วย React",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "การพัฒนา React", "ความเชี่ยวชาญทางเทคนิค React", "นักพัฒนา React", "การพัฒนา React แบบกำหนดเอง", "แอปพลิเคชัน React.js",

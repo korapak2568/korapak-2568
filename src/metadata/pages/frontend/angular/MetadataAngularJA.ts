@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAngular} from "@/metadata/pages/frontend/angular/common/MetadataLinkAngular";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAngularJA: Metadata = {
     title: "Angular開発サービス | CHORN",
     description: "Angular開発サービス。Angularを使用して、動的でスケーラブルかつ高性能なWebアプリケーションを構築します。",
-    alternates: MetadataLinkAngular.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.frontend.angular).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataAngularJA: Metadata = {
     openGraph: {
         title: "Angular開発 | CHORN",
         description: "Angular開発の技術専門知識を活用し、高速でスケーラブルな動的Webアプリケーションを構築します。",
-        images: MetadataLinkAngular.openGraph.images,
-        url: MetadataLinkAngular.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.angular).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.angular).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Angular開発サービス | CHORN",
         description: "専門的なAngular開発でWebアプリケーションを向上させましょう。",
-        images: MetadataLinkAngular.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.angular).twitter.images,
     },
     keywords: [
         "Angular開発", "Angular技術専門知識", "Angular開発者", "Angular開発 タイ",

@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeDA: Metadata = {
     title: "CHORN | Udvikling af virksomhedssoftware og systemintegration",
@@ -7,7 +9,7 @@ export const MetadataHomeDA: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeDA: Metadata = {
     openGraph: {
         title: "CHORN | Udvikling af virksomhedssoftware og systemintegration",
         description: "Styrk din virksomhed med professionel systemanalyse og avancerede softwareløsninger. CHORN er specialiseret i full-stack udvikling, AI-drevet automatisering, cloud computing og systemmodernisering for at fremme innovation og effektivitet.",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | Udvikling af virksomhedssoftware og systemintegration",
         description: "Styrk din virksomhed med professionel systemanalyse og avancerede softwareløsninger. CHORN er specialiseret i full-stack udvikling, AI-drevet automatisering, cloud computing og systemmodernisering for at fremme innovation og effektivitet.",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.home).twitter.images,
     },
     keywords: [
         "CHORN", "CHORN skræddersyet softwareudvikling", "CHORN software outsourcing", "Hvad er CHORN",

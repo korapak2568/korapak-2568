@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactNL: Metadata = {
     title: "React Ontwikkelingsdiensten | CHORN",
     description: "Top React-ontwikkeling met technische expertise, bouw dynamische en responsieve gebruikersinterfaces met React.",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactNL: Metadata = {
     openGraph: {
         title: "React Ontwikkeling | CHORN",
         description: "Verbeter je webapplicaties met expert React-ontwikkeling, technische expertise voor krachtige toepassingen.",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "React Ontwikkelingsdiensten | CHORN",
         description: "Expert React-ontwikkeling, technische expertise voor het creëren van aantrekkelijke gebruikersinterfaces met React.",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "React ontwikkeling", "React technische expertise", "React ontwikkelaar", "Aangepaste React ontwikkeling", "React.js toepassingen",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3EN: Metadata = {
     title: "Web3 Blockchain Smart Contract Development | CHORN",
     description: "Web3 blockchain and smart contract development. We build decentralized applications (DApps) using Solidity, Ethereum, Polygon, and integrate with technologies like Hardhat, Ganache, and MetaMask.",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3EN: Metadata = {
     openGraph: {
         title: "Web3 Blockchain Smart Contract Development Services | CHORN",
         description: "Specialized Web3 blockchain and smart contract development technical expertise, including building DApps with Solidity, Ethereum, Polygon, and integrating with Hardhat, Ganache, and MetaMask.",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Web3 Blockchain Smart Contract Development | CHORN",
         description: "Web3 and blockchain smart contract development technical expertise, with creating decentralized applications (DApps) with Solidity, Ethereum, Polygon, and integrate with Hardhat, Ganache, and MetaMask.",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.web3).twitter.images,
     },
     keywords: [
         // Core Web3 & Blockchain Keywords

@@ -5,7 +5,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataReact} from "@/metadata/pages/frontend/react/common/MetadataReact";
+import {MetadataReact} from "@/metadata/main/frontend/MetadataReact";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

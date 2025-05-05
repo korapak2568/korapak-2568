@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGallery} from "@/metadata/pages/gallery/common/MetadataLinkGallery";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGalleryNL: Metadata = {
     title: "Internationale Reizen | CHORN Galerie",
     description: "CHORN heeft de ervaring en bereidheid voor internationale reizen om training te ontvangen en te leren van werk in ASEAN en de Verenigde Staten.",
-    alternates: MetadataLinkGallery.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.gallery).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataGalleryNL: Metadata = {
     openGraph: {
         title: "Internationale Reizen | CHORN Galerie",
         description: "CHORN heeft de ervaring en bereidheid voor internationale reizen om training te ontvangen en te leren van werk in ASEAN en de Verenigde Staten.",
-        images: MetadataLinkGallery.openGraph.images,
-        url: MetadataLinkGallery.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.gallery).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.gallery).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Internationale Reizen | CHORN Galerie",
         description: "CHORN heeft de ervaring en bereidheid voor internationale reizen om training te ontvangen en te leren van werk in ASEAN en de Verenigde Staten.",
-        images: MetadataLinkGallery.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.gallery).twitter.images,
     },
 }

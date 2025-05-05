@@ -1,11 +1,12 @@
 import {Metadata} from "next";
-import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCloudSolutionTH: Metadata = {
     title: "สถาปัตยกรรมโซลูชันคลาวด์และการวิเคราะห์ระบบ | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN นำเสนอบริการด้านสถาปัตยกรรมโซลูชันคลาวด์และการวิเคราะห์ระบบ ด้วยความเชี่ยวชาญเฉพาะทาง เราปรับแต่งโครงสร้างพื้นฐานคลาวด์บน AWS, Azure, GCP และ DigitalOcean เพื่อเพิ่มประสิทธิภาพ ความสามารถในการขยายตัว และความคุ้มค่า.",
-    alternates: metadataLinkCloudSolution(LanguageCode.th).alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.cloudSolutions).alternates,
     authors: [
         {
             name: "CHORN"
@@ -14,15 +15,15 @@ export const MetadataCloudSolutionTH: Metadata = {
     openGraph: {
         title: "สถาปัตยกรรมโซลูชันคลาวด์และการวิเคราะห์ระบบ | CHORN",
         description: "สำรวจบริการด้านสถาปัตยกรรมโซลูชันคลาวด์และการวิเคราะห์ระบบจาก CHORN เราออกแบบโซลูชันคลาวด์ที่มีความยืดหยุ่น ขยายตัวได้ และมีประสิทธิภาพบน AWS, Azure, GCP และ DigitalOcean.",
-        images: metadataLinkCloudSolution(LanguageCode.th).openGraph.images,
-        url: metadataLinkCloudSolution(LanguageCode.th).alternates.canonical,
+        images: metadataLink(LanguageCode.th, MetaLinks.cloudSolutions).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.cloudSolutions).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "สถาปัตยกรรมโซลูชันคลาวด์และการวิเคราะห์ระบบ | CHORN",
         description: "เพิ่มประสิทธิภาพโครงสร้างพื้นฐานคลาวด์ของคุณด้วยบริการสถาปัตยกรรมโซลูชันคลาวด์และการวิเคราะห์ระบบจาก CHORN ครอบคลุม AWS, Azure, GCP และ DigitalOcean.",
-        images: metadataLinkCloudSolution(LanguageCode.th).twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.cloudSolutions).twitter.images,
     },
     keywords: [
         // คำสำคัญเกี่ยวกับสถาปัตยกรรมคลาวด์

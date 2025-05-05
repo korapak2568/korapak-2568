@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPhpZH: Metadata = {
     title: "PHP全栈开发 | CHORN",
     description: "PHP全栈开发，技术专长于构建动态和可扩展的Web应用程序。",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.backend.php).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPhpZH: Metadata = {
     openGraph: {
         title: "PHP开发 | CHORN",
         description: "利用PHP全栈开发，技术专长构建可扩展和动态的Web应用程序。",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.php).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.php).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "PHP全栈开发 | CHORN",
         description: "PHP全栈开发技术专长，用于开发动态和可扩展的Web应用程序。",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.php).twitter.images,
     },
     keywords: [
         "PHP开发", "PHP技术专长", "PHP开发者", "定制PHP开发", "PHP Web应用程序",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkCss3} from "@/metadata/pages/frontend/css3/common/MetadataLinkCss3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCss3TH: Metadata = {
     title: "บริการพัฒนา CSS3 | CHORN",
     description: "เสริมแอปพลิเคชันเว็บของคุณด้วยการพัฒนา CSS3 พร้อมด้วยความเชี่ยวชาญทางเทคนิคเพื่อการออกแบบที่ทันสมัยและน่าสนใจ.",
-    alternates: MetadataLinkCss3.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.frontend.css3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataCss3TH: Metadata = {
     openGraph: {
         title: "การพัฒนา CSS3 | CHORN",
         description: "การพัฒนา CSS3 ด้วยความเชี่ยวชาญทางเทคนิคเพื่อสร้างการออกแบบเว็บที่สวยงามและตอบสนองได้ดี.",
-        images: MetadataLinkCss3.openGraph.images,
-        url: MetadataLinkCss3.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.css3).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.css3).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "บริการพัฒนา CSS3 | CHORN",
         description: "สร้างการออกแบบเว็บที่น่าทึ่งด้วย CSS3 พร้อมกับการให้บริการ CSS3 ด้วยความเชี่ยวชาญทางเทคนิค.",
-        images: MetadataLinkCss3.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.css3).twitter.images,
     },
     keywords: [
         "การพัฒนา CSS3", "ความเชี่ยวชาญด้าน CSS3", "นักพัฒนา CSS3", "การพัฒนา CSS3 แบบกำหนดเอง", "การออกแบบที่ตอบสนองด้วย CSS3",

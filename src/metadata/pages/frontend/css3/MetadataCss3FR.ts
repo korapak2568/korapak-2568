@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkCss3} from "@/metadata/pages/frontend/css3/common/MetadataLinkCss3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCss3FR: Metadata = {
     title: "Services de Développement CSS3 | CHORN",
     description: "Améliorez vos applications web avec le développement CSS3, expertise technique pour des conceptions modernes et visuellement attrayantes.",
-    alternates: MetadataLinkCss3.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.frontend.css3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataCss3FR: Metadata = {
     openGraph: {
         title: "Développement CSS3 | CHORN",
         description: "Développement CSS3 avec expertise technique pour créer des conceptions web élégantes et réactives.",
-        images: MetadataLinkCss3.openGraph.images,
-        url: MetadataLinkCss3.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.frontend.css3).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.frontend.css3).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Services de Développement CSS3 | CHORN",
         description: "Créez des conceptions web visuellement impressionnantes avec CSS3 grâce à notre expertise en développement CSS3.",
-        images: MetadataLinkCss3.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.frontend.css3).twitter.images,
     },
     keywords: [
         "développement CSS3", "expertise technique CSS3", "développeur CSS3", "développement CSS3 personnalisé", "conception réactive CSS3",

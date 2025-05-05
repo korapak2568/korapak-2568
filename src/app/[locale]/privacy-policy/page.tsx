@@ -3,7 +3,7 @@ import {IPolicyContent} from "@/data/policy/model/IPolicyContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import type {Metadata} from "next";
 import {headers} from "next/headers";
-import {MetadataPrivacyPolicy} from "@/metadata/pages/privacy-policy/common/MetadataPrivacyPolicy";
+import {MetadataPrivacyPolicy} from "@/metadata/main/MetadataPrivacyPolicy";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

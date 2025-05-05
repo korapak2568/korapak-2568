@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNextjs} from "@/metadata/pages/frontend/nextjs/common/MetadataLinkNextjs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNextjsEN: Metadata = {
     title: "Next.js Development Services | CHORN",
     description: "Expert Next.js development, enhance your web applications with scalable and high-performance solutions using Next.js.",
-    alternates: MetadataLinkNextjs.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.frontend.nextjs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNextjsEN: Metadata = {
     openGraph: {
         title: "Next.js Development | CHORN",
         description: "Specialized Next.js development, technical expertise to create fast and scalable web applications.",
-        images: MetadataLinkNextjs.openGraph.images,
-        url: MetadataLinkNextjs.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.frontend.nextjs).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.frontend.nextjs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Next.js Development Services | CHORN",
         description: "Elevate your web applications with expert Next.js development technical-expertise.",
-        images: MetadataLinkNextjs.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.frontend.nextjs).twitter.images,
     },
     keywords: [
         // Core Next.js & services Keywords

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGoJA: Metadata = {
     title: "Goフルスタック開発 | CHORN",
     description: "Goフルスタック開発、効率的でスケーラブルなウェブアプリケーションを構築するための技術的専門知識。",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.backend.go).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGoJA: Metadata = {
     openGraph: {
         title: "Go開発 | CHORN",
         description: "Goフルスタック開発の技術的専門知識で、効率的でスケーラブルなウェブアプリケーションを構築。",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.backend.go).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.backend.go).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Goフルスタック開発 | CHORN",
         description: "効率的でスケーラブルなウェブアプリケーションのためのGoフルスタック開発の専門技術。",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.backend.go).twitter.images,
     },
     keywords: [
         "Go-lang development", "Go technical-expertise", "Go developer", "custom Go-lang development", "Go web applications",

@@ -4,7 +4,7 @@ import ServicesDetailsAppium from "@/components/Services/cloud-devops/appium/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataAppium} from "@/metadata/pages/devops/appium/common/MetadataAppium";
+import {MetadataAppium} from "@/metadata/main/devops/MetadataAppium";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

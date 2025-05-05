@@ -4,7 +4,7 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import Web3PageMain from "@/components/Services/web3-blockchain-development/Web3PageMain";
 import CloudExperience from "@/components/Common/CloudExperience";
 import {headers} from "next/headers";
-import {MetadataWeb3} from "@/metadata/pages/web3/common/MetadataWeb3";
+import {MetadataWeb3} from "@/metadata/main/MetadataWeb3";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

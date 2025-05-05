@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGoTH: Metadata = {
     title: "Go Full Stack Development | CHORN",
     description: "การพัฒนา Go full stack, ความเชี่ยวชาญทางเทคนิคในการสร้างแอปพลิเคชันเว็บที่มีประสิทธิภาพและสามารถขยายได้",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.backend.go).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGoTH: Metadata = {
     openGraph: {
         title: "Go Development | CHORN",
         description: "สร้างแอปพลิเคชันเว็บที่มีประสิทธิภาพและสามารถขยายได้ด้วยความเชี่ยวชาญในการพัฒนา Go full stack",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.go).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.go).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Go Full Stack Development | CHORN",
         description: "ความเชี่ยวชาญในการพัฒนา Go full stack สำหรับแอปพลิเคชันเว็บที่มีประสิทธิภาพและสามารถขยายได้",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.go).twitter.images,
     },
     keywords: [
         "Go-lang development", "Go technical-expertise", "Go developer", "custom Go-lang development", "Go web applications",

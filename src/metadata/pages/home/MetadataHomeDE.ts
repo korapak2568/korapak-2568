@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeDE: Metadata = {
     title: "CHORN | Entwicklung von Unternehmenssoftware und Systemintegration",
@@ -7,7 +9,7 @@ export const MetadataHomeDE: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeDE: Metadata = {
     openGraph: {
         title: "CHORN | Entwicklung von Unternehmenssoftware und Systemintegration",
         description: "Stärken Sie Ihr Unternehmen mit professioneller Systemanalyse und modernsten Softwarelösungen. CHORN spezialisiert sich auf Full-Stack-Entwicklung, KI-gestützte Automatisierung, Cloud-Computing und Systemmodernisierung, um Innovation und Effizienz voranzutreiben.",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | Entwicklung von Unternehmenssoftware und Systemintegration",
         description: "Stärken Sie Ihr Unternehmen mit professioneller Systemanalyse und modernsten Softwarelösungen. CHORN spezialisiert sich auf Full-Stack-Entwicklung, KI-gestützte Automatisierung, Cloud-Computing und Systemmodernisierung, um Innovation und Effizienz voranzutreiben.",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.home).twitter.images,
     },
     keywords: [
         "CHORN", "CHORN maßgeschneiderte Softwareentwicklung", "CHORN Software-Outsourcing", "Was ist CHORN",

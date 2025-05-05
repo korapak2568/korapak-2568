@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJavaScript} from "@/metadata/pages/frontend/javascript/common/MetadataLinkJavaScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaScriptDA: Metadata = {
     title: "JavaScript | CHORN - Eksperter i tilpasset softwareudvikling",
     description: "Brug JavaScript til at bygge skalerbare, robuste og effektive tilpassede softwareløsninger for virksomheder på tværs af brancher.",
-    alternates: MetadataLinkJavaScript.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.frontend.javascript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaScriptDA: Metadata = {
     openGraph: {
         title: "CHORN - JavaScript tilpasset softwareudvikling",
         description: "JavaScript-ekspertise, et kraftfuldt værktøj til at opbygge skalerbare og højtydende applikationer. Læs hvorfor vi vælger JavaScript til tilpassede softwareløsninger.",
-        images: MetadataLinkJavaScript.openGraph.images,
-        url: MetadataLinkJavaScript.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.frontend.javascript).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.javascript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - JavaScript udvikling til tilpassede softwareløsninger",
         description: "Brug JavaScript til at levere skalerbare og høj kvalitet softwareløsninger, der er skræddersyet til virksomhedens behov.",
-        images: MetadataLinkJavaScript.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.frontend.javascript).twitter.images,
     },
     keywords: [
         "JavaScript udvikling", "JavaScript teknisk ekspertise", "JavaScript udvikler", "tilpasset JavaScript udvikling",

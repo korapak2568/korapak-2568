@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkWorkPolicy} from "@/metadata/pages/workplace-policy/common/MetadataLinkWorkPolicy";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWorkPolicyNL: Metadata = {
     title: "Werkbeleid | CHORN",
@@ -7,7 +9,7 @@ export const MetadataWorkPolicyNL: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkWorkPolicy.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.workplacePolicy).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataWorkPolicyNL: Metadata = {
     openGraph: {
         title: "Werkbeleid | CHORN",
         description: "CHORN past zich aan verschillende werkmodellen aan, waaronder werken op afstand, op kantoor en hybride werken, afgestemd op de specifieke behoeften van elk project. Deze aanpak zorgt voor naadloze communicatie en efficiëntie.",
-        images: MetadataLinkWorkPolicy.openGraph.images,
-        url: MetadataLinkWorkPolicy.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.workplacePolicy).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.workplacePolicy).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Werkbeleid | CHORN",
         description: "CHORN past zich aan verschillende werkmodellen aan, waaronder werken op afstand, op kantoor en hybride werken, afgestemd op de specifieke behoeften van elk project. Deze aanpak zorgt voor naadloze communicatie en efficiëntie.",
-        images: MetadataLinkWorkPolicy.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.workplacePolicy).twitter.images,
     },
 }

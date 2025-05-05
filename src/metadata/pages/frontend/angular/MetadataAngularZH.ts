@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAngular} from "@/metadata/pages/frontend/angular/common/MetadataLinkAngular";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAngularZH: Metadata = {
     title: "Angular开发服务 | CHORN",
     description: "Angular开发服务，使用Angular构建动态、可扩展和高性能的Web应用程序。",
-    alternates: MetadataLinkAngular.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.frontend.angular).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataAngularZH: Metadata = {
     openGraph: {
         title: "Angular开发 | CHORN",
         description: "凭借技术专业知识，提供Angular开发，打造快速、可扩展、动态的Web应用程序。",
-        images: MetadataLinkAngular.openGraph.images,
-        url: MetadataLinkAngular.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.angular).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.angular).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Angular开发服务 | CHORN",
         description: "利用专业的Angular开发提升您的Web应用程序。",
-        images: MetadataLinkAngular.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.angular).twitter.images,
     },
     keywords: [
         "Angular开发", "Angular技术专业知识", "Angular开发者", "泰国Angular开发",

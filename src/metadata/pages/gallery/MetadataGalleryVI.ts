@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGallery} from "@/metadata/pages/gallery/common/MetadataLinkGallery";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGalleryVI: Metadata = {
     title: "Du Lịch Quốc Tế | Thư Viện CHORN",
     description: "CHORN có kinh nghiệm và sẵn sàng cho các chuyến đi quốc tế để nhận đào tạo và học hỏi từ công việc tại ASEAN và Hoa Kỳ.",
-    alternates: MetadataLinkGallery.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.gallery).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataGalleryVI: Metadata = {
     openGraph: {
         title: "Du Lịch Quốc Tế | Thư Viện CHORN",
         description: "CHORN có kinh nghiệm và sẵn sàng cho các chuyến đi quốc tế để nhận đào tạo và học hỏi từ công việc tại ASEAN và Hoa Kỳ.",
-        images: MetadataLinkGallery.openGraph.images,
-        url: MetadataLinkGallery.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.gallery).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.gallery).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Du Lịch Quốc Tế | Thư Viện CHORN",
         description: "CHORN có kinh nghiệm và sẵn sàng cho các chuyến đi quốc tế để nhận đào tạo và học hỏi từ công việc tại ASEAN và Hoa Kỳ.",
-        images: MetadataLinkGallery.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.gallery).twitter.images,
     },
 }

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNodejsTH: Metadata = {
     title: "พัฒนา Node.js แบบ Full Stack | CHORN",
     description: "การพัฒนา Node.js แบบ Full Stack ความเชี่ยวชาญทางเทคนิคในการสร้างเว็บแอปพลิเคชันที่มีประสิทธิภาพและสามารถขยายได้",
-    alternates: MetadataLinkNodejs.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.backend.nodejs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNodejsTH: Metadata = {
     openGraph: {
         title: "พัฒนา Node.js | CHORN",
         description: "สร้างเว็บแอปพลิเคชันที่มีประสิทธิภาพและสามารถขยายได้ด้วยความเชี่ยวชาญด้านการพัฒนา Node.js แบบ Full Stack",
-        images: MetadataLinkNodejs.openGraph.images,
-        url: MetadataLinkNodejs.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.nodejs).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.nodejs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "พัฒนา Node.js แบบ Full Stack | CHORN",
         description: "ความเชี่ยวชาญด้านการพัฒนา Node.js แบบ Full Stack เพื่อสร้างเว็บแอปพลิเคชันที่มีประสิทธิภาพและสามารถขยายได้",
-        images: MetadataLinkNodejs.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.nodejs).twitter.images,
     },
     keywords: [
         // Core Node.js & services Keywords

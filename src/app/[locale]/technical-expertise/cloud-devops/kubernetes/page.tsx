@@ -4,7 +4,7 @@ import ServicesDetailsKubernetes from "@/components/Services/cloud-devops/kubern
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataKube} from "@/metadata/pages/devops/kube/common/MetadataKube";
+import {MetadataKube} from "@/metadata/main/devops/MetadataKube";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

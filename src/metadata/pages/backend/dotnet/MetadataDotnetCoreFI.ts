@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDotnetCoreFI: Metadata = {
     title: ".NET Core C# Full Stack Kehitys | CHORN",
     description: ".NET Core C# full stack kehitys teknisellä asiantuntemuksella nykyaikaisten, skaalautuvien ja turvallisten web-sovellusten luomiseen.",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.backend.dotnetcore).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDotnetCoreFI: Metadata = {
     openGraph: {
         title: ".NET Core C# Kehitys | CHORN",
         description: "Rakenna turvallisia, skaalautuvia ja moderneja web-sovelluksia .NET Core C# full stack kehityksellä teknisellä asiantuntemuksella.",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.dotnetcore).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.dotnetcore).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: ".NET Core C# Full Stack Kehitys | CHORN",
         description: "Asiantunteva .NET Core C# full stack kehitys nykyaikaisille ja skaalautuville web-sovelluksille.",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.dotnetcore).twitter.images,
     },
     keywords: [
         ".NET Core C# kehitys", ".NET Core C# tekninen asiantuntemus", ".NET Core C# kehittäjä", "räätälöity .NET Core C# kehitys",

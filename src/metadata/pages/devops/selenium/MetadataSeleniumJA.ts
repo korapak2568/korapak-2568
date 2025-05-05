@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkSelenium} from "@/metadata/pages/devops/selenium/common/MetadataLinkSelenium";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataSeleniumJA: Metadata = {
     title: "Seleniumテストサービス | CHORN",
     description: "自動化テストを通じて、アプリケーションの品質とパフォーマンスを保証するSeleniumの包括的な技術専門知識。",
-    alternates: MetadataLinkSelenium.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.devops.selenium).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataSeleniumJA: Metadata = {
     openGraph: {
         title: "Seleniumテスト | CHORN",
         description: "Seleniumの技術専門知識を活用して、アプリケーションのテストを自動化し、堅牢で信頼性の高い結果を得る。",
-        images: MetadataLinkSelenium.openGraph.images,
-        url: MetadataLinkSelenium.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.devops.selenium).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.devops.selenium).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Seleniumテストサービス | CHORN",
         description: "Seleniumの技術専門知識を活用して、アプリケーションの品質を向上させ、効果的な自動化テストを実現。",
-        images: MetadataLinkSelenium.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.devops.selenium).twitter.images,
     },
     keywords: [
         "Seleniumテスト", "自動化テスト", "CHORN", "クラウドDevOps",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPythonKO: Metadata = {
     title: "Python Full Stack 개발 | CHORN",
     description: "Python Full Stack 개발, 동적이고 확장 가능한 웹 애플리케이션을 구축하기 위한 기술 전문성.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.backend.python).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPythonKO: Metadata = {
     openGraph: {
         title: "Python 개발 | CHORN",
         description: "Python Full Stack 개발 기술 전문성을 통해 동적이고 확장 가능한 웹 애플리케이션을 구축하세요.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.backend.python).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.python).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Python Full Stack 개발 | CHORN",
         description: "동적이고 확장 가능한 웹 애플리케이션을 위한 Python Full Stack 개발 기술 전문성.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.backend.python).twitter.images,
     },
     keywords: [
         "Python 개발", "Python 기술 전문성", "Python 개발자", "맞춤형 Python 개발", "Python 웹 애플리케이션",

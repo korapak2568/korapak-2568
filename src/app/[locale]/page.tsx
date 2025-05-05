@@ -9,7 +9,7 @@ import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
 import HomeWorkspace from "@/components/Home/HomeWorkspace";
-import {MetadataHome} from "@/metadata/pages/home/common/MetadataHome";
+import {MetadataHome} from "@/metadata/main/MetadataHome";
 import {headers} from "next/headers";
 
 export async function generateMetadata(): Promise<Metadata> {

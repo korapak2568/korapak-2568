@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDevOpsMain} from "@/metadata/pages/devops/main/common/MetadataLinkDevOpsMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDevOpsMainTH: Metadata = {
     title: "โซลูชัน DevOps และ Cloud สำหรับองค์กร | CHORN",
     description: "เร่งการเปลี่ยนแปลงดิจิทัลของคุณด้วยความเชี่ยวชาญด้าน DevOps และ Cloud เรานำเสนอโซลูชัน CI/CD ที่มีประสิทธิภาพ การทำงานอัตโนมัติของโครงสร้างพื้นฐาน และโซลูชัน Cloud-native ที่ช่วยเพิ่มความน่าเชื่อถือและลดเวลาในการออกสู่ตลาด",
-    alternates: MetadataLinkDevOpsMain.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.devops.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDevOpsMainTH: Metadata = {
     openGraph: {
         title: "โซลูชัน DevOps และ Cloud สำหรับองค์กร | CHORN",
         description: "เร่งการเปลี่ยนแปลงดิจิทัลของคุณด้วยความเชี่ยวชาญด้าน DevOps และ Cloud เรานำเสนอโซลูชัน CI/CD ที่มีประสิทธิภาพ การทำงานอัตโนมัติของโครงสร้างพื้นฐาน และโซลูชัน Cloud-native ที่ช่วยเพิ่มความน่าเชื่อถือและลดเวลาในการออกสู่ตลาด",
-        images: MetadataLinkDevOpsMain.openGraph.images,
-        url: MetadataLinkDevOpsMain.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.devops.main).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "โซลูชัน DevOps และ Cloud สำหรับองค์กร | CHORN",
         description: "เร่งการเปลี่ยนแปลงดิจิทัลของคุณด้วยความเชี่ยวชาญด้าน DevOps และ Cloud เรานำเสนอโซลูชัน CI/CD ที่มีประสิทธิภาพ การทำงานอัตโนมัติของโครงสร้างพื้นฐาน และโซลูชัน Cloud-native ที่ช่วยเพิ่มความน่าเชื่อถือและลดเวลาในการออกสู่ตลาด",
-        images: MetadataLinkDevOpsMain.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.devops.main).twitter.images,
     },
     keywords: [
         "Cloud DevOps", "ความเชี่ยวชาญด้าน DevOps", "การทดสอบซอฟต์แวร์", "การรวมระบบต่อเนื่อง", "CI/CD pipeline", "การทดสอบอัตโนมัติ",

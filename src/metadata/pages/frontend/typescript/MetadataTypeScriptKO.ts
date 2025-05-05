@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkTypeScript} from "@/metadata/pages/frontend/typescript/common/MetadataLinkTypeScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTypeScriptKO: Metadata = {
     title: "TypeScript | CHORN - 맞춤형 소프트웨어 개발 전문가",
     description: "TypeScript를 활용하여 다양한 산업 분야의 비즈니스를 위한 확장 가능하고 강력하며 효율적인 맞춤형 소프트웨어 솔루션을 개발합니다.",
-    alternates: MetadataLinkTypeScript.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.frontend.typescript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataTypeScriptKO: Metadata = {
     openGraph: {
         title: "CHORN - TypeScript 맞춤형 소프트웨어 개발",
         description: "TypeScript 전문 기술, 확장 가능하고 고성능의 애플리케이션을 구축하는 강력한 도구입니다. 맞춤형 소프트웨어 솔루션을 위해 TypeScript를 선택한 이유를 알아보세요.",
-        images: MetadataLinkTypeScript.openGraph.images,
-        url: MetadataLinkTypeScript.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.typescript).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.typescript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - 맞춤형 소프트웨어 솔루션을 위한 TypeScript 개발",
         description: "TypeScript를 사용하여 비즈니스의 요구에 맞춘 확장 가능하고 고품질의 소프트웨어 솔루션을 제공합니다.",
-        images: MetadataLinkTypeScript.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.typescript).twitter.images,
     },
     keywords: [
         "TypeScript 개발", "TypeScript 전문 기술", "TypeScript 개발자", "맞춤형 TypeScript 개발",

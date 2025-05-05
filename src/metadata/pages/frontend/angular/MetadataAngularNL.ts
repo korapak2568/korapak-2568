@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAngular} from "@/metadata/pages/frontend/angular/common/MetadataLinkAngular";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAngularNL: Metadata = {
     title: "Angular Ontwikkelingsdiensten | CHORN",
     description: "Angular ontwikkelingsservice, bouw dynamische, schaalbare en krachtige webapplicaties met Angular.",
-    alternates: MetadataLinkAngular.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.frontend.angular).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataAngularNL: Metadata = {
     openGraph: {
         title: "Angular Ontwikkeling | CHORN",
         description: "Angular ontwikkeling met technische expertise om snelle, schaalbare en dynamische webapplicaties te creëren.",
-        images: MetadataLinkAngular.openGraph.images,
-        url: MetadataLinkAngular.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.frontend.angular).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.angular).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Angular Ontwikkelingsdiensten | CHORN",
         description: "Verbeter uw webapplicaties met professionele Angular ontwikkeling.",
-        images: MetadataLinkAngular.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.frontend.angular).twitter.images,
     },
     keywords: [
         "Angular ontwikkeling", "Angular technische expertise", "Angular ontwikkelaar", "Angular ontwikkeling Thailand",

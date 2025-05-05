@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAiCompanion} from "@/metadata/pages/ai-companion/common/MetadataLinkAiCompanion";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAiCompanionTH: Metadata = {
     title: "การแชทด้วยไลน์เชื่อมต่อแบบจำลองภาษาขนาดใหญ่กับเอไอ",
     description: "ทดสอบการแชทด้วยไลน์ เชื่อมต่อกับแบบจำลองภาษาขนาดใหญ่และเอไอ รองรับหลายภาษา",
-    alternates: MetadataLinkAiCompanion.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.aiCompanion).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataAiCompanionTH: Metadata = {
     openGraph: {
         title: "การแชทด้วยไลน์เชื่อมต่อแบบจำลองภาษาขนาดใหญ่กับเอไอ",
         description: "ทดสอบการแชทด้วยไลน์ เชื่อมต่อกับแบบจำลองภาษาขนาดใหญ่และเอไอ รองรับหลายภาษา",
-        images: MetadataLinkAiCompanion.openGraph.images,
-        url: MetadataLinkAiCompanion.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.aiCompanion).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.aiCompanion).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "การแชทผ่านด้วยเชื่อมต่อแบบจำลองภาษาขนาดใหญ่กับเอไอ",
         description: "ทดสอบการแชทด้วยไลน์ เชื่อมต่อกับแบบจำลองภาษาขนาดใหญ่และเอไอ รองรับหลายภาษา",
-        images: MetadataLinkAiCompanion.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.aiCompanion).twitter.images,
     },
 }

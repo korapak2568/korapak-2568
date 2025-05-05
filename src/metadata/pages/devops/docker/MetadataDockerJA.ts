@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDocker} from "@/metadata/pages/devops/docker/common/MetadataLinkDocker";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDockerJA: Metadata = {
     title: "Docker DevOps サービス | CHORN",
     description: "Docker ベースの DevOps 技術専門知識を活用し、効率的なコンテナ化とスケーラブルなアプリケーションのデプロイを実現。",
-    alternates: MetadataLinkDocker.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.devops.docker).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDockerJA: Metadata = {
     openGraph: {
         title: "Docker DevOps サービス | CHORN",
         description: "Docker を活用したコンテナ化とスケーラブルなソフトウェアのデプロイを DevOps 技術専門知識で支援。",
-        images: MetadataLinkDocker.openGraph.images,
-        url: MetadataLinkDocker.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.devops.docker).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.devops.docker).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Docker DevOps サービス | CHORN",
         description: "Docker DevOps 技術専門知識を活用し、コンテナ化とスケーラブルなアプリケーションのデプロイを実現。",
-        images: MetadataLinkDocker.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.devops.docker).twitter.images,
     },
     keywords: [
         "Docker DevOps", "Docker 技術専門知識", "コンテナ化", "CHORN", "DevOps", "スケーラブルなデプロイ",

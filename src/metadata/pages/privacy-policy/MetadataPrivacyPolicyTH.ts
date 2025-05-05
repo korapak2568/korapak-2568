@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkPrivacyPolicy} from "@/metadata/pages/privacy-policy/common/MetadataLinkPrivacyPolicy";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPrivacyPolicyTH: Metadata = {
     title: "นโยบายความเป็นส่วนตัว | CHORN",
@@ -7,7 +9,7 @@ export const MetadataPrivacyPolicyTH: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkPrivacyPolicy.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.privacyPolicy).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataPrivacyPolicyTH: Metadata = {
     openGraph: {
         title: "นโยบายความเป็นส่วนตัว | CHORN",
         description: "CHORN เคารพความเป็นส่วนตัวของคุณและมุ่งมั่นที่จะปกป้องข้อมูลส่วนบุคคลของคุณ นโยบายความเป็นส่วนตัวนี้อธิบายถึงวิธีการจัดการข้อมูลใดๆ เมื่อใช้เว็บไซต์ และเกี่ยวกับการใช้คุกกี้เพื่อวัตถุประสงค์ในการวิเคราะห์",
-        images: MetadataLinkPrivacyPolicy.openGraph.images,
-        url: MetadataLinkPrivacyPolicy.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.privacyPolicy).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.privacyPolicy).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "นโยบายความเป็นส่วนตัว | CHORN",
         description: "CHORN เคารพความเป็นส่วนตัวของคุณและมุ่งมั่นที่จะปกป้องข้อมูลส่วนบุคคลของคุณ นโยบายความเป็นส่วนตัวนี้อธิบายถึงวิธีการจัดการข้อมูลใดๆ เมื่อใช้เว็บไซต์ และเกี่ยวกับการใช้คุกกี้เพื่อวัตถุประสงค์ในการวิเคราะห์",
-        images: MetadataLinkPrivacyPolicy.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.privacyPolicy).twitter.images,
     },
 }

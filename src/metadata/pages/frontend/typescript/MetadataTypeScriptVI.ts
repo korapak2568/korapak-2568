@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkTypeScript} from "@/metadata/pages/frontend/typescript/common/MetadataLinkTypeScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTypeScriptVI: Metadata = {
     title: "TypeScript | CHORN - Chuyên gia phát triển phần mềm tùy chỉnh",
     description: "Sử dụng TypeScript để xây dựng các giải pháp phần mềm tùy chỉnh có thể mở rộng, mạnh mẽ và hiệu quả cho các doanh nghiệp trong nhiều ngành nghề.",
-    alternates: MetadataLinkTypeScript.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.frontend.typescript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataTypeScriptVI: Metadata = {
     openGraph: {
         title: "CHORN - Phát triển phần mềm tùy chỉnh với TypeScript",
         description: "Chuyên môn về TypeScript, công cụ mạnh mẽ để xây dựng các ứng dụng có thể mở rộng và hiệu suất cao. Tìm hiểu lý do chúng tôi chọn TypeScript cho các giải pháp phần mềm tùy chỉnh.",
-        images: MetadataLinkTypeScript.openGraph.images,
-        url: MetadataLinkTypeScript.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.typescript).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.typescript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - Phát triển TypeScript cho các giải pháp phần mềm tùy chỉnh",
         description: "Sử dụng TypeScript để cung cấp các giải pháp phần mềm có thể mở rộng và chất lượng cao phù hợp với nhu cầu của doanh nghiệp.",
-        images: MetadataLinkTypeScript.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.typescript).twitter.images,
     },
     keywords: [
         "Phát triển TypeScript", "Chuyên môn TypeScript", "Lập trình viên TypeScript", "Phát triển TypeScript tùy chỉnh",

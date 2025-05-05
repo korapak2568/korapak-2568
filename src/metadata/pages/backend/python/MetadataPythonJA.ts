@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPythonJA: Metadata = {
     title: "Python フルスタック開発 | CHORN",
     description: "Python フルスタック開発、ダイナミックでスケーラブルなウェブアプリケーションを構築するための技術的専門知識。",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.backend.python).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPythonJA: Metadata = {
     openGraph: {
         title: "Python 開発 | CHORN",
         description: "Python フルスタック開発の技術的専門知識を使用して、ダイナミックでスケーラブルなウェブアプリケーションを構築します。",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.backend.python).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.backend.python).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Python フルスタック開発 | CHORN",
         description: "ダイナミックでスケーラブルなウェブアプリケーションのための Python フルスタック開発の技術的専門知識。",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.backend.python).twitter.images,
     },
     keywords: [
         "Python 開発", "Python 技術専門知識", "Python 開発者", "カスタム Python 開発", "Python ウェブアプリケーション",

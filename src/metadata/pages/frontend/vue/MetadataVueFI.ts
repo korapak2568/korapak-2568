@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkVue} from "@/metadata/pages/frontend/vue/common/MetadataLinkVue";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataVueFI: Metadata = {
     title: "Vue.js Kehityspalvelut | CHORN",
     description: "Erikoistunut Vue.js-kehitykseen luodakseen interaktiivisia ja skaalautuvia verkkosovelluksia.",
-    alternates: MetadataLinkVue.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.frontend.vue).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataVueFI: Metadata = {
     openGraph: {
         title: "Vue.js Kehitys | CHORN",
         description: "Vue.js-asiantuntemus, tekninen asiantuntemus nykyaikaisten verkkosovellusten luomiseen.",
-        images: MetadataLinkVue.openGraph.images,
-        url: MetadataLinkVue.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.vue).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.vue).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Vue.js Kehityspalvelut | CHORN",
         description: "Paranna verkkosovelluksiasi Vue.js-kehityksen asiantuntemuksella.",
-        images: MetadataLinkVue.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.vue).twitter.images,
     },
     keywords: [
         "Vue.js kehitys", "Vue.js tekninen asiantuntemus", "Vue.js kehittäjä", "räätälöity Vue.js kehitys", "Vue.js sovellukset",

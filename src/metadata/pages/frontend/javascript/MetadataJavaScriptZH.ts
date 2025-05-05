@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJavaScript} from "@/metadata/pages/frontend/javascript/common/MetadataLinkJavaScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaScriptZH: Metadata = {
     title: "JavaScript | CHORN - 定制软件开发专家",
     description: "利用JavaScript构建可扩展、强大且高效的定制软件解决方案，服务于各行业的企业。",
-    alternates: MetadataLinkJavaScript.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.frontend.javascript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaScriptZH: Metadata = {
     openGraph: {
         title: "CHORN - JavaScript定制软件开发",
         description: "JavaScript专业知识，构建可扩展和高性能应用程序的强大工具。了解我们为何选择JavaScript作为定制软件解决方案的工具。",
-        images: MetadataLinkJavaScript.openGraph.images,
-        url: MetadataLinkJavaScript.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.javascript).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.javascript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - 定制软件解决方案的JavaScript开发",
         description: "使用JavaScript提供可扩展和高质量的定制软件解决方案，以满足企业的需求。",
-        images: MetadataLinkJavaScript.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.javascript).twitter.images,
     },
     keywords: [
         "JavaScript开发", "JavaScript技术专长", "JavaScript开发人员", "定制JavaScript开发",

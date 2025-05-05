@@ -5,7 +5,7 @@ import ServicesDetailsDotNetCore
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataDotnetCore} from "@/metadata/pages/backend/dotnet/common/MetadataDotnetCore";
+import {MetadataDotnetCore} from "@/metadata/main/backend/MetadataDotnetCore";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

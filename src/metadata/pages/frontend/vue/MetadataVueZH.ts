@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkVue} from "@/metadata/pages/frontend/vue/common/MetadataLinkVue";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataVueZH: Metadata = {
     title: "Vue.js 开发服务 | CHORN",
     description: "专注于 Vue.js 开发，创建互动性强且可扩展的 Web 应用程序。",
-    alternates: MetadataLinkVue.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.frontend.vue).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataVueZH: Metadata = {
     openGraph: {
         title: "Vue.js 开发 | CHORN",
         description: "Vue.js 开发专业技术，用于构建现代 Web 应用程序。",
-        images: MetadataLinkVue.openGraph.images,
-        url: MetadataLinkVue.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.vue).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.vue).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Vue.js 开发服务 | CHORN",
         description: "通过 Vue.js 开发技术增强您的 Web 应用程序。",
-        images: MetadataLinkVue.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.vue).twitter.images,
     },
     keywords: [
         "Vue.js 开发", "Vue.js 专业技术", "Vue.js 开发者", "定制 Vue.js 开发", "Vue.js 应用程序",

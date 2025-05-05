@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactVI: Metadata = {
     title: "Dịch vụ phát triển React | CHORN",
     description: "Dịch vụ phát triển React đẳng cấp, tạo giao diện người dùng động và phản hồi nhanh với React.",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactVI: Metadata = {
     openGraph: {
         title: "Phát triển React | CHORN",
         description: "Nâng cao ứng dụng web của bạn với phát triển React chuyên nghiệp, kỹ thuật chuyên môn cho các ứng dụng hiệu suất cao.",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ phát triển React | CHORN",
         description: "Phát triển React chuyên nghiệp, kỹ thuật chuyên môn tạo giao diện người dùng hấp dẫn với React.",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "Phát triển React", "Chuyên môn React", "Lập trình viên React", "Phát triển React tùy chỉnh", "Ứng dụng React.js",

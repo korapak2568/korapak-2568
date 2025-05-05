@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJenkins} from "@/metadata/pages/devops/jenkins/common/MetadataLinkJenkins";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJenkinsJA: Metadata = {
     title: "Jenkins DevOps サービス | CHORN",
     description: "Jenkins をベースにした DevOps の技術的専門知識で、ビルド、テスト、デプロイメントを自動化し、開発パイプラインを最適化します。",
-    alternates: MetadataLinkJenkins.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.devops.jenkins).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJenkinsJA: Metadata = {
     openGraph: {
         title: "Jenkins DevOps サービス | CHORN",
         description: "Jenkins を使用した DevOps の技術的専門知識で、継続的インテグレーションとデプロイメントを自動化します。",
-        images: MetadataLinkJenkins.openGraph.images,
-        url: MetadataLinkJenkins.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.devops.jenkins).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.devops.jenkins).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Jenkins DevOps サービス | CHORN",
         description: "CI/CD の自動化のため、Jenkins をベースにした CHORN の DevOps 技術的専門知識で、ソフトウェア開発ライフサイクルを強化します。",
-        images: MetadataLinkJenkins.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.devops.jenkins).twitter.images,
     },
     keywords: [
         "Jenkins DevOps", "Jenkins 技術専門知識", "CI/CD 自動化", "DevOps", "継続的インテグレーション", "DevOps 日本",

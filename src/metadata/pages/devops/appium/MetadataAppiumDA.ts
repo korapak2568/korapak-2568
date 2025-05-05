@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAppium} from "@/metadata/pages/devops/appium/common/MetadataLinkAppium";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAppiumDA: Metadata = {
     title: "Appium Testtjenester | CHORN",
     description: "Ekspertise inden for Appium-test til automatiseret test af mobilapplikationer på tværs af flere platforme for at sikre høj ydeevne og kvalitet.",
-    alternates: MetadataLinkAppium.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.devops.appium).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataAppiumDA: Metadata = {
     openGraph: {
         title: "Appium Test | CHORN",
         description: "Automatisér dine mobilapplikationstests med Appium-ekspertise til omfattende test på tværs af platforme.",
-        images: MetadataLinkAppium.openGraph.images,
-        url: MetadataLinkAppium.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.devops.appium).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.appium).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Appium Testtjenester | CHORN",
         description: "Sørg for, at dine mobilapps fungerer fejlfrit med Appium-testekspertise til grundige og automatiserede test på tværs af platforme.",
-        images: MetadataLinkAppium.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.devops.appium).twitter.images,
     },
     keywords: [
         "Appium-test", "Test af mobilapplikationer", "CHORN", "Cloud DevOps",

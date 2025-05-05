@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGoDE: Metadata = {
     title: "Go Full Stack Entwicklung | CHORN",
     description: "Go Full Stack Entwicklung, technische Expertise zum Erstellen effizienter und skalierbarer Webanwendungen.",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.backend.go).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGoDE: Metadata = {
     openGraph: {
         title: "Go Entwicklung | CHORN",
         description: "Erstellen Sie effiziente und skalierbare Webanwendungen mit der technischen Expertise der Go Full Stack Entwicklung.",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.backend.go).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.backend.go).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Go Full Stack Entwicklung | CHORN",
         description: "Expertenwissen in der Go Full Stack Entwicklung für effiziente und skalierbare Webanwendungen.",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.backend.go).twitter.images,
     },
     keywords: [
         "Go-lang Entwicklung", "Go technische Expertise", "Go Entwickler", "individuelle Go-lang Entwicklung", "Go Webanwendungen",

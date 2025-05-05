@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkCss3} from "@/metadata/pages/frontend/css3/common/MetadataLinkCss3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCss3ZH: Metadata = {
     title: "CSS3 开发服务 | CHORN",
     description: "利用 CSS3 开发技术增强您的 Web 应用程序，提供现代和视觉吸引力的设计。",
-    alternates: MetadataLinkCss3.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.frontend.css3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataCss3ZH: Metadata = {
     openGraph: {
         title: "CSS3 开发 | CHORN",
         description: "使用 CSS3 技术开发，创建时尚且响应迅速的 Web 设计。",
-        images: MetadataLinkCss3.openGraph.images,
-        url: MetadataLinkCss3.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.css3).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.css3).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CSS3 开发服务 | CHORN",
         description: "通过提供 CSS3 开发技术，创建视觉上令人惊叹的 Web 设计。",
-        images: MetadataLinkCss3.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.css3).twitter.images,
     },
     keywords: [
         "CSS3 开发", "CSS3 技术专长", "CSS3 开发人员", "定制 CSS3 开发", "响应式设计 CSS3",

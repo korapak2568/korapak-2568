@@ -4,7 +4,7 @@ import ServicesDetailsDocker from "@/components/Services/cloud-devops/docker/Ser
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataDocker} from "@/metadata/pages/devops/docker/common/MetadataDocker";
+import {MetadataDocker} from "@/metadata/main/devops/MetadataDocker";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

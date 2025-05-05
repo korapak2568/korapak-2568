@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import { MetadataLinkHtml5 } from "./common/MetadataLinkHtml5";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHtml5DA: Metadata = {
     title: "HTML5 Udviklingstjenester | CHORN",
     description: "HTML5 udviklingsteknisk ekspertise til at skabe responsive og interaktive webapplikationer.",
-    alternates: MetadataLinkHtml5.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.frontend.html5).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataHtml5DA: Metadata = {
     openGraph: {
         title: "HTML5 Udvikling | CHORN",
         description: "Byg moderne og interaktive webapplikationer med teknisk ekspertise.",
-        images: MetadataLinkHtml5.openGraph.images,
-        url: MetadataLinkHtml5.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.frontend.html5).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.html5).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "HTML5 Udviklingstjenester | CHORN",
         description: "Skab interaktive webapps med HTML5 teknisk ekspertise.",
-        images: MetadataLinkHtml5.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.frontend.html5).twitter.images,
     },
     keywords: [
         "HTML5 udvikling", "HTML5 teknisk ekspertise", "HTML5 udvikler", "tilpasset HTML5 udvikling", "HTML5 responsivt design",

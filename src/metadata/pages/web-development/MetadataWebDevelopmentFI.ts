@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWebDevelopmentFI: Metadata = {
     title: "Verkkokehityspalvelut | Räätälöidyt ohjelmisto- ja teknologiakokonaisuudet",
     description: "Tutustu CHORNin verkkokehityksen tekniseen asiantuntemukseen, mukaan lukien Next.js, React, Angular, Vue ja monia muita. CHORN tarjoaa räätälöityjä ratkaisuja yrityksille eri aloilla, kuten digitaalinen markkinointi, lohkoketjuteknologia, sähköinen kaupankäynti ja paljon muuta.",
-    alternates: MetadataLinkWebDevelopment.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.webDevelopment).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWebDevelopmentFI: Metadata = {
     openGraph: {
         title: "Parhaat verkkokehityspalvelut | CHORN",
         description: "CHORN tarjoaa verkkokehityksen asiantuntemusta suosituilla kehyksillä, kuten Next.js, React, Angular ja monia muita. CHORN täyttää monenlaiset liiketoimintatarpeet, kuten digitaalinen markkinointi, sähköinen kaupankäynti, lohkoketjuteknologia ja paljon muuta.",
-        images: MetadataLinkWebDevelopment.openGraph.images,
-        url: MetadataLinkWebDevelopment.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.webDevelopment).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.webDevelopment).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Verkkokehityspalvelut | CHORN",
         description: "Tutustu CHORNin verkkokehityksen asiantuntemukseen. Next.js:stä Angulariin ja moniin muihin, CHORN tarjoaa ratkaisuja kaikkiin liiketoimintatarpeisiin, kuten digitaalinen markkinointi, lohkoketjuteknologia, sähköinen kaupankäynti ja paljon muuta.",
-        images: MetadataLinkWebDevelopment.twitter.images
+        images: metadataLink(LanguageCode.fi, MetaLinks.webDevelopment).twitter.images
     },
     keywords: [
         "verkkokehitys", "verkkokehityksen asiantuntemus", "verkkokehittäjä", "räätälöity verkkokehitys",

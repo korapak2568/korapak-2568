@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDotnetCoreTH: Metadata = {
     title: ".NET Core C# การพัฒนาแบบ Full Stack | CHORN",
     description: "การพัฒนา .NET Core C# แบบ Full Stack ด้วยความเชี่ยวชาญทางเทคนิคในการสร้างแอปพลิเคชันเว็บที่ทันสมัย ขยายได้ และปลอดภัย.",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.backend.dotnetcore).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDotnetCoreTH: Metadata = {
     openGraph: {
         title: ".NET Core C# การพัฒนา | CHORN",
         description: "สร้างแอปพลิเคชันเว็บที่ปลอดภัย ขยายได้ และทันสมัย ด้วยความเชี่ยวชาญทางเทคนิคในการพัฒนา .NET Core C# แบบ Full Stack.",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.dotnetcore).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.dotnetcore).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: ".NET Core C# การพัฒนาแบบ Full Stack | CHORN",
         description: "ความเชี่ยวชาญในการพัฒนา .NET Core C# แบบ Full Stack สำหรับการสร้างแอปพลิเคชันเว็บที่ทันสมัยและขยายได้.",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.dotnetcore).twitter.images,
     },
     keywords: [
         ".NET Core C# การพัฒนา", ".NET Core C# ความเชี่ยวชาญทางเทคนิค", ".NET Core C# นักพัฒนา", "การพัฒนา .NET Core C# แบบกำหนดเอง",

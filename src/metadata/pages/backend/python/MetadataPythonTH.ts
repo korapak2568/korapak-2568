@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPythonTH: Metadata = {
     title: "การพัฒนา Python Full Stack | CHORN",
     description: "การพัฒนา Python Full Stack, ความเชี่ยวชาญทางเทคนิคในการสร้างแอปพลิเคชันเว็บที่มีความยืดหยุ่นและสามารถขยายได้",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.backend.python).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPythonTH: Metadata = {
     openGraph: {
         title: "การพัฒนา Python | CHORN",
         description: "สร้างแอปพลิเคชันเว็บที่มีความยืดหยุ่นและสามารถขยายได้ด้วยความเชี่ยวชาญในการพัฒนา Python Full Stack",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.python).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.python).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "การพัฒนา Python Full Stack | CHORN",
         description: "ความเชี่ยวชาญในการพัฒนา Python Full Stack สำหรับแอปพลิเคชันเว็บที่มีความยืดหยุ่นและสามารถขยายได้",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.backend.python).twitter.images,
     },
     keywords: [
         "การพัฒนา Python", "ความเชี่ยวชาญ Python", "นักพัฒนา Python", "การพัฒนา Python ที่ปรับแต่ง", "แอปพลิเคชันเว็บ Python",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkCss3} from "@/metadata/pages/frontend/css3/common/MetadataLinkCss3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCss3KO: Metadata = {
     title: "CSS3 개발 서비스 | CHORN",
     description: "CSS3 개발 기술 전문성으로 현대적이고 시각적으로 매력적인 디자인의 웹 애플리케이션을 향상시킵니다.",
-    alternates: MetadataLinkCss3.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.frontend.css3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataCss3KO: Metadata = {
     openGraph: {
         title: "CSS3 개발 | CHORN",
         description: "CSS3 개발 기술 전문성을 바탕으로 스타일리시하고 반응형 웹 디자인을 만듭니다.",
-        images: MetadataLinkCss3.openGraph.images,
-        url: MetadataLinkCss3.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.css3).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.css3).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CSS3 개발 서비스 | CHORN",
         description: "CSS3 개발 기술 전문성을 통해 시각적으로 인상적인 웹 디자인을 만드세요.",
-        images: MetadataLinkCss3.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.css3).twitter.images,
     },
     keywords: [
         "CSS3 개발", "CSS3 기술 전문성", "CSS3 개발자", "맞춤형 CSS3 개발", "반응형 CSS3 디자인",

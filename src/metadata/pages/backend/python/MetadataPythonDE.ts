@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPythonDE: Metadata = {
     title: "Python Full Stack Entwicklung | CHORN",
     description: "Python Full Stack Entwicklung, technische Expertise zum Erstellen dynamischer und skalierbarer Webanwendungen.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.backend.python).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPythonDE: Metadata = {
     openGraph: {
         title: "Python Entwicklung | CHORN",
         description: "Erstellen Sie dynamische und skalierbare Webanwendungen mit der technischen Expertise der Python Full Stack Entwicklung.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.backend.python).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.backend.python).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Python Full Stack Entwicklung | CHORN",
         description: "Technische Expertise in der Python Full Stack Entwicklung für dynamische und skalierbare Webanwendungen.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.backend.python).twitter.images,
     },
     keywords: [
         "Python Entwicklung", "Python technische Expertise", "Python Entwickler", "Custom Python Entwicklung", "Python Webanwendungen",

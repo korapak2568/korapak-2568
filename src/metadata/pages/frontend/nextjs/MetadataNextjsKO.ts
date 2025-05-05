@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNextjs} from "@/metadata/pages/frontend/nextjs/common/MetadataLinkNextjs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNextjsKO: Metadata = {
     title: "Next.js 개발 서비스 | CHORN",
     description: "Next.js 개발 서비스, Next.js를 사용하여 웹 애플리케이션을 확장 가능하고 고성능 솔루션으로 향상시키세요.",
-    alternates: MetadataLinkNextjs.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.frontend.nextjs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNextjsKO: Metadata = {
     openGraph: {
         title: "Next.js 개발 | CHORN",
         description: "Next.js 개발 전문 기술로 빠르고 확장 가능한 웹 애플리케이션을 만듭니다.",
-        images: MetadataLinkNextjs.openGraph.images,
-        url: MetadataLinkNextjs.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.nextjs).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.nextjs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Next.js 개발 서비스 | CHORN",
         description: "Next.js 개발 전문 기술로 웹 애플리케이션을 향상시키세요.",
-        images: MetadataLinkNextjs.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.frontend.nextjs).twitter.images,
     },
     keywords: [
         "Next.js 개발", "Next.js 기술 전문성", "Next.js 개발자", "맞춤형 Next.js 개발", "서버 사이드 렌더링",

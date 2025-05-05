@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkTermOfService} from "@/metadata/pages/terms-of-service/common/MetadataLinkTermOfService";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTermOfServiceFR: Metadata = {
     title: "Conditions d'utilisation | CHORN",
@@ -7,7 +9,7 @@ export const MetadataTermOfServiceFR: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkTermOfService.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.termOfServices).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataTermOfServiceFR: Metadata = {
     openGraph: {
         title: "Conditions d'utilisation | CHORN",
         description: "CHORN fournit les conditions d'utilisation qui régissent l'utilisation de ce site Web. En accédant ou en utilisant le site Web, vous acceptez de vous conformer à ces conditions.",
-        images: MetadataLinkTermOfService.openGraph.images,
-        url: MetadataLinkTermOfService.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.termOfServices).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.termOfServices).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Conditions d'utilisation | CHORN",
         description: "CHORN fournit les conditions d'utilisation qui régissent l'utilisation de ce site Web. En accédant ou en utilisant le site Web, vous acceptez de vous conformer à ces conditions.",
-        images: MetadataLinkTermOfService.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.termOfServices).twitter.images,
     },
 }

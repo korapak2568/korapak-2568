@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDevOpsMain} from "@/metadata/pages/devops/main/common/MetadataLinkDevOpsMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDevOpsMainEN: Metadata = {
     title: "Enterprise DevOps & Cloud Solutions | CHORN",
     description: "Accelerate your digital transformation with DevOps and cloud expertise. We deliver streamlined CI/CD pipelines, infrastructure automation, and cloud-native solutions that enhance reliability and reduce time-to-market.",
-    alternates: MetadataLinkDevOpsMain.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.devops.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDevOpsMainEN: Metadata = {
     openGraph: {
         title: "Enterprise DevOps & Cloud Solutions | CHORN",
         description: "Accelerate your digital transformation with DevOps and cloud expertise. We deliver streamlined CI/CD pipelines, infrastructure automation, and cloud-native solutions that enhance reliability and reduce time-to-market.",
-        images: MetadataLinkDevOpsMain.openGraph.images,
-        url: MetadataLinkDevOpsMain.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.devops.main).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.devops.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Enterprise DevOps & Cloud Solutions | CHORN",
         description: "Accelerate your digital transformation with DevOps and cloud expertise. We deliver streamlined CI/CD pipelines, infrastructure automation, and cloud-native solutions that enhance reliability and reduce time-to-market.",
-        images: MetadataLinkDevOpsMain.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.devops.main).twitter.images,
     },
     keywords: [
         "Cloud DevOps", "DevOps technical expertise", "software testing", "continuous integration", "CI/CD pipeline", "automated testing",

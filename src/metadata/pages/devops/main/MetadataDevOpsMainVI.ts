@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDevOpsMain} from "@/metadata/pages/devops/main/common/MetadataLinkDevOpsMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDevOpsMainVI: Metadata = {
     title: "Giải Pháp DevOps và Cloud cho Doanh Nghiệp | CHORN",
     description: "Tăng tốc quá trình chuyển đổi số của bạn với chuyên môn về DevOps và Cloud. Chúng tôi cung cấp các pipeline CI/CD tối ưu, tự động hóa cơ sở hạ tầng và các giải pháp Cloud-native giúp nâng cao độ tin cậy và giảm thời gian ra mắt thị trường.",
-    alternates: MetadataLinkDevOpsMain.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.devops.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDevOpsMainVI: Metadata = {
     openGraph: {
         title: "Giải Pháp DevOps và Cloud cho Doanh Nghiệp | CHORN",
         description: "Tăng tốc quá trình chuyển đổi số của bạn với chuyên môn về DevOps và Cloud. Chúng tôi cung cấp các pipeline CI/CD tối ưu, tự động hóa cơ sở hạ tầng và các giải pháp Cloud-native giúp nâng cao độ tin cậy và giảm thời gian ra mắt thị trường.",
-        images: MetadataLinkDevOpsMain.openGraph.images,
-        url: MetadataLinkDevOpsMain.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.devops.main).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Giải Pháp DevOps và Cloud cho Doanh Nghiệp | CHORN",
         description: "Tăng tốc quá trình chuyển đổi số của bạn với chuyên môn về DevOps và Cloud. Chúng tôi cung cấp các pipeline CI/CD tối ưu, tự động hóa cơ sở hạ tầng và các giải pháp Cloud-native giúp nâng cao độ tin cậy và giảm thời gian ra mắt thị trường.",
-        images: MetadataLinkDevOpsMain.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.devops.main).twitter.images,
     },
     keywords: [
         "Cloud DevOps", "chuyên môn DevOps", "kiểm tra phần mềm", "tích hợp liên tục", "CI/CD pipeline", "kiểm tra tự động",

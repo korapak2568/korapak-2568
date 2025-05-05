@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeFI: Metadata = {
     title: "CHORN | Yritysohjelmistokehitys ja järjestelmäintegraatio",
@@ -7,7 +9,7 @@ export const MetadataHomeFI: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeFI: Metadata = {
     openGraph: {
         title: "CHORN | Yritysohjelmistokehitys ja järjestelmäintegraatio",
         description: "Vahvista liiketoimintaasi asiantuntevalla järjestelmäanalyysillä ja huipputason ohjelmistoratkaisuilla. CHORN on erikoistunut full-stack kehitykseen, tekoälypohjaiseen automaatioon, pilvipalveluihin ja järjestelmän modernisointiin innovaatioiden ja tehokkuuden edistämiseksi.",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | Yritysohjelmistokehitys ja järjestelmäintegraatio",
         description: "Vahvista liiketoimintaasi asiantuntevalla järjestelmäanalyysillä ja huipputason ohjelmistoratkaisuilla. CHORN on erikoistunut full-stack kehitykseen, tekoälypohjaiseen automaatioon, pilvipalveluihin ja järjestelmän modernisointiin innovaatioiden ja tehokkuuden edistämiseksi.",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.home).twitter.images,
     },
     keywords: [
         "CHORN", "CHORN räätälöity ohjelmistokehitys", "CHORN ohjelmistojen ulkoistaminen", "Mitä on CHORN",

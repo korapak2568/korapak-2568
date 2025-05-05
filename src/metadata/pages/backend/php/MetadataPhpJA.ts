@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPhpJA: Metadata = {
     title: "PHPフルスタック開発 | CHORN",
     description: "PHPフルスタック開発、ダイナミックでスケーラブルなウェブアプリケーションを作成するための技術的専門知識。",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.backend.php).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPhpJA: Metadata = {
     openGraph: {
         title: "PHP開発 | CHORN",
         description: "PHPフルスタック開発を活用し、スケーラブルでダイナミックなウェブアプリケーションを作成するための技術的専門知識。",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.backend.php).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.backend.php).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "PHPフルスタック開発 | CHORN",
         description: "PHPフルスタック開発の専門知識を活用し、ダイナミックでスケーラブルなウェブアプリケーションを作成します。",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.backend.php).twitter.images,
     },
     keywords: [
         "PHP開発", "PHP技術専門知識", "PHP開発者", "カスタムPHP開発", "PHPウェブアプリケーション",

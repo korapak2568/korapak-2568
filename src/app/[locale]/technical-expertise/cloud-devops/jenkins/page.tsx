@@ -5,7 +5,7 @@ import ServicesDetailsJenkins from "@/components/Services/cloud-devops/jenkins/S
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataJenkins} from "@/metadata/pages/devops/jenkins/common/MetadataJenkins";
+import {MetadataJenkins} from "@/metadata/main/devops/MetadataJenkins";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

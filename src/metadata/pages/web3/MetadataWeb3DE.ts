@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3DE: Metadata = {
     title: "Web3 Blockchain Smart Contract Entwicklung | CHORN",
     description: "Web3 Blockchain- und Smart Contract-Entwicklung. Wir entwickeln dezentrale Anwendungen (DApps) mit Solidity, Ethereum, Polygon und integrieren Technologien wie Hardhat, Ganache und MetaMask.",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3DE: Metadata = {
     openGraph: {
         title: "Web3 Blockchain Smart Contract Entwicklungsdienste | CHORN",
         description: "Fachliche Expertise in Web3 Blockchain- und Smart Contract-Entwicklung, einschließlich der Erstellung von DApps mit Solidity, Ethereum, Polygon und Integration von Hardhat, Ganache und MetaMask.",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Web3 Blockchain Smart Contract Entwicklung | CHORN",
         description: "Technische Expertise in Web3- und Blockchain-Smart-Contract-Entwicklung, mit der Erstellung von dezentralen Anwendungen (DApps) mit Solidity, Ethereum, Polygon und Integration von Hardhat, Ganache und MetaMask.",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Web3 Entwicklung", "Blockchain Entwicklung", "Smart Contract Entwicklung", "Solidity Entwicklung",

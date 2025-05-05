@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkVue} from "@/metadata/pages/frontend/vue/common/MetadataLinkVue";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataVueDE: Metadata = {
     title: "Vue.js Entwicklungsdienste | CHORN",
     description: "Spezialisiert auf Vue.js-Entwicklung zur Erstellung interaktiver und skalierbarer Webanwendungen.",
-    alternates: MetadataLinkVue.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.frontend.vue).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataVueDE: Metadata = {
     openGraph: {
         title: "Vue.js Entwicklung | CHORN",
         description: "Expertise in Vue.js-Entwicklung, technische Expertise zur Erstellung moderner Webanwendungen.",
-        images: MetadataLinkVue.openGraph.images,
-        url: MetadataLinkVue.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.frontend.vue).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.frontend.vue).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Vue.js Entwicklungsdienste | CHORN",
         description: "Verbessern Sie Ihre Webanwendungen mit Vue.js-Entwicklungsexpertise.",
-        images: MetadataLinkVue.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.frontend.vue).twitter.images,
     },
     keywords: [
         "Vue.js Entwicklung", "Vue.js technische Expertise", "Vue.js Entwickler", "maßgeschneiderte Vue.js Entwicklung", "Vue.js Anwendungen",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDevOpsMain} from "@/metadata/pages/devops/main/common/MetadataLinkDevOpsMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDevOpsMainDA: Metadata = {
     title: "Cloud and DevOps Services | CHORN",
     description: "CHORN offers expert DevOps and testing technical expertise to streamline your software development process. Ensure high performance and quality with our continuous integration, automated testing, and cloud-based solutions.",
-    alternates: MetadataLinkDevOpsMain.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.devops.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDevOpsMainDA: Metadata = {
     openGraph: {
         title: "Cloud and DevOps Services | CHORN",
         description: "Leverage CHORN’s DevOps and testing technical expertise to enhance your software delivery with automation, continuous integration, and reliable testing solutions.",
-        images: MetadataLinkDevOpsMain.openGraph.images,
-        url: MetadataLinkDevOpsMain.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.devops.main).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Cloud and DevOps Services | CHORN",
         description: "Optimize your software development lifecycle with CHORN’s DevOps and testing technical expertise, including automation, CI/CD, and quality assurance testing.",
-        images: MetadataLinkDevOpsMain.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.devops.main).twitter.images,
     },
     keywords: [
         "Cloud DevOps", "DevOps technical expertise", "software testing", "continuous integration", "CI/CD pipeline", "automated testing",

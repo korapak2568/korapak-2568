@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLink404} from "@/metadata/pages/404/common/MetadataLink404";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const Metadata404TH: Metadata = {
     title: "404 - ไม่พบหน้า",
@@ -7,7 +9,7 @@ export const Metadata404TH: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLink404.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks._404).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,13 +18,13 @@ export const Metadata404TH: Metadata = {
     openGraph: {
         title: "404 - ไม่พบหน้า",
         description: "อุ๊ปส์! เราไม่พบหน้าที่คุณกำลังค้นหา โปรดตรวจสอบ URL หรือกลับไปที่หน้าแรกของเราเพื่อสำรวจ CHORN ต่อไป",
-        images: MetadataLink404.openGraph.images,
-        url: MetadataLink404.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks._404).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks._404).openGraph.url,
         type: "website",
     },
     twitter: {
         title: "404 - ไม่พบหน้า",
         description: "อุ๊ปส์! เราไม่พบหน้าที่คุณกำลังค้นหา โปรดตรวจสอบ URL หรือกลับไปที่หน้าแรกของเราเพื่อสำรวจ CHORN ต่อไป",
-        images: MetadataLink404.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks._404).twitter.images,
     },
 }

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJava} from "@/metadata/pages/backend/java/common/MetadataLinkJava";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaZH: Metadata = {
     title: "Java Spring Boot 全栈开发 | CHORN",
     description: "Java Spring Boot 全栈开发，技术专长用于构建强大且可扩展的企业应用程序。",
-    alternates: MetadataLinkJava.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.backend.java).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaZH: Metadata = {
     openGraph: {
         title: "Java Spring Boot 开发 | CHORN",
         description: "利用 Java Spring Boot 全栈开发的技术专长，构建可扩展、安全且高性能的应用程序。",
-        images: MetadataLinkJava.openGraph.images,
-        url: MetadataLinkJava.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.java).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.java).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Java Spring Boot 全栈开发 | CHORN",
         description: "Java Spring Boot 全栈开发技术专长，构建安全且可扩展的应用程序。",
-        images: MetadataLinkJava.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.java).twitter.images,
     },
     keywords: [
         "Spring Boot 开发", "Java Spring Boot 技术专长", "Spring Boot 开发人员", "定制 Java 开发",

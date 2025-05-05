@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkTermOfService} from "@/metadata/pages/terms-of-service/common/MetadataLinkTermOfService";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTermOfServiceEN: Metadata = {
     title: "Term of Service | CHORN",
@@ -7,7 +9,7 @@ export const MetadataTermOfServiceEN: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkTermOfService.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.termOfServices).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataTermOfServiceEN: Metadata = {
     openGraph: {
         title: "Term of Service | CHORN",
         description: "CHORN provide the Terms of Service govern the use of this website. By accessing or using the Website, you agree to comply with these Terms.",
-        images: MetadataLinkTermOfService.openGraph.images,
-        url: MetadataLinkTermOfService.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.termOfServices).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.termOfServices).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Term of Service | CHORN",
         description: "CHORN provide the Terms of Service govern the use of this website. By accessing or using the Website, you agree to comply with these Terms.",
-        images: MetadataLinkTermOfService.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.termOfServices).twitter.images,
     },
 }

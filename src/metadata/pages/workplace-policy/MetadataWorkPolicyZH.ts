@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkWorkPolicy} from "@/metadata/pages/workplace-policy/common/MetadataLinkWorkPolicy";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWorkPolicyZH: Metadata = {
     title: "工作政策 | CHORN",
@@ -7,7 +9,7 @@ export const MetadataWorkPolicyZH: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkWorkPolicy.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.workplacePolicy).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataWorkPolicyZH: Metadata = {
     openGraph: {
         title: "工作政策 | CHORN",
         description: "CHORN 适应各种工作模式，包括远程办公、办公室办公和混合办公，并根据每个项目的具体需求进行调整。这种方法确保了顺畅的沟通和高效的工作。",
-        images: MetadataLinkWorkPolicy.openGraph.images,
-        url: MetadataLinkWorkPolicy.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.workplacePolicy).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.workplacePolicy).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "工作政策 | CHORN",
         description: "CHORN 适应各种工作模式，包括远程办公、办公室办公和混合办公，并根据每个项目的具体需求进行调整。这种方法确保了顺畅的沟通和高效的工作。",
-        images: MetadataLinkWorkPolicy.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.workplacePolicy).twitter.images,
     },
 }

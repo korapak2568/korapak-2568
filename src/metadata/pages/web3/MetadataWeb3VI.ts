@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3VI: Metadata = {
     title: "Phát triển Web3 Blockchain Smart Contract | CHORN",
     description: "Phát triển Web3 blockchain và smart contract. Chúng tôi xây dựng các ứng dụng phi tập trung (DApps) sử dụng Solidity, Ethereum, Polygon và tích hợp với các công nghệ như Hardhat, Ganache, và MetaMask.",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3VI: Metadata = {
     openGraph: {
         title: "Dịch vụ phát triển Web3 Blockchain Smart Contract | CHORN",
         description: "Chuyên môn kỹ thuật phát triển Web3 blockchain và smart contract, bao gồm xây dựng DApps với Solidity, Ethereum, Polygon và tích hợp với Hardhat, Ganache, và MetaMask.",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Phát triển Web3 Blockchain Smart Contract | CHORN",
         description: "Chuyên môn phát triển Web3 và blockchain smart contract, với việc tạo ra các ứng dụng phi tập trung (DApps) với Solidity, Ethereum, Polygon và tích hợp với Hardhat, Ganache, và MetaMask.",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Phát triển Web3", "Phát triển blockchain", "Phát triển smart contract", "Phát triển Solidity",

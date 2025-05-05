@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDevOpsMain} from "@/metadata/pages/devops/main/common/MetadataLinkDevOpsMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDevOpsMainZH: Metadata = {
     title: "企业 DevOps 和云解决方案 | CHORN",
     description: "利用 DevOps 和云的专业知识加速您的数字化转型。我们提供优化的 CI/CD 管道、基础设施自动化和 Cloud-native 解决方案，增强可靠性并减少市场上市时间。",
-    alternates: MetadataLinkDevOpsMain.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.devops.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDevOpsMainZH: Metadata = {
     openGraph: {
         title: "企业 DevOps 和云解决方案 | CHORN",
         description: "利用 DevOps 和云的专业知识加速您的数字化转型。我们提供优化的 CI/CD 管道、基础设施自动化和 Cloud-native 解决方案，增强可靠性并减少市场上市时间。",
-        images: MetadataLinkDevOpsMain.openGraph.images,
-        url: MetadataLinkDevOpsMain.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.devops.main).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "企业 DevOps 和云解决方案 | CHORN",
         description: "利用 DevOps 和云的专业知识加速您的数字化转型。我们提供优化的 CI/CD 管道、基础设施自动化和 Cloud-native 解决方案，增强可靠性并减少市场上市时间。",
-        images: MetadataLinkDevOpsMain.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.devops.main).twitter.images,
     },
     keywords: [
         "Cloud DevOps", "DevOps 专业知识", "软件测试", "持续集成", "CI/CD 管道", "自动化测试",

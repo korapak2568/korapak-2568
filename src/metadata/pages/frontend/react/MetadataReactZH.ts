@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactZH: Metadata = {
     title: "React开发服务 | CHORN",
     description: "顶级的React开发技术专长，使用React构建动态和响应式的用户界面。",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactZH: Metadata = {
     openGraph: {
         title: "React开发 | CHORN",
         description: "通过React开发专家技术提升您的Web应用，打造高性能的应用程序。",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "React开发服务 | CHORN",
         description: "专家级React开发技术，使用React创建互动性强的用户界面。",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "React开发", "React技术专长", "React开发人员", "定制React开发", "React.js应用",

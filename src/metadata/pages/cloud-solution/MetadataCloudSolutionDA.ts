@@ -1,11 +1,12 @@
 import {Metadata} from "next";
-import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCloudSolutionDA: Metadata = {
     title: "Cloudløsningsarkitektur & Systemanalyse | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN leverer ekspertise inden for cloudløsningsarkitektur og systemanalyse. Vi optimerer cloudinfrastrukturer på AWS, Azure, GCP og DigitalOcean med fokus på ydeevne, skalerbarhed og omkostningseffektivitet.",
-    alternates: metadataLinkCloudSolution(LanguageCode.da).alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.cloudSolutions).alternates,
     authors: [
         {
             name: "CHORN"
@@ -14,15 +15,15 @@ export const MetadataCloudSolutionDA: Metadata = {
     openGraph: {
         title: "Cloudløsningsarkitektur & Systemanalyse | CHORN",
         description: "Udforsk CHORN's ekspertise inden for cloudløsningsarkitektur og systemanalyse. Vi designer robuste, skalerbare og optimerede cloudløsninger på AWS, Azure, GCP og DigitalOcean.",
-        images: metadataLinkCloudSolution(LanguageCode.da).openGraph.images,
-        url: metadataLinkCloudSolution(LanguageCode.da).alternates.canonical,
+        images: metadataLink(LanguageCode.da, MetaLinks.cloudSolutions).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.cloudSolutions).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Cloudløsningsarkitektur & Systemanalyse | CHORN",
         description: "Optimer din cloudinfrastruktur med CHORN's ekspertise i cloudløsningsarkitektur og systemanalyse, herunder AWS, Azure, GCP og DigitalOcean.",
-        images: metadataLinkCloudSolution(LanguageCode.da).twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.cloudSolutions).twitter.images,
     },
     keywords: [
         "cloudløsningsarkitektur", "systemanalyse", "AWS-arkitektur", "Azure-cloudløsninger",

@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkWorkPolicy} from "@/metadata/pages/workplace-policy/common/MetadataLinkWorkPolicy";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWorkPolicyFR: Metadata = {
     title: "Politique de travail | CHORN",
@@ -7,7 +9,7 @@ export const MetadataWorkPolicyFR: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkWorkPolicy.alternates,
+    alternates: metadataLink(LanguageCode.fr, MetaLinks.workplacePolicy).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataWorkPolicyFR: Metadata = {
     openGraph: {
         title: "Politique de travail | CHORN",
         description: "CHORN s'adapte à divers modèles de travail, y compris à distance, en bureau et hybride, en les ajustant aux besoins spécifiques de chaque projet. Cette approche garantit une communication fluide et une efficacité optimale.",
-        images: MetadataLinkWorkPolicy.openGraph.images,
-        url: MetadataLinkWorkPolicy.openGraph.url,
+        images: metadataLink(LanguageCode.fr, MetaLinks.workplacePolicy).openGraph.images,
+        url: metadataLink(LanguageCode.fr, MetaLinks.workplacePolicy).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Politique de travail | CHORN",
         description: "CHORN s'adapte à divers modèles de travail, y compris à distance, en bureau et hybride, en les ajustant aux besoins spécifiques de chaque projet. Cette approche garantit une communication fluide et une efficacité optimale.",
-        images: MetadataLinkWorkPolicy.twitter.images,
+        images: metadataLink(LanguageCode.fr, MetaLinks.workplacePolicy).twitter.images,
     },
 }

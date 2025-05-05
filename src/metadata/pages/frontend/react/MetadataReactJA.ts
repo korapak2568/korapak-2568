@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactJA: Metadata = {
     title: "React開発サービス | CHORN",
     description: "高度な技術力を持つReact開発サービス、Reactを使用して動的でレスポンシブなユーザーインターフェースを構築します。",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactJA: Metadata = {
     openGraph: {
         title: "React開発 | CHORN",
         description: "専門的なReact開発技術を活用し、迅速でスケーラブルなウェブアプリケーションを構築します。",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "React開発サービス | CHORN",
         description: "Reactの専門技術を活用し、魅力的なユーザーインターフェースを作成します。",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "React開発", "React技術力", "React開発者", "カスタムReact開発", "React.jsアプリケーション",

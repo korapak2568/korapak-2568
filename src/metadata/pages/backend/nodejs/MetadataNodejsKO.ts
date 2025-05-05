@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNodejs} from "@/metadata/pages/backend/nodejs/common/MetadataLinkNodejs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNodejsKO: Metadata = {
     title: "Node.js 풀스택 개발 | CHORN",
     description: "Node.js 풀스택 개발, 효율적이고 확장 가능한 웹 애플리케이션을 구축하기 위한 기술 전문성.",
-    alternates: MetadataLinkNodejs.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.backend.nodejs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNodejsKO: Metadata = {
     openGraph: {
         title: "Node.js 개발 | CHORN",
         description: "Node.js 풀스택 개발 전문성을 통해 효율적이고 확장 가능한 웹 애플리케이션 구축.",
-        images: MetadataLinkNodejs.openGraph.images,
-        url: MetadataLinkNodejs.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.backend.nodejs).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.nodejs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Node.js 풀스택 개발 | CHORN",
         description: "효율적이고 확장 가능한 웹 앱 구축을 위한 Node.js 풀스택 개발 기술력.",
-        images: MetadataLinkNodejs.twitter.images
+        images: metadataLink(LanguageCode.ko, MetaLinks.backend.nodejs).twitter.images
     },
     keywords: [
         "Node.js 개발", "Node.js 기술 전문성", "Node.js 개발자", "맞춤형 Node.js 개발",

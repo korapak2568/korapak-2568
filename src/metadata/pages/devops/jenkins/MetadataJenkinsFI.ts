@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJenkins} from "@/metadata/pages/devops/jenkins/common/MetadataLinkJenkins";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJenkinsFI: Metadata = {
     title: "Jenkins DevOps Palvelut | CHORN",
     description: "Jenkins-pohjainen DevOps-asiantuntemus rakennusten, testien ja käyttöönoton automatisointiin kehitysputkessasi.",
-    alternates: MetadataLinkJenkins.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.devops.jenkins).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJenkinsFI: Metadata = {
     openGraph: {
         title: "Jenkins DevOps Palvelut | CHORN",
         description: "Automatisoi kehitysprosessisi Jenkins-pohjaisen DevOps-asiantuntemuksen avulla jatkuvaa integraatiota ja käyttöönottoa varten.",
-        images: MetadataLinkJenkins.openGraph.images,
-        url: MetadataLinkJenkins.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.devops.jenkins).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.jenkins).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Jenkins DevOps Palvelut | CHORN",
         description: "Paranna ohjelmistokehityssykliäsi Jenkins-pohjaisella DevOps-asiantuntemuksella CHORNilta CI/CD-automatisointiin.",
-        images: MetadataLinkJenkins.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.devops.jenkins).twitter.images,
     },
     keywords: [
         "Jenkins DevOps", "Jenkins asiantuntemus", "CI/CD automatisointi", "DevOps", "jatkuva integraatio", "DevOps Suomi",

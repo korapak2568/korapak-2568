@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWeb3} from "@/metadata/pages/web3/common/MetadataLinkWeb3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWeb3FI: Metadata = {
     title: "Web3 Blockchain Smart Contract Kehitys | CHORN",
     description: "Web3 blockchain ja älykäs sopimuskehitys. Rakennamme hajautettuja sovelluksia (DApps) käyttäen Solidityä, Ethereumia, Polygonia ja integroimme teknologioita kuten Hardhat, Ganache ja MetaMask.",
-    alternates: MetadataLinkWeb3.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.web3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWeb3FI: Metadata = {
     openGraph: {
         title: "Web3 Blockchain Smart Contract Kehityspalvelut | CHORN",
         description: "Erikoistunut Web3 blockchain ja älykäs sopimuskehitystekniikka, mukaan lukien DAppien rakentaminen Solidityllä, Ethereumilla, Polygonilla ja integraatio Hardhatin, Ganachen ja MetaMaskin kanssa.",
-        images: MetadataLinkWeb3.openGraph.images,
-        url: MetadataLinkWeb3.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.web3).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.web3).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Web3 Blockchain Smart Contract Kehitys | CHORN",
         description: "Web3 ja blockchain älykäs sopimuskehitystekniikka, hajautettujen sovellusten (DApps) luominen Solidityllä, Ethereumilla, Polygonilla ja integraatio Hardhatin, Ganachen ja MetaMaskin kanssa.",
-        images: MetadataLinkWeb3.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.web3).twitter.images,
     },
     keywords: [
         "Web3 kehitys", "blockchain kehitys", "älykäs sopimus kehitys", "Solidity kehitys",

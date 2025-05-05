@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJava} from "@/metadata/pages/backend/java/common/MetadataLinkJava";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaKO: Metadata = {
     title: "Java Spring Boot Full Stack 개발 | CHORN",
     description: "Java Spring Boot full stack 개발, 강력하고 확장 가능한 기업 애플리케이션을 구축하기 위한 기술 전문성.",
-    alternates: MetadataLinkJava.alternates,
+    alternates: metadataLink(LanguageCode.ko, MetaLinks.backend.java).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaKO: Metadata = {
     openGraph: {
         title: "Java Spring Boot 개발 | CHORN",
         description: "Java Spring Boot full stack 개발의 기술 전문성을 활용하여 확장 가능하고 안전하며 고성능 애플리케이션을 구축하세요.",
-        images: MetadataLinkJava.openGraph.images,
-        url: MetadataLinkJava.openGraph.url,
+        images: metadataLink(LanguageCode.ko, MetaLinks.backend.java).openGraph.images,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.java).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Java Spring Boot Full Stack 개발 | CHORN",
         description: "Java Spring Boot full stack 개발의 기술 전문성으로 안전하고 확장 가능한 애플리케이션을 구축하세요.",
-        images: MetadataLinkJava.twitter.images,
+        images: metadataLink(LanguageCode.ko, MetaLinks.backend.java).twitter.images,
     },
     keywords: [
         "Spring Boot 개발", "Java Spring Boot 기술 전문성", "Spring Boot 개발자", "맞춤형 Java 개발",

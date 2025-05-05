@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGitHub} from "@/metadata/pages/devops/github/common/MetadataLinkGitHub";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGitHubEN: Metadata = {
     title: "GitHub DevOps Services | CHORN",
     description: "DevOps technical expertise integrating GitHub for version control, continuous integration, and automated workflows.",
-    alternates: MetadataLinkGitHub.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.devops.github).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGitHubEN: Metadata = {
     openGraph: {
         title: "GitHub DevOps Services | CHORN",
         description: "Enhance your development workflow with GitHub-based DevOps technical expertise for CI/CD and version control.",
-        images: MetadataLinkGitHub.openGraph.images,
-        url: MetadataLinkGitHub.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.devops.github).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.devops.github).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "GitHub DevOps Services | CHORN",
         description: "Streamline your development with GitHub DevOps technical expertise for version control and CI/CD workflows.",
-        images: MetadataLinkGitHub.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.devops.github).twitter.images,
     },
     keywords: [
         "GitHub DevOps", "GitHub technical expertise", "version control", "CI/CD", "DevOps", "custom software development",

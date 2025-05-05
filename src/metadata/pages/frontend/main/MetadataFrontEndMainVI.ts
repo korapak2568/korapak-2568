@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkFrontEndMain} from "@/metadata/pages/frontend/main/common/MetadataLinkFrontEndMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataFrontEndMainVI: Metadata = {
     title: "Dịch vụ phát triển Frontend | CHORN",
     description: "CHORN cung cấp chuyên môn kỹ thuật phát triển Frontend, chuyên về các framework hiện đại như Next.js, React, Angular, Vue, HTML5 và CSS3. Xây dựng các trang web phản hồi nhanh và có khả năng mở rộng với công nghệ tiên tiến.",
-    alternates: MetadataLinkFrontEndMain.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.frontend.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataFrontEndMainVI: Metadata = {
     openGraph: {
         title: "Dịch vụ phát triển Frontend | CHORN",
         description: "CHORN cung cấp chuyên môn kỹ thuật phát triển Frontend bằng các công nghệ hiện đại như Next.js, React, Angular, Vue, HTML5 và CSS3 để tạo ra các trang web nhanh, phản hồi tốt và mở rộng dễ dàng.",
-        images: MetadataLinkFrontEndMain.openGraph.images,
-        url: MetadataLinkFrontEndMain.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.main).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ phát triển Frontend | CHORN",
         description: "Chuyên môn kỹ thuật phát triển Frontend của CHORN, sử dụng Next.js, React, Angular, Vue, HTML5 và CSS3 để xây dựng các trang web phản hồi nhanh và mở rộng tốt.",
-        images: MetadataLinkFrontEndMain.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.main).twitter.images,
     },
     keywords: [
         "phát triển frontend", "chuyên môn frontend", "lập trình viên frontend", "phát triển frontend tùy chỉnh",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWebDevelopmentVI: Metadata = {
     title: "Dịch vụ phát triển web | Giải pháp phần mềm và công nghệ tùy chỉnh",
     description: "Khám phá chuyên môn kỹ thuật của CHORN trong phát triển web, bao gồm Next.js, React, Angular, Vue và nhiều hơn nữa. CHORN cung cấp các giải pháp tùy chỉnh cho các doanh nghiệp trong các lĩnh vực như Marketing kỹ thuật số, Blockchain, E-Commerce và nhiều hơn nữa.",
-    alternates: MetadataLinkWebDevelopment.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.webDevelopment).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWebDevelopmentVI: Metadata = {
     openGraph: {
         title: "Dịch vụ phát triển web hàng đầu | CHORN",
         description: "CHORN cung cấp chuyên môn kỹ thuật phát triển web với sự thành thạo trong các framework phổ biến như Next.js, React, Angular và nhiều hơn nữa. CHORN phục vụ nhu cầu doanh nghiệp đa dạng bao gồm Marketing kỹ thuật số, E-Commerce, Blockchain và nhiều hơn nữa.",
-        images: MetadataLinkWebDevelopment.openGraph.images,
-        url: MetadataLinkWebDevelopment.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.webDevelopment).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.webDevelopment).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ phát triển web | CHORN",
         description: "Khám phá chuyên môn phát triển web của CHORN. Từ Next.js đến Angular và nhiều hơn nữa, CHORN cung cấp các giải pháp cho mọi nhu cầu doanh nghiệp bao gồm Marketing kỹ thuật số, Blockchain, E-Commerce và nhiều hơn nữa.",
-        images: MetadataLinkWebDevelopment.twitter.images
+        images: metadataLink(LanguageCode.vi, MetaLinks.webDevelopment).twitter.images
     },
     keywords: [
         "phát triển web", "chuyên môn phát triển web", "lập trình viên web", "phát triển web tùy chỉnh",

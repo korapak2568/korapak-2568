@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkWorkPolicy} from "@/metadata/pages/workplace-policy/common/MetadataLinkWorkPolicy";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWorkPolicyJA: Metadata = {
     title: "勤務ポリシー | CHORN",
@@ -7,7 +9,7 @@ export const MetadataWorkPolicyJA: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkWorkPolicy.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.workplacePolicy).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataWorkPolicyJA: Metadata = {
     openGraph: {
         title: "勤務ポリシー | CHORN",
         description: "CHORNは、リモートワーク、オフィス勤務、ハイブリッドなど、さまざまな勤務形態に適応し、各プロジェクトの特定のニーズに合わせて調整します。このアプローチにより、円滑なコミュニケーションと効率性が確保されます。",
-        images: MetadataLinkWorkPolicy.openGraph.images,
-        url: MetadataLinkWorkPolicy.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.workplacePolicy).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.workplacePolicy).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "勤務ポリシー | CHORN",
         description: "CHORNは、リモートワーク、オフィス勤務、ハイブリッドなど、さまざまな勤務形態に適応し、各プロジェクトの特定のニーズに合わせて調整します。このアプローチにより、円滑なコミュニケーションと効率性が確保されます。",
-        images: MetadataLinkWorkPolicy.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.workplacePolicy).twitter.images,
     },
 }

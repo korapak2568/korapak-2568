@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeZH: Metadata = {
     title: "CHORN | 企业软件开发与系统集成",
@@ -7,7 +9,7 @@ export const MetadataHomeZH: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeZH: Metadata = {
     openGraph: {
         title: "CHORN | 企业软件开发与系统集成",
         description: "通过专业的系统分析和尖端的软件解决方案，增强您的业务。CHORN 专注于全栈开发、AI 驱动的自动化、云计算和系统现代化，推动创新与效率。",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | 企业软件开发与系统集成",
         description: "通过专业的系统分析和尖端的软件解决方案，增强您的业务。CHORN 专注于全栈开发、AI 驱动的自动化、云计算和系统现代化，推动创新与效率。",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.home).twitter.images,
     },
     keywords: [
         "CHORN", "CHORN 定制软件开发", "CHORN 软件外包", "CHORN 是什么",

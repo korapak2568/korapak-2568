@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkFrontEndMain} from "@/metadata/pages/frontend/main/common/MetadataLinkFrontEndMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataFrontEndMainTH: Metadata = {
     title: "บริการพัฒนาฝั่งหน้าบ้าน | CHORN",
     description: "CHORN ให้บริการพัฒนาฝั่งหน้าบ้าน ด้วยความเชี่ยวชาญทางเทคนิค โดยใช้เฟรมเวิร์คสมัยใหม่ เช่น Next.js, React, Angular, Vue, HTML5 และ CSS3 เพื่อสร้างเว็บไซต์ที่ตอบสนองและขยายขนาดได้ด้วยเทคโนโลยีล้ำสมัย",
-    alternates: MetadataLinkFrontEndMain.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.frontend.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataFrontEndMainTH: Metadata = {
     openGraph: {
         title: "บริการพัฒนาฝั่งหน้าบ้าน | CHORN",
         description: "CHORN ให้บริการพัฒนาฝั่งหน้าบ้าน ด้วยความเชี่ยวชาญทางเทคนิค โดยใช้เทคโนโลยีสมัยใหม่ เช่น Next.js, React, Angular, Vue, HTML5 และ CSS3 เพื่อสร้างเว็บไซต์ที่รวดเร็ว ตอบสนอง และขยายขนาดได้",
-        images: MetadataLinkFrontEndMain.openGraph.images,
-        url: MetadataLinkFrontEndMain.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.main).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "บริการพัฒนาฝั่งหน้าบ้าน | CHORN",
         description: "บริการพัฒนาฝั่งหน้าบ้าน โดยผู้เชี่ยวชาญจาก CHORN ใช้เทคโนโลยี เช่น Next.js, React, Angular, Vue, HTML5 และ CSS3 เพื่อสร้างเว็บไซต์ที่ตอบสนองและขยายขนาดได้",
-        images: MetadataLinkFrontEndMain.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.frontend.main).twitter.images,
     },
     keywords: [
         // คีย์เวิร์ดหลักเกี่ยวกับการพัฒนาฝั่งหน้าบ้าน

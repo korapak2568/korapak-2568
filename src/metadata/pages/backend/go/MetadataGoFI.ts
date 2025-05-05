@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGoFI: Metadata = {
     title: "Go Full Stack Kehitys | CHORN",
     description: "Go full stack kehitys, tekninen asiantuntemus tehokkaiden ja skaalautuvien verkkosovellusten rakentamiseen.",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.backend.go).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGoFI: Metadata = {
     openGraph: {
         title: "Go Kehitys | CHORN",
         description: "Rakenna tehokkaita ja skaalautuvia verkkosovelluksia Go full stack kehityksen teknisen asiantuntemuksen avulla.",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.go).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.go).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Go Full Stack Kehitys | CHORN",
         description: "Go full stack kehityksen asiantuntemus tehokkaille ja skaalautuville verkkosovelluksille.",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.backend.go).twitter.images,
     },
     keywords: [
         "Go-lang kehitys", "Go tekninen asiantuntemus", "Go kehittäjä", "räätälöity Go-lang kehitys", "Go verkkosovellukset",

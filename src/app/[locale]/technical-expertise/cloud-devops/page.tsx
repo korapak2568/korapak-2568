@@ -4,7 +4,7 @@ import CloudDevOpsModuleMain from "@/components/Services/cloud-devops/CloudDevOp
 import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
-import {MetadataBackEndMain} from "@/metadata/pages/backend/main/common/MetadataBackEndMain";
+import {MetadataBackEndMain} from "@/metadata/main/backend/MetadataBackEndMain";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNextjs} from "@/metadata/pages/frontend/nextjs/common/MetadataLinkNextjs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNextjsFI: Metadata = {
     title: "Next.js Kehityspalvelut | CHORN",
     description: "Next.js kehityspalvelut, paranna verkkosovelluksiasi skaalautuvilla ja suorituskykyisillä ratkaisuilla käyttäen Next.js:ää.",
-    alternates: MetadataLinkNextjs.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.frontend.nextjs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNextjsFI: Metadata = {
     openGraph: {
         title: "Next.js Kehitys | CHORN",
         description: "Erikoistunut Next.js kehitys, tekninen asiantuntemus nopeiden ja skaalautuvien verkkosovellusten luomiseen.",
-        images: MetadataLinkNextjs.openGraph.images,
-        url: MetadataLinkNextjs.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.nextjs).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.nextjs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Next.js Kehityspalvelut | CHORN",
         description: "Paranna verkkosovelluksiasi Next.js kehityksen asiantuntemuksella.",
-        images: MetadataLinkNextjs.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.nextjs).twitter.images,
     },
     keywords: [
         "Next.js kehitys", "Next.js tekninen asiantuntemus", "Next.js kehittäjä", "räätälöity Next.js kehitys", "server-side rendering",

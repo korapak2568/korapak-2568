@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDocker} from "@/metadata/pages/devops/docker/common/MetadataLinkDocker";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDockerDA: Metadata = {
     title: "Docker DevOps Tjenester | CHORN",
     description: "Docker-baseret DevOps teknisk ekspertise til effektiv containerisering og skalerbar applikationsimplementering.",
-    alternates: MetadataLinkDocker.alternates,
+    alternates: metadataLink(LanguageCode.da, MetaLinks.devops.docker).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDockerDA: Metadata = {
     openGraph: {
         title: "Docker DevOps Tjenester | CHORN",
         description: "Udnyt Docker til containerisering og skalerbar softwareimplementering med DevOps teknisk ekspertise.",
-        images: MetadataLinkDocker.openGraph.images,
-        url: MetadataLinkDocker.openGraph.url,
+        images: metadataLink(LanguageCode.da, MetaLinks.devops.docker).openGraph.images,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.docker).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Docker DevOps Tjenester | CHORN",
         description: "Docker DevOps teknisk ekspertise til containerisering og skalerbar applikationsimplementering.",
-        images: MetadataLinkDocker.twitter.images,
+        images: metadataLink(LanguageCode.da, MetaLinks.devops.docker).twitter.images,
     },
     keywords: [
         "Docker DevOps", "Docker teknisk ekspertise", "containerisering", "CHORN", "DevOps", "skalerbar implementering",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkNextjs} from "@/metadata/pages/frontend/nextjs/common/MetadataLinkNextjs";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataNextjsVI: Metadata = {
     title: "Dịch vụ phát triển Next.js | CHORN",
     description: "Dịch vụ phát triển Next.js chuyên nghiệp, nâng cao ứng dụng web với giải pháp hiệu suất cao và có thể mở rộng.",
-    alternates: MetadataLinkNextjs.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.frontend.nextjs).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataNextjsVI: Metadata = {
     openGraph: {
         title: "Phát triển Next.js | CHORN",
         description: "Dịch vụ phát triển Next.js chuyên sâu, giúp tạo ứng dụng web nhanh chóng và có thể mở rộng.",
-        images: MetadataLinkNextjs.openGraph.images,
-        url: MetadataLinkNextjs.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.nextjs).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.nextjs).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ phát triển Next.js | CHORN",
         description: "Nâng cấp ứng dụng web của bạn với dịch vụ phát triển Next.js chuyên nghiệp.",
-        images: MetadataLinkNextjs.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.nextjs).twitter.images,
     },
     keywords: [
         "Phát triển Next.js", "Chuyên môn Next.js", "Lập trình viên Next.js", "Phát triển Next.js tùy chỉnh", "Kết xuất phía máy chủ",

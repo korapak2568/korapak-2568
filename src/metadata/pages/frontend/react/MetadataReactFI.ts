@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkReact} from "@/metadata/pages/frontend/react/common/MetadataLinkReact";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataReactFI: Metadata = {
     title: "React-kehityspalvelut | CHORN",
     description: "Huipputason React-kehitys teknisellä asiantuntemuksella, rakenna dynaamisia ja responsiivisia käyttöliittymiä Reactilla.",
-    alternates: MetadataLinkReact.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.frontend.react).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataReactFI: Metadata = {
     openGraph: {
         title: "React-kehitys | CHORN",
         description: "Paranna verkkosovelluksiasi asiantuntevalla React-kehityksellä, tekninen asiantuntemus suorituskykyisiin sovelluksiin.",
-        images: MetadataLinkReact.openGraph.images,
-        url: MetadataLinkReact.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.react).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.react).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "React-kehityspalvelut | CHORN",
         description: "Asiantuntevaa React-kehitystä, teknistä asiantuntemusta houkuttelevien käyttöliittymien luomiseksi Reactilla.",
-        images: MetadataLinkReact.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.react).twitter.images,
     },
     keywords: [
         "React-kehitys", "React-asiantuntemus", "React-kehittäjä", "Mukautettu React-kehitys", "React.js-sovellukset",

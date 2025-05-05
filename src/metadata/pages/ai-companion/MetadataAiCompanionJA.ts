@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAiCompanion} from "@/metadata/pages/ai-companion/common/MetadataLinkAiCompanion";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAiCompanionJA: Metadata = {
     title: "LLM/AI統合によるLINEチャット",
     description: "LINEチャットをテストし、複数言語に対応したLLM/AIに接続します。",
-    alternates: MetadataLinkAiCompanion.alternates,
+    alternates: metadataLink(LanguageCode.ja, MetaLinks.aiCompanion).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataAiCompanionJA: Metadata = {
     openGraph: {
         title: "LLM/AI統合によるLINEチャット",
         description: "LINEチャットをテストし、複数言語に対応したLLM/AIに接続します。",
-        images: MetadataLinkAiCompanion.openGraph.images,
-        url: MetadataLinkAiCompanion.openGraph.url,
+        images: metadataLink(LanguageCode.ja, MetaLinks.aiCompanion).openGraph.images,
+        url: metadataLink(LanguageCode.ja, MetaLinks.aiCompanion).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "LLM/AI統合によるLINEチャット",
         description: "LINEチャットをテストし、複数言語に対応したLLM/AIに接続します。",
-        images: MetadataLinkAiCompanion.twitter.images,
+        images: metadataLink(LanguageCode.ja, MetaLinks.aiCompanion).twitter.images,
     },
 }

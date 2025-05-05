@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJavaScript} from "@/metadata/pages/frontend/javascript/common/MetadataLinkJavaScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaScriptNL: Metadata = {
     title: "JavaScript | CHORN - Experts in maatwerk softwareontwikkeling",
     description: "Maakt gebruik van JavaScript om schaalbare, robuuste en efficiënte maatwerk softwareoplossingen te bouwen voor bedrijven in verschillende sectoren.",
-    alternates: MetadataLinkJavaScript.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.frontend.javascript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaScriptNL: Metadata = {
     openGraph: {
         title: "CHORN - JavaScript maatwerk softwareontwikkeling",
         description: "JavaScript-expertise, een krachtig hulpmiddel voor het bouwen van schaalbare en krachtige toepassingen. Leer waarom wij JavaScript kiezen voor maatwerk softwareoplossingen.",
-        images: MetadataLinkJavaScript.openGraph.images,
-        url: MetadataLinkJavaScript.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.frontend.javascript).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.javascript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - JavaScript ontwikkeling voor maatwerk softwareoplossingen",
         description: "Gebruik JavaScript om schaalbare en hoogwaardige softwareoplossingen te leveren die zijn afgestemd op de behoeften van bedrijven.",
-        images: MetadataLinkJavaScript.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.frontend.javascript).twitter.images,
     },
     keywords: [
         "JavaScript-ontwikkeling", "JavaScript-expertise", "JavaScript-ontwikkelaar", "maatwerk JavaScript-ontwikkeling",

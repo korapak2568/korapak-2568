@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkAngular} from "@/metadata/pages/frontend/angular/common/MetadataLinkAngular";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataAngularVI: Metadata = {
     title: "Dịch vụ phát triển Angular | CHORN",
     description: "Dịch vụ phát triển Angular, xây dựng ứng dụng web động, có thể mở rộng và hiệu suất cao bằng Angular.",
-    alternates: MetadataLinkAngular.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.frontend.angular).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataAngularVI: Metadata = {
     openGraph: {
         title: "Phát triển Angular | CHORN",
         description: "Phát triển Angular với chuyên môn kỹ thuật để tạo ra các ứng dụng web nhanh chóng, có thể mở rộng và linh hoạt.",
-        images: MetadataLinkAngular.openGraph.images,
-        url: MetadataLinkAngular.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.angular).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.angular).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ phát triển Angular | CHORN",
         description: "Nâng cao ứng dụng web của bạn với chuyên môn phát triển Angular.",
-        images: MetadataLinkAngular.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.angular).twitter.images,
     },
     keywords: [
         "phát triển Angular", "chuyên môn kỹ thuật Angular", "nhà phát triển Angular", "phát triển Angular tại Thái Lan",

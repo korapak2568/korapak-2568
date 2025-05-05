@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkDevOpsMain} from "@/metadata/pages/devops/main/common/MetadataLinkDevOpsMain";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataDevOpsMainNL: Metadata = {
     title: "Enterprise DevOps & Cloud Oplossingen | CHORN",
     description: "Versnel uw digitale transformatie met DevOps- en cloud-expertise. Wij leveren gestroomlijnde CI/CD-pijplijnen, infrastructuurautomatisering en cloud-native oplossingen die de betrouwbaarheid verbeteren en de time-to-market verkorten.",
-    alternates: MetadataLinkDevOpsMain.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.devops.main).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataDevOpsMainNL: Metadata = {
     openGraph: {
         title: "Enterprise DevOps & Cloud Oplossingen | CHORN",
         description: "Versnel uw digitale transformatie met DevOps- en cloud-expertise. Wij leveren gestroomlijnde CI/CD-pijplijnen, infrastructuurautomatisering en cloud-native oplossingen die de betrouwbaarheid verbeteren en de time-to-market verkorten.",
-        images: MetadataLinkDevOpsMain.openGraph.images,
-        url: MetadataLinkDevOpsMain.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.devops.main).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.devops.main).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Enterprise DevOps & Cloud Oplossingen | CHORN",
         description: "Versnel uw digitale transformatie met DevOps- en cloud-expertise. Wij leveren gestroomlijnde CI/CD-pijplijnen, infrastructuurautomatisering en cloud-native oplossingen die de betrouwbaarheid verbeteren en de time-to-market verkorten.",
-        images: MetadataLinkDevOpsMain.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.devops.main).twitter.images,
     },
     keywords: [
         "Cloud DevOps", "DevOps-expertise", "softwaretesten", "continue integratie", "CI/CD-pijplijn", "geautomatiseerd testen",

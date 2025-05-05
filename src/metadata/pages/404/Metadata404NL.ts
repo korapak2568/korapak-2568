@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLink404} from "@/metadata/pages/404/common/MetadataLink404";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const Metadata404NL: Metadata = {
     title: "404 - Pagina niet gevonden",
@@ -7,7 +9,7 @@ export const Metadata404NL: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLink404.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks._404).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const Metadata404NL: Metadata = {
     openGraph: {
         title: "404 - Pagina niet gevonden",
         description: "Oeps! We konden de pagina die u zocht niet vinden. Controleer de URL of ga terug naar onze homepage om CHORN verder te verkennen.",
-        images: MetadataLink404.openGraph.images,
-        url: MetadataLink404.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks._404).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks._404).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "404 - Pagina niet gevonden",
         description: "Oeps! We konden de pagina die u zocht niet vinden. Controleer de URL of ga terug naar onze homepage om CHORN verder te verkennen.",
-        images: MetadataLink404.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks._404).twitter.images,
     },
 }

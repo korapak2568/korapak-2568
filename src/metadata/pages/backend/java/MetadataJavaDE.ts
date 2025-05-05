@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJava} from "@/metadata/pages/backend/java/common/MetadataLinkJava";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaDE: Metadata = {
     title: "Java Spring Boot Full Stack Entwicklung | CHORN",
     description: "Java Spring Boot Full Stack Entwicklung, technische Expertise zum Aufbau robuster und skalierbarer Unternehmensanwendungen.",
-    alternates: MetadataLinkJava.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.backend.java).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaDE: Metadata = {
     openGraph: {
         title: "Java Spring Boot Entwicklung | CHORN",
         description: "Nutzen Sie die Java Spring Boot Full Stack Entwicklung mit technischer Expertise, um skalierbare, sichere und leistungsstarke Anwendungen zu erstellen.",
-        images: MetadataLinkJava.openGraph.images,
-        url: MetadataLinkJava.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.backend.java).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.backend.java).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Java Spring Boot Full Stack Entwicklung | CHORN",
         description: "Fachkundige Java Spring Boot Full Stack Entwicklung für sichere und skalierbare Anwendungen.",
-        images: MetadataLinkJava.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.backend.java).twitter.images,
     },
     keywords: [
         "Spring Boot Entwicklung", "Java Spring Boot technische Expertise", "Spring Boot Entwickler", "Individuelle Java Entwicklung",

@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGitLab} from "@/metadata/pages/devops/gitlab/common/MetadataLinkGitLab";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGitLabEN: Metadata = {
     title: "GitLab DevOps Services | CHORN",
     description: "DevOps technical expertise integrating GitLab for version control, continuous integration, and automated workflows.",
-    alternates: MetadataLinkGitLab.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.devops.gitlab).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGitLabEN: Metadata = {
     openGraph: {
         title: "GitLab DevOps Services | CHORN",
         description: "Enhance your development workflow with GitLab-based DevOps technical expertise for CI/CD and version control.",
-        images: MetadataLinkGitLab.openGraph.images,
-        url: MetadataLinkGitLab.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.devops.gitlab).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.devops.gitlab).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "GitLab DevOps Services | CHORN",
         description: "Streamline your development with GitLab DevOps technical expertise for version control and CI/CD workflows.",
-        images: MetadataLinkGitLab.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.devops.gitlab).twitter.images,
     },
     keywords: [
         "GitLab DevOps", "GitLab technical expertise", "CI/CD", "version control", "DevOps", "automation", "DevOps pipeline",

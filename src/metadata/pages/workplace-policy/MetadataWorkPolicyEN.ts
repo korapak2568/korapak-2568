@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkWorkPolicy} from "@/metadata/pages/workplace-policy/common/MetadataLinkWorkPolicy";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWorkPolicyEN: Metadata = {
     title: "Work Policy | CHORN",
@@ -7,7 +9,7 @@ export const MetadataWorkPolicyEN: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkWorkPolicy.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.workplacePolicy).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataWorkPolicyEN: Metadata = {
     openGraph: {
         title: "Work Policy | CHORN",
         description: "CHORN adapts to various work models, including remote, in-office, and hybrid setups, tailoring them to the specific needs of each project. This approach ensures seamless communication and efficiency.",
-        images: MetadataLinkWorkPolicy.openGraph.images,
-        url: MetadataLinkWorkPolicy.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.workplacePolicy).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.workplacePolicy).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Work Policy | CHORN",
         description: "CHORN adapts to various work models, including remote, in-office, and hybrid setups, tailoring them to the specific needs of each project. This approach ensures seamless communication and efficiency.",
-        images: MetadataLinkWorkPolicy.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.workplacePolicy).twitter.images,
     },
 }

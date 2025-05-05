@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkTermOfService} from "@/metadata/pages/terms-of-service/common/MetadataLinkTermOfService";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTermOfServiceVI: Metadata = {
     title: "Điều khoản dịch vụ | CHORN",
@@ -7,7 +9,7 @@ export const MetadataTermOfServiceVI: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkTermOfService.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.termOfServices).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,14 +18,14 @@ export const MetadataTermOfServiceVI: Metadata = {
     openGraph: {
         title: "Điều khoản dịch vụ | CHORN",
         description: "CHORN cung cấp Điều khoản dịch vụ quy định việc sử dụng trang web này. Bằng cách truy cập hoặc sử dụng trang web, bạn đồng ý tuân thủ các điều khoản này.",
-        images: MetadataLinkTermOfService.openGraph.images,
-        url: MetadataLinkTermOfService.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.termOfServices).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.termOfServices).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "Điều khoản dịch vụ | CHORN",
         description: "CHORN cung cấp Điều khoản dịch vụ quy định việc sử dụng trang web này. Bằng cách truy cập hoặc sử dụng trang web, bạn đồng ý tuân thủ các điều khoản này.",
-        images: MetadataLinkTermOfService.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.termOfServices).twitter.images,
     },
 }

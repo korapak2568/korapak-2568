@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkCss3} from "@/metadata/pages/frontend/css3/common/MetadataLinkCss3";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataCss3FI: Metadata = {
     title: "CSS3 Kehityspalvelut | CHORN",
     description: "Paranna web-sovelluksia CSS3-kehityksellä, teknistä asiantuntemusta nykyaikaisten ja visuaalisesti houkuttelevien suunnittelujen luomiseen.",
-    alternates: MetadataLinkCss3.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.frontend.css3).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataCss3FI: Metadata = {
     openGraph: {
         title: "CSS3 Kehitys | CHORN",
         description: "CSS3-kehitys teknisellä asiantuntemuksella luodaksesi tyylikkäitä ja responsiivisia verkkosivustojen suunnitteluja.",
-        images: MetadataLinkCss3.openGraph.images,
-        url: MetadataLinkCss3.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.css3).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.css3).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CSS3 Kehityspalvelut | CHORN",
         description: "Luo visuaalisesti upeita verkkosivustojen suunnitteluja CSS3:n avulla tarjoamalla CSS3-kehityksen teknistä asiantuntemusta.",
-        images: MetadataLinkCss3.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.css3).twitter.images,
     },
     keywords: [
         "CSS3-kehitys", "CSS3 tekninen asiantuntemus", "CSS3 kehittäjä", "räätälöity CSS3-kehitys", "responsiivinen CSS3-suunnittelu",

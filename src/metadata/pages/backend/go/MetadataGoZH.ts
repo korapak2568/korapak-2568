@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGo} from "@/metadata/pages/backend/go/common/MetadataLinkGo";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGoZH: Metadata = {
     title: "Go全栈开发 | CHORN",
     description: "Go全栈开发，技术专长用于构建高效和可扩展的Web应用程序。",
-    alternates: MetadataLinkGo.alternates,
+    alternates: metadataLink(LanguageCode.zh, MetaLinks.backend.go).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataGoZH: Metadata = {
     openGraph: {
         title: "Go开发 | CHORN",
         description: "通过Go全栈开发的技术专长，构建高效和可扩展的Web应用程序。",
-        images: MetadataLinkGo.openGraph.images,
-        url: MetadataLinkGo.openGraph.url,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.go).openGraph.images,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.go).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Go全栈开发 | CHORN",
         description: "Go全栈开发的技术专长，用于构建高效和可扩展的Web应用程序。",
-        images: MetadataLinkGo.twitter.images,
+        images: metadataLink(LanguageCode.zh, MetaLinks.backend.go).twitter.images,
     },
     keywords: [
         "Go-lang development", "Go technical-expertise", "Go developer", "custom Go-lang development", "Go web applications",

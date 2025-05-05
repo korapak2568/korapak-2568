@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPhp} from "@/metadata/pages/backend/php/common/MetadataLinkPhp";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPythonNL: Metadata = {
     title: "Python Full Stack Ontwikkeling | CHORN",
     description: "Python full stack ontwikkeling, technische expertise voor het bouwen van dynamische en schaalbare webapplicaties.",
-    alternates: MetadataLinkPhp.alternates,
+    alternates: metadataLink(LanguageCode.nl, MetaLinks.backend.python).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPythonNL: Metadata = {
     openGraph: {
         title: "Python Ontwikkeling | CHORN",
         description: "Bouw dynamische en schaalbare webapplicaties met de technische expertise van Python full stack ontwikkeling.",
-        images: MetadataLinkPhp.openGraph.images,
-        url: MetadataLinkPhp.openGraph.url,
+        images: metadataLink(LanguageCode.nl, MetaLinks.backend.python).openGraph.images,
+        url: metadataLink(LanguageCode.nl, MetaLinks.backend.python).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Python Full Stack Ontwikkeling | CHORN",
         description: "Expertise in Python full stack ontwikkeling voor dynamische en schaalbare webapplicaties.",
-        images: MetadataLinkPhp.twitter.images,
+        images: metadataLink(LanguageCode.nl, MetaLinks.backend.python).twitter.images,
     },
     keywords: [
         "Python ontwikkeling", "Python technische expertise", "Python ontwikkelaar", "maatwerk Python ontwikkeling", "Python webapplicaties",

@@ -1,5 +1,7 @@
 import {Metadata} from "next";
-import {MetadataLinkHome} from "@/metadata/pages/home/common/MetadataLinkHome";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataHomeTH: Metadata = {
     title: "CHORN | การพัฒนาซอฟต์แวร์องค์กรและการบูรณาการระบบ",
@@ -7,7 +9,7 @@ export const MetadataHomeTH: Metadata = {
     icons: {
         icon: '/favicon.ico',
     },
-    alternates: MetadataLinkHome.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.home).alternates,
     authors: [
         {
             name: "CHORN"
@@ -16,15 +18,15 @@ export const MetadataHomeTH: Metadata = {
     openGraph: {
         title: "CHORN | การพัฒนาซอฟต์แวร์องค์กรและการบูรณาการระบบ",
         description: "เพิ่มศักยภาพให้ธุรกิจของคุณด้วยการวิเคราะห์ระบบอย่างเชี่ยวชาญและโซลูชันซอฟต์แวร์ที่ทันสมัย CHORN เชี่ยวชาญการพัฒนาซอฟต์แวร์ครบวงจร, ระบบอัตโนมัติด้วย AI, คลาวด์, และการปรับปรุงระบบเพื่อขับเคลื่อนนวัตกรรมและประสิทธิภาพ",
-        images: MetadataLinkHome.openGraph.images,
-        url: MetadataLinkHome.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.home).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.home).openGraph.url,
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN | การพัฒนาซอฟต์แวร์องค์กรและการบูรณาการระบบ",
         description: "เพิ่มศักยภาพให้ธุรกิจของคุณด้วยการวิเคราะห์ระบบอย่างเชี่ยวชาญและโซลูชันซอฟต์แวร์ที่ทันสมัย CHORN เชี่ยวชาญการพัฒนาซอฟต์แวร์ครบวงจร, ระบบอัตโนมัติด้วย AI, คลาวด์, และการปรับปรุงระบบเพื่อขับเคลื่อนนวัตกรรมและประสิทธิภาพ",
-        images: MetadataLinkHome.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.home).twitter.images,
     },
     keywords: [
         // แบรนด์

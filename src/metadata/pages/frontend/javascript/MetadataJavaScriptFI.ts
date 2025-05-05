@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkJavaScript} from "@/metadata/pages/frontend/javascript/common/MetadataLinkJavaScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataJavaScriptFI: Metadata = {
     title: "JavaScript | CHORN - Räätälöityjen ohjelmistoratkaisujen asiantuntijat",
     description: "Hyödyntää JavaScriptiä luodakseen skaalautuvia, kestäviä ja tehokkaita räätälöityjä ohjelmistoratkaisuja yrityksille eri toimialoilla.",
-    alternates: MetadataLinkJavaScript.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.frontend.javascript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataJavaScriptFI: Metadata = {
     openGraph: {
         title: "CHORN - JavaScript räätälöity ohjelmistokehitys",
         description: "JavaScript-asiantuntemus, tehokas työkalu skaalautuvien ja suorituskykyisten sovellusten rakentamiseen. Opi, miksi valitsemme JavaScriptin räätälöityihin ohjelmistoratkaisuihin.",
-        images: MetadataLinkJavaScript.openGraph.images,
-        url: MetadataLinkJavaScript.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.javascript).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.javascript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - JavaScript kehitys räätälöityihin ohjelmistoratkaisuihin",
         description: "Hyödynnä JavaScriptiä toimittaaksesi skaalautuvia ja korkealaatuisia ohjelmistoratkaisuja, jotka on räätälöity yritysten tarpeiden mukaan.",
-        images: MetadataLinkJavaScript.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.frontend.javascript).twitter.images,
     },
     keywords: [
         "JavaScript-kehitys", "JavaScript-asiantuntemus", "JavaScript-kehittäjä", "räätälöity JavaScript-kehitys",

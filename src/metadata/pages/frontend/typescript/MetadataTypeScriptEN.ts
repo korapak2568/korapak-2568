@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkTypeScript} from "@/metadata/pages/frontend/typescript/common/MetadataLinkTypeScript";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataTypeScriptEN: Metadata = {
     title: "TypeScript | CHORN - Custom Software Development Experts",
     description: "Leverages TypeScript to build scalable, robust, and efficient custom software solutions for businesses across industries.",
-    alternates: MetadataLinkTypeScript.alternates,
+    alternates: metadataLink(LanguageCode.en, MetaLinks.frontend.typescript).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataTypeScriptEN: Metadata = {
     openGraph: {
         title: "CHORN - TypeScript Custom Software Development",
         description: "TypeScript expertise, a powerful tool for building scalable and high-performance applications. Learn why we choose TypeScript for custom software solutions.",
-        images: MetadataLinkTypeScript.openGraph.images,
-        url: MetadataLinkTypeScript.openGraph.url,
+        images: metadataLink(LanguageCode.en, MetaLinks.frontend.typescript).openGraph.images,
+        url: metadataLink(LanguageCode.en, MetaLinks.frontend.typescript).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "CHORN - TypeScript Development for Custom Software Solutions",
         description: "Use TypeScript to deliver scalable and high-quality software solutions tailored to businesses' needs.",
-        images: MetadataLinkTypeScript.twitter.images,
+        images: metadataLink(LanguageCode.en, MetaLinks.frontend.typescript).twitter.images,
     },
     keywords: [
         // Core TypeScript & services Keywords

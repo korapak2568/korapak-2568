@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkWebDevelopment} from "@/metadata/pages/web-development/common/MetadataLinkWebDevelopment";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataWebDevelopmentTH: Metadata = {
     title: "บริการพัฒนาเว็บไซต์ | โซลูชันซอฟต์แวร์และเทคโนโลยีแบบกำหนดเอง",
     description: "สำรวจความเชี่ยวชาญด้านการพัฒนาเว็บไซต์ของ CHORN ซึ่งรวมถึงความเชี่ยวชาญใน Next.js, React, Angular, Vue และอื่น ๆ CHORN นำเสนอวิธีแก้ปัญหาเฉพาะสำหรับธุรกิจในหลากหลายโดเมน เช่น การตลาดดิจิทัล บล็อกเชน อีคอมเมิร์ซ และอื่น ๆ",
-    alternates: MetadataLinkWebDevelopment.alternates,
+    alternates: metadataLink(LanguageCode.th, MetaLinks.webDevelopment).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataWebDevelopmentTH: Metadata = {
     openGraph: {
         title: "บริการพัฒนาเว็บไซต์ชั้นนำ | CHORN",
         description: "CHORN มอบความเชี่ยวชาญด้านการพัฒนาเว็บไซต์ล้ำสมัย ด้วยความเชี่ยวชาญในเฟรมเวิร์กยอดนิยมอย่าง Next.js, React, Angular และอื่น ๆ CHORN รองรับความต้องการทางธุรกิจที่หลากหลาย เช่น การตลาดดิจิทัล อีคอมเมิร์ซ บล็อกเชน และอื่น ๆ",
-        images: MetadataLinkWebDevelopment.openGraph.images,
-        url: MetadataLinkWebDevelopment.openGraph.url,
+        images: metadataLink(LanguageCode.th, MetaLinks.webDevelopment).openGraph.images,
+        url: metadataLink(LanguageCode.th, MetaLinks.webDevelopment).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "บริการพัฒนาเว็บไซต์ | CHORN",
         description: "ค้นพบความเชี่ยวชาญด้านการพัฒนาเว็บไซต์ของ CHORN ตั้งแต่ Next.js ถึง Angular และอื่น ๆ CHORN เสนอวิธีแก้ปัญหาสำหรับทุกความต้องการทางธุรกิจ รวมถึงการตลาดดิจิทัล บล็อกเชน อีคอมเมิร์ซ และอื่น ๆ",
-        images: MetadataLinkWebDevelopment.twitter.images,
+        images: metadataLink(LanguageCode.th, MetaLinks.webDevelopment).twitter.images,
     },
     keywords: [
         // คำหลักเกี่ยวกับการพัฒนาเว็บไซต์

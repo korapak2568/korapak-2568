@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkPostman} from "@/metadata/pages/devops/postman/common/MetadataLinkPostman";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataPostmanDE: Metadata = {
     title: "Postman API-Testdienste | CHORN",
     description: "Bieten Sie technische Expertise für API-Tests mit Postman, um die Zuverlässigkeit und Leistung Ihrer Webtechnologie sicherzustellen.",
-    alternates: MetadataLinkPostman.alternates,
+    alternates: metadataLink(LanguageCode.de, MetaLinks.devops.postman).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataPostmanDE: Metadata = {
     openGraph: {
         title: "Postman API-Testdienste | CHORN",
         description: "Stellen Sie sicher, dass Ihre APIs wie erwartet mit technischer Expertise im API-Test auf Postman-Basis funktionieren.",
-        images: MetadataLinkPostman.openGraph.images,
-        url: MetadataLinkPostman.openGraph.url,
+        images: metadataLink(LanguageCode.de, MetaLinks.devops.postman).openGraph.images,
+        url: metadataLink(LanguageCode.de, MetaLinks.devops.postman).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Postman API-Testdienste | CHORN",
         description: "Postman-basierte API-Test-Expertise zur Validierung der Zuverlässigkeit und Leistung Ihrer Webtechnologie.",
-        images: MetadataLinkPostman.twitter.images,
+        images: metadataLink(LanguageCode.de, MetaLinks.devops.postman).twitter.images,
     },
     keywords: [
         "Postman API-Test", "Postman-Technische-Expertise", "API-Test", "DevOps", "Automatisierte API-Tests", "CHORN",

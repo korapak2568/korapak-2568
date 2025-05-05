@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkGallery} from "@/metadata/pages/gallery/common/MetadataLinkGallery";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataGalleryFI: Metadata = {
     title: "Kansainväliset Matkat | CHORN Galleria",
     description: "CHORNilla on kokemus ja valmius kansainvälisiin matkoihin koulutuksen saamiseksi ja työstä oppimiseen ASEAN-maissa ja Yhdysvalloissa.",
-    alternates: MetadataLinkGallery.alternates,
+    alternates: metadataLink(LanguageCode.fi, MetaLinks.gallery).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,14 +15,14 @@ export const MetadataGalleryFI: Metadata = {
     openGraph: {
         title: "Kansainväliset Matkat | CHORN Galleria",
         description: "CHORNilla on kokemus ja valmius kansainvälisiin matkoihin koulutuksen saamiseksi ja työstä oppimiseen ASEAN-maissa ja Yhdysvalloissa.",
-        images: MetadataLinkGallery.openGraph.images,
-        url: MetadataLinkGallery.openGraph.url,
+        images: metadataLink(LanguageCode.fi, MetaLinks.gallery).openGraph.images,
+        url: metadataLink(LanguageCode.fi, MetaLinks.gallery).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Kansainväliset Matkat | CHORN Galleria",
         description: "CHORNilla on kokemus ja valmius kansainvälisiin matkoihin koulutuksen saamiseksi ja työstä oppimiseen ASEAN-maissa ja Yhdysvalloissa.",
-        images: MetadataLinkGallery.twitter.images,
+        images: metadataLink(LanguageCode.fi, MetaLinks.gallery).twitter.images,
     },
 }

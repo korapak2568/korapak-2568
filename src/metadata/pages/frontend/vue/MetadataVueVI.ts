@@ -1,10 +1,12 @@
 import {Metadata} from "next";
-import {MetadataLinkVue} from "@/metadata/pages/frontend/vue/common/MetadataLinkVue";
+import {metadataLink} from "@/metadata/metadataLink/metadataLink";
+import {LanguageCode} from "@/data/translate/LanguageCode";
+import {MetaLinks} from "@/metadata/metadataLink/MetaLinks";
 
 export const MetadataVueVI: Metadata = {
     title: "Dịch vụ phát triển Vue.js | CHORN",
     description: "Chuyên phát triển Vue.js để tạo ra các ứng dụng web tương tác và có thể mở rộng.",
-    alternates: MetadataLinkVue.alternates,
+    alternates: metadataLink(LanguageCode.vi, MetaLinks.frontend.vue).alternates,
     authors: [
         {
             name: "CHORN"
@@ -13,15 +15,15 @@ export const MetadataVueVI: Metadata = {
     openGraph: {
         title: "Phát triển Vue.js | CHORN",
         description: "Phát triển Vue.js chuyên nghiệp, kiến thức kỹ thuật để xây dựng các ứng dụng web hiện đại.",
-        images: MetadataLinkVue.openGraph.images,
-        url: MetadataLinkVue.openGraph.url,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.vue).openGraph.images,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.vue).openGraph.url,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Dịch vụ phát triển Vue.js | CHORN",
         description: "Nâng cao ứng dụng web của bạn với sự phát triển Vue.js chuyên nghiệp.",
-        images: MetadataLinkVue.twitter.images,
+        images: metadataLink(LanguageCode.vi, MetaLinks.frontend.vue).twitter.images,
     },
     keywords: [
         "Phát triển Vue.js", "Chuyên môn Vue.js", "Nhà phát triển Vue.js", "Phát triển Vue.js tùy chỉnh", "Ứng dụng Vue.js",
