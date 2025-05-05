@@ -16,7 +16,7 @@ export const MetadataAboutVI: Metadata = {
         title: "CHORN - Chuyên gia trong Phân tích hệ thống & Kỹ thuật phát triển phần mềm Full-Stack",
         description: "Khám phá cam kết của CHORN trong việc cung cấp hiện đại hóa hệ thống tiên tiến, phát triển full-stack và hỗ trợ kỹ thuật cho doanh nghiệp.",
         images: metadataLink(LanguageCode.vi, MetaLinks.about).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.about).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.about).alternates.canonical,
         type: "website"
     },
     twitter: {

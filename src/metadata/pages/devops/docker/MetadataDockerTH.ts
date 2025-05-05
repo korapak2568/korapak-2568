@@ -16,7 +16,7 @@ export const MetadataDockerTH: Metadata = {
         title: "บริการ Docker DevOps | CHORN",
         description: "ใช้ประโยชน์จาก Docker สำหรับการทำคอนเทนเนอร์และการปรับใช้ซอฟต์แวร์ที่ขยายขนาดได้ด้วยความเชี่ยวชาญด้าน DevOps",
         images: metadataLink(LanguageCode.th, MetaLinks.devops.docker).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.devops.docker).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.docker).alternates.canonical,
         type: "website"
     },
     twitter: {

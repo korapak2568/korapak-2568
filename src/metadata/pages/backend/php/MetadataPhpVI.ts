@@ -16,7 +16,7 @@ export const MetadataPhpVI: Metadata = {
         title: "Phát triển PHP | CHORN",
         description: "Tận dụng phát triển PHP Full Stack, chuyên môn kỹ thuật để xây dựng các ứng dụng web có thể mở rộng và động.",
         images: metadataLink(LanguageCode.vi, MetaLinks.backend.php).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.backend.php).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.php).alternates.canonical,
         type: "website"
     },
     twitter: {

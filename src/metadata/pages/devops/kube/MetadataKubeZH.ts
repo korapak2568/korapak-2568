@@ -16,7 +16,7 @@ export const MetadataKubeZH: Metadata = {
         title: "Kubernetes DevOps 服务 | CHORN",
         description: "利用基于 Kubernetes 的 DevOps 技术专长，优化基础设施，实现应用程序的自动化扩展和管理。",
         images: metadataLink(LanguageCode.zh, MetaLinks.devops.kube).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.devops.kube).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.kube).alternates.canonical,
         type: "website"
     },
     twitter: {

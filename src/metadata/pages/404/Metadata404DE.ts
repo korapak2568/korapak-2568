@@ -19,7 +19,7 @@ export const Metadata404DE: Metadata = {
         title: "404 - Seite nicht gefunden",
         description: "Hoppla! Wir konnten die von Ihnen gesuchte Seite nicht finden. Bitte überprüfen Sie die URL oder kehren Sie zu unserer Startseite zurück, um CHORN weiter zu erkunden.",
         images: metadataLink(LanguageCode.de, MetaLinks._404).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks._404).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks._404).alternates.canonical,
         type: "website",
     },
     twitter: {

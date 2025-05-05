@@ -16,7 +16,7 @@ export const MetadataGitLabTH: Metadata = {
         title: "บริการ GitLab DevOps | CHORN",
         description: "ปรับปรุงกระบวนการพัฒนาด้วยความเชี่ยวชาญ DevOps ที่ใช้ GitLab สำหรับ CI/CD และการควบคุมเวอร์ชัน.",
         images: metadataLink(LanguageCode.th, MetaLinks.devops.gitlab).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.devops.gitlab).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.gitlab).alternates.canonical,
         type: "website"
     },
     twitter: {

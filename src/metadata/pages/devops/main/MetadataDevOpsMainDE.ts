@@ -16,7 +16,7 @@ export const MetadataDevOpsMainDE: Metadata = {
         title: "Enterprise DevOps & Cloud Lösungen | CHORN",
         description: "Beschleunigen Sie Ihre digitale Transformation mit DevOps- und Cloud-Expertise. Wir liefern optimierte CI/CD-Pipelines, Infrastrukturautomatisierung und Cloud-native Lösungen, die die Zuverlässigkeit verbessern und die Markteinführungszeit verkürzen.",
         images: metadataLink(LanguageCode.de, MetaLinks.devops.main).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.devops.main).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.devops.main).alternates.canonical,
         type: "website"
     },
     twitter: {

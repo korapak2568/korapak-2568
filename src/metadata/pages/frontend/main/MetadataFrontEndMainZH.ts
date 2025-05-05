@@ -16,7 +16,7 @@ export const MetadataFrontEndMainZH: Metadata = {
         title: "前端开发服务 | CHORN",
         description: "CHORN 提供前端开发专业技术，使用 Next.js、React、Angular、Vue、HTML5 和 CSS3 等现代技术，打造快速、响应式、可扩展的网站。",
         images: metadataLink(LanguageCode.zh, MetaLinks.frontend.main).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.main).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

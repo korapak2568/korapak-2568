@@ -16,7 +16,7 @@ export const MetadataNextjsFI: Metadata = {
         title: "Next.js Kehitys | CHORN",
         description: "Erikoistunut Next.js kehitys, tekninen asiantuntemus nopeiden ja skaalautuvien verkkosovellusten luomiseen.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.nextjs).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.nextjs).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.nextjs).alternates.canonical,
         type: "website"
     },
     twitter: {

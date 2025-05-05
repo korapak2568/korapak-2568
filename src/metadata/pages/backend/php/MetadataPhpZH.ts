@@ -16,7 +16,7 @@ export const MetadataPhpZH: Metadata = {
         title: "PHP开发 | CHORN",
         description: "利用PHP全栈开发，技术专长构建可扩展和动态的Web应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.backend.php).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.backend.php).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.php).alternates.canonical,
         type: "website"
     },
     twitter: {

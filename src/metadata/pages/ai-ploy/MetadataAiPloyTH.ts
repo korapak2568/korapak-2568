@@ -16,7 +16,7 @@ export const MetadataAiPloyTH: Metadata = {
         title: "พบกับพลอย - เพื่อน AI วัยรุ่นผู้สร้างสรรค์ของคุณบน LINE",
         description: "เชื่อมต่อกับพลอย นักเรียนไทยวัย 17 ปีที่เป็น AI พูดได้ 7 ภาษาและแชร์ความหลงใหลในศิลปะ ดนตรี การถ่ายภาพ และการเรียนรู้ เพิ่มเธอบน LINE วันนี้!",
         images: metadataLink(LanguageCode.th, MetaLinks.aiPloy).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.aiPloy).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.aiPloy).alternates.canonical,
         type: "website"
     },
     twitter: {

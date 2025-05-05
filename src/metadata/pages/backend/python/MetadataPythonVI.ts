@@ -16,7 +16,7 @@ export const MetadataPythonVI: Metadata = {
         title: "Phát Triển Python | CHORN",
         description: "Xây dựng ứng dụng web động và có thể mở rộng với chuyên môn kỹ thuật phát triển Full Stack Python.",
         images: metadataLink(LanguageCode.vi, MetaLinks.backend.python).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.backend.python).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.python).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataFrontEndMainKO: Metadata = {
         title: "프론트엔드 개발 서비스 | CHORN",
         description: "CHORN은 Next.js, React, Angular, Vue, HTML5, CSS3 등의 최신 기술을 활용하여 빠르고 반응형이며 확장 가능한 웹사이트를 구축하는 프론트엔드 개발 전문성을 제공합니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.frontend.main).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.main).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

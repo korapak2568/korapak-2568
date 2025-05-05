@@ -16,7 +16,7 @@ export const MetadataReactKO: Metadata = {
         title: "React 개발 | CHORN",
         description: "전문 React 개발로 웹 애플리케이션을 향상시키고, 고성능 애플리케이션을 위한 기술적 전문성을 제공합니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.frontend.react).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.react).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.react).alternates.canonical,
         type: "website"
     },
     twitter: {

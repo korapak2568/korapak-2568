@@ -16,7 +16,7 @@ export const MetadataWeb3KO: Metadata = {
         title: "Web3 블록체인 스마트 계약 개발 서비스 | CHORN",
         description: "Solidity, Ethereum, Polygon을 사용하여 DApp을 구축하고 Hardhat, Ganache, MetaMask와 통합하는 Web3 블록체인 및 스마트 계약 개발에 대한 전문 기술.",
         images: metadataLink(LanguageCode.ko, MetaLinks.web3).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.web3).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.web3).alternates.canonical,
         type: "website",
     },
     twitter: {

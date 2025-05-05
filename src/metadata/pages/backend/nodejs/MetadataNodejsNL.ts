@@ -16,7 +16,7 @@ export const MetadataNodejsNL: Metadata = {
         title: "Node.js Ontwikkeling | CHORN",
         description: "Bouw efficiënte en schaalbare webapplicaties met Node.js full-stack technische expertise.",
         images: metadataLink(LanguageCode.nl, MetaLinks.backend.nodejs).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.backend.nodejs).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.backend.nodejs).alternates.canonical,
         type: "website"
     },
     twitter: {

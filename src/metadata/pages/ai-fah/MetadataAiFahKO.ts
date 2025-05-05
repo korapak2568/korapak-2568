@@ -16,7 +16,7 @@ export const MetadataAiFahKO: Metadata = {
         title: "Fah를 만나요 - LINE에서 만나는 태국 AI 채팅 친구",
         description: "Fah를 만나보세요, LINE에서 만나는 20세 태국 AI 친구로, 태국의 최고의 여행지, 요리 및 문화 체험을 여러 언어로 추천합니다. 오늘 바로 추가하세요!",
         images: metadataLink(LanguageCode.ko, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

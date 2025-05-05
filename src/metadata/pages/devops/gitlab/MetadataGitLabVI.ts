@@ -16,7 +16,7 @@ export const MetadataGitLabVI: Metadata = {
         title: "Dịch vụ GitLab DevOps | CHORN",
         description: "Tăng cường quy trình phát triển của bạn với chuyên môn DevOps dựa trên GitLab cho CI/CD và kiểm soát phiên bản.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.gitlab).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.gitlab).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.gitlab).alternates.canonical,
         type: "website"
     },
     twitter: {

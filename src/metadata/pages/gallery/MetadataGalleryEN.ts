@@ -16,7 +16,7 @@ export const MetadataGalleryEN: Metadata = {
         title: "International Travel | CHORN Gallery",
         description: "CHORN has the experience and readiness for international travel to receive training and learn from work in ASEAN and the United States.",
         images: metadataLink(LanguageCode.en, MetaLinks.gallery).openGraph.images,
-        url: metadataLink(LanguageCode.en, MetaLinks.gallery).openGraph.url,
+        url: metadataLink(LanguageCode.en, MetaLinks.gallery).alternates.canonical,
         type: "website"
     },
     twitter: {

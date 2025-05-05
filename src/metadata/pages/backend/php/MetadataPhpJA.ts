@@ -16,7 +16,7 @@ export const MetadataPhpJA: Metadata = {
         title: "PHP開発 | CHORN",
         description: "PHPフルスタック開発を活用し、スケーラブルでダイナミックなウェブアプリケーションを作成するための技術的専門知識。",
         images: metadataLink(LanguageCode.ja, MetaLinks.backend.php).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.backend.php).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.backend.php).alternates.canonical,
         type: "website"
     },
     twitter: {

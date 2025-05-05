@@ -16,7 +16,7 @@ export const MetadataDotnetCoreKO: Metadata = {
         title: ".NET Core C# 개발 | CHORN",
         description: ".NET Core C# 풀 스택 개발 기술 전문성을 활용하여 안전하고 확장 가능하며 현대적인 웹 애플리케이션을 구축합니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.backend.dotnetcore).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.backend.dotnetcore).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.dotnetcore).alternates.canonical,
         type: "website"
     },
     twitter: {

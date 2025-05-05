@@ -16,7 +16,7 @@ export const MetadataReactTH: Metadata = {
         title: "การพัฒนา React | CHORN",
         description: "ยกระดับแอปพลิเคชันเว็บของคุณด้วยการพัฒนา React จากผู้เชี่ยวชาญ ด้านเทคนิคเพื่อแอปพลิเคชันที่มีประสิทธิภาพสูง",
         images: metadataLink(LanguageCode.th, MetaLinks.frontend.react).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.frontend.react).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.react).alternates.canonical,
         type: "website"
     },
     twitter: {

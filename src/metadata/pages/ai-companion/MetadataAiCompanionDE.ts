@@ -16,7 +16,7 @@ export const MetadataAiCompanionDE: Metadata = {
         title: "LINE-Chat mit LLM/AI-Integration",
         description: "Testen Sie den LINE-Chat, verbinden Sie sich mit LLM/AI und unterstützen Sie mehrere Sprachen.",
         images: metadataLink(LanguageCode.de, MetaLinks.aiCompanion).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.aiCompanion).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.aiCompanion).alternates.canonical,
         type: "website"
     },
     twitter: {

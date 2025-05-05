@@ -19,7 +19,7 @@ export const MetadataHomeDA: Metadata = {
         title: "CHORN | Udvikling af virksomhedssoftware og systemintegration",
         description: "Styrk din virksomhed med professionel systemanalyse og avancerede softwareløsninger. CHORN er specialiseret i full-stack udvikling, AI-drevet automatisering, cloud computing og systemmodernisering for at fremme innovation og effektivitet.",
         images: metadataLink(LanguageCode.da, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

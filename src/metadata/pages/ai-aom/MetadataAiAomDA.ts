@@ -16,7 +16,7 @@ export const MetadataAiAomDA: Metadata = {
         title: "Mød Aom - Din wellness-guide på LINE",
         description: "Forbind med Aom, en 21-årig wellness-orienteret AI-companion på LINE, der giver ernæringsråd, træningsrutiner og mindfulness-øvelser på flere sprog for at hjælpe dig med at leve dit sundeste liv.",
         images: metadataLink(LanguageCode.da, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

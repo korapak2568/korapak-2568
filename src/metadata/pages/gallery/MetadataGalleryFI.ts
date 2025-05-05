@@ -16,7 +16,7 @@ export const MetadataGalleryFI: Metadata = {
         title: "Kansainväliset Matkat | CHORN Galleria",
         description: "CHORNilla on kokemus ja valmius kansainvälisiin matkoihin koulutuksen saamiseksi ja työstä oppimiseen ASEAN-maissa ja Yhdysvalloissa.",
         images: metadataLink(LanguageCode.fi, MetaLinks.gallery).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.gallery).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.gallery).alternates.canonical,
         type: "website"
     },
     twitter: {

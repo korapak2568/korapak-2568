@@ -16,7 +16,7 @@ export const MetadataPhpFI: Metadata = {
         title: "PHP Kehitys | CHORN",
         description: "Hyödynnä PHP full stack kehitystä, teknistä asiantuntemusta skaalautuvien ja dynaamisten verkkosovellusten rakentamiseen.",
         images: metadataLink(LanguageCode.fi, MetaLinks.backend.php).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.backend.php).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.php).alternates.canonical,
         type: "website"
     },
     twitter: {

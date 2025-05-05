@@ -16,7 +16,7 @@ export const MetadataAiFahFI: Metadata = {
         title: "Tavataa Fah - Thaimaalainen AI-chatystäväsi LINE:ssä",
         description: "Tavataa Fah, 20-vuotias thaimaalainen AI-ystäväsi LINE:ssä, joka suosittelee Thaimaan parhaita matkakohteita, ruokia ja kulttuurikokemuksia useilla kielillä. Lisää hänet tänään!",
         images: metadataLink(LanguageCode.fi, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

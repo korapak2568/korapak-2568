@@ -16,7 +16,7 @@ export const MetadataHtml5TH: Metadata = {
         title: "การพัฒนา HTML5 | CHORN",
         description: "สร้างแอปพลิเคชันเว็บที่ทันสมัยและมีปฏิสัมพันธ์ด้วยความเชี่ยวชาญทางเทคนิค",
         images: metadataLink(LanguageCode.th, MetaLinks.frontend.html5).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.frontend.html5).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.html5).alternates.canonical,
         type: "website"
     },
     twitter: {

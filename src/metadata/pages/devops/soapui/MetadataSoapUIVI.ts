@@ -16,7 +16,7 @@ export const MetadataSoapUIVI: Metadata = {
         title: "Kiểm thử SoapUI | CHORN",
         description: "Đảm bảo độ tin cậy của API và chuyên môn kỹ thuật web với chuyên môn kiểm thử kỹ thuật.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.soapui).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.soapui).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.soapui).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataAngularFI: Metadata = {
         title: "Angular Kehitys | CHORN",
         description: "Angular-kehitys teknisellä asiantuntemuksella nopeiden, skaalautuvien ja dynaamisten verkkosovellusten luomiseen.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.angular).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.angular).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.angular).alternates.canonical,
         type: "website"
     },
     twitter: {

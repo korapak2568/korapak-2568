@@ -16,7 +16,7 @@ export const MetadataPhpDA: Metadata = {
         title: "PHP Udvikling | CHORN",
         description: "Udnyt PHP full stack udvikling, teknisk ekspertise til at bygge skalerbare og dynamiske webapplikationer.",
         images: metadataLink(LanguageCode.da, MetaLinks.backend.php).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.backend.php).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.backend.php).alternates.canonical,
         type: "website"
     },
     twitter: {

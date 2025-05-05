@@ -16,7 +16,7 @@ export const MetadataGitHubFI: Metadata = {
         title: "GitHub DevOps -palvelut | CHORN",
         description: "Paranna kehitystyöprosessiasi GitHub-pohjaisella DevOps-asiantuntemuksella CI/CD:lle ja versionhallintaan.",
         images: metadataLink(LanguageCode.fi, MetaLinks.devops.github).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.devops.github).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.github).alternates.canonical,
         type: "website"
     },
     twitter: {

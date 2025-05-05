@@ -1,4 +1,4 @@
-import {IOpenGraphImage} from "@/metadata/opengraph/model/IOpenGraphImage";
+import {IOpenGraphImage} from "@/metadata/metadataLink/model/IOpenGraphImage";
 import {OpenGraph} from "next/dist/lib/metadata/types/opengraph-types";
 
 export interface IMetaPage {
@@ -8,7 +8,6 @@ export interface IMetaPage {
     },
     openGraph: {
         images: IOpenGraphImage[],
-        url: string
     } | OpenGraph,
     twitter: {
         images: string[],

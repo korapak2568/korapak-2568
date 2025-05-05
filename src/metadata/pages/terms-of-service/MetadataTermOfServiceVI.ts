@@ -19,7 +19,7 @@ export const MetadataTermOfServiceVI: Metadata = {
         title: "Điều khoản dịch vụ | CHORN",
         description: "CHORN cung cấp Điều khoản dịch vụ quy định việc sử dụng trang web này. Bằng cách truy cập hoặc sử dụng trang web, bạn đồng ý tuân thủ các điều khoản này.",
         images: metadataLink(LanguageCode.vi, MetaLinks.termOfServices).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.termOfServices).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.termOfServices).alternates.canonical,
         type: "website",
     },
     twitter: {

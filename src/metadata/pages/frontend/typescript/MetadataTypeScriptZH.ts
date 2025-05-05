@@ -16,7 +16,7 @@ export const MetadataTypeScriptZH: Metadata = {
         title: "CHORN - 使用TypeScript进行定制软件开发",
         description: "TypeScript专业知识，强大的工具，用于构建可扩展和高性能的应用程序。了解为什么我们为定制软件解决方案选择TypeScript。",
         images: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

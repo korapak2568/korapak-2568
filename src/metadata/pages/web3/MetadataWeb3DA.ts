@@ -16,7 +16,7 @@ export const MetadataWeb3DA: Metadata = {
         title: "Web3 Blockchain Smart Contract Udviklingstjenester | CHORN",
         description: "Specialiseret teknisk ekspertise inden for Web3 blockchain og smart contract udvikling, herunder opbygning af DApps med Solidity, Ethereum, Polygon og integration med Hardhat, Ganache og MetaMask.",
         images: metadataLink(LanguageCode.da, MetaLinks.web3).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.web3).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.web3).alternates.canonical,
         type: "website",
     },
     twitter: {

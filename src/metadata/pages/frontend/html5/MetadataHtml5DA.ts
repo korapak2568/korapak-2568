@@ -16,7 +16,7 @@ export const MetadataHtml5DA: Metadata = {
         title: "HTML5 Udvikling | CHORN",
         description: "Byg moderne og interaktive webapplikationer med teknisk ekspertise.",
         images: metadataLink(LanguageCode.da, MetaLinks.frontend.html5).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.frontend.html5).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.html5).alternates.canonical,
         type: "website"
     },
     twitter: {

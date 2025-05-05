@@ -19,7 +19,7 @@ export const Metadata404NL: Metadata = {
         title: "404 - Pagina niet gevonden",
         description: "Oeps! We konden de pagina die u zocht niet vinden. Controleer de URL of ga terug naar onze homepage om CHORN verder te verkennen.",
         images: metadataLink(LanguageCode.nl, MetaLinks._404).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks._404).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks._404).alternates.canonical,
         type: "website",
     },
     twitter: {

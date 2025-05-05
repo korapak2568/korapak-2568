@@ -16,7 +16,7 @@ export const MetadataHtml5DE: Metadata = {
         title: "HTML5 Entwicklung | CHORN",
         description: "Erstellen Sie moderne und interaktive Webanwendungen mit technischer Expertise.",
         images: metadataLink(LanguageCode.de, MetaLinks.frontend.html5).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.frontend.html5).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.frontend.html5).alternates.canonical,
         type: "website"
     },
     twitter: {

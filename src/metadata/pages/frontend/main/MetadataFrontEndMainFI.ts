@@ -16,7 +16,7 @@ export const MetadataFrontEndMainFI: Metadata = {
         title: "Frontend-kehityspalvelut | CHORN",
         description: "CHORN tarjoaa frontend-kehitystä käyttäen moderneja teknologioita, kuten Next.js, React, Angular, Vue, HTML5 ja CSS3, rakentaakseen nopeita, responsiivisia ja skaalautuvia verkkosivustoja.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.main).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.main).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

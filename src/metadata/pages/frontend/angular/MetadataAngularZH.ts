@@ -16,7 +16,7 @@ export const MetadataAngularZH: Metadata = {
         title: "Angular开发 | CHORN",
         description: "凭借技术专业知识，提供Angular开发，打造快速、可扩展、动态的Web应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.frontend.angular).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.angular).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.angular).alternates.canonical,
         type: "website"
     },
     twitter: {

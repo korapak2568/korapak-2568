@@ -16,7 +16,7 @@ export const MetadataGitHubKO: Metadata = {
         title: "GitHub DevOps 서비스 | CHORN",
         description: "CI/CD 및 버전 관리를 위한 GitHub 기반 DevOps 기술 전문성으로 개발 워크플로를 개선하세요.",
         images: metadataLink(LanguageCode.ko, MetaLinks.devops.github).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.devops.github).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.devops.github).alternates.canonical,
         type: "website"
     },
     twitter: {

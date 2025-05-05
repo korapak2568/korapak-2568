@@ -16,7 +16,7 @@ export const MetadataNextjsKO: Metadata = {
         title: "Next.js 개발 | CHORN",
         description: "Next.js 개발 전문 기술로 빠르고 확장 가능한 웹 애플리케이션을 만듭니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.frontend.nextjs).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.nextjs).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.nextjs).alternates.canonical,
         type: "website"
     },
     twitter: {

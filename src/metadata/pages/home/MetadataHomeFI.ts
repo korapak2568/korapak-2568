@@ -19,7 +19,7 @@ export const MetadataHomeFI: Metadata = {
         title: "CHORN | Yritysohjelmistokehitys ja järjestelmäintegraatio",
         description: "Vahvista liiketoimintaasi asiantuntevalla järjestelmäanalyysillä ja huipputason ohjelmistoratkaisuilla. CHORN on erikoistunut full-stack kehitykseen, tekoälypohjaiseen automaatioon, pilvipalveluihin ja järjestelmän modernisointiin innovaatioiden ja tehokkuuden edistämiseksi.",
         images: metadataLink(LanguageCode.fi, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

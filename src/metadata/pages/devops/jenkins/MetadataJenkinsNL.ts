@@ -16,7 +16,7 @@ export const MetadataJenkinsNL: Metadata = {
         title: "Jenkins DevOps Diensten | CHORN",
         description: "Automatiseer uw ontwikkelingsproces met Jenkins-gebaseerde DevOps technische expertise voor continue integratie en implementatie.",
         images: metadataLink(LanguageCode.nl, MetaLinks.devops.jenkins).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.devops.jenkins).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.devops.jenkins).alternates.canonical,
         type: "website"
     },
     twitter: {

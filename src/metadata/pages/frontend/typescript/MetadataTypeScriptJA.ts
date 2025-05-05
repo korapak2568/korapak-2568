@@ -16,7 +16,7 @@ export const MetadataTypeScriptJA: Metadata = {
         title: "CHORN - TypeScriptを使用したカスタムソフトウェア開発",
         description: "TypeScriptの専門知識は、スケーラブルで高パフォーマンスなアプリケーションを作成するための強力なツールです。なぜ私たちがカスタムソフトウェアソリューションにTypeScriptを選ぶのかを学びましょう。",
         images: metadataLink(LanguageCode.ja, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

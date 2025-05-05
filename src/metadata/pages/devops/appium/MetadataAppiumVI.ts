@@ -16,7 +16,7 @@ export const MetadataAppiumVI: Metadata = {
         title: "Kiểm thử Appium | CHORN",
         description: "Tự động hóa kiểm thử ứng dụng di động của bạn với chuyên môn kỹ thuật Appium để kiểm thử đa nền tảng toàn diện.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.appium).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.appium).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.appium).alternates.canonical,
         type: "website"
     },
     twitter: {

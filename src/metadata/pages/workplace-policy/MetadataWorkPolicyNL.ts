@@ -19,7 +19,7 @@ export const MetadataWorkPolicyNL: Metadata = {
         title: "Werkbeleid | CHORN",
         description: "CHORN past zich aan verschillende werkmodellen aan, waaronder werken op afstand, op kantoor en hybride werken, afgestemd op de specifieke behoeften van elk project. Deze aanpak zorgt voor naadloze communicatie en efficiëntie.",
         images: metadataLink(LanguageCode.nl, MetaLinks.workplacePolicy).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.workplacePolicy).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.workplacePolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

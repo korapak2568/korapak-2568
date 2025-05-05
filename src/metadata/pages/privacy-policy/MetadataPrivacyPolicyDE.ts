@@ -19,7 +19,7 @@ export const MetadataPrivacyPolicyDE: Metadata = {
         title: "Datenschutzrichtlinie | CHORN",
         description: "CHORN respektiert Ihre Privatsphäre und verpflichtet sich zum Schutz Ihrer personenbezogenen Daten. Diese Datenschutzrichtlinie erklärt, wie Daten bei der Nutzung der Website verarbeitet werden und die Verwendung von Cookies zu Analysezwecken.",
         images: metadataLink(LanguageCode.de, MetaLinks.privacyPolicy).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.privacyPolicy).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.privacyPolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

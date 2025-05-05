@@ -16,7 +16,7 @@ export const MetadataLlmAiVI: Metadata = {
         title: "Tích Hợp LLM/AI - CHORN",
         description: "Khám phá phát triển tác nhân LLM/AI tiên tiến, giải pháp LLM tùy chỉnh và tự động hóa quy trình làm việc AI để tối ưu hóa hoạt động kinh doanh.",
         images: metadataLink(LanguageCode.vi, MetaLinks.llmAi).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.llmAi).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.llmAi).alternates.canonical,
         type: "website"
     },
     twitter: {

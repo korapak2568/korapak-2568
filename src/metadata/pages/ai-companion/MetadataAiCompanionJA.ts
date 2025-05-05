@@ -16,7 +16,7 @@ export const MetadataAiCompanionJA: Metadata = {
         title: "LLM/AI統合によるLINEチャット",
         description: "LINEチャットをテストし、複数言語に対応したLLM/AIに接続します。",
         images: metadataLink(LanguageCode.ja, MetaLinks.aiCompanion).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.aiCompanion).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.aiCompanion).alternates.canonical,
         type: "website"
     },
     twitter: {

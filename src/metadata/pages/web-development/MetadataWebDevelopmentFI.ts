@@ -16,7 +16,7 @@ export const MetadataWebDevelopmentFI: Metadata = {
         title: "Parhaat verkkokehityspalvelut | CHORN",
         description: "CHORN tarjoaa verkkokehityksen asiantuntemusta suosituilla kehyksillä, kuten Next.js, React, Angular ja monia muita. CHORN täyttää monenlaiset liiketoimintatarpeet, kuten digitaalinen markkinointi, sähköinen kaupankäynti, lohkoketjuteknologia ja paljon muuta.",
         images: metadataLink(LanguageCode.fi, MetaLinks.webDevelopment).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.webDevelopment).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.webDevelopment).alternates.canonical,
         type: "website"
     },
     twitter: {

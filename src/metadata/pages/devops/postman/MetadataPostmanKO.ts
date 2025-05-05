@@ -16,7 +16,7 @@ export const MetadataPostmanKO: Metadata = {
         title: "Postman API 테스트 서비스 | CHORN",
         description: "Postman 기반의 API 테스트 기술 전문성을 통해 API가 예상대로 작동하는지 확인합니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.devops.postman).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.devops.postman).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.devops.postman).alternates.canonical,
         type: "website"
     },
     twitter: {

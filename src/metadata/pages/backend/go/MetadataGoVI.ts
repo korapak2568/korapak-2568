@@ -16,7 +16,7 @@ export const MetadataGoVI: Metadata = {
         title: "Phát triển Go | CHORN",
         description: "Xây dựng các ứng dụng web hiệu quả và có thể mở rộng với chuyên môn phát triển full stack Go.",
         images: metadataLink(LanguageCode.vi, MetaLinks.backend.go).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.backend.go).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.go).alternates.canonical,
         type: "website"
     },
     twitter: {

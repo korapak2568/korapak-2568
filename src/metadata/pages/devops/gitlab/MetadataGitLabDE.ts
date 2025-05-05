@@ -16,7 +16,7 @@ export const MetadataGitLabDE: Metadata = {
         title: "GitLab DevOps Dienste | CHORN",
         description: "Verbessern Sie Ihren Entwicklungsworkflow mit DevOps-Technik-Expertise auf Basis von GitLab für CI/CD und Versionskontrolle.",
         images: metadataLink(LanguageCode.de, MetaLinks.devops.gitlab).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.devops.gitlab).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.devops.gitlab).alternates.canonical,
         type: "website"
     },
     twitter: {

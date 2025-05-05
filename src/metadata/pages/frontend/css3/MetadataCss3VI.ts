@@ -16,7 +16,7 @@ export const MetadataCss3VI: Metadata = {
         title: "Phát triển CSS3 | CHORN",
         description: "Phát triển CSS3 với chuyên môn kỹ thuật để tạo ra thiết kế web thời trang và phản hồi tốt.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.css3).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.css3).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.css3).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataVueZH: Metadata = {
         title: "Vue.js 开发 | CHORN",
         description: "Vue.js 开发专业技术，用于构建现代 Web 应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.frontend.vue).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.vue).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.vue).alternates.canonical,
         type: "website"
     },
     twitter: {

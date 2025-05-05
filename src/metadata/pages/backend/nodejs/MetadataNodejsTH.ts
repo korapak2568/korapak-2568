@@ -16,7 +16,7 @@ export const MetadataNodejsTH: Metadata = {
         title: "พัฒนา Node.js | CHORN",
         description: "สร้างเว็บแอปพลิเคชันที่มีประสิทธิภาพและสามารถขยายได้ด้วยความเชี่ยวชาญด้านการพัฒนา Node.js แบบ Full Stack",
         images: metadataLink(LanguageCode.th, MetaLinks.backend.nodejs).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.backend.nodejs).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.nodejs).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -19,7 +19,7 @@ export const MetadataHomeNL: Metadata = {
         title: "CHORN | Ontwikkeling van bedrijfssoftware en systeemintegratie",
         description: "Versterk uw bedrijf met professionele systeemanalyse en geavanceerde softwareoplossingen. CHORN is gespecialiseerd in full-stack ontwikkeling, AI-gedreven automatisering, cloud computing en systeemmodernisering om innovatie en efficiëntie te stimuleren.",
         images: metadataLink(LanguageCode.nl, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

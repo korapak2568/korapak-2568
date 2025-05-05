@@ -16,7 +16,7 @@ export const MetadataGoFI: Metadata = {
         title: "Go Kehitys | CHORN",
         description: "Rakenna tehokkaita ja skaalautuvia verkkosovelluksia Go full stack kehityksen teknisen asiantuntemuksen avulla.",
         images: metadataLink(LanguageCode.fi, MetaLinks.backend.go).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.backend.go).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.go).alternates.canonical,
         type: "website"
     },
     twitter: {

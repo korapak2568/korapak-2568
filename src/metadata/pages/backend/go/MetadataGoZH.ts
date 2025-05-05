@@ -16,7 +16,7 @@ export const MetadataGoZH: Metadata = {
         title: "Go开发 | CHORN",
         description: "通过Go全栈开发的技术专长，构建高效和可扩展的Web应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.backend.go).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.backend.go).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.go).alternates.canonical,
         type: "website"
     },
     twitter: {

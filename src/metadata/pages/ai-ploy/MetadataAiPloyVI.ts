@@ -16,7 +16,7 @@ export const MetadataAiPloyVI: Metadata = {
         title: "Gặp Ploy - Bạn AI sáng tạo của bạn trên LINE",
         description: "Kết nối với Ploy, một AI sinh viên 17 tuổi người Thái nói được 7 thứ tiếng, chia sẻ đam mê của bạn với nghệ thuật, âm nhạc, nhiếp ảnh và học hỏi. Thêm cô ấy trên LINE ngay hôm nay!",
         images: metadataLink(LanguageCode.vi, MetaLinks.aiPloy).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.aiPloy).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.aiPloy).alternates.canonical,
         type: "website"
     },
     twitter: {

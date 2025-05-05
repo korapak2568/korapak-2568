@@ -16,7 +16,7 @@ export const MetadataJavaScriptNL: Metadata = {
         title: "CHORN - JavaScript maatwerk softwareontwikkeling",
         description: "JavaScript-expertise, een krachtig hulpmiddel voor het bouwen van schaalbare en krachtige toepassingen. Leer waarom wij JavaScript kiezen voor maatwerk softwareoplossingen.",
         images: metadataLink(LanguageCode.nl, MetaLinks.frontend.javascript).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.javascript).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.javascript).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -19,7 +19,7 @@ export const MetadataHomeEN: Metadata = {
         title: "CHORN | Enterprise Software Development and System Integration",
         description: "Empower your business with expert system analysis and cutting-edge software solutions. CHORN specializes in full-stack development, AI-driven automation, cloud, and system modernization to drive innovation and efficiency.",
         images: metadataLink(LanguageCode.en, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.en, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.en, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataDockerKO: Metadata = {
         title: "Docker DevOps 서비스 | CHORN",
         description: "Docker를 활용한 컨테이너화와 DevOps 기술 전문성으로 확장 가능한 소프트웨어 배포를 지원합니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.devops.docker).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.devops.docker).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.devops.docker).alternates.canonical,
         type: "website"
     },
     twitter: {

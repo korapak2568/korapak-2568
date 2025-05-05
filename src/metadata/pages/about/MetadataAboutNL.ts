@@ -16,7 +16,7 @@ export const MetadataAboutNL: Metadata = {
         title: "CHORN - Experts in Systeemanalyse & Full-Stack Softwareontwikkelingstechniek",
         description: "Verken CHORNs toewijding aan het leveren van geavanceerde systeemmodernisering, full-stack ontwikkeling en technische ondersteuning voor bedrijven.",
         images: metadataLink(LanguageCode.nl, MetaLinks.about).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.about).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.about).alternates.canonical,
         type: "website"
     },
     twitter: {

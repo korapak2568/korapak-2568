@@ -16,7 +16,7 @@ export const MetadataAiAomZH: Metadata = {
         title: "认识Aom - 您在LINE上的健康指南",
         description: "与Aom建立联系，Aom是一个21岁的专注于健康的AI伙伴，在LINE上提供营养建议、运动计划和正念练习，帮助您过上最健康的生活。",
         images: metadataLink(LanguageCode.zh, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

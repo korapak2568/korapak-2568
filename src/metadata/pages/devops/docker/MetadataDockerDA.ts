@@ -16,7 +16,7 @@ export const MetadataDockerDA: Metadata = {
         title: "Docker DevOps Tjenester | CHORN",
         description: "Udnyt Docker til containerisering og skalerbar softwareimplementering med DevOps teknisk ekspertise.",
         images: metadataLink(LanguageCode.da, MetaLinks.devops.docker).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.devops.docker).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.docker).alternates.canonical,
         type: "website"
     },
     twitter: {

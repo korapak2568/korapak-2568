@@ -19,7 +19,7 @@ export const MetadataWorkPolicyFI: Metadata = {
         title: "Työskentelykäytäntö | CHORN",
         description: "CHORN mukautuu erilaisiin työskentelymalleihin, mukaan lukien etätyö, toimistotyö ja hybridityö, räätälöiden ne kunkin projektin erityistarpeisiin. Tämä lähestymistapa varmistaa sujuvan viestinnän ja tehokkuuden.",
         images: metadataLink(LanguageCode.fi, MetaLinks.workplacePolicy).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.workplacePolicy).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.workplacePolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataNodejsKO: Metadata = {
         title: "Node.js 개발 | CHORN",
         description: "Node.js 풀스택 개발 전문성을 통해 효율적이고 확장 가능한 웹 애플리케이션 구축.",
         images: metadataLink(LanguageCode.ko, MetaLinks.backend.nodejs).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.backend.nodejs).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.nodejs).alternates.canonical,
         type: "website"
     },
     twitter: {

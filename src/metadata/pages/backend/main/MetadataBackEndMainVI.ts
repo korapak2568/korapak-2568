@@ -16,7 +16,7 @@ export const MetadataBackEndMainVI: Metadata = {
         title: "Phát triển API Back-End | CHORN",
         description: "Phát triển API Back-End với chuyên môn kỹ thuật, sử dụng Node.js, Java Spring Boot, .NET Core, Go, Python và PHP để xây dựng ứng dụng chất lượng cao và có thể mở rộng theo nhu cầu doanh nghiệp.",
         images: metadataLink(LanguageCode.vi, MetaLinks.backend.main).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.backend.main).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

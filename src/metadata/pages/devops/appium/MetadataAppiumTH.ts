@@ -16,7 +16,7 @@ export const MetadataAppiumTH: Metadata = {
         title: "การทดสอบ Appium | CHORN",
         description: "ทำให้การทดสอบแอปมือถือของคุณเป็นอัตโนมัติด้วยความเชี่ยวชาญด้าน Appium เพื่อการทดสอบข้ามแพลตฟอร์มที่ครอบคลุม",
         images: metadataLink(LanguageCode.th, MetaLinks.devops.appium).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.devops.appium).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.appium).alternates.canonical,
         type: "website"
     },
     twitter: {

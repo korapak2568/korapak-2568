@@ -16,7 +16,7 @@ export const MetadataReactFI: Metadata = {
         title: "React-kehitys | CHORN",
         description: "Paranna verkkosovelluksiasi asiantuntevalla React-kehityksellä, tekninen asiantuntemus suorituskykyisiin sovelluksiin.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.react).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.react).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.react).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataTypeScriptVI: Metadata = {
         title: "CHORN - Phát triển phần mềm tùy chỉnh với TypeScript",
         description: "Chuyên môn về TypeScript, công cụ mạnh mẽ để xây dựng các ứng dụng có thể mở rộng và hiệu suất cao. Tìm hiểu lý do chúng tôi chọn TypeScript cho các giải pháp phần mềm tùy chỉnh.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

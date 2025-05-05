@@ -16,7 +16,7 @@ export const MetadataDotnetCoreDA: Metadata = {
         title: ".NET Core C# Udvikling | CHORN",
         description: "Byg sikre, skalerbare og moderne webapplikationer med teknisk ekspertise i .NET Core C# full stack udvikling.",
         images: metadataLink(LanguageCode.da, MetaLinks.backend.dotnetcore).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.backend.dotnetcore).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.backend.dotnetcore).alternates.canonical,
         type: "website"
     },
     twitter: {

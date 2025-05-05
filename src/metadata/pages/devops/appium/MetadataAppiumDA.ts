@@ -16,7 +16,7 @@ export const MetadataAppiumDA: Metadata = {
         title: "Appium Test | CHORN",
         description: "Automatisér dine mobilapplikationstests med Appium-ekspertise til omfattende test på tværs af platforme.",
         images: metadataLink(LanguageCode.da, MetaLinks.devops.appium).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.devops.appium).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.appium).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataDockerZH: Metadata = {
         title: "Docker DevOps 服务 | CHORN",
         description: "利用 Docker 进行容器化和可扩展的软件部署，结合 DevOps 技术专长。",
         images: metadataLink(LanguageCode.zh, MetaLinks.devops.docker).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.devops.docker).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.docker).alternates.canonical,
         type: "website"
     },
     twitter: {

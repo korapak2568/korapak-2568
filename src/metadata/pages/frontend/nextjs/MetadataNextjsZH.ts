@@ -16,7 +16,7 @@ export const MetadataNextjsZH: Metadata = {
         title: "Next.js开发 | CHORN",
         description: "专业的Next.js开发技术，构建快速、可扩展的Web应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.frontend.nextjs).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.nextjs).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.nextjs).alternates.canonical,
         type: "website"
     },
     twitter: {

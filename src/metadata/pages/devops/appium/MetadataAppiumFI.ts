@@ -16,7 +16,7 @@ export const MetadataAppiumFI: Metadata = {
         title: "Appium-testaus | CHORN",
         description: "Automatisoi mobiilisovellustestauksesi Appium-asiantuntemuksella kattavaa monialustatestausta varten.",
         images: metadataLink(LanguageCode.fi, MetaLinks.devops.appium).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.devops.appium).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.appium).alternates.canonical,
         type: "website"
     },
     twitter: {

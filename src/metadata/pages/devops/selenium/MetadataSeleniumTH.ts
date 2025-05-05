@@ -16,7 +16,7 @@ export const MetadataSeleniumTH: Metadata = {
         title: "การทดสอบ Selenium | CHORN",
         description: "ทำให้การทดสอบแอปพลิเคชันของคุณเป็นอัตโนมัติด้วยความเชี่ยวชาญในการทดสอบ Selenium เพื่อผลลัพธ์ที่แข็งแกร่งและเชื่อถือได้",
         images: metadataLink(LanguageCode.th, MetaLinks.devops.selenium).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.devops.selenium).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.selenium).alternates.canonical,
         type: "website"
     },
     twitter: {

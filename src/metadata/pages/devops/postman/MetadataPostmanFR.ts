@@ -16,7 +16,7 @@ export const MetadataPostmanFR: Metadata = {
         title: "Services de test API avec Postman | CHORN",
         description: "Assurez-vous que vos API fonctionnent comme prévu grâce à une expertise technique en test API basée sur Postman.",
         images: metadataLink(LanguageCode.fr, MetaLinks.devops.postman).openGraph.images,
-        url: metadataLink(LanguageCode.fr, MetaLinks.devops.postman).openGraph.url,
+        url: metadataLink(LanguageCode.fr, MetaLinks.devops.postman).alternates.canonical,
         type: "website"
     },
     twitter: {

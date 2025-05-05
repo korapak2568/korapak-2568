@@ -16,7 +16,7 @@ export const MetadataAiPloyEN: Metadata = {
         title: "Meet Ploy - Your Creative Teen AI Friend on LINE",
         description: "Connect with Ploy, a creative 17-year-old Thai student AI who speaks seven languages and shares your passion for art, music, photography, and learning. Add her on LINE today!",
         images: metadataLink(LanguageCode.en, MetaLinks.aiPloy).openGraph.images,
-        url: metadataLink(LanguageCode.en, MetaLinks.aiPloy).openGraph.url,
+        url: metadataLink(LanguageCode.en, MetaLinks.aiPloy).alternates.canonical,
         type: "website"
     },
     twitter: {

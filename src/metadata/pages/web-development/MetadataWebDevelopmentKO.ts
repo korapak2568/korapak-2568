@@ -16,7 +16,7 @@ export const MetadataWebDevelopmentKO: Metadata = {
         title: "최고의 웹 개발 서비스 | CHORN",
         description: "CHORN은 Next.js, React, Angular 등 인기 있는 프레임워크에서 전문성을 가진 웹 개발 기술을 제공합니다. CHORN은 디지털 마케팅, 전자 상거래, 블록체인 등 다양한 비즈니스 요구를 충족시킵니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.webDevelopment).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.webDevelopment).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.webDevelopment).alternates.canonical,
         type: "website"
     },
     twitter: {

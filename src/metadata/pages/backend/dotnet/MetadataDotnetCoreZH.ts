@@ -16,7 +16,7 @@ export const MetadataDotnetCoreZH: Metadata = {
         title: ".NET Core C# 开发 | CHORN",
         description: "利用 .NET Core C# 全栈开发的技术专长，构建安全、可扩展和现代化的 Web 应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.backend.dotnetcore).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.backend.dotnetcore).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.dotnetcore).alternates.canonical,
         type: "website"
     },
     twitter: {

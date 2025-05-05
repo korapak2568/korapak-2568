@@ -16,7 +16,7 @@ export const MetadataNextjsDE: Metadata = {
         title: "Next.js Entwicklung | CHORN",
         description: "Next.js-Entwicklung mit technischer Expertise, um schnelle, skalierbare und dynamische Webanwendungen zu erstellen.",
         images: metadataLink(LanguageCode.de, MetaLinks.frontend.nextjs).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.frontend.nextjs).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.frontend.nextjs).alternates.canonical,
         type: "website"
     },
     twitter: {

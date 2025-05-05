@@ -16,7 +16,7 @@ export const MetadataAiFahDA: Metadata = {
         title: "Mød Fah - Din thailandske AI-chatven på LINE",
         description: "Mød Fah, din 20-årige thailandske AI-ven på LINE, der anbefaler Thailands bedste destinationer, retter og kulturelle oplevelser på flere sprog. Tilføj hende i dag!",
         images: metadataLink(LanguageCode.da, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

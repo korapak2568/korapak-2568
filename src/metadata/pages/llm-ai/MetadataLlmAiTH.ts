@@ -16,7 +16,7 @@ export const MetadataLlmAiTH: Metadata = {
         title: "การผสานรวม LLM/AI - CHORN",
         description: "สำรวจการพัฒนาเอเจนต์ LLM/AI ที่ล้ำสมัย โซลูชัน LLM แบบกำหนดเอง และระบบอัตโนมัติของกระบวนการ AI เพื่อเพิ่มประสิทธิภาพการดำเนินธุรกิจ",
         images: metadataLink(LanguageCode.th, MetaLinks.llmAi).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.llmAi).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.llmAi).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataKubeTH: Metadata = {
         title: "บริการ DevOps Kubernetes | CHORN",
         description: "เพิ่มประสิทธิภาพโครงสร้างพื้นฐานของคุณด้วยความเชี่ยวชาญทางเทคนิค DevOps โดยใช้ Kubernetes สำหรับการขยายและการจัดการแอปพลิเคชันแบบอัตโนมัติ",
         images: metadataLink(LanguageCode.th, MetaLinks.devops.kube).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.devops.kube).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.kube).alternates.canonical,
         type: "website"
     },
     twitter: {

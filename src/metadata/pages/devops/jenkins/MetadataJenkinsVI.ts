@@ -16,7 +16,7 @@ export const MetadataJenkinsVI: Metadata = {
         title: "Dịch vụ DevOps Jenkins | CHORN",
         description: "Tự động hóa quy trình phát triển của bạn với chuyên môn DevOps dựa trên Jenkins cho tích hợp liên tục và triển khai.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.jenkins).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.jenkins).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.jenkins).alternates.canonical,
         type: "website"
     },
     twitter: {

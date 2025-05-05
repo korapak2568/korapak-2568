@@ -16,7 +16,7 @@ export const MetadataPythonJA: Metadata = {
         title: "Python 開発 | CHORN",
         description: "Python フルスタック開発の技術的専門知識を使用して、ダイナミックでスケーラブルなウェブアプリケーションを構築します。",
         images: metadataLink(LanguageCode.ja, MetaLinks.backend.python).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.backend.python).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.backend.python).alternates.canonical,
         type: "website"
     },
     twitter: {

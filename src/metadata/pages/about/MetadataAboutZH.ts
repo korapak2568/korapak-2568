@@ -16,7 +16,7 @@ export const MetadataAboutZH: Metadata = {
         title: "CHORN - 系统分析与全栈软件开发工程专家",
         description: "探索 CHORN 致力于为企业提供尖端系统现代化、全栈开发和技术支持的承诺。",
         images: metadataLink(LanguageCode.zh, MetaLinks.about).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.about).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.about).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -19,7 +19,7 @@ export const MetadataTermOfServiceTH: Metadata = {
         title: "เงื่อนไขการให้บริการ | CHORN",
         description: "CHORN จัดทำเงื่อนไขการให้บริการเพื่อควบคุมการใช้งานเว็บไซต์ การเข้าถึงหรือการใช้งานเว็บไซต์นี้ถือว่าคุณยอมรับที่จะปฏิบัติตามเงื่อนไขเหล่านี้",
         images: metadataLink(LanguageCode.th, MetaLinks.termOfServices).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.termOfServices).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.termOfServices).alternates.canonical,
         type: "website",
     },
     twitter: {

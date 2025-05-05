@@ -16,7 +16,7 @@ export const MetadataReactVI: Metadata = {
         title: "Phát triển React | CHORN",
         description: "Nâng cao ứng dụng web của bạn với phát triển React chuyên nghiệp, kỹ thuật chuyên môn cho các ứng dụng hiệu suất cao.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.react).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.react).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.react).alternates.canonical,
         type: "website"
     },
     twitter: {

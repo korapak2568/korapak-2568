@@ -16,7 +16,7 @@ export const MetadataNextjsTH: Metadata = {
         title: "การพัฒนา Next.js | CHORN",
         description: "บริการพัฒนา Next.js โดยผู้เชี่ยวชาญ สร้างเว็บแอปพลิเคชันที่รวดเร็วและขยายขนาดได้",
         images: metadataLink(LanguageCode.th, MetaLinks.frontend.nextjs).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.frontend.nextjs).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.nextjs).alternates.canonical,
         type: "website"
     },
     twitter: {

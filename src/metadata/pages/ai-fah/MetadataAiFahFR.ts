@@ -16,7 +16,7 @@ export const MetadataAiFahFR: Metadata = {
         title: "Rencontrez Fah - Votre amie de chat AI thaïlandaise sur LINE",
         description: "Rencontrez Fah, votre amie AI thaïlandaise de 20 ans sur LINE qui recommande les meilleures destinations, plats et expériences culturelles de la Thaïlande en plusieurs langues. Ajoutez-la dès aujourd'hui !",
         images: metadataLink(LanguageCode.fr, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.fr, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.fr, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

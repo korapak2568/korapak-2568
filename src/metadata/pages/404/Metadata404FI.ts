@@ -19,7 +19,7 @@ export const Metadata404FI: Metadata = {
         title: "404 - Sivua ei löydy",
         description: "Hups! Emme löytäneet etsimääsi sivua. Tarkista URL-osoite tai palaa kotisivullemme jatkaaksesi CHORNin tutkimista.",
         images: metadataLink(LanguageCode.fi, MetaLinks._404).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks._404).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks._404).alternates.canonical,
         type: "website",
     },
     twitter: {

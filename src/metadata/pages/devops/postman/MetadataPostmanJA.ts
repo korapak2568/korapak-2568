@@ -16,7 +16,7 @@ export const MetadataPostmanJA: Metadata = {
         title: "PostmanによるAPIテストサービス | CHORN",
         description: "PostmanベースのAPIテスト技術専門知識で、APIが期待通りに機能することを確認します。",
         images: metadataLink(LanguageCode.ja, MetaLinks.devops.postman).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.devops.postman).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.devops.postman).alternates.canonical,
         type: "website"
     },
     twitter: {

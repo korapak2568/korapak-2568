@@ -16,7 +16,7 @@ export const MetadataReactJA: Metadata = {
         title: "React開発 | CHORN",
         description: "専門的なReact開発技術を活用し、迅速でスケーラブルなウェブアプリケーションを構築します。",
         images: metadataLink(LanguageCode.ja, MetaLinks.frontend.react).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.react).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.react).alternates.canonical,
         type: "website"
     },
     twitter: {

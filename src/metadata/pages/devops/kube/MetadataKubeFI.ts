@@ -16,7 +16,7 @@ export const MetadataKubeFI: Metadata = {
         title: "Kubernetes DevOps Services | CHORN",
         description: "Optimoi infrastruktuurisi Kubernetes-pohjaisella DevOps-asiantuntemuksella sovellusten automaattiselle skaalaamiselle ja hallinnalle.",
         images: metadataLink(LanguageCode.fi, MetaLinks.devops.kube).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.devops.kube).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.kube).alternates.canonical,
         type: "website"
     },
     twitter: {

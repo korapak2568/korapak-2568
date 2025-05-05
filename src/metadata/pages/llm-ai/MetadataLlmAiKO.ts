@@ -16,7 +16,7 @@ export const MetadataLlmAiKO: Metadata = {
         title: "LLM/AI 통합 - CHORN",
         description: "비즈니스 운영을 최적화하기 위해 첨단 LLM/AI 에이전트 개발, 맞춤형 LLM 솔루션 및 AI 워크플로우 자동화를 탐색하세요.",
         images: metadataLink(LanguageCode.ko, MetaLinks.llmAi).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.llmAi).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.llmAi).alternates.canonical,
         type: "website"
     },
     twitter: {

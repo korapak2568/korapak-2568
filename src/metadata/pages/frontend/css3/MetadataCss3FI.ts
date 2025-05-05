@@ -16,7 +16,7 @@ export const MetadataCss3FI: Metadata = {
         title: "CSS3 Kehitys | CHORN",
         description: "CSS3-kehitys teknisellä asiantuntemuksella luodaksesi tyylikkäitä ja responsiivisia verkkosivustojen suunnitteluja.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.css3).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.css3).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.css3).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataFrontEndMainTH: Metadata = {
         title: "บริการพัฒนาฝั่งหน้าบ้าน | CHORN",
         description: "CHORN ให้บริการพัฒนาฝั่งหน้าบ้าน ด้วยความเชี่ยวชาญทางเทคนิค โดยใช้เทคโนโลยีสมัยใหม่ เช่น Next.js, React, Angular, Vue, HTML5 และ CSS3 เพื่อสร้างเว็บไซต์ที่รวดเร็ว ตอบสนอง และขยายขนาดได้",
         images: metadataLink(LanguageCode.th, MetaLinks.frontend.main).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.frontend.main).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

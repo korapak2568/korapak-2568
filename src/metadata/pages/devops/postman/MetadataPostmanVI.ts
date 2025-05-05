@@ -16,7 +16,7 @@ export const MetadataPostmanVI: Metadata = {
         title: "Dịch vụ kiểm thử API với Postman | CHORN",
         description: "Đảm bảo API của bạn hoạt động như mong đợi với chuyên môn kỹ thuật kiểm thử API dựa trên Postman.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.postman).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.postman).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.postman).alternates.canonical,
         type: "website"
     },
     twitter: {

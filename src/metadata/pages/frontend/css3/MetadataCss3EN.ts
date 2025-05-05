@@ -16,7 +16,7 @@ export const MetadataCss3EN: Metadata = {
         title: "CSS3 Development | CHORN",
         description: "CSS3 development with technical expertise to create stylish and responsive web designs.",
         images: metadataLink(LanguageCode.en, MetaLinks.frontend.css3).openGraph.images,
-        url: metadataLink(LanguageCode.en, MetaLinks.frontend.css3).openGraph.url,
+        url: metadataLink(LanguageCode.en, MetaLinks.frontend.css3).alternates.canonical,
         type: "website"
     },
     twitter: {

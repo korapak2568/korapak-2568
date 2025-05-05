@@ -19,7 +19,7 @@ export const Metadata404TH: Metadata = {
         title: "404 - ไม่พบหน้า",
         description: "อุ๊ปส์! เราไม่พบหน้าที่คุณกำลังค้นหา โปรดตรวจสอบ URL หรือกลับไปที่หน้าแรกของเราเพื่อสำรวจ CHORN ต่อไป",
         images: metadataLink(LanguageCode.th, MetaLinks._404).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks._404).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks._404).alternates.canonical,
         type: "website",
     },
     twitter: {

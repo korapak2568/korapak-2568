@@ -16,7 +16,7 @@ export const MetadataJenkinsZH: Metadata = {
         title: "Jenkins DevOps 服务 | CHORN",
         description: "利用 Jenkins 的 DevOps 技术专长自动化您的开发流程，实现持续集成和部署。",
         images: metadataLink(LanguageCode.zh, MetaLinks.devops.jenkins).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.devops.jenkins).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.jenkins).alternates.canonical,
         type: "website"
     },
     twitter: {

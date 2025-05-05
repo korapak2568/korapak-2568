@@ -16,7 +16,7 @@ export const MetadataDevOpsMainDA: Metadata = {
         title: "Cloud and DevOps Services | CHORN",
         description: "Leverage CHORN’s DevOps and testing technical expertise to enhance your software delivery with automation, continuous integration, and reliable testing solutions.",
         images: metadataLink(LanguageCode.da, MetaLinks.devops.main).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.devops.main).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.main).alternates.canonical,
         type: "website"
     },
     twitter: {

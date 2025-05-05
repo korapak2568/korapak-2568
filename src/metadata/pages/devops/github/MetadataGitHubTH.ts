@@ -16,7 +16,7 @@ export const MetadataGitHubTH: Metadata = {
         title: "บริการ GitHub DevOps | CHORN",
         description: "เพิ่มประสิทธิภาพการทำงานของการพัฒนาด้วยความเชี่ยวชาญ DevOps ที่ใช้ GitHub สำหรับ CI/CD และการควบคุมเวอร์ชัน.",
         images: metadataLink(LanguageCode.th, MetaLinks.devops.github).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.devops.github).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.github).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataJavaJA: Metadata = {
         title: "Java Spring Boot 開発 | CHORN",
         description: "Java Spring Boot フルスタック開発を活用し、スケーラブルで安全、高パフォーマンスなアプリケーションを構築する技術的専門知識。",
         images: metadataLink(LanguageCode.ja, MetaLinks.backend.java).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.backend.java).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.backend.java).alternates.canonical,
         type: "website"
     },
     twitter: {

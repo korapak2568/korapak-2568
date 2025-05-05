@@ -16,7 +16,7 @@ export const MetadataAngularDA: Metadata = {
         title: "Angular Udvikling | CHORN",
         description: "Angular udvikling med teknisk ekspertise til at skabe hurtige, skalerbare og dynamiske webapplikationer.",
         images: metadataLink(LanguageCode.da, MetaLinks.frontend.angular).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.frontend.angular).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.angular).alternates.canonical,
         type: "website"
     },
     twitter: {

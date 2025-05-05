@@ -16,7 +16,7 @@ export const MetadataWeb3ZH: Metadata = {
         title: "Web3 区块链智能合约开发服务 | CHORN",
         description: "专业的 Web3 区块链和智能合约开发技术，包括使用 Solidity、Ethereum、Polygon 构建 DApps，并与 Hardhat、Ganache 和 MetaMask 集成。",
         images: metadataLink(LanguageCode.zh, MetaLinks.web3).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.web3).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.web3).alternates.canonical,
         type: "website",
     },
     twitter: {

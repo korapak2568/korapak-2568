@@ -16,7 +16,7 @@ export const MetadataFrontEndMainNL: Metadata = {
         title: "Frontend Ontwikkelingsdiensten | CHORN",
         description: "CHORN biedt frontend-ontwikkeling met moderne technologieën zoals Next.js, React, Angular, Vue, HTML5 en CSS3 om snelle, responsieve en schaalbare websites te bouwen.",
         images: metadataLink(LanguageCode.nl, MetaLinks.frontend.main).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.main).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

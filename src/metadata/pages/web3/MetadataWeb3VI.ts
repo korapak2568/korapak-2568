@@ -16,7 +16,7 @@ export const MetadataWeb3VI: Metadata = {
         title: "Dịch vụ phát triển Web3 Blockchain Smart Contract | CHORN",
         description: "Chuyên môn kỹ thuật phát triển Web3 blockchain và smart contract, bao gồm xây dựng DApps với Solidity, Ethereum, Polygon và tích hợp với Hardhat, Ganache, và MetaMask.",
         images: metadataLink(LanguageCode.vi, MetaLinks.web3).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.web3).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.web3).alternates.canonical,
         type: "website",
     },
     twitter: {

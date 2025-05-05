@@ -19,7 +19,7 @@ export const MetadataWorkPolicyDA: Metadata = {
         title: "Arbejdsstrategi | CHORN",
         description: "CHORN tilpasser sig forskellige arbejdsmodeller, herunder fjernarbejde, kontorarbejde og hybridmodeller, skræddersyet til de specifikke behov i hvert projekt. Denne tilgang sikrer problemfri kommunikation og effektivitet.",
         images: metadataLink(LanguageCode.da, MetaLinks.workplacePolicy).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.workplacePolicy).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.workplacePolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

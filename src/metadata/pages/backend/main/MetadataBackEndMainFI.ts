@@ -16,7 +16,7 @@ export const MetadataBackEndMainFI: Metadata = {
         title: "Back-End API-kehitys | CHORN",
         description: "Back-End API-kehitys teknisellä asiantuntemuksella hyödyntäen Node.js, Java Spring Boot, .NET Core, Go, Python ja PHP skaalautuvien sovellusten rakentamiseen.",
         images: metadataLink(LanguageCode.fi, MetaLinks.backend.main).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.backend.main).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

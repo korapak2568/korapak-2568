@@ -16,7 +16,7 @@ export const MetadataTypeScriptDE: Metadata = {
         title: "CHORN - Maßgeschneiderte Softwareentwicklung mit TypeScript",
         description: "Expertise in TypeScript, ein leistungsstarkes Werkzeug zum Erstellen skalierbarer und leistungsstarker Anwendungen. Erfahren Sie, warum wir TypeScript für maßgeschneiderte Softwarelösungen wählen.",
         images: metadataLink(LanguageCode.de, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataAboutDE: Metadata = {
         title: "CHORN - Experten für Systemanalyse & Full-Stack-Softwareentwicklungstechnik",
         description: "Entdecken Sie CHORNs Engagement für die Bereitstellung modernster Systemmodernisierung, Full-Stack-Entwicklung und technischen Support für Unternehmen.",
         images: metadataLink(LanguageCode.de, MetaLinks.about).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.about).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.about).alternates.canonical,
         type: "website"
     },
     twitter: {

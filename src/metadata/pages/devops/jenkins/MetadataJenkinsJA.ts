@@ -16,7 +16,7 @@ export const MetadataJenkinsJA: Metadata = {
         title: "Jenkins DevOps サービス | CHORN",
         description: "Jenkins を使用した DevOps の技術的専門知識で、継続的インテグレーションとデプロイメントを自動化します。",
         images: metadataLink(LanguageCode.ja, MetaLinks.devops.jenkins).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.devops.jenkins).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.devops.jenkins).alternates.canonical,
         type: "website"
     },
     twitter: {

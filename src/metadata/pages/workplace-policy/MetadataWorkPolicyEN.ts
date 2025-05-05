@@ -19,7 +19,7 @@ export const MetadataWorkPolicyEN: Metadata = {
         title: "Work Policy | CHORN",
         description: "CHORN adapts to various work models, including remote, in-office, and hybrid setups, tailoring them to the specific needs of each project. This approach ensures seamless communication and efficiency.",
         images: metadataLink(LanguageCode.en, MetaLinks.workplacePolicy).openGraph.images,
-        url: metadataLink(LanguageCode.en, MetaLinks.workplacePolicy).openGraph.url,
+        url: metadataLink(LanguageCode.en, MetaLinks.workplacePolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataJavaScriptFI: Metadata = {
         title: "CHORN - JavaScript räätälöity ohjelmistokehitys",
         description: "JavaScript-asiantuntemus, tehokas työkalu skaalautuvien ja suorituskykyisten sovellusten rakentamiseen. Opi, miksi valitsemme JavaScriptin räätälöityihin ohjelmistoratkaisuihin.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.javascript).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.javascript).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.javascript).alternates.canonical,
         type: "website"
     },
     twitter: {

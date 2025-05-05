@@ -16,7 +16,7 @@ export const MetadataGalleryNL: Metadata = {
         title: "Internationale Reizen | CHORN Galerie",
         description: "CHORN heeft de ervaring en bereidheid voor internationale reizen om training te ontvangen en te leren van werk in ASEAN en de Verenigde Staten.",
         images: metadataLink(LanguageCode.nl, MetaLinks.gallery).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.gallery).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.gallery).alternates.canonical,
         type: "website"
     },
     twitter: {

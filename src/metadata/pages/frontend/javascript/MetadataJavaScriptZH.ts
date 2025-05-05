@@ -16,7 +16,7 @@ export const MetadataJavaScriptZH: Metadata = {
         title: "CHORN - JavaScript定制软件开发",
         description: "JavaScript专业知识，构建可扩展和高性能应用程序的强大工具。了解我们为何选择JavaScript作为定制软件解决方案的工具。",
         images: metadataLink(LanguageCode.zh, MetaLinks.frontend.javascript).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.javascript).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.javascript).alternates.canonical,
         type: "website"
     },
     twitter: {

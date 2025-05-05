@@ -16,7 +16,7 @@ export const MetadataWebDevelopmentTH: Metadata = {
         title: "บริการพัฒนาเว็บไซต์ชั้นนำ | CHORN",
         description: "CHORN มอบความเชี่ยวชาญด้านการพัฒนาเว็บไซต์ล้ำสมัย ด้วยความเชี่ยวชาญในเฟรมเวิร์กยอดนิยมอย่าง Next.js, React, Angular และอื่น ๆ CHORN รองรับความต้องการทางธุรกิจที่หลากหลาย เช่น การตลาดดิจิทัล อีคอมเมิร์ซ บล็อกเชน และอื่น ๆ",
         images: metadataLink(LanguageCode.th, MetaLinks.webDevelopment).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.webDevelopment).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.webDevelopment).alternates.canonical,
         type: "website"
     },
     twitter: {

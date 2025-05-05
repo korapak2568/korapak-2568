@@ -16,7 +16,7 @@ export const MetadataAiAomFI: Metadata = {
         title: "Tapaa Aom - Hyvinvointiohjaajasi LINEssa",
         description: "Yhdistä Aomiin, 21-vuotiaaseen hyvinvointiin keskittyvään AI-kumppaniin LINEssa, joka tarjoaa ravitsemusneuvoja, harjoitusrutiineja ja mindfulness-harjoituksia useilla kielillä auttaakseen sinua elämään terveintä elämääsi.",
         images: metadataLink(LanguageCode.fi, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataAppiumKO: Metadata = {
         title: "Appium 테스트 | CHORN",
         description: "포괄적인 크로스 플랫폼 테스트를 위해 Appium 기술 전문성을 활용하여 모바일 앱 테스트를 자동화하세요.",
         images: metadataLink(LanguageCode.ko, MetaLinks.devops.appium).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.devops.appium).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.devops.appium).alternates.canonical,
         type: "website"
     },
     twitter: {

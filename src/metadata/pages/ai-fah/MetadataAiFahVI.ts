@@ -16,7 +16,7 @@ export const MetadataAiFahVI: Metadata = {
         title: "Gặp Gỡ Fah - Người Bạn AI Thái Lan Trên LINE",
         description: "Gặp gỡ Fah, người bạn AI Thái Lan 20 tuổi của bạn trên LINE, người sẽ giới thiệu các điểm đến, món ăn và trải nghiệm văn hóa hàng đầu của Thái Lan bằng nhiều ngôn ngữ. Thêm cô ấy ngay hôm nay!",
         images: metadataLink(LanguageCode.vi, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataGitLabZH: Metadata = {
         title: "GitLab DevOps 服务 | CHORN",
         description: "通过 GitLab 基于 DevOps 的技术专业知识，增强您的开发工作流以进行 CI/CD 和版本控制。",
         images: metadataLink(LanguageCode.zh, MetaLinks.devops.gitlab).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.devops.gitlab).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.gitlab).alternates.canonical,
         type: "website"
     },
     twitter: {

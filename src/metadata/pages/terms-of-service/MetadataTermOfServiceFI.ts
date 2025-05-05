@@ -19,7 +19,7 @@ export const MetadataTermOfServiceFI: Metadata = {
         title: "Palveluehdot | CHORN",
         description: "CHORN tarjoaa palveluehdot, jotka säätelevät tämän verkkosivuston käyttöä. Käyttämällä verkkosivustoa hyväksyt nämä ehdot.",
         images: metadataLink(LanguageCode.fi, MetaLinks.termOfServices).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.termOfServices).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.termOfServices).alternates.canonical,
         type: "website",
     },
     twitter: {

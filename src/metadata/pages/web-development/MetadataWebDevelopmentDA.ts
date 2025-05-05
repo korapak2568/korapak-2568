@@ -16,7 +16,7 @@ export const MetadataWebDevelopmentDA: Metadata = {
         title: "Top Webudviklingstjenester | CHORN",
         description: "CHORN tilbyder webudviklingsekspertise med erfaring i populære frameworks som Next.js, React, Angular og mere. CHORN leverer løsninger til forskellige forretningsbehov som digital markedsføring, e-handel, blockchain og mere.",
         images: metadataLink(LanguageCode.da, MetaLinks.webDevelopment).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.webDevelopment).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.webDevelopment).alternates.canonical,
         type: "website"
     },
     twitter: {

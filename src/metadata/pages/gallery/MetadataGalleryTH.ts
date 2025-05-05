@@ -16,7 +16,7 @@ export const MetadataGalleryTH: Metadata = {
         title: "การเดินทางต่างประเทศ | แกลเลอรี CHORN",
         description: "CHORN มีประสบการณ์และความพร้อมในการเดินทางต่างประเทศเพื่อรับการฝึกอบรม การเดินทางไปเรียนรู้งานในอาเซียนและสหรัฐอเมริกา",
         images: metadataLink(LanguageCode.th, MetaLinks.gallery).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.gallery).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.gallery).alternates.canonical,
         type: "website"
     },
     twitter: {

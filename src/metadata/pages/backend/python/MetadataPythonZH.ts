@@ -16,7 +16,7 @@ export const MetadataPythonZH: Metadata = {
         title: "Python 开发 | CHORN",
         description: "使用 Python 全栈开发的技术专长构建动态且可扩展的网页应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.backend.python).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.backend.python).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.python).alternates.canonical,
         type: "website"
     },
     twitter: {

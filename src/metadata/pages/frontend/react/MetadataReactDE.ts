@@ -16,7 +16,7 @@ export const MetadataReactDE: Metadata = {
         title: "React-Entwicklung | CHORN",
         description: "Verbessern Sie Ihre Webanwendungen mit React-Entwicklungsexpertise, technische Fachkenntnisse für leistungsstarke Anwendungen.",
         images: metadataLink(LanguageCode.de, MetaLinks.frontend.react).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.frontend.react).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.frontend.react).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataAiFahJA: Metadata = {
         title: "ファーに会おう - LINE上のタイAIチャット友達",
         description: "ファーに会おう、LINE上の20歳のタイAI友達で、タイの人気観光地、料理、文化体験を複数の言語でおすすめします。今すぐ追加しよう！",
         images: metadataLink(LanguageCode.ja, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

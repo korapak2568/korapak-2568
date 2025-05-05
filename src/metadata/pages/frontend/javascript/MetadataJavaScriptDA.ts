@@ -16,7 +16,7 @@ export const MetadataJavaScriptDA: Metadata = {
         title: "CHORN - JavaScript tilpasset softwareudvikling",
         description: "JavaScript-ekspertise, et kraftfuldt værktøj til at opbygge skalerbare og højtydende applikationer. Læs hvorfor vi vælger JavaScript til tilpassede softwareløsninger.",
         images: metadataLink(LanguageCode.da, MetaLinks.frontend.javascript).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.frontend.javascript).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.javascript).alternates.canonical,
         type: "website"
     },
     twitter: {

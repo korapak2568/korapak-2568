@@ -16,7 +16,7 @@ export const MetadataPythonKO: Metadata = {
         title: "Python 개발 | CHORN",
         description: "Python Full Stack 개발 기술 전문성을 통해 동적이고 확장 가능한 웹 애플리케이션을 구축하세요.",
         images: metadataLink(LanguageCode.ko, MetaLinks.backend.python).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.backend.python).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.python).alternates.canonical,
         type: "website"
     },
     twitter: {

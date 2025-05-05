@@ -16,7 +16,7 @@ export const MetadataAngularKO: Metadata = {
         title: "Angular 개발 | CHORN",
         description: "빠르고 확장 가능하며 동적인 웹 애플리케이션을 구축하기 위한 전문 Angular 개발 기술.",
         images: metadataLink(LanguageCode.ko, MetaLinks.frontend.angular).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.angular).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.angular).alternates.canonical,
         type: "website"
     },
     twitter: {

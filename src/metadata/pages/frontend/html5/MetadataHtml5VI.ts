@@ -16,7 +16,7 @@ export const MetadataHtml5VI: Metadata = {
         title: "Phát Triển HTML5 | CHORN",
         description: "Xây dựng ứng dụng web hiện đại và tương tác với chuyên môn kỹ thuật.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.html5).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.html5).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.html5).alternates.canonical,
         type: "website"
     },
     twitter: {

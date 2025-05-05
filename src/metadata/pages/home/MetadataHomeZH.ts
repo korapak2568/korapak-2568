@@ -19,7 +19,7 @@ export const MetadataHomeZH: Metadata = {
         title: "CHORN | 企业软件开发与系统集成",
         description: "通过专业的系统分析和尖端的软件解决方案，增强您的业务。CHORN 专注于全栈开发、AI 驱动的自动化、云计算和系统现代化，推动创新与效率。",
         images: metadataLink(LanguageCode.zh, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

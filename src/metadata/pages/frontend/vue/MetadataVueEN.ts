@@ -16,7 +16,7 @@ export const MetadataVueEN: Metadata = {
         title: "Vue.js Development | CHORN",
         description: "Expert Vue.js development, technical expertise for building modern web applications.",
         images: metadataLink(LanguageCode.en, MetaLinks.frontend.vue).openGraph.images,
-        url: metadataLink(LanguageCode.en, MetaLinks.frontend.vue).openGraph.url,
+        url: metadataLink(LanguageCode.en, MetaLinks.frontend.vue).alternates.canonical,
         type: "website"
     },
     twitter: {

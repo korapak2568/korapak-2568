@@ -16,7 +16,7 @@ export const MetadataCss3KO: Metadata = {
         title: "CSS3 개발 | CHORN",
         description: "CSS3 개발 기술 전문성을 바탕으로 스타일리시하고 반응형 웹 디자인을 만듭니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.frontend.css3).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.css3).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.css3).alternates.canonical,
         type: "website"
     },
     twitter: {

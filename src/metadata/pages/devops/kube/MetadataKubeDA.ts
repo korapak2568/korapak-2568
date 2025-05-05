@@ -16,7 +16,7 @@ export const MetadataKubeDA: Metadata = {
         title: "Kubernetes DevOps Services | CHORN",
         description: "Optimer din infrastruktur med Kubernetes-baseret DevOps teknisk ekspertise til automatisk skalering og administration af applikationer.",
         images: metadataLink(LanguageCode.da, MetaLinks.devops.kube).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.devops.kube).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.kube).alternates.canonical,
         type: "website"
     },
     twitter: {

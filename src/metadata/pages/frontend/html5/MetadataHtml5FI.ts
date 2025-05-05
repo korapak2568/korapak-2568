@@ -16,7 +16,7 @@ export const MetadataHtml5FI: Metadata = {
         title: "HTML5 Kehitys | CHORN",
         description: "Rakenna moderneja ja vuorovaikutteisia web-sovelluksia teknisellä asiantuntemuksella.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.html5).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.html5).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.html5).alternates.canonical,
         type: "website"
     },
     twitter: {

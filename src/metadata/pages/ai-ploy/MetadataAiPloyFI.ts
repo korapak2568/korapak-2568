@@ -16,7 +16,7 @@ export const MetadataAiPloyFI: Metadata = {
         title: "Tavataan Ploy - Luova teini-ikäinen AI-ystäväsi LINE:ssä",
         description: "Yhdistä Ployhin, luovaan 17-vuotiaaseen thaimaalaiseen opiskelijaan, joka puhuu seitsemää kieltä ja jakaa intohimosi taiteeseen, musiikkiin, valokuvaukseen ja oppimiseen. Lisää hänet LINE:ssä tänään!",
         images: metadataLink(LanguageCode.fi, MetaLinks.aiPloy).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.aiPloy).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.aiPloy).alternates.canonical,
         type: "website"
     },
     twitter: {

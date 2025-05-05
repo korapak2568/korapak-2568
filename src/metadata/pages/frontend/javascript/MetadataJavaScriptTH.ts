@@ -16,7 +16,7 @@ export const MetadataJavaScriptTH: Metadata = {
         title: "CHORN - การพัฒนาซอฟต์แวร์แบบกำหนดเองด้วย JavaScript",
         description: "ความเชี่ยวชาญด้าน JavaScript เครื่องมือที่ทรงพลังในการสร้างแอปพลิเคชันที่สามารถปรับขนาดได้และมีประสิทธิภาพสูง เรียนรู้เหตุผลที่เราเลือก JavaScript สำหรับโซลูชันซอฟต์แวร์แบบกำหนดเอง",
         images: metadataLink(LanguageCode.th, MetaLinks.frontend.javascript).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.frontend.javascript).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.javascript).alternates.canonical,
         type: "website"
     },
     twitter: {

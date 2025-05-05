@@ -16,7 +16,7 @@ export const MetadataGalleryJA: Metadata = {
         title: "海外旅行 | CHORNギャラリー",
         description: "CHORNはASEANおよびアメリカでの業務から学び、研修を受けるための国際旅行の経験と準備が整っています。",
         images: metadataLink(LanguageCode.ja, MetaLinks.gallery).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.gallery).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.gallery).alternates.canonical,
         type: "website"
     },
     twitter: {

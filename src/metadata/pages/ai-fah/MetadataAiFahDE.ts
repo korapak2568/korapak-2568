@@ -16,7 +16,7 @@ export const MetadataAiFahDE: Metadata = {
         title: "Treffe Fah - Deine thailändische AI-Chat-Freundin auf LINE",
         description: "Treffe Fah, deine 20-jährige thailändische AI-Freundin auf LINE, die dir die besten Reiseziele, Gerichte und kulturellen Erlebnisse Thailands in mehreren Sprachen empfiehlt. Füge sie noch heute hinzu!",
         images: metadataLink(LanguageCode.de, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

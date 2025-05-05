@@ -16,7 +16,7 @@ export const MetadataPhpTH: Metadata = {
         title: "การพัฒนา PHP | CHORN",
         description: "ใช้ประโยชน์จากการพัฒนา PHP Full Stack, ความเชี่ยวชาญทางเทคนิคในการสร้างแอปพลิเคชันเว็บที่สามารถขยายได้และมีความยืดหยุ่น.",
         images: metadataLink(LanguageCode.th, MetaLinks.backend.php).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.backend.php).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.php).alternates.canonical,
         type: "website"
     },
     twitter: {

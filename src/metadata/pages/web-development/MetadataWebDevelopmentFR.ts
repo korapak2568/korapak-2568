@@ -16,7 +16,7 @@ export const MetadataWebDevelopmentFR: Metadata = {
         title: "Services de développement web de premier plan | CHORN",
         description: "CHORN offre une expertise technique de pointe en développement web, avec une expertise dans des frameworks populaires comme Next.js, React, Angular et bien plus encore. CHORN répond aux besoins d'affaires variés, incluant le marketing numérique, l'e-commerce, la blockchain et plus encore.",
         images: metadataLink(LanguageCode.fr, MetaLinks.webDevelopment).openGraph.images,
-        url: metadataLink(LanguageCode.fr, MetaLinks.webDevelopment).openGraph.url,
+        url: metadataLink(LanguageCode.fr, MetaLinks.webDevelopment).alternates.canonical,
         type: "website"
     },
     twitter: {

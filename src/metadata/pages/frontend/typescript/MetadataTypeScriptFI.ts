@@ -16,7 +16,7 @@ export const MetadataTypeScriptFI: Metadata = {
         title: "CHORN - Räätälöity ohjelmistokehitys TypeScriptillä",
         description: "TypeScript-asiantuntemus, tehokas työkalu skaalautuvien ja suorituskykyisten sovellusten rakentamiseen. Opi miksi valitsemme TypeScriptin räätälöityihin ohjelmistoratkaisuihin.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

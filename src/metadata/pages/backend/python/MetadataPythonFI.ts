@@ -16,7 +16,7 @@ export const MetadataPythonFI: Metadata = {
         title: "Python Kehitys | CHORN",
         description: "Rakenna dynaamisia ja skaalautuvia verkkosovelluksia Python full stack kehityksen teknisellä asiantuntemuksella.",
         images: metadataLink(LanguageCode.fi, MetaLinks.backend.python).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.backend.python).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.python).alternates.canonical,
         type: "website"
     },
     twitter: {

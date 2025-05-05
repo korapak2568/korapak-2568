@@ -16,7 +16,7 @@ export const MetadataDockerFI: Metadata = {
         title: "Docker DevOps -palvelut | CHORN",
         description: "Hyödynnä Dockeria konttien hallintaan ja skaalautuvaan ohjelmistojen käyttöönottoon DevOps-asiantuntemuksella.",
         images: metadataLink(LanguageCode.fi, MetaLinks.devops.docker).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.devops.docker).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.docker).alternates.canonical,
         type: "website"
     },
     twitter: {

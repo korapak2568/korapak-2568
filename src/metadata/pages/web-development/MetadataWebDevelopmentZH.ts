@@ -16,7 +16,7 @@ export const MetadataWebDevelopmentZH: Metadata = {
         title: "顶级网页开发服务 | CHORN",
         description: "CHORN提供前沿的网页开发技术专长，精通Next.js、React、Angular等流行框架。CHORN满足各种企业需求，包括数字营销、电子商务、区块链等。",
         images: metadataLink(LanguageCode.zh, MetaLinks.webDevelopment).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.webDevelopment).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.webDevelopment).alternates.canonical,
         type: "website"
     },
     twitter: {

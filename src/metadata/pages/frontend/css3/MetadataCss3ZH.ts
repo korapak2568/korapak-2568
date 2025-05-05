@@ -16,7 +16,7 @@ export const MetadataCss3ZH: Metadata = {
         title: "CSS3 开发 | CHORN",
         description: "使用 CSS3 技术开发，创建时尚且响应迅速的 Web 设计。",
         images: metadataLink(LanguageCode.zh, MetaLinks.frontend.css3).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.css3).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.css3).alternates.canonical,
         type: "website"
     },
     twitter: {

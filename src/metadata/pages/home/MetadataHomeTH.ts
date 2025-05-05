@@ -19,7 +19,7 @@ export const MetadataHomeTH: Metadata = {
         title: "CHORN | การพัฒนาซอฟต์แวร์องค์กรและการบูรณาการระบบ",
         description: "เพิ่มศักยภาพให้ธุรกิจของคุณด้วยการวิเคราะห์ระบบอย่างเชี่ยวชาญและโซลูชันซอฟต์แวร์ที่ทันสมัย CHORN เชี่ยวชาญการพัฒนาซอฟต์แวร์ครบวงจร, ระบบอัตโนมัติด้วย AI, คลาวด์, และการปรับปรุงระบบเพื่อขับเคลื่อนนวัตกรรมและประสิทธิภาพ",
         images: metadataLink(LanguageCode.th, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataSeleniumFI: Metadata = {
         title: "Selenium Testaus | CHORN",
         description: "Automatisoi sovellustestauksesi Seleniumin teknisellä asiantuntemuksella luotettavien ja tehokkaiden tulosten saamiseksi.",
         images: metadataLink(LanguageCode.fi, MetaLinks.devops.selenium).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.devops.selenium).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.selenium).alternates.canonical,
         type: "website"
     },
     twitter: {

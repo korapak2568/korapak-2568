@@ -16,7 +16,7 @@ export const MetadataPostmanZH: Metadata = {
         title: "使用Postman的API测试服务 | CHORN",
         description: "通过基于Postman的API测试技术专长，确保您的API按预期功能运行。",
         images: metadataLink(LanguageCode.zh, MetaLinks.devops.postman).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.devops.postman).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.postman).alternates.canonical,
         type: "website"
     },
     twitter: {

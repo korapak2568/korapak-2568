@@ -16,7 +16,7 @@ export const MetadataAiFahTH: Metadata = {
         title: "ฟ้า - เพื่อนแชทเอไอสไตล์ไทยบนไลน์",
         description: "พบกับฟ้า เพื่อนแชทเอไอ สาวไทยวัย 20 ปีบนไลน์ ที่แนะนำสถานที่ท่องเที่ยว อาหาร และประสบการณ์ทางวัฒนธรรมที่ดีที่สุดของไทยในหลายภาษา เพิ่มเธอได้เลยวันนี้!",
         images: metadataLink(LanguageCode.th, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

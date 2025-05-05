@@ -16,7 +16,7 @@ export const MetadataGoJA: Metadata = {
         title: "Go開発 | CHORN",
         description: "Goフルスタック開発の技術的専門知識で、効率的でスケーラブルなウェブアプリケーションを構築。",
         images: metadataLink(LanguageCode.ja, MetaLinks.backend.go).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.backend.go).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.backend.go).alternates.canonical,
         type: "website"
     },
     twitter: {

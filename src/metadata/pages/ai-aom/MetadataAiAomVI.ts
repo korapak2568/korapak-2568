@@ -16,7 +16,7 @@ export const MetadataAiAomVI: Metadata = {
         title: "Gặp Aom - Hướng dẫn chăm sóc sức khỏe của bạn trên LINE",
         description: "Kết nối với Aom, người bạn AI 21 tuổi chuyên về chăm sóc sức khỏe trên LINE, cung cấp các lời khuyên dinh dưỡng, bài tập thể dục và thực hành chánh niệm bằng nhiều ngôn ngữ để giúp bạn sống cuộc sống khỏe mạnh nhất.",
         images: metadataLink(LanguageCode.vi, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

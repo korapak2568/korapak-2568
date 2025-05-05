@@ -16,7 +16,7 @@ export const MetadataHtml5KO: Metadata = {
         title: "HTML5 개발 | CHORN",
         description: "기술 전문성으로 현대적이고 상호작용적인 웹 애플리케이션을 구축하세요.",
         images: metadataLink(LanguageCode.ko, MetaLinks.frontend.html5).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.html5).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.html5).alternates.canonical,
         type: "website"
     },
     twitter: {

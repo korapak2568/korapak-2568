@@ -16,7 +16,7 @@ export const MetadataVueVI: Metadata = {
         title: "Phát triển Vue.js | CHORN",
         description: "Phát triển Vue.js chuyên nghiệp, kiến thức kỹ thuật để xây dựng các ứng dụng web hiện đại.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.vue).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.vue).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.vue).alternates.canonical,
         type: "website"
     },
     twitter: {

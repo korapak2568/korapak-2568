@@ -16,7 +16,7 @@ export const MetadataSeleniumDA: Metadata = {
         title: "Selenium Test | CHORN",
         description: "Automatiser dine applikationstests med Selenium teknisk ekspertise for robuste og pålidelige resultater.",
         images: metadataLink(LanguageCode.da, MetaLinks.devops.selenium).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.devops.selenium).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.selenium).alternates.canonical,
         type: "website"
     },
     twitter: {

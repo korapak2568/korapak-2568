@@ -16,7 +16,7 @@ export const MetadataNodejsVI: Metadata = {
         title: "Phát triển Node.js | CHORN",
         description: "Xây dựng ứng dụng web hiệu quả và mở rộng với chuyên môn phát triển Full Stack Node.js.",
         images: metadataLink(LanguageCode.vi, MetaLinks.backend.nodejs).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.backend.nodejs).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.nodejs).alternates.canonical,
         type: "website"
     },
     twitter: {

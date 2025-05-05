@@ -19,7 +19,7 @@ export const MetadataPrivacyPolicyNL: Metadata = {
         title: "Privacybeleid | CHORN",
         description: "CHORN respecteert uw privacy en zet zich in voor de bescherming van uw persoonlijke gegevens. Dit privacybeleid legt uit hoe gegevens worden verwerkt bij het gebruik van de website en het gebruik van cookies voor analytische doeleinden.",
         images: metadataLink(LanguageCode.nl, MetaLinks.privacyPolicy).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.privacyPolicy).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.privacyPolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

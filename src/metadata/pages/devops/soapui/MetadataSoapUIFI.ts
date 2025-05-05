@@ -16,7 +16,7 @@ export const MetadataSoapUIFI: Metadata = {
         title: "SoapUI Testaus | CHORN",
         description: "Varmista API:esi ja verkkotekniikkasi luotettavuus testausasiantuntemuksella.",
         images: metadataLink(LanguageCode.fi, MetaLinks.devops.soapui).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.devops.soapui).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.soapui).alternates.canonical,
         type: "website"
     },
     twitter: {

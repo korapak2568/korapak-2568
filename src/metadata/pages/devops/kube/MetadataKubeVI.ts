@@ -16,7 +16,7 @@ export const MetadataKubeVI: Metadata = {
         title: "Dịch vụ DevOps Kubernetes | CHORN",
         description: "Tối ưu hóa cơ sở hạ tầng của bạn với chuyên môn DevOps dựa trên Kubernetes để tự động hóa việc mở rộng và quản lý ứng dụng.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.kube).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.kube).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.kube).alternates.canonical,
         type: "website"
     },
     twitter: {

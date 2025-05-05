@@ -16,7 +16,7 @@ export const MetadataNextjsVI: Metadata = {
         title: "Phát triển Next.js | CHORN",
         description: "Dịch vụ phát triển Next.js chuyên sâu, giúp tạo ứng dụng web nhanh chóng và có thể mở rộng.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.nextjs).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.nextjs).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.nextjs).alternates.canonical,
         type: "website"
     },
     twitter: {

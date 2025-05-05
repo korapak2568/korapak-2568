@@ -16,7 +16,7 @@ export const MetadataPostmanFI: Metadata = {
         title: "Postman API-testauspalvelut | CHORN",
         description: "Varmista, että API:si toimivat odotetusti Postman-pohjaisen API-testauksen teknisen asiantuntemuksen avulla.",
         images: metadataLink(LanguageCode.fi, MetaLinks.devops.postman).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.devops.postman).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.postman).alternates.canonical,
         type: "website"
     },
     twitter: {

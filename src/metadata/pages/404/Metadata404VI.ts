@@ -19,7 +19,7 @@ export const Metadata404VI: Metadata = {
         title: "404 - Không Tìm Thấy Trang",
         description: "Rất tiếc! Chúng tôi không thể tìm thấy trang bạn đang tìm kiếm. Vui lòng kiểm tra URL hoặc trở về trang chủ của chúng tôi để tiếp tục khám phá CHORN.",
         images: metadataLink(LanguageCode.vi, MetaLinks._404).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks._404).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks._404).alternates.canonical,
         type: "website",
     },
     twitter: {

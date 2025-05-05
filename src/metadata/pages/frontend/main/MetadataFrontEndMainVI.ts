@@ -16,7 +16,7 @@ export const MetadataFrontEndMainVI: Metadata = {
         title: "Dịch vụ phát triển Frontend | CHORN",
         description: "CHORN cung cấp chuyên môn kỹ thuật phát triển Frontend bằng các công nghệ hiện đại như Next.js, React, Angular, Vue, HTML5 và CSS3 để tạo ra các trang web nhanh, phản hồi tốt và mở rộng dễ dàng.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.main).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.main).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

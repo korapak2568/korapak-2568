@@ -16,7 +16,7 @@ export const MetadataGoKO: Metadata = {
         title: "Go 개발 | CHORN",
         description: "Go 풀 스택 개발의 기술적 전문성을 통해 효율적이고 확장 가능한 웹 애플리케이션을 구축하세요.",
         images: metadataLink(LanguageCode.ko, MetaLinks.backend.go).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.backend.go).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.go).alternates.canonical,
         type: "website"
     },
     twitter: {

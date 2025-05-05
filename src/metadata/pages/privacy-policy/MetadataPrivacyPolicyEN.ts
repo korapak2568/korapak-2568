@@ -19,7 +19,7 @@ export const MetadataPrivacyPolicyEN: Metadata = {
         title: "Privacy Policy | CHORN",
         description: "CHORN respects your privacy and is committed to protecting your personal data. This privacy policy explains how any data is handled when using the website and the use of cookies for analytical purposes.",
         images: metadataLink(LanguageCode.en, MetaLinks.privacyPolicy).openGraph.images,
-        url: metadataLink(LanguageCode.en, MetaLinks.privacyPolicy).openGraph.url,
+        url: metadataLink(LanguageCode.en, MetaLinks.privacyPolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

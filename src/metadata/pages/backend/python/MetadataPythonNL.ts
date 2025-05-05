@@ -16,7 +16,7 @@ export const MetadataPythonNL: Metadata = {
         title: "Python Ontwikkeling | CHORN",
         description: "Bouw dynamische en schaalbare webapplicaties met de technische expertise van Python full stack ontwikkeling.",
         images: metadataLink(LanguageCode.nl, MetaLinks.backend.python).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.backend.python).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.backend.python).alternates.canonical,
         type: "website"
     },
     twitter: {

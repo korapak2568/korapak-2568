@@ -16,7 +16,7 @@ export const MetadataAiCompanionKO: Metadata = {
         title: "AI Chat Companion - AI-Powered Integration",
         description: "Discover AI companions with unique personalities, interacting seamlessly via the LINE app in Thai, English, Chinese, Japanese, Korean, French, and Vietnamese.",
         images: metadataLink(LanguageCode.ko, MetaLinks.aiCompanion).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.aiCompanion).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.aiCompanion).alternates.canonical,
         type: "website"
     },
     twitter: {

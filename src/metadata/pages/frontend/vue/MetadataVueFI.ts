@@ -16,7 +16,7 @@ export const MetadataVueFI: Metadata = {
         title: "Vue.js Kehitys | CHORN",
         description: "Vue.js-asiantuntemus, tekninen asiantuntemus nykyaikaisten verkkosovellusten luomiseen.",
         images: metadataLink(LanguageCode.fi, MetaLinks.frontend.vue).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.vue).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.frontend.vue).alternates.canonical,
         type: "website"
     },
     twitter: {

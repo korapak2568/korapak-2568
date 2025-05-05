@@ -16,7 +16,7 @@ export const MetadataAiAomFR: Metadata = {
         title: "Rencontrez Aom - Votre guide de bien-être sur LINE",
         description: "Connectez-vous avec Aom, une compagne AI de 21 ans axée sur le bien-être sur LINE, qui fournit des conseils nutritionnels, des routines d'exercice et des pratiques de pleine conscience dans plusieurs langues pour vous aider à vivre votre vie la plus saine.",
         images: metadataLink(LanguageCode.fr, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.fr, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.fr, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

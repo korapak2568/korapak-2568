@@ -16,7 +16,7 @@ export const MetadataGitHubZH: Metadata = {
         title: "GitHub DevOps 服务 | CHORN",
         description: "利用基于 GitHub 的 DevOps 技术专长提升您的开发工作流，支持 CI/CD 和版本控制。",
         images: metadataLink(LanguageCode.zh, MetaLinks.devops.github).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.devops.github).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.github).alternates.canonical,
         type: "website"
     },
     twitter: {

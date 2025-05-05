@@ -16,7 +16,7 @@ export const MetadataSeleniumZH: Metadata = {
         title: "Selenium测试 | CHORN",
         description: "利用Selenium的技术专长自动化您的应用程序测试，以获得强大且可靠的结果。",
         images: metadataLink(LanguageCode.zh, MetaLinks.devops.selenium).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.devops.selenium).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.selenium).alternates.canonical,
         type: "website"
     },
     twitter: {

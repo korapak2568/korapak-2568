@@ -19,7 +19,7 @@ export const MetadataWorkPolicyDE: Metadata = {
         title: "Arbeitsrichtlinie | CHORN",
         description: "CHORN passt sich verschiedenen Arbeitsmodellen an, einschließlich Remote-, Büro- und Hybridarbeit, und richtet sie auf die spezifischen Anforderungen jedes Projekts aus. Dieser Ansatz gewährleistet eine nahtlose Kommunikation und Effizienz.",
         images: metadataLink(LanguageCode.de, MetaLinks.workplacePolicy).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.workplacePolicy).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.workplacePolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

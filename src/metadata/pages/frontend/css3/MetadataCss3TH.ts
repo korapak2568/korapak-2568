@@ -16,7 +16,7 @@ export const MetadataCss3TH: Metadata = {
         title: "การพัฒนา CSS3 | CHORN",
         description: "การพัฒนา CSS3 ด้วยความเชี่ยวชาญทางเทคนิคเพื่อสร้างการออกแบบเว็บที่สวยงามและตอบสนองได้ดี.",
         images: metadataLink(LanguageCode.th, MetaLinks.frontend.css3).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.frontend.css3).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.css3).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataTypeScriptTH: Metadata = {
         title: "CHORN - การพัฒนาซอฟต์แวร์แบบกำหนดเองด้วย TypeScript",
         description: "ความเชี่ยวชาญด้าน TypeScript เครื่องมือที่มีประสิทธิภาพในการสร้างแอปพลิเคชันที่สามารถขยายขนาดและมีประสิทธิภาพสูง เรียนรู้เหตุผลที่เราคัดเลือก TypeScript สำหรับโซลูชันซอฟต์แวร์แบบกำหนดเอง",
         images: metadataLink(LanguageCode.th, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

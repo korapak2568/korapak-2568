@@ -16,7 +16,7 @@ export const MetadataWeb3TH: Metadata = {
         title: "บริการพัฒนา Web3 Blockchain Smart Contract | CHORN",
         description: "ความเชี่ยวชาญด้านเทคนิคการพัฒนา Web3 blockchain และ smart contract รวมถึงการสร้าง DApps ด้วย Solidity, Ethereum, Polygon และการเชื่อมต่อกับ Hardhat, Ganache, และ MetaMask.",
         images: metadataLink(LanguageCode.th, MetaLinks.web3).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.web3).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.web3).alternates.canonical,
         type: "website",
     },
     twitter: {

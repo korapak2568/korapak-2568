@@ -16,7 +16,7 @@ export const MetadataGitLabKO: Metadata = {
         title: "GitLab DevOps 서비스 | CHORN",
         description: "GitLab 기반의 DevOps 기술 전문 지식을 통해 CI/CD 및 버전 관리로 개발 워크플로우를 향상시킵니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.devops.gitlab).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.devops.gitlab).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.devops.gitlab).alternates.canonical,
         type: "website"
     },
     twitter: {

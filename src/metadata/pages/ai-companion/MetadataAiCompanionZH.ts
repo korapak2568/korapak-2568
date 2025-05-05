@@ -16,7 +16,7 @@ export const MetadataAiCompanionZH: Metadata = {
         title: "使用LLM/AI集成的LINE聊天",
         description: "测试LINE聊天，连接支持多种语言的LLM/AI。",
         images: metadataLink(LanguageCode.zh, MetaLinks.aiCompanion).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.aiCompanion).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.aiCompanion).alternates.canonical,
         type: "website"
     },
     twitter: {

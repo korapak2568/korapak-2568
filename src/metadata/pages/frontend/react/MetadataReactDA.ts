@@ -16,7 +16,7 @@ export const MetadataReactDA: Metadata = {
         title: "React Udvikling | CHORN",
         description: "Forbedr dine webapps med ekspert React-udvikling, teknisk ekspertise til højtydende applikationer.",
         images: metadataLink(LanguageCode.da, MetaLinks.frontend.react).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.frontend.react).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.react).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -19,7 +19,7 @@ export const MetadataHomeKO: Metadata = {
         title: "CHORN | 기업용 소프트웨어 개발 및 시스템 통합",
         description: "전문적인 시스템 분석과 최첨단 소프트웨어 솔루션으로 비즈니스를 강화하세요. CHORN은 풀스택 개발, AI 기반 자동화, 클라우드 컴퓨팅 및 시스템 현대화에 특화되어 혁신과 효율성을 증진시킵니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

@@ -19,7 +19,7 @@ export const MetadataPrivacyPolicyTH: Metadata = {
         title: "นโยบายความเป็นส่วนตัว | CHORN",
         description: "CHORN เคารพความเป็นส่วนตัวของคุณและมุ่งมั่นที่จะปกป้องข้อมูลส่วนบุคคลของคุณ นโยบายความเป็นส่วนตัวนี้อธิบายถึงวิธีการจัดการข้อมูลใดๆ เมื่อใช้เว็บไซต์ และเกี่ยวกับการใช้คุกกี้เพื่อวัตถุประสงค์ในการวิเคราะห์",
         images: metadataLink(LanguageCode.th, MetaLinks.privacyPolicy).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.privacyPolicy).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.privacyPolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

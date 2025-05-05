@@ -19,7 +19,7 @@ export const Metadata404JA: Metadata = {
         title: "404 - ページが見つかりません",
         description: "申し訳ありません！お探しのページが見つかりませんでした。URLを確認するか、ホームページに戻ってCHORNの探索を続けてください。",
         images: metadataLink(LanguageCode.ja, MetaLinks._404).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks._404).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks._404).alternates.canonical,
         type: "website",
     },
     twitter: {

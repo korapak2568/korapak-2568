@@ -16,7 +16,7 @@ export const MetadataGoDE: Metadata = {
         title: "Go Entwicklung | CHORN",
         description: "Erstellen Sie effiziente und skalierbare Webanwendungen mit der technischen Expertise der Go Full Stack Entwicklung.",
         images: metadataLink(LanguageCode.de, MetaLinks.backend.go).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.backend.go).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.backend.go).alternates.canonical,
         type: "website"
     },
     twitter: {

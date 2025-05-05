@@ -19,7 +19,7 @@ export const MetadataWorkPolicyJA: Metadata = {
         title: "勤務ポリシー | CHORN",
         description: "CHORNは、リモートワーク、オフィス勤務、ハイブリッドなど、さまざまな勤務形態に適応し、各プロジェクトの特定のニーズに合わせて調整します。このアプローチにより、円滑なコミュニケーションと効率性が確保されます。",
         images: metadataLink(LanguageCode.ja, MetaLinks.workplacePolicy).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.workplacePolicy).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.workplacePolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

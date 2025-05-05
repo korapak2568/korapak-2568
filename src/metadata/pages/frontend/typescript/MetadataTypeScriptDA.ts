@@ -16,7 +16,7 @@ export const MetadataTypeScriptDA: Metadata = {
         title: "CHORN - Tilpasset softwareudvikling med TypeScript",
         description: "Ekspertise i TypeScript, et kraftfuldt værktøj til at skabe skalerbare og højtydende applikationer. Læs hvorfor vi vælger TypeScript til tilpassede softwareløsninger.",
         images: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

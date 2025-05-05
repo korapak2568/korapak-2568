@@ -16,7 +16,7 @@ export const MetadataAiAomTH: Metadata = {
         title: "พบกับออม - ไกด์ดูแลสุขภาพของคุณบน LINE",
         description: "เชื่อมต่อกับออม, เพื่อนสนทนา AI ที่มีอายุ 21 ปีที่เน้นเรื่องสุขภาพบน LINE ซึ่งให้คำแนะนำเกี่ยวกับโภชนาการ, ตารางการออกกำลังกาย, และการฝึกสติในหลายภาษา เพื่อช่วยให้คุณมีชีวิตที่มีสุขภาพดีที่สุด",
         images: metadataLink(LanguageCode.th, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

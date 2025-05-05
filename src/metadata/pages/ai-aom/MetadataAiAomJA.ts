@@ -16,7 +16,7 @@ export const MetadataAiAomJA: Metadata = {
         title: "アオムと出会う - LINEであなたのウェルネスガイド",
         description: "アオムとつながりましょう。LINEで栄養アドバイス、エクササイズルーチン、マインドフルネスの実践を複数の言語で提供する21歳のウェルネス重視のAIコンパニオンが、あなたが最も健康的な生活を送るお手伝いをします。",
         images: metadataLink(LanguageCode.ja, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

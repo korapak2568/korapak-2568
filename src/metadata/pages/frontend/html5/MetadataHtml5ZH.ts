@@ -16,7 +16,7 @@ export const MetadataHtml5ZH: Metadata = {
         title: "HTML5开发 | CHORN",
         description: "利用技术专长构建现代且互动性强的网页应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.frontend.html5).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.html5).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.html5).alternates.canonical,
         type: "website"
     },
     twitter: {

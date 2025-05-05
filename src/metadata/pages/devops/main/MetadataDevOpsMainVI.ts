@@ -16,7 +16,7 @@ export const MetadataDevOpsMainVI: Metadata = {
         title: "Giải Pháp DevOps và Cloud cho Doanh Nghiệp | CHORN",
         description: "Tăng tốc quá trình chuyển đổi số của bạn với chuyên môn về DevOps và Cloud. Chúng tôi cung cấp các pipeline CI/CD tối ưu, tự động hóa cơ sở hạ tầng và các giải pháp Cloud-native giúp nâng cao độ tin cậy và giảm thời gian ra mắt thị trường.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.main).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.main).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.main).alternates.canonical,
         type: "website"
     },
     twitter: {

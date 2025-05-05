@@ -16,7 +16,7 @@ export const MetadataCss3JA: Metadata = {
         title: "CSS3開発 | CHORN",
         description: "CSS3の技術的な専門知識を活用して、スタイリッシュで反応の良いウェブデザインを作成します。",
         images: metadataLink(LanguageCode.ja, MetaLinks.frontend.css3).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.css3).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.css3).alternates.canonical,
         type: "website"
     },
     twitter: {

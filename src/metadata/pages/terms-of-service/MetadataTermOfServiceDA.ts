@@ -19,7 +19,7 @@ export const MetadataTermOfServiceDA: Metadata = {
         title: "Servicevilkår | CHORN",
         description: "CHORN leverer servicevilkår, der regulerer brugen af denne hjemmeside. Ved at få adgang til eller bruge hjemmesiden accepterer du at overholde disse vilkår.",
         images: metadataLink(LanguageCode.da, MetaLinks.termOfServices).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.termOfServices).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.termOfServices).alternates.canonical,
         type: "website",
     },
     twitter: {

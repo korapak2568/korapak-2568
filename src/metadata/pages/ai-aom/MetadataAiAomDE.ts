@@ -16,7 +16,7 @@ export const MetadataAiAomDE: Metadata = {
         title: "Lerne Aom kennen - Dein Wellness-Guide auf LINE",
         description: "Verbinde dich mit Aom, einem 21-jährigen AI-Begleiter, der sich auf Wellness konzentriert und Ernährungsberatung, Trainingsroutinen und Achtsamkeitspraktiken in mehreren Sprachen bietet, um dir zu helfen, dein gesundestes Leben zu führen.",
         images: metadataLink(LanguageCode.de, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

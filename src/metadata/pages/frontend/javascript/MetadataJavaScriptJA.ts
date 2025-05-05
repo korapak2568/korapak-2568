@@ -16,7 +16,7 @@ export const MetadataJavaScriptJA: Metadata = {
         title: "CHORN - JavaScriptによるカスタムソフトウェア開発",
         description: "JavaScriptの専門知識を活用し、スケーラブルで高性能なアプリケーションを構築するための強力なツールです。なぜカスタムソフトウェアソリューションにJavaScriptを選んだのかを学びましょう。",
         images: metadataLink(LanguageCode.ja, MetaLinks.frontend.javascript).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.javascript).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.javascript).alternates.canonical,
         type: "website"
     },
     twitter: {

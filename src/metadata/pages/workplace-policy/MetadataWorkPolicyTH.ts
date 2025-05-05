@@ -19,7 +19,7 @@ export const MetadataWorkPolicyTH: Metadata = {
         title: "นโยบายการทำงาน | CHORN",
         description: "CHORN ปรับตัวเพื่อรองรับการทำงานหลายรูปแบบเช่น ทำงานระยะไกล ในสำนักงาน และแบบผสมผสาน โดยปรับให้เข้ากับความต้องการเฉพาะของแต่ละโครงการ แนวทางนี้ช่วยให้มั่นใจได้ถึงการสื่อสารที่ราบรื่น ประสิทธิภาพ",
         images: metadataLink(LanguageCode.th, MetaLinks.workplacePolicy).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.workplacePolicy).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.workplacePolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

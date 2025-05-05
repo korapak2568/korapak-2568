@@ -16,7 +16,7 @@ export const MetadataWebDevelopmentVI: Metadata = {
         title: "Dịch vụ phát triển web hàng đầu | CHORN",
         description: "CHORN cung cấp chuyên môn kỹ thuật phát triển web với sự thành thạo trong các framework phổ biến như Next.js, React, Angular và nhiều hơn nữa. CHORN phục vụ nhu cầu doanh nghiệp đa dạng bao gồm Marketing kỹ thuật số, E-Commerce, Blockchain và nhiều hơn nữa.",
         images: metadataLink(LanguageCode.vi, MetaLinks.webDevelopment).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.webDevelopment).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.webDevelopment).alternates.canonical,
         type: "website"
     },
     twitter: {

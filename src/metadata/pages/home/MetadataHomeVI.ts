@@ -19,7 +19,7 @@ export const MetadataHomeVI: Metadata = {
         title: "CHORN | Phát triển phần mềm doanh nghiệp và tích hợp hệ thống",
         description: "Nâng cao doanh nghiệp của bạn với phân tích hệ thống chuyên nghiệp và các giải pháp phần mềm tiên tiến. CHORN chuyên về phát triển full-stack, tự động hóa dựa trên AI, điện toán đám mây và hiện đại hóa hệ thống để thúc đẩy đổi mới và hiệu quả.",
         images: metadataLink(LanguageCode.vi, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

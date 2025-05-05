@@ -19,7 +19,7 @@ export const MetadataPrivacyPolicyFI: Metadata = {
         title: "Tietosuojakäytäntö | CHORN",
         description: "CHORN kunnioittaa yksityisyyttäsi ja on sitoutunut suojaamaan henkilötietojasi. Tämä tietosuojakäytäntö selittää, kuinka tietoja käsitellään verkkosivuston käytön aikana ja evästeiden käyttö analytiikkatarkoituksiin.",
         images: metadataLink(LanguageCode.fi, MetaLinks.privacyPolicy).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.privacyPolicy).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.privacyPolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

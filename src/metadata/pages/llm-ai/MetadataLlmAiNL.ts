@@ -16,7 +16,7 @@ export const MetadataLlmAiNL: Metadata = {
         title: "LLM/AI-integratie - CHORN",
         description: "Ontdek geavanceerde LLM/AI-agentontwikkeling, op maat gemaakte LLM-oplossingen en AI-workflowautomatisering om bedrijfsprocessen te optimaliseren.",
         images: metadataLink(LanguageCode.nl, MetaLinks.llmAi).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.llmAi).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.llmAi).alternates.canonical,
         type: "website"
     },
     twitter: {

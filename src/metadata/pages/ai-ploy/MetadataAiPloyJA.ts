@@ -16,7 +16,7 @@ export const MetadataAiPloyJA: Metadata = {
         title: "Ploy と出会おう - LINE であなたの創造的なティーンエイジ AI フレンド",
         description: "7 言語を話す 17 歳のタイの学生 AI、Ploy とつながり、アート、音楽、写真、学習への情熱を共有しましょう。今すぐ LINE で彼女を追加！",
         images: metadataLink(LanguageCode.ja, MetaLinks.aiPloy).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.aiPloy).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.aiPloy).alternates.canonical,
         type: "website"
     },
     twitter: {

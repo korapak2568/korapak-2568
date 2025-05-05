@@ -16,7 +16,7 @@ export const MetadataSeleniumVI: Metadata = {
         title: "Kiểm thử Selenium | CHORN",
         description: "Tự động hóa kiểm thử ứng dụng của bạn với chuyên môn kỹ thuật Selenium để đạt được kết quả mạnh mẽ và đáng tin cậy.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.selenium).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.selenium).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.selenium).alternates.canonical,
         type: "website"
     },
     twitter: {

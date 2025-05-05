@@ -16,7 +16,7 @@ export const MetadataJavaScriptVI: Metadata = {
         title: "CHORN - Phát triển phần mềm tùy chỉnh với JavaScript",
         description: "Chuyên môn về JavaScript, một công cụ mạnh mẽ để xây dựng các ứng dụng có thể mở rộng và hiệu suất cao. Tìm hiểu lý do tại sao chúng tôi chọn JavaScript cho các giải pháp phần mềm tùy chỉnh.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.javascript).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.javascript).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.javascript).alternates.canonical,
         type: "website"
     },
     twitter: {

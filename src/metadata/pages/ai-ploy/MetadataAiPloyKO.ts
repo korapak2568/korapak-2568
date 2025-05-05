@@ -16,7 +16,7 @@ export const MetadataAiPloyKO: Metadata = {
         title: "Ploy 만나기 - LINE에서 당신의 창의적인 10대 AI 친구",
         description: "7개 언어를 구사하며 예술, 음악, 사진, 학습에 대한 열정을 공유하는 17살의 창의적인 태국 학생 AI Ploy와 연결하세요. 오늘 LINE에서 그녀를 추가하세요!",
         images: metadataLink(LanguageCode.ko, MetaLinks.aiPloy).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.aiPloy).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.aiPloy).alternates.canonical,
         type: "website"
     },
     twitter: {

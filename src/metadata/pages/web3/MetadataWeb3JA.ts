@@ -16,7 +16,7 @@ export const MetadataWeb3JA: Metadata = {
         title: "Web3 ブロックチェーン スマートコントラクト開発サービス | CHORN",
         description: "Solidity、Ethereum、PolygonでDAppsを構築し、Hardhat、Ganache、MetaMaskと統合するWeb3ブロックチェーンとスマートコントラクトの専門的な開発技術。",
         images: metadataLink(LanguageCode.ja, MetaLinks.web3).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.web3).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.web3).alternates.canonical,
         type: "website",
     },
     twitter: {

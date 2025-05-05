@@ -19,7 +19,7 @@ export const MetadataTermOfServiceZH: Metadata = {
         title: "服务条款 | CHORN",
         description: "CHORN 提供服务条款以规范本网站的使用。访问或使用本网站即表示您同意遵守这些条款。",
         images: metadataLink(LanguageCode.zh, MetaLinks.termOfServices).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.termOfServices).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.termOfServices).alternates.canonical,
         type: "website",
     },
     twitter: {

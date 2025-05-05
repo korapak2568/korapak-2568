@@ -16,7 +16,7 @@ export const MetadataAiFahNL: Metadata = {
         title: "Ontmoet Fah - Je Thaise AI-chatvriend op LINE",
         description: "Ontmoet Fah, je 20-jarige Thaise AI-vriend op LINE, die de beste bestemmingen, gerechten en culturele ervaringen van Thailand aanbeveelt in meerdere talen. Voeg haar vandaag toe!",
         images: metadataLink(LanguageCode.nl, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

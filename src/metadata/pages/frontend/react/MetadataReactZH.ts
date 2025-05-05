@@ -16,7 +16,7 @@ export const MetadataReactZH: Metadata = {
         title: "React开发 | CHORN",
         description: "通过React开发专家技术提升您的Web应用，打造高性能的应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.frontend.react).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.react).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.frontend.react).alternates.canonical,
         type: "website"
     },
     twitter: {

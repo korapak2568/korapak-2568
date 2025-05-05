@@ -16,7 +16,7 @@ export const MetadataAiCompanionTH: Metadata = {
         title: "การแชทด้วยไลน์เชื่อมต่อแบบจำลองภาษาขนาดใหญ่กับเอไอ",
         description: "ทดสอบการแชทด้วยไลน์ เชื่อมต่อกับแบบจำลองภาษาขนาดใหญ่และเอไอ รองรับหลายภาษา",
         images: metadataLink(LanguageCode.th, MetaLinks.aiCompanion).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.aiCompanion).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.aiCompanion).alternates.canonical,
         type: "website"
     },
     twitter: {

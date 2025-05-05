@@ -16,7 +16,7 @@ export const MetadataLlmAiZH: Metadata = {
         title: "LLM/AI 集成 - CHORN",
         description: "探索前沿的 LLM/AI 代理开发、定制 LLM 解决方案和 AI 工作流自动化，优化业务运营。",
         images: metadataLink(LanguageCode.zh, MetaLinks.llmAi).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.llmAi).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.llmAi).alternates.canonical,
         type: "website"
     },
     twitter: {

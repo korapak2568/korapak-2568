@@ -16,7 +16,7 @@ export const MetadataKubeKO: Metadata = {
         title: "Kubernetes DevOps 서비스 | CHORN",
         description: "Kubernetes 기반 DevOps 기술 전문성으로 애플리케이션의 자동 확장 및 관리를 최적화하세요.",
         images: metadataLink(LanguageCode.ko, MetaLinks.devops.kube).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.devops.kube).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.devops.kube).alternates.canonical,
         type: "website"
     },
     twitter: {

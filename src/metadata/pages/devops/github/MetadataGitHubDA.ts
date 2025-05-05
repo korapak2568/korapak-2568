@@ -16,7 +16,7 @@ export const MetadataGitHubDA: Metadata = {
         title: "GitHub DevOps-tjenester | CHORN",
         description: "Forbedr din udviklingsworkflow med GitHub-baseret DevOps teknisk ekspertise til CI/CD og versionskontrol.",
         images: metadataLink(LanguageCode.da, MetaLinks.devops.github).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.devops.github).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.devops.github).alternates.canonical,
         type: "website"
     },
     twitter: {

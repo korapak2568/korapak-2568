@@ -16,7 +16,7 @@ export const MetadataDevOpsMainFI: Metadata = {
         title: "Enterprise DevOps & Cloud Ratkaisut | CHORN",
         description: "Vauhdita digitaalista transformaatiotasi DevOps- ja pilviteknologiaosaamisella. Toimitamme virtaviivaisia CI/CD-putkia, infrastruktuuri-automaatioita ja pilviperustaisia ratkaisuja, jotka parantavat luotettavuutta ja lyhentävät markkinoille pääsyn aikaa.",
         images: metadataLink(LanguageCode.fi, MetaLinks.devops.main).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.devops.main).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.devops.main).alternates.canonical,
         type: "website"
     },
     twitter: {

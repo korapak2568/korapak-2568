@@ -16,7 +16,7 @@ export const MetadataJavaVI: Metadata = {
         title: "Phát triển Java Spring Boot | CHORN",
         description: "Tận dụng phát triển Full Stack với Java Spring Boot và chuyên môn kỹ thuật để xây dựng các ứng dụng có thể mở rộng, bảo mật và hiệu suất cao.",
         images: metadataLink(LanguageCode.vi, MetaLinks.backend.java).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.backend.java).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.backend.java).alternates.canonical,
         type: "website"
     },
     twitter: {

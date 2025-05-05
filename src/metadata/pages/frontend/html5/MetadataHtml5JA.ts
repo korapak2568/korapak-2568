@@ -16,7 +16,7 @@ export const MetadataHtml5JA: Metadata = {
         title: "HTML5開発 | CHORN",
         description: "最新でインタラクティブなウェブアプリケーションを構築する技術的専門知識。",
         images: metadataLink(LanguageCode.ja, MetaLinks.frontend.html5).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.html5).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.frontend.html5).alternates.canonical,
         type: "website"
     },
     twitter: {

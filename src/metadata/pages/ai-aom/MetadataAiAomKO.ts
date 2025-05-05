@@ -16,7 +16,7 @@ export const MetadataAiAomKO: Metadata = {
         title: "Aom을 만나보세요 - LINE에서 당신의 웰니스 가이드",
         description: "Aom과 연결하세요. 21세의 웰니스 중심 AI 동반자인 Aom은 여러 언어로 영양 조언, 운동 루틴 및 마음챙김 연습을 제공하여 당신이 가장 건강한 삶을 살 수 있도록 도와줍니다.",
         images: metadataLink(LanguageCode.ko, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {

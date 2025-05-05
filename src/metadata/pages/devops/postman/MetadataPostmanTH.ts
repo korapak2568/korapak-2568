@@ -16,7 +16,7 @@ export const MetadataPostmanTH: Metadata = {
         title: "บริการทดสอบ API ด้วย Postman | CHORN",
         description: "มั่นใจว่า API ของคุณทำงานตามที่คาดหวังด้วยความเชี่ยวชาญในการทดสอบ API ด้วย Postman.",
         images: metadataLink(LanguageCode.th, MetaLinks.devops.postman).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.devops.postman).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.postman).alternates.canonical,
         type: "website"
     },
     twitter: {

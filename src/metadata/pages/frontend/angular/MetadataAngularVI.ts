@@ -16,7 +16,7 @@ export const MetadataAngularVI: Metadata = {
         title: "Phát triển Angular | CHORN",
         description: "Phát triển Angular với chuyên môn kỹ thuật để tạo ra các ứng dụng web nhanh chóng, có thể mở rộng và linh hoạt.",
         images: metadataLink(LanguageCode.vi, MetaLinks.frontend.angular).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.angular).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.frontend.angular).alternates.canonical,
         type: "website"
     },
     twitter: {

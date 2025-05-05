@@ -16,7 +16,7 @@ export const MetadataDockerVI: Metadata = {
         title: "Dịch vụ Docker DevOps | CHORN",
         description: "Tận dụng Docker để đóng gói container và triển khai phần mềm có khả năng mở rộng với chuyên môn DevOps.",
         images: metadataLink(LanguageCode.vi, MetaLinks.devops.docker).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.devops.docker).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.devops.docker).alternates.canonical,
         type: "website"
     },
     twitter: {

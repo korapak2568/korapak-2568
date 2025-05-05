@@ -16,7 +16,7 @@ export const MetadataAboutFI: Metadata = {
         title: "CHORN - Asiantuntijat järjestelmäanalyysissä & Full-Stack ohjelmistokehitystekniikassa",
         description: "Tutustu CHORNin sitoutumiseen tarjota huippuluokan järjestelmämodernisointia, full-stack kehitystä ja teknistä tukea yrityksille.",
         images: metadataLink(LanguageCode.fi, MetaLinks.about).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.about).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.about).alternates.canonical,
         type: "website"
     },
     twitter: {

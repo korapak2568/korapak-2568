@@ -16,7 +16,7 @@ export const MetadataPhpNL: Metadata = {
         title: "PHP Ontwikkeling | CHORN",
         description: "Benut PHP full stack ontwikkeling, technische expertise om schaalbare en dynamische webapplicaties te bouwen.",
         images: metadataLink(LanguageCode.nl, MetaLinks.backend.php).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.backend.php).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.backend.php).alternates.canonical,
         type: "website"
     },
     twitter: {

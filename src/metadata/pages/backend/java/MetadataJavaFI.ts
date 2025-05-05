@@ -16,7 +16,7 @@ export const MetadataJavaFI: Metadata = {
         title: "Java Spring Boot Kehitys | CHORN",
         description: "Hyödynnä Java Spring Boot full stack kehitys ja tekninen asiantuntemus rakentaaksesi skaalautuvia, turvallisia ja suorituskykyisiä sovelluksia.",
         images: metadataLink(LanguageCode.fi, MetaLinks.backend.java).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.backend.java).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.backend.java).alternates.canonical,
         type: "website"
     },
     twitter: {

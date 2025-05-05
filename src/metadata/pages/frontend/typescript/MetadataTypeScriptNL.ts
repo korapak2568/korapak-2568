@@ -16,7 +16,7 @@ export const MetadataTypeScriptNL: Metadata = {
         title: "CHORN - Maatwerksoftwareontwikkeling met TypeScript",
         description: "Expertise in TypeScript, een krachtig hulpmiddel voor het bouwen van schaalbare en high-performance toepassingen. Leer waarom we TypeScript kiezen voor maatwerksoftware-oplossingen.",
         images: metadataLink(LanguageCode.nl, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

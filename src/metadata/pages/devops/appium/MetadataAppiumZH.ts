@@ -16,7 +16,7 @@ export const MetadataAppiumZH: Metadata = {
         title: "Appium 测试 | CHORN",
         description: "利用 Appium 技术专长，实现全面的跨平台移动应用自动化测试。",
         images: metadataLink(LanguageCode.zh, MetaLinks.devops.appium).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.devops.appium).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.devops.appium).alternates.canonical,
         type: "website"
     },
     twitter: {

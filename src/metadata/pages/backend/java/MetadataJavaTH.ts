@@ -16,7 +16,7 @@ export const MetadataJavaTH: Metadata = {
         title: "การพัฒนา Java Spring Boot | CHORN",
         description: "ใช้ประโยชน์จากการพัฒนา Full Stack ด้วย Java Spring Boot พร้อมความเชี่ยวชาญทางเทคนิคในการสร้างแอปพลิเคชันที่สามารถขยายได้, ปลอดภัย และมีประสิทธิภาพสูง.",
         images: metadataLink(LanguageCode.th, MetaLinks.backend.java).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.backend.java).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.java).alternates.canonical,
         type: "website"
     },
     twitter: {

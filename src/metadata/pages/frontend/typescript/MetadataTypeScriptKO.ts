@@ -16,7 +16,7 @@ export const MetadataTypeScriptKO: Metadata = {
         title: "CHORN - TypeScript 맞춤형 소프트웨어 개발",
         description: "TypeScript 전문 기술, 확장 가능하고 고성능의 애플리케이션을 구축하는 강력한 도구입니다. 맞춤형 소프트웨어 솔루션을 위해 TypeScript를 선택한 이유를 알아보세요.",
         images: metadataLink(LanguageCode.ko, MetaLinks.frontend.typescript).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.typescript).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.typescript).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataAppiumNL: Metadata = {
         title: "Appium Testen | CHORN",
         description: "Automatiseer uw mobiele app-tests met Appium expertise voor uitgebreide cross-platform testen.",
         images: metadataLink(LanguageCode.nl, MetaLinks.devops.appium).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.devops.appium).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.devops.appium).alternates.canonical,
         type: "website"
     },
     twitter: {

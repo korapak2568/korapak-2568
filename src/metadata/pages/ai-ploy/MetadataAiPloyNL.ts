@@ -16,7 +16,7 @@ export const MetadataAiPloyNL: Metadata = {
         title: "Ontmoet Ploy - Jouw creatieve tiener-AI-vriend op LINE",
         description: "Verbind met Ploy, een creatieve 17-jarige Thaise student-AI die zeven talen spreekt en jouw passie voor kunst, muziek, fotografie en leren deelt. Voeg haar vandaag nog toe op LINE!",
         images: metadataLink(LanguageCode.nl, MetaLinks.aiPloy).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.aiPloy).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.aiPloy).alternates.canonical,
         type: "website"
     },
     twitter: {

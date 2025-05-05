@@ -16,7 +16,7 @@ export const MetadataBackEndMainZH: Metadata = {
         title: "后端API开发 | CHORN",
         description: "CHORN 提供后端API开发服务，利用 Node.js、Java Spring Boot、.NET Core、Go、Python 和 PHP 构建高质量、可扩展的应用程序。",
         images: metadataLink(LanguageCode.zh, MetaLinks.backend.main).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.backend.main).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

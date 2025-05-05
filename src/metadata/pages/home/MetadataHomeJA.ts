@@ -19,7 +19,7 @@ export const MetadataHomeJA: Metadata = {
         title: "CHORN | 企業向けソフトウェア開発とシステム統合",
         description: "専門的なシステム分析と最先端のソフトウェアソリューションでビジネスを強化します。CHORNは、フルスタック開発、AI駆動の自動化、クラウドコンピューティング、システムの近代化に特化し、イノベーションと効率を推進します。",
         images: metadataLink(LanguageCode.ja, MetaLinks.home).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.home).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.home).alternates.canonical,
         type: "website",
     },
     twitter: {

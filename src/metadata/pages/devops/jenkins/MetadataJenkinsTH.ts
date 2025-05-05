@@ -16,7 +16,7 @@ export const MetadataJenkinsTH: Metadata = {
         title: "บริการ DevOps Jenkins | CHORN",
         description: "ทำให้งานพัฒนาของคุณเป็นอัตโนมัติด้วยความเชี่ยวชาญด้าน DevOps บน Jenkins สำหรับการผสานรวมและการปรับใช้ที่ต่อเนื่อง",
         images: metadataLink(LanguageCode.th, MetaLinks.devops.jenkins).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.devops.jenkins).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.devops.jenkins).alternates.canonical,
         type: "website"
     },
     twitter: {

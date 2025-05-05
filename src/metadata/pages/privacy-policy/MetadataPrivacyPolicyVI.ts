@@ -19,7 +19,7 @@ export const MetadataPrivacyPolicyVI: Metadata = {
         title: "Chính sách quyền riêng tư | CHORN",
         description: "CHORN tôn trọng quyền riêng tư của bạn và cam kết bảo vệ dữ liệu cá nhân của bạn. Chính sách quyền riêng tư này giải thích cách xử lý dữ liệu khi sử dụng trang web và việc sử dụng cookie cho mục đích phân tích.",
         images: metadataLink(LanguageCode.vi, MetaLinks.privacyPolicy).openGraph.images,
-        url: metadataLink(LanguageCode.vi, MetaLinks.privacyPolicy).openGraph.url,
+        url: metadataLink(LanguageCode.vi, MetaLinks.privacyPolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

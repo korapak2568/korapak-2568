@@ -16,7 +16,7 @@ export const MetadataAiFahZH: Metadata = {
         title: "遇见Fah - 您在LINE上的泰国AI聊天伙伴",
         description: "遇见Fah，您在LINE上的20岁泰国AI好友，推荐泰国的最佳目的地、美食和文化体验，支持多种语言。立即添加她吧！",
         images: metadataLink(LanguageCode.zh, MetaLinks.aiFah).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.aiFah).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.aiFah).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataNodejsZH: Metadata = {
         title: "Node.js 开发 | CHORN",
         description: "通过 Node.js 全栈开发专业知识构建高效且可扩展的 Web 应用。",
         images: metadataLink(LanguageCode.zh, MetaLinks.backend.nodejs).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.backend.nodejs).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.backend.nodejs).alternates.canonical,
         type: "website"
     },
     twitter: {

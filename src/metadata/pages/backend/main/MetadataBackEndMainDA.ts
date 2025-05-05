@@ -16,7 +16,7 @@ export const MetadataBackEndMainDA: Metadata = {
         title: "Back-End API-udvikling | CHORN",
         description: "Back-End API-udvikling med teknisk ekspertise ved hjælp af Node.js, Java Spring Boot, .NET Core, Go, Python og PHP for at bygge skalerbare applikationer.",
         images: metadataLink(LanguageCode.da, MetaLinks.backend.main).openGraph.images,
-        url: metadataLink(LanguageCode.da, MetaLinks.backend.main).openGraph.url,
+        url: metadataLink(LanguageCode.da, MetaLinks.backend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

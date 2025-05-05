@@ -19,7 +19,7 @@ export const MetadataTermOfServiceDE: Metadata = {
         title: "Nutzungsbedingungen | CHORN",
         description: "CHORN stellt die Nutzungsbedingungen bereit, die die Nutzung dieser Website regeln. Durch den Zugriff auf oder die Nutzung der Website erklären Sie sich mit diesen Bedingungen einverstanden.",
         images: metadataLink(LanguageCode.de, MetaLinks.termOfServices).openGraph.images,
-        url: metadataLink(LanguageCode.de, MetaLinks.termOfServices).openGraph.url,
+        url: metadataLink(LanguageCode.de, MetaLinks.termOfServices).alternates.canonical,
         type: "website",
     },
     twitter: {

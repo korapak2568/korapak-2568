@@ -18,7 +18,7 @@ export const Metadata404FR: Metadata = {
     openGraph: {
         title: "404 - AiBannerFahMain Non Trouvée",
         description: "Oups ! Nous n'avons pas trouvé la page que vous cherchiez. Veuillez vérifier l'URL ou retourner à notre page d'accueil pour continuer à explorer CHORN.",
-        url: metadataLink(LanguageCode.fr, MetaLinks._404).openGraph.url,
+        url: metadataLink(LanguageCode.fr, MetaLinks._404).alternates.canonical,
         type: "website",
     },
     twitter: {

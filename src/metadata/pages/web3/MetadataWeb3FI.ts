@@ -16,7 +16,7 @@ export const MetadataWeb3FI: Metadata = {
         title: "Web3 Blockchain Smart Contract Kehityspalvelut | CHORN",
         description: "Erikoistunut Web3 blockchain ja älykäs sopimuskehitystekniikka, mukaan lukien DAppien rakentaminen Solidityllä, Ethereumilla, Polygonilla ja integraatio Hardhatin, Ganachen ja MetaMaskin kanssa.",
         images: metadataLink(LanguageCode.fi, MetaLinks.web3).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.web3).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.web3).alternates.canonical,
         type: "website",
     },
     twitter: {

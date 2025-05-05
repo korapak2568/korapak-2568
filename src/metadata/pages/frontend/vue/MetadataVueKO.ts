@@ -16,7 +16,7 @@ export const MetadataVueKO: Metadata = {
         title: "Vue.js 개발 | CHORN",
         description: "Vue.js 개발 전문, 최신 웹 애플리케이션을 구축하기 위한 기술적 전문성.",
         images: metadataLink(LanguageCode.ko, MetaLinks.frontend.vue).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.vue).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.frontend.vue).alternates.canonical,
         type: "website"
     },
     twitter: {

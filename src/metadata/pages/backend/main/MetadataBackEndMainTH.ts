@@ -16,7 +16,7 @@ export const MetadataBackEndMainTH: Metadata = {
         title: "ิการพัฒนาฝั่งหลังบ้านเอพีไอ| CHORN",
         description: "การพัฒนาฝั่งหลังบ้านเอพีไอ ด้วยความเชี่ยวชาญทางเทคนิคโดยใช้ Node.js, Java Spring Boot, .NET Core, Go, Python และ PHP เพื่อสร้างแอปพลิเคชันที่ดีและขยายขนาดตามความต้องการธุรกิจ",
         images: metadataLink(LanguageCode.th, MetaLinks.backend.main).openGraph.images,
-        url: metadataLink(LanguageCode.th, MetaLinks.backend.main).openGraph.url,
+        url: metadataLink(LanguageCode.th, MetaLinks.backend.main).alternates.canonical,
         type: "website"
     },
     twitter: {

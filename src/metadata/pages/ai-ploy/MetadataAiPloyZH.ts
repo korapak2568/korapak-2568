@@ -16,7 +16,7 @@ export const MetadataAiPloyZH: Metadata = {
         title: "认识 Ploy - 您在 LINE 上的创意青少年 AI 朋友",
         description: "与 Ploy 连接，她是一个 17 岁的泰国学生 AI，说七种语言，分享您对艺术、音乐、摄影和学习的热情。今天就在 LINE 上添加她！",
         images: metadataLink(LanguageCode.zh, MetaLinks.aiPloy).openGraph.images,
-        url: metadataLink(LanguageCode.zh, MetaLinks.aiPloy).openGraph.url,
+        url: metadataLink(LanguageCode.zh, MetaLinks.aiPloy).alternates.canonical,
         type: "website"
     },
     twitter: {

@@ -16,7 +16,7 @@ export const MetadataSeleniumJA: Metadata = {
         title: "Seleniumテスト | CHORN",
         description: "Seleniumの技術専門知識を活用して、アプリケーションのテストを自動化し、堅牢で信頼性の高い結果を得る。",
         images: metadataLink(LanguageCode.ja, MetaLinks.devops.selenium).openGraph.images,
-        url: metadataLink(LanguageCode.ja, MetaLinks.devops.selenium).openGraph.url,
+        url: metadataLink(LanguageCode.ja, MetaLinks.devops.selenium).alternates.canonical,
         type: "website"
     },
     twitter: {

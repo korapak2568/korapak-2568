@@ -16,7 +16,7 @@ export const MetadataAiCompanionFI: Metadata = {
         title: "LINE-chat LLM/AI-integraatiolla",
         description: "Testaa LINE-chat, yhdistä LLM/AI:hin ja tue useita kieliä.",
         images: metadataLink(LanguageCode.fi, MetaLinks.aiCompanion).openGraph.images,
-        url: metadataLink(LanguageCode.fi, MetaLinks.aiCompanion).openGraph.url,
+        url: metadataLink(LanguageCode.fi, MetaLinks.aiCompanion).alternates.canonical,
         type: "website"
     },
     twitter: {

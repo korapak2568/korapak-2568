@@ -16,7 +16,7 @@ export const MetadataSoapUINL: Metadata = {
         title: "SoapUI Testen | CHORN",
         description: "Zorg voor de betrouwbaarheid van uw API's en webtechnologie met testexpertise.",
         images: metadataLink(LanguageCode.nl, MetaLinks.devops.soapui).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.devops.soapui).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.devops.soapui).alternates.canonical,
         type: "website"
     },
     twitter: {

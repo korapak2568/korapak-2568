@@ -16,7 +16,7 @@ export const MetadataPhpKO: Metadata = {
         title: "PHP 개발 | CHORN",
         description: "PHP 풀 스택 개발을 활용한 확장 가능하고 동적인 웹 애플리케이션 구축 기술 전문성.",
         images: metadataLink(LanguageCode.ko, MetaLinks.backend.php).openGraph.images,
-        url: metadataLink(LanguageCode.ko, MetaLinks.backend.php).openGraph.url,
+        url: metadataLink(LanguageCode.ko, MetaLinks.backend.php).alternates.canonical,
         type: "website"
     },
     twitter: {

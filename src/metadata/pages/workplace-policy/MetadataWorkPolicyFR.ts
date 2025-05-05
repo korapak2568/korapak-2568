@@ -19,7 +19,7 @@ export const MetadataWorkPolicyFR: Metadata = {
         title: "Politique de travail | CHORN",
         description: "CHORN s'adapte à divers modèles de travail, y compris à distance, en bureau et hybride, en les ajustant aux besoins spécifiques de chaque projet. Cette approche garantit une communication fluide et une efficacité optimale.",
         images: metadataLink(LanguageCode.fr, MetaLinks.workplacePolicy).openGraph.images,
-        url: metadataLink(LanguageCode.fr, MetaLinks.workplacePolicy).openGraph.url,
+        url: metadataLink(LanguageCode.fr, MetaLinks.workplacePolicy).alternates.canonical,
         type: "website",
     },
     twitter: {

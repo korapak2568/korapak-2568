@@ -16,7 +16,7 @@ export const MetadataAiAomNL: Metadata = {
         title: "Ontmoet Aom - Je Wellness-gids op LINE",
         description: "Maak kennis met Aom, een 21-jarige AI-compagnon die zich richt op welzijn en voedingsadvies, trainingsroutines en mindfulness-oefeningen in meerdere talen biedt om je te helpen het gezondste leven te leiden.",
         images: metadataLink(LanguageCode.nl, MetaLinks.aiAom).openGraph.images,
-        url: metadataLink(LanguageCode.nl, MetaLinks.aiAom).openGraph.url,
+        url: metadataLink(LanguageCode.nl, MetaLinks.aiAom).alternates.canonical,
         type: "website"
     },
     twitter: {
