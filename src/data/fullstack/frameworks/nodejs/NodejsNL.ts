@@ -3,7 +3,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 
 export const NodejsNL: IFullStackStack = {
     title: "NodeJS",
-    description: "Node.js is een krachtige, open-source, cross-platform JavaScript runtime-omgeving die ontwikkelaars in staat stelt om efficiënt schaalbare netwerkapplicaties te bouwen. Met een event-driven, non-blocking I/O-model is Node.js ideaal voor het bouwen van snelle, lichtgewicht applicaties, realtime communicatiesystemen en data-intensieve taken, waardoor het een populaire keuze is voor moderne softwareontwikkeling, inclusief AI-integraties.",
+    description: "Node.js is een krachtige, open-source, cross-platform JavaScript runtime-omgeving die ontwikkelaars in staat stelt om efficiënt schaalbare netwerkapplicaties te bouwen. Met een event-driven, non-blocking I/O-metadataLink is Node.js ideaal voor het bouwen van snelle, lichtgewicht applicaties, realtime communicatiesystemen en data-intensieve taken, waardoor het een populaire keuze is voor moderne softwareontwikkeling, inclusief AI-integraties.",
     image: ImageUrl.backend.frameworks.nodejs.thumbnail,
     alt: "Logo representing NodeJS technology",
     readMore: "Ontdek meer NodeJS full-stack ontwikkelingsoplossingen",

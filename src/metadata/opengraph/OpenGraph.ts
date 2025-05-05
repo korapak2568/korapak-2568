@@ -1,4 +1,4 @@
-import {IOpenGraph} from "@/metadata/model/opengraph/IOpenGraph";
+import {IOpenGraph} from "@/metadata/opengraph/model/IOpenGraph";
 import {OpenGraphFrontEnd} from "@/metadata/opengraph/OpenGraphFrontEnd";
 import {OpenGraphBackEnd} from "@/metadata/opengraph/OpenGraphBackEnd";
 import {OpenGraphDevOps} from "@/metadata/opengraph/OpenGraphDevOps";

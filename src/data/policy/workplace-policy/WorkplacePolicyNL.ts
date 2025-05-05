@@ -27,7 +27,7 @@ export const WorkplacePolicyNL: IPolicy = {
         },
         {
             title: "Werk-Privébalans",
-            description: "Het hybride model maakt effectief tijdbeheer mogelijk, zodat teamleden kunnen uitblinken in hun rol, terwijl ze tegelijkertijd hun persoonlijke welzijn en verplichtingen prioriteren."
+            description: "Het hybride metadataLink maakt effectief tijdbeheer mogelijk, zodat teamleden kunnen uitblinken in hun rol, terwijl ze tegelijkertijd hun persoonlijke welzijn en verplichtingen prioriteren."
         }
     ],
 };

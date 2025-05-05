@@ -3,7 +3,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 
 export const NodejsDA: IFullStackStack = {
     title: "NodeJS",
-    description: "Node.js er et kraftfuldt, open-source, tværplatform JavaScript runtime-miljø, der giver udviklere mulighed for at bygge skalerbare netværksapplikationer effektivt. Med en event-drevet, ikke-blokerende I/O-model er Node.js ideel til at bygge hurtige, lette applikationer, realtidskommunikationssystemer og datatunge opgaver, hvilket gør det til et populært valg til moderne softwareudvikling, herunder AI-integrationer.",
+    description: "Node.js er et kraftfuldt, open-source, tværplatform JavaScript runtime-miljø, der giver udviklere mulighed for at bygge skalerbare netværksapplikationer effektivt. Med en event-drevet, ikke-blokerende I/O-metadataLink er Node.js ideel til at bygge hurtige, lette applikationer, realtidskommunikationssystemer og datatunge opgaver, hvilket gør det til et populært valg til moderne softwareudvikling, herunder AI-integrationer.",
     image: ImageUrl.backend.frameworks.nodejs.thumbnail,
     alt: "Logo der repræsenterer NodeJS teknologi",
     readMore: "Udforsk flere NodeJS full-stack udviklingsløsninger",

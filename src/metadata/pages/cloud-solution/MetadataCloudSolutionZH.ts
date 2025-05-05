@@ -1,14 +1,11 @@
 import {Metadata} from "next";
-import {
-    alternativeCloudSolution, cloudSolutionUrls,
-    MetadataLinkCloudSolution
-} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionZH: Metadata = {
     title: "云解决方案架构与系统分析 | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN 提供专业的云解决方案架构与系统分析技术专长。我们在 AWS、Azure、GCP 和 DigitalOcean 上优化云基础架构，确保性能、可扩展性和成本效益。",
-    alternates: alternativeCloudSolution(LanguageCode.zh),
+    alternates: metadataLinkCloudSolution(LanguageCode.zh).alternates,
     authors: [
         {
             name: "CHORN"
@@ -17,15 +14,15 @@ export const MetadataCloudSolutionZH: Metadata = {
     openGraph: {
         title: "云解决方案架构与系统分析 | CHORN",
         description: "探索 CHORN 的云解决方案架构与系统分析技术专长。我们设计具有弹性、可扩展且优化的云解决方案，涵盖 AWS、Azure、GCP 和 DigitalOcean。",
-        images: MetadataLinkCloudSolution.openGraph.images,
-        url: cloudSolutionUrls[LanguageCode.zh],
+        images: metadataLinkCloudSolution(LanguageCode.zh).openGraph.images,
+        url: metadataLinkCloudSolution(LanguageCode.zh).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "云解决方案架构与系统分析 | CHORN",
         description: "通过 CHORN 的云解决方案架构与系统分析技术专长，优化您的云基础架构，涵盖 AWS、Azure、GCP 和 DigitalOcean。",
-        images: MetadataLinkCloudSolution.twitter.images,
+        images: metadataLinkCloudSolution(LanguageCode.zh).twitter.images,
     },
     keywords: [
         "云解决方案架构", "系统分析", "AWS 架构", "Azure 云解决方案",

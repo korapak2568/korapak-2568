@@ -1,14 +1,11 @@
 import {Metadata} from "next";
-import {
-    alternativeCloudSolution, cloudSolutionUrls,
-    MetadataLinkCloudSolution
-} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionNL: Metadata = {
     title: "Cloudoplossingsarchitectuur & Systeemanalyse | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN biedt deskundigheid in cloudoplossingsarchitectuur en systeemanalyse. Wij optimaliseren cloudinfrastructuren op AWS, Azure, GCP en DigitalOcean, met focus op prestaties, schaalbaarheid en kostenefficiëntie.",
-    alternates: alternativeCloudSolution(LanguageCode.nl),
+    alternates: metadataLinkCloudSolution(LanguageCode.nl).alternates,
     authors: [
         {
             name: "CHORN"
@@ -17,15 +14,15 @@ export const MetadataCloudSolutionNL: Metadata = {
     openGraph: {
         title: "Cloudoplossingsarchitectuur & Systeemanalyse | CHORN",
         description: "Ontdek de expertise van CHORN in cloudoplossingsarchitectuur en systeemanalyse. Wij ontwerpen robuuste, schaalbare en geoptimaliseerde cloudoplossingen op AWS, Azure, GCP en DigitalOcean.",
-        images: MetadataLinkCloudSolution.openGraph.images,
-        url: cloudSolutionUrls[LanguageCode.nl],
+        images: metadataLinkCloudSolution(LanguageCode.nl).openGraph.images,
+        url: metadataLinkCloudSolution(LanguageCode.nl).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Cloudoplossingsarchitectuur & Systeemanalyse | CHORN",
         description: "Optimaliseer uw cloudinfrastructuur met de expertise van CHORN in cloudoplossingsarchitectuur en systeemanalyse, inclusief AWS, Azure, GCP en DigitalOcean.",
-        images: MetadataLinkCloudSolution.twitter.images,
+        images: metadataLinkCloudSolution(LanguageCode.nl).twitter.images,
     },
     keywords: [
         "cloudoplossingsarchitectuur", "systeemanalyse", "AWS-architectuur", "Azure-cloudoplossingen",

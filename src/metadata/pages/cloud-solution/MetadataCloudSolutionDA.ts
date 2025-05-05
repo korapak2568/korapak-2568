@@ -1,14 +1,11 @@
 import {Metadata} from "next";
-import {
-    alternativeCloudSolution, cloudSolutionUrls,
-    MetadataLinkCloudSolution
-} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionDA: Metadata = {
     title: "Cloudløsningsarkitektur & Systemanalyse | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN leverer ekspertise inden for cloudløsningsarkitektur og systemanalyse. Vi optimerer cloudinfrastrukturer på AWS, Azure, GCP og DigitalOcean med fokus på ydeevne, skalerbarhed og omkostningseffektivitet.",
-    alternates: alternativeCloudSolution(LanguageCode.da),
+    alternates: metadataLinkCloudSolution(LanguageCode.da).alternates,
     authors: [
         {
             name: "CHORN"
@@ -17,15 +14,15 @@ export const MetadataCloudSolutionDA: Metadata = {
     openGraph: {
         title: "Cloudløsningsarkitektur & Systemanalyse | CHORN",
         description: "Udforsk CHORN's ekspertise inden for cloudløsningsarkitektur og systemanalyse. Vi designer robuste, skalerbare og optimerede cloudløsninger på AWS, Azure, GCP og DigitalOcean.",
-        images: MetadataLinkCloudSolution.openGraph.images,
-        url: cloudSolutionUrls[LanguageCode.da],
+        images: metadataLinkCloudSolution(LanguageCode.da).openGraph.images,
+        url: metadataLinkCloudSolution(LanguageCode.da).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Cloudløsningsarkitektur & Systemanalyse | CHORN",
         description: "Optimer din cloudinfrastruktur med CHORN's ekspertise i cloudløsningsarkitektur og systemanalyse, herunder AWS, Azure, GCP og DigitalOcean.",
-        images: MetadataLinkCloudSolution.twitter.images,
+        images: metadataLinkCloudSolution(LanguageCode.da).twitter.images,
     },
     keywords: [
         "cloudløsningsarkitektur", "systemanalyse", "AWS-arkitektur", "Azure-cloudløsninger",

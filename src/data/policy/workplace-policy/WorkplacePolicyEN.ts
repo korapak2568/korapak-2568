@@ -11,7 +11,7 @@ export const WorkplacePolicyEN: IPolicy = {
         },
         {
             title: "Why Hybrid?",
-            description: "Great ideas can emerge from anywhere, whether in the office, at home, or on the go. By offering a hybrid work model, CHORN provides the best of both worlds—balancing structured collaboration with flexibility for personal and professional growth."
+            description: "Great ideas can emerge from anywhere, whether in the office, at home, or on the go. By offering a hybrid work metadataLink, CHORN provides the best of both worlds—balancing structured collaboration with flexibility for personal and professional growth."
         },
         {
             title: "Flexible Office Presence",
@@ -27,7 +27,7 @@ export const WorkplacePolicyEN: IPolicy = {
         },
         {
             title: "Work-Life Balance",
-            description: "The hybrid model enables effective time management, ensuring team members can excel in their roles while prioritizing personal well-being and commitments."
+            description: "The hybrid metadataLink enables effective time management, ensuring team members can excel in their roles while prioritizing personal well-being and commitments."
         }
     ],
 };

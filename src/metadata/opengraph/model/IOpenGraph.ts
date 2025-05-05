@@ -1,7 +1,7 @@
-import {IOpenGraphUnit} from "@/metadata/model/opengraph/IOpenGraphUnit";
-import {IOpenGraphFrontEnd} from "@/metadata/model/opengraph/IOpenGraphFrontEnd";
-import {IOpenGraphBackEnd} from "@/metadata/model/opengraph/IOpenGraphBackEnd";
-import {IOpenGraphDevOps} from "@/metadata/model/opengraph/IOpenGraphDevOps";
+import {IOpenGraphUnit} from "@/metadata/opengraph/model/IOpenGraphUnit";
+import {IOpenGraphFrontEnd} from "@/metadata/opengraph/model/IOpenGraphFrontEnd";
+import {IOpenGraphBackEnd} from "@/metadata/opengraph/model/IOpenGraphBackEnd";
+import {IOpenGraphDevOps} from "@/metadata/opengraph/model/IOpenGraphDevOps";
 
 export interface IOpenGraph {
     home: IOpenGraphUnit,

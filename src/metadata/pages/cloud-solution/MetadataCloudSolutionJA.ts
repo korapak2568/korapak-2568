@@ -1,14 +1,11 @@
 import {Metadata} from "next";
-import {
-    alternativeCloudSolution, cloudSolutionUrls,
-    MetadataLinkCloudSolution
-} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import { metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionJA: Metadata = {
     title: "クラウドソリューションアーキテクチャとシステム分析 | CHORN | AWS、Azure、GCP、DigitalOcean",
     description: "CHORNは、AWS、Azure、GCP、DigitalOceanを対象に、クラウドソリューションアーキテクチャとシステム分析の専門知識を提供します。パフォーマンス、スケーラビリティ、コスト効率を最適化します。",
-    alternates: alternativeCloudSolution(LanguageCode.ja),
+    alternates: metadataLinkCloudSolution(LanguageCode.ja).alternates,
     authors: [
         {
             name: "CHORN"
@@ -17,15 +14,15 @@ export const MetadataCloudSolutionJA: Metadata = {
     openGraph: {
         title: "クラウドソリューションアーキテクチャとシステム分析 | CHORN",
         description: "CHORNの最先端クラウドソリューションアーキテクチャとシステム分析を探求し、AWS、Azure、GCP、DigitalOceanで柔軟で拡張性のあるクラウドソリューションを設計します。",
-        images: MetadataLinkCloudSolution.openGraph.images,
-        url: cloudSolutionUrls[LanguageCode.ja],
+        images: metadataLinkCloudSolution(LanguageCode.ja).openGraph.images,
+        url: metadataLinkCloudSolution(LanguageCode.ja).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "クラウドソリューションアーキテクチャとシステム分析 | CHORN",
         description: "AWS、Azure、GCP、DigitalOcean向けのクラウドインフラを最適化するCHORNのクラウドソリューションアーキテクチャとシステム分析サービスを活用しましょう。",
-        images: MetadataLinkCloudSolution.twitter.images,
+        images: metadataLinkCloudSolution(LanguageCode.ja).twitter.images,
     },
     keywords: [
         "クラウドソリューションアーキテクチャ", "システム分析", "AWSアーキテクチャ", "Azureクラウドソリューション",

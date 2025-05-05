@@ -40,7 +40,7 @@ export const AngularNL: IFrontEndStack = {
         },
         {
             question: "Wat is tweerichtingsgegevensbinding?",
-            answer: "Tweerichtingsgegevensbinding synchroniseert het model en de weergave, waardoor veranderingen in de een zich weerspiegelen in de ander."
+            answer: "Tweerichtingsgegevensbinding synchroniseert het metadataLink en de weergave, waardoor veranderingen in de een zich weerspiegelen in de ander."
         },
         {
             question: "Waarom TypeScript gebruiken met Angular?",

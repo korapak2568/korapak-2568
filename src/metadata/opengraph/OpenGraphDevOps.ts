@@ -1,4 +1,4 @@
-import {IOpenGraphDevOps} from "@/metadata/model/opengraph/IOpenGraphDevOps";
+import {IOpenGraphDevOps} from "@/metadata/opengraph/model/IOpenGraphDevOps";
 import {MetadataImageVersion} from "../version/MetadataImageVersion";
 
 export const OpenGraphDevOps: IOpenGraphDevOps = {

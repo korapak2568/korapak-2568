@@ -12,15 +12,15 @@ import {MetadataCloudSolutionFI} from "@/metadata/pages/cloud-solution/MetadataC
 import {MetadataCloudSolutionKO} from "@/metadata/pages/cloud-solution/MetadataCloudSolutionKO";
 
 export const MetadataCloudSolution: Record<string, Metadata> = {
-    'en': MetadataCloudSolutionEN,
-    'th': MetadataCloudSolutionTH,
-    'fr': MetadataCloudSolutionFR,
-    'ja': MetadataCloudSolutionJA,
-    'vi': MetadataCloudSolutionVI,
-    'zh': MetadataCloudSolutionZH,
-    'de': MetadataCloudSolutionDE,
-    'nl': MetadataCloudSolutionNL,
-    'da': MetadataCloudSolutionDA,
-    'fi': MetadataCloudSolutionFI,
-    'ko': MetadataCloudSolutionKO
+    en: MetadataCloudSolutionEN,
+    th: MetadataCloudSolutionTH,
+    fr: MetadataCloudSolutionFR,
+    ja: MetadataCloudSolutionJA,
+    vi: MetadataCloudSolutionVI,
+    zh: MetadataCloudSolutionZH,
+    de: MetadataCloudSolutionDE,
+    nl: MetadataCloudSolutionNL,
+    da: MetadataCloudSolutionDA,
+    fi: MetadataCloudSolutionFI,
+    ko: MetadataCloudSolutionKO
 }

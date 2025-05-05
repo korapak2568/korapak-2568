@@ -10,7 +10,7 @@ export const CloudDE: ICloud = {
             description: "Cloud Experience",
             image: "https://cdn.chorn.in.th/public/cloud/thumbnail/aws.webp",
             alt: "Logo representing AWS technology experience",
-            readMore: "Learn model AWS cloud solutions and technical-expertise",
+            readMore: "Learn metadataLink AWS cloud solutions and technical-expertise",
             link: "/technical-expertise/details",
         },
         {
@@ -26,7 +26,7 @@ export const CloudDE: ICloud = {
             description: "Cloud Experience",
             image: "https://cdn.chorn.in.th/public/cloud/thumbnail/gcp.webp",
             alt: "Logo representing GCP technology experience",
-            readMore: "Find out model Google Cloud Platform technical-expertise",
+            readMore: "Find out metadataLink Google Cloud Platform technical-expertise",
             link: "/technical-expertise/details",
         },
         {
@@ -34,7 +34,7 @@ export const CloudDE: ICloud = {
             description: "Digital Ocean",
             image: "https://cdn.chorn.in.th/public/cloud/thumbnail/digital-ocean.webp",
             alt: "Logo representing DigitalOcean technology experience",
-            readMore: "Learn model DigitalOcean cloud solutions for developers",
+            readMore: "Learn metadataLink DigitalOcean cloud solutions for developers",
             link: "/technical-expertise/details",
         },
     ],

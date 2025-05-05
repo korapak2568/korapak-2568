@@ -40,7 +40,7 @@ export const AngularEN: IFrontEndStack = {
         },
         {
             question: "What is two-way data binding?",
-            answer: "Two-way data binding synchronizes the model and the view, ensuring changes in one reflect in the other."
+            answer: "Two-way data binding synchronizes the metadataLink and the view, ensuring changes in one reflect in the other."
         },
         {
             question: "Why use TypeScript with Angular?",

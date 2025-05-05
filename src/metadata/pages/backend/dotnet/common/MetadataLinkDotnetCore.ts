@@ -1,5 +1,5 @@
 import {OpenGraph} from "@/metadata/opengraph/OpenGraph";
-import {IMetadataLinkPage} from "@/metadata/model/IMetadataLinkPage";
+import {IMetadataLinkPage} from "@/metadata/metadataLink/model/IMetadataLinkPage";
 
 export const MetadataLinkDotnetCore: IMetadataLinkPage = {
     alternates: {

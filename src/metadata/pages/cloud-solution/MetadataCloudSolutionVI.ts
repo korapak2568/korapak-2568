@@ -1,14 +1,11 @@
 import {Metadata} from "next";
-import {
-    alternativeCloudSolution, cloudSolutionUrls,
-    MetadataLinkCloudSolution
-} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionVI: Metadata = {
     title: "Kiến trúc Giải pháp Đám mây & Phân tích Hệ thống | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN cung cấp chuyên môn kỹ thuật về kiến trúc giải pháp đám mây và phân tích hệ thống. Chúng tôi tối ưu hóa cơ sở hạ tầng đám mây trên AWS, Azure, GCP và DigitalOcean, đảm bảo hiệu suất, khả năng mở rộng và tiết kiệm chi phí.",
-    alternates: alternativeCloudSolution(LanguageCode.vi),
+    alternates: metadataLinkCloudSolution(LanguageCode.vi).alternates,
     authors: [
         {
             name: "CHORN"
@@ -17,15 +14,15 @@ export const MetadataCloudSolutionVI: Metadata = {
     openGraph: {
         title: "Kiến trúc Giải pháp Đám mây & Phân tích Hệ thống | CHORN",
         description: "Khám phá chuyên môn kỹ thuật về kiến trúc giải pháp đám mây và phân tích hệ thống của CHORN. Chúng tôi thiết kế các giải pháp đám mây bền vững, có thể mở rộng và tối ưu hóa trên AWS, Azure, GCP và DigitalOcean.",
-        images: MetadataLinkCloudSolution.openGraph.images,
-        url: cloudSolutionUrls[LanguageCode.vi],
+        images: metadataLinkCloudSolution(LanguageCode.vi).openGraph.images,
+        url: metadataLinkCloudSolution(LanguageCode.vi).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Kiến trúc Giải pháp Đám mây & Phân tích Hệ thống | CHORN",
         description: "Tối ưu hóa cơ sở hạ tầng đám mây của bạn với chuyên môn kỹ thuật về kiến trúc giải pháp đám mây và phân tích hệ thống của CHORN, bao gồm AWS, Azure, GCP và DigitalOcean.",
-        images: MetadataLinkCloudSolution.twitter.images,
+        images: metadataLinkCloudSolution(LanguageCode.vi).twitter.images,
     },
     keywords: [
         "kiến trúc giải pháp đám mây", "phân tích hệ thống", "kiến trúc AWS", "giải pháp đám mây Azure",

@@ -1,4 +1,4 @@
-import {IOpenGraphFrontEnd} from "@/metadata/model/opengraph/IOpenGraphFrontEnd";
+import {IOpenGraphFrontEnd} from "@/metadata/opengraph/model/IOpenGraphFrontEnd";
 import {MetadataImageVersion} from "../version/MetadataImageVersion";
 
 export const OpenGraphFrontEnd: IOpenGraphFrontEnd = {

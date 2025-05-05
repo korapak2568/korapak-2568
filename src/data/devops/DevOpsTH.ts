@@ -255,7 +255,7 @@ export const DevOpsTH: IDevOps = {
         description: "Simplify your API testing with SOAPUI's comprehensive testing toolset for REST and SOAP APIs.",
         image: ImageUrl.devops.frameworks.soapui.thumbnail,
         alt: "Logo representing SOAPUI technology experience",
-        readMore: "Learn model SoapUI for API and DevOps testing",
+        readMore: "Learn metadataLink SoapUI for API and DevOps testing",
         link: "/technical-expertise/cloud-devops/soapui", features: [
             {
                 title: "SOAPUI",

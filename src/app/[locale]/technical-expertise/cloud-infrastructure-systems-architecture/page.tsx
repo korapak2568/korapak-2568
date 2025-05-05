@@ -5,7 +5,7 @@ import CloudExperience from "@/components/Common/CloudExperience";
 import CloudInfraPageMain
     from "@/components/Services/cloud-infrastructure-systems-architecture/CloudInfraPageMain";
 import {headers} from "next/headers";
-import {MetadataCloudSolution} from "@/metadata/pages/cloud-solution/common/MetadataCloudSolution";
+import {MetadataCloudSolution} from "@/metadata/main/MetadataCloudSolution";
 
 export async function generateMetadata(): Promise<Metadata> {
     const lang = headers().get('x-locale') || 'en';

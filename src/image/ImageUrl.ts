@@ -554,7 +554,7 @@ export const ImageUrl: IImageUrl = {
     home: {
         main: {
             title: "CHORN's main banner image",
-            path: CDN_IMAGE + "/metadata/home.png"
+            path: CDN_IMAGE + "/model/home.png"
         },
         slides: [
             {

@@ -1,4 +1,4 @@
-import {IOpenGraphUnit} from "@/metadata/model/opengraph/IOpenGraphUnit";
+import {IOpenGraphUnit} from "@/metadata/opengraph/model/IOpenGraphUnit";
 
 export interface IOpenGraphBackEnd {
     main: IOpenGraphUnit,

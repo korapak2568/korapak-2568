@@ -27,7 +27,7 @@ export const WorkplacePolicyDA: IPolicy = {
         },
         {
             title: "Arbejdsliv Balance",
-            description: "Den hybride model muliggør effektiv tidsstyring, så teammedlemmer kan udmærke sig i deres roller, samtidig med at de prioriterer deres personlige velvære og forpligtelser."
+            description: "Den hybride metadataLink muliggør effektiv tidsstyring, så teammedlemmer kan udmærke sig i deres roller, samtidig med at de prioriterer deres personlige velvære og forpligtelser."
         }
     ],
 };

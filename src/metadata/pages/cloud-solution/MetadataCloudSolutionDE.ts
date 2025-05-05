@@ -1,14 +1,11 @@
 import {Metadata} from "next";
-import {
-    alternativeCloudSolution, cloudSolutionUrls,
-    MetadataLinkCloudSolution
-} from "@/metadata/pages/cloud-solution/common/MetadataLinkCloudSolution";
+import {metadataLinkCloudSolution} from "@/metadata/metadataLink/MetadataLinkCloudSolution";
 import {LanguageCode} from "@/data/translate/LanguageCode";
 
 export const MetadataCloudSolutionDE: Metadata = {
     title: "Cloud-Lösungsarchitektur & Systemanalyse | CHORN | AWS, Azure, GCP, DigitalOcean",
     description: "CHORN bietet Fachwissen in Cloud-Lösungsarchitektur und Systemanalyse. Wir optimieren Cloud-Infrastrukturen auf AWS, Azure, GCP und DigitalOcean und gewährleisten Leistung, Skalierbarkeit und Kosteneffizienz.",
-    alternates: alternativeCloudSolution(LanguageCode.de),
+    alternates: metadataLinkCloudSolution(LanguageCode.de).alternates,
     authors: [
         {
             name: "CHORN"
@@ -17,15 +14,15 @@ export const MetadataCloudSolutionDE: Metadata = {
     openGraph: {
         title: "Cloud-Lösungsarchitektur & Systemanalyse | CHORN",
         description: "Entdecken Sie das Fachwissen von CHORN in Cloud-Lösungsarchitektur und Systemanalyse. Wir entwerfen resiliente, skalierbare und optimierte Cloud-Lösungen auf AWS, Azure, GCP und DigitalOcean.",
-        images: MetadataLinkCloudSolution.openGraph.images,
-        url: cloudSolutionUrls[LanguageCode.de],
+        images: metadataLinkCloudSolution(LanguageCode.de).openGraph.images,
+        url: metadataLinkCloudSolution(LanguageCode.de).alternates.canonical,
         type: "website"
     },
     twitter: {
         card: "summary_large_image",
         title: "Cloud-Lösungsarchitektur & Systemanalyse | CHORN",
         description: "Optimieren Sie Ihre Cloud-Infrastruktur mit CHORNs Fachwissen in Cloud-Lösungsarchitektur und Systemanalyse, inklusive AWS, Azure, GCP und DigitalOcean.",
-        images: MetadataLinkCloudSolution.twitter.images,
+        images: metadataLinkCloudSolution(LanguageCode.de).twitter.images,
     },
     keywords: [
         "Cloud-Lösungsarchitektur", "Systemanalyse", "AWS-Architektur", "Azure-Cloud-Lösungen",

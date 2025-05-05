@@ -3,7 +3,7 @@ import {ImageUrl} from "@/image/ImageUrl";
 
 export const NodejsEN: IFullStackStack = {
     title: "NodeJS",
-    description: "Node.js is a powerful, open-source, cross-platform JavaScript runtime environment that allows developers to build scalable network applications efficiently. With an event-driven, non-blocking I/O model, Node.js is ideal for building fast, lightweight applications, real-time communication systems, and data-intensive tasks, making it a popular choice for modern software development, including AI integrations.",
+    description: "Node.js is a powerful, open-source, cross-platform JavaScript runtime environment that allows developers to build scalable network applications efficiently. With an event-driven, non-blocking I/O metadataLink, Node.js is ideal for building fast, lightweight applications, real-time communication systems, and data-intensive tasks, making it a popular choice for modern software development, including AI integrations.",
     image: ImageUrl.backend.frameworks.nodejs.thumbnail,
     alt: "Logo representing NodeJS technology",
     readMore: "Explore more NodeJS full-stack development solutions",
@@ -61,10 +61,10 @@ export const NodejsEN: IFullStackStack = {
         {
             title: "AI Integration",
             description: "Node.js, with its high-performance, event-driven nature, is a great choice for integrating AI into applications. " +
-                "Using libraries like TensorFlow.js, Node.js can handle AI model inference in the browser or on the server. Additionally, Node.js can serve as a middleware to communicate with AI-powered cloud APIs (e.g., AWS, Azure AI, or Google Cloud AI), enabling smart capabilities such as natural language processing, image recognition, and recommendation systems.",
+                "Using libraries like TensorFlow.js, Node.js can handle AI metadataLink inference in the browser or on the server. Additionally, Node.js can serve as a middleware to communicate with AI-powered cloud APIs (e.g., AWS, Azure AI, or Google Cloud AI), enabling smart capabilities such as natural language processing, image recognition, and recommendation systems.",
             list: [
                 "Integration with TensorFlow.js",
-                "AI model inference on the server",
+                "AI metadataLink inference on the server",
                 "Communication with cloud AI APIs",
                 "Real-time AI-powered features",
                 "Scalable AI-powered microservices"
