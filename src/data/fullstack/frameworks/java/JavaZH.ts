@@ -40,13 +40,13 @@ export const JavaZH: IFullStackStack = {
             ]
         },
         {
-            title: "企业级系统与J2EE现代化",
-            description: "Jakarta EE和Spring使J2EE架构更加模块化、现代化，并在保留兼容性的同时适应云部署。",
+            title: "企业级系统与Java EE现代化",
+            description: "虽然Java EE为企业应用提供了基础，但现代Java框架如Jakarta EE和Spring通过更好的模块化、速度和云支持，在不失去对旧系统兼容性的情况下实现了系统现代化。",
             list: [
-                "Jakarta EE继承J2EE优势",
-                "支持Docker与Kubernetes部署",
-                "企业级安全架构",
-                "通过现代API支持旧系统"
+                "Jakarta EE是Java EE的演进",
+                "使用Docker和Kubernetes实现现代化部署",
+                "安全的企业级架构",
+                "使用现代API支持现有系统"
             ]
         }
     ],

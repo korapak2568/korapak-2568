@@ -40,13 +40,13 @@ export const JavaNL: IFullStackStack = {
             ]
         },
         {
-            title: "Enterprise-oplossingen & J2EE-modernisering",
-            description: "Jakarta EE en Spring moderniseren J2EE voor betere modulariteit en clouddeployment, met behoud van compatibiliteit.",
+            title: "Enterprise-grade systemen & Java EE-modernisering",
+            description: "Hoewel Java EE een basis bood voor bedrijfsapplicaties, moderniseren moderne Java-frameworks zoals Jakarta EE en Spring deze systemen met betere modulariteit, snelheid en cloudondersteuning — zonder de compatibiliteit met bestaande systemen te verliezen.",
             list: [
-                "Jakarta EE als opvolger van J2EE",
-                "Deployment via Docker & Kubernetes",
-                "Veilige enterprise architectuur",
-                "Ondersteuning van legacy via moderne API's"
+                "Jakarta EE als evolutie van Java EE",
+                "Moderne implementatie met Docker en Kubernetes",
+                "Veilige enterprise-grade architecturen",
+                "Ondersteuning van bestaande systemen met moderne API's"
             ]
         }
     ],

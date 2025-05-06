@@ -40,13 +40,13 @@ export const JavaKO: IFullStackStack = {
             ]
         },
         {
-            title: "엔터프라이즈 시스템 및 J2EE 현대화",
-            description: "J2EE는 기업용 앱의 기반이었으며, Jakarta EE 및 Spring은 이를 더 모듈화되고 빠르며 클라우드에 적합하도록 개선하며 레거시 호환성을 유지합니다.",
+            title: "엔터프라이즈급 시스템 및 Java EE 현대화",
+            description: "Java EE는 엔터프라이즈 애플리케이션의 기반을 제공했지만, Jakarta EE와 Spring 같은 현대적인 Java 프레임워크는 더 나은 모듈성, 속도, 클라우드 지원을 통해 기존 시스템을 현대화하면서도 레거시 호환성을 유지합니다.",
             list: [
-                "J2EE의 진화된 형태인 Jakarta EE",
-                "Docker 및 Kubernetes를 통한 현대적 배포",
-                "엔터프라이즈 보안 아키텍처",
-                "현대 API를 통한 기존 시스템 지원"
+                "Java EE의 진화인 Jakarta EE",
+                "Docker 및 Kubernetes를 활용한 현대적인 배포",
+                "보안이 강화된 엔터프라이즈급 아키텍처",
+                "현대적인 API를 통한 기존 시스템 지원"
             ]
         }
     ],

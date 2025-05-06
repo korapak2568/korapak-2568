@@ -40,13 +40,13 @@ export const JavaFR: IFullStackStack = {
             ]
         },
         {
-            title: "Solutions d'entreprise et modernisation J2EE",
-            description: "Jakarta EE et Spring modernisent J2EE avec une architecture modulaire, tout en assurant la compatibilité et le déploiement dans le cloud.",
+            title: "Systèmes de niveau entreprise et modernisation de Java EE",
+            description: "Bien que Java EE ait fourni une base pour les applications d’entreprise, les frameworks Java modernes comme Jakarta EE et Spring modernisent ces systèmes avec une meilleure modularité, rapidité et prise en charge du cloud, tout en maintenant la compatibilité avec les systèmes existants.",
             list: [
-                "Jakarta EE comme successeur de J2EE",
-                "Déploiement avec Docker et Kubernetes",
-                "Architecture sécurisée pour l’entreprise",
-                "APIs modernes pour systèmes existants"
+                "Jakarta EE comme évolution de Java EE",
+                "Déploiement modernisé avec Docker et Kubernetes",
+                "Architectures sécurisées de niveau entreprise",
+                "Prise en charge des systèmes existants avec des API modernes"
             ]
         }
     ],

@@ -40,13 +40,13 @@ export const JavaDE: IFullStackStack = {
             ]
         },
         {
-            title: "Enterprise-Lösungen & Modernisierung von J2EE",
-            description: "Jakarta EE und Spring ermöglichen eine moderne, modulare Version von J2EE mit Rückwärtskompatibilität und Cloud-Unterstützung.",
+            title: "Enterprise-Systeme & Modernisierung von Java EE",
+            description: "Während Java EE eine Grundlage für Unternehmensanwendungen bot, modernisieren moderne Java-Frameworks wie Jakarta EE und Spring diese Systeme mit besserer Modularität, Geschwindigkeit und Cloud-Unterstützung – ohne die Kompatibilität mit Altsystemen zu verlieren.",
             list: [
-                "Jakarta EE als Nachfolger von J2EE",
-                "Cloud-Bereitstellung mit Docker & Kubernetes",
-                "Sichere Architektur für Unternehmen",
-                "Moderne APIs für Altsysteme"
+                "Jakarta EE als Weiterentwicklung von Java EE",
+                "Modernisierte Bereitstellung mit Docker und Kubernetes",
+                "Sichere Unternehmensarchitekturen",
+                "Unterstützung vorhandener Systeme mit modernen APIs"
             ]
         }
     ],

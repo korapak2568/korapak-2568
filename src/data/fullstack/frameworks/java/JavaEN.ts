@@ -44,11 +44,11 @@ export const JavaEN: IFullStackStack = {
             ]
         },
         {
-            title: "Enterprise-Grade Systems & J2EE Modernization",
+            title: "Enterprise-Grade Systems & Java EE Modernization",
             description:
-                "While J2EE provided a foundation for enterprise apps, modern Java frameworks like Jakarta EE and Spring modernize these systems with better modularity, speed, and cloud support—without losing legacy compatibility.",
+                "While Java EE provided a foundation for enterprise apps, modern Java frameworks like Jakarta EE and Spring modernize these systems with better modularity, speed, and cloud support—without losing legacy compatibility.",
             list: [
-                "Jakarta EE evolution of J2EE",
+                "Jakarta EE as the evolution of Java EE",
                 "Modernized deployment with Docker and Kubernetes",
                 "Secure enterprise-grade architectures",
                 "Support for existing systems with modern APIs"

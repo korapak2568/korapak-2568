@@ -40,13 +40,13 @@ export const JavaVI: IFullStackStack = {
             ]
         },
         {
-            title: "Giải pháp doanh nghiệp và hiện đại hóa J2EE",
-            description: "Jakarta EE và Spring đã cải tiến J2EE để phù hợp hơn với cloud-native, nhưng vẫn duy trì khả năng tương thích ngược.",
+            title: "Hệ thống cấp doanh nghiệp & Hiện đại hóa Java EE",
+            description: "Mặc dù Java EE đã cung cấp nền tảng cho các ứng dụng doanh nghiệp, các framework Java hiện đại như Jakarta EE và Spring hiện đại hóa các hệ thống này với khả năng mô-đun tốt hơn, tốc độ cao hơn và hỗ trợ đám mây, mà vẫn giữ được khả năng tương thích với hệ thống cũ.",
             list: [
-                "Jakarta EE là thế hệ mới của J2EE",
-                "Triển khai hiện đại với Docker & Kubernetes",
-                "Kiến trúc an toàn cho doanh nghiệp",
-                "Hỗ trợ hệ thống cũ qua API hiện đại"
+                "Jakarta EE là sự phát triển từ Java EE",
+                "Triển khai hiện đại với Docker và Kubernetes",
+                "Kiến trúc cấp doanh nghiệp an toàn",
+                "Hỗ trợ hệ thống hiện tại với các API hiện đại"
             ]
         }
     ],

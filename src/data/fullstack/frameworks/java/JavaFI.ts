@@ -40,13 +40,13 @@ export const JavaFI: IFullStackStack = {
             ]
         },
         {
-            title: "Yritystason järjestelmät ja J2EE:n modernisointi",
-            description: "Vaikka J2EE on toiminut yrityssovellusten perustana, Jakarta EE ja Spring ovat tuoneet mukanaan modulaarisuuden, nopeuden ja pilvituen – säilyttäen samalla yhteensopivuuden olemassa olevien järjestelmien kanssa.",
+            title: "Yritystason järjestelmät ja Java EE:n modernisointi",
+            description: "Vaikka Java EE tarjosi perustan yrityssovelluksille, modernit Java-kehykset kuten Jakarta EE ja Spring modernisoivat näitä järjestelmiä paremmalla modulaarisuudella, nopeudella ja pilvituelta – menettämättä yhteensopivuutta vanhojen järjestelmien kanssa.",
             list: [
-                "Jakarta EE on J2EE:n seuraava kehitysversio",
-                "Moderni käyttöönotto Dockerilla ja Kubernetesilla",
-                "Turvalliset arkkitehtuurit yrityskäyttöön",
-                "Yhteensopivuus vanhojen järjestelmien kanssa modernien API:en avulla"
+                "Jakarta EE Java EE:n kehitysaskeleena",
+                "Moderni käyttöönotto Dockerin ja Kubernetesin avulla",
+                "Turvalliset yritystason arkkitehtuurit",
+                "Nykyisten järjestelmien tuki moderneilla API-rajapinnoilla"
             ]
         }
     ],

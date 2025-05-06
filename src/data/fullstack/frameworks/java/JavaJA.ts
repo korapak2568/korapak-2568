@@ -40,13 +40,13 @@ export const JavaJA: IFullStackStack = {
             ]
         },
         {
-            title: "エンタープライズシステムとJ2EEのモダナイゼーション",
-            description: "J2EEは企業向けアプリケーションの基盤でしたが、Jakarta EEやSpringはそれをよりモジュール化し、高速でクラウド対応に改善し、レガシー互換性を維持しています。",
+            title: "エンタープライズ向けシステムとJava EEの近代化",
+            description: "Java EEはエンタープライズアプリの基盤を提供しましたが、Jakarta EEやSpringなどの現代的なJavaフレームワークは、モジュール性、速度、クラウド対応を改善しつつ、レガシー互換性を維持しながらこれらのシステムを近代化します。",
             list: [
-                "J2EEの進化形であるJakarta EE",
-                "DockerおよびKubernetesによるモダンなデプロイ",
-                "エンタープライズ向けのセキュアなアーキテクチャ",
-                "モダンなAPIを通じた既存システムのサポート"
+                "Java EEの進化であるJakarta EE",
+                "DockerとKubernetesによる近代的なデプロイ",
+                "セキュアなエンタープライズグレードのアーキテクチャ",
+                "最新APIによる既存システムのサポート"
             ]
         }
     ],

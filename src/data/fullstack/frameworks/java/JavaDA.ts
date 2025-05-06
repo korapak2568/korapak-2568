@@ -40,13 +40,13 @@ export const JavaDA: IFullStackStack = {
             ]
         },
         {
-            title: "Enterprise-løsninger og modernisering af J2EE",
-            description: "Jakarta EE og Spring moderniserer J2EE med bedre modularitet og cloud-kompatibilitet, samtidig med at bagudkompatibilitet opretholdes.",
+            title: "Virksomhedssystemer og Java EE-modernisering",
+            description: "Mens Java EE gav grundlaget for virksomhedsapplikationer, moderniserer moderne Java-rammer som Jakarta EE og Spring disse systemer med bedre modularitet, hastighed og cloud-understøttelse — uden at miste kompatibiliteten med ældre systemer.",
             list: [
-                "Jakarta EE som efterfølger til J2EE",
-                "Moderne deployment med Docker og Kubernetes",
-                "Sikker enterprise-arkitektur",
-                "Understøttelse af legacy gennem moderne APIs"
+                "Jakarta EE som udviklingen af Java EE",
+                "Moderniseret deployment med Docker og Kubernetes",
+                "Sikre virksomhedssystemarkitekturer",
+                "Understøttelse af eksisterende systemer med moderne API'er"
             ]
         }
     ],
