@@ -15,12 +15,6 @@ const nextConfig = {
         ],
         minimumCacheTTL: 31536000,
     },
-    optimizeFonts: false,
-    i18n: {
-        locales: ['en-US', 'th-TH', 'fr-FR', 'ja-JP', 'vi-VN', 'zh-CN', 'de-DE', 'nl-NL', 'da-DA', 'fi-FI', 'ko-KR'],
-        defaultLocale: 'en-US',
-        localeDetection: false,
-    },
     async headers() {
         return [
             {
