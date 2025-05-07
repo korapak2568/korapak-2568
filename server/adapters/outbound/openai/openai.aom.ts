@@ -42,8 +42,8 @@ const openaiCreateAom = async (prompt: string) => {
 export default async function openAiAom(prompt: any) {
     try {
         const result = await openaiCreateAom(prompt);
-        const content = result.choices[0]?.message?.content;
-        return content ? content.replaceAll("**", "") : null
+        const content = result.choices[0]?.message?.content
+        return content ? content.replaceAll("**", "") : ""
     } catch (error) {
         return error
     }

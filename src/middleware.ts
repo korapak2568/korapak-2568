@@ -23,6 +23,7 @@ export function middleware(req: NextRequest) {
         pathname.startsWith('/fonts') ||
         pathname.startsWith('/api/sitemap') ||
         pathname.startsWith('/api/login') ||
+        pathname.startsWith('/api/line') ||
         pathname === '/favicon.ico' ||
         pathname === '/robots.txt'
     ) {
