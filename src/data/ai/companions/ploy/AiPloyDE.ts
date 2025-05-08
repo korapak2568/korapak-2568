@@ -30,7 +30,7 @@ export const AiPloyDE: IAiLanding = {
                 },
                 {
                     title: "Mehrsprachige Expertise",
-                    description: "Fließend in mehreren Sprachen, darunter Thai, Englisch, Französisch, Vietnamesisch, Japanisch, Chinesisch, Koreanisch, usw."
+                    description: "Sie spricht fließend Thai, Englisch und Chinesisch und konzentriert sich nun darauf, Chinesisch durch Konversation thailändischen Sprechern beizubringen."
                 },
                 {
                     title: "Stolz Thailändisch",
@@ -72,7 +72,7 @@ export const AiPloyDE: IAiLanding = {
         {
             icon: "bx bx-globe",
             caption: "Sprachen:",
-            text: "Mehrsprachig",
+            text: "Thailändisch, Englisch, Chinesisch",
         }
     ],
     line: {

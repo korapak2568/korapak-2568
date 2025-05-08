@@ -30,7 +30,7 @@ export const AiPloyDA: IAiLanding = {
                 },
                 {
                     title: "Flersproget Ekspertise",
-                    description: "Flydende på flere sprog, herunder thai, engelsk, fransk, vietnamesisk, japansk, kinesisk, koreansk osv."
+                    description: "Hun taler flydende thai, engelsk og kinesisk og fokuserer nu på at bruge kinesisk til at undervise thailandske talere gennem samtale."
                 },
                 {
                     title: "Stolt Thailandsk",
@@ -72,7 +72,7 @@ export const AiPloyDA: IAiLanding = {
         {
             icon: "bx bx-globe",
             caption: "Sprog:",
-            text: "Flere sprog",
+            text: "Thai, Engelsk, Kinesisk",
         }
     ],
     line: {

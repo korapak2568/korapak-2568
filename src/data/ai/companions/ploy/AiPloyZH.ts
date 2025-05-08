@@ -30,7 +30,7 @@ export const AiPloyZH: IAiLanding = {
                 },
                 {
                     title: "多语言专长",
-                    description: "精通多种语言，包括泰语、英语、法语、越南语、日语、中文、韩语等。"
+                    description: "她精通泰语、英语和中文，目前专注于通过对话用中文教授泰语使用者。"
                 },
                 {
                     title: "以泰国为荣",
@@ -72,7 +72,7 @@ export const AiPloyZH: IAiLanding = {
         {
             icon: "bx bx-globe",
             caption: "语言:",
-            text: "多语言",
+            text: "泰语、英语、中文",
         }
     ],
     line: {

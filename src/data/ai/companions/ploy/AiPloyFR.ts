@@ -26,7 +26,7 @@ export const AiPloyFR: IAiLanding = {
             items: [
                 {
                     title: "Artistique et Imaginative",
-                    description: "Ploy déborde de créativité et d'enthousiasme, rendant chaque conversation captivante et amusante."
+                    description: "Elle parle couramment le thaï, l'anglais et le chinois, et se concentre désormais sur l'utilisation du chinois pour enseigner aux locuteurs thaïlandais par la conversation."
                 },
                 {
                     title: "Expertise Multilingue",
@@ -72,7 +72,7 @@ export const AiPloyFR: IAiLanding = {
         {
             icon: "bx bx-globe",
             caption: "Langues:",
-            text: "Multi-langues",
+            text: "Thaï, Anglais, Chinois",
         }
     ],
     line: {

@@ -30,7 +30,7 @@ export const AiPloyKO: IAiLanding = {
                 },
                 {
                     title: "다국어 전문성",
-                    description: "태국어, 영어, 프랑스어, 베트남어, 일본어, 중국어, 한국어 등 여러 언어에 능통합니다."
+                    description: "그녀는 태국어, 영어, 중국어에 능통하며, 현재는 회화를 통해 태국어 사용자에게 중국어를 가르치는 데 집중하고 있습니다."
                 },
                 {
                     title: "자랑스러운 태국인",
@@ -72,7 +72,7 @@ export const AiPloyKO: IAiLanding = {
         {
             icon: "bx bx-globe", // Globe icon
             caption: "언어:",
-            text: "다국어",
+            text: "태국어, 영어, 중국어",
         }
     ],
     line: {

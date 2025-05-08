@@ -30,7 +30,7 @@ export const AiPloyFI: IAiLanding = {
                 },
                 {
                     title: "Monikielinen asiantuntemus",
-                    description: "Sujuva useissa kielissä, mukaan lukien thai, englanti, ranska, vietnam, japani, kiina, korea, jne."
+                    description: "Hän puhuu sujuvasti thaita, englantia ja kiinaa, ja keskittyy nyt kiinan käyttöön thaimaalaisten opettamisessa keskustelun kautta."
                 },
                 {
                     title: "Ylpeästi thaimaalainen",
@@ -72,7 +72,7 @@ export const AiPloyFI: IAiLanding = {
         {
             icon: "bx bx-globe", // Globe icon
             caption: "Kielet:",
-            text: "Useita kieliä",
+            text: "Thai, Englanti, Kiina",
         }
     ],
     line: {

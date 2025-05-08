@@ -30,7 +30,7 @@ export const AiPloyVI: IAiLanding = {
                 },
                 {
                     title: "Chuyên môn Đa ngôn ngữ",
-                    description: "Thông thạo nhiều ngôn ngữ, bao gồm tiếng Thái, tiếng Anh, tiếng Pháp, tiếng Việt, tiếng Nhật, tiếng Trung, tiếng Hàn, v.v."
+                    description: "Thành thạo tiếng Thái, tiếng Anh và tiếng Trung, cô ấy hiện tập trung vào việc sử dụng tiếng Trung để dạy người Thái thông qua hội thoại."
                 },
                 {
                     title: "Tự hào là người Thái",
@@ -72,7 +72,7 @@ export const AiPloyVI: IAiLanding = {
         {
             icon: "bx bx-globe",
             caption: "Ngôn ngữ:",
-            text: "Đa ngôn ngữ",
+            text: "Tiếng Thái, Tiếng Anh, Tiếng Trung",
         }
     ],
     line: {

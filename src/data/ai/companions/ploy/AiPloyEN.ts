@@ -30,7 +30,7 @@ export const AiPloyEN: IAiLanding = {
                 },
                 {
                     title: "Multilingual Expertise",
-                    description: "Fluent in multi-languages, including Thai, English, French, Vietnamese, Japanese, Chinese, Korean, etc."
+                    description: "Fluent in Thai, English, and Chinese, she now focuses on using Chinese to teach Thai speakers through conversation."
                 },
                 {
                     title: "Proudly Thai",
@@ -72,7 +72,7 @@ export const AiPloyEN: IAiLanding = {
         {
             icon: "bx bx-globe", // Globe icon
             caption: "Languages:",
-            text: "Multi-languages",
+            text: "Thai, English, Chinese",
         }
     ],
     line: {

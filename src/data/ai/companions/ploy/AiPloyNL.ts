@@ -30,7 +30,7 @@ export const AiPloyNL: IAiLanding = {
                 },
                 {
                     title: "Meertalige Expertise",
-                    description: "Vloeiend in meerdere talen, waaronder Thai, Engels, Frans, Vietnamees, Japans, Chinees, Koreaans, etc."
+                    description: "Ze spreekt vloeiend Thais, Engels en Chinees, en richt zich nu op het gebruik van Chinees om Thaise sprekers via gesprekken les te geven."
                 },
                 {
                     title: "Trots Thais",
@@ -72,7 +72,7 @@ export const AiPloyNL: IAiLanding = {
         {
             icon: "bx bx-globe",
             caption: "Talen:",
-            text: "Meerdere talen",
+            text: "Thais, Engels, Chinees",
         }
     ],
     line: {

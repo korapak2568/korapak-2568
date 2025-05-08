@@ -30,7 +30,7 @@ export const AiPloyJA: IAiLanding = {
                 },
                 {
                     title: "多言語対応",
-                    description: "タイ語、英語、フランス語、ベトナム語、日本語、中国語、韓国語など、複数の言語に堪能です。"
+                    description: "彼女はタイ語、英語、中国語に堪能で、現在は会話を通じてタイ語話者に中国語を教えることに注力しています。"
                 },
                 {
                     title: "タイの誇り",
@@ -72,7 +72,7 @@ export const AiPloyJA: IAiLanding = {
         {
             icon: "bx bx-globe",
             caption: "言語:",
-            text: "複数言語",
+            text: "タイ語、英語、中国語",
         }
     ],
     line: {
