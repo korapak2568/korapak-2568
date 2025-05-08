@@ -10,7 +10,7 @@ export const FooterNL: IFooter = {
     infoTitle: "Informatie",
     termOfService: {
         label: "Servicevoorwaarden",
-        link: "/terms-of-services"
+        link: "/terms-of-service"
     },
     privacyPolicy: {
         label: "Privacybeleid",
@@ -47,7 +47,7 @@ export const FooterNL: IFooter = {
         },
         {
             label: "Back-End Ontwikkeling",
-            link: "/terms-of-services"
+            link: "/terms-of-service"
         },
         {
             label: "Privacybeleid",

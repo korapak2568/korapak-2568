@@ -10,7 +10,7 @@ export const FooterVI: IFooter = {
     infoTitle: "Thông tin",
     termOfService: {
         label: "Điều khoản dịch vụ",
-        link: "/terms-of-services"
+        link: "/terms-of-service"
     },
     privacyPolicy: {
         label: "Chính sách bảo mật",
@@ -47,7 +47,7 @@ export const FooterVI: IFooter = {
         },
         {
             label: "Phát triển Back-End",
-            link: "/terms-of-services"
+            link: "/terms-of-service"
         },
         {
             label: "Chính sách bảo mật",

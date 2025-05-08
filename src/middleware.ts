@@ -2,7 +2,7 @@
 
 import type {NextRequest} from 'next/server';
 import {NextResponse} from 'next/server';
-import {LocaleMain} from "@/lib/UrlMain";
+import {Locales} from "@/lib/UrlMains";
 import {setXAuthToken, unauthorized} from "@/utils/authorize";
 
 const defaultLocale = 'en';
@@ -52,7 +52,7 @@ export function middleware(req: NextRequest) {
     // Redirect root ("/") to the default locale ("/en")
     if (
         pathname === '/' ||
-        !LocaleMain.includes(locale)
+        !Locales.includes(locale)
     ) {
         const newPathName = `/${defaultLocale}${pathname === '/' ? '' : pathname}`;
         const url = new URL(newPathName, req.url);

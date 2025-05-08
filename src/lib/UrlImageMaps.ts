@@ -1,7 +1,7 @@
-import {ISitemapChorn} from "@/lib/model/ISitemapChorn";
+import {IUrlImageMap} from "@/lib/model/IUrlImageMap";
 import {ImageUrl} from "@/image/ImageUrl";
 
-export const SitemapMain: ISitemapChorn[] = [
+export const UrlImageMaps: IUrlImageMap[] = [
     {
         url: '',
         images: [

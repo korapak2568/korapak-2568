@@ -10,7 +10,7 @@ export const FooterDA: IFooter = {
     infoTitle: "FooterInformation",
     termOfService: {
         label: "Servicevilkår",
-        link: "/terms-of-services"
+        link: "/terms-of-service"
     },
     privacyPolicy: {
         label: "Privatlivspolitik",
@@ -47,7 +47,7 @@ export const FooterDA: IFooter = {
         },
         {
             label: "Servicevilkår",
-            link: "/terms-of-services"
+            link: "/terms-of-service"
         },
         {
             label: "Privatlivspolitik",

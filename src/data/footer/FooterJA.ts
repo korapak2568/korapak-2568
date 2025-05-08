@@ -10,7 +10,7 @@ export const FooterJA: IFooter = {
     infoTitle: "情報",
     termOfService: {
         label: "利用規約",
-        link: "/terms-of-services"
+        link: "/terms-of-service"
     },
     privacyPolicy: {
         label: "プライバシーポリシー",
@@ -47,7 +47,7 @@ export const FooterJA: IFooter = {
         },
         {
             label: "利用規約",
-            link: "/terms-of-services"
+            link: "/terms-of-service"
         },
         {
             label: "プライバシーポリシー",

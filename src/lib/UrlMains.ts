@@ -1,6 +1,6 @@
-export const LocaleMain = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da', 'fi', 'ko']
+export const Locales = ['en', 'th', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da', 'fi', 'ko']
 
-export const UrlMain = [
+export const UrlMains = [
     '',
     '/404',
     '/about-chorn',
@@ -41,6 +41,6 @@ export const UrlMain = [
     '/technical-expertise/mobile-development',
     '/technical-expertise/web3-blockchain-smart-contract-development',
     '/technical-expertise/web-development',
-    '/terms-of-services',
+    '/terms-of-service',
     '/workplace-policy',
 ]

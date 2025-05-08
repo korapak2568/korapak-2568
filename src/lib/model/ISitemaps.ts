@@ -1,5 +1,5 @@
-import {ISitemapChorn} from "@/lib/model/ISitemapChorn";
+import {IUrlImageMap} from "@/lib/model/IUrlImageMap";
 
 export interface ISitemaps {
-    sitemapChorn: ISitemapChorn[]
+    sitemapChorn: IUrlImageMap[]
 }
