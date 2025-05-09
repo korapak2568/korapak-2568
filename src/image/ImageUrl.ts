@@ -309,7 +309,7 @@ export const ImageUrl: IImageUrl = {
                 image750: CDN_IMAGE + "/technical-expertise/blockchain/web3-1-image-750.webp",
                 image1200: CDN_IMAGE + "/technical-expertise/blockchain/web3-1-image-1200.webp",
                 large: CDN_IMAGE + "/technical-expertise/blockchain/web3-1-large.webp",
-            thumbnail: ""
+                thumbnail: ""
             },
             {
                 title: "CHORN's image of frontend side 2.",

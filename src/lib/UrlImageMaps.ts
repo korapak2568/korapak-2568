@@ -14,11 +14,11 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/404',
+        url: '/404/',
         images: []
     },
     {
-        url: '/about-chorn',
+        url: '/about-chorn/',
         images: [
             {
                 path: ImageUrl.about.image750
@@ -26,7 +26,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/ai-companions',
+        url: '/ai-companions/',
         images: [
             {
                 path: ImageUrl.ai.fah.image750
@@ -34,7 +34,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/ai-companions/aom',
+        url: '/ai-companions/aom/',
         images: [
             {
                 path: ImageUrl.ai.aom.image750
@@ -42,7 +42,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/ai-companions/fah',
+        url: '/ai-companions/fah/',
         images: [
             {
                 path: ImageUrl.ai.fah.image750
@@ -50,7 +50,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/ai-companions/ploy',
+        url: '/ai-companions/ploy/',
         images: [
             {
                 path: ImageUrl.ai.ploy.image750
@@ -58,7 +58,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/gallery',
+        url: '/gallery/',
         images: [
             {path: ImageUrl.gallery.main.image1200},
             {path: ImageUrl.gallery.slides[0].image1200},
@@ -70,7 +70,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
 
     //technical-expertise/ai-solutions
     {
-        url: '/technical-expertise/ai-solutions',
+        url: '/technical-expertise/ai-solutions/',
         images: [
             {path: ImageUrl.banner.banner1.path},
             {path: ImageUrl.ai.fah.image750},
@@ -79,7 +79,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
 
     // cloud-devops
     {
-        url: '/technical-expertise/cloud-devops',
+        url: '/technical-expertise/cloud-devops/',
         images: [
             {path: ImageUrl.devops.frameworks.docker.thumbnail},
             {path: ImageUrl.devops.frameworks.kube.thumbnail},
@@ -87,49 +87,49 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/technical-expertise/cloud-devops/appium',
+        url: '/technical-expertise/cloud-devops/appium/',
         images: [
             {path: ImageUrl.devops.frameworks.appium.image1200}
         ]
     },
     {
-        url: '/technical-expertise/cloud-devops/docker',
+        url: '/technical-expertise/cloud-devops/docker/',
         images: [
             {path: ImageUrl.devops.frameworks.docker.image1200}
         ]
     },
     {
-        url: '/technical-expertise/cloud-devops/github',
+        url: '/technical-expertise/cloud-devops/github/',
         images: [
             {path: ImageUrl.devops.frameworks.github.image1200}
         ]
     },
     {
-        url: '/technical-expertise/cloud-devops/gitlab',
+        url: '/technical-expertise/cloud-devops/gitlab/',
         images: [
             {path: ImageUrl.devops.frameworks.gitlab.image1200}
         ]
     },
     {
-        url: '/technical-expertise/cloud-devops/jenkins',
+        url: '/technical-expertise/cloud-devops/jenkins/',
         images: [
             {path: ImageUrl.devops.frameworks.jenkins.image1200}
         ]
     },
     {
-        url: '/technical-expertise/cloud-devops/kubernetes',
+        url: '/technical-expertise/cloud-devops/kubernetes/',
         images: [
             {path: ImageUrl.devops.frameworks.kube.image1200}
         ]
     },
     {
-        url: '/technical-expertise/cloud-devops/postman',
+        url: '/technical-expertise/cloud-devops/postman/',
         images: [
             {path: ImageUrl.devops.frameworks.postman.image1200}
         ]
     },
     {
-        url: '/technical-expertise/cloud-devops/soapui',
+        url: '/technical-expertise/cloud-devops/soapui/',
         images: [
             {path: ImageUrl.devops.frameworks.soapui.image1200}
         ]
@@ -137,13 +137,13 @@ export const UrlImageMaps: IUrlImageMap[] = [
 
     // cloud-infrastructure-systems-architecture
     {
-        url: '/technical-expertise/cloud-infrastructure-systems-architecture',
+        url: '/technical-expertise/cloud-infrastructure-systems-architecture/',
         images: [{path: ''}]
     },
 
     // front-end-developer
     {
-        url: '/technical-expertise/front-end-developer',
+        url: '/technical-expertise/front-end-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.nextjs.thumbnail},
             {path: ImageUrl.frontend.frameworks.react.thumbnail},
@@ -154,49 +154,49 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/technical-expertise/front-end-developer/angular-developer',
+        url: '/technical-expertise/front-end-developer/angular-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.angular.image1200}
         ]
     },
     {
-        url: '/technical-expertise/front-end-developer/css3-developer',
+        url: '/technical-expertise/front-end-developer/css3-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.css3.image1200}
         ]
     },
     {
-        url: '/technical-expertise/front-end-developer/html5-developer',
+        url: '/technical-expertise/front-end-developer/html5-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.html5.image1200}
         ]
     },
     {
-        url: '/technical-expertise/front-end-developer/javascript-developer',
+        url: '/technical-expertise/front-end-developer/javascript-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.javascript.image1200}
         ]
     },
     {
-        url: '/technical-expertise/front-end-developer/nextjs-developer',
+        url: '/technical-expertise/front-end-developer/nextjs-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.nextjs.image1200}
         ]
     },
     {
-        url: '/technical-expertise/front-end-developer/react-developer',
+        url: '/technical-expertise/front-end-developer/react-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.react.image1200}
         ]
     },
     {
-        url: '/technical-expertise/front-end-developer/typescript-developer',
+        url: '/technical-expertise/front-end-developer/typescript-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.typescript.image1200}
         ]
     },
     {
-        url: '/technical-expertise/front-end-developer/vue-developer',
+        url: '/technical-expertise/front-end-developer/vue-developer/',
         images: [
             {path: ImageUrl.frontend.frameworks.vue.image1200}
         ]
@@ -204,7 +204,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
 
     // full-stack-developer
     {
-        url: '/technical-expertise/full-stack-developer',
+        url: '/technical-expertise/full-stack-developer/',
         images: [
             {path: ImageUrl.backend.frameworks.nodejs.thumbnail},
             {path: ImageUrl.backend.frameworks.go.thumbnail},
@@ -215,37 +215,37 @@ export const UrlImageMaps: IUrlImageMap[] = [
         ]
     },
     {
-        url: '/technical-expertise/full-stack-developer/dotnetcore-developer',
+        url: '/technical-expertise/full-stack-developer/dotnetcore-developer/',
         images: [
             {path: ImageUrl.backend.frameworks.dotnetcore.image1200}
         ]
     },
     {
-        url: '/technical-expertise/full-stack-developer/go-developer',
+        url: '/technical-expertise/full-stack-developer/go-developer/',
         images: [
             {path: ImageUrl.backend.frameworks.go.image1200}
         ]
     },
     {
-        url: '/technical-expertise/full-stack-developer/java-spring-boot-developer',
+        url: '/technical-expertise/full-stack-developer/java-spring-boot-developer/',
         images: [
             {path: ImageUrl.backend.frameworks.java.image1200}
         ]
     },
     {
-        url: '/technical-expertise/full-stack-developer/nodejs-developer',
+        url: '/technical-expertise/full-stack-developer/nodejs-developer/',
         images: [
             {path: ImageUrl.backend.frameworks.nodejs.image1200}
         ]
     },
     {
-        url: '/technical-expertise/full-stack-developer/php-developer',
+        url: '/technical-expertise/full-stack-developer/php-developer/',
         images: [
             {path: ImageUrl.backend.frameworks.php.image1200}
         ]
     },
     {
-        url: '/technical-expertise/full-stack-developer/python-developer',
+        url: '/technical-expertise/full-stack-developer/python-developer/',
         images: [
             {path: ImageUrl.backend.frameworks.python.image1200}
         ]
@@ -253,19 +253,19 @@ export const UrlImageMaps: IUrlImageMap[] = [
 
     //technical-expertise/mobile-development
     {
-        url: '/technical-expertise/mobile-development',
+        url: '/technical-expertise/mobile-development/',
         images: [{path: ''}]
     },
 
     //technical-expertise/web3-blockchain-smart-contract-development
     {
-        url: '/technical-expertise/web3-blockchain-smart-contract-development',
+        url: '/technical-expertise/web3-blockchain-smart-contract-development/',
         images: [{path: ''}]
     },
 
     //technical-expertise/web-development
     {
-        url: '/technical-expertise/web-development',
+        url: '/technical-expertise/web-development/',
         images: [
             {path: ImageUrl.frontend.frameworks.angular.thumbnail},
             {path: ImageUrl.frontend.frameworks.vue.thumbnail},
@@ -283,19 +283,19 @@ export const UrlImageMaps: IUrlImageMap[] = [
 
     //term-of-services
     {
-        url: '/terms-of-service',
+        url: '/terms-of-service/',
         images: []
     },
 
     //privacy-policy
     {
-        url: '/privacy-policy',
+        url: '/privacy-policy/',
         images: []
     },
 
     //workplace-policy
     {
-        url: '/workplace-policy',
+        url: '/workplace-policy/',
         images: []
     }
 ]
