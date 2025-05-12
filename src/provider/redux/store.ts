@@ -1,23 +1,23 @@
 // src/redux/redux.ts
 import {configureStore} from '@reduxjs/toolkit';
-import counterReducer from '@/provider/redux/CounterSlice';
-import appReducer from '@/provider/redux/AppSlice';
-import {createAppStateInitial} from "@/provider/redux/initial/InitialAppState";
+import sliceCounter from '@/provider/redux/slice/SliceCounter';
+import sliceApp from '@/provider/redux/slice/SliceApp';
+import {dynamicStateApp} from "@/provider/redux/state/StateApp";
 
 const store = configureStore({
     reducer: {
-        counter: counterReducer,
-        app: appReducer
+        counter: sliceCounter,
+        app: sliceApp
     },
 });
 
-export const createStoreWithLang = (lang: string) => configureStore({
+export const dynamicStore = (lang: string) => configureStore({
     reducer: {
-        app: appReducer,
-        counter: counterReducer,
+        app: sliceApp,
+        counter: sliceCounter,
     },
     preloadedState: {
-        app: createAppStateInitial(lang),
+        app: dynamicStateApp(lang),
     },
 });
 

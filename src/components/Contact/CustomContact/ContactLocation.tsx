@@ -1,7 +1,7 @@
 "use client"
 
 import React from "react";
-import {useLanguage} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/hookStateApp";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export function ContactLocation() {

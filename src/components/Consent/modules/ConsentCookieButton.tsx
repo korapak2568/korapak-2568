@@ -2,7 +2,7 @@
 
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {useDispatch} from "react-redux";
-import {setCookieConsent} from "@/provider/redux/AppSlice";
+import {setCookieConsent} from "@/provider/redux/slice/SliceApp";
 
 export default function ConsentCookieButton(
     {lang}: { lang: string }) {

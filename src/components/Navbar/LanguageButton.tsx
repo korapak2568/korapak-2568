@@ -1,11 +1,11 @@
 "use client"
 
-import {setLanguageOption, toggleLanguageMenuVisible} from "@/provider/redux/AppSlice";
+import {setLanguageOption, toggleLanguageMenuVisible} from "@/provider/redux/slice/SliceApp";
 import {Globe} from "lucide-react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import React from "react";
 import {useDispatch} from "react-redux";
-import {useLanguageMenuVisible, useLanguageOption, useMobileMenuVisible} from "@/provider/hooks/AppStateHook";
+import {useLanguageMenuVisible, useLanguageOption, useMobileMenuVisible} from "@/provider/hooks/hookStateApp";
 import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
 import {useRouter} from "next/navigation";
 

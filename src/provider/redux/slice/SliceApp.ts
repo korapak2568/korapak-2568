@@ -1,11 +1,11 @@
-// src/redux/AppSlice.ts
+// src/redux/SliceApp.ts
 import {createSlice} from '@reduxjs/toolkit';
-import {fallbackAppState} from "@/provider/redux/initial/InitialAppState";
+import {fallbackStateApp} from "@/provider/redux/state/StateApp";
 import {LanguageOptionRecord} from "@/data/translate/LanguageOptionRecord";
 
-export const appSlice = createSlice({
+export const sliceApp = createSlice({
     name: 'app',
-    initialState: fallbackAppState, // this will be overridden if preloadedState is passed
+    initialState: fallbackStateApp, // this will be overridden if preloadedState is passed
     reducers: {
         setLanguageOption: (state, action: { payload: { language: string } }) => {
             state.languageOption = LanguageOptionRecord[action.payload.language]
@@ -34,6 +34,6 @@ export const {
     toggleMobileMenuVisible,
     toggleLanguageMenuVisible,
     setCookieConsent,
-} = appSlice.actions;
+} = sliceApp.actions;
 
-export default appSlice.reducer;
+export default sliceApp.reducer;

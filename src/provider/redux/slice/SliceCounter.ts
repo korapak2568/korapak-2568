@@ -1,17 +1,10 @@
-// src/features/CounterSlice.ts
+// src/features/SliceCounter.ts
 import {createSlice} from '@reduxjs/toolkit';
+import {fallbackStateCounter} from "@/provider/redux/state/StateCounter";
 
-export interface CounterState {
-    value: number;
-}
-
-const initialState: CounterState = {
-    value: 0,
-};
-
-export const counterSlice = createSlice({
+export const sliceCounter = createSlice({
     name: 'counter',
-    initialState,
+    initialState: fallbackStateCounter,
     reducers: {
         increment: (state) => {
             state.value += 1;
@@ -29,6 +22,6 @@ export const {
     increment,
     decrement,
     incrementByAmount
-} = counterSlice.actions;
+} = sliceCounter.actions;
 
-export default counterSlice.reducer;
+export default sliceCounter.reducer;

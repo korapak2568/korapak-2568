@@ -4,7 +4,7 @@ import React from "react";
 import {INavbar} from "@/data/navbar/model/INavbar";
 import {useDispatch} from "react-redux";
 import {IsActiveNavbar1} from "@/lib/utils";
-import {toggleMobileMenuVisible} from "@/provider/redux/AppSlice";
+import {toggleMobileMenuVisible} from "@/provider/redux/slice/SliceApp";
 import Link from "next/link";
 
 export default function MenuLevel1Container(

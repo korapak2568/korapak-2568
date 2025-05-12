@@ -6,7 +6,7 @@ import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {ImageUrl} from "@/image/ImageUrl";
 import ConsentCookieButton from "@/components/Consent/modules/ConsentCookieButton";
-import {useCookieConsent} from "@/provider/hooks/AppStateHook";
+import {useCookieConsent} from "@/provider/hooks/hookStateApp";
 
 export default function CookieConsentDisplay({lang}: { lang: string }) {
     const isCookieConsent = useCookieConsent()

@@ -2,7 +2,7 @@
 
 import React from "react";
 import {INavbar} from "@/data/navbar/model/INavbar";
-import {toggleMobileMenuVisible} from "@/provider/redux/AppSlice";
+import {toggleMobileMenuVisible} from "@/provider/redux/slice/SliceApp";
 import Link from "next/link";
 import {useDispatch} from "react-redux";
 import {IsActiveNavbar1, IsActiveNavbar3, IsActiveNavbar2} from "@/lib/utils";

@@ -23,7 +23,7 @@ import "@/styles/x-icon.scss";
 import {DM_Sans} from "next/font/google";
 import GoTop from "@/components/Layouts/GoTop";
 import React from "react";
-import ProviderWrapper from "../../provider/ProviderWrapper";
+import MainProvider from "../../provider/MainProvider";
 import {headers} from "next/headers";
 import SubscribeForm from "@/components/Common/SubscribeForm";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";
@@ -42,7 +42,7 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
         <html lang={lang}>
         <body className={`${dm_sans.className} main}`}>
         <div className="main-container">
-            <ProviderWrapper language={lang}>
+            <MainProvider language={lang}>
                 <CookieConsentChecking lang={lang} isCookieConsent={isCookieConsent}/>
                 <NavbarContainer lang={lang}/>
                 {children}
@@ -51,7 +51,7 @@ export default function RootLayout({children,}: Readonly<{ children: React.React
                     <WeWorkForIndustries lang={lang}/>
                     <FooterMain lang={lang}/>
                 </div>
-            </ProviderWrapper>
+            </MainProvider>
             <AosAnimation/>
             <GoTop/>
             <SpeedInsights/>

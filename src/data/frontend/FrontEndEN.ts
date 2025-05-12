@@ -53,7 +53,7 @@ export const FrontEndEN: IFrontEnd = {
             },
             {
                 title: "Minimum Viable Product (MVP) Creation",
-                description: "Feature-complete, scalable initial versions that attract early users, generate valuable feedback, and appeal to potential investors while establishing market presence."
+                description: "Feature-complete, scalable state versions that attract early users, generate valuable feedback, and appeal to potential investors while establishing market presence."
             },
             {
                 title: "UI/UX Design",

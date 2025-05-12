@@ -3,7 +3,7 @@
 import Link from "next/link";
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {useLanguage} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/hookStateApp";
 
 export default function Left() {
     const language = useLanguage()

@@ -4,7 +4,7 @@
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { RootState } from '@/provider/redux/store';
-import { increment, decrement, incrementByAmount } from '@/provider/redux/CounterSlice';
+import { increment, decrement, incrementByAmount } from '@/provider/redux/slice/SliceCounter';
 
 export default function Counter(){
     const count = useSelector((state: RootState) => state.counter.value);

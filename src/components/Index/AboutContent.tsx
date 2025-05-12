@@ -3,7 +3,7 @@
 import React, {useState} from "react";
 import Link from "next/link";
 import {IAboutContent} from "@/data/about/model/IAboutContent";
-import {useLanguage} from "@/provider/hooks/AppStateHook";
+import {useLanguage} from "@/provider/hooks/hookStateApp";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const AboutContent: React.FC = () => {

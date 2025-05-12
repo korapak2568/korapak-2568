@@ -1,6 +1,6 @@
 import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
 
-export interface IAppState {
+export interface IStateApp {
     languageOption: ILanguageOption;
     language: string
     mobileMenuVisible: boolean

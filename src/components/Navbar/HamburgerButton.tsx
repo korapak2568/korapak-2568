@@ -1,9 +1,9 @@
 "use client"
 
-import {toggleMobileMenuVisible} from "@/provider/redux/AppSlice";
+import {toggleMobileMenuVisible} from "@/provider/redux/slice/SliceApp";
 import React from "react";
 import {useDispatch} from "react-redux";
-import {useMobileMenuVisible} from "@/provider/hooks/AppStateHook";
+import {useMobileMenuVisible} from "@/provider/hooks/hookStateApp";
 
 export default function HamburgerButton() {
     const dispatch = useDispatch();

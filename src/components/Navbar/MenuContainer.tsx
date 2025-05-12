@@ -4,7 +4,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {INavbar} from "@/data/navbar/model/INavbar";
 import MenuLevelContainer from "@/components/Navbar/MenuLevelContainer/MenuLevelContainer";
 import React from "react";
-import {useMobileMenuVisible} from "@/provider/hooks/AppStateHook";
+import {useMobileMenuVisible} from "@/provider/hooks/hookStateApp";
 import {usePathname} from "next/navigation";
 
 export default function MenuContainer({lang}: { lang: string }) {
