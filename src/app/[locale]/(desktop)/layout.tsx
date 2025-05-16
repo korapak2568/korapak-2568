@@ -23,7 +23,7 @@ import "@/styles/x-icon.scss";
 import {DM_Sans} from "next/font/google";
 import GoTop from "@/components/Layouts/GoTop";
 import React from "react";
-import MainProvider from "../../provider/MainProvider";
+import MainProvider from "../../../provider/MainProvider";
 import {headers} from "next/headers";
 import SubscribeForm from "@/components/Common/SubscribeForm";
 import WeWorkForIndustries from "@/components/Common/WeWorkForIndustries";

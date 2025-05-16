@@ -1,10 +1,10 @@
 // src/app/[locale]/AiBannerFahMain.tsx
 
-import HomeFeatureMain from "../../components/Features/HomeFeatureMain";
+import HomeFeatureMain from "../../../components/Features/HomeFeatureMain";
 import AboutContent from "@/components/About/AboutContent";
 import HomeFrontEndContainer from "@/components/Common/HomeFrontEnd/HomeFrontEndContainer";
-import HomeBackEndContainer from "../../components/Common/HomeBackEnd/HomeBackEndContainer";
-import CloudExperience from "../../components/Common/CloudExperience";
+import HomeBackEndContainer from "../../../components/Common/HomeBackEnd/HomeBackEndContainer";
+import CloudExperience from "../../../components/Common/CloudExperience";
 import React from "react";
 import {SchemaMarkupHomePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupHomePage";
 import type {Metadata} from "next";
