@@ -13,12 +13,14 @@ import {MetadataHome} from "@/metadata/main/MetadataHome";
 import {headers} from "next/headers";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const lang = headers().get('x-locale') || 'en';
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
     return MetadataHome[lang]
 }
 
-export default function Home() {
-    const lang = headers().get('x-locale') || 'en';
+export default async function Home() {
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
     const localBusinessSchema = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",

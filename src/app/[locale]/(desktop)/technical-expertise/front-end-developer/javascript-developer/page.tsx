@@ -8,12 +8,14 @@ import {headers} from "next/headers";
 import {MetadataJavaScript} from "@/metadata/main/frontend/MetadataJavaScript";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const lang = headers().get('x-locale') || 'en';
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
     return MetadataJavaScript[lang]
 }
 
-export default function Page() {
-    const lang = headers().get('x-locale') || 'en';
+export default async function Page() {
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
 
     return (
         <>

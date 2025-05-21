@@ -2,8 +2,9 @@ import React from "react";
 import PageBanner from "@/components/Common/PageBanner";
 import {headers} from "next/headers";
 
-export default function Page() {
-    const lang = headers().get('x-locale') || 'en';
+export default async function Page() {
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
 
     return (
         <>

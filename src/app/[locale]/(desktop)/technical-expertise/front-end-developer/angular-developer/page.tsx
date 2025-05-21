@@ -7,12 +7,14 @@ import {headers} from "next/headers";
 import {MetadataAngular} from "@/metadata/main/frontend/MetadataAngular";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const lang = headers().get('x-locale') || 'en';
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
     return MetadataAngular[lang]
 }
 
-export default function Page() {
-    const lang = headers().get('x-locale') || 'en';
+export default async function Page() {
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
 
     return (
         <>

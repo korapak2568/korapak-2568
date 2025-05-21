@@ -6,12 +6,14 @@ import {headers} from "next/headers";
 import {MetadataTermOfService} from "@/metadata/main/MetadataTermOfService";
 
 export async function generateMetadata(): Promise<Metadata> {
-    const lang = headers().get('x-locale') || 'en';
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
     return MetadataTermOfService[lang]
 }
 
-export default function TermsOfService() {
-    const lang = headers().get('x-locale') || 'en';
+export default async function TermsOfService() {
+    const headers15 = await headers();
+    const lang = headers15.get('x-locale') || 'en';
 
     return (
         <>

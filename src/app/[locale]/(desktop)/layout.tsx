@@ -34,13 +34,14 @@ import AosAnimation from "@/components/Layouts/AosAnimation";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
 
-export default function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
-    const lang: string = headers().get('x-locale') || 'en';
-    const isCookieConsent: boolean = headers().get('x-cookie-consent') != 'false';
+export default async function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
+    const headers15 = await headers();
+    const lang: string = headers15.get('x-locale') || 'en';
+    const isCookieConsent: boolean = headers15.get('x-cookie-consent') != 'false';
 
     return (
         <html lang={lang}>
-        <body className={`${dm_sans.className} main}`}>
+        <body className={`${dm_sans.className}}`}>
         <div className="main-container">
             <AppProvider language={lang}>
                 <CookieConsentChecking lang={lang} isCookieConsent={isCookieConsent}/>
