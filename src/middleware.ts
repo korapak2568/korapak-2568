@@ -3,7 +3,6 @@
 import type {NextRequest} from 'next/server';
 import {NextResponse} from 'next/server';
 import {Locales} from "@/lib/UrlMains";
-import {setXAuthToken, unauthorized} from "@/utils/authorize";
 
 const defaultLocale = 'en';
 
@@ -22,27 +21,10 @@ export function middleware(req: NextRequest) {
         pathname.startsWith('/contracts') ||
         pathname.startsWith('/fonts') ||
         pathname.startsWith('/api/sitemap') ||
-        pathname.startsWith('/api/login') ||
-        pathname.startsWith('/api/line') ||
         pathname === '/favicon.ico' ||
         pathname === '/robots.txt'
     ) {
         return NextResponse.next();
-    }
-
-    // API protected
-    if (pathname.startsWith('/api/')) {
-        const token = setXAuthToken(req)
-        if (!token.isToken) return unauthorized()
-
-        const newRequestHeaders = new Headers(req.headers);
-        newRequestHeaders.set(token.name, token.value!);
-
-        return NextResponse.next({
-            request: {
-                headers: newRequestHeaders,
-            }
-        })
     }
 
     // Extract the locale from the pathname
