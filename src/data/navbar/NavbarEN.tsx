@@ -115,6 +115,14 @@ export const NavbarEN: INavbar[] = [
         submenu: [],
     },
     {
+        group: "/service-packages/",
+        label: "Service Packages",
+        level: 1,
+        link: "/service-packages/",
+        isSubmenu: false,
+        submenu: [],
+    },
+    {
         group: "/about-chorn/",
         label: "About",
         level: 1,

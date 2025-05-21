@@ -5,9 +5,8 @@ import {Provider as ReduxProvider} from "react-redux";
 import {ReactNode} from "react";
 import {dynamicStore} from "@/provider/redux/store";
 
-const MainProvider = (
-    {children, language}:
-    { children: ReactNode, language: string }
+const AppProvider = (
+    {children, language}: { children: ReactNode, language: string }
 ) => {
 
     const store = dynamicStore(language);
@@ -19,4 +18,4 @@ const MainProvider = (
     )
 }
 
-export default MainProvider;
+export default AppProvider;
