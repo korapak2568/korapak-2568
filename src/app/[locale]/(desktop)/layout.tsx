@@ -1,8 +1,10 @@
-// src/app/[locale]/layout.tsx
+// src/app/[locale]/(desktop)/layout.tsx
 
-import "@/styles/globals.scss"
+// Tailwind first (important for avoiding overrides)
+// import "@/styles/tailwind.scss";
 
 // Fundamental css
+import "@/styles/globals.scss"
 import "@/styles/bootstrap.min.css";
 import "@/styles/animate.css";
 import "@/styles/boxicons.min.css";
@@ -31,8 +33,13 @@ import FooterMain from "@/components/Footer/FooterMain";
 import NavbarContainer from "@/components/Navbar/NavbarContainer";
 import CookieConsentChecking from "@/components/Consent/CookieConsentChecking";
 import AosAnimation from "@/components/Layouts/AosAnimation";
+import {Metadata} from "next";
 
 const dm_sans = DM_Sans({subsets: ["latin"]});
+
+export const metadata: Metadata = {
+    metadataBase: new URL("https://chorn.in.th"),
+}
 
 export default async function RootLayout({children,}: Readonly<{ children: React.ReactNode; }>) {
     const headers15 = await headers();
