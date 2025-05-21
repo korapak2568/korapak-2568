@@ -10,7 +10,6 @@ export function middleware(req: NextRequest) {
     const {pathname} = req.nextUrl;
     const cookie_consent: string = req.cookies.get("cookie_consent")?.value || 'false';
 
-
     // Skip internal-images requests
     if (
         pathname.startsWith('/_next') ||
@@ -21,6 +20,7 @@ export function middleware(req: NextRequest) {
         pathname.startsWith('/contracts') ||
         pathname.startsWith('/fonts') ||
         pathname.startsWith('/api/sitemap') ||
+        pathname.startsWith('/api/openai') ||
         pathname === '/favicon.ico' ||
         pathname === '/robots.txt'
     ) {
