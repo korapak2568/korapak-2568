@@ -1,7 +1,7 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutKO: IAbout = {
-    title: "CHORN 소개",
+    title: "소개",
     span: "종합적인 시스템 분석 및 소프트웨어 개발",
     subTitle: "비즈니스 성공을 위한 기술 혁신",
     description: [

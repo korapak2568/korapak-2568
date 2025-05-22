@@ -10,7 +10,7 @@ import MenuLabelHorizontalLine from "@/components/Navbar/MenuItem/MenuLabelHoriz
 import Image from "next/image";
 import clsx from "clsx";
 
-export default function MenuLevel2Container(
+export default function MenuLevel2(
     {lang, pathname, navbar1}:
     { lang: string, pathname: string, navbar1: INavbar }) {
     const dispatch = useDispatch();
@@ -46,10 +46,17 @@ export default function MenuLevel2Container(
                     // Navbar2 without a submenu
                     if (!navbar2.isSubmenu) {
                         const isActiveNavbar2 = IsActiveNavbar2(pathname, lang, navbar2)
+
+                        if (isActiveNavbar2) {
+                            console.log(`isActiveNavbar2: ${pathname}`)
+                        }
+
                         return (
                             <div key={index} className="x-navbar2-only">
                                 <Link href={'/' + lang + navbar2.link}
-                                      className={`nav-link ${isActiveNavbar2 ? "active" : ""}`}
+                                      className={clsx("nav-link", {
+                                          "active": isActiveNavbar2
+                                      })}
                                       onClick={() => dispatch(toggleMobileMenuVisible())}
                                 >
                                     <div className="x-navbar-label-container">
@@ -67,7 +74,9 @@ export default function MenuLevel2Container(
                         <div key={index} className="x-navbar2-navbar3">
                             <Link
                                 href={'/' + lang + navbar2.link}
-                                className={`nav-link ${isActiveNavbar2fromNavbar3 ? "active" : ""}`}
+                                className={clsx("nav-link", {
+                                    "active": isActiveNavbar2fromNavbar3,
+                                })}
                                 onClick={() => dispatch(toggleMobileMenuVisible())}
                             >
                                 <div className="x-navbar-label-container">
@@ -77,21 +86,22 @@ export default function MenuLevel2Container(
                             </Link>
 
                             {/* Navbar3 Icon */}
-                            <div
-                                className={clsx(
-                                    "x-navbar3-only",
-                                    {
-                                        "x-is-frontend": navbar2.isFrontend,
-                                        "x-is-backend": navbar2.isBackend,
-                                        "x-is-devops": navbar2.isDevOps,
-                                    }
-                                )}>
+                            <div className={clsx(
+                                "x-navbar3-only",
+                                {
+                                    "x-is-frontend": navbar2.isFrontend,
+                                    "x-is-backend": navbar2.isBackend,
+                                    "x-is-devops": navbar2.isDevOps,
+                                }
+                            )}>
                                 {navbar2.submenu.map((navbar3: INavbar, index) => {
                                     const isActiveNavbar3 = IsActiveNavbar3(pathname, lang, navbar3)
                                     return (
                                         <div key={index} className={`x-navbar3-item-container`}>
                                             <Link
-                                                className={`x-navbar3-item ${isActiveNavbar3 ? "active" : ""}`}
+                                                className={clsx("x-navbar3-item", {
+                                                    "active": isActiveNavbar3,
+                                                })}
                                                 href={'/' + lang + navbar3.link}
                                                 onClick={() => dispatch(toggleMobileMenuVisible())}
                                             >

@@ -1,0 +1,50 @@
+// NavbarContainer languages
+.navbar-langs {
+  .language-button {
+    border: none;
+    min-width: 130px;
+    padding: 5px 16px 8px 16px;
+    background: linear-gradient(135deg, #f28c38, #fd9b5f);
+    color: white;
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+
+  .dropdown-langs {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(6px);
+    min-width: 130px;
+    padding: 5px 0;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  }
+
+  .dropdown-langs li,
+  .dropdown-langs a {
+    float: none;
+    color: white;
+    padding: 8px 20px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  .dropdown-langs li:hover,
+  .dropdown-langs a:hover {
+    cursor: pointer;
+    background: linear-gradient(135deg, #fd9b5f, #f28c38); // invert ends for interaction
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-1px);
+  }
+
+  .dropdown-active {
+    transform: scale(0.97);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+  }
+}

@@ -1,7 +1,7 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutFI: IAbout = {
-    title: "Tietoa CHORNista",
+    title: "Tietoja",
     span: "Kattava järjestelmäanalyysi ja ohjelmistokehitys",
     subTitle: "Teknologinen innovaatio liiketoiminnan menestykseen",
     description: [

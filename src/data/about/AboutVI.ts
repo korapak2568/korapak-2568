@@ -1,7 +1,7 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutVI: IAbout = {
-    title: "Về CHORN",
+    title: "Giới thiệu",
     span: "Phân tích hệ thống và phát triển phần mềm toàn diện",
     subTitle: "Đổi mới công nghệ cho sự thành công của doanh nghiệp",
     description: [

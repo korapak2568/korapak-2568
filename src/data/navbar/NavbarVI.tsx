@@ -114,6 +114,14 @@ export const NavbarVI: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
+    // {
+    //     group: "/service-packages/",
+    //     label: "Gói Dịch Vụ",
+    //     level: 1,
+    //     link: "/service-packages/",
+    //     isSubmenu: false,
+    //     submenu: [],
+    // },
     {
         group: "/about-chorn/",
         label: "Giới thiệu",

@@ -4,7 +4,7 @@ import Image from "next/image";
 import {ImageUrl} from "@/image/ImageUrl";
 import LanguageButton from "@/components/Navbar/LanguageButton";
 import HamburgerButton from "@/components/Navbar/HamburgerButton";
-import MenuContainer from "@/components/Navbar/MenuContainer";
+import DesktopNavbarContainer from "@/components/Navbar/DesktopNavbarContainer";
 
 export default function NavbarContainer({lang}: { lang: string }) {
     return (
@@ -14,8 +14,8 @@ export default function NavbarContainer({lang}: { lang: string }) {
                     <nav className="navbar navbar-expand-md navbar-light">
                         <Link href="/" className="navbar-brand add-navbar-logo">
                             <Image
-                                src={ImageUrl.logo.rec.sm.path}
-                                alt={ImageUrl.logo.rec.sm.title}
+                                src={ImageUrl.logo.whiteRec.sm.path}
+                                alt={ImageUrl.logo.whiteRec.sm.title}
                                 width={150}
                                 height={75}
                             />
@@ -23,7 +23,7 @@ export default function NavbarContainer({lang}: { lang: string }) {
 
                         <LanguageButton lang={lang}/>
                         <HamburgerButton/>
-                        <MenuContainer lang={lang}/>
+                        <DesktopNavbarContainer lang={lang}/>
                     </nav>
                 </div>
             </div>

@@ -1,34 +1,48 @@
+// navbar
+.navbar-container {
+  font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif;
+  background: linear-gradient(to right, #06c755, #0f91ff);
+  color: #ffffff;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+
+  @media (min-width: 1024px) {
+    padding-top: 30px;
+  }
+}
+
+// x-navbar1-only
+// x-navbar1-only / .x-navbar2-container
+// x-navbar1-only / .x-navbar2-container / horizontal-bar
+// x-navbar1-only / .x-navbar2-container / .x-navbar2-only
+// navbar1-only include dropdown
 .x-navbar1-only {
   background-color: #f2f2f2;
+  margin-right: 5px;
+  margin-left: 5px;
 
   @media (min-width: 1024px) {
     background-color: unset !important;
   }
 
   a {
-    padding: 5px 20px 5px 20px !important;
-    color: #202647;
+    padding: 10px 20px 10px 20px !important;
+    color: #ffffff;
     font-size: 16px;
   }
 
   a.active, a:hover {
-    background: linear-gradient(to right, #06c755, #0f91ff);
-    color: #ffffff !important;
+    background: white;
+    color: #333333 !important;
   }
 
   &:hover, &:focus {
-    background: linear-gradient(to right, #06c755, #0f91ff);
+    background: white;
+    color: #333333 !important;
 
     a {
-      color: #ffffff;
-    }
-
-    .x-navbar2-container {
-      display: block;
-
-      a {
-        color: #333333;
-      }
+      background: white;
+      color: #333333 !important;
     }
   }
 }
@@ -46,37 +60,78 @@
   }
 }
 
-// Navbar2 container contains x-navbar2-area and x-navbar3-only
+// x-navbar1-only / .x-navbar2-container
 .x-navbar2-container {
-  position: relative;
+  display: block;
+  position: absolute;
   z-index: 10;
   padding-top: 5px;
   background-color: #f2f2f2;
 
-  @media (min-width: 1024px) {
-    display: none;
-    position: absolute;
-    top: 52px;
+  a {
+    background: white;
+    color: #333333;
+  }
 
-    li a {
-      padding-left: 25px !important;
+  // navbar2 hover
+  a:hover, a:active {
+    color: white !important;
+    background: linear-gradient(to right, #06c755, #0f91ff) !important;
+  }
+}
+
+// x-navbar1-only / .x-navbar2-container / .x-navbar2-only
+.x-navbar2-only {
+  display: block;
+
+  a {
+    background: white;
+    color: #333333;
+  }
+
+  a:hover, a:active {
+    .x-navbar-label-container {
+      background: linear-gradient(to right, #06c755, #0f91ff) !important;
+      color: white !important;
     }
   }
 }
 
-// Navbar2 only
-.x-navbar2-only {
-}
+// Navbar2 container contains x-navbar2-area and x-navbar3-only
+//.x-navbar2-container {
+//  position: relative;
+//  z-index: 10;
+//  padding-top: 5px;
+//  background-color: #f2f2f2;
+//
+//  display: block;
+//
+//  a {
+//    background: white;
+//    color: #333333;
+//  }
+//
+//  // navbar2 hover
+//  a:hover, a:active {
+//    color: white !important;
+//    background: linear-gradient(to right, #06c755, #0f91ff) !important;
+//  }
+//
+//  @media (min-width: 1024px) {
+//    display: none;
+//    position: absolute;
+//    top: 52px;
+//
+//    li a {
+//      padding-left: 25px !important;
+//    }
+//  }
+//}
 
 // Navbar2 include Navbar3
 .x-navbar2-navbar3 {
 
   &:hover, &:focus {
-    background: linear-gradient(to right, #06c755, #0f91ff);
-
-    a {
-      color: #ffffff;
-    }
 
     .x-navbar3-only {
       display: none;
@@ -148,5 +203,5 @@
 }
 
 .x-is-devops {
-  top: 190px !important;
+  top: 250px !important;
 }

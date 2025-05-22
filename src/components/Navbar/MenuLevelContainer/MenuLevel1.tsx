@@ -7,7 +7,7 @@ import {IsActiveNavbar1} from "@/lib/utils";
 import {toggleMobileMenuVisible} from "@/provider/redux/slice/SliceApp";
 import Link from "next/link";
 
-export default function MenuLevel1Container(
+export default function MenuLevel1(
     {lang, pathname, navbar1}:
     { lang: string, pathname: string, navbar1: INavbar }) {
     const dispatch = useDispatch();

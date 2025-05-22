@@ -1,7 +1,7 @@
 import {IAbout} from "@/data/about/model/IAbout";
 
 export const AboutEN: IAbout = {
-    title: "About CHORN",
+    title: "About",
     span: "Comprehensive System Analysis and Software Development",
     subTitle: "Technology Innovation for Business Success",
     description: [

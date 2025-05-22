@@ -19,6 +19,8 @@ import "@/styles/style.scss";
 import "@/styles/responsive.scss";
 import "@/styles/addition.scss";
 import "@/styles/x-navbar.scss";
+import "@/styles/x-navbar-premium.scss";
+import "@/styles/x-navbar-language.scss";
 import "@/styles/x-color-style.scss";
 import "@/styles/x-icon.scss";
 

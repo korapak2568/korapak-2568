@@ -114,6 +114,14 @@ export const NavbarJA: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
+    // {
+    //     group: "/service-packages/",
+    //     label: "サービスパッケージ",
+    //     level: 1,
+    //     link: "/service-packages/",
+    //     isSubmenu: false,
+    //     submenu: [],
+    // },
     {
         group: "/about-chorn/",
         label: "会社概要",

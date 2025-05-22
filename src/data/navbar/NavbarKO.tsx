@@ -114,6 +114,14 @@ export const NavbarKO: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
+    // {
+    //     group: "/service-packages/",
+    //     label: "서비스 패키지",
+    //     level: 1,
+    //     link: "/service-packages/",
+    //     isSubmenu: false,
+    //     submenu: [],
+    // },
     {
         group: "/about-chorn/",
         label: "소개",
