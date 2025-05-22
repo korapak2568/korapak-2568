@@ -22,6 +22,7 @@ import {ConsentZH} from "@/data/consent/ConsentZH";
 import {TransformBusinessZH} from "@/data/transform-business/TransformBusinessZH";
 import {AiFahCoverZH} from "@/data/ai/fah-cover/AiFahCoverZH";
 import {AiCompanionZH} from "@/data/ai/companions/AiCompanionZH";
+import {ServicePackages} from "@/data/service-packages/ServicePackages";
 
 export const InfoZH: IInfo = {
     AiCompanions: AiCompanionZH,
@@ -52,5 +53,6 @@ export const InfoZH: IInfo = {
     CloudSolution: CloudSolutionZH,
     TransformBusiness: TransformBusinessZH,
 
-    AiFahCover: AiFahCoverZH
+    AiFahCover: AiFahCoverZH,
+    ServicePackages
 }

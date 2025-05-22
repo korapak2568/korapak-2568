@@ -22,6 +22,7 @@ import {ConsentEN} from "@/data/consent/ConsentEN";
 import {TransformBusinessEN} from "@/data/transform-business/TransformBusinessEN";
 import {AiFahCoverEN} from "@/data/ai/fah-cover/AiFahCoverEN";
 import {AiCompanionEN} from "@/data/ai/companions/AiCompanionEN";
+import {ServicePackages} from "@/data/service-packages/ServicePackages";
 
 export const InfoEN: IInfo = {
     AiCompanions: AiCompanionEN,
@@ -53,5 +54,6 @@ export const InfoEN: IInfo = {
     CloudSolution: CloudSolutionEN,
     TransformBusiness: TransformBusinessEN,
 
-    AiFahCover: AiFahCoverEN
+    AiFahCover: AiFahCoverEN,
+    ServicePackages
 }

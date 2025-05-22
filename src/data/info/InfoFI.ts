@@ -22,6 +22,7 @@ import {CloudSolutionFI} from "@/data/cloud-solutions/CloudSolutionFI";
 import {TransformBusinessFI} from "@/data/transform-business/TransformBusinessFI";
 import {AiFahCoverFI} from "@/data/ai/fah-cover/AiFahCoverFI";
 import {ConsentFI} from "@/data/consent/ConsentFI";
+import {ServicePackages} from "@/data/service-packages/ServicePackages";
 
 export const InfoFI: IInfo = {
     AiCompanions: AiCompanionFI,
@@ -53,5 +54,6 @@ export const InfoFI: IInfo = {
     CloudSolution: CloudSolutionFI,
     TransformBusiness: TransformBusinessFI,
 
-    AiFahCover: AiFahCoverFI
+    AiFahCover: AiFahCoverFI,
+    ServicePackages
 }

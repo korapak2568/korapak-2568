@@ -114,14 +114,14 @@ export const NavbarTH: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
-    // {
-    //     group: "/service-packages/",
-    //     label: "แพ็กเกจบริการ",
-    //     level: 1,
-    //     link: "/service-packages/",
-    //     isSubmenu: false,
-    //     submenu: [],
-    // },
+    {
+        group: "/service-packages/",
+        label: "แพ็กเกจบริการ",
+        level: 1,
+        link: "/service-packages/",
+        isSubmenu: false,
+        submenu: [],
+    },
     {
         group: "/about-chorn/",
         label: "เกี่ยวกับ",

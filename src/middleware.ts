@@ -54,6 +54,6 @@ export const config = {
     matcher: [
         '/',
         '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*',
-        '/api/:path*',
+        '/api/:path*'
     ],
 };

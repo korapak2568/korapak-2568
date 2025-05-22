@@ -1,19 +1,20 @@
 import React from "react";
-import AboutLeft from "@/components/About/AboutLeft";
-import AboutRight from "@/components/About/AboutRight";
 import {DefaultShape} from "@/components/Shape/DefaultShape";
-import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import ServicePlatinumPackages from "@/components/ServicePackages/ServicePlatinumPackages";
+import ServiceGoldPackages from "@/components/ServicePackages/ServiceGoldPackages";
+import ServicePremiumPackages from "@/components/ServicePackages/ServicePremiumPackages";
+import "@/styles/service-package.scss"
 
-export default function ServicePackages({lang}: { lang: string }) {
+export default async function ServicePackages({lang}: { lang: string }) {
+
     return (
         <>
             <div className="about-area pb-70">
                 <div className="container">
-                    <div className="row">
-                        <h1>{InfoTranslation[lang].About.title}</h1>
-                        {/*<AboutLeft/>*/}
-                        {/*<AboutRight lang={lang}/>*/}
-                    </div>
+                    <h1>Service Packages</h1>
+                    <ServicePlatinumPackages lang={lang}/>
+                    <ServiceGoldPackages lang={lang}/>
+                    <ServicePremiumPackages lang={lang}/>
                 </div>
             </div>
 

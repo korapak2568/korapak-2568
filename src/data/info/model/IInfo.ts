@@ -19,6 +19,7 @@ import {ICloudSolution} from "@/data/cloud-solutions/model/ICloudSolution";
 import {ITransformBusiness} from "@/data/transform-business/model/ITransformBusiness";
 import {IAiFahCover} from "@/data/ai/fah-cover/model/IAiFahCover";
 import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
+import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export interface IInfo {
 
@@ -51,5 +52,6 @@ export interface IInfo {
     CloudSolution: ICloudSolution,
     TransformBusiness: ITransformBusiness,
 
-    AiFahCover: IAiFahCover
+    AiFahCover: IAiFahCover,
+    ServicePackages: IServicePackages
 }

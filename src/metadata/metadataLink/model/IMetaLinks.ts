@@ -19,6 +19,7 @@ export interface IMetaLinks {
     webDevelopment: IMetaLink,
     web3: IMetaLink,
     workplacePolicy: IMetaLink,
+    servicePackages: IMetaLink,
 
     frontend: IMetaLinkFrontend,
     backend: IMetaLinkBackend,

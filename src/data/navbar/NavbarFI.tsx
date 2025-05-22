@@ -114,14 +114,14 @@ export const NavbarFI: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
-    // {
-    //     group: "/service-packages/",
-    //     label: "Palvelupaketit",
-    //     level: 1,
-    //     link: "/service-packages/",
-    //     isSubmenu: false,
-    //     submenu: [],
-    // },
+    {
+        group: "/service-packages/",
+        label: "Palvelupaketit",
+        level: 1,
+        link: "/service-packages/",
+        isSubmenu: false,
+        submenu: [],
+    },
     {
         group: "/about-chorn/",
         label: "Tietoa",

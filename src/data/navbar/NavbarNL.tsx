@@ -1,4 +1,4 @@
-import { INavbar } from "@/data/navbar/model/INavbar";
+import {INavbar} from "@/data/navbar/model/INavbar";
 import {Navbar3FrontEnd} from "@/data/navbar/navbar3/Navbar3FrontEnd";
 import {Navbar3BackEnd} from "@/data/navbar/navbar3/Navbar3BackEnd";
 import {Navbar3DevOps} from "@/data/navbar/navbar3/Navbar3DevOps";
@@ -114,14 +114,14 @@ export const NavbarNL: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
-    // {
-    //     group: "/service-packages/",
-    //     label: "Servicepakketten",
-    //     level: 1,
-    //     link: "/service-packages/",
-    //     isSubmenu: false,
-    //     submenu: [],
-    // },
+    {
+        group: "/service-packages/",
+        label: "Servicepakketten",
+        level: 1,
+        link: "/service-packages/",
+        isSubmenu: false,
+        submenu: [],
+    },
     {
         group: "/about-chorn/",
         label: "Over ons",

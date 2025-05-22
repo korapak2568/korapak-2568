@@ -22,6 +22,7 @@ import {ConsentFR} from "@/data/consent/ConsentFR";
 import {TransformBusinessFR} from "@/data/transform-business/TransformBusinessFR";
 import {AiFahCoverFR} from "@/data/ai/fah-cover/AiFahCoverFR";
 import {AiCompanionFR} from "@/data/ai/companions/AiCompanionFR";
+import {ServicePackages} from "@/data/service-packages/ServicePackages";
 
 export const InfoFR: IInfo = {
     AiCompanions: AiCompanionFR,
@@ -53,5 +54,6 @@ export const InfoFR: IInfo = {
     CloudSolution: CloudSolutionFR,
     TransformBusiness: TransformBusinessFR,
 
-    AiFahCover: AiFahCoverFR
+    AiFahCover: AiFahCoverFR,
+    ServicePackages
 }

@@ -22,6 +22,7 @@ import {ConsentNL} from "@/data/consent/ConsentNL";
 import {TransformBusinessNL} from "@/data/transform-business/TransformBusinessNL";
 import {AiFahCoverNL} from "@/data/ai/fah-cover/AiFahCoverNL";
 import {AiCompanionNL} from "@/data/ai/companions/AiCompanionNL";
+import {ServicePackages} from "@/data/service-packages/ServicePackages";
 
 export const InfoNL: IInfo = {
     AiCompanions: AiCompanionNL,
@@ -53,5 +54,6 @@ export const InfoNL: IInfo = {
     CloudSolution: CloudSolutionNL,
     TransformBusiness: TransformBusinessNL,
 
-    AiFahCover: AiFahCoverNL
+    AiFahCover: AiFahCoverNL,
+    ServicePackages
 }

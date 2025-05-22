@@ -9,105 +9,112 @@ export const MetaLinks: IMetaLinks = {
         canonical: "/404/",
         image: {
             url: "/images/metadata/banner/banner-logo.png" + MetadataImageVersion,
-            alt: "CHORN's banner of web3 and blockchain development"
+            alt: "Open graph image for web3 and blockchain development"
         }
     },
     about: {
         canonical: "/about-chorn/",
         image: {
             url: "/images/metadata/about/about-og-image.jpg" + MetadataImageVersion,
-            alt: "CHORN's image of about"
+            alt: "Open graph image for about"
         }
     },
     aiAom: {
         canonical: "/ai-companions/aom/",
         image: {
             url: "/images/metadata/ai/ai-og-aom.jpg" + MetadataImageVersion,
-            alt: "CHORN's image of AI-Aom - LINE Chat AI Integration",
+            alt: "Open graph image for AI-Aom - LINE Chat AI Integration",
         }
     },
     aiCompanion: {
         canonical: "/ai-companions/",
         image: {
             url: "/images/metadata/ai/ai-companions-og-image.jpg" + MetadataImageVersion,
-            alt: "CHORN's image of AI companions",
+            alt: "Open graph image for AI companions",
         }
     },
     aiFah: {
         canonical: "/ai-companions/fah/",
         image: {
             url: "/images/metadata/ai/ai-og-fah.jpg" + MetadataImageVersion,
-            alt: "CHORN's image of AI-Fah - LINE Chat AI Integration",
+            alt: "Open graph image for AI-Fah - LINE Chat AI Integration",
         }
     },
     aiPloy: {
         canonical: "/ai-companions/ploy/",
         image: {
             url: "/images/metadata/ai/ai-og-ploy.jpg" + MetadataImageVersion,
-            alt: "CHORN's image of AI-Ploy - LINE Chat AI Integration",
+            alt: "Open graph image for AI-Ploy - LINE Chat AI Integration",
         }
     },
     cloudSolutions: {
         canonical: "/technical-expertise/cloud-infrastructure-systems-architecture/",
         image: {
             url: "/images/metadata/banner/banner-logo.png" + MetadataImageVersion,
-            alt: "CHORN's image of cloud solutions"
+            alt: "Open graph image for cloud solutions"
         }
     },
     gallery: {
         canonical: "/gallery/",
         image: {
             url: "/images/metadata/gallery/gallery-og-image.jpg" + MetadataImageVersion,
-            alt: "CHORN's image of gallery",
+            alt: "Open graph image for gallery",
         }
     },
     home: {
         canonical: "/",
         image: {
             url: "/images/metadata/home/home-og-image.jpg" + MetadataImageVersion,
-            alt: "CHORN's image of home flexible workplace"
+            alt: "Open graph image for home flexible workplace"
         }
     },
     llmAi: {
         canonical: "/technical-expertise/ai-solutions/",
         image: {
             url: "/images/metadata/banner/chorn-banner.jpg" + MetadataImageVersion,
-            alt: "CHORN's image of LLM/AI integration",
+            alt: "Open graph image for LLM/AI integration",
         }
     },
     webDevelopment: {
         canonical: "/technical-expertise/web-development/",
         image: {
             url: "/images/metadata/frontend/frontend-development-services.png" + MetadataImageVersion,
-            alt: "CHORN's image of web development"
+            alt: "Open graph image for web development"
         }
     },
     web3: {
         canonical: "/technical-expertise/web3-blockchain-smart-contract-development/",
         image: {
             url: "/images/metadata/banner/banner-logo.png" + MetadataImageVersion,
-            alt: "CHORN's banner of web3 and blockchain development"
+            alt: "Open graph image for web3 and blockchain development"
         }
     },
     privacyPolicy: {
         canonical: "/privacy-policy/",
         image: {
             url: "/images/metadata/banner/banner-logo.png" + MetadataImageVersion,
-            alt: "CHORN's banner of web3 and blockchain development"
+            alt: "Open graph image for web3 and blockchain development"
         }
     },
     termOfServices: {
         canonical: "/terms-of-service/",
         image: {
             url: "/images/metadata/banner/banner-logo.png" + MetadataImageVersion,
-            alt: "CHORN's banner of web3 and blockchain development"
+            alt: "Open graph image for web3 and blockchain development"
         }
     },
     workplacePolicy: {
         canonical: "/workplace-policy/",
         image: {
             url: "/images/metadata/banner/banner-logo.png" + MetadataImageVersion,
-            alt: "CHORN's banner of web3 and blockchain development"
+            alt: "Open graph image for web3 and blockchain development"
+        }
+    },
+    servicePackages: {
+        canonical: "/service-packages/",
+        image: {
+            url: "/images/metadata/og-service-package.png" + MetadataImageVersion,
+            alt: "Open graph image for service packages."
         }
     },
     frontend: MetaLinkFrontend,
