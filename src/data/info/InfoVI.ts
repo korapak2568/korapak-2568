@@ -22,7 +22,7 @@ import {ConsentVI} from "@/data/consent/ConsentVI";
 import {TransformBusinessVI} from "@/data/transform-business/TransformBusinessVI";
 import {AiFahCoverVI} from "@/data/ai/fah-cover/AiFahCoverVI";
 import {AiCompanionVI} from "@/data/ai/companions/AiCompanionVI";
-import {ServicePackages} from "@/data/service-packages/ServicePackages";
+import {ServicePackagesVI} from "@/data/service-packages/ServicePackagesVI";
 
 export const InfoVI: IInfo = {
     AiCompanions: AiCompanionVI,
@@ -55,5 +55,5 @@ export const InfoVI: IInfo = {
     TransformBusiness: TransformBusinessVI,
 
     AiFahCover: AiFahCoverVI,
-    ServicePackages
+    ServicePackages: ServicePackagesVI,
 }

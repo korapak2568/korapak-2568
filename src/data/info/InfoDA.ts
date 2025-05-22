@@ -22,7 +22,7 @@ import {ConsentDA} from "@/data/consent/ConsentDA";
 import {TransformBusinessDA} from "@/data/transform-business/TransformBusinessDA";
 import {AiFahCoverDA} from "@/data/ai/fah-cover/AiFahCoverDA";
 import {AiCompanionDA} from "@/data/ai/companions/AiCompanionDA";
-import {ServicePackages} from "@/data/service-packages/ServicePackages";
+import {ServicePackagesDA} from "@/data/service-packages/ServicePackagesDA";
 
 export const InfoDA: IInfo = {
     AiCompanions: AiCompanionDA,
@@ -55,5 +55,5 @@ export const InfoDA: IInfo = {
     TransformBusiness: TransformBusinessDA,
 
     AiFahCover: AiFahCoverDA,
-    ServicePackages
+    ServicePackages: ServicePackagesDA
 }

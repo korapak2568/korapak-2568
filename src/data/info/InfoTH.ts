@@ -22,7 +22,7 @@ import {CloudSolutionTH} from "@/data/cloud-solutions/CloudSolutionTH";
 import {ConsentTH} from "@/data/consent/ConsentTH";
 import {TransformBusinessTH} from "@/data/transform-business/TransformBusinessTH";
 import {AiFahCoverTH} from "@/data/ai/fah-cover/AiFahCoverTH";
-import {ServicePackages} from "@/data/service-packages/ServicePackages";
+import {ServicePackagesTH} from "@/data/service-packages/ServicePackagesTH";
 
 export const InfoTH: IInfo = {
     AiCompanions: AiCompanionTH,
@@ -55,5 +55,5 @@ export const InfoTH: IInfo = {
     TransformBusiness: TransformBusinessTH,
 
     AiFahCover: AiFahCoverTH,
-    ServicePackages
+    ServicePackages: ServicePackagesTH,
 }

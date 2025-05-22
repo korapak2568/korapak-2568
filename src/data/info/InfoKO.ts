@@ -22,7 +22,7 @@ import {GalleryKO} from "@/data/gallery/GalleryKO";
 import {CloudSolutionKO} from "@/data/cloud-solutions/CloudSolutionKO";
 import {TransformBusinessKO} from "@/data/transform-business/TransformBusinessKO";
 import {AiFahCoverKO} from "@/data/ai/fah-cover/AiFahCoverKO";
-import {ServicePackages} from "@/data/service-packages/ServicePackages";
+import {ServicePackagesKO} from "@/data/service-packages/ServicePackagesKO";
 
 export const InfoKO: IInfo = {
     AiCompanions: AiCompanionKO,
@@ -55,5 +55,5 @@ export const InfoKO: IInfo = {
     TransformBusiness: TransformBusinessKO,
 
     AiFahCover: AiFahCoverKO,
-    ServicePackages
+    ServicePackages: ServicePackagesKO,
 }

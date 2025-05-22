@@ -22,7 +22,7 @@ import {ConsentDE} from "@/data/consent/ConsentDE";
 import {TransformBusinessDE} from "@/data/transform-business/TransformBusinessDE";
 import {AiFahCoverDE} from "@/data/ai/fah-cover/AiFahCoverDE";
 import {AiCompanionDE} from "@/data/ai/companions/AiCompanionDE";
-import {ServicePackages} from "@/data/service-packages/ServicePackages";
+import {ServicePackagesDE} from "@/data/service-packages/ServicePackagesDE";
 
 export const InfoDE: IInfo = {
     AiCompanions: AiCompanionDE,
@@ -55,5 +55,5 @@ export const InfoDE: IInfo = {
     TransformBusiness: TransformBusinessDE,
 
     AiFahCover: AiFahCoverDE,
-    ServicePackages
+    ServicePackages: ServicePackagesDE,
 }
