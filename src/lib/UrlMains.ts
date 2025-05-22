@@ -43,4 +43,5 @@ export const UrlMains = [
     '/technical-expertise/web-development',
     '/terms-of-service',
     '/workplace-policy',
+    '/service-packages/',
 ]

@@ -297,5 +297,11 @@ export const UrlImageMaps: IUrlImageMap[] = [
     {
         url: '/workplace-policy/',
         images: []
-    }
+    },
+
+    //service-packages
+    {
+        url: '/service-packages/',
+        images: [{path: ''}]
+    },
 ]

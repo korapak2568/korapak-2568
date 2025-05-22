@@ -7,15 +7,14 @@ export const ServicePackages: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$4,999/month",
-                hourlyEquivalent: "$31.24/hr",
+                price: "$5,999/month",
+                hourlyEquivalent: "$37.49/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "Exclusive full-time support for non-blockchain projects, including MVPs, system upgrades, and scaling.",
                 features: [
                     "System upgrades, new feature development, scaling, PoC, MVP",
-                    "Front-end frameworks: Next.js, React.js, Angular, Vue",
-                    "Back-end frameworks: Node.js, Spring Boot, Java EE, Go, Django, Flask",
-                    "System integrations: WordPress, Magento, Laravel, Kafka, ActiveMQ",
+                    "Supports all major programming languages and frameworks, front-end, back-end, and API development",
+                    "Supports all major databases and cloud platforms",
                     "Supports modern and legacy protocols: gRPC, RPI, JMS, etc."
                 ],
                 // link: "service-packages/premium-innovation-plan/",
@@ -23,8 +22,8 @@ export const ServicePackages: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$5,999/month",
-                hourlyEquivalent: "$37.49/hr",
+                price: "$6,999/month",
+                hourlyEquivalent: "$43.74/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "End-to-end blockchain development with full Web3 integration, including tokenomics and smart contracts.",
                 features: [
@@ -38,14 +37,14 @@ export const ServicePackages: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$5,999/month",
-                hourlyEquivalent: "$37.49/hr",
+                price: "$6,999/month",
+                hourlyEquivalent: "$43.74/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "NFT-focused development including new builds and modernizing legacy contracts.",
                 features: [
                     "Modern NFT development and legacy NFT upgrades",
                     "Solidity-based smart contract creation or refactoring",
-                    "Front-End and Back-End: Next.js, React, Node.js",
+                    "Support major front-end and backend frameworks integration: Next.js, React, Node.js",
                     "Support for NFT standards (ERC721, ERC1155) and marketplaces"
                 ],
                 // link: "service-packages/nft-evolution-plan/"
@@ -74,15 +73,15 @@ export const ServicePackages: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,599/month",
-                hourlyEquivalent: "$9.99/hr",
+                price: "$1,999/month",
+                hourlyEquivalent: "$12.49/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
                 highlight: "Flexible support with ongoing development for growing systems.",
                 features: [
                     "Maintenance and new feature development",
-                    "Full-Stack development: Front-End, Back-End",
+                    "Supports all major programming languages and frameworks",
                     "Continuous improvement for web, API, or custom platforms",
-                    "Supports all major programming languages and databases"
+                    "Supports all major databases and cloud platforms"
                 ],
                 // link: "service-packages/growth-support-plan/"
                 link: "service-packages/"
@@ -92,10 +91,10 @@ export const ServicePackages: IServicePackages = {
                 price: "$3,999/month",
                 hourlyEquivalent: "$24.99/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
-                highlight: "Shared-time blockchain development for emerging Web3 projects.",
+                highlight: "Shared-time blockchain development for emerging Web3, Blockchain, and NFT projects.",
                 features: [
                     "Web3, Smart Contract, NFT, Ethereum support",
-                    "Front-End and Back-End development",
+                    "Supports front-end and back-end integration for custom platforms",
                     "Ideal for growing blockchain projects in continuous development"
                 ],
                 // link: "service-packages/blockchain-pioneer-plan/"
@@ -109,8 +108,8 @@ export const ServicePackages: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$39/hour",
-                hourlyEquivalent: "$39/hr",
+                price: "$40/hour",
+                hourlyEquivalent: "$40/hr",
                 hours: "20–40 hrs/week",
                 highlight: "Part-time or full-time software development service with full-stack capabilities.",
                 features: [
@@ -123,13 +122,14 @@ export const ServicePackages: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$59/hour",
-                hourlyEquivalent: "$59/hr",
+                price: "$60/hour",
+                hourlyEquivalent: "$60/hr",
                 hours: "20–40 hrs/week",
                 highlight: "Advanced blockchain services for Web3-native businesses and NFT innovators.",
                 features: [
                     "Blockchain, Smart Contract, NFT, Ethereum development",
-                    "Full-Stack support: Front-End, Back-End, API integrations",
+                    "Support major front-end and backend frameworks integration: Next.js, React, Node.js",
+                    "Supports front-end and back-end integration for custom platforms",
                     "Flexible engagement for advanced Web3 projects"
                 ],
                 // link: "service-packages/web3-elite-pack/"
@@ -137,8 +137,8 @@ export const ServicePackages: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$239/fix",
-                hourlyEquivalent: "$29.87/hr",
+                price: "$240/fix",
+                hourlyEquivalent: "$30/hr",
                 hours: "Reserve 8 hrs/day",
                 highlight: "Fast emergency response — issue diagnosed and resolved within a day.",
                 features: [
