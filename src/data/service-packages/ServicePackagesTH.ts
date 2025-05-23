@@ -7,8 +7,8 @@ export const ServicePackagesTH: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999/เดือน",
-                hourlyEquivalent: "$37.49/ชม.",
+                price: "$5,999 USD/เดือน",
+                hourlyEquivalent: "$37.49 USD/ชม.",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, เฉพาะเจาะจง, หรือประจำ)",
                 highlight: "การสนับสนุนเต็มเวลาแบบพิเศษสำหรับโปรเจกต์ที่ไม่เกี่ยวกับบล็อกเชน เช่น MVP, การอัปเกรดระบบ และการขยายระบบ",
                 features: [
@@ -21,8 +21,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999/เดือน",
-                hourlyEquivalent: "$43.74/ชม.",
+                price: "$6,999 USD/เดือน",
+                hourlyEquivalent: "$43.74 USD/ชม.",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, เฉพาะเจาะจง, หรือประจำ)",
                 highlight: "พัฒนาบล็อกเชนแบบครบวงจร พร้อมการเชื่อมต่อ Web3 ครบชุด รวมถึงโทเคโนมิกส์และสมาร์ตคอนแทรกต์",
                 features: [
@@ -35,8 +35,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999/เดือน",
-                hourlyEquivalent: "$43.74/ชม.",
+                price: "$6,999 USD/เดือน",
+                hourlyEquivalent: "$43.74 USD/ชม.",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, เฉพาะเจาะจง, หรือประจำ)",
                 highlight: "พัฒนา NFT โดยเฉพาะ ทั้งสร้างใหม่และอัปเกรดสมาร์ตคอนแทรกต์เดิม",
                 features: [
@@ -55,8 +55,8 @@ export const ServicePackagesTH: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899/เดือน",
-                hourlyEquivalent: "$5.625/ชม.",
+                price: "$899 USD/เดือน",
+                hourlyEquivalent: "$5.625 USD/ชม.",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, แบ่งเวลา)",
                 highlight: "สนับสนุนระยะยาวที่เชื่อถือได้โดยไม่พัฒนาฟีเจอร์ใหม่ เหมาะกับระบบที่เสถียรแล้ว",
                 features: [
@@ -69,8 +69,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,999/เดือน",
-                hourlyEquivalent: "$12.49/ชม.",
+                price: "$1,999 USD/เดือน",
+                hourlyEquivalent: "$12.49 USD/ชม.",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, แบ่งเวลา)",
                 highlight: "การสนับสนุนที่ยืดหยุ่นพร้อมพัฒนาต่อเนื่องสำหรับระบบที่กำลังเติบโต",
                 features: [
@@ -82,9 +82,25 @@ export const ServicePackagesTH: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Advanced Growth Plan",
+                price: "$2,999 USD/เดือน",
+                hourlyEquivalent: "$18.74 USD/ชั่วโมง",
+                schedule: "จันทร์–ศุกร์, 8:30–17:30 (ครึ่งเวลา, แบ่งเวลา)",
+                highlight: "เหมาะสำหรับธุรกิจที่กำลังขยายตัว ด้วยความสมดุลของเวลาในการพัฒนาและการตอบสนองความต้องการที่ต่อเนื่อง",
+                features: [
+                    "จัดสรรเวลาสำหรับการพัฒนาและปรับปรุงฟีเจอร์อย่างต่อเนื่อง",
+                    "รองรับการพัฒนาแบบ Full-Stack ทั้งฝั่ง Front-End และ Back-End",
+                    "เหมาะสำหรับแพลตฟอร์มที่มีการเติบโตและต้องการอัปเดตอย่างสม่ำเสมอ",
+                    "รองรับการเชื่อมต่อกับบริการและ API จากภายนอก",
+                    "ครอบคลุมเฟรมเวิร์ก ฐานข้อมูล และแพลตฟอร์มคลาวด์หลัก"
+                ],
+                // link: "service-packages/advanced-growth-plan/"
+                link: "service-packages/"
+            },
+            {
                 name: "Blockchain Pioneer Plan",
-                price: "$3,999/เดือน",
-                hourlyEquivalent: "$24.99/ชม.",
+                price: "$3,999 USD/เดือน",
+                hourlyEquivalent: "$24.99 USD/ชม.",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, แบ่งเวลา)",
                 highlight: "พัฒนา Blockchain แบบแบ่งเวลาสำหรับโปรเจกต์ Web3, Blockchain และ NFT ที่กำลังเริ่มต้น",
                 features: [
@@ -102,8 +118,8 @@ export const ServicePackagesTH: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40/ชั่วโมง",
-                hourlyEquivalent: "$40/ชม.",
+                price: "$40 USD/ชั่วโมง",
+                hourlyEquivalent: "$40 USD/ชม.",
                 hours: "20–40 ชม./สัปดาห์",
                 highlight: "บริการพัฒนาแบบ Part-time หรือ Full-time ด้วยความสามารถแบบ Full-Stack",
                 features: [
@@ -115,8 +131,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60/ชั่วโมง",
-                hourlyEquivalent: "$60/ชม.",
+                price: "$60 USD/ชั่วโมง",
+                hourlyEquivalent: "$60 USD/ชม.",
                 hours: "20–40 ชม./สัปดาห์",
                 highlight: "บริการบล็อกเชนขั้นสูงสำหรับธุรกิจ Web3 และผู้พัฒนา NFT",
                 features: [
@@ -129,8 +145,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$240/ครั้ง",
-                hourlyEquivalent: "$30/ชม.",
+                price: "$240 USD/ครั้ง",
+                hourlyEquivalent: "$30 USD/ชม.",
                 hours: "สำรองเวลา 8 ชม./วัน",
                 highlight: "ตอบสนองฉุกเฉินอย่างรวดเร็ว — วินิจฉัยและแก้ไขปัญหาภายในวันเดียว",
                 features: [

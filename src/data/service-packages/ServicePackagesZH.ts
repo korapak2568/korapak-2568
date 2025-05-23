@@ -8,8 +8,8 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999/月",
-                hourlyEquivalent: "$37.49/小时",
+                price: "$5,999 USD/月",
+                hourlyEquivalent: "$37.49 USD/小时",
                 schedule: "周一至周五，8:30–17:30（全职、专注或长期）",
                 highlight: "专为非区块链项目提供的全职支持，包括 MVP、系统升级与扩展。",
                 features: [
@@ -22,8 +22,8 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999/月",
-                hourlyEquivalent: "$43.74/小时",
+                price: "$6,999 USD/月",
+                hourlyEquivalent: "$43.74 USD/小时",
                 schedule: "周一至周五，8:30–17:30（全职、专注或长期）",
                 highlight: "端到端区块链开发，涵盖 Web3 集成、Tokenomics 和智能合约。",
                 features: [
@@ -36,8 +36,8 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999/月",
-                hourlyEquivalent: "$43.74/小时",
+                price: "$6,999 USD/月",
+                hourlyEquivalent: "$43.74 USD/小时",
                 schedule: "周一至周五，8:30–17:30（全职、专注或长期）",
                 highlight: "专注于 NFT 的开发，包括新项目和旧合约的现代化升级。",
                 features: [
@@ -56,8 +56,8 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899/月",
-                hourlyEquivalent: "$5.625/小时",
+                price: "$899 USD/月",
+                hourlyEquivalent: "$5.625 USD/小时",
                 schedule: "周一至周五，8:30–17:30（全职，共享）",
                 highlight: "提供稳定系统的长期支持，不含新功能开发。",
                 features: [
@@ -70,8 +70,8 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,999/月",
-                hourlyEquivalent: "$12.49/小时",
+                price: "$1,999 USD/月",
+                hourlyEquivalent: "$12.49 USD/小时",
                 schedule: "周一至周五，8:30–17:30（全职，共享）",
                 highlight: "为成长型系统提供持续开发与维护的灵活支持。",
                 features: [
@@ -83,9 +83,24 @@ export const ServicePackagesZH: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Advanced Growth Plan",
+                price: "$2,999 USD/月",
+                hourlyEquivalent: "$18.74 USD/小时",
+                schedule: "周一至周五，8:30–17:30（兼职，共享）",
+                highlight: "为有积极需求的扩展型企业提供平衡的开发重点。",
+                features: [
+                    "专注用于持续功能升级与优化的时间",
+                    "涵盖前端与后端系统的全栈开发",
+                    "适用于需要定期更新的快速成长平台",
+                    "支持与第三方服务和 API 的集成",
+                    "覆盖主流框架、数据库和云平台"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "Blockchain Pioneer Plan",
-                price: "$3,999/月",
-                hourlyEquivalent: "$24.99/小时",
+                price: "$3,999 USD/月",
+                hourlyEquivalent: "$24.99 USD/小时",
                 schedule: "周一至周五，8:30–17:30（全职，共享）",
                 highlight: "共享时间区块链开发计划，适用于 Web3、区块链与 NFT 项目。",
                 features: [
@@ -103,8 +118,8 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40/hour",
-                hourlyEquivalent: "$40/hr",
+                price: "$40 USD/hr",
+                hourlyEquivalent: "$40 USD/hr",
                 hours: "20–40 hrs/week",
                 highlight: "兼职或全职软件开发服务，具备全栈能力。",
                 features: [
@@ -116,8 +131,8 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60/hour",
-                hourlyEquivalent: "$60/hr",
+                price: "$60 USD/hr",
+                hourlyEquivalent: "$60 USD/hr",
                 hours: "20–40 hrs/week",
                 highlight: "为Web3原生企业和NFT创新者提供高级区块链服务。",
                 features: [
@@ -130,8 +145,8 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$240/fix",
-                hourlyEquivalent: "$30/hr",
+                price: "$240 USD/fix",
+                hourlyEquivalent: "$30 USD/hr",
                 hours: "Reserve 8 hrs/day",
                 highlight: "快速紧急响应——在一天内诊断并解决问题。",
                 features: [

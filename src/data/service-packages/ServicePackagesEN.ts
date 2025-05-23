@@ -7,8 +7,8 @@ export const ServicePackagesEN: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999/month",
-                hourlyEquivalent: "$37.49/hr",
+                price: "$5,999 USD/month",
+                hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "Exclusive full-time support for non-blockchain projects, including MVPs, system upgrades, and scaling.",
                 features: [
@@ -22,8 +22,8 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999/month",
-                hourlyEquivalent: "$43.74/hr",
+                price: "$6,999 USD/month",
+                hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "End-to-end blockchain development with full Web3 integration, including tokenomics and smart contracts.",
                 features: [
@@ -37,8 +37,8 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999/month",
-                hourlyEquivalent: "$43.74/hr",
+                price: "$6,999 USD/month",
+                hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "NFT-focused development including new builds and modernizing legacy contracts.",
                 features: [
@@ -58,8 +58,8 @@ export const ServicePackagesEN: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899/month",
-                hourlyEquivalent: "$5.625/hr",
+                price: "$899 USD/month",
+                hourlyEquivalent: "$5.625 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
                 highlight: "Reliable long-term support without new development. Ideal for stable systems.",
                 features: [
@@ -73,8 +73,8 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,999/month",
-                hourlyEquivalent: "$12.49/hr",
+                price: "$1,999 USD/month",
+                hourlyEquivalent: "$12.49 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
                 highlight: "Flexible support with ongoing development for growing systems.",
                 features: [
@@ -87,9 +87,25 @@ export const ServicePackagesEN: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Advanced Growth Plan",
+                price: "$2,999 USD/month",
+                hourlyEquivalent: "$18.74 USD/hr",
+                schedule: "Mon–Fri, 8:30–17:30 (Half-time, shared)",
+                highlight: "Balanced development focus for scaling businesses with active needs.",
+                features: [
+                    "Dedicated hours for ongoing feature upgrades and refinements",
+                    "Full-Stack development across Front-End and Back-End systems",
+                    "Ideal for actively growing platforms requiring regular updates",
+                    "Supports integration with third-party services and APIs",
+                    "Covers major frameworks, databases, and cloud platforms"
+                ],
+                // link: "service-packages/advanced-growth-plan/"
+                link: "service-packages/"
+            },
+            {
                 name: "Blockchain Pioneer Plan",
-                price: "$3,999/month",
-                hourlyEquivalent: "$24.99/hr",
+                price: "$3,999 USD/month",
+                hourlyEquivalent: "$24.99 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
                 highlight: "Shared-time blockchain development for emerging Web3, Blockchain, and NFT projects.",
                 features: [
@@ -108,8 +124,8 @@ export const ServicePackagesEN: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40/hour",
-                hourlyEquivalent: "$40/hr",
+                price: "$40 USD/hr",
+                hourlyEquivalent: "$40 USD/hr",
                 hours: "20–40 hrs/week",
                 highlight: "Part-time or full-time software development service with full-stack capabilities.",
                 features: [
@@ -122,8 +138,8 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60/hour",
-                hourlyEquivalent: "$60/hr",
+                price: "$60 USD/hr",
+                hourlyEquivalent: "$60 USD/hr",
                 hours: "20–40 hrs/week",
                 highlight: "Advanced blockchain services for Web3-native businesses and NFT innovators.",
                 features: [
@@ -137,8 +153,8 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$240/fix",
-                hourlyEquivalent: "$30/hr",
+                price: "$240 USD/fix",
+                hourlyEquivalent: "$30 USD/hr",
                 hours: "Reserve 8 hrs/day",
                 highlight: "Fast emergency response — issue diagnosed and resolved within a day.",
                 features: [

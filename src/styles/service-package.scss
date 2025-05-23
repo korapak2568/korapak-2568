@@ -7,7 +7,6 @@
   justify-content: space-between;
   align-items: flex-start;
   gap: 40px;
-  border: 1px solid #06c755;
 
   .service-left {
     width: 45%;
@@ -112,80 +111,59 @@
       }
 
       // start: plan-detail font-color
-      .plan-detail.platinum:nth-child(1) strong {
-        color: #2e3a59;
-      }
-
+      .plan-detail.platinum:nth-child(1) strong,
       .plan-detail.platinum:nth-child(1) p {
         color: #2e3a59;
       }
 
-      .plan-detail.platinum:nth-child(2) strong {
-        color: #2b364a;
-      }
-
+      .plan-detail.platinum:nth-child(2) strong,
       .plan-detail.platinum:nth-child(2) p {
         color: #2b364a;
       }
 
-      .plan-detail.platinum:nth-child(3) strong {
-        color: #2e3a59;
-      }
-
+      .plan-detail.platinum:nth-child(3) strong,
       .plan-detail.platinum:nth-child(3) p {
         color: #2e3a59;
       }
 
       // end: plan-detail font-color
 
-      // start: plan-detail font-color - gold
-      .plan-detail.gold:nth-child(1) strong {
-        color: #4d3b21; // warm dark bronze
-      }
-
+      /* start: plan-detail font-color - gold */
+      .plan-detail.gold:nth-child(1) strong,
       .plan-detail.gold:nth-child(1) p {
-        color: #4d3b21;
+        color: #4d3b21; /* warm dark bronze */
       }
 
-      .plan-detail.gold:nth-child(2) strong {
-        color: #4b3a2f; // deeper cocoa tone
-      }
-
+      .plan-detail.gold:nth-child(2) strong,
       .plan-detail.gold:nth-child(2) p {
-        color: #4b3a2f;
+        color: #4b3a2f; /* deeper cocoa tone */
       }
 
-      .plan-detail.gold:nth-child(3) strong {
-        color: #4a3928; // balanced rich brown
-      }
-
+      .plan-detail.gold:nth-child(3) strong,
       .plan-detail.gold:nth-child(3) p {
-        color: #4a3928;
+        color: #4a3928; /* balanced rich brown */
       }
 
-      // end: plan-detail font-color - gold
+      .plan-detail.gold:nth-child(4) strong,
+      .plan-detail.gold:nth-child(4) p {
+        color: #4e3d2c; /* earthy brown-bronze for 4th */
+      }
+
+      /* end: plan-detail font-color - gold */
+
 
       // start: plan-detail font-color - premium
-      .plan-detail.premium:nth-child(1) strong {
-        color: #2b4449; // muted deep teal
-      }
-
+      .plan-detail.premium:nth-child(1) strong,
       .plan-detail.premium:nth-child(1) p {
         color: #2b4449;
       }
 
-      .plan-detail.premium:nth-child(2) strong {
-        color: #2e3b50; // rich blue-gray
-      }
-
+      .plan-detail.premium:nth-child(2) strong,
       .plan-detail.premium:nth-child(2) p {
         color: #2e3b50;
       }
 
-      .plan-detail.premium:nth-child(3) strong {
-        color: #4a3b4f; // elegant muted purple
-      }
-
+      .plan-detail.premium:nth-child(3) strong,
       .plan-detail.premium:nth-child(3) p {
         color: #4a3b4f;
       }
@@ -199,9 +177,17 @@
         color: #fff;
         font-weight: 700;
         font-size: 1.2rem;
+        padding-top:10px;
+        padding-bottom:10px;
+
         display: flex;
         align-items: center;
         justify-content: center;
+        flex-direction: column;
+
+        p {
+          margin-top: 5px;
+        }
       }
 
       // start: plan-price - platinum (updated for clarity)
@@ -222,23 +208,28 @@
 
       // end: plan-price - platinum
 
-      // start: plan-price - gold (updated for clarity)
+      /* start: plan-price - gold */
       .plan-price.gold:nth-child(1) {
-        background: #ffeb99; // more saturation, softer than neon
-        color: #3f3300; // darker golden brown
+        background: #ffeb99; /* saturated soft gold */
+        color: #3f3300; /* darker golden brown */
       }
 
       .plan-price.gold:nth-child(2) {
         background: #ffefb8;
-        color: #443100; // high-contrast brown-gold
+        color: #443100; /* high-contrast brown-gold */
       }
 
       .plan-price.gold:nth-child(3) {
         background: #fff1cc;
-        color: #3a2c00; // dark bronze
+        color: #3a2c00; /* dark bronze */
       }
 
-      // end: plan-price - gold
+      .plan-price.gold:nth-child(4) {
+        background: #fff6dd; /* soft pale gold */
+        color: #3d2e00; /* muted brown-gold */
+      }
+
+      /* end: plan-price - gold */
 
       // start: plan-price - premium
       .plan-price.premium:nth-child(1) {
@@ -260,6 +251,17 @@
 
     }
   }
+}
+
+// Border
+.service-row.border-platinum {
+  border: 1px solid #7f8fa6;
+}
+.service-row.border-gold {
+  border: 1px solid #ffcc00;
+}
+.service-row.border-premium {
+  border: 1px solid #00c4cc;
 }
 
 // Mobile view

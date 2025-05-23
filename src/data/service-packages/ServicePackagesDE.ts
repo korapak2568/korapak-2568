@@ -8,7 +8,7 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999/Monat",
+                price: "$5,999 USD/Monat",
                 hourlyEquivalent: "$37.49/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "Exklusiver Vollzeitsupport für Nicht-Blockchain-Projekte, einschließlich MVPs, System-Upgrades und Skalierung.",
@@ -22,7 +22,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999/Monat",
+                price: "$6,999 USD/Monat",
                 hourlyEquivalent: "$43.74/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "End-to-End Blockchain-Entwicklung mit vollständiger Web3-Integration, einschließlich Tokenomics und Smart Contracts.",
@@ -36,7 +36,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999/Monat",
+                price: "$6,999 USD/Monat",
                 hourlyEquivalent: "$43.74/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "NFT-fokussierte Entwicklung, einschließlich Neubauten und Modernisierung bestehender Verträge.",
@@ -56,7 +56,7 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899/Monat",
+                price: "$899 USD/Monat",
                 hourlyEquivalent: "$5.625/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, geteilt)",
                 highlight: "Zuverlässiger langfristiger Support ohne neue Entwicklung. Ideal für stabile Systeme.",
@@ -70,7 +70,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,999/Monat",
+                price: "$1,999 USD/Monat",
                 hourlyEquivalent: "$12.49/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, geteilt)",
                 highlight: "Flexibler Support mit kontinuierlicher Entwicklung für wachsende Systeme.",
@@ -83,8 +83,23 @@ export const ServicePackagesDE: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Advanced Growth Plan",
+                price: "$2.999 USD/Monat",
+                hourlyEquivalent: "$18,74 USD/Stunde",
+                schedule: "Mo–Fr, 8:30–17:30 (Teilzeit, geteilt)",
+                highlight: "Ausgewogener Entwicklungsfokus für wachsende Unternehmen mit aktivem Bedarf.",
+                features: [
+                    "Dedizierte Stunden für kontinuierliche Feature-Upgrades und Optimierungen",
+                    "Full-Stack-Entwicklung für Front-End- und Back-End-Systeme",
+                    "Ideal für wachsende Plattformen mit regelmäßigen Aktualisierungsanforderungen",
+                    "Unterstützt Integration mit Drittanbieterdiensten und APIs",
+                    "Umfasst wichtige Frameworks, Datenbanken und Cloud-Plattformen"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "Blockchain Pioneer Plan",
-                price: "$3,999/Monat",
+                price: "$3,999 USD/Monat",
                 hourlyEquivalent: "$24.99/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, geteilt)",
                 highlight: "Blockchain-Entwicklung in geteiltem Zeitmodell für neue Web3-, Blockchain- und NFT-Projekte.",
@@ -103,8 +118,8 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40/Stunde",
-                hourlyEquivalent: "$40/Stunde",
+                price: "$40 USD/Stunde",
+                hourlyEquivalent: "$40 USD/Stunde",
                 hours: "20–40 Std./Woche",
                 highlight: "Teilzeit- oder Vollzeitentwicklungsdienst mit Full-Stack-Fähigkeiten.",
                 features: [
@@ -116,8 +131,8 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60/Stunde",
-                hourlyEquivalent: "$60/Stunde",
+                price: "$60 USD/Stunde",
+                hourlyEquivalent: "$60 USD/Stunde",
                 hours: "20–40 Std./Woche",
                 highlight: "Erweiterte Blockchain-Dienste für Web3-native Unternehmen und NFT-Innovatoren.",
                 features: [
@@ -130,7 +145,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$240/Fix",
+                price: "$240 USD/fix",
                 hourlyEquivalent: "$30/Stunde",
                 hours: "Reserve: 8 Std./Tag",
                 highlight: "Schnelle Notfallreaktion – Problemdiagnose und -lösung innerhalb eines Tages.",

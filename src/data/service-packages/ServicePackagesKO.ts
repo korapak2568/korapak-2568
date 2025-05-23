@@ -8,8 +8,8 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999/월",
-                hourlyEquivalent: "$37.49/시간 환산",
+                price: "$5,999 USD/월",
+                hourlyEquivalent: "$37.49 USD/시간 환산",
                 schedule: "월~금, 오전 8:30 ~ 오후 5:30 (풀타임, 전담 또는 상주)",
                 highlight: "MVP, 시스템 업그레이드, 확장 등을 포함한 블록체인이 아닌 풀타임 개발 지원.",
                 features: [
@@ -22,8 +22,8 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999/월",
-                hourlyEquivalent: "$43.74/시간 환산",
+                price: "$6,999 USD/월",
+                hourlyEquivalent: "$43.74 USD/시간 환산",
                 schedule: "월~금, 오전 8:30 ~ 오후 5:30 (풀타임, 전담 또는 상주)",
                 highlight: "토크노믹스부터 스마트 계약까지 포함된 Web3 통합 개발.",
                 features: [
@@ -36,8 +36,8 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999/월",
-                hourlyEquivalent: "$43.74/시간 환산",
+                price: "$6,999 USD/월",
+                hourlyEquivalent: "$43.74 USD/시간 환산",
                 schedule: "월~금, 오전 8:30 ~ 오후 5:30 (풀타임, 전담 또는 상주)",
                 highlight: "기존 NFT 계약의 업그레이드 및 신규 NFT 개발 전담.",
                 features: [
@@ -56,8 +56,8 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899/월",
-                hourlyEquivalent: "$5.625/시간 환산",
+                price: "$899 USD/월",
+                hourlyEquivalent: "$5.625 USD/시간 환산",
                 schedule: "월~금, 오전 8:30 ~ 오후 5:30 (풀타임, 공유)",
                 highlight: "안정된 시스템을 위한 장기적이고 신뢰할 수 있는 지원. 신규 기능은 포함되지 않습니다.",
                 features: [
@@ -70,8 +70,8 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,999/월",
-                hourlyEquivalent: "$12.49/시간 환산",
+                price: "$1,999 USD/월",
+                hourlyEquivalent: "$12.49 USD/시간 환산",
                 schedule: "월~금, 오전 8:30 ~ 오후 5:30 (풀타임, 공유)",
                 highlight: "성장 중인 시스템을 위한 지속적인 개발과 유연한 지원.",
                 features: [
@@ -83,9 +83,24 @@ export const ServicePackagesKO: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Advanced Growth Plan",
+                price: "$2,999 USD/월",
+                hourlyEquivalent: "$18.74 USD/시간",
+                schedule: "월–금, 8:30–17:30 (파트타임, 공유)",
+                highlight: "활성화된 수요가 있는 성장 기업을 위한 균형 잡힌 개발 중심.",
+                features: [
+                    "지속적인 기능 업그레이드 및 개선을 위한 전용 시간 제공",
+                    "프론트엔드와 백엔드를 아우르는 풀스택 개발",
+                    "정기적인 업데이트가 필요한 성장 중인 플랫폼에 이상적",
+                    "타사 서비스 및 API 통합 지원",
+                    "주요 프레임워크, 데이터베이스 및 클라우드 플랫폼 지원"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "Blockchain Pioneer Plan",
-                price: "$3,999/월",
-                hourlyEquivalent: "$24.99/시간 환산",
+                price: "$3,999 USD/월",
+                hourlyEquivalent: "$24.99 USD/시간 환산",
                 schedule: "월~금, 오전 8:30 ~ 오후 5:30 (풀타임, 공유)",
                 highlight: "공유 기반 모델로 새로운 블록체인/Web3/NFT 개발을 지원.",
                 features: [
@@ -103,8 +118,8 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40/시간",
-                hourlyEquivalent: "$40/시간",
+                price: "$40 USD/시간",
+                hourlyEquivalent: "$40 USD/시간",
                 hours: "주 20~40시간",
                 highlight: "파트타임 또는 풀타임의 풀스택 개발 서비스.",
                 features: [
@@ -116,8 +131,8 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60/시간",
-                hourlyEquivalent: "$60/시간",
+                price: "$60 USD/시간",
+                hourlyEquivalent: "$60 USD/시간",
                 hours: "주 20~40시간",
                 highlight: "Web3 기업 및 NFT 스타트업을 위한 고급 블록체인 서비스.",
                 features: [
@@ -130,8 +145,8 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$240/버그",
-                hourlyEquivalent: "$30/시간 환산",
+                price: "$240 USD/버그",
+                hourlyEquivalent: "$30 USD/시간 환산",
                 hours: "하루 최대 8시간 확보",
                 highlight: "당일 처리 가능한 긴급 버그 수정 서비스.",
                 features: [

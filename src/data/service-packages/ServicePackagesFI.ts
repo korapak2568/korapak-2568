@@ -9,8 +9,8 @@ export const ServicePackagesFI: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999/month",
-                hourlyEquivalent: "$37.49/hr",
+                price: "$5,999 USD/month",
+                hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight:
                     "Omistautunut kokopäiväinen tuki ei-lohkoketju-projekteihin, mukaan lukien MVP:t, järjestelmäpäivitykset ja skaalaus.",
@@ -24,8 +24,8 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999/month",
-                hourlyEquivalent: "$43.74/hr",
+                price: "$6,999 USD/month",
+                hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight:
                     "Päästä päähän lohkoketjukehitys ja täysi Web3-integraatio, mukaan lukien tokenomiikka ja älysopimukset.",
@@ -39,8 +39,8 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999/month",
-                hourlyEquivalent: "$43.74/hr",
+                price: "$6,999 USD/month",
+                hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight:
                     "NFT-keskeinen kehitys, mukaan lukien uusien sopimusten rakentaminen ja olemassa olevien päivittäminen.",
@@ -61,8 +61,8 @@ export const ServicePackagesFI: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899/month",
-                hourlyEquivalent: "$5.625/hr",
+                price: "$899 USD/month",
+                hourlyEquivalent: "$5.625 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
                 highlight:
                     "Luotettava pitkän aikavälin tuki ilman uutta kehitystä. Sopii vakaisiin järjestelmiin.",
@@ -76,8 +76,8 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,999/month",
-                hourlyEquivalent: "$12.49/hr",
+                price: "$1,999 USD/month",
+                hourlyEquivalent: "$12.49 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
                 highlight:
                     "Joustava tuki jatkuvalla kehityksellä kasvaville järjestelmille.",
@@ -90,9 +90,24 @@ export const ServicePackagesFI: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Advanced Growth Plan",
+                price: "$2,999 USD/kuukausi",
+                hourlyEquivalent: "$18,74 USD/tunti",
+                schedule: "Ma–Pe, 8:30–17:30 (Osa-aikainen, jaettu)",
+                highlight: "Tasapainotettu kehitysfokus kasvaville yrityksille, joilla on aktiivisia tarpeita.",
+                features: [
+                    "Omistetut tunnit jatkuviin ominaisuuspäivityksiin ja parannuksiin",
+                    "Full-Stack-kehitys Front-End- ja Back-End-järjestelmissä",
+                    "Ihanteellinen aktiivisesti kasvaville alustoille, jotka tarvitsevat säännöllisiä päivityksiä",
+                    "Tukee kolmannen osapuolen palveluiden ja API-rajapintojen integrointia",
+                    "Katetaan tärkeimmät kehykset, tietokannat ja pilvialustat"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "Blockchain Pioneer Plan",
-                price: "$3,999/month",
-                hourlyEquivalent: "$24.99/hr",
+                price: "$3,999 USD/month",
+                hourlyEquivalent: "$24.99 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
                 highlight:
                     "Lohkoketjukehitys jaetulla ajalla uusille Web3-, Blockchain- ja NFT-projekteille.",
@@ -112,8 +127,8 @@ export const ServicePackagesFI: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40/hour",
-                hourlyEquivalent: "$40/hr",
+                price: "$40 USD/hr",
+                hourlyEquivalent: "$40 USD/hr",
                 hours: "20–40 hrs/week",
                 highlight:
                     "Osa- tai kokopäiväinen kehityspalvelu täyden pinon osaamisella.",
@@ -126,8 +141,8 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60/hour",
-                hourlyEquivalent: "$60/hr",
+                price: "$60 USD/hr",
+                hourlyEquivalent: "$60 USD/hr",
                 hours: "20–40 hrs/week",
                 highlight:
                     "Edistyneet lohkoketjupalvelut Web3-yrityksille ja NFT-innovaattoreille.",
@@ -141,8 +156,8 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$240/fix",
-                hourlyEquivalent: "$30/hr",
+                price: "$240 USD/fix",
+                hourlyEquivalent: "$30 USD/hr",
                 hours: "Reserve 8 hrs/day",
                 highlight:
                     "Nopea hätäapu – ongelmien diagnosointi ja ratkaisu saman päivän aikana.",

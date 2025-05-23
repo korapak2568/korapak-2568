@@ -8,8 +8,8 @@ export const ServicePackagesVI: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999/tháng",
-                hourlyEquivalent: "$37.49/giờ",
+                price: "$5,999 USD/tháng",
+                hourlyEquivalent: "$37.49 USD/giờ",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên dụng hoặc lâu dài)",
                 highlight: "Hỗ trợ toàn thời gian chuyên dụng cho dự án không blockchain như MVP, nâng cấp hệ thống, khả năng mở rộng.",
                 features: [
@@ -22,8 +22,8 @@ export const ServicePackagesVI: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999/tháng",
-                hourlyEquivalent: "$43.74/giờ",
+                price: "$6,999 USD/tháng",
+                hourlyEquivalent: "$43.74 USD/giờ",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên dụng hoặc lâu dài)",
                 highlight: "Phát triển blockchain toàn diện với tích hợp Web3, gồm cả tokenomics và hợp đồng thông minh.",
                 features: [
@@ -36,8 +36,8 @@ export const ServicePackagesVI: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999/tháng",
-                hourlyEquivalent: "$43.74/giờ",
+                price: "$6,999 USD/tháng",
+                hourlyEquivalent: "$43.74 USD/giờ",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên dụng hoặc lâu dài)",
                 highlight: "Tập trung phát triển NFT, gồm cả dự án mới và nâng cấp hợp đồng NFT cũ.",
                 features: [
@@ -56,8 +56,8 @@ export const ServicePackagesVI: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899/tháng",
-                hourlyEquivalent: "$5.625/giờ",
+                price: "$899 USD/tháng",
+                hourlyEquivalent: "$5.625 USD/giờ",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chia sẻ)",
                 highlight: "Hỗ trợ dài hạn đáng tin cậy, không phát triển tính năng mới. Phù hợp với hệ thống ổn định.",
                 features: [
@@ -70,8 +70,8 @@ export const ServicePackagesVI: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,999/tháng",
-                hourlyEquivalent: "$12.49/giờ",
+                price: "$1,999 USD/tháng",
+                hourlyEquivalent: "$12.49 USD/giờ",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chia sẻ)",
                 highlight: "Hỗ trợ linh hoạt có phát triển tính năng mới cho hệ thống đang mở rộng.",
                 features: [
@@ -83,9 +83,24 @@ export const ServicePackagesVI: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Advanced Growth Plan",
+                price: "$2.999 USD/tháng",
+                hourlyEquivalent: "$18,74 USD/giờ",
+                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Bán thời gian, chia sẻ)",
+                highlight: "Tập trung phát triển cân bằng cho các doanh nghiệp đang mở rộng với nhu cầu hoạt động cao.",
+                features: [
+                    "Giờ làm việc chuyên dụng để nâng cấp và tinh chỉnh tính năng liên tục",
+                    "Phát triển Full-Stack cho cả hệ thống Front-End và Back-End",
+                    "Lý tưởng cho các nền tảng đang tăng trưởng cần cập nhật thường xuyên",
+                    "Hỗ trợ tích hợp với dịch vụ và API bên thứ ba",
+                    "Hỗ trợ các framework, cơ sở dữ liệu và nền tảng đám mây chính"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "Blockchain Pioneer Plan",
-                price: "$3,999/tháng",
-                hourlyEquivalent: "$24.99/giờ",
+                price: "$3,999 USD/tháng",
+                hourlyEquivalent: "$24.99 USD/giờ",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chia sẻ)",
                 highlight: "Phát triển blockchain bán thời gian cho các dự án Web3, blockchain hoặc NFT mới.",
                 features: [
@@ -103,8 +118,8 @@ export const ServicePackagesVI: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40/giờ",
-                hourlyEquivalent: "$40/giờ",
+                price: "$40 USD/giờ",
+                hourlyEquivalent: "$40 USD/giờ",
                 hours: "20–40 giờ/tuần",
                 highlight: "Dịch vụ phát triển bán/thời gian đầy đủ với kỹ năng full-stack.",
                 features: [
@@ -116,8 +131,8 @@ export const ServicePackagesVI: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60/giờ",
-                hourlyEquivalent: "$60/giờ",
+                price: "$60 USD/giờ",
+                hourlyEquivalent: "$60 USD/giờ",
                 hours: "20–40 giờ/tuần",
                 highlight: "Dịch vụ blockchain nâng cao cho doanh nghiệp Web3 và nhà đổi mới NFT.",
                 features: [
@@ -130,8 +145,8 @@ export const ServicePackagesVI: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$240/lần",
-                hourlyEquivalent: "$30/giờ",
+                price: "$240 USD/lần",
+                hourlyEquivalent: "$30 USD/giờ",
                 hours: "Dự phòng 8 giờ/ngày",
                 highlight: "Phản hồi khẩn cấp – khắc phục sự cố trong cùng một ngày.",
                 features: [
