@@ -620,7 +620,7 @@
 
 // About
 
-.about-linkedin-widget {
+.about-bottom-image {
   margin-bottom: 0;
   display: flex;
   justify-content: space-between;
@@ -630,29 +630,49 @@
   transform: translate3d(0, 0, 0);
   // end of fixing the icons disappears
 
-  .social-about {
+  .left {
     margin-bottom: 0;
-    margin-top: 10px;
-    display: flex;
+    margin-top: 5px;
 
-    .linkedin-symbol {
-      display: inline-block;
-    }
+    .left-row {
+      margin-bottom: 10px;
+      display: flex;
 
-    .linkedin-symbol a.linkedin {
-      padding: 5px 8px;
-      background-color: #007bb5;
-      border-color: #007bb5;
-      color: #ffffff;
-    }
+      .linkedin-symbol {
+        display: inline-block;
+      }
 
-    .linkedin-text {
-      padding-left: 10px;
-    }
+      .linkedin-symbol a.linkedin {
+        padding: 5px 8px;
+        background-color: #007bb5;
+        border-color: #007bb5;
+        color: #ffffff;
+      }
 
-    .linkedin-text a:hover {
-      color: #fd9b5f;
+      .linkedin-text {
+        padding-left: 10px;
+      }
+
+      .linkedin-text a:hover {
+        color: #fd9b5f;
+      }
+
+      .symbol {
+        display: inline-block;
+        padding: 5px 8px;
+        background-color: red;
+        border-color: red;
+        color: #ffffff;
+      }
+
+      p {
+        padding-left: 10px;
+      }
     }
+  }
+
+  .right {
+
   }
 }
 
