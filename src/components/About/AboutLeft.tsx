@@ -13,7 +13,7 @@ export default function AboutLeft() {
                 <div className="social left">
                     <div className="left-row">
                         <div className="linkedin-symbol">
-                            <a href="https://www.linkedin.com/company/chorn/"
+                            <a href="https://www.linkedin.com/in/khachornchit"
                                className="linkedin"
                                target="_blank"
                                aria-label="LinkedIn"
@@ -22,10 +22,10 @@ export default function AboutLeft() {
                             </a>
                         </div>
                         <div className="linkedin-text">
-                            <a href="https://www.linkedin.com/company/chorn/"
+                            <a href="https://www.linkedin.com/in/khachornchit"
                                target="_blank"
                             >
-                                linkedin.com/chorn
+                                www.linkedin.com
                             </a>
                         </div>
                     </div>
