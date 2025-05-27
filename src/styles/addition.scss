@@ -638,16 +638,30 @@
       margin-bottom: 10px;
       display: flex;
 
-      .linkedin-symbol {
+      .about-icon-symbol {
         display: inline-block;
+
+        a.linkedin {
+          padding: 5px 8px;
+          background-color: #007bb5;
+          border-color: #007bb5;
+          color: #ffffff;
+        }
+
+        a.whatsapp {
+          padding: 5px 8px;
+          background-color: #0cc143;
+          border-color: #0cc143;
+          color: #ffffff;
+        }
       }
 
-      .linkedin-symbol a.linkedin {
-        padding: 5px 8px;
-        background-color: #007bb5;
-        border-color: #007bb5;
-        color: #ffffff;
-      }
+      //.about-icon-symbol a.linkedin {
+      //  padding: 5px 8px;
+      //  background-color: #007bb5;
+      //  border-color: #007bb5;
+      //  color: #ffffff;
+      //}
 
       .linkedin-text {
         padding-left: 10px;

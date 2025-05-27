@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {FaMailBulk} from "react-icons/fa";
+import {Link} from "lucide-react";
 
-export default function AboutLeft() {
+export default function AboutLeft({lang}: { lang: string }) {
     return (
         <div className="col-lg-4">
             <div className="about-image-warp about-image-custom"/>
@@ -12,11 +12,10 @@ export default function AboutLeft() {
             <div className="single-footer-widget about-bottom-image">
                 <div className="social left">
                     <div className="left-row">
-                        <div className="linkedin-symbol">
+                        <div className="about-icon-symbol">
                             <a href="https://www.linkedin.com/in/khachornchit"
                                className="linkedin"
                                target="_blank"
-                               aria-label="LinkedIn"
                             >
                                 <i className="bx bxl-linkedin hover-rotate"/>
                             </a>
@@ -36,6 +35,18 @@ export default function AboutLeft() {
                         <p>
                             contact@chorn.in.th
                         </p>
+                    </div>
+                    <div className="left-row">
+                        <div className="about-icon-symbol">
+                            <a href="https://wa.me/qr/5M7PS2GDSMFZI1" target={'_blank'} className="whatsapp">
+                                <i className="bx bxl-whatsapp hover-rotate"/>
+                            </a>
+                        </div>
+                        <div className="linkedin-text">
+                            <a href="https://wa.me/qr/5M7PS2GDSMFZI1" target={'_blank'} className="whatsapp">
+                                WhatsApp
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div className="right">

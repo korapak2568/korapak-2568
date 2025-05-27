@@ -116,5 +116,8 @@ export interface IImageUrl {
     line: {
         qrcode: IImageUnit,
         icon: IImageLink,
+    },
+    contact: {
+        whatsapp: IImageUnit,
     }
 }

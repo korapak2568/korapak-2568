@@ -650,5 +650,11 @@ export const ImageUrl: IImageUrl = {
             path: CDN_IMAGE + "/line/line-icon.png",
             link: "https://lin.ee/HzWJ2bJ",
         }
+    },
+    contact: {
+        whatsapp: {
+            title: "CHORN's WhatsApp",
+            path: CDN_IMAGE + "/contact/WhatsApp-qrcode.jpg",
+        }
     }
 }
