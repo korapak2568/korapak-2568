@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import {Contact2025} from "@/data/contact/Contact2025";
-import {Link} from "lucide-react";
 
 export default function AboutLeft({lang}: { lang: string }) {
     return (
@@ -35,18 +34,6 @@ export default function AboutLeft({lang}: { lang: string }) {
                         <p>
                             contact@chorn.in.th
                         </p>
-                    </div>
-                    <div className="left-row">
-                        <div className="about-icon-symbol">
-                            <a href="https://wa.me/qr/5M7PS2GDSMFZI1" target={'_blank'} className="whatsapp">
-                                <i className="bx bxl-whatsapp hover-rotate"/>
-                            </a>
-                        </div>
-                        <div className="linkedin-text">
-                            <a href="https://wa.me/qr/5M7PS2GDSMFZI1" target={'_blank'} className="whatsapp">
-                                WhatsApp
-                            </a>
-                        </div>
                     </div>
                 </div>
                 <div className="right">
