@@ -55,8 +55,8 @@ export const ServicePackagesTH: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "29,000 THB/เดือน",
-                hourlyEquivalent: "~185 THB/ชั่วโมง",
+                price: "29,000 บาท/เดือน",
+                hourlyEquivalent: "~185 บาท/ชั่วโมง",
                 "schedule": "จันทร์–ศุกร์, 8:30–17:30 (แบ่งเวลา)",
                 highlight: "เหมาะสำหรับระบบที่ต้องการการดูแลเบื้องต้น เช่น MVP, PoC หรือระบบที่ใช้งานจริงแต่มีความต้องการพัฒนาไม่มาก",
                 features: [
@@ -70,8 +70,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "65,000 THB/เดือน",
-                hourlyEquivalent: "~405 THB/ชั่วโมง",
+                price: "65,000 บาท/เดือน",
+                hourlyEquivalent: "~405 บาท/ชั่วโมง",
                 "schedule": "จันทร์–ศุกร์, 8:30–17:30 (แบ่งเวลา)",
                 highlight: "เหมาะสำหรับธุรกิจที่ต้องการทีมสนับสนุนการพัฒนาอย่างต่อเนื่อง โดยไม่ต้องจ้างทีมแบบ Full-time",
                 features: [
@@ -85,8 +85,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Advanced Growth Plan",
-                price: "98,000 THB/เดือน",
-                hourlyEquivalent: "~610 THB/ชั่วโมง",
+                price: "98,000 บาท/เดือน",
+                hourlyEquivalent: "~610 บาท/ชั่วโมง",
                 "schedule": "จันทร์–ศุกร์, 8:30–17:30 (แบ่งเวลา)",
                 highlight: "สำหรับแพลตฟอร์มหรือบริการที่ต้องพัฒนาฟีเจอร์ใหม่อย่างต่อเนื่อง พร้อมทีมที่ต้องการความร่วมมืออย่างใกล้ชิดในเชิงกลยุทธ์",
                 features: [
@@ -100,8 +100,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Blockchain Pioneer Plan",
-                price: "130,000 THB/เดือน",
-                hourlyEquivalent: "~810 THB/ชั่วโมง",
+                price: "130,000 บาท/เดือน",
+                hourlyEquivalent: "~810 บาท/ชั่วโมง",
                 "schedule": "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, แบ่งเวลา)",
                 highlight: "บริการระดับเริ่มต้นสำหรับองค์กรที่ต้องการเริ่มต้นใช้ Blockchain หรือ Web3 เพื่อสร้างผลิตภัณฑ์ใหม่ในเชิงพาณิชย์",
                 features: [
@@ -120,8 +120,8 @@ export const ServicePackagesTH: IServicePackages = {
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "1,400 THB/ชม.",
-                hourlyEquivalent: "1,400 THB/ชม.",
+                price: "1,400 บาท/ชม.",
+                hourlyEquivalent: "1,400 บาท/ชม.",
                 hours: "20–40 ชม./สัปดาห์",
                 highlight: "บริการพัฒนา Full-stack แบบยืดหยุ่น เสริมทีมภายในเพื่อรองรับงานที่ต้องการความคล่องตัวและรวดเร็ว",
                 features: [
@@ -133,8 +133,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Web3 Elite Pack",
-                price: "2,100 THB/ชม.",
-                hourlyEquivalent: "2,100 THB/ชม.",
+                price: "2,100 บาท/ชม.",
+                hourlyEquivalent: "2,100 บาท/ชม.",
                 hours: "20–40 ชม./สัปดาห์",
                 highlight: "บริการพัฒนาด้าน Blockchain และ Web3 สำหรับทีมที่เน้นนวัตกรรม เช่น NFT, Smart Contract และ Token Economy",
                 features: [
@@ -146,8 +146,8 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Urgent Bug Fix",
-                price: "8,400 THB/ครั้ง",
-                hourlyEquivalent: "1,050 THB/ชม.",
+                price: "8,400 บาท/ครั้ง",
+                hourlyEquivalent: "1,050 บาท/ชม.",
                 hours: "สำรองเวลา 8 ชม./วัน",
                 highlight: "บริการแก้ไขบั๊กรวดเร็วระดับเร่งด่วน ส่งมอบในวันเดียว เหมาะกับปัญหาในระบบ Production",
                 features: [
