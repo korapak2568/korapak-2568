@@ -10,7 +10,7 @@ export const ServicePackagesVI: IServicePackages = {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
+                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
                 highlight: "Hỗ trợ toàn thời gian cho các dự án không sử dụng blockchain: xây dựng MVP, nâng cấp hệ thống và mở rộng quy mô.",
                 features: [
                     "Phát triển PoC, MVP, nâng cấp hệ thống và mở rộng sản phẩm",
@@ -24,7 +24,7 @@ export const ServicePackagesVI: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
+                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
                 highlight: "Phát triển blockchain toàn diện với tích hợp Web3, bao gồm smart contract và thiết kế tokenomics.",
                 features: [
                     "Phát triển blockchain với Solidity, Ethers.js, Ethereum",
@@ -38,7 +38,7 @@ export const ServicePackagesVI: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
+                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
                 highlight: "Phát triển NFT hiện đại và nâng cấp các hợp đồng thông minh legacy.",
                 features: [
                     "Phát triển NFT theo chuẩn mới và nâng cấp NFT cũ",
@@ -51,14 +51,14 @@ export const ServicePackagesVI: IServicePackages = {
         ]
     },
     gold: {
-        name: "Gói Vàng",
+        name: "Gold Packages",
         description: "Ba gói làm việc chia sẻ thời gian — Essential Care, Growth Support và Blockchain Pioneer — được thiết kế cho việc phát triển và hỗ trợ liên tục các dự án hiện có sau khi ra mắt, với lịch trình rõ ràng và khả năng mở rộng linh hoạt. Phù hợp với các startup, agency và đội ngũ kỹ thuật cần đối tác đáng tin cậy mà không cần thuê toàn thời gian.",
         plans: [
             {
-                name: "Gói Essential Care",
-                price: "20 triệu VND/tháng",
+                name: "Essential Care Plan",
+                price: "$899 USD/month",
                 hourlyEquivalent: "125,000 VND/giờ",
-                "schedule": "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
+                schedule: "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
                 highlight: "Hỗ trợ cơ bản cho các hệ thống có nhu cầu phát triển hạn chế. Phù hợp cho MVP, PoC và các hoạt động giai đoạn đầu.",
                 features: [
                     "Thiết lập nhẹ và tối ưu chức năng cốt lõi",
@@ -70,10 +70,10 @@ export const ServicePackagesVI: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Gói Growth Support",
-                price: "45 triệu VND/tháng",
+                name: "Growth Support Plan",
+                price: "$1,999 USD/month",
                 hourlyEquivalent: "280,000 VND/giờ",
-                "schedule": "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
+                schedule: "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
                 highlight: "Dành cho doanh nghiệp đang phát triển cần phát triển liên tục mà không cần cam kết toàn thời gian.",
                 features: [
                     "Bảo trì định kỳ và phát triển tính năng mức trung bình",
@@ -85,10 +85,10 @@ export const ServicePackagesVI: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Gói Advanced Growth",
-                price: "67 triệu VND/tháng",
+                name: "Advanced Growth Plan",
+                price: "$2,999 USD/month",
                 hourlyEquivalent: "420,000 VND/giờ",
-                "schedule": "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
+                schedule: "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
                 highlight: "Tập trung phát triển mạnh mẽ hơn so với Growth Support, phù hợp với các nền tảng cần nâng cấp và cộng tác thường xuyên với các bên liên quan.",
                 features: [
                     "Mở rộng phạm vi nâng cấp tính năng, tinh chỉnh và cải thiện hiệu suất",
@@ -100,10 +100,10 @@ export const ServicePackagesVI: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Gói Blockchain Pioneer",
-                price: "90 triệu VND/tháng",
+                name: "Blockchain Pioneer Plan",
+                price: "$3,999 USD/month",
                 hourlyEquivalent: "560,000 VND/giờ",
-                "schedule": "Thứ 2–6, 08:30–17:30 (toàn thời gian, chia sẻ thời gian)",
+                schedule: "Thứ 2–6, 08:30–17:30 (toàn thời gian, chia sẻ thời gian)",
                 highlight: "Hỗ trợ blockchain cấp nhập môn cho các dự án Web3, NFT và sản phẩm dựa trên Ethereum.",
                 features: [
                     "Phát triển smart contract và dApp trên Ethereum",

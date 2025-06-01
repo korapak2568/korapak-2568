@@ -9,7 +9,7 @@ export const ServicePackagesEN: IServicePackages = {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
+                schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "Dedicated full-time technical partnership for non-blockchain projects focused on MVP delivery, system modernization, and scalable growth.",
                 features: [
                     "Comprehensive system upgrades, new feature rollouts, and scaling strategies",
@@ -23,7 +23,7 @@ export const ServicePackagesEN: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
+                schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "End-to-end blockchain development package enabling full Web3 integration, tokenomics design, and secure smart contract delivery.",
                 features: [
                     "Expert blockchain and Web3 development using Solidity, Ethers.js, and Ethereum ecosystems",
@@ -37,7 +37,7 @@ export const ServicePackagesEN: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
+                schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "Focused NFT development and modernization service, bridging new builds with legacy contract upgrades for evolving digital asset strategies.",
                 features: [
                     "Development of modern NFT projects alongside legacy NFT contract modernization",
@@ -57,7 +57,7 @@ export const ServicePackagesEN: IServicePackages = {
                 name: "Essential Care Plan",
                 price: "$899 USD/month",
                 hourlyEquivalent: "$5.625 USD/hr",
-                "schedule": "Mon–Fri, 8:30–17:30 (shared)",
+                schedule: "Mon–Fri, 8:30–17:30 (shared)",
                 highlight: "Foundational engineering support for MVPs, internal tools, or early-stage platforms requiring minimal development effort.",
                 features: [
                     "Lightweight setup and core feature stabilization",
@@ -72,7 +72,7 @@ export const ServicePackagesEN: IServicePackages = {
                 name: "Growth Support Plan",
                 price: "$1,999 USD/month",
                 hourlyEquivalent: "$12.49 USD/hr",
-                "schedule": "Mon–Fri, 8:30–17:30 (shared)",
+                schedule: "Mon–Fri, 8:30–17:30 (shared)",
                 highlight: "Ideal for growing teams that require continuous enhancements and technical agility without full-time overhead.",
                 features: [
                     "Ongoing maintenance and mid-tier feature development",
@@ -87,7 +87,7 @@ export const ServicePackagesEN: IServicePackages = {
                 name: "Advanced Growth Plan",
                 price: "$2,999 USD/month",
                 hourlyEquivalent: "$18.74 USD/hr",
-                "schedule": "Mon–Fri, 8:30–17:30 (shared)",
+                schedule: "Mon–Fri, 8:30–17:30 (shared)",
                 highlight: "Strategic development partner for high-velocity platforms requiring continuous delivery and deeper stakeholder alignment.",
                 features: [
                     "Expanded feature rollouts, optimization cycles, and performance tuning",
@@ -102,7 +102,7 @@ export const ServicePackagesEN: IServicePackages = {
                 name: "Blockchain Pioneer Plan",
                 price: "$3,999 USD/month",
                 hourlyEquivalent: "$24.99 USD/hr",
-                "schedule": "Mon–Fri, 8:30–17:30 (shared full-time)",
+                schedule: "Mon–Fri, 8:30–17:30 (shared full-time)",
                 highlight: "Professional-grade entry into blockchain innovation — ideal for Web3 prototypes, NFT utilities, and Ethereum-based platforms.",
                 features: [
                     "Development of smart contracts and Ethereum-based dApps",

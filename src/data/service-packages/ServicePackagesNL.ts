@@ -10,7 +10,7 @@ export const ServicePackagesNL: IServicePackages = {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
+                schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Exclusieve fulltime ondersteuning voor niet-blockchain projecten zoals MVP’s, systeemverbeteringen en schaalvergroting.",
                 features: [
                     "Systeemupgrades, nieuwe functionaliteiten, schaalbaarheid, PoC en MVP",
@@ -24,7 +24,7 @@ export const ServicePackagesNL: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
+                schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Volledige blockchain-ontwikkeling inclusief tokenomics en smart contracts, met volledige Web3-integratie.",
                 features: [
                     "Blockchainontwikkeling met Solidity, Ethers.js, Ethereum",
@@ -38,7 +38,7 @@ export const ServicePackagesNL: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
+                schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Gespecialiseerde NFT-ontwikkeling en modernisering van bestaande contracten.",
                 features: [
                     "Moderne NFT-oplossingen en upgrades van legacy contracten",
@@ -51,14 +51,14 @@ export const ServicePackagesNL: IServicePackages = {
         ]
     },
     gold: {
-        name: "Gold Pakketten",
+        name: "Gold Packages",
         description: "Drie deeltijd pakketten — Essential Care, Growth Support en Blockchain Pioneer — ontworpen voor het continu ontwikkelen en ondersteunen van bestaande projecten na lancering, met duidelijke tijdsplanning en flexibele schaalbaarheid. Ideaal voor startups, agencies en technische teams die op zoek zijn naar een betrouwbare partner zonder fulltime inzet.",
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "€899 / maand",
-                hourlyEquivalent: "€5,625 / uur",
-                "schedule": "Ma–Vr, 08:30–17:30 (gedeeld)",
+                price: "$899 USD/month",
+                hourlyEquivalent: "$5.625 USD/hr",
+                schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Fundamentele ondersteuning voor systemen met beperkte ontwikkelbehoeften. Perfect voor MVP’s, proof-of-concepts en vroege operationele fases.",
                 features: [
                     "Lichte setup en verfijning van kernfunctionaliteiten",
@@ -71,9 +71,9 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "€1.999 / maand",
-                hourlyEquivalent: "€12,49 / uur",
-                "schedule": "Ma–Vr, 08:30–17:30 (gedeeld)",
+                price: "$1,999 USD/month",
+                hourlyEquivalent: "$12.49 USD/hr",
+                schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Voor groeiende bedrijven die continue ontwikkeling nodig hebben zonder fulltime inzet.",
                 features: [
                     "Regulier onderhoud en middelzware feature ontwikkeling",
@@ -86,9 +86,9 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Advanced Growth Plan",
-                price: "€2.999 / maand",
-                hourlyEquivalent: "€18,74 / uur",
-                "schedule": "Ma–Vr, 08:30–17:30 (gedeeld)",
+                price: "$2,999 USD/month",
+                hourlyEquivalent: "$18.74 USD/hr",
+                schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Meer ontwikkelingsfocus dan Growth Support, ideaal voor platforms die frequente verbeteringen en nauwe samenwerking met stakeholders nodig hebben.",
                 features: [
                     "Uitgebreidere scope voor feature upgrades, verfijningen en prestatieverbeteringen",
@@ -101,9 +101,9 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Blockchain Pioneer Plan",
-                price: "€3.999 / maand",
-                hourlyEquivalent: "€24,99 / uur",
-                "schedule": "Ma–Vr, 08:30–17:30 (gedeeld)",
+                price: "$3,999 USD/month",
+                hourlyEquivalent: "$24.99 USD/hr",
+                schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Instapniveau blockchain ondersteuning voor Web3, NFT’s en Ethereum-productinnovatie.",
                 features: [
                     "Smart contract en dApp ontwikkeling op Ethereum",

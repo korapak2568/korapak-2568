@@ -10,7 +10,7 @@ export const ServicePackagesZH: IServicePackages = {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "周一至周五，8:30–17:30（全职专属支持）",
+                schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "为非区块链项目提供专属全职支持，包括 MVP 构建、系统升级及可扩展性优化。",
                 features: [
                     "系统升级、新功能开发、可扩展性优化、PoC 和 MVP 构建",
@@ -24,7 +24,7 @@ export const ServicePackagesZH: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "周一至周五，8:30–17:30（全职专属支持）",
+                schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "提供端到端的区块链开发服务，支持完整 Web3 集成，包括 Tokenomics 与智能合约开发。",
                 features: [
                     "基于 Solidity、Ethers.js 与 Ethereum 的区块链开发",
@@ -38,7 +38,7 @@ export const ServicePackagesZH: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "周一至周五，8:30–17:30（全职专属支持）",
+                schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "专注于 NFT 相关开发，包括新项目构建与旧合约的现代化升级。",
                 features: [
                     "现代 NFT 应用开发及旧版合约升级",
@@ -51,14 +51,14 @@ export const ServicePackagesZH: IServicePackages = {
         ]
     },
     gold: {
-        name: "黄金套餐",
+        name: "Gold Packages",
         description: "三款共享时间套餐——基础关怀计划、成长支持计划和区块链先锋计划——专为产品发布后持续开发与支持现有项目而设计，具备明确的时间安排与灵活的扩展能力。适合寻求可靠技术合作伙伴的企业、高管、创业团队及代理机构。",
         plans: [
             {
-                name: "基础关怀计划",
-                price: "约29,000元/月",
-                hourlyEquivalent: "约180元/小时",
-                "schedule": "周一至周五，08:30–17:30（共享时间）",
+                name: "Essential Care Plan",
+                price: "$899 USD/month",
+                hourlyEquivalent: "$5.625 USD/hr",
+                schedule: "周一至周五，08:30–17:30（共享时间）",
                 highlight: "为开发需求有限的系统提供基础支持，特别适合MVP、概念验证（PoC）及早期运营阶段。",
                 features: [
                     "轻量级搭建与核心功能优化",
@@ -70,10 +70,10 @@ export const ServicePackagesZH: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "成长支持计划",
-                price: "约65,000元/月",
-                hourlyEquivalent: "约400元/小时",
-                "schedule": "周一至周五，08:30–17:30（共享时间）",
+                name: "Growth Support Plan",
+                price: "$1,999 USD/month",
+                hourlyEquivalent: "$12.49 USD/hr",
+                schedule: "周一至周五，08:30–17:30（共享时间）",
                 highlight: "适合需要持续开发但不需全职投入的成长型企业。",
                 features: [
                     "定期维护与中级功能开发",
@@ -85,10 +85,10 @@ export const ServicePackagesZH: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "高级成长计划",
-                price: "约98,000元/月",
-                hourlyEquivalent: "约620元/小时",
-                "schedule": "周一至周五，08:30–17:30（共享时间）",
+                name: "Advanced Growth Plan",
+                price: "$2,999 USD/month",
+                hourlyEquivalent: "$18.74 USD/hr",
+                schedule: "周一至周五，08:30–17:30（共享时间）",
                 highlight: "比成长支持计划更专注开发，适合需要频繁迭代和多方协作的平台。",
                 features: [
                     "更广泛的功能升级、优化与性能提升",
@@ -100,10 +100,10 @@ export const ServicePackagesZH: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "区块链先锋计划",
-                price: "约130,000元/月",
-                hourlyEquivalent: "约830元/小时",
-                "schedule": "周一至周五，08:30–17:30（共享时间）",
+                name: "Blockchain Pioneer Plan",
+                price: "$3,999 USD/month",
+                hourlyEquivalent: "$24.99 USD/hr",
+                schedule: "周一至周五，08:30–17:30（共享时间）",
                 highlight: "为Web3、NFT及以太坊产品创新提供入门级区块链支持。",
                 features: [
                     "以太坊智能合约及去中心化应用开发",

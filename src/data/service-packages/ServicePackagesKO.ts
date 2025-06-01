@@ -10,7 +10,7 @@ export const ServicePackagesKO: IServicePackages = {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
+                schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "PoC, MVP 개발, 시스템 업그레이드 및 확장을 포함한 비블록체인 프로젝트 전용 풀타임 기술 지원.",
                 features: [
                     "시스템 업그레이드, 신규 기능 개발, 확장성 확보, PoC 및 MVP 개발",
@@ -24,7 +24,7 @@ export const ServicePackagesKO: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
+                schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "토크노믹스와 스마트 계약 개발을 포함한 완전한 Web3 통합 블록체인 개발.",
                 features: [
                     "Solidity, Ethers.js, Ethereum 기반의 블록체인 및 Web3 개발",
@@ -38,7 +38,7 @@ export const ServicePackagesKO: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
+                schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "최신 NFT 개발 및 레거시 계약 현대화를 위한 전담 개발 서비스.",
                 features: [
                     "최신 NFT 개발 및 기존 NFT 스마트 계약 개선",
@@ -51,14 +51,14 @@ export const ServicePackagesKO: IServicePackages = {
         ]
     },
     gold: {
-        name: "골드 패키지",
+        name: "Gold Packages",
         description: "Essential Care, Growth Support, Blockchain Pioneer의 세 가지 파트타임 패키지는 제품 출시 이후의 안정적인 운영, 지속적인 개선, 그리고 기술적 성장 지원을 위해 설계되었습니다. 전담 개발자를 두기 어려운 스타트업, 에이전시, 그리고 기술 중심 조직에 이상적인 확장 가능한 파트너십 모델입니다.",
         plans: [
             {
-                name: "Essential Care 플랜",
+                name: "Essential Care Plan",
                 price: "$899 USD/월",
                 hourlyEquivalent: "$5.625 USD/시간",
-                "schedule": "월–금, 08:30–17:30 (시간 공유)",
+                schedule: "월–금, 08:30–17:30 (시간 공유)",
                 highlight: "MVP, 내부 도구 또는 소규모 플랫폼을 위한 필수 기술 유지보수 및 운영 안정성 확보에 적합한 베이직 패키지입니다.",
                 features: [
                     "경량 설정 및 핵심 기능 최적화",
@@ -70,10 +70,10 @@ export const ServicePackagesKO: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Growth Support 플랜",
+                name: "Growth Support Plan",
                 price: "$1,999 USD/월",
                 hourlyEquivalent: "$12.49 USD/시간",
-                "schedule": "월–금, 08:30–17:30 (시간 공유)",
+                schedule: "월–금, 08:30–17:30 (시간 공유)",
                 highlight: "지속적인 개선과 적절한 개발 속도가 필요한 성장 단계의 팀에게 적합한 중간 수준의 개발 지원 패키지입니다.",
                 features: [
                     "정기 유지보수 및 중간 난이도의 기능 개발",
@@ -85,10 +85,10 @@ export const ServicePackagesKO: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Advanced Growth 플랜",
+                name: "Advanced Growth Plan",
                 price: "$2,999 USD/월",
                 hourlyEquivalent: "$18.74 USD/시간",
-                "schedule": "월–금, 08:30–17:30 (시간 공유)",
+                schedule: "월–금, 08:30–17:30 (시간 공유)",
                 highlight: "자주 업데이트가 필요한 서비스 또는 복잡한 사용자 흐름을 다루는 프로젝트에 최적화된 고급 성장 플랜입니다.",
                 features: [
                     "기능 확장, 성능 최적화, UI 개선 중심의 집중 개발",
@@ -100,10 +100,10 @@ export const ServicePackagesKO: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Blockchain Pioneer 플랜",
+                name: "Blockchain Pioneer Plan",
                 price: "$3,999 USD/월",
                 hourlyEquivalent: "$24.99 USD/시간",
-                "schedule": "월–금, 08:30–17:30 (풀타임, 시간 공유)",
+                schedule: "월–금, 08:30–17:30 (풀타임, 시간 공유)",
                 highlight: "Web3, NFT, Ethereum 기반 프로젝트를 처음 시작하거나 실험하는 팀을 위한 블록체인 입문 패키지입니다.",
                 features: [
                     "Ethereum 스마트 컨트랙트 및 dApp 개발",

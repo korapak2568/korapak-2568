@@ -9,7 +9,7 @@ export const ServicePackagesDA: IServicePackages = {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
+                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Dedikeret support til udvikling uden blockchain – ideel til MVP’er, systemopgraderinger og skalerbare løsninger.",
                 features: [
                     "Systemforbedringer, udvikling af nye funktioner, MVP og proof-of-concept",
@@ -23,7 +23,7 @@ export const ServicePackagesDA: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
+                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Komplet blockchain-løsning med Web3-integration – herunder smart contracts og token design.",
                 features: [
                     "Udvikling med Solidity, Ethers.js og Ethereum-økosystemet",
@@ -37,7 +37,7 @@ export const ServicePackagesDA: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
+                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Specialiseret i NFT-løsninger – både nye produkter og modernisering af eksisterende smart contracts.",
                 features: [
                     "NFT-udvikling og opdatering af eksisterende kontrakter",
@@ -50,14 +50,14 @@ export const ServicePackagesDA: IServicePackages = {
         ]
     },
     gold: {
-        name: "Guld Pakker",
+        name: "Gold Packages",
         description: "Et udvalg af tre deltidsservicepakker — Essential Care, Growth Support og Blockchain Pioneer — designet til støtte efter lancering, strategisk iteration og skalerbar teknisk drift. Ideel til startups, bureauer og virksomheder, der søger pålidelig teknisk support uden behov for fuldtidsansættelser.",
         plans: [
             {
                 name: "Essential Care Plan",
                 price: "$899 USD/måned",
                 hourlyEquivalent: "$5.625 USD/time",
-                "schedule": "Man–Fre, 8:30–17:30 (deltid)",
+                schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Grundlæggende teknisk support til MVP'er, interne værktøjer eller tidlige platforme med minimale udviklingsbehov.",
                 features: [
                     "Let opsætning og stabilisering af kernefunktioner",
@@ -72,7 +72,7 @@ export const ServicePackagesDA: IServicePackages = {
                 name: "Growth Support Plan",
                 price: "$1,999 USD/måned",
                 hourlyEquivalent: "$12.49 USD/time",
-                "schedule": "Man–Fre, 8:30–17:30 (deltid)",
+                schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Ideel for voksende teams, der kræver kontinuerlige forbedringer og teknisk fleksibilitet uden fuldtidsomkostninger.",
                 features: [
                     "Løbende vedligeholdelse og udvikling af mellemstore funktioner",
@@ -87,7 +87,7 @@ export const ServicePackagesDA: IServicePackages = {
                 name: "Advanced Growth Plan",
                 price: "$2,999 USD/måned",
                 hourlyEquivalent: "$18.74 USD/time",
-                "schedule": "Man–Fre, 8:30–17:30 (deltid)",
+                schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Strategisk udviklingspartner for platforme med behov for kontinuerlig levering og tæt interessentsamarbejde.",
                 features: [
                     "Udvidet funktionalitet, optimeringscyklusser og ydeevneforbedringer",
@@ -102,7 +102,7 @@ export const ServicePackagesDA: IServicePackages = {
                 name: "Blockchain Pioneer Plan",
                 price: "$3,999 USD/måned",
                 hourlyEquivalent: "$24.99 USD/time",
-                "schedule": "Man–Fre, 8:30–17:30 (fuldtid, delt)",
+                schedule: "Man–Fre, 8:30–17:30 (fuldtid, delt)",
                 highlight: "Professionel indgang til blockchain-innovation — ideel til Web3-prototyper, NFT-værktøjer og Ethereum-baserede platforme.",
                 features: [
                     "Udvikling af smart contracts og Ethereum-baserede dApps",

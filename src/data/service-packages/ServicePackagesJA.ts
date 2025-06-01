@@ -10,7 +10,7 @@ export const ServicePackagesJA: IServicePackages = {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "月〜金, 8:30〜17:30（フルタイム・専任）",
+                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "PoCやMVP開発、機能拡張やシステムリファクタリングを含む、非ブロックチェーン領域でのスケーラブルな開発支援。",
                 features: [
                     "PoC、MVP、新機能開発、既存システムの拡張とスケーリング",
@@ -24,7 +24,7 @@ export const ServicePackagesJA: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "月〜金, 8:30〜17:30（フルタイム・専任）",
+                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "SolidityやEthereumを用いたスマートコントラクト開発、トークノミクス設計を含む、Web3完全統合型ブロックチェーン開発支援。",
                 features: [
                     "Solidity、Ethers.js、Ethereumを用いたブロックチェーン開発",
@@ -38,7 +38,7 @@ export const ServicePackagesJA: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "月〜金, 8:30〜17:30（フルタイム・専任）",
+                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "最新のNFT開発と既存スマートコントラクトの近代化にフォーカスした専門的支援。",
                 features: [
                     "モダンなNFT開発とレガシーNFT契約のアップグレード",
@@ -51,14 +51,14 @@ export const ServicePackagesJA: IServicePackages = {
         ]
     },
     gold: {
-        name: "ゴールドパッケージ",
+        name: "Gold Packages",
         description: "Essential Care、Growth Support、Blockchain Pioneerの3つのパートタイムサービスパッケージは、製品のリリース後の継続的な開発とサポートを目的として設計されています。スタートアップ、エージェンシー、技術主導のチームに最適で、フルタイムの開発者を雇用せずにスケーラブルな技術パートナーシップを提供します。",
         plans: [
             {
-                name: "Essential Careプラン",
+                name: "Essential Care Plan",
                 price: "$899 USD/月",
                 hourlyEquivalent: "$5.625 USD/時",
-                "schedule": "月〜金、8:30〜17:30（共有時間）",
+                schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "MVP、社内ツール、初期段階のプラットフォームなど、開発ニーズが限られたシステム向けの基本的な技術サポート。",
                 features: [
                     "軽量なセットアップとコア機能の調整",
@@ -70,10 +70,10 @@ export const ServicePackagesJA: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Growth Supportプラン",
+                name: "Growth Support Plan",
                 price: "$1,999 USD/月",
                 hourlyEquivalent: "$12.49 USD/時",
-                "schedule": "月〜金、8:30〜17:30（共有時間）",
+                schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "継続的な開発が必要でありながら、フルタイムのコミットメントを避けたい成長中の企業に最適。",
                 features: [
                     "定期的なメンテナンスと中程度の機能開発",
@@ -85,10 +85,10 @@ export const ServicePackagesJA: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Advanced Growthプラン",
+                name: "Advanced Growth Plan",
                 price: "$2,999 USD/月",
                 hourlyEquivalent: "$18.74 USD/時",
-                "schedule": "月〜金、8:30〜17:30（共有時間）",
+                schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "Growth Supportプランよりも強力な開発フォーカスを持ち、頻繁な機能強化とステークホルダーとの協力が必要なプラットフォームに最適。",
                 features: [
                     "機能のアップグレード、調整、パフォーマンス改善のための拡張された範囲",
@@ -100,10 +100,10 @@ export const ServicePackagesJA: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Blockchain Pioneerプラン",
+                name: "Blockchain Pioneer Plan",
                 price: "$3,999 USD/月",
                 hourlyEquivalent: "$24.99 USD/時",
-                "schedule": "月〜金、8:30〜17:30（フルタイム、共有）",
+                schedule: "月〜金、8:30〜17:30（フルタイム、共有）",
                 highlight: "Web3、NFT、Ethereumベースの製品イノベーションのためのエントリーレベルのブロックチェーンサポート。",
                 features: [
                     "Ethereum上でのスマートコントラクトとdAppの開発",

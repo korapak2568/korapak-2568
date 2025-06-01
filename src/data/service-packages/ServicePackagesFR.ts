@@ -10,7 +10,7 @@ export const ServicePackagesFR: IServicePackages = {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                "schedule": "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
+                schedule: "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
                 highlight: "Support exclusif pour les projets non-blockchain – MVP, refonte système, scalabilité.",
                 features: [
                     "Améliorations systèmes, développement de nouvelles fonctionnalités, MVP, PoC",
@@ -24,7 +24,7 @@ export const ServicePackagesFR: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
+                schedule: "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
                 highlight: "Développement blockchain complet avec intégration Web3, tokenomics et smart contracts.",
                 features: [
                     "Développement Web3 et blockchain : Solidity, Ethers.js, Ethereum",
@@ -38,7 +38,7 @@ export const ServicePackagesFR: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                "schedule": "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
+                schedule: "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
                 highlight: "Développement NFT moderne et modernisation des smart contracts existants.",
                 features: [
                     "Création et refonte de projets NFT modernes",
@@ -51,14 +51,14 @@ export const ServicePackagesFR: IServicePackages = {
         ]
     },
     gold: {
-        name: "Forfaits Gold",
+        name: "Gold Packages",
         description: "Trois forfaits de service à temps partiel — Essential Care, Growth Support et Blockchain Pioneer — conçus pour accompagner les produits après leur lancement, favoriser les itérations stratégiques et assurer des opérations techniques évolutives. Parfait pour les startups, agences et équipes produit à la recherche d’un soutien technique fiable sans engager de développeurs à temps plein.",
         plans: [
             {
                 name: "Essential Care Plan",
                 price: "$899 USD/mois",
                 hourlyEquivalent: "$5.625 USD/heure",
-                "schedule": "Lun–Ven, 8h30–17h30 (temps partagé)",
+                schedule: "Lun–Ven, 8h30–17h30 (temps partagé)",
                 highlight: "Support technique essentiel pour les MVP, outils internes ou plateformes en phase de démarrage avec des besoins limités en développement.",
                 features: [
                     "Mise en place légère et stabilisation des fonctionnalités clés",
@@ -73,7 +73,7 @@ export const ServicePackagesFR: IServicePackages = {
                 name: "Growth Support Plan",
                 price: "$1,999 USD/mois",
                 hourlyEquivalent: "$12.49 USD/heure",
-                "schedule": "Lun–Ven, 8h30–17h30 (temps partagé)",
+                schedule: "Lun–Ven, 8h30–17h30 (temps partagé)",
                 highlight: "Idéal pour les équipes en phase de croissance nécessitant des améliorations continues et une flexibilité technique sans coût à temps plein.",
                 features: [
                     "Maintenance continue et développement de fonctionnalités intermédiaires",
@@ -88,7 +88,7 @@ export const ServicePackagesFR: IServicePackages = {
                 name: "Advanced Growth Plan",
                 price: "$2,999 USD/mois",
                 hourlyEquivalent: "$18.74 USD/heure",
-                "schedule": "Lun–Ven, 8h30–17h30 (temps partagé)",
+                schedule: "Lun–Ven, 8h30–17h30 (temps partagé)",
                 highlight: "Partenaire technique stratégique pour des plateformes en pleine évolution avec des livraisons fréquentes et une collaboration rapprochée avec les parties prenantes.",
                 features: [
                     "Développement de fonctionnalités avancées, cycles d’optimisation et amélioration des performances",
@@ -103,7 +103,7 @@ export const ServicePackagesFR: IServicePackages = {
                 name: "Blockchain Pioneer Plan",
                 price: "$3,999 USD/mois",
                 hourlyEquivalent: "$24.99 USD/heure",
-                "schedule": "Lun–Ven, 8h30–17h30 (temps plein partagé)",
+                schedule: "Lun–Ven, 8h30–17h30 (temps plein partagé)",
                 highlight: "Accès professionnel au développement Web3 — idéal pour les prototypes blockchain, utilitaires NFT et plateformes basées sur Ethereum.",
                 features: [
                     "Développement de smart contracts et dApps sur Ethereum",
