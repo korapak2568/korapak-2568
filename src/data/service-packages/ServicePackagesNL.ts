@@ -4,19 +4,19 @@ import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 export const ServicePackagesNL: IServicePackages = {
     platinum: {
         name: "Platinum Packages",
-        description: "Drie topprioriteitspakketten – Premium Innovation Plan, Web3 Core Plan en NFT Evolution Plan – ontworpen voor toegewijde fulltime ontwikkeling met een doelstelling om binnen 3–12 maanden te lanceren. Ideaal voor kritieke of tijdgevoelige projecten.",
+        description: "Drie high-priority pakketten — Premium Innovation Plan, Web3 Core Plan en NFT Evolution Plan — ontworpen voor fulltime toewijding en snelle oplevering binnen 3–12 maanden. Ideaal voor strategische groei, schaalbaarheid en het verlichten van de noodzaak om een intern team aan te nemen.",
         plans: [
             {
                 name: "Premium Innovation Plan",
                 price: "$5,999 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
-                schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
-                highlight: "Toegewijde fulltime ondersteuning voor niet-blockchainprojecten, inclusief MVP's, systeemupgrades en schaalbaarheid.",
+                "schedule": "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
+                highlight: "Exclusieve fulltime ondersteuning voor niet-blockchain projecten zoals MVP’s, systeemverbeteringen en schaalvergroting.",
                 features: [
-                    "Systeemupgrades, nieuwe functies, schaalbaarheid, PoC, MVP",
-                    "Ondersteunt populaire programmeertalen en frameworks voor frontend, backend en API",
-                    "Ondersteunt populaire databases en cloudplatforms",
-                    "Ondersteunt moderne en legacy protocollen: gRPC, RPI, JMS, enz."
+                    "Systeemupgrades, nieuwe functionaliteiten, schaalbaarheid, PoC en MVP",
+                    "Ondersteuning voor alle gangbare talen en frameworks (frontend, backend, API)",
+                    "Integratie met alle grote databases en cloud platforms",
+                    "Ondersteuning voor moderne en legacy protocollen zoals gRPC, RPI, JMS"
                 ],
                 link: "service-packages/"
             },
@@ -24,13 +24,13 @@ export const ServicePackagesNL: IServicePackages = {
                 name: "Web3 Core Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
-                highlight: "End-to-end blockchainontwikkeling met volledige Web3-integratie, inclusief tokenomics en smart contracts.",
+                "schedule": "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
+                highlight: "Volledige blockchain-ontwikkeling inclusief tokenomics en smart contracts, met volledige Web3-integratie.",
                 features: [
-                    "Blockchain- en Web3-ontwikkeling met Solidity, Ethers.js, Ethereum",
-                    "Smart contract ontwikkeling, audits en integratie",
-                    "Frontend en backend: Next.js, React, Node.js",
-                    "Tokenmechanismen: airdrops, presales, beloningssystemen"
+                    "Blockchainontwikkeling met Solidity, Ethers.js, Ethereum",
+                    "Ontwikkeling, audit en integratie van smart contracts",
+                    "Frontend- en backendontwikkeling met Next.js, React, Node.js",
+                    "Tokenmechanismen zoals airdrops, presales en reward systems"
                 ],
                 link: "service-packages/"
             },
@@ -38,12 +38,12 @@ export const ServicePackagesNL: IServicePackages = {
                 name: "NFT Evolution Plan",
                 price: "$6,999 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
-                schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
-                highlight: "NFT-gerichte ontwikkeling, inclusief nieuwe projecten en het upgraden van bestaande contracten.",
+                "schedule": "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
+                highlight: "Gespecialiseerde NFT-ontwikkeling en modernisering van bestaande contracten.",
                 features: [
-                    "Moderne NFT-ontwikkeling en upgrades van legacy-NFT's",
-                    "Smart contract creatie of herziening op basis van Solidity",
-                    "Ondersteuning voor frontend- en backend-frameworks: Next.js, React, Node.js",
+                    "Moderne NFT-oplossingen en upgrades van legacy contracten",
+                    "Ontwikkeling of refactoring van Solidity-gebaseerde smart contracts",
+                    "Integratie met frontend/backend frameworks: Next.js, React, Node.js",
                     "Ondersteuning voor NFT-standaarden (ERC721, ERC1155) en marktplaatsen"
                 ],
                 link: "service-packages/"
@@ -51,62 +51,65 @@ export const ServicePackagesNL: IServicePackages = {
         ]
     },
     gold: {
-        name: "Gold Packages",
-        description: "Drie deeltijdpakketten – Essential Care Plan, Growth Support Plan en Blockchain Pioneer Plan – ontworpen voor voortdurende ontwikkeling of ondersteuning van bestaande projecten na de lancering met gestructureerde roosters en schaalbare flexibiliteit.",
+        name: "Gold Pakketten",
+        description: "Drie deeltijd pakketten — Essential Care, Growth Support en Blockchain Pioneer — ontworpen voor het continu ontwikkelen en ondersteunen van bestaande projecten na lancering, met duidelijke tijdsplanning en flexibele schaalbaarheid. Ideaal voor startups, agencies en technische teams die op zoek zijn naar een betrouwbare partner zonder fulltime inzet.",
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/month",
-                hourlyEquivalent: "$5.625 USD/hr",
-                schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
-                highlight: "Betrouwbare lange termijn ondersteuning zonder nieuwe ontwikkeling. Ideaal voor stabiele systemen.",
+                price: "€899 / maand",
+                hourlyEquivalent: "€5,625 / uur",
+                "schedule": "Ma–Vr, 08:30–17:30 (gedeeld)",
+                highlight: "Fundamentele ondersteuning voor systemen met beperkte ontwikkelbehoeften. Perfect voor MVP’s, proof-of-concepts en vroege operationele fases.",
                 features: [
-                    "Systeemmonitoring, onderhoud en technische ondersteuning",
-                    "Documentatie-updates en ondersteuning bij teamtraining",
-                    "Geen ontwikkeling van nieuwe functies inbegrepen",
-                    "Ondersteunt populaire programmeertalen en databases"
+                    "Lichte setup en verfijning van kernfunctionaliteiten",
+                    "Systeemmonitoring, kleine aanpassingen en stabiliteitsbewaking",
+                    "Documentatie en begeleiding voor nieuwe ontwikkelaars",
+                    "Geen complexe nieuwe functies inbegrepen",
+                    "Ondersteuning van belangrijke talen en databases"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "Growth Support Plan",
-                price: "$1,999 USD/month",
-                hourlyEquivalent: "$12.49 USD/hr",
-                schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
-                highlight: "Flexibele ondersteuning met voortdurende ontwikkeling voor groeiende systemen.",
+                price: "€1.999 / maand",
+                hourlyEquivalent: "€12,49 / uur",
+                "schedule": "Ma–Vr, 08:30–17:30 (gedeeld)",
+                highlight: "Voor groeiende bedrijven die continue ontwikkeling nodig hebben zonder fulltime inzet.",
                 features: [
-                    "Onderhoud en ontwikkeling van nieuwe functies",
-                    "Ondersteunt populaire programmeertalen en frameworks",
-                    "Continue verbetering van web-, API- of aangepaste platforms",
-                    "Ondersteunt populaire databases en cloudplatforms"
+                    "Regulier onderhoud en middelzware feature ontwikkeling",
+                    "Wekelijkse afstemming met stakeholders (1–3 teamleden)",
+                    "Full-stack ondersteuning voor API’s, platforms en interne tools",
+                    "Ondersteunt belangrijke talen, frameworks, databases en cloudplatforms",
+                    "Schaalbaar naar grotere plannen bij groei van het bedrijf"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "Advanced Growth Plan",
-                price: "$2.999 USD/maand",
-                hourlyEquivalent: "$18,74 USD/uur",
-                schedule: "Ma–Vr, 8:30–17:30 (Deeltijds, gedeeld)",
-                highlight: "Gebalanceerde ontwikkelingsfocus voor groeiende bedrijven met actieve behoeften.",
+                price: "€2.999 / maand",
+                hourlyEquivalent: "€18,74 / uur",
+                "schedule": "Ma–Vr, 08:30–17:30 (gedeeld)",
+                highlight: "Meer ontwikkelingsfocus dan Growth Support, ideaal voor platforms die frequente verbeteringen en nauwe samenwerking met stakeholders nodig hebben.",
                 features: [
-                    "Toegewijde uren voor doorlopende functieverbeteringen en verfijningen",
-                    "Full-stack ontwikkeling voor zowel Front-End als Back-End systemen",
-                    "Ideaal voor actief groeiende platforms die regelmatige updates vereisen",
-                    "Ondersteunt integratie met diensten van derden en API's",
-                    "Omvat belangrijke frameworks, databases en cloudplatforms"
+                    "Uitgebreidere scope voor feature upgrades, verfijningen en prestatieverbeteringen",
+                    "Snellere oplevercycli dan Growth Support (geschikt voor snelle iteraties)",
+                    "1–2 wekelijkse syncs met stakeholders (3–6 personen) voor planning en feedback",
+                    "Full-stack engineering voor web, backend en third-party integraties",
+                    "Ondersteunt belangrijke frameworks, databases en cloudservices met toenemende vraag"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "Blockchain Pioneer Plan",
-                price: "$3,999 USD/month",
-                hourlyEquivalent: "$24.99 USD/hr",
-                schedule: "Mon–Fri, 8:30–17:30 (Full-time, shared)",
-                highlight: "Blockchainontwikkeling in een deeltijdmodel voor nieuwe Web3-, blockchain- en NFT-projecten.",
+                price: "€3.999 / maand",
+                hourlyEquivalent: "€24,99 / uur",
+                "schedule": "Ma–Vr, 08:30–17:30 (gedeeld)",
+                highlight: "Instapniveau blockchain ondersteuning voor Web3, NFT’s en Ethereum-productinnovatie.",
                 features: [
-                    "Web3-, smart contract-, NFT- en Ethereum-ondersteuning",
-                    "Ondersteuning voor frontend- en backend-integratie voor aangepaste platforms",
-                    "Ideaal voor groeiende blockchainprojecten in voortdurende ontwikkeling"
+                    "Smart contract en dApp ontwikkeling op Ethereum",
+                    "Integratie met Web2/3 backends en token ecosystemen",
+                    "NFT minting, metadata beheer en marktplaats gereedheid",
+                    "Ideaal voor bedrijven die Web3 ervaringen testen of lanceren"
                 ],
                 link: "service-packages/"
             }
@@ -114,18 +117,18 @@ export const ServicePackagesNL: IServicePackages = {
     },
     premium: {
         name: "Premium Packages",
-        description: "Flexibele, op uurbasis ontwikkelpakketten – geschikt voor agile teams, start-ups en blockchain-innovatoren die on-demand ondersteuning nodig hebben. Inclusief supersnelle bugfixes!",
+        description: "Flexibele development pakketten op uurbasis — ideaal voor agile teams, startups en Web3-innovators die behoefte hebben aan on-demand ondersteuning. Een strategische partner zonder vaste aanwervingen. Inclusief spoedreparatieservice.",
         plans: [
             {
                 name: "Pro Dev Flex Pack",
                 price: "$40 USD/hr",
                 hourlyEquivalent: "$40 USD/hr",
-                hours: "20–40 hrs/week",
-                highlight: "Parttime of fulltime ontwikkelingsdienst met full-stack vaardigheden.",
+                hours: "20–40 uur/week",
+                highlight: "Flexibele full-stack ontwikkelcapaciteit afgestemd op productgroei en schaalbaarheid.",
                 features: [
-                    "On-demand ontwikkeling van aangepaste software, web en API",
-                    "Ondersteunt populaire programmeertalen en frameworks",
-                    "Ideaal voor teams die flexibele, bekwame ontwikkelaars nodig hebben"
+                    "Maatwerk software-, web- en API-ontwikkeling on-demand",
+                    "Ondersteuning voor alle belangrijke programmeertalen en frameworks",
+                    "Ideaal voor teams die willen opschalen zonder vaste developers"
                 ],
                 link: "service-packages/"
             },
@@ -133,13 +136,12 @@ export const ServicePackagesNL: IServicePackages = {
                 name: "Web3 Elite Pack",
                 price: "$60 USD/hr",
                 hourlyEquivalent: "$60 USD/hr",
-                hours: "20–40 hrs/week",
-                highlight: "Geavanceerde blockchainservices voor Web3-native bedrijven en NFT-innovators.",
+                hours: "20–40 uur/week",
+                highlight: "Geavanceerde blockchain- en Web3-diensten voor innovatieve digitale producten.",
                 features: [
-                    "Blockchain-, smart contract-, NFT- en Ethereum-ontwikkeling",
-                    "Ondersteuning voor frontend- en backend-frameworks: Next.js, React, Node.js",
-                    "Integratie van frontend en backend voor aangepaste platforms",
-                    "Flexibele inzet voor geavanceerde Web3-projecten"
+                    "Smart contracts, NFT’s en Ethereum ontwikkeling",
+                    "Integratie met moderne frameworks zoals Next.js, React en Node.js",
+                    "Strategische ondersteuning voor op maat gemaakte Web3 platformen"
                 ],
                 link: "service-packages/"
             },
@@ -147,13 +149,13 @@ export const ServicePackagesNL: IServicePackages = {
                 name: "Urgent Bug Fix",
                 price: "$240 USD/fix",
                 hourlyEquivalent: "$30 USD/hr",
-                hours: "Reserve 8 hrs/day",
-                highlight: "Snelle noodrespons – probleemoplossing en -oplossing binnen één dag.",
+                hours: "8 uur gereserveerd",
+                highlight: "Snel reageren op kritieke bugs — diagnose en oplossing binnen één werkdag.",
                 features: [
-                    "Direct advies en ondersteuning",
-                    "Levering op dezelfde dag",
-                    "Enkele bugfix voor externe projecten",
-                    "Geen langdurig contract vereist"
+                    "Directe analyse en same-day delivery",
+                    "Ondersteunt éénmalige fix voor externe projecten",
+                    "Geen langetermijncontract vereist",
+                    "Ideaal voor urgente productieproblemen"
                 ],
                 link: "service-packages/"
             }

@@ -4,109 +4,112 @@ import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 export const ServicePackagesVI: IServicePackages = {
     platinum: {
         name: "Platinum Packages",
-        description: "Ba gói ưu tiên cao nhất – Premium Innovation Plan, Web3 Core Plan và NFT Evolution Plan – được thiết kế cho phát triển toàn thời gian chuyên dụng, nhằm khởi chạy trong 3–12 tháng. Lý tưởng cho các dự án quan trọng hoặc cần thời gian nhanh.",
+        description: "Ba gói cao cấp — Premium Innovation Plan, Web3 Core Plan và NFT Evolution Plan — được thiết kế dành cho các dự án phát triển toàn thời gian, với mục tiêu ra mắt trong vòng 3–12 tháng. Phù hợp với các startup hoặc doanh nghiệp cần đối tác chiến lược, khả năng mở rộng linh hoạt và giảm gánh nặng tuyển dụng đội ngũ kỹ thuật nội bộ.",
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/tháng",
-                hourlyEquivalent: "$37.49 USD/giờ",
-                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên dụng hoặc lâu dài)",
-                highlight: "Hỗ trợ toàn thời gian chuyên dụng cho dự án không blockchain như MVP, nâng cấp hệ thống, khả năng mở rộng.",
+                price: "$5,999 USD/month",
+                hourlyEquivalent: "$37.49 USD/hr",
+                "schedule": "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
+                highlight: "Hỗ trợ toàn thời gian cho các dự án không sử dụng blockchain: xây dựng MVP, nâng cấp hệ thống và mở rộng quy mô.",
                 features: [
-                    "Nâng cấp hệ thống, tính năng mới, khả năng mở rộng, PoC, MVP",
-                    "Hỗ trợ ngôn ngữ lập trình và framework phổ biến cho frontend, backend và API",
-                    "Hỗ trợ cơ sở dữ liệu và nền tảng đám mây phổ biến",
-                    "Hỗ trợ giao thức hiện đại và legacy: gRPC, RPI, JMS, v.v."
+                    "Phát triển PoC, MVP, nâng cấp hệ thống và mở rộng sản phẩm",
+                    "Hỗ trợ tất cả ngôn ngữ lập trình và framework chính: front-end, back-end, API",
+                    "Tích hợp với cơ sở dữ liệu và nền tảng cloud phổ biến",
+                    "Hỗ trợ giao thức hiện đại và truyền thống: gRPC, RPI, JMS"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999 USD/tháng",
-                hourlyEquivalent: "$43.74 USD/giờ",
-                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên dụng hoặc lâu dài)",
-                highlight: "Phát triển blockchain toàn diện với tích hợp Web3, gồm cả tokenomics và hợp đồng thông minh.",
+                price: "$6,999 USD/month",
+                hourlyEquivalent: "$43.74 USD/hr",
+                "schedule": "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
+                highlight: "Phát triển blockchain toàn diện với tích hợp Web3, bao gồm smart contract và thiết kế tokenomics.",
                 features: [
-                    "Phát triển Web3 và blockchain với Solidity, Ethers.js, Ethereum",
-                    "Tạo hợp đồng thông minh, kiểm tra và tích hợp",
-                    "Frontend và backend: Next.js, React, Node.js",
-                    "Cơ chế token: airdrop, presale, hệ thống phần thưởng"
+                    "Phát triển blockchain với Solidity, Ethers.js, Ethereum",
+                    "Thiết kế, kiểm thử và tích hợp smart contract",
+                    "Phát triển front-end và back-end: Next.js, React, Node.js",
+                    "Thiết kế token: airdrop, presale, hệ thống thưởng"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/tháng",
-                hourlyEquivalent: "$43.74 USD/giờ",
-                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên dụng hoặc lâu dài)",
-                highlight: "Tập trung phát triển NFT, gồm cả dự án mới và nâng cấp hợp đồng NFT cũ.",
+                price: "$6,999 USD/month",
+                hourlyEquivalent: "$43.74 USD/hr",
+                "schedule": "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
+                highlight: "Phát triển NFT hiện đại và nâng cấp các hợp đồng thông minh legacy.",
                 features: [
-                    "Phát triển NFT hiện đại và nâng cấp NFT legacy",
-                    "Tạo hoặc chỉnh sửa hợp đồng thông minh với Solidity",
-                    "Hỗ trợ frontend/backend: Next.js, React, Node.js",
-                    "Hỗ trợ chuẩn NFT (ERC721, ERC1155) và thị trường"
+                    "Phát triển NFT theo chuẩn mới và nâng cấp NFT cũ",
+                    "Tạo mới hoặc tái cấu trúc hợp đồng thông minh dựa trên Solidity",
+                    "Tích hợp với các framework front-end và back-end phổ biến: Next.js, React, Node.js",
+                    "Hỗ trợ các tiêu chuẩn NFT (ERC721, ERC1155) và chợ NFT"
                 ],
                 link: "service-packages/"
             }
         ]
     },
     gold: {
-        name: "Gold Packages",
-        description: "Ba gói bán thời gian – Essential Care Plan, Growth Support Plan và Blockchain Pioneer Plan – lý tưởng cho hỗ trợ liên tục hoặc bảo trì sau khi khởi chạy với lịch trình linh hoạt và khả năng mở rộng.",
+        name: "Gói Vàng",
+        description: "Ba gói làm việc chia sẻ thời gian — Essential Care, Growth Support và Blockchain Pioneer — được thiết kế cho việc phát triển và hỗ trợ liên tục các dự án hiện có sau khi ra mắt, với lịch trình rõ ràng và khả năng mở rộng linh hoạt. Phù hợp với các startup, agency và đội ngũ kỹ thuật cần đối tác đáng tin cậy mà không cần thuê toàn thời gian.",
         plans: [
             {
-                name: "Essential Care Plan",
-                price: "$899 USD/tháng",
-                hourlyEquivalent: "$5.625 USD/giờ",
-                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chia sẻ)",
-                highlight: "Hỗ trợ dài hạn đáng tin cậy, không phát triển tính năng mới. Phù hợp với hệ thống ổn định.",
+                name: "Gói Essential Care",
+                price: "20 triệu VND/tháng",
+                hourlyEquivalent: "125,000 VND/giờ",
+                "schedule": "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
+                highlight: "Hỗ trợ cơ bản cho các hệ thống có nhu cầu phát triển hạn chế. Phù hợp cho MVP, PoC và các hoạt động giai đoạn đầu.",
                 features: [
-                    "Giám sát hệ thống, bảo trì và hỗ trợ kỹ thuật",
-                    "Cập nhật tài liệu và hỗ trợ đào tạo nhóm",
-                    "Không bao gồm phát triển tính năng mới",
-                    "Hỗ trợ ngôn ngữ lập trình và cơ sở dữ liệu phổ biến"
+                    "Thiết lập nhẹ và tối ưu chức năng cốt lõi",
+                    "Giám sát hệ thống, điều chỉnh nhỏ và duy trì ổn định",
+                    "Tài liệu và hướng dẫn cho đội ngũ phát triển mới",
+                    "Không bao gồm phát triển tính năng phức tạp mới",
+                    "Hỗ trợ ngôn ngữ và cơ sở dữ liệu phổ biến"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Growth Support Plan",
-                price: "$1,999 USD/tháng",
-                hourlyEquivalent: "$12.49 USD/giờ",
-                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chia sẻ)",
-                highlight: "Hỗ trợ linh hoạt có phát triển tính năng mới cho hệ thống đang mở rộng.",
+                name: "Gói Growth Support",
+                price: "45 triệu VND/tháng",
+                hourlyEquivalent: "280,000 VND/giờ",
+                "schedule": "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
+                highlight: "Dành cho doanh nghiệp đang phát triển cần phát triển liên tục mà không cần cam kết toàn thời gian.",
                 features: [
-                    "Bảo trì và phát triển tính năng mới",
-                    "Hỗ trợ ngôn ngữ lập trình và framework phổ biến",
-                    "Cải tiến liên tục nền tảng web, API hoặc tùy chỉnh",
-                    "Hỗ trợ cơ sở dữ liệu và nền tảng đám mây phổ biến"
+                    "Bảo trì định kỳ và phát triển tính năng mức trung bình",
+                    "Họp đồng bộ 1 lần/tuần với các bên liên quan (1–3 thành viên)",
+                    "Hỗ trợ full-stack cho API, nền tảng và công cụ nội bộ",
+                    "Phủ rộng các ngôn ngữ, framework, cơ sở dữ liệu và nền tảng đám mây phổ biến",
+                    "Có thể mở rộng lên các gói lớn hơn khi doanh nghiệp tăng trưởng"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Advanced Growth Plan",
-                price: "$2.999 USD/tháng",
-                hourlyEquivalent: "$18,74 USD/giờ",
-                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Bán thời gian, chia sẻ)",
-                highlight: "Tập trung phát triển cân bằng cho các doanh nghiệp đang mở rộng với nhu cầu hoạt động cao.",
+                name: "Gói Advanced Growth",
+                price: "67 triệu VND/tháng",
+                hourlyEquivalent: "420,000 VND/giờ",
+                "schedule": "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
+                highlight: "Tập trung phát triển mạnh mẽ hơn so với Growth Support, phù hợp với các nền tảng cần nâng cấp và cộng tác thường xuyên với các bên liên quan.",
                 features: [
-                    "Giờ làm việc chuyên dụng để nâng cấp và tinh chỉnh tính năng liên tục",
-                    "Phát triển Full-Stack cho cả hệ thống Front-End và Back-End",
-                    "Lý tưởng cho các nền tảng đang tăng trưởng cần cập nhật thường xuyên",
-                    "Hỗ trợ tích hợp với dịch vụ và API bên thứ ba",
-                    "Hỗ trợ các framework, cơ sở dữ liệu và nền tảng đám mây chính"
+                    "Mở rộng phạm vi nâng cấp tính năng, tinh chỉnh và cải thiện hiệu suất",
+                    "Chu kỳ giao hàng thường xuyên hơn Growth Support (phù hợp với vòng lặp nhanh)",
+                    "1–2 cuộc họp/tuần với các bên liên quan (3–6 người) để lập kế hoạch và phản hồi",
+                    "Phát triển full-stack cho web, backend và tích hợp bên thứ ba",
+                    "Hỗ trợ các framework, cơ sở dữ liệu và dịch vụ đám mây phổ biến với nhu cầu ngày càng tăng"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Blockchain Pioneer Plan",
-                price: "$3,999 USD/tháng",
-                hourlyEquivalent: "$24.99 USD/giờ",
-                schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chia sẻ)",
-                highlight: "Phát triển blockchain bán thời gian cho các dự án Web3, blockchain hoặc NFT mới.",
+                name: "Gói Blockchain Pioneer",
+                price: "90 triệu VND/tháng",
+                hourlyEquivalent: "560,000 VND/giờ",
+                "schedule": "Thứ 2–6, 08:30–17:30 (toàn thời gian, chia sẻ thời gian)",
+                highlight: "Hỗ trợ blockchain cấp nhập môn cho các dự án Web3, NFT và sản phẩm dựa trên Ethereum.",
                 features: [
-                    "Hỗ trợ Web3, hợp đồng thông minh, NFT, Ethereum",
-                    "Hỗ trợ frontend/backend cho nền tảng tùy chỉnh",
-                    "Lý tưởng cho các dự án blockchain đang mở rộng"
+                    "Phát triển smart contract và dApp trên Ethereum",
+                    "Tích hợp với backend Web2/3 và hệ sinh thái token",
+                    "Phát hành NFT, quản lý metadata và chuẩn bị marketplace",
+                    "Phù hợp với các công ty thử nghiệm hoặc ra mắt trải nghiệm Web3"
                 ],
                 link: "service-packages/"
             }
@@ -114,46 +117,45 @@ export const ServicePackagesVI: IServicePackages = {
     },
     premium: {
         name: "Premium Packages",
-        description: "Gói phát triển linh hoạt theo giờ – lý tưởng cho startup, nhóm agile hoặc nhà đổi mới blockchain cần hỗ trợ theo nhu cầu. Bao gồm sửa lỗi khẩn cấp cực nhanh!",
+        description: "Các gói phát triển linh hoạt tính theo giờ — phù hợp với team agile, startup hoặc Web3 project cần hỗ trợ theo nhu cầu. Là đối tác chiến lược giúp mở rộng quy mô mà không cần thuê đội ngũ cố định. Bao gồm cả dịch vụ xử lý lỗi khẩn cấp.",
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40 USD/giờ",
-                hourlyEquivalent: "$40 USD/giờ",
+                price: "$40 USD/hr",
+                hourlyEquivalent: "$40 USD/hr",
                 hours: "20–40 giờ/tuần",
-                highlight: "Dịch vụ phát triển bán/thời gian đầy đủ với kỹ năng full-stack.",
+                highlight: "Phát triển phần mềm full-stack linh hoạt, giúp tăng tốc roadmap sản phẩm và khả năng mở rộng.",
                 features: [
-                    "Phát triển phần mềm tùy chỉnh, web và API theo yêu cầu",
-                    "Hỗ trợ ngôn ngữ lập trình và framework phổ biến",
-                    "Phù hợp với nhóm cần nhà phát triển linh hoạt và có kỹ năng"
+                    "Phát triển phần mềm, website, và API theo yêu cầu",
+                    "Hỗ trợ hầu hết các ngôn ngữ lập trình và framework phổ biến",
+                    "Lý tưởng cho các startup muốn tiết kiệm chi phí tuyển dụng dài hạn"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60 USD/giờ",
-                hourlyEquivalent: "$60 USD/giờ",
+                price: "$60 USD/hr",
+                hourlyEquivalent: "$60 USD/hr",
                 hours: "20–40 giờ/tuần",
-                highlight: "Dịch vụ blockchain nâng cao cho doanh nghiệp Web3 và nhà đổi mới NFT.",
+                highlight: "Dịch vụ blockchain chuyên sâu dành cho các dự án Web3 và nền tảng NFT.",
                 features: [
-                    "Phát triển blockchain, hợp đồng thông minh, NFT, Ethereum",
-                    "Hỗ trợ frontend/backend: Next.js, React, Node.js",
-                    "Tích hợp frontend và backend cho nền tảng tùy chỉnh",
-                    "Linh hoạt triển khai cho dự án Web3 cao cấp"
+                    "Phát triển smart contract, NFT, và Ethereum",
+                    "Tích hợp front-end & back-end với Next.js, React, Node.js",
+                    "Đối tác chiến lược giúp tăng tốc sản phẩm Web3"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "Urgent Bug Fix",
-                price: "$240 USD/lần",
-                hourlyEquivalent: "$30 USD/giờ",
+                price: "$240 USD/fix",
+                hourlyEquivalent: "$30 USD/hr",
                 hours: "Dự phòng 8 giờ/ngày",
-                highlight: "Phản hồi khẩn cấp – khắc phục sự cố trong cùng một ngày.",
+                highlight: "Phản ứng nhanh khi có sự cố nghiêm trọng — chẩn đoán và sửa lỗi trong ngày.",
                 features: [
                     "Tư vấn và hỗ trợ ngay lập tức",
-                    "Giao trong ngày",
-                    "Sửa lỗi đơn cho dự án bên ngoài",
-                    "Không cần hợp đồng lâu dài"
+                    "Giao hàng trong cùng ngày",
+                    "Fix lỗi đơn lẻ cho các dự án bên ngoài",
+                    "Không cần ký hợp đồng dài hạn"
                 ],
                 link: "service-packages/"
             }

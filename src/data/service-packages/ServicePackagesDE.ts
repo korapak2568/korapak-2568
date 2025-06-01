@@ -51,109 +51,94 @@ export const ServicePackagesDE: IServicePackages = {
         ]
     },
     gold: {
-        name: "Gold-Pakete",
-        description: "Drei geteilte Zeitpakete – Essential Care Plan, Growth Support Plan und Blockchain Pioneer Plan – konzipiert für kontinuierliche Entwicklung oder Support bestehender Projekte nach dem Launch mit strukturierten Zeitplänen und flexibler Skalierbarkeit.",
+        name: "Platinum Packages",
+        description: "Drei vollständig dedizierte Servicepakete für Unternehmen und Startups mit kritischen Zeitplänen. Wir agieren als strategischer Technologiepartner zur Unterstützung der Skalierung und Reduktion interner Ressourcen. Optimal für Produkteinführungen innerhalb von 3–12 Monaten.",
         plans: [
             {
-                name: "Essential Care Plan",
-                price: "$899 USD/Monat",
-                hourlyEquivalent: "$5.625/Stunde",
-                schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, geteilt)",
-                highlight: "Zuverlässiger langfristiger Support ohne neue Entwicklung. Ideal für stabile Systeme.",
+                name: "Premium Innovation Plan",
+                price: "195.000 THB/Monat",
+                hourlyEquivalent: "1.220 THB/Stunde",
+                "schedule": "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert)",
+                highlight: "Exklusive Vollzeitunterstützung für Nicht-Blockchain-Projekte wie MVPs, Systemmodernisierungen und skalierbare Anwendungen.",
                 features: [
-                    "Systemüberwachung, Wartung und technischer Support",
-                    "Aktualisierung von Dokumentationen und Unterstützung beim Teamlernen",
-                    "Keine neuen Feature-Entwicklungen enthalten",
-                    "Unterstützt alle gängigen Programmiersprachen und Datenbanken"
+                    "Systemoptimierung, Feature-Entwicklung, MVP, PoC",
+                    "Support für gängige Programmiersprachen und Frameworks (Frontend & Backend)",
+                    "Kompatibel mit führenden Datenbanken und Cloud-Infrastrukturen",
+                    "Unterstützung moderner und klassischer Protokolle (gRPC, RPI, JMS usw.)"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Growth Support Plan",
-                price: "$1,999 USD/Monat",
-                hourlyEquivalent: "$12.49/Stunde",
-                schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, geteilt)",
-                highlight: "Flexibler Support mit kontinuierlicher Entwicklung für wachsende Systeme.",
+                name: "Web3 Core Plan",
+                price: "$6,999 USD/month",
+                hourlyEquivalent: "$43.74 USD/hr",
+                "schedule": "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert)",
+                highlight: "End-to-End Blockchain-Entwicklung mit vollständiger Web3-Integration, einschließlich Smart Contracts und Token-Mechanismen.",
                 features: [
-                    "Wartung und Entwicklung neuer Funktionen",
-                    "Unterstützt alle gängigen Programmiersprachen und Frameworks",
-                    "Kontinuierliche Verbesserung von Web-, API- oder kundenspezifischen Plattformen",
-                    "Unterstützt alle gängigen Datenbanken und Cloud-Plattformen"
+                    "Blockchain- und Web3-Entwicklung mit Solidity, Ethers.js, Ethereum",
+                    "Smart Contracts inkl. Audit und Integration",
+                    "Frontend & Backend mit Next.js, React, Node.js",
+                    "Airdrops, Token Presales, Belohnungssysteme"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Advanced Growth Plan",
-                price: "$2.999 USD/Monat",
-                hourlyEquivalent: "$18,74 USD/Stunde",
-                schedule: "Mo–Fr, 8:30–17:30 (Teilzeit, geteilt)",
-                highlight: "Ausgewogener Entwicklungsfokus für wachsende Unternehmen mit aktivem Bedarf.",
+                name: "NFT Evolution Plan",
+                price: "$6,999 USD/month",
+                hourlyEquivalent: "$43.74 USD/hr",
+                "schedule": "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert)",
+                highlight: "Fokus auf NFT-Projekte – neue Entwicklungen und Updates für bestehende Smart Contracts.",
                 features: [
-                    "Dedizierte Stunden für kontinuierliche Feature-Upgrades und Optimierungen",
-                    "Full-Stack-Entwicklung für Front-End- und Back-End-Systeme",
-                    "Ideal für wachsende Plattformen mit regelmäßigen Aktualisierungsanforderungen",
-                    "Unterstützt Integration mit Drittanbieterdiensten und APIs",
-                    "Umfasst wichtige Frameworks, Datenbanken und Cloud-Plattformen"
-                ],
-                link: "service-packages/"
-            },
-            {
-                name: "Blockchain Pioneer Plan",
-                price: "$3,999 USD/Monat",
-                hourlyEquivalent: "$24.99/Stunde",
-                schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, geteilt)",
-                highlight: "Blockchain-Entwicklung in geteiltem Zeitmodell für neue Web3-, Blockchain- und NFT-Projekte.",
-                features: [
-                    "Web3-, Smart Contract-, NFT- und Ethereum-Support",
-                    "Unterstützt Frontend- und Backend-Integration für kundenspezifische Plattformen",
-                    "Ideal für wachsende Blockchain-Projekte in kontinuierlicher Entwicklung"
+                    "Moderne NFT-Entwicklung und Migration alter Verträge",
+                    "Solidity-basierte Smart Contract-Erstellung und -Optimierung",
+                    "Integration mit Next.js, React, Node.js",
+                    "Unterstützung für NFT-Standards (ERC721, ERC1155) und Marktplätze"
                 ],
                 link: "service-packages/"
             }
         ]
     },
     premium: {
-        name: "Premium-Pakete",
-        description: "Flexible, stundenbasierte Entwicklungspakete – geeignet für agile Teams, Start-ups und Blockchain-Innovatoren, die On-Demand-Support benötigen. Inklusive Super-Dringend-Fehlerbehebung!",
+        name: "Premium Packages",
+        description: "Flexible, stundenbasierte Entwicklungspakete — ideal für agile Teams, Startups und Web3-Unternehmen, die bedarfsorientierte Unterstützung benötigen. Skalierbar und ohne feste Mitarbeiterbindung. Inklusive Express-Fehlerbehebung.",
         plans: [
             {
                 name: "Pro Dev Flex Pack",
-                price: "$40 USD/Stunde",
-                hourlyEquivalent: "$40 USD/Stunde",
+                price: "$40 USD/hr",
+                hourlyEquivalent: "$40 USD/hr",
                 hours: "20–40 Std./Woche",
-                highlight: "Teilzeit- oder Vollzeitentwicklungsdienst mit Full-Stack-Fähigkeiten.",
+                highlight: "Flexible Full-Stack-Entwicklung für Teams, die skalierbare Unterstützung benötigen.",
                 features: [
-                    "On-Demand-Entwicklung von benutzerdefinierter Software, Web- und API",
+                    "Individuelle Software-, Web- und API-Entwicklung auf Abruf",
                     "Unterstützt alle gängigen Programmiersprachen und Frameworks",
-                    "Ideal für Teams, die flexible, qualifizierte Entwicklungsressourcen benötigen"
+                    "Perfekt zur Ergänzung bestehender Teams oder MVP-Sprints"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "Web3 Elite Pack",
-                price: "$60 USD/Stunde",
-                hourlyEquivalent: "$60 USD/Stunde",
+                price: "$60 USD/hr",
+                hourlyEquivalent: "$60 USD/hr",
                 hours: "20–40 Std./Woche",
-                highlight: "Erweiterte Blockchain-Dienste für Web3-native Unternehmen und NFT-Innovatoren.",
+                highlight: "Spezialisierte Blockchain- und NFT-Entwicklung für Web3-First-Projekte.",
                 features: [
-                    "Blockchain-, Smart Contract-, NFT- und Ethereum-Entwicklung",
-                    "Unterstützung führender Frontend- und Backend-Frameworks: Next.js, React, Node.js",
-                    "Frontend- und Backend-Integration für kundenspezifische Plattformen",
-                    "Flexible Beteiligung für fortschrittliche Web3-Projekte"
+                    "Entwicklung von Smart Contracts, NFT-Standards und Ethereum-basierten Plattformen",
+                    "Integration mit Next.js, React und Node.js",
+                    "Optimiert für Tokenomics, Presales und dezentrale Anwendungen"
                 ],
                 link: "service-packages/"
             },
             {
                 name: "Urgent Bug Fix",
                 price: "$240 USD/fix",
-                hourlyEquivalent: "$30/Stunde",
-                hours: "Reserve: 8 Std./Tag",
-                highlight: "Schnelle Notfallreaktion – Problemdiagnose und -lösung innerhalb eines Tages.",
+                hourlyEquivalent: "$30 USD/hr",
+                hours: "8 Std. reserviert",
+                highlight: "Sofortige Fehlerbehebung mit Lieferung am selben Tag — ideal für kritische Ausfälle.",
                 features: [
-                    "Sofortige Beratung und Unterstützung",
-                    "Lieferung am selben Tag",
-                    "Einzelne Fehlerbehebung für externe Projekte",
-                    "Kein langfristiger Vertrag erforderlich"
+                    "Schnelle Analyse und Umsetzung",
+                    "Keine Vertragsbindung erforderlich",
+                    "Einzelproblembehebung auch für externe Projekte",
+                    "Geeignet für Produktionssysteme mit hoher Verfügbarkeit"
                 ],
                 link: "service-packages/"
             }
