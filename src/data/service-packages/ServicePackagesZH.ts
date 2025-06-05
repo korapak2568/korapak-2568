@@ -2,6 +2,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesZH: IServicePackages = {
+    name: "服务套餐",
     platinum: {
         name: "Platinum Packages",
         description: "三大高优先级服务包 — Premium Innovation Plan、Web3 Core Plan 和 NFT Evolution Plan — 专为全职投入、目标在 3–12 个月内上线的项目而设计。非常适合需要战略合作伙伴、可扩展架构并希望减少内部技术招聘负担的企业或创业团队。",

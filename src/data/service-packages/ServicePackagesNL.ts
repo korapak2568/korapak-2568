@@ -2,6 +2,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesNL: IServicePackages = {
+    name: "Servicepakketten",
     platinum: {
         name: "Platinum Packages",
         description: "Drie high-priority pakketten — Premium Innovation Plan, Web3 Core Plan en NFT Evolution Plan — ontworpen voor fulltime toewijding en snelle oplevering binnen 3–12 maanden. Ideaal voor strategische groei, schaalbaarheid en het verlichten van de noodzaak om een intern team aan te nemen.",

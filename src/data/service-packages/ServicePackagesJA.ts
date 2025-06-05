@@ -2,6 +2,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesJA: IServicePackages = {
+    name: "サービスパッケージ",
     platinum: {
         name: "Platinum Packages",
         description: "「Premium Innovation Plan」「Web3 Core Plan」「NFT Evolution Plan」の3つのフルタイム専用パッケージは、3〜12ヶ月以内の製品ローンチを目指す戦略的なスタートアップや企業向けに設計されています。専任の技術パートナーとしてスケーラビリティを実現し、社内エンジニアの採用負担を軽減します。",

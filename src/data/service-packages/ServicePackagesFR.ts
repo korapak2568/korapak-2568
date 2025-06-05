@@ -2,6 +2,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesFR: IServicePackages = {
+    name: "Forfaits de service",
     platinum: {
         name: "Platinum Packages",
         description: "Trois offres entièrement dédiées, pensées pour les entreprises et startups avec une vision stratégique de croissance. Nous agissons comme un partenaire technologique pour soutenir l’évolutivité tout en réduisant les besoins en embauche interne. Idéal pour des lancements prévus sous 3 à 12 mois.",

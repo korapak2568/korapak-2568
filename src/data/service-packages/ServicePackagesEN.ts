@@ -1,6 +1,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesEN: IServicePackages = {
+    name: "Service Packages",
     platinum: {
         name: "Platinum Packages",
         description: "Three strategic, full-time engagement packages — Premium Innovation Plan, Web3 Core Plan, and NFT Evolution Plan — tailored for CTOs, Product Owners, and Founders seeking a trusted technical partner to accelerate product launches within 3 to 12 months. Designed for mission-critical initiatives demanding scalability, rapid iteration, and reduction of in-house hiring overhead.",

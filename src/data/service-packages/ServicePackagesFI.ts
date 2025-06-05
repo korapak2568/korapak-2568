@@ -2,6 +2,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesFI: IServicePackages = {
+    name: "Palvelupaketit",
     platinum: {
         name: "Platinum Packages",
         description: "Kolme täysipäiväistä palvelupakettia yrityksille ja startupeille, joilla on selkeä skaalausstrategia. Toimimme teknologiapartnerina, joka auttaa vähentämään rekrytointipainetta ja nopeuttamaan tuotekehitystä. Sopii erityisesti 3–12 kuukauden aikajänteen lanseerauksiin.",

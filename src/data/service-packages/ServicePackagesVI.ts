@@ -2,6 +2,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesVI: IServicePackages = {
+    name: "Gói Dịch Vụ",
     platinum: {
         name: "Platinum Packages",
         description: "Ba gói cao cấp — Premium Innovation Plan, Web3 Core Plan và NFT Evolution Plan — được thiết kế dành cho các dự án phát triển toàn thời gian, với mục tiêu ra mắt trong vòng 3–12 tháng. Phù hợp với các startup hoặc doanh nghiệp cần đối tác chiến lược, khả năng mở rộng linh hoạt và giảm gánh nặng tuyển dụng đội ngũ kỹ thuật nội bộ.",

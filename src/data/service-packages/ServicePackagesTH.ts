@@ -1,6 +1,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesTH: IServicePackages = {
+    name: "แพ็กเกจบริการ",
     platinum: {
         name: "Platinum Packages",
         description: "แพ็กเกจบริการแบบเต็มเวลาที่ออกแบบมาเป็นพาร์ทเนอร์ทางเทคนิคเชิงกลยุทธ์สำหรับ CTO, เจ้าของผลิตภัณฑ์ และผู้ก่อตั้งสตาร์ทอัพ ที่ต้องการเร่งการเปิดตัวผลิตภัณฑ์ภายใน 3–12 เดือน เหมาะกับโครงการที่มีความสำคัญสูง ต้องการความสามารถในการขยายตัวอย่างรวดเร็ว และลดภาระการจ้างทีมประจำ",

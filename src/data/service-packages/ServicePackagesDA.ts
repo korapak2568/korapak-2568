@@ -1,6 +1,7 @@
 import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesDA: IServicePackages = {
+    name: "Servicepakker",
     platinum: {
         name: "Platinum Packages",
         description: "Tre fuldt dedikerede pakker designet til virksomheder og startup-teams med kritiske roadmaps. Disse løsninger fungerer som en strategisk teknologipartner, hvor vi hjælper med skalering og reducerer behovet for interne ansættelser. Ideel til projekter, der skal lanceres inden for 3–12 måneder.",
