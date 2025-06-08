@@ -1,0 +1,116 @@
+.about-bottom-image {
+  margin-bottom: 0;
+  display: flex;
+  justify-content: space-between;
+
+  // fixing the icons disappears on the mobile device
+  backface-visibility: hidden;
+  transform: translate3d(0, 0, 0);
+  // end of fixing the icons disappears
+
+  .left {
+    margin-bottom: 0;
+    margin-top: 5px;
+
+    .left-row {
+      margin-bottom: 10px;
+      display: flex;
+
+      .about-icon-symbol {
+        display: inline-block;
+
+        a.linkedin {
+          padding: 5px 8px;
+          background-color: #007bb5;
+          border-color: #007bb5;
+          color: #ffffff;
+        }
+
+        a.whatsapp {
+          padding: 5px 8px;
+          background-color: #0cc143;
+          border-color: #0cc143;
+          color: #ffffff;
+        }
+      }
+
+      .linkedin-text {
+        padding-left: 10px;
+      }
+
+      .linkedin-text a:hover {
+        color: #fd9b5f;
+      }
+
+      .icon {
+        font-weight: 600;
+        padding: 5px 8px;
+        display: flex;
+        align-items: center;
+        gap: 0;
+
+        background: linear-gradient(to right, #06c755, #0f91ff);
+        color: white;
+      }
+
+      p {
+        padding-left: 10px;
+      }
+    }
+  }
+
+  .right {
+
+  }
+
+  .single-row {
+    margin-bottom: 0;
+    margin-top: 20px;
+
+    .left-row {
+      margin-bottom: 2px;
+      display: flex;
+
+      .about-icon-symbol {
+        display: inline-block;
+
+        a.linkedin {
+          padding: 5px 8px;
+          background-color: #007bb5;
+          border-color: #007bb5;
+          color: #ffffff;
+        }
+
+        a.whatsapp {
+          padding: 5px 8px;
+          background-color: #0cc143;
+          border-color: #0cc143;
+          color: #ffffff;
+        }
+      }
+
+      .linkedin-text {
+        padding-left: 10px;
+      }
+
+      .linkedin-text a:hover {
+        color: #fd9b5f;
+      }
+
+      .icon {
+        font-weight: 600;
+        padding: 5px 8px;
+        display: flex;
+        align-items: center;
+        gap: 0;
+
+        background: linear-gradient(to right, #06c755, #0f91ff);
+        color: white;
+      }
+
+      p {
+        padding-left: 10px;
+      }
+    }
+  }
+}

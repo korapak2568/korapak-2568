@@ -1,5 +1,5 @@
 // src/components/ServicePackages/ServicePremiumPackages.tsx
-import {FaCode, FaShieldAlt} from "react-icons/fa";
+import {FaBolt, FaGem, FaTools} from "react-icons/fa";
 import Link from "next/link";
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
@@ -11,7 +11,7 @@ export default function ServicePremiumPackages({lang}: { lang: string }) {
     return (
         <div className="service-row border-premium">
             <div className="service-left premium">
-                <h2><FaCode/>{premium.name}</h2>
+                <h2><FaGem/>{premium.name}</h2>
                 <p>{premium.description}</p>
             </div>
 
@@ -28,7 +28,7 @@ export default function ServicePremiumPackages({lang}: { lang: string }) {
                         >
                             <div className="plan-detail premium">
                                 <strong>
-                                    {index == 0 ? <FaShieldAlt/> : <FaCode/>}
+                                    {index == 0 ? <FaBolt/> : <FaTools/>}
                                     <span>{plan.name}</span>
                                 </strong>
                                 <p>{plan.highlight}</p>
