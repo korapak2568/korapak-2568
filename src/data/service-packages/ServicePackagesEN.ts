@@ -8,7 +8,7 @@ export const ServicePackagesEN: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/month",
+                price: "$5,900 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "Dedicated full-time technical partnership for non-blockchain projects focused on MVP delivery, system modernization, and scalable growth.",
@@ -22,7 +22,7 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "End-to-end blockchain development package enabling full Web3 integration, tokenomics design, and secure smart contract delivery.",
@@ -36,7 +36,7 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (Full-time, dedicated, or permanent)",
                 highlight: "Focused NFT development and modernization service, bridging new builds with legacy contract upgrades for evolving digital asset strategies.",
@@ -56,7 +56,7 @@ export const ServicePackagesEN: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/month",
+                price: "$799 USD/month",
                 hourlyEquivalent: "$5.625 USD/hr",
                 schedule: "Mon–Fri, 8:30–17:30 (shared)",
                 highlight: "Foundational engineering support for MVPs, internal tools, or early-stage platforms requiring minimal development effort.",

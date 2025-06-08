@@ -9,7 +9,7 @@ export const ServicePackagesVI: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/month",
+                price: "$5,900 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
                 highlight: "Hỗ trợ toàn thời gian cho các dự án không sử dụng blockchain: xây dựng MVP, nâng cấp hệ thống và mở rộng quy mô.",
@@ -23,7 +23,7 @@ export const ServicePackagesVI: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
                 highlight: "Phát triển blockchain toàn diện với tích hợp Web3, bao gồm smart contract và thiết kế tokenomics.",
@@ -37,7 +37,7 @@ export const ServicePackagesVI: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Thứ 2–Thứ 6, 8:30–17:30 (Toàn thời gian, chuyên trách)",
                 highlight: "Phát triển NFT hiện đại và nâng cấp các hợp đồng thông minh legacy.",
@@ -57,7 +57,7 @@ export const ServicePackagesVI: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/month",
+                price: "$799 USD/month",
                 hourlyEquivalent: "125,000 VND/giờ",
                 schedule: "Thứ 2–6, 08:30–17:30 (chia sẻ thời gian)",
                 highlight: "Hỗ trợ cơ bản cho các hệ thống có nhu cầu phát triển hạn chế. Phù hợp cho MVP, PoC và các hoạt động giai đoạn đầu.",

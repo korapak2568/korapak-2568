@@ -8,7 +8,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/month",
+                price: "$5,900 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Dedikeret support til udvikling uden blockchain – ideel til MVP’er, systemopgraderinger og skalerbare løsninger.",
@@ -22,7 +22,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$5,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Komplet blockchain-løsning med Web3-integration – herunder smart contracts og token design.",
@@ -36,7 +36,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Specialiseret i NFT-løsninger – både nye produkter og modernisering af eksisterende smart contracts.",
@@ -56,7 +56,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/måned",
+                price: "$799 USD/måned",
                 hourlyEquivalent: "$5.625 USD/time",
                 schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Grundlæggende teknisk support til MVP'er, interne værktøjer eller tidlige platforme med minimale udviklingsbehov.",

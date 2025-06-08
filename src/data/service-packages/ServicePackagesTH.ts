@@ -8,8 +8,7 @@ export const ServicePackagesTH: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "194,900 บาท/เดือน",
-                hourlyEquivalent: "1,220 บาท/ชม",
+                price: "189,900 บาท/เดือน",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, เฉพาะโครงการ)",
                 highlight: "การสนับสนุนแบบเต็มเวลาสำหรับโครงการที่ไม่ใช่บล็อกเชน เน้นการส่งมอบ MVP, การปรับปรุงระบบ และการขยายตัวแบบยั่งยืน",
                 features: [
@@ -22,8 +21,7 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "226,900 บาท/เดือน",
-                hourlyEquivalent: "1,380 บาท/ชม",
+                price: "219,900 บาท/เดือน",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, เฉพาะโครงการ)",
                 highlight: "แพ็กเกจพัฒนาบล็อกเชนครบวงจร รองรับการรวม Web3 เต็มรูปแบบ รวมถึงการออกแบบโทเคนและสมาร์ตคอนแทรกต์ที่ปลอดภัย",
                 features: [
@@ -36,8 +34,7 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "226,900 บาท/เดือน",
-                hourlyEquivalent: "1,380 บาท/ชม",
+                price: "219,900 บาท/เดือน",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, เฉพาะโครงการ)",
                 highlight: "บริการพัฒนา NFT โดยเน้นการสร้างโปรเจกต์ใหม่และการอัปเกรดสมาร์ตคอนแทรกต์รุ่นเก่าสำหรับกลยุทธ์สินทรัพย์ดิจิทัลที่เติบโตอย่างต่อเนื่อง",
                 features: [
@@ -56,8 +53,7 @@ export const ServicePackagesTH: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "28,900 บาท/เดือน",
-                hourlyEquivalent: "~185 บาท/ชั่วโมง",
+                price: "24,999 บาท/เดือน",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (แบ่งเวลา)",
                 highlight: "เหมาะสำหรับระบบที่ต้องการการดูแลเบื้องต้น เช่น MVP, PoC หรือระบบที่ใช้งานจริงแต่มีความต้องการพัฒนาไม่มาก",
                 features: [
@@ -71,8 +67,7 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Growth Support Plan",
-                price: "64,900 บาท/เดือน",
-                hourlyEquivalent: "~405 บาท/ชั่วโมง",
+                price: "64,999 บาท/เดือน",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (แบ่งเวลา)",
                 highlight: "เหมาะสำหรับธุรกิจที่ต้องการทีมสนับสนุนการพัฒนาอย่างต่อเนื่อง โดยไม่ต้องจ้างทีมแบบ Full-time",
                 features: [
@@ -86,7 +81,7 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Advanced Growth Plan",
-                price: "97,900 บาท/เดือน",
+                price: "94,999 บาท/เดือน",
                 hourlyEquivalent: "~610 บาท/ชั่วโมง",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (แบ่งเวลา)",
                 highlight: "สำหรับแพลตฟอร์มหรือบริการที่ต้องพัฒนาฟีเจอร์ใหม่อย่างต่อเนื่อง พร้อมทีมที่ต้องการความร่วมมืออย่างใกล้ชิดในเชิงกลยุทธ์",
@@ -101,7 +96,7 @@ export const ServicePackagesTH: IServicePackages = {
             },
             {
                 name: "Blockchain Pioneer Plan",
-                price: "128,900 บาท/เดือน",
+                price: "129,999 บาท/เดือน",
                 hourlyEquivalent: "~810 บาท/ชั่วโมง",
                 schedule: "จันทร์–ศุกร์, 8:30–17:30 (เต็มเวลา, แบ่งเวลา)",
                 highlight: "บริการระดับเริ่มต้นสำหรับองค์กรที่ต้องการเริ่มต้นใช้ Blockchain หรือ Web3 เพื่อสร้างผลิตภัณฑ์ใหม่ในเชิงพาณิชย์",

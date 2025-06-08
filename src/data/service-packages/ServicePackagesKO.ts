@@ -9,7 +9,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/month",
+                price: "$5,900 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "PoC, MVP 개발, 시스템 업그레이드 및 확장을 포함한 비블록체인 프로젝트 전용 풀타임 기술 지원.",
@@ -23,7 +23,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "토크노믹스와 스마트 계약 개발을 포함한 완전한 Web3 통합 블록체인 개발.",
@@ -37,7 +37,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "최신 NFT 개발 및 레거시 계약 현대화를 위한 전담 개발 서비스.",
@@ -57,7 +57,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/월",
+                price: "$799 USD/월",
                 hourlyEquivalent: "$5.625 USD/시간",
                 schedule: "월–금, 08:30–17:30 (시간 공유)",
                 highlight: "MVP, 내부 도구 또는 소규모 플랫폼을 위한 필수 기술 유지보수 및 운영 안정성 확보에 적합한 베이직 패키지입니다.",

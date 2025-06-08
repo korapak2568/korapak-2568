@@ -9,7 +9,7 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/Monat",
+                price: "$5,900 USD/Monat",
                 hourlyEquivalent: "$37.49/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "Exklusiver Vollzeitsupport für Nicht-Blockchain-Projekte, einschließlich MVPs, System-Upgrades und Skalierung.",
@@ -23,7 +23,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999 USD/Monat",
+                price: "$6,900 USD/Monat",
                 hourlyEquivalent: "$43.74/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "End-to-End Blockchain-Entwicklung mit vollständiger Web3-Integration, einschließlich Tokenomics und Smart Contracts.",
@@ -37,7 +37,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/Monat",
+                price: "$6,900 USD/Monat",
                 hourlyEquivalent: "$43.74/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "NFT-fokussierte Entwicklung, einschließlich Neubauten und Modernisierung bestehender Verträge.",
@@ -57,7 +57,7 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/Monat",
+                price: "$799 USD/Monat",
                 hourlyEquivalent: "$5.625 USD/Stunde",
                 schedule: "Mo–Fr, 8:30–17:30 Uhr (geteilt)",
                 highlight: "Grundlegender Entwicklungs-Support für MVPs, interne Tools oder frühe Plattformversionen mit geringem Wartungsaufwand.",

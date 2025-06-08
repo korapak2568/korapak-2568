@@ -9,7 +9,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/month",
+                price: "$5,900 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Exclusieve fulltime ondersteuning voor niet-blockchain projecten zoals MVP’s, systeemverbeteringen en schaalvergroting.",
@@ -23,7 +23,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Volledige blockchain-ontwikkeling inclusief tokenomics en smart contracts, met volledige Web3-integratie.",
@@ -37,7 +37,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Gespecialiseerde NFT-ontwikkeling en modernisering van bestaande contracten.",
@@ -57,7 +57,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/month",
+                price: "$799 USD/month",
                 hourlyEquivalent: "$5.625 USD/hr",
                 schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Fundamentele ondersteuning voor systemen met beperkte ontwikkelbehoeften. Perfect voor MVP’s, proof-of-concepts en vroege operationele fases.",

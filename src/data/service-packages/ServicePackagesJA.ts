@@ -9,7 +9,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/month",
+                price: "$5,900 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "PoCやMVP開発、機能拡張やシステムリファクタリングを含む、非ブロックチェーン領域でのスケーラブルな開発支援。",
@@ -23,7 +23,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "SolidityやEthereumを用いたスマートコントラクト開発、トークノミクス設計を含む、Web3完全統合型ブロックチェーン開発支援。",
@@ -37,7 +37,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "最新のNFT開発と既存スマートコントラクトの近代化にフォーカスした専門的支援。",
@@ -57,7 +57,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/月",
+                price: "$799 USD/月",
                 hourlyEquivalent: "$5.625 USD/時",
                 schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "MVP、社内ツール、初期段階のプラットフォームなど、開発ニーズが限られたシステム向けの基本的な技術サポート。",

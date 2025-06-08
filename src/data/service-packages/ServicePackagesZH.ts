@@ -9,7 +9,7 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovation Plan",
-                price: "$5,999 USD/month",
+                price: "$5,900 USD/month",
                 hourlyEquivalent: "$37.49 USD/hr",
                 schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "为非区块链项目提供专属全职支持，包括 MVP 构建、系统升级及可扩展性优化。",
@@ -23,7 +23,7 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "Web3 Core Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "提供端到端的区块链开发服务，支持完整 Web3 集成，包括 Tokenomics 与智能合约开发。",
@@ -37,7 +37,7 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "NFT Evolution Plan",
-                price: "$6,999 USD/month",
+                price: "$6,900 USD/month",
                 hourlyEquivalent: "$43.74 USD/hr",
                 schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "专注于 NFT 相关开发，包括新项目构建与旧合约的现代化升级。",
@@ -57,7 +57,7 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "Essential Care Plan",
-                price: "$899 USD/month",
+                price: "$799 USD/month",
                 hourlyEquivalent: "$5.625 USD/hr",
                 schedule: "周一至周五，08:30–17:30（共享时间）",
                 highlight: "为开发需求有限的系统提供基础支持，特别适合MVP、概念验证（PoC）及早期运营阶段。",
