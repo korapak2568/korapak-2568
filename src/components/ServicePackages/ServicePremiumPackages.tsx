@@ -1,5 +1,5 @@
 // src/components/ServicePackages/ServicePremiumPackages.tsx
-import {FaCode, FaEthereum, FaBug} from "react-icons/fa";
+import {FaCode, FaShieldAlt} from "react-icons/fa";
 import Link from "next/link";
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
@@ -28,8 +28,7 @@ export default function ServicePremiumPackages({lang}: { lang: string }) {
                         >
                             <div className="plan-detail premium">
                                 <strong>
-                                    {plan.name.toLowerCase().includes("urgent") ? <FaBug/> :
-                                        plan.name.toLowerCase().includes("web3") ? <FaEthereum/> : <FaCode/>}
+                                    {index == 0 ? <FaShieldAlt/> : <FaCode/>}
                                     <span>{plan.name}</span>
                                 </strong>
                                 <p>{plan.highlight}</p>

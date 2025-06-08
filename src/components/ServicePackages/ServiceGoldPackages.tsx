@@ -28,15 +28,7 @@ export default function ServiceGoldPackages({lang}: { lang: string }) {
                         >
                             <div className="plan-detail gold">
                                 <strong>
-                                    {plan.name.toLowerCase().includes("essential") ? (
-                                        <FaShieldAlt/>
-                                    ) : plan.name.toLowerCase().includes("advanced growth") ? (
-                                        <FaRocket/> // new icon for Advanced Growth Plan
-                                    ) : plan.name.toLowerCase().includes("growth") ? (
-                                        <FaChartLine/>
-                                    ) : (
-                                        <FaCube/>
-                                    )}
+                                    {index == 0 ? <FaRocket/> : (index == 1 ? <FaChartLine/> : <FaCube/>)}
                                     <span>{plan.name}</span>
                                 </strong>
 

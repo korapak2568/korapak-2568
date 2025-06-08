@@ -31,10 +31,7 @@ export default function ServicePlatinumPackages({lang}: { lang: string }) {
                         >
                             <div className="plan-detail platinum">
                                 <strong>
-                                    {
-                                        plan.name.toLowerCase().includes("premium innovation") ? <FaLightbulb/> :
-                                            plan.name.toLowerCase().includes("web3 core plan") ? <FaLink/> : <FaImages/>
-                                    }
+                                    {index == 0 ? <FaLightbulb/> : index == 1 ? <FaLink/> : <FaImages/>}
                                     <span>{plan.name}</span>
                                 </strong>
                                 <p>{plan.highlight}</p>
