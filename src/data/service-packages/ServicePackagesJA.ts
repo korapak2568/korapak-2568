@@ -3,77 +3,48 @@ import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesJA: IServicePackages = {
     name: "サービスパッケージ",
-    platinum: {
-        name: "Platinum Packages",
-        description: "「Premium Innovation Plan」「Web3 Core Plan」「NFT Evolution Plan」の3つのフルタイム専用パッケージは、3〜12ヶ月以内の製品ローンチを目指す戦略的なスタートアップや企業向けに設計されています。専任の技術パートナーとしてスケーラビリティを実現し、社内エンジニアの採用負担を軽減します。",
+    premium: {
+        name: "プレミアムパッケージ",
+        description: "初期段階のプラットフォーム、MVP、社内ツール、または短期間での開発が必要なプロジェクトに最適な、コンパクトなエンジニアリングプラン。長期的な契約やフルチームのリソースを必要とせず、専門家のサポートを必要とするスタートアップや企業向けに設計されています。",
         plans: [
             {
-                name: "Premium Innovation Plan",
-                price: "$5,900 USD/month",
-                hourlyEquivalent: "$37.49 USD/hr",
-                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
-                highlight: "PoCやMVP開発、機能拡張やシステムリファクタリングを含む、非ブロックチェーン領域でのスケーラブルな開発支援。",
+                name: "ミニプロジェクト・プラン",
+                price: "$299 USD/プロジェクト",
+                schedule: "柔軟対応（プロジェクトベース、最長1週間）",
+                highlight: "数日以内に納品可能な小規模タスク、バグ修正、またはミニ機能に対する効率的なソリューション。",
                 features: [
-                    "PoC、MVP、新機能開発、既存システムの拡張とスケーリング",
-                    "主要なプログラミング言語・フレームワークに対応（フロント・バックエンド）",
-                    "主要なデータベース・クラウド環境に対応",
-                    "gRPC、RPI、JMSなどのモダンおよびレガシープロトコルに対応"
+                    "緊急対応、小規模なプロトタイプ、単発バグ修正に最適",
+                    "通常、2～5営業日以内に納品",
+                    "計画、コード納品、基本的なテストを含む",
+                    "フロントエンド、バックエンド、APIのミニ機能に対応",
+                    "継続的なサポートや定例ミーティングは含まれません",
+                    "一時的または限定的な要件に最適"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Web3 Core Plan",
-                price: "$6,900 USD/month",
-                hourlyEquivalent: "$43.74 USD/hr",
-                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
-                highlight: "SolidityやEthereumを用いたスマートコントラクト開発、トークノミクス設計を含む、Web3完全統合型ブロックチェーン開発支援。",
+                name: "エッセンシャルケア・プラン",
+                price: "$799 USD/月",
+                schedule: "月～金, 8:30～17:30（共有リソース）",
+                highlight: "MVP、社内ツール、初期段階のプラットフォーム向けの基礎的なエンジニアリングサポート。最小限の開発リソースで対応可能です。",
                 features: [
-                    "Solidity、Ethers.js、Ethereumを用いたブロックチェーン開発",
-                    "スマートコントラクトの設計、監査、統合",
-                    "Next.js、React、Node.js によるフロントエンド・バックエンド開発",
-                    "エアドロップ、プレセール、報酬設計などのトークンメカニズム"
-                ],
-                link: "service-packages/"
-            },
-            {
-                name: "NFT Evolution Plan",
-                price: "$6,900 USD/month",
-                hourlyEquivalent: "$43.74 USD/hr",
-                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
-                highlight: "最新のNFT開発と既存スマートコントラクトの近代化にフォーカスした専門的支援。",
-                features: [
-                    "モダンなNFT開発とレガシーNFT契約のアップグレード",
-                    "Solidityベースのスマートコントラクト開発・改修",
-                    "Next.js、React、Node.jsとの統合サポート",
-                    "ERC721、ERC1155などの標準規格と主要マーケットプレイスに対応"
+                    "シンプルなセットアップと主要機能の安定化",
+                    "定期的なモニタリング、バグ修正、技術的な保守対応",
+                    "社内チーム向けのドキュメント整備および技術引き継ぎ",
+                    "複雑な機能開発は対象外",
+                    "一般的なプログラミング言語やデータベースと互換性あり"
                 ],
                 link: "service-packages/"
             }
         ]
     },
     gold: {
-        name: "Gold Packages",
-        description: "Essential Care、Growth Support、Blockchain Pioneerの3つのパートタイムサービスパッケージは、製品のリリース後の継続的な開発とサポートを目的として設計されています。スタートアップ、エージェンシー、技術主導のチームに最適で、フルタイムの開発者を雇用せずにスケーラブルな技術パートナーシップを提供します。",
+        name: "ゴールドパッケージ",
+        description: "Growth Support、Advanced Growth Plan、Blockchain Pioneer という3つの共有型サービスプランのスイート。プロダクトのリリース後のサポート、戦略的イテレーション、スケーラブルな技術運用に特化して設計されています。フルタイム採用の負担なく、信頼性の高いエンジニアリングを求めるスタートアップ、代理店、企業向けです。",
         plans: [
             {
-                name: "Essential Care Plan",
-                price: "$799 USD/月",
-                hourlyEquivalent: "$5.625 USD/時",
-                schedule: "月〜金、8:30〜17:30（共有時間）",
-                highlight: "MVP、社内ツール、初期段階のプラットフォームなど、開発ニーズが限られたシステム向けの基本的な技術サポート。",
-                features: [
-                    "軽量なセットアップとコア機能の調整",
-                    "システム監視、軽微な修正、安定性の維持",
-                    "明確なドキュメントとチームオンボーディングのための開発者ガイド",
-                    "新しい複雑な機能の開発は含まれません",
-                    "主要なプログラミング言語とデータベースに対応"
-                ],
-                link: "service-packages/"
-            },
-            {
-                name: "Growth Support Plan",
+                name: "グロースサポート・プラン",
                 price: "$1,999 USD/月",
-                hourlyEquivalent: "$12.49 USD/時",
                 schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "継続的な開発が必要でありながら、フルタイムのコミットメントを避けたい成長中の企業に最適。",
                 features: [
@@ -86,9 +57,8 @@ export const ServicePackagesJA: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Advanced Growth Plan",
+                name: "アドバンスト・グロース・プラン",
                 price: "$2,999 USD/月",
-                hourlyEquivalent: "$18.74 USD/時",
                 schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "Growth Supportプランよりも強力な開発フォーカスを持ち、頻繁な機能強化とステークホルダーとの協力が必要なプラットフォームに最適。",
                 features: [
@@ -101,9 +71,8 @@ export const ServicePackagesJA: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Blockchain Pioneer Plan",
+                name: "ブロックチェーン・パイオニア・プラン",
                 price: "$3,999 USD/月",
-                hourlyEquivalent: "$24.99 USD/時",
                 schedule: "月〜金、8:30〜17:30（フルタイム、共有）",
                 highlight: "Web3、NFT、Ethereumベースの製品イノベーションのためのエントリーレベルのブロックチェーンサポート。",
                 features: [
@@ -116,50 +85,49 @@ export const ServicePackagesJA: IServicePackages = {
             }
         ]
     },
-    premium: {
-        name: "Premium Packages",
-        description: "柔軟な時間制の開発パッケージ — アジャイルチーム、スタートアップ、Web3の革新者に最適なオンデマンド対応。自社開発チーム不要でスケーラビリティを確保。緊急バグ修正にも対応。",
+    platinum: {
+        name: "プラチナパッケージ",
+        description: "CEO、CTO、プロダクトオーナー、創業者向けに設計された、プレミアム・イノベーション・プラン、Web3コアプラン、NFT進化プランの3つの戦略的なフルタイム契約パッケージ。3〜12か月以内に製品ローンチを加速させたい企業のための、信頼できる技術パートナーとして最適です。スケーラビリティ、高速な反復開発、社内採用コストの削減が求められる重要プロジェクトに対応します。",
         plans: [
             {
-                name: "Pro Dev Flex Pack",
-                price: "$40 USD/hr",
-                hourlyEquivalent: "$40 USD/hr",
-                hours: "週20～40時間",
-                highlight: "プロダクトのスケールに合わせた柔軟なフルスタック開発支援。",
+                name: "プレミアム・イノベーション・プラン",
+                price: "$5,900 USD/month",
+                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
+                highlight: "PoCやMVP開発、機能拡張やシステムリファクタリングを含む、非ブロックチェーン領域でのスケーラブルな開発支援。",
                 features: [
-                    "カスタムソフトウェア・Web・APIのオンデマンド開発",
-                    "主要な言語・フレームワークに幅広く対応",
-                    "社内採用なしで即戦力エンジニアを確保可能"
+                    "PoC、MVP、新機能開発、既存システムの拡張とスケーリング",
+                    "主要なプログラミング言語・フレームワークに対応（フロント・バックエンド）",
+                    "主要なデータベース・クラウド環境に対応",
+                    "gRPC、RPI、JMSなどのモダンおよびレガシープロトコルに対応"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Web3 Elite Pack",
-                price: "$60 USD/hr",
-                hourlyEquivalent: "$60 USD/hr",
-                hours: "週20～40時間",
-                highlight: "NFTや分散型アプリに特化したハイレベルなブロックチェーン開発。",
+                name: "Web3コアプラン",
+                price: "$6,900 USD/month",
+                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
+                highlight: "SolidityやEthereumを用いたスマートコントラクト開発、トークノミクス設計を含む、Web3完全統合型ブロックチェーン開発支援。",
                 features: [
-                    "スマートコントラクト、NFT、Ethereum関連の開発全般",
-                    "Next.js、React、Node.jsなどの統合対応",
-                    "Web3ビジネスの戦略的成長をサポート"
+                    "Solidity、Ethers.js、Ethereumを用いたブロックチェーン開発",
+                    "スマートコントラクトの設計、監査、統合",
+                    "Next.js、React、Node.js によるフロントエンド・バックエンド開発",
+                    "エアドロップ、プレセール、報酬設計などのトークンメカニズム"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Urgent Bug Fix",
-                price: "$240 USD/fix",
-                hourlyEquivalent: "$30 USD/hr",
-                hours: "1日8時間確保",
-                highlight: "緊急バグ対応 — 当日中に診断・修正を実施。契約不要の単発プラン。",
+                name: "NFT進化プラン",
+                price: "$6,900 USD/month",
+                schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
+                highlight: "最新のNFT開発と既存スマートコントラクトの近代化にフォーカスした専門的支援。",
                 features: [
-                    "即時対応・当日納品",
-                    "既存外部プロジェクトへの単発修正にも対応",
-                    "長期契約不要",
-                    "本番環境への影響を最小限に抑える緊急対応"
+                    "モダンなNFT開発とレガシーNFT契約のアップグレード",
+                    "Solidityベースのスマートコントラクト開発・改修",
+                    "Next.js、React、Node.jsとの統合サポート",
+                    "ERC721、ERC1155などの標準規格と主要マーケットプレイスに対応"
                 ],
                 link: "service-packages/"
             }
         ]
-    }
+    },
 };

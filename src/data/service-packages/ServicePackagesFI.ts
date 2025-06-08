@@ -3,77 +3,48 @@ import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesFI: IServicePackages = {
     name: "Palvelupaketit",
-    platinum: {
-        name: "Platinum Packages",
-        description: "Kolme täysipäiväistä palvelupakettia yrityksille ja startupeille, joilla on selkeä skaalausstrategia. Toimimme teknologiapartnerina, joka auttaa vähentämään rekrytointipainetta ja nopeuttamaan tuotekehitystä. Sopii erityisesti 3–12 kuukauden aikajänteen lanseerauksiin.",
+    premium: {
+        name: "Premium-paketit",
+        description: "Kompaktit ohjelmistoinsinöörisuunnitelmat varhaisen vaiheen alustoille, MVP-ratkaisuille, sisäisille työkaluille tai projekteille, jotka vaativat nopeaa toimitusta. Suunniteltu startupeille ja yrityksille, jotka tarvitsevat asiantuntija-apua ilman pitkäaikaista sitoutumista tai koko tiimin resursointia.",
         plans: [
             {
-                name: "Premium Innovation Plan",
-                price: "$5,900 USD/month",
-                hourlyEquivalent: "$37.49 USD/hr",
-                schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
-                highlight: "Omistautunut tuki ei-blockchain-projekteille – ihanteellinen MVP:ille, järjestelmäpäivityksille ja skaalautuville ratkaisuille.",
+                name: "Pieni projektipaketti",
+                price: "$299 USD/Projekti",
+                schedule: "Joustava (projektipohjainen, ≤1 viikko)",
+                highlight: "Tehokas ratkaisu mikrotehtäville, korjauksille tai pienille ominaisuuksille, jotka voidaan toimittaa muutamassa päivässä.",
                 features: [
-                    "Järjestelmäpäivitykset, uusien ominaisuuksien kehitys, MVP ja proof-of-concept",
-                    "Tuki kaikille yleisille kielille ja kehysratkaisuille (frontend & backend)",
-                    "Yhteensopivuus suosittujen tietokantojen ja pilvipalvelujen kanssa",
-                    "Tuki nykyaikaisille ja perinteisille protokollille: gRPC, RPI, JMS"
+                    "Ihanteellinen kiireellisille tehtäville, prototyypeille tai yksittäisille bugikorjauksille",
+                    "Toimitusaika tyypillisesti 2–5 arkipäivää",
+                    "Sisältää suunnittelun, koodin toimituksen ja perustestauksen",
+                    "Tuki frontend-, backend- ja API-pienominaisuuksille",
+                    "Ei jatkuvaa tukea tai viikkopalavereita",
+                    "Paras yksittäisiin tai erillisiin tarpeisiin"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Web3 Core Plan",
-                price: "$6,900 USD/month",
-                hourlyEquivalent: "$43.74 USD/hr",
-                schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
-                highlight: "Täysi blockchain-kehitys Web3-integraatiolla, mukaan lukien tokenomics ja älysopimukset.",
+                name: "Perustason hoitopaketti",
+                price: "$799 USD/kk",
+                schedule: "Ma–Pe, 8:30–17:30 (jaettu työaika)",
+                highlight: "Perustason tekninen tuki MVP:ille, sisäisille työkaluille tai varhaisvaiheen alustoille, joilla on rajallinen kehitystarve.",
                 features: [
-                    "Blockchain- ja Web3-kehitys: Solidity, Ethers.js, Ethereum",
-                    "Älysopimusten suunnittelu, auditointi ja integrointi",
-                    "Frontend & Backend: Next.js, React, Node.js",
-                    "Token-mekaniikat: airdropit, ennakkomyynnit, palkkiojärjestelmät"
-                ],
-                link: "service-packages/"
-            },
-            {
-                name: "NFT Evolution Plan",
-                price: "$6,900 USD/month",
-                hourlyEquivalent: "$43.74 USD/hr",
-                schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
-                highlight: "NFT-kehitykseen keskittynyt ratkaisu – sekä uusien että legacy-sopimusten modernisointi.",
-                features: [
-                    "Moderni NFT-kehitys ja olemassa olevien älysopimusten uudistus",
-                    "Solidity-pohjaiset älysopimukset",
-                    "Next.js, React, Node.js -integraatio",
-                    "Tuki ERC721-, ERC1155-standardeille ja markkinapaikoille"
+                    "Kevyt käyttöönotto ja ydintoimintojen stabilointi",
+                    "Säännöllinen valvonta, virheiden korjaus ja tekninen ylläpito",
+                    "Dokumentointi ja tekninen siirto sisäisille tiimeille",
+                    "Ei sisällä monimutkaisten ominaisuuksien kehitystä",
+                    "Yhteensopiva laajasti käytettyjen ohjelmointikielten ja tietokantojen kanssa"
                 ],
                 link: "service-packages/"
             }
         ]
     },
     gold: {
-        name: "Gold Packages",
-        description: "Kolme osa-aikaista palvelupakettia — Essential Care, Growth Support ja Blockchain Pioneer — suunniteltu tukemaan tuotteiden jatkuvaa kehitystä ja ylläpitoa julkaisun jälkeen. Sopii erityisesti startup-yrityksille, digitoimistoille ja teknologiajohtoisille tiimeille, jotka tarvitsevat skaalautuvaa teknistä kumppanuutta ilman kokoaikaisia kehittäjiä.",
+        name: "Kultapaketit",
+        description: "Kolmen osa-aikaisen palvelupaketin kokonaisuus — Growth Support, Advanced Growth Plan ja Blockchain Pioneer — räätälöity tuotteen lanseerauksen jälkeiseen tukeen, strategiseen iterointiin ja skaalautuviin teknisiin operaatioihin. Suunniteltu startupeille, toimistoille ja yrityksille, jotka tarvitsevat luotettavaa teknistä osaamista ilman kokopäiväisiä rekrytointeja.",
         plans: [
             {
-                name: "Essential Care Plan",
-                price: "$799 USD/kuukausi",
-                hourlyEquivalent: "$5.625 USD/tunti",
-                schedule: "Ma–Pe, 8:30–17:30 (jaettu aika)",
-                highlight: "Perustason tekninen tuki MVP:ille, sisäisille työkaluille tai varhaisvaiheen alustoille, joilla on rajalliset kehitystarpeet.",
-                features: [
-                    "Kevyt käyttöönotto ja ydintoimintojen hienosäätö",
-                    "Järjestelmän valvonta, pienet korjaukset ja vakauden ylläpito",
-                    "Selkeä dokumentaatio ja kehittäjäohjeistus tiimin perehdyttämiseen",
-                    "Ei sisällä monimutkaisten uusien ominaisuuksien kehitystä",
-                    "Tukee yleisimpiä ohjelmointikieliä ja tietokantoja"
-                ],
-                link: "service-packages/"
-            },
-            {
-                name: "Growth Support Plan",
+                name: "Kasvutukipaketti",
                 price: "$1,999 USD/kuukausi",
-                hourlyEquivalent: "$12.49 USD/tunti",
                 schedule: "Ma–Pe, 8:30–17:30 (jaettu aika)",
                 highlight: "Sopii kasvaville yrityksille, jotka tarvitsevat jatkuvaa kehitystä ilman kokoaikaista sitoutumista.",
                 features: [
@@ -86,9 +57,8 @@ export const ServicePackagesFI: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Advanced Growth Plan",
+                name: "Edistynyt kasvupaketti",
                 price: "$2,999 USD/kuukausi",
-                hourlyEquivalent: "$18.74 USD/tunti",
                 schedule: "Ma–Pe, 8:30–17:30 (jaettu aika)",
                 highlight: "Vahvempi kehitysfokus kuin Growth Support -paketissa, ihanteellinen alustoille, jotka tarvitsevat usein päivityksiä ja tiivistä yhteistyötä sidosryhmien kanssa.",
                 features: [
@@ -101,9 +71,8 @@ export const ServicePackagesFI: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Blockchain Pioneer Plan",
+                name: "Blockchain-aloituspaketti",
                 price: "$3,999 USD/kuukausi",
-                hourlyEquivalent: "$24.99 USD/tunti",
                 schedule: "Ma–Pe, 8:30–17:30 (koko päivä, jaettu aika)",
                 highlight: "Aloitustason blockchain-tuki Web3-, NFT- ja Ethereum-pohjaisten tuoteinnovaatioiden kehittämiseen.",
                 features: [
@@ -116,47 +85,46 @@ export const ServicePackagesFI: IServicePackages = {
             }
         ]
     },
-    premium: {
-        name: "Premium Packages",
-        description: "Joustavat tuntiperusteiset kehityspaketit — täydellinen valinta ketterille tiimeille, startup-yrityksille ja Web3-innovaatioihin keskittyville organisaatioille. Vältä kiinteät palkkauskustannukset ja skaalaa ketterästi. Sisältää myös hätäkorjaukset.",
+    platinum: {
+        name: "Platina-paketit",
+        description: "Kolme strategista kokopäiväistä palvelupakettia – Premium-innovaatiopaketti, Web3-ydinpaketti ja NFT-kehityspaketti – on suunniteltu CEO:ille, CTO:ille, tuoteomistajille ja perustajille, jotka etsivät luotettavaa teknistä kumppania nopeuttamaan tuotelanseerauksia 3–12 kuukauden sisällä. Soveltuu liiketoimintakriittisiin hankkeisiin, joissa vaaditaan skaalautuvuutta, nopeita iterointeja ja sisäisen rekrytointirasituksen keventämistä.",
         plans: [
             {
-                name: "Pro Dev Flex Pack",
-                price: "$40 USD/hr",
-                hourlyEquivalent: "$40 USD/hr",
-                hours: "20–40 h/vko",
-                highlight: "Full-stack-kehitysratkaisu, joka tukee tiimisi kasvua ja toimituskykyä joustavasti.",
+                name: "Premium-innovaatiopaketti",
+                price: "$5,900 USD/month",
+                schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
+                highlight: "Omistautunut tuki ei-blockchain-projekteille – ihanteellinen MVP:ille, järjestelmäpäivityksille ja skaalautuville ratkaisuille.",
                 features: [
-                    "Räätälöity ohjelmisto-, verkkosovellus- ja API-kehitys tarpeen mukaan",
-                    "Tuki useimmille moderneille teknologioille ja ohjelmointikielille",
-                    "Hyvä valinta tiimeille, jotka tarvitsevat asiantuntevaa, mutta ei pysyvää resursointia"
+                    "Järjestelmäpäivitykset, uusien ominaisuuksien kehitys, MVP ja proof-of-concept",
+                    "Tuki kaikille yleisille kielille ja kehysratkaisuille (frontend & backend)",
+                    "Yhteensopivuus suosittujen tietokantojen ja pilvipalvelujen kanssa",
+                    "Tuki nykyaikaisille ja perinteisille protokollille: gRPC, RPI, JMS"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Web3 Elite Pack",
-                price: "$60 USD/hr",
-                hourlyEquivalent: "$60 USD/hr",
-                hours: "20–40 h/vko",
-                highlight: "Korkean tason Web3-kehityspaketti — suunniteltu NFT-projekteihin ja lohkoketjuarkkitehtuuriin.",
+                name: "Web3-ydinpaketti",
+                price: "$6,900 USD/month",
+                schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
+                highlight: "Täysi blockchain-kehitys Web3-integraatiolla, mukaan lukien tokenomics ja älysopimukset.",
                 features: [
-                    "Smart contract -kehitys, NFT-standardit, Ethereum-pohjaiset ratkaisut",
-                    "Frontend- ja backend-integraatio Next.js, React, Node.js avulla",
-                    "Skaalautuva ratkaisu Web3-projektien rakentamiseen ja käyttöönottoon"
+                    "Blockchain- ja Web3-kehitys: Solidity, Ethers.js, Ethereum",
+                    "Älysopimusten suunnittelu, auditointi ja integrointi",
+                    "Frontend & Backend: Next.js, React, Node.js",
+                    "Token-mekaniikat: airdropit, ennakkomyynnit, palkkiojärjestelmät"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Urgent Bug Fix",
-                price: "$240 USD/fix",
-                hourlyEquivalent: "$30 USD/hr",
-                hours: "8 h varattuna",
-                highlight: "Pikakorjauspalvelu kriittisiin virheisiin — toimitus saman päivän aikana.",
+                name: "NFT-kehityspaketti",
+                price: "$6,900 USD/month",
+                schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
+                highlight: "NFT-kehitykseen keskittynyt ratkaisu – sekä uusien että legacy-sopimusten modernisointi.",
                 features: [
-                    "Välitön konsultaatiopalvelu ja ongelma-analyysi",
-                    "Yhden virheen korjaus ilman pitkäaikaista sopimusta",
-                    "Optimoitu tuotantoympäristöjen ylläpitotilanteisiin",
-                    "Sopii ulkoisille tai freelancer-pohjaisille projekteille"
+                    "Moderni NFT-kehitys ja olemassa olevien älysopimusten uudistus",
+                    "Solidity-pohjaiset älysopimukset",
+                    "Next.js, React, Node.js -integraatio",
+                    "Tuki ERC721-, ERC1155-standardeille ja markkinapaikoille"
                 ],
                 link: "service-packages/"
             }

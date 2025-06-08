@@ -2,77 +2,48 @@ import {IServicePackages} from "@/data/service-packages/model/IServicePackages";
 
 export const ServicePackagesDA: IServicePackages = {
     name: "Servicepakker",
-    platinum: {
-        name: "Platinum Packages",
-        description: "Tre fuldt dedikerede pakker designet til virksomheder og startup-teams med kritiske roadmaps. Disse løsninger fungerer som en strategisk teknologipartner, hvor vi hjælper med skalering og reducerer behovet for interne ansættelser. Ideel til projekter, der skal lanceres inden for 3–12 måneder.",
+    premium: {
+        name: "Premiumpakker",
+        description: "Kompakte ingeniørplaner skræddersyet til tidlige platforme, MVP'er, interne værktøjer eller projekter med behov for hurtig levering. Designet til startups og virksomheder, der har brug for ekspertbistand uden langsigtede forpligtelser eller investering i fuldt team.",
         plans: [
             {
-                name: "Premium Innovation Plan",
-                price: "$5,900 USD/month",
-                hourlyEquivalent: "$37.49 USD/hr",
-                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
-                highlight: "Dedikeret support til udvikling uden blockchain – ideel til MVP’er, systemopgraderinger og skalerbare løsninger.",
+                name: "Lille Projektplan",
+                price: "$299 USD/Projekt",
+                schedule: "Fleksibel (projektbaseret, ≤1 uge)",
+                highlight: "Effektiv løsning til mikroopgaver, fejlrettelser eller små funktioner med levering på få dage.",
                 features: [
-                    "Systemforbedringer, udvikling af nye funktioner, MVP og proof-of-concept",
-                    "Understøttelse af alle større sprog og frameworks på frontend og backend",
-                    "Kompatibilitet med førende databaser og cloud-platforme",
-                    "Support for moderne og ældre protokoller som gRPC, RPI og JMS"
+                    "Ideel til hastesager, hurtige prototyper eller enkeltstående fejlrettelser",
+                    "Typisk leveringstid: 2–5 arbejdsdage",
+                    "Omfatter planlægning, kodelevering og grundlæggende test",
+                    "Understøtter små funktioner i frontend, backend eller API",
+                    "Ingen løbende support eller ugentlige møder",
+                    "Bedst til enkeltstående eller afgrænsede behov"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Web3 Core Plan",
-                price: "$6,900 USD/month",
-                hourlyEquivalent: "$37.49 USD/hr",
-                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
-                highlight: "Komplet blockchain-løsning med Web3-integration – herunder smart contracts og token design.",
+                name: "Grundlæggende Vedligeholdsplan",
+                price: "$799 USD/md.",
+                schedule: "Man–Fre, 8:30–17:30 (delt kapacitet)",
+                highlight: "Fundamental ingeniørsupport til MVP’er, interne værktøjer eller tidlige platforme med begrænsede udviklingskrav.",
                 features: [
-                    "Udvikling med Solidity, Ethers.js og Ethereum-økosystemet",
-                    "Smart contracts med audit og integration",
-                    "Frontend og backend via Next.js, React og Node.js",
-                    "Token-mekanik som airdrops, presales og belønningssystemer"
-                ],
-                link: "service-packages/"
-            },
-            {
-                name: "NFT Evolution Plan",
-                price: "$6,900 USD/month",
-                hourlyEquivalent: "$43.74 USD/hr",
-                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
-                highlight: "Specialiseret i NFT-løsninger – både nye produkter og modernisering af eksisterende smart contracts.",
-                features: [
-                    "NFT-udvikling og opdatering af eksisterende kontrakter",
-                    "Smart contract-udvikling med Solidity",
-                    "Integration med Next.js, React, Node.js m.m.",
-                    "Support for ERC721, ERC1155 og markedsplads-integration"
+                    "Let opsætning og stabilisering af kernefunktioner",
+                    "Løbende overvågning, fejlrettelser og teknisk vedligehold",
+                    "Teknisk dokumentation og overdragelse til interne teams",
+                    "Omfatter ikke komplekse feature-udviklinger",
+                    "Kompatibel med branchestandard teknologier og databaser"
                 ],
                 link: "service-packages/"
             }
         ]
     },
     gold: {
-        name: "Gold Packages",
-        description: "Et udvalg af tre deltidsservicepakker — Essential Care, Growth Support og Blockchain Pioneer — designet til støtte efter lancering, strategisk iteration og skalerbar teknisk drift. Ideel til startups, bureauer og virksomheder, der søger pålidelig teknisk support uden behov for fuldtidsansættelser.",
+        name: "Guldpakker",
+        description: "En pakke med tre deltidsservicepakker — Growth Support, Advanced Growth Plan og Blockchain Pioneer — skræddersyet til produktstøtte efter lancering, strategisk iteration og skalerbare tekniske driftsbehov. Designet til startups, bureauer og virksomheder, der ønsker pålidelig ingeniørbistand uden behovet for fuldtidsansættelser.",
         plans: [
             {
-                name: "Essential Care Plan",
-                price: "$799 USD/måned",
-                hourlyEquivalent: "$5.625 USD/time",
-                schedule: "Man–Fre, 8:30–17:30 (deltid)",
-                highlight: "Grundlæggende teknisk support til MVP'er, interne værktøjer eller tidlige platforme med minimale udviklingsbehov.",
-                features: [
-                    "Let opsætning og stabilisering af kernefunktioner",
-                    "Rutinemæssig overvågning, fejlrettelser og teknisk vedligeholdelse",
-                    "Dokumentation og teknisk overdragelse til interne teams",
-                    "Udelukker udvikling af komplekse funktioner",
-                    "Kompatibel med udbredte sprog og databaser"
-                ],
-                link: "service-packages/"
-            },
-            {
-                name: "Growth Support Plan",
+                name: "Vækstsupportplan",
                 price: "$1,999 USD/måned",
-                hourlyEquivalent: "$12.49 USD/time",
                 schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Ideel for voksende teams, der kræver kontinuerlige forbedringer og teknisk fleksibilitet uden fuldtidsomkostninger.",
                 features: [
@@ -85,9 +56,8 @@ export const ServicePackagesDA: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Advanced Growth Plan",
+                name: "Avanceret Vækstplan",
                 price: "$2,999 USD/måned",
-                hourlyEquivalent: "$18.74 USD/time",
                 schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Strategisk udviklingspartner for platforme med behov for kontinuerlig levering og tæt interessentsamarbejde.",
                 features: [
@@ -100,9 +70,8 @@ export const ServicePackagesDA: IServicePackages = {
                 link: "service-packages/"
             },
             {
-                name: "Blockchain Pioneer Plan",
+                name: "Blockchain Pionérplan",
                 price: "$3,999 USD/måned",
-                hourlyEquivalent: "$24.99 USD/time",
                 schedule: "Man–Fre, 8:30–17:30 (fuldtid, delt)",
                 highlight: "Professionel indgang til blockchain-innovation — ideel til Web3-prototyper, NFT-værktøjer og Ethereum-baserede platforme.",
                 features: [
@@ -115,50 +84,49 @@ export const ServicePackagesDA: IServicePackages = {
             }
         ]
     },
-    premium: {
-        name: "Premium Packages",
-        description: "Fleksible timebaserede udviklingspakker — ideelle for agile teams, startups og Web3-aktører, der har brug for on-demand support. Perfekt til skalering uden behov for fastansættelse. Inkluderer hurtig nødhjælp til kritiske fejl.",
+    platinum: {
+        name: "Platinpakker",
+        description: "Tre strategiske fuldtidsengagementspakker — Premium Innovationsplan, Web3 Kerneplan og NFT Evolutionsplan — skræddersyet til CEO'er, CTO'er, Product Owners og Founders, der søger en betroet teknisk partner til at accelerere produktlanceringer inden for 3 til 12 måneder. Designet til forretningskritiske initiativer med behov for skalerbarhed, hurtig iteration og reduktion af interne rekrutteringsomkostninger.",
         plans: [
             {
-                name: "Pro Dev Flex Pack",
-                price: "$40 USD/hr",
-                hourlyEquivalent: "$40 USD/hr",
-                hours: "20–40 timer/uge",
-                highlight: "Fleksibel softwareudvikling med full-stack kapabiliteter — tilpasset jeres team og roadmap.",
+                name: "Premium Innovationsplan",
+                price: "$5,900 USD/month",
+                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
+                highlight: "Dedikeret support til udvikling uden blockchain – ideel til MVP’er, systemopgraderinger og skalerbare løsninger.",
                 features: [
-                    "Custom software, web og API-udvikling på forespørgsel",
-                    "Understøtter alle større programmeringssprog og frameworks",
-                    "Effektiv løsning for teams, der ønsker skalérbar udviklingskapacitet uden langsigtede forpligtelser"
+                    "Systemforbedringer, udvikling af nye funktioner, MVP og proof-of-concept",
+                    "Understøttelse af alle større sprog og frameworks på frontend og backend",
+                    "Kompatibilitet med førende databaser og cloud-platforme",
+                    "Support for moderne og ældre protokoller som gRPC, RPI og JMS"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Web3 Elite Pack",
-                price: "$60 USD/hr",
-                hourlyEquivalent: "$60 USD/hr",
-                hours: "20–40 timer/uge",
-                highlight: "Avancerede blockchain-tjenester målrettet Web3-startups og NFT-lanceringer.",
+                name: "Web3 Kerneplan",
+                price: "$6,900 USD/month",
+                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
+                highlight: "Komplet blockchain-løsning med Web3-integration – herunder smart contracts og token design.",
                 features: [
-                    "Udvikling af blockchain, smart contracts, NFT’er og Ethereum-baserede løsninger",
-                    "Integration med Next.js, React, Node.js og backend services",
-                    "Fleksibel model til hurtig tilpasning af Web3-arkitektur og tokenmekanik"
+                    "Udvikling med Solidity, Ethers.js og Ethereum-økosystemet",
+                    "Smart contracts med audit og integration",
+                    "Frontend og backend via Next.js, React og Node.js",
+                    "Token-mekanik som airdrops, presales og belønningssystemer"
                 ],
                 link: "service-packages/"
             },
             {
-                name: "Urgent Bug Fix",
-                price: "$240 USD/fix",
-                hourlyEquivalent: "$30 USD/hr",
-                hours: "8 timer forbeholdt",
-                highlight: "Akut fejlretning med leverance samme dag — ideel til kritiske issues i drift.",
+                name: "NFT Evolutionsplan",
+                price: "$6,900 USD/month",
+                schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
+                highlight: "Specialiseret i NFT-løsninger – både nye produkter og modernisering af eksisterende smart contracts.",
                 features: [
-                    "Øjeblikkelig rådgivning og fejlanalyse",
-                    "Samme dags løsning uden binding",
-                    "Velegnet til eksterne systemer uden fast udviklingsteam",
-                    "Ingen langtidskontrakt nødvendig"
+                    "NFT-udvikling og opdatering af eksisterende kontrakter",
+                    "Smart contract-udvikling med Solidity",
+                    "Integration med Next.js, React, Node.js m.m.",
+                    "Support for ERC721, ERC1155 og markedsplads-integration"
                 ],
                 link: "service-packages/"
             }
         ]
-    }
+    },
 };
