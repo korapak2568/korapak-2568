@@ -9,7 +9,7 @@ export default function BottomImageSingle({lang}: { lang: string }) {
     }
 
     const tel: Record<string, string> = {
-        en: "+66 (52) 000 548, +66 (64) 918 1998",
+        en: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
         th: "โทรศัพท์: 052-000 548, 064-918 1998",
     }
 
