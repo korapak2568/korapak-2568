@@ -4,13 +4,13 @@ import {FaEnvelope, FaMapMarkedAlt, FaPhoneAlt} from "react-icons/fa";
 
 export default function BottomImageSingle({lang}: { lang: string }) {
     const location: Record<string, string> = {
-        en: "Office | Sansai, Chiang Mai, Thailand",
-        th: "ออฟฟิศ | สันทราย เชียงใหม่ ประเทศไทย",
+        en: "Office: Sansai, Chiang Mai, Thailand",
+        th: "ออฟฟิศ: สันทราย เชียงใหม่ ประเทศไทย",
     }
 
     const tel: Record<string, string> = {
-        en: "+66 (52) 000 548, +66 (64) 918 1998",
-        th: "052-000 548, 064-918 1998",
+        en: "Phone: +66 (52) 000 548, +66 (64) 918 1998",
+        th: "โทรศัพท์: 052-000 548, 064-918 1998",
     }
 
     return (
@@ -20,7 +20,15 @@ export default function BottomImageSingle({lang}: { lang: string }) {
                     <FaEnvelope/>
                 </div>
                 <p>
-                    contact@chorn.in.th
+                    Project Manager: pm@chorn.in.th
+                </p>
+            </div>
+            <div className="left-row">
+                <div className="icon">
+                    <FaEnvelope/>
+                </div>
+                <p>
+                    HR: hr@chorn.in.th, CTO: cto@chorn.in.th
                 </p>
             </div>
             <div className="left-row">
