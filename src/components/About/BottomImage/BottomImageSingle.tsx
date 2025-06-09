@@ -20,15 +20,7 @@ export default function BottomImageSingle({lang}: { lang: string }) {
                     <FaEnvelope/>
                 </div>
                 <p>
-                    Project Manager: pm@chorn.in.th
-                </p>
-            </div>
-            <div className="left-row">
-                <div className="icon">
-                    <FaEnvelope/>
-                </div>
-                <p>
-                    HR: hr@chorn.in.th, CTO: cto@chorn.in.th
+                    Email: contact@chorn.in.th
                 </p>
             </div>
             <div className="left-row">
