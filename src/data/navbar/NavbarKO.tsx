@@ -130,4 +130,12 @@ export const NavbarKO: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
+    {
+        group: "/contact/",
+        label: "연락처",
+        level: 1,
+        link: "/contact/",
+        isSubmenu: false,
+        submenu: [],
+    },
 ];

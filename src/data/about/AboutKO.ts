@@ -31,5 +31,27 @@ export const AboutKO: IAbout = {
             title: "애자일 소프트웨어 개발 및 비즈니스 팀 조정",
             description: "비즈니스 팀 조정을 통한 애자일 소프트웨어 개발. 국내 및 국제 팀, 내부 및 외부 고객, 비즈니스 사용자와의 긴밀한 협력. 작업 방법론은 애자일, 워터폴 및 하이브리드 접근 방식을 포함합니다."
         }
-    ]
+    ],
+    contact: {
+        title: "비즈니스 문의 및 파트너십",
+        description: "창업자, CEO, CTO, 제품 리더, 투자 파트너의 연락을 환영합니다.",
+        roles: [
+            {
+                title: "Project Manager",
+                span: "(클라이언트 프로젝트 조율)",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "Chief Technology Officer",
+                span: "(기술 제휴 또는 통합 관련)",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "일반 문의",
+                span: "(전략적 파트너십)",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "오피스: 태국 치앙마이 산사이"
+            }
+        ]
+    }
 };

@@ -130,4 +130,12 @@ export const NavbarZH: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
+    {
+        group: "/contact/",
+        label: "联系我们",
+        level: 1,
+        link: "/contact/",
+        isSubmenu: false,
+        submenu: [],
+    },
 ];

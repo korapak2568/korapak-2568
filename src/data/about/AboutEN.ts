@@ -1,4 +1,5 @@
 import {IAbout} from "@/data/about/model/IAbout";
+import {IAboutRole} from "@/data/about/model/IAboutRole";
 
 export const AboutEN: IAbout = {
     title: "About",
@@ -32,5 +33,27 @@ export const AboutEN: IAbout = {
             title: "Agile Software Development and Business Team Coordination",
             description: "Agile software development with business team coordination. Close collaboration with domestic and international teams, internal and external clients, business users. Work methodologies include agile, waterfall, and hybrid approaches."
         }
-    ]
+    ],
+    contact: {
+        title: "Business Inquiries & Collaborations",
+        description: "Welcome contact from fellow founders, CEO, CTO, product leaders, and venture partners.",
+        roles: [
+            {
+                title: "Project Manager",
+                span: "(for client project coordination)",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "Chief Technology Officer",
+                span: "(for technical partnerships or integration)",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "General Inquiries",
+                span: "(Strategic Collaborations)",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "Office: Sansai, Chiang Mai, Thailand",
+            }
+        ]
+    }
 };

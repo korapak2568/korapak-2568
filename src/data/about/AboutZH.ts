@@ -31,5 +31,27 @@ export const AboutZH: IAbout = {
             title: "敏捷软件开发和业务团队协调",
             description: "敏捷软件开发与业务团队协调。与国内和国际团队、内部和外部客户、业务用户紧密合作。工作方法包括敏捷、瀑布和混合方法。"
         }
-    ]
+    ],
+    contact: {
+        title: "商务咨询与合作",
+        description: "我们欢迎来自联合创始人、CEO、CTO、产品负责人及投资合作伙伴的联系。",
+        roles: [
+            {
+                title: "项目经理",
+                span: "（客户项目协调）",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "首席技术官",
+                span: "（技术合作或系统集成）",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "一般咨询",
+                span: "（战略合作）",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "办公室：泰国清迈，Sansai"
+            }
+        ]
+    }
 };

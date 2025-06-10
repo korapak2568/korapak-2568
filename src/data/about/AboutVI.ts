@@ -31,5 +31,27 @@ export const AboutVI: IAbout = {
             title: "Phát Triển Phần Mềm Agile và Phối Hợp Đội Kinh Doanh",
             description: "Phát triển phần mềm agile với sự phối hợp của đội kinh doanh. Hợp tác chặt chẽ với các đội trong nước và quốc tế, khách hàng nội bộ và bên ngoài, người dùng doanh nghiệp. Phương pháp làm việc bao gồm agile, waterfall và các cách tiếp cận kết hợp."
         }
-    ]
+    ],
+    contact: {
+        title: "Liên hệ kinh doanh & hợp tác",
+        description: "Chúng tôi chào đón liên hệ từ các nhà sáng lập, CEO, CTO, trưởng nhóm sản phẩm và đối tác đầu tư.",
+        roles: [
+            {
+                title: "Project Manager",
+                span: "(phối hợp dự án với khách hàng)",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "Chief Technology Officer",
+                span: "(cho hợp tác kỹ thuật hoặc tích hợp hệ thống)",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "Liên hệ chung",
+                span: "(Hợp tác chiến lược)",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "Văn phòng: Sansai, Chiang Mai, Thái Lan"
+            }
+        ]
+    }
 };

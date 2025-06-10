@@ -31,5 +31,27 @@ export const AboutFI: IAbout = {
             title: "Ketterä Ohjelmistokehitys ja Liiketoimintatiimien Koordinointi",
             description: "Ketterä ohjelmistokehitys liiketoimintatiimien koordinoinnilla. Tiivis yhteistyö kotimaisten ja kansainvälisten tiimien, sisäisten ja ulkoisten asiakkaiden sekä liiketoimintakäyttäjien kanssa. Työmenetelmät sisältävät ketteriä, vesiputous- ja hybridilähestymistapoja."
         }
-    ]
+    ],
+    contact: {
+        title: "Liiketoimintakyselyt ja yhteistyömahdollisuudet",
+        description: "Toivotamme tervetulleiksi yhteydenotot perustajilta, toimitusjohtajilta, teknologiajohtajilta, tuotejohtajilta ja sijoituskumppaneilta.",
+        roles: [
+            {
+                title: "Project Manager",
+                span: "(asiakasprojektien koordinointiin)",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "Chief Technology Officer",
+                span: "(teknisiin kumppanuuksiin tai integraatioihin)",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "Yleiset tiedustelut",
+                span: "(Strategiset yhteistyöt)",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "Toimisto: Sansai, Chiang Mai, Thaimaa"
+            }
+        ]
+    }
 };

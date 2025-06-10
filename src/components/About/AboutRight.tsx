@@ -1,3 +1,5 @@
+import "@/styles/about.scss"
+
 import React from "react";
 import {IAboutContent} from "@/data/about/model/IAboutContent";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";

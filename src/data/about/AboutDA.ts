@@ -31,5 +31,27 @@ export const AboutDA: IAbout = {
             title: "Agil Softwareudvikling og Forretningsteamkoordinering",
             description: "Agil softwareudvikling med forretningsteamkoordinering. Tæt samarbejde med indenlandske og internationale teams, interne og eksterne kunder, forretningsbrugere. Arbejdsmetoder omfatter agile, vandfalds- og hybride tilgange."
         }
-    ]
+    ],
+    contact: {
+        title: "Forretningshenvendelser og partnerskaber",
+        description: "Vi byder velkommen til kontakt fra medstiftere, CEO'er, CTO'er, produktledere og investeringspartnere.",
+        roles: [
+            {
+                title: "Project Manager",
+                span: "(for koordinering af kundeprojekter)",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "Chief Technology Officer",
+                span: "(for tekniske partnerskaber eller integrationer)",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "Generelle henvendelser",
+                span: "(Strategiske partnerskaber)",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "Kontor: Sansai, Chiang Mai, Thailand"
+            }
+        ]
+    }
 };

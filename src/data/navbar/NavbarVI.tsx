@@ -130,4 +130,12 @@ export const NavbarVI: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
+    {
+        group: "/contact/",
+        label: "Liên hệ",
+        level: 1,
+        link: "/contact/",
+        isSubmenu: false,
+        submenu: [],
+    },
 ];

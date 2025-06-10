@@ -32,5 +32,27 @@ export const AboutJA: IAbout = {
             title: "アジャイルソフトウェア開発とビジネスチーム連携",
             description: "ビジネスチーム連携を伴うアジャイルソフトウェア開発。国内外のチーム、社内外のクライアント、ビジネスユーザーとの緊密な連携。アジャイル、ウォーターフォール、ハイブリッドアプローチなどの作業方法を含みます。"
         }
-    ]
+    ],
+    contact: {
+        title: "ビジネスのお問い合わせ・パートナーシップ",
+        description: "創業者、CEO、CTO、プロダクトリーダー、ベンチャーパートナーからのお問い合わせを歓迎します。",
+        roles: [
+            {
+                title: "Project Manager",
+                span: "（クライアントプロジェクトの調整）",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "Chief Technology Officer",
+                span: "（技術提携や統合に関して）",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "一般のお問い合わせ",
+                span: "（戦略的パートナーシップ）",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "オフィス：タイ、チェンマイ、サンサーイ"
+            }
+        ]
+    }
 };

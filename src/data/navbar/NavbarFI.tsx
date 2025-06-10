@@ -130,4 +130,12 @@ export const NavbarFI: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
+    {
+        group: "/contact/",
+        label: "Yhteystiedot",
+        level: 1,
+        link: "/contact/",
+        isSubmenu: false,
+        submenu: [],
+    },
 ];

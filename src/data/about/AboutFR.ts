@@ -31,5 +31,27 @@ export const AboutFR: IAbout = {
             title: "Développement Agile et Coordination d'Équipe Business",
             description: "Développement logiciel agile avec coordination d'équipes business. Collaboration étroite avec des équipes nationales et internationales, clients internes et externes, utilisateurs métier. Les méthodologies de travail incluent les approches agile, en cascade et hybrides."
         }
-    ]
+    ],
+    contact: {
+        title: "Demandes commerciales et partenariats",
+        description: "Nous accueillons les prises de contact de la part de fondateurs, PDG, CTO, responsables produits et partenaires d’investissement.",
+        roles: [
+            {
+                title: "Project Manager",
+                span: "(pour la coordination des projets clients)",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "Chief Technology Officer",
+                span: "(pour les partenariats techniques ou intégrations)",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "Demandes générales",
+                span: "(Partenariats stratégiques)",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "Bureau : Sansai, Chiang Mai, Thaïlande"
+            }
+        ]
+    }
 };

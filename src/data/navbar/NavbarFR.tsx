@@ -130,4 +130,12 @@ export const NavbarFR: INavbar[] = [
         isSubmenu: false,
         submenu: [],
     },
+    {
+        group: "/contact/",
+        label: "Contact",
+        level: 1,
+        link: "/contact/",
+        isSubmenu: false,
+        submenu: [],
+    },
 ];

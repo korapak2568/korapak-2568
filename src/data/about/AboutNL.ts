@@ -31,5 +31,27 @@ export const AboutNL: IAbout = {
             title: "Agile Softwareontwikkeling en Coördinatie van Business Teams",
             description: "Agile softwareontwikkeling met coördinatie van business teams. Nauwe samenwerking met binnen- en buitenlandse teams, interne en externe klanten, zakelijke gebruikers. Werkmethoden omvatten agile, waterval en hybride benaderingen."
         }
-    ]
+    ],
+    contact: {
+        title: "Zakelijke aanvragen & samenwerkingen",
+        description: "Wij verwelkomen contact van medeoprichters, CEO’s, CTO’s, productleiders en investeringspartners.",
+        roles: [
+            {
+                title: "Project Manager",
+                span: "(voor coördinatie van klantprojecten)",
+                email: "pm@chorn.in.th"
+            },
+            {
+                title: "Chief Technology Officer",
+                span: "(voor technische samenwerkingen of integraties)",
+                email: "cto@chorn.in.th"
+            },
+            {
+                title: "Algemene vragen",
+                span: "(Strategische samenwerkingen)",
+                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                address: "Kantoor: Sansai, Chiang Mai, Thailand"
+            }
+        ]
+    }
 };
