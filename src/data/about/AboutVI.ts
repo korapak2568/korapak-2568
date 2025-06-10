@@ -47,6 +47,11 @@ export const AboutVI: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "Phòng Nhân sự",
+                span: "(cho các thắc mắc liên quan đến nhân sự, tuyển dụng và tuyển chọn)",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "Liên hệ chung",
                 span: "(Hợp tác chiến lược)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",

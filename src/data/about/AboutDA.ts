@@ -47,6 +47,11 @@ export const AboutDA: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "HR-afdeling",
+                span: "(for henvendelser vedrørende HR, rekruttering og ansættelse)",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "Generelle henvendelser",
                 span: "(Strategiske partnerskaber)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",

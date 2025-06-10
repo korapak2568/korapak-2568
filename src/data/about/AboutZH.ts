@@ -47,6 +47,11 @@ export const AboutZH: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "人力资源部",
+                span: "（关于人力资源、招聘和雇佣的相关咨询）",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "一般咨询",
                 span: "（战略合作）",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",

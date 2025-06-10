@@ -48,6 +48,11 @@ export const AboutJA: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "人事部",
+                span: "（人事関連のお問い合わせ、採用、雇用について）",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "一般のお問い合わせ",
                 span: "（戦略的パートナーシップ）",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",

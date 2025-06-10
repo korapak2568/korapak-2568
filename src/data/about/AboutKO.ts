@@ -47,6 +47,11 @@ export const AboutKO: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "인사부",
+                span: "(HR 관련 문의, 채용 및 고용에 관한 사항)",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "일반 문의",
                 span: "(전략적 파트너십)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",

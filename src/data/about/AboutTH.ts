@@ -47,6 +47,11 @@ export const AboutTH: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "ฝ่ายทรัพยากรบุคคล",
+                span: "(สอบถามเกี่ยวกับทรัพยากรบุคคล สำหรับการสรรหา การจ้างงาน)",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "สอบถามทั่วไป",
                 span: "(ความร่วมมือเชิงกลยุทธ์)",
                 telephone: "Tel: 052-000 548, 064-918 1998",

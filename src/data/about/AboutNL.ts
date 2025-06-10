@@ -47,6 +47,11 @@ export const AboutNL: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "Personeelszaken",
+                span: "(voor HR-gerelateerde vragen, werving en aanwerving)",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "Algemene vragen",
                 span: "(Strategische samenwerkingen)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",

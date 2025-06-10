@@ -47,6 +47,11 @@ export const AboutFI: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "Henkilöstöosasto",
+                span: "(HR-aiheisiin kyselyihin, rekrytointiin ja palkkaukseen liittyen)",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "Yleiset tiedustelut",
                 span: "(Strategiset yhteistyöt)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",

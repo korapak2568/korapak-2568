@@ -47,6 +47,11 @@ export const AboutDE: IAbout = {
                 email: "cto@chorn.in.th"
             },
             {
+                title: "Personalabteilung",
+                span: "(für Anfragen zu Personalwesen, Rekrutierung und Einstellung)",
+                email: "hr@chorn.in.th"
+            },
+            {
                 title: "Allgemeine Anfragen",
                 span: "(Strategische Kooperationen)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
