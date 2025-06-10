@@ -9,7 +9,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Klein Projectplan",
-                price: "$299 USD/Project",
+                price: "$299 USD/taak",
                 schedule: "Flexibel (per project, ≤1 week)",
                 highlight: "Efficiënte oplossing voor microtaken, fixes of kleine functies die binnen enkele dagen geleverd kunnen worden.",
                 features: [

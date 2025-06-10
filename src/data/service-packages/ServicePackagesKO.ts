@@ -9,7 +9,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "소규모 프로젝트 플랜",
-                price: "$299 USD/프로젝트",
+                price: "$299 USD/작업",
                 schedule: "유연함 (프로젝트 기반, ≤1주)",
                 highlight: "수일 내 납품 가능한 마이크로 작업, 버그 수정 또는 소규모 기능에 적합한 효율적인 솔루션.",
                 features: [

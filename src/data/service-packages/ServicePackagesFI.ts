@@ -9,7 +9,7 @@ export const ServicePackagesFI: IServicePackages = {
         plans: [
             {
                 name: "Pieni projektipaketti",
-                price: "$299 USD/Projekti",
+                price: "$299 USD/tehtävä",
                 schedule: "Joustava (projektipohjainen, ≤1 viikko)",
                 highlight: "Tehokas ratkaisu mikrotehtäville, korjauksille tai pienille ominaisuuksille, jotka voidaan toimittaa muutamassa päivässä.",
                 features: [

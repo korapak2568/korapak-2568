@@ -9,7 +9,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "ミニプロジェクト・プラン",
-                price: "$299 USD/プロジェクト",
+                price: "$299 USD/タスク",
                 schedule: "柔軟対応（プロジェクトベース、最長1週間）",
                 highlight: "数日以内に納品可能な小規模タスク、バグ修正、またはミニ機能に対する効率的なソリューション。",
                 features: [

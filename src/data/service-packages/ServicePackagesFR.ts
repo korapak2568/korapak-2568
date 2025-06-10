@@ -9,7 +9,7 @@ export const ServicePackagesFR: IServicePackages = {
         plans: [
             {
                 name: "Plan de Petit Projet",
-                price: "$299 USD/Projet",
+                price: "$299 USD/mission",
                 schedule: "Flexible (par projet, ≤1 semaine)",
                 highlight: "Solution efficace pour les micro-tâches, corrections ou petites fonctionnalités livrables en quelques jours.",
                 features: [

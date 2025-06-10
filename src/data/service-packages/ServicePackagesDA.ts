@@ -8,7 +8,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Lille Projektplan",
-                price: "$299 USD/Projekt",
+                price: "$299 USD/opgave",
                 schedule: "Fleksibel (projektbaseret, ≤1 uge)",
                 highlight: "Effektiv løsning til mikroopgaver, fejlrettelser eller små funktioner med levering på få dage.",
                 features: [

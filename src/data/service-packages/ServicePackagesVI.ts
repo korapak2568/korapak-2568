@@ -9,7 +9,7 @@ export const ServicePackagesVI: IServicePackages = {
         plans: [
             {
                 name: "Gói Dự Án Nhỏ",
-                price: "$299 USD/Dự án",
+                price: "$299 USD/nhiệm vụ",
                 schedule: "Linh hoạt (theo dự án, ≤1 tuần)",
                 highlight: "Giải pháp hiệu quả cho các tác vụ nhỏ, sửa lỗi hoặc tính năng đơn giản có thể bàn giao trong vài ngày.",
                 features: [

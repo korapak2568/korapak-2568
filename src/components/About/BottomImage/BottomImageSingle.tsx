@@ -13,6 +13,11 @@ export default function BottomImageSingle({lang}: { lang: string }) {
         th: "โทรศัพท์: 052-000 548, 064-918 1998",
     }
 
+    const email: Record<string, string> = {
+        en: "Project Manager: pm@chorn.in.th",
+        th: "ผู้จัดการโครงการ: pm@chorn.in.th",
+    }
+
     return (
         <div className="social single-row">
             <div className="left-row">
@@ -20,7 +25,7 @@ export default function BottomImageSingle({lang}: { lang: string }) {
                     <FaEnvelope/>
                 </div>
                 <p>
-                    Email: contact@chorn.in.th
+                    {lang == 'th' ? email[lang] : email['en']}
                 </p>
             </div>
             <div className="left-row">
