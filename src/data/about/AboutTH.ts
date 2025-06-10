@@ -49,7 +49,7 @@ export const AboutTH: IAbout = {
             {
                 title: "สอบถามทั่วไป",
                 span: "(ความร่วมมือเชิงกลยุทธ์)",
-                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                telephone: "Tel: 052-000 548, 064-918 1998",
                 address: "Office: สันทราย จังหวัดเชียงใหม่ ประเทศไทย"
             }
         ]
