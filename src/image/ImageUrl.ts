@@ -615,7 +615,7 @@ export const ImageUrl: IImageUrl = {
     banner: {
         banner1: {
             title: "CHORN's banner image",
-            path: CDN_IMAGE + "/banner/chorn-banner-1.webp"
+            path: CDN_IMAGE + "/banner/banner-llm-ai.webp"
         },
         mainBannerBg1: {
             title: "CHORN's main banner bg - 1",

@@ -9,6 +9,7 @@ import WebDevelopmentDevOps from "@/components/Services/WebDevelopment/WebDevelo
 import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
 import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
 import AiFahLandingPage from "@/components/AiCompanions/Main/AiFahLandingPage";
+import CloudExperience from "@/components/Common/CloudExperience";
 
 export default function WebDevelopmentPageMain({lang}: { lang: string }) {
     return (
@@ -23,10 +24,10 @@ export default function WebDevelopmentPageMain({lang}: { lang: string }) {
                         </div>
                         <WevDevelopmentFrontEnd lang={lang}/>
                         <WebDevelopmentBackEnd lang={lang}/>
-                        <WebDevelopmentDevOps lang={lang}/>
                     </div>
-                    <AiFahLandingPage lang={lang}/>
                     <AiSolutionsMain lang={lang}/>
+                    <WebDevelopmentDevOps lang={lang}/>
+                    <AiFahLandingPage lang={lang}/>
                 </div>
             </div>
 
