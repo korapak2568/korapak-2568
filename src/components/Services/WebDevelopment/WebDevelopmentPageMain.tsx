@@ -7,9 +7,8 @@ import WebDevelopmentBackEnd from "@/components/Services/WebDevelopment/WebDevel
 import WevDevelopmentFrontEnd from "@/components/Services/WebDevelopment/WevDevelopmentFrontEnd";
 import WebDevelopmentDevOps from "@/components/Services/WebDevelopment/WebDevelopmentDevOps";
 import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
-import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
 import AiFahLandingPage from "@/components/AiCompanions/Main/AiFahLandingPage";
-import CloudExperience from "@/components/Common/CloudExperience";
+import Web3PageMain from "@/components/Services/web3-blockchain-development/Web3PageMain";
 
 export default function WebDevelopmentPageMain({lang}: { lang: string }) {
     return (
@@ -27,6 +26,7 @@ export default function WebDevelopmentPageMain({lang}: { lang: string }) {
                     </div>
                     <AiSolutionsMain lang={lang}/>
                     <WebDevelopmentDevOps lang={lang}/>
+                    <Web3PageMain lang={lang}/>
                     <AiFahLandingPage lang={lang}/>
                 </div>
             </div>
