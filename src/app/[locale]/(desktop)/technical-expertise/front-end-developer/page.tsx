@@ -5,6 +5,7 @@ import {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
 import {MetadataFrontEndMain} from "@/metadata/main/frontend/MetadataFrontEndMain";
+import HomeFeatureMain from "@/components/Features/HomeFeatureMain";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -20,6 +21,7 @@ export default async function Page() {
         <>
             <FrontEndPageMain lang={lang}/>
             <CloudExperience lang={lang}/>
+            <HomeFeatureMain lang={lang}/>
             <SchemaMarkupServicePage
                 name="Frontend Development Services | CHORN"
                 description="CHORN provides expert frontend development services, specializing in modern frameworks like Next.js, React, Angular, Vue, HTML5, and CSS3. Build responsive and scalable websites with cutting-edge technologies."

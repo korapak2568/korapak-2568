@@ -4,6 +4,7 @@ import {Metadata} from "next";
 import {headers} from "next/headers";
 import {MetadataAiFah} from "@/metadata/main/MetadataAiFah";
 import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
+import HomeFeatureMain from "@/components/Features/HomeFeatureMain";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -19,6 +20,7 @@ export default async function Page() {
         <>
             <AiFahLandingPage lang={lang}/>
             <AiSolutionsMain lang={lang}/>
+            <HomeFeatureMain lang={lang}/>
         </>
     );
 }

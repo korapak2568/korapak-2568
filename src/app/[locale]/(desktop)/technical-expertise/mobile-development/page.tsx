@@ -1,6 +1,7 @@
 import React from "react";
 import PageBanner from "@/components/Common/PageBanner";
 import {headers} from "next/headers";
+import HomeFeatureMain from "@/components/Features/HomeFeatureMain";
 
 export default async function Page() {
     const headers15 = await headers();
@@ -9,6 +10,7 @@ export default async function Page() {
     return (
         <>
             <PageBanner pageTitle="Mobile App Development"/>
+            <HomeFeatureMain lang={lang}/>
         </>
     );
 };

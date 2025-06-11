@@ -3,9 +3,12 @@ import Image from "next/image";
 import {ICloudStack} from "@/data/cloud/model/ICloudStack";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
-export default function CloudExperience({lang}: { lang: string }) {
+export default function CloudExperience({lang, isHome = false}: { lang: string, isHome?: boolean }) {
+
+    const classes = isHome ? "fun-facts-area pb-70 pt-5" : "fun-facts-area pb-70"
+
     return (
-        <div className="fun-facts-area pb-70 pt-5">
+        <div className={`${classes}`}>
             <div className="container">
                 <div className="row justify-content-center align-items-center">
                     {InfoTranslation[lang].Cloud.stacks.map((item: ICloudStack, index: any) => (
