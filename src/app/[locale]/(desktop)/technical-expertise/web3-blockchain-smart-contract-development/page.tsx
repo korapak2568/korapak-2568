@@ -5,6 +5,7 @@ import Web3PageMain from "@/components/Services/web3-blockchain-development/Web3
 import CloudExperience from "@/components/Common/CloudExperience";
 import {headers} from "next/headers";
 import {MetadataWeb3} from "@/metadata/main/MetadataWeb3";
+import HomeFeatureMain from "@/components/Features/HomeFeatureMain";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -20,6 +21,7 @@ export default async function Page() {
         <>
             <Web3PageMain lang={lang}/>
             <CloudExperience lang={lang}/>
+            <HomeFeatureMain lang={lang}/>
             <SchemaMarkupServicePage
                 name="Web3 Blockchain Smart Contract Development | CHORN | Custom Blockchain Solutions"
                 description="Discover CHORN’s expertise in Web3 blockchain and smart contract development. CHORN build decentralized applications (DApps) using Solidity, Ethereum, Polygon, and integrate with technologies like Hardhat, Ganache, and MetaMask."

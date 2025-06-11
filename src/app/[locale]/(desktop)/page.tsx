@@ -60,7 +60,7 @@ export default async function Home() {
     return (
         <>
             <HomeWorkspace lang={lang}/>
-            <HomeFeatureMain lang={lang} isHome={true}/>
+            <HomeFeatureMain lang={lang} isTopSpace={true}/>
             <AiPloyLandingPage lang={lang}/>
             <HomeFrontEndContainer lang={lang}/>
             <HomeBackEndContainer lang={lang}/>

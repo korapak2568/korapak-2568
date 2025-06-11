@@ -7,6 +7,7 @@ import AiAomLandingPage from "@/components/AiCompanions/Main/AiAomLandingPage";
 import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
 import React from "react";
 import CloudExperience from "@/components/Common/CloudExperience";
+import HomeFeatureMain from "@/components/Features/HomeFeatureMain";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -24,6 +25,7 @@ export default async function Page() {
             <GalleryModuleBottom/>
             <CloudExperience lang={lang}/>
             <AiAomLandingPage lang={lang}/>
+            <HomeFeatureMain lang={lang} isTopSpace={true} isHideTopTitle={true}/>
         </>
     );
 }

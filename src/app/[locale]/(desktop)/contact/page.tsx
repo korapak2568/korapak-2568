@@ -21,7 +21,6 @@ export default async function Page() {
         <>
             <ContactContent lang={lang}/>
             <CloudExperience lang={lang}/>
-            <HomeFeatureMain lang={lang}/>
             <SchemaMarkupServicePage
                 name="About Us | CHORN - Custom Software Development Experts"
                 description="Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology."
