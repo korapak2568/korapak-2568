@@ -3,6 +3,10 @@ import GalleryModuleBottom from "@/components/Gallery/GalleryModuleBottom";
 import {Metadata} from "next";
 import {headers} from "next/headers";
 import {MetadataGallery} from "@/metadata/main/MetadataGallery";
+import AiAomLandingPage from "@/components/AiCompanions/Main/AiAomLandingPage";
+import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
+import React from "react";
+import CloudExperience from "@/components/Common/CloudExperience";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -18,6 +22,8 @@ export default async function Page() {
         <>
             <GalleryPageMain lang={lang}/>
             <GalleryModuleBottom/>
+            <CloudExperience lang={lang}/>
+            <AiAomLandingPage lang={lang}/>
         </>
     );
 }

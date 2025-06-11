@@ -5,7 +5,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 export default function CloudExperience({lang}: { lang: string }) {
     return (
-        <div className="fun-facts-area pb-70">
+        <div className="fun-facts-area pb-70 pt-5">
             <div className="container">
                 <div className="row justify-content-center align-items-center">
                     {InfoTranslation[lang].Cloud.stacks.map((item: ICloudStack, index: any) => (

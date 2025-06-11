@@ -25,8 +25,8 @@ export default function WebDevelopmentPageMain({lang}: { lang: string }) {
                         <WebDevelopmentBackEnd lang={lang}/>
                         <WebDevelopmentDevOps lang={lang}/>
                     </div>
-                    <AiSolutionsMain lang={lang}/>
                     <AiFahLandingPage lang={lang}/>
+                    <AiSolutionsMain lang={lang}/>
                 </div>
             </div>
 

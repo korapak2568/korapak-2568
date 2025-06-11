@@ -3,6 +3,10 @@ import type {Metadata} from "next";
 import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import {headers} from "next/headers";
 import {MetadataAbout} from "@/metadata/main/MetadataAbout";
+import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
+import CloudExperience from "@/components/Common/CloudExperience";
+import React from "react";
+import HomeBackEndContainer from "@/components/Common/HomeBackEnd/HomeBackEndContainer";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -17,6 +21,9 @@ export default async function Page() {
     return (
         <>
             <AboutContent lang={lang}/>
+            <AiSolutionsMain lang={lang}/>
+            <CloudExperience lang={lang}/>
+            <HomeBackEndContainer lang={lang} isRemoveTopSpace={true}/>
             <SchemaMarkupServicePage
                 name="About Us | CHORN - Custom Software Development Experts"
                 description="Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology."
