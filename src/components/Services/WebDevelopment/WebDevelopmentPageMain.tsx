@@ -3,8 +3,12 @@ import {DefaultShape} from "@/components/Shape/DefaultShape";
 import WebDevelopmentLeft from "@/components/Services/WebDevelopment/WebDevelopmentLeft";
 import WebDevelopmentRight from "@/components/Services/WebDevelopment/WebDevelopmentRight";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import WebDevelopmentBackEndBottom from "@/components/Services/WebDevelopment/WebDevelopmentBackEndBottom";
-import WevDevelopmentFrontEndBottom from "@/components/Services/WebDevelopment/WevDevelopmentFrontEndBottom";
+import WebDevelopmentBackEnd from "@/components/Services/WebDevelopment/WebDevelopmentBackEnd";
+import WevDevelopmentFrontEnd from "@/components/Services/WebDevelopment/WevDevelopmentFrontEnd";
+import WebDevelopmentDevOps from "@/components/Services/WebDevelopment/WebDevelopmentDevOps";
+import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
+import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
+import AiFahLandingPage from "@/components/AiCompanions/Main/AiFahLandingPage";
 
 export default function WebDevelopmentPageMain({lang}: { lang: string }) {
     return (
@@ -17,11 +21,15 @@ export default function WebDevelopmentPageMain({lang}: { lang: string }) {
                             <WebDevelopmentLeft lang={lang}/>
                             <WebDevelopmentRight lang={lang}/>
                         </div>
-                        <WevDevelopmentFrontEndBottom lang={lang}/>
-                        <WebDevelopmentBackEndBottom lang={lang}/>
+                        <WevDevelopmentFrontEnd lang={lang}/>
+                        <WebDevelopmentBackEnd lang={lang}/>
+                        <WebDevelopmentDevOps lang={lang}/>
                     </div>
+                    <AiSolutionsMain lang={lang}/>
+                    <AiFahLandingPage lang={lang}/>
                 </div>
             </div>
+
             <DefaultShape/>
         </>
     )

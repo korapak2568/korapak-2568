@@ -1,14 +1,14 @@
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 import {IFrontEndStack} from "@/data/frontend/model/IFrontEndStack";
-import Link from "next/link";
 import Image from "next/image";
+import Link from "next/link";
 
-export default function WevDevelopmentFrontEndBottom({lang}: { lang: string }) {
+export default function WebDevelopmentBackEnd({lang}: { lang: string }) {
     return (
         <div className="services-area bg-fafafa pt-100 pb-70 addition-ptb-0">
             <div className="row">
-                {InfoTranslation[lang].FrontEnd.stacks.slice(0, 3).map((item: IFrontEndStack, index: number) => (
+                {InfoTranslation[lang].FullStack.stacks.slice(0, 6).map((item: IFrontEndStack, index: number) => (
                     <div key={index} className="col-lg-4 col-md-6">
                         <Link href={'/' + lang + item.link}>
                             <div className="home-frontend-box">
@@ -20,6 +20,7 @@ export default function WevDevelopmentFrontEndBottom({lang}: { lang: string }) {
                                         height={150}
                                     />
                                 </div>
+
                                 <h3> {item.title} </h3>
                             </div>
                         </Link>

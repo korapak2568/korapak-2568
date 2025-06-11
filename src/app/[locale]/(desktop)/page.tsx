@@ -11,6 +11,7 @@ import type {Metadata} from "next";
 import HomeWorkspace from "@/components/Home/HomeWorkspace";
 import {MetadataHome} from "@/metadata/main/MetadataHome";
 import {headers} from "next/headers";
+import AiPloyLandingPage from "@/components/AiCompanions/Main/AiPloyLandingPage";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -59,7 +60,7 @@ export default async function Home() {
         <>
             <HomeWorkspace lang={lang}/>
             <HomeFeatureMain lang={lang}/>
-            <AboutContent lang={lang}/>
+            <AiPloyLandingPage lang={lang}/>
             <HomeFrontEndContainer lang={lang}/>
             <HomeBackEndContainer lang={lang}/>
             <CloudExperience lang={lang}/>
