@@ -59,6 +59,7 @@ export const AboutNL: IAbout = {
                     office: "Kantoor: 405/112 Moo 3, San Na Meng Subdistrict, San Sai District, Chiang Mai 50210, Thailand",
                     nearby: [
                         "Dicht bij Central Festival Chiang Mai – 20 minuten",
+                        "Dicht bij de Universiteit van Maejo – 22 minuten",
                         "Dicht bij de Universiteit van Chiang Mai – 29 minuten",
                         "Dicht bij de Internationale Luchthaven Chiang Mai – 30 minuten"
                     ]

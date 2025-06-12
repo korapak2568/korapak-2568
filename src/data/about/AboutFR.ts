@@ -59,6 +59,7 @@ export const AboutFR: IAbout = {
                     office: "Bureau : 405/112 Moo 3, Sous-district de San Na Meng, District de San Sai, Chiang Mai 50210, Thaïlande",
                     nearby: [
                         "À proximité de Central Festival Chiang Mai – 20 minutes",
+                        "À proximité de l’Université de Maejo – 22 minutes",
                         "À proximité de l’Université de Chiang Mai – 29 minutes",
                         "À proximité de l’Aéroport International de Chiang Mai – 30 minutes"
                     ]

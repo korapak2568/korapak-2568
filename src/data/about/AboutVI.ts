@@ -59,6 +59,7 @@ export const AboutVI: IAbout = {
                     office: "Văn phòng: 405/112 Moo 3, Phường San Na Meng, Quận San Sai, Chiang Mai 50210, Thái Lan",
                     nearby: [
                         "Gần Central Festival Chiang Mai – 20 phút",
+                        "Gần Đại học Maejo – 22 phút",
                         "Gần Đại học Chiang Mai – 29 phút",
                         "Gần Sân bay Quốc tế Chiang Mai – 30 phút"
                     ]

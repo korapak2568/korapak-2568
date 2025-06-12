@@ -59,6 +59,7 @@ export const AboutZH: IAbout = {
                     office: "办公室：泰国清迈府善赛县善纳孟分区 Moo 3，405/112，邮编50210",
                     nearby: [
                         "靠近清迈尚泰百货（Central Festival）– 20分钟",
+                        "靠近梅州大学 – 22分钟",
                         "靠近清迈大学 – 29分钟",
                         "靠近清迈国际机场 – 30分钟"
                     ]

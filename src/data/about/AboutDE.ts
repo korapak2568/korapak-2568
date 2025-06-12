@@ -59,6 +59,7 @@ export const AboutDE: IAbout = {
                     office: "Büro: 405/112 Moo 3, San Na Meng Unterbezirk, San Sai Bezirk, Chiang Mai 50210, Thailand",
                     nearby: [
                         "In der Nähe von Central Festival Chiang Mai – 20 Minuten",
+                        "In der Nähe der Maejo Universität – 22 Minuten",
                         "In der Nähe der Chiang Mai Universität – 29 Minuten",
                         "In der Nähe des internationalen Flughafens Chiang Mai – 30 Minuten"
                     ]

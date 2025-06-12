@@ -59,6 +59,7 @@ export const AboutDA: IAbout = {
                     office: "Kontor: 405/112 Moo 3, San Na Meng Subdistrikt, San Sai Distrikt, Chiang Mai 50210, Thailand",
                     nearby: [
                         "Tæt på Central Festival Chiang Mai – 20 minutter",
+                        "Tæt på Maejo Universitet – 22 minutter",
                         "Tæt på Chiang Mai Universitet – 29 minutter",
                         "Tæt på Chiang Mai Internationale Lufthavn – 30 minutter"
                     ]
