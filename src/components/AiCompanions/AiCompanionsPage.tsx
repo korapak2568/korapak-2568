@@ -34,8 +34,6 @@ export default function AiCompanionsPage({lang}: { lang: string }) {
                             </ul>
                         </div>
                     </div>
-
-                    <MainBannerAiFah lang={lang}/>
                 </div>
             </div>
 

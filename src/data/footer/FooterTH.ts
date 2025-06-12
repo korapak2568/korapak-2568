@@ -84,7 +84,7 @@ export const FooterTH: IFooter = {
             link: "/technical-expertise/ai-solutions"
         },
         {
-            label: "เว็บ ๓ บล็อกเชน",
+            label: "Web3 บล็อกเชน",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
         },
     ],

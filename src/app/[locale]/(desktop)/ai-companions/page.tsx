@@ -3,6 +3,8 @@ import AiCompanionsPage from "@/components/AiCompanions/AiCompanionsPage";
 import {Metadata} from "next";
 import {headers} from "next/headers";
 import {MetadataAiFah} from "@/metadata/main/MetadataAiFah";
+import HomeFeatureMain from "@/components/Features/HomeFeatureMain";
+import AiFahLandingPage from "@/components/AiCompanions/Main/AiFahLandingPage";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -15,6 +17,10 @@ export default async function Page() {
     const lang = headers15.get('x-locale') || 'en';
 
     return (
-        <AiCompanionsPage lang={lang}/>
+        <>
+            <AiCompanionsPage lang={lang}/>
+            <AiFahLandingPage lang={lang}/>
+            <HomeFeatureMain lang={lang} isHideTopTitle={true}/>
+        </>
     );
 }

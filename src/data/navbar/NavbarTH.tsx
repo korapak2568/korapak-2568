@@ -81,7 +81,7 @@ export const NavbarTH: INavbar[] = [
             },
             {
                 group: "/technical-expertise/",
-                label: "เว็บ ๓ บล็อกเชน",
+                label: "Web3 บล็อกเชน",
                 level: 2,
                 link: "/technical-expertise/web3-blockchain-smart-contract-development/",
                 isSubmenu: false,

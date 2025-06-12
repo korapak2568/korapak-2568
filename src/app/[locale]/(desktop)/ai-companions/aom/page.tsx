@@ -20,7 +20,7 @@ export default async function Page() {
         <>
             <AiAomLandingPage lang={lang}/>
             <AiSolutionsMain lang={lang}/>
-            <HomeFeatureMain lang={lang}/>
+            <HomeFeatureMain lang={lang} isHideTopTitle={true}/>
         </>
     )
 }

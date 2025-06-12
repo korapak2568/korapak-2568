@@ -24,7 +24,7 @@ export const FeatureTH: IFeature = {
             icon: "bx bx-globe"
         },
         {
-            title: "การพัฒนาเว็บ ๓ บล็อกเชน",
+            title: "การพัฒนา Web3 บล็อกเชน",
             description: "ประสบการณ์ในเทคโนโลยีล้ำสมัยเช่น Blockchain, Decentralized Finance (DeFi), Smart Contracts และ Web3 เพื่อให้แน่ใจว่าความเชี่ยวชาญเทคนิคด้านการเงินของคุณยังคงล้ำหน้าอยู่เสมอ",
             link: "/technical-expertise/web3-blockchain-smart-contract-development",
             icon: "bx bx-coin-stack"
