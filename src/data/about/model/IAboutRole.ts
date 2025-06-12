@@ -3,5 +3,8 @@ export interface IAboutRole {
     span: string,
     email?: string,
     telephone?: string,
-    address?: string,
+    locations?: {
+        office?: string,
+        nearby?: string[],
+    }
 }

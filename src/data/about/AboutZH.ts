@@ -55,7 +55,14 @@ export const AboutZH: IAbout = {
                 title: "一般咨询",
                 span: "（战略合作）",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
-                address: "办公室：泰国清迈，Sansai"
+                locations: {
+                    office: "办公室：泰国清迈府善赛县善纳孟分区 Moo 3，405/112，邮编50210",
+                    nearby: [
+                        "靠近清迈尚泰百货（Central Festival）– 20分钟",
+                        "靠近清迈大学 – 29分钟",
+                        "靠近清迈国际机场 – 30分钟"
+                    ]
+                }
             }
         ]
     }

@@ -55,7 +55,14 @@ export const AboutFI: IAbout = {
                 title: "Yleiset tiedustelut",
                 span: "(Strategiset yhteistyöt)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
-                address: "Toimisto: Sansai, Chiang Mai, Thaimaa"
+                locations: {
+                    office: "Toimisto: 405/112 Moo 3, San Na Mengin osa-alue, San Sain piiri, Chiang Mai 50210, Thaimaa",
+                    nearby: [
+                        "Lähellä Central Festival Chiang Maita – 20 minuuttia",
+                        "Lähellä Chiang Main yliopistoa – 29 minuuttia",
+                        "Lähellä Chiang Main kansainvälistä lentokenttää – 30 minuuttia"
+                    ]
+                }
             }
         ]
     }

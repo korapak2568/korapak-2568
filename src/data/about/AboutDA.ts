@@ -55,7 +55,14 @@ export const AboutDA: IAbout = {
                 title: "Generelle henvendelser",
                 span: "(Strategiske partnerskaber)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
-                address: "Kontor: Sansai, Chiang Mai, Thailand"
+                locations: {
+                    office: "Kontor: 405/112 Moo 3, San Na Meng Subdistrikt, San Sai Distrikt, Chiang Mai 50210, Thailand",
+                    nearby: [
+                        "Tæt på Central Festival Chiang Mai – 20 minutter",
+                        "Tæt på Chiang Mai Universitet – 29 minutter",
+                        "Tæt på Chiang Mai Internationale Lufthavn – 30 minutter"
+                    ]
+                }
             }
         ]
     }

@@ -55,7 +55,14 @@ export const AboutVI: IAbout = {
                 title: "Liên hệ chung",
                 span: "(Hợp tác chiến lược)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
-                address: "Văn phòng: Sansai, Chiang Mai, Thái Lan"
+                locations: {
+                    office: "Văn phòng: 405/112 Moo 3, Phường San Na Meng, Quận San Sai, Chiang Mai 50210, Thái Lan",
+                    nearby: [
+                        "Gần Central Festival Chiang Mai – 20 phút",
+                        "Gần Đại học Chiang Mai – 29 phút",
+                        "Gần Sân bay Quốc tế Chiang Mai – 30 phút"
+                    ]
+                }
             }
         ]
     }

@@ -19,6 +19,13 @@ export const MetaLinks: IMetaLinks = {
             alt: "Open graph image for about"
         }
     },
+    contact: {
+        canonical: "/contact/",
+        image: {
+            url: "/images/metadata/about/contact-og-image.png" + MetadataImageVersion,
+            alt: "Open graph image for contact"
+        }
+    },
     aiAom: {
         canonical: "/ai-companions/aom/",
         image: {

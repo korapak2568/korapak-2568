@@ -57,7 +57,14 @@ export const AboutEN: IAbout = {
                 title: "General Inquiries",
                 span: "(Strategic Collaborations)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
-                address: "Office: Sansai, Chiang Mai, Thailand",
+                locations: {
+                    office: "Office: 405/112 Moo 3, San Na Meng Subdistrict, San Sai District, Chiang Mai 50210, Thailand",
+                    nearby: [
+                        "Near Central Festival Chiang Mai - 20 minutes",
+                        "Near Chiang Mai University - 29 minutes",
+                        "Near Chiang Mai International Airport - 30 minutes"
+                    ]
+                }
             }
         ]
     }

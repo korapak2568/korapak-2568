@@ -6,6 +6,7 @@ import {IMetaLinkDevOps} from "@/metadata/metadataLink/model/IMetaLinkDevOps";
 export interface IMetaLinks {
     _404: IMetaLink,
     about: IMetaLink,
+    contact: IMetaLink,
     aiAom: IMetaLink,
     aiCompanion: IMetaLink,
     aiFah: IMetaLink,

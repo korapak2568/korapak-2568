@@ -55,7 +55,14 @@ export const AboutNL: IAbout = {
                 title: "Algemene vragen",
                 span: "(Strategische samenwerkingen)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
-                address: "Kantoor: Sansai, Chiang Mai, Thailand"
+                locations: {
+                    office: "Kantoor: 405/112 Moo 3, San Na Meng Subdistrict, San Sai District, Chiang Mai 50210, Thailand",
+                    nearby: [
+                        "Dicht bij Central Festival Chiang Mai – 20 minuten",
+                        "Dicht bij de Universiteit van Chiang Mai – 29 minuten",
+                        "Dicht bij de Internationale Luchthaven Chiang Mai – 30 minuten"
+                    ]
+                }
             }
         ]
     }
