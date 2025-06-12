@@ -714,6 +714,8 @@
 
 .llm-integration-vertical {
   align-items: start !important;
+  padding-left: 0;
+  margin-left: 0;
 }
 
 // Gallery responsive
@@ -773,22 +775,23 @@
 
 // Contact page
 .contact-image {
-  background-image: url('https://cdn.chorn.in.th/public/contact/contact-image.webp'); /* default */
+  background-image: url('https://cdn.chorn.in.th/public/contact/contact-image-750.webp'); /* default */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
   height: 500px;
   z-index: -1;
+  margin-bottom: 0;
 
   @media (min-width: 600px) {
-    background-image: url('https://cdn.chorn.in.th/public/contact/contact-image.webp');
+    background-image: url('https://cdn.chorn.in.th/public/contact/contact-image-750.webp');
     width: 100%;
     height: 500px;
   }
 
   @media (min-width: 1024px) {
-    background-image: url('https://cdn.chorn.in.th/public/contact/contact-image.webp');
+    background-image: url('https://cdn.chorn.in.th/public/contact/contact-image-1200.webp');
     width: 100%;
     height: 500px;
   }

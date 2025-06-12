@@ -24,11 +24,14 @@ export default function WebDevelopmentPageMain({lang}: { lang: string }) {
                         <WevDevelopmentFrontEnd lang={lang}/>
                         <WebDevelopmentBackEnd lang={lang}/>
                     </div>
-                    <AiSolutionsMain lang={lang}/>
-                    <WebDevelopmentDevOps lang={lang}/>
-                    <Web3PageMain lang={lang}/>
-                    <AiFahLandingPage lang={lang}/>
                 </div>
+
+                <AiSolutionsMain lang={lang}/>
+                <div className="container pt-3">
+                    <WebDevelopmentDevOps lang={lang}/>
+                </div>
+                <Web3PageMain lang={lang}/>
+                <AiFahLandingPage lang={lang}/>
             </div>
 
             <DefaultShape/>

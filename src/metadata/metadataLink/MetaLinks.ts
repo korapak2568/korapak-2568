@@ -22,7 +22,7 @@ export const MetaLinks: IMetaLinks = {
     contact: {
         canonical: "/contact/",
         image: {
-            url: "/images/metadata/about/contact-og-image.png" + MetadataImageVersion,
+            url: "/images/metadata/contact/contact-og-image.png" + MetadataImageVersion,
             alt: "Open graph image for contact"
         }
     },

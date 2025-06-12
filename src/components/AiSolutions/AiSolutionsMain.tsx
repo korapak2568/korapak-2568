@@ -10,8 +10,8 @@ export default function AiSolutionsMain({lang}: { lang: string }) {
             <div className="services-area">
                 <div className="container">
                     <div className="row justify-content-md-center">
-                        <h1 className="">{InfoTranslation[lang].Service.title}</h1>
-                        <div className="row align-items-center llm-integration-vertical">
+                        <h1>{InfoTranslation[lang].Service.title}</h1>
+                        <div className="row align-items-center align-items-center-custom">
                             <AiSolutionLeft lang={lang}/>
                             <AiSolutionRight/>
                         </div>
