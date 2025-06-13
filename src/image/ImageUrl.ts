@@ -481,6 +481,13 @@ export const ImageUrl: IImageUrl = {
                 large: CDN_IMAGE + "/gallery/chorn-global-005-large.webp",
                 thumbnail: ""
             },
+            {
+                title: "CHORN global slide-5",
+                image375: CDN_IMAGE + "/gallery/global-slide-05-375.webp",
+                image750: CDN_IMAGE + "/gallery/global-slide-05-750.webp",
+                image1200: CDN_IMAGE + "/gallery/global-slide-05-1200.webp",
+                thumbnail: ""
+            },
         ]
     },
     about: {
@@ -655,6 +662,43 @@ export const ImageUrl: IImageUrl = {
         whatsapp: {
             title: "CHORN's WhatsApp",
             path: CDN_IMAGE + "/contact/WhatsApp-qrcode.jpg",
-        }
+        },
+        slides: [
+            {
+                title: "CHORN contact slide-1",
+                image375: CDN_IMAGE + "/contact/slides/contact-slide-01-375.webp",
+                image750: CDN_IMAGE + "/contact/slides/contact-slide-01-750.webp",
+                image1200: CDN_IMAGE + "/contact/slides/contact-slide-01-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN contact slide-2",
+                image375: CDN_IMAGE + "/contact/slides/contact-slide-02-375.webp",
+                image750: CDN_IMAGE + "/contact/slides/contact-slide-02-750.webp",
+                image1200: CDN_IMAGE + "/contact/slides/contact-slide-02-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN contact slide-3",
+                image375: CDN_IMAGE + "/contact/slides/contact-slide-03-375.webp",
+                image750: CDN_IMAGE + "/contact/slides/contact-slide-03-750.webp",
+                image1200: CDN_IMAGE + "/contact/slides/contact-slide-03-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN contact slide-4",
+                image375: CDN_IMAGE + "/contact/slides/contact-slide-04-375.webp",
+                image750: CDN_IMAGE + "/contact/slides/contact-slide-04-750.webp",
+                image1200: CDN_IMAGE + "/contact/slides/contact-slide-04-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN contact slide-5",
+                image375: CDN_IMAGE + "/contact/slides/contact-slide-05-375.webp",
+                image750: CDN_IMAGE + "/contact/slides/contact-slide-05-750.webp",
+                image1200: CDN_IMAGE + "/contact/slides/contact-slide-05-1200.webp",
+                thumbnail: ""
+            },
+        ]
     }
 }

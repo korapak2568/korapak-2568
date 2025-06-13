@@ -119,5 +119,6 @@ export interface IImageUrl {
     },
     contact: {
         whatsapp: IImageUnit,
+        slides: IImageResponsiveUnit[]
     }
 }

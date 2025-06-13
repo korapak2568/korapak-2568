@@ -6,11 +6,11 @@ import {Pagination, Autoplay} from "swiper/modules";
 import Image from "next/image";
 import {ImageUrl} from "@/image/ImageUrl";
 
-const GalleryModuleBottom: React.FC = () => {
+export function ContactGalleryBottom() {
 
     return (
         <>
-            <div className="portfolio-area pb-100">
+            <div className="portfolio-area pt-70">
                 <div className="container-fluid">
 
                     <Swiper
@@ -40,7 +40,7 @@ const GalleryModuleBottom: React.FC = () => {
                         modules={[Pagination, Autoplay]}
                         className="portfolio-slider"
                     >
-                        {ImageUrl.gallery.slides.map((image, index) => (
+                        {ImageUrl.contact.slides.map((image, index) => (
                             <SwiperSlide key={index}>
                                 <div className="single-portfolio-item">
                                     <div className="portfolio-image">
@@ -64,7 +64,5 @@ const GalleryModuleBottom: React.FC = () => {
                 </div>
             </div>
         </>
-    );
-};
-
-export default GalleryModuleBottom;
+    )
+}

@@ -3,6 +3,7 @@ import {DefaultShape} from "@/components/Shape/DefaultShape";
 import ContactLeft from "@/components/Contact/ContactLeft";
 import ContactRight from "@/components/Contact/ContactRight";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
+import {ContactGalleryBottom} from "@/components/Contact/ContactGalleryBottom";
 
 export default function ContactContent({lang}: { lang: string }) {
     return (
@@ -15,6 +16,7 @@ export default function ContactContent({lang}: { lang: string }) {
                         <ContactRight lang={lang}/>
                     </div>
                 </div>
+                <ContactGalleryBottom/>
             </div>
 
             <DefaultShape/>
