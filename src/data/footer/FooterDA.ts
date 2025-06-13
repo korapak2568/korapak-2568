@@ -38,8 +38,12 @@ export const FooterDA: IFooter = {
     ],
     importantLinks: [
         {
-            label: "Om CHORN",
-            link: "/about-chorn"
+            "label": "Om",
+            "link": "/about-chorn"
+        },
+        {
+            "label": "Kontakt",
+            "link": "/contact"
         },
         {
             label: "Teknisk ekspertise",

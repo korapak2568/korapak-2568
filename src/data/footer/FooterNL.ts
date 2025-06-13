@@ -38,8 +38,12 @@ export const FooterNL: IFooter = {
     ],
     importantLinks: [
         {
-            label: "Over CHORN",
-            link: "/about-chorn"
+            "label": "Over ons",
+            "link": "/about-chorn"
+        },
+        {
+            "label": "Contact",
+            "link": "/contact"
         },
         {
             label: "Technische expertise",

@@ -38,8 +38,12 @@ export const FooterVI: IFooter = {
     ],
     importantLinks: [
         {
-            label: "Về CHORN",
-            link: "/about-chorn"
+            "label": "Giới thiệu",
+            "link": "/about-chorn"
+        },
+        {
+            "label": "Liên hệ",
+            "link": "/contact"
         },
         {
             label: "Chuyên môn kỹ thuật",

@@ -38,8 +38,12 @@ export const FooterKO: IFooter = {
     ],
     importantLinks: [
         {
-            label: "CHORN 소개",
-            link: "/about-chorn"
+            "label": "회사 소개",
+            "link": "/about-chorn"
+        },
+        {
+            "label": "문의하기",
+            "link": "/contact"
         },
         {
             label: "기술 전문성",

@@ -38,8 +38,12 @@ export const FooterFI: IFooter = {
     ],
     importantLinks: [
         {
-            label: "Tietoa CHORN:ista",
-            link: "/about-chorn"
+            "label": "Tietoa",
+            "link": "/about-chorn"
+        },
+        {
+            "label": "Yhteystiedot",
+            "link": "/contact"
         },
         {
             label: "Tekninen asiantuntemus",

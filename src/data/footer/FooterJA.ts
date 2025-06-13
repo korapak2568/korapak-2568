@@ -38,8 +38,12 @@ export const FooterJA: IFooter = {
     ],
     importantLinks: [
         {
-            label: "CHORNについて",
-            link: "/about-chorn"
+            "label": "会社情報",
+            "link": "/about-chorn"
+        },
+        {
+            "label": "お問い合わせ",
+            "link": "/contact"
         },
         {
             label: "技術専門知識",

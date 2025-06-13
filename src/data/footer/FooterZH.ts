@@ -38,8 +38,12 @@ export const FooterZH: IFooter = {
     ],
     importantLinks: [
         {
-            label: "关于 CHORN",
-            link: "/about-chorn"
+            "label": "关于我们",
+            "link": "/about-chorn"
+        },
+        {
+            "label": "联系我们",
+            "link": "/contact"
         },
         {
             label: "技术专长",
