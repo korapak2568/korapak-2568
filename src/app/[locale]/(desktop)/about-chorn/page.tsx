@@ -26,11 +26,10 @@ export default async function Page() {
         <>
             <AboutContent lang={lang}/>
             <AiSolutionsMain lang={lang}/>
-            <CloudExperience lang={lang}/>
+            <CloudInfraPageMain lang={lang}/>
             <Web3PageMain lang={lang}/>
             <HomeBackEndContainer lang={lang} isRemoveTopSpace={true}/>
             <HomeFrontEndContainer lang={lang}/>
-            <CloudInfraPageMain lang={lang}/>
             <AiFahLandingPage lang={lang}/>
 
             <SchemaMarkupServicePage

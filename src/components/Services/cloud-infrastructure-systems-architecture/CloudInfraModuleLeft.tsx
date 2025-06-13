@@ -3,7 +3,7 @@ import {InfoTranslation} from "@/data/info/main/InfoTranslation";
 
 const CloudInfraModuleLeft: React.FC<{ lang: string }> = ({lang}) => {
     return (
-        <div className={'col-lg-6 add-web-content'}>
+        <div className={'cloud-infra-left add-web-content'}>
             {InfoTranslation[lang].CloudSolution.descriptions.map((item, index) => (
                 <p key={index}>{item.description}</p>
             ))}
