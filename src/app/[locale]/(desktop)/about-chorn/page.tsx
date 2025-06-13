@@ -10,6 +10,7 @@ import HomeBackEndContainer from "@/components/Common/HomeBackEnd/HomeBackEndCon
 import Web3PageMain from "@/components/Services/web3-blockchain-development/Web3PageMain";
 import HomeFrontEndContainer from "@/components/Common/HomeFrontEnd/HomeFrontEndContainer";
 import AiFahLandingPage from "@/components/AiCompanions/Main/AiFahLandingPage";
+import CloudInfraPageMain from "@/components/Services/cloud-infrastructure-systems-architecture/CloudInfraPageMain";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headers15 = await headers();
@@ -29,7 +30,9 @@ export default async function Page() {
             <Web3PageMain lang={lang}/>
             <HomeBackEndContainer lang={lang} isRemoveTopSpace={true}/>
             <HomeFrontEndContainer lang={lang}/>
+            <CloudInfraPageMain lang={lang}/>
             <AiFahLandingPage lang={lang}/>
+
             <SchemaMarkupServicePage
                 name="About Us | CHORN - Custom Software Development Experts"
                 description="Discover CHORN's innovative custom software development solutions and how we empower industries with cutting-edge technology."

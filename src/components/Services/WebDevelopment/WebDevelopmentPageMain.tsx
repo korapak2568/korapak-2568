@@ -9,6 +9,7 @@ import WebDevelopmentDevOps from "@/components/Services/WebDevelopment/WebDevelo
 import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
 import AiFahLandingPage from "@/components/AiCompanions/Main/AiFahLandingPage";
 import Web3PageMain from "@/components/Services/web3-blockchain-development/Web3PageMain";
+import CloudInfraPageMain from "@/components/Services/cloud-infrastructure-systems-architecture/CloudInfraPageMain";
 
 export default function WebDevelopmentPageMain({lang}: { lang: string }) {
     return (
@@ -31,6 +32,7 @@ export default function WebDevelopmentPageMain({lang}: { lang: string }) {
                     <WebDevelopmentDevOps lang={lang}/>
                 </div>
                 <Web3PageMain lang={lang}/>
+                <CloudInfraPageMain lang={lang}/>
                 <AiFahLandingPage lang={lang}/>
             </div>
 
