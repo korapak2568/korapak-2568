@@ -42,7 +42,7 @@ export const FooterTH: IFooter = {
             link: "/about-chorn"
         },
         {
-            label: "Contact",
+            label: "ติดต่อ",
             link: "/contact"
         },
         {
