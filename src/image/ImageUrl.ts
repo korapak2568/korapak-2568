@@ -700,5 +700,51 @@ export const ImageUrl: IImageUrl = {
                 thumbnail: ""
             },
         ]
+    },
+    llm: {
+        slides: [
+            {
+                title: "CHORN LLM slide-1",
+                image375: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-01-375.webp",
+                image750: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-01-750.webp",
+                image1200: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-01-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN LLM slide-2",
+                image375: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-02-375.webp",
+                image750: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-02-750.webp",
+                image1200: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-02-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN LLM slide-3",
+                image375: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-03-375.webp",
+                image750: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-03-750.webp",
+                image1200: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-03-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN LLM slide-4",
+                image375: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-04-375.webp",
+                image750: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-04-750.webp",
+                image1200: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-04-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN LLM slide-5",
+                image375: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-05-375.webp",
+                image750: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-05-750.webp",
+                image1200: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-05-1200.webp",
+                thumbnail: ""
+            },
+            {
+                title: "CHORN LLM slide-6",
+                image375: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-06-375.webp",
+                image750: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-06-750.webp",
+                image1200: CDN_IMAGE + "/llm-ai-integration/llm-ai-integration-06-1200.webp",
+                thumbnail: ""
+            },
+        ]
     }
 }

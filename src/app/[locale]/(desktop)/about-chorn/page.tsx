@@ -4,7 +4,6 @@ import {SchemaMarkupServicePage} from "@/components/GoogleSchemaMarkup/SchemaMar
 import {headers} from "next/headers";
 import {MetadataAbout} from "@/metadata/main/MetadataAbout";
 import AiSolutionsMain from "@/components/AiSolutions/AiSolutionsMain";
-import CloudExperience from "@/components/Common/CloudExperience";
 import React from "react";
 import HomeBackEndContainer from "@/components/Common/HomeBackEnd/HomeBackEndContainer";
 import Web3PageMain from "@/components/Services/web3-blockchain-development/Web3PageMain";
