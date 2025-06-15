@@ -62,12 +62,12 @@ export default async function Home() {
         <>
             <HomeWorkspace lang={lang}/>
             <HomeFeatureMain lang={lang} isTopSpace={true}/>
+            <CloudExperience lang={lang} isHome={true}/>
             <Web3PageMain lang={lang}/>
             <HomeFrontEndContainer lang={lang}/>
             <AiSolutionsMain lang={lang}/>
             <HomeBackEndContainer lang={lang}/>
             <AiPloyLandingPage lang={lang}/>
-            <CloudExperience lang={lang} isHome={true}/>
             <SchemaMarkupHomePage/>
 
             <script
