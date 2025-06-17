@@ -21,7 +21,7 @@ export const AboutZH: IAbout = {
     stacks: [
         {
             title: "软件开发与企业系统集成",
-            description: "使用现代框架的自定义网站和软件系统开发。前端、后端、智能合约、区块链、Web3和AI的开发。企业系统集成，如ERP（例如SAP）、CRM、电子商务平台、Google API以及财务和会计系统，增强了各部门之间的数据连接，实现自动化和协作。"
+            description: "使用现代框架定制开发网站和软件系统。涵盖前端和后端开发、智能合约、区块链、Web3 和 DApp。整合企业系统，如 ERP（例如 SAP）、CRM、LLM-AI、LINE 聊天应用、机器学习、电商平台和 API，加强各部门之间的数据连接，实现自动化与协作。"
         },
         {
             title: "系统分析和技术支持",

@@ -21,7 +21,7 @@ export const AboutNL: IAbout = {
     stacks: [
         {
             title: "Softwareontwikkeling en integratie van bedrijfssystemen",
-            description: "Ontwikkeling van aangepaste websites en softwaresystemen met behulp van moderne frameworks. Ontwikkeling van frontend, backend, smart contracts, blockchain, Web3 en AI. Integratie van bedrijfssystemen, zoals ERP (bijv. SAP), CRM, e-commerce platforms, Google API's en financiële en boekhoudkundige systemen, verbetert de dataconnectiviteit tussen afdelingen, waardoor automatisering en samenwerking mogelijk worden."
+            description: "Ontwikkeling van op maat gemaakte websites en softwaresystemen met moderne frameworks. Ontwikkeling van front-end en back-end, smart contracts, blockchain, Web3 en DApp. Integratie van bedrijfssystemen zoals ERP (bijv. SAP), CRM, LLM-AI, LINE Chat App, machine learning, e-commerceplatforms en API’s, waardoor gegevensconnectiviteit tussen afdelingen wordt verbeterd en automatisering en samenwerking mogelijk worden gemaakt."
         },
         {
             title: "Systeemanalyse en Technische Ondersteuning",

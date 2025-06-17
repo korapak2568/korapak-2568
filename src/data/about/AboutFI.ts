@@ -21,7 +21,7 @@ export const AboutFI: IAbout = {
     stacks: [
         {
             title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
-            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehittäminen käyttäen moderneja kehyksiä. Frontend-, backend-, älysopimus-, lohkoketju-, Web3- ja tekoälykehitys. Yritysjärjestelmien integrointi, kuten ERP (esim. SAP), CRM, verkkokauppa-alustat, Google API:t sekä talous- ja kirjanpitojärjestelmät, parantaa tietojen yhteyttä osastojen välillä, mahdollistaen automaation ja yhteistyön."
+            description: "Räätälöityjen verkkosivustojen ja ohjelmistojärjestelmien kehittäminen nykyaikaisilla kehyksillä. Front-end- ja back-end-kehitys, älysopimukset, lohkoketju, Web3 ja DApp. Yritysjärjestelmien integrointi, kuten ERP (esim. SAP), CRM, LLM-AI, LINE Chat -sovellus, koneoppiminen, verkkokauppaalustat ja API:t, parantaa osastojen välistä tiedonkulkua ja mahdollistaa automaation sekä yhteistyön."
         },
         {
             title: "Järjestelmäanalyysi ja Tekninen Tuki",

@@ -21,7 +21,7 @@ export const AboutDA: IAbout = {
     stacks: [
         {
             title: "Softwareudviklingsteknologi og virksomhedssystemintegration",
-            description: "Udvikling af skræddersyede hjemmesider og softwaresystemer ved hjælp af moderne frameworks. Udvikling af frontend, backend, smart contracts, blockchain, Web3 og AI. Integration af virksomhedssystemer, såsom ERP (f.eks. SAP), CRM, e-handelsplatforme, Google API'er og finans- og regnskabssystemer, forbedrer dataforbindelsen på tværs af afdelinger, hvilket muliggør automatisering og samarbejde."
+            description: "Udvikling af skræddersyede websites og softwaresystemer ved hjælp af moderne frameworks. Udvikling af front-end og back-end, smart contracts, blockchain, Web3 og DApp. Integration af virksomhedssystemer såsom ERP (f.eks. SAP), CRM, LLM-AI, LINE Chat App, Machine Learning, e-handelsplatforme og API'er, hvilket forbedrer datatilslutning på tværs af afdelinger og muliggør automatisering og samarbejde."
         },
         {
             title: "Systemanalyse og Teknisk Support",

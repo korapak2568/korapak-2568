@@ -23,7 +23,7 @@ export const AboutEN: IAbout = {
     stacks: [
         {
             title: "Software Development and Enterprise System Integration",
-            description: "Custom website and software system development using modern frameworks. Development of frontend, backend, smart contracts, blockchain, Web3, and AI. Enterprise system integration, such as ERP (e.g., SAP), CRM, e-commerce platforms, Google APIs, and financial and accounting systems, enhances data connectivity across departments, enabling automation and collaboration."
+            description: "Custom website and software system development using modern frameworks. Development of front-end and back-end, smart contracts, blockchain, Web3, and DApp. Enterprise system integration, such as ERP (e.g., SAP), CRM, LLM-AI, LINE Chat App, Machine Learning, e-commerce platforms, APIs, and enhances data connectivity across departments, enabling automation and collaboration."
         },
         {
             title: "System Analysis and Technical Support",

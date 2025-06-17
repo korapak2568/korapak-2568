@@ -21,7 +21,7 @@ export const AboutVI: IAbout = {
     stacks: [
         {
             title: "Phát triển phần mềm và tích hợp hệ thống doanh nghiệp",
-            description: "Phát triển trang web và hệ thống phần mềm tùy chỉnh sử dụng các framework hiện đại. Phát triển frontend, backend, hợp đồng thông minh, blockchain, Web3 và AI. Tích hợp hệ thống doanh nghiệp như ERP (ví dụ: SAP), CRM, nền tảng thương mại điện tử, API Google và hệ thống tài chính kế toán, nâng cao kết nối dữ liệu giữa các phòng ban, hỗ trợ tự động hóa và hợp tác."
+            description: "Phát triển website và hệ thống phần mềm tùy chỉnh sử dụng các framework hiện đại. Phát triển front-end và back-end, hợp đồng thông minh, blockchain, Web3 và DApp. Tích hợp hệ thống doanh nghiệp như ERP (ví dụ: SAP), CRM, LLM-AI, ứng dụng LINE Chat, Machine Learning, nền tảng thương mại điện tử và API giúp tăng cường kết nối dữ liệu giữa các phòng ban, cho phép tự động hóa và hợp tác hiệu quả."
         },
         {
             title: "Phân Tích Hệ Thống và Hỗ Trợ Kỹ Thuật",
