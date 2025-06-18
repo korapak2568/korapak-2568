@@ -4,7 +4,6 @@ import {MetadataAngularTH} from "@/metadata/pages/frontend/angular/MetadataAngul
 import {MetadataAngularFI} from "@/metadata/pages/frontend/angular/MetadataAngularFI";
 import {MetadataAngularFR} from "@/metadata/pages/frontend/angular/MetadataAngularFR";
 import {MetadataAngularJA} from "@/metadata/pages/frontend/angular/MetadataAngularJA";
-import {MetadataAngularVI} from "@/metadata/pages/frontend/angular/MetadataAngularVI";
 import {MetadataAngularZH} from "@/metadata/pages/frontend/angular/MetadataAngularZH";
 import {MetadataAngularDE} from "@/metadata/pages/frontend/angular/MetadataAngularDE";
 import {MetadataAngularNL} from "@/metadata/pages/frontend/angular/MetadataAngularNL";
@@ -16,7 +15,6 @@ export const MetadataAngular: Record<string, Metadata> = {
     th: MetadataAngularTH,
     fr: MetadataAngularFR,
     ja: MetadataAngularJA,
-    vi: MetadataAngularVI,
     zh: MetadataAngularZH,
     de: MetadataAngularDE,
     nl: MetadataAngularNL,

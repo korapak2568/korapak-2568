@@ -3,7 +3,6 @@ import {MetadataPythonTH} from "@/metadata/pages/backend/python/MetadataPythonTH
 import {MetadataPythonFI} from "@/metadata/pages/backend/python/MetadataPythonFI";
 import {MetadataPythonFR} from "@/metadata/pages/backend/python/MetadataPythonFR";
 import {MetadataPythonJA} from "@/metadata/pages/backend/python/MetadataPythonJA";
-import {MetadataPythonVI} from "@/metadata/pages/backend/python/MetadataPythonVI";
 import {MetadataPythonZH} from "@/metadata/pages/backend/python/MetadataPythonZH";
 import {MetadataPythonDE} from "@/metadata/pages/backend/python/MetadataPythonDE";
 import {MetadataPythonNL} from "@/metadata/pages/backend/python/MetadataPythonNL";
@@ -16,7 +15,6 @@ export const MetadataPython: Record<string, Metadata> = {
     th: MetadataPythonTH,
     fr: MetadataPythonFR,
     ja: MetadataPythonJA,
-    vi: MetadataPythonVI,
     zh: MetadataPythonZH,
     de: MetadataPythonDE,
     nl: MetadataPythonNL,

@@ -4,7 +4,6 @@ import {MetadataSeleniumTH} from "@/metadata/pages/devops/selenium/MetadataSelen
 import {MetadataSeleniumFI} from "@/metadata/pages/devops/selenium/MetadataSeleniumFI";
 import {MetadataSeleniumFR} from "@/metadata/pages/devops/selenium/MetadataSeleniumFR";
 import {MetadataSeleniumJA} from "@/metadata/pages/devops/selenium/MetadataSeleniumJA";
-import {MetadataSeleniumVI} from "@/metadata/pages/devops/selenium/MetadataSeleniumVI";
 import {MetadataSeleniumZH} from "@/metadata/pages/devops/selenium/MetadataSeleniumZH";
 import {MetadataSeleniumDE} from "@/metadata/pages/devops/selenium/MetadataSeleniumDE";
 import {MetadataSeleniumNL} from "@/metadata/pages/devops/selenium/MetadataSeleniumNL";
@@ -16,7 +15,6 @@ export const MetadataSelenium: Record<string, Metadata> = {
     th: MetadataSeleniumTH,
     fr: MetadataSeleniumFR,
     ja: MetadataSeleniumJA,
-    vi: MetadataSeleniumVI,
     zh: MetadataSeleniumZH,
     de: MetadataSeleniumDE,
     nl: MetadataSeleniumNL,

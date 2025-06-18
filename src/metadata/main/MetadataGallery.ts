@@ -3,7 +3,6 @@ import {MetadataGalleryEN} from "@/metadata/pages/gallery/MetadataGalleryEN";
 import {MetadataGalleryTH} from "@/metadata/pages/gallery/MetadataGalleryTH";
 import {MetadataGalleryFR} from "@/metadata/pages/gallery/MetadataGalleryFR";
 import {MetadataGalleryJA} from "@/metadata/pages/gallery/MetadataGalleryJA";
-import {MetadataGalleryVI} from "@/metadata/pages/gallery/MetadataGalleryVI";
 import {MetadataGalleryZH} from "@/metadata/pages/gallery/MetadataGalleryZH";
 import {MetadataGalleryDE} from "@/metadata/pages/gallery/MetadataGalleryDE";
 import {MetadataGalleryNL} from "@/metadata/pages/gallery/MetadataGalleryNL";
@@ -16,7 +15,6 @@ export const MetadataGallery: Record<string, Metadata> = {
     th: MetadataGalleryTH,
     fr: MetadataGalleryFR,
     ja: MetadataGalleryJA,
-    vi: MetadataGalleryVI,
     zh: MetadataGalleryZH,
     de: MetadataGalleryDE,
     nl: MetadataGalleryNL,

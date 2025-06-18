@@ -4,7 +4,6 @@ import {MetadataReactTH} from "@/metadata/pages/frontend/react/MetadataReactTH";
 import {MetadataReactFI} from "@/metadata/pages/frontend/react/MetadataReactFI";
 import {MetadataReactFR} from "@/metadata/pages/frontend/react/MetadataReactFR";
 import {MetadataReactJA} from "@/metadata/pages/frontend/react/MetadataReactJA";
-import {MetadataReactVI} from "@/metadata/pages/frontend/react/MetadataReactVI";
 import {MetadataReactZH} from "@/metadata/pages/frontend/react/MetadataReactZH";
 import {MetadataReactDE} from "@/metadata/pages/frontend/react/MetadataReactDE";
 import {MetadataReactNL} from "@/metadata/pages/frontend/react/MetadataReactNL";
@@ -16,7 +15,6 @@ export const MetadataReact: Record<string, Metadata> = {
     th: MetadataReactTH,
     fr: MetadataReactFR,
     ja: MetadataReactJA,
-    vi: MetadataReactVI,
     zh: MetadataReactZH,
     de: MetadataReactDE,
     nl: MetadataReactNL,

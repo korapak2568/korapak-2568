@@ -4,7 +4,6 @@ import {MetadataBackEndMainTH} from "@/metadata/pages/backend/main/MetadataBackE
 import {MetadataBackEndMainFI} from "@/metadata/pages/backend/main/MetadataBackEndMainFI";
 import {MetadataBackEndMainFR} from "@/metadata/pages/backend/main/MetadataBackEndMainFR";
 import {MetadataBackEndMainJA} from "@/metadata/pages/backend/main/MetadataBackEndMainJA";
-import {MetadataBackEndMainVI} from "@/metadata/pages/backend/main/MetadataBackEndMainVI";
 import {MetadataBackEndMainZH} from "@/metadata/pages/backend/main/MetadataBackEndMainZH";
 import {MetadataBackEndMainDE} from "@/metadata/pages/backend/main/MetadataBackEndMainDE";
 import {MetadataBackEndMainNL} from "@/metadata/pages/backend/main/MetadataBackEndMainNL";
@@ -16,7 +15,6 @@ export const MetadataBackEndMain: Record<string, Metadata> = {
     th: MetadataBackEndMainTH,
     fr: MetadataBackEndMainFR,
     ja: MetadataBackEndMainJA,
-    vi: MetadataBackEndMainVI,
     zh: MetadataBackEndMainZH,
     de: MetadataBackEndMainDE,
     nl: MetadataBackEndMainNL,

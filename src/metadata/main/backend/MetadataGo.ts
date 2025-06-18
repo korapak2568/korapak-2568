@@ -4,7 +4,6 @@ import {MetadataGoTH} from "@/metadata/pages/backend/go/MetadataGoTH";
 import {MetadataGoFI} from "@/metadata/pages/backend/go/MetadataGoFI";
 import {MetadataGoFR} from "@/metadata/pages/backend/go/MetadataGoFR";
 import {MetadataGoJA} from "@/metadata/pages/backend/go/MetadataGoJA";
-import {MetadataGoVI} from "@/metadata/pages/backend/go/MetadataGoVI";
 import {MetadataGoZH} from "@/metadata/pages/backend/go/MetadataGoZH";
 import {MetadataGoDE} from "@/metadata/pages/backend/go/MetadataGoDE";
 import {MetadataGoNL} from "@/metadata/pages/backend/go/MetadataGoNL";
@@ -16,7 +15,6 @@ export const MetadataGo: Record<string, Metadata> = {
     th: MetadataGoTH,
     fr: MetadataGoFR,
     ja: MetadataGoJA,
-    vi: MetadataGoVI,
     zh: MetadataGoZH,
     de: MetadataGoDE,
     nl: MetadataGoNL,

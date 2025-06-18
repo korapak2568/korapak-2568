@@ -1,15 +1,15 @@
 import {ILanguageOptions} from "@/data/translate/model/ILanguageOptions";
 
 export const LanguageOptionDefinition: ILanguageOptions = {
-    en: {
-        language: "en",
-        label: "English",
-        locale: "en-US"
-    },
     th: {
         language: "th",
         label: "ภาษาไทย",
         locale: "th-TH"
+    },
+    en: {
+        language: "en",
+        label: "English",
+        locale: "en-US"
     },
     fr: {
         language: "fr",
@@ -20,11 +20,6 @@ export const LanguageOptionDefinition: ILanguageOptions = {
         language: "ja",
         label: "日本語",
         locale: "ja-JP"
-    },
-    vi: {
-        language: "vi",
-        label: "Tiếng Việt",
-        locale: "vi-VN"
     },
     zh: {
         language: "zh",

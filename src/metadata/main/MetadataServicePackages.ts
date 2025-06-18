@@ -3,7 +3,6 @@ import {MetadataServicePackagesEN} from "../pages/service-packages/MetadataServi
 import {MetadataServicePackagesTH} from "@/metadata/pages/service-packages/MetadataServicePackagesTH";
 import {MetadataServicePackagesFR} from "@/metadata/pages/service-packages/MetadataServicePackagesFR";
 import {MetadataServicePackagesJA} from "@/metadata/pages/service-packages/MetadataServicePackagesJA";
-import {MetadataServicePackagesVI} from "@/metadata/pages/service-packages/MetadataServicePackagesVI";
 import {MetadataServicePackagesZH} from "@/metadata/pages/service-packages/MetadataServicePackagesZH";
 import {MetadataServicePackagesDE} from "@/metadata/pages/service-packages/MetadataServicePackagesDE";
 import {MetadataServicePackagesNL} from "@/metadata/pages/service-packages/MetadataServicePackagesNL";
@@ -16,7 +15,6 @@ export const MetadataServicePackages: Record<string, Metadata> = {
     th: MetadataServicePackagesTH,
     fr: MetadataServicePackagesFR,
     ja: MetadataServicePackagesJA,
-    vi: MetadataServicePackagesVI,
     zh: MetadataServicePackagesZH,
     de: MetadataServicePackagesDE,
     nl: MetadataServicePackagesNL,

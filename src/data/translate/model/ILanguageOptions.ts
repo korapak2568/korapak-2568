@@ -5,7 +5,6 @@ export interface ILanguageOptions {
     th: ILanguageOption,
     fr: ILanguageOption,
     ja: ILanguageOption,
-    vi: ILanguageOption,
     zh: ILanguageOption,
     de: ILanguageOption,
     nl: ILanguageOption,

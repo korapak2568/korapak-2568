@@ -3,7 +3,6 @@ import {MetadataAiAomEN} from "@/metadata/pages/ai-aom/MetadataAiAomEN";
 import {MetadataAiAomTH} from "@/metadata/pages/ai-aom/MetadataAiAomTH";
 import {MetadataAiAomFR} from "@/metadata/pages/ai-aom/MetadataAiAomFR";
 import {MetadataAiAomJA} from "@/metadata/pages/ai-aom/MetadataAiAomJA";
-import {MetadataAiAomVI} from "@/metadata/pages/ai-aom/MetadataAiAomVI";
 import {MetadataAiAomZH} from "@/metadata/pages/ai-aom/MetadataAiAomZH";
 import {MetadataAiAomDE} from "@/metadata/pages/ai-aom/MetadataAiAomDE";
 import {MetadataAiAomNL} from "@/metadata/pages/ai-aom/MetadataAiAomNL";
@@ -16,7 +15,6 @@ export const MetadataAiAom: Record<string, Metadata> = {
     th: MetadataAiAomTH,
     fr: MetadataAiAomFR,
     ja: MetadataAiAomJA,
-    vi: MetadataAiAomVI,
     zh: MetadataAiAomZH,
     de: MetadataAiAomDE,
     nl: MetadataAiAomNL,

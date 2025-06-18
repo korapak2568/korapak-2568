@@ -3,7 +3,6 @@ import {MetadataWorkPolicyEN} from "@/metadata/pages/workplace-policy/MetadataWo
 import {MetadataWorkPolicyTH} from "@/metadata/pages/workplace-policy/MetadataWorkPolicyTH";
 import {MetadataWorkPolicyFR} from "@/metadata/pages/workplace-policy/MetadataWorkPolicyFR";
 import {MetadataWorkPolicyJA} from "@/metadata/pages/workplace-policy/MetadataWorkPolicyJA";
-import {MetadataWorkPolicyVI} from "@/metadata/pages/workplace-policy/MetadataWorkPolicyVI";
 import {MetadataWorkPolicyZH} from "@/metadata/pages/workplace-policy/MetadataWorkPolicyZH";
 import {MetadataWorkPolicyDA} from "@/metadata/pages/workplace-policy/MetadataWorkPolicyDA";
 import {MetadataWorkPolicyDE} from "@/metadata/pages/workplace-policy/MetadataWorkPolicyDE";
@@ -16,7 +15,6 @@ export const MetadataWorkPolicy: Record<string, Metadata> = {
     th: MetadataWorkPolicyTH,
     fr: MetadataWorkPolicyFR,
     ja: MetadataWorkPolicyJA,
-    vi: MetadataWorkPolicyVI,
     zh: MetadataWorkPolicyZH,
     de: MetadataWorkPolicyDE,
     nl: MetadataWorkPolicyNL,

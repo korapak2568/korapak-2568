@@ -4,7 +4,6 @@ import {MetadataNextjsTH} from "@/metadata/pages/frontend/nextjs/MetadataNextjsT
 import {MetadataNextjsFI} from "@/metadata/pages/frontend/nextjs/MetadataNextjsFI";
 import {MetadataNextjsFR} from "@/metadata/pages/frontend/nextjs/MetadataNextjsFR";
 import {MetadataNextjsJA} from "@/metadata/pages/frontend/nextjs/MetadataNextjsJA";
-import {MetadataNextjsVI} from "@/metadata/pages/frontend/nextjs/MetadataNextjsVI";
 import {MetadataNextjsZH} from "@/metadata/pages/frontend/nextjs/MetadataNextjsZH";
 import {MetadataNextjsDE} from "@/metadata/pages/frontend/nextjs/MetadataNextjsDE";
 import {MetadataNextjsNL} from "@/metadata/pages/frontend/nextjs/MetadataNextjsNL";
@@ -16,7 +15,6 @@ export const MetadataNextjs: Record<string, Metadata> = {
     th: MetadataNextjsTH,
     fr: MetadataNextjsFR,
     ja: MetadataNextjsJA,
-    vi: MetadataNextjsVI,
     zh: MetadataNextjsZH,
     de: MetadataNextjsDE,
     nl: MetadataNextjsNL,

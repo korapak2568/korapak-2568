@@ -3,7 +3,6 @@ import {MetadataTermOfServiceEN} from "@/metadata/pages/terms-of-service/Metadat
 import {MetadataTermOfServiceTH} from "@/metadata/pages/terms-of-service/MetadataTermOfServiceTH";
 import {MetadataTermOfServiceFR} from "@/metadata/pages/terms-of-service/MetadataTermOfServiceFR";
 import {MetadataTermOfServiceJA} from "@/metadata/pages/terms-of-service/MetadataTermOfServiceJA";
-import {MetadataTermOfServiceVI} from "@/metadata/pages/terms-of-service/MetadataTermOfServiceVI";
 import {MetadataTermOfServiceZH} from "@/metadata/pages/terms-of-service/MetadataTermOfServiceZH";
 import {MetadataTermOfServiceDA} from "@/metadata/pages/terms-of-service/MetadataTermOfServiceDA";
 import {MetadataTermOfServiceDE} from "@/metadata/pages/terms-of-service/MetadataTermOfServiceDE";
@@ -16,7 +15,6 @@ export const MetadataTermOfService: Record<string, Metadata> = {
     'th': MetadataTermOfServiceTH,
     'fr': MetadataTermOfServiceFR,
     'ja': MetadataTermOfServiceJA,
-    'vi': MetadataTermOfServiceVI,
     'zh': MetadataTermOfServiceZH,
     'de': MetadataTermOfServiceDE,
     'nl': MetadataTermOfServiceNL,

@@ -4,7 +4,6 @@ import {MetadataJavaScriptTH} from "@/metadata/pages/frontend/javascript/Metadat
 import {MetadataJavaScriptFI} from "@/metadata/pages/frontend/javascript/MetadataJavaScriptFI";
 import {MetadataJavaScriptFR} from "@/metadata/pages/frontend/javascript/MetadataJavaScriptFR";
 import {MetadataJavaScriptJA} from "@/metadata/pages/frontend/javascript/MetadataJavaScriptJA";
-import {MetadataJavaScriptVI} from "@/metadata/pages/frontend/javascript/MetadataJavaScriptVI";
 import {MetadataJavaScriptZH} from "@/metadata/pages/frontend/javascript/MetadataJavaScriptZH";
 import {MetadataJavaScriptDE} from "@/metadata/pages/frontend/javascript/MetadataJavaScriptDE";
 import {MetadataJavaScriptNL} from "@/metadata/pages/frontend/javascript/MetadataJavaScriptNL";
@@ -16,7 +15,6 @@ export const MetadataJavaScript: Record<string, Metadata> = {
     th: MetadataJavaScriptTH,
     fr: MetadataJavaScriptFR,
     ja: MetadataJavaScriptJA,
-    vi: MetadataJavaScriptVI,
     zh: MetadataJavaScriptZH,
     de: MetadataJavaScriptDE,
     nl: MetadataJavaScriptNL,

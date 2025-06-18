@@ -10,7 +10,6 @@ const LanguageUrls = (canonical: string): Record<string, string> => {
         th: LanguageUrl(LanguageCode.th, canonical),
         fr: LanguageUrl(LanguageCode.fr, canonical),
         ja: LanguageUrl(LanguageCode.ja, canonical),
-        vi: LanguageUrl(LanguageCode.vi, canonical),
         zh: LanguageUrl(LanguageCode.zh, canonical),
         de: LanguageUrl(LanguageCode.de, canonical),
         nl: LanguageUrl(LanguageCode.nl, canonical),

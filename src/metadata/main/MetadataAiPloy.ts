@@ -3,7 +3,6 @@ import {MetadataAiPloyEN} from "@/metadata/pages/ai-ploy/MetadataAiPloyEN";
 import {MetadataAiPloyTH} from "@/metadata/pages/ai-ploy/MetadataAiPloyTH";
 import {MetadataAiPloyFR} from "@/metadata/pages/ai-ploy/MetadataAiPloyFR";
 import {MetadataAiPloyJA} from "@/metadata/pages/ai-ploy/MetadataAiPloyJA";
-import {MetadataAiPloyVI} from "@/metadata/pages/ai-ploy/MetadataAiPloyVI";
 import {MetadataAiPloyZH} from "@/metadata/pages/ai-ploy/MetadataAiPloyZH";
 import {MetadataAiPloyDE} from "@/metadata/pages/ai-ploy/MetadataAiPloyDE";
 import {MetadataAiPloyNL} from "@/metadata/pages/ai-ploy/MetadataAiPloyNL";
@@ -16,7 +15,6 @@ export const MetadataAiPloy: Record<string, Metadata> = {
     th: MetadataAiPloyTH,
     fr: MetadataAiPloyFR,
     ja: MetadataAiPloyJA,
-    vi: MetadataAiPloyVI,
     zh: MetadataAiPloyZH,
     de: MetadataAiPloyDE,
     nl: MetadataAiPloyNL,

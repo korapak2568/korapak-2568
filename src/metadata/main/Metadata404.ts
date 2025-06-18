@@ -3,7 +3,6 @@ import {Metadata404EN} from "@/metadata/pages/404/Metadata404EN";
 import {Metadata404TH} from "@/metadata/pages/404/Metadata404TH";
 import {Metadata404FR} from "@/metadata/pages/404/Metadata404FR";
 import {Metadata404JA} from "@/metadata/pages/404/Metadata404JA";
-import {Metadata404VI} from "@/metadata/pages/404/Metadata404VI";
 import {Metadata404ZH} from "@/metadata/pages/404/Metadata404ZH";
 import {Metadata404DA} from "@/metadata/pages/404/Metadata404DA";
 import {Metadata404DE} from "@/metadata/pages/404/Metadata404DE";
@@ -16,7 +15,6 @@ export const Metadata404: Record<string, Metadata> = {
     th: Metadata404TH,
     fr: Metadata404FR,
     ja: Metadata404JA,
-    vi: Metadata404VI,
     zh: Metadata404ZH,
     de: Metadata404DE,
     nl: Metadata404NL,

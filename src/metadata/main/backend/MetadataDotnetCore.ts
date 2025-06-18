@@ -4,7 +4,6 @@ import {MetadataDotnetCoreTH} from "@/metadata/pages/backend/dotnet/MetadataDotn
 import {MetadataDotnetCoreFI} from "@/metadata/pages/backend/dotnet/MetadataDotnetCoreFI";
 import {MetadataDotnetCoreFR} from "@/metadata/pages/backend/dotnet/MetadataDotnetCoreFR";
 import {MetadataDotnetCoreJA} from "@/metadata/pages/backend/dotnet/MetadataDotnetCoreJA";
-import {MetadataDotnetCoreVI} from "@/metadata/pages/backend/dotnet/MetadataDotnetCoreVI";
 import {MetadataDotnetCoreZH} from "@/metadata/pages/backend/dotnet/MetadataDotnetCoreZH";
 import {MetadataDotnetCoreDE} from "@/metadata/pages/backend/dotnet/MetadataDotnetCoreDE";
 import {MetadataDotnetCoreNL} from "@/metadata/pages/backend/dotnet/MetadataDotnetCoreNL";
@@ -16,7 +15,6 @@ export const MetadataDotnetCore: Record<string, Metadata> = {
     th: MetadataDotnetCoreTH,
     fr: MetadataDotnetCoreFR,
     ja: MetadataDotnetCoreJA,
-    vi: MetadataDotnetCoreVI,
     zh: MetadataDotnetCoreZH,
     de: MetadataDotnetCoreDE,
     nl: MetadataDotnetCoreNL,

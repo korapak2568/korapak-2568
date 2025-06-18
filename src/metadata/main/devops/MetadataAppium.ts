@@ -4,7 +4,6 @@ import {MetadataAppiumTH} from "@/metadata/pages/devops/appium/MetadataAppiumTH"
 import {MetadataAppiumFI} from "@/metadata/pages/devops/appium/MetadataAppiumFI";
 import {MetadataAppiumFR} from "@/metadata/pages/devops/appium/MetadataAppiumFR";
 import {MetadataAppiumJA} from "@/metadata/pages/devops/appium/MetadataAppiumJA";
-import {MetadataAppiumVI} from "@/metadata/pages/devops/appium/MetadataAppiumVI";
 import {MetadataAppiumZH} from "@/metadata/pages/devops/appium/MetadataAppiumZH";
 import {MetadataAppiumDE} from "@/metadata/pages/devops/appium/MetadataAppiumDE";
 import {MetadataAppiumNL} from "@/metadata/pages/devops/appium/MetadataAppiumNL";
@@ -16,7 +15,6 @@ export const MetadataAppium: Record<string, Metadata> = {
     th: MetadataAppiumTH,
     fr: MetadataAppiumFR,
     ja: MetadataAppiumJA,
-    vi: MetadataAppiumVI,
     zh: MetadataAppiumZH,
     de: MetadataAppiumDE,
     nl: MetadataAppiumNL,

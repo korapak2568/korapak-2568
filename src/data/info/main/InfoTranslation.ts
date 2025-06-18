@@ -3,7 +3,6 @@ import {InfoEN} from "@/data/info/InfoEN";
 import {InfoTH} from "@/data/info/InfoTH";
 import {InfoFR} from "@/data/info/InfoFR";
 import {InfoJA} from "@/data/info/InfoJA";
-import {InfoVI} from "@/data/info/InfoVI";
 import {InfoZH} from "@/data/info/InfoZH";
 import {InfoDE} from "@/data/info/InfoDE";
 import {InfoNL} from "@/data/info/InfoNL";
@@ -16,7 +15,6 @@ export const InfoTranslation: Record<string, IInfo> = {
     'th': InfoTH,
     'fr': InfoFR,
     'ja': InfoJA,
-    'vi': InfoVI,
     'zh': InfoZH,
     'de': InfoDE,
     'nl': InfoNL,

@@ -3,7 +3,6 @@ import {MetadataPrivacyPolicyEN} from "@/metadata/pages/privacy-policy/MetadataP
 import {MetadataPrivacyPolicyTH} from "@/metadata/pages/privacy-policy/MetadataPrivacyPolicyTH";
 import {MetadataPrivacyPolicyFR} from "@/metadata/pages/privacy-policy/MetadataPrivacyPolicyFR";
 import {MetadataPrivacyPolicyJA} from "@/metadata/pages/privacy-policy/MetadataPrivacyPolicyJA";
-import {MetadataPrivacyPolicyVI} from "@/metadata/pages/privacy-policy/MetadataPrivacyPolicyVI";
 import {MetadataPrivacyPolicyZH} from "@/metadata/pages/privacy-policy/MetadataPrivacyPolicyZH";
 import {MetadataPrivacyPolicyDA} from "@/metadata/pages/privacy-policy/MetadataPrivacyPolicyDA";
 import {MetadataPrivacyPolicyDE} from "@/metadata/pages/privacy-policy/MetadataPrivacyPolicyDE";
@@ -16,7 +15,6 @@ export const MetadataPrivacyPolicy: Record<string, Metadata> = {
     'th': MetadataPrivacyPolicyTH,
     'fr': MetadataPrivacyPolicyFR,
     'ja': MetadataPrivacyPolicyJA,
-    'vi': MetadataPrivacyPolicyVI,
     'zh': MetadataPrivacyPolicyZH,
     'de': MetadataPrivacyPolicyDE,
     'nl': MetadataPrivacyPolicyNL,

@@ -53,7 +53,7 @@ export function middleware(req: NextRequest) {
 export const config = {
     matcher: [
         '/',
-        '/(th|en|fr|ja|vi|zh|de|nl|da|fi|ko)/:path*',
+        '/(th|en|fr|ja|zh|de|nl|da|fi|ko)/:path*',
         '/api/:path*'
     ],
 };

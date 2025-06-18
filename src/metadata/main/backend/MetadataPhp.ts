@@ -4,7 +4,6 @@ import {MetadataPhpTH} from "@/metadata/pages/backend/php/MetadataPhpTH";
 import {MetadataPhpFI} from "@/metadata/pages/backend/php/MetadataPhpFI";
 import {MetadataPhpFR} from "@/metadata/pages/backend/php/MetadataPhpFR";
 import {MetadataPhpJA} from "@/metadata/pages/backend/php/MetadataPhpJA";
-import {MetadataPhpVI} from "@/metadata/pages/backend/php/MetadataPhpVI";
 import {MetadataPhpZH} from "@/metadata/pages/backend/php/MetadataPhpZH";
 import {MetadataPhpDE} from "@/metadata/pages/backend/php/MetadataPhpDE";
 import {MetadataPhpNL} from "@/metadata/pages/backend/php/MetadataPhpNL";
@@ -16,7 +15,6 @@ export const MetadataPhp: Record<string, Metadata> = {
     th: MetadataPhpTH,
     fr: MetadataPhpFR,
     ja: MetadataPhpJA,
-    vi: MetadataPhpVI,
     zh: MetadataPhpZH,
     de: MetadataPhpDE,
     nl: MetadataPhpNL,

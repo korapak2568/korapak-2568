@@ -3,7 +3,6 @@ import {MetadataWebDevelopmentEN} from "@/metadata/pages/web-development/Metadat
 import {MetadataWebDevelopmentTH} from "@/metadata/pages/web-development/MetadataWebDevelopmentTH";
 import {MetadataWebDevelopmentFR} from "@/metadata/pages/web-development/MetadataWebDevelopmentFR";
 import {MetadataWebDevelopmentJA} from "@/metadata/pages/web-development/MetadataWebDevelopmentJA";
-import {MetadataWebDevelopmentVI} from "@/metadata/pages/web-development/MetadataWebDevelopmentVI";
 import {MetadataWebDevelopmentZH} from "@/metadata/pages/web-development/MetadataWebDevelopmentZH";
 import {MetadataWebDevelopmentDE} from "@/metadata/pages/web-development/MetadataWebDevelopmentDE";
 import {MetadataWebDevelopmentNL} from "@/metadata/pages/web-development/MetadataWebDevelopmentNL";
@@ -16,7 +15,6 @@ export const MetadataWebDevelopment: Record<string, Metadata> = {
     'th': MetadataWebDevelopmentTH,
     'fr': MetadataWebDevelopmentFR,
     'ja': MetadataWebDevelopmentJA,
-    'vi': MetadataWebDevelopmentVI,
     'zh': MetadataWebDevelopmentZH,
     'de': MetadataWebDevelopmentDE,
     'nl': MetadataWebDevelopmentNL,

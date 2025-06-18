@@ -4,7 +4,6 @@ import {MetadataTypeScriptTH} from "@/metadata/pages/frontend/typescript/Metadat
 import {MetadataTypeScriptFI} from "@/metadata/pages/frontend/typescript/MetadataTypeScriptFI";
 import {MetadataTypeScriptFR} from "@/metadata/pages/frontend/typescript/MetadataTypeScriptFR";
 import {MetadataTypeScriptJA} from "@/metadata/pages/frontend/typescript/MetadataTypeScriptJA";
-import {MetadataTypeScriptVI} from "@/metadata/pages/frontend/typescript/MetadataTypeScriptVI";
 import {MetadataTypeScriptZH} from "@/metadata/pages/frontend/typescript/MetadataTypeScriptZH";
 import {MetadataTypeScriptDE} from "@/metadata/pages/frontend/typescript/MetadataTypeScriptDE";
 import {MetadataTypeScriptNL} from "@/metadata/pages/frontend/typescript/MetadataTypeScriptNL";
@@ -16,7 +15,6 @@ export const MetadataTypeScript: Record<string, Metadata> = {
     th: MetadataTypeScriptTH,
     fr: MetadataTypeScriptFR,
     ja: MetadataTypeScriptJA,
-    vi: MetadataTypeScriptVI,
     zh: MetadataTypeScriptZH,
     de: MetadataTypeScriptDE,
     nl: MetadataTypeScriptNL,

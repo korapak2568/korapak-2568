@@ -4,7 +4,6 @@ import {MetadataAiCompanionTH} from "@/metadata/pages/ai-companion/MetadataAiCom
 import {MetadataAiCompanionFI} from "@/metadata/pages/ai-companion/MetadataAiCompanionFI";
 import {MetadataAiCompanionFR} from "@/metadata/pages/ai-companion/MetadataAiCompanionFR";
 import {MetadataAiCompanionJA} from "@/metadata/pages/ai-companion/MetadataAiCompanionJA";
-import {MetadataAiCompanionVI} from "@/metadata/pages/ai-companion/MetadataAiCompanionVI";
 import {MetadataAiCompanionZH} from "@/metadata/pages/ai-companion/MetadataAiCompanionZH";
 import {MetadataAiCompanionDA} from "@/metadata/pages/ai-companion/MetadataAiCompanionDA";
 import {MetadataAiCompanionDE} from "@/metadata/pages/ai-companion/MetadataAiCompanionDE";
@@ -16,7 +15,6 @@ export const MetadataAiCompanion: Record<string, Metadata> = {
     th: MetadataAiCompanionTH,
     fr: MetadataAiCompanionFR,
     ja: MetadataAiCompanionJA,
-    vi: MetadataAiCompanionVI,
     zh: MetadataAiCompanionZH,
     de: MetadataAiCompanionDE,
     nl: MetadataAiCompanionNL,

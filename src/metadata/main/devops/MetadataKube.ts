@@ -4,7 +4,6 @@ import {MetadataKubeTH} from "@/metadata/pages/devops/kube/MetadataKubeTH";
 import {MetadataKubeFI} from "@/metadata/pages/devops/kube/MetadataKubeFI";
 import {MetadataKubeFR} from "@/metadata/pages/devops/kube/MetadataKubeFR";
 import {MetadataKubeJA} from "@/metadata/pages/devops/kube/MetadataKubeJA";
-import {MetadataKubeVI} from "@/metadata/pages/devops/kube/MetadataKubeVI";
 import {MetadataKubeZH} from "@/metadata/pages/devops/kube/MetadataKubeZH";
 import {MetadataKubeDE} from "@/metadata/pages/devops/kube/MetadataKubeDE";
 import {MetadataKubeNL} from "@/metadata/pages/devops/kube/MetadataKubeNL";
@@ -16,7 +15,6 @@ export const MetadataKube: Record<string, Metadata> = {
     th: MetadataKubeTH,
     fr: MetadataKubeFR,
     ja: MetadataKubeJA,
-    vi: MetadataKubeVI,
     zh: MetadataKubeZH,
     de: MetadataKubeDE,
     nl: MetadataKubeNL,

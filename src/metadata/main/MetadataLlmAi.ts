@@ -2,7 +2,6 @@ import {Metadata} from "next";
 import {MetadataLlmAiTH} from "@/metadata/pages/llm-ai/MetadataLlmAiTH";
 import {MetadataLlmAiFR} from "@/metadata/pages/llm-ai/MetadataLlmAiFR";
 import {MetadataLlmAiJA} from "@/metadata/pages/llm-ai/MetadataLlmAiJA";
-import {MetadataLlmAiVI} from "@/metadata/pages/llm-ai/MetadataLlmAiVI";
 import {MetadataLlmAiZH} from "@/metadata/pages/llm-ai/MetadataLlmAiZH";
 import {MetadataLlmAiDA} from "@/metadata/pages/llm-ai/MetadataLlmAiDA";
 import {MetadataLlmAiDE} from "@/metadata/pages/llm-ai/MetadataLlmAiDE";
@@ -16,7 +15,6 @@ export const MetadataLlmAi: Record<string, Metadata> = {
     th: MetadataLlmAiTH,
     fr: MetadataLlmAiFR,
     ja: MetadataLlmAiJA,
-    vi: MetadataLlmAiVI,
     zh: MetadataLlmAiZH,
     de: MetadataLlmAiDE,
     nl: MetadataLlmAiNL,

@@ -2,11 +2,10 @@ import {LanguageOptionDefinition} from "@/data/translate/LanguageOptionDefinitio
 import {ILanguageOption} from "@/data/translate/model/ILanguageOption";
 
 export const LanguageOptions: ILanguageOption[] = [
-    LanguageOptionDefinition.en,
     LanguageOptionDefinition.th,
+    LanguageOptionDefinition.en,
     LanguageOptionDefinition.fr,
     LanguageOptionDefinition.ja,
-    LanguageOptionDefinition.vi,
     LanguageOptionDefinition.zh,
     LanguageOptionDefinition.de,
     LanguageOptionDefinition.nl,

@@ -4,7 +4,6 @@ import {MetadataPostmanTH} from "@/metadata/pages/devops/postman/MetadataPostman
 import {MetadataPostmanFI} from "@/metadata/pages/devops/postman/MetadataPostmanFI";
 import {MetadataPostmanFR} from "@/metadata/pages/devops/postman/MetadataPostmanFR";
 import {MetadataPostmanJA} from "@/metadata/pages/devops/postman/MetadataPostmanJA";
-import {MetadataPostmanVI} from "@/metadata/pages/devops/postman/MetadataPostmanVI";
 import {MetadataPostmanZH} from "@/metadata/pages/devops/postman/MetadataPostmanZH";
 import {MetadataPostmanDE} from "@/metadata/pages/devops/postman/MetadataPostmanDE";
 import {MetadataPostmanNL} from "@/metadata/pages/devops/postman/MetadataPostmanNL";
@@ -16,7 +15,6 @@ export const MetadataPostman: Record<string, Metadata> = {
     th: MetadataPostmanTH,
     fr: MetadataPostmanFR,
     ja: MetadataPostmanJA,
-    vi: MetadataPostmanVI,
     zh: MetadataPostmanZH,
     de: MetadataPostmanDE,
     nl: MetadataPostmanNL,

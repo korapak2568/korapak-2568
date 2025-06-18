@@ -6,7 +6,6 @@ export const LanguageOptionRecord: Record<string, ILanguageOption> = {
     'th': LanguageOptionDefinition.th,
     'fr': LanguageOptionDefinition.fr,
     'ja': LanguageOptionDefinition.ja,
-    'vi': LanguageOptionDefinition.vi,
     'zh': LanguageOptionDefinition.zh,
     'de': LanguageOptionDefinition.de,
     'nl': LanguageOptionDefinition.nl,

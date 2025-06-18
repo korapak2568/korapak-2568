@@ -4,7 +4,6 @@ import {MetadataDevOpsMainTH} from "@/metadata/pages/devops/main/MetadataDevOpsM
 import {MetadataDevOpsMainFI} from "@/metadata/pages/devops/main/MetadataDevOpsMainFI";
 import {MetadataDevOpsMainFR} from "@/metadata/pages/devops/main/MetadataDevOpsMainFR";
 import {MetadataDevOpsMainJA} from "@/metadata/pages/devops/main/MetadataDevOpsMainJA";
-import {MetadataDevOpsMainVI} from "@/metadata/pages/devops/main/MetadataDevOpsMainVI";
 import {MetadataDevOpsMainZH} from "@/metadata/pages/devops/main/MetadataDevOpsMainZH";
 import {MetadataDevOpsMainDE} from "@/metadata/pages/devops/main/MetadataDevOpsMainDE";
 import {MetadataDevOpsMainNL} from "@/metadata/pages/devops/main/MetadataDevOpsMainNL";
@@ -16,7 +15,6 @@ export const MetadataDevOpsMain: Record<string, Metadata> = {
     th: MetadataDevOpsMainTH,
     fr: MetadataDevOpsMainFR,
     ja: MetadataDevOpsMainJA,
-    vi: MetadataDevOpsMainVI,
     zh: MetadataDevOpsMainZH,
     de: MetadataDevOpsMainDE,
     nl: MetadataDevOpsMainNL,

@@ -5,7 +5,6 @@ export const LanguageCode = {
     th: LanguageOptionDefinition.th.language,
     fr: LanguageOptionDefinition.fr.language,
     ja: LanguageOptionDefinition.ja.language,
-    vi: LanguageOptionDefinition.vi.language,
     zh: LanguageOptionDefinition.zh.language,
     de: LanguageOptionDefinition.de.language,
     nl: LanguageOptionDefinition.nl.language,
