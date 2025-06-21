@@ -9,7 +9,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Klein Projectplan",
-                price: "$299 USD/taak",
+                price: "USD 299 / 1–5 dagen",
                 schedule: "Flexibel (per project, ≤1 week)",
                 highlight: "Efficiënte oplossing voor microtaken, fixes of kleine functies die binnen enkele dagen geleverd kunnen worden.",
                 features: [
@@ -23,8 +23,23 @@ export const ServicePackagesNL: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Snelle Leveringsplan",
+                price: "USD 579 / 1–2 weken",
+                schedule: "Flexibel (projectgebaseerd, ~1–2 weken)",
+                highlight: "Een sprintgericht pakket voor compacte functiesets, integraties of verbeteringen, geleverd binnen enkele weken.",
+                features: [
+                    "Ideaal voor functies met gemiddelde complexiteit, component-upgrades of integratietaken",
+                    "Omvat planning, ontwerpiteratie, implementatie en functioneel testen",
+                    "Ondersteunt full-stack taken of gerichte modules (bijv. API, dashboard, automatisering)",
+                    "Inclusief tot 2 sync-sessies voor planning en overdracht",
+                    "Snelle levering zonder lange termijn contracten",
+                    "Geschikt voor beginnende teams, POC’s of interne tool-uitbreidingen"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "Essentiële Zorgplan",
-                price: "$799 USD/maand",
+                price: "USD 900 / maand",
                 schedule: "Ma–Vr, 8:30–17:30 (gedeeld)",
                 highlight: "Basis engineering support voor MVP’s, interne tools of vroege platforms met minimale ontwikkelbehoefte.",
                 features: [
@@ -44,7 +59,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Groei Ondersteuningsplan",
-                price: "$1,999 USD/month",
+                price: "USD 1,999 / month",
                 schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Voor groeiende bedrijven die continue ontwikkeling nodig hebben zonder fulltime inzet.",
                 features: [
@@ -58,7 +73,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Geavanceerd Groeiplan",
-                price: "$2,999 USD/month",
+                price: "USD 2,999 / month",
                 schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Meer ontwikkelingsfocus dan Growth Support, ideaal voor platforms die frequente verbeteringen en nauwe samenwerking met stakeholders nodig hebben.",
                 features: [
@@ -72,7 +87,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Blockchain Pioniersplan",
-                price: "$3,999 USD/month",
+                price: "USD 3,999 / month",
                 schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Instapniveau blockchain ondersteuning voor Web3, NFT’s en Ethereum-productinnovatie.",
                 features: [
@@ -91,7 +106,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovatieplan",
-                price: "$5,900 USD/month",
+                price: "USD 5,900 / month",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Exclusieve fulltime ondersteuning voor niet-blockchain projecten zoals MVP’s, systeemverbeteringen en schaalvergroting.",
                 features: [
@@ -104,7 +119,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Web3 Kernplan",
-                price: "$6,900 USD/month",
+                price: "USD 6,900 / month",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Volledige blockchain-ontwikkeling inclusief tokenomics en smart contracts, met volledige Web3-integratie.",
                 features: [
@@ -117,7 +132,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "NFT Evolutieplan",
-                price: "$6,900 USD/month",
+                price: "USD 6,900 / month",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Gespecialiseerde NFT-ontwikkeling en modernisering van bestaande contracten.",
                 features: [

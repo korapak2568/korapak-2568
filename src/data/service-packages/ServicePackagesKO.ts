@@ -9,7 +9,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "소규모 프로젝트 플랜",
-                price: "$299 USD/작업",
+                price: "USD 299 / 1~5일",
                 schedule: "유연함 (프로젝트 기반, ≤1주)",
                 highlight: "수일 내 납품 가능한 마이크로 작업, 버그 수정 또는 소규모 기능에 적합한 효율적인 솔루션.",
                 features: [
@@ -23,8 +23,23 @@ export const ServicePackagesKO: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "빠른 제공 계획",
+                price: "USD 579 / 1–2주",
+                schedule: "유연한 일정 (프로젝트 기반, 약 1–2주)",
+                highlight: "소규모 기능, 통합 또는 향상 작업을 몇 주 내에 제공하는 스프린트 스타일의 집중 패키지입니다.",
+                features: [
+                    "중간 수준의 복잡도를 가진 기능, 컴포넌트 업그레이드 또는 통합 작업에 적합",
+                    "기획, 디자인 반복, 구현, 기능 테스트를 포함",
+                    "풀스택 작업 또는 특정 모듈(API, 대시보드, 자동화 등)을 지원",
+                    "기획 및 전달을 위한 최대 2회의 동기화 포함",
+                    "장기 계약 없이 빠른 납품 가능",
+                    "초기 스타트업 팀, POC 또는 내부 툴 확장에 적합"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "기본 케어 플랜",
-                price: "$799 USD/월",
+                price: "USD 900 / 월",
                 schedule: "월–금, 8:30–17:30 (공유)",
                 highlight: "개발 리소스가 제한된 MVP, 내부 도구, 초기 플랫폼에 적합한 기본 엔지니어링 지원.",
                 features: [
@@ -44,7 +59,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "성장 지원 플랜",
-                price: "$1,999 USD/월",
+                price: "USD 1,999 / 월",
                 schedule: "월–금, 08:30–17:30 (시간 공유)",
                 highlight: "지속적인 개선과 적절한 개발 속도가 필요한 성장 단계의 팀에게 적합한 중간 수준의 개발 지원 패키지입니다.",
                 features: [
@@ -58,7 +73,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "고급 성장 플랜",
-                price: "$2,999 USD/월",
+                price: "USD 2,999 / 월",
                 schedule: "월–금, 08:30–17:30 (시간 공유)",
                 highlight: "자주 업데이트가 필요한 서비스 또는 복잡한 사용자 흐름을 다루는 프로젝트에 최적화된 고급 성장 플랜입니다.",
                 features: [
@@ -72,7 +87,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "블록체인 개척자 플랜",
-                price: "$3,999 USD/월",
+                price: "USD 3,999 / 월",
                 schedule: "월–금, 08:30–17:30 (풀타임, 시간 공유)",
                 highlight: "Web3, NFT, Ethereum 기반 프로젝트를 처음 시작하거나 실험하는 팀을 위한 블록체인 입문 패키지입니다.",
                 features: [
@@ -91,7 +106,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "프리미엄 혁신 플랜",
-                price: "$5,900 USD/month",
+                price: "USD 5,900 / month",
                 schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "PoC, MVP 개발, 시스템 업그레이드 및 확장을 포함한 비블록체인 프로젝트 전용 풀타임 기술 지원.",
                 features: [
@@ -104,7 +119,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "Web3 핵심 플랜",
-                price: "$6,900 USD/month",
+                price: "USD 6,900 / month",
                 schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "토크노믹스와 스마트 계약 개발을 포함한 완전한 Web3 통합 블록체인 개발.",
                 features: [
@@ -117,7 +132,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "NFT 진화 플랜",
-                price: "$6,900 USD/month",
+                price: "USD 6,900 / month",
                 schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "최신 NFT 개발 및 레거시 계약 현대화를 위한 전담 개발 서비스.",
                 features: [

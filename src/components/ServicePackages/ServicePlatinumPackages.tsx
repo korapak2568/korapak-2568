@@ -20,7 +20,7 @@ export default function ServicePlatinumPackages({lang}: { lang: string }) {
 
             <div className="service-right">
                 {platinum.plans.map((plan, index) => {
-                    const prices = plan.price.split(" ")
+                    const prices = plan.price.split("/")
 
                     return (
                         <Link

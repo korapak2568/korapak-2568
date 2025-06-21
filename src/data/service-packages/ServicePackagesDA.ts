@@ -8,7 +8,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Lille Projektplan",
-                price: "$299 USD/opgave",
+                price: "USD 299 / 1–5 dage",
                 schedule: "Fleksibel (projektbaseret, ≤1 uge)",
                 highlight: "Effektiv løsning til mikroopgaver, fejlrettelser eller små funktioner med levering på få dage.",
                 features: [
@@ -22,8 +22,23 @@ export const ServicePackagesDA: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Hurtig Leveringsplan",
+                price: "USD 579 / 1–2 uger",
+                schedule: "Fleksibel (projektbaseret, ~1–2 uger)",
+                highlight: "En fokuseret sprint-baseret pakke til kompakte funktioner, integrationer eller forbedringer leveret inden for få uger.",
+                features: [
+                    "Bedst til funktioner med middel kompleksitet, komponentopgraderinger eller integration",
+                    "Omfatter planlægning, designiteration, implementering og funktionel test",
+                    "Understøtter både full-stack opgaver eller fokuserede moduler (f.eks. API, dashboard, automatisering)",
+                    "Inkluderer op til 2 synkroniseringsmøder til planlægning og overdragelse",
+                    "Hurtigere levering uden binding til langtidskontrakter",
+                    "Velegnet til tidlige teams, POC’er eller interne værktøjsudvidelser"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "Grundlæggende Vedligeholdsplan",
-                price: "$799 USD/md.",
+                price: "USD 900 /per month",
                 schedule: "Man–Fre, 8:30–17:30 (delt kapacitet)",
                 highlight: "Fundamental ingeniørsupport til MVP’er, interne værktøjer eller tidlige platforme med begrænsede udviklingskrav.",
                 features: [
@@ -43,7 +58,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Vækstsupportplan",
-                price: "$1,999 USD/måned",
+                price: "USD 1,999 / måned",
                 schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Ideel for voksende teams, der kræver kontinuerlige forbedringer og teknisk fleksibilitet uden fuldtidsomkostninger.",
                 features: [
@@ -57,7 +72,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "Avanceret Vækstplan",
-                price: "$2,999 USD/måned",
+                price: "USD 2,999 / måned",
                 schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Strategisk udviklingspartner for platforme med behov for kontinuerlig levering og tæt interessentsamarbejde.",
                 features: [
@@ -71,7 +86,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "Blockchain Pionérplan",
-                price: "$3,999 USD/måned",
+                price: "USD 3,999 / måned",
                 schedule: "Man–Fre, 8:30–17:30 (fuldtid, delt)",
                 highlight: "Professionel indgang til blockchain-innovation — ideel til Web3-prototyper, NFT-værktøjer og Ethereum-baserede platforme.",
                 features: [
@@ -90,7 +105,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovationsplan",
-                price: "$5,900 USD/month",
+                price: "USD 5,900 / month",
                 schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Dedikeret support til udvikling uden blockchain – ideel til MVP’er, systemopgraderinger og skalerbare løsninger.",
                 features: [
@@ -103,7 +118,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "Web3 Kerneplan",
-                price: "$6,900 USD/month",
+                price: "USD 6,900 / month",
                 schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Komplet blockchain-løsning med Web3-integration – herunder smart contracts og token design.",
                 features: [
@@ -116,7 +131,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "NFT Evolutionsplan",
-                price: "$6,900 USD/month",
+                price: "USD 6,900 / month",
                 schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Specialiseret i NFT-løsninger – både nye produkter og modernisering af eksisterende smart contracts.",
                 features: [

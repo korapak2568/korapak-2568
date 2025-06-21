@@ -1,5 +1,5 @@
 // src/components/ServicePackages/ServicePremiumPackages.tsx
-import {FaBolt, FaGem, FaTools} from "react-icons/fa";
+import {FaBolt, FaGem, FaImages, FaLightbulb, FaLink, FaShippingFast, FaTools} from "react-icons/fa";
 import Link from "next/link";
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
@@ -17,7 +17,7 @@ export default function ServicePremiumPackages({lang}: { lang: string }) {
 
             <div className="service-right">
                 {premium.plans.map((plan, index) => {
-                    const prices = plan.price.split(" ")
+                    const prices = plan.price.split("/")
 
                     return (
                         <Link
@@ -28,7 +28,7 @@ export default function ServicePremiumPackages({lang}: { lang: string }) {
                         >
                             <div className="plan-detail premium">
                                 <strong>
-                                    {index == 0 ? <FaBolt/> : <FaTools/>}
+                                    {index == 0 ? <FaBolt/> : index == 1 ? <FaShippingFast/> : <FaTools/>}
                                     <span>{plan.name}</span>
                                 </strong>
                                 <p>{plan.highlight}</p>

@@ -9,7 +9,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "ミニプロジェクト・プラン",
-                price: "$299 USD/タスク",
+                price: "USD 299 / 1～5日間",
                 schedule: "柔軟対応（プロジェクトベース、最長1週間）",
                 highlight: "数日以内に納品可能な小規模タスク、バグ修正、またはミニ機能に対する効率的なソリューション。",
                 features: [
@@ -23,8 +23,23 @@ export const ServicePackagesJA: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "クイックデリバリープラン",
+                price: "USD 579 / 1～2週間",
+                schedule: "柔軟対応（プロジェクトベース、約1〜2週間）",
+                highlight: "コンパクトな機能セット、統合、または拡張機能に特化したスプリント型パッケージ。数週間以内に納品可能です。",
+                features: [
+                    "中程度の複雑さの機能、コンポーネントのアップグレード、または統合作業に最適",
+                    "企画、デザイン反復、実装、機能テストをカバー",
+                    "フルスタック作業または特定モジュール（例：API、ダッシュボード、自動化）に対応",
+                    "計画と引き継ぎのための同期を最大2回まで含む",
+                    "長期契約の負担なしにスピーディーな納品を実現",
+                    "初期段階のチーム、POC、社内ツールの拡張に最適"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "エッセンシャルケア・プラン",
-                price: "$799 USD/月",
+                price: "USD 900 / 月",
                 schedule: "月～金, 8:30～17:30（共有リソース）",
                 highlight: "MVP、社内ツール、初期段階のプラットフォーム向けの基礎的なエンジニアリングサポート。最小限の開発リソースで対応可能です。",
                 features: [
@@ -44,7 +59,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "グロースサポート・プラン",
-                price: "$1,999 USD/月",
+                price: "USD 1,999 / 月",
                 schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "継続的な開発が必要でありながら、フルタイムのコミットメントを避けたい成長中の企業に最適。",
                 features: [
@@ -58,7 +73,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "アドバンスト・グロース・プラン",
-                price: "$2,999 USD/月",
+                price: "USD 2,999 / 月",
                 schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "Growth Supportプランよりも強力な開発フォーカスを持ち、頻繁な機能強化とステークホルダーとの協力が必要なプラットフォームに最適。",
                 features: [
@@ -72,7 +87,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "ブロックチェーン・パイオニア・プラン",
-                price: "$3,999 USD/月",
+                price: "USD 3,999 / 月",
                 schedule: "月〜金、8:30〜17:30（フルタイム、共有）",
                 highlight: "Web3、NFT、Ethereumベースの製品イノベーションのためのエントリーレベルのブロックチェーンサポート。",
                 features: [
@@ -91,7 +106,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "プレミアム・イノベーション・プラン",
-                price: "$5,900 USD/month",
+                price: "USD 5,900 / month",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "PoCやMVP開発、機能拡張やシステムリファクタリングを含む、非ブロックチェーン領域でのスケーラブルな開発支援。",
                 features: [
@@ -104,7 +119,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "Web3コアプラン",
-                price: "$6,900 USD/month",
+                price: "USD 6,900 / month",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "SolidityやEthereumを用いたスマートコントラクト開発、トークノミクス設計を含む、Web3完全統合型ブロックチェーン開発支援。",
                 features: [
@@ -117,7 +132,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "NFT進化プラン",
-                price: "$6,900 USD/month",
+                price: "USD 6,900 / month",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "最新のNFT開発と既存スマートコントラクトの近代化にフォーカスした専門的支援。",
                 features: [

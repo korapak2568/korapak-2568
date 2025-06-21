@@ -17,7 +17,7 @@ export default function ServiceGoldPackages({lang}: { lang: string }) {
 
             <div className="service-right">
                 {gold.plans.map((plan, index) => {
-                    const prices = plan.price.split(" ")
+                    const prices = plan.price.split("/")
 
                     return (
                         <Link

@@ -9,7 +9,7 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Kleines Projektpaket",
-                price: "$299 USD/Aufgabe",
+                price: "USD 299 / 1–5 Tage",
                 schedule: "Flexibel (projektbasiert, ≤1 Woche)",
                 highlight: "Effiziente Lösung für Mikroaufgaben, Bugfixes oder kleine Features, die innerhalb weniger Tage geliefert werden können.",
                 features: [
@@ -23,8 +23,23 @@ export const ServicePackagesDE: IServicePackages = {
                 link: "service-packages/"
             },
             {
+                name: "Schnelllieferplan",
+                price: "USD 579 / 1–2 Wochen",
+                schedule: "Flexibel (projektbasiert, ~1–2 Wochen)",
+                highlight: "Ein fokussiertes Sprint-Paket für kompakte Feature-Sets, Integrationen oder Erweiterungen mit Lieferung innerhalb weniger Wochen.",
+                features: [
+                    "Ideal für Funktionen mittlerer Komplexität, Komponenten-Upgrades oder Integrationen",
+                    "Beinhaltet Planung, Design-Iteration, Implementierung und Funktionstests",
+                    "Unterstützt Full-Stack-Aufgaben oder gezielte Module (z. B. API, Dashboard, Automatisierung)",
+                    "Beinhaltet bis zu 2 Syncs für Planung und Übergabe",
+                    "Schnelle Lieferung ohne langfristige Vertragsbindung",
+                    "Geeignet für Early-Stage-Teams, POCs oder interne Tool-Erweiterungen"
+                ],
+                link: "service-packages/"
+            },
+            {
                 name: "Basis-Betreuungsplan",
-                price: "$799 USD/Monat",
+                price: "USD 900 / Monat",
                 schedule: "Mo–Fr, 8:30–17:30 (geteilte Kapazität)",
                 highlight: "Grundlegende technische Unterstützung für MVPs, interne Tools oder frühe Plattformversionen mit geringem Entwicklungsbedarf.",
                 features: [
@@ -44,7 +59,7 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Wachstumsunterstützungsplan",
-                price: "$1,999 USD/Monat",
+                price: "USD 1,999 / Monat",
                 schedule: "Mo–Fr, 8:30–17:30 Uhr (geteilt)",
                 highlight: "Für wachsende Teams, die kontinuierliche Weiterentwicklung und technische Flexibilität ohne zusätzliche Festanstellungen benötigen.",
                 features: [
@@ -58,7 +73,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Erweiterter Wachstumsplan",
-                price: "$2,999 USD/Monat",
+                price: "USD 2,999 / Monat",
                 schedule: "Mo–Fr, 8:30–17:30 Uhr (geteilt)",
                 highlight: "Strategischer Entwicklungspartner für dynamische Plattformen mit Bedarf an kontinuierlicher Auslieferung und enger Abstimmung.",
                 features: [
@@ -72,7 +87,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Blockchain-Pionierplan",
-                price: "$3,999 USD/Monat",
+                price: "USD 3,999 / Monat",
                 schedule: "Mo–Fr, 8:30–17:30 Uhr (geteilt, Vollzeit)",
                 highlight: "Professioneller Einstieg in Blockchain-Innovationen – ideal für Web3-Prototypen, NFT-Utilities und Ethereum-basierte Plattformen.",
                 features: [
@@ -91,7 +106,7 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Premium-Innovationsplan",
-                price: "$5,900 USD/Monat",
+                price: "USD 5,900 / Monat",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "Exklusiver Vollzeitsupport für Nicht-Blockchain-Projekte, einschließlich MVPs, System-Upgrades und Skalierung.",
                 features: [
@@ -104,7 +119,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Web3-Kernplan",
-                price: "$6,900 USD/Monat",
+                price: "USD 6,900 / Monat",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "End-to-End Blockchain-Entwicklung mit vollständiger Web3-Integration, einschließlich Tokenomics und Smart Contracts.",
                 features: [
@@ -117,7 +132,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "NFT-Evolutionsplan",
-                price: "$6,900 USD/Monat",
+                price: "USD 6,900 / Monat",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "NFT-fokussierte Entwicklung, einschließlich Neubauten und Modernisierung bestehender Verträge.",
                 features: [
