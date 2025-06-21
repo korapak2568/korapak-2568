@@ -138,7 +138,7 @@ export const UrlImageMaps: IUrlImageMap[] = [
     // cloud-infrastructure-systems-architecture
     {
         url: '/technical-expertise/cloud-infrastructure-systems-architecture/',
-        images: [{path: ''}]
+        images: []
     },
 
     // front-end-developer
@@ -254,13 +254,13 @@ export const UrlImageMaps: IUrlImageMap[] = [
     //technical-expertise/mobile-development
     {
         url: '/technical-expertise/mobile-development/',
-        images: [{path: ''}]
+        images: []
     },
 
     //technical-expertise/web3-blockchain-smart-contract-development
     {
         url: '/technical-expertise/web3-blockchain-smart-contract-development/',
-        images: [{path: ''}]
+        images: []
     },
 
     //technical-expertise/web-development
@@ -302,6 +302,6 @@ export const UrlImageMaps: IUrlImageMap[] = [
     //service-packages
     {
         url: '/service-packages/',
-        images: [{path: ''}]
+        images: []
     },
 ]

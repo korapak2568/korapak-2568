@@ -1,7 +1,7 @@
 // next.config.mjs
 
 async function redirectIncorrectPublic() {
-    const locales = ['th', 'en', 'fr', 'ja', 'vi', 'zh', 'de', 'nl', 'da', 'fi', 'ko']
+    const locales = ['th', 'en', 'fr', 'ja', 'zh', 'de', 'nl', 'da', 'fi', 'ko']
     const items = [{source: '/na/:path*', destination: '/da/:path*', permanent: true}, {
         source: `/public/`, destination: '/en', permanent: true
     }]
