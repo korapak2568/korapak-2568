@@ -54,7 +54,8 @@ export const AboutKO: IAbout = {
             {
                 title: "일반 문의",
                 span: "(전략적 파트너십)",
-                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                officePhone: "사무실 전화: +66 (52) 000 548",
+                mobilePhone: "휴대폰: +66 (64) 918 1998",
                 locations: {
                     office: "사무실: 태국 치앙마이 50210, 산 사이 지역, 산나멩 서브디스트릭트, Moo 3, 405/112",
                     nearby: [

@@ -54,7 +54,8 @@ export const AboutDA: IAbout = {
             {
                 title: "Generelle henvendelser",
                 span: "(Strategiske partnerskaber)",
-                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                officePhone: "Kontortelefon: +66 (52) 000 548",
+                mobilePhone: "Mobiltelefon: +66 (64) 918 1998",
                 locations: {
                     office: "Kontor: 405/112 Moo 3, San Na Meng Subdistrikt, San Sai Distrikt, Chiang Mai 50210, Thailand",
                     nearby: [

@@ -54,7 +54,8 @@ export const AboutZH: IAbout = {
             {
                 title: "一般咨询",
                 span: "（战略合作）",
-                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                officePhone: "办公室电话：+66 (52) 000 548",
+                mobilePhone: "移动电话：+66 (64) 918 1998",
                 locations: {
                     office: "办公室：泰国清迈府善赛县善纳孟分区 Moo 3，405/112，邮编50210",
                     nearby: [

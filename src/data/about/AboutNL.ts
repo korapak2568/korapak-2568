@@ -54,7 +54,8 @@ export const AboutNL: IAbout = {
             {
                 title: "Algemene vragen",
                 span: "(Strategische samenwerkingen)",
-                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                officePhone: "Kantoor telefoon: +66 (52) 000 548",
+                mobilePhone: "Mobiele telefoon: +66 (64) 918 1998",
                 locations: {
                     office: "Kantoor: 405/112 Moo 3, San Na Meng Subdistrict, San Sai District, Chiang Mai 50210, Thailand",
                     nearby: [

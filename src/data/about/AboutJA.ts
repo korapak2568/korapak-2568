@@ -55,7 +55,8 @@ export const AboutJA: IAbout = {
             {
                 title: "一般のお問い合わせ",
                 span: "（戦略的パートナーシップ）",
-                telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                officePhone: "オフィスの電話：+66 (52) 000 548",
+                mobilePhone: "携帯電話：+66 (64) 918 1998",
                 locations: {
                     office: "オフィス：405/112 ムー3、サンナメン・サブディストリクト、サンサーイ・ディストリクト、チェンマイ 50210、タイ",
                     nearby: [

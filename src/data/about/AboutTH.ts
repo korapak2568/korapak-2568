@@ -54,7 +54,8 @@ export const AboutTH: IAbout = {
             {
                 title: "สอบถามทั่วไป",
                 span: "(ความร่วมมือเชิงกลยุทธ์)",
-                telephone: "Tel: 052-000 548, 064-918 1998",
+                officePhone: "เบอร์ออฟฟิศ: 052-000 548",
+                mobilePhone: "เบอร์มือถือ: 064-918 1998",
                 locations: {
                     office: "Office: 405/112 หมู่ 3 ตำบลสันนาเม็ง อำเภอสันทราย เชียงใหม่ 50210, ประเทศไทย",
                     nearby: [
