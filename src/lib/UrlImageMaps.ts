@@ -60,11 +60,12 @@ export const UrlImageMaps: IUrlImageMap[] = [
     {
         url: '/gallery/',
         images: [
-            {path: ImageUrl.gallery.main.image1200},
-            {path: ImageUrl.gallery.slides[0].image1200},
-            {path: ImageUrl.gallery.slides[1].image1200},
-            {path: ImageUrl.gallery.slides[2].image1200},
-            {path: ImageUrl.gallery.slides[3].image1200},
+            {path: ImageUrl.gallery.main.image750},
+            {path: ImageUrl.gallery.slides[0].image750},
+            {path: ImageUrl.gallery.slides[1].image750},
+            {path: ImageUrl.gallery.slides[2].image750},
+            {path: ImageUrl.gallery.slides[3].image750},
+            {path: ImageUrl.gallery.slides[4].image750},
         ]
     },
 
@@ -72,8 +73,12 @@ export const UrlImageMaps: IUrlImageMap[] = [
     {
         url: '/technical-expertise/ai-solutions/',
         images: [
-            {path: ImageUrl.banner.banner1.path},
-            {path: ImageUrl.ai.fah.image750},
+            {path: ImageUrl.llm.slides[0].image750},
+            {path: ImageUrl.llm.slides[1].image750},
+            {path: ImageUrl.llm.slides[2].image750},
+            {path: ImageUrl.llm.slides[3].image750},
+            {path: ImageUrl.llm.slides[4].image750},
+            {path: ImageUrl.llm.slides[5].image750},
         ]
     },
 
@@ -303,5 +308,18 @@ export const UrlImageMaps: IUrlImageMap[] = [
     {
         url: '/service-packages/',
         images: []
+    },
+
+    //contact
+    {
+        url: '/contact/',
+        images: [
+            {path: ImageUrl.contact.main.image750},
+            {path: ImageUrl.contact.slides[0].image750},
+            {path: ImageUrl.contact.slides[1].image750},
+            {path: ImageUrl.contact.slides[2].image750},
+            {path: ImageUrl.contact.slides[3].image750},
+            {path: ImageUrl.contact.slides[4].image750},
+        ]
     },
 ]

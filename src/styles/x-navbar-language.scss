@@ -45,6 +45,7 @@
 
   .dropdown-active {
     transform: scale(0.97);
+    background: linear-gradient(135deg, #fd9b5f, #f28c38); // invert ends for interaction
     box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
   }
 }

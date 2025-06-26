@@ -663,6 +663,13 @@ export const ImageUrl: IImageUrl = {
             title: "CHORN's WhatsApp",
             path: CDN_IMAGE + "/contact/WhatsApp-qrcode.jpg",
         },
+        main: {
+            title: "CHORN contact slide-1",
+            image375: CDN_IMAGE + "/contact/contact-image-375.webp",
+            image750: CDN_IMAGE + "/contact/contact-image-750.webp",
+            image1200: CDN_IMAGE + "/contact/contact-image-1200.webp",
+            thumbnail: ""
+        },
         slides: [
             {
                 title: "CHORN contact slide-1",

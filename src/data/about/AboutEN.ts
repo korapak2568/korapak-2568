@@ -57,6 +57,8 @@ export const AboutEN: IAbout = {
                 title: "General Inquiries",
                 span: "(Strategic Collaborations)",
                 telephone: "Tel: +66 (52) 000 548, +66 (64) 918 1998",
+                officePhone: "Office phone: +66 (52) 000 548",
+                mobilePhone: "Mobile phone: +66 (64) 918 1998",
                 locations: {
                     office: "Office: 405/112 Moo 3, San Na Meng Subdistrict, San Sai District, Chiang Mai 50210, Thailand",
                     nearby: [

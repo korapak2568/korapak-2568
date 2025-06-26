@@ -2,7 +2,15 @@ import "@/styles/about.scss"
 
 import React from "react";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";
-import {FaEnvelope, FaMapMarkedAlt, FaPhoneAlt} from "react-icons/fa";
+import {
+    FaEnvelope,
+    FaMapMarkedAlt,
+    FaMobileAlt,
+    FaPhone,
+    FaPlaneDeparture,
+    FaShoppingBag,
+    FaUniversity
+} from "react-icons/fa";
 import {Contact2025} from "@/data/contact/Contact2025";
 
 export default function ContactRight({lang}: { lang: string }) {
@@ -32,15 +40,29 @@ export default function ContactRight({lang}: { lang: string }) {
                                     }
 
                                     {
-                                        item.telephone &&
+                                        item.officePhone &&
                                         <div className="item">
                                             <div className="icon-container">
                                                 <div className="icon">
-                                                    <FaPhoneAlt/>
+                                                    <FaPhone/>
                                                 </div>
                                             </div>
                                             <div className="label">
-                                                {item.telephone}
+                                                {item.officePhone}
+                                            </div>
+                                        </div>
+                                    }
+
+                                    {
+                                        item.mobilePhone &&
+                                        <div className="item">
+                                            <div className="icon-container">
+                                                <div className="icon">
+                                                    <FaMobileAlt/>
+                                                </div>
+                                            </div>
+                                            <div className="label">
+                                                {item.mobilePhone}
                                             </div>
                                         </div>
                                     }
@@ -60,7 +82,14 @@ export default function ContactRight({lang}: { lang: string }) {
 
                                                 <ul>
                                                     {item.locations.nearby?.map((near, index) => (
-                                                        <li key={index}>{near}</li>
+                                                        <li key={index}>
+                                                            <div className="icon">
+                                                                {index == 0 ? <FaShoppingBag/> :
+                                                                    index > 0 && index < 3 ?
+                                                                        <FaUniversity/> : <FaPlaneDeparture/>}
+                                                            </div>
+                                                            {near}
+                                                        </li>
                                                     ))}
                                                 </ul>
                                             </div>
