@@ -79,19 +79,62 @@ export default function ContactRight({lang}: { lang: string }) {
                                                 <a target={"_blank"} href={Contact2025.location.link}>
                                                     {item.locations.office}
                                                 </a>
+                                            </div>
+                                        </div>
+                                    }
 
-                                                <ul>
-                                                    {item.locations.nearby?.map((near, index) => (
-                                                        <li key={index}>
-                                                            <div className="icon">
-                                                                {index == 0 ? <FaShoppingBag/> :
-                                                                    index > 0 && index < 3 ?
-                                                                        <FaUniversity/> : <FaPlaneDeparture/>}
-                                                            </div>
-                                                            {near}
-                                                        </li>
-                                                    ))}
-                                                </ul>
+                                    {
+                                        item.nearbyShopping &&
+                                        <div className="item">
+                                            <div className="icon-container">
+                                                <div className="icon nearby">
+                                                    <FaShoppingBag/>
+                                                </div>
+                                            </div>
+                                            <div className="label">
+                                                {item.nearbyShopping}
+                                            </div>
+                                        </div>
+                                    }
+
+                                    {
+                                        item.nearbyUniversity1 &&
+                                        <div className="item">
+                                            <div className="icon-container">
+                                                <div className="icon nearby">
+                                                    <FaUniversity/>
+                                                </div>
+                                            </div>
+                                            <div className="label">
+                                                {item.nearbyUniversity1}
+                                            </div>
+                                        </div>
+                                    }
+
+                                    {
+                                        item.nearbyUniversity2 &&
+                                        <div className="item">
+                                            <div className="icon-container">
+                                                <div className="icon nearby">
+                                                    <FaUniversity/>
+                                                </div>
+                                            </div>
+                                            <div className="label">
+                                                {item.nearbyUniversity2}
+                                            </div>
+                                        </div>
+                                    }
+
+                                    {
+                                        item.nearbyAirport &&
+                                        <div className="item">
+                                            <div className="icon-container">
+                                                <div className="icon nearby">
+                                                    <FaPlaneDeparture/>
+                                                </div>
+                                            </div>
+                                            <div className="label">
+                                                {item.nearbyAirport}
                                             </div>
                                         </div>
                                     }

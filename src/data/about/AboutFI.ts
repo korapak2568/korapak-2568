@@ -57,15 +57,18 @@ export const AboutFI: IAbout = {
                 officePhone: "Toimistopuhelin: +66 (52) 000 548",
                 mobilePhone: "Matkapuhelin: +66 (64) 918 1998",
                 locations: {
-                    office: "Toimisto: 405/112 Moo 3, San Na Mengin osa-alue, San Sain piiri, Chiang Mai 50210, Thaimaa",
-                    nearby: [
-                        "Lähellä Central Festival Chiang Maita – 20 minuuttia",
-                        "Lähellä Maejon yliopistoa – 22 minuuttia",
-                        "Lähellä Chiang Main yliopistoa – 29 minuuttia",
-                        "Lähellä Chiang Main kansainvälistä lentokenttää – 30 minuuttia"
-                    ]
+                    office: "Toimisto: 405/112 Moo 3, San Na Mengin osa-alue, San Sain piiri, Chiang Mai 50210, Thaimaa"
                 }
+            },
+            {
+                title: "Lähistön paikat",
+                span: "",
+                nearbyShopping: "Central Festival Chiang Mai - 20 minuuttia",
+                nearbyUniversity1: "Maejo-yliopisto - 22 minuuttia",
+                nearbyUniversity2: "Chiang Mai -yliopisto - 29 minuuttia",
+                nearbyAirport: "Chiang Main kansainvälinen lentoasema - 30 minuuttia"
             }
+
         ]
     }
 };

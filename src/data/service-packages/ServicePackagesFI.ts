@@ -24,7 +24,7 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Nopea Toimitussuunnitelma",
-                price: "USD 579 / 1–2 viikkoa",
+                price: "USD 499 / 1–2 viikkoa",
                 schedule: "Joustava (projektiluontoinen, ~1–2 viikkoa)",
                 highlight: "Sprinttimäinen paketti kompakteille ominaisuuksille, integraatioille tai parannuksille – toimitus muutamassa viikossa.",
                 features: [

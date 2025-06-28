@@ -163,6 +163,10 @@
 
             background: linear-gradient(to right, #06c755, #06c755);
             color: white;
+
+            &.nearby {
+              background: linear-gradient(to right, #0f91ff, #0f91ff);
+            }
           }
         }
 
@@ -174,30 +178,6 @@
 
           a:hover {
             color: #fd9b5f;
-          }
-
-          ul {
-            margin-top: 15px;
-            padding-left: 0;
-            list-style: none;
-
-            li {
-              display: flex;
-
-              .icon {
-                margin-right: 5px;
-                margin-bottom: 2px;
-                font-weight: 400;
-                padding: 5px 8px;
-                width: 30px;
-                display: flex;
-                align-items: center;
-                gap: 0;
-
-                background: linear-gradient(to right, #0f91ff, #0f91ff);
-                color: white;
-              }
-            }
           }
         }
       }

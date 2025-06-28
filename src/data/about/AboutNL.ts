@@ -57,14 +57,16 @@ export const AboutNL: IAbout = {
                 officePhone: "Kantoor telefoon: +66 (52) 000 548",
                 mobilePhone: "Mobiele telefoon: +66 (64) 918 1998",
                 locations: {
-                    office: "Kantoor: 405/112 Moo 3, San Na Meng Subdistrict, San Sai District, Chiang Mai 50210, Thailand",
-                    nearby: [
-                        "Dicht bij Central Festival Chiang Mai – 20 minuten",
-                        "Dicht bij de Universiteit van Maejo – 22 minuten",
-                        "Dicht bij de Universiteit van Chiang Mai – 29 minuten",
-                        "Dicht bij de Internationale Luchthaven Chiang Mai – 30 minuten"
-                    ]
+                    office: "Kantoor: 405/112 Moo 3, San Na Meng Subdistrict, San Sai District, Chiang Mai 50210, Thailand"
                 }
+            },
+            {
+                title: "Plaatsen in de buurt",
+                span: "",
+                nearbyShopping: "Central Festival Chiang Mai - 20 minuten",
+                nearbyUniversity1: "Maejo Universiteit - 22 minuten",
+                nearbyUniversity2: "Chiang Mai Universiteit - 29 minuten",
+                nearbyAirport: "Chiang Mai Internationale Luchthaven - 30 minuten"
             }
         ]
     }

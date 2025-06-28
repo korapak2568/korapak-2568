@@ -24,7 +24,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "クイックデリバリープラン",
-                price: "USD 579 / 1～2週間",
+                price: "USD 499 / 1～2週間",
                 schedule: "柔軟対応（プロジェクトベース、約1〜2週間）",
                 highlight: "コンパクトな機能セット、統合、または拡張機能に特化したスプリント型パッケージ。数週間以内に納品可能です。",
                 features: [

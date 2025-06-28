@@ -57,15 +57,18 @@ export const AboutDE: IAbout = {
                 officePhone: "Bürotelefon: +66 (52) 000 548",
                 mobilePhone: "Handy: +66 (64) 918 1998",
                 locations: {
-                    office: "Büro: 405/112 Moo 3, San Na Meng Unterbezirk, San Sai Bezirk, Chiang Mai 50210, Thailand",
-                    nearby: [
-                        "In der Nähe von Central Festival Chiang Mai – 20 Minuten",
-                        "In der Nähe der Maejo Universität – 22 Minuten",
-                        "In der Nähe der Chiang Mai Universität – 29 Minuten",
-                        "In der Nähe des internationalen Flughafens Chiang Mai – 30 Minuten"
-                    ]
+                    office: "Büro: 405/112 Moo 3, San Na Meng Unterbezirk, San Sai Bezirk, Chiang Mai 50210, Thailand"
                 }
+            },
+            {
+                title: "Orte in der Nähe",
+                span: "",
+                nearbyShopping: "Central Festival Chiang Mai - 20 Minuten",
+                nearbyUniversity1: "Maejo Universität - 22 Minuten",
+                nearbyUniversity2: "Chiang Mai Universität - 29 Minuten",
+                nearbyAirport: "Flughafen Chiang Mai - 30 Minuten"
             }
+
         ]
     }
 };

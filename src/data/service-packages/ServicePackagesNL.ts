@@ -24,7 +24,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Snelle Leveringsplan",
-                price: "USD 579 / 1–2 weken",
+                price: "USD 499 / 1–2 weken",
                 schedule: "Flexibel (projectgebaseerd, ~1–2 weken)",
                 highlight: "Een sprintgericht pakket voor compacte functiesets, integraties of verbeteringen, geleverd binnen enkele weken.",
                 features: [

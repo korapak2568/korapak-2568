@@ -24,7 +24,7 @@ export const ServicePackagesDE: IServicePackages = {
             },
             {
                 name: "Schnelllieferplan",
-                price: "USD 579 / 1–2 Wochen",
+                price: "USD 499 / 1–2 Wochen",
                 schedule: "Flexibel (projektbasiert, ~1–2 Wochen)",
                 highlight: "Ein fokussiertes Sprint-Paket für kompakte Feature-Sets, Integrationen oder Erweiterungen mit Lieferung innerhalb weniger Wochen.",
                 features: [

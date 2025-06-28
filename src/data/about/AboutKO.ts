@@ -57,14 +57,16 @@ export const AboutKO: IAbout = {
                 officePhone: "사무실 전화: +66 (52) 000 548",
                 mobilePhone: "휴대폰: +66 (64) 918 1998",
                 locations: {
-                    office: "사무실: 태국 치앙마이 50210, 산 사이 지역, 산나멩 서브디스트릭트, Moo 3, 405/112",
-                    nearby: [
-                        "센트럴 페스티벌 치앙마이 근처 – 20분",
-                        "메조 대학교 근처 - 22분",
-                        "치앙마이 대학교 근처 – 29분",
-                        "치앙마이 국제공항 근처 – 30분"
-                    ]
+                    office: "사무실: 태국 치앙마이 50210, 산 사이 지역, 산나멩 서브디스트릭트, Moo 3, 405/112"
                 }
+            },
+            {
+                title: "주변 장소",
+                span: "",
+                nearbyShopping: "센트럴 페스티벌 치앙마이 - 20분",
+                nearbyUniversity1: "매조 대학교 - 22분",
+                nearbyUniversity2: "치앙마이 대학교 - 29분",
+                nearbyAirport: "치앙마이 국제공항 - 30분"
             }
         ]
     }

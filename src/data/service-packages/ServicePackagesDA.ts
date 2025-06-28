@@ -23,7 +23,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "Hurtig Leveringsplan",
-                price: "USD 579 / 1–2 uger",
+                price: "USD 499 / 1–2 uger",
                 schedule: "Fleksibel (projektbaseret, ~1–2 uger)",
                 highlight: "En fokuseret sprint-baseret pakke til kompakte funktioner, integrationer eller forbedringer leveret inden for få uger.",
                 features: [

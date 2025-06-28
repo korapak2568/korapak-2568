@@ -24,7 +24,7 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "快速交付方案",
-                price: "USD 579 / 1–2周",
+                price: "USD 499 / 1–2周",
                 schedule: "灵活安排（基于项目，约1–2周）",
                 highlight: "专注于小型功能集、系统集成或功能增强的短周期冲刺式服务包，可在数周内交付。",
                 features: [

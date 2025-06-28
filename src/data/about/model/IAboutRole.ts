@@ -6,6 +6,9 @@ export interface IAboutRole {
     mobilePhone?: string,
     locations?: {
         office?: string,
-        nearby?: string[],
-    }
+    },
+    nearbyShopping?: string,
+    nearbyUniversity1?: string,
+    nearbyUniversity2?: string,
+    nearbyAirport?: string,
 }

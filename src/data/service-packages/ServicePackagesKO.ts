@@ -24,7 +24,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "빠른 제공 계획",
-                price: "USD 579 / 1–2주",
+                price: "USD 499 / 1–2주",
                 schedule: "유연한 일정 (프로젝트 기반, 약 1–2주)",
                 highlight: "소규모 기능, 통합 또는 향상 작업을 몇 주 내에 제공하는 스프린트 스타일의 집중 패키지입니다.",
                 features: [

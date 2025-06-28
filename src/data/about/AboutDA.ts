@@ -58,13 +58,15 @@ export const AboutDA: IAbout = {
                 mobilePhone: "Mobiltelefon: +66 (64) 918 1998",
                 locations: {
                     office: "Kontor: 405/112 Moo 3, San Na Meng Subdistrikt, San Sai Distrikt, Chiang Mai 50210, Thailand",
-                    nearby: [
-                        "Tæt på Central Festival Chiang Mai – 20 minutter",
-                        "Tæt på Maejo Universitet – 22 minutter",
-                        "Tæt på Chiang Mai Universitet – 29 minutter",
-                        "Tæt på Chiang Mai Internationale Lufthavn – 30 minutter"
-                    ]
                 }
+            },
+            {
+                title: "Nærliggende steder",
+                span: "",
+                nearbyShopping: "Central Festival Chiang Mai - 20 minutter",
+                nearbyUniversity1: "Maejo Universitet - 22 minutter",
+                nearbyUniversity2: "Chiang Mai Universitet - 29 minutter",
+                nearbyAirport: "Chiang Mai Internationale Lufthavn - 30 minutter"
             }
         ]
     }
