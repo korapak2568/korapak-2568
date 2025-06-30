@@ -119,7 +119,7 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Web3-ydinpaketti",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
                 highlight: "Täysi blockchain-kehitys Web3-integraatiolla, mukaan lukien tokenomics ja älysopimukset.",
                 features: [
@@ -132,7 +132,7 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "NFT-kehityspaketti",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
                 highlight: "NFT-kehitykseen keskittynyt ratkaisu – sekä uusien että legacy-sopimusten modernisointi.",
                 features: [

@@ -119,7 +119,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "Web3コアプラン",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "SolidityやEthereumを用いたスマートコントラクト開発、トークノミクス設計を含む、Web3完全統合型ブロックチェーン開発支援。",
                 features: [
@@ -132,7 +132,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "NFT進化プラン",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "最新のNFT開発と既存スマートコントラクトの近代化にフォーカスした専門的支援。",
                 features: [

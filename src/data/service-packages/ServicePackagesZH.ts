@@ -119,7 +119,7 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "Web3核心计划",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "提供端到端的区块链开发服务，支持完整 Web3 集成，包括 Tokenomics 与智能合约开发。",
                 features: [
@@ -132,7 +132,7 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "NFT演进计划",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "专注于 NFT 相关开发，包括新项目构建与旧合约的现代化升级。",
                 features: [

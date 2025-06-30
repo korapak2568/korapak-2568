@@ -119,7 +119,7 @@ export const ServicePackagesFR: IServicePackages = {
             },
             {
                 name: "Plan de Base Web3",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
                 highlight: "Développement blockchain complet avec intégration Web3, tokenomics et smart contracts.",
                 features: [
@@ -132,7 +132,7 @@ export const ServicePackagesFR: IServicePackages = {
             },
             {
                 name: "Plan d’Évolution NFT",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
                 highlight: "Développement NFT moderne et modernisation des smart contracts existants.",
                 features: [

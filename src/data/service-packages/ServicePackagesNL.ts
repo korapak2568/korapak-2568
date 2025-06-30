@@ -119,7 +119,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Web3 Kernplan",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Volledige blockchain-ontwikkeling inclusief tokenomics en smart contracts, met volledige Web3-integratie.",
                 features: [
@@ -132,7 +132,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "NFT Evolutieplan",
-                price: "USD 6,900 / month",
+                price: "USD 7,900 / month",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Gespecialiseerde NFT-ontwikkeling en modernisering van bestaande contracten.",
                 features: [
