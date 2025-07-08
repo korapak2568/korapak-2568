@@ -34,7 +34,7 @@ export const AboutFI: IAbout = {
     ],
     contact: {
         title: "Liiketoimintakyselyt ja yhteistyömahdollisuudet",
-        description: "Toivotamme tervetulleiksi yhteydenotot perustajilta, toimitusjohtajilta, teknologiajohtajilta, tuotejohtajilta ja sijoituskumppaneilta.",
+        description: "Tervetullut yhteydenotto muilta perustajilta, toimitusjohtajilta, teknologiajohtajilta ja tuotejohtajilta.",
         roles: [
             {
                 title: "Project Manager",

@@ -34,7 +34,7 @@ export const AboutFR: IAbout = {
     ],
     contact: {
         title: "Demandes commerciales et partenariats",
-        description: "Nous accueillons les prises de contact de la part de fondateurs, PDG, CTO, responsables produits et partenaires d’investissement.",
+        description: "Contact de bienvenue de la part d'autres fondateurs, PDG, CTO et responsables produits.",
         roles: [
             {
                 title: "Project Manager",

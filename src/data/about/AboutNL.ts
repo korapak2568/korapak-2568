@@ -34,7 +34,7 @@ export const AboutNL: IAbout = {
     ],
     contact: {
         title: "Zakelijke aanvragen & samenwerkingen",
-        description: "Wij verwelkomen contact van medeoprichters, CEO’s, CTO’s, productleiders en investeringspartners.",
+        description: "Welkomstcontact van medeoprichters, CEO's, CTO's en productleiders.",
         roles: [
             {
                 title: "Project Manager",

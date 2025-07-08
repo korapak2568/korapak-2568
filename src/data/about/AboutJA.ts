@@ -35,7 +35,7 @@ export const AboutJA: IAbout = {
     ],
     contact: {
         title: "ビジネスのお問い合わせ・パートナーシップ",
-        description: "創業者、CEO、CTO、プロダクトリーダー、ベンチャーパートナーからのお問い合わせを歓迎します。",
+        description: "創業者仲間、CEO、CTO、プロダクトリーダーからの歓迎の連絡。",
         roles: [
             {
                 title: "Project Manager",

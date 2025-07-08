@@ -36,7 +36,7 @@ export const AboutEN: IAbout = {
     ],
     contact: {
         title: "Business Inquiries & Collaborations",
-        description: "Welcome contact from fellow founders, CEO, CTO, product leaders, and venture partners.",
+        description: "Welcome contact from fellow founders, CEO, CTO, and product leaders.",
         roles: [
             {
                 title: "Project Manager",

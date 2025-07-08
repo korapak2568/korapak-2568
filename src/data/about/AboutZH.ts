@@ -34,7 +34,7 @@ export const AboutZH: IAbout = {
     ],
     contact: {
         title: "商务咨询与合作",
-        description: "我们欢迎来自联合创始人、CEO、CTO、产品负责人及投资合作伙伴的联系。",
+        description: "来自联合创始人、CEO、CTO 和产品负责人的欢迎联系。",
         roles: [
             {
                 title: "项目经理",

@@ -34,7 +34,7 @@ export const AboutKO: IAbout = {
     ],
     contact: {
         title: "비즈니스 문의 및 파트너십",
-        description: "창업자, CEO, CTO, 제품 리더, 투자 파트너의 연락을 환영합니다.",
+        description: "공동 창업자, CEO, CTO 및 제품 리더의 환영 연락입니다.",
         roles: [
             {
                 title: "Project Manager",

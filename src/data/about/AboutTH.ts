@@ -34,7 +34,7 @@ export const AboutTH: IAbout = {
     ],
     contact: {
         title: "ติดต่อธุรกิจและความร่วมมือ",
-        description: "ยินดีต้อนรับการติดต่อจากผู้ก่อตั้ง CEO, CTO ผู้นำด้านผลิตภัณฑ์ และพันธมิตรด้านการลงทุน",
+        description: "ยินดีต้อนรับการติดต่อจากผู้ก่อตั้ง CEO, CTO และผู้นำด้านผลิตภัณฑ์",
         roles: [
             {
                 title: "Project Manager",

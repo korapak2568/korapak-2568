@@ -34,7 +34,7 @@ export const AboutDE: IAbout = {
     ],
     contact: {
         title: "Geschäftsanfragen und Kooperationen",
-        description: "Wir freuen uns über Anfragen von Mitgründern, CEOs, CTOs, Produktverantwortlichen und Investitionspartnern.",
+        description: "Willkommene Kontaktaufnahme von Mitgründern, CEOs, CTOs und Produktverantwortlichen.",
         roles: [
             {
                 title: "Project Manager",

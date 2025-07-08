@@ -34,7 +34,7 @@ export const AboutDA: IAbout = {
     ],
     contact: {
         title: "Forretningshenvendelser og partnerskaber",
-        description: "Vi byder velkommen til kontakt fra medstiftere, CEO'er, CTO'er, produktledere og investeringspartnere.",
+        description: "Velkommen kontakt fra medstiftere, CEO, CTO og produktledere.",
         roles: [
             {
                 title: "Project Manager",
