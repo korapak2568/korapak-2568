@@ -9,7 +9,7 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "小型项目计划",
-                price: "USD 299 / 1–5天",
+                price: "USD 299 / 1–3天",
                 schedule: "灵活（按项目计，≤1周）",
                 highlight: "为可在几天内交付的微任务、修复或小功能提供高效解决方案。",
                 features: [
