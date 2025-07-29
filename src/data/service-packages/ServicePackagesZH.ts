@@ -106,7 +106,7 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "高端创新计划",
-                price: "USD 6,900 / month",
+                price: "USD 5,900 / month",
                 schedule: "周一至周五，8:30–17:30（全职专属支持）",
                 highlight: "为非区块链项目提供专属全职支持，包括 MVP 构建、系统升级及可扩展性优化。",
                 features: [

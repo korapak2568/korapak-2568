@@ -106,7 +106,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "プレミアム・イノベーション・プラン",
-                price: "USD 6,900 / month",
+                price: "USD 5,900 / month",
                 schedule: "月〜金, 8:30〜17:30（フルタイム・専任）",
                 highlight: "PoCやMVP開発、機能拡張やシステムリファクタリングを含む、非ブロックチェーン領域でのスケーラブルな開発支援。",
                 features: [

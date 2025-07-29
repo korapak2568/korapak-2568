@@ -106,7 +106,7 @@ export const ServicePackagesDE: IServicePackages = {
         plans: [
             {
                 name: "Premium-Innovationsplan",
-                price: "USD 6,900 / Monat",
+                price: "USD 5,900 / Monat",
                 schedule: "Mo–Fr, 8:30–17:30 (Vollzeit, dediziert oder dauerhaft)",
                 highlight: "Exklusiver Vollzeitsupport für Nicht-Blockchain-Projekte, einschließlich MVPs, System-Upgrades und Skalierung.",
                 features: [

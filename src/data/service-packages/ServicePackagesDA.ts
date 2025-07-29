@@ -105,7 +105,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovationsplan",
-                price: "USD 6,900 / month",
+                price: "USD 5,900 / month",
                 schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Dedikeret support til udvikling uden blockchain – ideel til MVP’er, systemopgraderinger og skalerbare løsninger.",
                 features: [
