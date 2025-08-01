@@ -23,7 +23,7 @@ export const AboutEN: IAbout = {
     stacks: [
         {
             title: "Software Development and Enterprise System Integration",
-            description: "Custom website and software system development using modern frameworks. Development of front-end and back-end, smart contracts, blockchain, Web3, and DApp. Enterprise system integration, such as ERP (e.g., SAP), CRM, LLM-AI, LINE Chat App, Machine Learning, e-commerce platforms, APIs, and enhances data connectivity across departments, enabling automation and collaboration."
+            description: "We provide end-to-end software development and enterprise system integration tailored for fast-growing startups and digital-first enterprises. Leveraging modern frameworks, we build scalable front-end and back-end systems while integrating critical platforms like ERP, SAP, CRM, MES, and e-commerce. Our solutions enhance cross-functional data flow and operational automation through robust API architecture, WebService (REST/SOAP), and AI/LLM capabilities. From machine learning and smart contracts to blockchain, Web3, and decentralized applications (DApps), we enable innovation across the stack. As a strategic technology partner, we align with CEOs, CTOs, Product Owners, and Founders to accelerate product delivery, modernize infrastructure, and drive digital transformation."
         },
         {
             title: "System Analysis and Technical Support",

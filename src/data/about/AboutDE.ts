@@ -21,7 +21,7 @@ export const AboutDE: IAbout = {
     stacks: [
         {
             title: "Softwareudvikling og integration af virksomhedssystemer",
-            description: "Entwicklung maßgeschneiderter Websites und Softwaresysteme mit modernen Frameworks. Entwicklung von Front-End und Back-End, Smart Contracts, Blockchain, Web3 und DApps. Integration von Unternehmenssystemen wie ERP (z. B. SAP), CRM, LLM-AI, LINE-Chat-App, Machine Learning, E-Commerce-Plattformen und APIs zur Verbesserung der Datenkonnektivität zwischen Abteilungen und zur Förderung von Automatisierung und Zusammenarbeit."
+            description: "Wir bieten umfassende Softwareentwicklung und Integration von Unternehmenssystemen, maßgeschneidert für schnell wachsende Start-ups und digital ausgerichtete Unternehmen. Mithilfe moderner Frameworks entwickeln wir skalierbare Front- und Back-End-Systeme und integrieren zentrale Plattformen wie ERP, SAP, CRM, MES und E-Commerce. Unsere Lösungen fördern den abteilungsübergreifenden Datenfluss und die Automatisierung durch robuste API-Architekturen, WebServices (REST/SOAP) und AI/LLM-Technologien. Von Machine Learning und Smart Contracts bis hin zu Blockchain, Web3 und dezentralen Anwendungen (DApps) ermöglichen wir Innovation auf allen Ebenen. Als strategischer Technologiepartner arbeiten wir eng mit CEOs, CTOs, Product Owners und Gründern zusammen, um die Produktentwicklung zu beschleunigen, Infrastrukturen zu modernisieren und die digitale Transformation voranzutreiben."
         },
         {
             title: "Systemanalyse und Technischer Support",
