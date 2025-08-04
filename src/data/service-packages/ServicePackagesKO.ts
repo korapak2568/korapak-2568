@@ -106,7 +106,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "프리미엄 혁신 플랜",
-                price: "USD 5,900 / month",
+                price: "USD 6,900 / month",
                 schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "PoC, MVP 개발, 시스템 업그레이드 및 확장을 포함한 비블록체인 프로젝트 전용 풀타임 기술 지원.",
                 features: [
