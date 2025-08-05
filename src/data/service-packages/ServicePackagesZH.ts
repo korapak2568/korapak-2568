@@ -9,7 +9,7 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "小型项目计划",
-                price: "USD 299 / 1–3天",
+                price: "USD 300 / 1–3天",
                 schedule: "灵活（按项目计，≤1周）",
                 highlight: "为可在几天内交付的微任务、修复或小功能提供高效解决方案。",
                 features: [
@@ -24,7 +24,7 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "快速交付方案",
-                price: "USD 499 / 1–2周",
+                price: "USD 500 / 1–2周",
                 schedule: "灵活安排（基于项目，约1–2周）",
                 highlight: "专注于小型功能集、系统集成或功能增强的短周期冲刺式服务包，可在数周内交付。",
                 features: [
@@ -59,7 +59,7 @@ export const ServicePackagesZH: IServicePackages = {
         plans: [
             {
                 name: "增长支持计划",
-                price: "USD 1,999 / month",
+                price: "USD 2,000 / month",
                 schedule: "周一至周五，08:30–17:30（共享时间）",
                 highlight: "适合需要持续开发但不需全职投入的成长型企业。",
                 features: [
@@ -73,7 +73,7 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "高级增长计划",
-                price: "USD 2,999 / month",
+                price: "USD 3,000 / month",
                 schedule: "周一至周五，08:30–17:30（共享时间）",
                 highlight: "比成长支持计划更专注开发，适合需要频繁迭代和多方协作的平台。",
                 features: [
@@ -87,7 +87,7 @@ export const ServicePackagesZH: IServicePackages = {
             },
             {
                 name: "区块链先锋计划",
-                price: "USD 3,999 / month",
+                price: "USD 4,000 / month",
                 schedule: "周一至周五，08:30–17:30（共享时间）",
                 highlight: "为Web3、NFT及以太坊产品创新提供入门级区块链支持。",
                 features: [

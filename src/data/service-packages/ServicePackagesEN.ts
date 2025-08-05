@@ -8,7 +8,7 @@ export const ServicePackagesEN: IServicePackages = {
         plans: [
             {
                 name: "Tiny Project Plan",
-                price: "USD 299 / 1-3 days",
+                price: "USD 300 / 1-3 days",
                 schedule: "Flexible (project-based, ≤1 week)",
                 highlight: "Efficient solution for micro-tasks, fixes, or small features deliverable within a few days.",
                 features: [
@@ -23,7 +23,7 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "Quick Delivery Plan",
-                price: "USD 499 / 1–2 weeks",
+                price: "USD 500 / 1–2 weeks",
                 schedule: "Flexible (project-based, ~1–2 weeks)",
                 highlight: "A focused sprint-style package for compact feature sets, integrations, or enhancements delivered within a couple of weeks.",
                 features: [
@@ -58,7 +58,7 @@ export const ServicePackagesEN: IServicePackages = {
         plans: [
             {
                 name: "Growth Support Plan",
-                price: "USD 1,999 / per month",
+                price: "USD 2,000 / per month",
                 schedule: "Mon–Fri, 8:30–17:30 (shared)",
                 highlight: "Ideal for growing teams that require continuous enhancements and technical agility without full-time overhead.",
                 features: [
@@ -72,7 +72,7 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "Advanced Growth Plan",
-                price: "USD 2,999 / per month",
+                price: "USD 3,000 / per month",
                 schedule: "Mon–Fri, 8:30–17:30 (shared)",
                 highlight: "Strategic development partner for high-velocity platforms requiring continuous delivery and deeper stakeholder alignment.",
                 features: [
@@ -86,7 +86,7 @@ export const ServicePackagesEN: IServicePackages = {
             },
             {
                 name: "Blockchain Pioneer Plan",
-                price: "USD 3,999 / per month",
+                price: "USD 4,000 / per month",
                 schedule: "Mon–Fri, 8:30–17:30 (shared full-time)",
                 highlight: "Professional-grade entry into blockchain innovation — ideal for Web3 prototypes, NFT utilities, and Ethereum-based platforms.",
                 features: [

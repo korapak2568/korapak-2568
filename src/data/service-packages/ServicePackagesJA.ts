@@ -9,7 +9,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "ミニプロジェクト・プラン",
-                price: "USD 299 / 1～3日間",
+                price: "USD 300 / 1～3日間",
                 schedule: "柔軟対応（プロジェクトベース、最長1週間）",
                 highlight: "数日以内に納品可能な小規模タスク、バグ修正、またはミニ機能に対する効率的なソリューション。",
                 features: [
@@ -24,7 +24,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "クイックデリバリープラン",
-                price: "USD 499 / 1～2週間",
+                price: "USD 500 / 1～2週間",
                 schedule: "柔軟対応（プロジェクトベース、約1〜2週間）",
                 highlight: "コンパクトな機能セット、統合、または拡張機能に特化したスプリント型パッケージ。数週間以内に納品可能です。",
                 features: [
@@ -59,7 +59,7 @@ export const ServicePackagesJA: IServicePackages = {
         plans: [
             {
                 name: "グロースサポート・プラン",
-                price: "USD 1,999 / 月",
+                price: "USD 2,000 / 月",
                 schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "継続的な開発が必要でありながら、フルタイムのコミットメントを避けたい成長中の企業に最適。",
                 features: [
@@ -73,7 +73,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "アドバンスト・グロース・プラン",
-                price: "USD 2,999 / 月",
+                price: "USD 3,000 / 月",
                 schedule: "月〜金、8:30〜17:30（共有時間）",
                 highlight: "Growth Supportプランよりも強力な開発フォーカスを持ち、頻繁な機能強化とステークホルダーとの協力が必要なプラットフォームに最適。",
                 features: [
@@ -87,7 +87,7 @@ export const ServicePackagesJA: IServicePackages = {
             },
             {
                 name: "ブロックチェーン・パイオニア・プラン",
-                price: "USD 3,999 / 月",
+                price: "USD 4,000 / 月",
                 schedule: "月〜金、8:30〜17:30（フルタイム、共有）",
                 highlight: "Web3、NFT、Ethereumベースの製品イノベーションのためのエントリーレベルのブロックチェーンサポート。",
                 features: [
