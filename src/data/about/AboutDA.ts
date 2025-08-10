@@ -21,7 +21,7 @@ export const AboutDA: IAbout = {
     stacks: [
         {
             title: "Softwareudviklingsteknologi og virksomhedssystemintegration",
-            description: "Vi leverer end-to-end softwareudvikling og enterprise systemintegration skræddersyet til hurtigt voksende startups og digitalt orienterede virksomheder. Med moderne frameworks udvikler vi skalerbare front- og back-end løsninger og integrerer nøglesystemer som ERP, SAP, CRM, MES og e-commerce. Vores løsninger optimerer datadeling og driftsautomatisering via robuste API-arkitekturer, WebServices (REST/SOAP) og AI/LLM-teknologier. Vi anvender machine learning, smart contracts, blockchain, Web3 og decentrale applikationer (DApps) til at accelerere produktleverancer, modernisere infrastruktur og drive digital transformation."
+            description: "Lever end-to-end softwareudvikling og integration af virksomhedssystemer skræddersyet til hurtigt voksende startups og digital-first virksomheder. Ved at udnytte moderne frameworks bygger vi skalerbare Front-end- og Back-end-systemer, samtidig med at vi integrerer kritiske platforme som ERP, SAP-integration, SAP ABAP, CRM, MES og e-handel. Vores løsninger forbedrer tværfunktionel dataflow og driftsautomatisering gennem robust API-arkitektur, WebService (REST/SOAP) og AI-LLM-integration."
         },
         {
             title: "Systemanalyse og Teknisk Support",

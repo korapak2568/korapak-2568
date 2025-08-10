@@ -21,7 +21,7 @@ export const AboutFI: IAbout = {
     stacks: [
         {
             title: "Ohjelmistokehitys ja yritysjärjestelmien integrointi",
-            description: "Tarjoamme end-to-end ohjelmistokehitystä ja yritysjärjestelmien integrointia nopeasti kasvaville startupeille ja digitaalisesti orientoituneille organisaatioille. Hyödyntämällä moderneja kehityskehyksiä rakennamme skaalautuvia front- ja back-end ratkaisuja sekä integroimme kriittiset alustat kuten ERP, SAP, CRM, MES ja verkkokauppa. Ratkaisumme tehostavat tiedonkulkua ja operatiivista automaatiota vahvan API-arkkitehtuurin, WebServicen (REST/SOAP) ja AI/LLM-kyvykkyyksien avulla. Hyödynnämme koneoppimista, älysopimuksia, lohkoketjua, Web3-teknologioita ja hajautettuja sovelluksia (DApps) nopeuttaaksemme tuotekehitystä, modernisoidaksemme infrastruktuuria ja vauhdittaaksemme digitaalista muutosta."
+            description: "Tarjoamme end-to-end-ohjelmistokehitystä ja yritysjärjestelmien integrointia, jotka on räätälöity nopeasti kasvaville startupeille ja digital-first-yrityksille. Hyödyntämällä moderneja kehyksiä rakennamme skaalautuvia Front-end- ja Back-end-järjestelmiä sekä integroimme kriittisiä alustoja, kuten ERP, SAP-integraatio, SAP ABAP, CRM, MES ja verkkokauppa. Ratkaisumme parantavat poikkitoiminnallista tiedonkulkua ja toiminnan automaatiota vahvan API-arkkitehtuurin, WebService (REST/SOAP) ja AI-LLM-integraation avulla."
         },
         {
             title: "Järjestelmäanalyysi ja Tekninen Tuki",
