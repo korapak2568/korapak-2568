@@ -1,4 +1,5 @@
 import {ICloud} from "@/data/cloud/model/ICloud";
+import {IMAGE_PATH} from "@/image/ImageUrl";
 
 export const CloudKO: ICloud = {
     title: "클라우드 경험",
@@ -8,7 +9,7 @@ export const CloudKO: ICloud = {
         {
             title: "AWS",
             description: "클라우드 경험",
-            image: "https://cdn.chorn.in.th/public/cloud/thumbnail/aws.webp",
+            image: IMAGE_PATH + "/cloud/thumbnail/aws.webp",
             alt: "AWS 기술 경험을 나타내는 로고",
             readMore: "AWS 클라우드 솔루션 및 기술 전문성 모델 알아보기",
             link: "/technical-expertise/details",
@@ -16,7 +17,7 @@ export const CloudKO: ICloud = {
         {
             title: "Azure",
             description: "클라우드 경험",
-            image: "https://cdn.chorn.in.th/public/cloud/thumbnail/azure.webp",
+            image: IMAGE_PATH + "/cloud/thumbnail/azure.webp",
             alt: "Azure 기술 경험을 나타내는 로고",
             readMore: "Azure 클라우드 기술 전문성 및 인프라 솔루션 탐색",
             link: "/technical-expertise/details",
@@ -24,7 +25,7 @@ export const CloudKO: ICloud = {
         {
             title: "GCP",
             description: "클라우드 경험",
-            image: "https://cdn.chorn.in.th/public/cloud/thumbnail/gcp.webp",
+            image: IMAGE_PATH + "/cloud/thumbnail/gcp.webp",
             alt: "GCP 기술 경험을 나타내는 로고",
             readMore: "Google Cloud Platform 기술 전문성 모델 알아보기",
             link: "/technical-expertise/details",
@@ -32,7 +33,7 @@ export const CloudKO: ICloud = {
         {
             title: "Cloud",
             description: "Digital Ocean",
-            image: "https://cdn.chorn.in.th/public/cloud/thumbnail/digital-ocean.webp",
+            image: IMAGE_PATH + "/cloud/thumbnail/digital-ocean.webp",
             alt: "DigitalOcean 기술 경험을 나타내는 로고",
             readMore: "개발자를 위한 DigitalOcean 클라우드 솔루션 모델 알아보기",
             link: "/technical-expertise/details",
