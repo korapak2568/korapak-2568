@@ -16,7 +16,7 @@ export const PhpEN: IFullStackStack = {
         },
         {
             title: "Structured Development",
-            description: "Symfony and Laravel offer a structured approach to PHP development, promoting best practices and design patterns. Symfony provides a reusable set of components, while Laravel focuses on developer productivity with its elegant syntax and tools. Twig, the templating engine used in Symfony, provides a flexible, secure, and fast way to design templates. Phalcon, a high-performance framework delivered as a C extension, offers low-level optimization and exceptional speed, ensuring efficient resource management.",
+            description: "Symfony and Laravel offer a structured approach to PHP development, promoting best practices and design patterns. Symfony provides a reusable set of component, while Laravel focuses on developer productivity with its elegant syntax and tools. Twig, the templating engine used in Symfony, provides a flexible, secure, and fast way to design templates. Phalcon, a high-performance framework delivered as a C extension, offers low-level optimization and exceptional speed, ensuring efficient resource management.",
             list: [
                 "Server-side scripting",
                 "Easy to learn",

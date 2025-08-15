@@ -1,0 +1,71 @@
+// src/food/style/desktop/section4.scss
+
+.section4-container {
+  background-color: white;
+  margin: 0 auto;
+}
+
+.section4-header {
+  width: 100%;
+  text-align: left;
+
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-block-end: 10px;
+  }
+}
+
+.section4-body {
+  width: 100%;
+  display: grid;
+
+  @media (max-width: 767px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.section4-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section4-item {
+  position: relative;
+  margin-left: 10px;
+
+  &.first {
+    margin-left: 0;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  .text-box {
+    position: absolute;
+    bottom: -30px;
+    width: 160px;
+    height: 30px;
+    margin: 0 15px 15px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 5px; // For shop-name space
+    border-radius: 4px;
+
+    color: #333333;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2), 0 0 4px rgba(255, 255, 255, 0.2);
+    letter-spacing: 1px;
+  }
+
+  @media (min-width: 1900px) {
+    .text-box {
+      margin: 0 15px 15px 12px;
+    }
+  }
+}

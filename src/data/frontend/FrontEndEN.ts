@@ -36,7 +36,7 @@ export const FrontEndEN: IFrontEnd = {
     services: {
         title: "Front-End Development",
         descriptions: [
-            "Front-end development is the crucial interface between users and digital services, creating the visual elements and interactive components that define user experiences. This essential layer transforms complex backend systems into intuitive, accessible interfaces that engage audiences and drive business growth. Modern frameworks including Next.js, React, Angular, and Vue.js, alongside core web technologies like HTML5 and CSS3, enable high-performance applications that load quickly and respond seamlessly across all devices. Effective front-end solutions increase user engagement, improve conversion rates, and strengthen brand perception through consistent, professional digital experiences that meet both business objectives and user needs."
+            "Front-end development is the crucial interface between users and digital services, creating the visual elements and interactive component that define user experiences. This essential layer transforms complex backend systems into intuitive, accessible interfaces that engage audiences and drive business growth. Modern frameworks including Next.js, React, Angular, and Vue.js, alongside core web technologies like HTML5 and CSS3, enable high-performance applications that load quickly and respond seamlessly across all devices. Effective front-end solutions increase user engagement, improve conversion rates, and strengthen brand perception through consistent, professional digital experiences that meet both business objectives and user needs."
         ],
         items: [
             {

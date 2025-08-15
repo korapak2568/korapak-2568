@@ -1,0 +1,54 @@
+/* src/app/(food)/style/layout-mobile.scss */
+
+.mobile-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: #ffffff;
+  position: relative;
+  padding-bottom: 64px; // leave space for bottom nav
+  font-family: 'JasmineUPC', sans-serif;
+}
+
+.mobile-main {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.mobile-bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 64px;
+  background-color: #ffffff;
+  border-top: 1px solid #e5e7eb; // gray-200
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.05);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 999;
+}
+
+.mobile-bottom-nav button {
+  flex: 1;
+  height: 100%;
+  border: none;
+  background: none;
+  font-size: 11px;
+  color: #374151; // gray-700
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.mobile-bottom-nav button:hover {
+  background-color: #f9fafb; // gray-50
+}
+
+.mobile-bottom-nav svg {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 4px;
+}

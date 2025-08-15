@@ -1,7 +1,6 @@
 // src/app/[locale]/AiBannerFahMain.tsx
 
 import HomeFeatureMain from "../../../components/Features/HomeFeatureMain";
-import AboutContent from "@/components/About/AboutContent";
 import HomeFrontEndContainer from "@/components/Common/HomeFrontEnd/HomeFrontEndContainer";
 import HomeBackEndContainer from "../../../components/Common/HomeBackEnd/HomeBackEndContainer";
 import CloudExperience from "../../../components/Common/CloudExperience";

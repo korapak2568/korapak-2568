@@ -35,7 +35,7 @@ export const FullStackEN: IFullStack = {
         items: [
             {
                 title: "Seamless Front-End & Back-End Integration",
-                description: "Cohesive web applications with perfectly synchronized client and server components delivering speed, security, and scalability."
+                description: "Cohesive web applications with perfectly synchronized client and server component delivering speed, security, and scalability."
             },
             {
                 title: "Comprehensive SEO & Performance Optimization",

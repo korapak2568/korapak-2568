@@ -1,4 +1,4 @@
-// src/components/Counter.tsx
+// src/component/Counter.tsx
 "use client";
 
 import React from 'react';

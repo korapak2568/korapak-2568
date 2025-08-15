@@ -34,7 +34,7 @@ export const GoEN: IFullStackStack = {
         },
         {
             title: "Interoperability",
-            description: "Go's simplicity and clarity make it easy to integrate with other programming languages. This interoperability allows developers to leverage Go's strengths in performance-critical parts of an application while using other languages for different components.",
+            description: "Go's simplicity and clarity make it easy to integrate with other programming languages. This interoperability allows developers to leverage Go's strengths in performance-critical parts of an application while using other languages for different component.",
             list: []
         }
     ],

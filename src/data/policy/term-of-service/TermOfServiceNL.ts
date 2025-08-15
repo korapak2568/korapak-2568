@@ -21,7 +21,7 @@ export const TermOfServiceNL: IPolicy = {
         {
             title: "3. Disclaimer of Warranties",
             description: "3.1 The Website is provided on an \"as is\" and \"as available\" basis. No representations or warranties of any kind, express or implied, are made regarding the operation of the Website or the information, content, or materials included.",
-            expand: "3.2 There is no guarantee that the Website will be uninterrupted, error-free, or free from harmful components."
+            expand: "3.2 There is no guarantee that the Website will be uninterrupted, error-free, or free from harmful component."
         },
         {
             title: "4. Limitation of Liability",

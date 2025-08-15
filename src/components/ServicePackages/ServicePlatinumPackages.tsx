@@ -1,4 +1,4 @@
-// src/components/ServicePackages/ServicePlatinumPackages.tsx
+// src/component/ServicePackages/ServicePlatinumPackages.tsx
 import {FaCrown, FaLightbulb, FaLink, FaImages} from "react-icons/fa";
 import Link from "next/link";
 import React from "react";

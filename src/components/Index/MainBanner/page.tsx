@@ -1,4 +1,4 @@
-// src/components/FooterLogoSocial/HomeWorkspace/AiSolutionMain.tsx
+// src/component/FooterLogoSocial/HomeWorkspace/AiSolutionMain.tsx
 
 import React from "react";
 import AiSolutionLeft from "@/components/AiSolutions/AiSolutionLeft";

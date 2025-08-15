@@ -1,0 +1,25 @@
+/* src/app/(food)/style/globals.scss */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  scroll-behavior: smooth;
+  overscroll-behavior: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+  color: #111827;
+  font-family: 'Inter', sans-serif;
+
+  /* ✅ Removed these */
+  /* position: fixed; */
+  /* overflow: hidden; */
+  /* touch-action: none; */
+}
+
+body {
+  user-select: none;
+  -webkit-user-drag: none;
+}

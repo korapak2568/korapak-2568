@@ -1,0 +1,108 @@
+.section3-container {
+  background-color: white;
+}
+
+.section3-header {
+  width: 100%;
+  text-align: left;
+
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-block-end: 10px;
+  }
+}
+
+.section3-body {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @media (max-width: 767px) {
+    flex-direction: column;
+  }
+}
+
+.section3-left {
+  position: relative;
+  padding: 0 0 0 0;
+  width: 50%;
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .text-box {
+    position: absolute;
+    bottom: 10px;
+    width: 200px;
+    height: 30px;
+    margin: 0 15px 15px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 5px; // For shop-name space
+    border-radius: 4px;
+
+    // Premium style
+    color: #ffffff;
+    background-color: rgba(254, 62, 25, 0.95); // Slightly stronger opacity for richness
+
+    // Soft premium shadow
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    letter-spacing: 1px;
+  }
+}
+
+.section3-right {
+  padding: 10px 0 0 0;
+  width: 50%;
+
+  display: flex;
+  flex-direction: column;
+
+  .section3r-top,
+  .section3r-bottom {
+    position: relative;
+    padding: 0 0 10px 10px;
+
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .text-box {
+      position: absolute;
+      bottom: 175px;
+      width: 180px;
+      height: 30px;
+      margin: 0 15px 15px 10px;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding-top: 5px; // For shop-name space
+      border-radius: 4px;
+
+      // Premium style
+      color: #ffffff;
+      background-color: rgba(254, 62, 25, 0.95); // Slightly stronger opacity for richness
+
+      // Soft premium shadow
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      letter-spacing: 1px;
+    }
+
+    @media (min-width: 1900px) {
+      .text-box {
+        bottom: 160px;
+      }
+    }
+  }
+}

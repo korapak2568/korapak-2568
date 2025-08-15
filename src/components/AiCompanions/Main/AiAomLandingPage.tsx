@@ -1,4 +1,4 @@
-// src/components/AiCompanionTH/Main/AiFahLandingPage.tsx
+// src/component/AiCompanionTH/Main/AiFahLandingPage.tsx
 import React from "react";
 import Image from "next/image";
 import {InfoTranslation} from "@/data/info/main/InfoTranslation";

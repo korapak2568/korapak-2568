@@ -11,7 +11,7 @@ export const ReactEN: IFrontEndStack = {
     features: [
         {
             title: "React Development",
-            description: "React.js is a popular JavaScript library for building user interfaces. It enables developers to create reusable UI components, enhancing development efficiency and application performance.",
+            description: "React.js is a popular JavaScript library for building user interfaces. It enables developers to create reusable UI component, enhancing development efficiency and application performance.",
             list: []
         },
         {
@@ -40,7 +40,7 @@ export const ReactEN: IFrontEndStack = {
         },
         {
             question: "What are React Hooks?",
-            answer: "React Hooks are functions that let you use state and lifecycle features in functional components."
+            answer: "React Hooks are functions that let you use state and lifecycle features in functional component."
         },
         {
             question: "How does the virtual DOM work?",

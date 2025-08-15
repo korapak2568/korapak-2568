@@ -1,4 +1,4 @@
-// src/components/CookieConsentDisplay.tsx
+// src/component/CookieConsentDisplay.tsx
 "use client"
 
 import Link from "next/link";

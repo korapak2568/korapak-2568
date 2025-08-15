@@ -1,4 +1,4 @@
-// src/components/ServicePackages/ServiceGoldPackages.tsx
+// src/component/ServicePackages/ServiceGoldPackages.tsx
 import {FaShieldAlt, FaChartLine, FaCube, FaRocket} from "react-icons/fa";
 import Link from "next/link";
 import React from "react";

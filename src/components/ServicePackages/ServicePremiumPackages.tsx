@@ -1,4 +1,4 @@
-// src/components/ServicePackages/ServicePremiumPackages.tsx
+// src/component/ServicePackages/ServicePremiumPackages.tsx
 import {FaBolt, FaGem, FaImages, FaLightbulb, FaLink, FaShippingFast, FaTools} from "react-icons/fa";
 import Link from "next/link";
 import React from "react";

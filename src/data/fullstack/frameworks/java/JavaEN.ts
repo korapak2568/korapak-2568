@@ -24,7 +24,7 @@ export const JavaEN: IFullStackStack = {
         {
             title: "Spring Boot & Cloud-Native Applications",
             description:
-                "Spring Boot streamlines application development by providing preconfigured components and integrations with cloud platforms. It enables rapid development of REST APIs, microservices, and full-stack solutions.",
+                "Spring Boot streamlines application development by providing preconfigured component and integrations with cloud platforms. It enables rapid development of REST APIs, microservices, and full-stack solutions.",
             list: [
                 "Auto-configuration and dependency management",
                 "Microservice-ready architecture",
