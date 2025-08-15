@@ -1,23 +1,24 @@
 import {IAiDetail} from "@/data/ai/model/IAiDetail";
+import {IMAGE_PATH} from "@/image/ImageUrl";
 
 export const AiAomEnglish: IAiDetail = {
     name: 'Aom',
     category: 'Health LINE Friend',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-aom-thumbnail.webp',
+    thumbnail: IMAGE_PATH + '/ai/ai-companions/ai-aom-thumbnail.webp',
 
     pages: {
         home: {
             link: '/',
             image: {
                 title: 'ออม เพื่อนคุยเอไอ',
-                path: 'https://cdn.chorn.in.th/public/ai/fah/fah-003.png',
+                path: IMAGE_PATH + '/ai/fah/fah-003.png',
             }
         },
         landing: {
             link: '/ai-companions/aom',
             image: {
                 title: 'ออม เพื่อนคุยเอไอ',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-aom-details.png',
+                path: IMAGE_PATH + '/ai/ai-aom-details.png',
             }
         }
     },

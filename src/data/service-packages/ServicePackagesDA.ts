@@ -8,7 +8,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Lille Projektplan",
-                price: "USD 299 / 1–3 dage",
+                price: "USD 300 / 1–3 dage",
                 schedule: "Fleksibel (projektbaseret, ≤1 uge)",
                 highlight: "Effektiv løsning til mikroopgaver, fejlrettelser eller små funktioner med levering på få dage.",
                 features: [
@@ -23,7 +23,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "Hurtig Leveringsplan",
-                price: "USD 499 / 1–2 uger",
+                price: "USD 500 / 1–2 uger",
                 schedule: "Fleksibel (projektbaseret, ~1–2 uger)",
                 highlight: "En fokuseret sprint-baseret pakke til kompakte funktioner, integrationer eller forbedringer leveret inden for få uger.",
                 features: [
@@ -58,7 +58,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Vækstsupportplan",
-                price: "USD 1,999 / måned",
+                price: "USD 2,000 / måned",
                 schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Ideel for voksende teams, der kræver kontinuerlige forbedringer og teknisk fleksibilitet uden fuldtidsomkostninger.",
                 features: [
@@ -72,7 +72,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "Avanceret Vækstplan",
-                price: "USD 2,999 / måned",
+                price: "USD 3,000 / måned",
                 schedule: "Man–Fre, 8:30–17:30 (deltid)",
                 highlight: "Strategisk udviklingspartner for platforme med behov for kontinuerlig levering og tæt interessentsamarbejde.",
                 features: [
@@ -86,7 +86,7 @@ export const ServicePackagesDA: IServicePackages = {
             },
             {
                 name: "Blockchain Pionérplan",
-                price: "USD 3,999 / måned",
+                price: "USD 4,000 / måned",
                 schedule: "Man–Fre, 8:30–17:30 (fuldtid, delt)",
                 highlight: "Professionel indgang til blockchain-innovation — ideel til Web3-prototyper, NFT-værktøjer og Ethereum-baserede platforme.",
                 features: [
@@ -105,7 +105,7 @@ export const ServicePackagesDA: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovationsplan",
-                price: "USD 5,900 / month",
+                price: "USD 6,900 / month",
                 schedule: "Man–Fre, 8:30–17:30 (Fuldtid, dedikeret)",
                 highlight: "Dedikeret support til udvikling uden blockchain – ideel til MVP’er, systemopgraderinger og skalerbare løsninger.",
                 features: [

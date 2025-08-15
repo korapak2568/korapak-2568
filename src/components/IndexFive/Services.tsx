@@ -23,7 +23,7 @@ const Services: React.FC = () => {
                 </div>
 
                 <h3>
-                  <Link href="/technical-expertise/details">Website Development</Link>
+                  <Link href="/images/technical-expertise/details">Website Development</Link>
                 </h3>
 
                 <p>
@@ -31,7 +31,7 @@ const Services: React.FC = () => {
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/technical-expertise/details" className="services-btn">
+                <Link href="/images/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -44,14 +44,14 @@ const Services: React.FC = () => {
                 </div>
 
                 <h3>
-                  <Link href="/technical-expertise/details">Web Design</Link>
+                  <Link href="/images/technical-expertise/details">Web Design</Link>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/technical-expertise/details" className="services-btn">
+                <Link href="/images/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -64,7 +64,7 @@ const Services: React.FC = () => {
                 </div>
 
                 <h3>
-                  <Link href="/technical-expertise/details">Social Media Marketing</Link>
+                  <Link href="/images/technical-expertise/details">Social Media Marketing</Link>
                 </h3>
 
                 <p>
@@ -72,7 +72,7 @@ const Services: React.FC = () => {
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/technical-expertise/details" className="services-btn">
+                <Link href="/images/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -85,7 +85,7 @@ const Services: React.FC = () => {
                 </div>
 
                 <h3>
-                  <Link href="/technical-expertise/details">Content Marketing</Link>
+                  <Link href="/images/technical-expertise/details">Content Marketing</Link>
                 </h3>
 
                 <p>
@@ -93,7 +93,7 @@ const Services: React.FC = () => {
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/technical-expertise/details" className="services-btn">
+                <Link href="/images/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -106,7 +106,7 @@ const Services: React.FC = () => {
                 </div>
 
                 <h3>
-                  <Link href="/technical-expertise/details">Digital Media & PPC</Link>
+                  <Link href="/images/technical-expertise/details">Digital Media & PPC</Link>
                 </h3>
 
                 <p>
@@ -114,7 +114,7 @@ const Services: React.FC = () => {
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/technical-expertise/details" className="services-btn">
+                <Link href="/images/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>
@@ -127,7 +127,7 @@ const Services: React.FC = () => {
                 </div>
 
                 <h3>
-                  <Link href="/technical-expertise/details">Technology</Link>
+                  <Link href="/images/technical-expertise/details">Technology</Link>
                 </h3>
 
                 <p>
@@ -135,7 +135,7 @@ const Services: React.FC = () => {
                   do eiusmod tempor incutu labore et dolore magna aliqua.
                 </p>
 
-                <Link href="/technical-expertise/details" className="services-btn">
+                <Link href="/images/technical-expertise/details" className="services-btn">
                   Read More <i className="bx bx-chevrons-right"></i>
                 </Link>
               </div>

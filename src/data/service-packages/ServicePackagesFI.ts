@@ -9,7 +9,7 @@ export const ServicePackagesFI: IServicePackages = {
         plans: [
             {
                 name: "Pieni projektipaketti",
-                price: "USD 299 / 1–3 päivää",
+                price: "USD 300 / 1–3 päivää",
                 schedule: "Joustava (projektipohjainen, ≤1 viikko)",
                 highlight: "Tehokas ratkaisu mikrotehtäville, korjauksille tai pienille ominaisuuksille, jotka voidaan toimittaa muutamassa päivässä.",
                 features: [
@@ -24,7 +24,7 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Nopea Toimitussuunnitelma",
-                price: "USD 499 / 1–2 viikkoa",
+                price: "USD 500 / 1–2 viikkoa",
                 schedule: "Joustava (projektiluontoinen, ~1–2 viikkoa)",
                 highlight: "Sprinttimäinen paketti kompakteille ominaisuuksille, integraatioille tai parannuksille – toimitus muutamassa viikossa.",
                 features: [
@@ -59,7 +59,7 @@ export const ServicePackagesFI: IServicePackages = {
         plans: [
             {
                 name: "Kasvutukipaketti",
-                price: "USD 1,999 / kuukausi",
+                price: "USD 2,000 / kuukausi",
                 schedule: "Ma–Pe, 8:30–17:30 (jaettu aika)",
                 highlight: "Sopii kasvaville yrityksille, jotka tarvitsevat jatkuvaa kehitystä ilman kokoaikaista sitoutumista.",
                 features: [
@@ -73,7 +73,7 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Edistynyt kasvupaketti",
-                price: "USD 2,999 / kuukausi",
+                price: "USD 3,000 / kuukausi",
                 schedule: "Ma–Pe, 8:30–17:30 (jaettu aika)",
                 highlight: "Vahvempi kehitysfokus kuin Growth Support -paketissa, ihanteellinen alustoille, jotka tarvitsevat usein päivityksiä ja tiivistä yhteistyötä sidosryhmien kanssa.",
                 features: [
@@ -87,7 +87,7 @@ export const ServicePackagesFI: IServicePackages = {
             },
             {
                 name: "Blockchain-aloituspaketti",
-                price: "USD 3,999 / kuukausi",
+                price: "USD 4,000 / kuukausi",
                 schedule: "Ma–Pe, 8:30–17:30 (koko päivä, jaettu aika)",
                 highlight: "Aloitustason blockchain-tuki Web3-, NFT- ja Ethereum-pohjaisten tuoteinnovaatioiden kehittämiseen.",
                 features: [
@@ -106,7 +106,7 @@ export const ServicePackagesFI: IServicePackages = {
         plans: [
             {
                 name: "Premium-innovaatiopaketti",
-                price: "USD 5,900 / month",
+                price: "USD 6,900 / month",
                 schedule: "Ma–Pe, 8:30–17:30 (Kokoaikainen, omistautunut)",
                 highlight: "Omistautunut tuki ei-blockchain-projekteille – ihanteellinen MVP:ille, järjestelmäpäivityksille ja skaalautuville ratkaisuille.",
                 features: [

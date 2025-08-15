@@ -9,7 +9,7 @@ export const ServicePackagesFR: IServicePackages = {
         plans: [
             {
                 name: "Plan de Petit Projet",
-                price: "USD 299 / 1–3 jours",
+                price: "USD 300 / 1–3 jours",
                 schedule: "Flexible (par projet, ≤1 semaine)",
                 highlight: "Solution efficace pour les micro-tâches, corrections ou petites fonctionnalités livrables en quelques jours.",
                 features: [
@@ -24,7 +24,7 @@ export const ServicePackagesFR: IServicePackages = {
             },
             {
                 name: "Plan de Livraison Rapide",
-                price: "USD 499 / 1–2 semaines",
+                price: "USD 500 / 1–2 semaines",
                 schedule: "Flexible (par projet, ~1–2 semaines)",
                 highlight: "Un package de type sprint, ciblé sur des ensembles de fonctionnalités compacts, des intégrations ou des améliorations livrées en quelques semaines.",
                 features: [
@@ -59,7 +59,7 @@ export const ServicePackagesFR: IServicePackages = {
         plans: [
             {
                 name: "Plan de Soutien à la Croissance",
-                price: "USD 1,999 / mois",
+                price: "USD 2,000 / mois",
                 schedule: "Lun–Ven, 8h30–17h30 (temps partagé)",
                 highlight: "Idéal pour les équipes en phase de croissance nécessitant des améliorations continues et une flexibilité technique sans coût à temps plein.",
                 features: [
@@ -73,7 +73,7 @@ export const ServicePackagesFR: IServicePackages = {
             },
             {
                 name: "Plan de Croissance Avancée",
-                price: "USD 2,999 / mois",
+                price: "USD 3,000 / mois",
                 schedule: "Lun–Ven, 8h30–17h30 (temps partagé)",
                 highlight: "Partenaire technique stratégique pour des plateformes en pleine évolution avec des livraisons fréquentes et une collaboration rapprochée avec les parties prenantes.",
                 features: [
@@ -87,7 +87,7 @@ export const ServicePackagesFR: IServicePackages = {
             },
             {
                 name: "Plan Pionnier Blockchain",
-                price: "USD 3,999 / mois",
+                price: "USD 4,000 / mois",
                 schedule: "Lun–Ven, 8h30–17h30 (temps plein partagé)",
                 highlight: "Accès professionnel au développement Web3 — idéal pour les prototypes blockchain, utilitaires NFT et plateformes basées sur Ethereum.",
                 features: [
@@ -106,7 +106,7 @@ export const ServicePackagesFR: IServicePackages = {
         plans: [
             {
                 name: "Plan d’Innovation Premium",
-                price: "USD 5,900 / month",
+                price: "USD 6,900 / month",
                 schedule: "Lun–Ven, 8h30–17h30 (Temps plein, dédié)",
                 highlight: "Support exclusif pour les projets non-blockchain – MVP, refonte système, scalabilité.",
                 features: [

@@ -9,7 +9,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Klein Projectplan",
-                price: "USD 299 / 1–3 dagen",
+                price: "USD 300 / 1–3 dagen",
                 schedule: "Flexibel (per project, ≤1 week)",
                 highlight: "Efficiënte oplossing voor microtaken, fixes of kleine functies die binnen enkele dagen geleverd kunnen worden.",
                 features: [
@@ -24,7 +24,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Snelle Leveringsplan",
-                price: "USD 499 / 1–2 weken",
+                price: "USD 500 / 1–2 weken",
                 schedule: "Flexibel (projectgebaseerd, ~1–2 weken)",
                 highlight: "Een sprintgericht pakket voor compacte functiesets, integraties of verbeteringen, geleverd binnen enkele weken.",
                 features: [
@@ -59,7 +59,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Groei Ondersteuningsplan",
-                price: "USD 1,999 / month",
+                price: "USD 2,000 / month",
                 schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Voor groeiende bedrijven die continue ontwikkeling nodig hebben zonder fulltime inzet.",
                 features: [
@@ -73,7 +73,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Geavanceerd Groeiplan",
-                price: "USD 2,999 / month",
+                price: "USD 3,000 / month",
                 schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Meer ontwikkelingsfocus dan Growth Support, ideaal voor platforms die frequente verbeteringen en nauwe samenwerking met stakeholders nodig hebben.",
                 features: [
@@ -87,7 +87,7 @@ export const ServicePackagesNL: IServicePackages = {
             },
             {
                 name: "Blockchain Pioniersplan",
-                price: "USD 3,999 / month",
+                price: "USD 4,000 / month",
                 schedule: "Ma–Vr, 08:30–17:30 (gedeeld)",
                 highlight: "Instapniveau blockchain ondersteuning voor Web3, NFT’s en Ethereum-productinnovatie.",
                 features: [
@@ -106,7 +106,7 @@ export const ServicePackagesNL: IServicePackages = {
         plans: [
             {
                 name: "Premium Innovatieplan",
-                price: "USD 5,900 / month",
+                price: "USD 6,900 / month",
                 schedule: "Ma–Vr, 8:30–17:30 (Fulltime, toegewijd)",
                 highlight: "Exclusieve fulltime ondersteuning voor niet-blockchain projecten zoals MVP’s, systeemverbeteringen en schaalvergroting.",
                 features: [

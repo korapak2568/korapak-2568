@@ -21,7 +21,7 @@ export const AboutFR: IAbout = {
     stacks: [
         {
             title: "Développement logiciel et intégration de systèmes d'entreprise",
-            description: "Développement de sites web et de systèmes logiciels personnalisés en utilisant des frameworks modernes. Développement du front-end et du back-end, contrats intelligents, blockchain, Web3 et DApp. Intégration de systèmes d'entreprise tels que ERP (par exemple SAP), CRM, LLM-AI, application LINE Chat, Machine Learning, plateformes e-commerce et API, afin d'améliorer la connectivité des données entre les départements, permettant l'automatisation et la collaboration."
+            description: "Fournir un développement logiciel de bout en bout et une intégration des systèmes d’entreprise, adaptés aux start-ups en forte croissance et aux entreprises digital-first. En exploitant des frameworks modernes, nous construisons des systèmes Front-end et Back-end évolutifs tout en intégrant des plateformes critiques telles que ERP, intégration SAP, SAP ABAP, CRM, MES et e-commerce. Nos solutions améliorent le flux de données interfonctionnel et l’automatisation opérationnelle grâce à une architecture API robuste, WebService (REST/SOAP) et intégration AI-LLM."
         },
         {
             title: "Analyse de Système et Support Technique",

@@ -21,7 +21,7 @@ export const AboutKO: IAbout = {
     stacks: [
         {
             title: "소프트웨어 개발 및 기업 시스템 통합",
-            description: "최신 프레임워크를 활용한 맞춤형 웹사이트 및 소프트웨어 시스템 개발. 프론트엔드 및 백엔드, 스마트 계약, 블록체인, Web3, DApp 개발. ERP(예: SAP), CRM, LLM-AI, LINE 채팅 앱, 머신러닝, 전자상거래 플랫폼, API 등과 같은 엔터프라이즈 시스템 통합을 통해 부서 간 데이터 연결을 강화하고 자동화 및 협업을 실현합니다."
+            description: "급성장하는 스타트업과 디지털 퍼스트 기업을 위해 맞춤형 엔드투엔드 소프트웨어 개발 및 엔터프라이즈 시스템 통합을 제공합니다. 최신 프레임워크를 활용하여 확장 가능한 Front-end 및 Back-end 시스템을 구축하고, ERP, SAP integration, SAP ABAP, CRM, MES, e-commerce와 같은 핵심 플랫폼을 통합합니다. 당사의 솔루션은 견고한 API 아키텍처, WebService (REST/SOAP), AI-LLM 통합을 통해 부서 간 데이터 흐름과 운영 자동화를 향상시킵니다."
         },
         {
             title: "시스템 분석 및 기술 지원",

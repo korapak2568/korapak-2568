@@ -9,7 +9,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "소규모 프로젝트 플랜",
-                price: "USD 299 / 1~3일",
+                price: "USD 300 / 1~3일",
                 schedule: "유연함 (프로젝트 기반, ≤1주)",
                 highlight: "수일 내 납품 가능한 마이크로 작업, 버그 수정 또는 소규모 기능에 적합한 효율적인 솔루션.",
                 features: [
@@ -24,7 +24,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "빠른 제공 계획",
-                price: "USD 499 / 1–2주",
+                price: "USD 500 / 1–2주",
                 schedule: "유연한 일정 (프로젝트 기반, 약 1–2주)",
                 highlight: "소규모 기능, 통합 또는 향상 작업을 몇 주 내에 제공하는 스프린트 스타일의 집중 패키지입니다.",
                 features: [
@@ -59,7 +59,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "성장 지원 플랜",
-                price: "USD 1,999 / 월",
+                price: "USD 2,000 / 월",
                 schedule: "월–금, 08:30–17:30 (시간 공유)",
                 highlight: "지속적인 개선과 적절한 개발 속도가 필요한 성장 단계의 팀에게 적합한 중간 수준의 개발 지원 패키지입니다.",
                 features: [
@@ -73,7 +73,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "고급 성장 플랜",
-                price: "USD 2,999 / 월",
+                price: "USD 3,000 / 월",
                 schedule: "월–금, 08:30–17:30 (시간 공유)",
                 highlight: "자주 업데이트가 필요한 서비스 또는 복잡한 사용자 흐름을 다루는 프로젝트에 최적화된 고급 성장 플랜입니다.",
                 features: [
@@ -87,7 +87,7 @@ export const ServicePackagesKO: IServicePackages = {
             },
             {
                 name: "블록체인 개척자 플랜",
-                price: "USD 3,999 / 월",
+                price: "USD 4,000 / 월",
                 schedule: "월–금, 08:30–17:30 (풀타임, 시간 공유)",
                 highlight: "Web3, NFT, Ethereum 기반 프로젝트를 처음 시작하거나 실험하는 팀을 위한 블록체인 입문 패키지입니다.",
                 features: [
@@ -106,7 +106,7 @@ export const ServicePackagesKO: IServicePackages = {
         plans: [
             {
                 name: "프리미엄 혁신 플랜",
-                price: "USD 5,900 / month",
+                price: "USD 6,900 / month",
                 schedule: "월–금, 오전 8:30 – 오후 5:30 (전담 풀타임)",
                 highlight: "PoC, MVP 개발, 시스템 업그레이드 및 확장을 포함한 비블록체인 프로젝트 전용 풀타임 기술 지원.",
                 features: [
