@@ -1,23 +1,24 @@
 import {IAiDetail} from "@/data/ai/model/IAiDetail";
+import {IMAGE_PATH} from "@/image/ImageUrl";
 
 export const AiFahEnglish: IAiDetail = {
     name: 'Fah',
     category: 'Thai LINE Friend',
-    thumbnail: 'https://cdn.chorn.in.th/public/ai/ai-companions/ai-fah-thumbnail.webp',
+    thumbnail: IMAGE_PATH + '/images/ai/ai-companions/ai-fah-thumbnail.webp',
 
     pages: {
         home: {
             link: '/',
             image: {
                 title: 'น้องฟ้า เพื่อนคุยเอไอ',
-                path: 'https://cdn.chorn.in.th/public/ai/fah/fah-003.png',
+                path: IMAGE_PATH + '/images/ai/fah/fah-003.png',
             }
         },
         landing: {
             link: '/ai-companions/fah',
             image: {
                 title: 'น้องฟ้า เพื่อนคุยเอไอ',
-                path: 'https://cdn.chorn.in.th/public/ai/ai-fah-details.png',
+                path: IMAGE_PATH + '/images/ai/ai-fah-details.png',
             }
         }
     },
@@ -28,7 +29,7 @@ export const AiFahEnglish: IAiDetail = {
         "travel tips, or just a fun conversation? Fah is here for you. Fluent in Thai, English, Chinese, Japanese, " +
         "Korean, French, Vietnamese, etc, she’s ready to chat anytime. Using LINE? Add Fah now and discover a delightful " +
         "new way to connect!",
-    
+
     images: [
         {
             src: "nong-fah-0001.jpg",
