@@ -11,6 +11,13 @@ export function IsActiveNavbar1(pathname: string, lang: string, navbar1: INavbar
         return navbar1.group == group2
     }
 
+    if (navbar1.activeLinks) {
+        const isActive = navbar1.activeLinks.some(link => pathname.includes(link));
+        if (isActive) {
+            return true
+        }
+    }
+
     const link = '/' + lang + navbar1.link
     return pathname == link
 }

@@ -13,8 +13,8 @@ export const NavbarEN: INavbar[] = [
         submenu: [],
     },
     {
-        group: "/technical-expertise/",
-        label: "Technical Expertise",
+        group: "/web-development/",
+        label: "Web Development",
         level: 1,
         link: "/technical-expertise/web-development/",
         isSubmenu: true,
@@ -115,10 +115,15 @@ export const NavbarEN: INavbar[] = [
         submenu: [],
     },
     {
-        group: "/service-packages/",
-        label: "Service Packages",
+        group: "/programming-frameworks/",
+        label: "Programming & Frameworks",
         level: 1,
-        link: "/service-packages/",
+        link: "/technical-expertise/front-end-developer/nextjs-developer/",
+        activeLinks: [
+            "/technical-expertise/front-end-developer/",
+            "/technical-expertise/full-stack-developer/",
+            "/technical-expertise/cloud-devops/"
+        ],
         isSubmenu: false,
         submenu: [],
     },

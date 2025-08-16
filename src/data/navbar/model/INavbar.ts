@@ -4,6 +4,7 @@ export interface INavbar {
     level: number;
     image?: string
     link: string;
+    activeLinks?: string[];
     isSeparated?: boolean;
     isSubmenu: boolean;
     isFrontend?: boolean;
