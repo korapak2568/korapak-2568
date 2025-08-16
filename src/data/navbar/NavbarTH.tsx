@@ -115,10 +115,15 @@ export const NavbarTH: INavbar[] = [
         submenu: [],
     },
     {
-        group: "/service-packages/",
-        label: "แพ็กเกจบริการ",
+        group: "/programming-frameworks/",
+        label: "การเขียนโปรแกรมและเฟรมเวิร์ก",
         level: 1,
-        link: "/service-packages/",
+        link: "/technical-expertise/front-end-developer/nextjs-developer/",
+        activeLinks: [
+            "/technical-expertise/front-end-developer/",
+            "/technical-expertise/full-stack-developer/",
+            "/technical-expertise/cloud-devops/"
+        ],
         isSubmenu: false,
         submenu: [],
     },

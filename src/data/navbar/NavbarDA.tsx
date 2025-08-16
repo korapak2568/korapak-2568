@@ -115,10 +115,15 @@ export const NavbarDA: INavbar[] = [
         submenu: [],
     },
     {
-        group: "/service-packages/",
-        label: "Servicepakker",
+        group: "/programming-frameworks/",
+        label: "Programmering og frameworks",
         level: 1,
-        link: "/service-packages/",
+        link: "/technical-expertise/front-end-developer/nextjs-developer/",
+        activeLinks: [
+            "/technical-expertise/front-end-developer/",
+            "/technical-expertise/full-stack-developer/",
+            "/technical-expertise/cloud-devops/"
+        ],
         isSubmenu: false,
         submenu: [],
     },

@@ -7,16 +7,16 @@ import SideMenu from "@/food/component/desktop/sidemenu/SideMenu";
 export default async function Page() {
     return (
         <>
-            <TopMenu/>
-            <div className="middle-content">
-                <div className="middle-left">
-                    <Suggest3/>
-                    <Suggest4/>
-                </div>
-                <div className="middle-right">
-                    <SideMenu/>
-                </div>
-            </div>
+            {/*<TopMenu/>*/}
+            {/*<div className="middle-content">*/}
+            {/*    <div className="middle-left">*/}
+            {/*        <Suggest3/>*/}
+            {/*        <Suggest4/>*/}
+            {/*    </div>*/}
+            {/*    <div className="middle-right">*/}
+            {/*        <SideMenu/>*/}
+            {/*    </div>*/}
+            {/*</div>*/}
         </>
     )
 }
