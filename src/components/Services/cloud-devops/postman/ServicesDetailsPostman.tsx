@@ -60,9 +60,9 @@ export default function ServicesDetailsPostman({lang}: { lang: string }) {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarDevOps lang={lang}/>
-                            <SidebarFullStack lang={lang}/>
                             <SidebarFrontEnd lang={lang}/>
+                            <SidebarFullStack lang={lang}/>
+                            <SidebarDevOps lang={lang}/>
                         </div>
                     </div>
                 </div>

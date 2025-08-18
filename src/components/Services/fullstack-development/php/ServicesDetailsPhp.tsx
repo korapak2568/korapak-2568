@@ -62,8 +62,8 @@ export default function ServicesDetailsPhp({lang}: { lang: string }) {
                         </div>
 
                         <div className="col-lg-4 col-md-12">
-                            <SidebarFullStack lang={lang}/>
                             <SidebarFrontEnd lang={lang}/>
+                            <SidebarFullStack lang={lang}/>
                             <SidebarDevOps lang={lang}/>
                         </div>
                     </div>
