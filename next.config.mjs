@@ -18,11 +18,12 @@ async function redirectIncorrectPublic() {
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     trailingSlash: true, basePath: '', // Add the base path if your app is hosted in a subpath
-    images: {
-        unoptimized: true, remotePatterns: [{
-            protocol: 'https', hostname: 'cdn.chorn.in.th', pathname: '/**',
-        },], minimumCacheTTL: 31536000,
-    },
+
+    // images: {
+    //     unoptimized: true, remotePatterns: [{
+    //         protocol: 'https', hostname: 'cdn.chorn.in.th', pathname: '/**',
+    //     },], minimumCacheTTL: 31536000,
+    // },
 
     async headers() {
         return [{
@@ -32,19 +33,10 @@ const nextConfig = {
         }]
     },
 
-    async rewrites() {
+    // async rewrites() {
         // ****
         // Use rewrite for OpenGraph images only
         // ****
-
-        // Temporary Path for Internal Images
-        return [
-            {
-                source: '/chorn-images/:path*', destination: 'https://cdn.chorn.in.th/public/:path*'
-            }, {
-                source: '/obsolete-images/:path*', destination: 'https://cdn.chorn.in.th/obsolete/:path*'
-            }
-        ];
 
         // Backup for DigitalOcean Space Images
         // return [{
@@ -59,7 +51,7 @@ const nextConfig = {
         // }, {
         //     source: '/obsolete-images/:path*', destination: 'https://cdn.chorn.in.th/obsolete/:path*'
         // },];
-    },
+    // },
 
     async redirects() {
         return [{
