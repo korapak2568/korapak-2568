@@ -9,6 +9,10 @@ import {
 import SmartMobilityActions from "../SmartMobilityActions";
 import BottomChiangMai from "./BottomChiangMai";
 import RightChiangMai from "./RightChiangMai";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 function getPrimaryContent(content: SmartMobilityChiangMaiContentPayload) {
   return content.primaryContent as ISmartSection | ISmartRoute | IVertiport;
@@ -91,8 +95,14 @@ export default function MainChiangMai({
             <div className="portfolio-details-image neo-image-container">
               {primaryContent.media?.image_url ? (
                 <Image
-                  src={primaryContent.media.image_url}
-                  alt="portfolio"
+                  src={getPlatformImageSrc(
+                    { image_url: primaryContent.media.image_url, alt: primaryContent.title },
+                    "desktop",
+                  )}
+                  alt={getPlatformImageAlt(
+                    { image_url: primaryContent.media.image_url, alt: primaryContent.title },
+                    "desktop",
+                  )}
                   width={1000}
                   height={600}
                 />

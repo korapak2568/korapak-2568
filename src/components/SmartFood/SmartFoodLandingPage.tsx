@@ -3,6 +3,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ISmartFoodAiContent } from "@/lib/model/ISmartFoodAiContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 import {usePlatformSmartFoodContent} from "@/lib/platform-content/usePlatformSmartFoodContent";
 
 export default function SmartFoodLandingPage({
@@ -48,8 +52,8 @@ export default function SmartFoodLandingPage({
               aria-label={smartFoodContent.hero.visual.ariaLabel}
             >
               <Image
-                src={smartFoodContent.hero.visual.src}
-                alt={smartFoodContent.hero.visual.alt}
+                src={getPlatformImageSrc(smartFoodContent.hero.visual, "desktop")}
+                alt={getPlatformImageAlt(smartFoodContent.hero.visual, "desktop")}
                 width={1200}
                 height={800}
                 priority
@@ -78,8 +82,8 @@ export default function SmartFoodLandingPage({
 
             <div className="smart-food-ai-section-heading__right">
               <Image
-                src={smartFoodContent.proof.image.src}
-                alt={smartFoodContent.proof.image.alt}
+                src={getPlatformImageSrc(smartFoodContent.proof.image, "desktop")}
+                alt={getPlatformImageAlt(smartFoodContent.proof.image, "desktop")}
                 width={900}
                 height={760}
                 sizes="(max-width: 991px) 100vw, 42vw"
@@ -114,8 +118,8 @@ export default function SmartFoodLandingPage({
               >
                 <div className="smart-food-ai-workflow__image">
                   <Image
-                    src={step.image.src}
-                    alt={step.image.alt}
+                    src={getPlatformImageSrc(step.image, "thumbnail")}
+                    alt={getPlatformImageAlt(step.image, "thumbnail")}
                     width={760}
                     height={1200}
                     sizes="(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw"

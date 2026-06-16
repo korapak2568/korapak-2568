@@ -7,10 +7,11 @@ import type {
   PlatformOutfitSet,
   ResolvedPlatformOutfitContent,
 } from "@/lib/platform-content/styleContent";
+import { getPlatformOutfitLocalizedText } from "@/lib/platform-content/styleContent";
 import {
-  getPlatformOutfitExampleImagePath,
-  getPlatformOutfitLocalizedText,
-} from "@/lib/platform-content/styleContent";
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 import {usePlatformStyleContent} from "@/lib/platform-content/usePlatformStyleContent";
 
 function getLocalizedAnchor(lang: string, id: string): string {
@@ -30,8 +31,8 @@ function HeroImage({
 }) {
   return (
     <Image
-      src={image.src}
-      alt={image.alt}
+      src={getPlatformImageSrc(image, "desktop")}
+      alt={getPlatformImageAlt(image, "desktop")}
       fill
       priority={priority}
       sizes={image.sizes}
@@ -49,10 +50,8 @@ function OutfitImage({
 }) {
   return (
     <Image
-      src={getPlatformOutfitExampleImagePath(outfitSet)}
-      alt={
-        outfitSet.image?.alt ?? getPlatformOutfitLocalizedText(outfitSet.title)
-      }
+      src={getPlatformImageSrc(outfitSet.image, "thumbnail")}
+      alt={getPlatformImageAlt(outfitSet.image, "thumbnail")}
       fill
       sizes={sizes}
       style={{ objectFit: "cover", objectPosition: "50% 18%" }}

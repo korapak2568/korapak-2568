@@ -1,11 +1,18 @@
+import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
+
+export interface ISmartCityResponsiveImage {
+    url: string;
+    alt: string;
+    mobile?: PlatformResponsiveImageVariant;
+    thumbnail?: PlatformResponsiveImageVariant;
+    desktop?: PlatformResponsiveImageVariant;
+}
+
 export interface IHeroSection {
     headline: string;
     paragraph: string;
     softTexts: ISoftText[];
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
     purpose: string;
     narrativeRole: string;
     section: string;
@@ -36,10 +43,7 @@ export interface IHumanDailyFlow {
 export interface IDailyFlow {
     title: string;
     paragraph: string;
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
     category: string;
     signalFocus?: string[];
     landingUrl: string;
@@ -61,10 +65,7 @@ export interface ILocalToGlobal {
 export interface IItem {
     title: string;
     description: string;
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
     signalFocus: string[];
 }
 
@@ -77,10 +78,7 @@ export interface ISystemExplainers {
 export interface ISystem {
     title: string;
     description: string;
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
 }
 
 export interface IMobilityFocus {
@@ -92,10 +90,7 @@ export interface IMobilityFocus {
 export interface ISignal {
     title: string;
     description: string;
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
     signalFocus: string[];
     landingUrl: string;
 }
@@ -109,10 +104,7 @@ export interface ICitySystems {
 export interface ICitySystemItem {
     title: string;
     description: string;
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
     balanceSignals: string[];
     landingUrl: string;
 }
@@ -126,10 +118,7 @@ export interface IGlobalPatterns {
 export interface IGlobalPatternSignal {
     title: string;
     description: string;
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
     signalFocus: string[];
     landingUrl: string;
 }
@@ -144,10 +133,7 @@ export interface IUrbanSignal {
     title: string;
     description: string;
     signalFocus: string[];
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
     landingUrl: string;
 }
 
@@ -160,9 +146,6 @@ export interface IEditorialPositioning {
 export interface IEditorialPrinciple {
     title: string;
     description: string;
-    image: {
-        url: string;
-        alt: string;
-    };
+    image: ISmartCityResponsiveImage;
     landingUrl: string;
 }

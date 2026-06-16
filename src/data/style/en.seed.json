@@ -38,6 +38,27 @@
             "height": 2560,
             "aspectRatio": "9:16",
             "positionKey": "hero.primary"
+          },
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set1.webp",
+            "alt": "Rice Valley Couple Lanna",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set1.webp",
+            "alt": "Rice Valley Couple Lanna",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set1.webp",
+            "alt": "Rice Valley Couple Lanna",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
           }
         },
         {
@@ -50,6 +71,27 @@
             "height": 1920,
             "aspectRatio": "9:16",
             "positionKey": "hero.secondary"
+          },
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set2.webp",
+            "alt": "Coastal Resort Floral",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set2.webp",
+            "alt": "Coastal Resort Floral",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set2.webp",
+            "alt": "Coastal Resort Floral",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
           }
         },
         {
@@ -62,6 +104,27 @@
             "height": 1920,
             "aspectRatio": "9:16",
             "positionKey": "hero.tertiary"
+          },
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set3.webp",
+            "alt": "Waterfall Citrus Travel",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set3.webp",
+            "alt": "Waterfall Citrus Travel",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set3.webp",
+            "alt": "Waterfall Citrus Travel",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
           }
         }
       ]
@@ -206,7 +269,28 @@
       },
       "image": {
         "src": "/images-platform/styles/01-rice-valley-couple-lanna.png",
-        "alt": "Rice Valley Couple Lanna"
+        "alt": "Rice Valley Couple Lanna",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/01-rice-valley-couple-lanna.webp",
+          "alt": "Rice Valley Couple Lanna",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/01-rice-valley-couple-lanna.webp",
+          "alt": "Rice Valley Couple Lanna",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/01-rice-valley-couple-lanna.webp",
+          "alt": "Rice Valley Couple Lanna",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Golden Rice Valley",
@@ -223,7 +307,28 @@
           },
           "image": {
             "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
-            "alt": "Rice Valley Couple Lanna 1"
+            "alt": "Rice Valley Couple Lanna 1",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
+              "alt": "Rice Valley Couple Lanna 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
+              "alt": "Rice Valley Couple Lanna 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
+              "alt": "Rice Valley Couple Lanna 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -235,7 +340,28 @@
           },
           "image": {
             "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
-            "alt": "Rice Valley Couple Lanna 2"
+            "alt": "Rice Valley Couple Lanna 2",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
+              "alt": "Rice Valley Couple Lanna 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
+              "alt": "Rice Valley Couple Lanna 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
+              "alt": "Rice Valley Couple Lanna 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -247,7 +373,28 @@
           },
           "image": {
             "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
-            "alt": "Rice Valley Couple Lanna 3"
+            "alt": "Rice Valley Couple Lanna 3",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
+              "alt": "Rice Valley Couple Lanna 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
+              "alt": "Rice Valley Couple Lanna 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
+              "alt": "Rice Valley Couple Lanna 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -259,7 +406,28 @@
           },
           "image": {
             "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
-            "alt": "Rice Valley Couple Lanna 4"
+            "alt": "Rice Valley Couple Lanna 4",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
+              "alt": "Rice Valley Couple Lanna 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
+              "alt": "Rice Valley Couple Lanna 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
+              "alt": "Rice Valley Couple Lanna 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -292,7 +460,28 @@
       },
       "image": {
         "src": "/images-platform/styles/02-coastal-resort-floral.png",
-        "alt": "Coastal Resort Floral"
+        "alt": "Coastal Resort Floral",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+          "alt": "Coastal Resort Floral",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+          "alt": "Coastal Resort Floral",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+          "alt": "Coastal Resort Floral",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Coastal",
@@ -308,7 +497,28 @@
           },
           "image": {
             "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
-            "alt": "Coastal Resort Floral 1"
+            "alt": "Coastal Resort Floral 1",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
+              "alt": "Coastal Resort Floral 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
+              "alt": "Coastal Resort Floral 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
+              "alt": "Coastal Resort Floral 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -320,7 +530,28 @@
           },
           "image": {
             "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
-            "alt": "Coastal Resort Floral 2"
+            "alt": "Coastal Resort Floral 2",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
+              "alt": "Coastal Resort Floral 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
+              "alt": "Coastal Resort Floral 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
+              "alt": "Coastal Resort Floral 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -332,7 +563,28 @@
           },
           "image": {
             "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
-            "alt": "Coastal Resort Floral 3"
+            "alt": "Coastal Resort Floral 3",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
+              "alt": "Coastal Resort Floral 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
+              "alt": "Coastal Resort Floral 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
+              "alt": "Coastal Resort Floral 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -344,7 +596,28 @@
           },
           "image": {
             "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
-            "alt": "Coastal Resort Floral 4"
+            "alt": "Coastal Resort Floral 4",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
+              "alt": "Coastal Resort Floral 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
+              "alt": "Coastal Resort Floral 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
+              "alt": "Coastal Resort Floral 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -378,7 +651,28 @@
       },
       "image": {
         "src": "/images-platform/styles/03-waterfall-citrus-travel.png",
-        "alt": "Waterfall Citrus Travel"
+        "alt": "Waterfall Citrus Travel",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/03-waterfall-citrus-travel.webp",
+          "alt": "Waterfall Citrus Travel",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/03-waterfall-citrus-travel.webp",
+          "alt": "Waterfall Citrus Travel",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/03-waterfall-citrus-travel.webp",
+          "alt": "Waterfall Citrus Travel",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "National Park",
@@ -395,7 +689,28 @@
           },
           "image": {
             "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
-            "alt": "Waterfall Citrus Travel 1"
+            "alt": "Waterfall Citrus Travel 1",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
+              "alt": "Waterfall Citrus Travel 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
+              "alt": "Waterfall Citrus Travel 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
+              "alt": "Waterfall Citrus Travel 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -407,7 +722,28 @@
           },
           "image": {
             "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
-            "alt": "Waterfall Citrus Travel 2"
+            "alt": "Waterfall Citrus Travel 2",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
+              "alt": "Waterfall Citrus Travel 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
+              "alt": "Waterfall Citrus Travel 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
+              "alt": "Waterfall Citrus Travel 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -419,7 +755,28 @@
           },
           "image": {
             "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
-            "alt": "Waterfall Citrus Travel 3"
+            "alt": "Waterfall Citrus Travel 3",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
+              "alt": "Waterfall Citrus Travel 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
+              "alt": "Waterfall Citrus Travel 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
+              "alt": "Waterfall Citrus Travel 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -431,7 +788,28 @@
           },
           "image": {
             "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
-            "alt": "Waterfall Citrus Travel 4"
+            "alt": "Waterfall Citrus Travel 4",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
+              "alt": "Waterfall Citrus Travel 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
+              "alt": "Waterfall Citrus Travel 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
+              "alt": "Waterfall Citrus Travel 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -464,7 +842,28 @@
       },
       "image": {
         "src": "/images-platform/styles/04-lotus-smart-food-cafe.png",
-        "alt": "Lotus Smart Food Café"
+        "alt": "Lotus Smart Food Café",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/04-lotus-smart-food-cafe.webp",
+          "alt": "Lotus Smart Food Café",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/04-lotus-smart-food-cafe.webp",
+          "alt": "Lotus Smart Food Café",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/04-lotus-smart-food-cafe.webp",
+          "alt": "Lotus Smart Food Café",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Lotus Pond Sanctuary",
@@ -480,7 +879,28 @@
           },
           "image": {
             "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
-            "alt": "Lotus Smart Food Café 1"
+            "alt": "Lotus Smart Food Café 1",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
+              "alt": "Lotus Smart Food Café 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
+              "alt": "Lotus Smart Food Café 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
+              "alt": "Lotus Smart Food Café 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -492,7 +912,28 @@
           },
           "image": {
             "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
-            "alt": "Lotus Smart Food Café 2"
+            "alt": "Lotus Smart Food Café 2",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
+              "alt": "Lotus Smart Food Café 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
+              "alt": "Lotus Smart Food Café 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
+              "alt": "Lotus Smart Food Café 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -504,7 +945,28 @@
           },
           "image": {
             "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
-            "alt": "Lotus Smart Food Café 3"
+            "alt": "Lotus Smart Food Café 3",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
+              "alt": "Lotus Smart Food Café 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
+              "alt": "Lotus Smart Food Café 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
+              "alt": "Lotus Smart Food Café 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -516,7 +978,28 @@
           },
           "image": {
             "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
-            "alt": "Lotus Smart Food Café 4"
+            "alt": "Lotus Smart Food Café 4",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
+              "alt": "Lotus Smart Food Café 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
+              "alt": "Lotus Smart Food Café 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
+              "alt": "Lotus Smart Food Café 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -549,7 +1032,28 @@
       },
       "image": {
         "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
-        "alt": "Lotus Lanna Ceremony"
+        "alt": "Lotus Lanna Ceremony",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+          "alt": "Lotus Lanna Ceremony",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+          "alt": "Lotus Lanna Ceremony",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+          "alt": "Lotus Lanna Ceremony",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Lotus Pond Sanctuary",
@@ -565,7 +1069,28 @@
           },
           "image": {
             "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
-            "alt": "Lotus Lanna Ceremony 1"
+            "alt": "Lotus Lanna Ceremony 1",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
+              "alt": "Lotus Lanna Ceremony 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
+              "alt": "Lotus Lanna Ceremony 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
+              "alt": "Lotus Lanna Ceremony 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -577,7 +1102,28 @@
           },
           "image": {
             "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
-            "alt": "Lotus Lanna Ceremony 2"
+            "alt": "Lotus Lanna Ceremony 2",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
+              "alt": "Lotus Lanna Ceremony 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
+              "alt": "Lotus Lanna Ceremony 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
+              "alt": "Lotus Lanna Ceremony 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -589,7 +1135,28 @@
           },
           "image": {
             "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
-            "alt": "Lotus Lanna Ceremony 3"
+            "alt": "Lotus Lanna Ceremony 3",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
+              "alt": "Lotus Lanna Ceremony 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
+              "alt": "Lotus Lanna Ceremony 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
+              "alt": "Lotus Lanna Ceremony 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -601,7 +1168,28 @@
           },
           "image": {
             "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
-            "alt": "Lotus Lanna Ceremony 4"
+            "alt": "Lotus Lanna Ceremony 4",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
+              "alt": "Lotus Lanna Ceremony 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
+              "alt": "Lotus Lanna Ceremony 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
+              "alt": "Lotus Lanna Ceremony 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -635,7 +1223,28 @@
       },
       "image": {
         "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
-        "alt": "Mountain Hydrangea Gentleman"
+        "alt": "Mountain Hydrangea Gentleman",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+          "alt": "Mountain Hydrangea Gentleman",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+          "alt": "Mountain Hydrangea Gentleman",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+          "alt": "Mountain Hydrangea Gentleman",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Mountain Hydrangea Valley",
@@ -652,7 +1261,28 @@
           },
           "image": {
             "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
-            "alt": "Mountain Hydrangea Gentleman 1"
+            "alt": "Mountain Hydrangea Gentleman 1",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
+              "alt": "Mountain Hydrangea Gentleman 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
+              "alt": "Mountain Hydrangea Gentleman 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
+              "alt": "Mountain Hydrangea Gentleman 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -664,7 +1294,28 @@
           },
           "image": {
             "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
-            "alt": "Mountain Hydrangea Gentleman 2"
+            "alt": "Mountain Hydrangea Gentleman 2",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
+              "alt": "Mountain Hydrangea Gentleman 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
+              "alt": "Mountain Hydrangea Gentleman 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
+              "alt": "Mountain Hydrangea Gentleman 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -676,7 +1327,28 @@
           },
           "image": {
             "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
-            "alt": "Mountain Hydrangea Gentleman 3"
+            "alt": "Mountain Hydrangea Gentleman 3",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
+              "alt": "Mountain Hydrangea Gentleman 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
+              "alt": "Mountain Hydrangea Gentleman 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
+              "alt": "Mountain Hydrangea Gentleman 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -688,7 +1360,28 @@
           },
           "image": {
             "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
-            "alt": "Mountain Hydrangea Gentleman 4"
+            "alt": "Mountain Hydrangea Gentleman 4",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
+              "alt": "Mountain Hydrangea Gentleman 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
+              "alt": "Mountain Hydrangea Gentleman 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
+              "alt": "Mountain Hydrangea Gentleman 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -722,7 +1415,28 @@
       },
       "image": {
         "src": "/images-platform/styles/07-mountain-lanna-noble-woman.png",
-        "alt": "Mountain Lanna Noble Woman"
+        "alt": "Mountain Lanna Noble Woman",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/07-mountain-lanna-noble-woman.webp",
+          "alt": "Mountain Lanna Noble Woman",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
+          "alt": "Mountain Lanna Noble Woman",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/07-mountain-lanna-noble-woman.webp",
+          "alt": "Mountain Lanna Noble Woman",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Mountain Cosmos Valley",
@@ -739,7 +1453,28 @@
           },
           "image": {
             "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
-            "alt": "Mountain Lanna Noble Woman 1"
+            "alt": "Mountain Lanna Noble Woman 1",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
+              "alt": "Mountain Lanna Noble Woman 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
+              "alt": "Mountain Lanna Noble Woman 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
+              "alt": "Mountain Lanna Noble Woman 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -751,7 +1486,28 @@
           },
           "image": {
             "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
-            "alt": "Mountain Lanna Noble Woman 2"
+            "alt": "Mountain Lanna Noble Woman 2",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
+              "alt": "Mountain Lanna Noble Woman 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
+              "alt": "Mountain Lanna Noble Woman 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
+              "alt": "Mountain Lanna Noble Woman 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -763,7 +1519,28 @@
           },
           "image": {
             "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
-            "alt": "Mountain Lanna Noble Woman 3"
+            "alt": "Mountain Lanna Noble Woman 3",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
+              "alt": "Mountain Lanna Noble Woman 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
+              "alt": "Mountain Lanna Noble Woman 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
+              "alt": "Mountain Lanna Noble Woman 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -775,7 +1552,28 @@
           },
           "image": {
             "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
-            "alt": "Mountain Lanna Noble Woman 4"
+            "alt": "Mountain Lanna Noble Woman 4",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
+              "alt": "Mountain Lanna Noble Woman 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
+              "alt": "Mountain Lanna Noble Woman 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
+              "alt": "Mountain Lanna Noble Woman 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -809,7 +1607,28 @@
       },
       "image": {
         "src": "/images-platform/styles/08-flower-valley-gentleman-casual.png",
-        "alt": "Flower Valley Gentleman Casual"
+        "alt": "Flower Valley Gentleman Casual",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/08-flower-valley-gentleman-casual.webp",
+          "alt": "Flower Valley Gentleman Casual",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
+          "alt": "Flower Valley Gentleman Casual",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/08-flower-valley-gentleman-casual.webp",
+          "alt": "Flower Valley Gentleman Casual",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Mountain Tulip Valley",
@@ -826,7 +1645,28 @@
           },
           "image": {
             "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
-            "alt": "Flower Valley Gentleman Casual 1"
+            "alt": "Flower Valley Gentleman Casual 1",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
+              "alt": "Flower Valley Gentleman Casual 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
+              "alt": "Flower Valley Gentleman Casual 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
+              "alt": "Flower Valley Gentleman Casual 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -838,7 +1678,28 @@
           },
           "image": {
             "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
-            "alt": "Flower Valley Gentleman Casual 2"
+            "alt": "Flower Valley Gentleman Casual 2",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
+              "alt": "Flower Valley Gentleman Casual 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
+              "alt": "Flower Valley Gentleman Casual 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
+              "alt": "Flower Valley Gentleman Casual 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -850,7 +1711,28 @@
           },
           "image": {
             "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
-            "alt": "Flower Valley Gentleman Casual 3"
+            "alt": "Flower Valley Gentleman Casual 3",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
+              "alt": "Flower Valley Gentleman Casual 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
+              "alt": "Flower Valley Gentleman Casual 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
+              "alt": "Flower Valley Gentleman Casual 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -862,7 +1744,28 @@
           },
           "image": {
             "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
-            "alt": "Flower Valley Gentleman Casual 4"
+            "alt": "Flower Valley Gentleman Casual 4",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
+              "alt": "Flower Valley Gentleman Casual 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
+              "alt": "Flower Valley Gentleman Casual 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
+              "alt": "Flower Valley Gentleman Casual 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -896,7 +1799,28 @@
       },
       "image": {
         "src": "/images-platform/styles/09-coastal-mts-traveler.png",
-        "alt": "Coastal MTS Traveler"
+        "alt": "Coastal MTS Traveler",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+          "alt": "Coastal MTS Traveler",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+          "alt": "Coastal MTS Traveler",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+          "alt": "Coastal MTS Traveler",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Airport Gateway",
@@ -913,7 +1837,28 @@
           },
           "image": {
             "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
-            "alt": "Coastal MTS Traveler 1"
+            "alt": "Coastal MTS Traveler 1",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
+              "alt": "Coastal MTS Traveler 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
+              "alt": "Coastal MTS Traveler 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
+              "alt": "Coastal MTS Traveler 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -925,7 +1870,28 @@
           },
           "image": {
             "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
-            "alt": "Coastal MTS Traveler 2"
+            "alt": "Coastal MTS Traveler 2",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
+              "alt": "Coastal MTS Traveler 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
+              "alt": "Coastal MTS Traveler 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
+              "alt": "Coastal MTS Traveler 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -937,7 +1903,28 @@
           },
           "image": {
             "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
-            "alt": "Coastal MTS Traveler 3"
+            "alt": "Coastal MTS Traveler 3",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
+              "alt": "Coastal MTS Traveler 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
+              "alt": "Coastal MTS Traveler 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
+              "alt": "Coastal MTS Traveler 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -949,7 +1936,28 @@
           },
           "image": {
             "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
-            "alt": "Coastal MTS Traveler 4"
+            "alt": "Coastal MTS Traveler 4",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
+              "alt": "Coastal MTS Traveler 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
+              "alt": "Coastal MTS Traveler 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
+              "alt": "Coastal MTS Traveler 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],
@@ -982,7 +1990,28 @@
       },
       "image": {
         "src": "/images-platform/styles/10-soft-morning-luxury-safe.png",
-        "alt": "Soft Morning Luxury Safe"
+        "alt": "Soft Morning Luxury Safe",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/10-soft-morning-luxury-safe.webp",
+          "alt": "Soft Morning Luxury Safe",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/10-soft-morning-luxury-safe.webp",
+          "alt": "Soft Morning Luxury Safe",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/10-soft-morning-luxury-safe.webp",
+          "alt": "Soft Morning Luxury Safe",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       },
       "zoneDisplay": [
         "Suburban Living",
@@ -998,7 +2027,28 @@
           },
           "image": {
             "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
-            "alt": "Soft Morning Luxury Safe 1"
+            "alt": "Soft Morning Luxury Safe 1",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
+              "alt": "Soft Morning Luxury Safe 1",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
+              "alt": "Soft Morning Luxury Safe 1",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
+              "alt": "Soft Morning Luxury Safe 1",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -1010,7 +2060,28 @@
           },
           "image": {
             "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
-            "alt": "Soft Morning Luxury Safe 2"
+            "alt": "Soft Morning Luxury Safe 2",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
+              "alt": "Soft Morning Luxury Safe 2",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
+              "alt": "Soft Morning Luxury Safe 2",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
+              "alt": "Soft Morning Luxury Safe 2",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -1022,7 +2093,28 @@
           },
           "image": {
             "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
-            "alt": "Soft Morning Luxury Safe 3"
+            "alt": "Soft Morning Luxury Safe 3",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
+              "alt": "Soft Morning Luxury Safe 3",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
+              "alt": "Soft Morning Luxury Safe 3",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
+              "alt": "Soft Morning Luxury Safe 3",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         },
         {
@@ -1034,7 +2126,28 @@
           },
           "image": {
             "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
-            "alt": "Soft Morning Luxury Safe 4"
+            "alt": "Soft Morning Luxury Safe 4",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
+              "alt": "Soft Morning Luxury Safe 4",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
+              "alt": "Soft Morning Luxury Safe 4",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
+              "alt": "Soft Morning Luxury Safe 4",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
           }
         }
       ],

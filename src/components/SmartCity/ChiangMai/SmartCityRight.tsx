@@ -3,6 +3,10 @@ import Link from "next/link";
 import Image from "next/image";
 
 import {ISmartCityItem} from "@/lib/model/ISmartCity";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function SmartCityRight(
     {
@@ -37,8 +41,14 @@ export default function SmartCityRight(
                                     <div className="smart-right-image-wrapper">
                                         {
                                             <Image
-                                                src={item.media.image_url}
-                                                alt={item.title}
+                                                src={getPlatformImageSrc(
+                                                    {image_url: item.media.image_url, alt: item.title},
+                                                    "thumbnail",
+                                                )}
+                                                alt={getPlatformImageAlt(
+                                                    {image_url: item.media.image_url, alt: item.title},
+                                                    "thumbnail",
+                                                )}
                                                 width={650}
                                                 height={500}
                                             />

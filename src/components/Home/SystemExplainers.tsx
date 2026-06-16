@@ -1,5 +1,9 @@
 import Image from "next/image"
 import {ISystemExplainers} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function SystemExplainers({lang, data}: { lang: string; data: ISystemExplainers }) {
     const {headline, paragraph, systems} = data
@@ -16,8 +20,8 @@ export default function SystemExplainers({lang, data}: { lang: string; data: ISy
                     <div key={index} className="system-explainers__item">
                         <div className="system-explainers__image">
                             <Image
-                                src={system.image.url}
-                                alt={system.image.alt}
+                                src={getPlatformImageSrc(system.image, "thumbnail")}
+                                alt={getPlatformImageAlt(system.image, "thumbnail")}
                                 fill
                                 sizes="(max-width: 768px) 100vw, 50vw"
                             />

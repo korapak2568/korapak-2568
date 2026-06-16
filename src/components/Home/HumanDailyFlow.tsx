@@ -3,6 +3,10 @@
 import Image from "next/image"
 import Link from "next/link"
 import {IHumanDailyFlow} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 const humanDailyFlowUi: Record<string, {
     cardAction: string;
@@ -105,8 +109,8 @@ export default function HumanDailyFlow({lang, data}: { lang: string; data: IHuma
                         >
                             <div className="human-daily-flow__image">
                                 <Image
-                                    src={flow.image.url}
-                                    alt={flow.image.alt}
+                                    src={getPlatformImageSrc(flow.image, "thumbnail")}
+                                    alt={getPlatformImageAlt(flow.image, "thumbnail")}
                                     fill
                                     sizes="(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw"
                                 />

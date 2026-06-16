@@ -3,6 +3,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import {ICitySystems} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function CitySystems({lang, data}: { lang: string; data: ICitySystems }) {
     const {headline, paragraph, systems} = data
@@ -23,8 +27,8 @@ export default function CitySystems({lang, data}: { lang: string; data: ICitySys
                     >
                         <div className="city-systems__image">
                             <Image
-                                src={system.image.url}
-                                alt={system.image.alt}
+                                src={getPlatformImageSrc(system.image, "thumbnail")}
+                                alt={getPlatformImageAlt(system.image, "thumbnail")}
                                 fill
                                 sizes="(max-width: 768px) 100vw, 33vw"
                             />

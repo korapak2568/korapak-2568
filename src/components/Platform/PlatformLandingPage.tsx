@@ -1,6 +1,10 @@
 import Image from "next/image";
 import PlatformContentCard from "@/components/Platform/PlatformContentCard";
 import type {PlatformChannelContent} from "@/lib/platform-content/homeContent";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function PlatformLandingPage({lang, content}: { lang: string; content: PlatformChannelContent }) {
     return (
@@ -12,7 +16,13 @@ export default function PlatformLandingPage({lang, content}: { lang: string; con
                     <p>{content.description}</p>
                 </div>
                 <div className="platform-channel-hero__media">
-                    <Image src={content.image.src} alt={content.image.alt} fill priority sizes="(max-width: 992px) 100vw, 44vw"/>
+                    <Image
+                        src={getPlatformImageSrc(content.image, "desktop")}
+                        alt={getPlatformImageAlt(content.image, "desktop")}
+                        fill
+                        priority
+                        sizes="(max-width: 992px) 100vw, 44vw"
+                    />
                 </div>
             </section>
 

@@ -2,6 +2,10 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link"
 import {ISmartRoute, ISmartSection} from "@/lib/model/ISmartMobility";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function BottomImage(
     {lang, bottomCards}: { lang: string; bottomCards: Array<ISmartSection | ISmartRoute> }
@@ -13,8 +17,14 @@ export default function BottomImage(
                     <div className="vision-image-wrapper">
                         {card.media?.image_url && (
                             <Image
-                                src={card.media.image_url}
-                                alt={card.title}
+                                src={getPlatformImageSrc(
+                                    {image_url: card.media.image_url, alt: card.title},
+                                    "thumbnail",
+                                )}
+                                alt={getPlatformImageAlt(
+                                    {image_url: card.media.image_url, alt: card.title},
+                                    "thumbnail",
+                                )}
                                 className="vision-image"
                                 width={800}
                                 height={500}

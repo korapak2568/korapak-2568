@@ -1,6 +1,10 @@
 import Image from "next/image"
 import Link from "next/link"
 import {IHeroSection} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 const heroSectionUi: Record<string, {
     eyebrow: string;
@@ -103,8 +107,8 @@ export default function HeroSection({lang, data}: { lang: string; data: IHeroSec
                 <div className="smart-hero__visual">
                     <div className="smart-hero__image">
                         <Image
-                            src={image.url}
-                            alt={image.alt}
+                            src={getPlatformImageSrc(image, "desktop")}
+                            alt={getPlatformImageAlt(image, "desktop")}
                             fill
                             priority
                             sizes="(max-width: 900px) 100vw, 50vw"

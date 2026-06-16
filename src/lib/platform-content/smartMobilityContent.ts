@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import coastalStationsSeed from "@/data/smart-mobility/coastal/en.coastal.json";
 import mtsContentSeed from "@/data/smart-mobility/mts/en.mts.json";
 import valleyStationsSeed from "@/data/smart-mobility/valley/en.valley.json";
+import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
 
 export type MtsImageGenerationSize = {
   width: number;
@@ -23,6 +24,9 @@ export type MtsStation = {
   image: {
     src: string;
     alt: string;
+    mobile?: PlatformResponsiveImageVariant;
+    thumbnail?: PlatformResponsiveImageVariant;
+    desktop?: PlatformResponsiveImageVariant;
   };
   imageGenerationSize: MtsImageGenerationSize;
 };

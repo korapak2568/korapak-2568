@@ -1,4 +1,5 @@
 import sofaCoupleStorySeed from "@/data/story/sofa-couple/en.sofa-couple.json";
+import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
 
 export type PlatformStoryImageGenerationSize = {
   width: number;
@@ -11,6 +12,9 @@ export type PlatformStoryImage = {
   src: string;
   alt: string;
   aspectRatio?: string;
+  mobile?: PlatformResponsiveImageVariant;
+  thumbnail?: PlatformResponsiveImageVariant;
+  desktop?: PlatformResponsiveImageVariant;
 };
 
 export type PlatformStoryCard = {

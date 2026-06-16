@@ -10,6 +10,7 @@ import {SmartFoodAiContentService} from "@/core/services/smart-food-ai-content.s
 import {SmartFoodAiContentRepository} from "@/adapters/outbound/mongo.repository/smart-food-ai-content.repository";
 import {loadLocalizedContentWithFallback} from "@/lib/localized-content/localizedContentFallback";
 import {getSmartFoodAiStaticFallback} from "@/lib/smart-food-content/smartFoodStaticFallback";
+import {hydratePlatformImageVariants} from "@/lib/platform-content/platformImageVariants";
 
 const smartFoodAiContentService = new SmartFoodAiContentService(new SmartFoodAiContentRepository());
 const SMART_FOOD_AI_CONTENT_LIST_TAG = 'smart-food-ai-content';
@@ -96,12 +97,14 @@ export async function getSmartFoodAiContent(locale: string): Promise<SmartFoodAi
 export async function getSmartFoodAiContentForPublicPage(locale: string): Promise<SmartFoodAiContentPayload> {
     const normalizedLocale = normalizeSmartFoodAiContentLocale(locale);
 
-    return loadLocalizedContentWithFallback({
+    const content = await loadLocalizedContentWithFallback({
         locale: normalizedLocale,
         context: 'Smart Food AI content public render',
         load: getSmartFoodAiContent,
         fallback: () => getSmartFoodAiStaticFallback(normalizedLocale),
     });
+
+    return hydratePlatformImageVariants(content);
 }
 
 function assertCompleteSmartFoodAiMetadataContent(

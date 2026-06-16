@@ -11,7 +11,28 @@
     "story": "Valley Gateway welcomes travelers into the intelligent alpine mobility ecosystem where nature, smart transportation, and future exploration environments coexist peacefully.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley1-valley-gateway.png",
-      "alt": "MTS Valley 1 Valley Gateway mountain station"
+      "alt": "MTS Valley 1 Valley Gateway mountain station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley1-valley-gateway.webp",
+        "alt": "MTS Valley 1 Valley Gateway mountain station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley1-valley-gateway.webp",
+        "alt": "MTS Valley 1 Valley Gateway mountain station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley1-valley-gateway.webp",
+        "alt": "MTS Valley 1 Valley Gateway mountain station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -32,7 +53,28 @@
     "story": "Lavender Valley combines floral environments, cinematic transportation experiences, and AI-assisted mobility systems within a calming future civilization landscape.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
-      "alt": "MTS Valley 2 Lavender Valley intelligent station"
+      "alt": "MTS Valley 2 Lavender Valley intelligent station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+        "alt": "MTS Valley 2 Lavender Valley intelligent station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+        "alt": "MTS Valley 2 Lavender Valley intelligent station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+        "alt": "MTS Valley 2 Lavender Valley intelligent station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -53,7 +95,28 @@
     "story": "Waterfall Valley integrates natural waterfall environments, elegant infrastructure, and intelligent tourism systems into a connected future mobility experience.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley3-waterfall-valley-white-lily.png",
-      "alt": "MTS Valley 3 Waterfall Valley White Lily future station"
+      "alt": "MTS Valley 3 Waterfall Valley White Lily future station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley3-waterfall-valley-white-lily.webp",
+        "alt": "MTS Valley 3 Waterfall Valley White Lily future station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley3-waterfall-valley-white-lily.webp",
+        "alt": "MTS Valley 3 Waterfall Valley White Lily future station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley3-waterfall-valley-white-lily.webp",
+        "alt": "MTS Valley 3 Waterfall Valley White Lily future station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -74,7 +137,28 @@
     "story": "Pine Ridge explores elevated mountain mobility, intelligent environmental integration, and peaceful alpine civilization experiences inspired by future sustainable living.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley4-pine-ridge-alpine-daisy.png",
-      "alt": "MTS Valley 4 Pine Ridge Alpine Daisy elevated station"
+      "alt": "MTS Valley 4 Pine Ridge Alpine Daisy elevated station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley4-pine-ridge-alpine-daisy.webp",
+        "alt": "MTS Valley 4 Pine Ridge Alpine Daisy elevated station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley4-pine-ridge-alpine-daisy.webp",
+        "alt": "MTS Valley 4 Pine Ridge Alpine Daisy elevated station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley4-pine-ridge-alpine-daisy.webp",
+        "alt": "MTS Valley 4 Pine Ridge Alpine Daisy elevated station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -95,7 +179,28 @@
     "story": "Sunrise Valley blends golden mountain landscapes, emotionally warm transportation design, and intelligent tourism mobility into an inspiring future civilization destination.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley5-sunrise-valley-golden-wildflowers.png",
-      "alt": "MTS Valley 5 Sunrise Valley Golden Wildflowers station"
+      "alt": "MTS Valley 5 Sunrise Valley Golden Wildflowers station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley5-sunrise-valley-golden-wildflowers.webp",
+        "alt": "MTS Valley 5 Sunrise Valley Golden Wildflowers station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley5-sunrise-valley-golden-wildflowers.webp",
+        "alt": "MTS Valley 5 Sunrise Valley Golden Wildflowers station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley5-sunrise-valley-golden-wildflowers.webp",
+        "alt": "MTS Valley 5 Sunrise Valley Golden Wildflowers station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -116,7 +221,28 @@
     "story": "Mist Morning creates a cinematic mobility atmosphere where intelligent transportation systems move seamlessly through fog-covered alpine environments and floral landscapes.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley6-mist-morning-blue-hydrangea.png",
-      "alt": "MTS Valley 6 Mist Morning Blue Hydrangea intelligent mobility station"
+      "alt": "MTS Valley 6 Mist Morning Blue Hydrangea intelligent mobility station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley6-mist-morning-blue-hydrangea.webp",
+        "alt": "MTS Valley 6 Mist Morning Blue Hydrangea intelligent mobility station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley6-mist-morning-blue-hydrangea.webp",
+        "alt": "MTS Valley 6 Mist Morning Blue Hydrangea intelligent mobility station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley6-mist-morning-blue-hydrangea.webp",
+        "alt": "MTS Valley 6 Mist Morning Blue Hydrangea intelligent mobility station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -137,7 +263,28 @@
     "story": "Flower Valley Station connects intelligent tourism experiences, elegant floral environments, and future-ready mountain transportation systems into a harmonious civilization ecosystem.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley7-flower-valley-station.png",
-      "alt": "MTS Valley 7 Flower Valley Station future mobility hub"
+      "alt": "MTS Valley 7 Flower Valley Station future mobility hub",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley7-flower-valley-station.webp",
+        "alt": "MTS Valley 7 Flower Valley Station future mobility hub",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley7-flower-valley-station.webp",
+        "alt": "MTS Valley 7 Flower Valley Station future mobility hub",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley7-flower-valley-station.webp",
+        "alt": "MTS Valley 7 Flower Valley Station future mobility hub",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -158,7 +305,28 @@
     "story": "Alpine Garden Station integrates intelligent transportation, luxury alpine tourism, and environmentally connected infrastructure into a peaceful future civilization retreat.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley8-alpine-garden-station.png",
-      "alt": "MTS Valley 8 Alpine Garden Station luxury mobility environment"
+      "alt": "MTS Valley 8 Alpine Garden Station luxury mobility environment",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley8-alpine-garden-station.webp",
+        "alt": "MTS Valley 8 Alpine Garden Station luxury mobility environment",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley8-alpine-garden-station.webp",
+        "alt": "MTS Valley 8 Alpine Garden Station luxury mobility environment",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley8-alpine-garden-station.webp",
+        "alt": "MTS Valley 8 Alpine Garden Station luxury mobility environment",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -179,7 +347,28 @@
     "story": "Cliff Horizon Station explores cinematic cliffside transportation, intelligent infrastructure systems, and emotionally inspiring mountain exploration experiences.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley9-cliff-horizon-station.png",
-      "alt": "MTS Valley 9 Cliff Horizon Station elevated mobility architecture"
+      "alt": "MTS Valley 9 Cliff Horizon Station elevated mobility architecture",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley9-cliff-horizon-station.webp",
+        "alt": "MTS Valley 9 Cliff Horizon Station elevated mobility architecture",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley9-cliff-horizon-station.webp",
+        "alt": "MTS Valley 9 Cliff Horizon Station elevated mobility architecture",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley9-cliff-horizon-station.webp",
+        "alt": "MTS Valley 9 Cliff Horizon Station elevated mobility architecture",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -200,7 +389,28 @@
     "story": "Grand Alpine Terminal serves as the central intelligent transportation gateway connecting alpine districts, future tourism systems, and human-centered mountain civilization experiences.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-valley10-grand-alpine-terminal.png",
-      "alt": "MTS Valley 10 Grand Alpine Terminal future transportation hub"
+      "alt": "MTS Valley 10 Grand Alpine Terminal future transportation hub",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-valley10-grand-alpine-terminal.webp",
+        "alt": "MTS Valley 10 Grand Alpine Terminal future transportation hub",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-valley10-grand-alpine-terminal.webp",
+        "alt": "MTS Valley 10 Grand Alpine Terminal future transportation hub",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-valley10-grand-alpine-terminal.webp",
+        "alt": "MTS Valley 10 Grand Alpine Terminal future transportation hub",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,

@@ -3,6 +3,10 @@
 import Image from "next/image"
 import Link from "next/link"
 import {IMobilityFocus} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function MobilityFocus({lang, data}: { lang: string; data: IMobilityFocus }) {
     const {headline, paragraph, signals} = data
@@ -23,8 +27,8 @@ export default function MobilityFocus({lang, data}: { lang: string; data: IMobil
                     >
                         <div className="mobility-focus__image">
                             <Image
-                                src={signal.image.url}
-                                alt={signal.image.alt}
+                                src={getPlatformImageSrc(signal.image, "thumbnail")}
+                                alt={getPlatformImageAlt(signal.image, "thumbnail")}
                                 fill
                                 sizes="(max-width: 900px) 100vw, 50vw"
                             />

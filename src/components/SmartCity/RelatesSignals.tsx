@@ -1,7 +1,12 @@
 // src/components/SmartCity/RelatesSignals.tsx
 
+import Image from "next/image";
 import Link from "next/link";
 import {ISmartCitySection} from "@/lib/model/ISmartCityLanding";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function RelatesSignals(
     {
@@ -34,10 +39,12 @@ export default function RelatesSignals(
                             className="related-signals__item"
                         >
                             {signal.image &&
-                                <img
-                                    src={signal.image.url}
-                                    alt={signal.image.alt}
-                                    loading="lazy"
+                                <Image
+                                    src={getPlatformImageSrc(signal.image, "thumbnail")}
+                                    alt={getPlatformImageAlt(signal.image, "thumbnail")}
+                                    width={640}
+                                    height={400}
+                                    sizes="(max-width: 768px) 100vw, 33vw"
                                 />
                             }
                             

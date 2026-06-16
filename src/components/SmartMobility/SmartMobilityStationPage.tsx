@@ -7,6 +7,10 @@ import type {
   SmartMobilityMtsDetailContent,
   SmartMobilityStationDetailContent,
 } from "@/lib/platform-content/smartMobilityContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 import { usePlatformSmartMobilityMTSContent } from "@/lib/platform-content/usePlatformSmartMobilityMTSContent";
 import SmartMobilityActions from "./SmartMobilityActions";
 
@@ -39,10 +43,10 @@ function RelatedMtsStationCard({
       >
         <div className="platform-outfit-card__media">
           <Image
-            src={station.image.src}
-            alt={station.image.alt}
+            src={getPlatformImageSrc(station.image, "thumbnail")}
+            alt={getPlatformImageAlt(station.image, "thumbnail")}
             fill
-            sizes="(max-width: 768px) 100vw, 31vw"
+            sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 410px"
             style={{ objectFit: "cover" }}
           />
         </div>
@@ -102,8 +106,8 @@ export default function SmartMobilityStationPage({
         <div className="platform-outfit-detail-hero__media">
           <Image
             className="platform-mts-hero__image"
-            src={station.image.src}
-            alt={station.image.alt}
+            src={getPlatformImageSrc(station.image, "desktop")}
+            alt={getPlatformImageAlt(station.image, "desktop")}
             fill
             priority
             sizes="(max-width: 991px) 100vw, 48vw"

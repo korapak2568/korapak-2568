@@ -3,6 +3,10 @@
 import Image from "next/image"
 import Link from "next/link"
 import {IUrbanSignals} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function UrbanSignals({lang, data}: { lang: string; data: IUrbanSignals }) {
     const {headline, paragraph, signals} = data
@@ -23,8 +27,8 @@ export default function UrbanSignals({lang, data}: { lang: string; data: IUrbanS
                     >
                         <div className="urban-signals__image">
                             <Image
-                                src={signal.image.url}
-                                alt={signal.image.alt}
+                                src={getPlatformImageSrc(signal.image, "thumbnail")}
+                                alt={getPlatformImageAlt(signal.image, "thumbnail")}
                                 fill
                                 sizes="(max-width: 768px) 100vw, 33vw"
                             />

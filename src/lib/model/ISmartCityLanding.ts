@@ -1,4 +1,5 @@
 import {ISmartCityItem} from "@/lib/model/ISmartCity";
+import type { ISmartCityResponsiveImage } from "@/lib/model/ISmartCityMedia";
 
 
 // ISmartCityLanding.ts
@@ -18,10 +19,7 @@ export interface ISmartCitySection {
     lang?: string;
     headline: string
     paragraphs: string[]
-    image?: {
-        url: string
-        alt: string
-    }
+    image?: ISmartCityResponsiveImage
     tags?: string[];
     cta?: {
         label: string

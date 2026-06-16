@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import platformHomeEnSeed from "@/data/home/en.home.json";
 import platformHomeThSeed from "@/data/home/th.home.json";
+import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
 
 const platformContent = {
   en: platformHomeEnSeed,
@@ -34,6 +35,9 @@ export type PlatformImageGenerationSize = {
 export type PlatformImage = PlatformImageGenerationSize & {
   src: string;
   alt: string;
+  mobile?: PlatformResponsiveImageVariant;
+  thumbnail?: PlatformResponsiveImageVariant;
+  desktop?: PlatformResponsiveImageVariant;
 };
 
 export type PlatformCard = {

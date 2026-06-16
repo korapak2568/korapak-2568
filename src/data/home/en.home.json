@@ -28,7 +28,28 @@
         "width": 2560,
         "height": 1440,
         "aspectRatio": "16:9",
-        "positionKey": "home.hero"
+        "positionKey": "home.hero",
+        "mobile": {
+          "src": "/images-platform/home/hero/mobile/youtube-banner-image.webp",
+          "alt": "Chorn Planet platform launch visual",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/home/hero/thumbnail/youtube-banner-image.webp",
+          "alt": "Chorn Planet platform launch visual",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/home/hero/desktop/youtube-banner-image.webp",
+          "alt": "Chorn Planet platform launch visual",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       },
       "actions": [
         {
@@ -73,7 +94,28 @@
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
-              "positionKey": "home.sections.phase-1.smart-food"
+              "positionKey": "home.sections.phase-1.smart-food",
+              "mobile": {
+                "src": "/smart-food/mobile/process5-receiving.webp",
+                "alt": "Smart Food system visual",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "alt": "Smart Food system visual",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-food/desktop/process5-receiving.webp",
+                "alt": "Smart Food system visual",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
             },
             "tags": [
               "Food",
@@ -92,7 +134,28 @@
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
-              "positionKey": "home.sections.phase-1.ai-luxury"
+              "positionKey": "home.sections.phase-1.ai-luxury",
+              "mobile": {
+                "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+                "alt": "AI Luxury platform visual",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+                "alt": "AI Luxury platform visual",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+                "alt": "AI Luxury platform visual",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
             },
             "tags": [
               "Luxury",
@@ -111,7 +174,28 @@
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
-              "positionKey": "home.sections.phase-1.technology"
+              "positionKey": "home.sections.phase-1.technology",
+              "mobile": {
+                "src": "/images/features/mobile/morning-sky-optimize.webp",
+                "alt": "Technology platform visual",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/features/thumbnail/morning-sky-optimize.webp",
+                "alt": "Technology platform visual",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/features/desktop/morning-sky-optimize.webp",
+                "alt": "Technology platform visual",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
             },
             "tags": [
               "AI",
@@ -130,7 +214,28 @@
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
-              "positionKey": "home.sections.phase-1.style"
+              "positionKey": "home.sections.phase-1.style",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "alt": "Style and outfit visual",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "alt": "Style and outfit visual",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "alt": "Style and outfit visual",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
             },
             "tags": [
               "Style",
@@ -158,7 +263,28 @@
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
-              "positionKey": "home.sections.outfit.lady"
+              "positionKey": "home.sections.outfit.lady",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "alt": "Lady outfit concept",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "alt": "Lady outfit concept",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "alt": "Lady outfit concept",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
             },
             "tags": [
               "Lady",
@@ -177,7 +303,28 @@
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
-              "positionKey": "home.sections.outfit.gentleman"
+              "positionKey": "home.sections.outfit.gentleman",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "alt": "Gentleman outfit concept",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "alt": "Gentleman outfit concept",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "alt": "Gentleman outfit concept",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
             },
             "tags": [
               "Gentleman",
@@ -196,7 +343,28 @@
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
-              "positionKey": "home.sections.outfit.civilization"
+              "positionKey": "home.sections.outfit.civilization",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "alt": "Civilization clothing concept",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "alt": "Civilization clothing concept",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "alt": "Civilization clothing concept",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
             },
             "tags": [
               "Zone",
@@ -215,7 +383,28 @@
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
-              "positionKey": "home.sections.outfit.lanna"
+              "positionKey": "home.sections.outfit.lanna",
+              "mobile": {
+                "src": "/smart-mobility/chiang-mai/mobile/vision-smart-mobility-northern-gateway.webp",
+                "alt": "Lanna future luxury concept",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-mobility/chiang-mai/thumbnail/vision-smart-mobility-northern-gateway.webp",
+                "alt": "Lanna future luxury concept",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-mobility/chiang-mai/desktop/vision-smart-mobility-northern-gateway.webp",
+                "alt": "Lanna future luxury concept",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
             },
             "tags": [
               "Lanna",
@@ -241,7 +430,28 @@
             "width": 1024,
             "height": 1536,
             "aspectRatio": "2:3",
-            "positionKey": "home.circular.sofa"
+            "positionKey": "home.circular.sofa",
+            "mobile": {
+              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "alt": "A couple relaxes by a large mountain-view window, with the woman reclining in a soft chair and the man gently holding her hand.",
+              "width": 720,
+              "height": 1080,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "alt": "A couple relaxes by a large mountain-view window, with the woman reclining in a soft chair and the man gently holding her hand.",
+              "width": 480,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "alt": "A couple relaxes by a large mountain-view window, with the woman reclining in a soft chair and the man gently holding her hand.",
+              "width": 1024,
+              "height": 1536,
+              "quality": 82
+            }
           },
           "link": "/story"
         },
@@ -254,7 +464,28 @@
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
-            "positionKey": "home.circular.valley"
+            "positionKey": "home.circular.valley",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "alt": "MTS Valley 2 Lavender Valley intelligent station",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "alt": "MTS Valley 2 Lavender Valley intelligent station",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "alt": "MTS Valley 2 Lavender Valley intelligent station",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
           },
           "link": "/smart-mobility/mts/mts-valley-2-lavender-valley"
         },
@@ -267,7 +498,28 @@
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
-            "positionKey": "home.circular.coastal-marina"
+            "positionKey": "home.circular.coastal-marina",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "alt": "MTS Coastal 2 Coral Bay Marina intelligent marina station",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "alt": "MTS Coastal 2 Coral Bay Marina intelligent marina station",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "alt": "MTS Coastal 2 Coral Bay Marina intelligent marina station",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
           },
           "link": "/smart-mobility/mts/mts-coastal-2-coral-bay-marina"
         },
@@ -280,7 +532,28 @@
             "width": 1536,
             "height": 1024,
             "aspectRatio": "3:2",
-            "positionKey": "home.circular.coastal-sunrise"
+            "positionKey": "home.circular.coastal-sunrise",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "alt": "MTS Coastal 6 Sunrise Ocean Deck future station",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "alt": "MTS Coastal 6 Sunrise Ocean Deck future station",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "alt": "MTS Coastal 6 Sunrise Ocean Deck future station",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
           },
           "link": "/smart-mobility/mts/mts-coastal-6-sunrise-ocean-deck"
         }
@@ -297,7 +570,28 @@
       "width": 1600,
       "height": 1000,
       "aspectRatio": "8:5",
-      "positionKey": "about.hero"
+      "positionKey": "about.hero",
+      "mobile": {
+        "src": "/images/about/mobile/about-chorn-image-1200.webp",
+        "alt": "Chorn Planet platform about visual",
+        "width": 800,
+        "height": 500,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images/about/thumbnail/about-chorn-image-1200.webp",
+        "alt": "Chorn Planet platform about visual",
+        "width": 512,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images/about/desktop/about-chorn-image-1200.webp",
+        "alt": "Chorn Planet platform about visual",
+        "width": 1600,
+        "height": 1000,
+        "quality": 82
+      }
     },
     "blocks": [
       {

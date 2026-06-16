@@ -3,6 +3,10 @@
 import Image from "next/image"
 import Link from "next/link"
 import {IEditorialPositioning} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function EditorialPositioning({lang, data}: {
     lang: string;
@@ -30,8 +34,8 @@ export default function EditorialPositioning({lang, data}: {
 
                         <div className="editorial-positioning__image">
                             <Image
-                                src={principle.image.url}
-                                alt={principle.image.alt}
+                                src={getPlatformImageSrc(principle.image, "thumbnail")}
+                                alt={getPlatformImageAlt(principle.image, "thumbnail")}
                                 fill
                                 sizes="(max-width: 768px) 100vw, 33vw"
                             />

@@ -6,6 +6,10 @@ import { ShoppingBag } from "lucide-react";
 import { FaTiktok } from "react-icons/fa";
 import SmartMobilityActions from "@/components/SmartMobility/SmartMobilityActions";
 import type { PlatformStoryContent } from "@/lib/platform-content/storyContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 import { usePlatformStoryContent } from "@/lib/platform-content/usePlatformStoryContent";
 
 export default function PlatformStorySection({
@@ -28,8 +32,8 @@ export default function PlatformStorySection({
       <section className="platform-story-landscape-hero">
         <Image
           className="platform-story-landscape-hero__image"
-          src={sofaCoupleStory.imageLandscape.src}
-          alt={sofaCoupleStory.imageLandscape.alt}
+          src={getPlatformImageSrc(sofaCoupleStory.imageLandscape, "desktop")}
+          alt={getPlatformImageAlt(sofaCoupleStory.imageLandscape, "desktop")}
           fill
           priority
           sizes="100vw"
@@ -115,10 +119,10 @@ export default function PlatformStorySection({
               >
                 <div className="platform-home-sofa-story__card-image">
                   <Image
-                    src={storyImage.image.src}
-                    alt={storyImage.image.alt}
+                    src={getPlatformImageSrc(storyImage.image, "thumbnail")}
+                    alt={getPlatformImageAlt(storyImage.image, "thumbnail")}
                     fill
-                    sizes="(max-width: 640px) 50vw, 18vw"
+                    sizes="(max-width: 640px) 50vw, 180px"
                     style={{ objectFit: "cover" }}
                   />
                 </div>

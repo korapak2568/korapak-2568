@@ -1,8 +1,12 @@
 import luxuryEnContent from "@/data/luxury/en.luxury.json";
+import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
 
 export type AiLuxuryImage = {
   src: string;
   alt: string;
+  mobile?: PlatformResponsiveImageVariant;
+  thumbnail?: PlatformResponsiveImageVariant;
+  desktop?: PlatformResponsiveImageVariant;
   eyebrow?: string;
   title?: string;
   lead?: string;

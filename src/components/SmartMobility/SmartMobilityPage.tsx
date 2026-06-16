@@ -6,6 +6,10 @@ import type {
   MtsStation,
   SmartMobilityLandingContent,
 } from "@/lib/platform-content/smartMobilityContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 import { usePlatformSmartMobilityContent } from "@/lib/platform-content/usePlatformSmartMobilityContent";
 import SmartMobilityActions from "./SmartMobilityActions";
 
@@ -24,10 +28,10 @@ function MtsStationCard({
       >
         <div className="platform-outfit-card__media">
           <Image
-            src={station.image.src}
-            alt={station.image.alt}
+            src={getPlatformImageSrc(station.image, "thumbnail")}
+            alt={getPlatformImageAlt(station.image, "thumbnail")}
             fill
-            sizes="(max-width: 768px) 100vw, 31vw"
+            sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 410px"
             style={{ objectFit: "cover" }}
           />
         </div>
@@ -65,8 +69,8 @@ export default function SmartMobilityPage({
         <div className="platform-mts-full-hero__media">
           <Image
             className="platform-mts-full-hero__image"
-            src={heroStation.image.src}
-            alt={heroStation.image.alt}
+            src={getPlatformImageSrc(heroStation.image, "desktop")}
+            alt={getPlatformImageAlt(heroStation.image, "desktop")}
             fill
             priority
             sizes="100vw"

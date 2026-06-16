@@ -15,13 +15,38 @@
     ],
     "image": {
       "url": "/smart-city/hero-section/city-shaped-by-people-move.png",
-      "alt": "People moving through a Chorn Planet Smart City environment"
+      "alt": "People moving through a Chorn Planet Smart City environment",
+      "mobile": {
+        "src": "/smart-city/hero-section/mobile/city-shaped-by-people-move.webp",
+        "alt": "People moving through a Chorn Planet Smart City environment",
+        "width": 960,
+        "height": 540,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/smart-city/hero-section/thumbnail/city-shaped-by-people-move.webp",
+        "alt": "People moving through a Chorn Planet Smart City environment",
+        "width": 640,
+        "height": 360,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/smart-city/hero-section/desktop/city-shaped-by-people-move.webp",
+        "alt": "People moving through a Chorn Planet Smart City environment",
+        "width": 1920,
+        "height": 1080,
+        "quality": 82
+      }
     },
     "purpose": "Smart city editorial overview",
     "narrativeRole": "city systems introduction",
     "section": "hero",
     "category": "smart-city",
-    "signalFocus": ["human flow", "mobility", "public space"],
+    "signalFocus": [
+      "human flow",
+      "mobility",
+      "public space"
+    ],
     "landingUrl": "/smart-city/when-human-life-shapes-the-city/"
   },
   "humanDailyFlow": {
@@ -32,10 +57,35 @@
       "paragraph": "Morning routines reveal how streets, transit edges, food stops, workplaces, and public space begin to synchronize before the city reaches full speed.",
       "image": {
         "url": "/smart-city/human-daily-flow/morning.png",
-        "alt": "Morning movement through a smart city district"
+        "alt": "Morning movement through a smart city district",
+        "mobile": {
+          "src": "/smart-city/human-daily-flow/mobile/morning.webp",
+          "alt": "Morning movement through a smart city district",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/smart-city/human-daily-flow/thumbnail/morning.webp",
+          "alt": "Morning movement through a smart city district",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/smart-city/human-daily-flow/desktop/morning.webp",
+          "alt": "Morning movement through a smart city district",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       },
       "category": "morning-flow",
-      "signalFocus": ["commute rhythm", "street demand", "food access"],
+      "signalFocus": [
+        "commute rhythm",
+        "street demand",
+        "food access"
+      ],
       "landingUrl": "/smart-city/human-daily-flow-morning/"
     },
     "middayFlow": {
@@ -43,10 +93,35 @@
       "paragraph": "Midday activity shows where people pause, order food, cross districts, use services, and turn ordinary convenience into measurable urban demand.",
       "image": {
         "url": "/smart-city/human-daily-flow/midday.png",
-        "alt": "Midday service rhythm in a smart city"
+        "alt": "Midday service rhythm in a smart city",
+        "mobile": {
+          "src": "/smart-city/human-daily-flow/mobile/midday.webp",
+          "alt": "Midday service rhythm in a smart city",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/smart-city/human-daily-flow/thumbnail/midday.webp",
+          "alt": "Midday service rhythm in a smart city",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/smart-city/human-daily-flow/desktop/midday.webp",
+          "alt": "Midday service rhythm in a smart city",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       },
       "category": "midday-flow",
-      "signalFocus": ["service demand", "walkable access", "daily convenience"],
+      "signalFocus": [
+        "service demand",
+        "walkable access",
+        "daily convenience"
+      ],
       "landingUrl": "/smart-city/when-human-life-shapes-the-city/"
     },
     "eveningFlow": {
@@ -54,10 +129,35 @@
       "paragraph": "Evening movement connects homes, restaurants, mobility links, and public comfort, showing how the city settles into a different pattern after work.",
       "image": {
         "url": "/smart-city/human-daily-flow/evening.png",
-        "alt": "Evening return flow through city streets"
+        "alt": "Evening return flow through city streets",
+        "mobile": {
+          "src": "/smart-city/human-daily-flow/mobile/evening.webp",
+          "alt": "Evening return flow through city streets",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/smart-city/human-daily-flow/thumbnail/evening.webp",
+          "alt": "Evening return flow through city streets",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/smart-city/human-daily-flow/desktop/evening.webp",
+          "alt": "Evening return flow through city streets",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       },
       "category": "evening-flow",
-      "signalFocus": ["return trips", "public comfort", "local destinations"],
+      "signalFocus": [
+        "return trips",
+        "public comfort",
+        "local destinations"
+      ],
       "landingUrl": "/smart-city/human-daily-flow-evening/"
     },
     "purpose": "Daily urban observation",
@@ -75,16 +175,62 @@
         "description": "Local streets, markets, campuses, old-city edges, and mountain connections create a practical lens for future city systems.",
         "image": {
           "url": "/smart-city/editorial/local-as-global-prototype.png",
-          "alt": "Chiang Mai local life as a smart city prototype"
+          "alt": "Chiang Mai local life as a smart city prototype",
+          "mobile": {
+            "src": "/smart-city/editorial/mobile/local-as-global-prototype.webp",
+            "alt": "Chiang Mai local life as a smart city prototype",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/editorial/thumbnail/local-as-global-prototype.webp",
+            "alt": "Chiang Mai local life as a smart city prototype",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/editorial/desktop/local-as-global-prototype.webp",
+            "alt": "Chiang Mai local life as a smart city prototype",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
-        "signalFocus": ["local context", "urban prototype", "tourism pressure"]
+        "signalFocus": [
+          "local context",
+          "urban prototype",
+          "tourism pressure"
+        ]
       },
       {
         "title": "Signals that travel",
         "description": "Patterns found in one city can inform wider thinking about service design, mobility planning, public comfort, and platform readiness.",
         "image": {
           "url": "/smart-city/global-patterns/local-signals.png",
-          "alt": "Local city signals translated into global patterns"
+          "alt": "Local city signals translated into global patterns",
+          "mobile": {
+            "src": "/smart-city/global-patterns/mobile/local-signals.webp",
+            "alt": "Local city signals translated into global patterns",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/global-patterns/thumbnail/local-signals.webp",
+            "alt": "Local city signals translated into global patterns",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/global-patterns/desktop/local-signals.webp",
+            "alt": "Local city signals translated into global patterns",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "signalFocus": [
           "repeatable pattern",
@@ -97,7 +243,10 @@
     "narrativeRole": "prototype framing",
     "section": "local-to-global",
     "category": "smart-city",
-    "signalFocus": ["local prototype", "global pattern"],
+    "signalFocus": [
+      "local prototype",
+      "global pattern"
+    ],
     "landingUrl": "/smart-city/editorial-local-as-global-prototype/",
     "lang": "en"
   },
@@ -110,7 +259,28 @@
         "description": "A city must support both efficient movement and meaningful places to stop.",
         "image": {
           "url": "/smart-city/city-systems/movement-and-pause.png",
-          "alt": "Movement and pause in a smart city system"
+          "alt": "Movement and pause in a smart city system",
+          "mobile": {
+            "src": "/smart-city/city-systems/mobile/movement-and-pause.webp",
+            "alt": "Movement and pause in a smart city system",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/city-systems/thumbnail/movement-and-pause.webp",
+            "alt": "Movement and pause in a smart city system",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/city-systems/desktop/movement-and-pause.webp",
+            "alt": "Movement and pause in a smart city system",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         }
       },
       {
@@ -118,7 +288,28 @@
         "description": "Useful density depends on shade, access, safety, service rhythm, and public-space quality.",
         "image": {
           "url": "/smart-city/city-systems/density-and-comfort.png",
-          "alt": "Density and comfort in an urban system"
+          "alt": "Density and comfort in an urban system",
+          "mobile": {
+            "src": "/smart-city/city-systems/mobile/density-and-comfort.webp",
+            "alt": "Density and comfort in an urban system",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/city-systems/thumbnail/density-and-comfort.webp",
+            "alt": "Density and comfort in an urban system",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/city-systems/desktop/density-and-comfort.webp",
+            "alt": "Density and comfort in an urban system",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         }
       }
     ]
@@ -132,9 +323,34 @@
         "description": "Mobility routes become more useful when they connect real daily needs rather than only technical infrastructure points.",
         "image": {
           "url": "/smart-mobility/chiang-mai/urban-hub-san-sai-doi-saket.png",
-          "alt": "Smart mobility corridor connecting urban districts"
+          "alt": "Smart mobility corridor connecting urban districts",
+          "mobile": {
+            "src": "/smart-mobility/chiang-mai/mobile/urban-hub-san-sai-doi-saket.webp",
+            "alt": "Smart mobility corridor connecting urban districts",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-mobility/chiang-mai/thumbnail/urban-hub-san-sai-doi-saket.webp",
+            "alt": "Smart mobility corridor connecting urban districts",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-mobility/chiang-mai/desktop/urban-hub-san-sai-doi-saket.webp",
+            "alt": "Smart mobility corridor connecting urban districts",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
-        "signalFocus": ["corridor demand", "access", "daily route"],
+        "signalFocus": [
+          "corridor demand",
+          "access",
+          "daily route"
+        ],
         "landingUrl": "/smart-mobility/chiang-mai/urban-hub-san-sai-doi-saket/"
       },
       {
@@ -142,7 +358,28 @@
         "description": "Regional gateways, tourist movement, and local daily trips need to be understood together instead of as separate systems.",
         "image": {
           "url": "/smart-mobility/chiang-mai/hub-chiang-mai-airport.png",
-          "alt": "Smart mobility airport connection for Chiang Mai"
+          "alt": "Smart mobility airport connection for Chiang Mai",
+          "mobile": {
+            "src": "/smart-mobility/chiang-mai/mobile/hub-chiang-mai-airport.webp",
+            "alt": "Smart mobility airport connection for Chiang Mai",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-mobility/chiang-mai/thumbnail/hub-chiang-mai-airport.webp",
+            "alt": "Smart mobility airport connection for Chiang Mai",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-mobility/chiang-mai/desktop/hub-chiang-mai-airport.webp",
+            "alt": "Smart mobility airport connection for Chiang Mai",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "signalFocus": [
           "gateway access",
@@ -162,9 +399,34 @@
         "description": "City systems should reduce friction while preserving the rhythm of local life and public space.",
         "image": {
           "url": "/smart-city/city-systems/efficiency-and-rhythm.png",
-          "alt": "Efficiency and rhythm in a smart city"
+          "alt": "Efficiency and rhythm in a smart city",
+          "mobile": {
+            "src": "/smart-city/city-systems/mobile/efficiency-and-rhythm.webp",
+            "alt": "Efficiency and rhythm in a smart city",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/city-systems/thumbnail/efficiency-and-rhythm.webp",
+            "alt": "Efficiency and rhythm in a smart city",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/city-systems/desktop/efficiency-and-rhythm.webp",
+            "alt": "Efficiency and rhythm in a smart city",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
-        "balanceSignals": ["faster flow", "local rhythm", "service timing"],
+        "balanceSignals": [
+          "faster flow",
+          "local rhythm",
+          "service timing"
+        ],
         "landingUrl": "/smart-city/city-systems-efficiency-and-rhythm/"
       },
       {
@@ -172,9 +434,34 @@
         "description": "The same district needs routes for movement and comfortable places where people can stop, wait, meet, and recover.",
         "image": {
           "url": "/smart-city/city-systems/movement-and-pause.png",
-          "alt": "Movement and pause balanced in public space"
+          "alt": "Movement and pause balanced in public space",
+          "mobile": {
+            "src": "/smart-city/city-systems/mobile/movement-and-pause.webp",
+            "alt": "Movement and pause balanced in public space",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/city-systems/thumbnail/movement-and-pause.webp",
+            "alt": "Movement and pause balanced in public space",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/city-systems/desktop/movement-and-pause.webp",
+            "alt": "Movement and pause balanced in public space",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
-        "balanceSignals": ["route clarity", "rest points", "public comfort"],
+        "balanceSignals": [
+          "route clarity",
+          "rest points",
+          "public comfort"
+        ],
         "landingUrl": "/smart-city/city-systems-movement-and-pause/"
       },
       {
@@ -182,9 +469,34 @@
         "description": "Dense environments work best when shade, access, safety, food, seating, and information are planned as one experience.",
         "image": {
           "url": "/smart-city/city-systems/density-and-comfort.png",
-          "alt": "Density and comfort in a city district"
+          "alt": "Density and comfort in a city district",
+          "mobile": {
+            "src": "/smart-city/city-systems/mobile/density-and-comfort.webp",
+            "alt": "Density and comfort in a city district",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/city-systems/thumbnail/density-and-comfort.webp",
+            "alt": "Density and comfort in a city district",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/city-systems/desktop/density-and-comfort.webp",
+            "alt": "Density and comfort in a city district",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
-        "balanceSignals": ["urban density", "shade", "access"],
+        "balanceSignals": [
+          "urban density",
+          "shade",
+          "access"
+        ],
         "landingUrl": "/smart-city/city-systems-density-and-comfort/"
       }
     ]
@@ -198,9 +510,34 @@
         "description": "Start with the visible experience of people before choosing technology, dashboards, or infrastructure language.",
         "image": {
           "url": "/smart-city/editorial/human-first-observation.png",
-          "alt": "Human-first smart city observation"
+          "alt": "Human-first smart city observation",
+          "mobile": {
+            "src": "/smart-city/editorial/mobile/human-first-observation.webp",
+            "alt": "Human-first smart city observation",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/editorial/thumbnail/human-first-observation.webp",
+            "alt": "Human-first smart city observation",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/editorial/desktop/human-first-observation.webp",
+            "alt": "Human-first smart city observation",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
-        "signalFocus": ["people first", "urban behavior", "field observation"],
+        "signalFocus": [
+          "people first",
+          "urban behavior",
+          "field observation"
+        ],
         "landingUrl": "/smart-city/editorial-human-first-observation/"
       },
       {
@@ -208,7 +545,28 @@
         "description": "Technology becomes useful when it supports a clear system of movement, services, information, and public comfort.",
         "image": {
           "url": "/smart-city/editorial/system-before-technology.png",
-          "alt": "Smart city systems before technology"
+          "alt": "Smart city systems before technology",
+          "mobile": {
+            "src": "/smart-city/editorial/mobile/system-before-technology.webp",
+            "alt": "Smart city systems before technology",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/editorial/thumbnail/system-before-technology.webp",
+            "alt": "Smart city systems before technology",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/editorial/desktop/system-before-technology.webp",
+            "alt": "Smart city systems before technology",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "signalFocus": [
           "system design",
@@ -226,30 +584,105 @@
       {
         "title": "Queue and wait behavior",
         "description": "Waiting patterns show where service capacity, shade, information, and pedestrian comfort need better coordination.",
-        "signalFocus": ["queues", "waiting", "comfort"],
+        "signalFocus": [
+          "queues",
+          "waiting",
+          "comfort"
+        ],
         "image": {
           "url": "/smart-city/urban-signals/queue-and-wait.png",
-          "alt": "Queue and wait behavior in public space"
+          "alt": "Queue and wait behavior in public space",
+          "mobile": {
+            "src": "/smart-city/urban-signals/mobile/queue-and-wait.webp",
+            "alt": "Queue and wait behavior in public space",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/urban-signals/thumbnail/queue-and-wait.webp",
+            "alt": "Queue and wait behavior in public space",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/urban-signals/desktop/queue-and-wait.webp",
+            "alt": "Queue and wait behavior in public space",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "landingUrl": "/smart-city/when-human-life-shapes-the-city/"
       },
       {
         "title": "Food and service demand",
         "description": "Food stops and service touchpoints reveal how daily demand moves through neighborhoods and public corridors.",
-        "signalFocus": ["food demand", "service access", "daily life"],
+        "signalFocus": [
+          "food demand",
+          "service access",
+          "daily life"
+        ],
         "image": {
           "url": "/smart-city/urban-signals/food-and-service.png",
-          "alt": "Food and service demand in a smart city"
+          "alt": "Food and service demand in a smart city",
+          "mobile": {
+            "src": "/smart-city/urban-signals/mobile/food-and-service.webp",
+            "alt": "Food and service demand in a smart city",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/urban-signals/thumbnail/food-and-service.webp",
+            "alt": "Food and service demand in a smart city",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/urban-signals/desktop/food-and-service.webp",
+            "alt": "Food and service demand in a smart city",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "landingUrl": "/smart-city/human-daily-flow-morning/"
       },
       {
         "title": "Public comfort signals",
         "description": "Shade, seating, crossings, lighting, noise, and perceived safety determine whether people can use the city comfortably.",
-        "signalFocus": ["comfort", "safety", "public realm"],
+        "signalFocus": [
+          "comfort",
+          "safety",
+          "public realm"
+        ],
         "image": {
           "url": "/smart-city/urban-signals/public-comfort.png",
-          "alt": "Public comfort signals in a city district"
+          "alt": "Public comfort signals in a city district",
+          "mobile": {
+            "src": "/smart-city/urban-signals/mobile/public-comfort.webp",
+            "alt": "Public comfort signals in a city district",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/urban-signals/thumbnail/public-comfort.webp",
+            "alt": "Public comfort signals in a city district",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/urban-signals/desktop/public-comfort.webp",
+            "alt": "Public comfort signals in a city district",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "landingUrl": "/smart-city/city-systems-density-and-comfort/"
       }
@@ -267,7 +700,28 @@
         "description": "People, routines, and local behavior are the starting point for every smart city interpretation.",
         "image": {
           "url": "/smart-city/hero/when-human-life-shapes-the-city.png",
-          "alt": "Human life shaping a smart city"
+          "alt": "Human life shaping a smart city",
+          "mobile": {
+            "src": "/smart-city/hero/mobile/when-human-life-shapes-the-city.webp",
+            "alt": "Human life shaping a smart city",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/hero/thumbnail/when-human-life-shapes-the-city.webp",
+            "alt": "Human life shaping a smart city",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/hero/desktop/when-human-life-shapes-the-city.webp",
+            "alt": "Human life shaping a smart city",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "landingUrl": "/smart-city/when-human-life-shapes-the-city/"
       },
@@ -276,7 +730,28 @@
         "description": "A useful system respects the city that already exists before proposing future infrastructure.",
         "image": {
           "url": "/smart-city/editorial/local-as-global-prototype.png",
-          "alt": "Local context in a smart city prototype"
+          "alt": "Local context in a smart city prototype",
+          "mobile": {
+            "src": "/smart-city/editorial/mobile/local-as-global-prototype.webp",
+            "alt": "Local context in a smart city prototype",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/editorial/thumbnail/local-as-global-prototype.webp",
+            "alt": "Local context in a smart city prototype",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/editorial/desktop/local-as-global-prototype.webp",
+            "alt": "Local context in a smart city prototype",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "landingUrl": "/smart-city/editorial-local-as-global-prototype/"
       },
@@ -285,7 +760,28 @@
         "description": "Technology earns its place when the city system, user need, and operational role are clear.",
         "image": {
           "url": "/smart-city/editorial/system-before-technology.png",
-          "alt": "Systems before technology in smart city planning"
+          "alt": "Systems before technology in smart city planning",
+          "mobile": {
+            "src": "/smart-city/editorial/mobile/system-before-technology.webp",
+            "alt": "Systems before technology in smart city planning",
+            "width": 960,
+            "height": 540,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-city/editorial/thumbnail/system-before-technology.webp",
+            "alt": "Systems before technology in smart city planning",
+            "width": 640,
+            "height": 360,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-city/editorial/desktop/system-before-technology.webp",
+            "alt": "Systems before technology in smart city planning",
+            "width": 1920,
+            "height": 1080,
+            "quality": 82
+          }
         },
         "landingUrl": "/smart-city/editorial-system-before-technology/"
       }
@@ -303,7 +799,28 @@
       },
       "image": {
         "url": "/smart-city/hero-section/city-shaped-by-people-move.png",
-        "alt": "People moving through a Chorn Planet Smart City environment"
+        "alt": "People moving through a Chorn Planet Smart City environment",
+        "mobile": {
+          "src": "/smart-city/hero-section/mobile/city-shaped-by-people-move.webp",
+          "alt": "People moving through a Chorn Planet Smart City environment",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/smart-city/hero-section/thumbnail/city-shaped-by-people-move.webp",
+          "alt": "People moving through a Chorn Planet Smart City environment",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/smart-city/hero-section/desktop/city-shaped-by-people-move.webp",
+          "alt": "People moving through a Chorn Planet Smart City environment",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     "navigation": {
@@ -342,8 +859,16 @@
     "link": "/smart-city/chiang-mai/smart-city-overview/",
     "media": {
       "image_url": "/smart-city/hero-section/city-shaped-by-people-move.png",
-      "image_tags": ["Smart City", "Chiang Mai"]
+      "image_tags": [
+        "Smart City",
+        "Chiang Mai"
+      ]
     }
   },
-  "smartCityTags": ["Smart City", "Human Flow", "Mobility", "Public Space"]
+  "smartCityTags": [
+    "Smart City",
+    "Human Flow",
+    "Mobility",
+    "Public Space"
+  ]
 }

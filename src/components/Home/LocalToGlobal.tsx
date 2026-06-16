@@ -1,6 +1,10 @@
 import Image from "next/image"
 import Link from "next/link"
 import {ILocalToGlobal} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 const localToGlobalUi: Record<string, { footerLink: string }> = {
     en: {footerLink: "See how local life becomes a global signal"},
@@ -35,8 +39,8 @@ export default function LocalToGlobal({lang, data}: { lang: string; data: ILocal
                     <div key={index} className="local-to-global__item">
                         <div className="local-to-global__image">
                             <Image
-                                src={item.image.url}
-                                alt={item.image.alt}
+                                src={getPlatformImageSrc(item.image, "thumbnail")}
+                                alt={getPlatformImageAlt(item.image, "thumbnail")}
                                 fill
                                 sizes="(max-width: 900px) 100vw, 50vw"
                             />

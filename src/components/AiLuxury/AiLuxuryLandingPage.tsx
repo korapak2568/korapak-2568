@@ -3,6 +3,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import type {AiLuxuryContent} from "@/lib/platform-content/luxuryContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 import {usePlatformLuxuryContent} from "@/lib/platform-content/usePlatformLuxuryContent";
 
 export default function AiLuxuryLandingPage({
@@ -37,8 +41,8 @@ export default function AiLuxuryLandingPage({
               aria-label="AI Luxury hero visual"
             >
               <Image
-                src={heroImage.src}
-                alt={heroImage.alt}
+                src={getPlatformImageSrc(heroImage, "desktop")}
+                alt={getPlatformImageAlt(heroImage, "desktop")}
                 fill
                 sizes={heroImage.sizes}
                 priority
@@ -92,8 +96,8 @@ export default function AiLuxuryLandingPage({
         <div className="container">
           <div className="ai-luxury-readiness__image">
             <Image
-              src={readinessImage.src}
-              alt={readinessImage.alt}
+              src={getPlatformImageSrc(readinessImage, "desktop")}
+              alt={getPlatformImageAlt(readinessImage, "desktop")}
               width={readinessImage.width}
               height={readinessImage.height}
               sizes={readinessImage.sizes}
@@ -124,8 +128,8 @@ export default function AiLuxuryLandingPage({
               <article key={segment.title} className="ai-luxury-image-card">
                 <div className="ai-luxury-image-card__image">
                   <Image
-                    src={segment.image.src}
-                    alt={segment.image.alt}
+                    src={getPlatformImageSrc(segment.image, "thumbnail")}
+                    alt={getPlatformImageAlt(segment.image, "thumbnail")}
                     fill
                     sizes={segment.image.sizes}
                   />
@@ -155,8 +159,8 @@ export default function AiLuxuryLandingPage({
                 </div>
                 <div className="ai-luxury-layer-card__image">
                   <Image
-                    src={layer.image.src}
-                    alt={layer.image.alt}
+                    src={getPlatformImageSrc(layer.image, "thumbnail")}
+                    alt={getPlatformImageAlt(layer.image, "thumbnail")}
                     fill
                     sizes={layer.image.sizes}
                   />
@@ -180,8 +184,8 @@ export default function AiLuxuryLandingPage({
           <div className="ai-luxury-signal__grid">
             <div className="ai-luxury-signal__image">
               <Image
-                src={ventureImage.src}
-                alt={ventureImage.alt}
+                src={getPlatformImageSrc(ventureImage, "desktop")}
+                alt={getPlatformImageAlt(ventureImage, "desktop")}
                 width={ventureImage.width}
                 height={ventureImage.height}
                 sizes={ventureImage.sizes}

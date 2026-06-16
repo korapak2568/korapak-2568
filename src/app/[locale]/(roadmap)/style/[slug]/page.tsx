@@ -10,6 +10,10 @@ import {
   getPlatformOutfitSetById,
   getPlatformOutfitSets,
 } from "@/lib/platform-content/styleContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 type PageParams = {
   params: Promise<{
@@ -81,8 +85,8 @@ export default async function Page({ params }: PageParams) {
         </div>
         <div className="platform-outfit-detail-hero__media">
           <Image
-            src={outfitSet.image.src}
-            alt={outfitSet.image.alt}
+            src={getPlatformImageSrc(outfitSet.image, "desktop")}
+            alt={getPlatformImageAlt(outfitSet.image, "desktop")}
             fill
             priority
             sizes="(max-width: 991px) 100vw, 48vw"
@@ -107,8 +111,8 @@ export default async function Page({ params }: PageParams) {
         {outfitSet.images.map((detailImage, index) => (
           <figure key={detailImage.image.src}>
             <Image
-              src={detailImage.image.src}
-              alt={detailImage.image.alt}
+              src={getPlatformImageSrc(detailImage.image, "thumbnail")}
+              alt={getPlatformImageAlt(detailImage.image, "thumbnail")}
               fill
               sizes="(max-width: 768px) 50vw, 24vw"
               style={{ objectFit: "cover", objectPosition: "50% 18%" }}
@@ -139,8 +143,8 @@ export default async function Page({ params }: PageParams) {
               >
                 <div className="platform-outfit-card__media">
                   <Image
-                    src={relatedOutfitSet.image.src}
-                    alt={relatedOutfitSet.image.alt}
+                    src={getPlatformImageSrc(relatedOutfitSet.image, "thumbnail")}
+                    alt={getPlatformImageAlt(relatedOutfitSet.image, "thumbnail")}
                     fill
                     sizes="(max-width: 768px) 100vw, 31vw"
                     style={{ objectFit: "cover", objectPosition: "50% 18%" }}

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import platformStyleEnSeed from "@/data/style/en.seed.json";
 import platformStyleThSeed from "@/data/style/th.seed.json";
+import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
 
 type PlatformMeta = {
   title: string;
@@ -29,6 +30,9 @@ export type PlatformOutfitHeroImage = {
   src: string;
   alt: string;
   sizes: string;
+  mobile?: PlatformResponsiveImageVariant;
+  thumbnail?: PlatformResponsiveImageVariant;
+  desktop?: PlatformResponsiveImageVariant;
   imageGenerationSize?: PlatformOutfitImageGenerationSize;
 };
 
@@ -42,6 +46,9 @@ export type PlatformOutfitImageGenerationSize = {
 export type PlatformOutfitImage = {
   src: string;
   alt: string;
+  mobile?: PlatformResponsiveImageVariant;
+  thumbnail?: PlatformResponsiveImageVariant;
+  desktop?: PlatformResponsiveImageVariant;
 };
 
 export type PlatformOutfitDetailImage = {

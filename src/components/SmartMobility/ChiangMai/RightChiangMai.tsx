@@ -2,6 +2,10 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import {ISmartImage} from "@/lib/model/ISmartMobility";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function RightChiangMai(
     {lang, rightItems}: {
@@ -21,8 +25,14 @@ export default function RightChiangMai(
                                         {
                                             item.media?.image_url &&
                                             <Image
-                                                src={item.media.image_url}
-                                                alt={item.title}
+                                                src={getPlatformImageSrc(
+                                                    {image_url: item.media.image_url, alt: item.title},
+                                                    "thumbnail",
+                                                )}
+                                                alt={getPlatformImageAlt(
+                                                    {image_url: item.media.image_url, alt: item.title},
+                                                    "thumbnail",
+                                                )}
                                                 width={650}
                                                 height={500}
                                             />

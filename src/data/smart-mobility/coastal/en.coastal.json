@@ -11,7 +11,28 @@
     "story": "Beach Gateway serves as the welcoming mobility entrance to the coastal civilization district where intelligent transportation, oceanfront environments, and AI-assisted tourism experiences connect seamlessly into daily life.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal1-beach-gateway.png",
-      "alt": "MTS Coastal 1 Beach Gateway futuristic coastal station"
+      "alt": "MTS Coastal 1 Beach Gateway futuristic coastal station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal1-beach-gateway.webp",
+        "alt": "MTS Coastal 1 Beach Gateway futuristic coastal station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal1-beach-gateway.webp",
+        "alt": "MTS Coastal 1 Beach Gateway futuristic coastal station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal1-beach-gateway.webp",
+        "alt": "MTS Coastal 1 Beach Gateway futuristic coastal station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -32,7 +53,28 @@
     "story": "Coral Bay Marina integrates luxury coastal mobility, marine tourism experiences, and intelligent waterfront infrastructure into a connected future civilization ecosystem.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
-      "alt": "MTS Coastal 2 Coral Bay Marina intelligent marina station"
+      "alt": "MTS Coastal 2 Coral Bay Marina intelligent marina station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+        "alt": "MTS Coastal 2 Coral Bay Marina intelligent marina station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+        "alt": "MTS Coastal 2 Coral Bay Marina intelligent marina station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+        "alt": "MTS Coastal 2 Coral Bay Marina intelligent marina station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -53,7 +95,28 @@
     "story": "Coconut Beach Garden blends tropical landscapes, intelligent transportation systems, and nature-connected tourism experiences into a peaceful future mobility environment.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal3-coconut-beach-garden.png",
-      "alt": "MTS Coastal 3 Coconut Beach Garden tropical smart station"
+      "alt": "MTS Coastal 3 Coconut Beach Garden tropical smart station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal3-coconut-beach-garden.webp",
+        "alt": "MTS Coastal 3 Coconut Beach Garden tropical smart station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal3-coconut-beach-garden.webp",
+        "alt": "MTS Coastal 3 Coconut Beach Garden tropical smart station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal3-coconut-beach-garden.webp",
+        "alt": "MTS Coastal 3 Coconut Beach Garden tropical smart station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -74,7 +137,28 @@
     "story": "Island Panorama Point connects elevated coastal exploration, cinematic ocean views, and intelligent mobility infrastructure designed for future civilization tourism experiences.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal4-island-panorama-point.png",
-      "alt": "MTS Coastal 4 Island Panorama Point elevated station"
+      "alt": "MTS Coastal 4 Island Panorama Point elevated station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal4-island-panorama-point.webp",
+        "alt": "MTS Coastal 4 Island Panorama Point elevated station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal4-island-panorama-point.webp",
+        "alt": "MTS Coastal 4 Island Panorama Point elevated station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal4-island-panorama-point.webp",
+        "alt": "MTS Coastal 4 Island Panorama Point elevated station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -95,7 +179,28 @@
     "story": "White Sand Resort District serves as a luxury mobility hub where intelligent hospitality systems, resort environments, and future lifestyle experiences coexist harmoniously.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal5-white-sand-resort-district.png",
-      "alt": "MTS Coastal 5 White Sand Resort District luxury station"
+      "alt": "MTS Coastal 5 White Sand Resort District luxury station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal5-white-sand-resort-district.webp",
+        "alt": "MTS Coastal 5 White Sand Resort District luxury station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal5-white-sand-resort-district.webp",
+        "alt": "MTS Coastal 5 White Sand Resort District luxury station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal5-white-sand-resort-district.webp",
+        "alt": "MTS Coastal 5 White Sand Resort District luxury station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -116,7 +221,28 @@
     "story": "Sunrise Ocean Deck combines panoramic ocean mobility, intelligent environmental systems, and emotionally inspiring transportation experiences for future coastal living.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
-      "alt": "MTS Coastal 6 Sunrise Ocean Deck future station"
+      "alt": "MTS Coastal 6 Sunrise Ocean Deck future station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+        "alt": "MTS Coastal 6 Sunrise Ocean Deck future station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+        "alt": "MTS Coastal 6 Sunrise Ocean Deck future station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+        "alt": "MTS Coastal 6 Sunrise Ocean Deck future station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -137,7 +263,28 @@
     "story": "Tropical Lagoon Bay integrates lagoon tourism, intelligent mobility systems, and nature-inspired architecture into a connected future civilization destination.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal7-tropical-lagoon-bay.png",
-      "alt": "MTS Coastal 7 Tropical Lagoon Bay smart mobility station"
+      "alt": "MTS Coastal 7 Tropical Lagoon Bay smart mobility station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal7-tropical-lagoon-bay.webp",
+        "alt": "MTS Coastal 7 Tropical Lagoon Bay smart mobility station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal7-tropical-lagoon-bay.webp",
+        "alt": "MTS Coastal 7 Tropical Lagoon Bay smart mobility station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal7-tropical-lagoon-bay.webp",
+        "alt": "MTS Coastal 7 Tropical Lagoon Bay smart mobility station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -158,7 +305,28 @@
     "story": "Ocean Cliff Horizon explores elevated mobility architecture, intelligent transportation systems, and cinematic coastal environments designed for future exploration.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal8-ocean-cliff-horizon.png",
-      "alt": "MTS Coastal 8 Ocean Cliff Horizon cliffside station"
+      "alt": "MTS Coastal 8 Ocean Cliff Horizon cliffside station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal8-ocean-cliff-horizon.webp",
+        "alt": "MTS Coastal 8 Ocean Cliff Horizon cliffside station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal8-ocean-cliff-horizon.webp",
+        "alt": "MTS Coastal 8 Ocean Cliff Horizon cliffside station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal8-ocean-cliff-horizon.webp",
+        "alt": "MTS Coastal 8 Ocean Cliff Horizon cliffside station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -179,7 +347,28 @@
     "story": "Seaside Market Promenade connects commerce, tourism, intelligent transportation, and cultural lifestyle experiences into a vibrant future coastal ecosystem.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal9-seaside-market-promenade.png",
-      "alt": "MTS Coastal 9 Seaside Market Promenade integrated station"
+      "alt": "MTS Coastal 9 Seaside Market Promenade integrated station",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal9-seaside-market-promenade.webp",
+        "alt": "MTS Coastal 9 Seaside Market Promenade integrated station",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal9-seaside-market-promenade.webp",
+        "alt": "MTS Coastal 9 Seaside Market Promenade integrated station",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal9-seaside-market-promenade.webp",
+        "alt": "MTS Coastal 9 Seaside Market Promenade integrated station",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,
@@ -200,7 +389,28 @@
     "story": "Grand Coastal Terminal acts as the central coastal transportation gateway connecting intelligent mobility, luxury tourism districts, and future civilization infrastructure networks.",
     "image": {
       "src": "/images-platform/smart-mobility/mts-coastal10-grand-coastal-terminal.png",
-      "alt": "MTS Coastal 10 Grand Coastal Terminal central mobility hub"
+      "alt": "MTS Coastal 10 Grand Coastal Terminal central mobility hub",
+      "mobile": {
+        "src": "/images-platform/smart-mobility/mobile/mts-coastal10-grand-coastal-terminal.webp",
+        "alt": "MTS Coastal 10 Grand Coastal Terminal central mobility hub",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images-platform/smart-mobility/thumbnail/mts-coastal10-grand-coastal-terminal.webp",
+        "alt": "MTS Coastal 10 Grand Coastal Terminal central mobility hub",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images-platform/smart-mobility/desktop/mts-coastal10-grand-coastal-terminal.webp",
+        "alt": "MTS Coastal 10 Grand Coastal Terminal central mobility hub",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     },
     "imageGenerationSize": {
       "width": 1536,

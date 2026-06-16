@@ -5,6 +5,10 @@ import SmartCityRight from "./SmartCityRight";
 import SmartCityBottom from "./SmartCityBottom";
 import {ISmartCityItem} from "@/lib/model/ISmartCity";
 import {SmartCityChiangMaiBottomContent} from "@/lib/model/ISmartCityChiangMai";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 const smartCityMainUi: Record<string, {
     eyebrow: string;
@@ -164,8 +168,14 @@ export default function SmartCityMain(
                             aria-label={ui.imageLinkLabel}
                         >
                             <Image
-                                src={smartCityItem.media.image_url}
-                                alt={smartCityItem.title}
+                                src={getPlatformImageSrc(
+                                    {image_url: smartCityItem.media.image_url, alt: smartCityItem.title},
+                                    "desktop",
+                                )}
+                                alt={getPlatformImageAlt(
+                                    {image_url: smartCityItem.media.image_url, alt: smartCityItem.title},
+                                    "desktop",
+                                )}
                                 width={1200}
                                 height={720}
                                 sizes="(max-width: 991px) 100vw, 68vw"

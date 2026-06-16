@@ -1,6 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { PlatformCard } from "@/lib/platform-content/homeContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 function getLocalizedHref(lang: string, href: string): string {
   if (href.startsWith("http")) {
@@ -26,10 +30,10 @@ export default function PlatformContentCard({
         aria-label={card.title}
       >
         <Image
-          src={card.image.src}
-          alt={card.image.alt}
+          src={getPlatformImageSrc(card.image, "thumbnail")}
+          alt={getPlatformImageAlt(card.image, "thumbnail")}
           fill
-          sizes="(max-width: 768px) 100vw, 33vw"
+          sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 320px"
         />
       </Link>
       <div className="platform-card__body">

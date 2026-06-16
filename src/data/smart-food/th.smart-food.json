@@ -26,7 +26,28 @@
     "visual": {
       "src": "/smart-food/smart-food-overview.png",
       "alt": "ภาพแพลตฟอร์ม Smart Food AI ที่ให้บริการลูกค้าในเชียงใหม่",
-      "ariaLabel": "เรื่องราวภาพของ Smart Food AI"
+      "ariaLabel": "เรื่องราวภาพของ Smart Food AI",
+      "mobile": {
+        "src": "/smart-food/mobile/smart-food-overview.webp",
+        "alt": "ภาพแพลตฟอร์ม Smart Food AI ที่ให้บริการลูกค้าในเชียงใหม่",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/smart-food/thumbnail/smart-food-overview.webp",
+        "alt": "ภาพแพลตฟอร์ม Smart Food AI ที่ให้บริการลูกค้าในเชียงใหม่",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/smart-food/desktop/smart-food-overview.webp",
+        "alt": "ภาพแพลตฟอร์ม Smart Food AI ที่ให้บริการลูกค้าในเชียงใหม่",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      }
     }
   },
   "proof": {
@@ -41,7 +62,28 @@
     ],
     "image": {
       "src": "/smart-food/chat-ordering.png",
-      "alt": "Smart Food AI ให้บริการลูกค้าในเชียงใหม่ผ่านการสั่งอาหารผ่านแชต"
+      "alt": "Smart Food AI ให้บริการลูกค้าในเชียงใหม่ผ่านการสั่งอาหารผ่านแชต",
+      "mobile": {
+        "src": "/smart-food/mobile/chat-ordering.webp",
+        "alt": "Smart Food AI ให้บริการลูกค้าในเชียงใหม่ผ่านการสั่งอาหารผ่านแชต",
+        "width": 720,
+        "height": 608,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/smart-food/thumbnail/chat-ordering.webp",
+        "alt": "Smart Food AI ให้บริการลูกค้าในเชียงใหม่ผ่านการสั่งอาหารผ่านแชต",
+        "width": 480,
+        "height": 405,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/smart-food/desktop/chat-ordering.webp",
+        "alt": "Smart Food AI ให้บริการลูกค้าในเชียงใหม่ผ่านการสั่งอาหารผ่านแชต",
+        "width": 900,
+        "height": 760,
+        "quality": 82
+      }
     },
     "cards": [
       {
@@ -73,7 +115,28 @@
         "text": "ลูกค้าสามารถสั่งอาหารผ่านแชตที่มี AI ช่วยสนับสนุน โดยเลือกเมนู สอบถามข้อมูล หรือยืนยันคำสั่งซื้อผ่านบทสนทนาที่เข้าใจง่าย",
         "image": {
           "src": "/smart-food/process1-chat-ordering.png",
-          "alt": "หน้าจอการสั่งอาหารผ่านแชต AI สำหรับลูกค้า Smart Food"
+          "alt": "หน้าจอการสั่งอาหารผ่านแชต AI สำหรับลูกค้า Smart Food",
+          "mobile": {
+            "src": "/smart-food/mobile/process1-chat-ordering.webp",
+            "alt": "หน้าจอการสั่งอาหารผ่านแชต AI สำหรับลูกค้า Smart Food",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process1-chat-ordering.webp",
+            "alt": "หน้าจอการสั่งอาหารผ่านแชต AI สำหรับลูกค้า Smart Food",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process1-chat-ordering.webp",
+            "alt": "หน้าจอการสั่งอาหารผ่านแชต AI สำหรับลูกค้า Smart Food",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          }
         }
       },
       {
@@ -81,7 +144,28 @@
         "text": "ระบบยืนยันยอดรวมของคำสั่งซื้อ รับข้อมูลหรือสลิปการชำระเงิน และตรวจสอบบิลก่อนส่งต่อคำสั่งซื้อไปยังขั้นตอนถัดไป",
         "image": {
           "src": "/smart-food/process2-bill-processing.png",
-          "alt": "การประมวลผลบิลและการตรวจสอบการชำระเงินของ Smart Food"
+          "alt": "การประมวลผลบิลและการตรวจสอบการชำระเงินของ Smart Food",
+          "mobile": {
+            "src": "/smart-food/mobile/process2-bill-processing.webp",
+            "alt": "การประมวลผลบิลและการตรวจสอบการชำระเงินของ Smart Food",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process2-bill-processing.webp",
+            "alt": "การประมวลผลบิลและการตรวจสอบการชำระเงินของ Smart Food",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process2-bill-processing.webp",
+            "alt": "การประมวลผลบิลและการตรวจสอบการชำระเงินของ Smart Food",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          }
         }
       },
       {
@@ -89,7 +173,28 @@
         "text": "ทีมครัวเตรียมคำสั่งซื้อที่ได้รับการยืนยัน โดยใช้วัตถุดิบสดใหม่ เวิร์กโฟลว์ที่ชัดเจน และมาตรฐานคุณภาพอาหารที่สม่ำเสมอ",
         "image": {
           "src": "/smart-food/process3-cooking.png",
-          "alt": "ทีมครัวกำลังเตรียมคำสั่งซื้อ Smart Food ที่ได้รับการยืนยัน"
+          "alt": "ทีมครัวกำลังเตรียมคำสั่งซื้อ Smart Food ที่ได้รับการยืนยัน",
+          "mobile": {
+            "src": "/smart-food/mobile/process3-cooking.webp",
+            "alt": "ทีมครัวกำลังเตรียมคำสั่งซื้อ Smart Food ที่ได้รับการยืนยัน",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process3-cooking.webp",
+            "alt": "ทีมครัวกำลังเตรียมคำสั่งซื้อ Smart Food ที่ได้รับการยืนยัน",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process3-cooking.webp",
+            "alt": "ทีมครัวกำลังเตรียมคำสั่งซื้อ Smart Food ที่ได้รับการยืนยัน",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          }
         }
       },
       {
@@ -97,7 +202,28 @@
         "text": "ไรเดอร์รับคำสั่งซื้อที่เสร็จสมบูรณ์และจัดส่งให้ลูกค้าตามเวิร์กโฟลว์บริการของ Smart Food",
         "image": {
           "src": "/smart-food/process4-delivery.png",
-          "alt": "เวิร์กโฟลว์การจัดส่ง Smart Food พร้อมการส่งมอบให้ไรเดอร์"
+          "alt": "เวิร์กโฟลว์การจัดส่ง Smart Food พร้อมการส่งมอบให้ไรเดอร์",
+          "mobile": {
+            "src": "/smart-food/mobile/process4-delivery.webp",
+            "alt": "เวิร์กโฟลว์การจัดส่ง Smart Food พร้อมการส่งมอบให้ไรเดอร์",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process4-delivery.webp",
+            "alt": "เวิร์กโฟลว์การจัดส่ง Smart Food พร้อมการส่งมอบให้ไรเดอร์",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process4-delivery.webp",
+            "alt": "เวิร์กโฟลว์การจัดส่ง Smart Food พร้อมการส่งมอบให้ไรเดอร์",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          }
         }
       },
       {
@@ -105,7 +231,28 @@
         "text": "ลูกค้ารับอาหารผ่านกระบวนการส่งมอบที่ชัดเจน เป็นการสิ้นสุดเส้นทางบริการตั้งแต่การสั่งซื้อจนถึงการรับอาหาร",
         "image": {
           "src": "/smart-food/process5-receiving.png",
-          "alt": "ลูกค้ารับคำสั่งซื้อ Smart Food ที่เสร็จสมบูรณ์"
+          "alt": "ลูกค้ารับคำสั่งซื้อ Smart Food ที่เสร็จสมบูรณ์",
+          "mobile": {
+            "src": "/smart-food/mobile/process5-receiving.webp",
+            "alt": "ลูกค้ารับคำสั่งซื้อ Smart Food ที่เสร็จสมบูรณ์",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process5-receiving.webp",
+            "alt": "ลูกค้ารับคำสั่งซื้อ Smart Food ที่เสร็จสมบูรณ์",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process5-receiving.webp",
+            "alt": "ลูกค้ารับคำสั่งซื้อ Smart Food ที่เสร็จสมบูรณ์",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          }
         }
       }
     ]

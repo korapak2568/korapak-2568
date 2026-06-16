@@ -17,6 +17,10 @@ import {
   getPlatformOutfitLocalizedText,
   getPlatformOutfitSets,
 } from "@/lib/platform-content/styleContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 import { usePlatformHomeContent } from "@/lib/platform-content/usePlatformHomeContent";
 import sofaCoupleStory from "@/data/story/sofa-couple/en.sofa-couple.json";
 
@@ -82,8 +86,8 @@ export function PlatformHomeCircularSystemSection({
         >
           <div className="platform-home-sofa-story__media">
             <Image
-              src={sofaCoupleStory.imagePortrait.src}
-              alt={sofaCoupleStory.imagePortrait.alt}
+              src={getPlatformImageSrc(sofaCoupleStory.imagePortrait, "desktop")}
+              alt={getPlatformImageAlt(sofaCoupleStory.imagePortrait, "desktop")}
               fill
               sizes="(max-width: 991px) 100vw, 50vw"
               style={{ objectFit: "cover" }}
@@ -143,10 +147,10 @@ export function PlatformHomeCircularSystemSection({
                 >
                   <div className="platform-home-sofa-story__card-image">
                     <Image
-                      src={storyImage.image.src}
-                      alt={storyImage.image.alt}
+                      src={getPlatformImageSrc(storyImage.image, "thumbnail")}
+                      alt={getPlatformImageAlt(storyImage.image, "thumbnail")}
                       fill
-                      sizes="(max-width: 640px) 50vw, 18vw"
+                      sizes="(max-width: 640px) 50vw, 180px"
                       style={{ objectFit: "cover" }}
                     />
                   </div>
@@ -192,10 +196,10 @@ function PlatformHomeOutfitSection({
             >
               <div className="platform-outfit-card__media">
                 <Image
-                  src={outfitSet.image.src}
-                  alt={outfitSet.image.alt}
+                  src={getPlatformImageSrc(outfitSet.image, "thumbnail")}
+                  alt={getPlatformImageAlt(outfitSet.image, "thumbnail")}
                   fill
-                  sizes="(max-width: 768px) 100vw, 31vw"
+                  sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 410px"
                   style={{ objectFit: "cover", objectPosition: "50% 18%" }}
                 />
               </div>
@@ -246,8 +250,8 @@ export default function PlatformHomePage({
       <section className="platform-hero">
         <div className="platform-hero__media">
           <Image
-            src={homeContent.hero.image.src}
-            alt={homeContent.hero.image.alt}
+            src={getPlatformImageSrc(homeContent.hero.image, "desktop")}
+            alt={getPlatformImageAlt(homeContent.hero.image, "desktop")}
             fill
             priority
             sizes="100vw"
@@ -284,6 +288,7 @@ export default function PlatformHomePage({
         lang={lang}
         circular={homeContent.circular}
       />
+
       <PlatformHomeOutfitSection lang={lang} section={outfitSection} />
     </main>
   );

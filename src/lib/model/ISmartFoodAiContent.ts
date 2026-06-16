@@ -1,6 +1,11 @@
+import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
+
 export interface ISmartFoodAiContentImage {
   src: string;
   alt: string;
+  mobile?: PlatformResponsiveImageVariant;
+  thumbnail?: PlatformResponsiveImageVariant;
+  desktop?: PlatformResponsiveImageVariant;
 }
 
 export interface ISmartFoodAiAction {

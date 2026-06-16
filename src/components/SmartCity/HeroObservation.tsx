@@ -1,7 +1,12 @@
 // src/components/SmartCity/HeroObservation.tsx
 
+import Image from "next/image";
 import Link from "next/link";
 import {ISmartCitySection} from "@/lib/model/ISmartCityLanding";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function HeroObservation(
     {
@@ -32,10 +37,13 @@ export default function HeroObservation(
 
             <div className="hero-observation__image">
                 {
-                    image && <img
-                        src={image.url}
-                        alt={image.alt}
-                        loading="eager"
+                    image && <Image
+                        src={getPlatformImageSrc(image, "desktop")}
+                        alt={getPlatformImageAlt(image, "desktop")}
+                        width={1200}
+                        height={800}
+                        priority
+                        sizes="(max-width: 900px) 100vw, 50vw"
                     />
                 }
 

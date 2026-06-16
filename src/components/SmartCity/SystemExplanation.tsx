@@ -1,6 +1,11 @@
 // src/components/SmartCity/SystemExplanation.tsx
 
+import Image from "next/image";
 import {ISmartCitySection} from "@/lib/model/ISmartCityLanding";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function SystemExplanation(
     {
@@ -24,10 +29,12 @@ export default function SystemExplanation(
 
             {image && (
                 <div className="system-explanation__image">
-                    <img
-                        src={image.url}
-                        alt={image.alt}
-                        loading="lazy"
+                    <Image
+                        src={getPlatformImageSrc(image, "desktop")}
+                        alt={getPlatformImageAlt(image, "desktop")}
+                        width={1200}
+                        height={800}
+                        sizes="(max-width: 900px) 100vw, 50vw"
                     />
 
                     <div className={'neo-tag-smart-city'}>

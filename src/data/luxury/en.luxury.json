@@ -8,7 +8,28 @@
     "eyebrow": "Chorn Planet AI Luxury",
     "title": "AI Luxury Platform for Real Estate, Hospitality & Lifestyle Ventures",
     "lead": "Chorn Planet turns premium places, services, and lifestyle brands into AI-native business ecosystems.",
-    "support": "Built for real estate companies, hospitality ventures, tourism destinations, mixed-use projects, and premium service businesses that need more than a website, campaign, or digital catalog."
+    "support": "Built for real estate companies, hospitality ventures, tourism destinations, mixed-use projects, and premium service businesses that need more than a website, campaign, or digital catalog.",
+    "mobile": {
+      "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+      "alt": "AI-native luxury platform concept for premium real estate and hospitality ventures",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+      "alt": "AI-native luxury platform concept for premium real estate and hospitality ventures",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+      "alt": "AI-native luxury platform concept for premium real estate and hospitality ventures",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    }
   },
   "heroContent": {
     "actionsLabel": "AI Luxury page actions",
@@ -36,14 +57,56 @@
     "alt": "Luxury future city architecture platform shown on a premium display with planning and AI readiness visuals",
     "width": 1792,
     "height": 1024,
-    "sizes": "(max-width: 1399px) 100vw, 1320px"
+    "sizes": "(max-width: 1399px) 100vw, 1320px",
+    "mobile": {
+      "src": "/images/ai-luxury/mobile/ai-luxury-strategic-readiness.webp",
+      "alt": "Luxury future city architecture platform shown on a premium display with planning and AI readiness visuals",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/images/ai-luxury/thumbnail/ai-luxury-strategic-readiness.webp",
+      "alt": "Luxury future city architecture platform shown on a premium display with planning and AI readiness visuals",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/images/ai-luxury/desktop/ai-luxury-strategic-readiness.webp",
+      "alt": "Luxury future city architecture platform shown on a premium display with planning and AI readiness visuals",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    }
   },
   "ventureImage": {
     "src": "/images/ai-luxury/venture-ready-business-signal.png",
     "alt": "Venture-ready AI luxury business platform signal for premium collaborators",
     "width": 1792,
     "height": 1024,
-    "sizes": "(max-width: 991px) 100vw, 58vw"
+    "sizes": "(max-width: 991px) 100vw, 58vw",
+    "mobile": {
+      "src": "/images/ai-luxury/mobile/venture-ready-business-signal.webp",
+      "alt": "Venture-ready AI luxury business platform signal for premium collaborators",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/images/ai-luxury/thumbnail/venture-ready-business-signal.webp",
+      "alt": "Venture-ready AI luxury business platform signal for premium collaborators",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/images/ai-luxury/desktop/venture-ready-business-signal.webp",
+      "alt": "Venture-ready AI luxury business platform signal for premium collaborators",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    }
   },
   "readinessSection": {
     "eyebrow": "Strategic readiness",
@@ -76,7 +139,28 @@
         "alt": "Premium mixed-use real estate destination with AI platform readiness",
         "width": 1200,
         "height": 900,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/segment-real-estate-mixed-use.webp",
+          "alt": "Premium mixed-use real estate destination with AI platform readiness",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/segment-real-estate-mixed-use.webp",
+          "alt": "Premium mixed-use real estate destination with AI platform readiness",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/segment-real-estate-mixed-use.webp",
+          "alt": "Premium mixed-use real estate destination with AI platform readiness",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        }
       }
     },
     {
@@ -87,7 +171,28 @@
         "alt": "Luxury resort hospitality experience supported by AI-native service workflows",
         "width": 1200,
         "height": 900,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/segment-hospitality-resort.webp",
+          "alt": "Luxury resort hospitality experience supported by AI-native service workflows",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/segment-hospitality-resort.webp",
+          "alt": "Luxury resort hospitality experience supported by AI-native service workflows",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/segment-hospitality-resort.webp",
+          "alt": "Luxury resort hospitality experience supported by AI-native service workflows",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        }
       }
     },
     {
@@ -98,7 +203,28 @@
         "alt": "Premium tourism destination platform with AI storytelling and service readiness",
         "width": 1200,
         "height": 900,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/segment-tourism-destination.webp",
+          "alt": "Premium tourism destination platform with AI storytelling and service readiness",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/segment-tourism-destination.webp",
+          "alt": "Premium tourism destination platform with AI storytelling and service readiness",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/segment-tourism-destination.webp",
+          "alt": "Premium tourism destination platform with AI storytelling and service readiness",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        }
       }
     },
     {
@@ -109,7 +235,28 @@
         "alt": "Luxury lifestyle commerce layer connected to AI-native customer experience",
         "width": 1200,
         "height": 900,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/segment-luxury-commerce.webp",
+          "alt": "Luxury lifestyle commerce layer connected to AI-native customer experience",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/segment-luxury-commerce.webp",
+          "alt": "Luxury lifestyle commerce layer connected to AI-native customer experience",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/segment-luxury-commerce.webp",
+          "alt": "Luxury lifestyle commerce layer connected to AI-native customer experience",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        }
       }
     }
   ],
@@ -122,7 +269,28 @@
         "alt": "AI brand storytelling layer for luxury real estate and hospitality platforms",
         "width": 1200,
         "height": 750,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/layer-brand-storytelling.webp",
+          "alt": "AI brand storytelling layer for luxury real estate and hospitality platforms",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/layer-brand-storytelling.webp",
+          "alt": "AI brand storytelling layer for luxury real estate and hospitality platforms",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/layer-brand-storytelling.webp",
+          "alt": "AI brand storytelling layer for luxury real estate and hospitality platforms",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       }
     },
     {
@@ -133,7 +301,28 @@
         "alt": "Customer journey intelligence for premium destination and luxury service experiences",
         "width": 1200,
         "height": 750,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/layer-customer-journey.webp",
+          "alt": "Customer journey intelligence for premium destination and luxury service experiences",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/layer-customer-journey.webp",
+          "alt": "Customer journey intelligence for premium destination and luxury service experiences",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/layer-customer-journey.webp",
+          "alt": "Customer journey intelligence for premium destination and luxury service experiences",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       }
     },
     {
@@ -144,7 +333,28 @@
         "alt": "AI-native service workflow platform for hospitality and premium business operations",
         "width": 1200,
         "height": 750,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/layer-service-workflow.webp",
+          "alt": "AI-native service workflow platform for hospitality and premium business operations",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/layer-service-workflow.webp",
+          "alt": "AI-native service workflow platform for hospitality and premium business operations",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/layer-service-workflow.webp",
+          "alt": "AI-native service workflow platform for hospitality and premium business operations",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       }
     },
     {
@@ -155,7 +365,28 @@
         "alt": "Luxury commerce intelligence layer connecting premium products and customer demand",
         "width": 1200,
         "height": 750,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/layer-commerce-intelligence.webp",
+          "alt": "Luxury commerce intelligence layer connecting premium products and customer demand",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/layer-commerce-intelligence.webp",
+          "alt": "Luxury commerce intelligence layer connecting premium products and customer demand",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/layer-commerce-intelligence.webp",
+          "alt": "Luxury commerce intelligence layer connecting premium products and customer demand",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       }
     },
     {
@@ -166,7 +397,28 @@
         "alt": "Venture-ready AI luxury platform foundation for future business expansion",
         "width": 1200,
         "height": 750,
-        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw"
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/images/ai-luxury/mobile/layer-venture-readiness.webp",
+          "alt": "Venture-ready AI luxury platform foundation for future business expansion",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images/ai-luxury/thumbnail/layer-venture-readiness.webp",
+          "alt": "Venture-ready AI luxury platform foundation for future business expansion",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images/ai-luxury/desktop/layer-venture-readiness.webp",
+          "alt": "Venture-ready AI luxury platform foundation for future business expansion",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
       }
     }
   ],

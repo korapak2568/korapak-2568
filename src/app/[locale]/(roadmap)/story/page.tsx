@@ -7,6 +7,10 @@ import {
   type MtsStation,
 } from "@/lib/platform-content/smartMobilityContent";
 import { getPlatformStoryContent } from "@/lib/platform-content/storyContent";
+import {
+  getPlatformImageAlt,
+  getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 type PageParams = {
   params: Promise<{
@@ -29,10 +33,10 @@ function StoryMtsStationCard({
       >
         <div className="platform-outfit-card__media">
           <Image
-            src={station.image.src}
-            alt={station.image.alt}
+            src={getPlatformImageSrc(station.image, "thumbnail")}
+            alt={getPlatformImageAlt(station.image, "thumbnail")}
             fill
-            sizes="(max-width: 768px) 100vw, 31vw"
+            sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 410px"
             style={{ objectFit: "cover" }}
           />
         </div>

@@ -170,6 +170,11 @@ export async function generateMetadata(): Promise<Metadata> {
 - Use `next/image` for React-rendered images. Avoid raw `<img>` unless there is a strong compatibility reason.
 - Keep image paths as local public paths such as `/images/...`; `next.config.mjs` handles CDN redirects.
 - `images.unoptimized: true` is already set globally; do not add per-image `unoptimized`.
+- For homepage, story, outfit, editorial card, thumbnail, and landing media, keep the original PNG/JPG `src` as the canonical source and OpenGraph-safe fallback, then add `mobile`, `thumbnail`, and `desktop` WebP variants in the content JSON when the image is rendered in UI.
+- Use the WebP variant that matches the rendered slot: `thumbnail` for cards, related grids, outfit cards, and compact homepage modules; `desktop` for full-width heroes or large feature media; keep `mobile` available for small-screen art direction or future viewport-aware rendering.
+- Each image variant should include `src`, `alt`, `width`, `height`, and a converter `quality` target. Current defaults: `thumbnail` quality around `72`, `mobile` around `78`, and `desktop` around `82`.
+- Size generated variants to the rendered slot rather than the original source: 4:3 cards around `480x360` thumbnails, `768x576` mobile, `1200x900` desktop; 16:10 outfit cards around `640x400` thumbnails, `800x500` mobile, `1600x1000` desktop; 16:9 heroes around `640x360` thumbnails, `960x540` mobile, `1920x1080` desktop; 2:3 portrait thumbnails around `480x720`, mobile `720x1080`, desktop `1024x1536`.
+- Components should resolve variants through the shared platform image helper instead of reading `image.src` directly for UI display. If a variant is absent, fall back to the original `src` so existing content remains render-safe until the converter outputs are generated.
 - Because global CSS sets `img { max-width: 100%; height: auto; }`, add `style={{ height: 'auto' }}` on `Image` components when width is controlled by props or CSS.
 - When SCSS sets an explicit image width, include `height: auto` in the same image rule.
 - Allowed remote image hosts are configured in `next.config.mjs`.

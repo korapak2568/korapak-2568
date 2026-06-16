@@ -3,6 +3,10 @@
 import Image from "next/image"
 import Link from "next/link"
 import {IGlobalPatterns} from "@/lib/model/ISmartCityMedia";
+import {
+    getPlatformImageAlt,
+    getPlatformImageSrc,
+} from "@/lib/platform-content/platformImageVariants";
 
 export default function GlobalPatterns({lang, data}: { lang: string; data: IGlobalPatterns }) {
     const {headline, paragraph, signals} = data
@@ -23,8 +27,8 @@ export default function GlobalPatterns({lang, data}: { lang: string; data: IGlob
                     >
                         <div className="global-patterns__image">
                             <Image
-                                src={signal.image.url}
-                                alt={signal.image.alt}
+                                src={getPlatformImageSrc(signal.image, "thumbnail")}
+                                alt={getPlatformImageAlt(signal.image, "thumbnail")}
                                 width={1200}
                                 height={750}
                             />
