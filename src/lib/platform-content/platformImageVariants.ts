@@ -20,7 +20,10 @@ export type PlatformResponsiveImage = {
 
 const platformImageVariantProfiles: Record<
   string,
-  Record<PlatformImageVariantKey, Omit<PlatformResponsiveImageVariant, "src" | "alt">>
+  Record<
+    PlatformImageVariantKey,
+    Omit<PlatformResponsiveImageVariant, "src" | "alt">
+  >
 > = {
   "16:9": {
     mobile: { width: 960, height: 540, quality: 78 },
@@ -73,7 +76,9 @@ function getVariantSrc(src: string, variant: PlatformImageVariantKey): string {
   return `${directory}/${variant}/${basename}.webp`;
 }
 
-function isResponsiveImageLike(value: unknown): value is PlatformResponsiveImage {
+function isResponsiveImageLike(
+  value: unknown,
+): value is PlatformResponsiveImage {
   if (!value || typeof value !== "object") {
     return false;
   }
@@ -106,27 +111,21 @@ export function withPlatformImageVariants<T extends PlatformResponsiveImage>(
 
   return {
     ...image,
-    mobile:
-      image.mobile ??
-      {
-        src: getVariantSrc(src, "mobile"),
-        alt: image.alt,
-        ...profile.mobile,
-      },
-    thumbnail:
-      image.thumbnail ??
-      {
-        src: getVariantSrc(src, "thumbnail"),
-        alt: image.alt,
-        ...profile.thumbnail,
-      },
-    desktop:
-      image.desktop ??
-      {
-        src: getVariantSrc(src, "desktop"),
-        alt: image.alt,
-        ...profile.desktop,
-      },
+    mobile: image.mobile ?? {
+      src: getVariantSrc(src, "mobile"),
+      alt: image.alt,
+      ...profile.mobile,
+    },
+    thumbnail: image.thumbnail ?? {
+      src: getVariantSrc(src, "thumbnail"),
+      alt: image.alt,
+      ...profile.thumbnail,
+    },
+    desktop: image.desktop ?? {
+      src: getVariantSrc(src, "desktop"),
+      alt: image.alt,
+      ...profile.desktop,
+    },
   };
 }
 
@@ -165,12 +164,14 @@ export function getPlatformImageVariant(
   image: PlatformResponsiveImage,
   variant: PlatformImageVariantKey,
 ): PlatformResponsiveImageVariant {
-  return image[variant] ?? {
-    src: getOriginalImageSrc(image),
-    alt: image.alt,
-    width: 0,
-    height: 0,
-  };
+  return (
+    image[variant] ?? {
+      src: getOriginalImageSrc(image),
+      alt: image.alt,
+      width: 0,
+      height: 0,
+    }
+  );
 }
 
 export function getPlatformImageSrc(

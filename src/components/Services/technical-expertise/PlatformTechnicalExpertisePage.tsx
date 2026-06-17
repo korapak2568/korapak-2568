@@ -9,6 +9,7 @@ import CloudInfraPageMain from "@/components/Services/cloud-infrastructure-syste
 import WebDevelopmentPageMain from "@/components/Services/WebDevelopment/WebDevelopmentPageMain";
 import Web3PageMain from "@/components/Services/web3-blockchain-development/Web3PageMain";
 import type { PlatformTechnicalExpertiseContent } from "@/lib/platform-content/technicalExpertiseContent";
+import { normalizePlatformTechnologyContent } from "@/lib/platform-content/technologyContentShared";
 import { getTechnicalExpertiseRouteBySlug } from "@/lib/platform-content/technicalExpertiseRoutes";
 import { usePlatformTechnicalExpertiseContent } from "@/lib/platform-content/usePlatformTechnicalExpertiseContent";
 import type { ReactNode } from "react";
@@ -74,7 +75,10 @@ export default function PlatformTechnicalExpertisePage({
     case "webDevelopment":
       page = (
         <div className="technology-page-shell">
-          <WebDevelopmentPageMain lang={lang} content={technical} />
+          <WebDevelopmentPageMain
+            lang={lang}
+            content={normalizePlatformTechnologyContent(technical, lang)}
+          />
         </div>
       );
       break;

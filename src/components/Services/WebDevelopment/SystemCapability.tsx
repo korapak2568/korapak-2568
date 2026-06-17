@@ -1,44 +1,21 @@
-import systemCapabilitiesContent from "@/components/Services/WebDevelopment/systemCapabilities.json";
-
-type SystemCapabilityItem = {
+export type SystemCapabilityItem = {
   title: string;
   description: string;
   layer: string;
-  tone: "enterprise" | "execution" | "control" | "physical";
+  tone: string;
 };
 
-type SystemCapabilitiesLocale = keyof typeof systemCapabilitiesContent;
-
-const defaultSystemCapabilities =
-  systemCapabilitiesContent.en as SystemCapabilityItem[];
-
-function resolveSystemCapabilityLocale(lang: string): SystemCapabilitiesLocale {
-  const normalizedLang = lang === "zh" ? "zh_CN" : lang;
-
-  if (normalizedLang in systemCapabilitiesContent) {
-    return normalizedLang as SystemCapabilitiesLocale;
-  }
-
-  return "en";
-}
-
-function getSystemCapabilities(lang: string): SystemCapabilityItem[] {
-  return (
-    (systemCapabilitiesContent[resolveSystemCapabilityLocale(lang)] as
-      | SystemCapabilityItem[]
-      | undefined) ?? defaultSystemCapabilities
-  );
-}
-
-export default function SystemCapability({ lang }: { lang: string }) {
-  const systemCapabilities = getSystemCapabilities(lang);
-
+export default function SystemCapability({
+  items,
+}: {
+  items: SystemCapabilityItem[];
+}) {
   return (
     <div
       className="system-capability system-capability__grid"
       aria-label="System Capability"
     >
-      {systemCapabilities.map((item, index) => (
+      {items.map((item, index) => (
         <article
           className={`system-capability__card system-capability__card--${item.tone}`}
           key={item.title}

@@ -5,21 +5,10 @@ import SystemCapability from "@/components/Services/WebDevelopment/SystemCapabil
 import WebDevelopmentBackEnd from "@/components/Services/WebDevelopment/WebDevelopmentBackEnd";
 import WevDevelopmentFrontEnd from "@/components/Services/WebDevelopment/WevDevelopmentFrontEnd";
 import WebDevelopmentDevOps from "@/components/Services/WebDevelopment/WebDevelopmentDevOps";
-import aiPlatformDevelopment from "./aiPlatformDevelopment.json";
 import { truncateText } from "@/lib/truncateText";
 import type { IFeatureStack } from "@/lib/model/IFeature";
-import type { PlatformTechnologyContent } from "@/lib/platform-content/technologyContent";
+import type { PlatformTechnologyContent } from "@/lib/platform-content/technologyContentShared";
 import { usePlatformTechnologyContent } from "@/lib/platform-content/usePlatformTechnologyContent";
-
-type AiPlatformDevelopmentLocale = keyof typeof aiPlatformDevelopment;
-
-function getAiPlatformDevelopmentContent(lang: string) {
-  const normalizedLang = lang === "zh" ? "zh_cn" : lang;
-  return (
-    aiPlatformDevelopment[normalizedLang as AiPlatformDevelopmentLocale] ??
-    aiPlatformDevelopment.en
-  );
-}
 
 export default function WebDevelopmentPageMain({
   lang,
@@ -31,8 +20,7 @@ export default function WebDevelopmentPageMain({
   const { data: cachedContent } = usePlatformTechnologyContent(lang, content);
   const technologyContent = cachedContent ?? content;
   const featureContent = technologyContent.feature;
-  const langx = getAiPlatformDevelopmentContent(lang);
-  const localTitle = langx.title;
+  const pageContent = technologyContent.page;
 
   return (
     <main className="technology-premium-page">
@@ -40,44 +28,38 @@ export default function WebDevelopmentPageMain({
         <div className="platform-shell policy-page__hero-inner">
           <div className="technology-document-hero__heading">
             <span className="platform-eyebrow">{featureContent.span}</span>
-            <h1>{localTitle}</h1>
-            <h2>
-              Technical documentation for Chorn Planet&apos;s AI-native platform
-            </h2>
+            <h1>{pageContent.title}</h1>
+            <h2>{pageContent.hero.subtitle}</h2>
           </div>
           <div className="policy-page__hero-copy">
-            <p>
-              This technology page acts as a planning document for Chorn
-              Planet&apos;s future technical ecosystem, connecting AI platform
-              development, technical expertise pages, cloud operations, web
-              systems, and system capability layers into one practical roadmap
-              for delivery and long-term architecture.
-            </p>
+            <p>{pageContent.hero.body}</p>
           </div>
           <aside
             className="policy-page__summary"
-            aria-label={`${localTitle} summary`}
+            aria-label={`${pageContent.title} summary`}
           >
-            <span>Technical Capability</span>
-            <strong>4</strong>
-            <small>system layers</small>
+            <span>{pageContent.summary.label}</span>
+            <strong>{pageContent.summary.value}</strong>
+            <small>{pageContent.summary.caption}</small>
           </aside>
         </div>
       </section>
 
       <section
         className="technology-system-capability"
-        aria-label="Technology system capability layers"
+        aria-label={pageContent.sections.systemCapability.ariaLabel}
       >
         <div className="technology-premium-container">
-          <h1>System Capability</h1>
-          <SystemCapability lang={lang} />
+          <h1>{pageContent.sections.systemCapability.title}</h1>
+          <SystemCapability
+            items={pageContent.sections.systemCapability.items}
+          />
         </div>
       </section>
 
       <section className="technology-premium-module technology-premium-module--stacks technology-premium-container">
         <h1 className="technology-premium-module__title">
-          Technology Delivery Stack
+          {pageContent.sections.deliveryStack.title}
         </h1>
         <WevDevelopmentFrontEnd
           lang={lang}
@@ -93,7 +75,7 @@ export default function WebDevelopmentPageMain({
       <section className="technology-premium-module technology-premium-module--feature">
         <div className="technology-premium-container">
           <h1 className="technology-premium-module__title">
-            Platform Delivery Model
+            {pageContent.sections.deliveryModel.title}
           </h1>
           <div className="technology-feature-grid">
             {technologyContent.feature.stacks.map(

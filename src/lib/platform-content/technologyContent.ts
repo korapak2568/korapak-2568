@@ -1,10 +1,12 @@
-import type { TechnicalExpertiseContentPayload } from "@/core/domain/technical-expertise-content.entity";
+import type { PlatformTechnologyContent } from "@/lib/platform-content/technologyContentShared";
+import { normalizePlatformTechnologyContent } from "@/lib/platform-content/technologyContentShared";
 import { getTechnicalExpertiseContentForPublicPage } from "@/lib/technical-expertise-content/technicalExpertiseContent.service";
 
-export type PlatformTechnologyContent = TechnicalExpertiseContentPayload;
+export type { PlatformTechnologyContent } from "@/lib/platform-content/technologyContentShared";
 
 export async function getPlatformTechnologyContent(
   locale: string,
 ): Promise<PlatformTechnologyContent> {
-  return getTechnicalExpertiseContentForPublicPage(locale);
+  const content = await getTechnicalExpertiseContentForPublicPage(locale);
+  return normalizePlatformTechnologyContent(content, locale);
 }

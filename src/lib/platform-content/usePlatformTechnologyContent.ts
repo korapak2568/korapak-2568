@@ -1,7 +1,7 @@
 "use client";
 
 import { useQuery } from "@tanstack/react-query";
-import type { PlatformTechnologyContent } from "@/lib/platform-content/technologyContent";
+import type { PlatformTechnologyContent } from "@/lib/platform-content/technologyContentShared";
 
 const ONE_DAY = 1000 * 60 * 60 * 24;
 
