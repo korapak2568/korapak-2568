@@ -1,0 +1,72 @@
+{
+  "id": "era-01-co2-absorbing-material",
+  "order": 1,
+  "slug": "next-generation-co2-absorbing-material",
+  "title": "Discovery of a Next-Generation CO₂ Absorbing Material",
+  "shortTitle": "CO₂ Absorbing Material",
+  "summary": "A breakthrough material makes large-scale carbon capture cheaper and more efficient.",
+  "description": "Scientists discover a next-generation CO₂ absorbing material that can capture carbon dioxide faster, cheaper, and with lower energy requirements than previous systems.",
+  "primaryLayerId": "environment",
+  "layerIds": ["science", "technology", "environment"],
+  "categoryIds": ["materials-science", "carbon-capture", "climate-restoration"],
+  "tags": ["Climate", "CO2 Capture", "Materials", "Chemistry"],
+  "timeframe": {
+    "display": "2030s",
+    "estimatedYear": 2032,
+    "confidence": "medium"
+  },
+  "status": {
+    "type": "speculative",
+    "readinessLevel": 3,
+    "label": "Early Research Breakthrough"
+  },
+  "impact": {
+    "level": "high",
+    "summary": "Enables cheaper and more scalable carbon removal."
+  },
+  "imageSpec": {
+    "aspectRatio": "16:9",
+    "format": "webp",
+    "count": 4,
+    "style": "future documentary cinematic",
+    "safeForWeb": true
+  },
+  "images": [
+    {
+      "src": "/images/future-roadmap/era-01/co2-material-01.webp",
+      "alt": "Futuristic CO2 absorbing material in a research lab",
+      "role": "hero"
+    },
+    {
+      "src": "/images/future-roadmap/era-01/co2-material-02.webp",
+      "alt": "Microscopic view of carbon absorbing material",
+      "role": "detail"
+    },
+    {
+      "src": "/images/future-roadmap/era-01/co2-material-03.webp",
+      "alt": "CO2 cleaning towers in a future city",
+      "role": "society"
+    },
+    {
+      "src": "/images/future-roadmap/era-01/co2-material-04.webp",
+      "alt": "Climate restoration facility absorbing CO2",
+      "role": "planetary"
+    }
+  ],
+  "content": {
+    "keyPoints": [
+      "Captures CO₂ with lower energy requirements.",
+      "Can be integrated into factories, cities, and climate restoration facilities.",
+      "Supports carbon-negative manufacturing and atmospheric repair."
+    ],
+    "whyItMatters": "This milestone matters because carbon removal becomes part of global infrastructure.",
+    "risks": [
+      "High production cost in early stages.",
+      "Possible overreliance on carbon capture instead of emissions reduction."
+    ]
+  },
+  "seo": {
+    "metaTitle": "Next-Generation CO₂ Absorbing Material",
+    "metaDescription": "A future climate technology milestone where advanced materials make large-scale carbon capture cheaper and more efficient."
+  }
+}

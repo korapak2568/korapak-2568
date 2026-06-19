@@ -1,0 +1,22 @@
+{
+  "roadmapId": "future-civilization-roadmap",
+  "version": "1.0.0",
+  "defaultLocale": "en",
+  "availableLocales": ["en", "th"],
+  "title": "Future Civilization Roadmap",
+  "description": "A long-term civilization-scale roadmap of science, technology, society, Earth restoration, space expansion, and post-human futures.",
+  "eras": [
+    {
+      "id": "era-01",
+      "order": 1,
+      "title": "Near-Future Breakthroughs",
+      "file": "/content/future-roadmap/en/era-01.json"
+    },
+    {
+      "id": "era-02",
+      "order": 2,
+      "title": "Early Space Civilization",
+      "file": "/content/future-roadmap/en/era-02.json"
+    }
+  ]
+}
