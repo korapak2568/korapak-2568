@@ -70,21 +70,18 @@
         "aspectRatio": "16:9",
         "mobile": {
           "src": "/future-roadmap/era-01/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
-          "alt": "Chorn Planet platform launch visual",
           "width": 960,
           "height": 540,
           "quality": 78
         },
         "thumbnail": {
           "src": "/future-roadmap/era-01/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
-          "alt": "Chorn Planet platform launch visual",
           "width": 640,
           "height": 360,
           "quality": 72
         },
         "desktop": {
           "src": "/future-roadmap/era-01/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
-          "alt": "Chorn Planet platform launch visual",
           "width": 1920,
           "height": 1080,
           "quality": 82
@@ -128,7 +125,25 @@
         "src": "/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -168,7 +183,25 @@
         "src": "/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -208,7 +241,25 @@
         "src": "/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -248,7 +299,25 @@
         "src": "/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -288,7 +357,25 @@
         "src": "/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -328,7 +415,25 @@
         "src": "/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -368,7 +473,25 @@
         "src": "/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -408,7 +531,25 @@
         "src": "/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -448,7 +589,25 @@
         "src": "/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -488,7 +647,25 @@
         "src": "/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -528,7 +705,25 @@
         "src": "/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -568,7 +763,25 @@
         "src": "/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -608,7 +821,25 @@
         "src": "/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -648,7 +879,25 @@
         "src": "/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -688,7 +937,25 @@
         "src": "/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -728,7 +995,25 @@
         "src": "/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -768,7 +1053,25 @@
         "src": "/future-roadmap/era-01/era-01-universal-cancer-blood-test.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-universal-cancer-blood-test.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-universal-cancer-blood-test.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-universal-cancer-blood-test.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -808,7 +1111,25 @@
         "src": "/future-roadmap/era-01/era-01-self-healing-megacity-materials.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-self-healing-megacity-materials.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-self-healing-megacity-materials.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-self-healing-megacity-materials.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     },
     {
@@ -848,7 +1169,25 @@
         "src": "/future-roadmap/era-01/era-01-lunar-robotics-program.png",
         "width": 2560,
         "height": 1440,
-        "aspectRatio": "16:9"
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/era-01-lunar-robotics-program.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/era-01-lunar-robotics-program.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/era-01-lunar-robotics-program.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        }
       }
     }
   ]

@@ -481,16 +481,36 @@ ChornPlanet Full Visual Policy Pack
 
 # M. Production Media Standards
 
-Image default
+Image Chorn Planet Platform
+
+```
+4K
+16:9
+85mm lens
+f/1.8
+Panorama
+```
+
+Video Chorn Planet Platform
+
+```
+4K
+16:9
+24fps
+85mm
+```
+
+Image TikTok
 
 ```
 4K
 9:16
 85mm lens
 f/1.8
+Panorama
 ```
 
-Video default
+Video TikTok
 
 ```
 4K
@@ -740,5 +760,5 @@ Replace active StoryGenProductOutputContract governance with modular contract la
 v29.0
 Move ChatGPT-executable system governance from the previous Chorn system folder into .chatgpt/System
 Make .chatgpt the complete ChatGPT executable brain
----
 
+---
