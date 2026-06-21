@@ -189,7 +189,7 @@ export function getFutureCivilizationMetadata(): Metadata {
     title,
     description: futureRoadmapManifest.description,
     alternates: {
-      canonical: "/future-civilization/",
+      canonical: "/en/future-civilization/",
     },
     openGraph: {
       title,
@@ -228,7 +228,7 @@ export function getFutureCivilizationEraMetadata(eraSlug: string): Metadata {
     title,
     description,
     alternates: {
-      canonical: `/future-civilization/${era.era.slug}/`,
+      canonical: `/en/future-civilization/${era.era.slug}/`,
     },
     openGraph: {
       title,
@@ -269,7 +269,7 @@ export function getFutureCivilizationItemMetadata(
     title,
     description: item.description,
     alternates: {
-      canonical: `/future-civilization/${era.slug}/${item.slug}/`,
+      canonical: `/en/future-civilization/${era.slug}/${item.slug}/`,
     },
     openGraph: {
       title,
