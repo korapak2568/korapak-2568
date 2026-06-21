@@ -1,4 +1,8 @@
-export type PlatformImageVariantKey = "mobile" | "thumbnail" | "desktop";
+type GeneratedPlatformImageVariantKey = "mobile" | "thumbnail" | "desktop";
+
+export type PlatformImageVariantKey =
+  | GeneratedPlatformImageVariantKey
+  | "open_graph";
 
 export type PlatformResponsiveImageVariant = {
   src: string;
@@ -16,12 +20,13 @@ export type PlatformResponsiveImage = {
   mobile?: PlatformResponsiveImageVariant;
   thumbnail?: PlatformResponsiveImageVariant;
   desktop?: PlatformResponsiveImageVariant;
+  open_graph?: PlatformResponsiveImageVariant;
 };
 
 const platformImageVariantProfiles: Record<
   string,
   Record<
-    PlatformImageVariantKey,
+    GeneratedPlatformImageVariantKey,
     Omit<PlatformResponsiveImageVariant, "src" | "alt">
   >
 > = {
@@ -61,7 +66,10 @@ function getOriginalImageSrc(image: PlatformResponsiveImage): string {
   return image.src ?? image.url ?? image.image_url ?? "";
 }
 
-function getVariantSrc(src: string, variant: PlatformImageVariantKey): string {
+function getVariantSrc(
+  src: string,
+  variant: GeneratedPlatformImageVariantKey,
+): string {
   if (!src.startsWith("/")) {
     return src;
   }
@@ -150,7 +158,12 @@ export function hydratePlatformImageVariants<T>(
   const next = { ...(value as Record<string, unknown>) };
 
   for (const key of Object.keys(next)) {
-    if (key === "mobile" || key === "thumbnail" || key === "desktop") {
+    if (
+      key === "mobile" ||
+      key === "thumbnail" ||
+      key === "desktop" ||
+      key === "open_graph"
+    ) {
       continue;
     }
 

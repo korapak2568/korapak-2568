@@ -481,7 +481,7 @@ ChornPlanet Full Visual Policy Pack
 
 # M. Production Media Standards
 
-Image Chorn Planet Platform
+Image Chorn Planet Platform for Web/Desktop
 
 ```
 4K
@@ -489,9 +489,11 @@ Image Chorn Planet Platform
 85mm lens
 f/1.8
 Panorama
+No Text Overlay
+Create 2560 × 1440 PNG
 ```
 
-Video Chorn Planet Platform
+Video Chorn Planet Platform for Web/Desktop
 
 ```
 4K
@@ -508,6 +510,8 @@ Image TikTok
 85mm lens
 f/1.8
 Panorama
+No Text Overlay
+Create 1440 x 2560 PNG
 ```
 
 Video TikTok

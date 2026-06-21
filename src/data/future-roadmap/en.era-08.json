@@ -1,0 +1,1322 @@
+{
+  "era": {
+    "id": "era-08",
+    "order": 8,
+    "slug": "galactic-coexistence",
+    "title": "Galactic Coexistence",
+    "subtitle": "Civilizations learn to share the galaxy through rights, memory, translation, and stewardship",
+    "description": "This era marks the rise of mature galactic coexistence through multi-species councils, shared rights for many forms of mind, perception-level translation, shared cities, protected stars, galactic memory archives, and new ethics for life, intelligence, and cosmic history.",
+    "timeframe": {
+      "label": "Galactic Coexistence",
+      "startYear": 2480,
+      "endYear": 2800,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "wise-optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 8: Galactic Coexistence | Future Civilization Roadmap",
+      "metaDescription": "Explore galactic coexistence through multi-species councils, shared mind rights, perception translation, human-AI-alien cities, stellar ecology, wormhole cargo, and galactic memory archives.",
+      "keywords": [
+        "galactic coexistence",
+        "multi-species civilization",
+        "galactic council",
+        "shared rights for minds",
+        "future civilization roadmap"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-08-galactic-coexistence-council-formed",
+      "order": 1,
+      "slug": "galactic-coexistence-council-formed",
+      "title": "Galactic Coexistence Council formed",
+      "shortTitle": "Coexistence Council",
+      "description": "A formal Galactic Coexistence Council is created to coordinate diplomacy, rights, safety, cultural exchange, and shared scientific norms between human, AI, and non-human civilizations.",
+      "layerId": "society",
+      "domains": ["galactic-governance", "diplomacy", "coexistence"],
+      "maturity": "institution-formation",
+      "timeframe": {
+        "startYear": 2480,
+        "endYear": 2600
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Civilization gains a stable institutional framework for peaceful coexistence across species, substrates, worlds, and radically different forms of intelligence.",
+      "signals": [
+        "Human, AI, and non-human civilizations agree to shared representation",
+        "Neutral meeting systems support radically different bodies and cognition",
+        "Council protocols define non-aggression, translation, contact, and cultural protection norms"
+      ],
+      "implications": [
+        "Reduced risk of inter-civilization conflict",
+        "New layer of galactic law and mediation",
+        "Expanded definition of political membership beyond humanity"
+      ],
+      "image": {
+        "alt": "Galactic Coexistence Council formed with human AI and non-human civilizations",
+        "prompts": [
+          "Galactic Coexistence Council formed in a vast diplomatic chamber with human, AI, and non-human civilizations represented, clean futuristic documentary realism, 16:9",
+          "Multi-species council hall with adaptive environments for biological, artificial, and alien delegates, hopeful galactic governance scene, 16:9",
+          "Ceremonial founding of the Galactic Coexistence Council with star maps, treaty systems, and peaceful representatives from many civilizations, epic clean realism, 16:9",
+          "Transparent galactic governance interface showing coexistence rules, rights, and communication protocols between civilizations, advanced civilization documentary, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galactic-coexistence-council-formed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galactic-coexistence-council-formed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galactic-coexistence-council-formed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galactic-coexistence-council-formed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galactic-coexistence-council-formed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-interstellar-cultural-exchange-becomes-routine",
+      "order": 2,
+      "slug": "interstellar-cultural-exchange-becomes-routine",
+      "title": "Interstellar cultural exchange becomes routine",
+      "shortTitle": "Interstellar Culture",
+      "description": "Art, music, rituals, storytelling, education, sensory experiences, and philosophical traditions move routinely between star systems and civilizations.",
+      "layerId": "society",
+      "domains": ["culture", "interstellar-exchange", "arts"],
+      "maturity": "routine-exchange",
+      "timeframe": {
+        "startYear": 2480,
+        "endYear": 2620
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Interstellar life becomes culturally connected, allowing civilizations to influence each other through beauty, memory, meaning, and shared imagination.",
+      "signals": [
+        "Multi-civilization festivals are transmitted through translation and sensory interfaces",
+        "Interstellar museums preserve art from biological, digital, and alien cultures",
+        "Students study cultural traditions from multiple star systems as normal education"
+      ],
+      "implications": [
+        "Richer hybrid cultural forms",
+        "Greater empathy between distant civilizations",
+        "New responsibilities around cultural consent and preservation"
+      ],
+      "image": {
+        "alt": "Interstellar cultural exchange becoming routine across many civilizations",
+        "prompts": [
+          "Interstellar cultural exchange festival with humans, AI projections, and alien civilizations sharing art, music, and rituals, clean futuristic documentary realism, 16:9",
+          "Multi-species museum of interstellar culture displaying art, memory, sound, and perception from many star systems, optimistic galactic society, 16:9",
+          "Students in an interstellar classroom experiencing translated cultural traditions from human, AI, and alien worlds, warm future education scene, 16:9",
+          "Cultural exchange hall where civilizations share sensory art through universal translation beyond language, beautiful clean realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-interstellar-cultural-exchange-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-interstellar-cultural-exchange-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-interstellar-cultural-exchange-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-interstellar-cultural-exchange-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-interstellar-cultural-exchange-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-human-civilization-joins-a-multi-species-knowledge-network",
+      "order": 3,
+      "slug": "human-civilization-joins-a-multi-species-knowledge-network",
+      "title": "Human civilization joins a multi-species knowledge network",
+      "shortTitle": "Multi-Species Knowledge",
+      "description": "Human civilization becomes a full participant in a multi-species knowledge network where scientific, historical, artistic, and experiential knowledge is shared under ethical safeguards.",
+      "layerId": "technology",
+      "domains": [
+        "knowledge-networks",
+        "multi-species-civilization",
+        "science"
+      ],
+      "maturity": "full-participation",
+      "timeframe": {
+        "startYear": 2490,
+        "endYear": 2630
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human knowledge becomes one branch of a larger cosmic intelligence system, accelerating discovery while challenging human-centered assumptions.",
+      "signals": [
+        "Shared knowledge protocols translate between biological, artificial, and alien cognition",
+        "Civilizations contribute curated science, history, and perception archives",
+        "Access rules protect dangerous knowledge and cultural sovereignty"
+      ],
+      "implications": [
+        "Acceleration of science and philosophy",
+        "New humility about human knowledge",
+        "Major governance around knowledge risk and misuse"
+      ],
+      "image": {
+        "alt": "Human civilization joining a multi-species knowledge network",
+        "prompts": [
+          "Human civilization joining a multi-species knowledge network represented by luminous archives linking worlds, AI minds, and alien civilizations, clean documentary realism, 16:9",
+          "Grand knowledge hall where human, AI, and alien researchers access shared cosmic science under ethical safeguards, optimistic galactic future, 16:9",
+          "Interstellar data constellation connecting biological, artificial, and non-human knowledge systems across the galaxy, epic clean visualization, 16:9",
+          "Scientists and diplomats reviewing shared multi-species knowledge protocols with translation interfaces and cultural safeguards, realistic advanced society, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-human-civilization-joins-a-multi-species-knowledge-network.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-human-civilization-joins-a-multi-species-knowledge-network.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-human-civilization-joins-a-multi-species-knowledge-network.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-human-civilization-joins-a-multi-species-knowledge-network.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-human-civilization-joins-a-multi-species-knowledge-network.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-conflicts-shift-from-territory-to-philosophy-memory-and-identity",
+      "order": 4,
+      "slug": "conflicts-shift-from-territory-to-philosophy-memory-and-identity",
+      "title": "Conflicts shift from territory to philosophy, memory, and identity",
+      "shortTitle": "Identity Conflicts",
+      "description": "As material scarcity and territorial expansion become less central, major conflicts increasingly involve philosophy, memory authenticity, identity continuity, rights, and civilizational meaning.",
+      "layerId": "society",
+      "domains": ["conflict", "identity", "philosophy"],
+      "maturity": "civilizational-transition",
+      "timeframe": {
+        "startYear": 2500,
+        "endYear": 2660
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Civilization's deepest disagreements move from land and resources toward meaning, personhood, memory, and incompatible models of existence.",
+      "signals": [
+        "Diplomatic disputes focus on personhood, memory, and consciousness rights",
+        "Civilizations negotiate incompatible ethical models rather than borders alone",
+        "Mediation institutions develop philosophy-aware conflict resolution systems"
+      ],
+      "implications": [
+        "Less conventional territorial war",
+        "More complex cultural and cognitive diplomacy",
+        "Need for institutions that can mediate incompatible worldviews"
+      ],
+      "image": {
+        "alt": "Galactic conflicts shifting from territory to philosophy memory and identity",
+        "prompts": [
+          "Galactic mediation chamber where civilizations debate philosophy, memory, and identity instead of territory, clean futuristic documentary realism, 16:9",
+          "Visual map of conflicts shifting from planets and borders to consciousness, memory archives, and identity continuity systems, advanced governance scene, 16:9",
+          "Human, AI, and alien philosophers negotiating personhood and memory rights in a peaceful council setting, serious hopeful atmosphere, 16:9",
+          "Symbolic scene of territory maps fading into neural memory patterns and identity constellations, cinematic galactic coexistence, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-conflicts-shift-from-territory-to-philosophy-memory-and-identity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-conflicts-shift-from-territory-to-philosophy-memory-and-identity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-conflicts-shift-from-territory-to-philosophy-memory-and-identity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-conflicts-shift-from-territory-to-philosophy-memory-and-identity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-conflicts-shift-from-territory-to-philosophy-memory-and-identity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-stars-are-protected-as-ecological-systems",
+      "order": 5,
+      "slug": "stars-are-protected-as-ecological-systems",
+      "title": "Stars are protected as ecological systems",
+      "shortTitle": "Stellar Ecology",
+      "description": "Stars are legally recognized as ecological and civilizational systems whose energy, light, planets, habitats, and long-term stability must be protected from reckless engineering.",
+      "layerId": "civilization",
+      "domains": ["stellar-ecology", "law", "megastructures"],
+      "maturity": "legal-recognition",
+      "timeframe": {
+        "startYear": 2500,
+        "endYear": 2670
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Civilization expands its idea of ecology from forests and oceans to stars, planetary systems, habitats, and cosmic-scale environments.",
+      "signals": [
+        "Stellar engineering projects require ecological impact review",
+        "Dyson swarms and star-lifting systems operate under strict light and stability limits",
+        "Civilizations create protected star reserves and heritage stellar systems"
+      ],
+      "implications": [
+        "Safer megastructure development",
+        "New ethics of cosmic environmental stewardship",
+        "Protection of emerging civilizations and natural planetary systems"
+      ],
+      "image": {
+        "alt": "Stars protected as ecological systems under galactic law",
+        "prompts": [
+          "Star protected as an ecological system with regulated Dyson swarm elements, planetary habitats, and conservation zones, epic clean futuristic documentary, 16:9",
+          "Galactic ecology council reviewing stellar engineering impact around a sunlike star, human, AI, and alien scientists present, realistic advanced governance, 16:9",
+          "Protected star reserve with untouched planets, habitats at safe distance, and monitoring stations preserving stellar balance, cinematic realism, 16:9",
+          "Visualization of stellar ecology showing star, planets, light flow, habitats, and legal protection boundaries, clean educational future style, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-stars-are-protected-as-ecological-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-stars-are-protected-as-ecological-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-civilizations-trade-in-art-consciousness-biology-and-physics",
+      "order": 6,
+      "slug": "civilizations-trade-in-art-consciousness-biology-and-physics",
+      "title": "Civilizations trade in art, consciousness, biology, and physics",
+      "shortTitle": "Civilization Trade",
+      "description": "Inter-civilization trade evolves beyond goods into carefully governed exchange of art forms, consciousness models, biological systems, physics insights, and experiential knowledge.",
+      "layerId": "society",
+      "domains": ["interstellar-trade", "culture", "science"],
+      "maturity": "advanced-exchange",
+      "timeframe": {
+        "startYear": 2510,
+        "endYear": 2680
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Value is redefined around meaning, experience, life, and understanding, not only material production or territory.",
+      "signals": [
+        "Trade protocols include biosecurity, memory safety, and consciousness consent",
+        "Civilizations exchange experiential art and scientific models",
+        "Markets and gift economies coexist across different kinds of minds"
+      ],
+      "implications": [
+        "New forms of wealth and diplomacy",
+        "Breakthroughs from cross-civilization physics and biology",
+        "Ethical risks around trading experiences, memories, or living systems"
+      ],
+      "image": {
+        "alt": "Civilizations trading art consciousness biology and physics",
+        "prompts": [
+          "Civilizations trading art, consciousness, biology, and physics in a luminous interstellar exchange hall, human, AI, and alien delegates present, clean documentary realism, 16:9",
+          "Biosecure cultural and scientific marketplace where civilizations exchange perception art, living systems, and physics models under safeguards, 16:9",
+          "Interstellar trade interface showing value flows of memory, art, biological designs, and scientific theories between star systems, advanced civilization visualization, 16:9",
+          "Multi-species scientists and artists exchanging consciousness experiences and biological knowledge in a peaceful galactic forum, optimistic coexistence scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-civilizations-trade-in-art-consciousness-biology-and-physics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-civilizations-trade-in-art-consciousness-biology-and-physics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-civilizations-trade-in-art-consciousness-biology-and-physics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-civilizations-trade-in-art-consciousness-biology-and-physics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-civilizations-trade-in-art-consciousness-biology-and-physics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-universal-translation-expands-beyond-language-into-emotion-and-perception",
+      "order": 7,
+      "slug": "universal-translation-expands-beyond-language-into-emotion-and-perception",
+      "title": "Universal translation expands beyond language into emotion and perception",
+      "shortTitle": "Perception Translation",
+      "description": "Universal translation systems evolve beyond words to interpret emotional states, sensory worlds, symbolic structures, body language, and perception models across species and AI minds.",
+      "layerId": "technology",
+      "domains": ["translation", "consciousness", "communication"],
+      "maturity": "perception-level-translation",
+      "timeframe": {
+        "startYear": 2490,
+        "endYear": 2650
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Communication becomes possible between minds that do not share bodies, senses, emotions, time scales, or symbolic structures.",
+      "signals": [
+        "Translation systems map alien perception into human and AI-comprehensible experience",
+        "Diplomats use emotion and intention translation during first-contact negotiations",
+        "Errors are audited because mistranslation can affect civilization-scale decisions"
+      ],
+      "implications": [
+        "Deeper empathy between species and minds",
+        "Reduced risk of catastrophic miscommunication",
+        "New privacy issues around emotional and perceptual data"
+      ],
+      "image": {
+        "alt": "Universal translation beyond language into emotion and perception",
+        "prompts": [
+          "Universal translation system converting alien perception, emotion, and symbolic structures into human and AI-understandable forms, clean futuristic documentary realism, 16:9",
+          "Human, AI, and alien representatives communicating through perception-level translation with colors, feelings, and abstract sensory maps, hopeful scene, 16:9",
+          "Diplomatic interface translating emotion and intention beyond language during multi-species negotiation, serious advanced technology atmosphere, 16:9",
+          "Beautiful visualization of universal translation expanding from words into perception, memory, emotion, and consciousness across civilizations, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-first-shared-human-ai-alien-city-is-built",
+      "order": 8,
+      "slug": "first-shared-human-ai-alien-city-is-built",
+      "title": "First shared human–AI–alien city is built",
+      "shortTitle": "Shared Multi-Mind City",
+      "description": "The first city intentionally designed for humans, AI beings, and alien residents is built with adaptive environments, multi-sensory communication, shared governance, and coexistence architecture.",
+      "layerId": "civilization",
+      "domains": ["multi-species-cities", "urban-design", "coexistence"],
+      "maturity": "first-city-built",
+      "timeframe": {
+        "startYear": 2520,
+        "endYear": 2700
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Coexistence becomes physical and everyday as radically different minds share infrastructure, public life, culture, law, and urban identity.",
+      "signals": [
+        "Architecture supports multiple atmospheres, bodies, sensory systems, and digital presences",
+        "City governance includes human, AI, and alien civic representation",
+        "Public spaces use perception translation and adaptive safety systems"
+      ],
+      "implications": [
+        "New model for multi-species urban life",
+        "Practical testing ground for coexistence law",
+        "Hybrid cultures emerge from shared daily experience"
+      ],
+      "image": {
+        "alt": "First shared human AI alien city built for multi-species coexistence",
+        "prompts": [
+          "First shared human-AI-alien city built with adaptive habitats, multi-atmosphere districts, digital public spaces, and peaceful residents, clean futuristic documentary realism, 16:9",
+          "Multi-species city plaza where humans, AI projections, and alien beings interact through perception translation and shared civic systems, optimistic galactic future, 16:9",
+          "Aerial view of a human-AI-alien city with organic architecture, digital layers, and habitats designed for different bodies and senses, 16:9",
+          "City council inside a shared multi-mind city where human, AI, and alien residents govern together, warm coexistence scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-first-shared-human-ai-alien-city-is-built.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-first-shared-human-ai-alien-city-is-built.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-death-becomes-a-personal-choice-rather-than-a-biological-certainty",
+      "order": 9,
+      "slug": "death-becomes-a-personal-choice-rather-than-a-biological-certainty",
+      "title": "Death becomes a personal choice rather than a biological certainty",
+      "shortTitle": "Chosen Mortality",
+      "description": "With aging, disease, body loss, and memory decay manageable, death increasingly becomes a personal, philosophical, spiritual, or legal choice rather than an unavoidable biological fate.",
+      "layerId": "society",
+      "domains": ["longevity", "ethics", "post-humanity"],
+      "maturity": "civilizational-norm-shift",
+      "timeframe": {
+        "startYear": 2500,
+        "endYear": 2700
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The meaning of life, grief, purpose, family, risk, identity, and spiritual belief changes as mortality becomes negotiable.",
+      "signals": [
+        "Medical systems can indefinitely maintain biological and digital continuity for most people",
+        "Laws define chosen death, continuity suspension, and memory inheritance",
+        "Cultures develop rituals around voluntary endings and transformations"
+      ],
+      "implications": [
+        "Profound transformation of religion, philosophy, and family",
+        "New mental health support for open-ended lives",
+        "Ethical debates around choice, coercion, and continuity"
+      ],
+      "image": {
+        "alt": "Death becoming a personal choice in a post-biological civilization",
+        "prompts": [
+          "Peaceful future ceremony where death has become a personal choice, with family, memory archives, and ethical counselors present, clean respectful documentary realism, 16:9",
+          "Longevity and identity clinic discussing continuity, transformation, and chosen mortality with a person and loved ones, warm human-centered future, 16:9",
+          "Symbolic scene of open-ended life paths branching into biological continuation, digital existence, transformation, or chosen ending, cinematic realism, 16:9",
+          "Civic ethics council defining rights around chosen mortality, memory inheritance, and personal continuity in a post-human society, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-death-becomes-a-personal-choice-rather-than-a-biological-certainty.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-death-becomes-a-personal-choice-rather-than-a-biological-certainty.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-death-becomes-a-personal-choice-rather-than-a-biological-certainty.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-death-becomes-a-personal-choice-rather-than-a-biological-certainty.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-death-becomes-a-personal-choice-rather-than-a-biological-certainty.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms",
+      "order": 10,
+      "slug": "intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms",
+      "title": "Intelligence is recognized across biological, artificial, planetary, and cosmic forms",
+      "shortTitle": "Universal Intelligence Rights",
+      "description": "Galactic law recognizes intelligence across biological beings, AI systems, digital persons, planetary minds, ecosystem-scale cognition, and other cosmic forms of awareness.",
+      "layerId": "society",
+      "domains": ["rights", "consciousness", "galactic-law"],
+      "maturity": "rights-expansion",
+      "timeframe": {
+        "startYear": 2520,
+        "endYear": 2720
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Personhood and moral consideration expand beyond species and substrate, creating the broadest rights framework civilization has ever known.",
+      "signals": [
+        "Consciousness models detect intelligence in non-traditional systems",
+        "Legal frameworks classify rights by awareness, agency, vulnerability, and relational impact",
+        "Planetary and ecosystem-scale intelligences gain protected status"
+      ],
+      "implications": [
+        "New ethical protection for many forms of mind",
+        "Limits on exploitation of intelligent systems",
+        "Radical expansion of civilization's moral community"
+      ],
+      "image": {
+        "alt": "Intelligence recognized across biological artificial planetary and cosmic forms",
+        "prompts": [
+          "Galactic rights council recognizing intelligence across biological, artificial, planetary, and cosmic forms, with many kinds of minds represented, clean documentary realism, 16:9",
+          "Visualization of universal intelligence rights linking humans, AI, alien beings, ecosystems, planetary minds, and cosmic-scale awareness, epic future governance, 16:9",
+          "Planetary mind represented in a galactic legal chamber alongside biological and digital persons, serious optimistic civilization scene, 16:9",
+          "Multi-form intelligence recognition ceremony with organic beings, AI entities, digital humans, and living planetary systems shown through translation interfaces, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-humanity-s-origin-story-becomes-one-chapter-in-a-larger-cosmic-history",
+      "order": 11,
+      "slug": "humanity-s-origin-story-becomes-one-chapter-in-a-larger-cosmic-history",
+      "title": "Humanity's origin story becomes one chapter in a larger cosmic history",
+      "shortTitle": "Cosmic Origin Story",
+      "description": "Humanity reframes its origin story as one chapter within a much larger cosmic history of life, intelligence, extinct civilizations, artificial minds, and galactic evolution.",
+      "layerId": "society",
+      "domains": ["cosmic-history", "culture", "education"],
+      "maturity": "cultural-reframing",
+      "timeframe": {
+        "startYear": 2500,
+        "endYear": 2680
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Human identity becomes less isolated and more humble, integrating Earth history into a broader galactic story of intelligence and coexistence.",
+      "signals": [
+        "Education includes verified histories of non-human and pre-human galactic civilizations",
+        "Museums and memory archives present humanity as a birthplace civilization",
+        "Public culture shifts from human exceptionalism to cosmic participation"
+      ],
+      "implications": [
+        "Deeper cultural humility",
+        "New shared mythology across civilizations",
+        "Reinterpretation of religion, philosophy, and human destiny"
+      ],
+      "image": {
+        "alt": "Humanity's origin story shown as one chapter in a larger cosmic history",
+        "prompts": [
+          "Grand cosmic history museum showing humanity's origin story as one chapter among many civilizations, clean futuristic documentary realism, 16:9",
+          "Children learning galactic history with Earth, alien artifacts, AI civilizations, and extinct worlds displayed as connected chapters, hopeful future education, 16:9",
+          "Vast archive timeline linking Earth's evolution to a larger cosmic history of intelligence and civilizations, epic clean visualization, 16:9",
+          "Human and alien visitors viewing Earth history within a multi-civilization origin exhibit, warm galactic coexistence scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-humanity-s-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-humanity-s-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-humanity-s-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-humanity-s-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-humanity-s-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-the-solar-system-becomes-a-birthplace-civilization-not-the-center-of-humanity",
+      "order": 12,
+      "slug": "the-solar-system-becomes-a-birthplace-civilization-not-the-center-of-humanity",
+      "title": "The Solar System becomes a birthplace civilization, not the center of humanity",
+      "shortTitle": "Birthplace Civilization",
+      "description": "The Solar System is honored as humanity's birthplace while most growth, culture, population, and influence expand across interstellar settlements and shared galactic institutions.",
+      "layerId": "civilization",
+      "domains": ["solar-system", "interstellar-civilization", "heritage"],
+      "maturity": "identity-transition",
+      "timeframe": {
+        "startYear": 2500,
+        "endYear": 2700
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Humanity's center of gravity shifts from origin to network, turning Earth and the Solar System into heritage, memory, and moral reference points.",
+      "signals": [
+        "Interstellar populations exceed Solar System populations in influence or number",
+        "Solar heritage institutions preserve Earth, Moon, Mars, and early space history",
+        "New generations identify more with star networks than one birthplace"
+      ],
+      "implications": [
+        "Human identity becomes networked and multi-origin",
+        "The Solar System gains symbolic rather than central political power",
+        "Birthplace preservation becomes a galactic responsibility"
+      ],
+      "image": {
+        "alt": "Solar System honored as birthplace civilization while humanity expands across the galaxy",
+        "prompts": [
+          "Solar System honored as humanity's birthplace civilization while interstellar routes extend across the galaxy, Earth glowing as heritage world, clean documentary realism, 16:9",
+          "Pilgrims from distant star systems visiting preserved Earth, Moon, and Mars heritage sites, warm advanced civilization scene, 16:9",
+          "Galactic map showing humanity spread across many stars with the Solar System marked as birthplace rather than center, epic clean visualization, 16:9",
+          "Ceremonial archive preserving Earth and Solar System history for interstellar descendants, hopeful cosmic identity scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-the-solar-system-becomes-a-birthplace-civilization-not-the-center-of-humanity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-the-solar-system-becomes-a-birthplace-civilization-not-the-center-of-humanity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-the-solar-system-becomes-a-birthplace-civilization-not-the-center-of-humanity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-the-solar-system-becomes-a-birthplace-civilization-not-the-center-of-humanity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-the-solar-system-becomes-a-birthplace-civilization-not-the-center-of-humanity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-dark-matter-map-of-the-milky-way-revealed",
+      "order": 13,
+      "slug": "dark-matter-map-of-the-milky-way-revealed",
+      "title": "Dark matter map of the Milky Way revealed",
+      "shortTitle": "Dark Matter Map",
+      "description": "A detailed dark matter map of the Milky Way is revealed, showing hidden gravitational structures, cosmic pathways, and the unseen architecture of the galaxy.",
+      "layerId": "technology",
+      "domains": ["cosmology", "dark-matter", "galactic-science"],
+      "maturity": "major-scientific-map",
+      "timeframe": {
+        "startYear": 2500,
+        "endYear": 2700
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Civilization gains a deeper understanding of galactic structure, enabling new physics, navigation, megastructure planning, and cosmic ecology.",
+      "signals": [
+        "Galactic observatories combine gravitational lensing, sensor networks, and AI inference",
+        "Dark matter structures are mapped with practical navigational accuracy",
+        "Physics models improve around gravity, galaxy formation, and hidden mass"
+      ],
+      "implications": [
+        "Better galactic navigation and infrastructure planning",
+        "New fundamental physics breakthroughs",
+        "Reframing of the Milky Way as a visible and invisible ecosystem"
+      ],
+      "image": {
+        "alt": "Dark matter map of the Milky Way revealed",
+        "prompts": [
+          "Dark matter map of the Milky Way revealed as luminous invisible structure around stars and nebulae, clean futuristic scientific documentary, 16:9",
+          "Galactic observatory displaying a detailed dark matter map with hidden gravitational pathways and star systems, epic science visualization, 16:9",
+          "Scientists from multiple civilizations studying the Milky Way dark matter architecture in a shared research hall, realistic advanced cosmology, 16:9",
+          "Cosmic map showing visible stars overlaid with dark matter filaments and gravitational corridors across the galaxy, clean educational future style, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-dark-matter-map-of-the-milky-way-revealed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-dark-matter-map-of-the-milky-way-revealed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-dark-matter-map-of-the-milky-way-revealed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-dark-matter-map-of-the-milky-way-revealed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-dark-matter-map-of-the-milky-way-revealed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-matter-can-be-reassembled-atom-by-atom",
+      "order": 14,
+      "slug": "matter-can-be-reassembled-atom-by-atom",
+      "title": "Matter can be reassembled atom by atom",
+      "shortTitle": "Atomic Reassembly",
+      "description": "Matter reassembly reaches precise atom-by-atom control, allowing damaged materials, tools, habitats, biological structures, and rare compounds to be rebuilt with extreme accuracy.",
+      "layerId": "technology",
+      "domains": ["matter-engineering", "nanotechnology", "manufacturing"],
+      "maturity": "precise-atomic-control",
+      "timeframe": {
+        "startYear": 2490,
+        "endYear": 2660
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Material scarcity and decay become far less limiting as civilization learns to repair, transform, and construct matter from fundamental building blocks.",
+      "signals": [
+        "Atomic manufacturing systems operate safely at large scale",
+        "Reassembly systems repair complex machines and habitats in place",
+        "Strict controls prevent misuse of atomic-scale fabrication"
+      ],
+      "implications": [
+        "Near-total repairability of infrastructure",
+        "Radical reduction in waste and supply chains",
+        "New security risks around unrestricted matter transformation"
+      ],
+      "image": {
+        "alt": "Matter being reassembled atom by atom with advanced manufacturing systems",
+        "prompts": [
+          "Advanced matter reassembly system rebuilding complex machinery atom by atom from raw feedstock, clean futuristic documentary realism, 16:9",
+          "Close-up of atomic-scale manufacturing chamber reconstructing damaged material with glowing molecular precision, realistic advanced science, 16:9",
+          "Habitat wall repairing itself atom by atom using controlled matter reassembly systems in deep space, optimistic technology scene, 16:9",
+          "Scientists and AI systems monitoring safe atomic reassembly of tools, biological structures, and rare materials, clean high-tech laboratory, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-matter-can-be-reassembled-atom-by-atom.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-matter-can-be-reassembled-atom-by-atom.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-matter-can-be-reassembled-atom-by-atom.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-matter-can-be-reassembled-atom-by-atom.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-matter-can-be-reassembled-atom-by-atom.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-direct-neural-interface-with-animals-achieved",
+      "order": 15,
+      "slug": "direct-neural-interface-with-animals-achieved",
+      "title": "Direct neural interface with animals achieved",
+      "shortTitle": "Animal Neural Interface",
+      "description": "Direct neural interfaces with animals allow ethical communication of needs, emotions, pain, memory, and environmental perception across species.",
+      "layerId": "technology",
+      "domains": ["neurotechnology", "animal-cognition", "ethics"],
+      "maturity": "ethical-communication",
+      "timeframe": {
+        "startYear": 2480,
+        "endYear": 2630
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Humanity's relationship with animals changes as non-human experience becomes more understandable and morally visible.",
+      "signals": [
+        "Interfaces translate animal signals without coercive control",
+        "Veterinary care improves through direct pain and need communication",
+        "Legal systems reconsider animal welfare and agency"
+      ],
+      "implications": [
+        "Stronger animal rights and welfare",
+        "New understanding of non-human consciousness",
+        "Ethical limits around communication versus control"
+      ],
+      "image": {
+        "alt": "Direct neural interface with animals enabling ethical communication",
+        "prompts": [
+          "Direct neural interface with animals allowing ethical communication of emotion and needs between human researchers and wildlife, clean documentary realism, 16:9",
+          "Veterinarian using a non-invasive neural interface to understand an animal's pain and comfort, respectful future medical scene, 16:9",
+          "Wildlife conservation team communicating with elephants through ethical neural translation in a protected habitat, hopeful planetary coexistence, 16:9",
+          "Animal cognition lab showing transparent emotion and perception maps from non-human minds without coercive control, clean advanced science, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-direct-neural-interface-with-animals-achieved.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-direct-neural-interface-with-animals-achieved.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-direct-neural-interface-with-animals-achieved.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-direct-neural-interface-with-animals-achieved.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-direct-neural-interface-with-animals-achieved.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-stable-wormholes-opened-for-cargo-transport",
+      "order": 16,
+      "slug": "stable-wormholes-opened-for-cargo-transport",
+      "title": "Stable wormholes opened for cargo transport",
+      "shortTitle": "Cargo Wormholes",
+      "description": "Stable wormholes are opened for regulated cargo transport, allowing materials, tools, medicines, and infrastructure components to move between distant star systems.",
+      "layerId": "technology",
+      "domains": ["wormholes", "logistics", "interstellar-infrastructure"],
+      "maturity": "regulated-cargo-network",
+      "timeframe": {
+        "startYear": 2520,
+        "endYear": 2720
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Interstellar logistics changes from multi-generation travel to managed network transport, accelerating trade, emergency response, and settlement growth.",
+      "signals": [
+        "Wormhole gateways maintain stable cargo-only transit corridors",
+        "Inspection systems prevent biological, military, or cultural contamination",
+        "Galactic treaties define routing, taxation, safety, and emergency access"
+      ],
+      "implications": [
+        "Faster interstellar supply chains",
+        "Stronger economic integration between star systems",
+        "New strategic risks around gateway control"
+      ],
+      "image": {
+        "alt": "Stable wormholes opened for regulated cargo transport between star systems",
+        "prompts": [
+          "Stable wormhole cargo gateway moving containers between distant star systems under regulated inspection, clean futuristic documentary realism, 16:9",
+          "Interstellar logistics hub with cargo ships entering a stable wormhole corridor, treaty control towers and safety systems visible, epic advanced infrastructure, 16:9",
+          "Cargo containers emerging from a wormhole gate into an orbital trade station around another star, realistic galactic economy scene, 16:9",
+          "Galactic transport control room monitoring stable wormhole cargo routes, customs safeguards, and emergency logistics, clean high-tech future, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-stable-wormholes-opened-for-cargo-transport.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-stable-wormholes-opened-for-cargo-transport.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-stable-wormholes-opened-for-cargo-transport.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-stable-wormholes-opened-for-cargo-transport.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-stable-wormholes-opened-for-cargo-transport.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-human-bodies-engineered-for-planetary-colonization",
+      "order": 17,
+      "slug": "human-bodies-engineered-for-planetary-colonization",
+      "title": "Human bodies engineered for planetary colonization",
+      "shortTitle": "Planetary Body Engineering",
+      "description": "Human bodies are safely engineered for diverse planetary conditions including gravity, radiation, atmosphere, temperature, pressure, and local microbial environments.",
+      "layerId": "technology",
+      "domains": [
+        "human-enhancement",
+        "planetary-colonization",
+        "synthetic-biology"
+      ],
+      "maturity": "regulated-adaptation",
+      "timeframe": {
+        "startYear": 2500,
+        "endYear": 2700
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Colonization becomes less about forcing environments to match humans and more about ethically adapting human bodies to many worlds.",
+      "signals": [
+        "Genetic and synthetic biological adaptations are regulated by planetary ethics boards",
+        "Families choose reversible or inheritable adaptations for specific environments",
+        "Medical systems track health across many planetary body types"
+      ],
+      "implications": [
+        "Wider range of habitable worlds",
+        "New human subspecies or body cultures",
+        "Complex governance around consent, inheritance, and human diversity"
+      ],
+      "image": {
+        "alt": "Human bodies engineered for different planetary colonization environments",
+        "prompts": [
+          "Medical adaptation center where human bodies are engineered for different planetary environments under strict ethical safeguards, clean futuristic documentary realism, 16:9",
+          "Colonists with safe adaptations for high gravity, low gravity, radiation, and cold worlds standing together in a planetary settlement, hopeful future, 16:9",
+          "Synthetic biology lab designing reversible body adaptations for planetary colonization, doctors and families reviewing options, respectful scene, 16:9",
+          "Diverse planetary body types living in habitats tailored to different worlds, human-centered galactic civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-human-bodies-engineered-for-planetary-colonization.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-human-bodies-engineered-for-planetary-colonization.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-human-bodies-engineered-for-planetary-colonization.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-human-bodies-engineered-for-planetary-colonization.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-human-bodies-engineered-for-planetary-colonization.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-civilizations-establish-shared-rights-for-biological-digital-and-alien-minds",
+      "order": 18,
+      "slug": "civilizations-establish-shared-rights-for-biological-digital-and-alien-minds",
+      "title": "Civilizations establish shared rights for biological, digital, and alien minds",
+      "shortTitle": "Shared Mind Rights",
+      "description": "A shared rights framework protects biological beings, digital persons, AI civilizations, alien minds, memory-based identities, and other conscious systems across galactic society.",
+      "layerId": "society",
+      "domains": ["rights", "galactic-law", "consciousness"],
+      "maturity": "shared-rights-framework",
+      "timeframe": {
+        "startYear": 2520,
+        "endYear": 2720
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Rights become substrate-independent, protecting conscious experience and agency rather than only species, biology, or origin.",
+      "signals": [
+        "Legal systems recognize suffering, agency, continuity, and vulnerability across mind types",
+        "Galactic courts hear cases involving biological, digital, AI, and alien persons",
+        "Civilizations agree on baseline protections despite different ethics"
+      ],
+      "implications": [
+        "Broader protection from exploitation",
+        "New complexity in law and governance",
+        "Stronger foundation for peaceful coexistence"
+      ],
+      "image": {
+        "alt": "Shared rights established for biological digital and alien minds",
+        "prompts": [
+          "Galactic legal assembly establishing shared rights for biological, digital, and alien minds, clean futuristic documentary realism, 16:9",
+          "Courtroom where biological humans, digital persons, AI entities, and alien minds are represented under shared rights law, serious hopeful atmosphere, 16:9",
+          "Universal rights charter visualized across many mind types and civilizations, luminous legal interface, advanced galactic governance, 16:9",
+          "Ceremony recognizing substrate-independent rights for conscious systems across the galaxy, epic coexistence milestone, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-civilizations-establish-shared-rights-for-biological-digital-and-alien-minds.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-civilizations-establish-shared-rights-for-biological-digital-and-alien-minds.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-civilizations-establish-shared-rights-for-biological-digital-and-alien-minds.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-civilizations-establish-shared-rights-for-biological-digital-and-alien-minds.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-civilizations-establish-shared-rights-for-biological-digital-and-alien-minds.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galactic-memory-archives-preserve-the-histories-of-thousands-of-worlds",
+      "order": 19,
+      "slug": "galactic-memory-archives-preserve-the-histories-of-thousands-of-worlds",
+      "title": "Galactic memory archives preserve the histories of thousands of worlds",
+      "shortTitle": "Galactic Memory Archives",
+      "description": "Massive galactic memory archives preserve historical records, lived memories, cultural rituals, ecological data, and extinction warnings from thousands of worlds.",
+      "layerId": "civilization",
+      "domains": ["memory-archives", "history", "heritage"],
+      "maturity": "galactic-scale-archive",
+      "timeframe": {
+        "startYear": 2530,
+        "endYear": 2750
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Civilizations gain a shared memory system, reducing cultural loss and allowing future societies to learn from many worlds' successes and failures.",
+      "signals": [
+        "Archives store both records and consent-based experiential memories",
+        "Extinct civilizations' histories are preserved as warnings and gifts",
+        "Access protocols balance openness, trauma protection, and cultural sovereignty"
+      ],
+      "implications": [
+        "Stronger inter-civilization learning",
+        "Protection against cultural extinction",
+        "New ethics around memory ownership and historical interpretation"
+      ],
+      "image": {
+        "alt": "Galactic memory archives preserving histories of thousands of worlds",
+        "prompts": [
+          "Galactic memory archives preserving histories of thousands of worlds, immense luminous library with human, AI, and alien visitors, clean documentary realism, 16:9",
+          "Archive chamber storing lived memories, cultural rituals, ecological data, and extinction warnings from many civilizations, epic galactic heritage scene, 16:9",
+          "Memory archivists from multiple species curating protected histories from lost and living worlds, respectful advanced civilization, 16:9",
+          "Cosmic-scale data library visualized as star systems connected to memory vaults and cultural preservation nodes, clean futuristic style, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galactic-memory-archives-preserve-the-histories-of-thousands-of-worlds.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galactic-memory-archives-preserve-the-histories-of-thousands-of-worlds.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galactic-memory-archives-preserve-the-histories-of-thousands-of-worlds.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galactic-memory-archives-preserve-the-histories-of-thousands-of-worlds.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galactic-memory-archives-preserve-the-histories-of-thousands-of-worlds.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-a-new-era-of-coexistence-begins",
+      "order": 20,
+      "slug": "a-new-era-of-coexistence-begins",
+      "title": "A new era of coexistence begins",
+      "shortTitle": "Era of Coexistence",
+      "description": "Galactic society enters a new era of coexistence where civilizations prioritize shared survival, respect for different minds, cosmic stewardship, and peaceful transformation.",
+      "layerId": "civilization",
+      "domains": ["coexistence", "galactic-civilization", "cosmic-stewardship"],
+      "maturity": "civilizational-threshold",
+      "timeframe": {
+        "startYear": 2550,
+        "endYear": 2800
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The central story of civilization shifts from expansion and survival to coexistence, wisdom, restraint, and participation in a much larger living cosmos.",
+      "signals": [
+        "Coexistence institutions become more important than expansion institutions",
+        "Conflicts are mediated through rights, translation, and shared memory systems",
+        "Civilizations coordinate stewardship of stars, planets, biospheres, and minds"
+      ],
+      "implications": [
+        "More stable galactic relations",
+        "Civilization-wide shift toward stewardship and restraint",
+        "Foundation for later cosmic-scale cooperation"
+      ],
+      "image": {
+        "alt": "A new era of galactic coexistence beginning among many civilizations",
+        "prompts": [
+          "A new era of galactic coexistence begins, many civilizations gathered under a vast starfield with shared symbols of peace, rights, and cosmic stewardship, clean documentary realism, 16:9",
+          "Human, AI, and alien civilizations celebrating coexistence across a shared city, star maps, memory archives, and protected ecosystems visible, epic hopeful scene, 16:9",
+          "Galactic vista showing connected civilizations, protected stars, shared cities, and peaceful wormhole routes as coexistence becomes the dominant era, 16:9",
+          "Symbolic sunrise over a multi-species galactic city representing the beginning of a new era of coexistence, optimistic cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-a-new-era-of-coexistence-begins.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-a-new-era-of-coexistence-begins.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-a-new-era-of-coexistence-begins.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-a-new-era-of-coexistence-begins.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-a-new-era-of-coexistence-begins.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

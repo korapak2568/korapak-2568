@@ -65,7 +65,7 @@ const TIKTOK_CONTENT_DEVELOPMENT_FOOTER_LABELS: Record<string, string> = {
     zh: 'TikTok 创作者',
 };
 
-type MainNavbarGroup = 'Home' | 'Luxury' | 'Smart Food' | 'Style' | 'Smart City' | 'Smart Mobility' | 'Story' | 'About';
+type MainNavbarGroup = 'Home' | 'Future Civilization' | 'Luxury' | 'Smart Food' | 'Style' | 'Smart City' | 'Smart Mobility' | 'Story';
 
 const MAIN_NAVBAR_LABELS: Record<MainNavbarGroup, Record<string, string>> = {
     Home: {
@@ -80,6 +80,7 @@ const MAIN_NAVBAR_LABELS: Record<MainNavbarGroup, Record<string, string>> = {
         nl: 'Home',
         zh: '首页',
     },
+    'Future Civilization': {en: 'Future Civilization', th: 'Future Civilization', da: 'Future Civilization', de: 'Future Civilization', fi: 'Future Civilization', fr: 'Future Civilization', ja: 'Future Civilization', ko: 'Future Civilization', nl: 'Future Civilization', zh: 'Future Civilization'},
     Luxury: {en: 'Luxury', th: 'Luxury', da: 'Luxury', de: 'Luxury', fi: 'Luxury', fr: 'Luxury', ja: 'Luxury', ko: 'Luxury', nl: 'Luxury', zh: 'Luxury'},
     'Smart Food': {en: 'Smart Food', th: 'Smart Food', da: 'Smart Food', de: 'Smart Food', fi: 'Smart Food', fr: 'Smart Food', ja: 'Smart Food', ko: 'Smart Food', nl: 'Smart Food', zh: 'Smart Food'},
     Style: {en: 'Style', th: 'Style', da: 'Style', de: 'Style', fi: 'Style', fr: 'Style', ja: 'Style', ko: 'Style', nl: 'Style', zh: 'Style'},
@@ -108,18 +109,6 @@ const MAIN_NAVBAR_LABELS: Record<MainNavbarGroup, Record<string, string>> = {
         zh: '智慧出行',
     },
     Story: {en: 'Story', th: 'Story', da: 'Story', de: 'Story', fi: 'Story', fr: 'Story', ja: 'Story', ko: 'Story', nl: 'Story', zh: 'Story'},
-    About: {
-        en: 'About',
-        th: 'About',
-        da: 'About',
-        de: 'About',
-        fi: 'About',
-        fr: 'About',
-        ja: 'About',
-        ko: 'About',
-        nl: 'About',
-        zh: 'About',
-    },
 };
 type MainNavbarItem = Pick<INavbar, 'group' | 'label' | 'link' | 'activeLinks'> & {
     matchGroups?: string[];
@@ -138,6 +127,13 @@ const MAIN_NAVBAR_ITEMS: MainNavbarItem[] = [
         matchLinks: ['/', '/world', '/world/'],
     },
     {
+        group: 'Future Civilization',
+        label: 'Future Civilization',
+        link: '/future-civilization/',
+        activeLinks: [],
+        matchLinks: ['/future-civilization', '/future-civilization/'],
+    },
+    {
         group: 'Luxury',
         label: 'Luxury',
         link: '/luxury/',
@@ -153,14 +149,6 @@ const MAIN_NAVBAR_ITEMS: MainNavbarItem[] = [
         matchGroups: ['AI Integration', 'Smart Food AI'],
         matchLabels: ['AI Integration', 'Smart Food AI', 'AI Smart Food Platform', 'AI Smart Food'],
         matchLinks: ['/smart-food', '/smart-food/', '/smart-food-ai', '/smart-food-ai/'],
-    },
-    {
-        group: 'Style',
-        label: 'Style',
-        link: '/style/',
-        activeLinks: [],
-        matchLabels: ['Outfit'],
-        matchLinks: ['/style', '/style/', '/outfit', '/outfit/'],
     },
     {
         group: 'Smart City',
@@ -184,13 +172,12 @@ const MAIN_NAVBAR_ITEMS: MainNavbarItem[] = [
         matchLinks: ['/story', '/story/'],
     },
     {
-        group: 'About',
-        label: 'About',
-        link: '/about/',
+        group: 'Style',
+        label: 'Style',
+        link: '/style/',
         activeLinks: [],
-        matchGroups: ['About'],
-        matchLabels: ['About', 'About Chorn Planet'],
-        matchLinks: ['/about', '/about/', '/about-chorn', '/about-chorn/'],
+        matchLabels: ['Outfit'],
+        matchLinks: ['/style', '/style/', '/outfit', '/outfit/'],
     },
 ];
 function getLayoutContentTag(locale: string) {

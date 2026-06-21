@@ -2201,3 +2201,1292 @@ a.platform-home-sofa-story__card-media:hover img {
     grid-template-columns: 1fr;
   }
 }
+
+.future-civilization-home-hero,
+.future-civilization-landing-hero,
+.future-civilization-era-hero {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background: #06102b;
+  color: #ffffff;
+}
+
+.future-civilization-home-hero {
+  min-height: min(920px, 92svh);
+}
+
+.future-civilization-home-hero__media,
+.future-civilization-home-hero__shade,
+.future-civilization-landing-hero__media,
+.future-civilization-era-hero__media {
+  position: absolute;
+  inset: 0;
+}
+
+.future-civilization-home-hero__media img,
+.future-civilization-home-hero__rail-card img,
+.future-civilization-preview-card__media img,
+.future-civilization-landing-hero__media img,
+.future-civilization-featured-card__media img,
+.future-civilization-era-card__media img,
+.future-civilization-era-hero__media img,
+.future-civilization-signal-card__media img {
+  object-fit: cover;
+  transition: transform 260ms ease;
+}
+
+.future-civilization-home-hero__shade,
+.future-civilization-landing-hero::after,
+.future-civilization-era-hero::after {
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, rgba(6, 16, 43, 0.92) 0%, rgba(6, 16, 43, 0.62) 42%, rgba(6, 16, 43, 0.18) 100%),
+    linear-gradient(180deg, rgba(6, 16, 43, 0.12) 0%, rgba(6, 16, 43, 0.76) 100%);
+}
+
+.future-civilization-home-hero__content {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  min-height: min(920px, 92svh);
+  grid-template-columns: minmax(0, 0.9fr) minmax(320px, 0.44fr);
+  gap: clamp(24px, 5vw, 72px);
+  align-items: end;
+  padding: clamp(118px, 14vw, 176px) 0 clamp(34px, 6vw, 70px);
+}
+
+.future-civilization-home-hero__copy {
+  max-width: 780px;
+}
+
+.future-civilization-home-hero__copy span,
+.future-civilization-landing-hero__content span,
+.future-civilization-era-hero__copy span,
+.future-civilization-era-hero__copy a,
+.future-civilization-preview-card__body span,
+.future-civilization-featured-card__body span,
+.future-civilization-era-card__body span,
+.future-civilization-signal-card__body span,
+.future-civilization-more-eras__grid span {
+  color: rgba(198, 250, 255, 0.92);
+  font-size: 0.76rem;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.future-civilization-home-hero__copy h1,
+.future-civilization-landing-hero__content h1,
+.future-civilization-era-hero__copy h1 {
+  margin: 12px 0 16px;
+  color: #ffffff;
+  font-size: clamp(3.2rem, 7vw, 7.4rem);
+  line-height: 0.9;
+  letter-spacing: 0;
+  text-shadow: 0 24px 70px rgba(0, 0, 0, 0.42);
+}
+
+.future-civilization-home-hero__copy p,
+.future-civilization-landing-hero__content p,
+.future-civilization-era-hero__copy p {
+  max-width: 700px;
+  margin: 0;
+  color: rgba(241, 250, 255, 0.92);
+  font-size: clamp(1.02rem, 1.5vw, 1.2rem);
+  line-height: 1.72;
+}
+
+.future-civilization-home-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+  margin-bottom: 28px;
+}
+
+.future-civilization-home-hero__actions a,
+.future-civilization-era-hero__copy a {
+  display: inline-flex;
+  min-height: 46px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 18px;
+  border: 1px solid rgba(199, 248, 255, 0.68);
+  border-radius: 6px;
+  background: linear-gradient(135deg, #f3fffc 0%, #9af6ff 42%, #8d9aff 100%);
+  color: #06102b;
+  font-size: 0.88rem;
+  font-weight: 900;
+  text-decoration: none;
+  box-shadow: 0 18px 44px rgba(79, 217, 255, 0.28);
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.future-civilization-home-hero__actions a:last-child {
+  border-color: rgba(18, 61, 134, 0.28);
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(238, 248, 255, 0.82)),
+    rgba(255, 255, 255, 0.86);
+  color: #123d86;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.92),
+    0 14px 34px rgba(17, 39, 109, 0.1);
+}
+
+.future-civilization-home-hero__actions a:focus-visible {
+  outline: 3px solid rgba(36, 120, 216, 0.34);
+  outline-offset: 3px;
+}
+
+.future-civilization-home-hero__actions a:last-child:hover {
+  border-color: rgba(18, 61, 134, 0.44);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.96),
+    0 20px 46px rgba(17, 39, 109, 0.16);
+}
+.future-civilization-home-hero__actions a:hover,
+.future-civilization-era-hero__copy a:hover,
+.future-civilization-featured-card:hover,
+.future-civilization-era-card:hover,
+.future-civilization-preview-card:hover,
+.future-civilization-more-eras__grid a:hover {
+  transform: translateY(-3px);
+}
+
+.future-civilization-home-hero__rail {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  align-self: end;
+}
+
+.future-civilization-home-hero__rail-card {
+  position: relative;
+  min-height: 148px;
+  overflow: hidden;
+  border: 1px solid rgba(199, 248, 255, 0.28);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 20px 54px rgba(0, 8, 28, 0.28);
+}
+
+.future-civilization-home-hero__rail-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 22%, rgba(6, 16, 43, 0.72));
+}
+
+.future-civilization-home-hero__rail-card span {
+  position: absolute;
+  right: 10px;
+  bottom: 9px;
+  z-index: 1;
+  color: #ffffff;
+  font-size: 0.8rem;
+  font-weight: 900;
+}
+
+.future-civilization-preview,
+.future-civilization-featured,
+.future-civilization-era-index,
+.future-civilization-layers,
+.future-civilization-era-intro,
+.future-civilization-signal-grid,
+.future-civilization-more-eras {
+  padding: clamp(54px, 7vw, 92px) 0;
+}
+
+.future-civilization-preview__grid,
+.future-civilization-featured__grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.future-civilization-preview-card,
+.future-civilization-featured-card,
+.future-civilization-era-card,
+.future-civilization-signal-card,
+.future-civilization-layers__grid article,
+.future-civilization-more-eras__grid a {
+  overflow: hidden;
+  border: 1px solid rgba(79, 217, 255, 0.2);
+  border-radius: 8px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.9), rgba(246, 252, 255, 0.76)),
+    radial-gradient(circle at 12% 0%, rgba(79, 217, 255, 0.16), transparent 34%);
+  box-shadow: 0 24px 70px rgba(17, 39, 109, 0.1);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.future-civilization-preview-card a,
+.future-civilization-featured-card,
+.future-civilization-era-card a {
+  display: grid;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+}
+
+.future-civilization-preview-card__media,
+.future-civilization-featured-card__media,
+.future-civilization-era-card__media,
+.future-civilization-signal-card__media {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  background: linear-gradient(135deg, #d9f5ff 0%, #dfe7ff 100%);
+}
+
+.future-civilization-preview-card__body,
+.future-civilization-featured-card__body,
+.future-civilization-era-card__body,
+.future-civilization-signal-card__body {
+  padding: 18px;
+}
+
+.future-civilization-preview-card__body span,
+.future-civilization-featured-card__body span,
+.future-civilization-era-card__body span,
+.future-civilization-signal-card__body span {
+  color: #2478d8;
+}
+
+.future-civilization-preview-card__body h3,
+.future-civilization-featured-card__body h3,
+.future-civilization-era-card__body h3,
+.future-civilization-signal-card__body h3,
+.future-civilization-layers__grid h3 {
+  margin: 8px 0 10px;
+  color: var(--platform-ink);
+  font-size: clamp(1.1rem, 1.7vw, 1.48rem);
+  line-height: 1.12;
+  letter-spacing: 0;
+}
+
+.future-civilization-preview-card__body p,
+.future-civilization-featured-card__body p,
+.future-civilization-era-card__body p,
+.future-civilization-signal-card__body p,
+.future-civilization-layers__grid p {
+  margin: 0;
+  color: var(--platform-ink-soft);
+  font-size: 0.94rem;
+  line-height: 1.62;
+}
+
+.future-civilization-preview-card__body strong,
+.future-civilization-era-card__meta strong {
+  display: inline-flex;
+  margin-top: 14px;
+  color: #123d86;
+  font-size: 0.84rem;
+}
+
+.future-civilization-landing-hero {
+  min-height: min(880px, 84svh);
+}
+
+.future-civilization-landing-hero::after,
+.future-civilization-era-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.future-civilization-landing-hero::after {
+  background:
+    linear-gradient(90deg, rgba(6, 16, 43, 0.62) 0%, rgba(6, 16, 43, 0.36) 42%, rgba(6, 16, 43, 0.08) 100%),
+    linear-gradient(180deg, rgba(6, 16, 43, 0.04) 0%, rgba(6, 16, 43, 0.42) 100%);
+}
+
+.future-civilization-landing-hero__media img {
+  filter: brightness(1.1) saturate(1.05);
+}
+
+.future-civilization-landing-hero__content,
+.future-civilization-era-hero__copy {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  align-content: end;
+  width: min(1240px, calc(100% - 32px));
+  min-height: min(880px, 84svh);
+  margin: 0 auto;
+  padding: clamp(118px, 14vw, 168px) 0 clamp(44px, 7vw, 82px);
+}
+
+.future-civilization-landing-hero__stats {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px 14px;
+  width: fit-content;
+  margin-top: 26px;
+  padding: 14px 16px;
+  border: 1px solid rgba(199, 248, 255, 0.28);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(14px);
+}
+
+.future-civilization-landing-hero__stats strong {
+  color: #ffffff;
+  font-size: clamp(2rem, 4vw, 3.6rem);
+  line-height: 0.9;
+}
+
+.future-civilization-landing-hero__stats small {
+  align-self: end;
+  color: rgba(241, 250, 255, 0.82);
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.future-civilization-era-index__grid,
+.future-civilization-signal-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.future-civilization-era-card a,
+.future-civilization-signal-card {
+  grid-template-columns: minmax(220px, 0.42fr) minmax(0, 1fr);
+}
+
+.future-civilization-era-card__meta,
+.future-civilization-signal-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.future-civilization-era-card__meta small,
+.future-civilization-signal-card__meta small {
+  padding: 6px 8px;
+  border: 1px solid rgba(79, 217, 255, 0.18);
+  border-radius: 4px;
+  background: rgba(79, 217, 255, 0.1);
+  color: #164ea8;
+  font-size: 0.76rem;
+  font-weight: 800;
+  text-transform: capitalize;
+}
+
+.future-civilization-era-hero {
+  min-height: min(840px, 82svh);
+}
+
+.future-civilization-era-hero__copy a {
+  width: fit-content;
+  margin-bottom: 18px;
+}
+
+.future-civilization-signal-card {
+  display: grid;
+}
+
+.future-civilization-signal-card__details {
+  margin-top: 16px;
+}
+
+.future-civilization-signal-card__details strong {
+  display: block;
+  margin-bottom: 8px;
+  color: #123d86;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.future-civilization-signal-card__details ul {
+  display: grid;
+  gap: 7px;
+  margin: 0;
+  padding-left: 18px;
+  color: var(--platform-ink-soft);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.future-civilization-layers__grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.future-civilization-layers__grid article {
+  padding: 20px;
+}
+
+.future-civilization-more-eras__grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.future-civilization-more-eras__grid a {
+  display: grid;
+  gap: 8px;
+  padding: 18px;
+  text-decoration: none;
+}
+
+.future-civilization-more-eras__grid span {
+  color: #2478d8;
+}
+
+.future-civilization-more-eras__grid strong {
+  color: var(--platform-ink);
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+@media (max-width: 991px) {
+  .future-civilization-home-hero__content,
+  .future-civilization-preview__grid,
+  .future-civilization-featured__grid,
+  .future-civilization-era-index__grid,
+  .future-civilization-layers__grid,
+  .future-civilization-more-eras__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .future-civilization-home-hero__copy,
+  .future-civilization-home-hero__rail,
+  .future-civilization-era-intro .platform-section__header {
+    grid-column: 1 / -1;
+  }
+
+  .future-civilization-signal-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .future-civilization-home-hero {
+    min-height: 760px;
+  }
+
+  .future-civilization-home-hero__content,
+  .future-civilization-preview__grid,
+  .future-civilization-featured__grid,
+  .future-civilization-era-index__grid,
+  .future-civilization-layers__grid,
+  .future-civilization-more-eras__grid,
+  .future-civilization-era-card a,
+  .future-civilization-signal-card {
+    grid-template-columns: 1fr;
+  }
+
+  .future-civilization-home-hero__content {
+    min-height: 760px;
+    padding-top: 110px;
+  }
+
+  .future-civilization-home-hero__copy h1,
+  .future-civilization-landing-hero__content h1,
+  .future-civilization-era-hero__copy h1 {
+    font-size: 3rem;
+  }
+
+  .future-civilization-home-hero__actions a {
+    width: 100%;
+  }
+
+  .future-civilization-home-hero__rail {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 6px;
+  }
+
+  .future-civilization-home-hero__rail-card {
+    min-height: 96px;
+  }
+
+  .future-civilization-landing-hero__content,
+  .future-civilization-era-hero__copy {
+    min-height: 720px;
+    width: min(100% - 24px, 1240px);
+  }
+
+  .future-civilization-landing-hero__stats {
+    grid-template-columns: auto auto;
+    width: 100%;
+  }
+}
+
+.future-civilization-preview__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(0, 1fr);
+  grid-template-rows: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  align-items: stretch;
+}
+
+.future-civilization-preview-card--featured {
+  grid-row: 1 / span 3;
+}
+
+.future-civilization-preview-card--featured a {
+  grid-template-rows: minmax(0, 1fr) auto;
+}
+
+.future-civilization-preview-card--featured .future-civilization-preview-card__media {
+  min-height: clamp(360px, 34vw, 560px);
+  aspect-ratio: auto;
+}
+
+.future-civilization-preview-card:not(.future-civilization-preview-card--featured) a {
+  grid-template-columns: minmax(300px, 0.84fr) minmax(0, 1fr);
+}
+
+.future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__media {
+  height: 100%;
+  min-height: 150px;
+  aspect-ratio: auto;
+}
+
+.future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__body {
+  display: grid;
+  align-content: center;
+  padding: 16px;
+}
+
+.future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__body h3 {
+  font-size: clamp(1rem, 1.35vw, 1.22rem);
+}
+
+.future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__body p {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+@media (max-width: 991px) and (min-width: 641px) {
+  .future-civilization-preview__grid {
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1fr);
+    grid-template-rows: repeat(3, minmax(0, auto));
+    gap: 12px;
+  }
+
+  .future-civilization-preview-card--featured {
+    grid-row: 1 / span 3;
+  }
+
+  .future-civilization-preview-card--featured .future-civilization-preview-card__media {
+    min-height: 320px;
+  }
+
+  .future-civilization-preview-card:not(.future-civilization-preview-card--featured) a {
+    grid-template-columns: minmax(208px, 0.76fr) minmax(0, 1fr);
+  }
+
+  .future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__media {
+    min-height: 128px;
+  }
+
+  .future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__body {
+    padding: 14px;
+  }
+
+  .future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__body strong {
+    margin-top: 8px;
+  }
+}
+
+@media (max-width: 640px) {
+  .future-civilization-preview__grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+
+  .future-civilization-preview-card--featured {
+    grid-row: auto;
+  }
+
+  .future-civilization-preview-card--featured .future-civilization-preview-card__media,
+  .future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__media {
+    min-height: 0;
+    aspect-ratio: 16 / 9;
+  }
+
+  .future-civilization-preview-card:not(.future-civilization-preview-card--featured) a {
+    grid-template-columns: 1fr;
+  }
+
+  .future-civilization-preview-card:not(.future-civilization-preview-card--featured) .future-civilization-preview-card__body {
+    padding: 18px;
+  }
+}
+
+.future-civilization-home-hero {
+  min-height: auto;
+  padding: clamp(92px, 9vw, 132px) 0 clamp(48px, 7vw, 86px);
+  padding-top: 50px;
+  background:
+    radial-gradient(circle at 14% 8%, rgba(79, 217, 255, 0.18), transparent 28%),
+    radial-gradient(circle at 88% 18%, rgba(90, 104, 255, 0.18), transparent 32%),
+    linear-gradient(180deg, #f8fdff 0%, #eef5ff 52%, #fbfeff 100%);
+  color: var(--platform-ink);
+}
+
+.future-civilization-home-hero__body {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(420px, 1fr);
+  gap: clamp(28px, 5vw, 30px);
+  align-items: stretch;
+  width: min(1280px, calc(100% - 32px));
+  margin: 0 auto;
+}
+
+.future-civilization-home-hero__header {
+  grid-column: 1 / -1;
+  margin-bottom: 30px;
+}
+
+.future-civilization-home-hero__content {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  min-height: 0;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto 1fr;
+  row-gap: clamp(18px, 2.2vw, 28px);
+  align-items: start;
+  align-self: stretch;
+  padding: 0;
+  color: var(--platform-ink);
+}
+
+.future-civilization-home-hero__eyebrow {
+  margin: 0 0 12px;
+  color: #2478d8;
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.future-civilization-home-hero__headline {
+  // max-width: 760px;
+  margin: 0 0 18px;
+  color: var(--platform-ink);
+  font-size: clamp(3.1rem, 6vw, 6.4rem);
+  line-height: 0.9;
+  letter-spacing: 0;
+}
+
+.future-civilization-home-hero__paragraph {
+  max-width: 680px;
+  margin: 0;
+  color: var(--platform-ink-soft);
+  font-size: clamp(1.02rem, 1.4vw, 1.16rem);
+  line-height: 1.72;
+}
+
+.future-civilization-home-hero__rail {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  align-self: end;
+  margin-top: 0;
+}
+
+.future-civilization-home-hero__rail-card {
+  display: grid;
+  grid-template-columns: minmax(108px, 0.42fr) minmax(0, 1fr);
+  min-height: 126px;
+  overflow: hidden;
+  border: 1px solid rgba(79, 217, 255, 0.22);
+  border-radius: 8px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.88), rgba(246, 252, 255, 0.72)),
+    radial-gradient(circle at 12% 0%, rgba(79, 217, 255, 0.14), transparent 34%);
+  color: inherit;
+  text-decoration: none;
+  box-shadow: 0 20px 54px rgba(17, 39, 109, 0.1);
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.future-civilization-home-hero__rail-card::after {
+  content: none;
+}
+
+.future-civilization-home-hero__rail-card:hover,
+.future-civilization-home-hero__image:hover {
+  transform: translateY(-3px);
+  border-color: rgba(79, 217, 255, 0.42);
+  box-shadow: 0 28px 74px rgba(17, 39, 109, 0.16);
+}
+
+.future-civilization-home-hero__rail-image {
+  position: relative;
+  min-height: 126px;
+  overflow: hidden;
+}
+
+.future-civilization-home-hero__rail-image img,
+.future-civilization-home-hero__image img {
+  object-fit: cover;
+  transition: transform 260ms ease;
+}
+
+.future-civilization-home-hero__rail-card:hover img,
+.future-civilization-home-hero__image:hover img {
+  transform: scale(1.035);
+}
+
+.future-civilization-home-hero__rail-copy {
+  display: grid;
+  align-content: center;
+  gap: 7px;
+  padding: 14px;
+}
+
+.future-civilization-home-hero__rail-copy span {
+  position: static;
+  color: #2478d8;
+  font-size: 0.74rem;
+  font-weight: 900;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.future-civilization-home-hero__rail-copy strong {
+  color: var(--platform-ink);
+  font-size: clamp(0.98rem, 1.2vw, 1.12rem);
+  line-height: 1.18;
+}
+
+.future-civilization-home-hero__visual {
+  display: grid;
+  min-width: 0;
+}
+
+.future-civilization-home-hero__image {
+  position: relative;
+  display: block;
+  min-height: min(720px, 68vh);
+  height: 100%;
+  overflow: hidden;
+  border: 1px solid rgba(79, 217, 255, 0.24);
+  border-radius: 8px;
+  background: linear-gradient(135deg, #d9f5ff 0%, #dfe7ff 100%);
+  box-shadow: 0 34px 92px rgba(17, 39, 109, 0.18);
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.future-civilization-home-hero__image::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 48%, rgba(6, 16, 43, 0.78) 100%);
+  pointer-events: none;
+}
+
+.future-civilization-home-hero__image-caption {
+  position: absolute;
+  left: clamp(18px, 3vw, 34px);
+  right: clamp(18px, 3vw, 34px);
+  bottom: clamp(18px, 3vw, 34px);
+  z-index: 1;
+  display: grid;
+  gap: 8px;
+  color: #ffffff;
+}
+
+.future-civilization-home-hero__image-caption span,
+.future-civilization-home-hero__image-caption small {
+  color: rgba(226, 251, 255, 0.92);
+  font-size: 0.76rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.future-civilization-home-hero__image-caption strong {
+  max-width: 620px;
+  color: #ffffff;
+  font-size: clamp(1.6rem, 3vw, 3rem);
+  line-height: 1;
+}
+
+@media (max-width: 991px) {
+  .future-civilization-home-hero__body {
+    grid-template-columns: 1fr;
+    gap: 26px;
+  }
+
+  .future-civilization-home-hero__content,
+  .future-civilization-home-hero__rail {
+    grid-column: auto;
+  }
+
+  .future-civilization-home-hero__image {
+    min-height: 520px;
+  }
+}
+
+@media (max-width: 640px) {
+  .future-civilization-home-hero {
+    padding: 82px 0 44px;
+  }
+
+  .future-civilization-home-hero__body {
+    width: min(100% - 24px, 1280px);
+  }
+
+  .future-civilization-home-hero__headline {
+    font-size: 3rem;
+  }
+
+  .future-civilization-home-hero__rail,
+  .future-civilization-home-hero__rail-card {
+    grid-template-columns: 1fr;
+  }
+
+  .future-civilization-home-hero__rail-image {
+    min-height: 0;
+    aspect-ratio: 16 / 9;
+  }
+
+  .future-civilization-home-hero__image {
+    min-height: 0;
+    aspect-ratio: 4 / 5;
+  }
+}
+
+.future-civilization-home-hero__rail-card {
+  grid-template-columns: 1fr;
+  min-height: 0;
+  aspect-ratio: 16 / 10;
+  background: #06102b;
+}
+
+.future-civilization-home-hero__rail-card::before,
+.future-civilization-home-hero__rail-image::before,
+.future-civilization-home-hero__rail-image::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.future-civilization-home-hero__rail-card::before {
+  inset: 10px;
+  border: 1px solid rgba(226, 251, 255, 0.76);
+  border-radius: 5px;
+  box-shadow:
+    inset 0 0 0 1px rgba(90, 104, 255, 0.24),
+    0 0 34px rgba(79, 217, 255, 0.24);
+}
+
+.future-civilization-home-hero__rail-image {
+  height: 100%;
+  min-height: 0;
+  aspect-ratio: auto;
+}
+
+.future-civilization-home-hero__rail-image::before {
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(6, 16, 43, 0.02), rgba(6, 16, 43, 0.32)),
+    radial-gradient(circle at 18% 14%, rgba(121, 243, 239, 0.22), transparent 34%);
+}
+
+.future-civilization-home-hero__rail-image::after {
+  inset: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 3px;
+}
+
+.future-civilization-home-hero__rail-copy {
+  display: none;
+}
+
+.future-civilization-home-hero__rail-card,
+.future-civilization-home-hero__rail-image,
+.future-civilization-home-hero__rail-card::before,
+.future-civilization-home-hero__rail-image::after,
+.future-civilization-home-hero__image,
+.future-civilization-preview-card,
+.future-civilization-featured-card,
+.future-civilization-era-card,
+.future-civilization-signal-card,
+.future-civilization-preview-card__media,
+.future-civilization-featured-card__media,
+.future-civilization-era-card__media,
+.future-civilization-signal-card__media,
+.future-civilization-landing-hero__media,
+.future-civilization-era-hero__media,
+.future-civilization-home-hero img,
+.future-civilization-preview img,
+.future-civilization-featured img,
+.future-civilization-era-index img,
+.future-civilization-era-hero img,
+.future-civilization-landing-hero img,
+.future-civilization-signal-grid img {
+  border-radius: 0;
+}
+@media (max-width: 640px) {
+  .future-civilization-home-hero__rail-card {
+    aspect-ratio: 16 / 9;
+  }
+
+  .future-civilization-home-hero__rail-image {
+    aspect-ratio: auto;
+  }
+}
+.future-civilization-signal-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.future-civilization-signal-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  color: inherit;
+  text-decoration: none;
+}
+
+.future-civilization-signal-card__media {
+  min-height: clamp(240px, 22vw, 360px);
+  aspect-ratio: 16 / 10;
+}
+
+.future-civilization-era-page .future-civilization-era-hero {
+  min-height: min(760px, 74svh);
+}
+
+.future-civilization-era-page .future-civilization-era-hero__copy {
+  min-height: min(760px, 74svh);
+  padding-bottom: clamp(32px, 5vw, 60px);
+}
+
+.future-civilization-era-page .future-civilization-era-intro,
+.future-civilization-era-page .future-civilization-signal-grid,
+.future-civilization-era-page .future-civilization-more-eras {
+  padding-top: clamp(30px, 4vw, 52px);
+  padding-bottom: clamp(30px, 4vw, 52px);
+}
+
+.future-civilization-era-page .future-civilization-signal-grid {
+  width: min(1280px, calc(100% - 32px));
+  max-width: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.future-civilization-era-page .future-civilization-item-summary-panel {
+  display: grid;
+  gap: 18px;
+  width: min(1280px, calc(100% - 32px));
+  max-width: none;
+  margin: 0 auto;
+}
+
+.future-civilization-era-page .future-civilization-item-summary-panel .platform-mts-hero__actions {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.future-civilization-era-page .future-civilization-item-summary-panel .platform-mts-station-summary {
+  max-width: 920px;
+  margin-top: 2px;
+}
+
+.future-civilization-era-page .future-civilization-item-summary-panel .platform-mts-station-summary strong {
+  font-size: clamp(1.55rem, 3vw, 3.1rem);
+}
+
+.future-civilization-era-page .future-civilization-item-summary-panel .platform-mts-station-summary p {
+  max-width: 780px;
+  color: var(--platform-ink-soft);
+  font-size: 1.04rem;
+  line-height: 1.72;
+}
+
+.future-civilization-era-page .future-civilization-era-hero::after {
+  background:
+    linear-gradient(90deg, rgba(6, 16, 43, 0.58) 0%, rgba(6, 16, 43, 0.34) 42%, rgba(6, 16, 43, 0.08) 100%),
+    linear-gradient(180deg, rgba(6, 16, 43, 0.04) 0%, rgba(6, 16, 43, 0.38) 100%);
+}
+
+.future-civilization-era-page .future-civilization-era-hero__media img {
+  filter: brightness(1.08) saturate(1.04);
+}
+
+.future-civilization-item-hero {
+  position: relative;
+  min-height: 100svh;
+  overflow: hidden;
+  isolation: isolate;
+  background: #06102b;
+  color: #ffffff;
+}
+
+.future-civilization-item-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, rgba(6, 16, 43, 0.82) 0%, rgba(6, 16, 43, 0.38) 52%, rgba(6, 16, 43, 0.12) 100%),
+    linear-gradient(180deg, rgba(6, 16, 43, 0.08) 0%, rgba(6, 16, 43, 0.76) 100%);
+}
+
+.future-civilization-item-hero__media {
+  position: absolute;
+  inset: 0;
+}
+
+.future-civilization-item-hero__media img,
+.future-civilization-related-signal-card__media img {
+  object-fit: cover;
+}
+
+.future-civilization-item-hero__content {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  align-content: end;
+  width: min(1280px, calc(100% - 32px));
+  min-height: 100svh;
+  margin: 0 auto;
+  padding: clamp(118px, 14vw, 168px) 0 clamp(44px, 7vw, 84px);
+}
+
+.future-civilization-item-hero__content a,
+.future-civilization-item-hero__content span {
+  width: fit-content;
+  color: rgba(226, 251, 255, 0.92);
+  font-size: 0.76rem;
+  font-weight: 900;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.future-civilization-item-hero__content a {
+  min-height: 36px;
+  margin-bottom: 16px;
+  padding: 8px 12px;
+  border: 1px solid rgba(199, 248, 255, 0.34);
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(14px);
+}
+
+.future-civilization-item-hero__content h1 {
+  max-width: 980px;
+  margin: 12px 0 16px;
+  color: #ffffff;
+  font-size: clamp(3rem, 7vw, 7rem);
+  line-height: 0.9;
+  letter-spacing: 0;
+}
+
+.future-civilization-item-hero__content p {
+  max-width: 760px;
+  margin: 0;
+  color: rgba(241, 250, 255, 0.92);
+  font-size: clamp(1.02rem, 1.45vw, 1.2rem);
+  line-height: 1.72;
+}
+
+.future-civilization-item-detail,
+.future-civilization-related-signals {
+  padding: clamp(54px, 7vw, 92px) 0;
+}
+
+.future-civilization-item-detail__grid,
+.future-civilization-related-signals__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.future-civilization-item-detail__grid article,
+.future-civilization-related-signal-card {
+  overflow: hidden;
+  border: 1px solid rgba(79, 217, 255, 0.2);
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.9), rgba(246, 252, 255, 0.76)),
+    radial-gradient(circle at 12% 0%, rgba(79, 217, 255, 0.16), transparent 34%);
+  box-shadow: 0 24px 70px rgba(17, 39, 109, 0.1);
+}
+
+.future-civilization-item-detail__grid article {
+  padding: 22px;
+}
+
+.future-civilization-item-detail__grid h3,
+.future-civilization-related-signal-card__body h3 {
+  margin: 0 0 12px;
+  color: var(--platform-ink);
+  font-size: clamp(1.12rem, 1.6vw, 1.42rem);
+  line-height: 1.16;
+}
+
+.future-civilization-item-detail__grid ul {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding-left: 18px;
+  color: var(--platform-ink-soft);
+  line-height: 1.62;
+}
+
+.future-civilization-item-detail__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.future-civilization-item-detail__tags span,
+.future-civilization-related-signal-card__body span {
+  padding: 7px 9px;
+  border: 1px solid rgba(79, 217, 255, 0.18);
+  background: rgba(79, 217, 255, 0.1);
+  color: #164ea8;
+  font-size: 0.76rem;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+
+.future-civilization-related-signal-card {
+  display: grid;
+  color: inherit;
+  text-decoration: none;
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.future-civilization-related-signal-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(79, 217, 255, 0.42);
+  box-shadow: 0 28px 74px rgba(17, 39, 109, 0.16);
+}
+
+.future-civilization-related-signal-card__media {
+  position: relative;
+  min-height: clamp(220px, 20vw, 320px);
+  overflow: hidden;
+  aspect-ratio: 16 / 10;
+}
+
+.future-civilization-related-signal-card__body {
+  display: grid;
+  gap: 10px;
+  padding: 18px;
+}
+
+.future-civilization-item-hero__media,
+.future-civilization-item-hero img,
+.future-civilization-related-signal-card,
+.future-civilization-related-signal-card__media,
+.future-civilization-related-signals img {
+  border-radius: 0;
+}
+
+@media (max-width: 991px) {
+  .future-civilization-signal-grid,
+  .future-civilization-item-detail__grid,
+  .future-civilization-related-signals__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .future-civilization-signal-grid,
+  .future-civilization-item-detail__grid,
+  .future-civilization-related-signals__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .future-civilization-item-hero__content {
+    width: min(100% - 24px, 1280px);
+  }
+}
+.future-civilization-featured-intro {
+  padding: clamp(54px, 7vw, 92px) 0 0;
+}
+
+.future-civilization-random-signals {
+  padding-top: clamp(36px, 5vw, 64px);
+}
+
+.future-civilization-random-card .platform-outfit-card__media {
+  aspect-ratio: 3 / 2;
+  border-radius: 0;
+}
+
+.future-civilization-random-card img {
+  border-radius: 0;
+}
+.future-civilization-item-mts-hero {
+  min-height: min(860px, calc(100svh - 88px));
+}
+
+.future-civilization-item-page .platform-outfit-detail-hero__media {
+  aspect-ratio: 16 / 9;
+}
+
+.future-civilization-item-page .platform-mts-hero__image {
+  object-fit: cover;
+}
+
+.future-civilization-item-mts-hero__media,
+.future-civilization-item-mts-hero__media img,
+.future-civilization-related-mts-card .platform-outfit-card__media,
+.future-civilization-related-mts-card img {
+  border-radius: 0;
+}
+
+.future-civilization-item-summary__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.future-civilization-item-summary__meta span {
+  padding: 7px 10px;
+  border: 1px solid rgba(27, 99, 216, 0.16);
+  background: rgba(79, 217, 255, 0.12);
+  color: #164ea8;
+  font-size: 0.76rem;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+
+.future-civilization-related-mts-card .platform-outfit-card__media {
+  aspect-ratio: 3 / 2;
+}
+
+.future-civilization-item-summary-panel .platform-section__header {
+  margin-bottom: 0;
+}
+
+.future-civilization-item-summary-panel .platform-mts-hero__actions {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.future-civilization-item-summary-panel .platform-mts-station-summary {
+  max-width: 920px;
+  margin-top: 2px;
+}
+
+.future-civilization-item-summary-panel .platform-mts-station-summary strong {
+  font-size: clamp(1.55rem, 3vw, 3.1rem);
+}
+
+.future-civilization-item-summary-panel .platform-mts-station-summary p {
+  max-width: 780px;
+  color: var(--platform-ink-soft);
+  font-size: 1.04rem;
+  line-height: 1.72;
+}

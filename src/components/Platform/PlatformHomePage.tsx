@@ -5,9 +5,12 @@ import Link from "next/link";
 import type { ReactNode } from "react";
 import { ShoppingBag } from "lucide-react";
 import { FaTiktok } from "react-icons/fa";
+import FutureCivilizationHero from "@/components/hero/future-civilization/FutureCivilizationHero";
+import FutureCivilizationPreviewSection from "@/components/hero/future-civilization/FutureCivilizationPreviewSection";
 import PlatformContentCard, {
   getLocalizedHref,
 } from "@/components/Platform/PlatformContentCard";
+import type { FutureRoadmapFeaturedItem } from "@/lib/platform-content/futureRoadmapContent";
 import type {
   PlatformCircularContent,
   PlatformHomeContent,
@@ -86,8 +89,14 @@ export function PlatformHomeCircularSystemSection({
         >
           <div className="platform-home-sofa-story__media">
             <Image
-              src={getPlatformImageSrc(sofaCoupleStory.imagePortrait, "desktop")}
-              alt={getPlatformImageAlt(sofaCoupleStory.imagePortrait, "desktop")}
+              src={getPlatformImageSrc(
+                sofaCoupleStory.imagePortrait,
+                "desktop",
+              )}
+              alt={getPlatformImageAlt(
+                sofaCoupleStory.imagePortrait,
+                "desktop",
+              )}
               fill
               sizes="(max-width: 991px) 100vw, 50vw"
               style={{ objectFit: "cover" }}
@@ -231,10 +240,14 @@ export default function PlatformHomePage({
   lang,
   content,
   afterHero,
+  futureRoadmapItems,
+  futureRoadmapHeroItem,
 }: {
   lang: string;
   content: PlatformHomeContent;
   afterHero?: ReactNode;
+  futureRoadmapItems: FutureRoadmapFeaturedItem[];
+  futureRoadmapHeroItem: FutureRoadmapFeaturedItem;
 }) {
   const { data: cachedContent } = usePlatformHomeContent(lang, content);
   const homeContent = cachedContent ?? content;
@@ -244,33 +257,21 @@ export default function PlatformHomePage({
   const platformSections = homeContent.sections.filter(
     (section) => section.layout !== "grid",
   );
+  const futureHeroItems = futureRoadmapItems.slice(1, 5);
+  const futurePreviewItems = futureRoadmapItems.slice(5, 9);
 
   return (
     <main className="platform-page platform-home">
-      <section className="platform-hero">
-        <div className="platform-hero__media">
-          <Image
-            src={getPlatformImageSrc(homeContent.hero.image, "desktop")}
-            alt={getPlatformImageAlt(homeContent.hero.image, "desktop")}
-            fill
-            priority
-            sizes="100vw"
-          />
-        </div>
-        <div className="platform-hero__overlay" />
-        <div className="platform-shell platform-hero__content">
-          <div className="platform-hero__actions">
-            {homeContent.hero.actions.map((action) => (
-              <Link
-                key={action.href}
-                href={getLocalizedHref(lang, action.href)}
-              >
-                {action.label}
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
+      <FutureCivilizationHero
+        lang={lang}
+        featuredItems={futureHeroItems}
+        heroItem={futureRoadmapHeroItem}
+      />
+
+      <FutureCivilizationPreviewSection
+        lang={lang}
+        featuredItems={futurePreviewItems}
+      />
 
       {afterHero ? (
         <div className="platform-shell platform-home__after-hero">

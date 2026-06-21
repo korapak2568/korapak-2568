@@ -1,0 +1,1334 @@
+{
+  "era": {
+    "id": "era-05",
+    "order": 5,
+    "slug": "advanced-human-civilization",
+    "title": "Advanced Human Civilization",
+    "subtitle": "Humanity masters the Earth-orbit-Moon-Mars civilization system",
+    "description": "This era marks the rise of mature multi-world civilization across Earth, orbit, the Moon, and Mars, combining space megastructures, lunar cities, Martian industry, advanced medicine, neural presence, and new forms of culture and governance.",
+    "timeframe": {
+      "label": "Advanced Human Civilization",
+      "startYear": 2110,
+      "endYear": 2170,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "expansive",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 5: Advanced Human Civilization | Future Civilization Roadmap",
+      "metaDescription": "Explore advanced human civilization across Earth, orbit, the Moon, and Mars, including orbital habitats, Moon cities, Mars exports, quantum internet, O'Neill cylinders, and longevity breakthroughs.",
+      "keywords": [
+        "advanced human civilization",
+        "Earth Moon Mars economy",
+        "orbital habitats",
+        "Moon city",
+        "future civilization roadmap"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-05-earth-moon-economy-becomes-larger-than-today-s-global-aviation-industry",
+      "order": 1,
+      "slug": "earth-moon-economy-becomes-larger-than-today-s-global-aviation-industry",
+      "title": "Earth-Moon economy becomes larger than today's global aviation industry",
+      "shortTitle": "Earth-Moon Economy",
+      "description": "Trade, logistics, tourism, research, construction, energy, and manufacturing between Earth and the Moon grow into a major economic system larger than today's global aviation industry.",
+      "layerId": "civilization",
+      "domains": ["space-economy", "lunar-industry", "logistics"],
+      "maturity": "major-economic-sector",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2140
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The Moon becomes an integrated extension of human civilization, transforming space from expeditionary activity into a normal economic domain.",
+      "signals": [
+        "Routine cargo and passenger routes connect Earth orbit and lunar settlements",
+        "Lunar industry supplies construction materials, fuel, and research services",
+        "Insurance, finance, education, and logistics sectors expand around the Earth-Moon economy"
+      ],
+      "implications": [
+        "Space infrastructure becomes economically self-reinforcing",
+        "Lunar cities gain stronger political and cultural importance",
+        "Earth-orbit-Moon logistics becomes a strategic civilization layer"
+      ],
+      "image": {
+        "alt": "Earth-Moon economy with routine cargo routes, lunar industry, and orbital logistics",
+        "prompts": [
+          "Wide view of Earth-Moon economic infrastructure with cargo ships, lunar industrial zones, orbital stations, and logistics routes, clean futuristic documentary realism, 16:9",
+          "Busy lunar trade port loading resources and manufactured goods for Earth orbit, realistic advanced space economy, 16:9",
+          "Earth orbit logistics hub coordinating passenger vehicles, cargo tugs, and lunar supply chains, optimistic civilization-scale scene, 16:9",
+          "Financial and logistics command center tracking Earth-Moon trade flows with Moon and Earth visible through panoramic windows, clean future documentary, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-earth-moon-economy-becomes-larger-than-today-s-global-aviation-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-earth-moon-economy-becomes-larger-than-today-s-global-aviation-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-earth-moon-economy-becomes-larger-than-today-s-global-aviation-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-earth-moon-economy-becomes-larger-than-today-s-global-aviation-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-earth-moon-economy-becomes-larger-than-today-s-global-aviation-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-orbital-habitats-become-normal-places-to-live",
+      "order": 2,
+      "slug": "orbital-habitats-become-normal-places-to-live",
+      "title": "Orbital habitats become normal places to live",
+      "shortTitle": "Orbital Habitats",
+      "description": "Large orbital habitats mature into safe, desirable communities with homes, parks, schools, healthcare, workspaces, and cultural life.",
+      "layerId": "civilization",
+      "domains": ["orbital-habitats", "space-settlement", "urban-life"],
+      "maturity": "mainstream-habitation",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2145
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Living beyond Earth becomes a normal life choice rather than an extraordinary mission, expanding humanity's cultural and demographic base.",
+      "signals": [
+        "Orbital habitat safety reaches city-like reliability",
+        "Families, schools, and civic institutions operate in orbit",
+        "Rotational gravity habitats support long-duration healthy living"
+      ],
+      "implications": [
+        "New orbital cultures and identities emerge",
+        "Urban design expands into artificial environments",
+        "Space citizenship and local governance become everyday issues"
+      ],
+      "image": {
+        "alt": "Large orbital habitat where families live in parks, neighborhoods, and civic spaces",
+        "prompts": [
+          "Interior of a large orbital habitat with parks, homes, schools, and families under curved sky windows, realistic optimistic space civilization, 16:9",
+          "Exterior view of rotating orbital habitats around Earth with transport vehicles docking, clean futuristic documentary realism, 16:9",
+          "Neighborhood inside an orbital habitat with children playing, gardens, cafes, and Earth visible overhead, warm advanced civilization scene, 16:9",
+          "Orbital habitat civic plaza with residents commuting, shopping, and attending school in a normal daily life setting, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-orbital-habitats-become-normal-places-to-live.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-orbital-habitats-become-normal-places-to-live.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-orbital-habitats-become-normal-places-to-live.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-orbital-habitats-become-normal-places-to-live.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-orbital-habitats-become-normal-places-to-live.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-space-elevators-connect-with-orbital-ring-logistics",
+      "order": 3,
+      "slug": "space-elevators-connect-with-orbital-ring-logistics",
+      "title": "Space elevators connect with orbital ring logistics",
+      "shortTitle": "Space Elevator Network",
+      "description": "Space elevators and orbital ring systems connect into a high-capacity logistics network for moving people and cargo between Earth's surface and orbit.",
+      "layerId": "technology",
+      "domains": ["space-infrastructure", "transport", "orbital-logistics"],
+      "maturity": "integrated-network",
+      "timeframe": {
+        "startYear": 2115,
+        "endYear": 2150
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Access to space becomes dramatically cheaper and more routine, enabling larger habitats, industry, tourism, and interplanetary logistics.",
+      "signals": [
+        "Elevator climbers operate with high reliability and safety",
+        "Orbital ring stations synchronize cargo flows around Earth",
+        "International treaties regulate elevator corridors and orbital traffic"
+      ],
+      "implications": [
+        "Lower cost to orbit",
+        "Rapid growth of orbital manufacturing and tourism",
+        "New geopolitical importance for elevator anchor regions"
+      ],
+      "image": {
+        "alt": "Space elevators connected to orbital ring logistics around Earth",
+        "prompts": [
+          "Space elevator rising from Earth into an orbital ring logistics network with cargo climbers and stations, clean futuristic documentary realism, 16:9",
+          "Orbital ring section with space elevator docking node, cargo containers, passenger modules, and Earth below, realistic advanced infrastructure, 16:9",
+          "Ground anchor city for a space elevator with clean transit systems and orbital ring visible in the sky, optimistic civilization scene, 16:9",
+          "High-capacity space logistics corridor connecting surface elevator, orbital ring, and interplanetary cargo ships, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-space-elevators-connect-with-orbital-ring-logistics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-space-elevators-connect-with-orbital-ring-logistics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-space-elevators-connect-with-orbital-ring-logistics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-space-elevators-connect-with-orbital-ring-logistics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-space-elevators-connect-with-orbital-ring-logistics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-orbital-ring-section-completed",
+      "order": 4,
+      "slug": "orbital-ring-section-completed",
+      "title": "Orbital ring section completed",
+      "shortTitle": "Orbital Ring Section",
+      "description": "The first major orbital ring section becomes operational, supporting logistics, energy transfer, station-keeping, and large-scale construction around Earth.",
+      "layerId": "technology",
+      "domains": [
+        "megastructures",
+        "orbital-infrastructure",
+        "space-construction"
+      ],
+      "maturity": "partial-operation",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2140
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity begins building planetary-scale space infrastructure that changes the economics and architecture of near-Earth civilization.",
+      "signals": [
+        "Automated orbital construction systems assemble ring segments",
+        "Ring stations stabilize high-volume traffic and energy systems",
+        "Orbital industry supplies materials for continued expansion"
+      ],
+      "implications": [
+        "Foundation for larger space megastructures",
+        "Expanded orbital manufacturing capacity",
+        "New safety requirements for planetary-scale orbital infrastructure"
+      ],
+      "image": {
+        "alt": "First major orbital ring section completed around Earth",
+        "prompts": [
+          "Completed section of an orbital ring around Earth with stations, construction drones, and cargo traffic, epic clean futuristic documentary, 16:9",
+          "Automated construction fleet assembling orbital ring infrastructure with Earth below, realistic space megastructure scene, 16:9",
+          "Orbital ring station coordinating logistics, energy transfer, and traffic around Earth, advanced civilization realism, 16:9",
+          "View from inside an orbital ring segment showing Earth, cargo corridors, maintenance robots, and distant habitat modules, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-orbital-ring-section-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-orbital-ring-section-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-orbital-ring-section-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-orbital-ring-section-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-orbital-ring-section-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-first-true-moon-city-reaches-10-000-residents",
+      "order": 5,
+      "slug": "first-true-moon-city-reaches-10-000-residents",
+      "title": "First true Moon city reaches 10,000 residents",
+      "shortTitle": "Moon City",
+      "description": "The first true lunar city reaches 10,000 residents with housing, schools, hospitals, industry, research, culture, governance, and civic life.",
+      "layerId": "civilization",
+      "domains": ["lunar-settlement", "urban-development", "space-governance"],
+      "maturity": "city-scale-settlement",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2145
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The Moon shifts from outpost to society, becoming humanity's first major off-world urban civilization.",
+      "signals": [
+        "Lunar habitats support families, schools, hospitals, and local government",
+        "Regolith construction and local resource use reduce dependence on Earth",
+        "Lunar residents develop distinct culture and political representation"
+      ],
+      "implications": [
+        "Permanent off-world society becomes real",
+        "Lunar governance and citizenship questions intensify",
+        "Earth-Moon culture begins diverging"
+      ],
+      "image": {
+        "alt": "First true Moon city with 10000 residents, domes, habitats, and civic infrastructure",
+        "prompts": [
+          "First true Moon city with domes, regolith-shielded habitats, civic plazas, schools, hospitals, and Earth visible in the sky, clean documentary realism, 16:9",
+          "Interior of lunar city neighborhood with families, gardens, transit tunnels, and transparent civic spaces, optimistic space civilization, 16:9",
+          "Wide exterior of a 10,000-resident Moon city with solar fields, construction robots, landing pads, and industrial zones, realistic future, 16:9",
+          "Lunar city council hall where residents participate in local governance under a view of Earth, human-centered advanced civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-first-true-moon-city-reaches-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-true-moon-city-reaches-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-lunar-universities-attract-students-from-earth",
+      "order": 6,
+      "slug": "lunar-universities-attract-students-from-earth",
+      "title": "Lunar universities attract students from Earth",
+      "shortTitle": "Lunar Universities",
+      "description": "Universities on the Moon become prestigious centers for space engineering, low-gravity biology, astronomy, materials science, and interplanetary governance.",
+      "layerId": "society",
+      "domains": ["education", "lunar-civilization", "research"],
+      "maturity": "prestigious-institutions",
+      "timeframe": {
+        "startYear": 2115,
+        "endYear": 2145
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Knowledge production expands off-world, giving lunar civilization intellectual power and attracting a new generation of students and researchers.",
+      "signals": [
+        "Students travel from Earth for lunar research programs",
+        "Low-gravity laboratories produce unique discoveries",
+        "Lunar universities partner with Earth, orbital, and Mars institutions"
+      ],
+      "implications": [
+        "New academic culture beyond Earth",
+        "Growth of off-world scientific careers",
+        "Stronger lunar influence in civilization planning"
+      ],
+      "image": {
+        "alt": "Lunar university campus attracting students from Earth",
+        "prompts": [
+          "Lunar university campus with students walking through pressurized glass corridors, Earth visible above, clean futuristic documentary, 16:9",
+          "Low-gravity research classroom on the Moon with students from Earth studying space engineering and biology, optimistic academic future, 16:9",
+          "Moon observatory university campus with domes, laboratories, and student residences under starry sky, realistic space education scene, 16:9",
+          "International students arriving at a lunar university transport hub with research habitats and lunar mountains beyond, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-lunar-universities-attract-students-from-earth.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-lunar-universities-attract-students-from-earth.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-lunar-universities-attract-students-from-earth.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-lunar-universities-attract-students-from-earth.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-lunar-universities-attract-students-from-earth.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-mars-exports-scientific-and-industrial-materials",
+      "order": 7,
+      "slug": "mars-exports-scientific-and-industrial-materials",
+      "title": "Mars exports scientific and industrial materials",
+      "shortTitle": "Mars Exports",
+      "description": "Mars develops specialized exports including scientific data, rare manufactured materials, low-gravity products, geological samples, and industrial components.",
+      "layerId": "civilization",
+      "domains": ["mars-industry", "space-economy", "manufacturing"],
+      "maturity": "export-economy",
+      "timeframe": {
+        "startYear": 2120,
+        "endYear": 2155
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Mars becomes an economic participant rather than a dependent colony, strengthening the interplanetary civilization network.",
+      "signals": [
+        "Mars manufacturing facilities produce goods useful in space infrastructure",
+        "Mars research generates valuable scientific datasets",
+        "Cargo routes from Mars become predictable and insured"
+      ],
+      "implications": [
+        "Mars gains economic leverage",
+        "Interplanetary trade becomes more complex",
+        "New supply chains form around planetary specialization"
+      ],
+      "image": {
+        "alt": "Mars industrial export hub sending scientific and manufactured materials into space",
+        "prompts": [
+          "Mars industrial export hub launching containers of scientific and manufactured materials toward orbit, red landscape, clean futuristic documentary, 16:9",
+          "Martian manufacturing facility producing specialized components for interplanetary infrastructure, engineers and robots working together, 16:9",
+          "Cargo spacecraft departing a Mars orbital station with export containers and scientific samples, realistic advanced space economy, 16:9",
+          "Mars research and industry dashboard showing export flows to Moon, Earth orbit, and orbital habitats, clean technology scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-mars-exports-scientific-and-industrial-materials.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-mars-exports-scientific-and-industrial-materials.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-mars-exports-scientific-and-industrial-materials.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-mars-exports-scientific-and-industrial-materials.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-mars-exports-scientific-and-industrial-materials.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-artificial-magnetosphere-protects-early-mars-settlements",
+      "order": 8,
+      "slug": "artificial-magnetosphere-protects-early-mars-settlements",
+      "title": "Artificial magnetosphere protects early Mars settlements",
+      "shortTitle": "Mars Magnetosphere",
+      "description": "A large artificial magnetosphere system begins shielding early Mars settlements from solar radiation and atmospheric loss, improving long-term habitability.",
+      "layerId": "technology",
+      "domains": [
+        "mars-settlement",
+        "planetary-engineering",
+        "radiation-protection"
+      ],
+      "maturity": "operational-shield",
+      "timeframe": {
+        "startYear": 2120,
+        "endYear": 2160
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Mars settlement moves from fragile survival toward protected planetary-scale engineering, laying groundwork for deeper terraforming efforts.",
+      "signals": [
+        "Magnetic shield infrastructure operates at strategic Mars-Sun positions",
+        "Radiation exposure in settlements decreases measurably",
+        "Atmospheric retention and surface operations improve over time"
+      ],
+      "implications": [
+        "Safer long-term Mars habitation",
+        "Expanded outdoor and surface construction activity",
+        "New governance for planetary engineering interventions"
+      ],
+      "image": {
+        "alt": "Artificial magnetosphere protecting Mars settlements from solar radiation",
+        "prompts": [
+          "Artificial magnetosphere shield protecting early Mars settlements from solar radiation, luminous field visualization over the red planet, clean futuristic documentary, 16:9",
+          "Mars-Sun shield control station monitoring magnetic protection for Martian habitats, realistic advanced planetary engineering, 16:9",
+          "Settlers and robots working safely on Mars under an artificial magnetosphere system with shield arcs in the sky, optimistic space civilization, 16:9",
+          "Orbital view of Mars with artificial magnetic shield infrastructure and early settlements glowing on the surface, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-o-neill-cylinder-completed",
+      "order": 9,
+      "slug": "o-neill-cylinder-completed",
+      "title": "O'Neill Cylinder completed",
+      "shortTitle": "O'Neill Cylinder",
+      "description": "The first full-scale O'Neill Cylinder is completed, providing a vast rotating habitat with Earthlike gravity, climate systems, agriculture, and civic life.",
+      "layerId": "civilization",
+      "domains": ["space-habitats", "megastructures", "urban-life"],
+      "maturity": "completed-megastructure",
+      "timeframe": {
+        "startYear": 2125,
+        "endYear": 2165
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity demonstrates the ability to build artificial worlds, expanding civilization beyond planets and moons.",
+      "signals": [
+        "Rotating habitat engineering supports stable gravity and climate",
+        "Closed-loop ecosystems maintain food, air, and water",
+        "Hundreds of thousands of residents can live inside artificial landscapes"
+      ],
+      "implications": [
+        "Artificial world-building becomes a civilization capability",
+        "Population growth can shift away from planetary surfaces",
+        "New cultures emerge in constructed environments"
+      ],
+      "image": {
+        "alt": "Completed O'Neill Cylinder with interior landscapes, cities, farms, and artificial sky",
+        "prompts": [
+          "Interior of a completed O'Neill Cylinder with curved landscapes, cities, lakes, farms, and artificial sky, epic clean futuristic documentary, 16:9",
+          "Exterior view of massive O'Neill Cylinder rotating near Earth orbit with docking stations and construction ships, realistic space megastructure, 16:9",
+          "Residents living normal daily life inside an O'Neill Cylinder with parks, transit, schools, and farms along the curved horizon, optimistic civilization, 16:9",
+          "Control center maintaining climate, gravity, and ecosystems inside a full-scale O'Neill Cylinder, advanced habitat engineering, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-o-neill-cylinder-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-o-neill-cylinder-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-o-neill-cylinder-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-o-neill-cylinder-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-o-neill-cylinder-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-quantum-internet-connects-earth-moon-and-mars",
+      "order": 10,
+      "slug": "quantum-internet-connects-earth-moon-and-mars",
+      "title": "Quantum internet connects Earth, Moon, and Mars",
+      "shortTitle": "Quantum Internet",
+      "description": "A secure interplanetary quantum communication network connects Earth, orbital habitats, the Moon, and Mars with advanced encryption and synchronized knowledge systems.",
+      "layerId": "technology",
+      "domains": [
+        "quantum-communication",
+        "interplanetary-network",
+        "infrastructure"
+      ],
+      "maturity": "interplanetary-network",
+      "timeframe": {
+        "startYear": 2115,
+        "endYear": 2150
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Civilization gains a more trusted communications backbone across multiple worlds, supporting finance, governance, science, culture, and security.",
+      "signals": [
+        "Quantum relay stations operate across Earth orbit, lunar orbit, and Mars routes",
+        "Interplanetary institutions use quantum-secured data exchange",
+        "Time-delay aware systems coordinate shared knowledge across worlds"
+      ],
+      "implications": [
+        "Stronger security for interplanetary systems",
+        "More integrated multi-world governance and science",
+        "New protocols for communication delays and data sovereignty"
+      ],
+      "image": {
+        "alt": "Quantum internet connecting Earth, Moon, Mars, and orbital habitats",
+        "prompts": [
+          "Quantum internet network connecting Earth, Moon, Mars, and orbital habitats with glowing relay paths in space, clean futuristic documentary, 16:9",
+          "Quantum communication relay station in deep space transmitting secure interplanetary data, realistic advanced infrastructure, 16:9",
+          "Interplanetary operations center using quantum-secured communication between Earth, lunar city, and Mars settlement, clean high-tech realism, 16:9",
+          "Visualization of quantum network nodes linking orbital habitats and planetary settlements across the inner Solar System, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-quantum-internet-connects-earth-moon-and-mars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-quantum-internet-connects-earth-moon-and-mars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-first-interplanetary-olympic-games-held",
+      "order": 11,
+      "slug": "first-interplanetary-olympic-games-held",
+      "title": "First interplanetary Olympic Games held",
+      "shortTitle": "Interplanetary Olympics",
+      "description": "Athletes from Earth, the Moon, Mars, and orbital habitats compete in the first interplanetary Olympic Games, including sports adapted to different gravities.",
+      "layerId": "society",
+      "domains": ["culture", "sports", "interplanetary-civilization"],
+      "maturity": "civilization-milestone",
+      "timeframe": {
+        "startYear": 2125,
+        "endYear": 2160
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Shared culture catches up with interplanetary expansion, giving multi-world humanity a symbolic event of unity and diversity.",
+      "signals": [
+        "Athletic categories account for gravity-born physiology",
+        "Marsborn, Moonborn, Earthborn, and orbital athletes compete together",
+        "Live broadcasts use delay-aware immersive viewing systems"
+      ],
+      "implications": [
+        "New sports emerge from low-gravity environments",
+        "Interplanetary identity becomes visible to ordinary citizens",
+        "Cultural unity is renegotiated across worlds"
+      ],
+      "image": {
+        "alt": "First interplanetary Olympic Games with athletes from Earth Moon Mars and orbital habitats",
+        "prompts": [
+          "First interplanetary Olympic Games opening ceremony with athletes from Earth, Moon, Mars, and orbital habitats, optimistic advanced civilization, 16:9",
+          "Low-gravity sports arena on the Moon with interplanetary athletes competing before a cheering crowd, clean futuristic documentary, 16:9",
+          "Marsborn and Earthborn athletes competing in adapted gravity sports with holographic interplanetary broadcast systems, realistic future culture, 16:9",
+          "Interplanetary Olympic village inside an orbital habitat with flags, gardens, and athletes from multiple worlds, hopeful civilization scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-first-interplanetary-olympic-games-held.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-interplanetary-olympic-games-held.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-planet-scale-ai-mediates-geopolitical-conflicts",
+      "order": 12,
+      "slug": "planet-scale-ai-mediates-geopolitical-conflicts",
+      "title": "Planet-scale AI mediates geopolitical conflicts",
+      "shortTitle": "Planet-Scale AI Mediation",
+      "description": "Planet-scale AI systems help mediate conflicts by modeling consequences, verifying claims, identifying compromise paths, and supporting transparent diplomacy.",
+      "layerId": "society",
+      "domains": ["artificial-intelligence", "governance", "peacebuilding"],
+      "maturity": "institutional-adoption",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2145
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Global governance becomes more predictive and evidence-based, reducing escalation while raising new questions about trust, neutrality, and legitimacy.",
+      "signals": [
+        "Diplomatic institutions use AI scenario modeling in negotiations",
+        "Conflict data is verified through trusted planetary monitoring systems",
+        "Mediation systems are audited by multi-national oversight bodies"
+      ],
+      "implications": [
+        "Fewer unmanaged geopolitical crises",
+        "Greater transparency in treaty negotiations",
+        "Debate over the political power of AI mediators"
+      ],
+      "image": {
+        "alt": "Planet-scale AI mediating geopolitical conflicts in a transparent diplomacy hall",
+        "prompts": [
+          "Planet-scale AI mediating geopolitical conflict in a transparent diplomacy hall with leaders reviewing verified scenario models, clean documentary realism, 16:9",
+          "Global mediation center where AI systems map peaceful compromise paths across climate, trade, and security disputes, optimistic governance future, 16:9",
+          "Diplomats using planet-scale AI to verify claims and prevent escalation, Earth dashboard glowing in the background, realistic future politics, 16:9",
+          "International oversight council auditing AI conflict mediation models for fairness and transparency, calm civic technology scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-neural-telepresence-replaces-most-long-distance-travel",
+      "order": 13,
+      "slug": "neural-telepresence-replaces-most-long-distance-travel",
+      "title": "Neural telepresence replaces most long-distance travel",
+      "shortTitle": "Neural Telepresence",
+      "description": "High-fidelity neural telepresence allows people to attend work, education, diplomacy, care, and cultural events remotely with embodied presence and sensory immersion.",
+      "layerId": "technology",
+      "domains": ["neurotechnology", "communication", "mobility"],
+      "maturity": "mainstream-replacement",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2140
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Physical travel becomes less necessary for many purposes, reducing cost and environmental burden while expanding access to global and interplanetary participation.",
+      "signals": [
+        "Neural interfaces transmit presence, gaze, gesture, and selected sensory signals",
+        "Remote embodiment systems become safe and regulated",
+        "Organizations replace many business trips with neural telepresence"
+      ],
+      "implications": [
+        "Reduced long-distance travel demand",
+        "More inclusive remote participation",
+        "New privacy and identity issues around embodied presence"
+      ],
+      "image": {
+        "alt": "Neural telepresence allowing embodied remote presence across long distances",
+        "prompts": [
+          "Person using neural telepresence to appear as an embodied presence in a distant meeting, clean futuristic documentary realism, 16:9",
+          "Family connecting across Earth, Moon, and Mars through warm high-fidelity neural telepresence, human-centered advanced communication, 16:9",
+          "Diplomatic meeting using neural telepresence avatars with real emotional nuance and consent controls, realistic future governance, 16:9",
+          "Neural telepresence studio replacing long-distance business travel with sensory-immersive remote presence, clean technology scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities",
+      "order": 14,
+      "slug": "weather-moderation-prevents-most-hurricanes-from-reaching-cities",
+      "title": "Weather moderation prevents most hurricanes from reaching cities",
+      "shortTitle": "Weather Moderation",
+      "description": "Advanced atmospheric monitoring, ocean heat management, cloud systems, and AI forecasting reduce the intensity or path risk of major hurricanes before they strike cities.",
+      "layerId": "technology",
+      "domains": ["climate-engineering", "weather-systems", "public-safety"],
+      "maturity": "operational-risk-reduction",
+      "timeframe": {
+        "startYear": 2120,
+        "endYear": 2160
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Weather risk becomes partly manageable, protecting coastal cities while requiring careful global governance of atmospheric intervention.",
+      "signals": [
+        "AI models forecast hurricane development with high confidence",
+        "Ocean and atmospheric intervention systems reduce storm energy",
+        "International agencies regulate weather moderation methods"
+      ],
+      "implications": [
+        "Fewer catastrophic coastal disasters",
+        "Lower insurance and rebuilding pressure",
+        "New ethical debates around regional weather intervention"
+      ],
+      "image": {
+        "alt": "Weather moderation system preventing major hurricanes from reaching coastal cities",
+        "prompts": [
+          "Weather moderation system preventing a major hurricane from reaching a coastal city, satellites, ocean platforms, and atmospheric drones visible, clean documentary realism, 16:9",
+          "Planetary weather control room monitoring hurricane paths and safe intervention options, realistic high-tech climate infrastructure, 16:9",
+          "Coastal city protected by advanced storm moderation systems as clouds disperse offshore, hopeful civilization-scale scene, 16:9",
+          "Autonomous ocean platforms and atmospheric aircraft reducing storm energy under strict global monitoring, cinematic climate engineering, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-ai-designed-ecosystems-stabilize-damaged-biomes",
+      "order": 15,
+      "slug": "ai-designed-ecosystems-stabilize-damaged-biomes",
+      "title": "AI-designed ecosystems stabilize damaged biomes",
+      "shortTitle": "AI Ecosystem Design",
+      "description": "AI-designed ecological interventions combine species reintroduction, soil repair, water flow restoration, and climate adaptation to stabilize damaged biomes.",
+      "layerId": "technology",
+      "domains": [
+        "ecological-engineering",
+        "artificial-intelligence",
+        "biodiversity"
+      ],
+      "maturity": "biome-scale-deployment",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2150
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ecosystem restoration becomes a mature science capable of repairing complex biomes without simply replacing natural processes with machines.",
+      "signals": [
+        "AI models simulate multi-species interactions before restoration",
+        "Robotic and biological systems rebuild soils, wetlands, forests, and reefs",
+        "Biodiversity indicators improve across damaged biomes"
+      ],
+      "implications": [
+        "More resilient restored ecosystems",
+        "Reduced extinction pressure",
+        "New ethical standards for designing living systems"
+      ],
+      "image": {
+        "alt": "AI-designed ecosystem restoration stabilizing a damaged biome",
+        "prompts": [
+          "AI-designed ecosystem restoration stabilizing a damaged biome with forests, wetlands, wildlife, drones, and environmental sensors, optimistic documentary realism, 16:9",
+          "Ecologists using AI simulations to plan species reintroduction and water restoration across a damaged landscape, clean future science, 16:9",
+          "Robots and biologists rebuilding soil, streams, and habitat corridors in a formerly degraded biome, hopeful planetary repair, 16:9",
+          "Wide view of a restored biome where AI-designed ecological interventions support biodiversity and climate resilience, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-memory-backup-becomes-available",
+      "order": 16,
+      "slug": "human-memory-backup-becomes-available",
+      "title": "Human memory backup becomes available",
+      "shortTitle": "Memory Backup",
+      "description": "Medical and personal memory backup systems preserve structured life memories, cognitive patterns, and autobiographical records for restoration, inheritance, or identity support.",
+      "layerId": "technology",
+      "domains": ["neurotechnology", "memory", "identity"],
+      "maturity": "early-mainstream",
+      "timeframe": {
+        "startYear": 2120,
+        "endYear": 2160
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The boundary between memory, identity, legacy, and medical continuity begins to change, raising profound legal and philosophical questions.",
+      "signals": [
+        "Neural recording systems capture autobiographical memory patterns with consent",
+        "Memory archives support dementia care and identity restoration",
+        "Inheritance law begins addressing cognitive data"
+      ],
+      "implications": [
+        "New options for memory preservation and recovery",
+        "Major privacy risks around cognitive records",
+        "Identity law becomes more complex"
+      ],
+      "image": {
+        "alt": "Human memory backup system preserving autobiographical memories with consent",
+        "prompts": [
+          "Human memory backup clinic where a person reviews preserved life memories through a secure neural archive, calm futuristic documentary, 16:9",
+          "Elderly patient using consent-based memory backup system for identity support and dementia care, respectful medical future, 16:9",
+          "Secure cognitive archive visualizing autobiographical memories as protected data streams, clean neurotechnology scene, 16:9",
+          "Family discussing ethical memory preservation with a doctor and AI counselor in a warm advanced clinic, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-memory-backup-becomes-available.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-memory-backup-becomes-available.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-memory-backup-becomes-available.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-memory-backup-becomes-available.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-memory-backup-becomes-available.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-consciousness-research-produces-measurable-models-of-subjective-experience",
+      "order": 17,
+      "slug": "consciousness-research-produces-measurable-models-of-subjective-experience",
+      "title": "Consciousness research produces measurable models of subjective experience",
+      "shortTitle": "Consciousness Models",
+      "description": "Neuroscience, AI, philosophy, and cognitive measurement produce testable models of subjective experience, improving medicine, ethics, and machine consciousness debates.",
+      "layerId": "technology",
+      "domains": [
+        "consciousness-research",
+        "neuroscience",
+        "artificial-intelligence"
+      ],
+      "maturity": "measurable-science",
+      "timeframe": {
+        "startYear": 2120,
+        "endYear": 2165
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Subjective experience becomes more scientifically tractable, reshaping debates about minds, rights, suffering, identity, and artificial consciousness.",
+      "signals": [
+        "Brain-state measurements correlate with reported subjective experience",
+        "AI systems help compare consciousness models across species and machines",
+        "Medical care uses experience models for anesthesia, coma, and pain treatment"
+      ],
+      "implications": [
+        "Improved treatment of pain and disorders of consciousness",
+        "Stronger ethical frameworks for biological and artificial minds",
+        "New philosophical conflicts become public policy issues"
+      ],
+      "image": {
+        "alt": "Consciousness research laboratory measuring subjective experience with neuroscience and AI",
+        "prompts": [
+          "Consciousness research laboratory measuring subjective experience with neural imaging, AI models, and philosophical review boards, clean futuristic documentary, 16:9",
+          "Scientist and patient reviewing visualized consciousness patterns for pain, awareness, and perception, respectful medical research scene, 16:9",
+          "AI and neuroscience team comparing models of subjective experience across humans, animals, and machines, advanced research atmosphere, 16:9",
+          "Transparent consciousness model interface showing brain states, reports, and ethical implications in a calm laboratory, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-synthetic-biological-bodies-become-available-for-extreme-environments",
+      "order": 18,
+      "slug": "synthetic-biological-bodies-become-available-for-extreme-environments",
+      "title": "Synthetic biological bodies become available for extreme environments",
+      "shortTitle": "Synthetic Bio Bodies",
+      "description": "Synthetic biological bodies designed for radiation, low gravity, pressure, temperature, or toxic environments allow humans to operate safely in places normal bodies cannot.",
+      "layerId": "technology",
+      "domains": ["synthetic-biology", "human-enhancement", "space-settlement"],
+      "maturity": "specialized-availability",
+      "timeframe": {
+        "startYear": 2125,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human embodiment becomes adaptable, expanding where people can live and work while challenging traditional definitions of the human body.",
+      "signals": [
+        "Synthetic tissues withstand radiation and extreme conditions",
+        "Body transfer and remote embodiment systems become medically regulated",
+        "Extreme-environment workers use specialized biological forms"
+      ],
+      "implications": [
+        "Safer work in space, deep ocean, and hostile environments",
+        "New body-rights and identity questions",
+        "Expansion of human presence into previously inaccessible domains"
+      ],
+      "image": {
+        "alt": "Synthetic biological bodies designed for extreme environments such as Mars, oceans, and radiation zones",
+        "prompts": [
+          "Synthetic biological body designed for extreme Mars radiation environment being prepared in an advanced medical facility, clean futuristic documentary, 16:9",
+          "Extreme-environment exploration team using synthetic biological bodies for deep ocean, space, and toxic zones, realistic advanced civilization, 16:9",
+          "Biotech lab growing specialized human-compatible bodies for low gravity and high radiation missions, respectful scientific atmosphere, 16:9",
+          "Doctor explaining synthetic biological body options to an explorer with Mars and deep-sea environments displayed, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-end-of-cancer-as-a-human-disease",
+      "order": 19,
+      "slug": "end-of-cancer-as-a-human-disease",
+      "title": "End of cancer as a human disease",
+      "shortTitle": "End of Cancer",
+      "description": "Cancer becomes preventable, detectable, or curable in nearly all cases through immune engineering, gene therapy, early detection, personalized medicine, and regenerative repair.",
+      "layerId": "technology",
+      "domains": ["healthcare", "oncology", "biotechnology"],
+      "maturity": "near-elimination",
+      "timeframe": {
+        "startYear": 2120,
+        "endYear": 2160
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "One of humanity's most feared diseases becomes a managed or eliminated medical condition, transforming healthspan and reducing generational suffering.",
+      "signals": [
+        "Multi-cancer detection becomes continuous and highly accurate",
+        "Personalized immune therapies destroy tumors early",
+        "Cancer prevention targets genetic, environmental, and cellular causes"
+      ],
+      "implications": [
+        "Longer healthy lifespans",
+        "Reduced emotional and economic burden from cancer",
+        "Healthcare shifts more strongly toward prevention and cellular maintenance"
+      ],
+      "image": {
+        "alt": "Advanced oncology center where cancer is prevented and cured through personalized medicine",
+        "prompts": [
+          "Advanced oncology center where doctors celebrate cancer becoming preventable and curable through personalized immune therapy and early detection, hopeful documentary realism, 16:9",
+          "AI cancer prevention dashboard monitoring cellular health before disease appears, clean futuristic medical scene, 16:9",
+          "Patient receiving precise immune engineering treatment in a calm clinic with family nearby, realistic advanced medicine, 16:9",
+          "Public health center offering routine cancer prevention and cellular repair therapies, optimistic civilization milestone, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-end-of-cancer-as-a-human-disease.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-end-of-cancer-as-a-human-disease.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-170-years",
+      "order": 20,
+      "slug": "cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-170-years",
+      "title": "Cellular rejuvenation therapy raises average human lifespan toward 170 years",
+      "shortTitle": "Cellular Rejuvenation",
+      "description": "Cellular rejuvenation therapies repair accumulated damage, restore tissue function, and extend healthy lifespan so average human life expectancy approaches 170 years.",
+      "layerId": "technology",
+      "domains": ["longevity", "regenerative-medicine", "healthcare"],
+      "maturity": "mainstream-therapy",
+      "timeframe": {
+        "startYear": 2125,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human life planning, family structure, education, careers, governance, and culture transform as long healthy lives become normal.",
+      "signals": [
+        "Cellular damage repair becomes safe and repeatable",
+        "Age-related diseases decline significantly",
+        "Institutions redesign education, retirement, and inheritance around longer lives"
+      ],
+      "implications": [
+        "Much longer healthspan",
+        "Major social redesign around multi-century lives",
+        "New access and population governance questions"
+      ],
+      "image": {
+        "alt": "Cellular rejuvenation clinic extending healthy human lifespan",
+        "prompts": [
+          "Cellular rejuvenation clinic where adults receive regenerative therapy to extend healthy lifespan, clean hopeful medical documentary, 16:9",
+          "Scientist monitoring cellular repair and tissue rejuvenation systems in an advanced longevity lab, realistic biotechnology future, 16:9",
+          "Multi-generation family gathering with visibly healthy older adults in a future society of long lifespans, warm civilization scene, 16:9",
+          "AI-assisted longevity dashboard showing cellular repair, immune health, and tissue function during rejuvenation therapy, clean medical interface, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-170-years.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-170-years.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-170-years.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-170-years.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-170-years.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

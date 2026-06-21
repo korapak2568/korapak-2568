@@ -75,6 +75,12 @@ const nextConfig = {
                 }]
             },
             {
+                source: "/future-roadmap/:path*",
+                headers: [{
+                    key: "Cache-Control", value: "public, max-age=31536000, immutable"
+                }]
+            },
+            {
                 source: "/images-opengraph/:path*",
                 headers: [{
                     key: "Cache-Control", value: "public, max-age=86400, s-maxage=86400"
@@ -113,6 +119,10 @@ const nextConfig = {
             {
                 source: '/images-opengraph/smart-food/:path*',
                 destination: 'https://cdn.chornplanet.com/smart-food/:path*'
+            },
+            {
+                source: '/images-opengraph/future-roadmap/:path*',
+                destination: 'https://cdn.chornplanet.com/future-roadmap/:path*'
             },
             {
                 source: '/images-opengraph/images-platform/:path*',
@@ -157,6 +167,13 @@ const nextConfig = {
             {
                 source: '/smart-food/:path*',
                 destination: 'https://cdn.chornplanet.com/smart-food/:path*',
+                permanent: true,
+            },
+
+            // Future Roadmap
+            {
+                source: '/future-roadmap/:path*',
+                destination: 'https://cdn.chornplanet.com/future-roadmap/:path*',
                 permanent: true,
             },
 

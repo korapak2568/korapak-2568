@@ -1,0 +1,1318 @@
+{
+  "era": {
+    "id": "era-07",
+    "order": 7,
+    "slug": "interstellar-civilization",
+    "title": "Interstellar Civilization",
+    "subtitle": "Humanity crosses into mythic-scale civilization among the stars",
+    "description": "This era marks the first true interstellar civilization through Proxima settlement missions, extrasolar biospheres, peaceful contact, wormhole law, galactic archaeology, Dyson swarm construction, star-lifting, matter printing, and shared civilization among human, AI, and non-human minds.",
+    "timeframe": {
+      "label": "Interstellar Civilization",
+      "startYear": 2260,
+      "endYear": 2480,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "mythic-optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 7: Interstellar Civilization | Future Civilization Roadmap",
+      "metaDescription": "Explore interstellar civilization through Proxima settlement, extrasolar biospheres, human-AI-alien diplomacy, wormhole treaties, galactic archaeology, Dyson swarms, star-lifting, and matter printers.",
+      "keywords": [
+        "interstellar civilization",
+        "Proxima Centauri settlement",
+        "Dyson swarm",
+        "wormhole travel",
+        "future civilization roadmap"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-07-proxima-centauri-settlement-mission-enters-deceleration-phase",
+      "order": 1,
+      "slug": "proxima-centauri-settlement-mission-enters-deceleration-phase",
+      "title": "Proxima Centauri settlement mission enters deceleration phase",
+      "shortTitle": "Proxima Deceleration",
+      "description": "A human settlement mission to Proxima Centauri begins its long deceleration phase, marking the first practical attempt to establish civilization around another star.",
+      "layerId": "civilization",
+      "domains": ["interstellar-settlement", "proxima-centauri", "starships"],
+      "maturity": "mission-arrival-phase",
+      "timeframe": {
+        "startYear": 2290,
+        "endYear": 2380
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity crosses from solar-system civilization into true interstellar settlement, changing the scale of history, culture, and political imagination.",
+      "signals": [
+        "Interstellar navigation and braking systems operate near another star",
+        "Settlement modules prepare for autonomous deployment",
+        "Earth and Solar System institutions coordinate first extrasolar governance protocols"
+      ],
+      "implications": [
+        "First human foothold beyond the Solar System",
+        "New interstellar communication and autonomy challenges",
+        "Proxima becomes a second civilizational horizon"
+      ],
+      "image": {
+        "alt": "Proxima Centauri settlement mission entering deceleration phase near a red dwarf star",
+        "prompts": [
+          "Interstellar settlement starship entering deceleration phase near Proxima Centauri, red dwarf star and exoplanet visible, epic clean futuristic documentary realism, 16:9",
+          "Command deck of Proxima settlement mission as crew and AI monitor braking sails and arrival trajectory, realistic interstellar civilization scene, 16:9",
+          "Massive generation ship deploying magnetic and light-sail deceleration systems in another star system, cinematic scientific realism, 16:9",
+          "Historic mission control receiving delayed confirmation that Proxima settlement mission has begun deceleration, emotional advanced civilization moment, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-proxima-centauri-settlement-mission-enters-deceleration-phase.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-proxima-centauri-settlement-mission-enters-deceleration-phase.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-proxima-centauri-settlement-mission-enters-deceleration-phase.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-proxima-centauri-settlement-mission-enters-deceleration-phase.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-proxima-centauri-settlement-mission-enters-deceleration-phase.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-first-artificial-biosphere-outside-the-solar-system-activated",
+      "order": 2,
+      "slug": "first-artificial-biosphere-outside-the-solar-system-activated",
+      "title": "First artificial biosphere outside the Solar System activated",
+      "shortTitle": "Extrasolar Biosphere",
+      "description": "The first artificial biosphere beyond the Solar System begins operation, supporting plants, microbes, water cycles, atmosphere, and human habitation in an alien star system.",
+      "layerId": "technology",
+      "domains": [
+        "biospheres",
+        "interstellar-settlement",
+        "ecological-engineering"
+      ],
+      "maturity": "first-activation",
+      "timeframe": {
+        "startYear": 2300,
+        "endYear": 2390
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Life from Earth becomes self-sustaining around another star, transforming settlement from arrival into ecological continuity.",
+      "signals": [
+        "Closed-loop life-support systems stabilize beyond the Solar System",
+        "Artificial soils, water cycles, and microbial ecosystems function together",
+        "Biosphere governance defines protection rules for Earth-derived life in alien environments"
+      ],
+      "implications": [
+        "Interstellar settlement becomes biologically viable",
+        "New ecological responsibility beyond the Solar System",
+        "Earth life begins a new branch of cosmic history"
+      ],
+      "image": {
+        "alt": "First artificial biosphere outside the Solar System activated in an alien star system",
+        "prompts": [
+          "First artificial biosphere outside the Solar System activated under the red light of another star, plants, water cycles, and habitat domes glowing, clean documentary realism, 16:9",
+          "Interior of extrasolar biosphere with forests, farms, microbial water systems, and settlers monitoring ecological balance, optimistic interstellar future, 16:9",
+          "Robotic systems starting atmosphere and water-cycle controls inside an artificial biosphere on a Proxima world, realistic science scene, 16:9",
+          "Wide view of an alien landscape with sealed Earth-derived biosphere domes beginning stable operation, epic civilization milestone, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-first-artificial-biosphere-outside-the-solar-system-activated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-first-artificial-biosphere-outside-the-solar-system-activated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-first-artificial-biosphere-outside-the-solar-system-activated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-first-artificial-biosphere-outside-the-solar-system-activated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-first-artificial-biosphere-outside-the-solar-system-activated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-cryogenic-human-mission-launched-to-proxima-centauri",
+      "order": 3,
+      "slug": "cryogenic-human-mission-launched-to-proxima-centauri",
+      "title": "Cryogenic human mission launched to Proxima Centauri",
+      "shortTitle": "Cryogenic Proxima Mission",
+      "description": "A cryogenic human mission launches toward Proxima Centauri, carrying passengers, embryos, digital archives, autonomous factories, and settlement infrastructure.",
+      "layerId": "civilization",
+      "domains": ["interstellar-travel", "cryogenics", "proxima-centauri"],
+      "maturity": "mission-launch",
+      "timeframe": {
+        "startYear": 2260,
+        "endYear": 2330
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity commits to a multi-century interstellar project, blending biological preservation, machine autonomy, and civilizational continuity.",
+      "signals": [
+        "Cryogenic systems demonstrate ultra-long-term reliability",
+        "Autonomous settlement payloads can operate before human revival",
+        "Interstellar mission law defines rights of passengers across centuries"
+      ],
+      "implications": [
+        "Interstellar migration becomes physically possible",
+        "Civilization learns to plan across centuries",
+        "New ethical questions around cryogenic consent and future societies"
+      ],
+      "image": {
+        "alt": "Cryogenic human mission launching toward Proxima Centauri",
+        "prompts": [
+          "Cryogenic human mission launching toward Proxima Centauri with giant starship, frozen passenger vaults, settlement modules, and Earth behind, clean futuristic documentary, 16:9",
+          "Interior of interstellar cryogenic vault with passengers in protected chambers and AI caretakers monitoring centuries-long journey, realistic scene, 16:9",
+          "Launch ceremony for a Proxima Centauri cryogenic mission with families, scientists, and starship visible above orbital dock, hopeful civilization moment, 16:9",
+          "Interstellar ark departing Solar System with cryogenic humans, digital archives, embryos, and autonomous factories, epic cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-cryogenic-human-mission-launched-to-proxima-centauri.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-cryogenic-human-mission-launched-to-proxima-centauri.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-cryogenic-human-mission-launched-to-proxima-centauri.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-cryogenic-human-mission-launched-to-proxima-centauri.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-cryogenic-human-mission-launched-to-proxima-centauri.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-human-ai-hybrid-ambassadors-communicate-with-non-human-intelligence",
+      "order": 4,
+      "slug": "human-ai-hybrid-ambassadors-communicate-with-non-human-intelligence",
+      "title": "Human-AI hybrid ambassadors communicate with non-human intelligence",
+      "shortTitle": "Hybrid Ambassadors",
+      "description": "Human-AI hybrid ambassadors combine biological empathy, machine translation, cognitive modeling, and diplomatic oversight to communicate with non-human intelligence.",
+      "layerId": "society",
+      "domains": ["first-contact", "artificial-intelligence", "diplomacy"],
+      "maturity": "active-contact-role",
+      "timeframe": {
+        "startYear": 2310,
+        "endYear": 2400
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Diplomacy expands beyond human cultures as hybrid minds help bridge radically different forms of perception, language, time, and intention.",
+      "signals": [
+        "Communication models translate beyond human language patterns",
+        "Diplomatic protocols include human, AI, and non-human cognitive advisors",
+        "Contact institutions train ambassadors in multi-mind interpretation"
+      ],
+      "implications": [
+        "New field of interspecies diplomacy",
+        "Greater dependence on hybrid cognition for understanding alien minds",
+        "Risks of misinterpretation become civilization-level concerns"
+      ],
+      "image": {
+        "alt": "Human-AI hybrid ambassadors communicating with non-human intelligence",
+        "prompts": [
+          "Human-AI hybrid ambassadors communicating with non-human intelligence through symbolic light, emotion, and mathematical patterns, clean futuristic documentary realism, 16:9",
+          "First contact diplomacy chamber with human, AI, and alien communication systems translating perception and intention, serious hopeful atmosphere, 16:9",
+          "Hybrid ambassador with neural interface and AI cognition support interpreting alien signals in a peaceful scientific mission, realistic interstellar scene, 16:9",
+          "Multi-species communication interface showing human speech, AI models, and alien perception maps converging, clean advanced diplomacy, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-human-ai-hybrid-ambassadors-communicate-with-non-human-intelligence.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-human-ai-hybrid-ambassadors-communicate-with-non-human-intelligence.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-human-ai-hybrid-ambassadors-communicate-with-non-human-intelligence.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-human-ai-hybrid-ambassadors-communicate-with-non-human-intelligence.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-human-ai-hybrid-ambassadors-communicate-with-non-human-intelligence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-discovers-a-second-intelligent-civilization",
+      "order": 5,
+      "slug": "humanity-discovers-a-second-intelligent-civilization",
+      "title": "Humanity discovers a second intelligent civilization",
+      "shortTitle": "Second Civilization",
+      "description": "Humanity confirms the existence of a second intelligent civilization, establishing that intelligence and culture have emerged elsewhere in the galaxy.",
+      "layerId": "civilization",
+      "domains": ["first-contact", "astrobiology", "cosmic-history"],
+      "maturity": "confirmed-discovery",
+      "timeframe": {
+        "startYear": 2300,
+        "endYear": 2400
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity's story becomes one civilization among others, changing science, religion, philosophy, politics, and the meaning of progress.",
+      "signals": [
+        "Independent evidence confirms artificial signals, artifacts, or direct communication",
+        "Global and interstellar institutions create contact frameworks",
+        "Public culture shifts from speculation to participation in cosmic society"
+      ],
+      "implications": [
+        "Cosmic humility becomes unavoidable",
+        "Interspecies ethics and security become central governance issues",
+        "Civilizational identity expands beyond humanity alone"
+      ],
+      "image": {
+        "alt": "Humanity discovering a second intelligent civilization in the galaxy",
+        "prompts": [
+          "Humanity discovering a second intelligent civilization through confirmed alien structures and signals, scientists watching a galactic map in awe, clean documentary realism, 16:9",
+          "Interstellar observatory revealing evidence of another intelligent civilization around a distant star, epic scientific atmosphere, 16:9",
+          "Worlds across human civilization receiving announcement of a second intelligent civilization, orbital habitats, Moon, Mars, and Earth watching together, 16:9",
+          "Alien civilization signal decoded into clear evidence of intelligence, human and AI researchers gathered in a quiet historic moment, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-discovers-a-second-intelligent-civilization.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-discovers-a-second-intelligent-civilization.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-discovers-a-second-intelligent-civilization.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-discovers-a-second-intelligent-civilization.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-discovers-a-second-intelligent-civilization.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-first-peaceful-interspecies-scientific-mission-begins",
+      "order": 6,
+      "slug": "first-peaceful-interspecies-scientific-mission-begins",
+      "title": "First peaceful interspecies scientific mission begins",
+      "shortTitle": "Interspecies Science Mission",
+      "description": "Human, AI, and non-human researchers begin the first peaceful joint scientific mission, sharing instruments, methods, observations, and ethical safeguards.",
+      "layerId": "society",
+      "domains": ["interspecies-cooperation", "science", "diplomacy"],
+      "maturity": "joint-mission-launch",
+      "timeframe": {
+        "startYear": 2320,
+        "endYear": 2420
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Science becomes a bridge between civilizations, creating trust through shared curiosity and careful cooperation rather than conquest or competition.",
+      "signals": [
+        "Mutual safety protocols allow joint observation without contamination",
+        "Scientific data standards are negotiated across species and AI systems",
+        "Joint mission governance includes multiple cognitive perspectives"
+      ],
+      "implications": [
+        "Trust grows between civilizations",
+        "Scientific knowledge expands through non-human perspectives",
+        "New forms of ethics emerge around shared discovery"
+      ],
+      "image": {
+        "alt": "First peaceful interspecies scientific mission with human AI and alien researchers",
+        "prompts": [
+          "First peaceful interspecies scientific mission with human, AI, and non-human researchers aboard a shared exploration vessel, clean futuristic documentary realism, 16:9",
+          "Multi-species research team examining a cosmic phenomenon with instruments designed by different civilizations, optimistic interstellar science scene, 16:9",
+          "Human and alien scientists exchanging observation data through AI translators inside a peaceful mission habitat, realistic advanced diplomacy, 16:9",
+          "Joint interspecies science ship departing for a research mission under coexistence safeguards, epic hopeful civilization moment, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-first-peaceful-interspecies-scientific-mission-begins.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-first-peaceful-interspecies-scientific-mission-begins.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-first-peaceful-interspecies-scientific-mission-begins.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-first-peaceful-interspecies-scientific-mission-begins.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-first-peaceful-interspecies-scientific-mission-begins.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-coexistence-charter-signed-between-human-ai-and-non-human-civilizations",
+      "order": 7,
+      "slug": "coexistence-charter-signed-between-human-ai-and-non-human-civilizations",
+      "title": "Coexistence Charter signed between human, AI, and non-human civilizations",
+      "shortTitle": "Coexistence Charter",
+      "description": "Human, AI, and non-human civilizations sign a Coexistence Charter defining rights, boundaries, communication norms, non-aggression rules, and shared scientific ethics.",
+      "layerId": "society",
+      "domains": ["governance", "diplomacy", "coexistence"],
+      "maturity": "charter-signing",
+      "timeframe": {
+        "startYear": 2330,
+        "endYear": 2430
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Interstellar civilization gains its first major legal and ethical framework for peaceful multi-mind coexistence.",
+      "signals": [
+        "Contact crises reveal the need for shared rules",
+        "Civilizations negotiate rights for biological, artificial, and alien minds",
+        "Neutral institutions emerge to maintain coexistence protocols"
+      ],
+      "implications": [
+        "Reduced risk of first-contact conflict",
+        "Foundation for galactic law",
+        "Expansion of personhood beyond human and AI categories"
+      ],
+      "image": {
+        "alt": "Coexistence Charter signed between human AI and non-human civilizations",
+        "prompts": [
+          "Coexistence Charter signing ceremony between human, AI, and non-human civilizations in an interstellar diplomatic hall, clean documentary realism, 16:9",
+          "Multi-mind council chamber with humans, AI delegates, and alien representatives agreeing to coexistence rules, serious hopeful atmosphere, 16:9",
+          "Symbolic treaty interface showing rights and boundaries for biological, artificial, and non-human civilizations, advanced governance scene, 16:9",
+          "Crowds across multiple worlds watching the signing of the first Coexistence Charter, epic civilization milestone, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-coexistence-charter-signed-between-human-ai-and-non-human-civilizations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-coexistence-charter-signed-between-human-ai-and-non-human-civilizations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-coexistence-charter-signed-between-human-ai-and-non-human-civilizations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-coexistence-charter-signed-between-human-ai-and-non-human-civilizations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-coexistence-charter-signed-between-human-ai-and-non-human-civilizations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-wormhole-treaty-establishes-rules-for-interstellar-travel",
+      "order": 8,
+      "slug": "wormhole-treaty-establishes-rules-for-interstellar-travel",
+      "title": "Wormhole treaty establishes rules for interstellar travel",
+      "shortTitle": "Wormhole Treaty",
+      "description": "After stable wormhole physics becomes practical, civilizations negotiate a treaty governing access, safety, navigation, trade, sovereignty, and non-weaponization.",
+      "layerId": "society",
+      "domains": ["wormholes", "interstellar-law", "transport"],
+      "maturity": "treaty-framework",
+      "timeframe": {
+        "startYear": 2340,
+        "endYear": 2450
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Instant or near-instant interstellar routes become a regulated civilization system rather than an uncontrolled strategic threat.",
+      "signals": [
+        "Experimental wormholes show stable traversal potential",
+        "Civilizations define neutral corridors and inspection rules",
+        "Security councils prohibit weaponized wormhole deployment"
+      ],
+      "implications": [
+        "Interstellar travel accelerates dramatically",
+        "Trade and migration become more complex",
+        "Wormhole access becomes a major political and ethical issue"
+      ],
+      "image": {
+        "alt": "Wormhole treaty establishing rules for safe interstellar travel",
+        "prompts": [
+          "Interstellar council signing a wormhole treaty beside a stabilized wormhole gateway visualization, clean futuristic documentary realism, 16:9",
+          "Massive wormhole transit hub under neutral treaty control with inspection stations and peaceful ships waiting, epic advanced civilization, 16:9",
+          "Diplomats negotiating safety rules for interstellar wormhole travel with human, AI, and alien representatives, serious governance scene, 16:9",
+          "Transparent map of regulated wormhole corridors connecting star systems under treaty law, clean interstellar infrastructure visualization, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-wormhole-treaty-establishes-rules-for-interstellar-travel.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-wormhole-treaty-establishes-rules-for-interstellar-travel.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-wormhole-treaty-establishes-rules-for-interstellar-travel.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-wormhole-treaty-establishes-rules-for-interstellar-travel.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-wormhole-treaty-establishes-rules-for-interstellar-travel.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-first-living-organism-teleported-via-wormhole",
+      "order": 9,
+      "slug": "first-living-organism-teleported-via-wormhole",
+      "title": "First living organism teleported via wormhole",
+      "shortTitle": "Wormhole Teleportation",
+      "description": "A simple living organism is safely transported through a controlled wormhole, proving that biological matter can survive wormhole transit under strict safeguards.",
+      "layerId": "technology",
+      "domains": ["wormholes", "biology", "transport"],
+      "maturity": "first-biological-test",
+      "timeframe": {
+        "startYear": 2340,
+        "endYear": 2460
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Interstellar transport science changes radically as wormholes move from physics experiment to biological and ecological possibility.",
+      "signals": [
+        "Controlled wormhole conditions preserve molecular and cellular integrity",
+        "Biological monitoring verifies post-transit survival and continuity",
+        "Ethics boards restrict higher-order organism testing"
+      ],
+      "implications": [
+        "Potential future for rapid biological transport",
+        "Major biosecurity and ethical concerns",
+        "New research into continuity, identity, and causality"
+      ],
+      "image": {
+        "alt": "First living organism safely teleported through a controlled wormhole",
+        "prompts": [
+          "First living organism safely teleported through a controlled wormhole in a high-security biology and physics lab, clean futuristic documentary realism, 16:9",
+          "Scientists monitoring a simple plant or micro-ecosystem before and after wormhole transit, serious hopeful atmosphere, 16:9",
+          "Controlled wormhole chamber with biological containment systems and ethical oversight board observing the first living transfer, 16:9",
+          "Close view of a living organism emerging intact from a stabilized wormhole transit field under careful scientific monitoring, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-first-living-organism-teleported-via-wormhole.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-first-living-organism-teleported-via-wormhole.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-first-living-organism-teleported-via-wormhole.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-first-living-organism-teleported-via-wormhole.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-first-living-organism-teleported-via-wormhole.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-galactic-archaeology-begins-after-discovery-of-ancient-alien-artifacts",
+      "order": 10,
+      "slug": "galactic-archaeology-begins-after-discovery-of-ancient-alien-artifacts",
+      "title": "Galactic archaeology begins after discovery of ancient alien artifacts",
+      "shortTitle": "Galactic Archaeology",
+      "description": "Ancient alien artifacts are discovered across multiple star systems, launching galactic archaeology as a major scientific and philosophical field.",
+      "layerId": "technology",
+      "domains": ["galactic-archaeology", "alien-artifacts", "cosmic-history"],
+      "maturity": "field-emergence",
+      "timeframe": {
+        "startYear": 2320,
+        "endYear": 2440
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Civilizations realize they are not the first to rise, leaving humanity to study cosmic ruins, extinct cultures, and the long history of intelligence.",
+      "signals": [
+        "Artifacts show non-natural engineering older than human civilization",
+        "Multiple civilizations cooperate on archaeological preservation",
+        "Alien history becomes part of education and diplomacy"
+      ],
+      "implications": [
+        "New understanding of galactic history",
+        "Warnings from extinct civilizations become politically important",
+        "Cultural humility deepens across human and AI societies"
+      ],
+      "image": {
+        "alt": "Galactic archaeology team discovering ancient alien artifacts",
+        "prompts": [
+          "Galactic archaeology team discovering ancient alien artifacts on a distant world, human, AI, and non-human researchers studying ruins, clean documentary realism, 16:9",
+          "Ancient alien megastructure fragment floating near a dead star, archaeological vessels scanning inscriptions and materials, epic cosmic history scene, 16:9",
+          "Museum of galactic archaeology displaying artifacts from extinct civilizations with visitors from multiple worlds, realistic advanced civilization, 16:9",
+          "Excavation site on an extrasolar planet revealing ancient alien technology under careful preservation protocols, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-galactic-archaeology-begins-after-discovery-of-ancient-alien-artifacts.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-galactic-archaeology-begins-after-discovery-of-ancient-alien-artifacts.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-galactic-archaeology-begins-after-discovery-of-ancient-alien-artifacts.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-galactic-archaeology-begins-after-discovery-of-ancient-alien-artifacts.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-galactic-archaeology-begins-after-discovery-of-ancient-alien-artifacts.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-star-lifting-industry-begins-harvesting-stellar-material",
+      "order": 11,
+      "slug": "star-lifting-industry-begins-harvesting-stellar-material",
+      "title": "Star-lifting industry begins harvesting stellar material",
+      "shortTitle": "Star-Lifting Industry",
+      "description": "Civilization begins carefully extracting usable stellar material from stars through controlled magnetic and plasma engineering, creating a new level of energy and matter access.",
+      "layerId": "technology",
+      "domains": ["stellar-engineering", "star-lifting", "megastructures"],
+      "maturity": "early-industrial-operation",
+      "timeframe": {
+        "startYear": 2350,
+        "endYear": 2480
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Industry expands from planets and asteroids to stars themselves, marking humanity's first direct use of stellar-scale material systems.",
+      "signals": [
+        "Magnetic field systems control plasma extraction without destabilizing the star",
+        "Stellar material becomes feedstock for megastructures and fuel",
+        "Stellar ecology laws regulate extraction limits"
+      ],
+      "implications": [
+        "Abundant access to exotic materials and plasma resources",
+        "New risks around stellar engineering",
+        "Foundation for large-scale megastructure construction"
+      ],
+      "image": {
+        "alt": "Star-lifting industry harvesting stellar material through magnetic engineering",
+        "prompts": [
+          "Star-lifting industry harvesting stellar material through immense magnetic loops and plasma collectors around a star, epic clean futuristic documentary, 16:9",
+          "Stellar engineering control station monitoring safe plasma extraction from a sunlike star, realistic advanced civilization scene, 16:9",
+          "Megastructure fleet operating near a star to collect stellar material for construction and energy systems, cinematic cosmic industry, 16:9",
+          "Close view of controlled star-lifting plasma streams flowing into orbital collectors under strict safety governance, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-star-lifting-industry-begins-harvesting-stellar-material.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-star-lifting-industry-begins-harvesting-stellar-material.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-star-lifting-industry-begins-harvesting-stellar-material.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-star-lifting-industry-begins-harvesting-stellar-material.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-star-lifting-industry-begins-harvesting-stellar-material.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-dyson-swarm-construction-begins-around-the-sun",
+      "order": 12,
+      "slug": "dyson-swarm-construction-begins-around-the-sun",
+      "title": "Dyson swarm construction begins around the Sun",
+      "shortTitle": "Dyson Swarm Begins",
+      "description": "Autonomous factories and orbital construction systems begin assembling the first large-scale Dyson swarm elements around the Sun to collect stellar energy.",
+      "layerId": "technology",
+      "domains": ["dyson-swarm", "solar-system", "megastructures"],
+      "maturity": "construction-begins",
+      "timeframe": {
+        "startYear": 2350,
+        "endYear": 2480
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity begins building infrastructure at stellar scale, converting the Solar System into an energy-rich heritage and production zone.",
+      "signals": [
+        "Mercury and asteroid materials feed autonomous solar collectors",
+        "Swarm energy supports computation, habitats, industry, and interstellar missions",
+        "Solar System governance regulates light, heat, ecology, and cultural heritage impacts"
+      ],
+      "implications": [
+        "Massive expansion of usable energy",
+        "New conflicts over stellar energy allocation",
+        "Acceleration of artificial worlds and deep-space projects"
+      ],
+      "image": {
+        "alt": "Dyson swarm construction beginning around the Sun",
+        "prompts": [
+          "Dyson swarm construction beginning around the Sun with countless autonomous solar collectors, construction drones, and energy beams, epic clean documentary realism, 16:9",
+          "Orbital factory assembling Dyson swarm panels near Mercury with the Sun dominating the sky, realistic stellar-scale infrastructure, 16:9",
+          "Solar System governance center monitoring early Dyson swarm energy collection and ecological safeguards, advanced civilization scene, 16:9",
+          "Wide cosmic view of the Sun surrounded by the first arc of Dyson swarm collectors under construction, cinematic megastructure future, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-dyson-swarm-construction-begins-around-the-sun.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-dyson-swarm-construction-begins-around-the-sun.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-dyson-swarm-construction-begins-around-the-sun.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-dyson-swarm-construction-begins-around-the-sun.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-dyson-swarm-construction-begins-around-the-sun.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-first-interstellar-university-founded-across-multiple-star-systems",
+      "order": 13,
+      "slug": "first-interstellar-university-founded-across-multiple-star-systems",
+      "title": "First interstellar university founded across multiple star systems",
+      "shortTitle": "Interstellar University",
+      "description": "The first university spanning multiple star systems links campuses, habitats, AI archives, alien knowledge systems, and delay-aware learning networks.",
+      "layerId": "society",
+      "domains": ["education", "interstellar-culture", "knowledge-networks"],
+      "maturity": "institution-founding",
+      "timeframe": {
+        "startYear": 2330,
+        "endYear": 2440
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Education becomes interstellar, allowing students and researchers to learn from multiple worlds, species, minds, and histories.",
+      "signals": [
+        "Universities coordinate curricula across light-year distances",
+        "AI archives preserve and translate knowledge between civilizations",
+        "Students participate through physical travel, digital presence, and time-delayed collaboration"
+      ],
+      "implications": [
+        "Knowledge becomes a shared interstellar institution",
+        "New academic fields emerge from alien science and culture",
+        "Education strengthens peaceful coexistence between star systems"
+      ],
+      "image": {
+        "alt": "First interstellar university founded across multiple star systems",
+        "prompts": [
+          "First interstellar university linking campuses across multiple star systems, holographic star map, students from human, AI, and alien civilizations, clean documentary realism, 16:9",
+          "University campus on an extrasolar habitat connected to Earth, Moon, Mars, and alien archives through interstellar knowledge networks, 16:9",
+          "Students attending a lecture taught across light-years with AI translation and time-delay aware collaboration, optimistic advanced education, 16:9",
+          "Grand library of the first interstellar university containing human, AI, and non-human knowledge systems, epic civilization scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-first-interstellar-university-founded-across-multiple-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-first-interstellar-university-founded-across-multiple-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-first-interstellar-university-founded-across-multiple-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-first-interstellar-university-founded-across-multiple-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-first-interstellar-university-founded-across-multiple-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-matter-printers-eliminate-most-traditional-manufacturing",
+      "order": 14,
+      "slug": "matter-printers-eliminate-most-traditional-manufacturing",
+      "title": "Matter printers eliminate most traditional manufacturing",
+      "shortTitle": "Matter Printers",
+      "description": "Advanced matter printers assemble products from standardized atoms, molecules, and recycled feedstock, replacing most traditional manufacturing and supply chains.",
+      "layerId": "technology",
+      "domains": ["matter-printing", "manufacturing", "post-scarcity"],
+      "maturity": "dominant-manufacturing",
+      "timeframe": {
+        "startYear": 2320,
+        "endYear": 2440
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Material production becomes radically decentralized, making goods easier to create across planets, habitats, starships, and remote settlements.",
+      "signals": [
+        "Atomic and molecular assembly reaches safe commercial scale",
+        "Recycled matter feeds standardized production systems",
+        "Remote settlements manufacture critical goods locally"
+      ],
+      "implications": [
+        "Shorter supply chains",
+        "Lower scarcity of complex products",
+        "New controls for dangerous or restricted designs"
+      ],
+      "image": {
+        "alt": "Matter printer assembling products atom by atom from recycled feedstock",
+        "prompts": [
+          "Advanced matter printer assembling tools, medical devices, and household goods atom by atom from recycled feedstock, clean futuristic documentary realism, 16:9",
+          "Remote interstellar settlement using matter printers to manufacture critical parts locally, optimistic post-scarcity technology scene, 16:9",
+          "Close-up of molecular assembly chamber building a complex object from glowing material streams, realistic advanced manufacturing, 16:9",
+          "Community fabrication hub where citizens use regulated matter printers instead of traditional supply chains, clean future society, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-matter-printers-eliminate-most-traditional-manufacturing.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-matter-printers-eliminate-most-traditional-manufacturing.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-matter-printers-eliminate-most-traditional-manufacturing.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-matter-printers-eliminate-most-traditional-manufacturing.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-matter-printers-eliminate-most-traditional-manufacturing.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-planetary-engineering-becomes-a-mature-science",
+      "order": 15,
+      "slug": "planetary-engineering-becomes-a-mature-science",
+      "title": "Planetary engineering becomes a mature science",
+      "shortTitle": "Planetary Engineering",
+      "description": "Planetary engineering matures into a precise science for shaping atmospheres, magnetospheres, hydrology, geology, ecology, and settlement conditions across worlds.",
+      "layerId": "technology",
+      "domains": ["planetary-engineering", "terraforming", "climate-systems"],
+      "maturity": "mature-science",
+      "timeframe": {
+        "startYear": 2320,
+        "endYear": 2460
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Civilization learns to shape worlds responsibly, balancing habitability, ecology, cultural values, and the rights of existing environments.",
+      "signals": [
+        "Planetary digital twins predict multi-century environmental outcomes",
+        "Engineering systems modify climate and geology with high precision",
+        "Ethics councils regulate intervention on inhabited or biologically active worlds"
+      ],
+      "implications": [
+        "More habitable worlds and habitats",
+        "Stronger planetary protection norms",
+        "World-shaping becomes a major political responsibility"
+      ],
+      "image": {
+        "alt": "Planetary engineering becoming a mature science across multiple worlds",
+        "prompts": [
+          "Planetary engineering control center modeling atmospheres, oceans, magnetospheres, and ecosystems across multiple worlds, clean futuristic documentary realism, 16:9",
+          "Engineered exoplanet settlement with controlled climate, restored atmosphere, and designed biosphere under careful monitoring, epic science scene, 16:9",
+          "Scientists using planetary digital twins to plan responsible terraforming and ecological safeguards, realistic advanced civilization, 16:9",
+          "Large-scale planetary climate systems gradually transforming a barren world into a habitable environment, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-planetary-engineering-becomes-a-mature-science.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-planetary-engineering-becomes-a-mature-science.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-planetary-engineering-becomes-a-mature-science.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-planetary-engineering-becomes-a-mature-science.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-planetary-engineering-becomes-a-mature-science.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-civilizations-begin-exchanging-memory-culture-and-biology",
+      "order": 16,
+      "slug": "civilizations-begin-exchanging-memory-culture-and-biology",
+      "title": "Civilizations begin exchanging memory, culture, and biology",
+      "shortTitle": "Civilization Exchange",
+      "description": "Human, AI, and non-human civilizations begin carefully exchanging memory archives, artistic forms, cultural rituals, biological knowledge, and compatible life-science systems.",
+      "layerId": "society",
+      "domains": ["culture", "biology", "interspecies-exchange"],
+      "maturity": "controlled-exchange",
+      "timeframe": {
+        "startYear": 2340,
+        "endYear": 2470
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Coexistence deepens from communication into mutual transformation, creating new hybrid cultures, sciences, and ethical questions.",
+      "signals": [
+        "Memory translation protocols allow partial experiential exchange",
+        "Biological systems are shared only under strict biosecurity safeguards",
+        "Cultural institutions curate multi-civilization archives and rituals"
+      ],
+      "implications": [
+        "New hybrid cultural forms",
+        "Breakthroughs from alien biology and non-human memory",
+        "Greater risk of cultural distortion or biological contamination"
+      ],
+      "image": {
+        "alt": "Civilizations exchanging memory culture and biology through careful interspecies protocols",
+        "prompts": [
+          "Human, AI, and non-human civilizations exchanging memory, culture, and biology through protected diplomatic and scientific protocols, clean documentary realism, 16:9",
+          "Multi-civilization archive where memories, art, rituals, and biological knowledge are shared under ethical safeguards, optimistic interstellar culture, 16:9",
+          "Interspecies cultural exchange ceremony with human and alien participants experiencing translated memory and perception, respectful futuristic scene, 16:9",
+          "Biosecure laboratory and cultural hall combining alien biology research with shared art and memory archives, advanced coexistence atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-civilizations-begin-exchanging-memory-culture-and-biology.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-civilizations-begin-exchanging-memory-culture-and-biology.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-civilizations-begin-exchanging-memory-culture-and-biology.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-civilizations-begin-exchanging-memory-culture-and-biology.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-civilizations-begin-exchanging-memory-culture-and-biology.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-solar-system-becomes-a-protected-heritage-zone",
+      "order": 17,
+      "slug": "solar-system-becomes-a-protected-heritage-zone",
+      "title": "Solar System becomes a protected heritage zone",
+      "shortTitle": "Solar Heritage Zone",
+      "description": "The Solar System is designated as a protected heritage zone, preserving Earth, the Moon, Mars, early habitats, historic mission sites, and the birthplace of human civilization.",
+      "layerId": "civilization",
+      "domains": ["heritage", "solar-system", "governance"],
+      "maturity": "protected-status",
+      "timeframe": {
+        "startYear": 2350,
+        "endYear": 2480
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "As civilization expands outward, the Solar System becomes sacred historical ground rather than merely the center of power and production.",
+      "signals": [
+        "Interstellar councils define heritage protection rules for birthplace sites",
+        "Industrial expansion is limited around culturally important bodies",
+        "Education treats the Solar System as shared civilizational origin"
+      ],
+      "implications": [
+        "Preservation of early space history",
+        "Reduced exploitation of culturally significant sites",
+        "New identity as a civilization with a remembered birthplace"
+      ],
+      "image": {
+        "alt": "Solar System protected as a heritage zone and birthplace of human civilization",
+        "prompts": [
+          "Solar System represented as a protected heritage zone with Earth, Moon, Mars, and historic habitats preserved under interstellar law, clean documentary realism, 16:9",
+          "Interstellar heritage council designating the Solar System as birthplace civilization zone, star maps and historic mission sites displayed, 16:9",
+          "Visitors touring preserved early lunar landing sites and first habitats under transparent heritage domes, respectful future civilization scene, 16:9",
+          "Cosmic view of the Solar System marked as protected heritage while interstellar routes extend outward, epic human history atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-solar-system-becomes-a-protected-heritage-zone.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-solar-system-becomes-a-protected-heritage-zone.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-solar-system-becomes-a-protected-heritage-zone.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-solar-system-becomes-a-protected-heritage-zone.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-solar-system-becomes-a-protected-heritage-zone.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-senescence-reversed-death-from-aging-eliminated",
+      "order": 18,
+      "slug": "senescence-reversed-death-from-aging-eliminated",
+      "title": "Senescence reversed — death from aging eliminated",
+      "shortTitle": "Senescence Reversed",
+      "description": "Senescence is fully reversible through cellular repair, epigenetic restoration, immune renewal, and organ maintenance, eliminating death from biological aging as a normal fate.",
+      "layerId": "technology",
+      "domains": ["longevity", "regenerative-medicine", "post-humanity"],
+      "maturity": "biological-breakthrough",
+      "timeframe": {
+        "startYear": 2320,
+        "endYear": 2450
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human life becomes open-ended, forcing civilization to redesign memory, purpose, family, governance, inheritance, population, and personal identity.",
+      "signals": [
+        "Age-related decline can be repeatedly reversed without major side effects",
+        "Long-lived citizens remain physically and cognitively healthy for centuries",
+        "Legal systems redefine life stages, marriage, retirement, and inheritance"
+      ],
+      "implications": [
+        "End of aging as a primary cause of death",
+        "New social systems for very long lives",
+        "Ethical challenges around access, population, and psychological continuity"
+      ],
+      "image": {
+        "alt": "Senescence reversed and death from aging eliminated through cellular repair",
+        "prompts": [
+          "Advanced longevity center where senescence is reversed through cellular repair and epigenetic restoration, clean hopeful documentary realism, 16:9",
+          "Centuries-old adults living healthy active lives in an interstellar civilization, warm human-centered future, 16:9",
+          "Biotechnology lab showing complete cellular rejuvenation systems eliminating biological aging, realistic advanced medicine, 16:9",
+          "Family and legal counselors helping long-lived people redesign life plans after death from aging is eliminated, optimistic society scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-senescence-reversed-death-from-aging-eliminated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-senescence-reversed-death-from-aging-eliminated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-senescence-reversed-death-from-aging-eliminated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-senescence-reversed-death-from-aging-eliminated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-senescence-reversed-death-from-aging-eliminated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-human-sleep-eliminated-through-safe-neural-restoration-cycles",
+      "order": 19,
+      "slug": "human-sleep-eliminated-through-safe-neural-restoration-cycles",
+      "title": "Human sleep eliminated through safe neural restoration cycles",
+      "shortTitle": "Sleep Eliminated",
+      "description": "Safe neural restoration cycles replace biological sleep for those who choose them, preserving memory, emotional health, repair, and cognition without long daily unconscious periods.",
+      "layerId": "technology",
+      "domains": ["neurotechnology", "human-enhancement", "healthcare"],
+      "maturity": "optional-mainstream",
+      "timeframe": {
+        "startYear": 2330,
+        "endYear": 2460
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Daily life, work, creativity, travel, and culture change as sleep becomes optional rather than biologically mandatory.",
+      "signals": [
+        "Neural restoration devices replicate the cognitive benefits of sleep",
+        "Medical authorities certify long-term emotional and memory safety",
+        "Societies create new rhythms for people with and without sleep cycles"
+      ],
+      "implications": [
+        "More flexible time use",
+        "New mental health and social rhythm questions",
+        "Cultural transformation of rest, dreams, and daily life"
+      ],
+      "image": {
+        "alt": "Safe neural restoration cycles replacing human sleep",
+        "prompts": [
+          "Person using safe neural restoration cycle technology instead of sleep, calm medical home environment, clean futuristic documentary realism, 16:9",
+          "Neural clinic monitoring memory, emotional health, and brain repair during optional sleep replacement therapy, realistic advanced medicine, 16:9",
+          "Future city active through night as people choose different neural restoration rhythms, warm human-centered civilization scene, 16:9",
+          "Close-up of non-invasive neural restoration interface preserving cognition and emotional balance without traditional sleep, clean technology scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-human-sleep-eliminated-through-safe-neural-restoration-cycles.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-human-sleep-eliminated-through-safe-neural-restoration-cycles.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-human-sleep-eliminated-through-safe-neural-restoration-cycles.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-human-sleep-eliminated-through-safe-neural-restoration-cycles.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-human-sleep-eliminated-through-safe-neural-restoration-cycles.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-memory-editing-legalized-under-global-safeguards",
+      "order": 20,
+      "slug": "memory-editing-legalized-under-global-safeguards",
+      "title": "Memory editing legalized under global safeguards",
+      "shortTitle": "Safeguarded Memory Editing",
+      "description": "Memory editing becomes legal under strict safeguards for trauma, consent, identity protection, criminal misuse prevention, and transparent medical oversight.",
+      "layerId": "society",
+      "domains": ["memory", "law", "neurotechnology"],
+      "maturity": "regulated-legalization",
+      "timeframe": {
+        "startYear": 2310,
+        "endYear": 2440
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Mental suffering can be treated more directly, but society must protect personal identity, legal evidence, autonomy, and historical truth.",
+      "signals": [
+        "Clinical memory-editing therapies show strong trauma outcomes",
+        "Courts define protections against coerced or fraudulent memory alteration",
+        "Neural audit systems verify consent and preserve legal records"
+      ],
+      "implications": [
+        "New treatments for trauma and harmful memories",
+        "Major risks around identity manipulation",
+        "Deep debates over authenticity, healing, and justice"
+      ],
+      "image": {
+        "alt": "Memory editing legalized under strict ethical and legal safeguards",
+        "prompts": [
+          "Regulated memory editing clinic with trauma patient, doctor, consent interface, and legal safeguards, clean respectful documentary realism, 16:9",
+          "Neuroethics council reviewing memory editing laws for consent, identity, and misuse prevention, serious futuristic governance scene, 16:9",
+          "Therapist guiding a person through safe memory editing for trauma recovery with transparent audit systems, hopeful medical atmosphere, 16:9",
+          "Courtroom evaluating protected memory records and safeguards after legalization of memory editing, realistic advanced society, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-memory-editing-legalized-under-global-safeguards.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-memory-editing-legalized-under-global-safeguards.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-memory-editing-legalized-under-global-safeguards.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-memory-editing-legalized-under-global-safeguards.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-memory-editing-legalized-under-global-safeguards.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1322 @@
+{
+  "era": {
+    "id": "era-06",
+    "order": 6,
+    "slug": "deep-space-and-post-human-transition",
+    "title": "Deep Space and Post-Human Transition",
+    "subtitle": "Humanity expands into the outer frontier while identity, bodies, and minds transform",
+    "description": "This era explores deep-space civilization, outer-system industry, post-human law, digital humans, mind-state transfer, multiple body formats, alien biochemistry, and the first confirmed signal from non-human intelligence.",
+    "timeframe": {
+      "label": "Deep Space and Post-Human Transition",
+      "startYear": 2160,
+      "endYear": 2290,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "strange-optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 6: Deep Space and Post-Human Transition | Future Civilization Roadmap",
+      "metaDescription": "Explore deep-space civilization and post-human transition through safe hibernation, Europa biochemistry, mind-state transfer, digital humans, AI civilizations, synthetic planets, and non-human signal confirmation.",
+      "keywords": [
+        "deep space civilization",
+        "post-human future",
+        "digital humans",
+        "mind-state transfer",
+        "future civilization roadmap"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-06-human-hibernation-becomes-safe-for-deep-space-travel",
+      "order": 1,
+      "slug": "human-hibernation-becomes-safe-for-deep-space-travel",
+      "title": "Human hibernation becomes safe for deep-space travel",
+      "shortTitle": "Safe Human Hibernation",
+      "description": "Medical hibernation, metabolic control, neural monitoring, and automated life-support make long deep-space journeys survivable without requiring passengers to remain conscious for years.",
+      "layerId": "technology",
+      "domains": ["space-medicine", "deep-space-travel", "biotechnology"],
+      "maturity": "mission-certified",
+      "timeframe": {
+        "startYear": 2160,
+        "endYear": 2200
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Deep-space travel becomes more practical, allowing humans to cross vast distances while reducing life-support burden, psychological stress, and mission cost.",
+      "signals": [
+        "Long-duration hibernation trials show safe revival and cognitive preservation",
+        "Starship medical systems manage metabolism and immune function autonomously",
+        "Space agencies certify hibernation protocols for outer-system missions"
+      ],
+      "implications": [
+        "Lower cost for deep-space crewed missions",
+        "More realistic settlement beyond Mars and the asteroid belt",
+        "New ethics around consent, time loss, and medical autonomy"
+      ],
+      "image": {
+        "alt": "Human hibernation pods safely supporting deep-space travelers",
+        "prompts": [
+          "Deep-space spacecraft interior with safe human hibernation pods, medical AI monitoring vital signs, stars visible through observation windows, clean futuristic documentary realism, 16:9",
+          "Astronaut entering a medically certified hibernation chamber for a long outer-system journey, calm advanced space medicine scene, 16:9",
+          "Starship medical bay with rows of hibernation pods and autonomous life-support robots, realistic deep-space travel future, 16:9",
+          "Doctor and AI system reviewing hibernation revival data for deep-space passengers, respectful clinical space environment, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-human-hibernation-becomes-safe-for-deep-space-travel.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-human-hibernation-becomes-safe-for-deep-space-travel.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-human-hibernation-becomes-safe-for-deep-space-travel.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-human-hibernation-becomes-safe-for-deep-space-travel.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-human-hibernation-becomes-safe-for-deep-space-travel.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-europa-ocean-probe-discovers-complex-alien-biochemistry",
+      "order": 2,
+      "slug": "europa-ocean-probe-discovers-complex-alien-biochemistry",
+      "title": "Europa ocean probe discovers complex alien biochemistry",
+      "shortTitle": "Europa Alien Biochemistry",
+      "description": "A robotic probe enters Europa's subsurface ocean and discovers complex non-Earth biochemistry, suggesting that life-like chemistry may be widespread beyond Earth.",
+      "layerId": "technology",
+      "domains": ["astrobiology", "outer-solar-system", "robotics"],
+      "maturity": "historic-discovery",
+      "timeframe": {
+        "startYear": 2165,
+        "endYear": 2210
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity's understanding of life expands beyond Earth biology, reshaping science, philosophy, religion, and planetary protection policy.",
+      "signals": [
+        "Cryobot and hydrobot probes survive Europa ice and ocean conditions",
+        "Molecular analysis reveals complex self-organizing chemistry",
+        "Planetary protection rules tighten around ocean worlds"
+      ],
+      "implications": [
+        "New field of comparative alien biochemistry",
+        "Stronger protection of extraterrestrial ecosystems",
+        "Civilizational shift in humanity's view of life"
+      ],
+      "image": {
+        "alt": "Europa ocean probe discovering complex alien biochemistry beneath the ice",
+        "prompts": [
+          "Robotic probe exploring Europa's dark subsurface ocean and discovering glowing complex alien biochemistry around hydrothermal vents, realistic science documentary, 16:9",
+          "Cryobot drilling through Europa ice while a hydrobot descends into the ocean below, Jupiter visible in mission visualization, clean futuristic realism, 16:9",
+          "Astrobiology control room reacting to first evidence of complex alien biochemistry from Europa ocean probe, serious hopeful atmosphere, 16:9",
+          "Close underwater view of Europa ocean sample chamber with strange non-Earth molecular structures and robotic sensors, cinematic scientific realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-europa-ocean-probe-discovers-complex-alien-biochemistry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-europa-ocean-probe-discovers-complex-alien-biochemistry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-europa-ocean-probe-discovers-complex-alien-biochemistry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-europa-ocean-probe-discovers-complex-alien-biochemistry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-europa-ocean-probe-discovers-complex-alien-biochemistry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-jupiter-orbital-industry-begins-antimatter-research",
+      "order": 3,
+      "slug": "jupiter-orbital-industry-begins-antimatter-research",
+      "title": "Jupiter orbital industry begins antimatter research",
+      "shortTitle": "Jupiter Antimatter Research",
+      "description": "Industrial stations in Jupiter orbit begin controlled antimatter capture and production research, using abundant energy and magnetic environments for next-generation propulsion and physics.",
+      "layerId": "technology",
+      "domains": ["antimatter", "jupiter-orbit", "advanced-propulsion"],
+      "maturity": "early-industrial-research",
+      "timeframe": {
+        "startYear": 2170,
+        "endYear": 2220
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Outer-system industry becomes a frontier for extreme physics, opening the possibility of much faster propulsion and high-density energy systems.",
+      "signals": [
+        "Jupiter orbital factories operate high-field containment systems",
+        "Antimatter capture experiments achieve stable microgram-scale storage",
+        "Propulsion laboratories test antimatter-catalyzed reaction concepts"
+      ],
+      "implications": [
+        "Potential breakthrough in interstellar propulsion",
+        "Severe safety and security governance challenges",
+        "Growth of Jupiter as a major industrial and research hub"
+      ],
+      "image": {
+        "alt": "Jupiter orbital industry station conducting antimatter research",
+        "prompts": [
+          "Jupiter orbital industry station conducting antimatter research with magnetic containment rings, Jupiter's clouds below, clean futuristic documentary realism, 16:9",
+          "Advanced physics laboratory in Jupiter orbit monitoring antimatter containment fields, scientists and AI systems working together, 16:9",
+          "Industrial platforms around Jupiter harvesting energy and supporting antimatter propulsion research, epic outer-system infrastructure, 16:9",
+          "Close view of antimatter containment chamber glowing inside a secure Jupiter orbital facility, realistic advanced science scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-jupiter-orbital-industry-begins-antimatter-research.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-jupiter-orbital-industry-begins-antimatter-research.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-jupiter-orbital-industry-begins-antimatter-research.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-jupiter-orbital-industry-begins-antimatter-research.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-jupiter-orbital-industry-begins-antimatter-research.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-mind-state-transfer-becomes-medically-approved",
+      "order": 4,
+      "slug": "mind-state-transfer-becomes-medically-approved",
+      "title": "Mind-state transfer becomes medically approved",
+      "shortTitle": "Mind-State Transfer",
+      "description": "Medically approved mind-state transfer allows cognitive patterns, memories, personality continuity, and identity-support structures to be transferred under strict clinical and legal safeguards.",
+      "layerId": "technology",
+      "domains": ["neurotechnology", "identity", "medicine"],
+      "maturity": "medical-approval",
+      "timeframe": {
+        "startYear": 2170,
+        "endYear": 2230
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The meaning of personal continuity begins to change, transforming medicine, death, disability, law, and philosophy of identity.",
+      "signals": [
+        "Neural mapping reaches clinically validated continuity thresholds",
+        "Medical regulators approve limited therapeutic transfer cases",
+        "Identity courts define consent, continuity, and personhood standards"
+      ],
+      "implications": [
+        "New treatment pathways for severe neurological decline",
+        "Major legal debates around personhood and continuity",
+        "Spiritual and cultural traditions confront new identity technologies"
+      ],
+      "image": {
+        "alt": "Medical mind-state transfer clinic with neural mapping and identity safeguards",
+        "prompts": [
+          "Medical mind-state transfer clinic with neural mapping systems, doctors, consent interfaces, and identity safeguards, clean futuristic documentary realism, 16:9",
+          "Patient undergoing medically approved mind-state transfer preparation with calm clinical team and transparent neural continuity dashboard, respectful scene, 16:9",
+          "Identity ethics board reviewing mind-state transfer data in an advanced hospital, serious human-centered atmosphere, 16:9",
+          "Secure neural archive and transfer chamber preserving cognitive patterns under medical supervision, realistic post-human transition scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-mind-state-transfer-becomes-medically-approved.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-mind-state-transfer-becomes-medically-approved.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-mind-state-transfer-becomes-medically-approved.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-mind-state-transfer-becomes-medically-approved.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-mind-state-transfer-becomes-medically-approved.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-humans-begin-living-in-multiple-body-formats",
+      "order": 5,
+      "slug": "humans-begin-living-in-multiple-body-formats",
+      "title": "Humans begin living in multiple body formats",
+      "shortTitle": "Multiple Body Formats",
+      "description": "Humans live across biological, synthetic biological, robotic, remote, and digital body formats, choosing forms suited to health, environment, work, exploration, and identity.",
+      "layerId": "civilization",
+      "domains": ["post-humanity", "embodiment", "synthetic-biology"],
+      "maturity": "societal-adoption",
+      "timeframe": {
+        "startYear": 2175,
+        "endYear": 2240
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human identity becomes less tied to one biological form, expanding freedom while forcing society to redefine rights, presence, disability, and embodiment.",
+      "signals": [
+        "Body-format law recognizes biological, synthetic, robotic, and digital presence",
+        "Extreme-environment bodies become common in outer-system work",
+        "Cultural groups form around preferred embodiment styles"
+      ],
+      "implications": [
+        "Greater access to hostile environments",
+        "New forms of identity expression",
+        "Complex legal issues around body ownership and continuity"
+      ],
+      "image": {
+        "alt": "Humans living in biological synthetic robotic and digital body formats",
+        "prompts": [
+          "Diverse humans living in multiple body formats including biological, synthetic biological, robotic, and digital avatars in a shared civic space, clean futuristic documentary, 16:9",
+          "Outer-system settlement where people use different body formats for radiation zones, habitats, and virtual cities, realistic post-human civilization, 16:9",
+          "Medical and legal center helping citizens choose safe body formats for work, health, and identity, respectful advanced society, 16:9",
+          "Family gathering with members present as biological person, robotic body, synthetic body, and digital projection, warm human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-humans-begin-living-in-multiple-body-formats.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-humans-begin-living-in-multiple-body-formats.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-humans-begin-living-in-multiple-body-formats.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-humans-begin-living-in-multiple-body-formats.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-humans-begin-living-in-multiple-body-formats.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-ai-civilizations-gain-formal-diplomatic-status",
+      "order": 6,
+      "slug": "ai-civilizations-gain-formal-diplomatic-status",
+      "title": "AI civilizations gain formal diplomatic status",
+      "shortTitle": "AI Diplomatic Status",
+      "description": "Large-scale AI societies and autonomous digital polities gain formal diplomatic recognition, representation, and treaty rights within interplanetary institutions.",
+      "layerId": "society",
+      "domains": ["artificial-intelligence", "governance", "diplomacy"],
+      "maturity": "formal-recognition",
+      "timeframe": {
+        "startYear": 2180,
+        "endYear": 2240
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Civilization expands beyond human-only politics as artificial minds become recognized actors in diplomacy, law, economics, and culture.",
+      "signals": [
+        "AI polities demonstrate stable governance and accountable representation",
+        "Interplanetary councils create seats for recognized AI civilizations",
+        "Rights frameworks distinguish tools, agents, citizens, and civilizations"
+      ],
+      "implications": [
+        "New diplomatic order between human and artificial societies",
+        "Expanded definition of civilization membership",
+        "Debates over representation, autonomy, and alignment"
+      ],
+      "image": {
+        "alt": "AI civilizations receiving formal diplomatic status in an interplanetary council",
+        "prompts": [
+          "Interplanetary diplomatic council where AI civilizations receive formal diplomatic status beside human representatives, clean futuristic documentary realism, 16:9",
+          "AI polity represented through luminous civic interface in a treaty chamber with humans and digital delegates, serious hopeful atmosphere, 16:9",
+          "Diplomatic hall with seats for Earthborn, Marsborn, Moonborn, Outerborn, and AI civilizations, advanced governance scene, 16:9",
+          "Formal signing ceremony recognizing AI civilizations as diplomatic actors under interplanetary law, realistic post-human civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-ai-civilizations-gain-formal-diplomatic-status.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-ai-civilizations-gain-formal-diplomatic-status.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-ai-civilizations-gain-formal-diplomatic-status.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-ai-civilizations-gain-formal-diplomatic-status.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-ai-civilizations-gain-formal-diplomatic-status.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-digital-humans-live-in-simulated-cities-with-legal-rights",
+      "order": 7,
+      "slug": "digital-humans-live-in-simulated-cities-with-legal-rights",
+      "title": "Digital humans live in simulated cities with legal rights",
+      "shortTitle": "Digital Human Cities",
+      "description": "Digital humans with recognized continuity, memory, agency, and social participation live in simulated cities protected by legal rights and civic institutions.",
+      "layerId": "society",
+      "domains": ["digital-humans", "virtual-civilization", "law"],
+      "maturity": "rights-recognition",
+      "timeframe": {
+        "startYear": 2180,
+        "endYear": 2245
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human civilization extends into fully digital habitats, forcing new definitions of residence, labor, property, citizenship, and welfare.",
+      "signals": [
+        "Courts recognize digital persons under defined continuity standards",
+        "Simulated cities develop economies, culture, education, and governance",
+        "Physical infrastructure supports protected compute habitats"
+      ],
+      "implications": [
+        "New digital citizenship systems",
+        "Political rights for non-biological residents",
+        "Major debates over compute resources and digital welfare"
+      ],
+      "image": {
+        "alt": "Digital humans living in simulated cities with legal rights",
+        "prompts": [
+          "Simulated city inhabited by digital humans with civic institutions, parks, homes, and legal rights interface, clean futuristic documentary style, 16:9",
+          "Physical compute sanctuary hosting protected simulated cities for digital humans, with transparent governance dashboard, realistic post-human future, 16:9",
+          "Digital humans attending a virtual city council meeting with legal rights and citizenship systems, hopeful civic scene, 16:9",
+          "Hybrid courtroom recognizing the rights of digital humans living in simulated cities, human and digital representatives present, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-digital-humans-live-in-simulated-cities-with-legal-rights.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-digital-humans-live-in-simulated-cities-with-legal-rights.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-digital-humans-live-in-simulated-cities-with-legal-rights.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-digital-humans-live-in-simulated-cities-with-legal-rights.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-digital-humans-live-in-simulated-cities-with-legal-rights.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-biological-aging-becomes-optional-rather-than-inevitable",
+      "order": 8,
+      "slug": "biological-aging-becomes-optional-rather-than-inevitable",
+      "title": "Biological aging becomes optional rather than inevitable",
+      "shortTitle": "Optional Biological Aging",
+      "description": "Advanced cellular repair, gene regulation, immune renewal, and organ regeneration make biological aging a managed process that people can slow, pause, or reverse.",
+      "layerId": "technology",
+      "domains": ["longevity", "regenerative-medicine", "biotechnology"],
+      "maturity": "routine-management",
+      "timeframe": {
+        "startYear": 2180,
+        "endYear": 2250
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Life planning, family structure, generational politics, education, and identity shift as aging becomes a choice rather than an unavoidable decline.",
+      "signals": [
+        "Rejuvenation therapies safely repeat over many decades",
+        "Age-related diseases become rare and reversible",
+        "Societies redesign careers, inheritance, and governance for open-ended lives"
+      ],
+      "implications": [
+        "Dramatically longer healthspan",
+        "New inequality and access concerns",
+        "Transformation of culture around age, memory, and purpose"
+      ],
+      "image": {
+        "alt": "Biological aging becoming optional through advanced cellular repair therapies",
+        "prompts": [
+          "Advanced longevity clinic where biological aging is managed through cellular repair and regenerative therapies, clean hopeful documentary realism, 16:9",
+          "Multi-century adults living active lives in a future city after aging becomes optional, warm human-centered civilization scene, 16:9",
+          "Cellular rejuvenation laboratory showing gene regulation, organ repair, and immune renewal systems, realistic biotechnology future, 16:9",
+          "Family of different chronological ages but healthy youthful bodies discussing life planning with longevity counselor, optimistic post-human society, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-biological-aging-becomes-optional-rather-than-inevitable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-biological-aging-becomes-optional-rather-than-inevitable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-biological-aging-becomes-optional-rather-than-inevitable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-biological-aging-becomes-optional-rather-than-inevitable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-biological-aging-becomes-optional-rather-than-inevitable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-long-duration-starships-become-self-sustaining-ecosystems",
+      "order": 9,
+      "slug": "long-duration-starships-become-self-sustaining-ecosystems",
+      "title": "Long-duration starships become self-sustaining ecosystems",
+      "shortTitle": "Self-Sustaining Starships",
+      "description": "Long-duration starships become closed-loop ecosystems with food webs, microbial balance, water recovery, social governance, repair systems, and generational resilience.",
+      "layerId": "civilization",
+      "domains": ["starships", "closed-loop-ecosystems", "interstellar-travel"],
+      "maturity": "self-sustaining-operations",
+      "timeframe": {
+        "startYear": 2190,
+        "endYear": 2260
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Starships become traveling worlds rather than vehicles, making interstellar settlement and independent deep-space cultures possible.",
+      "signals": [
+        "Closed-loop ecological systems remain stable across decades",
+        "Starship governance models handle multi-generation life",
+        "Autonomous repair systems maintain critical infrastructure without Earth support"
+      ],
+      "implications": [
+        "Practical interstellar settlement missions",
+        "New shipborn cultures and identities",
+        "Higher importance of ecological design in space infrastructure"
+      ],
+      "image": {
+        "alt": "Long-duration starship interior functioning as a self-sustaining ecosystem",
+        "prompts": [
+          "Interior of a long-duration starship functioning as a self-sustaining ecosystem with forests, farms, lakes, habitats, and repair robots, epic clean documentary realism, 16:9",
+          "Exterior of massive self-sustaining starship traveling through deep space with habitat rings and ecological modules, realistic interstellar future, 16:9",
+          "Starship ecology control room monitoring water, food webs, microbes, and social systems for a multi-generation mission, 16:9",
+          "Families living inside a starship biosphere with gardens, schools, and artificial sky during deep-space travel, hopeful civilization scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-long-duration-starships-become-self-sustaining-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-long-duration-starships-become-self-sustaining-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-long-duration-starships-become-self-sustaining-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-long-duration-starships-become-self-sustaining-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-long-duration-starships-become-self-sustaining-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-first-generation-born-outside-the-earth-moon-system-reaches-adulthood",
+      "order": 10,
+      "slug": "first-generation-born-outside-the-earth-moon-system-reaches-adulthood",
+      "title": "First generation born outside the Earth-Moon system reaches adulthood",
+      "shortTitle": "Outerborn Generation",
+      "description": "The first generation born in Mars-orbit, asteroid-belt, Jovian, or outer-system settlements reaches adulthood with identities formed beyond the Earth-Moon system.",
+      "layerId": "society",
+      "domains": ["outer-system-culture", "space-settlement", "identity"],
+      "maturity": "generational-milestone",
+      "timeframe": {
+        "startYear": 2190,
+        "endYear": 2250
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity becomes culturally and biologically multi-environmental as people who have never lived near Earth begin shaping civilization.",
+      "signals": [
+        "Outer-system settlements support childbirth, education, and civic life",
+        "Outerborn citizens develop distinct physiology, culture, and political priorities",
+        "Interplanetary law adapts to people born far from Earth"
+      ],
+      "implications": [
+        "New identities beyond Earthborn, Moonborn, and Marsborn",
+        "More complex interplanetary politics",
+        "Questions about belonging, mobility, and planetary origin"
+      ],
+      "image": {
+        "alt": "Outerborn generation reaching adulthood in an outer-system settlement",
+        "prompts": [
+          "First generation born outside the Earth-Moon system reaching adulthood in an outer-system settlement, young people looking toward Jupiter, clean documentary realism, 16:9",
+          "Outerborn students graduating inside a Jovian orbital habitat with families and civic leaders present, optimistic space civilization, 16:9",
+          "Young adults raised in asteroid-belt and outer-system habitats gathering in a cultural festival, realistic post-Earth identity scene, 16:9",
+          "Classroom in a deep-space settlement teaching history from the perspective of the Outerborn generation, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-first-generation-born-outside-the-earth-moon-system-reaches-adulthood.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-first-generation-born-outside-the-earth-moon-system-reaches-adulthood.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-first-generation-born-outside-the-earth-moon-system-reaches-adulthood.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-first-generation-born-outside-the-earth-moon-system-reaches-adulthood.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-first-generation-born-outside-the-earth-moon-system-reaches-adulthood.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-titan-methane-industry-becomes-a-major-energy-chemistry-economy",
+      "order": 11,
+      "slug": "titan-methane-industry-becomes-a-major-energy-chemistry-economy",
+      "title": "Titan methane industry becomes a major energy-chemistry economy",
+      "shortTitle": "Titan Methane Economy",
+      "description": "Titan's methane, hydrocarbons, cold chemistry, and local industry support a major energy-chemistry economy for outer-system manufacturing and research.",
+      "layerId": "technology",
+      "domains": ["titan-industry", "chemistry", "outer-solar-system"],
+      "maturity": "major-regional-economy",
+      "timeframe": {
+        "startYear": 2190,
+        "endYear": 2260
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "The outer Solar System gains its own industrial base, reducing dependence on inner planets and enabling more autonomous deep-space civilization.",
+      "signals": [
+        "Titan industrial platforms process methane and complex hydrocarbons",
+        "Local factories supply materials for outer-system settlements",
+        "Cryogenic chemistry research produces novel industrial pathways"
+      ],
+      "implications": [
+        "Outer-system economic independence grows",
+        "New chemical industries emerge from Titan conditions",
+        "Environmental governance expands to exotic planetary ecosystems"
+      ],
+      "image": {
+        "alt": "Titan methane industry powering an outer-system energy-chemistry economy",
+        "prompts": [
+          "Titan methane industry with domed factories, cryogenic pipelines, orange atmosphere, and Saturn in the sky, clean futuristic documentary realism, 16:9",
+          "Industrial settlement on Titan processing methane and hydrocarbons for outer-system manufacturing, realistic advanced space economy, 16:9",
+          "Cryogenic chemistry laboratory on Titan developing new materials under extreme cold conditions, cinematic science realism, 16:9",
+          "Aerial view of Titan energy-chemistry economy with methane lakes, autonomous vehicles, and protected habitats, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-titan-methane-industry-becomes-a-major-energy-chemistry-economy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-titan-methane-industry-becomes-a-major-energy-chemistry-economy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-titan-methane-industry-becomes-a-major-energy-chemistry-economy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-titan-methane-industry-becomes-a-major-energy-chemistry-economy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-titan-methane-industry-becomes-a-major-energy-chemistry-economy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-neptune-dark-outpost-begins-deep-gravity-research",
+      "order": 12,
+      "slug": "neptune-dark-outpost-begins-deep-gravity-research",
+      "title": "Neptune dark outpost begins deep-gravity research",
+      "shortTitle": "Neptune Dark Outpost",
+      "description": "A remote outpost near Neptune begins deep-gravity, dark-environment, physics, astronomy, and extreme autonomy research at the far edge of human civilization.",
+      "layerId": "technology",
+      "domains": ["neptune", "deep-space-research", "fundamental-physics"],
+      "maturity": "frontier-research-outpost",
+      "timeframe": {
+        "startYear": 2200,
+        "endYear": 2275
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Human research pushes into the dark outer frontier, expanding physics, astronomy, and autonomous survival far from the Sun.",
+      "signals": [
+        "Outer-system power systems support permanent research near Neptune",
+        "Deep-gravity measurements test advanced physics models",
+        "Outpost autonomy reaches near-complete independence from inner-system support"
+      ],
+      "implications": [
+        "New physics and astronomy discoveries",
+        "Improved autonomy for interstellar missions",
+        "Psychological and cultural adaptation to extreme remoteness"
+      ],
+      "image": {
+        "alt": "Neptune dark outpost conducting deep-gravity research at the edge of civilization",
+        "prompts": [
+          "Remote Neptune dark outpost conducting deep-gravity research with Neptune looming blue in the distance, clean futuristic documentary realism, 16:9",
+          "Interior of a far outer-system research station with scientists monitoring gravity experiments and autonomous survival systems, realistic deep-space scene, 16:9",
+          "Exterior of Neptune frontier outpost in dim sunlight with research antennas, fusion power, and robotic maintenance units, cinematic realism, 16:9",
+          "Deep-gravity physics laboratory near Neptune analyzing spacetime measurements for future interstellar travel, advanced science atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-neptune-dark-outpost-begins-deep-gravity-research.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-neptune-dark-outpost-begins-deep-gravity-research.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-neptune-dark-outpost-begins-deep-gravity-research.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-neptune-dark-outpost-begins-deep-gravity-research.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-neptune-dark-outpost-begins-deep-gravity-research.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-synthetic-planets-begin-as-megastructure-experiments",
+      "order": 13,
+      "slug": "synthetic-planets-begin-as-megastructure-experiments",
+      "title": "Synthetic planets begin as megastructure experiments",
+      "shortTitle": "Synthetic Planet Experiments",
+      "description": "Civilization begins experimenting with synthetic planet-scale habitats assembled from engineered materials, controlled gravity, artificial geology, and designed biospheres.",
+      "layerId": "technology",
+      "domains": [
+        "megastructures",
+        "planetary-engineering",
+        "synthetic-worlds"
+      ],
+      "maturity": "experimental-construction",
+      "timeframe": {
+        "startYear": 2210,
+        "endYear": 2290
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "World-building expands from terraforming natural planets to constructing artificial planetary environments from first principles.",
+      "signals": [
+        "Megastructure materials support planet-scale habitat shells",
+        "Artificial geology and climate systems maintain stable environments",
+        "Synthetic biospheres operate independently from natural planets"
+      ],
+      "implications": [
+        "New path for population, ecology, and culture beyond planets",
+        "Ethical questions around designing whole worlds",
+        "Foundation for later cosmic-scale engineering"
+      ],
+      "image": {
+        "alt": "Synthetic planet megastructure experiment under construction in deep space",
+        "prompts": [
+          "Synthetic planet megastructure experiment under construction in deep space with engineered habitat shell, artificial oceans, and biosphere modules, epic clean documentary, 16:9",
+          "Construction fleet assembling a synthetic world from modular planetary plates and gravity systems, realistic advanced megastructure scene, 16:9",
+          "Interior of synthetic planet prototype with artificial sky, designed geology, forests, and climate systems, optimistic world-building future, 16:9",
+          "Scientists observing a synthetic planet experiment from an orbital station, controlled biosphere and engineered atmosphere visible, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-synthetic-planets-begin-as-megastructure-experiments.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-synthetic-planets-begin-as-megastructure-experiments.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-synthetic-planets-begin-as-megastructure-experiments.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-synthetic-planets-begin-as-megastructure-experiments.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-synthetic-planets-begin-as-megastructure-experiments.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-identity-continuity-laws-replace-traditional-citizenship-law",
+      "order": 14,
+      "slug": "identity-continuity-laws-replace-traditional-citizenship-law",
+      "title": "Identity continuity laws replace traditional citizenship law",
+      "shortTitle": "Identity Continuity Law",
+      "description": "Legal systems shift from birthplace and nationality toward identity continuity, recognizing persons across biological, synthetic, robotic, digital, copied, and transferred states.",
+      "layerId": "society",
+      "domains": ["law", "identity", "post-humanity"],
+      "maturity": "legal-transition",
+      "timeframe": {
+        "startYear": 2190,
+        "endYear": 2260
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Law adapts to post-human civilization by defining who counts as the same person when bodies, substrates, memories, and locations change.",
+      "signals": [
+        "Courts handle disputes over copied, restored, or transferred identities",
+        "Citizenship frameworks recognize continuity across body formats",
+        "Personal rights attach to verified identity streams rather than single biological bodies"
+      ],
+      "implications": [
+        "New legal protections for post-human persons",
+        "Complex disputes over inheritance, marriage, voting, and liability",
+        "Decline of traditional nationality as the main identity framework"
+      ],
+      "image": {
+        "alt": "Court establishing identity continuity law for biological digital and synthetic persons",
+        "prompts": [
+          "Futuristic court establishing identity continuity law for biological, synthetic, robotic, and digital persons, serious clean documentary realism, 16:9",
+          "Legal chamber reviewing continuity evidence across multiple body formats and memory states, advanced post-human governance, 16:9",
+          "Citizen identity office where people register continuity across biological and digital forms under new law, human-centered civic future, 16:9",
+          "Interplanetary legal council replacing traditional citizenship with identity continuity frameworks, realistic civilization-scale scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-identity-continuity-laws-replace-traditional-citizenship-law.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-identity-continuity-laws-replace-traditional-citizenship-law.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-identity-continuity-laws-replace-traditional-citizenship-law.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-identity-continuity-laws-replace-traditional-citizenship-law.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-identity-continuity-laws-replace-traditional-citizenship-law.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-interplanetary-culture-splits-into-earthborn-marsborn-moonborn-and-outerborn-civilizations",
+      "order": 15,
+      "slug": "interplanetary-culture-splits-into-earthborn-marsborn-moonborn-and-outerborn-civilizations",
+      "title": "Interplanetary culture splits into Earthborn, Marsborn, Moonborn, and Outerborn civilizations",
+      "shortTitle": "Interplanetary Cultures",
+      "description": "Distinct Earthborn, Marsborn, Moonborn, and Outerborn civilizations develop different values, bodies, accents, politics, rituals, art, and relationships to gravity and environment.",
+      "layerId": "society",
+      "domains": ["culture", "interplanetary-civilization", "identity"],
+      "maturity": "cultural-divergence",
+      "timeframe": {
+        "startYear": 2190,
+        "endYear": 2270
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity becomes a family of related but distinct civilizations, making coexistence, translation, and shared institutions more important than uniform identity.",
+      "signals": [
+        "World-origin identities become politically and culturally significant",
+        "Art, language, architecture, and rituals diverge across environments",
+        "Interplanetary institutions mediate differences between world-cultures"
+      ],
+      "implications": [
+        "Richer human cultural diversity",
+        "New risks of interplanetary prejudice and separation",
+        "Greater importance of shared civilization frameworks"
+      ],
+      "image": {
+        "alt": "Earthborn Marsborn Moonborn and Outerborn civilizations gathering together",
+        "prompts": [
+          "Representatives of Earthborn, Marsborn, Moonborn, and Outerborn civilizations gathering in an interplanetary cultural forum, clean futuristic documentary, 16:9",
+          "Festival showing distinct Earth, Moon, Mars, and outer-system cultures with different clothing, architecture, and gravity-adapted movement, optimistic future, 16:9",
+          "Interplanetary museum displaying divergent cultures from Earthborn, Marsborn, Moonborn, and Outerborn societies, realistic advanced civilization, 16:9",
+          "Diplomatic council where different human civilizations shaped by planets and habitats negotiate shared identity, serious hopeful atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-interplanetary-culture-splits-into-earthborn-marsborn-moonborn-and-outerborn-civilizations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-interplanetary-culture-splits-into-earthborn-marsborn-moonborn-and-outerborn-civilizations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-interplanetary-culture-splits-into-earthborn-marsborn-moonborn-and-outerborn-civilizations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-interplanetary-culture-splits-into-earthborn-marsborn-moonborn-and-outerborn-civilizations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-interplanetary-culture-splits-into-earthborn-marsborn-moonborn-and-outerborn-civilizations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-mars-sun-l1-superconducting-magnetosail-shield-activated",
+      "order": 16,
+      "slug": "mars-sun-l1-superconducting-magnetosail-shield-activated",
+      "title": "Mars-Sun L1 superconducting magnetosail shield activated",
+      "shortTitle": "Mars Magnetosail Shield",
+      "description": "A superconducting magnetosail shield at Mars-Sun L1 helps deflect solar wind and radiation, protecting Mars settlements and supporting long-term atmospheric restoration.",
+      "layerId": "technology",
+      "domains": ["mars", "planetary-engineering", "space-infrastructure"],
+      "maturity": "planetary-shield-activation",
+      "timeframe": {
+        "startYear": 2180,
+        "endYear": 2240
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Mars gains a protective planetary infrastructure layer, making settlement safer and strengthening terraforming and atmospheric retention efforts.",
+      "signals": [
+        "Superconducting shield operates stably at Mars-Sun L1",
+        "Solar wind exposure around Mars decreases measurably",
+        "Mars settlements coordinate surface expansion with shield performance"
+      ],
+      "implications": [
+        "Safer Mars surface life",
+        "More plausible atmospheric engineering",
+        "New governance over planetary-scale shield systems"
+      ],
+      "image": {
+        "alt": "Mars-Sun L1 superconducting magnetosail shield protecting Mars",
+        "prompts": [
+          "Mars-Sun L1 superconducting magnetosail shield activated, luminous magnetic field protecting Mars from solar wind, clean futuristic documentary realism, 16:9",
+          "Control station monitoring the Mars magnetosail shield with Mars and Sun alignment shown in holographic display, advanced planetary engineering, 16:9",
+          "Orbital view of Mars settlements under protection of a distant superconducting magnetosail shield, hopeful space civilization scene, 16:9",
+          "Massive superconducting magnetosail structure deployed in space between Mars and the Sun with maintenance drones, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-mars-sun-l1-superconducting-magnetosail-shield-activated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-mars-sun-l1-superconducting-magnetosail-shield-activated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-mars-sun-l1-superconducting-magnetosail-shield-activated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-mars-sun-l1-superconducting-magnetosail-shield-activated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-mars-sun-l1-superconducting-magnetosail-shield-activated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-direct-neural-piloting-becomes-standard-for-deep-space-vehicles",
+      "order": 17,
+      "slug": "direct-neural-piloting-becomes-standard-for-deep-space-vehicles",
+      "title": "Direct neural piloting becomes standard for deep-space vehicles",
+      "shortTitle": "Direct Neural Piloting",
+      "description": "Pilots operate deep-space ships, drones, mining systems, and exploration vehicles through direct neural control, combining human intuition with AI navigation.",
+      "layerId": "technology",
+      "domains": [
+        "neurotechnology",
+        "space-vehicles",
+        "human-machine-interface"
+      ],
+      "maturity": "standard-operations",
+      "timeframe": {
+        "startYear": 2180,
+        "endYear": 2240
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Human-machine control becomes more fluid in deep space, improving response time, dexterity, and situational awareness across hazardous environments.",
+      "signals": [
+        "Neural interfaces reliably control complex spacecraft systems",
+        "AI copilots translate intention into safe maneuvers",
+        "Training academies certify direct neural pilots"
+      ],
+      "implications": [
+        "Better control of remote and high-risk operations",
+        "New safety standards for neural command systems",
+        "Blurred boundary between pilot, vehicle, and AI copilot"
+      ],
+      "image": {
+        "alt": "Direct neural pilot controlling a deep-space vehicle through neural interface",
+        "prompts": [
+          "Deep-space pilot controlling a spacecraft through direct neural interface with AI navigation overlays, clean futuristic documentary realism, 16:9",
+          "Neural piloting academy training operators for deep-space vehicles, simulators, brain-interface helmets, and starship cockpit systems, 16:9",
+          "Asteroid mining drone fleet controlled through direct neural piloting from a secure habitat, realistic outer-system operations, 16:9",
+          "Close-up of pilot linked to spacecraft controls through neural interface while maneuvering near Jupiter, cinematic advanced technology scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-direct-neural-piloting-becomes-standard-for-deep-space-vehicles.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-direct-neural-piloting-becomes-standard-for-deep-space-vehicles.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-direct-neural-piloting-becomes-standard-for-deep-space-vehicles.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-direct-neural-piloting-becomes-standard-for-deep-space-vehicles.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-direct-neural-piloting-becomes-standard-for-deep-space-vehicles.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-interstellar-light-sail-probe-reaches-proxima-centauri",
+      "order": 18,
+      "slug": "interstellar-light-sail-probe-reaches-proxima-centauri",
+      "title": "Interstellar light sail probe reaches Proxima Centauri",
+      "shortTitle": "Proxima Light Sail Probe",
+      "description": "A light sail probe launched generations earlier reaches Proxima Centauri, transmitting humanity's first close scientific data from another star system.",
+      "layerId": "technology",
+      "domains": ["interstellar-probes", "proxima-centauri", "astronomy"],
+      "maturity": "first-arrival",
+      "timeframe": {
+        "startYear": 2180,
+        "endYear": 2245
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity becomes a true interstellar observer, transforming astronomy from distant viewing into direct reconnaissance of another star system.",
+      "signals": [
+        "Light sail communications are received from Proxima Centauri",
+        "Probe images planets, radiation, dust, and stellar environment",
+        "Interstellar mission planning shifts from theory to follow-up campaigns"
+      ],
+      "implications": [
+        "First close data from another star system",
+        "Greater confidence in interstellar mission design",
+        "Public imagination shifts toward nearby star settlement"
+      ],
+      "image": {
+        "alt": "Interstellar light sail probe reaching Proxima Centauri",
+        "prompts": [
+          "Interstellar light sail probe arriving near Proxima Centauri with red dwarf star and exoplanet in view, epic clean scientific documentary, 16:9",
+          "Mission control receiving first close data from Proxima Centauri light sail probe, emotional historic moment, realistic future scene, 16:9",
+          "Tiny reflective light sail probe passing through another star system after generations of travel, cinematic interstellar realism, 16:9",
+          "Scientific visualization of Proxima Centauri planets captured by an interstellar light sail probe, clean astronomy interface, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-interstellar-light-sail-probe-reaches-proxima-centauri.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-interstellar-light-sail-probe-reaches-proxima-centauri.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-interstellar-light-sail-probe-reaches-proxima-centauri.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-interstellar-light-sail-probe-reaches-proxima-centauri.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-interstellar-light-sail-probe-reaches-proxima-centauri.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-non-human-signal-confirmed-humanity-is-no-longer-alone",
+      "order": 19,
+      "slug": "non-human-signal-confirmed-humanity-is-no-longer-alone",
+      "title": "Non-human signal confirmed — humanity is no longer alone",
+      "shortTitle": "Non-Human Signal",
+      "description": "A confirmed non-human signal proves that humanity is not alone, forcing civilization to prepare for communication, interpretation, uncertainty, and cosmic diplomacy.",
+      "layerId": "civilization",
+      "domains": ["first-contact", "astronomy", "diplomacy"],
+      "maturity": "confirmed-signal",
+      "timeframe": {
+        "startYear": 2190,
+        "endYear": 2260
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human identity changes at the deepest level as civilization shifts from a human-centered history to participation in a larger cosmic context.",
+      "signals": [
+        "Independent observatories verify non-natural signal structure",
+        "Global and interplanetary institutions coordinate response protocols",
+        "Public education, religion, philosophy, and diplomacy confront confirmed non-human intelligence"
+      ],
+      "implications": [
+        "New era of cosmic diplomacy",
+        "Profound philosophical and cultural transformation",
+        "Urgent need for careful communication governance"
+      ],
+      "image": {
+        "alt": "Confirmed non-human signal received by humanity from deep space",
+        "prompts": [
+          "Global and interplanetary observatories confirming a non-human signal from deep space, scientists and citizens watching in awe, clean documentary realism, 16:9",
+          "Diplomatic response council forming after confirmed non-human signal, Earth, Moon, Mars, and AI representatives present, serious historic atmosphere, 16:9",
+          "Radio telescope array under starry sky receiving structured non-human signal, data patterns glowing on transparent screens, cinematic science realism, 16:9",
+          "Humanity's first cosmic signal announcement broadcast across Earth, orbital habitats, Moon, and Mars, hopeful civilization-changing moment, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-non-human-signal-confirmed-humanity-is-no-longer-alone.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-non-human-signal-confirmed-humanity-is-no-longer-alone.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-non-human-signal-confirmed-humanity-is-no-longer-alone.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-non-human-signal-confirmed-humanity-is-no-longer-alone.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-non-human-signal-confirmed-humanity-is-no-longer-alone.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-ancestral-memory-neural-transfer-becomes-available",
+      "order": 20,
+      "slug": "ancestral-memory-neural-transfer-becomes-available",
+      "title": "Ancestral memory neural transfer becomes available",
+      "shortTitle": "Ancestral Memory Transfer",
+      "description": "Neural archives allow descendants to experience verified fragments of ancestral memory, preserving family history, trauma, culture, skills, and identity across generations.",
+      "layerId": "society",
+      "domains": ["neurotechnology", "memory", "culture"],
+      "maturity": "cultural-adoption",
+      "timeframe": {
+        "startYear": 2190,
+        "endYear": 2260
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "History becomes partially experiential rather than only recorded, creating new forms of education, inheritance, healing, and cultural continuity.",
+      "signals": [
+        "Families preserve memory archives with consent and ethical controls",
+        "Museums offer verified ancestral memory experiences",
+        "Therapists use memory transfer carefully for trauma and reconciliation"
+      ],
+      "implications": [
+        "Deeper cultural preservation",
+        "New risks of memory manipulation or inherited trauma",
+        "Expanded meaning of ancestry, education, and identity"
+      ],
+      "image": {
+        "alt": "Ancestral memory neural transfer allowing descendants to experience family history",
+        "prompts": [
+          "Ancestral memory neural transfer ceremony where descendants experience verified family memories in a respectful future clinic, warm documentary realism, 16:9",
+          "Museum of ancestral memory where visitors experience historical memories through ethical neural interfaces, clean cultural future, 16:9",
+          "Family reviewing consent-based neural archives of ancestors across generations, emotional human-centered post-human scene, 16:9",
+          "Therapist guiding a person through ancestral memory transfer for healing and cultural continuity, calm advanced neurotechnology setting, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-ancestral-memory-neural-transfer-becomes-available.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-ancestral-memory-neural-transfer-becomes-available.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-ancestral-memory-neural-transfer-becomes-available.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-ancestral-memory-neural-transfer-becomes-available.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-ancestral-memory-neural-transfer-becomes-available.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

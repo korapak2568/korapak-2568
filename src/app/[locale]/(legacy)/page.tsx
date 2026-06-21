@@ -7,7 +7,18 @@ import {
   getPlatformContent,
   getPlatformMetadata,
 } from "@/lib/platform-content/homeContent";
+import { getFutureRoadmapFeaturedItems } from "@/lib/platform-content/futureRoadmapContent";
 
+function getRandomizedFutureRoadmapItems() {
+  const items = [...getFutureRoadmapFeaturedItems(40)];
+
+  for (let index = items.length - 1; index > 0; index -= 1) {
+    const randomIndex = Math.floor(Math.random() * (index + 1));
+    [items[index], items[randomIndex]] = [items[randomIndex], items[index]];
+  }
+
+  return items;
+}
 export async function generateMetadata(): Promise<Metadata> {
   const headers15 = await headers();
   const lang = headers15.get("x-locale") || "en";
@@ -18,6 +29,8 @@ export default async function Home() {
   const headers15 = await headers();
   const lang = headers15.get("x-locale") || "en";
   const content = getPlatformContent(lang);
+  const futureRoadmapItems = getRandomizedFutureRoadmapItems();
+  const futureRoadmapHeroItem = futureRoadmapItems[0]!;
   const localBusinessSchema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
@@ -55,7 +68,12 @@ export default async function Home() {
 
   return (
     <>
-      <PlatformHomePage lang={lang} content={content.home} />
+      <PlatformHomePage
+        lang={lang}
+        content={content.home}
+        futureRoadmapItems={futureRoadmapItems}
+        futureRoadmapHeroItem={futureRoadmapHeroItem}
+      />
 
       <script
         type="application/ld+json"
