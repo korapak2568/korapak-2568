@@ -481,7 +481,23 @@ ChornPlanet Full Visual Policy Pack
 
 # M. Production Media Standards
 
-Image Chorn Planet Platform for Web/Desktop
+## Lock Image Rule
+
+* Web/Desktop, 16:9, 85mm, f/1.8, panorama
+* No text overlay
+* ลดตัวอักษรให้เหลือน้อยที่สุด
+* ใช้ไอคอน/สัญลักษณ์แทนข้อความ
+* ถ้าจำเป็นต้องมีข้อความในภาพ ให้ใช้ภาษาไทย
+* Thai people as hero by default
+* Final PNG exactly 2560 × 1440
+* Main image only, no thumbnail inset
+* No ERA x years, big title, long description
+* Remove small text and paragraph
+* No flags and country name
+* No Chorn Logo. I will specify it case by case.
+* Feel free to generate logo compatible with the image prompt to the best UI practice.
+
+## Image Chorn Planet Platform for Web/Desktop
 
 ```
 4K
@@ -491,18 +507,22 @@ f/1.8
 Panorama
 No Text Overlay
 Create 2560 × 1440 PNG
+Use Thai people as hero by default
 ```
 
-Video Chorn Planet Platform for Web/Desktop
+## Video Chorn Planet Platform for Web/Desktop
 
 ```
 4K
 16:9
 24fps
 85mm
+No Text Overlay
+Create 2560 × 1440 PNG
+Use Thai people as hero by default
 ```
 
-Image TikTok
+## Image TikTok
 
 ```
 4K
@@ -512,15 +532,19 @@ f/1.8
 Panorama
 No Text Overlay
 Create 1440 x 2560 PNG
+Use Thai people as hero by default
 ```
 
-Video TikTok
+## Video TikTok
 
 ```
 4K
 9:16
 24fps
 85mm
+No Text Overlay
+Create 2560 × 1440 PNG
+Use Thai people as hero by default
 ```
 
 ---

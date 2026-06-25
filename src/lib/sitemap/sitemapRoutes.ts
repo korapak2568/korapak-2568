@@ -4,6 +4,10 @@ import type {MetadataRoute} from "next";
 import {getLegacyPublicRedirects} from "../../../config/publicRedirects.mjs";
 import {SITE_URL} from "@/lib/SiteUrlLocales";
 import {getPlatformOutfitSets} from "@/lib/platform-content/styleContent";
+import {
+    getFutureRoadmapEras,
+    getFutureRoadmapItemStaticParams,
+} from "@/lib/platform-content/futureRoadmapContent";
 import {getSmartMobilityStations} from "@/lib/platform-content/smartMobilityContent";
 import {getAllSmartCityChiangMaiContent} from "@/lib/smart-city-chiang-mai-content/smartCityChiangMaiContent.service";
 import {getAllSmartCityLandingContent} from "@/lib/smart-city-landing-content/smartCityLandingContent.service";
@@ -47,6 +51,22 @@ const DYNAMIC_ROUTE_RESOLVERS: Record<string, DynamicRouteResolver> = {
 
         return getSmartMobilityStations().map((station) => ({
             path: `/smart-mobility/mts/${station.slug}/`,
+            sourceFile,
+        }));
+    },
+    "/future-civilization/[eraSlug]/": async () => {
+        const sourceFile = getSourceFileForRoute("/future-civilization/[eraSlug]/");
+
+        return getFutureRoadmapEras().map(({era}) => ({
+            path: `/future-civilization/${era.slug}/`,
+            sourceFile,
+        }));
+    },
+    "/future-civilization/[eraSlug]/[slug]/": async () => {
+        const sourceFile = getSourceFileForRoute("/future-civilization/[eraSlug]/[slug]/");
+
+        return getFutureRoadmapItemStaticParams().map(({eraSlug, slug}) => ({
+            path: `/future-civilization/${eraSlug}/${slug}/`,
             sourceFile,
         }));
     },

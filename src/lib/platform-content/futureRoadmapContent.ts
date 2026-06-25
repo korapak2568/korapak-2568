@@ -3,6 +3,10 @@ import manifestSeed from "@/data/future-roadmap/manifest.json";
 import taxonomySeed from "@/data/future-roadmap/taxonomy.json";
 import era01Seed from "@/data/future-roadmap/en.era-01.json";
 import era02Seed from "@/data/future-roadmap/en.era-02.json";
+import era03Seed from "@/data/future-roadmap/en.era-03.json";
+import era04Seed from "@/data/future-roadmap/en.era-04.json";
+import era05Seed from "@/data/future-roadmap/en.era-05.json";
+import era06Seed from "@/data/future-roadmap/en.era-06.json";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
@@ -78,7 +82,14 @@ export type FutureRoadmapItemDetail = {
   relatedItems: FutureRoadmapItem[];
 };
 
-const roadmapEras = [era01Seed, era02Seed] as FutureRoadmapEra[];
+const roadmapEras = [
+  era01Seed,
+  era02Seed,
+  era03Seed,
+  era04Seed,
+  era05Seed,
+  era06Seed,
+] as FutureRoadmapEra[];
 
 export const futureRoadmapManifest = manifestSeed;
 export const futureRoadmapTaxonomy = taxonomySeed as {

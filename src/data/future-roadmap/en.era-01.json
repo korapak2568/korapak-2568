@@ -34,7 +34,7 @@
       "id": "era-01-ai-hospital-triage-becomes-standard-worldwide",
       "order": 1,
       "slug": "ai-hospital-triage-becomes-standard-worldwide",
-      "title": "AI hospital triage becomes standard worldwide",
+      "title": "AI Hospital Triage Becomes Standard Worldwide",
       "shortTitle": "AI Hospital Triage",
       "description": "Hospitals adopt AI triage systems that help classify urgency, detect early warning signs, route patients faster, and reduce pressure on emergency departments.",
       "layerId": "technology",
@@ -98,7 +98,7 @@
       "id": "era-01-carbon-negative-concrete-enters-mass-production",
       "order": 2,
       "slug": "carbon-negative-concrete-enters-mass-production",
-      "title": "Carbon-negative concrete enters mass production",
+      "title": "Carbon-Negative Concrete Enters Mass Production",
       "shortTitle": "Carbon-Negative Concrete",
       "description": "New cement and concrete processes store more carbon than they emit, turning major construction projects into long-term carbon sinks.",
       "layerId": "technology",
@@ -162,7 +162,7 @@
       "id": "era-01-personal-ai-health-monitors-detect-disease-before-symptoms",
       "order": 3,
       "slug": "personal-ai-health-monitors-detect-disease-before-symptoms",
-      "title": "Personal AI health monitors detect disease before symptoms",
+      "title": "Personal AI Health Monitors Detect Disease Before Symptoms",
       "shortTitle": "AI Health Monitors",
       "description": "Wearables, home sensors, and personal health models continuously analyze biometrics to detect disease risk before people feel sick.",
       "layerId": "technology",
@@ -226,7 +226,7 @@
       "id": "era-01-ai-generated-medicines-enter-rapid-approval-pipelines",
       "order": 4,
       "slug": "ai-generated-medicines-enter-rapid-approval-pipelines",
-      "title": "AI-generated medicines enter rapid approval pipelines",
+      "title": "AI-Generated Medicines Enter Rapid Approval Pipelines",
       "shortTitle": "AI-Generated Medicines",
       "description": "Drug discovery platforms design candidate medicines faster, while regulators create accelerated pathways for safe AI-generated therapies.",
       "layerId": "technology",
@@ -290,7 +290,7 @@
       "id": "era-01-vertical-farms-become-profitable-in-major-cities",
       "order": 5,
       "slug": "vertical-farms-become-profitable-in-major-cities",
-      "title": "Vertical farms become profitable in major cities",
+      "title": "Vertical Farms Become Profitable In Major Cities",
       "shortTitle": "Profitable Vertical Farms",
       "description": "Urban vertical farms reach strong economics through automation, efficient lighting, climate control, and direct local distribution.",
       "layerId": "technology",
@@ -354,7 +354,7 @@
       "id": "era-01-humanoid-service-robots-become-common",
       "order": 6,
       "slug": "humanoid-service-robots-become-common",
-      "title": "Humanoid service robots become common in hotels, hospitals, and warehouses",
+      "title": "Humanoid Service Robots Become Common In Hotels, Hospitals, And Warehouses",
       "shortTitle": "Humanoid Service Robots",
       "description": "General-purpose humanoid robots begin handling routine service, logistics, cleaning, lifting, and support tasks across labor-intensive environments.",
       "layerId": "technology",
@@ -418,7 +418,7 @@
       "id": "era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities",
       "order": 7,
       "slug": "autonomous-drone-delivery-becomes-normal-in-dense-cities",
-      "title": "Autonomous drone delivery becomes normal in dense cities",
+      "title": "Autonomous Drone Delivery Becomes Normal In Dense Cities",
       "shortTitle": "Urban Drone Delivery",
       "description": "Drone delivery networks become reliable enough for routine movement of small packages, urgent supplies, food, and medical items across dense urban zones.",
       "layerId": "technology",
@@ -482,7 +482,7 @@
       "id": "era-01-smart-roads-begin-charging-electric-vehicles-while-moving",
       "order": 8,
       "slug": "smart-roads-begin-charging-electric-vehicles-while-moving",
-      "title": "Smart roads begin charging electric vehicles while moving",
+      "title": "Smart Roads Begin Charging Electric Vehicles While Moving",
       "shortTitle": "Charging Smart Roads",
       "description": "Selected highways and urban lanes use embedded charging infrastructure to power compatible electric vehicles while they drive.",
       "layerId": "technology",
@@ -546,7 +546,7 @@
       "id": "era-01-ai-climate-prediction-prevents-major-crop-failures",
       "order": 9,
       "slug": "ai-climate-prediction-prevents-major-crop-failures",
-      "title": "AI climate prediction prevents major crop failures",
+      "title": "AI Climate Prediction Prevents Major Crop Failures",
       "shortTitle": "AI Crop Protection",
       "description": "Advanced climate and crop-risk models give farmers, governments, and food companies earlier warnings before droughts, pests, floods, and heat waves damage harvests.",
       "layerId": "technology",
@@ -610,7 +610,7 @@
       "id": "era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment",
       "order": 10,
       "slug": "ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment",
-      "title": "Ocean plastic-eating enzyme treatment begins controlled deployment",
+      "title": "Ocean Plastic-Eating Enzyme Treatment Begins Controlled Deployment",
       "shortTitle": "Plastic-Eating Enzymes",
       "description": "Specialized enzyme systems begin carefully monitored deployment for breaking down selected plastics collected from oceans, rivers, and coastal zones.",
       "layerId": "technology",
@@ -674,7 +674,7 @@
       "id": "era-01-synthetic-meat-becomes-cheaper-than-livestock-meat",
       "order": 11,
       "slug": "synthetic-meat-becomes-cheaper-than-livestock-meat",
-      "title": "Synthetic meat becomes cheaper than livestock meat",
+      "title": "Synthetic Meat Becomes Cheaper Than Livestock Meat",
       "shortTitle": "Affordable Synthetic Meat",
       "description": "Cultivated and precision-fermented meats reach price parity and then become cheaper than conventional livestock meat in many markets.",
       "layerId": "technology",
@@ -738,7 +738,7 @@
       "id": "era-01-first-large-scale-brain-computer-interface-for-disabled-patients",
       "order": 12,
       "slug": "first-large-scale-brain-computer-interface-for-disabled-patients",
-      "title": "First large-scale brain-computer interface for disabled patients",
+      "title": "First Large-Scale Brain-Computer Interface For Disabled Patients",
       "shortTitle": "Medical Brain Interfaces",
       "description": "Brain-computer interfaces move beyond small trials and become available to larger groups of disabled patients for communication, mobility, and device control.",
       "layerId": "technology",
@@ -802,7 +802,7 @@
       "id": "era-01-ai-legal-assistants-reduce-access-to-justice-inequality",
       "order": 13,
       "slug": "ai-legal-assistants-reduce-access-to-justice-inequality",
-      "title": "AI legal assistants reduce access-to-justice inequality",
+      "title": "AI Legal Assistants Reduce Access-To-Justice Inequality",
       "shortTitle": "AI Legal Access",
       "description": "AI legal tools help people understand rights, prepare documents, navigate disputes, and access basic legal guidance at far lower cost.",
       "layerId": "society",
@@ -866,7 +866,7 @@
       "id": "era-01-decentralized-disaster-response-robot-fleets-become-operational",
       "order": 14,
       "slug": "decentralized-disaster-response-robot-fleets-become-operational",
-      "title": "Decentralized disaster-response robot fleets become operational",
+      "title": "Decentralized Disaster-Response Robot Fleets Become Operational",
       "shortTitle": "Disaster Robot Fleets",
       "description": "Swarms of ground, aerial, and marine robots support search, rescue, mapping, supply delivery, and hazard inspection after disasters.",
       "layerId": "civilization",
@@ -930,7 +930,7 @@
       "id": "era-01-real-time-universal-language-translation-becomes-seamless",
       "order": 15,
       "slug": "real-time-universal-language-translation-becomes-seamless",
-      "title": "Real-time universal language translation becomes seamless",
+      "title": "Real-Time Universal Language Translation Becomes Seamless",
       "shortTitle": "Seamless Translation",
       "description": "Wearables, phones, glasses, and meeting systems provide natural real-time translation across speech, text, tone, and context.",
       "layerId": "society",
@@ -994,7 +994,7 @@
       "id": "era-01-discovery-of-a-next-generation-co2-absorbing-material",
       "order": 16,
       "slug": "discovery-of-a-next-generation-co2-absorbing-material",
-      "title": "Discovery of a next-generation CO2 absorbing material",
+      "title": "Discovery Of A Next-Generation CO2 Absorbing Material",
       "shortTitle": "CO2 Absorbing Material",
       "description": "Researchers discover a material that captures carbon dioxide with dramatically higher efficiency, lower energy cost, or longer durability than previous systems.",
       "layerId": "technology",
@@ -1058,7 +1058,7 @@
       "id": "era-01-autonomous-ai-robots-begin-building-homes-for-free",
       "order": 17,
       "slug": "autonomous-ai-robots-begin-building-homes-for-free",
-      "title": "Autonomous AI robots begin building homes for free",
+      "title": "Autonomous AI Robots Begin Building Homes For Free",
       "shortTitle": "Free Robot-Built Homes",
       "description": "Autonomous construction robots, public funding, and ultra-low-cost materials make it possible for some regions to build basic homes with near-zero labor cost.",
       "layerId": "civilization",
@@ -1122,7 +1122,7 @@
       "id": "era-01-universal-cancer-blood-test",
       "order": 18,
       "slug": "universal-cancer-blood-test",
-      "title": "Universal cancer blood test",
+      "title": "Universal Cancer Blood Test",
       "shortTitle": "Universal Cancer Blood Test",
       "description": "A routine blood test screens for many cancer types early by detecting molecular signals before tumors become advanced or symptomatic.",
       "layerId": "technology",
@@ -1186,7 +1186,7 @@
       "id": "era-01-self-healing-megacity-materials",
       "order": 19,
       "slug": "self-healing-megacity-materials",
-      "title": "Self-healing megacity materials",
+      "title": "Self-Healing Megacity Materials",
       "shortTitle": "Self-Healing Materials",
       "description": "Roads, bridges, building skins, pipes, and structural components begin using materials that repair cracks, corrosion, and surface damage automatically.",
       "layerId": "technology",
@@ -1250,7 +1250,7 @@
       "id": "era-01-lunar-robotics-program",
       "order": 20,
       "slug": "lunar-robotics-program",
-      "title": "Lunar robotics program",
+      "title": "Lunar Robotics Program",
       "shortTitle": "Lunar Robotics",
       "description": "Robotic systems begin preparing the Moon for sustained human activity by mapping terrain, building infrastructure, mining resources, and supporting early habitats.",
       "layerId": "civilization",
@@ -1304,6 +1304,1938 @@
         },
         "open_graph": {
           "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-lunar-robotics-program.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-personal-tutors-become-available-for-every-child",
+      "order": 21,
+      "slug": "ai-personal-tutors-become-available-for-every-child",
+      "title": "AI Personal Tutors Become Available For Every Child",
+      "shortTitle": "AI Personal Tutors Become",
+      "description": "AI personal tutors become available for every child shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI personal tutors become available for every child becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "AI systems become trusted in high-stakes workflows",
+        "Human oversight shifts toward supervision and validation",
+        "Automation spreads from digital work into physical infrastructure"
+      ],
+      "implications": [
+        "Access to expert-level services expands",
+        "Scientific and operational decisions accelerate",
+        "Governance and safety standards become more important"
+      ],
+      "image": {
+        "alt": "AI personal tutors become available for every child",
+        "prompts": [
+          "aI personal tutors become available for every child, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI personal tutors become available for every child, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI personal tutors become available for every child, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI personal tutors become available for every child, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-personal-tutors-become-available-for-every-child.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-personal-tutors-become-available-for-every-child.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-software-agents-automate-most-office-workflows",
+      "order": 22,
+      "slug": "ai-software-agents-automate-most-office-workflows",
+      "title": "AI Software Agents Automate Most Office Workflows",
+      "shortTitle": "AI Software Agents Automate",
+      "description": "AI software agents automate most office workflows shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI software agents automate most office workflows becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "AI systems become trusted in high-stakes workflows",
+        "Human oversight shifts toward supervision and validation",
+        "Automation spreads from digital work into physical infrastructure"
+      ],
+      "implications": [
+        "Access to expert-level services expands",
+        "Scientific and operational decisions accelerate",
+        "Governance and safety standards become more important"
+      ],
+      "image": {
+        "alt": "AI software agents automate most office workflows",
+        "prompts": [
+          "aI software agents automate most office workflows, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI software agents automate most office workflows, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI software agents automate most office workflows, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI software agents automate most office workflows, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-software-agents-automate-most-office-workflows.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-software-agents-automate-most-office-workflows.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-scientific-assistants-accelerate-material-discovery",
+      "order": 23,
+      "slug": "ai-scientific-assistants-accelerate-material-discovery",
+      "title": "AI Scientific Assistants Accelerate Material Discovery",
+      "shortTitle": "AI Scientific Assistants Accelerate",
+      "description": "AI scientific assistants accelerate material discovery shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI scientific assistants accelerate material discovery becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "AI systems become trusted in high-stakes workflows",
+        "Human oversight shifts toward supervision and validation",
+        "Automation spreads from digital work into physical infrastructure"
+      ],
+      "implications": [
+        "Access to expert-level services expands",
+        "Scientific and operational decisions accelerate",
+        "Governance and safety standards become more important"
+      ],
+      "image": {
+        "alt": "AI scientific assistants accelerate material discovery",
+        "prompts": [
+          "aI scientific assistants accelerate material discovery, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI scientific assistants accelerate material discovery, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI scientific assistants accelerate material discovery, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI scientific assistants accelerate material discovery, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-generated-films-and-games-become-mainstream",
+      "order": 24,
+      "slug": "ai-generated-films-and-games-become-mainstream",
+      "title": "AI-Generated Films And Games Become Mainstream",
+      "shortTitle": "AIgenerated Films And Games",
+      "description": "AI-generated films and games become mainstream shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI-generated films and games become mainstream becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "AI systems become trusted in high-stakes workflows",
+        "Human oversight shifts toward supervision and validation",
+        "Automation spreads from digital work into physical infrastructure"
+      ],
+      "implications": [
+        "Access to expert-level services expands",
+        "Scientific and operational decisions accelerate",
+        "Governance and safety standards become more important"
+      ],
+      "image": {
+        "alt": "AI-generated films and games become mainstream",
+        "prompts": [
+          "aI-generated films and games become mainstream, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-generated films and games become mainstream, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-generated films and games become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-generated films and games become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-generated-films-and-games-become-mainstream.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-films-and-games-become-mainstream.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-companions-become-socially-accepted",
+      "order": 25,
+      "slug": "ai-companions-become-socially-accepted",
+      "title": "AI Companions Become Socially Accepted",
+      "shortTitle": "AI Companions Become Socially",
+      "description": "AI companions become socially accepted shows AI moving from experimental software into everyday infrastructure for health, education, law, science, work, creativity, and communication.",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI companions become socially accepted becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "AI systems become trusted in high-stakes workflows",
+        "Human oversight shifts toward supervision and validation",
+        "Automation spreads from digital work into physical infrastructure"
+      ],
+      "implications": [
+        "Access to expert-level services expands",
+        "Scientific and operational decisions accelerate",
+        "Governance and safety standards become more important"
+      ],
+      "image": {
+        "alt": "AI companions become socially accepted",
+        "prompts": [
+          "aI companions become socially accepted, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI companions become socially accepted, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI companions become socially accepted, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI companions become socially accepted, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-companions-become-socially-accepted.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-companions-become-socially-accepted.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-agricultural-robots-replace-most-repetitive-farm-labor",
+      "order": 26,
+      "slug": "agricultural-robots-replace-most-repetitive-farm-labor",
+      "title": "Agricultural Robots Replace Most Repetitive Farm Labor",
+      "shortTitle": "Agricultural Robots Replace Most",
+      "description": "Agricultural robots replace most repetitive farm labor moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Agricultural robots replace most repetitive farm labor becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Robots operate reliably in public and industrial environments",
+        "Autonomous fleets coordinate across cities or off-world facilities",
+        "Machine labor begins replacing dangerous repetitive work"
+      ],
+      "implications": [
+        "Physical services become cheaper and more available",
+        "Human exposure to hazardous work decreases",
+        "Infrastructure can scale faster than traditional labor allows"
+      ],
+      "image": {
+        "alt": "Agricultural robots replace most repetitive farm labor",
+        "prompts": [
+          "agricultural robots replace most repetitive farm labor, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing agricultural robots replace most repetitive farm labor, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of agricultural robots replace most repetitive farm labor, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating agricultural robots replace most repetitive farm labor, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-home-cleaning-robots-become-fully-autonomous",
+      "order": 27,
+      "slug": "home-cleaning-robots-become-fully-autonomous",
+      "title": "Home Cleaning Robots Become Fully Autonomous",
+      "shortTitle": "Home Cleaning Robots Become",
+      "description": "Home cleaning robots become fully autonomous moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Home cleaning robots become fully autonomous becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Robots operate reliably in public and industrial environments",
+        "Autonomous fleets coordinate across cities or off-world facilities",
+        "Machine labor begins replacing dangerous repetitive work"
+      ],
+      "implications": [
+        "Physical services become cheaper and more available",
+        "Human exposure to hazardous work decreases",
+        "Infrastructure can scale faster than traditional labor allows"
+      ],
+      "image": {
+        "alt": "Home cleaning robots become fully autonomous",
+        "prompts": [
+          "home cleaning robots become fully autonomous, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing home cleaning robots become fully autonomous, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of home cleaning robots become fully autonomous, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating home cleaning robots become fully autonomous, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-home-cleaning-robots-become-fully-autonomous.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-home-cleaning-robots-become-fully-autonomous.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-warehouse-robots-achieve-lights-out-operations",
+      "order": 28,
+      "slug": "warehouse-robots-achieve-lights-out-operations",
+      "title": "Warehouse Robots Achieve Lights-Out Operations",
+      "shortTitle": "Warehouse Robots Achieve Lightsout",
+      "description": "Warehouse robots achieve lights-out operations moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Warehouse robots achieve lights-out operations becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Robots operate reliably in public and industrial environments",
+        "Autonomous fleets coordinate across cities or off-world facilities",
+        "Machine labor begins replacing dangerous repetitive work"
+      ],
+      "implications": [
+        "Physical services become cheaper and more available",
+        "Human exposure to hazardous work decreases",
+        "Infrastructure can scale faster than traditional labor allows"
+      ],
+      "image": {
+        "alt": "Warehouse robots achieve lights-out operations",
+        "prompts": [
+          "warehouse robots achieve lights-out operations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing warehouse robots achieve lights-out operations, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of warehouse robots achieve lights-out operations, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating warehouse robots achieve lights-out operations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-warehouse-robots-achieve-lights-out-operations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-warehouse-robots-achieve-lights-out-operations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-robotic-eldercare-assistants-become-common",
+      "order": 29,
+      "slug": "robotic-eldercare-assistants-become-common",
+      "title": "Robotic Eldercare Assistants Become Common",
+      "shortTitle": "Robotic Eldercare Assistants Become",
+      "description": "Robotic eldercare assistants become common moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Robotic eldercare assistants become common becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Robots operate reliably in public and industrial environments",
+        "Autonomous fleets coordinate across cities or off-world facilities",
+        "Machine labor begins replacing dangerous repetitive work"
+      ],
+      "implications": [
+        "Physical services become cheaper and more available",
+        "Human exposure to hazardous work decreases",
+        "Infrastructure can scale faster than traditional labor allows"
+      ],
+      "image": {
+        "alt": "Robotic eldercare assistants become common",
+        "prompts": [
+          "robotic eldercare assistants become common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic eldercare assistants become common, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic eldercare assistants become common, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic eldercare assistants become common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-robotic-eldercare-assistants-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-robotic-eldercare-assistants-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-underwater-robots-restore-coral-reefs",
+      "order": 30,
+      "slug": "autonomous-underwater-robots-restore-coral-reefs",
+      "title": "Autonomous Underwater Robots Restore Coral Reefs",
+      "shortTitle": "Autonomous Underwater Robots Restore",
+      "description": "Autonomous underwater robots restore coral reefs moves robots from limited automation into visible service, logistics, construction, agriculture, eldercare, disaster response, and ecosystem repair.",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Autonomous underwater robots restore coral reefs becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Robots operate reliably in public and industrial environments",
+        "Autonomous fleets coordinate across cities or off-world facilities",
+        "Machine labor begins replacing dangerous repetitive work"
+      ],
+      "implications": [
+        "Physical services become cheaper and more available",
+        "Human exposure to hazardous work decreases",
+        "Infrastructure can scale faster than traditional labor allows"
+      ],
+      "image": {
+        "alt": "Autonomous underwater robots restore coral reefs",
+        "prompts": [
+          "autonomous underwater robots restore coral reefs, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous underwater robots restore coral reefs, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous underwater robots restore coral reefs, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous underwater robots restore coral reefs, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-open-air-fusion-ignition-is-demonstrated",
+      "order": 31,
+      "slug": "open-air-fusion-ignition-is-demonstrated",
+      "title": "Open-Air Fusion Ignition Is Demonstrated",
+      "shortTitle": "Openair Fusion Ignition Is",
+      "description": "Open-air fusion ignition is demonstrated marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Open-air fusion ignition is demonstrated becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Prototype energy systems reach sustained demonstrations",
+        "Smart grids reduce waste and improve reliability",
+        "Energy infrastructure starts integrating with roads, buildings, and space assets"
+      ],
+      "implications": [
+        "Clean energy becomes easier to scale",
+        "Transportation and construction become less carbon intensive",
+        "Future space infrastructure becomes more economically plausible"
+      ],
+      "image": {
+        "alt": "Open-air fusion ignition is demonstrated",
+        "prompts": [
+          "open-air fusion ignition is demonstrated, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing open-air fusion ignition is demonstrated, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of open-air fusion ignition is demonstrated, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating open-air fusion ignition is demonstrated, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-open-air-fusion-ignition-is-demonstrated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-open-air-fusion-ignition-is-demonstrated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ambient-temperature-superconductor-prototype-is-verified",
+      "order": 32,
+      "slug": "ambient-temperature-superconductor-prototype-is-verified",
+      "title": "Ambient-Temperature Superconductor Prototype Is Verified",
+      "shortTitle": "Ambienttemperature Superconductor Prototype Is",
+      "description": "Ambient-temperature superconductor prototype is verified turns early frontier physics into practical demonstrations that could reshape energy, computing, sensing, and infrastructure.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Ambient-temperature superconductor prototype is verified becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Experimental physics reaches repeatable engineered prototypes",
+        "Quantum and field-based systems leave laboratory-only settings",
+        "Precision measurement improves navigation and science"
+      ],
+      "implications": [
+        "New infrastructure capabilities become possible",
+        "Space settlement becomes safer",
+        "Future breakthroughs gain clearer engineering pathways"
+      ],
+      "image": {
+        "alt": "Ambient-temperature superconductor prototype is verified",
+        "prompts": [
+          "ambient-temperature superconductor prototype is verified, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ambient-temperature superconductor prototype is verified, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ambient-temperature superconductor prototype is verified, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ambient-temperature superconductor prototype is verified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-solid-state-batteries-surpass-lithium-ion-technology",
+      "order": 33,
+      "slug": "solid-state-batteries-surpass-lithium-ion-technology",
+      "title": "Solid-State Batteries Surpass Lithium-Ion Technology",
+      "shortTitle": "Solidstate Batteries Surpass Lithiumion",
+      "description": "Solid-state batteries surpass lithium-ion technology marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Solid-state batteries surpass lithium-ion technology becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Prototype energy systems reach sustained demonstrations",
+        "Smart grids reduce waste and improve reliability",
+        "Energy infrastructure starts integrating with roads, buildings, and space assets"
+      ],
+      "implications": [
+        "Clean energy becomes easier to scale",
+        "Transportation and construction become less carbon intensive",
+        "Future space infrastructure becomes more economically plausible"
+      ],
+      "image": {
+        "alt": "Solid-state batteries surpass lithium-ion technology",
+        "prompts": [
+          "solid-state batteries surpass lithium-ion technology, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing solid-state batteries surpass lithium-ion technology, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of solid-state batteries surpass lithium-ion technology, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating solid-state batteries surpass lithium-ion technology, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-managed-smart-grids-reduce-energy-waste",
+      "order": 34,
+      "slug": "ai-managed-smart-grids-reduce-energy-waste",
+      "title": "AI-Managed Smart Grids Reduce Energy Waste",
+      "shortTitle": "AImanaged Smart Grids Reduce",
+      "description": "AI-managed smart grids reduce energy waste marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI-managed smart grids reduce energy waste becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Prototype energy systems reach sustained demonstrations",
+        "Smart grids reduce waste and improve reliability",
+        "Energy infrastructure starts integrating with roads, buildings, and space assets"
+      ],
+      "implications": [
+        "Clean energy becomes easier to scale",
+        "Transportation and construction become less carbon intensive",
+        "Future space infrastructure becomes more economically plausible"
+      ],
+      "image": {
+        "alt": "AI-managed smart grids reduce energy waste",
+        "prompts": [
+          "aI-managed smart grids reduce energy waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-managed smart grids reduce energy waste, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-managed smart grids reduce energy waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-managed smart grids reduce energy waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-building-integrated-solar-materials-become-affordable",
+      "order": 35,
+      "slug": "building-integrated-solar-materials-become-affordable",
+      "title": "Building-Integrated Solar Materials Become Affordable",
+      "shortTitle": "Buildingintegrated Solar Materials Become",
+      "description": "Building-integrated solar materials become affordable marks the first wave of cleaner, denser, and smarter energy systems that prepare civilization for large-scale electrification and future abundance.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Building-integrated solar materials become affordable becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Prototype energy systems reach sustained demonstrations",
+        "Smart grids reduce waste and improve reliability",
+        "Energy infrastructure starts integrating with roads, buildings, and space assets"
+      ],
+      "implications": [
+        "Clean energy becomes easier to scale",
+        "Transportation and construction become less carbon intensive",
+        "Future space infrastructure becomes more economically plausible"
+      ],
+      "image": {
+        "alt": "Building-integrated solar materials become affordable",
+        "prompts": [
+          "building-integrated solar materials become affordable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing building-integrated solar materials become affordable, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of building-integrated solar materials become affordable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating building-integrated solar materials become affordable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-building-integrated-solar-materials-become-affordable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-building-integrated-solar-materials-become-affordable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-organ-regeneration-patches-enter-clinical-use",
+      "order": 36,
+      "slug": "organ-regeneration-patches-enter-clinical-use",
+      "title": "Organ Regeneration Patches Enter Clinical Use",
+      "shortTitle": "Organ Regeneration Patches Enter",
+      "description": "Organ regeneration patches enter clinical use brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Organ regeneration patches enter clinical use becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Disease detection moves earlier and becomes more personalized",
+        "Regenerative and gene-based treatments expand",
+        "Closed-loop biological systems support space habitation"
+      ],
+      "implications": [
+        "Health systems become more preventive",
+        "Human bodies become more repairable",
+        "Long-duration space life becomes more realistic"
+      ],
+      "image": {
+        "alt": "Organ regeneration patches enter clinical use",
+        "prompts": [
+          "organ regeneration patches enter clinical use, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing organ regeneration patches enter clinical use, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of organ regeneration patches enter clinical use, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating organ regeneration patches enter clinical use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-organ-regeneration-patches-enter-clinical-use.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-organ-regeneration-patches-enter-clinical-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-digital-immune-systems-prevent-most-infectious-outbreaks",
+      "order": 37,
+      "slug": "digital-immune-systems-prevent-most-infectious-outbreaks",
+      "title": "Digital Immune Systems Prevent Most Infectious Outbreaks",
+      "shortTitle": "Digital Immune Systems Prevent",
+      "description": "Digital immune systems prevent most infectious outbreaks brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Digital immune systems prevent most infectious outbreaks becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Disease detection moves earlier and becomes more personalized",
+        "Regenerative and gene-based treatments expand",
+        "Closed-loop biological systems support space habitation"
+      ],
+      "implications": [
+        "Health systems become more preventive",
+        "Human bodies become more repairable",
+        "Long-duration space life becomes more realistic"
+      ],
+      "image": {
+        "alt": "Digital immune systems prevent most infectious outbreaks",
+        "prompts": [
+          "digital immune systems prevent most infectious outbreaks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing digital immune systems prevent most infectious outbreaks, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of digital immune systems prevent most infectious outbreaks, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating digital immune systems prevent most infectious outbreaks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-longevity-drugs-extend-healthy-lifespan-significantly",
+      "order": 38,
+      "slug": "longevity-drugs-extend-healthy-lifespan-significantly",
+      "title": "Longevity Drugs Extend Healthy Lifespan Significantly",
+      "shortTitle": "Longevity Drugs Extend Healthy",
+      "description": "Longevity drugs extend healthy lifespan significantly brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Longevity drugs extend healthy lifespan significantly becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Disease detection moves earlier and becomes more personalized",
+        "Regenerative and gene-based treatments expand",
+        "Closed-loop biological systems support space habitation"
+      ],
+      "implications": [
+        "Health systems become more preventive",
+        "Human bodies become more repairable",
+        "Long-duration space life becomes more realistic"
+      ],
+      "image": {
+        "alt": "Longevity drugs extend healthy lifespan significantly",
+        "prompts": [
+          "longevity drugs extend healthy lifespan significantly, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing longevity drugs extend healthy lifespan significantly, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of longevity drugs extend healthy lifespan significantly, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating longevity drugs extend healthy lifespan significantly, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-synthetic-blood-enters-emergency-medicine",
+      "order": 39,
+      "slug": "synthetic-blood-enters-emergency-medicine",
+      "title": "Synthetic Blood Enters Emergency Medicine",
+      "shortTitle": "Synthetic Blood Enters Emergency",
+      "description": "Synthetic blood enters emergency medicine brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Synthetic blood enters emergency medicine becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Disease detection moves earlier and becomes more personalized",
+        "Regenerative and gene-based treatments expand",
+        "Closed-loop biological systems support space habitation"
+      ],
+      "implications": [
+        "Health systems become more preventive",
+        "Human bodies become more repairable",
+        "Long-duration space life becomes more realistic"
+      ],
+      "image": {
+        "alt": "Synthetic blood enters emergency medicine",
+        "prompts": [
+          "synthetic blood enters emergency medicine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic blood enters emergency medicine, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic blood enters emergency medicine, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic blood enters emergency medicine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-synthetic-blood-enters-emergency-medicine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-blood-enters-emergency-medicine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-gene-therapies-cure-several-inherited-diseases",
+      "order": 40,
+      "slug": "gene-therapies-cure-several-inherited-diseases",
+      "title": "Gene Therapies Cure Several Inherited Diseases",
+      "shortTitle": "Gene Therapies Cure Several",
+      "description": "Gene therapies cure several inherited diseases brings early predictive, regenerative, and personalized medicine into clinical use, extending prevention, repair, and biological resilience.",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Gene therapies cure several inherited diseases becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Disease detection moves earlier and becomes more personalized",
+        "Regenerative and gene-based treatments expand",
+        "Closed-loop biological systems support space habitation"
+      ],
+      "implications": [
+        "Health systems become more preventive",
+        "Human bodies become more repairable",
+        "Long-duration space life becomes more realistic"
+      ],
+      "image": {
+        "alt": "Gene therapies cure several inherited diseases",
+        "prompts": [
+          "gene therapies cure several inherited diseases, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing gene therapies cure several inherited diseases, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of gene therapies cure several inherited diseases, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating gene therapies cure several inherited diseases, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-gene-therapies-cure-several-inherited-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-gene-therapies-cure-several-inherited-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-programmable-smart-materials-enter-industry",
+      "order": 41,
+      "slug": "programmable-smart-materials-enter-industry",
+      "title": "Programmable Smart Materials Enter Industry",
+      "shortTitle": "Programmable Smart Materials Enter",
+      "description": "Programmable smart materials enter industry upgrades civilization's material base through cleaner construction, self-healing structures, 3D printing, programmable materials, and carbon capture.",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Programmable smart materials enter industry becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Low-carbon and self-healing materials enter commercial use",
+        "Additive manufacturing scales to buildings and infrastructure",
+        "Space manufacturing produces materials not practical on Earth"
+      ],
+      "implications": [
+        "Construction becomes cheaper and cleaner",
+        "Cities and space habitats become more resilient",
+        "Supply chains shift toward local and automated production"
+      ],
+      "image": {
+        "alt": "Programmable smart materials enter industry",
+        "prompts": [
+          "programmable smart materials enter industry, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable smart materials enter industry, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable smart materials enter industry, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable smart materials enter industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-programmable-smart-materials-enter-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-programmable-smart-materials-enter-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-3d-printed-buildings-become-mainstream",
+      "order": 42,
+      "slug": "3d-printed-buildings-become-mainstream",
+      "title": "3D-Printed Buildings Become Mainstream",
+      "shortTitle": "3Dprinted Buildings Become Mainstream",
+      "description": "3D-printed buildings become mainstream upgrades civilization's material base through cleaner construction, self-healing structures, 3D printing, programmable materials, and carbon capture.",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "3D-printed buildings become mainstream becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Low-carbon and self-healing materials enter commercial use",
+        "Additive manufacturing scales to buildings and infrastructure",
+        "Space manufacturing produces materials not practical on Earth"
+      ],
+      "implications": [
+        "Construction becomes cheaper and cleaner",
+        "Cities and space habitats become more resilient",
+        "Supply chains shift toward local and automated production"
+      ],
+      "image": {
+        "alt": "3D-printed buildings become mainstream",
+        "prompts": [
+          "3D-printed buildings become mainstream, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing 3D-printed buildings become mainstream, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of 3D-printed buildings become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating 3D-printed buildings become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-3d-printed-buildings-become-mainstream.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-3d-printed-buildings-become-mainstream.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-precision-agriculture-dramatically-reduces-fertilizer-waste",
+      "order": 43,
+      "slug": "precision-agriculture-dramatically-reduces-fertilizer-waste",
+      "title": "Precision Agriculture Dramatically Reduces Fertilizer Waste",
+      "shortTitle": "Precision Agriculture Dramatically Reduces",
+      "description": "Precision agriculture dramatically reduces fertilizer waste shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Precision agriculture dramatically reduces fertilizer waste becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "AI models guide climate and agriculture decisions",
+        "Restoration projects become measurable and scalable",
+        "Closed-loop resource systems reduce waste"
+      ],
+      "implications": [
+        "Climate and food risks become easier to manage",
+        "Ecological restoration becomes an active industry",
+        "Space habitats depend on sustainable resource loops"
+      ],
+      "image": {
+        "alt": "Precision agriculture dramatically reduces fertilizer waste",
+        "prompts": [
+          "precision agriculture dramatically reduces fertilizer waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing precision agriculture dramatically reduces fertilizer waste, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of precision agriculture dramatically reduces fertilizer waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating precision agriculture dramatically reduces fertilizer waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-desalination-technologies-provide-low-cost-fresh-water",
+      "order": 44,
+      "slug": "desalination-technologies-provide-low-cost-fresh-water",
+      "title": "Desalination Technologies Provide Low-Cost Fresh Water",
+      "shortTitle": "Desalination Technologies Provide Lowcost",
+      "description": "Desalination technologies provide low-cost fresh water shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Desalination technologies provide low-cost fresh water becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "AI models guide climate and agriculture decisions",
+        "Restoration projects become measurable and scalable",
+        "Closed-loop resource systems reduce waste"
+      ],
+      "implications": [
+        "Climate and food risks become easier to manage",
+        "Ecological restoration becomes an active industry",
+        "Space habitats depend on sustainable resource loops"
+      ],
+      "image": {
+        "alt": "Desalination technologies provide low-cost fresh water",
+        "prompts": [
+          "desalination technologies provide low-cost fresh water, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing desalination technologies provide low-cost fresh water, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of desalination technologies provide low-cost fresh water, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating desalination technologies provide low-cost fresh water, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-reforestation-drones-restore-damaged-ecosystems",
+      "order": 45,
+      "slug": "reforestation-drones-restore-damaged-ecosystems",
+      "title": "Reforestation Drones Restore Damaged Ecosystems",
+      "shortTitle": "Reforestation Drones Restore Damaged",
+      "description": "Reforestation drones restore damaged ecosystems shows early climate repair, food resilience, water access, reforestation, and pollution treatment becoming deployable systems.",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Reforestation drones restore damaged ecosystems becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "AI models guide climate and agriculture decisions",
+        "Restoration projects become measurable and scalable",
+        "Closed-loop resource systems reduce waste"
+      ],
+      "implications": [
+        "Climate and food risks become easier to manage",
+        "Ecological restoration becomes an active industry",
+        "Space habitats depend on sustainable resource loops"
+      ],
+      "image": {
+        "alt": "Reforestation drones restore damaged ecosystems",
+        "prompts": [
+          "reforestation drones restore damaged ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing reforestation drones restore damaged ecosystems, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of reforestation drones restore damaged ecosystems, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating reforestation drones restore damaged ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-commercial-orbital-hotel-opens",
+      "order": 46,
+      "slug": "first-commercial-orbital-hotel-opens",
+      "title": "First Commercial Orbital Hotel Opens",
+      "shortTitle": "Commercial Orbital Hotel Opens",
+      "description": "First commercial orbital hotel opens opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "First commercial orbital hotel opens becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Commercial space services become routine",
+        "Lunar and orbital infrastructure receives continuous investment",
+        "Earth-Moon-Mars logistics move from demonstration to early operations"
+      ],
+      "implications": [
+        "Space becomes an economic domain rather than a symbolic frontier",
+        "Permanent settlement beyond Earth becomes credible",
+        "Civilization gains new locations for industry, research, and culture"
+      ],
+      "image": {
+        "alt": "First commercial orbital hotel opens",
+        "prompts": [
+          "first commercial orbital hotel opens, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first commercial orbital hotel opens, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first commercial orbital hotel opens, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first commercial orbital hotel opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-commercial-orbital-hotel-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-commercial-orbital-hotel-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-autonomous-lunar-construction-site-begins-operation",
+      "order": 47,
+      "slug": "first-autonomous-lunar-construction-site-begins-operation",
+      "title": "First Autonomous Lunar Construction Site Begins Operation",
+      "shortTitle": "Autonomous Lunar Construction Site",
+      "description": "First autonomous lunar construction site begins operation opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "First autonomous lunar construction site begins operation becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Commercial space services become routine",
+        "Lunar and orbital infrastructure receives continuous investment",
+        "Earth-Moon-Mars logistics move from demonstration to early operations"
+      ],
+      "implications": [
+        "Space becomes an economic domain rather than a symbolic frontier",
+        "Permanent settlement beyond Earth becomes credible",
+        "Civilization gains new locations for industry, research, and culture"
+      ],
+      "image": {
+        "alt": "First autonomous lunar construction site begins operation",
+        "prompts": [
+          "first autonomous lunar construction site begins operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first autonomous lunar construction site begins operation, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first autonomous lunar construction site begins operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first autonomous lunar construction site begins operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-lunar-resource-prospecting-mission-becomes-commercial",
+      "order": 48,
+      "slug": "first-lunar-resource-prospecting-mission-becomes-commercial",
+      "title": "First Lunar Resource Prospecting Mission Becomes Commercial",
+      "shortTitle": "Lunar Resource Prospecting Mission",
+      "description": "First lunar resource prospecting mission becomes commercial opens the first commercial and robotic pathways beyond Earth, preparing the ground for orbital services and lunar resource activity.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "First lunar resource prospecting mission becomes commercial becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Commercial space services become routine",
+        "Lunar and orbital infrastructure receives continuous investment",
+        "Earth-Moon-Mars logistics move from demonstration to early operations"
+      ],
+      "implications": [
+        "Space becomes an economic domain rather than a symbolic frontier",
+        "Permanent settlement beyond Earth becomes credible",
+        "Civilization gains new locations for industry, research, and culture"
+      ],
+      "image": {
+        "alt": "First lunar resource prospecting mission becomes commercial",
+        "prompts": [
+          "first lunar resource prospecting mission becomes commercial, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first lunar resource prospecting mission becomes commercial, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first lunar resource prospecting mission becomes commercial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first lunar resource prospecting mission becomes commercial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-universal-digital-identity-becomes-globally-interoperable",
+      "order": 49,
+      "slug": "universal-digital-identity-becomes-globally-interoperable",
+      "title": "Universal Digital Identity Becomes Globally Interoperable",
+      "shortTitle": "Universal Digital Identity Becomes",
+      "description": "Universal digital identity becomes globally interoperable captures early social and economic transformation as digital identity, cashless systems, AI services, and automation reshape daily life.",
+      "layerId": "society-economy",
+      "domains": ["social-systems", "economy", "public-services"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Universal digital identity becomes globally interoperable becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Digital public infrastructure becomes interoperable",
+        "New economic systems form around automation and space services",
+        "Legal institutions adapt to new technological realities"
+      ],
+      "implications": [
+        "Access to services becomes easier and more global",
+        "Space commerce gains legitimacy",
+        "Economic life becomes more digital and border-crossing"
+      ],
+      "image": {
+        "alt": "Universal digital identity becomes globally interoperable",
+        "prompts": [
+          "universal digital identity becomes globally interoperable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal digital identity becomes globally interoperable, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal digital identity becomes globally interoperable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal digital identity becomes globally interoperable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-cashless-economies-dominate-most-countries",
+      "order": 50,
+      "slug": "cashless-economies-dominate-most-countries",
+      "title": "Cashless Economies Dominate Most Countries",
+      "shortTitle": "Cashless Economies Dominate Most",
+      "description": "Cashless economies dominate most countries captures early social and economic transformation as digital identity, cashless systems, AI services, and automation reshape daily life.",
+      "layerId": "society-economy",
+      "domains": ["social-systems", "economy", "public-services"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Cashless economies dominate most countries becomes a defining milestone of near-future breakthroughs, laying the technological foundation for later civilization-scale transformation.",
+      "signals": [
+        "Digital public infrastructure becomes interoperable",
+        "New economic systems form around automation and space services",
+        "Legal institutions adapt to new technological realities"
+      ],
+      "implications": [
+        "Access to services becomes easier and more global",
+        "Space commerce gains legitimacy",
+        "Economic life becomes more digital and border-crossing"
+      ],
+      "image": {
+        "alt": "Cashless economies dominate most countries",
+        "prompts": [
+          "cashless economies dominate most countries, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cashless economies dominate most countries, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cashless economies dominate most countries, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cashless economies dominate most countries, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-cashless-economies-dominate-most-countries.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-cashless-economies-dominate-most-countries.png",
           "width": 1200,
           "height": 630,
           "quality": 82

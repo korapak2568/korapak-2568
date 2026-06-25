@@ -31,7 +31,8 @@ function getMixedItems(
   return [...items]
     .sort(
       (firstItem, secondItem) =>
-        getStableItemScore(firstItem, salt) - getStableItemScore(secondItem, salt) ||
+        getStableItemScore(firstItem, salt) -
+          getStableItemScore(secondItem, salt) ||
         firstItem.order - secondItem.order,
     )
     .slice(0, count);
@@ -94,7 +95,8 @@ function FutureCivilizationEraSignalSection({
       <div className="platform-section__header">
         <span>
           Era {String(roadmapEra.era.order).padStart(2, "0")} /{" "}
-          {roadmapEra.era.timeframe.startYear}-{roadmapEra.era.timeframe.endYear}
+          {roadmapEra.era.timeframe.startYear}-
+          {roadmapEra.era.timeframe.endYear}
         </span>
         <h2>{roadmapEra.era.title}</h2>
         <p>{roadmapEra.era.description}</p>
@@ -119,7 +121,11 @@ export default function FutureCivilizationRoadmapPage({
   lang: string;
 }) {
   const eras = getFutureRoadmapEras();
-  const featuredItems = getFutureRoadmapFeaturedItems(40);
+  const signalCount = eras.reduce(
+    (totalSignals, roadmapEra) => totalSignals + roadmapEra.items.length,
+    0,
+  );
+  const featuredItems = getFutureRoadmapFeaturedItems(signalCount);
   const heroItem = getMixedItems(featuredItems, 1, "landing-hero")[0];
 
   return (
@@ -140,24 +146,44 @@ export default function FutureCivilizationRoadmapPage({
           <span>Chorn Planet Future Civilization</span>
           <h1>{futureRoadmapManifest.title}</h1>
           <p>{futureRoadmapManifest.description}</p>
-          <div className="future-civilization-landing-hero__stats">
+
+          {/* <div className="future-civilization-landing-hero__stats">
             <strong>{eras.length}</strong>
             <small>Eras</small>
-            <strong>{featuredItems.length}</strong>
+            <strong>{signalCount}</strong>
             <small>Signals</small>
-          </div>
+          </div> */}
+
         </div>
       </section>
 
       <section className="platform-shell future-civilization-featured-intro">
         <div className="platform-section__header">
-          <span>Phase One Signal Gallery</span>
-          <h2>Randomized signals from the first two eras.</h2>
+          <span>Future Civilization Signal Gallery</span>
+          <h2>Randomized signals from the loaded roadmap eras.</h2>
           <p>
-            The landing page refreshes with 9 signals from Era 01 and 9 signals
-            from Era 02, giving visitors a broader first view of the Future
-            Civilization roadmap while keeping the launch focused on ready image sets.
+            The landing page refreshes with selected signals from every loaded era,
+            giving visitors a broader first view of the Future Civilization roadmap
+            while keeping each era section focused and scannable.
           </p>
+        </div>
+        <div className="platform-mts-hero__actions">
+          <Link
+            className="platform-mts-hero__action platform-mts-hero__action--active"
+            href={`/${lang}/future-civilization/`}
+            aria-current="page"
+          >
+            Future Civilization
+          </Link>
+          {eras.map((roadmapEra) => (
+            <Link
+              key={roadmapEra.era.id}
+              className="platform-mts-hero__action"
+              href={`/${lang}/future-civilization/${roadmapEra.era.slug}/`}
+            >
+              {roadmapEra.era.title}
+            </Link>
+          ))}
         </div>
       </section>
 
