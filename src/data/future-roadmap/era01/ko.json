@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-01",
+    "order": 1,
+    "slug": "near-future-breakthroughs",
+    "title": "근미래 혁신",
+    "subtitle": "문명을 바꾸는 첫 번째 발견의 물결",
+    "description": "이 시대는 AI, 로보틱스, 의학, 기후 기술, 재료 과학, 초기 우주 자동화에서 나타나는 혁신을 다룹니다.",
+    "timeframe": {
+      "label": "근미래",
+      "startYear": 2030,
+      "endYear": 2045,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "technology",
+      "mood": "optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "시대 1: 근미래 혁신 | 미래 문명 로드맵",
+      "metaDescription": "AI, 로보틱스, 암 조기 진단, 기후 대응 소재, 달 로보틱스, 자가 치유 도시 등 근미래 혁신을 살펴봅니다.",
+      "keywords": [
+        "미래 기술",
+        "AI 로봇",
+        "암 혈액 검사",
+        "미래 문명",
+        "기후 기술"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-01-ai-hospital-triage-becomes-standard-worldwide",
+      "order": 1,
+      "slug": "ai-hospital-triage-becomes-standard-worldwide",
+      "title": "AI 병원 중증도 분류가 전 세계 표준이 된다",
+      "shortTitle": "AI 병원 중증도 분류",
+      "category": "AI & Computing",
+      "description": "병원은 AI 중증도 분류 시스템을 도입해 긴급도 분류, 조기 경고 징후 탐지, 빠른 환자 배정, 응급실 부담 완화를 지원합니다.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "healthcare",
+        "public-systems"
+      ],
+      "maturity": "early-standardization",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2036
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "의료는 더 선제적이고 빠르며 접근하기 쉬워지고, 특히 과부하된 공공 보건 시스템에서 큰 효과를 냅니다.",
+      "signals": [
+        "AI 보조 응급 접수 도구가 규제 대상 의료 소프트웨어가 된다",
+        "병원이 중증도 분류 모델을 전자의무기록과 통합한다",
+        "실제 병원 도착 전 원격 환자 접수가 보편화된다"
+      ],
+      "implications": [
+        "긴급 환자의 대기 시간이 짧아진다",
+        "상태 악화를 더 일찍 발견할 수 있다",
+        "의료 AI 책임성에 대한 새로운 거버넌스 기준이 만들어진다"
+      ],
+      "image": {
+        "alt": "현대 응급실에서 의료진을 지원하는 AI 병원 중증도 분류 대시보드",
+        "prompts": [
+          "Clean futuristic documentary scene of an AI hospital triage desk, doctors reviewing patient risk scores on transparent screens, bright modern emergency department, realistic, 16:9",
+          "Close-up of a nurse using an AI-assisted patient intake tablet, soft clinical lighting, diverse patients waiting calmly, realistic healthcare technology, 16:9",
+          "Wide view of a smart emergency room command center with live patient flow analytics, medical staff coordinating care, optimistic near future, 16:9",
+          "Human doctor and AI diagnostic interface working together during hospital triage, ethical and calm atmosphere, cinematic documentary realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-carbon-negative-concrete-enters-mass-production",
+      "order": 2,
+      "slug": "carbon-negative-concrete-enters-mass-production",
+      "title": "탄소 네거티브 콘크리트가 대량생산에 들어간다",
+      "shortTitle": "탄소 네거티브 콘크리트",
+      "category": "Materials & Manufacturing",
+      "description": "새로운 시멘트와 콘크리트 공정은 배출량보다 더 많은 탄소를 저장해 대형 건설 프로젝트를 장기 탄소 흡수원으로 바꿉니다.",
+      "layerId": "technology",
+      "domains": [
+        "climate-technology",
+        "materials-science",
+        "construction"
+      ],
+      "maturity": "mass-production",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "도시는 인프라, 주택, 공공사업을 계속 확장하면서도 건설에 내재된 탄소를 줄이기 시작합니다.",
+      "signals": [
+        "탄소 광물화가 산업 규모에서 더 저렴해진다",
+        "건축 규정이 검증된 탄소 저장 소재를 인정한다",
+        "대형 개발사가 저탄소 소재를 기본 선택지로 삼는다"
+      ],
+      "implications": [
+        "건설 부문의 배출이 낮아진다",
+        "건물 탄소 회계 기준이 새롭게 정립된다",
+        "녹색 인프라가 경제적 경쟁력을 갖는다"
+      ],
+      "image": {
+        "alt": "미래 도시 건설 현장에서 사용되는 탄소 네거티브 콘크리트",
+        "prompts": [
+          "Futuristic construction site pouring carbon-negative concrete, cranes, green city skyline, clean documentary realism, 16:9",
+          "Close-up of advanced concrete blocks with mineralized carbon texture, engineers inspecting material samples, realistic lab-to-construction scene, 16:9",
+          "Large bridge being built with low-carbon concrete beside a restored river ecosystem, optimistic climate technology, 16:9",
+          "Modern megacity construction with carbon capture symbols on material delivery trucks, bright sustainable urban future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-carbon-negative-concrete-enters-mass-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-personal-ai-health-monitors-detect-disease-before-symptoms",
+      "order": 3,
+      "slug": "personal-ai-health-monitors-detect-disease-before-symptoms",
+      "title": "개인 AI 건강 모니터가 증상 전 질병을 감지한다",
+      "shortTitle": "AI 건강 모니터",
+      "category": "AI & Computing",
+      "description": "웨어러블, 가정용 센서, 개인 건강 모델이 생체 지표를 지속적으로 분석해 사람들이 아프다고 느끼기 전에 질병 위험을 감지합니다.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "healthcare",
+        "consumer-devices"
+      ],
+      "maturity": "consumer-adoption",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2037
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "의학은 사후 치료 중심에서 조기 개입, 예방, 개인화된 일상 건강 안내로 이동합니다.",
+      "signals": [
+        "다중 센서 웨어러블이 혈액, 수면, 움직임, 음성 지표를 추적한다",
+        "AI 모델이 개인별 질병 위험 기준선을 만든다",
+        "보험과 보건 시스템이 조기 발견을 장려한다"
+      ],
+      "implications": [
+        "더 많은 질병이 치료 가능한 단계에서 발견된다",
+        "개인정보 보호형 건강 AI에 대한 수요가 커진다",
+        "개인 건강 대시보드가 일상 인프라가 된다"
+      ],
+      "image": {
+        "alt": "조기 질병 감지 인사이트를 보여주는 개인 AI 건강 모니터",
+        "prompts": [
+          "Person checking a personal AI health monitor on a wearable device, calm morning home scene, holographic health dashboard, realistic near future, 16:9",
+          "Close-up of smart ring and health patch collecting biometrics, clean futuristic product photography, 16:9",
+          "AI health assistant dashboard predicting disease risk before symptoms, minimalist interface, human-centered design, 16:9",
+          "Family using preventive AI health monitoring at home with privacy-focused devices, optimistic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-generated-medicines-enter-rapid-approval-pipelines",
+      "order": 4,
+      "slug": "ai-generated-medicines-enter-rapid-approval-pipelines",
+      "title": "AI 생성 의약품이 신속 승인 절차에 들어간다",
+      "shortTitle": "AI 생성 의약품",
+      "category": "AI & Computing",
+      "description": "신약 개발 플랫폼은 후보 의약품을 더 빠르게 설계하고, 규제기관은 안전한 AI 생성 치료법을 위한 가속 경로를 마련합니다.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "biotechnology",
+        "medicine"
+      ],
+      "maturity": "regulated-pipeline",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "치료 개발은 더 빠르고 더 표적화되며, 특히 희귀질환, 암, 신종 감염 위협 대응에 유리해집니다.",
+      "signals": [
+        "AI 모델이 예측 안전성 프로필을 갖춘 분자를 생성한다",
+        "적응형 임상시험이 더 일반화된다",
+        "규제기관이 AI 설계 약물에 설명 가능한 증거 경로를 요구한다"
+      ],
+      "implications": [
+        "발견 주기가 짧아진다",
+        "소외된 질병을 위한 치료법이 늘어난다",
+        "AI 생성 지식재산을 둘러싼 새로운 법적 문제가 등장한다"
+      ],
+      "image": {
+        "alt": "새로운 의약품을 설계하는 AI 신약 개발 연구실",
+        "prompts": [
+          "AI drug discovery laboratory with molecular simulations floating above workstations, researchers reviewing candidate medicines, realistic biotech future, 16:9",
+          "Close-up of robotic lab system testing AI-generated compounds, sterile biotech environment, cinematic documentary, 16:9",
+          "Regulatory review room with scientists and AI evidence dashboards evaluating new medicine approvals, clean futuristic style, 16:9",
+          "Digital molecule design interface connected to automated synthesis machines, optimistic medical breakthrough atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-vertical-farms-become-profitable-in-major-cities",
+      "order": 5,
+      "slug": "vertical-farms-become-profitable-in-major-cities",
+      "title": "주요 도시에서 수직농장이 수익성을 갖는다",
+      "shortTitle": "수익형 수직농장",
+      "category": "Environment",
+      "description": "도시 수직농장은 자동화, 고효율 조명, 기후 제어, 직접 지역 유통을 통해 강한 경제성을 확보합니다.",
+      "layerId": "technology",
+      "domains": [
+        "food-systems",
+        "urban-infrastructure",
+        "automation"
+      ],
+      "maturity": "commercial-scale",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "도시는 더 회복력 있는 식량 공급망을 얻고, 더 신선한 농산물, 낮은 운송 배출, 원거리 농장 의존 감소를 실현합니다.",
+      "signals": [
+        "로봇 수확이 노동 비용을 낮춘다",
+        "에너지 효율 LED가 작물 경제성을 개선한다",
+        "지역 소매업체가 도시 농장과 장기 공급 계약을 맺는다"
+      ],
+      "implications": [
+        "지역 식량 생산이 증가한다",
+        "부패와 운송 거리가 줄어든다",
+        "식량 인프라를 위한 새로운 부동산 모델이 생긴다"
+      ],
+      "image": {
+        "alt": "대도시 안에서 운영되는 대형 수익형 수직농장",
+        "prompts": [
+          "Massive vertical farm inside a high-rise building, robotic arms harvesting leafy greens, glowing efficient LED rows, city skyline outside, 16:9",
+          "Urban supermarket connected directly to an automated vertical farm, fresh produce moving through smart logistics, realistic near future, 16:9",
+          "Engineers monitoring climate-controlled vertical farming towers, clean futuristic documentary lighting, 16:9",
+          "Night view of a city block with transparent vertical farm floors full of crops, sustainable urban food system, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-vertical-farms-become-profitable-in-major-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-humanoid-service-robots-become-common",
+      "order": 6,
+      "slug": "humanoid-service-robots-become-common",
+      "title": "호텔, 병원, 창고에서 휴머노이드 서비스 로봇이 보편화된다",
+      "shortTitle": "휴머노이드 서비스 로봇",
+      "category": "Robotics",
+      "description": "범용 휴머노이드 로봇이 노동 집약적 환경에서 일상 서비스, 물류, 청소, 운반, 지원 업무를 수행하기 시작합니다.",
+      "layerId": "technology",
+      "domains": [
+        "robotics",
+        "automation",
+        "service-economy"
+      ],
+      "maturity": "early-mainstream",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "로봇은 일상 환경에서 눈에 보이는 동료가 되어 노동, 서비스 설계, 안전 절차, 생산성을 재구성합니다.",
+      "signals": [
+        "로봇 하드웨어 비용이 하락한다",
+        "체화 AI의 손재주와 내비게이션 능력이 향상된다",
+        "대형 시설이 인간 감독 아래 로봇 군집을 배치한다"
+      ],
+      "implications": [
+        "새로운 인간·로봇 운영 직무가 생긴다",
+        "반복적인 육체노동 부담이 줄어든다",
+        "로봇 안전과 노동 전환 정책의 필요성이 커진다"
+      ],
+      "image": {
+        "alt": "병원, 호텔, 창고에서 사람과 함께 일하는 휴머노이드 서비스 로봇",
+        "prompts": [
+          "Humanoid service robot assisting staff in a modern hotel lobby, guests interacting comfortably, clean futuristic documentary realism, 16:9",
+          "Hospital corridor with humanoid robot delivering supplies beside nurses, warm clinical lighting, realistic near future, 16:9",
+          "Warehouse with humanoid robots lifting boxes and coordinating with human supervisors, safe and organized automation, 16:9",
+          "Group of service robots charging and receiving task updates in a facility operations room, optimistic robotics future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-humanoid-service-robots-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-humanoid-service-robots-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-humanoid-service-robots-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-humanoid-service-robots-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities",
+      "order": 7,
+      "slug": "autonomous-drone-delivery-becomes-normal-in-dense-cities",
+      "title": "고밀도 도시에서 자율 드론 배송이 일상화된다",
+      "shortTitle": "도시 드론 배송",
+      "category": "Robotics",
+      "description": "드론 배송 네트워크가 고밀도 도시 지역에서 소형 화물, 긴급 물자, 음식, 의료 물품을 일상적으로 이동시킬 만큼 신뢰성을 갖춥니다.",
+      "layerId": "technology",
+      "domains": [
+        "mobility",
+        "logistics",
+        "autonomous-systems"
+      ],
+      "maturity": "urban-normalization",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "라스트마일 물류는 더 빠르고 깨끗하며 자동화되어 도시 교통, 소매 배송, 긴급 공급망을 변화시킵니다.",
+      "signals": [
+        "도시가 저고도 교통 회랑을 정의한다",
+        "건물 위에 자율 착륙 스테이션이 등장한다",
+        "의료 및 긴급 배송 사례가 신뢰성을 입증한다"
+      ],
+      "implications": [
+        "소형 배송으로 인한 도로 혼잡이 줄어든다",
+        "새로운 항공 교통 관리 인프라가 필요해진다",
+        "소음, 개인정보, 안전 규칙이 주요 도시 정책 주제가 된다"
+      ],
+      "image": {
+        "alt": "고밀도 미래 도시를 비행하는 자율 배송 드론",
+        "prompts": [
+          "Autonomous delivery drones moving through designated city air corridors between high-rise buildings, realistic near future, 16:9",
+          "Rooftop drone delivery station with packages sorted by robotic systems, dense city skyline, clean documentary style, 16:9",
+          "Medical drone landing at a hospital balcony with urgent supplies, calm efficient urban logistics scene, 16:9",
+          "Evening city street with quiet delivery drones overhead and reduced traffic below, optimistic mobility future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-smart-roads-begin-charging-electric-vehicles-while-moving",
+      "order": 8,
+      "slug": "smart-roads-begin-charging-electric-vehicles-while-moving",
+      "title": "스마트 도로가 주행 중 전기차를 충전하기 시작한다",
+      "shortTitle": "충전 스마트 도로",
+      "category": "Energy",
+      "description": "일부 고속도로와 도시 차로는 내장형 충전 인프라를 사용해 호환 전기차에 주행 중 전력을 공급합니다.",
+      "layerId": "technology",
+      "domains": [
+        "energy",
+        "mobility",
+        "infrastructure"
+      ],
+      "maturity": "pilot-to-corridor",
+      "timeframe": {
+        "startYear": 2031,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "전기 모빌리티는 더 편리해지고, 특히 버스, 화물 노선, 고사용 회랑에서 대형 배터리 의존도가 낮아집니다.",
+      "signals": [
+        "무선 충전 차로가 내구성을 입증한다",
+        "운송 사업자가 동적 충전 경로를 채택한다",
+        "정부가 스마트 회랑 인프라에 자금을 지원한다"
+      ],
+      "implications": [
+        "일부 노선에서 EV 배터리 요구량이 줄어든다",
+        "새로운 인프라 금융 모델이 생긴다",
+        "전기 화물과 대중교통의 회복력이 높아진다"
+      ],
+      "image": {
+        "alt": "스마트 도로에서 주행 중 충전되는 전기차",
+        "prompts": [
+          "Electric vehicles driving on a smart road with subtle glowing charging lanes, futuristic highway, clean realistic documentary, 16:9",
+          "Electric bus charging wirelessly while moving through a modern city corridor, passengers visible, optimistic mobility future, 16:9",
+          "Engineers inspecting embedded road charging infrastructure during construction, sustainable transport technology, 16:9",
+          "Night view of freight trucks using dynamic electric charging lanes on an intelligent highway, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-climate-prediction-prevents-major-crop-failures",
+      "order": 9,
+      "slug": "ai-climate-prediction-prevents-major-crop-failures",
+      "title": "AI 기후 예측이 대규모 작물 실패를 막는다",
+      "shortTitle": "AI 작물 보호",
+      "category": "AI & Computing",
+      "description": "고도화된 기후 및 작물 위험 모델이 가뭄, 해충, 홍수, 폭염이 수확에 피해를 주기 전에 농가, 정부, 식품 기업에 조기 경고를 제공합니다.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "climate",
+        "agriculture"
+      ],
+      "maturity": "operational-deployment",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "사회가 기후 충격에 더 빨리 대응하고 부족이 위기가 되기 전에 자원을 조정하면서 식량 안보가 개선됩니다.",
+      "signals": [
+        "위성 데이터가 지역 농장 센서와 결합된다",
+        "AI 모델이 작물 스트레스를 몇 주 더 빨리 예측한다",
+        "지역 식량 시스템이 기후 대응 대시보드를 구축한다"
+      ],
+      "implications": [
+        "예방 가능한 작물 실패가 줄어든다",
+        "관개와 파종 의사결정이 개선된다",
+        "식량 안보 계획이 더 조정된 방식으로 이루어진다"
+      ],
+      "image": {
+        "alt": "작물 보호를 돕는 AI 기후 예측 대시보드",
+        "prompts": [
+          "Farmers viewing AI climate prediction dashboard beside a field, satellite overlays showing crop risk zones, realistic near future, 16:9",
+          "Control room for regional agriculture resilience with weather maps, crop forecasts, and food supply indicators, documentary style, 16:9",
+          "Drone and satellite data visualized over farmland during drought prevention planning, optimistic climate technology, 16:9",
+          "AI-assisted irrigation system activating before heat stress damages crops, clean agricultural future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment",
+      "order": 10,
+      "slug": "ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment",
+      "title": "해양 플라스틱 분해 효소 처리가 관리된 배치에 들어간다",
+      "shortTitle": "플라스틱 분해 효소",
+      "category": "Environment",
+      "description": "특수 효소 시스템이 바다, 강, 해안 지역에서 수거한 특정 플라스틱을 분해하기 위해 신중히 감시되는 방식으로 배치되기 시작합니다.",
+      "layerId": "technology",
+      "domains": [
+        "biotechnology",
+        "climate-technology",
+        "ocean-restoration"
+      ],
+      "maturity": "controlled-deployment",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "플라스틱 오염 정화는 더 확장 가능해지지만, 해양 생태계를 보호하기 위한 엄격한 통제는 계속 필요합니다.",
+      "signals": [
+        "효소 처리가 특정 플라스틱 종류에서 작동한다",
+        "정화 프로그램이 수거와 생물학적 처리를 결합한다",
+        "환경 기관이 격리와 모니터링을 요구한다"
+      ],
+      "implications": [
+        "플라스틱 폐기물 처리가 더 효과적이 된다",
+        "항만 인근에 새로운 바이오리액터 인프라가 생긴다",
+        "생태 안전성 시험의 중요성이 커진다"
+      ],
+      "image": {
+        "alt": "해안 가까이에 있는 관리형 해양 플라스틱 효소 처리 시설",
+        "prompts": [
+          "Coastal cleanup facility using controlled enzyme bioreactors to process collected ocean plastic, realistic environmental technology, 16:9",
+          "Scientists monitoring plastic-eating enzyme treatment in a sealed marine research station, clean documentary realism, 16:9",
+          "Autonomous boats collecting ocean plastic and delivering it to a safe enzyme processing platform, optimistic restoration future, 16:9",
+          "Close-up of transparent bioreactor breaking down plastic fragments under strict ecological monitoring, biotech documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-synthetic-meat-becomes-cheaper-than-livestock-meat",
+      "order": 11,
+      "slug": "synthetic-meat-becomes-cheaper-than-livestock-meat",
+      "title": "합성육이 축산 고기보다 저렴해진다",
+      "shortTitle": "저렴한 합성육",
+      "category": "Biology & Medicine",
+      "description": "배양육과 정밀 발효 고기가 많은 시장에서 가격 동등성에 도달한 뒤 기존 축산 고기보다 저렴해집니다.",
+      "layerId": "technology",
+      "domains": [
+        "food-systems",
+        "biotechnology",
+        "climate-technology"
+      ],
+      "maturity": "price-breakthrough",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "식량 생산은 토지, 물, 질병, 배출 부담을 줄이면서 소비자에게 익숙한 단백질 선택지를 제공합니다.",
+      "signals": [
+        "바이오리액터 규모 확대가 단위 경제성을 개선한다",
+        "소매 체인이 저가 합성육 제품을 출시한다",
+        "맛과 식감이 개선되면서 소비자 수용성이 높아진다"
+      ],
+      "implications": [
+        "축산 공급망에 대한 압력이 줄어든다",
+        "새로운 식품 제조 허브가 생긴다",
+        "기존 육류 경제에 큰 변화가 일어난다"
+      ],
+      "image": {
+        "alt": "합성육 생산 시설과 소매 제품",
+        "prompts": [
+          "Clean synthetic meat production facility with large bioreactors and food engineers, realistic near future, 16:9",
+          "Affordable synthetic meat products displayed in a modern supermarket, customers comparing prices, optimistic food future, 16:9",
+          "Chef preparing cultivated meat in a bright restaurant kitchen, appetizing realistic documentary style, 16:9",
+          "Precision fermentation facility producing sustainable proteins at industrial scale, clean biotechnology atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-large-scale-brain-computer-interface-for-disabled-patients",
+      "order": 12,
+      "slug": "first-large-scale-brain-computer-interface-for-disabled-patients",
+      "title": "장애 환자를 위한 첫 대규모 뇌-컴퓨터 인터페이스",
+      "shortTitle": "의료용 뇌 인터페이스",
+      "category": "Biology & Medicine",
+      "description": "뇌-컴퓨터 인터페이스가 소규모 시험을 넘어 더 많은 장애 환자에게 의사소통, 이동, 기기 제어를 위한 수단으로 제공됩니다.",
+      "layerId": "technology",
+      "domains": [
+        "neurotechnology",
+        "healthcare",
+        "human-computer-interface"
+      ],
+      "maturity": "clinical-scale",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "중증 마비, 언어 상실, 신경 손상이 있는 사람들이 독립성과 참여를 위한 새로운 통로를 얻습니다.",
+      "signals": [
+        "이식형 및 비침습형 인터페이스의 신뢰성이 향상된다",
+        "병원이 전문 신경기술 프로그램을 구축한다",
+        "보조 로봇이 신경 제어 시스템과 통합된다"
+      ],
+      "implications": [
+        "장애 환자의 독립성이 확대된다",
+        "신경 데이터 개인정보에 대한 새로운 기준이 생긴다",
+        "보조 신경기술이 빠르게 성장한다"
+      ],
+      "image": {
+        "alt": "뇌-컴퓨터 인터페이스로 보조 기술을 제어하는 장애 환자",
+        "prompts": [
+          "Disabled patient using a brain-computer interface to control a computer cursor, supportive clinical team nearby, respectful documentary realism, 16:9",
+          "Neurotechnology rehabilitation room with patient controlling robotic arm through neural interface, warm hopeful atmosphere, 16:9",
+          "Close-up of non-invasive brain interface headset connected to assistive communication display, clean medical future, 16:9",
+          "Hospital neurotechnology center helping patients regain digital communication through BCI systems, optimistic clinical scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-legal-assistants-reduce-access-to-justice-inequality",
+      "order": 13,
+      "slug": "ai-legal-assistants-reduce-access-to-justice-inequality",
+      "title": "AI 법률 보조가 사법 접근성 격차를 줄인다",
+      "shortTitle": "AI 법률 접근성",
+      "category": "AI & Computing",
+      "description": "AI 법률 도구는 사람들이 권리를 이해하고, 문서를 준비하고, 분쟁 절차를 탐색하며, 기본 법률 안내에 훨씬 낮은 비용으로 접근하도록 돕습니다.",
+      "layerId": "society",
+      "domains": [
+        "artificial-intelligence",
+        "law",
+        "public-services"
+      ],
+      "maturity": "public-adoption",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "법률 시스템은 일반 시민, 소상공인, 이주민, 임차인, 충분히 지원받지 못한 공동체에 더 접근 가능해집니다.",
+      "signals": [
+        "법원이 승인된 AI 안내 인터페이스를 제공한다",
+        "법률 구조 단체가 AI로 지원 규모를 확대한다",
+        "규제가 법률 정보와 법률 대리를 구분한다"
+      ],
+      "implications": [
+        "일상적 법률 도움의 비용이 낮아진다",
+        "문서 작성이 더 빨라진다",
+        "정확성, 감독, 공정성 통제의 필요성이 커진다"
+      ],
+      "image": {
+        "alt": "시민이 법률 안내에 접근하도록 돕는 AI 법률 보조",
+        "prompts": [
+          "Citizen using an AI legal assistant kiosk in a public service center, clear interface, helpful atmosphere, realistic near future, 16:9",
+          "Community legal-aid office with AI document preparation screens and human advisors, optimistic civic technology, 16:9",
+          "Court self-help center where people use AI guidance tools to understand forms and rights, documentary realism, 16:9",
+          "Small business owner reviewing contract risks with an AI legal assistant dashboard, clean professional setting, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-decentralized-disaster-response-robot-fleets-become-operational",
+      "order": 14,
+      "slug": "decentralized-disaster-response-robot-fleets-become-operational",
+      "title": "분산형 재난 대응 로봇 군단이 운영된다",
+      "shortTitle": "재난 로봇 군단",
+      "category": "Robotics",
+      "description": "지상, 공중, 해상 로봇 군집이 재난 이후 수색, 구조, 지도 작성, 물자 배송, 위험 점검을 지원합니다.",
+      "layerId": "civilization",
+      "domains": [
+        "robotics",
+        "disaster-response",
+        "public-safety"
+      ],
+      "maturity": "operational-network",
+      "timeframe": {
+        "startYear": 2031,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "재난 대응은 더 빠르고 안전해지며, 불안정하거나 위험한 환경에 사람을 보내는 의존도가 줄어듭니다.",
+      "signals": [
+        "비상 기관이 자율 로봇 군단을 사전 배치한다",
+        "인프라가 실패해도 메시 네트워크가 로봇 연결을 유지한다",
+        "구조대가 진입하기 전에 로봇이 피해 지역을 지도화한다"
+      ],
+      "implications": [
+        "생존자 탐지가 더 빨라진다",
+        "초기 대응자의 위험이 줄어든다",
+        "자율 시스템을 위한 새로운 공공 안전 프로토콜이 만들어진다"
+      ],
+      "image": {
+        "alt": "자연재해에 대응하는 자율 로봇 군단",
+        "prompts": [
+          "Disaster-response robot fleet searching a flooded city street with drones overhead and rescue teams coordinating nearby, realistic documentary, 16:9",
+          "Ground robots mapping a collapsed building before human rescuers enter, emergency lights, hopeful atmosphere, 16:9",
+          "Decentralized drone swarm delivering medical supplies after an earthquake, damaged urban landscape, clean cinematic realism, 16:9",
+          "Emergency command vehicle coordinating aerial, ground, and marine robots through a resilient mesh network, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-real-time-universal-language-translation-becomes-seamless",
+      "order": 15,
+      "slug": "real-time-universal-language-translation-becomes-seamless",
+      "title": "실시간 범용 언어 번역이 매끄러워진다",
+      "shortTitle": "매끄러운 번역",
+      "category": "AI & Computing",
+      "description": "웨어러블, 휴대전화, 안경, 회의 시스템이 음성, 텍스트, 어조, 맥락을 아우르는 자연스러운 실시간 번역을 제공합니다.",
+      "layerId": "society",
+      "domains": [
+        "artificial-intelligence",
+        "communication",
+        "culture"
+      ],
+      "maturity": "mainstream",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2036
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "여행, 교육, 상거래, 외교, 엔터테인먼트, 원격 협업에서 언어 장벽이 낮아집니다.",
+      "signals": [
+        "번역 모델이 어조와 의도를 보존한다",
+        "AR 안경이 실시간 자막을 표시한다",
+        "비즈니스 도구에서 다국어 회의가 일상화된다"
+      ],
+      "implications": [
+        "글로벌 협업이 더 포용적으로 변한다",
+        "국경 간 상거래가 빨라진다",
+        "문화적 뉘앙스와 언어 보존에 대한 관심이 높아진다"
+      ],
+      "image": {
+        "alt": "매끄러운 실시간 AI 번역을 통해 서로 다른 언어로 대화하는 사람들",
+        "prompts": [
+          "International group conversing naturally through real-time translation glasses, subtitles softly displayed in augmented reality, realistic near future, 16:9",
+          "Business meeting with participants speaking multiple languages while AI translation appears on transparent screens, clean global collaboration, 16:9",
+          "Traveler using seamless language translation earbuds in a busy market, warm human-centered documentary style, 16:9",
+          "Classroom with students from many countries learning together through real-time universal translation, optimistic education future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-real-time-universal-language-translation-becomes-seamless.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-discovery-of-a-next-generation-co2-absorbing-material",
+      "order": 16,
+      "slug": "discovery-of-a-next-generation-co2-absorbing-material",
+      "title": "차세대 CO2 흡수 소재가 발견된다",
+      "shortTitle": "CO2 흡수 소재",
+      "category": "Materials & Manufacturing",
+      "description": "연구자들은 이전 시스템보다 훨씬 높은 효율, 낮은 에너지 비용, 또는 긴 내구성으로 이산화탄소를 포집하는 소재를 발견합니다.",
+      "layerId": "technology",
+      "domains": [
+        "materials-science",
+        "climate-technology",
+        "carbon-removal"
+      ],
+      "maturity": "breakthrough-discovery",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "탄소 제거는 산업, 건물, 공기 포집 시설, 기후 복원 전략에서 더 실용적인 선택지가 됩니다.",
+      "signals": [
+        "새로운 다공성 소재가 높은 CO2 선택성을 보인다",
+        "포집 시스템이 더 적은 열과 에너지로 작동한다",
+        "파일럿 플랜트가 소재의 장기 안정성을 검증한다"
+      ],
+      "implications": [
+        "직접 공기 포집 비용이 낮아진다",
+        "탄소 제거형 건물 시스템이 등장한다",
+        "기후 복원 산업이 확대된다"
+      ],
+      "image": {
+        "alt": "연구 시설에서 이산화탄소를 흡수하는 차세대 소재",
+        "prompts": [
+          "Advanced materials science lab showing next-generation CO2 absorbing material inside transparent testing chamber, clean futuristic realism, 16:9",
+          "Direct air capture facility using new carbon absorbing panels, mountains and blue sky in background, optimistic climate technology, 16:9",
+          "Close-up of porous carbon capture material visualized at macro scale, scientists reviewing performance data, 16:9",
+          "Urban building facade coated with CO2 absorbing material, subtle clean-tech design, bright sustainable city future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-ai-robots-begin-building-homes-for-free",
+      "order": 17,
+      "slug": "autonomous-ai-robots-begin-building-homes-for-free",
+      "title": "자율 AI 로봇이 무료 주택 건설을 시작한다",
+      "shortTitle": "로봇 건설 무료 주택",
+      "category": "Robotics",
+      "description": "자율 건설 로봇, 공공 자금, 초저비용 소재가 결합되면서 일부 지역은 거의 무노동 비용으로 기본 주택을 지을 수 있게 됩니다.",
+      "layerId": "civilization",
+      "domains": [
+        "robotics",
+        "housing",
+        "construction"
+      ],
+      "maturity": "public-pilot",
+      "timeframe": {
+        "startYear": 2035,
+        "endYear": 2045
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "자동화와 강력한 공공정책을 결합한 지역에서 주택은 희소 상품에서 필수 인프라로 이동하기 시작합니다.",
+      "signals": [
+        "로봇 건설 시스템이 노동 요구량을 줄인다",
+        "3D 프린팅 및 모듈형 주택이 안전 기준을 충족한다",
+        "정부가 자동화된 부담 가능한 주택 프로그램을 시험한다"
+      ],
+      "implications": [
+        "기본 주택 비용이 낮아진다",
+        "재난 복구 건설이 빨라진다",
+        "토지, 소유권, 자격을 둘러싼 큰 정책 논쟁이 발생한다"
+      ],
+      "image": {
+        "alt": "부담 가능한 주택을 짓는 자율 AI 건설 로봇",
+        "prompts": [
+          "Autonomous AI construction robots building a small affordable home in a clean community site, hopeful documentary realism, 16:9",
+          "Robotic 3D printing system constructing disaster-relief housing with human supervisors nearby, near future, 16:9",
+          "New neighborhood of robot-built homes with families moving in, warm optimistic civilization scene, 16:9",
+          "Construction robots assembling modular wall panels under public housing program banners, realistic and grounded, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-universal-cancer-blood-test",
+      "order": 18,
+      "slug": "universal-cancer-blood-test",
+      "title": "범용 암 혈액 검사",
+      "shortTitle": "범용 암 혈액 검사",
+      "category": "Biology & Medicine",
+      "description": "일상 혈액 검사가 종양이 진행되거나 증상이 나타나기 전에 분자 신호를 감지해 여러 암 종류를 조기에 선별합니다.",
+      "layerId": "technology",
+      "domains": [
+        "healthcare",
+        "biotechnology",
+        "diagnostics"
+      ],
+      "maturity": "routine-screening",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "검진이 더 빨라지고 간단해지며 질병이 퍼지기 전에 치료가 시작되면서 암 생존율이 개선됩니다.",
+      "signals": [
+        "다중 암 조기 발견 검사의 민감도와 특이도가 향상된다",
+        "공공 보건 시스템이 인구 수준의 검진 지침을 채택한다",
+        "AI가 복잡한 혈액 바이오마커 해석을 지원한다"
+      ],
+      "implications": [
+        "많은 암에서 치료 시작이 앞당겨진다",
+        "발견이 어려운 암의 사망률이 낮아진다",
+        "위양성과 후속 진료 역량에 대한 새로운 과제가 생긴다"
+      ],
+      "image": {
+        "alt": "첨단 진단 연구실에서 처리되는 범용 암 혈액 검사",
+        "prompts": [
+          "Advanced diagnostics lab processing universal cancer blood tests, robotic sample handling, calm medical breakthrough atmosphere, 16:9",
+          "Doctor explaining early cancer blood test results to a patient using a clear AI-assisted dashboard, respectful clinical realism, 16:9",
+          "Close-up of blood sample vial moving through automated multi-cancer screening machine, clean biotech future, 16:9",
+          "Public health screening center offering routine cancer blood tests, diverse community, optimistic healthcare future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-universal-cancer-blood-test.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-universal-cancer-blood-test.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-cancer-blood-test.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-universal-cancer-blood-test.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-cancer-blood-test.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-self-healing-megacity-materials",
+      "order": 19,
+      "slug": "self-healing-megacity-materials",
+      "title": "자가 치유 메가시티 소재",
+      "shortTitle": "자가 치유 소재",
+      "category": "Materials & Manufacturing",
+      "description": "도로, 교량, 건물 외피, 배관, 구조 부품이 균열, 부식, 표면 손상을 자동으로 복구하는 소재를 사용하기 시작합니다.",
+      "layerId": "technology",
+      "domains": [
+        "materials-science",
+        "smart-cities",
+        "infrastructure"
+      ],
+      "maturity": "infrastructure-adoption",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "도시는 더 내구성 있고 유지보수가 적게 드는 시스템이 되어 수리 비용, 서비스 중단, 인프라 실패 위험을 줄입니다.",
+      "signals": [
+        "자가 치유 콘크리트와 코팅이 장기 내구성 시험을 통과한다",
+        "인프라 소유자가 생애주기 비용 절감을 우선시한다",
+        "스마트 센서가 정밀한 복구 반응을 작동시킨다"
+      ],
+      "implications": [
+        "공공 인프라 수명이 길어진다",
+        "유지보수로 인한 중단 시간이 줄어든다",
+        "스마트 소재 인증에 대한 새로운 기준이 생긴다"
+      ],
+      "image": {
+        "alt": "메가시티 인프라의 균열을 복구하는 자가 치유 소재",
+        "prompts": [
+          "Megacity bridge surface visibly self-healing small cracks under embedded sensor monitoring, realistic clean future, 16:9",
+          "Close-up of self-healing concrete repairing microcracks in a smart city sidewalk, documentary macro detail, 16:9",
+          "Engineers inspecting building facade made of self-healing materials, futuristic skyline, optimistic infrastructure scene, 16:9",
+          "Underground smart pipe network using self-repairing coatings and maintenance drones, clean technical visualization, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-self-healing-megacity-materials.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-self-healing-megacity-materials.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-self-healing-megacity-materials.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-self-healing-megacity-materials.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-self-healing-megacity-materials.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-lunar-robotics-program",
+      "order": 20,
+      "slug": "lunar-robotics-program",
+      "title": "달 로보틱스 프로그램",
+      "shortTitle": "달 로보틱스",
+      "category": "Robotics",
+      "description": "로봇 시스템이 지형 지도화, 인프라 건설, 자원 채굴, 초기 거주지 지원을 통해 달에서 지속적인 인간 활동을 준비하기 시작합니다.",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "robotics",
+        "infrastructure"
+      ],
+      "maturity": "early-lunar-infrastructure",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2045
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "문명은 건설, 물류, 자원 시스템을 지구 밖으로 확장하며 영구적인 달 존재의 기반을 마련합니다.",
+      "signals": [
+        "자율 달 로버가 착륙 구역을 준비한다",
+        "로봇이 달 표토 기반 건설을 시험한다",
+        "우주기관과 민간 기업이 달 물류를 조정한다"
+      ],
+      "implications": [
+        "인간 달 임무의 위험이 낮아진다",
+        "초기 지구 밖 건설 능력이 생긴다",
+        "이후 달 마을과 우주 산업의 기반이 된다"
+      ],
+      "image": {
+        "alt": "달에서 인프라를 건설하는 자율 달 로봇",
+        "prompts": [
+          "Autonomous lunar robots building a landing pad on the Moon with Earth visible in the sky, realistic space documentary, 16:9",
+          "Lunar rover fleet mapping terrain and placing infrastructure beacons near a future habitat site, cinematic realism, 16:9",
+          "Robotic construction system using lunar regolith to print protective walls around a small habitat, 16:9",
+          "Moon base preparation site with solar arrays, cargo landers, and autonomous robots working under harsh sunlight, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-lunar-robotics-program.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-lunar-robotics-program.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-lunar-robotics-program.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-lunar-robotics-program.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-lunar-robotics-program.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-personal-tutors-become-available-for-every-child",
+      "order": 21,
+      "slug": "ai-personal-tutors-become-available-for-every-child",
+      "title": "모든 아이에게 AI 개인 튜터가 제공된다",
+      "shortTitle": "AI 개인 튜터",
+      "category": "AI & Computing",
+      "description": "모든 아이에게 AI 개인 튜터가 제공되는 것은 AI가 실험적 소프트웨어에서 건강, 교육, 법, 과학, 일, 창작, 커뮤니케이션의 일상 인프라로 이동하고 있음을 보여줍니다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "모든 아이에게 AI 개인 튜터가 제공되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "AI 시스템이 중요한 업무 흐름에서 신뢰를 얻기 시작한다",
+        "인간의 역할이 직접 실행에서 감독과 검증으로 이동한다",
+        "자동화가 디지털 업무에서 물리적 인프라로 확장된다"
+      ],
+      "implications": [
+        "전문가 수준 서비스에 대한 접근성이 확대된다",
+        "과학적·운영적 의사결정이 빨라진다",
+        "거버넌스와 안전 기준의 중요성이 커진다"
+      ],
+      "image": {
+        "alt": "모든 아이에게 AI 개인 튜터가 제공된다",
+        "prompts": [
+          "aI personal tutors become available for every child, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI personal tutors become available for every child, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI personal tutors become available for every child, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI personal tutors become available for every child, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-personal-tutors-become-available-for-every-child.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-personal-tutors-become-available-for-every-child.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-software-agents-automate-most-office-workflows",
+      "order": 22,
+      "slug": "ai-software-agents-automate-most-office-workflows",
+      "title": "AI 소프트웨어 에이전트가 대부분의 사무 흐름을 자동화한다",
+      "shortTitle": "AI 소프트웨어 에이전트",
+      "category": "AI & Computing",
+      "description": "AI 소프트웨어 에이전트가 대부분의 사무 흐름을 자동화하는 것은 AI가 실험적 소프트웨어에서 건강, 교육, 법, 과학, 일, 창작, 커뮤니케이션의 일상 인프라로 이동하고 있음을 보여줍니다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI 소프트웨어 에이전트가 대부분의 사무 흐름을 자동화하는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "AI 시스템이 중요한 업무 흐름에서 신뢰를 얻기 시작한다",
+        "인간의 역할이 직접 실행에서 감독과 검증으로 이동한다",
+        "자동화가 디지털 업무에서 물리적 인프라로 확장된다"
+      ],
+      "implications": [
+        "전문가 수준 서비스에 대한 접근성이 확대된다",
+        "과학적·운영적 의사결정이 빨라진다",
+        "거버넌스와 안전 기준의 중요성이 커진다"
+      ],
+      "image": {
+        "alt": "AI 소프트웨어 에이전트가 대부분의 사무 흐름을 자동화한다",
+        "prompts": [
+          "aI software agents automate most office workflows, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI software agents automate most office workflows, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI software agents automate most office workflows, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI software agents automate most office workflows, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-software-agents-automate-most-office-workflows.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-software-agents-automate-most-office-workflows.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-scientific-assistants-accelerate-material-discovery",
+      "order": 23,
+      "slug": "ai-scientific-assistants-accelerate-material-discovery",
+      "title": "AI 과학 보조가 소재 발견을 가속한다",
+      "shortTitle": "AI 과학 보조",
+      "category": "AI & Computing",
+      "description": "AI 과학 보조가 소재 발견을 가속하는 것은 AI가 실험적 소프트웨어에서 건강, 교육, 법, 과학, 일, 창작, 커뮤니케이션의 일상 인프라로 이동하고 있음을 보여줍니다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI 과학 보조가 소재 발견을 가속하는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "AI 시스템이 중요한 업무 흐름에서 신뢰를 얻기 시작한다",
+        "인간의 역할이 직접 실행에서 감독과 검증으로 이동한다",
+        "자동화가 디지털 업무에서 물리적 인프라로 확장된다"
+      ],
+      "implications": [
+        "전문가 수준 서비스에 대한 접근성이 확대된다",
+        "과학적·운영적 의사결정이 빨라진다",
+        "거버넌스와 안전 기준의 중요성이 커진다"
+      ],
+      "image": {
+        "alt": "AI 과학 보조가 소재 발견을 가속한다",
+        "prompts": [
+          "aI scientific assistants accelerate material discovery, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI scientific assistants accelerate material discovery, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI scientific assistants accelerate material discovery, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI scientific assistants accelerate material discovery, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-generated-films-and-games-become-mainstream",
+      "order": 24,
+      "slug": "ai-generated-films-and-games-become-mainstream",
+      "title": "AI 생성 영화와 게임이 주류가 된다",
+      "shortTitle": "AI 생성 영화와 게임",
+      "category": "AI & Computing",
+      "description": "AI 생성 영화와 게임이 주류가 되는 것은 AI가 실험적 소프트웨어에서 건강, 교육, 법, 과학, 일, 창작, 커뮤니케이션의 일상 인프라로 이동하고 있음을 보여줍니다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI 생성 영화와 게임이 주류가 되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "AI 시스템이 중요한 업무 흐름에서 신뢰를 얻기 시작한다",
+        "인간의 역할이 직접 실행에서 감독과 검증으로 이동한다",
+        "자동화가 디지털 업무에서 물리적 인프라로 확장된다"
+      ],
+      "implications": [
+        "전문가 수준 서비스에 대한 접근성이 확대된다",
+        "과학적·운영적 의사결정이 빨라진다",
+        "거버넌스와 안전 기준의 중요성이 커진다"
+      ],
+      "image": {
+        "alt": "AI 생성 영화와 게임이 주류가 된다",
+        "prompts": [
+          "aI-generated films and games become mainstream, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-generated films and games become mainstream, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-generated films and games become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-generated films and games become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-generated-films-and-games-become-mainstream.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-films-and-games-become-mainstream.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-companions-become-socially-accepted",
+      "order": 25,
+      "slug": "ai-companions-become-socially-accepted",
+      "title": "AI 동반자가 사회적으로 받아들여진다",
+      "shortTitle": "AI 동반자",
+      "category": "AI & Computing",
+      "description": "AI 동반자가 사회적으로 받아들여지는 것은 AI가 실험적 소프트웨어에서 건강, 교육, 법, 과학, 일, 창작, 커뮤니케이션의 일상 인프라로 이동하고 있음을 보여줍니다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI 동반자가 사회적으로 받아들여지는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "AI 시스템이 중요한 업무 흐름에서 신뢰를 얻기 시작한다",
+        "인간의 역할이 직접 실행에서 감독과 검증으로 이동한다",
+        "자동화가 디지털 업무에서 물리적 인프라로 확장된다"
+      ],
+      "implications": [
+        "전문가 수준 서비스에 대한 접근성이 확대된다",
+        "과학적·운영적 의사결정이 빨라진다",
+        "거버넌스와 안전 기준의 중요성이 커진다"
+      ],
+      "image": {
+        "alt": "AI 동반자가 사회적으로 받아들여진다",
+        "prompts": [
+          "aI companions become socially accepted, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI companions become socially accepted, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI companions become socially accepted, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI companions become socially accepted, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-companions-become-socially-accepted.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-companions-become-socially-accepted.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-agricultural-robots-replace-most-repetitive-farm-labor",
+      "order": 26,
+      "slug": "agricultural-robots-replace-most-repetitive-farm-labor",
+      "title": "농업 로봇이 대부분의 반복 농장 노동을 대체한다",
+      "shortTitle": "농업 로봇",
+      "category": "Robotics",
+      "description": "농업 로봇이 대부분의 반복 농장 노동을 대체하는 것은 로봇이 제한적 자동화에서 서비스, 물류, 건설, 농업, 노인 돌봄, 재난 대응, 생태 복원으로 확장되고 있음을 보여줍니다.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "농업 로봇이 대부분의 반복 농장 노동을 대체하는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "로봇이 공공 및 산업 환경에서 안정적으로 작동한다",
+        "자율 로봇 군집이 도시나 지구 밖 시설을 가로질러 협력한다",
+        "기계 노동이 위험하고 반복적인 작업을 대체하기 시작한다"
+      ],
+      "implications": [
+        "물리적 서비스가 더 저렴하고 이용하기 쉬워진다",
+        "사람이 위험 작업에 노출되는 시간이 줄어든다",
+        "인프라 확장이 전통적 노동력보다 빨라질 수 있다"
+      ],
+      "image": {
+        "alt": "농업 로봇이 대부분의 반복 농장 노동을 대체한다",
+        "prompts": [
+          "agricultural robots replace most repetitive farm labor, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing agricultural robots replace most repetitive farm labor, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of agricultural robots replace most repetitive farm labor, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating agricultural robots replace most repetitive farm labor, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-home-cleaning-robots-become-fully-autonomous",
+      "order": 27,
+      "slug": "home-cleaning-robots-become-fully-autonomous",
+      "title": "가정 청소 로봇이 완전 자율화된다",
+      "shortTitle": "자율 가정 청소 로봇",
+      "category": "Robotics",
+      "description": "가정 청소 로봇이 완전 자율화되는 것은 로봇이 제한적 자동화에서 서비스, 물류, 건설, 농업, 노인 돌봄, 재난 대응, 생태 복원으로 확장되고 있음을 보여줍니다.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "가정 청소 로봇이 완전 자율화되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "로봇이 공공 및 산업 환경에서 안정적으로 작동한다",
+        "자율 로봇 군집이 도시나 지구 밖 시설을 가로질러 협력한다",
+        "기계 노동이 위험하고 반복적인 작업을 대체하기 시작한다"
+      ],
+      "implications": [
+        "물리적 서비스가 더 저렴하고 이용하기 쉬워진다",
+        "사람이 위험 작업에 노출되는 시간이 줄어든다",
+        "인프라 확장이 전통적 노동력보다 빨라질 수 있다"
+      ],
+      "image": {
+        "alt": "가정 청소 로봇이 완전 자율화된다",
+        "prompts": [
+          "home cleaning robots become fully autonomous, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing home cleaning robots become fully autonomous, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of home cleaning robots become fully autonomous, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating home cleaning robots become fully autonomous, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-home-cleaning-robots-become-fully-autonomous.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-home-cleaning-robots-become-fully-autonomous.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-warehouse-robots-achieve-lights-out-operations",
+      "order": 28,
+      "slug": "warehouse-robots-achieve-lights-out-operations",
+      "title": "창고 로봇이 무인 운영을 달성한다",
+      "shortTitle": "무인 창고 로봇",
+      "category": "Robotics",
+      "description": "창고 로봇이 무인 운영을 달성하는 것은 로봇이 제한적 자동화에서 서비스, 물류, 건설, 농업, 노인 돌봄, 재난 대응, 생태 복원으로 확장되고 있음을 보여줍니다.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "창고 로봇이 무인 운영을 달성하는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "로봇이 공공 및 산업 환경에서 안정적으로 작동한다",
+        "자율 로봇 군집이 도시나 지구 밖 시설을 가로질러 협력한다",
+        "기계 노동이 위험하고 반복적인 작업을 대체하기 시작한다"
+      ],
+      "implications": [
+        "물리적 서비스가 더 저렴하고 이용하기 쉬워진다",
+        "사람이 위험 작업에 노출되는 시간이 줄어든다",
+        "인프라 확장이 전통적 노동력보다 빨라질 수 있다"
+      ],
+      "image": {
+        "alt": "창고 로봇이 무인 운영을 달성한다",
+        "prompts": [
+          "warehouse robots achieve lights-out operations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing warehouse robots achieve lights-out operations, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of warehouse robots achieve lights-out operations, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating warehouse robots achieve lights-out operations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-warehouse-robots-achieve-lights-out-operations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-warehouse-robots-achieve-lights-out-operations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-robotic-eldercare-assistants-become-common",
+      "order": 29,
+      "slug": "robotic-eldercare-assistants-become-common",
+      "title": "로봇 노인 돌봄 보조가 보편화된다",
+      "shortTitle": "로봇 노인 돌봄 보조",
+      "category": "Robotics",
+      "description": "로봇 노인 돌봄 보조가 보편화되는 것은 로봇이 제한적 자동화에서 서비스, 물류, 건설, 농업, 노인 돌봄, 재난 대응, 생태 복원으로 확장되고 있음을 보여줍니다.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "로봇 노인 돌봄 보조가 보편화되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "로봇이 공공 및 산업 환경에서 안정적으로 작동한다",
+        "자율 로봇 군집이 도시나 지구 밖 시설을 가로질러 협력한다",
+        "기계 노동이 위험하고 반복적인 작업을 대체하기 시작한다"
+      ],
+      "implications": [
+        "물리적 서비스가 더 저렴하고 이용하기 쉬워진다",
+        "사람이 위험 작업에 노출되는 시간이 줄어든다",
+        "인프라 확장이 전통적 노동력보다 빨라질 수 있다"
+      ],
+      "image": {
+        "alt": "로봇 노인 돌봄 보조가 보편화된다",
+        "prompts": [
+          "robotic eldercare assistants become common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic eldercare assistants become common, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic eldercare assistants become common, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic eldercare assistants become common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-robotic-eldercare-assistants-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-robotic-eldercare-assistants-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-underwater-robots-restore-coral-reefs",
+      "order": 30,
+      "slug": "autonomous-underwater-robots-restore-coral-reefs",
+      "title": "자율 수중 로봇이 산호초를 복원한다",
+      "shortTitle": "자율 수중 로봇",
+      "category": "Robotics",
+      "description": "자율 수중 로봇이 산호초를 복원하는 것은 로봇이 제한적 자동화에서 서비스, 물류, 건설, 농업, 노인 돌봄, 재난 대응, 생태 복원으로 확장되고 있음을 보여줍니다.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "자율 수중 로봇이 산호초를 복원하는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "로봇이 공공 및 산업 환경에서 안정적으로 작동한다",
+        "자율 로봇 군집이 도시나 지구 밖 시설을 가로질러 협력한다",
+        "기계 노동이 위험하고 반복적인 작업을 대체하기 시작한다"
+      ],
+      "implications": [
+        "물리적 서비스가 더 저렴하고 이용하기 쉬워진다",
+        "사람이 위험 작업에 노출되는 시간이 줄어든다",
+        "인프라 확장이 전통적 노동력보다 빨라질 수 있다"
+      ],
+      "image": {
+        "alt": "자율 수중 로봇이 산호초를 복원한다",
+        "prompts": [
+          "autonomous underwater robots restore coral reefs, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous underwater robots restore coral reefs, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous underwater robots restore coral reefs, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous underwater robots restore coral reefs, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-open-air-fusion-ignition-is-demonstrated",
+      "order": 31,
+      "slug": "open-air-fusion-ignition-is-demonstrated",
+      "title": "개방형 환경에서 핵융합 점화가 실증된다",
+      "shortTitle": "개방형 핵융합 점화",
+      "category": "Energy",
+      "description": "개방형 환경에서 핵융합 점화가 실증되는 것은 문명을 대규모 전기화와 미래 풍요로 준비시키는 더 깨끗하고 밀도 높으며 지능적인 에너지 시스템의 첫 물결을 의미합니다.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "개방형 환경에서 핵융합 점화가 실증되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "프로토타입 에너지 시스템이 지속적인 실증 단계에 도달한다",
+        "스마트 그리드가 낭비를 줄이고 신뢰성을 높인다",
+        "에너지 인프라가 도로, 건물, 우주 자산과 통합되기 시작한다"
+      ],
+      "implications": [
+        "청정에너지 확장이 더 쉬워진다",
+        "교통과 건설의 탄소 집약도가 낮아진다",
+        "미래 우주 인프라의 경제적 실현 가능성이 높아진다"
+      ],
+      "image": {
+        "alt": "개방형 환경에서 핵융합 점화가 실증된다",
+        "prompts": [
+          "open-air fusion ignition is demonstrated, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing open-air fusion ignition is demonstrated, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of open-air fusion ignition is demonstrated, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating open-air fusion ignition is demonstrated, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-open-air-fusion-ignition-is-demonstrated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-open-air-fusion-ignition-is-demonstrated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ambient-temperature-superconductor-prototype-is-verified",
+      "order": 32,
+      "slug": "ambient-temperature-superconductor-prototype-is-verified",
+      "title": "상온 초전도체 프로토타입이 검증된다",
+      "shortTitle": "상온 초전도체 프로토타입",
+      "category": "Energy",
+      "description": "상온 초전도체 프로토타입이 검증되는 것은 초기 프런티어 물리가 에너지, 컴퓨팅, 센싱, 인프라를 재편할 수 있는 실용 실증으로 전환됨을 보여줍니다.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "상온 초전도체 프로토타입이 검증되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "실험 물리가 반복 가능한 공학적 프로토타입에 도달한다",
+        "양자 및 장 기반 시스템이 실험실 밖으로 이동한다",
+        "정밀 측정이 항법과 과학 연구를 개선한다"
+      ],
+      "implications": [
+        "새로운 인프라 역량이 가능해진다",
+        "우주 정착이 더 안전해진다",
+        "미래 혁신을 위한 공학적 경로가 더 분명해진다"
+      ],
+      "image": {
+        "alt": "상온 초전도체 프로토타입이 검증된다",
+        "prompts": [
+          "ambient-temperature superconductor prototype is verified, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ambient-temperature superconductor prototype is verified, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ambient-temperature superconductor prototype is verified, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ambient-temperature superconductor prototype is verified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-solid-state-batteries-surpass-lithium-ion-technology",
+      "order": 33,
+      "slug": "solid-state-batteries-surpass-lithium-ion-technology",
+      "title": "전고체 배터리가 리튬이온 기술을 넘어선다",
+      "shortTitle": "전고체 배터리",
+      "category": "Energy",
+      "description": "전고체 배터리가 리튬이온 기술을 넘어서는 것은 문명을 대규모 전기화와 미래 풍요로 준비시키는 더 깨끗하고 밀도 높으며 지능적인 에너지 시스템의 첫 물결을 의미합니다.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "전고체 배터리가 리튬이온 기술을 넘어서는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "프로토타입 에너지 시스템이 지속적인 실증 단계에 도달한다",
+        "스마트 그리드가 낭비를 줄이고 신뢰성을 높인다",
+        "에너지 인프라가 도로, 건물, 우주 자산과 통합되기 시작한다"
+      ],
+      "implications": [
+        "청정에너지 확장이 더 쉬워진다",
+        "교통과 건설의 탄소 집약도가 낮아진다",
+        "미래 우주 인프라의 경제적 실현 가능성이 높아진다"
+      ],
+      "image": {
+        "alt": "전고체 배터리가 리튬이온 기술을 넘어선다",
+        "prompts": [
+          "solid-state batteries surpass lithium-ion technology, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing solid-state batteries surpass lithium-ion technology, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of solid-state batteries surpass lithium-ion technology, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating solid-state batteries surpass lithium-ion technology, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-managed-smart-grids-reduce-energy-waste",
+      "order": 34,
+      "slug": "ai-managed-smart-grids-reduce-energy-waste",
+      "title": "AI 관리 스마트 그리드가 에너지 낭비를 줄인다",
+      "shortTitle": "AI 스마트 그리드",
+      "category": "Energy",
+      "description": "AI 관리 스마트 그리드가 에너지 낭비를 줄이는 것은 문명을 대규모 전기화와 미래 풍요로 준비시키는 더 깨끗하고 밀도 높으며 지능적인 에너지 시스템의 첫 물결을 의미합니다.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "AI 관리 스마트 그리드가 에너지 낭비를 줄이는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "프로토타입 에너지 시스템이 지속적인 실증 단계에 도달한다",
+        "스마트 그리드가 낭비를 줄이고 신뢰성을 높인다",
+        "에너지 인프라가 도로, 건물, 우주 자산과 통합되기 시작한다"
+      ],
+      "implications": [
+        "청정에너지 확장이 더 쉬워진다",
+        "교통과 건설의 탄소 집약도가 낮아진다",
+        "미래 우주 인프라의 경제적 실현 가능성이 높아진다"
+      ],
+      "image": {
+        "alt": "AI 관리 스마트 그리드가 에너지 낭비를 줄인다",
+        "prompts": [
+          "aI-managed smart grids reduce energy waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-managed smart grids reduce energy waste, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-managed smart grids reduce energy waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-managed smart grids reduce energy waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-building-integrated-solar-materials-become-affordable",
+      "order": 35,
+      "slug": "building-integrated-solar-materials-become-affordable",
+      "title": "건물 통합형 태양광 소재가 저렴해진다",
+      "shortTitle": "건물 통합형 태양광 소재",
+      "category": "Energy",
+      "description": "건물 통합형 태양광 소재가 저렴해지는 것은 문명을 대규모 전기화와 미래 풍요로 준비시키는 더 깨끗하고 밀도 높으며 지능적인 에너지 시스템의 첫 물결을 의미합니다.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "건물 통합형 태양광 소재가 저렴해지는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "프로토타입 에너지 시스템이 지속적인 실증 단계에 도달한다",
+        "스마트 그리드가 낭비를 줄이고 신뢰성을 높인다",
+        "에너지 인프라가 도로, 건물, 우주 자산과 통합되기 시작한다"
+      ],
+      "implications": [
+        "청정에너지 확장이 더 쉬워진다",
+        "교통과 건설의 탄소 집약도가 낮아진다",
+        "미래 우주 인프라의 경제적 실현 가능성이 높아진다"
+      ],
+      "image": {
+        "alt": "건물 통합형 태양광 소재가 저렴해진다",
+        "prompts": [
+          "building-integrated solar materials become affordable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing building-integrated solar materials become affordable, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of building-integrated solar materials become affordable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating building-integrated solar materials become affordable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-building-integrated-solar-materials-become-affordable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-building-integrated-solar-materials-become-affordable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-organ-regeneration-patches-enter-clinical-use",
+      "order": 36,
+      "slug": "organ-regeneration-patches-enter-clinical-use",
+      "title": "장기 재생 패치가 임상 사용에 들어간다",
+      "shortTitle": "장기 재생 패치",
+      "category": "Biology & Medicine",
+      "description": "장기 재생 패치가 임상 사용에 들어가는 것은 초기 예측의학, 재생의학, 개인 맞춤 의료가 임상에 적용되어 예방, 회복, 생물학적 회복력을 확장함을 보여줍니다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "장기 재생 패치가 임상 사용에 들어가는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "질병 탐지가 더 빠르고 개인화된다",
+        "재생 및 유전자 기반 치료가 확산된다",
+        "폐쇄형 생물 시스템이 우주 거주를 지원한다"
+      ],
+      "implications": [
+        "의료 시스템이 더 예방 중심으로 전환된다",
+        "인체는 더 수리 가능한 시스템으로 이해된다",
+        "장기 우주 생활이 더 현실적인 선택지가 된다"
+      ],
+      "image": {
+        "alt": "장기 재생 패치가 임상 사용에 들어간다",
+        "prompts": [
+          "organ regeneration patches enter clinical use, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing organ regeneration patches enter clinical use, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of organ regeneration patches enter clinical use, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating organ regeneration patches enter clinical use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-organ-regeneration-patches-enter-clinical-use.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-organ-regeneration-patches-enter-clinical-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-digital-immune-systems-prevent-most-infectious-outbreaks",
+      "order": 37,
+      "slug": "digital-immune-systems-prevent-most-infectious-outbreaks",
+      "title": "디지털 면역 시스템이 대부분의 감염병 유행을 막는다",
+      "shortTitle": "디지털 면역 시스템",
+      "category": "Biology & Medicine",
+      "description": "디지털 면역 시스템이 대부분의 감염병 유행을 막는 것은 초기 예측의학, 재생의학, 개인 맞춤 의료가 임상에 적용되어 예방, 회복, 생물학적 회복력을 확장함을 보여줍니다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "디지털 면역 시스템이 대부분의 감염병 유행을 막는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "질병 탐지가 더 빠르고 개인화된다",
+        "재생 및 유전자 기반 치료가 확산된다",
+        "폐쇄형 생물 시스템이 우주 거주를 지원한다"
+      ],
+      "implications": [
+        "의료 시스템이 더 예방 중심으로 전환된다",
+        "인체는 더 수리 가능한 시스템으로 이해된다",
+        "장기 우주 생활이 더 현실적인 선택지가 된다"
+      ],
+      "image": {
+        "alt": "디지털 면역 시스템이 대부분의 감염병 유행을 막는다",
+        "prompts": [
+          "digital immune systems prevent most infectious outbreaks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing digital immune systems prevent most infectious outbreaks, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of digital immune systems prevent most infectious outbreaks, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating digital immune systems prevent most infectious outbreaks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-longevity-drugs-extend-healthy-lifespan-significantly",
+      "order": 38,
+      "slug": "longevity-drugs-extend-healthy-lifespan-significantly",
+      "title": "장수 약물이 건강 수명을 크게 늘린다",
+      "shortTitle": "장수 약물",
+      "category": "Biology & Medicine",
+      "description": "장수 약물이 건강 수명을 크게 늘리는 것은 초기 예측의학, 재생의학, 개인 맞춤 의료가 임상에 적용되어 예방, 회복, 생물학적 회복력을 확장함을 보여줍니다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "장수 약물이 건강 수명을 크게 늘리는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "질병 탐지가 더 빠르고 개인화된다",
+        "재생 및 유전자 기반 치료가 확산된다",
+        "폐쇄형 생물 시스템이 우주 거주를 지원한다"
+      ],
+      "implications": [
+        "의료 시스템이 더 예방 중심으로 전환된다",
+        "인체는 더 수리 가능한 시스템으로 이해된다",
+        "장기 우주 생활이 더 현실적인 선택지가 된다"
+      ],
+      "image": {
+        "alt": "장수 약물이 건강 수명을 크게 늘린다",
+        "prompts": [
+          "longevity drugs extend healthy lifespan significantly, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing longevity drugs extend healthy lifespan significantly, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of longevity drugs extend healthy lifespan significantly, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating longevity drugs extend healthy lifespan significantly, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-synthetic-blood-enters-emergency-medicine",
+      "order": 39,
+      "slug": "synthetic-blood-enters-emergency-medicine",
+      "title": "합성 혈액이 응급의학에 도입된다",
+      "shortTitle": "합성 혈액",
+      "category": "Biology & Medicine",
+      "description": "합성 혈액이 응급의학에 도입되는 것은 초기 예측의학, 재생의학, 개인 맞춤 의료가 임상에 적용되어 예방, 회복, 생물학적 회복력을 확장함을 보여줍니다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "합성 혈액이 응급의학에 도입되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "질병 탐지가 더 빠르고 개인화된다",
+        "재생 및 유전자 기반 치료가 확산된다",
+        "폐쇄형 생물 시스템이 우주 거주를 지원한다"
+      ],
+      "implications": [
+        "의료 시스템이 더 예방 중심으로 전환된다",
+        "인체는 더 수리 가능한 시스템으로 이해된다",
+        "장기 우주 생활이 더 현실적인 선택지가 된다"
+      ],
+      "image": {
+        "alt": "합성 혈액이 응급의학에 도입된다",
+        "prompts": [
+          "synthetic blood enters emergency medicine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic blood enters emergency medicine, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic blood enters emergency medicine, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic blood enters emergency medicine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-synthetic-blood-enters-emergency-medicine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-blood-enters-emergency-medicine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-gene-therapies-cure-several-inherited-diseases",
+      "order": 40,
+      "slug": "gene-therapies-cure-several-inherited-diseases",
+      "title": "유전자 치료가 여러 유전 질환을 치료한다",
+      "shortTitle": "유전자 치료",
+      "category": "Biology & Medicine",
+      "description": "유전자 치료가 여러 유전 질환을 치료하는 것은 초기 예측의학, 재생의학, 개인 맞춤 의료가 임상에 적용되어 예방, 회복, 생물학적 회복력을 확장함을 보여줍니다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "유전자 치료가 여러 유전 질환을 치료하는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "질병 탐지가 더 빠르고 개인화된다",
+        "재생 및 유전자 기반 치료가 확산된다",
+        "폐쇄형 생물 시스템이 우주 거주를 지원한다"
+      ],
+      "implications": [
+        "의료 시스템이 더 예방 중심으로 전환된다",
+        "인체는 더 수리 가능한 시스템으로 이해된다",
+        "장기 우주 생활이 더 현실적인 선택지가 된다"
+      ],
+      "image": {
+        "alt": "유전자 치료가 여러 유전 질환을 치료한다",
+        "prompts": [
+          "gene therapies cure several inherited diseases, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing gene therapies cure several inherited diseases, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of gene therapies cure several inherited diseases, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating gene therapies cure several inherited diseases, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-gene-therapies-cure-several-inherited-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-gene-therapies-cure-several-inherited-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-programmable-smart-materials-enter-industry",
+      "order": 41,
+      "slug": "programmable-smart-materials-enter-industry",
+      "title": "프로그래머블 스마트 소재가 산업에 도입된다",
+      "shortTitle": "프로그래머블 스마트 소재",
+      "category": "Materials & Manufacturing",
+      "description": "프로그래머블 스마트 소재가 산업에 도입되면서 문명의 소재 기반은 더 깨끗한 건설, 자가 치유 구조, 3D 프린팅, 프로그래머블 소재, 탄소 포집으로 업그레이드됩니다.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "프로그래머블 스마트 소재가 산업에 도입되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "저탄소 및 자가 치유 소재가 상업적 사용 단계에 들어간다",
+        "적층 제조가 건물과 인프라로 확장된다",
+        "우주 제조가 지구에서는 실용화하기 어려운 소재를 생산한다"
+      ],
+      "implications": [
+        "건설이 더 저렴하고 깨끗해진다",
+        "도시와 우주 거주지의 회복력이 높아진다",
+        "공급망이 지역 생산과 자동화 중심으로 이동한다"
+      ],
+      "image": {
+        "alt": "프로그래머블 스마트 소재가 산업에 도입된다",
+        "prompts": [
+          "programmable smart materials enter industry, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable smart materials enter industry, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable smart materials enter industry, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable smart materials enter industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-programmable-smart-materials-enter-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-programmable-smart-materials-enter-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-3d-printed-buildings-become-mainstream",
+      "order": 42,
+      "slug": "3d-printed-buildings-become-mainstream",
+      "title": "3D 프린팅 건물이 주류가 된다",
+      "shortTitle": "3D 프린팅 건물",
+      "category": "Materials & Manufacturing",
+      "description": "3D 프린팅 건물이 주류가 되면서 문명의 소재 기반은 더 깨끗한 건설, 자가 치유 구조, 3D 프린팅, 프로그래머블 소재, 탄소 포집으로 업그레이드됩니다.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "3D 프린팅 건물이 주류가 되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "저탄소 및 자가 치유 소재가 상업적 사용 단계에 들어간다",
+        "적층 제조가 건물과 인프라로 확장된다",
+        "우주 제조가 지구에서는 실용화하기 어려운 소재를 생산한다"
+      ],
+      "implications": [
+        "건설이 더 저렴하고 깨끗해진다",
+        "도시와 우주 거주지의 회복력이 높아진다",
+        "공급망이 지역 생산과 자동화 중심으로 이동한다"
+      ],
+      "image": {
+        "alt": "3D 프린팅 건물이 주류가 된다",
+        "prompts": [
+          "3D-printed buildings become mainstream, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing 3D-printed buildings become mainstream, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of 3D-printed buildings become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating 3D-printed buildings become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-3d-printed-buildings-become-mainstream.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-3d-printed-buildings-become-mainstream.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-precision-agriculture-dramatically-reduces-fertilizer-waste",
+      "order": 43,
+      "slug": "precision-agriculture-dramatically-reduces-fertilizer-waste",
+      "title": "정밀 농업이 비료 낭비를 크게 줄인다",
+      "shortTitle": "정밀 농업",
+      "category": "Environment",
+      "description": "정밀 농업이 비료 낭비를 크게 줄이는 것은 초기 기후 복원, 식량 회복력, 물 접근성, 재조림, 오염 처리가 배치 가능한 시스템이 됨을 보여줍니다.",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "정밀 농업이 비료 낭비를 크게 줄이는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "AI 모델이 기후와 농업 의사결정을 안내한다",
+        "복원 프로젝트가 측정 가능하고 확장 가능한 시스템이 된다",
+        "폐쇄형 자원 순환 시스템이 낭비를 줄인다"
+      ],
+      "implications": [
+        "기후와 식량 리스크를 더 쉽게 관리할 수 있다",
+        "생태 복원이 능동적인 산업으로 성장한다",
+        "우주 거주지는 지속 가능한 자원 순환에 의존하게 된다"
+      ],
+      "image": {
+        "alt": "정밀 농업이 비료 낭비를 크게 줄인다",
+        "prompts": [
+          "precision agriculture dramatically reduces fertilizer waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing precision agriculture dramatically reduces fertilizer waste, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of precision agriculture dramatically reduces fertilizer waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating precision agriculture dramatically reduces fertilizer waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-desalination-technologies-provide-low-cost-fresh-water",
+      "order": 44,
+      "slug": "desalination-technologies-provide-low-cost-fresh-water",
+      "title": "담수화 기술이 저비용 담수를 제공한다",
+      "shortTitle": "저비용 담수화 기술",
+      "category": "Environment",
+      "description": "담수화 기술이 저비용 담수를 제공하는 것은 초기 기후 복원, 식량 회복력, 물 접근성, 재조림, 오염 처리가 배치 가능한 시스템이 됨을 보여줍니다.",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "담수화 기술이 저비용 담수를 제공하는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "AI 모델이 기후와 농업 의사결정을 안내한다",
+        "복원 프로젝트가 측정 가능하고 확장 가능한 시스템이 된다",
+        "폐쇄형 자원 순환 시스템이 낭비를 줄인다"
+      ],
+      "implications": [
+        "기후와 식량 리스크를 더 쉽게 관리할 수 있다",
+        "생태 복원이 능동적인 산업으로 성장한다",
+        "우주 거주지는 지속 가능한 자원 순환에 의존하게 된다"
+      ],
+      "image": {
+        "alt": "담수화 기술이 저비용 담수를 제공한다",
+        "prompts": [
+          "desalination technologies provide low-cost fresh water, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing desalination technologies provide low-cost fresh water, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of desalination technologies provide low-cost fresh water, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating desalination technologies provide low-cost fresh water, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-reforestation-drones-restore-damaged-ecosystems",
+      "order": 45,
+      "slug": "reforestation-drones-restore-damaged-ecosystems",
+      "title": "재조림 드론이 손상된 생태계를 복원한다",
+      "shortTitle": "재조림 드론",
+      "category": "Environment",
+      "description": "재조림 드론이 손상된 생태계를 복원하는 것은 초기 기후 복원, 식량 회복력, 물 접근성, 재조림, 오염 처리가 배치 가능한 시스템이 됨을 보여줍니다.",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "재조림 드론이 손상된 생태계를 복원하는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "AI 모델이 기후와 농업 의사결정을 안내한다",
+        "복원 프로젝트가 측정 가능하고 확장 가능한 시스템이 된다",
+        "폐쇄형 자원 순환 시스템이 낭비를 줄인다"
+      ],
+      "implications": [
+        "기후와 식량 리스크를 더 쉽게 관리할 수 있다",
+        "생태 복원이 능동적인 산업으로 성장한다",
+        "우주 거주지는 지속 가능한 자원 순환에 의존하게 된다"
+      ],
+      "image": {
+        "alt": "재조림 드론이 손상된 생태계를 복원한다",
+        "prompts": [
+          "reforestation drones restore damaged ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing reforestation drones restore damaged ecosystems, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of reforestation drones restore damaged ecosystems, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating reforestation drones restore damaged ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-commercial-orbital-hotel-opens",
+      "order": 46,
+      "slug": "first-commercial-orbital-hotel-opens",
+      "title": "첫 상업용 궤도 호텔이 문을 연다",
+      "shortTitle": "상업용 궤도 호텔 개장",
+      "category": "Space",
+      "description": "첫 상업용 궤도 호텔의 개장은 지구 밖으로 향하는 첫 상업적·로봇적 경로를 열고, 궤도 서비스와 달 자원 활동의 기반을 준비합니다.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "첫 상업용 궤도 호텔의 개장은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "상업 우주 서비스가 일상적인 운영으로 자리 잡는다",
+        "달과 궤도 인프라에 지속적인 투자가 이루어진다",
+        "지구·달·화성 물류가 실증에서 초기 운영으로 이동한다"
+      ],
+      "implications": [
+        "우주는 상징적 개척지가 아니라 경제 영역이 된다",
+        "지구 밖 영구 거주가 더 신뢰할 수 있는 가능성이 된다",
+        "문명은 산업, 연구, 문화의 새로운 장소를 얻는다"
+      ],
+      "image": {
+        "alt": "첫 상업용 궤도 호텔이 문을 연다",
+        "prompts": [
+          "first commercial orbital hotel opens, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first commercial orbital hotel opens, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first commercial orbital hotel opens, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first commercial orbital hotel opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-commercial-orbital-hotel-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-commercial-orbital-hotel-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-autonomous-lunar-construction-site-begins-operation",
+      "order": 47,
+      "slug": "first-autonomous-lunar-construction-site-begins-operation",
+      "title": "첫 자율 달 건설 현장이 운영을 시작한다",
+      "shortTitle": "자율 달 건설 현장",
+      "category": "Space",
+      "description": "첫 자율 달 건설 현장의 운영 시작은 지구 밖으로 향하는 첫 상업적·로봇적 경로를 열고, 궤도 서비스와 달 자원 활동의 기반을 준비합니다.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "첫 자율 달 건설 현장의 운영 시작은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "상업 우주 서비스가 일상적인 운영으로 자리 잡는다",
+        "달과 궤도 인프라에 지속적인 투자가 이루어진다",
+        "지구·달·화성 물류가 실증에서 초기 운영으로 이동한다"
+      ],
+      "implications": [
+        "우주는 상징적 개척지가 아니라 경제 영역이 된다",
+        "지구 밖 영구 거주가 더 신뢰할 수 있는 가능성이 된다",
+        "문명은 산업, 연구, 문화의 새로운 장소를 얻는다"
+      ],
+      "image": {
+        "alt": "첫 자율 달 건설 현장이 운영을 시작한다",
+        "prompts": [
+          "first autonomous lunar construction site begins operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first autonomous lunar construction site begins operation, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first autonomous lunar construction site begins operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first autonomous lunar construction site begins operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-lunar-resource-prospecting-mission-becomes-commercial",
+      "order": 48,
+      "slug": "first-lunar-resource-prospecting-mission-becomes-commercial",
+      "title": "첫 달 자원 탐사 임무가 상업화된다",
+      "shortTitle": "달 자원 탐사 임무",
+      "category": "Space",
+      "description": "첫 달 자원 탐사 임무의 상업화는 지구 밖으로 향하는 첫 상업적·로봇적 경로를 열고, 궤도 서비스와 달 자원 활동의 기반을 준비합니다.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "첫 달 자원 탐사 임무의 상업화는 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "상업 우주 서비스가 일상적인 운영으로 자리 잡는다",
+        "달과 궤도 인프라에 지속적인 투자가 이루어진다",
+        "지구·달·화성 물류가 실증에서 초기 운영으로 이동한다"
+      ],
+      "implications": [
+        "우주는 상징적 개척지가 아니라 경제 영역이 된다",
+        "지구 밖 영구 거주가 더 신뢰할 수 있는 가능성이 된다",
+        "문명은 산업, 연구, 문화의 새로운 장소를 얻는다"
+      ],
+      "image": {
+        "alt": "첫 달 자원 탐사 임무가 상업화된다",
+        "prompts": [
+          "first lunar resource prospecting mission becomes commercial, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first lunar resource prospecting mission becomes commercial, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first lunar resource prospecting mission becomes commercial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first lunar resource prospecting mission becomes commercial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-universal-digital-identity-becomes-globally-interoperable",
+      "order": 49,
+      "slug": "universal-digital-identity-becomes-globally-interoperable",
+      "title": "범용 디지털 신원이 전 세계적으로 상호 운용된다",
+      "shortTitle": "범용 디지털 신원",
+      "category": "Society & Economy",
+      "description": "범용 디지털 신원이 전 세계적으로 상호 운용되는 것은 디지털 신원, 현금 없는 시스템, AI 서비스, 자동화가 일상생활을 재편하는 초기 사회·경제 변화를 포착합니다.",
+      "layerId": "society-economy",
+      "domains": [
+        "social-systems",
+        "economy",
+        "public-services"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "범용 디지털 신원이 전 세계적으로 상호 운용되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "디지털 공공 인프라가 상호 운용 가능해진다",
+        "자동화와 우주 서비스를 중심으로 새로운 경제 시스템이 형성된다",
+        "법 제도가 새로운 기술 현실에 적응한다"
+      ],
+      "implications": [
+        "서비스 접근이 더 쉽고 글로벌해진다",
+        "우주 상거래의 정당성이 높아진다",
+        "경제 생활이 더 디지털화되고 국경을 넘나들게 된다"
+      ],
+      "image": {
+        "alt": "범용 디지털 신원이 전 세계적으로 상호 운용된다",
+        "prompts": [
+          "universal digital identity becomes globally interoperable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal digital identity becomes globally interoperable, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal digital identity becomes globally interoperable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal digital identity becomes globally interoperable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-cashless-economies-dominate-most-countries",
+      "order": 50,
+      "slug": "cashless-economies-dominate-most-countries",
+      "title": "현금 없는 경제가 대부분 국가에서 주류가 된다",
+      "shortTitle": "현금 없는 경제",
+      "category": "Society & Economy",
+      "description": "현금 없는 경제가 대부분 국가에서 주류가 되는 것은 디지털 신원, 현금 없는 시스템, AI 서비스, 자동화가 일상생활을 재편하는 초기 사회·경제 변화를 포착합니다.",
+      "layerId": "society-economy",
+      "domains": [
+        "social-systems",
+        "economy",
+        "public-services"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "현금 없는 경제가 대부분 국가에서 주류가 되는 것은 근미래 혁신의 중요한 이정표가 되어 이후 문명 규모 전환의 기술 기반을 마련합니다.",
+      "signals": [
+        "디지털 공공 인프라가 상호 운용 가능해진다",
+        "자동화와 우주 서비스를 중심으로 새로운 경제 시스템이 형성된다",
+        "법 제도가 새로운 기술 현실에 적응한다"
+      ],
+      "implications": [
+        "서비스 접근이 더 쉽고 글로벌해진다",
+        "우주 상거래의 정당성이 높아진다",
+        "경제 생활이 더 디지털화되고 국경을 넘나들게 된다"
+      ],
+      "image": {
+        "alt": "현금 없는 경제가 대부분 국가에서 주류가 된다",
+        "prompts": [
+          "cashless economies dominate most countries, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cashless economies dominate most countries, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cashless economies dominate most countries, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cashless economies dominate most countries, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-cashless-economies-dominate-most-countries.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-cashless-economies-dominate-most-countries.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

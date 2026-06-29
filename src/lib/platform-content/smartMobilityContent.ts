@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import coastalStationsSeed from "@/data/smart-mobility/coastal/en.coastal.json";
 import mtsContentSeed from "@/data/smart-mobility/mts/en.mts.json";
 import valleyStationsSeed from "@/data/smart-mobility/valley/en.valley.json";
@@ -233,9 +234,7 @@ export function getSmartMobilityMetadata(
   return {
     title: content.seo.title,
     description: content.seo.description,
-    alternates: {
-      canonical: `/${resolveSmartMobilityLocale(locale)}/smart-mobility/`,
-    },
+    alternates: getLocalizedAlternates("/smart-mobility/"),
     openGraph: {
       title: content.seo.title,
       description: content.seo.description,
@@ -277,9 +276,7 @@ export function getSmartMobilityStationMetadata({
   return {
     title: `${station.name} | Chorn Planet MTS`,
     description: station.story,
-    alternates: {
-      canonical: `/${resolveSmartMobilityLocale(locale)}/smart-mobility/mts/${station.slug}/`,
-    },
+    alternates: getLocalizedAlternates(`/smart-mobility/mts/${station.slug}/`),
     openGraph: {
       title: station.name,
       description: station.story,

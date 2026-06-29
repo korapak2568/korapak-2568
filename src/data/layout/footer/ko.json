@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet은 치앙마이에서 출발한 디지털 제품, AI 서비스, 스마트시티 콘셉트, 플랫폼 엔지니어링 역량을 전 세계 관객에게 선보입니다.",
+  "social": {
+    "title": "소셜",
+    "items": []
+  },
+  "important": {
+    "title": "중요 링크",
+    "items": [
+      {
+        "label": "소개",
+        "link": "/about/"
+      },
+      {
+        "label": "기술",
+        "link": "/technology/"
+      },
+      {
+        "label": "연락처",
+        "link": "/contact/"
+      },
+      {
+        "label": "서비스 약관",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "개인정보 처리방침",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "직장 정책",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "프로젝트",
+    "items": [
+      {
+        "label": "럭셔리 프로젝트",
+        "link": "/luxury/"
+      },
+      {
+        "label": "스마트 푸드 시스템",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "그레이스풀 스타일",
+        "link": "/style/"
+      },
+      {
+        "label": "미래 치앙마이",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "플랫폼",
+    "items": [
+      {
+        "label": "미래 문명",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "럭셔리",
+        "link": "/luxury/"
+      },
+      {
+        "label": "스마트 푸드",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "스마트 시티",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "스마트 모빌리티",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "스토리",
+        "link": "/story/"
+      },
+      {
+        "label": "스타일",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "연결",
+    "items": [
+      {
+        "label": "연락처",
+        "link": "/contact",
+        "ariaLabel": "Chorn Planet 문의 페이지"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "LinkedIn의 Chorn Planet"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "GitHub의 Chorn Planet"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Facebook의 Chorn Planet"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "X의 Chorn Planet"
+      }
+    ]
+  }
+}

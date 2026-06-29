@@ -3,14 +3,15 @@
 import type { Metadata } from "next";
 import { headers } from "next/headers";
 import PlatformHomePage from "@/components/Platform/PlatformHomePage";
+import { getPlatformContent } from "@/lib/platform-content/homeContent";
+import { getPlatformMetadata } from "@/lib/metadata/platformMetadata";
 import {
-  getPlatformContent,
-  getPlatformMetadata,
-} from "@/lib/platform-content/homeContent";
-import { getFutureRoadmapFeaturedItems } from "@/lib/platform-content/futureRoadmapContent";
+  getFutureRoadmapActiveItems,
+  getFutureRoadmapManifest,
+} from "@/lib/platform-content/futureRoadmapContent";
 
-function getRandomizedFutureRoadmapItems() {
-  const items = [...getFutureRoadmapFeaturedItems(40)];
+function getRandomizedFutureRoadmapItems(lang: string) {
+  const items = [...getFutureRoadmapActiveItems(lang)];
 
   for (let index = items.length - 1; index > 0; index -= 1) {
     const randomIndex = Math.floor(Math.random() * (index + 1));
@@ -29,7 +30,8 @@ export default async function Home() {
   const headers15 = await headers();
   const lang = headers15.get("x-locale") || "en";
   const content = getPlatformContent(lang);
-  const futureRoadmapItems = getRandomizedFutureRoadmapItems();
+  const futureRoadmapManifest = getFutureRoadmapManifest(lang);
+  const futureRoadmapItems = getRandomizedFutureRoadmapItems(lang);
   const futureRoadmapHeroItem = futureRoadmapItems[0]!;
   const localBusinessSchema = {
     "@context": "https://schema.org",
@@ -73,6 +75,7 @@ export default async function Home() {
         content={content.home}
         futureRoadmapItems={futureRoadmapItems}
         futureRoadmapHeroItem={futureRoadmapHeroItem}
+        futureRoadmapManifest={futureRoadmapManifest}
       />
 
       <script

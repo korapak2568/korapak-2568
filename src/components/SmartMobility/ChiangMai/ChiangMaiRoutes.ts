@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { withLocalizedAlternates } from "@/lib/metadata/alternates";
 import { MetaHubChiangMaiAirport } from "@/metadata/smart-mobility/chiang-mai/MetaHubChiangMaiAirport";
 import { MetaHubDoiInthanon } from "@/metadata/smart-mobility/chiang-mai/MetaHubDoiInthanon";
 import { MetaHubDoiSuthep } from "@/metadata/smart-mobility/chiang-mai/MetaHubDoiSuthep";
@@ -97,5 +98,8 @@ export async function generateSmartMobilityChiangMaiMetadata(
   locale: string,
 ): Promise<Metadata> {
   const metadata = SMART_MOBILITY_CHIANG_MAI_ROUTE_METADATA[slug];
-  return metadata[locale] ?? metadata.en;
+  return withLocalizedAlternates(
+    metadata[locale] ?? metadata.en,
+    `/smart-mobility/chiang-mai/${slug}/`,
+  );
 }

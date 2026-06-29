@@ -47,25 +47,11 @@ export const MetaLinks: IMetaLinks = {
             alt: "Open graph image for AI-Fah - LINE Chat AI Integration",
         }
     },
-    aiLuxury: {
-        canonical: "/ai-luxury/",
-        image: {
-            url: "/images/ai-luxury/hero-ai-luxury-real-estate-platform.png",
-            alt: "Open graph image for Chorn Planet AI Luxury platform",
-        }
-    },
     aiPloy: {
         canonical: "/ai-companions/ploy/",
         image: {
             url: "/images-opengraph/ai/ai-og-ploy.jpg" + MetadataImageVersion,
             alt: "Open graph image for AI-Ploy - LINE Chat AI Integration",
-        }
-    },
-    smartFoodAi: {
-        canonical: "/smart-food-ai/",
-        image: {
-            url: "/images-opengraph/smart-food/process1-chat-ordering.png" + MetadataImageVersion,
-            alt: "Open graph image for Smart Food AI production platform",
         }
     },
     cloudSolutions: {
@@ -142,3 +128,5 @@ export const MetaLinks: IMetaLinks = {
     backend: MetaLinkBackend,
     devops: MetaLinkDevOps
 }
+
+

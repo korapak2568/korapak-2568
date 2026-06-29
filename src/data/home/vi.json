@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "home": {
+      "title": "Chorn Planet | Nền tảng Smart Food, Luxury, Technology và Lifestyle",
+      "description": "Chorn Planet bắt đầu Phase 1 với một nền tảng tập trung cho Smart Food, AI Luxury, Technology, Style, Smart City và Smart Mobility."
+    },
+    "about": {
+      "title": "Về Chorn Planet | Nền tảng lifestyle AI-native",
+      "description": "Chorn Planet là nền tảng AI-native kết nối Smart Food, AI Luxury, Style và công nghệ thực tiễn thành các hệ thống lifestyle hữu ích."
+    }
+  },
+  "home": {
+    "sections": [
+      {
+        "id": "phase-1",
+        "eyebrow": "Phát triển dự án",
+        "title": "Công nghệ phát triển dự án",
+        "layout": "featured",
+        "cards": [
+          {
+            "category": "Smart Food",
+            "title": "Hệ thống Smart Food",
+            "description": "Định hướng sản phẩm đời sống hằng ngày xoay quanh khám phá món ăn, ý tưởng đặt hàng và trải nghiệm khách hàng.",
+            "image": {
+              "src": "/smart-food/process5-receiving.png",
+              "alt": "Hình ảnh hệ thống Smart Food",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.smart-food",
+              "mobile": {
+                "src": "/smart-food/mobile/process5-receiving.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-food/desktop/process5-receiving.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Ẩm thực",
+              "Nền tảng"
+            ],
+            "cta": "Khám phá Smart Food",
+            "href": "/smart-food/"
+          },
+          {
+            "category": "AI Luxury",
+            "title": "Dự án AI Luxury",
+            "description": "Một lớp tập trung cho bất động sản cao cấp, câu chuyện điểm đến và các khái niệm lifestyle tương lai.",
+            "image": {
+              "src": "/images/ai-luxury/hero-ai-luxury-real-estate-platform.png",
+              "alt": "Dự án AI Luxury",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.ai-luxury",
+              "mobile": {
+                "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Luxury",
+              "Dự án"
+            ],
+            "cta": "Xem Luxury",
+            "href": "/luxury/"
+          },
+          {
+            "category": "Công nghệ",
+            "title": "Nền tảng công nghệ",
+            "description": "Không gian thực tiễn cho phần mềm, AI, cloud và năng lực kỹ thuật nền tảng.",
+            "image": {
+              "src": "/images/features/morning-sky-optimize.webp",
+              "alt": "Hình ảnh nền tảng công nghệ",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.technology",
+              "mobile": {
+                "src": "/images/features/mobile/morning-sky-optimize.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/features/thumbnail/morning-sky-optimize.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/features/desktop/morning-sky-optimize.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "AI",
+              "Kỹ thuật"
+            ],
+            "cta": "Xem công nghệ",
+            "href": "/technology/"
+          },
+          {
+            "category": "Phong cách trang phục",
+            "title": "Định hướng thời trang, quần áo và trang phục",
+            "description": "Một kênh lifestyle nhẹ nhàng cho bản sắc thị giác, ý tưởng trang phục và câu chuyện commerce tương lai.",
+            "image": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "alt": "Hình ảnh style và trang phục",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.style",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Style",
+              "Lifestyle"
+            ],
+            "cta": "Xem Style",
+            "href": "/style/"
+          }
+        ]
+      },
+      {
+        "id": "outfit",
+        "eyebrow": "Style và trang phục",
+        "title": "Định hướng thời trang, quần áo, trang phục",
+        "layout": "grid",
+        "cards": [
+          {
+            "category": "Nữ",
+            "title": "Trang phục nữ",
+            "description": "Những diện mạo văn minh thanh lịch cho các bối cảnh lifestyle cao cấp.",
+            "image": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "alt": "Ý tưởng trang phục nữ",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lady",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Nữ",
+              "Luxury"
+            ],
+            "cta": "Xem bộ sưu tập",
+            "href": "/style/"
+          },
+          {
+            "category": "Nam",
+            "title": "Trang phục nam",
+            "description": "Phom dáng tinh tế cho bối cảnh du lịch, đô thị và resort.",
+            "image": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "alt": "Ý tưởng trang phục nam",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.gentleman",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Nam",
+              "Du lịch"
+            ],
+            "cta": "Xem bộ sưu tập",
+            "href": "/style/"
+          },
+          {
+            "category": "Văn minh",
+            "title": "Trang phục văn minh",
+            "description": "Câu chuyện trang phục kết nối với các khu vực, nghi lễ và commerce tương lai.",
+            "image": {
+              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "alt": "Ý tưởng trang phục văn minh",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.civilization",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Khu vực",
+              "Chorn DNA"
+            ],
+            "cta": "Mở kênh",
+            "href": "/style/"
+          },
+          {
+            "category": "Lanna",
+            "title": "Lanna Future Luxury",
+            "description": "Vẻ thanh lịch phương Bắc được chuyển hóa thành lifestyle tương lai cao cấp.",
+            "image": {
+              "src": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway.png",
+              "alt": "Ý tưởng Lanna Future Luxury",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lanna",
+              "mobile": {
+                "src": "/smart-mobility/chiang-mai/mobile/vision-smart-mobility-northern-gateway.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-mobility/chiang-mai/thumbnail/vision-smart-mobility-northern-gateway.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-mobility/chiang-mai/desktop/vision-smart-mobility-northern-gateway.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Lanna",
+              "Tương lai"
+            ],
+            "cta": "Khám phá look",
+            "href": "/smart-mobility/"
+          }
+        ]
+      }
+    ],
+    "circular": {
+      "title": "Hệ thống mô phỏng giao thông",
+      "span": "Hệ thống mô phỏng giao thông",
+      "description": "Một cặp đôi trẻ trở về nhà qua thung lũng núi bằng MTS, di chuyển từ các ga alpine yên tĩnh trở lại sự ấm áp của ngôi nhà trên sườn đồi. Hành trình của họ không dừng ở một điểm đến: cùng một hệ thống di chuyển vòng tròn có thể đưa họ tiếp tục đến các ga ven biển, sàn ngắm bình minh trên đại dương, khu marina, thung lũng lavender và cổng núi, kết nối nhà ở, du lịch, nghỉ ngơi và văn minh tương lai qua một mạng lưới MTS thông minh.",
+      "categories": [
+        {
+          "title": "Thư giãn trên sofa ngả",
+          "image": {
+            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "alt": "Một cặp đôi thư giãn bên cửa sổ lớn nhìn ra núi.",
+            "width": 1024,
+            "height": 1536,
+            "aspectRatio": "2:3",
+            "positionKey": "home.circular.sofa",
+            "mobile": {
+              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 720,
+              "height": 1080,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 480,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 1024,
+              "height": 1536,
+              "quality": 82
+            }
+          },
+          "link": "/story"
+        },
+        {
+          "title": "Ga MTS Lavender Valley",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "alt": "Ga MTS Lavender Valley",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.valley",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-valley-2-lavender-valley"
+        },
+        {
+          "title": "Ga MTS Coral Bay Marina",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "alt": "Ga MTS Coral Bay Marina",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-marina",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-2-coral-bay-marina"
+        },
+        {
+          "title": "Ga MTS Sunrise Ocean Deck",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "alt": "Ga MTS Sunrise Ocean Deck",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-sunrise",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-6-sunrise-ocean-deck"
+        }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "Về Chorn Planet",
+    "title": "Nền tảng văn minh tương lai",
+    "description": "Chorn Planet kết nối Smart Mobility, Smart Food, AI Luxury, Style và công nghệ thực tiễn vào một nền tảng đang phát triển để khám phá đời sống sẵn sàng cho tương lai, môi trường kết nối và trải nghiệm số lấy con người làm trung tâm.",
+    "image": {
+      "src": "/images/about/about-chorn-image-1200.webp",
+      "alt": "Hình ảnh giới thiệu nền tảng Chorn Planet",
+      "width": 1600,
+      "height": 1000,
+      "aspectRatio": "8:5",
+      "positionKey": "about.hero",
+      "mobile": {
+        "src": "/images/about/mobile/about-chorn-image-1200.webp",
+        "width": 800,
+        "height": 500,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images/about/thumbnail/about-chorn-image-1200.webp",
+        "width": 512,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images/about/desktop/about-chorn-image-1200.webp",
+        "width": 1600,
+        "height": 1000,
+        "quality": 82
+      }
+    },
+    "blocks": [
+      {
+        "title": "Nền tảng AI Native",
+        "body": "Chorn Planet là nền tảng AI-native kết hợp AI Smart Food, AI POS, AI Luxury, Style và công nghệ thực tiễn vào một hệ sinh thái số đang phát triển. Nền tảng này kết nối với các năng lực hệ thống lõi, bao gồm ERP, MES, Logic Controller và Physical Layer.",
+        "tags": [
+          "AI Native",
+          "ERP",
+          "MES",
+          "Logic Controller",
+          "Physical Layer",
+          "Workflow"
+        ],
+        "link": "/technology/"
+      },
+      {
+        "title": "AI Smart Mobility",
+        "body": "AI Smart Mobility khám phá giao thông thông minh, hạ tầng kết nối và trải nghiệm di chuyển tương lai thông qua Chorn Planet MTS Network. Nó hoạt động như hệ tuần hoàn kết nối điểm đến, du lịch, môi trường lifestyle và các khái niệm văn minh sẵn sàng cho tương lai.",
+        "tags": [
+          "MTS Network",
+          "Hạ tầng thông minh",
+          "Di chuyển tương lai"
+        ],
+        "link": "/smart-mobility/"
+      },
+      {
+        "title": "Hệ thống Smart City",
+        "body": "Smart City Systems khám phá cách môi trường thông minh, hạ tầng kết nối, điều phối di chuyển và trải nghiệm đô thị lấy con người làm trung tâm có thể cùng phát triển. Nền tảng quan sát cách các thành phố tương lai cân bằng công nghệ, chuyển động, sự thoải mái, tính bền vững và đời sống hằng ngày trong các hệ sinh thái văn minh kết nối.",
+        "tags": [
+          "Thành phố lấy con người làm trung tâm",
+          "Hạ tầng kết nối",
+          "Trí tuệ đô thị"
+        ],
+        "link": "/smart-city/"
+      },
+      {
+        "title": "AI Smart Food",
+        "body": "Smart Food là lớp đời sống hằng ngày mang tính thực tiễn. Nó mang lại cho Chorn Planet điểm khởi đầu hữu ích quanh khám phá món ăn, thông tin thực đơn, trải nghiệm khách hàng, ý tưởng đặt hàng và các luồng dịch vụ ẩm thực tương lai được AI hỗ trợ.",
+        "tags": [
+          "Trải nghiệm ẩm thực",
+          "Ý tưởng đặt hàng",
+          "Tiện ích hằng ngày"
+        ],
+        "link": "/smart-food/"
+      },
+      {
+        "title": "AI Luxury",
+        "body": "AI Luxury là lớp dự án cao cấp cho các câu chuyện về bất động sản, điểm đến và lifestyle. Nó giúp biến các dự án giá trị cao thành câu chuyện rõ ràng hơn, hệ thống hình ảnh mạnh hơn và nội dung nền tảng sẵn sàng cho nhà đầu tư.",
+        "tags": [
+          "Dự án cao cấp",
+          "Câu chuyện điểm đến",
+          "Sẵn sàng cho nhà đầu tư"
+        ],
+        "link": "/luxury/"
+      },
+      {
+        "title": "Định hướng Style và trang phục",
+        "body": "Style mang đến cho nền tảng một lớp lifestyle thị giác. Ý tưởng trang phục trở thành bối cảnh, câu chuyện và định hướng sản phẩm trong du lịch, văn hóa, soft luxury và commerce tương lai.",
+        "tags": [
+          "Graceful Style",
+          "Câu chuyện trang phục",
+          "Commerce tương lai"
+        ],
+        "link": "/style/"
+      }
+    ]
+  },
+  "channels": {}
+}

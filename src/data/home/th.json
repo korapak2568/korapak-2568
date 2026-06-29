@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "home": {
+      "title": "Chorn Planet | แพลตฟอร์ม Smart Food, Luxury, Technology และ Lifestyle",
+      "description": "Chorn Planet เริ่ม Phase 1 ด้วยแพลตฟอร์มที่โฟกัสด้าน Smart Food, AI Luxury, Technology, Style, Smart City และ Smart Mobility"
+    },
+    "about": {
+      "title": "เกี่ยวกับ Chorn Planet | แพลตฟอร์มไลฟ์สไตล์แบบ AI Native",
+      "description": "Chorn Planet คือแพลตฟอร์มแบบ AI-native ที่เชื่อม Smart Food, AI Luxury, Style และเทคโนโลยีที่ใช้งานได้จริงให้กลายเป็นระบบไลฟ์สไตล์ที่มีประโยชน์"
+    }
+  },
+  "home": {
+    "sections": [
+      {
+        "id": "phase-1",
+        "eyebrow": "การพัฒนาโครงการ",
+        "title": "เทคโนโลยีการพัฒนาโครงการ",
+        "layout": "featured",
+        "cards": [
+          {
+            "category": "Smart Food",
+            "title": "ระบบสมาร์ทฟู้ด",
+            "description": "ทิศทางผลิตภัณฑ์ในชีวิตประจำวันเกี่ยวกับการค้นหาอาหาร แนวคิดการสั่งซื้อ และประสบการณ์ลูกค้า",
+            "image": {
+              "src": "/smart-food/process5-receiving.png",
+              "alt": "ภาพระบบสมาร์ทฟู้ด",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.smart-food",
+              "mobile": {
+                "src": "/smart-food/mobile/process5-receiving.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-food/desktop/process5-receiving.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "อาหาร",
+              "แพลตฟอร์ม"
+            ],
+            "cta": "สำรวจ Smart Food",
+            "href": "/smart-food/"
+          },
+          {
+            "category": "AI Luxury",
+            "title": "โครงการเอไอลักชัวรี",
+            "description": "เลเยอร์ที่โฟกัสด้านอสังหาริมทรัพย์หรู เรื่องเล่าของจุดหมายปลายทาง และแนวคิดไลฟ์สไตล์อนาคต",
+            "image": {
+              "src": "/images/ai-luxury/hero-ai-luxury-real-estate-platform.png",
+              "alt": "โครงการเอไอลักชัวรี",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.ai-luxury",
+              "mobile": {
+                "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "ความหรู",
+              "โครงการ"
+            ],
+            "cta": "ดู Luxury",
+            "href": "/luxury/"
+          },
+          {
+            "category": "เทคโนโลยี",
+            "title": "แพลตฟอร์มเทคโนโลยี",
+            "description": "พื้นที่เชิงปฏิบัติสำหรับซอฟต์แวร์ AI คลาวด์ และความสามารถด้านวิศวกรรมแพลตฟอร์ม",
+            "image": {
+              "src": "/images/features/morning-sky-optimize.webp",
+              "alt": "ภาพแพลตฟอร์มเทคโนโลยี",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.technology",
+              "mobile": {
+                "src": "/images/features/mobile/morning-sky-optimize.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/features/thumbnail/morning-sky-optimize.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/features/desktop/morning-sky-optimize.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "AI",
+              "วิศวกรรม"
+            ],
+            "cta": "ดูเทคโนโลยี",
+            "href": "/technology/"
+          },
+          {
+            "category": "สไตล์การแต่งตัว",
+            "title": "แฟชั่นเสื้อผ้าการแต่งตัว",
+            "description": "ช่องทางไลฟ์สไตล์แบบเบาสบายสำหรับอัตลักษณ์เชิงภาพ แนวคิดการแต่งตัว และเรื่องราวคอมเมิร์ซอนาคต",
+            "image": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "alt": "ภาพสไตล์และการแต่งตัว",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.style",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "สไตล์",
+              "ไลฟ์สไตล์"
+            ],
+            "cta": "ดูสไตล์",
+            "href": "/style/"
+          }
+        ]
+      },
+      {
+        "id": "outfit",
+        "eyebrow": "สไตล์และการแต่งตัว",
+        "title": "แฟชั่นเสื้อผ้าการแต่งตัว",
+        "layout": "grid",
+        "cards": [
+          {
+            "category": "สุภาพสตรี",
+            "title": "ชุดสุภาพสตรี",
+            "description": "ลุคอารยธรรมที่สง่างามสำหรับฉากไลฟ์สไตล์พรีเมียม",
+            "image": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "alt": "แนวคิดชุดสุภาพสตรี",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lady",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "สุภาพสตรี",
+              "ความหรู"
+            ],
+            "cta": "ดูคอลเลกชัน",
+            "href": "/style/"
+          },
+          {
+            "category": "สุภาพบุรุษ",
+            "title": "ชุดสุภาพบุรุษ",
+            "description": "ซิลูเอตที่ประณีตสำหรับบริบทการเดินทาง เมือง และรีสอร์ต",
+            "image": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "alt": "แนวคิดชุดสุภาพบุรุษ",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.gentleman",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "สุภาพบุรุษ",
+              "การเดินทาง"
+            ],
+            "cta": "ดูคอลเลกชัน",
+            "href": "/style/"
+          },
+          {
+            "category": "อารยธรรม",
+            "title": "เสื้อผ้าแห่งอารยธรรม",
+            "description": "เรื่องราวเสื้อผ้าที่เชื่อมโยงกับโซน พิธีกรรม และคอมเมิร์ซอนาคต",
+            "image": {
+              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "alt": "แนวคิดเสื้อผ้าแห่งอารยธรรม",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.civilization",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "โซน",
+              "Chorn DNA"
+            ],
+            "cta": "เปิดช่องทาง",
+            "href": "/style/"
+          },
+          {
+            "category": "ล้านนา",
+            "title": "ล้านนา Future Luxury",
+            "description": "ความสง่างามของภาคเหนือที่ถูกถ่ายทอดเป็นไลฟ์สไตล์อนาคตระดับพรีเมียม",
+            "image": {
+              "src": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway.png",
+              "alt": "แนวคิดล้านนา Future Luxury",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lanna",
+              "mobile": {
+                "src": "/smart-mobility/chiang-mai/mobile/vision-smart-mobility-northern-gateway.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-mobility/chiang-mai/thumbnail/vision-smart-mobility-northern-gateway.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-mobility/chiang-mai/desktop/vision-smart-mobility-northern-gateway.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "ล้านนา",
+              "อนาคต"
+            ],
+            "cta": "สำรวจลุค",
+            "href": "/smart-mobility/"
+          }
+        ]
+      }
+    ],
+    "circular": {
+      "title": "ระบบขนส่งจำลอง",
+      "span": "ระบบขนส่งจำลอง",
+      "description": "คู่รักหนุ่มสาวเดินทางกลับบ้านผ่านหุบเขาด้วยระบบ MTS จากสถานีอัลไพน์อันเงียบสงบกลับสู่ความอบอุ่นของบ้านบนเนินเขา การเดินทางของพวกเขาไม่ได้สิ้นสุดที่จุดหมายเดียว เพราะระบบการเดินทางแบบหมุนเวียนเดียวกันสามารถพาพวกเขาออกไปยังสถานีชายฝั่ง ดาดฟ้าชมพระอาทิตย์ขึ้นเหนือมหาสมุทร ย่านมารีนา หุบเขาลาเวนเดอร์ และประตูสู่ภูเขาอีกครั้ง เชื่อมบ้าน การเดินทาง การพักผ่อน และอารยธรรมอนาคตผ่านเครือข่าย MTS อัจฉริยะหนึ่งเดียว",
+      "categories": [
+        {
+          "title": "พักผ่อนบนโซฟาปรับเอน",
+          "image": {
+            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "alt": "คู่รักพักผ่อนข้างหน้าต่างบานใหญ่ที่มองเห็นวิวภูเขา",
+            "width": 1024,
+            "height": 1536,
+            "aspectRatio": "2:3",
+            "positionKey": "home.circular.sofa",
+            "mobile": {
+              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 720,
+              "height": 1080,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 480,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 1024,
+              "height": 1536,
+              "quality": 82
+            }
+          },
+          "link": "/story"
+        },
+        {
+          "title": "สถานีเอ็มทีเอส หุบเขาลาเวนเดอร์",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "alt": "สถานีเอ็มทีเอส หุบเขาลาเวนเดอร์",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.valley",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-valley-2-lavender-valley"
+        },
+        {
+          "title": "สถานีเอ็มทีเอส ท่าจอดเรือคอรัลเบย์",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "alt": "สถานีเอ็มทีเอส ท่าจอดเรือคอรัลเบย์",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-marina",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-2-coral-bay-marina"
+        },
+        {
+          "title": "สถานีเอ็มทีเอส ซันไรส์โอเชียนเด็ค",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "alt": "สถานีเอ็มทีเอส ซันไรส์โอเชียนเด็ค",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-sunrise",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-6-sunrise-ocean-deck"
+        }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "เกี่ยวกับ Chorn Planet",
+    "title": "แพลตฟอร์มอารยธรรมอนาคต",
+    "description": "Chorn Planet เชื่อม Smart Mobility, Smart Food, AI Luxury, Style และเทคโนโลยีที่ใช้งานได้จริงให้เป็นแพลตฟอร์มที่พัฒนาอย่างต่อเนื่อง เพื่อสำรวจการใช้ชีวิตที่พร้อมสำหรับอนาคต สภาพแวดล้อมที่เชื่อมต่อกัน และประสบการณ์ดิจิทัลที่มีมนุษย์เป็นศูนย์กลาง",
+    "image": {
+      "src": "/images/about/about-chorn-image-1200.webp",
+      "alt": "ภาพแนะนำแพลตฟอร์ม Chorn Planet",
+      "width": 1600,
+      "height": 1000,
+      "aspectRatio": "8:5",
+      "positionKey": "about.hero",
+      "mobile": {
+        "src": "/images/about/mobile/about-chorn-image-1200.webp",
+        "width": 800,
+        "height": 500,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images/about/thumbnail/about-chorn-image-1200.webp",
+        "width": 512,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images/about/desktop/about-chorn-image-1200.webp",
+        "width": 1600,
+        "height": 1000,
+        "quality": 82
+      }
+    },
+    "blocks": [
+      {
+        "title": "แพลตฟอร์ม AI Native",
+        "body": "Chorn Planet คือแพลตฟอร์มแบบ AI-native ที่รวม AI Smart Food, AI POS, AI Luxury, Style และเทคโนโลยีเชิงปฏิบัติไว้ในระบบนิเวศดิจิทัลที่พัฒนาอย่างต่อเนื่อง โดยเชื่อมกับความสามารถของระบบหลัก เช่น ERP, MES, Logic Controller และ Physical Layer",
+        "tags": [
+          "AI Native",
+          "ERP",
+          "MES",
+          "Logic Controller",
+          "Physical Layer",
+          "เวิร์กโฟลว์"
+        ],
+        "link": "/technology/"
+      },
+      {
+        "title": "AI Smart Mobility",
+        "body": "AI Smart Mobility สำรวจการขนส่งอัจฉริยะ โครงสร้างพื้นฐานที่เชื่อมต่อกัน และประสบการณ์การเดินทางแห่งอนาคตผ่านเครือข่าย Chorn Planet MTS โดยทำหน้าที่เป็นระบบไหลเวียนที่เชื่อมจุดหมายปลายทาง การท่องเที่ยว สภาพแวดล้อมไลฟ์สไตล์ และแนวคิดอารยธรรมที่พร้อมสำหรับอนาคต",
+        "tags": [
+          "เครือข่าย MTS",
+          "โครงสร้างพื้นฐานอัจฉริยะ",
+          "การเดินทางแห่งอนาคต"
+        ],
+        "link": "/smart-mobility/"
+      },
+      {
+        "title": "ระบบ Smart City",
+        "body": "Smart City Systems สำรวจว่าสภาพแวดล้อมอัจฉริยะ โครงสร้างพื้นฐานที่เชื่อมต่อกัน การประสานงานด้านการเดินทาง และประสบการณ์เมืองที่มีมนุษย์เป็นศูนย์กลางจะพัฒนาไปด้วยกันได้อย่างไร แพลตฟอร์มนี้สังเกตว่าเมืองอนาคตจะสร้างสมดุลระหว่างเทคโนโลยี การเคลื่อนที่ ความสะดวกสบาย ความยั่งยืน และชีวิตประจำวันภายในระบบนิเวศอารยธรรมที่เชื่อมต่อกันได้อย่างไร",
+        "tags": [
+          "เมืองที่มีมนุษย์เป็นศูนย์กลาง",
+          "โครงสร้างพื้นฐานที่เชื่อมต่อกัน",
+          "ความอัจฉริยะของเมือง"
+        ],
+        "link": "/smart-city/"
+      },
+      {
+        "title": "AI Smart Food",
+        "body": "Smart Food คือเลเยอร์ชีวิตประจำวันเชิงปฏิบัติที่ให้ Chorn Planet มีจุดเริ่มต้นที่มีประโยชน์ด้านการค้นหาอาหาร ข้อมูลเมนู ประสบการณ์ลูกค้า แนวคิดการสั่งซื้อ และโฟลว์บริการอาหารในอนาคตที่มี AI ช่วยสนับสนุน",
+        "tags": [
+          "ประสบการณ์อาหาร",
+          "แนวคิดการสั่งซื้อ",
+          "ประโยชน์ใช้สอยประจำวัน"
+        ],
+        "link": "/smart-food/"
+      },
+      {
+        "title": "AI Luxury",
+        "body": "AI Luxury คือเลเยอร์โครงการพรีเมียมสำหรับเรื่องเล่าเกี่ยวกับอสังหาริมทรัพย์ จุดหมายปลายทาง และไลฟ์สไตล์ ช่วยเปลี่ยนโครงการมูลค่าสูงให้เป็นเรื่องราวที่ชัดขึ้น ระบบภาพที่แข็งแรงขึ้น และคอนเทนต์แพลตฟอร์มที่พร้อมสำหรับนักลงทุน",
+        "tags": [
+          "โครงการพรีเมียม",
+          "เรื่องราวจุดหมายปลายทาง",
+          "พร้อมสำหรับนักลงทุน"
+        ],
+        "link": "/luxury/"
+      },
+      {
+        "title": "ทิศทางสไตล์และการแต่งตัว",
+        "body": "Style เติมเลเยอร์ไลฟ์สไตล์เชิงภาพให้แพลตฟอร์ม แนวคิดการแต่งตัวกลายเป็นฉาก เรื่องราว และทิศทางผลิตภัณฑ์ในโลกการเดินทาง วัฒนธรรม ความหรูแบบนุ่มนวล และคอมเมิร์ซอนาคต",
+        "tags": [
+          "Graceful Style",
+          "เรื่องราวการแต่งตัว",
+          "คอมเมิร์ซอนาคต"
+        ],
+        "link": "/style/"
+      }
+    ]
+  },
+  "channels": {}
+}

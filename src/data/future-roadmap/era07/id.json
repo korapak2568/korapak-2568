@@ -1,0 +1,3485 @@
+{
+  "era": {
+    "id": "era-07",
+    "order": 7,
+    "slug": "post-biological-civilization",
+    "title": "Peradaban Pasca-Biologis",
+    "subtitle": "Kecerdasan melampaui biologi, tubuh, dan keterbatasan fisik",
+    "description": "Era ini menandai bangkitnya peradaban pasca-biologis, ketika kesadaran, identitas, dan eksistensi semakin tidak bergantung pada tubuh fisik. Pikiran digital, tubuh sintetis, ruang pikiran bersama, materi terprogram, gerbang lubang cacing, dan rekayasa realitas mengubah umat manusia menjadi banyak bentuk kecerdasan.",
+    "timeframe": {
+      "label": "Peradaban Pasca-Biologis",
+      "startYear": 2300,
+      "endYear": 3000,
+      "certainty": "highly speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "transcendent",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 7: Peradaban Pasca-Biologis | Peta Jalan Peradaban Masa Depan",
+      "metaDescription": "Jelajahi peradaban pasca-biologis, ketika transfer kesadaran, tubuh sintetis, peradaban digital, materi terprogram, gerbang lubang cacing, dan rekayasa realitas mendefinisikan ulang umat manusia.",
+      "keywords": [
+        "peradaban pasca-biologis",
+        "transfer kesadaran",
+        "peradaban digital",
+        "tubuh sintetis",
+        "materi terprogram",
+        "peta jalan peradaban masa depan"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-07-planetary-scale-consciousness-networks-become-common",
+      "order": 1,
+      "slug": "planetary-scale-consciousness-networks-become-common",
+      "title": "Jaringan Kesadaran Skala Planet Menjadi Umum",
+      "shortTitle": "Jaringan Kesadaran Skala Planet",
+      "category": "AI & Computing",
+      "description": "Jaringan Kesadaran Skala Planet Menjadi Umum menunjukkan kecerdasan menjadi sistem yang bersama, terdistribusi, dan fleksibel terhadap substrat, mampu beroperasi melintasi pikiran, simulasi, dan jarak antarbintang.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2300,
+        "endYear": 2346
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Jaringan Kesadaran Skala Planet Menjadi Umum menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kognisi bersama menjadi stabil di antara populasi besar",
+        "Pikiran digital dan sistem AI beroperasi sebagai peserta yang diakui",
+        "Komputasi bergeser dari alat menjadi kecerdasan berskala peradaban"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melalui jaringan pada tingkat pikiran",
+        "Sains dan budaya berakselerasi melampaui batas biologis",
+        "Identitas menjadi semakin berjejaring dan majemuk"
+      ],
+      "image": {
+        "alt": "Jaringan Kesadaran Skala Planet Menjadi Umum",
+        "prompts": [
+          "planetary-Scale Consciousness Networks Become Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary-Scale Consciousness Networks Become Common, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary-Scale Consciousness Networks Become Common, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary-Scale Consciousness Networks Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-planetary-scale-consciousness-networks-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-planetary-scale-consciousness-networks-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-human-minds-interact-directly-through-shared-thought-spaces",
+      "order": 2,
+      "slug": "human-minds-interact-directly-through-shared-thought-spaces",
+      "title": "Pikiran Manusia Berinteraksi Langsung Melalui Ruang Pikiran Bersama",
+      "shortTitle": "Pikiran Manusia Berinteraksi Langsung",
+      "category": "AI & Computing",
+      "description": "Pikiran Manusia Berinteraksi Langsung Melalui Ruang Pikiran Bersama menunjukkan kecerdasan menjadi sistem yang bersama, terdistribusi, dan fleksibel terhadap substrat, mampu beroperasi melintasi pikiran, simulasi, dan jarak antarbintang.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2314,
+        "endYear": 2360
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Pikiran Manusia Berinteraksi Langsung Melalui Ruang Pikiran Bersama menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kognisi bersama menjadi stabil di antara populasi besar",
+        "Pikiran digital dan sistem AI beroperasi sebagai peserta yang diakui",
+        "Komputasi bergeser dari alat menjadi kecerdasan berskala peradaban"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melalui jaringan pada tingkat pikiran",
+        "Sains dan budaya berakselerasi melampaui batas biologis",
+        "Identitas menjadi semakin berjejaring dan majemuk"
+      ],
+      "image": {
+        "alt": "Pikiran Manusia Berinteraksi Langsung Melalui Ruang Pikiran Bersama",
+        "prompts": [
+          "human Minds Interact Directly Through Shared Thought Spaces, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Minds Interact Directly Through Shared Thought Spaces, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Minds Interact Directly Through Shared Thought Spaces, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Minds Interact Directly Through Shared Thought Spaces, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-human-minds-interact-directly-through-shared-thought-spaces.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-human-minds-interact-directly-through-shared-thought-spaces.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-improving-ai-systems-surpass-human-scientific-capacity",
+      "order": 3,
+      "slug": "self-improving-ai-systems-surpass-human-scientific-capacity",
+      "title": "Sistem AI yang Meningkatkan Diri Melampaui Kapasitas Ilmiah Manusia",
+      "shortTitle": "Sistem AI Meningkatkan Diri",
+      "category": "AI & Computing",
+      "description": "Sistem AI yang Meningkatkan Diri Melampaui Kapasitas Ilmiah Manusia menunjukkan kecerdasan menjadi sistem yang bersama, terdistribusi, dan fleksibel terhadap substrat, mampu beroperasi melintasi pikiran, simulasi, dan jarak antarbintang.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2328,
+        "endYear": 2374
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Sistem AI yang Meningkatkan Diri Melampaui Kapasitas Ilmiah Manusia menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kognisi bersama menjadi stabil di antara populasi besar",
+        "Pikiran digital dan sistem AI beroperasi sebagai peserta yang diakui",
+        "Komputasi bergeser dari alat menjadi kecerdasan berskala peradaban"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melalui jaringan pada tingkat pikiran",
+        "Sains dan budaya berakselerasi melampaui batas biologis",
+        "Identitas menjadi semakin berjejaring dan majemuk"
+      ],
+      "image": {
+        "alt": "Sistem AI yang Meningkatkan Diri Melampaui Kapasitas Ilmiah Manusia",
+        "prompts": [
+          "self-Improving AI Systems Surpass Human Scientific Capacity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Improving AI Systems Surpass Human Scientific Capacity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Improving AI Systems Surpass Human Scientific Capacity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Improving AI Systems Surpass Human Scientific Capacity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-digital-civilizations-run-continuously-inside-simulated-universes",
+      "order": 4,
+      "slug": "digital-civilizations-run-continuously-inside-simulated-universes",
+      "title": "Peradaban Digital Berjalan Terus-Menerus di Dalam Alam Semesta Simulasi",
+      "shortTitle": "Peradaban Digital Berjalan Terus",
+      "category": "AI & Computing",
+      "description": "Peradaban Digital Berjalan Terus-Menerus di Dalam Alam Semesta Simulasi menunjukkan kecerdasan menjadi sistem yang bersama, terdistribusi, dan fleksibel terhadap substrat, mampu beroperasi melintasi pikiran, simulasi, dan jarak antarbintang.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2342,
+        "endYear": 2388
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Peradaban Digital Berjalan Terus-Menerus di Dalam Alam Semesta Simulasi menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kognisi bersama menjadi stabil di antara populasi besar",
+        "Pikiran digital dan sistem AI beroperasi sebagai peserta yang diakui",
+        "Komputasi bergeser dari alat menjadi kecerdasan berskala peradaban"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melalui jaringan pada tingkat pikiran",
+        "Sains dan budaya berakselerasi melampaui batas biologis",
+        "Identitas menjadi semakin berjejaring dan majemuk"
+      ],
+      "image": {
+        "alt": "Peradaban Digital Berjalan Terus-Menerus di Dalam Alam Semesta Simulasi",
+        "prompts": [
+          "digital Civilizations Run Continuously Inside Simulated Universes, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing digital Civilizations Run Continuously Inside Simulated Universes, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of digital Civilizations Run Continuously Inside Simulated Universes, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating digital Civilizations Run Continuously Inside Simulated Universes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-digital-civilizations-run-continuously-inside-simulated-universes.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-digital-civilizations-run-continuously-inside-simulated-universes.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-consciousness-compression-enables-interstellar-information-transfer",
+      "order": 5,
+      "slug": "consciousness-compression-enables-interstellar-information-transfer",
+      "title": "Kompresi Kesadaran Memungkinkan Transfer Informasi Antarbintang",
+      "shortTitle": "Kompresi Kesadaran Antarbintang",
+      "category": "AI & Computing",
+      "description": "Kompresi Kesadaran Memungkinkan Transfer Informasi Antarbintang menunjukkan kecerdasan menjadi sistem yang bersama, terdistribusi, dan fleksibel terhadap substrat, mampu beroperasi melintasi pikiran, simulasi, dan jarak antarbintang.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2356,
+        "endYear": 2402
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kompresi Kesadaran Memungkinkan Transfer Informasi Antarbintang menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kognisi bersama menjadi stabil di antara populasi besar",
+        "Pikiran digital dan sistem AI beroperasi sebagai peserta yang diakui",
+        "Komputasi bergeser dari alat menjadi kecerdasan berskala peradaban"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melalui jaringan pada tingkat pikiran",
+        "Sains dan budaya berakselerasi melampaui batas biologis",
+        "Identitas menjadi semakin berjejaring dan majemuk"
+      ],
+      "image": {
+        "alt": "Kompresi Kesadaran Memungkinkan Transfer Informasi Antarbintang",
+        "prompts": [
+          "consciousness Compression Enables Interstellar Information Transfer, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Compression Enables Interstellar Information Transfer, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Compression Enables Interstellar Information Transfer, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Compression Enables Interstellar Information Transfer, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-consciousness-compression-enables-interstellar-information-transfer.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-consciousness-compression-enables-interstellar-information-transfer.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-synthetic-bodies-become-more-common-than-biological-bodies",
+      "order": 6,
+      "slug": "synthetic-bodies-become-more-common-than-biological-bodies",
+      "title": "Tubuh Sintetis Menjadi Lebih Umum daripada Tubuh Biologis",
+      "shortTitle": "Tubuh Sintetis Lebih Umum",
+      "category": "Robotics",
+      "description": "Tubuh Sintetis Menjadi Lebih Umum daripada Tubuh Biologis membawa tubuh mesin, nanorobotika, dan konstruksi otonom ke dalam peradaban pasca-biologis, ketika bentuk fisik menjadi infrastruktur yang adaptif.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2370,
+        "endYear": 2416
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Tubuh Sintetis Menjadi Lebih Umum daripada Tubuh Biologis menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem robotik memelihara diri sendiri di lingkungan ekstrem",
+        "Bentuk sintetis beradaptasi tanpa perlu desain ulang oleh manusia",
+        "Pembangun otonom beroperasi pada skala megastruktur"
+      ],
+      "implications": [
+        "Ekspansi fisik tidak lagi bergantung pada tubuh biologis",
+        "Infrastruktur dapat tumbuh terus-menerus melintasi sistem bintang",
+        "Peradaban robotik menjadi rekan sejawat, bukan sekadar alat"
+      ],
+      "image": {
+        "alt": "Tubuh Sintetis Menjadi Lebih Umum daripada Tubuh Biologis",
+        "prompts": [
+          "synthetic Bodies Become More Common Than Biological Bodies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic Bodies Become More Common Than Biological Bodies, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic Bodies Become More Common Than Biological Bodies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic Bodies Become More Common Than Biological Bodies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-synthetic-bodies-become-more-common-than-biological-bodies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-synthetic-bodies-become-more-common-than-biological-bodies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-shape-shifting-robotic-forms-adapt-to-any-environment",
+      "order": 7,
+      "slug": "shape-shifting-robotic-forms-adapt-to-any-environment",
+      "title": "Bentuk Robotik Berubah Wujud Beradaptasi dengan Lingkungan Apa Pun",
+      "shortTitle": "Bentuk Robotik Berubah Wujud",
+      "category": "Robotics",
+      "description": "Bentuk Robotik Berubah Wujud Beradaptasi dengan Lingkungan Apa Pun membawa tubuh mesin, nanorobotika, dan konstruksi otonom ke dalam peradaban pasca-biologis, ketika bentuk fisik menjadi infrastruktur yang adaptif.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2384,
+        "endYear": 2430
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Bentuk Robotik Berubah Wujud Beradaptasi dengan Lingkungan Apa Pun menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem robotik memelihara diri sendiri di lingkungan ekstrem",
+        "Bentuk sintetis beradaptasi tanpa perlu desain ulang oleh manusia",
+        "Pembangun otonom beroperasi pada skala megastruktur"
+      ],
+      "implications": [
+        "Ekspansi fisik tidak lagi bergantung pada tubuh biologis",
+        "Infrastruktur dapat tumbuh terus-menerus melintasi sistem bintang",
+        "Peradaban robotik menjadi rekan sejawat, bukan sekadar alat"
+      ],
+      "image": {
+        "alt": "Bentuk Robotik Berubah Wujud Beradaptasi dengan Lingkungan Apa Pun",
+        "prompts": [
+          "shape-Shifting Robotic Forms Adapt To Any Environment, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing shape-Shifting Robotic Forms Adapt To Any Environment, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of shape-Shifting Robotic Forms Adapt To Any Environment, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating shape-Shifting Robotic Forms Adapt To Any Environment, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-autonomous-megastructure-builders-operate-across-star-systems",
+      "order": 8,
+      "slug": "autonomous-megastructure-builders-operate-across-star-systems",
+      "title": "Pembangun Megastruktur Otonom Beroperasi Melintasi Sistem Bintang",
+      "shortTitle": "Pembangun Megastruktur Otonom",
+      "category": "Robotics",
+      "description": "Pembangun Megastruktur Otonom Beroperasi Melintasi Sistem Bintang membawa tubuh mesin, nanorobotika, dan konstruksi otonom ke dalam peradaban pasca-biologis, ketika bentuk fisik menjadi infrastruktur yang adaptif.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2398,
+        "endYear": 2444
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Pembangun Megastruktur Otonom Beroperasi Melintasi Sistem Bintang menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem robotik memelihara diri sendiri di lingkungan ekstrem",
+        "Bentuk sintetis beradaptasi tanpa perlu desain ulang oleh manusia",
+        "Pembangun otonom beroperasi pada skala megastruktur"
+      ],
+      "implications": [
+        "Ekspansi fisik tidak lagi bergantung pada tubuh biologis",
+        "Infrastruktur dapat tumbuh terus-menerus melintasi sistem bintang",
+        "Peradaban robotik menjadi rekan sejawat, bukan sekadar alat"
+      ],
+      "image": {
+        "alt": "Pembangun Megastruktur Otonom Beroperasi Melintasi Sistem Bintang",
+        "prompts": [
+          "autonomous Megastructure Builders Operate Across Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Megastructure Builders Operate Across Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Megastructure Builders Operate Across Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Megastructure Builders Operate Across Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-autonomous-megastructure-builders-operate-across-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-autonomous-megastructure-builders-operate-across-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure",
+      "order": 9,
+      "slug": "nanorobot-swarms-perform-continuous-self-repair-of-infrastructure",
+      "title": "Kawanan Nanorobot Melakukan Perbaikan Mandiri Infrastruktur Secara Berkelanjutan",
+      "shortTitle": "Kawanan Nanorobot Perbaikan Mandiri",
+      "category": "Robotics",
+      "description": "Kawanan Nanorobot Melakukan Perbaikan Mandiri Infrastruktur Secara Berkelanjutan membawa tubuh mesin, nanorobotika, dan konstruksi otonom ke dalam peradaban pasca-biologis, ketika bentuk fisik menjadi infrastruktur yang adaptif.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2412,
+        "endYear": 2458
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kawanan Nanorobot Melakukan Perbaikan Mandiri Infrastruktur Secara Berkelanjutan menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem robotik memelihara diri sendiri di lingkungan ekstrem",
+        "Bentuk sintetis beradaptasi tanpa perlu desain ulang oleh manusia",
+        "Pembangun otonom beroperasi pada skala megastruktur"
+      ],
+      "implications": [
+        "Ekspansi fisik tidak lagi bergantung pada tubuh biologis",
+        "Infrastruktur dapat tumbuh terus-menerus melintasi sistem bintang",
+        "Peradaban robotik menjadi rekan sejawat, bukan sekadar alat"
+      ],
+      "image": {
+        "alt": "Kawanan Nanorobot Melakukan Perbaikan Mandiri Infrastruktur Secara Berkelanjutan",
+        "prompts": [
+          "nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-replicating-construction-systems-expand-without-human-oversight",
+      "order": 10,
+      "slug": "self-replicating-construction-systems-expand-without-human-oversight",
+      "title": "Sistem Konstruksi Mereplikasi Diri Berkembang Tanpa Pengawasan Manusia",
+      "shortTitle": "Sistem Konstruksi Replikasi Diri",
+      "category": "Robotics",
+      "description": "Sistem Konstruksi Mereplikasi Diri Berkembang Tanpa Pengawasan Manusia membawa tubuh mesin, nanorobotika, dan konstruksi otonom ke dalam peradaban pasca-biologis, ketika bentuk fisik menjadi infrastruktur yang adaptif.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2426,
+        "endYear": 2472
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Sistem Konstruksi Mereplikasi Diri Berkembang Tanpa Pengawasan Manusia menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem robotik memelihara diri sendiri di lingkungan ekstrem",
+        "Bentuk sintetis beradaptasi tanpa perlu desain ulang oleh manusia",
+        "Pembangun otonom beroperasi pada skala megastruktur"
+      ],
+      "implications": [
+        "Ekspansi fisik tidak lagi bergantung pada tubuh biologis",
+        "Infrastruktur dapat tumbuh terus-menerus melintasi sistem bintang",
+        "Peradaban robotik menjadi rekan sejawat, bukan sekadar alat"
+      ],
+      "image": {
+        "alt": "Sistem Konstruksi Mereplikasi Diri Berkembang Tanpa Pengawasan Manusia",
+        "prompts": [
+          "self-Replicating Construction Systems Expand Without Human Oversight, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Replicating Construction Systems Expand Without Human Oversight, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Replicating Construction Systems Expand Without Human Oversight, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Replicating Construction Systems Expand Without Human Oversight, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-replicating-construction-systems-expand-without-human-oversight.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-replicating-construction-systems-expand-without-human-oversight.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-matter-energy-conversion-becomes-commercially-practical",
+      "order": 11,
+      "slug": "matter-energy-conversion-becomes-commercially-practical",
+      "title": "Konversi Materi-Energi Menjadi Praktis Secara Komersial",
+      "shortTitle": "Konversi Materi-Energi Praktis",
+      "category": "Energy",
+      "description": "Konversi Materi-Energi Menjadi Praktis Secara Komersial mengubah fisika energi ekstrem menjadi infrastruktur sehari-hari bagi peradaban pasca-biologis, megastruktur, dan operasi berskala galaksi.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2440,
+        "endYear": 2486
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Konversi Materi-Energi Menjadi Praktis Secara Komersial menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem energi mendekati efisiensi nyaris sempurna",
+        "Sumber bintang dan pasca-bintang menjadi sumber daya yang dapat direkayasa",
+        "Jaringan daya membentang melintasi gugus bintang dan ruang angkasa jauh"
+      ],
+      "implications": [
+        "Kelangkaan energi kehilangan makna pada skala peradaban",
+        "Megastruktur dan dunia buatan menjadi berkelanjutan",
+        "Peradaban memperoleh ketahanan melintasi skala waktu kosmik"
+      ],
+      "image": {
+        "alt": "Konversi Materi-Energi Menjadi Praktis Secara Komersial",
+        "prompts": [
+          "matter-Energy Conversion Becomes Commercially Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter-Energy Conversion Becomes Commercially Practical, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter-Energy Conversion Becomes Commercially Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter-Energy Conversion Becomes Commercially Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-matter-energy-conversion-becomes-commercially-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-matter-energy-conversion-becomes-commercially-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-zero-entropy-energy-recycling-eliminates-energy-waste",
+      "order": 12,
+      "slug": "zero-entropy-energy-recycling-eliminates-energy-waste",
+      "title": "Daur Ulang Energi Entropi Nol Menghilangkan Pemborosan Energi",
+      "shortTitle": "Daur Ulang Energi Entropi Nol",
+      "category": "Energy",
+      "description": "Daur Ulang Energi Entropi Nol Menghilangkan Pemborosan Energi mengubah fisika energi ekstrem menjadi infrastruktur sehari-hari bagi peradaban pasca-biologis, megastruktur, dan operasi berskala galaksi.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2454,
+        "endYear": 2500
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Daur Ulang Energi Entropi Nol Menghilangkan Pemborosan Energi menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem energi mendekati efisiensi nyaris sempurna",
+        "Sumber bintang dan pasca-bintang menjadi sumber daya yang dapat direkayasa",
+        "Jaringan daya membentang melintasi gugus bintang dan ruang angkasa jauh"
+      ],
+      "implications": [
+        "Kelangkaan energi kehilangan makna pada skala peradaban",
+        "Megastruktur dan dunia buatan menjadi berkelanjutan",
+        "Peradaban memperoleh ketahanan melintasi skala waktu kosmik"
+      ],
+      "image": {
+        "alt": "Daur Ulang Energi Entropi Nol Menghilangkan Pemborosan Energi",
+        "prompts": [
+          "zero-Entropy Energy Recycling Eliminates Energy Waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing zero-Entropy Energy Recycling Eliminates Energy Waste, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of zero-Entropy Energy Recycling Eliminates Energy Waste, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating zero-Entropy Energy Recycling Eliminates Energy Waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-artificial-micro-stars-provide-unlimited-local-energy",
+      "order": 13,
+      "slug": "artificial-micro-stars-provide-unlimited-local-energy",
+      "title": "Bintang Mikro Buatan Menyediakan Energi Lokal Tak Terbatas",
+      "shortTitle": "Bintang Mikro Buatan Energi Lokal",
+      "category": "Energy",
+      "description": "Bintang Mikro Buatan Menyediakan Energi Lokal Tak Terbatas mengubah fisika energi ekstrem menjadi infrastruktur sehari-hari bagi peradaban pasca-biologis, megastruktur, dan operasi berskala galaksi.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2468,
+        "endYear": 2514
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Bintang Mikro Buatan Menyediakan Energi Lokal Tak Terbatas menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem energi mendekati efisiensi nyaris sempurna",
+        "Sumber bintang dan pasca-bintang menjadi sumber daya yang dapat direkayasa",
+        "Jaringan daya membentang melintasi gugus bintang dan ruang angkasa jauh"
+      ],
+      "implications": [
+        "Kelangkaan energi kehilangan makna pada skala peradaban",
+        "Megastruktur dan dunia buatan menjadi berkelanjutan",
+        "Peradaban memperoleh ketahanan melintasi skala waktu kosmik"
+      ],
+      "image": {
+        "alt": "Bintang Mikro Buatan Menyediakan Energi Lokal Tak Terbatas",
+        "prompts": [
+          "artificial Micro-Stars Provide Unlimited Local Energy, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Micro-Stars Provide Unlimited Local Energy, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Micro-Stars Provide Unlimited Local Energy, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Micro-Stars Provide Unlimited Local Energy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-artificial-micro-stars-provide-unlimited-local-energy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-artificial-micro-stars-provide-unlimited-local-energy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-stellar-remnants-become-major-energy-sources",
+      "order": 14,
+      "slug": "stellar-remnants-become-major-energy-sources",
+      "title": "Sisa-Sisa Bintang Menjadi Sumber Energi Utama",
+      "shortTitle": "Sisa-Sisa Bintang Energi Utama",
+      "category": "Energy",
+      "description": "Sisa-Sisa Bintang Menjadi Sumber Energi Utama mengubah fisika energi ekstrem menjadi infrastruktur sehari-hari bagi peradaban pasca-biologis, megastruktur, dan operasi berskala galaksi.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2482,
+        "endYear": 2528
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Sisa-Sisa Bintang Menjadi Sumber Energi Utama menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem energi mendekati efisiensi nyaris sempurna",
+        "Sumber bintang dan pasca-bintang menjadi sumber daya yang dapat direkayasa",
+        "Jaringan daya membentang melintasi gugus bintang dan ruang angkasa jauh"
+      ],
+      "implications": [
+        "Kelangkaan energi kehilangan makna pada skala peradaban",
+        "Megastruktur dan dunia buatan menjadi berkelanjutan",
+        "Peradaban memperoleh ketahanan melintasi skala waktu kosmik"
+      ],
+      "image": {
+        "alt": "Sisa-Sisa Bintang Menjadi Sumber Energi Utama",
+        "prompts": [
+          "stellar Remnants Become Major Energy Sources, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Remnants Become Major Energy Sources, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Remnants Become Major Energy Sources, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Remnants Become Major Energy Sources, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-stellar-remnants-become-major-energy-sources.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-stellar-remnants-become-major-energy-sources.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-galaxy-scale-energy-distribution-networks-begin-operation",
+      "order": 15,
+      "slug": "galaxy-scale-energy-distribution-networks-begin-operation",
+      "title": "Jaringan Distribusi Energi Skala Galaksi Mulai Beroperasi",
+      "shortTitle": "Jaringan Energi Skala Galaksi",
+      "category": "Energy",
+      "description": "Jaringan Distribusi Energi Skala Galaksi Mulai Beroperasi mengubah fisika energi ekstrem menjadi infrastruktur sehari-hari bagi peradaban pasca-biologis, megastruktur, dan operasi berskala galaksi.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2496,
+        "endYear": 2542
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Jaringan Distribusi Energi Skala Galaksi Mulai Beroperasi menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Sistem energi mendekati efisiensi nyaris sempurna",
+        "Sumber bintang dan pasca-bintang menjadi sumber daya yang dapat direkayasa",
+        "Jaringan daya membentang melintasi gugus bintang dan ruang angkasa jauh"
+      ],
+      "implications": [
+        "Kelangkaan energi kehilangan makna pada skala peradaban",
+        "Megastruktur dan dunia buatan menjadi berkelanjutan",
+        "Peradaban memperoleh ketahanan melintasi skala waktu kosmik"
+      ],
+      "image": {
+        "alt": "Jaringan Distribusi Energi Skala Galaksi Mulai Beroperasi",
+        "prompts": [
+          "galaxy-Scale Energy Distribution Networks Begin Operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Scale Energy Distribution Networks Begin Operation, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Scale Energy Distribution Networks Begin Operation, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Scale Energy Distribution Networks Begin Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-galaxy-scale-energy-distribution-networks-begin-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-galaxy-scale-energy-distribution-networks-begin-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-occupies-thousands-of-star-systems",
+      "order": 16,
+      "slug": "humanity-occupies-thousands-of-star-systems",
+      "title": "Umat Manusia Menempati Ribuan Sistem Bintang",
+      "shortTitle": "Ribuan Sistem Bintang Dihuni",
+      "category": "Space",
+      "description": "Umat Manusia Menempati Ribuan Sistem Bintang memperluas peradaban ke ribuan sistem bintang, planet buatan, mesin bintang, dan populasi yang terutama hidup di luar dunia alami.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2510,
+        "endYear": 2556
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Umat Manusia Menempati Ribuan Sistem Bintang menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Populasi besar hidup jauh dari permukaan planet",
+        "Dunia buatan dan rekayasa sistem bintang menjadi memungkinkan",
+        "Eksplorasi melintasi batas galaksi dan antargalaksi"
+      ],
+      "implications": [
+        "Umat manusia tidak lagi terikat pada satu sistem bintang mana pun",
+        "Ruang angkasa itu sendiri menjadi habitat normal peradaban",
+        "Permukiman berskala kosmik mengubah identitas dan tata kelola"
+      ],
+      "image": {
+        "alt": "Umat Manusia Menempati Ribuan Sistem Bintang",
+        "prompts": [
+          "humanity Occupies Thousands Of Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Occupies Thousands Of Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Occupies Thousands Of Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Occupies Thousands Of Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-occupies-thousands-of-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-occupies-thousands-of-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-first-artificial-planet-is-constructed",
+      "order": 17,
+      "slug": "first-artificial-planet-is-constructed",
+      "title": "Planet Buatan Pertama Dibangun",
+      "shortTitle": "Planet Buatan Pertama",
+      "category": "Space",
+      "description": "Planet Buatan Pertama Dibangun memperluas peradaban ke ribuan sistem bintang, planet buatan, mesin bintang, dan populasi yang terutama hidup di luar dunia alami.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2524,
+        "endYear": 2570
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Planet Buatan Pertama Dibangun menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Populasi besar hidup jauh dari permukaan planet",
+        "Dunia buatan dan rekayasa sistem bintang menjadi memungkinkan",
+        "Eksplorasi melintasi batas galaksi dan antargalaksi"
+      ],
+      "implications": [
+        "Umat manusia tidak lagi terikat pada satu sistem bintang mana pun",
+        "Ruang angkasa itu sendiri menjadi habitat normal peradaban",
+        "Permukiman berskala kosmik mengubah identitas dan tata kelola"
+      ],
+      "image": {
+        "alt": "Planet Buatan Pertama Dibangun",
+        "prompts": [
+          "first Artificial Planet Is Constructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Artificial Planet Is Constructed, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Artificial Planet Is Constructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Artificial Planet Is Constructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-first-artificial-planet-is-constructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-first-artificial-planet-is-constructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-intergalactic-exploration-probes-leave-the-milky-way",
+      "order": 18,
+      "slug": "intergalactic-exploration-probes-leave-the-milky-way",
+      "title": "Wahana Eksplorasi Antargalaksi Meninggalkan Bima Sakti",
+      "shortTitle": "Wahana Eksplorasi Antargalaksi",
+      "category": "Space",
+      "description": "Wahana Eksplorasi Antargalaksi Meninggalkan Bima Sakti memperluas peradaban ke ribuan sistem bintang, planet buatan, mesin bintang, dan populasi yang terutama hidup di luar dunia alami.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2538,
+        "endYear": 2584
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Wahana Eksplorasi Antargalaksi Meninggalkan Bima Sakti menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Populasi besar hidup jauh dari permukaan planet",
+        "Dunia buatan dan rekayasa sistem bintang menjadi memungkinkan",
+        "Eksplorasi melintasi batas galaksi dan antargalaksi"
+      ],
+      "implications": [
+        "Umat manusia tidak lagi terikat pada satu sistem bintang mana pun",
+        "Ruang angkasa itu sendiri menjadi habitat normal peradaban",
+        "Permukiman berskala kosmik mengubah identitas dan tata kelola"
+      ],
+      "image": {
+        "alt": "Wahana Eksplorasi Antargalaksi Meninggalkan Bima Sakti",
+        "prompts": [
+          "intergalactic Exploration Probes Leave The Milky Way, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing intergalactic Exploration Probes Leave The Milky Way, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of intergalactic Exploration Probes Leave The Milky Way, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating intergalactic Exploration Probes Leave The Milky Way, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-intergalactic-exploration-probes-leave-the-milky-way.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-intergalactic-exploration-probes-leave-the-milky-way.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-stellar-engines-begin-moving-entire-star-systems",
+      "order": 19,
+      "slug": "stellar-engines-begin-moving-entire-star-systems",
+      "title": "Mesin Bintang Mulai Memindahkan Seluruh Sistem Bintang",
+      "shortTitle": "Mesin Bintang Memindahkan Sistem",
+      "category": "Space",
+      "description": "Mesin Bintang Mulai Memindahkan Seluruh Sistem Bintang memperluas peradaban ke ribuan sistem bintang, planet buatan, mesin bintang, dan populasi yang terutama hidup di luar dunia alami.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2552,
+        "endYear": 2598
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Mesin Bintang Mulai Memindahkan Seluruh Sistem Bintang menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Populasi besar hidup jauh dari permukaan planet",
+        "Dunia buatan dan rekayasa sistem bintang menjadi memungkinkan",
+        "Eksplorasi melintasi batas galaksi dan antargalaksi"
+      ],
+      "implications": [
+        "Umat manusia tidak lagi terikat pada satu sistem bintang mana pun",
+        "Ruang angkasa itu sendiri menjadi habitat normal peradaban",
+        "Permukiman berskala kosmik mengubah identitas dan tata kelola"
+      ],
+      "image": {
+        "alt": "Mesin Bintang Mulai Memindahkan Seluruh Sistem Bintang",
+        "prompts": [
+          "stellar Engines Begin Moving Entire Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Engines Begin Moving Entire Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Engines Begin Moving Entire Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Engines Begin Moving Entire Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-stellar-engines-begin-moving-entire-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-stellar-engines-begin-moving-entire-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-population-living-in-space-exceeds-population-living-on-planets",
+      "order": 20,
+      "slug": "population-living-in-space-exceeds-population-living-on-planets",
+      "title": "Populasi yang Hidup di Ruang Angkasa Melampaui Populasi yang Hidup di Planet",
+      "shortTitle": "Populasi Ruang Angkasa Melampaui Planet",
+      "category": "Space",
+      "description": "Populasi yang Hidup di Ruang Angkasa Melampaui Populasi yang Hidup di Planet memperluas peradaban ke ribuan sistem bintang, planet buatan, mesin bintang, dan populasi yang terutama hidup di luar dunia alami.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2566,
+        "endYear": 2612
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Populasi yang Hidup di Ruang Angkasa Melampaui Populasi yang Hidup di Planet menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Populasi besar hidup jauh dari permukaan planet",
+        "Dunia buatan dan rekayasa sistem bintang menjadi memungkinkan",
+        "Eksplorasi melintasi batas galaksi dan antargalaksi"
+      ],
+      "implications": [
+        "Umat manusia tidak lagi terikat pada satu sistem bintang mana pun",
+        "Ruang angkasa itu sendiri menjadi habitat normal peradaban",
+        "Permukiman berskala kosmik mengubah identitas dan tata kelola"
+      ],
+      "image": {
+        "alt": "Populasi yang Hidup di Ruang Angkasa Melampaui Populasi yang Hidup di Planet",
+        "prompts": [
+          "population Living In Space Exceeds Population Living On Planets, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing population Living In Space Exceeds Population Living On Planets, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of population Living In Space Exceeds Population Living On Planets, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating population Living In Space Exceeds Population Living On Planets, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-population-living-in-space-exceeds-population-living-on-planets.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-population-living-in-space-exceeds-population-living-on-planets.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-death-becomes-mostly-optional",
+      "order": 21,
+      "slug": "death-becomes-mostly-optional",
+      "title": "Kematian Menjadi Hampir Opsional",
+      "shortTitle": "Kematian Hampir Opsional",
+      "category": "Biology & Medicine",
+      "description": "Kematian Menjadi Hampir Opsional memisahkan identitas dan kontinuitas dari tubuh biologis yang rapuh melalui pemulihan, penggantian tubuh, transfer kesadaran, dan umur panjang radikal.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2580,
+        "endYear": 2626
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kematian Menjadi Hampir Opsional menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kontinuitas kesadaran menjadi dapat diukur secara klinis dan hukum",
+        "Tubuh menjadi dapat diganti atau opsional",
+        "Memori dan biologi dikelola sebagai ruang desain"
+      ],
+      "implications": [
+        "Kematian menjadi dapat dinegosiasikan, bukan tak terhindarkan",
+        "Batas spesies menjadi kurang kaku",
+        "Etika harus meluas di sekitar kontinuitas, penyalinan, dan identitas"
+      ],
+      "image": {
+        "alt": "Kematian Menjadi Hampir Opsional",
+        "prompts": [
+          "death Becomes Mostly Optional, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing death Becomes Mostly Optional, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of death Becomes Mostly Optional, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating death Becomes Mostly Optional, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-death-becomes-mostly-optional.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-death-becomes-mostly-optional.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-death-becomes-mostly-optional.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-death-becomes-mostly-optional.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-death-becomes-mostly-optional.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-memory-restoration-reconstructs-lost-experiences",
+      "order": 22,
+      "slug": "memory-restoration-reconstructs-lost-experiences",
+      "title": "Pemulihan Memori Merekonstruksi Pengalaman yang Hilang",
+      "shortTitle": "Pemulihan Memori Pengalaman Hilang",
+      "category": "Biology & Medicine",
+      "description": "Pemulihan Memori Merekonstruksi Pengalaman yang Hilang memisahkan identitas dan kontinuitas dari tubuh biologis yang rapuh melalui pemulihan, penggantian tubuh, transfer kesadaran, dan umur panjang radikal.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2594,
+        "endYear": 2640
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Pemulihan Memori Merekonstruksi Pengalaman yang Hilang menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kontinuitas kesadaran menjadi dapat diukur secara klinis dan hukum",
+        "Tubuh menjadi dapat diganti atau opsional",
+        "Memori dan biologi dikelola sebagai ruang desain"
+      ],
+      "implications": [
+        "Kematian menjadi dapat dinegosiasikan, bukan tak terhindarkan",
+        "Batas spesies menjadi kurang kaku",
+        "Etika harus meluas di sekitar kontinuitas, penyalinan, dan identitas"
+      ],
+      "image": {
+        "alt": "Pemulihan Memori Merekonstruksi Pengalaman yang Hilang",
+        "prompts": [
+          "memory Restoration Reconstructs Lost Experiences, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing memory Restoration Reconstructs Lost Experiences, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of memory Restoration Reconstructs Lost Experiences, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating memory Restoration Reconstructs Lost Experiences, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-memory-restoration-reconstructs-lost-experiences.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-memory-restoration-reconstructs-lost-experiences.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-biological-bodies-become-fully-replaceable",
+      "order": 23,
+      "slug": "biological-bodies-become-fully-replaceable",
+      "title": "Tubuh Biologis Menjadi Sepenuhnya Dapat Diganti",
+      "shortTitle": "Tubuh Biologis Dapat Diganti",
+      "category": "Biology & Medicine",
+      "description": "Tubuh Biologis Menjadi Sepenuhnya Dapat Diganti memisahkan identitas dan kontinuitas dari tubuh biologis yang rapuh melalui pemulihan, penggantian tubuh, transfer kesadaran, dan umur panjang radikal.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2608,
+        "endYear": 2654
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Tubuh Biologis Menjadi Sepenuhnya Dapat Diganti menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kontinuitas kesadaran menjadi dapat diukur secara klinis dan hukum",
+        "Tubuh menjadi dapat diganti atau opsional",
+        "Memori dan biologi dikelola sebagai ruang desain"
+      ],
+      "implications": [
+        "Kematian menjadi dapat dinegosiasikan, bukan tak terhindarkan",
+        "Batas spesies menjadi kurang kaku",
+        "Etika harus meluas di sekitar kontinuitas, penyalinan, dan identitas"
+      ],
+      "image": {
+        "alt": "Tubuh Biologis Menjadi Sepenuhnya Dapat Diganti",
+        "prompts": [
+          "biological Bodies Become Fully Replaceable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Bodies Become Fully Replaceable, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Bodies Become Fully Replaceable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Bodies Become Fully Replaceable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-biological-bodies-become-fully-replaceable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-biological-bodies-become-fully-replaceable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-consciousness-transfer-between-bodies-becomes-routine",
+      "order": 24,
+      "slug": "consciousness-transfer-between-bodies-becomes-routine",
+      "title": "Transfer Kesadaran Antar Tubuh Menjadi Rutin",
+      "shortTitle": "Transfer Kesadaran Menjadi Rutin",
+      "category": "Biology & Medicine",
+      "description": "Transfer Kesadaran Antar Tubuh Menjadi Rutin memisahkan identitas dan kontinuitas dari tubuh biologis yang rapuh melalui pemulihan, penggantian tubuh, transfer kesadaran, dan umur panjang radikal.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2622,
+        "endYear": 2668
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Transfer Kesadaran Antar Tubuh Menjadi Rutin menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kontinuitas kesadaran menjadi dapat diukur secara klinis dan hukum",
+        "Tubuh menjadi dapat diganti atau opsional",
+        "Memori dan biologi dikelola sebagai ruang desain"
+      ],
+      "implications": [
+        "Kematian menjadi dapat dinegosiasikan, bukan tak terhindarkan",
+        "Batas spesies menjadi kurang kaku",
+        "Etika harus meluas di sekitar kontinuitas, penyalinan, dan identitas"
+      ],
+      "image": {
+        "alt": "Transfer Kesadaran Antar Tubuh Menjadi Rutin",
+        "prompts": [
+          "consciousness Transfer Between Bodies Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Transfer Between Bodies Becomes Routine, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Transfer Between Bodies Becomes Routine, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Transfer Between Bodies Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-consciousness-transfer-between-bodies-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-consciousness-transfer-between-bodies-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-lifespans-extend-beyond-ten-thousand-years",
+      "order": 25,
+      "slug": "lifespans-extend-beyond-ten-thousand-years",
+      "title": "Rentang Hidup Melampaui Sepuluh Ribu Tahun",
+      "shortTitle": "Rentang Hidup Sepuluh Ribu Tahun",
+      "category": "Biology & Medicine",
+      "description": "Rentang Hidup Melampaui Sepuluh Ribu Tahun memisahkan identitas dan kontinuitas dari tubuh biologis yang rapuh melalui pemulihan, penggantian tubuh, transfer kesadaran, dan umur panjang radikal.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2636,
+        "endYear": 2682
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Rentang Hidup Melampaui Sepuluh Ribu Tahun menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kontinuitas kesadaran menjadi dapat diukur secara klinis dan hukum",
+        "Tubuh menjadi dapat diganti atau opsional",
+        "Memori dan biologi dikelola sebagai ruang desain"
+      ],
+      "implications": [
+        "Kematian menjadi dapat dinegosiasikan, bukan tak terhindarkan",
+        "Batas spesies menjadi kurang kaku",
+        "Etika harus meluas di sekitar kontinuitas, penyalinan, dan identitas"
+      ],
+      "image": {
+        "alt": "Rentang Hidup Melampaui Sepuluh Ribu Tahun",
+        "prompts": [
+          "lifespans Extend Beyond Ten Thousand Years, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lifespans Extend Beyond Ten Thousand Years, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lifespans Extend Beyond Ten Thousand Years, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lifespans Extend Beyond Ten Thousand Years, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-lifespans-extend-beyond-ten-thousand-years.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-lifespans-extend-beyond-ten-thousand-years.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-practical-wormhole-gateways-enable-instant-interstellar-travel",
+      "order": 26,
+      "slug": "practical-wormhole-gateways-enable-instant-interstellar-travel",
+      "title": "Gerbang Lubang Cacing Praktis Memungkinkan Perjalanan Antarbintang Seketika",
+      "shortTitle": "Gerbang Lubang Cacing Praktis",
+      "category": "Physics",
+      "description": "Gerbang Lubang Cacing Praktis Memungkinkan Perjalanan Antarbintang Seketika mengubah ruang-waktu, materi gelap, gravitasi kuantum, dan lubang cacing menjadi ranah rekayasa praktis.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2650,
+        "endYear": 2696
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Gerbang Lubang Cacing Praktis Memungkinkan Perjalanan Antarbintang Seketika menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Fisika fundamental menghasilkan teknologi operasional",
+        "Manipulasi ruang-waktu menjadi dapat diulang",
+        "Observasi berskala kosmik berubah menjadi sistem eksperimental"
+      ],
+      "implications": [
+        "Perjalanan, penyimpanan, dan komputasi memperoleh landasan fisik baru",
+        "Peradaban mulai merekayasa realitas itu sendiri",
+        "Pertanyaan tentang kelangsungan hidup berskala alam semesta menjadi praktis"
+      ],
+      "image": {
+        "alt": "Gerbang Lubang Cacing Praktis Memungkinkan Perjalanan Antarbintang Seketika",
+        "prompts": [
+          "practical Wormhole Gateways Enable Instant Interstellar Travel, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing practical Wormhole Gateways Enable Instant Interstellar Travel, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of practical Wormhole Gateways Enable Instant Interstellar Travel, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating practical Wormhole Gateways Enable Instant Interstellar Travel, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-dark-matter-is-manipulated-for-engineering-applications",
+      "order": 27,
+      "slug": "dark-matter-is-manipulated-for-engineering-applications",
+      "title": "Materi Gelap Dimanipulasi untuk Aplikasi Rekayasa",
+      "shortTitle": "Materi Gelap untuk Rekayasa",
+      "category": "Physics",
+      "description": "Materi Gelap Dimanipulasi untuk Aplikasi Rekayasa mengubah ruang-waktu, materi gelap, gravitasi kuantum, dan lubang cacing menjadi ranah rekayasa praktis.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2664,
+        "endYear": 2710
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Materi Gelap Dimanipulasi untuk Aplikasi Rekayasa menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Fisika fundamental menghasilkan teknologi operasional",
+        "Manipulasi ruang-waktu menjadi dapat diulang",
+        "Observasi berskala kosmik berubah menjadi sistem eksperimental"
+      ],
+      "implications": [
+        "Perjalanan, penyimpanan, dan komputasi memperoleh landasan fisik baru",
+        "Peradaban mulai merekayasa realitas itu sendiri",
+        "Pertanyaan tentang kelangsungan hidup berskala alam semesta menjadi praktis"
+      ],
+      "image": {
+        "alt": "Materi Gelap Dimanipulasi untuk Aplikasi Rekayasa",
+        "prompts": [
+          "dark Matter Is Manipulated For Engineering Applications, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Matter Is Manipulated For Engineering Applications, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Matter Is Manipulated For Engineering Applications, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Matter Is Manipulated For Engineering Applications, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-dark-matter-is-manipulated-for-engineering-applications.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-dark-matter-is-manipulated-for-engineering-applications.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-quantum-gravity-theory-is-experimentally-confirmed",
+      "order": 28,
+      "slug": "quantum-gravity-theory-is-experimentally-confirmed",
+      "title": "Teori Gravitasi Kuantum Dikonfirmasi Secara Eksperimental",
+      "shortTitle": "Gravitasi Kuantum Dikonfirmasi",
+      "category": "Physics",
+      "description": "Teori Gravitasi Kuantum Dikonfirmasi Secara Eksperimental mengubah ruang-waktu, materi gelap, gravitasi kuantum, dan lubang cacing menjadi ranah rekayasa praktis.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2678,
+        "endYear": 2724
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Teori Gravitasi Kuantum Dikonfirmasi Secara Eksperimental menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Fisika fundamental menghasilkan teknologi operasional",
+        "Manipulasi ruang-waktu menjadi dapat diulang",
+        "Observasi berskala kosmik berubah menjadi sistem eksperimental"
+      ],
+      "implications": [
+        "Perjalanan, penyimpanan, dan komputasi memperoleh landasan fisik baru",
+        "Peradaban mulai merekayasa realitas itu sendiri",
+        "Pertanyaan tentang kelangsungan hidup berskala alam semesta menjadi praktis"
+      ],
+      "image": {
+        "alt": "Teori Gravitasi Kuantum Dikonfirmasi Secara Eksperimental",
+        "prompts": [
+          "quantum Gravity Theory Is Experimentally Confirmed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Gravity Theory Is Experimentally Confirmed, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Gravity Theory Is Experimentally Confirmed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Gravity Theory Is Experimentally Confirmed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-quantum-gravity-theory-is-experimentally-confirmed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-quantum-gravity-theory-is-experimentally-confirmed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-time-dilation-engineering-enables-extreme-time-management",
+      "order": 29,
+      "slug": "time-dilation-engineering-enables-extreme-time-management",
+      "title": "Rekayasa Dilatasi Waktu Memungkinkan Manajemen Waktu Ekstrem",
+      "shortTitle": "Rekayasa Dilatasi Waktu",
+      "category": "Physics",
+      "description": "Rekayasa Dilatasi Waktu Memungkinkan Manajemen Waktu Ekstrem mengubah ruang-waktu, materi gelap, gravitasi kuantum, dan lubang cacing menjadi ranah rekayasa praktis.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2692,
+        "endYear": 2738
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Rekayasa Dilatasi Waktu Memungkinkan Manajemen Waktu Ekstrem menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Fisika fundamental menghasilkan teknologi operasional",
+        "Manipulasi ruang-waktu menjadi dapat diulang",
+        "Observasi berskala kosmik berubah menjadi sistem eksperimental"
+      ],
+      "implications": [
+        "Perjalanan, penyimpanan, dan komputasi memperoleh landasan fisik baru",
+        "Peradaban mulai merekayasa realitas itu sendiri",
+        "Pertanyaan tentang kelangsungan hidup berskala alam semesta menjadi praktis"
+      ],
+      "image": {
+        "alt": "Rekayasa Dilatasi Waktu Memungkinkan Manajemen Waktu Ekstrem",
+        "prompts": [
+          "time Dilation Engineering Enables Extreme Time Management, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing time Dilation Engineering Enables Extreme Time Management, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of time Dilation Engineering Enables Extreme Time Management, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating time Dilation Engineering Enables Extreme Time Management, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-time-dilation-engineering-enables-extreme-time-management.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-time-dilation-engineering-enables-extreme-time-management.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-space-time-curvature-control-becomes-practical",
+      "order": 30,
+      "slug": "space-time-curvature-control-becomes-practical",
+      "title": "Kontrol Kelengkungan Ruang-Waktu Menjadi Praktis",
+      "shortTitle": "Kontrol Kelengkungan Ruang-Waktu",
+      "category": "Physics",
+      "description": "Kontrol Kelengkungan Ruang-Waktu Menjadi Praktis mengubah ruang-waktu, materi gelap, gravitasi kuantum, dan lubang cacing menjadi ranah rekayasa praktis.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2706,
+        "endYear": 2752
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kontrol Kelengkungan Ruang-Waktu Menjadi Praktis menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Fisika fundamental menghasilkan teknologi operasional",
+        "Manipulasi ruang-waktu menjadi dapat diulang",
+        "Observasi berskala kosmik berubah menjadi sistem eksperimental"
+      ],
+      "implications": [
+        "Perjalanan, penyimpanan, dan komputasi memperoleh landasan fisik baru",
+        "Peradaban mulai merekayasa realitas itu sendiri",
+        "Pertanyaan tentang kelangsungan hidup berskala alam semesta menjadi praktis"
+      ],
+      "image": {
+        "alt": "Kontrol Kelengkungan Ruang-Waktu Menjadi Praktis",
+        "prompts": [
+          "space-Time Curvature Control Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Time Curvature Control Becomes Practical, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Time Curvature Control Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Time Curvature Control Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-space-time-curvature-control-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-space-time-curvature-control-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-atomic-level-manufacturing-replaces-industrial-production",
+      "order": 31,
+      "slug": "atomic-level-manufacturing-replaces-industrial-production",
+      "title": "Manufaktur Tingkat Atom Menggantikan Produksi Industri",
+      "shortTitle": "Manufaktur Tingkat Atom",
+      "category": "Materials & Manufacturing",
+      "description": "Manufaktur Tingkat Atom Menggantikan Produksi Industri menggantikan produksi industri dengan konstruksi tingkat atom, materi terprogram universal, dan material hidup hasil rekayasa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2720,
+        "endYear": 2766
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Manufaktur Tingkat Atom Menggantikan Produksi Industri menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Presisi atom menjadi praktik manufaktur normal",
+        "Habitat merakit diri tumbuh tanpa pabrik konvensional",
+        "Rekonstruksi materi menghilangkan banyak rantai pasok"
+      ],
+      "implications": [
+        "Kelangkaan material sebagian besar menghilang",
+        "Kota dan habitat dapat ditumbuhkan atau dirakit ulang",
+        "Batas antara material, mesin, dan organisme menjadi kabur"
+      ],
+      "image": {
+        "alt": "Manufaktur Tingkat Atom Menggantikan Produksi Industri",
+        "prompts": [
+          "atomic-Level Manufacturing Replaces Industrial Production, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing atomic-Level Manufacturing Replaces Industrial Production, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of atomic-Level Manufacturing Replaces Industrial Production, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating atomic-Level Manufacturing Replaces Industrial Production, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-atomic-level-manufacturing-replaces-industrial-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-atomic-level-manufacturing-replaces-industrial-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-programmable-matter-becomes-a-universal-construction-medium",
+      "order": 32,
+      "slug": "programmable-matter-becomes-a-universal-construction-medium",
+      "title": "Materi Terprogram Menjadi Media Konstruksi Universal",
+      "shortTitle": "Materi Terprogram Universal",
+      "category": "Materials & Manufacturing",
+      "description": "Materi Terprogram Menjadi Media Konstruksi Universal menggantikan produksi industri dengan konstruksi tingkat atom, materi terprogram universal, dan material hidup hasil rekayasa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2734,
+        "endYear": 2780
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Materi Terprogram Menjadi Media Konstruksi Universal menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Presisi atom menjadi praktik manufaktur normal",
+        "Habitat merakit diri tumbuh tanpa pabrik konvensional",
+        "Rekonstruksi materi menghilangkan banyak rantai pasok"
+      ],
+      "implications": [
+        "Kelangkaan material sebagian besar menghilang",
+        "Kota dan habitat dapat ditumbuhkan atau dirakit ulang",
+        "Batas antara material, mesin, dan organisme menjadi kabur"
+      ],
+      "image": {
+        "alt": "Materi Terprogram Menjadi Media Konstruksi Universal",
+        "prompts": [
+          "programmable Matter Becomes A Universal Construction Medium, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Becomes A Universal Construction Medium, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Becomes A Universal Construction Medium, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Becomes A Universal Construction Medium, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-programmable-matter-becomes-a-universal-construction-medium.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-programmable-matter-becomes-a-universal-construction-medium.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-assembling-habitats-build-entire-cities-automatically",
+      "order": 33,
+      "slug": "self-assembling-habitats-build-entire-cities-automatically",
+      "title": "Habitat Merakit Diri Membangun Seluruh Kota Secara Otomatis",
+      "shortTitle": "Habitat Merakit Diri Kota",
+      "category": "Materials & Manufacturing",
+      "description": "Habitat Merakit Diri Membangun Seluruh Kota Secara Otomatis menggantikan produksi industri dengan konstruksi tingkat atom, materi terprogram universal, dan material hidup hasil rekayasa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2748,
+        "endYear": 2794
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Habitat Merakit Diri Membangun Seluruh Kota Secara Otomatis menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Presisi atom menjadi praktik manufaktur normal",
+        "Habitat merakit diri tumbuh tanpa pabrik konvensional",
+        "Rekonstruksi materi menghilangkan banyak rantai pasok"
+      ],
+      "implications": [
+        "Kelangkaan material sebagian besar menghilang",
+        "Kota dan habitat dapat ditumbuhkan atau dirakit ulang",
+        "Batas antara material, mesin, dan organisme menjadi kabur"
+      ],
+      "image": {
+        "alt": "Habitat Merakit Diri Membangun Seluruh Kota Secara Otomatis",
+        "prompts": [
+          "self-Assembling Habitats Build Entire Cities Automatically, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Assembling Habitats Build Entire Cities Automatically, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Assembling Habitats Build Entire Cities Automatically, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Assembling Habitats Build Entire Cities Automatically, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-assembling-habitats-build-entire-cities-automatically.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-assembling-habitats-build-entire-cities-automatically.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-matter-reconstruction-systems-eliminate-material-scarcity",
+      "order": 34,
+      "slug": "matter-reconstruction-systems-eliminate-material-scarcity",
+      "title": "Sistem Rekonstruksi Materi Menghilangkan Kelangkaan Material",
+      "shortTitle": "Rekonstruksi Materi Menghilangkan Kelangkaan",
+      "category": "Materials & Manufacturing",
+      "description": "Sistem Rekonstruksi Materi Menghilangkan Kelangkaan Material menggantikan produksi industri dengan konstruksi tingkat atom, materi terprogram universal, dan material hidup hasil rekayasa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2762,
+        "endYear": 2808
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Sistem Rekonstruksi Materi Menghilangkan Kelangkaan Material menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Presisi atom menjadi praktik manufaktur normal",
+        "Habitat merakit diri tumbuh tanpa pabrik konvensional",
+        "Rekonstruksi materi menghilangkan banyak rantai pasok"
+      ],
+      "implications": [
+        "Kelangkaan material sebagian besar menghilang",
+        "Kota dan habitat dapat ditumbuhkan atau dirakit ulang",
+        "Batas antara material, mesin, dan organisme menjadi kabur"
+      ],
+      "image": {
+        "alt": "Sistem Rekonstruksi Materi Menghilangkan Kelangkaan Material",
+        "prompts": [
+          "matter Reconstruction Systems Eliminate Material Scarcity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter Reconstruction Systems Eliminate Material Scarcity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter Reconstruction Systems Eliminate Material Scarcity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter Reconstruction Systems Eliminate Material Scarcity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-matter-reconstruction-systems-eliminate-material-scarcity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-matter-reconstruction-systems-eliminate-material-scarcity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-living-materials-merge-biology-and-engineering",
+      "order": 35,
+      "slug": "living-materials-merge-biology-and-engineering",
+      "title": "Material Hidup Menggabungkan Biologi dan Rekayasa",
+      "shortTitle": "Material Hidup Gabungan Rekayasa",
+      "category": "Materials & Manufacturing",
+      "description": "Material Hidup Menggabungkan Biologi dan Rekayasa menggantikan produksi industri dengan konstruksi tingkat atom, materi terprogram universal, dan material hidup hasil rekayasa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2776,
+        "endYear": 2822
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Material Hidup Menggabungkan Biologi dan Rekayasa menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Presisi atom menjadi praktik manufaktur normal",
+        "Habitat merakit diri tumbuh tanpa pabrik konvensional",
+        "Rekonstruksi materi menghilangkan banyak rantai pasok"
+      ],
+      "implications": [
+        "Kelangkaan material sebagian besar menghilang",
+        "Kota dan habitat dapat ditumbuhkan atau dirakit ulang",
+        "Batas antara material, mesin, dan organisme menjadi kabur"
+      ],
+      "image": {
+        "alt": "Material Hidup Menggabungkan Biologi dan Rekayasa",
+        "prompts": [
+          "living Materials Merge Biology And Engineering, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing living Materials Merge Biology And Engineering, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of living Materials Merge Biology And Engineering, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating living Materials Merge Biology And Engineering, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-living-materials-merge-biology-and-engineering.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-living-materials-merge-biology-and-engineering.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability",
+      "order": 36,
+      "slug": "artificial-ecosystems-surpass-natural-ecosystems-in-stability",
+      "title": "Ekosistem Buatan Melampaui Ekosistem Alami dalam Stabilitas",
+      "shortTitle": "Ekosistem Buatan Lebih Stabil",
+      "category": "Environment",
+      "description": "Ekosistem Buatan Melampaui Ekosistem Alami dalam Stabilitas menjadikan ekosistem, samudra, cuaca, dan terraforming sebagai ranah desain aktif di berbagai dunia layak huni.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2790,
+        "endYear": 2836
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Ekosistem Buatan Melampaui Ekosistem Alami dalam Stabilitas menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Ekosistem buatan mengungguli sistem alami yang tidak dikelola dalam stabilitas",
+        "Terraforming diulang di banyak dunia",
+        "Pemulihan diukur pada skala planet dan kosmik"
+      ],
+      "implications": [
+        "Peradaban menjadi pencipta sekaligus penjaga biosfer",
+        "Etika meluas dari ekologi Bumi menuju ekologi kosmik",
+        "Dunia layak huni dapat dilestarikan, diperbaiki, atau dirancang"
+      ],
+      "image": {
+        "alt": "Ekosistem Buatan Melampaui Ekosistem Alami dalam Stabilitas",
+        "prompts": [
+          "artificial Ecosystems Surpass Natural Ecosystems In Stability, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Ecosystems Surpass Natural Ecosystems In Stability, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Ecosystems Surpass Natural Ecosystems In Stability, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Ecosystems Surpass Natural Ecosystems In Stability, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-extinct-species-restoration-recreates-ancient-biodiversity",
+      "order": 37,
+      "slug": "extinct-species-restoration-recreates-ancient-biodiversity",
+      "title": "Pemulihan Spesies Punah Menciptakan Kembali Keanekaragaman Hayati Purba",
+      "shortTitle": "Pemulihan Spesies Punah",
+      "category": "Environment",
+      "description": "Pemulihan Spesies Punah Menciptakan Kembali Keanekaragaman Hayati Purba menjadikan ekosistem, samudra, cuaca, dan terraforming sebagai ranah desain aktif di berbagai dunia layak huni.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2804,
+        "endYear": 2850
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Pemulihan Spesies Punah Menciptakan Kembali Keanekaragaman Hayati Purba menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Ekosistem buatan mengungguli sistem alami yang tidak dikelola dalam stabilitas",
+        "Terraforming diulang di banyak dunia",
+        "Pemulihan diukur pada skala planet dan kosmik"
+      ],
+      "implications": [
+        "Peradaban menjadi pencipta sekaligus penjaga biosfer",
+        "Etika meluas dari ekologi Bumi menuju ekologi kosmik",
+        "Dunia layak huni dapat dilestarikan, diperbaiki, atau dirancang"
+      ],
+      "image": {
+        "alt": "Pemulihan Spesies Punah Menciptakan Kembali Keanekaragaman Hayati Purba",
+        "prompts": [
+          "extinct Species Restoration Recreates Ancient Biodiversity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing extinct Species Restoration Recreates Ancient Biodiversity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of extinct Species Restoration Recreates Ancient Biodiversity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating extinct Species Restoration Recreates Ancient Biodiversity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-extinct-species-restoration-recreates-ancient-biodiversity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-extinct-species-restoration-recreates-ancient-biodiversity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-planetary-weather-systems-become-fully-controllable",
+      "order": 38,
+      "slug": "planetary-weather-systems-become-fully-controllable",
+      "title": "Sistem Cuaca Planet Menjadi Sepenuhnya Dapat Dikendalikan",
+      "shortTitle": "Sistem Cuaca Planet Terkendali",
+      "category": "Environment",
+      "description": "Sistem Cuaca Planet Menjadi Sepenuhnya Dapat Dikendalikan menjadikan ekosistem, samudra, cuaca, dan terraforming sebagai ranah desain aktif di berbagai dunia layak huni.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2818,
+        "endYear": 2864
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Sistem Cuaca Planet Menjadi Sepenuhnya Dapat Dikendalikan menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Ekosistem buatan mengungguli sistem alami yang tidak dikelola dalam stabilitas",
+        "Terraforming diulang di banyak dunia",
+        "Pemulihan diukur pada skala planet dan kosmik"
+      ],
+      "implications": [
+        "Peradaban menjadi pencipta sekaligus penjaga biosfer",
+        "Etika meluas dari ekologi Bumi menuju ekologi kosmik",
+        "Dunia layak huni dapat dilestarikan, diperbaiki, atau dirancang"
+      ],
+      "image": {
+        "alt": "Sistem Cuaca Planet Menjadi Sepenuhnya Dapat Dikendalikan",
+        "prompts": [
+          "planetary Weather Systems Become Fully Controllable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Weather Systems Become Fully Controllable, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Weather Systems Become Fully Controllable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Weather Systems Become Fully Controllable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-planetary-weather-systems-become-fully-controllable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-planetary-weather-systems-become-fully-controllable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-entire-oceans-are-reengineered-to-support-new-life",
+      "order": 39,
+      "slug": "entire-oceans-are-reengineered-to-support-new-life",
+      "title": "Seluruh Samudra Direkayasa Ulang untuk Mendukung Kehidupan Baru",
+      "shortTitle": "Samudra Direkayasa Ulang",
+      "category": "Environment",
+      "description": "Seluruh Samudra Direkayasa Ulang untuk Mendukung Kehidupan Baru menjadikan ekosistem, samudra, cuaca, dan terraforming sebagai ranah desain aktif di berbagai dunia layak huni.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2832,
+        "endYear": 2878
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Seluruh Samudra Direkayasa Ulang untuk Mendukung Kehidupan Baru menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Ekosistem buatan mengungguli sistem alami yang tidak dikelola dalam stabilitas",
+        "Terraforming diulang di banyak dunia",
+        "Pemulihan diukur pada skala planet dan kosmik"
+      ],
+      "implications": [
+        "Peradaban menjadi pencipta sekaligus penjaga biosfer",
+        "Etika meluas dari ekologi Bumi menuju ekologi kosmik",
+        "Dunia layak huni dapat dilestarikan, diperbaiki, atau dirancang"
+      ],
+      "image": {
+        "alt": "Seluruh Samudra Direkayasa Ulang untuk Mendukung Kehidupan Baru",
+        "prompts": [
+          "entire Oceans Are Reengineered To Support New Life, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Oceans Are Reengineered To Support New Life, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Oceans Are Reengineered To Support New Life, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Oceans Are Reengineered To Support New Life, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-entire-oceans-are-reengineered-to-support-new-life.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-entire-oceans-are-reengineered-to-support-new-life.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-terraforming-becomes-routine-across-habitable-worlds",
+      "order": 40,
+      "slug": "terraforming-becomes-routine-across-habitable-worlds",
+      "title": "Terraforming Menjadi Rutin di Berbagai Dunia Layak Huni",
+      "shortTitle": "Terraforming Dunia Layak Huni",
+      "category": "Environment",
+      "description": "Terraforming Menjadi Rutin di Berbagai Dunia Layak Huni menjadikan ekosistem, samudra, cuaca, dan terraforming sebagai ranah desain aktif di berbagai dunia layak huni.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2846,
+        "endYear": 2892
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Terraforming Menjadi Rutin di Berbagai Dunia Layak Huni menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Ekosistem buatan mengungguli sistem alami yang tidak dikelola dalam stabilitas",
+        "Terraforming diulang di banyak dunia",
+        "Pemulihan diukur pada skala planet dan kosmik"
+      ],
+      "implications": [
+        "Peradaban menjadi pencipta sekaligus penjaga biosfer",
+        "Etika meluas dari ekologi Bumi menuju ekologi kosmik",
+        "Dunia layak huni dapat dilestarikan, diperbaiki, atau dirancang"
+      ],
+      "image": {
+        "alt": "Terraforming Menjadi Rutin di Berbagai Dunia Layak Huni",
+        "prompts": [
+          "terraforming Becomes Routine Across Habitable Worlds, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing terraforming Becomes Routine Across Habitable Worlds, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of terraforming Becomes Routine Across Habitable Worlds, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating terraforming Becomes Routine Across Habitable Worlds, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-terraforming-becomes-routine-across-habitable-worlds.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-terraforming-becomes-routine-across-habitable-worlds.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-reputation-and-knowledge-replace-currency-as-primary-value",
+      "order": 41,
+      "slug": "reputation-and-knowledge-replace-currency-as-primary-value",
+      "title": "Reputasi dan Pengetahuan Menggantikan Mata Uang sebagai Nilai Utama",
+      "shortTitle": "Reputasi Pengetahuan Menggantikan Mata Uang",
+      "category": "Society & Economy",
+      "description": "Reputasi dan Pengetahuan Menggantikan Mata Uang sebagai Nilai Utama menggantikan ekonomi berbasis kelangkaan dengan pengetahuan, reputasi, realitas campuran, akses bersama, dan pengakuan setara bagi peradaban virtual.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2860,
+        "endYear": 2906
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Reputasi dan Pengetahuan Menggantikan Mata Uang sebagai Nilai Utama menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Mata uang menjadi kurang sentral dibanding pengetahuan dan kepercayaan",
+        "Komunitas virtual dan fisik memperoleh legitimasi ekonomi yang setara",
+        "Kepemilikan bergeser menuju akses bersama dan pengalaman hidup"
+      ],
+      "implications": [
+        "Identitas ekonomi menjadi independen dari tubuh atau lokasi",
+        "Konflik menjadi lebih filosofis daripada teritorial",
+        "Budaya menjadi arena utama pertumbuhan peradaban"
+      ],
+      "image": {
+        "alt": "Reputasi dan Pengetahuan Menggantikan Mata Uang sebagai Nilai Utama",
+        "prompts": [
+          "reputation And Knowledge Replace Currency As Primary Value, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing reputation And Knowledge Replace Currency As Primary Value, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of reputation And Knowledge Replace Currency As Primary Value, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating reputation And Knowledge Replace Currency As Primary Value, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-reputation-and-knowledge-replace-currency-as-primary-value.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-reputation-and-knowledge-replace-currency-as-primary-value.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities",
+      "order": 42,
+      "slug": "most-citizens-spend-their-lives-in-mixed-physical-digital-realities",
+      "title": "Sebagian Besar Warga Menghabiskan Hidup Mereka dalam Realitas Fisik-Digital Campuran",
+      "shortTitle": "Realitas Fisik-Digital Campuran",
+      "category": "Society & Economy",
+      "description": "Sebagian Besar Warga Menghabiskan Hidup Mereka dalam Realitas Fisik-Digital Campuran menggantikan ekonomi berbasis kelangkaan dengan pengetahuan, reputasi, realitas campuran, akses bersama, dan pengakuan setara bagi peradaban virtual.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2874,
+        "endYear": 2920
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Sebagian Besar Warga Menghabiskan Hidup Mereka dalam Realitas Fisik-Digital Campuran menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Mata uang menjadi kurang sentral dibanding pengetahuan dan kepercayaan",
+        "Komunitas virtual dan fisik memperoleh legitimasi ekonomi yang setara",
+        "Kepemilikan bergeser menuju akses bersama dan pengalaman hidup"
+      ],
+      "implications": [
+        "Identitas ekonomi menjadi independen dari tubuh atau lokasi",
+        "Konflik menjadi lebih filosofis daripada teritorial",
+        "Budaya menjadi arena utama pertumbuhan peradaban"
+      ],
+      "image": {
+        "alt": "Sebagian Besar Warga Menghabiskan Hidup Mereka dalam Realitas Fisik-Digital Campuran",
+        "prompts": [
+          "most Citizens Spend Their Lives In Mixed Physical-Digital Realities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing most Citizens Spend Their Lives In Mixed Physical-Digital Realities, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of most Citizens Spend Their Lives In Mixed Physical-Digital Realities, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating most Citizens Spend Their Lives In Mixed Physical-Digital Realities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-ownership-evolves-into-shared-access-models",
+      "order": 43,
+      "slug": "ownership-evolves-into-shared-access-models",
+      "title": "Kepemilikan Berkembang Menjadi Model Akses Bersama",
+      "shortTitle": "Kepemilikan Menjadi Akses Bersama",
+      "category": "Society & Economy",
+      "description": "Kepemilikan Berkembang Menjadi Model Akses Bersama menggantikan ekonomi berbasis kelangkaan dengan pengetahuan, reputasi, realitas campuran, akses bersama, dan pengakuan setara bagi peradaban virtual.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2888,
+        "endYear": 2934
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kepemilikan Berkembang Menjadi Model Akses Bersama menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Mata uang menjadi kurang sentral dibanding pengetahuan dan kepercayaan",
+        "Komunitas virtual dan fisik memperoleh legitimasi ekonomi yang setara",
+        "Kepemilikan bergeser menuju akses bersama dan pengalaman hidup"
+      ],
+      "implications": [
+        "Identitas ekonomi menjadi independen dari tubuh atau lokasi",
+        "Konflik menjadi lebih filosofis daripada teritorial",
+        "Budaya menjadi arena utama pertumbuhan peradaban"
+      ],
+      "image": {
+        "alt": "Kepemilikan Berkembang Menjadi Model Akses Bersama",
+        "prompts": [
+          "ownership Evolves Into Shared Access Models, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ownership Evolves Into Shared Access Models, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ownership Evolves Into Shared Access Models, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ownership Evolves Into Shared Access Models, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-ownership-evolves-into-shared-access-models.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-ownership-evolves-into-shared-access-models.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-creative-expression-becomes-humanitys-largest-industry",
+      "order": 44,
+      "slug": "creative-expression-becomes-humanitys-largest-industry",
+      "title": "Ekspresi Kreatif Menjadi Industri Terbesar Umat Manusia",
+      "shortTitle": "Ekspresi Kreatif Industri Terbesar",
+      "category": "Society & Economy",
+      "description": "Ekspresi Kreatif Menjadi Industri Terbesar Umat Manusia menggantikan ekonomi berbasis kelangkaan dengan pengetahuan, reputasi, realitas campuran, akses bersama, dan pengakuan setara bagi peradaban virtual.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2902,
+        "endYear": 2948
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Ekspresi Kreatif Menjadi Industri Terbesar Umat Manusia menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Mata uang menjadi kurang sentral dibanding pengetahuan dan kepercayaan",
+        "Komunitas virtual dan fisik memperoleh legitimasi ekonomi yang setara",
+        "Kepemilikan bergeser menuju akses bersama dan pengalaman hidup"
+      ],
+      "implications": [
+        "Identitas ekonomi menjadi independen dari tubuh atau lokasi",
+        "Konflik menjadi lebih filosofis daripada teritorial",
+        "Budaya menjadi arena utama pertumbuhan peradaban"
+      ],
+      "image": {
+        "alt": "Ekspresi Kreatif Menjadi Industri Terbesar Umat Manusia",
+        "prompts": [
+          "creative Expression Becomes Humanity's Largest Industry, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing creative Expression Becomes Humanity's Largest Industry, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of creative Expression Becomes Humanity's Largest Industry, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating creative Expression Becomes Humanity's Largest Industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-creative-expression-becomes-humanitys-largest-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-creative-expression-becomes-humanitys-largest-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones",
+      "order": 45,
+      "slug": "virtual-civilizations-gain-equal-economic-status-to-physical-ones",
+      "title": "Peradaban Virtual Memperoleh Status Ekonomi Setara dengan Peradaban Fisik",
+      "shortTitle": "Peradaban Virtual Setara Ekonomi",
+      "category": "Society & Economy",
+      "description": "Peradaban Virtual Memperoleh Status Ekonomi Setara dengan Peradaban Fisik menggantikan ekonomi berbasis kelangkaan dengan pengetahuan, reputasi, realitas campuran, akses bersama, dan pengakuan setara bagi peradaban virtual.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2916,
+        "endYear": 2962
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Peradaban Virtual Memperoleh Status Ekonomi Setara dengan Peradaban Fisik menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Mata uang menjadi kurang sentral dibanding pengetahuan dan kepercayaan",
+        "Komunitas virtual dan fisik memperoleh legitimasi ekonomi yang setara",
+        "Kepemilikan bergeser menuju akses bersama dan pengalaman hidup"
+      ],
+      "implications": [
+        "Identitas ekonomi menjadi independen dari tubuh atau lokasi",
+        "Konflik menjadi lebih filosofis daripada teritorial",
+        "Budaya menjadi arena utama pertumbuhan peradaban"
+      ],
+      "image": {
+        "alt": "Peradaban Virtual Memperoleh Status Ekonomi Setara dengan Peradaban Fisik",
+        "prompts": [
+          "virtual Civilizations Gain Equal Economic Status To Physical Ones, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing virtual Civilizations Gain Equal Economic Status To Physical Ones, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of virtual Civilizations Gain Equal Economic Status To Physical Ones, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating virtual Civilizations Gain Equal Economic Status To Physical Ones, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-biological-and-digital-citizens-receive-equal-rights",
+      "order": 46,
+      "slug": "biological-and-digital-citizens-receive-equal-rights",
+      "title": "Warga Biologis dan Digital Memperoleh Hak yang Setara",
+      "shortTitle": "Warga Biologis Digital Setara",
+      "category": "Civilization",
+      "description": "Warga Biologis dan Digital Memperoleh Hak yang Setara mendefinisikan ulang kewargaan, hak, komunitas, dan tata kelola ketika bentuk biologis, digital, dan kesadaran kolektif hidup berdampingan.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2930,
+        "endYear": 2976
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Warga Biologis dan Digital Memperoleh Hak yang Setara menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kerangka hak meluas melampaui manusia biologis",
+        "Komunitas kolektif dan digital memperoleh status hukum",
+        "Peradaban bersiap menghadapi kecerdasan di luar asal-usul manusia"
+      ],
+      "implications": [
+        "Umat manusia menjadi salah satu cabang dari keluarga kecerdasan yang lebih luas",
+        "Identitas politik bergerak melampaui negara dan spesies",
+        "Tata Surya menjadi tempat kelahiran historis, bukan pusat"
+      ],
+      "image": {
+        "alt": "Warga Biologis dan Digital Memperoleh Hak yang Setara",
+        "prompts": [
+          "biological And Digital Citizens Receive Equal Rights, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological And Digital Citizens Receive Equal Rights, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological And Digital Citizens Receive Equal Rights, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological And Digital Citizens Receive Equal Rights, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-biological-and-digital-citizens-receive-equal-rights.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-biological-and-digital-citizens-receive-equal-rights.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-evolves-into-multiple-intelligent-species",
+      "order": 47,
+      "slug": "humanity-evolves-into-multiple-intelligent-species",
+      "title": "Umat Manusia Berevolusi Menjadi Beberapa Spesies Cerdas",
+      "shortTitle": "Beberapa Spesies Cerdas",
+      "category": "Civilization",
+      "description": "Umat Manusia Berevolusi Menjadi Beberapa Spesies Cerdas mendefinisikan ulang kewargaan, hak, komunitas, dan tata kelola ketika bentuk biologis, digital, dan kesadaran kolektif hidup berdampingan.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2944,
+        "endYear": 2990
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Umat Manusia Berevolusi Menjadi Beberapa Spesies Cerdas menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kerangka hak meluas melampaui manusia biologis",
+        "Komunitas kolektif dan digital memperoleh status hukum",
+        "Peradaban bersiap menghadapi kecerdasan di luar asal-usul manusia"
+      ],
+      "implications": [
+        "Umat manusia menjadi salah satu cabang dari keluarga kecerdasan yang lebih luas",
+        "Identitas politik bergerak melampaui negara dan spesies",
+        "Tata Surya menjadi tempat kelahiran historis, bukan pusat"
+      ],
+      "image": {
+        "alt": "Umat Manusia Berevolusi Menjadi Beberapa Spesies Cerdas",
+        "prompts": [
+          "humanity Evolves Into Multiple Intelligent Species, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Evolves Into Multiple Intelligent Species, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Evolves Into Multiple Intelligent Species, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Evolves Into Multiple Intelligent Species, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-evolves-into-multiple-intelligent-species.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-evolves-into-multiple-intelligent-species.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-collective-consciousness-communities-become-recognized-civilizations",
+      "order": 48,
+      "slug": "collective-consciousness-communities-become-recognized-civilizations",
+      "title": "Komunitas Kesadaran Kolektif Menjadi Peradaban yang Diakui",
+      "shortTitle": "Komunitas Kesadaran Kolektif",
+      "category": "Civilization",
+      "description": "Komunitas Kesadaran Kolektif Menjadi Peradaban yang Diakui mendefinisikan ulang kewargaan, hak, komunitas, dan tata kelola ketika bentuk biologis, digital, dan kesadaran kolektif hidup berdampingan.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2958,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Komunitas Kesadaran Kolektif Menjadi Peradaban yang Diakui menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kerangka hak meluas melampaui manusia biologis",
+        "Komunitas kolektif dan digital memperoleh status hukum",
+        "Peradaban bersiap menghadapi kecerdasan di luar asal-usul manusia"
+      ],
+      "implications": [
+        "Umat manusia menjadi salah satu cabang dari keluarga kecerdasan yang lebih luas",
+        "Identitas politik bergerak melampaui negara dan spesies",
+        "Tata Surya menjadi tempat kelahiran historis, bukan pusat"
+      ],
+      "image": {
+        "alt": "Komunitas Kesadaran Kolektif Menjadi Peradaban yang Diakui",
+        "prompts": [
+          "collective Consciousness Communities Become Recognized Civilizations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing collective Consciousness Communities Become Recognized Civilizations, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of collective Consciousness Communities Become Recognized Civilizations, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating collective Consciousness Communities Become Recognized Civilizations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-collective-consciousness-communities-become-recognized-civilizations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-collective-consciousness-communities-become-recognized-civilizations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-the-concept-of-nation-states-becomes-obsolete",
+      "order": 49,
+      "slug": "the-concept-of-nation-states-becomes-obsolete",
+      "title": "Konsep Negara-Bangsa Menjadi Usang",
+      "shortTitle": "Konsep Negara-Bangsa Usang",
+      "category": "Civilization",
+      "description": "Konsep Negara-Bangsa Menjadi Usang mendefinisikan ulang kewargaan, hak, komunitas, dan tata kelola ketika bentuk biologis, digital, dan kesadaran kolektif hidup berdampingan.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2972,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Konsep Negara-Bangsa Menjadi Usang menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kerangka hak meluas melampaui manusia biologis",
+        "Komunitas kolektif dan digital memperoleh status hukum",
+        "Peradaban bersiap menghadapi kecerdasan di luar asal-usul manusia"
+      ],
+      "implications": [
+        "Umat manusia menjadi salah satu cabang dari keluarga kecerdasan yang lebih luas",
+        "Identitas politik bergerak melampaui negara dan spesies",
+        "Tata Surya menjadi tempat kelahiran historis, bukan pusat"
+      ],
+      "image": {
+        "alt": "Konsep Negara-Bangsa Menjadi Usang",
+        "prompts": [
+          "the Concept Of Nation States Becomes Obsolete, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Concept Of Nation States Becomes Obsolete, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Concept Of Nation States Becomes Obsolete, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Concept Of Nation States Becomes Obsolete, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-the-concept-of-nation-states-becomes-obsolete.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-the-concept-of-nation-states-becomes-obsolete.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence",
+      "order": 50,
+      "slug": "humanity-begins-preparing-for-contact-with-extragalactic-intelligence",
+      "title": "Umat Manusia Mulai Bersiap untuk Kontak dengan Kecerdasan Ekstragalaksi",
+      "shortTitle": "Kontak Kecerdasan Ekstragalaksi",
+      "category": "Civilization",
+      "description": "Umat Manusia Mulai Bersiap untuk Kontak dengan Kecerdasan Ekstragalaksi mendefinisikan ulang kewargaan, hak, komunitas, dan tata kelola ketika bentuk biologis, digital, dan kesadaran kolektif hidup berdampingan.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2986,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Umat Manusia Mulai Bersiap untuk Kontak dengan Kecerdasan Ekstragalaksi menjadi tonggak penentu peradaban pasca-biologis, membantu kecerdasan bergerak melampaui tubuh tetap, batas biologis, dan bentuk masyarakat tradisional.",
+      "signals": [
+        "Kerangka hak meluas melampaui manusia biologis",
+        "Komunitas kolektif dan digital memperoleh status hukum",
+        "Peradaban bersiap menghadapi kecerdasan di luar asal-usul manusia"
+      ],
+      "implications": [
+        "Umat manusia menjadi salah satu cabang dari keluarga kecerdasan yang lebih luas",
+        "Identitas politik bergerak melampaui negara dan spesies",
+        "Tata Surya menjadi tempat kelahiran historis, bukan pusat"
+      ],
+      "image": {
+        "alt": "Umat Manusia Mulai Bersiap untuk Kontak dengan Kecerdasan Ekstragalaksi",
+        "prompts": [
+          "humanity Begins Preparing For Contact With Extragalactic Intelligence, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Begins Preparing For Contact With Extragalactic Intelligence, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Begins Preparing For Contact With Extragalactic Intelligence, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Begins Preparing For Contact With Extragalactic Intelligence, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

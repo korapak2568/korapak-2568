@@ -1,7 +1,8 @@
 import type {Metadata} from "next";
 import {headers} from "next/headers";
 import PlatformStoryPage from "@/components/Platform/PlatformStoryPage";
-import {getPlatformContent, getPlatformMetadata} from "@/lib/platform-content/homeContent";
+import {getPlatformContent} from "@/lib/platform-content/homeContent";
+import {getPlatformMetadata} from "@/lib/metadata/platformMetadata";
 
 export async function generateMetadata(): Promise<Metadata> {
     const headersList = await headers();

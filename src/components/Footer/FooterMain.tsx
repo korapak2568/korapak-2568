@@ -4,7 +4,6 @@ import CopyRight from "./FooterCopyRight";
 import FooterProjects from "@/components/Footer/smart-footer/FooterProjects";
 import FooterSmartCity from "@/components/Footer/smart-footer/FooterSmartCity";
 import FooterConnect from "@/components/Footer/smart-footer/FooterConnect";
-import FooterTechnology from "@/components/Footer/smart-footer/FooterTechnology";
 import {IFooter} from "@/lib/model/IFooter";
 import {getLayoutContentForPublicPage} from "@/lib/layout-content/layoutContent.service";
 
@@ -27,9 +26,9 @@ export default async function FooterMain({lang, footer}: FooterMainProps) {
     const resolvedFooter = await resolveFooterContent(lang, footer);
 
     return (
-        <footer className="site-footer" aria-label="Chorn Planet footer">
+        <footer className="site-footer" aria-label={`${resolvedFooter.title} footer`}>
             <nav className="footer-area footer-container" aria-label="Footer navigation">
-                <section className="footer-left" aria-label="Chorn Planet summary and social links">
+                <section className="footer-left" aria-label={`${resolvedFooter.title} summary and social links`}>
                     <FooterLogoSocial lang={lang} footer={resolvedFooter}/>
                 </section>
 
@@ -37,7 +36,6 @@ export default async function FooterMain({lang, footer}: FooterMainProps) {
                     <FooterImportantLinks lang={lang} footer={resolvedFooter}/>
                     <FooterProjects lang={lang} footer={resolvedFooter}/>
                     <FooterSmartCity lang={lang} footer={resolvedFooter}/>
-                    <FooterTechnology lang={lang} footer={resolvedFooter}/>
                     <FooterConnect lang={lang} footer={resolvedFooter}/>
                 </section>
             </nav>

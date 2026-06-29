@@ -18,6 +18,9 @@ export default function SmartFoodLandingPage({
 }) {
   const {data: cachedContent} = usePlatformSmartFoodContent(lang, content);
   const smartFoodContent = cachedContent ?? content;
+  const heroActions = smartFoodContent.hero.actions.filter(
+    (action) => action.href !== "#smart-food-ai-value",
+  );
 
   return (
     <main className="smart-food-ai-page">
@@ -35,7 +38,7 @@ export default function SmartFoodLandingPage({
                 className="smart-food-ai-actions"
                 aria-label={smartFoodContent.hero.actionsLabel}
               >
-                {smartFoodContent.hero.actions.map((action) => (
+                {heroActions.map((action) => (
                   <Link
                     key={action.href}
                     href={action.href}
@@ -157,29 +160,6 @@ export default function SmartFoodLandingPage({
         </div>
       </section>
 
-      <section id={smartFoodContent.value.id} className="smart-food-ai-value">
-        <div className="container">
-          <div className="smart-food-ai-value__grid">
-            <div className="smart-food-ai-section-heading">
-              <p className="smart-food-ai-eyebrow">
-                {smartFoodContent.value.heading.eyebrow}
-              </p>
-              <h2>{smartFoodContent.value.heading.title}</h2>
-              {smartFoodContent.value.heading.text && (
-                <p>{smartFoodContent.value.heading.text}</p>
-              )}
-            </div>
-            <div className="smart-food-ai-value__cards">
-              {smartFoodContent.value.cards.map((item) => (
-                <article key={item.title}>
-                  <h3>{item.title}</h3>
-                  <p>{item.text}</p>
-                </article>
-              ))}
-            </div>
-          </div>
-        </div>
-      </section>
     </main>
   );
 }

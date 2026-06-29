@@ -1,6 +1,7 @@
 import {MetadataRoute} from 'next';
+import {SITE_URL} from '@/lib/SiteUrlLocales';
 
-export const dynamic = 'force-static'; // Ensures static generation
+export const dynamic = 'force-static';
 
 export default function robots(): MetadataRoute.Robots {
     return {
@@ -8,11 +9,10 @@ export default function robots(): MetadataRoute.Robots {
             {
                 userAgent: '*',
                 allow: '/',
-                disallow: ['/api/openai', '/_next/static/'],
+                disallow: ['/api/', '/_next/static/'],
             },
         ],
-        sitemap: [
-            'https://www.chornplanet.com/sitemap.xml',
-        ],
+        sitemap: [`${SITE_URL}/sitemap.xml`],
+        host: SITE_URL,
     };
 }

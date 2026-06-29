@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "home": {
+      "title": "Chorn Planet | Plateforme Smart Food, luxe, technologie et lifestyle",
+      "description": "Chorn Planet lance la Phase 1 avec une plateforme centrée sur Smart Food, AI Luxury, la technologie, le style, la Smart City et la Smart Mobility."
+    },
+    "about": {
+      "title": "À propos de Chorn Planet | Plateforme lifestyle AI native",
+      "description": "Chorn Planet est une plateforme AI-native qui relie Smart Food, AI Luxury, Style et la technologie pratique en systèmes lifestyle utiles."
+    }
+  },
+  "home": {
+    "sections": [
+      {
+        "id": "phase-1",
+        "eyebrow": "Développement de projets",
+        "title": "Technologie de développement de projets",
+        "layout": "featured",
+        "cards": [
+          {
+            "category": "Smart Food",
+            "title": "Système Smart Food",
+            "description": "Une direction produit pour le quotidien autour de la découverte food, des concepts de commande et de l’expérience client.",
+            "image": {
+              "src": "/smart-food/process5-receiving.png",
+              "alt": "Visuel du système Smart Food",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.smart-food",
+              "mobile": {
+                "src": "/smart-food/mobile/process5-receiving.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-food/desktop/process5-receiving.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Food",
+              "Plattform"
+            ],
+            "cta": "Explorer Smart Food",
+            "href": "/smart-food/"
+          },
+          {
+            "category": "AI Luxury",
+            "title": "Projet AI Luxury",
+            "description": "Une couche dédiée à l’immobilier de luxe, aux récits de destination et aux concepts de lifestyle futur.",
+            "image": {
+              "src": "/images/ai-luxury/hero-ai-luxury-real-estate-platform.png",
+              "alt": "Projet AI Luxury",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.ai-luxury",
+              "mobile": {
+                "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Luxe",
+              "Projets"
+            ],
+            "cta": "Voir Luxury",
+            "href": "/luxury/"
+          },
+          {
+            "category": "Technologie",
+            "title": "Plateforme technologique",
+            "description": "Un espace pratique pour le logiciel, l’AI, le cloud et les capacités d’ingénierie de plateforme.",
+            "image": {
+              "src": "/images/features/morning-sky-optimize.webp",
+              "alt": "Visuel de la plateforme technologique",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.technology",
+              "mobile": {
+                "src": "/images/features/mobile/morning-sky-optimize.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/features/thumbnail/morning-sky-optimize.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/features/desktop/morning-sky-optimize.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "AI",
+              "Ingénierie"
+            ],
+            "cta": "Voir la technologie",
+            "href": "/technology/"
+          },
+          {
+            "category": "Style vestimentaire",
+            "title": "Direction mode, vêtements et tenues",
+            "description": "Un canal lifestyle léger pour l’identité visuelle, les concepts de tenues et les récits du commerce futur.",
+            "image": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "alt": "Visuel style et tenue",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.style",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Style",
+              "Lifestyle"
+            ],
+            "cta": "Voir le style",
+            "href": "/style/"
+          }
+        ]
+      },
+      {
+        "id": "outfit",
+        "eyebrow": "Style et tenue",
+        "title": "Direction mode, vêtements, tenues",
+        "layout": "grid",
+        "cards": [
+          {
+            "category": "Femme",
+            "title": "Tenue femme",
+            "description": "Des looks de civilisation élégants pour des scènes lifestyle premium.",
+            "image": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "alt": "Concept de tenue femme",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lady",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Femme",
+              "Luxe"
+            ],
+            "cta": "Voir la collection",
+            "href": "/style/"
+          },
+          {
+            "category": "Homme",
+            "title": "Tenue homme",
+            "description": "Des silhouettes raffinées pour les contextes de voyage, urbains et resort.",
+            "image": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "alt": "Concept de tenue homme",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.gentleman",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Homme",
+              "Voyage"
+            ],
+            "cta": "Voir la collection",
+            "href": "/style/"
+          },
+          {
+            "category": "Civilisation",
+            "title": "Vêtements de civilisation",
+            "description": "Des récits vestimentaires connectés aux zones, aux rituels et au commerce futur.",
+            "image": {
+              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "alt": "Concept de vêtements de civilisation",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.civilization",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Zone",
+              "Chorn DNA"
+            ],
+            "cta": "Ouvrir le canal",
+            "href": "/style/"
+          },
+          {
+            "category": "Lanna",
+            "title": "Lanna Future Luxury",
+            "description": "L’élégance du Nord traduite en lifestyle futur premium.",
+            "image": {
+              "src": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway.png",
+              "alt": "Concept Lanna Future Luxury",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lanna",
+              "mobile": {
+                "src": "/smart-mobility/chiang-mai/mobile/vision-smart-mobility-northern-gateway.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-mobility/chiang-mai/thumbnail/vision-smart-mobility-northern-gateway.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-mobility/chiang-mai/desktop/vision-smart-mobility-northern-gateway.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Lanna",
+              "Futur"
+            ],
+            "cta": "Explorer le look",
+            "href": "/smart-mobility/"
+          }
+        ]
+      }
+    ],
+    "circular": {
+      "title": "Système de simulation de transport",
+      "span": "Système de simulation de transport",
+      "description": "Un jeune couple rentre chez lui à travers la vallée montagneuse en utilisant le MTS, depuis des stations alpines calmes vers la chaleur de leur maison à flanc de colline. Leur voyage ne s’arrête pas à une seule destination : le même système de mobilité circulaire peut les emmener à nouveau vers des stations côtières, des terrasses océaniques au lever du soleil, des quartiers de marina, des vallées de lavande et des portes de montagne, reliant maison, voyage, repos et civilisation future par un réseau MTS intelligent.",
+      "categories": [
+        {
+          "title": "Détente sur le canapé inclinable",
+          "image": {
+            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "alt": "Un couple se détend près d’une grande fenêtre avec vue sur la montagne.",
+            "width": 1024,
+            "height": 1536,
+            "aspectRatio": "2:3",
+            "positionKey": "home.circular.sofa",
+            "mobile": {
+              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 720,
+              "height": 1080,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 480,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 1024,
+              "height": 1536,
+              "quality": 82
+            }
+          },
+          "link": "/story"
+        },
+        {
+          "title": "Station MTS Lavender Valley",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "alt": "Station MTS Lavender Valley",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.valley",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-valley-2-lavender-valley"
+        },
+        {
+          "title": "Station MTS Coral Bay Marina",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "alt": "Station MTS Coral Bay Marina",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-marina",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-2-coral-bay-marina"
+        },
+        {
+          "title": "Station MTS Sunrise Ocean Deck",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "alt": "Station MTS Sunrise Ocean Deck",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-sunrise",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-6-sunrise-ocean-deck"
+        }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "À propos de Chorn Planet",
+    "title": "Plateforme de civilisation future",
+    "description": "Chorn Planet relie Smart Mobility, Smart Food, AI Luxury, Style et la technologie pratique dans une plateforme évolutive explorant un mode de vie prêt pour l’avenir, des environnements connectés et des expériences numériques centrées sur l’humain.",
+    "image": {
+      "src": "/images/about/about-chorn-image-1200.webp",
+      "alt": "Visuel de présentation de la plateforme Chorn Planet",
+      "width": 1600,
+      "height": 1000,
+      "aspectRatio": "8:5",
+      "positionKey": "about.hero",
+      "mobile": {
+        "src": "/images/about/mobile/about-chorn-image-1200.webp",
+        "width": 800,
+        "height": 500,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images/about/thumbnail/about-chorn-image-1200.webp",
+        "width": 512,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images/about/desktop/about-chorn-image-1200.webp",
+        "width": 1600,
+        "height": 1000,
+        "quality": 82
+      }
+    },
+    "blocks": [
+      {
+        "title": "Plateforme AI Native",
+        "body": "Chorn Planet est une plateforme AI-native qui réunit AI Smart Food, AI POS, AI Luxury, Style et la technologie pratique dans un écosystème numérique évolutif. Elle se connecte aux capacités systèmes clés, notamment ERP, MES, Logic Controller et Physical Layer.",
+        "tags": [
+          "AI Native",
+          "ERP",
+          "MES",
+          "Logic Controller",
+          "Physical Layer",
+          "Workflow"
+        ],
+        "link": "/technology/"
+      },
+      {
+        "title": "AI Smart Mobility",
+        "body": "AI Smart Mobility explore le transport intelligent, l’infrastructure connectée et les expériences de mobilité future à travers le Chorn Planet MTS Network. Il agit comme un système circulatoire reliant destinations, tourisme, environnements lifestyle et concepts de civilisation prêts pour l’avenir.",
+        "tags": [
+          "MTS Network",
+          "Infrastructure intelligente",
+          "Mobilité future"
+        ],
+        "link": "/smart-mobility/"
+      },
+      {
+        "title": "Systèmes Smart City",
+        "body": "Smart City Systems explore comment les environnements intelligents, l’infrastructure connectée, la coordination de la mobilité et les expériences urbaines centrées sur l’humain peuvent évoluer ensemble. La plateforme observe comment les villes futures peuvent équilibrer technologie, mouvement, confort, durabilité et vie quotidienne au sein d’écosystèmes de civilisation connectés.",
+        "tags": [
+          "Villes centrées sur l’humain",
+          "Infrastructure connectée",
+          "Intelligence urbaine"
+        ],
+        "link": "/smart-city/"
+      },
+      {
+        "title": "AI Smart Food",
+        "body": "Smart Food est la couche pratique du quotidien. Elle donne à Chorn Planet un point de départ utile autour de la découverte food, des informations de menu, de l’expérience client, des concepts de commande et des futurs flux de service alimentaire assistés par AI.",
+        "tags": [
+          "Expérience food",
+          "Concepts de commande",
+          "Utilité quotidienne"
+        ],
+        "link": "/smart-food/"
+      },
+      {
+        "title": "AI Luxury",
+        "body": "AI Luxury est la couche de projets premium pour les récits immobiliers, de destination et de lifestyle. Elle aide à transformer les projets à forte valeur en histoires plus claires, systèmes visuels plus solides et contenus de plateforme prêts pour les investisseurs.",
+        "tags": [
+          "Projets premium",
+          "Récits de destination",
+          "Prêt pour investisseurs"
+        ],
+        "link": "/luxury/"
+      },
+      {
+        "title": "Direction style et tenue",
+        "body": "Style donne à la plateforme une couche lifestyle visuelle. Les concepts de tenues deviennent des scènes, des histoires et des directions produits à travers le voyage, la culture, le soft luxury et le commerce futur.",
+        "tags": [
+          "Graceful Style",
+          "Histoires de tenues",
+          "Commerce futur"
+        ],
+        "link": "/style/"
+      }
+    ]
+  },
+  "channels": {}
+}

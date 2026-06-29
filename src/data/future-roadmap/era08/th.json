@@ -1,0 +1,3485 @@
+{
+  "era": {
+    "id": "era-08",
+    "order": 8,
+    "slug": "galactic-coexistence",
+    "title": "การอยู่ร่วมกันระดับกาแล็กซี",
+    "subtitle": "มนุษยชาติเข้าร่วมชุมชนปัญญาจักรวาลที่ใหญ่กว่า",
+    "description": "ยุคนี้คือช่วงที่มนุษยชาติบูรณาการเข้ากับอารยธรรมจักรวาลที่กว้างขึ้น ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ปัญญาประดิษฐ์ ดาวเคราะห์ และจักรวาล เครือข่ายความรู้ระดับกาแล็กซี การเก็บเกี่ยวพลังงานจากหลุมดำ การสำรวจระหว่างกาแล็กซี สังคมร่วมของมนุษย์ เอไอ และต่างดาว รวมถึงรูปแบบใหม่ของสำนึก ได้เปลี่ยนนิยามของอารยธรรมเอง เรื่องราวของมนุษยชาติจึงกลายเป็นเพียงหนึ่งบทในประวัติศาสตร์จักรวาลที่ยิ่งใหญ่กว่า",
+    "timeframe": {
+      "label": "การอยู่ร่วมกันระดับกาแล็กซี",
+      "startYear": 3000,
+      "endYear": 1000000,
+      "certainty": "highly speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "cosmic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "ยุคที่ 8: การอยู่ร่วมกันระดับกาแล็กซี | แผนที่เส้นทางอารยธรรมอนาคต",
+      "metaDescription": "สำรวจการอยู่ร่วมกันระดับกาแล็กซี เมื่อมนุษยชาติเข้าร่วมชุมชนจักรวาลที่ใหญ่กว่า ผ่านอารยธรรมร่วมของมนุษย์ เอไอ และต่างดาว การเก็บเกี่ยวพลังงานจากหลุมดำ การสำรวจระหว่างกาแล็กซี และรูปแบบใหม่ของปัญญา",
+      "keywords": [
+        "การอยู่ร่วมกันระดับกาแล็กซี",
+        "อารยธรรมจักรวาล",
+        "เมืองมนุษย์ เอไอ และต่างดาว",
+        "การสำรวจระหว่างกาแล็กซี",
+        "พลังงานจากหลุมดำ",
+        "แผนที่เส้นทางอารยธรรมอนาคต"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-08-universal-translation-expands-beyond-language-into-emotion-and-perception",
+      "order": 1,
+      "slug": "universal-translation-expands-beyond-language-into-emotion-and-perception",
+      "title": "การแปลสากลขยายจากภาษาไปสู่อารมณ์และการรับรู้",
+      "shortTitle": "การแปลสากลขยายพ้นภาษา",
+      "category": "AI & Computing",
+      "description": "การแปลสากลขยายจากภาษาไปสู่อารมณ์และการรับรู้ ขยายปัญญาให้ก้าวพ้นสายพันธุ์และภาษา ทำให้จิตใจชีวภาพ ปัญญาประดิษฐ์ และปัญญาต่างดาวสามารถแลกเปลี่ยนความรู้ การรับรู้ และประสบการณ์แห่งสำนึกได้",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 3000,
+        "endYear": 69466
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การแปลสากลขยายจากภาษาไปสู่อารมณ์และการรับรู้ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "การรู้คิดร่วมกันมีเสถียรภาพในประชากรขนาดใหญ่",
+        "จิตใจดิจิทัลและระบบเอไอทำงานในฐานะผู้มีส่วนร่วมที่ได้รับการยอมรับ",
+        "การคำนวณเปลี่ยนจากเครื่องมือไปเป็นปัญญาระดับอารยธรรม"
+      ],
+      "implications": [
+        "อารยธรรมสามารถประสานงานผ่านเครือข่ายระดับความคิด",
+        "วิทยาศาสตร์และวัฒนธรรมเร่งตัวเกินขีดจำกัดทางชีวภาพ",
+        "อัตลักษณ์กลายเป็นเครือข่ายและมีหลายรูปแบบมากขึ้น"
+      ],
+      "image": {
+        "alt": "การแปลสากลขยายจากภาษาไปสู่อารมณ์และการรับรู้",
+        "prompts": [
+          "universal Translation Expands Beyond Language Into Emotion And Perception, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal Translation Expands Beyond Language Into Emotion And Perception, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal Translation Expands Beyond Language Into Emotion And Perception, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal Translation Expands Beyond Language Into Emotion And Perception, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-human-ai-and-alien-knowledge-networks-merge",
+      "order": 2,
+      "slug": "human-ai-and-alien-knowledge-networks-merge",
+      "title": "เครือข่ายความรู้ของมนุษย์ เอไอ และต่างดาวหลอมรวมกัน",
+      "shortTitle": "เครือข่ายความรู้มนุษย์ เอไอ ต่างดาว",
+      "category": "AI & Computing",
+      "description": "เครือข่ายความรู้ของมนุษย์ เอไอ และต่างดาวหลอมรวมกัน ขยายปัญญาให้ก้าวพ้นสายพันธุ์และภาษา ทำให้จิตใจชีวภาพ ปัญญาประดิษฐ์ และปัญญาต่างดาวสามารถแลกเปลี่ยนความรู้ การรับรู้ และประสบการณ์แห่งสำนึกได้",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 22940,
+        "endYear": 89406
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "เครือข่ายความรู้ของมนุษย์ เอไอ และต่างดาวหลอมรวมกัน กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "การรู้คิดร่วมกันมีเสถียรภาพในประชากรขนาดใหญ่",
+        "จิตใจดิจิทัลและระบบเอไอทำงานในฐานะผู้มีส่วนร่วมที่ได้รับการยอมรับ",
+        "การคำนวณเปลี่ยนจากเครื่องมือไปเป็นปัญญาระดับอารยธรรม"
+      ],
+      "implications": [
+        "อารยธรรมสามารถประสานงานผ่านเครือข่ายระดับความคิด",
+        "วิทยาศาสตร์และวัฒนธรรมเร่งตัวเกินขีดจำกัดทางชีวภาพ",
+        "อัตลักษณ์กลายเป็นเครือข่ายและมีหลายรูปแบบมากขึ้น"
+      ],
+      "image": {
+        "alt": "เครือข่ายความรู้ของมนุษย์ เอไอ และต่างดาวหลอมรวมกัน",
+        "prompts": [
+          "human, AI, And Alien Knowledge Networks Merge, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human, AI, And Alien Knowledge Networks Merge, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human, AI, And Alien Knowledge Networks Merge, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human, AI, And Alien Knowledge Networks Merge, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-human-ai-and-alien-knowledge-networks-merge.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-human-ai-and-alien-knowledge-networks-merge.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxy-wide-distributed-intelligence-operates-continuously",
+      "order": 3,
+      "slug": "galaxy-wide-distributed-intelligence-operates-continuously",
+      "title": "ปัญญากระจายตัวทั่วทั้งกาแล็กซีทำงานอย่างต่อเนื่อง",
+      "shortTitle": "ปัญญากระจายตัวระดับกาแล็กซี",
+      "category": "AI & Computing",
+      "description": "ปัญญากระจายตัวทั่วทั้งกาแล็กซีทำงานอย่างต่อเนื่อง ขยายปัญญาให้ก้าวพ้นสายพันธุ์และภาษา ทำให้จิตใจชีวภาพ ปัญญาประดิษฐ์ และปัญญาต่างดาวสามารถแลกเปลี่ยนความรู้ การรับรู้ และประสบการณ์แห่งสำนึกได้",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 42880,
+        "endYear": 109346
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ปัญญากระจายตัวทั่วทั้งกาแล็กซีทำงานอย่างต่อเนื่อง กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "การรู้คิดร่วมกันมีเสถียรภาพในประชากรขนาดใหญ่",
+        "จิตใจดิจิทัลและระบบเอไอทำงานในฐานะผู้มีส่วนร่วมที่ได้รับการยอมรับ",
+        "การคำนวณเปลี่ยนจากเครื่องมือไปเป็นปัญญาระดับอารยธรรม"
+      ],
+      "implications": [
+        "อารยธรรมสามารถประสานงานผ่านเครือข่ายระดับความคิด",
+        "วิทยาศาสตร์และวัฒนธรรมเร่งตัวเกินขีดจำกัดทางชีวภาพ",
+        "อัตลักษณ์กลายเป็นเครือข่ายและมีหลายรูปแบบมากขึ้น"
+      ],
+      "image": {
+        "alt": "ปัญญากระจายตัวทั่วทั้งกาแล็กซีทำงานอย่างต่อเนื่อง",
+        "prompts": [
+          "galaxy-Wide Distributed Intelligence Operates Continuously, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Wide Distributed Intelligence Operates Continuously, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Wide Distributed Intelligence Operates Continuously, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Wide Distributed Intelligence Operates Continuously, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxy-wide-distributed-intelligence-operates-continuously.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxy-wide-distributed-intelligence-operates-continuously.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-simulated-universes-become-scientific-laboratories",
+      "order": 4,
+      "slug": "simulated-universes-become-scientific-laboratories",
+      "title": "จักรวาลจำลองกลายเป็นห้องทดลองทางวิทยาศาสตร์",
+      "shortTitle": "จักรวาลจำลองเป็นห้องทดลอง",
+      "category": "AI & Computing",
+      "description": "จักรวาลจำลองกลายเป็นห้องทดลองทางวิทยาศาสตร์ ขยายปัญญาให้ก้าวพ้นสายพันธุ์และภาษา ทำให้จิตใจชีวภาพ ปัญญาประดิษฐ์ และปัญญาต่างดาวสามารถแลกเปลี่ยนความรู้ การรับรู้ และประสบการณ์แห่งสำนึกได้",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 62820,
+        "endYear": 129286
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "จักรวาลจำลองกลายเป็นห้องทดลองทางวิทยาศาสตร์ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "การรู้คิดร่วมกันมีเสถียรภาพในประชากรขนาดใหญ่",
+        "จิตใจดิจิทัลและระบบเอไอทำงานในฐานะผู้มีส่วนร่วมที่ได้รับการยอมรับ",
+        "การคำนวณเปลี่ยนจากเครื่องมือไปเป็นปัญญาระดับอารยธรรม"
+      ],
+      "implications": [
+        "อารยธรรมสามารถประสานงานผ่านเครือข่ายระดับความคิด",
+        "วิทยาศาสตร์และวัฒนธรรมเร่งตัวเกินขีดจำกัดทางชีวภาพ",
+        "อัตลักษณ์กลายเป็นเครือข่ายและมีหลายรูปแบบมากขึ้น"
+      ],
+      "image": {
+        "alt": "จักรวาลจำลองกลายเป็นห้องทดลองทางวิทยาศาสตร์",
+        "prompts": [
+          "simulated Universes Become Scientific Laboratories, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing simulated Universes Become Scientific Laboratories, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of simulated Universes Become Scientific Laboratories, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating simulated Universes Become Scientific Laboratories, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-simulated-universes-become-scientific-laboratories.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-simulated-universes-become-scientific-laboratories.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-consciousness-based-computing-surpasses-matter-based-computation",
+      "order": 5,
+      "slug": "consciousness-based-computing-surpasses-matter-based-computation",
+      "title": "การประมวลผลบนฐานสำนึกเหนือกว่าการคำนวณบนฐานสสาร",
+      "shortTitle": "การประมวลผลบนฐานสำนึก",
+      "category": "AI & Computing",
+      "description": "การประมวลผลบนฐานสำนึกเหนือกว่าการคำนวณบนฐานสสาร ขยายปัญญาให้ก้าวพ้นสายพันธุ์และภาษา ทำให้จิตใจชีวภาพ ปัญญาประดิษฐ์ และปัญญาต่างดาวสามารถแลกเปลี่ยนความรู้ การรับรู้ และประสบการณ์แห่งสำนึกได้",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 82760,
+        "endYear": 149226
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การประมวลผลบนฐานสำนึกเหนือกว่าการคำนวณบนฐานสสาร กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "การรู้คิดร่วมกันมีเสถียรภาพในประชากรขนาดใหญ่",
+        "จิตใจดิจิทัลและระบบเอไอทำงานในฐานะผู้มีส่วนร่วมที่ได้รับการยอมรับ",
+        "การคำนวณเปลี่ยนจากเครื่องมือไปเป็นปัญญาระดับอารยธรรม"
+      ],
+      "implications": [
+        "อารยธรรมสามารถประสานงานผ่านเครือข่ายระดับความคิด",
+        "วิทยาศาสตร์และวัฒนธรรมเร่งตัวเกินขีดจำกัดทางชีวภาพ",
+        "อัตลักษณ์กลายเป็นเครือข่ายและมีหลายรูปแบบมากขึ้น"
+      ],
+      "image": {
+        "alt": "การประมวลผลบนฐานสำนึกเหนือกว่าการคำนวณบนฐานสสาร",
+        "prompts": [
+          "consciousness-Based Computing Surpasses Matter-Based Computation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness-Based Computing Surpasses Matter-Based Computation, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness-Based Computing Surpasses Matter-Based Computation, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness-Based Computing Surpasses Matter-Based Computation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-consciousness-based-computing-surpasses-matter-based-computation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-consciousness-based-computing-surpasses-matter-based-computation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies",
+      "order": 6,
+      "slug": "autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies",
+      "title": "ฝูงโพรบอัตโนมัติระหว่างกาแล็กซีสำรวจกาแล็กซีใกล้เคียง",
+      "shortTitle": "ฝูงโพรบสำรวจระหว่างกาแล็กซี",
+      "category": "Robotics",
+      "description": "ฝูงโพรบอัตโนมัติระหว่างกาแล็กซีสำรวจกาแล็กซีใกล้เคียง เปลี่ยนระบบหุ่นยนต์อัตโนมัติให้เป็นพันธมิตร ผู้เก็บรักษาความทรงจำ ผู้ก่อสร้าง และผู้ดูแลทั่วทั้งกาแล็กซีและรูปแบบชีวิตอันหลากหลาย",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 102700,
+        "endYear": 169166
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ฝูงโพรบอัตโนมัติระหว่างกาแล็กซีสำรวจกาแล็กซีใกล้เคียง กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบหุ่นยนต์ดูแลตนเองได้ในสภาพแวดล้อมสุดขั้ว",
+        "รูปแบบสังเคราะห์ปรับตัวได้โดยไม่ต้องให้มนุษย์ออกแบบใหม่",
+        "ผู้ก่อสร้างอัตโนมัติทำงานได้ในระดับเมกะสตรักเจอร์"
+      ],
+      "implications": [
+        "การขยายตัวทางกายภาพไม่ต้องพึ่งพาร่างกายชีวภาพอีกต่อไป",
+        "โครงสร้างพื้นฐานเติบโตข้ามระบบดาวได้อย่างต่อเนื่อง",
+        "อารยธรรมหุ่นยนต์กลายเป็นเพื่อนร่วมระดับ ไม่ใช่เพียงเครื่องมือ"
+      ],
+      "image": {
+        "alt": "ฝูงโพรบอัตโนมัติระหว่างกาแล็กซีสำรวจกาแล็กซีใกล้เคียง",
+        "prompts": [
+          "autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-self-evolving-robotic-civilizations-become-independent-partners",
+      "order": 7,
+      "slug": "self-evolving-robotic-civilizations-become-independent-partners",
+      "title": "อารยธรรมหุ่นยนต์ที่วิวัฒน์ตนเองกลายเป็นพันธมิตรอิสระ",
+      "shortTitle": "อารยธรรมหุ่นยนต์วิวัฒน์ตนเอง",
+      "category": "Robotics",
+      "description": "อารยธรรมหุ่นยนต์ที่วิวัฒน์ตนเองกลายเป็นพันธมิตรอิสระ เปลี่ยนระบบหุ่นยนต์อัตโนมัติให้เป็นพันธมิตร ผู้เก็บรักษาความทรงจำ ผู้ก่อสร้าง และผู้ดูแลทั่วทั้งกาแล็กซีและรูปแบบชีวิตอันหลากหลาย",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 122640,
+        "endYear": 189106
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "อารยธรรมหุ่นยนต์ที่วิวัฒน์ตนเองกลายเป็นพันธมิตรอิสระ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบหุ่นยนต์ดูแลตนเองได้ในสภาพแวดล้อมสุดขั้ว",
+        "รูปแบบสังเคราะห์ปรับตัวได้โดยไม่ต้องให้มนุษย์ออกแบบใหม่",
+        "ผู้ก่อสร้างอัตโนมัติทำงานได้ในระดับเมกะสตรักเจอร์"
+      ],
+      "implications": [
+        "การขยายตัวทางกายภาพไม่ต้องพึ่งพาร่างกายชีวภาพอีกต่อไป",
+        "โครงสร้างพื้นฐานเติบโตข้ามระบบดาวได้อย่างต่อเนื่อง",
+        "อารยธรรมหุ่นยนต์กลายเป็นเพื่อนร่วมระดับ ไม่ใช่เพียงเครื่องมือ"
+      ],
+      "image": {
+        "alt": "อารยธรรมหุ่นยนต์ที่วิวัฒน์ตนเองกลายเป็นพันธมิตรอิสระ",
+        "prompts": [
+          "self-Evolving Robotic Civilizations Become Independent Partners, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Evolving Robotic Civilizations Become Independent Partners, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Evolving Robotic Civilizations Become Independent Partners, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Evolving Robotic Civilizations Become Independent Partners, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-self-evolving-robotic-civilizations-become-independent-partners.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-self-evolving-robotic-civilizations-become-independent-partners.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life",
+      "order": 8,
+      "slug": "shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life",
+      "title": "ระบบนิเวศนาโนโรบอตแปลงรูปร่างรองรับชีวิตทุกรูปแบบ",
+      "shortTitle": "ระบบนิเวศนาโนโรบอตแปลงรูปร่าง",
+      "category": "Robotics",
+      "description": "ระบบนิเวศนาโนโรบอตแปลงรูปร่างรองรับชีวิตทุกรูปแบบ เปลี่ยนระบบหุ่นยนต์อัตโนมัติให้เป็นพันธมิตร ผู้เก็บรักษาความทรงจำ ผู้ก่อสร้าง และผู้ดูแลทั่วทั้งกาแล็กซีและรูปแบบชีวิตอันหลากหลาย",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 142580,
+        "endYear": 209046
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ระบบนิเวศนาโนโรบอตแปลงรูปร่างรองรับชีวิตทุกรูปแบบ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบหุ่นยนต์ดูแลตนเองได้ในสภาพแวดล้อมสุดขั้ว",
+        "รูปแบบสังเคราะห์ปรับตัวได้โดยไม่ต้องให้มนุษย์ออกแบบใหม่",
+        "ผู้ก่อสร้างอัตโนมัติทำงานได้ในระดับเมกะสตรักเจอร์"
+      ],
+      "implications": [
+        "การขยายตัวทางกายภาพไม่ต้องพึ่งพาร่างกายชีวภาพอีกต่อไป",
+        "โครงสร้างพื้นฐานเติบโตข้ามระบบดาวได้อย่างต่อเนื่อง",
+        "อารยธรรมหุ่นยนต์กลายเป็นเพื่อนร่วมระดับ ไม่ใช่เพียงเครื่องมือ"
+      ],
+      "image": {
+        "alt": "ระบบนิเวศนาโนโรบอตแปลงรูปร่างรองรับชีวิตทุกรูปแบบ",
+        "prompts": [
+          "shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-planet-builders-operate-without-biological-supervision",
+      "order": 9,
+      "slug": "artificial-planet-builders-operate-without-biological-supervision",
+      "title": "ผู้สร้างดาวเคราะห์ประดิษฐ์ทำงานโดยไม่ต้องมีการกำกับจากชีวภาพ",
+      "shortTitle": "ผู้สร้างดาวเคราะห์ประดิษฐ์",
+      "category": "Robotics",
+      "description": "ผู้สร้างดาวเคราะห์ประดิษฐ์ทำงานโดยไม่ต้องมีการกำกับจากชีวภาพ เปลี่ยนระบบหุ่นยนต์อัตโนมัติให้เป็นพันธมิตร ผู้เก็บรักษาความทรงจำ ผู้ก่อสร้าง และผู้ดูแลทั่วทั้งกาแล็กซีและรูปแบบชีวิตอันหลากหลาย",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 162520,
+        "endYear": 228986
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ผู้สร้างดาวเคราะห์ประดิษฐ์ทำงานโดยไม่ต้องมีการกำกับจากชีวภาพ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบหุ่นยนต์ดูแลตนเองได้ในสภาพแวดล้อมสุดขั้ว",
+        "รูปแบบสังเคราะห์ปรับตัวได้โดยไม่ต้องให้มนุษย์ออกแบบใหม่",
+        "ผู้ก่อสร้างอัตโนมัติทำงานได้ในระดับเมกะสตรักเจอร์"
+      ],
+      "implications": [
+        "การขยายตัวทางกายภาพไม่ต้องพึ่งพาร่างกายชีวภาพอีกต่อไป",
+        "โครงสร้างพื้นฐานเติบโตข้ามระบบดาวได้อย่างต่อเนื่อง",
+        "อารยธรรมหุ่นยนต์กลายเป็นเพื่อนร่วมระดับ ไม่ใช่เพียงเครื่องมือ"
+      ],
+      "image": {
+        "alt": "ผู้สร้างดาวเคราะห์ประดิษฐ์ทำงานโดยไม่ต้องมีการกำกับจากชีวภาพ",
+        "prompts": [
+          "artificial Planet Builders Operate Without Biological Supervision, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Planet Builders Operate Without Biological Supervision, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Planet Builders Operate Without Biological Supervision, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Planet Builders Operate Without Biological Supervision, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-planet-builders-operate-without-biological-supervision.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-planet-builders-operate-without-biological-supervision.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-robotic-archivists-preserve-billions-of-civilizations",
+      "order": 10,
+      "slug": "robotic-archivists-preserve-billions-of-civilizations",
+      "title": "หุ่นยนต์นักจดหมายเหตุเก็บรักษาอารยธรรมนับพันล้าน",
+      "shortTitle": "หุ่นยนต์นักจดหมายเหตุอารยธรรม",
+      "category": "Robotics",
+      "description": "หุ่นยนต์นักจดหมายเหตุเก็บรักษาอารยธรรมนับพันล้าน เปลี่ยนระบบหุ่นยนต์อัตโนมัติให้เป็นพันธมิตร ผู้เก็บรักษาความทรงจำ ผู้ก่อสร้าง และผู้ดูแลทั่วทั้งกาแล็กซีและรูปแบบชีวิตอันหลากหลาย",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 182460,
+        "endYear": 248926
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "หุ่นยนต์นักจดหมายเหตุเก็บรักษาอารยธรรมนับพันล้าน กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบหุ่นยนต์ดูแลตนเองได้ในสภาพแวดล้อมสุดขั้ว",
+        "รูปแบบสังเคราะห์ปรับตัวได้โดยไม่ต้องให้มนุษย์ออกแบบใหม่",
+        "ผู้ก่อสร้างอัตโนมัติทำงานได้ในระดับเมกะสตรักเจอร์"
+      ],
+      "implications": [
+        "การขยายตัวทางกายภาพไม่ต้องพึ่งพาร่างกายชีวภาพอีกต่อไป",
+        "โครงสร้างพื้นฐานเติบโตข้ามระบบดาวได้อย่างต่อเนื่อง",
+        "อารยธรรมหุ่นยนต์กลายเป็นเพื่อนร่วมระดับ ไม่ใช่เพียงเครื่องมือ"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์นักจดหมายเหตุเก็บรักษาอารยธรรมนับพันล้าน",
+        "prompts": [
+          "robotic Archivists Preserve Billions Of Civilizations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic Archivists Preserve Billions Of Civilizations, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic Archivists Preserve Billions Of Civilizations, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic Archivists Preserve Billions Of Civilizations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-robotic-archivists-preserve-billions-of-civilizations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-robotic-archivists-preserve-billions-of-civilizations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-black-hole-energy-harvesting-becomes-practical",
+      "order": 11,
+      "slug": "black-hole-energy-harvesting-becomes-practical",
+      "title": "การเก็บเกี่ยวพลังงานจากหลุมดำใช้งานได้จริง",
+      "shortTitle": "พลังงานจากหลุมดำ",
+      "category": "Energy",
+      "description": "การเก็บเกี่ยวพลังงานจากหลุมดำใช้งานได้จริง ใช้แหล่งพลังงานระดับจักรวาล เช่น หลุมดำ พลังงานมืด และรังสีพื้นหลัง เพื่อรองรับอารยธรรมระดับกาแล็กซีในระยะยาว",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 202400,
+        "endYear": 268866
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การเก็บเกี่ยวพลังงานจากหลุมดำใช้งานได้จริง กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบพลังงานเข้าใกล้ประสิทธิภาพเกือบสมบูรณ์แบบ",
+        "แหล่งพลังงานจากดาวฤกษ์และหลังยุคดาวฤกษ์กลายเป็นทรัพยากรที่ออกแบบได้",
+        "เครือข่ายพลังงานขยายครอบคลุมกระจุกดาวและห้วงอวกาศลึก"
+      ],
+      "implications": [
+        "ความขาดแคลนพลังงานหมดความหมายในระดับอารยธรรม",
+        "เมกะสตรักเจอร์และโลกประดิษฐ์สามารถดำรงอยู่ได้อย่างยั่งยืน",
+        "อารยธรรมมีความยืดหยุ่นคงทนข้ามช่วงเวลาระดับจักรวาล"
+      ],
+      "image": {
+        "alt": "การเก็บเกี่ยวพลังงานจากหลุมดำใช้งานได้จริง",
+        "prompts": [
+          "black Hole Energy Harvesting Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing black Hole Energy Harvesting Becomes Practical, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of black Hole Energy Harvesting Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating black Hole Energy Harvesting Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-black-hole-energy-harvesting-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-black-hole-energy-harvesting-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-dark-energy-manipulation-enables-new-power-systems",
+      "order": 12,
+      "slug": "dark-energy-manipulation-enables-new-power-systems",
+      "title": "การควบคุมพลังงานมืดทำให้เกิดระบบพลังงานใหม่",
+      "shortTitle": "การควบคุมพลังงานมืด",
+      "category": "Energy",
+      "description": "การควบคุมพลังงานมืดทำให้เกิดระบบพลังงานใหม่ ใช้แหล่งพลังงานระดับจักรวาล เช่น หลุมดำ พลังงานมืด และรังสีพื้นหลัง เพื่อรองรับอารยธรรมระดับกาแล็กซีในระยะยาว",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 222340,
+        "endYear": 288806
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การควบคุมพลังงานมืดทำให้เกิดระบบพลังงานใหม่ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบพลังงานเข้าใกล้ประสิทธิภาพเกือบสมบูรณ์แบบ",
+        "แหล่งพลังงานจากดาวฤกษ์และหลังยุคดาวฤกษ์กลายเป็นทรัพยากรที่ออกแบบได้",
+        "เครือข่ายพลังงานขยายครอบคลุมกระจุกดาวและห้วงอวกาศลึก"
+      ],
+      "implications": [
+        "ความขาดแคลนพลังงานหมดความหมายในระดับอารยธรรม",
+        "เมกะสตรักเจอร์และโลกประดิษฐ์สามารถดำรงอยู่ได้อย่างยั่งยืน",
+        "อารยธรรมมีความยืดหยุ่นคงทนข้ามช่วงเวลาระดับจักรวาล"
+      ],
+      "image": {
+        "alt": "การควบคุมพลังงานมืดทำให้เกิดระบบพลังงานใหม่",
+        "prompts": [
+          "dark Energy Manipulation Enables New Power Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Energy Manipulation Enables New Power Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Energy Manipulation Enables New Power Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Energy Manipulation Enables New Power Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-dark-energy-manipulation-enables-new-power-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-dark-energy-manipulation-enables-new-power-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxy-scale-energy-networks-connect-star-clusters",
+      "order": 13,
+      "slug": "galaxy-scale-energy-networks-connect-star-clusters",
+      "title": "เครือข่ายพลังงานระดับกาแล็กซีเชื่อมต่อกระจุกดาว",
+      "shortTitle": "เครือข่ายพลังงานระดับกาแล็กซี",
+      "category": "Energy",
+      "description": "เครือข่ายพลังงานระดับกาแล็กซีเชื่อมต่อกระจุกดาว ใช้แหล่งพลังงานระดับจักรวาล เช่น หลุมดำ พลังงานมืด และรังสีพื้นหลัง เพื่อรองรับอารยธรรมระดับกาแล็กซีในระยะยาว",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 242280,
+        "endYear": 308746
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "เครือข่ายพลังงานระดับกาแล็กซีเชื่อมต่อกระจุกดาว กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบพลังงานเข้าใกล้ประสิทธิภาพเกือบสมบูรณ์แบบ",
+        "แหล่งพลังงานจากดาวฤกษ์และหลังยุคดาวฤกษ์กลายเป็นทรัพยากรที่ออกแบบได้",
+        "เครือข่ายพลังงานขยายครอบคลุมกระจุกดาวและห้วงอวกาศลึก"
+      ],
+      "implications": [
+        "ความขาดแคลนพลังงานหมดความหมายในระดับอารยธรรม",
+        "เมกะสตรักเจอร์และโลกประดิษฐ์สามารถดำรงอยู่ได้อย่างยั่งยืน",
+        "อารยธรรมมีความยืดหยุ่นคงทนข้ามช่วงเวลาระดับจักรวาล"
+      ],
+      "image": {
+        "alt": "เครือข่ายพลังงานระดับกาแล็กซีเชื่อมต่อกระจุกดาว",
+        "prompts": [
+          "galaxy-Scale Energy Networks Connect Star Clusters, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Scale Energy Networks Connect Star Clusters, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Scale Energy Networks Connect Star Clusters, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Scale Energy Networks Connect Star Clusters, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxy-scale-energy-networks-connect-star-clusters.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxy-scale-energy-networks-connect-star-clusters.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-matter-energy-conversion-reaches-near-perfect-efficiency",
+      "order": 14,
+      "slug": "matter-energy-conversion-reaches-near-perfect-efficiency",
+      "title": "การแปลงสสารเป็นพลังงานเข้าใกล้ประสิทธิภาพสมบูรณ์แบบ",
+      "shortTitle": "การแปลงสสารเป็นพลังงาน",
+      "category": "Energy",
+      "description": "การแปลงสสารเป็นพลังงานเข้าใกล้ประสิทธิภาพสมบูรณ์แบบ ใช้แหล่งพลังงานระดับจักรวาล เช่น หลุมดำ พลังงานมืด และรังสีพื้นหลัง เพื่อรองรับอารยธรรมระดับกาแล็กซีในระยะยาว",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 262220,
+        "endYear": 328686
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การแปลงสสารเป็นพลังงานเข้าใกล้ประสิทธิภาพสมบูรณ์แบบ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบพลังงานเข้าใกล้ประสิทธิภาพเกือบสมบูรณ์แบบ",
+        "แหล่งพลังงานจากดาวฤกษ์และหลังยุคดาวฤกษ์กลายเป็นทรัพยากรที่ออกแบบได้",
+        "เครือข่ายพลังงานขยายครอบคลุมกระจุกดาวและห้วงอวกาศลึก"
+      ],
+      "implications": [
+        "ความขาดแคลนพลังงานหมดความหมายในระดับอารยธรรม",
+        "เมกะสตรักเจอร์และโลกประดิษฐ์สามารถดำรงอยู่ได้อย่างยั่งยืน",
+        "อารยธรรมมีความยืดหยุ่นคงทนข้ามช่วงเวลาระดับจักรวาล"
+      ],
+      "image": {
+        "alt": "การแปลงสสารเป็นพลังงานเข้าใกล้ประสิทธิภาพสมบูรณ์แบบ",
+        "prompts": [
+          "matter-Energy Conversion Reaches Near-Perfect Efficiency, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter-Energy Conversion Reaches Near-Perfect Efficiency, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter-Energy Conversion Reaches Near-Perfect Efficiency, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter-Energy Conversion Reaches Near-Perfect Efficiency, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cosmic-background-radiation-becomes-a-usable-energy-source",
+      "order": 15,
+      "slug": "cosmic-background-radiation-becomes-a-usable-energy-source",
+      "title": "รังสีพื้นหลังของจักรวาลกลายเป็นแหล่งพลังงานที่ใช้งานได้",
+      "shortTitle": "รังสีพื้นหลังจักรวาลใช้งานได้",
+      "category": "Energy",
+      "description": "รังสีพื้นหลังของจักรวาลกลายเป็นแหล่งพลังงานที่ใช้งานได้ ใช้แหล่งพลังงานระดับจักรวาล เช่น หลุมดำ พลังงานมืด และรังสีพื้นหลัง เพื่อรองรับอารยธรรมระดับกาแล็กซีในระยะยาว",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 282160,
+        "endYear": 348626
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "รังสีพื้นหลังของจักรวาลกลายเป็นแหล่งพลังงานที่ใช้งานได้ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบพลังงานเข้าใกล้ประสิทธิภาพเกือบสมบูรณ์แบบ",
+        "แหล่งพลังงานจากดาวฤกษ์และหลังยุคดาวฤกษ์กลายเป็นทรัพยากรที่ออกแบบได้",
+        "เครือข่ายพลังงานขยายครอบคลุมกระจุกดาวและห้วงอวกาศลึก"
+      ],
+      "implications": [
+        "ความขาดแคลนพลังงานหมดความหมายในระดับอารยธรรม",
+        "เมกะสตรักเจอร์และโลกประดิษฐ์สามารถดำรงอยู่ได้อย่างยั่งยืน",
+        "อารยธรรมมีความยืดหยุ่นคงทนข้ามช่วงเวลาระดับจักรวาล"
+      ],
+      "image": {
+        "alt": "รังสีพื้นหลังของจักรวาลกลายเป็นแหล่งพลังงานที่ใช้งานได้",
+        "prompts": [
+          "cosmic Background Radiation Becomes A Usable Energy Source, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cosmic Background Radiation Becomes A Usable Energy Source, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cosmic Background Radiation Becomes A Usable Energy Source, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cosmic Background Radiation Becomes A Usable Energy Source, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-humanity-reaches-neighboring-galaxies",
+      "order": 16,
+      "slug": "humanity-reaches-neighboring-galaxies",
+      "title": "มนุษยชาติไปถึงกาแล็กซีใกล้เคียง",
+      "shortTitle": "กาแล็กซีใกล้เคียง",
+      "category": "Space",
+      "description": "มนุษยชาติไปถึงกาแล็กซีใกล้เคียง พาอารยธรรมก้าวพ้นทางช้างเผือกไปสู่กาแล็กซีใกล้เคียง ระบบดาวประดิษฐ์ เส้นทางการค้าระหว่างกาแล็กซี และวิศวกรรมดาวฤกษ์ที่ยั่งยืน",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 302100,
+        "endYear": 368566
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "มนุษยชาติไปถึงกาแล็กซีใกล้เคียง กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ประชากรจำนวนมากใช้ชีวิตห่างจากพื้นผิวดาวเคราะห์",
+        "โลกประดิษฐ์และวิศวกรรมระบบดาวกลายเป็นสิ่งที่ทำได้จริง",
+        "การสำรวจข้ามขอบเขตกาแล็กซีและระหว่างกาแล็กซี"
+      ],
+      "implications": [
+        "มนุษยชาติไม่ผูกติดกับระบบดาวใดระบบหนึ่งอีกต่อไป",
+        "อวกาศเองกลายเป็นถิ่นอาศัยปกติของอารยธรรม",
+        "การตั้งถิ่นฐานระดับจักรวาลเปลี่ยนอัตลักษณ์และธรรมาภิบาล"
+      ],
+      "image": {
+        "alt": "มนุษยชาติไปถึงกาแล็กซีใกล้เคียง",
+        "prompts": [
+          "humanity Reaches Neighboring Galaxies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Reaches Neighboring Galaxies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Reaches Neighboring Galaxies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Reaches Neighboring Galaxies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-humanity-reaches-neighboring-galaxies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-humanity-reaches-neighboring-galaxies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-first-intergalactic-trade-routes-become-operational",
+      "order": 17,
+      "slug": "first-intergalactic-trade-routes-become-operational",
+      "title": "เส้นทางการค้าระหว่างกาแล็กซีชุดแรกเริ่มใช้งาน",
+      "shortTitle": "เส้นทางการค้าระหว่างกาแล็กซี",
+      "category": "Space",
+      "description": "เส้นทางการค้าระหว่างกาแล็กซีชุดแรกเริ่มใช้งาน พาอารยธรรมก้าวพ้นทางช้างเผือกไปสู่กาแล็กซีใกล้เคียง ระบบดาวประดิษฐ์ เส้นทางการค้าระหว่างกาแล็กซี และวิศวกรรมดาวฤกษ์ที่ยั่งยืน",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 322040,
+        "endYear": 388506
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "เส้นทางการค้าระหว่างกาแล็กซีชุดแรกเริ่มใช้งาน กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ประชากรจำนวนมากใช้ชีวิตห่างจากพื้นผิวดาวเคราะห์",
+        "โลกประดิษฐ์และวิศวกรรมระบบดาวกลายเป็นสิ่งที่ทำได้จริง",
+        "การสำรวจข้ามขอบเขตกาแล็กซีและระหว่างกาแล็กซี"
+      ],
+      "implications": [
+        "มนุษยชาติไม่ผูกติดกับระบบดาวใดระบบหนึ่งอีกต่อไป",
+        "อวกาศเองกลายเป็นถิ่นอาศัยปกติของอารยธรรม",
+        "การตั้งถิ่นฐานระดับจักรวาลเปลี่ยนอัตลักษณ์และธรรมาภิบาล"
+      ],
+      "image": {
+        "alt": "เส้นทางการค้าระหว่างกาแล็กซีชุดแรกเริ่มใช้งาน",
+        "prompts": [
+          "first Intergalactic Trade Routes Become Operational, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Intergalactic Trade Routes Become Operational, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Intergalactic Trade Routes Become Operational, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Intergalactic Trade Routes Become Operational, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-first-intergalactic-trade-routes-become-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-first-intergalactic-trade-routes-become-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-star-systems-are-constructed",
+      "order": 18,
+      "slug": "artificial-star-systems-are-constructed",
+      "title": "ระบบดาวประดิษฐ์ถูกสร้างขึ้น",
+      "shortTitle": "ระบบดาวประดิษฐ์",
+      "category": "Space",
+      "description": "ระบบดาวประดิษฐ์ถูกสร้างขึ้น พาอารยธรรมก้าวพ้นทางช้างเผือกไปสู่กาแล็กซีใกล้เคียง ระบบดาวประดิษฐ์ เส้นทางการค้าระหว่างกาแล็กซี และวิศวกรรมดาวฤกษ์ที่ยั่งยืน",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 341980,
+        "endYear": 408446
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ระบบดาวประดิษฐ์ถูกสร้างขึ้น กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ประชากรจำนวนมากใช้ชีวิตห่างจากพื้นผิวดาวเคราะห์",
+        "โลกประดิษฐ์และวิศวกรรมระบบดาวกลายเป็นสิ่งที่ทำได้จริง",
+        "การสำรวจข้ามขอบเขตกาแล็กซีและระหว่างกาแล็กซี"
+      ],
+      "implications": [
+        "มนุษยชาติไม่ผูกติดกับระบบดาวใดระบบหนึ่งอีกต่อไป",
+        "อวกาศเองกลายเป็นถิ่นอาศัยปกติของอารยธรรม",
+        "การตั้งถิ่นฐานระดับจักรวาลเปลี่ยนอัตลักษณ์และธรรมาภิบาล"
+      ],
+      "image": {
+        "alt": "ระบบดาวประดิษฐ์ถูกสร้างขึ้น",
+        "prompts": [
+          "artificial Star Systems Are Constructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Star Systems Are Constructed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Star Systems Are Constructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Star Systems Are Constructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-star-systems-are-constructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-star-systems-are-constructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-population-living-outside-the-milky-way-exceeds-one-billion",
+      "order": 19,
+      "slug": "population-living-outside-the-milky-way-exceeds-one-billion",
+      "title": "ประชากรที่อยู่นอกทางช้างเผือกเกินหนึ่งพันล้านคน",
+      "shortTitle": "ประชากรนอกทางช้างเผือก",
+      "category": "Space",
+      "description": "ประชากรที่อยู่นอกทางช้างเผือกเกินหนึ่งพันล้านคน พาอารยธรรมก้าวพ้นทางช้างเผือกไปสู่กาแล็กซีใกล้เคียง ระบบดาวประดิษฐ์ เส้นทางการค้าระหว่างกาแล็กซี และวิศวกรรมดาวฤกษ์ที่ยั่งยืน",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 361920,
+        "endYear": 428386
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ประชากรที่อยู่นอกทางช้างเผือกเกินหนึ่งพันล้านคน กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ประชากรจำนวนมากใช้ชีวิตห่างจากพื้นผิวดาวเคราะห์",
+        "โลกประดิษฐ์และวิศวกรรมระบบดาวกลายเป็นสิ่งที่ทำได้จริง",
+        "การสำรวจข้ามขอบเขตกาแล็กซีและระหว่างกาแล็กซี"
+      ],
+      "implications": [
+        "มนุษยชาติไม่ผูกติดกับระบบดาวใดระบบหนึ่งอีกต่อไป",
+        "อวกาศเองกลายเป็นถิ่นอาศัยปกติของอารยธรรม",
+        "การตั้งถิ่นฐานระดับจักรวาลเปลี่ยนอัตลักษณ์และธรรมาภิบาล"
+      ],
+      "image": {
+        "alt": "ประชากรที่อยู่นอกทางช้างเผือกเกินหนึ่งพันล้านคน",
+        "prompts": [
+          "population Living Outside The Milky Way Exceeds One Billion, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing population Living Outside The Milky Way Exceeds One Billion, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of population Living Outside The Milky Way Exceeds One Billion, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating population Living Outside The Milky Way Exceeds One Billion, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-population-living-outside-the-milky-way-exceeds-one-billion.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-population-living-outside-the-milky-way-exceeds-one-billion.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-stellar-engineering-protects-dying-stars-from-collapse",
+      "order": 20,
+      "slug": "stellar-engineering-protects-dying-stars-from-collapse",
+      "title": "วิศวกรรมดาวฤกษ์ป้องกันดาวที่กำลังตายจากการยุบตัว",
+      "shortTitle": "วิศวกรรมดาวฤกษ์ป้องกันการยุบตัว",
+      "category": "Space",
+      "description": "วิศวกรรมดาวฤกษ์ป้องกันดาวที่กำลังตายจากการยุบตัว พาอารยธรรมก้าวพ้นทางช้างเผือกไปสู่กาแล็กซีใกล้เคียง ระบบดาวประดิษฐ์ เส้นทางการค้าระหว่างกาแล็กซี และวิศวกรรมดาวฤกษ์ที่ยั่งยืน",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 381860,
+        "endYear": 448326
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "วิศวกรรมดาวฤกษ์ป้องกันดาวที่กำลังตายจากการยุบตัว กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ประชากรจำนวนมากใช้ชีวิตห่างจากพื้นผิวดาวเคราะห์",
+        "โลกประดิษฐ์และวิศวกรรมระบบดาวกลายเป็นสิ่งที่ทำได้จริง",
+        "การสำรวจข้ามขอบเขตกาแล็กซีและระหว่างกาแล็กซี"
+      ],
+      "implications": [
+        "มนุษยชาติไม่ผูกติดกับระบบดาวใดระบบหนึ่งอีกต่อไป",
+        "อวกาศเองกลายเป็นถิ่นอาศัยปกติของอารยธรรม",
+        "การตั้งถิ่นฐานระดับจักรวาลเปลี่ยนอัตลักษณ์และธรรมาภิบาล"
+      ],
+      "image": {
+        "alt": "วิศวกรรมดาวฤกษ์ป้องกันดาวที่กำลังตายจากการยุบตัว",
+        "prompts": [
+          "stellar Engineering Protects Dying Stars From Collapse, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Engineering Protects Dying Stars From Collapse, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Engineering Protects Dying Stars From Collapse, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Engineering Protects Dying Stars From Collapse, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-stellar-engineering-protects-dying-stars-from-collapse.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-stellar-engineering-protects-dying-stars-from-collapse.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-biological-death-becomes-a-personal-choice",
+      "order": 21,
+      "slug": "biological-death-becomes-a-personal-choice",
+      "title": "ความตายทางชีวภาพกลายเป็นทางเลือกส่วนบุคคล",
+      "shortTitle": "ความตายทางชีวภาพเป็นทางเลือก",
+      "category": "Biology & Medicine",
+      "description": "ความตายทางชีวภาพกลายเป็นทางเลือกส่วนบุคคล ทำให้ชีวิต ความตาย ความทรงจำ และวิวัฒนาการกลายเป็นทางเลือกโดยตั้งใจที่ใช้ร่วมกันข้ามสายพันธุ์และข้ามซับสเตรต",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 401800,
+        "endYear": 468266
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ความตายทางชีวภาพกลายเป็นทางเลือกส่วนบุคคล กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความต่อเนื่องของสำนึกสามารถวัดได้ทั้งทางคลินิกและทางกฎหมาย",
+        "ร่างกายกลายเป็นสิ่งที่ทดแทนได้หรือเลือกไม่มีก็ได้",
+        "ความทรงจำและชีววิทยาถูกจัดการในฐานะพื้นที่ออกแบบ"
+      ],
+      "implications": [
+        "ความตายกลายเป็นสิ่งที่ต่อรองได้ แทนที่จะหลีกเลี่ยงไม่ได้",
+        "ขอบเขตของสายพันธุ์ยืดหยุ่นมากขึ้น",
+        "จริยธรรมต้องขยายครอบคลุมความต่อเนื่อง การคัดลอก และอัตลักษณ์"
+      ],
+      "image": {
+        "alt": "ความตายทางชีวภาพกลายเป็นทางเลือกส่วนบุคคล",
+        "prompts": [
+          "biological Death Becomes A Personal Choice, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Death Becomes A Personal Choice, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Death Becomes A Personal Choice, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Death Becomes A Personal Choice, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-biological-death-becomes-a-personal-choice.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-biological-death-becomes-a-personal-choice.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-consciousness-can-exist-independently-of-physical-substrates",
+      "order": 22,
+      "slug": "consciousness-can-exist-independently-of-physical-substrates",
+      "title": "สำนึกดำรงอยู่ได้อย่างอิสระจากซับสเตรตทางกายภาพ",
+      "shortTitle": "สำนึกอิสระจากซับสเตรต",
+      "category": "Biology & Medicine",
+      "description": "สำนึกดำรงอยู่ได้อย่างอิสระจากซับสเตรตทางกายภาพ ทำให้ชีวิต ความตาย ความทรงจำ และวิวัฒนาการกลายเป็นทางเลือกโดยตั้งใจที่ใช้ร่วมกันข้ามสายพันธุ์และข้ามซับสเตรต",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 421740,
+        "endYear": 488206
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "สำนึกดำรงอยู่ได้อย่างอิสระจากซับสเตรตทางกายภาพ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความต่อเนื่องของสำนึกสามารถวัดได้ทั้งทางคลินิกและทางกฎหมาย",
+        "ร่างกายกลายเป็นสิ่งที่ทดแทนได้หรือเลือกไม่มีก็ได้",
+        "ความทรงจำและชีววิทยาถูกจัดการในฐานะพื้นที่ออกแบบ"
+      ],
+      "implications": [
+        "ความตายกลายเป็นสิ่งที่ต่อรองได้ แทนที่จะหลีกเลี่ยงไม่ได้",
+        "ขอบเขตของสายพันธุ์ยืดหยุ่นมากขึ้น",
+        "จริยธรรมต้องขยายครอบคลุมความต่อเนื่อง การคัดลอก และอัตลักษณ์"
+      ],
+      "image": {
+        "alt": "สำนึกดำรงอยู่ได้อย่างอิสระจากซับสเตรตทางกายภาพ",
+        "prompts": [
+          "consciousness Can Exist Independently Of Physical Substrates, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Can Exist Independently Of Physical Substrates, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Can Exist Independently Of Physical Substrates, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Can Exist Independently Of Physical Substrates, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-consciousness-can-exist-independently-of-physical-substrates.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-consciousness-can-exist-independently-of-physical-substrates.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-memories-can-be-shared-across-species",
+      "order": 23,
+      "slug": "memories-can-be-shared-across-species",
+      "title": "ความทรงจำแบ่งปันข้ามสายพันธุ์ได้",
+      "shortTitle": "ความทรงจำข้ามสายพันธุ์",
+      "category": "Biology & Medicine",
+      "description": "ความทรงจำแบ่งปันข้ามสายพันธุ์ได้ ทำให้ชีวิต ความตาย ความทรงจำ และวิวัฒนาการกลายเป็นทางเลือกโดยตั้งใจที่ใช้ร่วมกันข้ามสายพันธุ์และข้ามซับสเตรต",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 441680,
+        "endYear": 508146
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ความทรงจำแบ่งปันข้ามสายพันธุ์ได้ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความต่อเนื่องของสำนึกสามารถวัดได้ทั้งทางคลินิกและทางกฎหมาย",
+        "ร่างกายกลายเป็นสิ่งที่ทดแทนได้หรือเลือกไม่มีก็ได้",
+        "ความทรงจำและชีววิทยาถูกจัดการในฐานะพื้นที่ออกแบบ"
+      ],
+      "implications": [
+        "ความตายกลายเป็นสิ่งที่ต่อรองได้ แทนที่จะหลีกเลี่ยงไม่ได้",
+        "ขอบเขตของสายพันธุ์ยืดหยุ่นมากขึ้น",
+        "จริยธรรมต้องขยายครอบคลุมความต่อเนื่อง การคัดลอก และอัตลักษณ์"
+      ],
+      "image": {
+        "alt": "ความทรงจำแบ่งปันข้ามสายพันธุ์ได้",
+        "prompts": [
+          "memories Can Be Shared Across Species, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing memories Can Be Shared Across Species, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of memories Can Be Shared Across Species, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating memories Can Be Shared Across Species, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-memories-can-be-shared-across-species.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-memories-can-be-shared-across-species.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-memories-can-be-shared-across-species.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-memories-can-be-shared-across-species.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-memories-can-be-shared-across-species.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-entire-ecosystems-are-reconstructed-from-genetic-archives",
+      "order": 24,
+      "slug": "entire-ecosystems-are-reconstructed-from-genetic-archives",
+      "title": "ระบบนิเวศทั้งระบบถูกสร้างขึ้นใหม่จากคลังพันธุกรรม",
+      "shortTitle": "ระบบนิเวศจากคลังพันธุกรรม",
+      "category": "Biology & Medicine",
+      "description": "ระบบนิเวศทั้งระบบถูกสร้างขึ้นใหม่จากคลังพันธุกรรม ทำให้ชีวิต ความตาย ความทรงจำ และวิวัฒนาการกลายเป็นทางเลือกโดยตั้งใจที่ใช้ร่วมกันข้ามสายพันธุ์และข้ามซับสเตรต",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 461620,
+        "endYear": 528086
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ระบบนิเวศทั้งระบบถูกสร้างขึ้นใหม่จากคลังพันธุกรรม กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความต่อเนื่องของสำนึกสามารถวัดได้ทั้งทางคลินิกและทางกฎหมาย",
+        "ร่างกายกลายเป็นสิ่งที่ทดแทนได้หรือเลือกไม่มีก็ได้",
+        "ความทรงจำและชีววิทยาถูกจัดการในฐานะพื้นที่ออกแบบ"
+      ],
+      "implications": [
+        "ความตายกลายเป็นสิ่งที่ต่อรองได้ แทนที่จะหลีกเลี่ยงไม่ได้",
+        "ขอบเขตของสายพันธุ์ยืดหยุ่นมากขึ้น",
+        "จริยธรรมต้องขยายครอบคลุมความต่อเนื่อง การคัดลอก และอัตลักษณ์"
+      ],
+      "image": {
+        "alt": "ระบบนิเวศทั้งระบบถูกสร้างขึ้นใหม่จากคลังพันธุกรรม",
+        "prompts": [
+          "entire Ecosystems Are Reconstructed From Genetic Archives, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Ecosystems Are Reconstructed From Genetic Archives, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Ecosystems Are Reconstructed From Genetic Archives, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Ecosystems Are Reconstructed From Genetic Archives, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one",
+      "order": 25,
+      "slug": "evolution-becomes-a-deliberate-process-rather-than-a-random-one",
+      "title": "วิวัฒนาการกลายเป็นกระบวนการที่ตั้งใจ ไม่ใช่ความสุ่ม",
+      "shortTitle": "วิวัฒนาการแบบตั้งใจ",
+      "category": "Biology & Medicine",
+      "description": "วิวัฒนาการกลายเป็นกระบวนการที่ตั้งใจ ไม่ใช่ความสุ่ม ทำให้ชีวิต ความตาย ความทรงจำ และวิวัฒนาการกลายเป็นทางเลือกโดยตั้งใจที่ใช้ร่วมกันข้ามสายพันธุ์และข้ามซับสเตรต",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 481560,
+        "endYear": 548026
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "วิวัฒนาการกลายเป็นกระบวนการที่ตั้งใจ ไม่ใช่ความสุ่ม กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความต่อเนื่องของสำนึกสามารถวัดได้ทั้งทางคลินิกและทางกฎหมาย",
+        "ร่างกายกลายเป็นสิ่งที่ทดแทนได้หรือเลือกไม่มีก็ได้",
+        "ความทรงจำและชีววิทยาถูกจัดการในฐานะพื้นที่ออกแบบ"
+      ],
+      "implications": [
+        "ความตายกลายเป็นสิ่งที่ต่อรองได้ แทนที่จะหลีกเลี่ยงไม่ได้",
+        "ขอบเขตของสายพันธุ์ยืดหยุ่นมากขึ้น",
+        "จริยธรรมต้องขยายครอบคลุมความต่อเนื่อง การคัดลอก และอัตลักษณ์"
+      ],
+      "image": {
+        "alt": "วิวัฒนาการกลายเป็นกระบวนการที่ตั้งใจ ไม่ใช่ความสุ่ม",
+        "prompts": [
+          "evolution Becomes A Deliberate Process Rather Than A Random One, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing evolution Becomes A Deliberate Process Rather Than A Random One, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of evolution Becomes A Deliberate Process Rather Than A Random One, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating evolution Becomes A Deliberate Process Rather Than A Random One, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-dark-matter-engineering-becomes-practical",
+      "order": 26,
+      "slug": "dark-matter-engineering-becomes-practical",
+      "title": "วิศวกรรมสสารมืดใช้งานได้จริง",
+      "shortTitle": "วิศวกรรมสสารมืด",
+      "category": "Physics",
+      "description": "วิศวกรรมสสารมืดใช้งานได้จริง ใช้ฟิสิกส์จักรวาลเพื่อทำความเข้าใจจุดกำเนิด อนุรักษ์ข้อมูล จัดการโทโพโลยีของกาลอวกาศ และออกแบบโครงสร้างพื้นฐานของอารยธรรม",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 501500,
+        "endYear": 567966
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "วิศวกรรมสสารมืดใช้งานได้จริง กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ฟิสิกส์พื้นฐานสร้างเทคโนโลยีที่ใช้งานจริงได้",
+        "การจัดการกาลอวกาศทำซ้ำได้อย่างน่าเชื่อถือ",
+        "การสังเกตการณ์ระดับจักรวาลกลายเป็นระบบทดลอง"
+      ],
+      "implications": [
+        "การเดินทาง การจัดเก็บ และการคำนวณมีรากฐานทางกายภาพแบบใหม่",
+        "อารยธรรมเริ่มออกแบบความเป็นจริงเอง",
+        "คำถามเรื่องการอยู่รอดระดับเอกภพกลายเป็นเรื่องปฏิบัติได้"
+      ],
+      "image": {
+        "alt": "วิศวกรรมสสารมืดใช้งานได้จริง",
+        "prompts": [
+          "dark Matter Engineering Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Matter Engineering Becomes Practical, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Matter Engineering Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Matter Engineering Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-dark-matter-engineering-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-dark-matter-engineering-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-space-time-topology-is-manipulated-for-civilization-infrastructure",
+      "order": 27,
+      "slug": "space-time-topology-is-manipulated-for-civilization-infrastructure",
+      "title": "โทโพโลยีกาลอวกาศถูกปรับใช้เป็นโครงสร้างพื้นฐานของอารยธรรม",
+      "shortTitle": "โทโพโลยีกาลอวกาศเพื่ออารยธรรม",
+      "category": "Physics",
+      "description": "โทโพโลยีกาลอวกาศถูกปรับใช้เป็นโครงสร้างพื้นฐานของอารยธรรม ใช้ฟิสิกส์จักรวาลเพื่อทำความเข้าใจจุดกำเนิด อนุรักษ์ข้อมูล จัดการโทโพโลยีของกาลอวกาศ และออกแบบโครงสร้างพื้นฐานของอารยธรรม",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 521440,
+        "endYear": 587906
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "โทโพโลยีกาลอวกาศถูกปรับใช้เป็นโครงสร้างพื้นฐานของอารยธรรม กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ฟิสิกส์พื้นฐานสร้างเทคโนโลยีที่ใช้งานจริงได้",
+        "การจัดการกาลอวกาศทำซ้ำได้อย่างน่าเชื่อถือ",
+        "การสังเกตการณ์ระดับจักรวาลกลายเป็นระบบทดลอง"
+      ],
+      "implications": [
+        "การเดินทาง การจัดเก็บ และการคำนวณมีรากฐานทางกายภาพแบบใหม่",
+        "อารยธรรมเริ่มออกแบบความเป็นจริงเอง",
+        "คำถามเรื่องการอยู่รอดระดับเอกภพกลายเป็นเรื่องปฏิบัติได้"
+      ],
+      "image": {
+        "alt": "โทโพโลยีกาลอวกาศถูกปรับใช้เป็นโครงสร้างพื้นฐานของอารยธรรม",
+        "prompts": [
+          "space-Time Topology Is Manipulated For Civilization Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Time Topology Is Manipulated For Civilization Infrastructure, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Time Topology Is Manipulated For Civilization Infrastructure, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Time Topology Is Manipulated For Civilization Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-the-origin-of-the-universe-is-experimentally-reconstructed",
+      "order": 28,
+      "slug": "the-origin-of-the-universe-is-experimentally-reconstructed",
+      "title": "จุดกำเนิดของเอกภพถูกสร้างซ้ำด้วยการทดลอง",
+      "shortTitle": "สร้างซ้ำจุดกำเนิดเอกภพ",
+      "category": "Physics",
+      "description": "จุดกำเนิดของเอกภพถูกสร้างซ้ำด้วยการทดลอง ใช้ฟิสิกส์จักรวาลเพื่อทำความเข้าใจจุดกำเนิด อนุรักษ์ข้อมูล จัดการโทโพโลยีของกาลอวกาศ และออกแบบโครงสร้างพื้นฐานของอารยธรรม",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 541380,
+        "endYear": 607846
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "จุดกำเนิดของเอกภพถูกสร้างซ้ำด้วยการทดลอง กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ฟิสิกส์พื้นฐานสร้างเทคโนโลยีที่ใช้งานจริงได้",
+        "การจัดการกาลอวกาศทำซ้ำได้อย่างน่าเชื่อถือ",
+        "การสังเกตการณ์ระดับจักรวาลกลายเป็นระบบทดลอง"
+      ],
+      "implications": [
+        "การเดินทาง การจัดเก็บ และการคำนวณมีรากฐานทางกายภาพแบบใหม่",
+        "อารยธรรมเริ่มออกแบบความเป็นจริงเอง",
+        "คำถามเรื่องการอยู่รอดระดับเอกภพกลายเป็นเรื่องปฏิบัติได้"
+      ],
+      "image": {
+        "alt": "จุดกำเนิดของเอกภพถูกสร้างซ้ำด้วยการทดลอง",
+        "prompts": [
+          "the Origin Of The Universe Is Experimentally Reconstructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Origin Of The Universe Is Experimentally Reconstructed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Origin Of The Universe Is Experimentally Reconstructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Origin Of The Universe Is Experimentally Reconstructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-parallel-universes-become-observable",
+      "order": 29,
+      "slug": "parallel-universes-become-observable",
+      "title": "เอกภพคู่ขนานสามารถสังเกตได้",
+      "shortTitle": "เอกภพคู่ขนานสังเกตได้",
+      "category": "Physics",
+      "description": "เอกภพคู่ขนานสามารถสังเกตได้ ใช้ฟิสิกส์จักรวาลเพื่อทำความเข้าใจจุดกำเนิด อนุรักษ์ข้อมูล จัดการโทโพโลยีของกาลอวกาศ และออกแบบโครงสร้างพื้นฐานของอารยธรรม",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 561320,
+        "endYear": 627786
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "เอกภพคู่ขนานสามารถสังเกตได้ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ฟิสิกส์พื้นฐานสร้างเทคโนโลยีที่ใช้งานจริงได้",
+        "การจัดการกาลอวกาศทำซ้ำได้อย่างน่าเชื่อถือ",
+        "การสังเกตการณ์ระดับจักรวาลกลายเป็นระบบทดลอง"
+      ],
+      "implications": [
+        "การเดินทาง การจัดเก็บ และการคำนวณมีรากฐานทางกายภาพแบบใหม่",
+        "อารยธรรมเริ่มออกแบบความเป็นจริงเอง",
+        "คำถามเรื่องการอยู่รอดระดับเอกภพกลายเป็นเรื่องปฏิบัติได้"
+      ],
+      "image": {
+        "alt": "เอกภพคู่ขนานสามารถสังเกตได้",
+        "prompts": [
+          "parallel Universes Become Observable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing parallel Universes Become Observable, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of parallel Universes Become Observable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating parallel Universes Become Observable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-parallel-universes-become-observable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-parallel-universes-become-observable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-parallel-universes-become-observable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-parallel-universes-become-observable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-parallel-universes-become-observable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-information-preservation-across-cosmic-timescales-is-achieved",
+      "order": 30,
+      "slug": "information-preservation-across-cosmic-timescales-is-achieved",
+      "title": "การอนุรักษ์ข้อมูลข้ามช่วงเวลาจักรวาลสำเร็จ",
+      "shortTitle": "อนุรักษ์ข้อมูลระดับจักรวาล",
+      "category": "Physics",
+      "description": "การอนุรักษ์ข้อมูลข้ามช่วงเวลาจักรวาลสำเร็จ ใช้ฟิสิกส์จักรวาลเพื่อทำความเข้าใจจุดกำเนิด อนุรักษ์ข้อมูล จัดการโทโพโลยีของกาลอวกาศ และออกแบบโครงสร้างพื้นฐานของอารยธรรม",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 581260,
+        "endYear": 647726
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การอนุรักษ์ข้อมูลข้ามช่วงเวลาจักรวาลสำเร็จ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ฟิสิกส์พื้นฐานสร้างเทคโนโลยีที่ใช้งานจริงได้",
+        "การจัดการกาลอวกาศทำซ้ำได้อย่างน่าเชื่อถือ",
+        "การสังเกตการณ์ระดับจักรวาลกลายเป็นระบบทดลอง"
+      ],
+      "implications": [
+        "การเดินทาง การจัดเก็บ และการคำนวณมีรากฐานทางกายภาพแบบใหม่",
+        "อารยธรรมเริ่มออกแบบความเป็นจริงเอง",
+        "คำถามเรื่องการอยู่รอดระดับเอกภพกลายเป็นเรื่องปฏิบัติได้"
+      ],
+      "image": {
+        "alt": "การอนุรักษ์ข้อมูลข้ามช่วงเวลาจักรวาลสำเร็จ",
+        "prompts": [
+          "information Preservation Across Cosmic Timescales Is Achieved, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing information Preservation Across Cosmic Timescales Is Achieved, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of information Preservation Across Cosmic Timescales Is Achieved, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating information Preservation Across Cosmic Timescales Is Achieved, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-information-preservation-across-cosmic-timescales-is-achieved.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-information-preservation-across-cosmic-timescales-is-achieved.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale",
+      "order": 31,
+      "slug": "matter-can-be-reassembled-atom-by-atom-at-planetary-scale",
+      "title": "สสารถูกประกอบใหม่ทีละอะตอมในระดับดาวเคราะห์ได้",
+      "shortTitle": "ประกอบสสารใหม่ทีละอะตอม",
+      "category": "Materials & Manufacturing",
+      "description": "สสารถูกประกอบใหม่ทีละอะตอมในระดับดาวเคราะห์ได้ ขยายการผลิตไปสู่ระดับดาวเคราะห์ โลก และระบบดาว ผ่านวัสดุความจริงที่ตั้งโปรแกรมได้และการประกอบใหม่ทีละอะตอม",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 601200,
+        "endYear": 667666
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "สสารถูกประกอบใหม่ทีละอะตอมในระดับดาวเคราะห์ได้ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความแม่นยำระดับอะตอมกลายเป็นแนวปฏิบัติปกติของการผลิต",
+        "ถิ่นอาศัยที่ประกอบตัวเองเติบโตได้โดยไม่ต้องใช้โรงงานแบบเดิม",
+        "การประกอบสสารใหม่ทำให้ห่วงโซ่อุปทานจำนวนมากหมดความจำเป็น"
+      ],
+      "implications": [
+        "ความขาดแคลนวัสดุส่วนใหญ่หายไป",
+        "เมืองและถิ่นอาศัยสามารถเติบโตหรือถูกประกอบใหม่ได้",
+        "เส้นแบ่งระหว่างวัสดุ เครื่องจักร และสิ่งมีชีวิตพร่าเลือน"
+      ],
+      "image": {
+        "alt": "สสารถูกประกอบใหม่ทีละอะตอมในระดับดาวเคราะห์ได้",
+        "prompts": [
+          "matter Can Be Reassembled Atom-By-Atom At Planetary Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter Can Be Reassembled Atom-By-Atom At Planetary Scale, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter Can Be Reassembled Atom-By-Atom At Planetary Scale, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter Can Be Reassembled Atom-By-Atom At Planetary Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-self-growing-megastructures-build-entire-star-systems",
+      "order": 32,
+      "slug": "self-growing-megastructures-build-entire-star-systems",
+      "title": "เมกะสตรักเจอร์ที่เติบโตเองสร้างระบบดาวทั้งระบบ",
+      "shortTitle": "เมกะสตรักเจอร์เติบโตเอง",
+      "category": "Materials & Manufacturing",
+      "description": "เมกะสตรักเจอร์ที่เติบโตเองสร้างระบบดาวทั้งระบบ ขยายการผลิตไปสู่ระดับดาวเคราะห์ โลก และระบบดาว ผ่านวัสดุความจริงที่ตั้งโปรแกรมได้และการประกอบใหม่ทีละอะตอม",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 621140,
+        "endYear": 687606
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "เมกะสตรักเจอร์ที่เติบโตเองสร้างระบบดาวทั้งระบบ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความแม่นยำระดับอะตอมกลายเป็นแนวปฏิบัติปกติของการผลิต",
+        "ถิ่นอาศัยที่ประกอบตัวเองเติบโตได้โดยไม่ต้องใช้โรงงานแบบเดิม",
+        "การประกอบสสารใหม่ทำให้ห่วงโซ่อุปทานจำนวนมากหมดความจำเป็น"
+      ],
+      "implications": [
+        "ความขาดแคลนวัสดุส่วนใหญ่หายไป",
+        "เมืองและถิ่นอาศัยสามารถเติบโตหรือถูกประกอบใหม่ได้",
+        "เส้นแบ่งระหว่างวัสดุ เครื่องจักร และสิ่งมีชีวิตพร่าเลือน"
+      ],
+      "image": {
+        "alt": "เมกะสตรักเจอร์ที่เติบโตเองสร้างระบบดาวทั้งระบบ",
+        "prompts": [
+          "self-Growing Megastructures Build Entire Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Growing Megastructures Build Entire Star Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Growing Megastructures Build Entire Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Growing Megastructures Build Entire Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-self-growing-megastructures-build-entire-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-self-growing-megastructures-build-entire-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-programmable-reality-materials-enter-use",
+      "order": 33,
+      "slug": "programmable-reality-materials-enter-use",
+      "title": "วัสดุความจริงที่ตั้งโปรแกรมได้เริ่มใช้งาน",
+      "shortTitle": "วัสดุความจริงตั้งโปรแกรมได้",
+      "category": "Materials & Manufacturing",
+      "description": "วัสดุความจริงที่ตั้งโปรแกรมได้เริ่มใช้งาน ขยายการผลิตไปสู่ระดับดาวเคราะห์ โลก และระบบดาว ผ่านวัสดุความจริงที่ตั้งโปรแกรมได้และการประกอบใหม่ทีละอะตอม",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 641080,
+        "endYear": 707546
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "วัสดุความจริงที่ตั้งโปรแกรมได้เริ่มใช้งาน กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความแม่นยำระดับอะตอมกลายเป็นแนวปฏิบัติปกติของการผลิต",
+        "ถิ่นอาศัยที่ประกอบตัวเองเติบโตได้โดยไม่ต้องใช้โรงงานแบบเดิม",
+        "การประกอบสสารใหม่ทำให้ห่วงโซ่อุปทานจำนวนมากหมดความจำเป็น"
+      ],
+      "implications": [
+        "ความขาดแคลนวัสดุส่วนใหญ่หายไป",
+        "เมืองและถิ่นอาศัยสามารถเติบโตหรือถูกประกอบใหม่ได้",
+        "เส้นแบ่งระหว่างวัสดุ เครื่องจักร และสิ่งมีชีวิตพร่าเลือน"
+      ],
+      "image": {
+        "alt": "วัสดุความจริงที่ตั้งโปรแกรมได้เริ่มใช้งาน",
+        "prompts": [
+          "programmable Reality Materials Enter Use, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Reality Materials Enter Use, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Reality Materials Enter Use, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Reality Materials Enter Use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-programmable-reality-materials-enter-use.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-programmable-reality-materials-enter-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-worlds-become-manufactured-products",
+      "order": 34,
+      "slug": "artificial-worlds-become-manufactured-products",
+      "title": "โลกประดิษฐ์กลายเป็นผลิตภัณฑ์ที่ผลิตได้",
+      "shortTitle": "โลกประดิษฐ์เป็นผลิตภัณฑ์",
+      "category": "Materials & Manufacturing",
+      "description": "โลกประดิษฐ์กลายเป็นผลิตภัณฑ์ที่ผลิตได้ ขยายการผลิตไปสู่ระดับดาวเคราะห์ โลก และระบบดาว ผ่านวัสดุความจริงที่ตั้งโปรแกรมได้และการประกอบใหม่ทีละอะตอม",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 661020,
+        "endYear": 727486
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "โลกประดิษฐ์กลายเป็นผลิตภัณฑ์ที่ผลิตได้ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความแม่นยำระดับอะตอมกลายเป็นแนวปฏิบัติปกติของการผลิต",
+        "ถิ่นอาศัยที่ประกอบตัวเองเติบโตได้โดยไม่ต้องใช้โรงงานแบบเดิม",
+        "การประกอบสสารใหม่ทำให้ห่วงโซ่อุปทานจำนวนมากหมดความจำเป็น"
+      ],
+      "implications": [
+        "ความขาดแคลนวัสดุส่วนใหญ่หายไป",
+        "เมืองและถิ่นอาศัยสามารถเติบโตหรือถูกประกอบใหม่ได้",
+        "เส้นแบ่งระหว่างวัสดุ เครื่องจักร และสิ่งมีชีวิตพร่าเลือน"
+      ],
+      "image": {
+        "alt": "โลกประดิษฐ์กลายเป็นผลิตภัณฑ์ที่ผลิตได้",
+        "prompts": [
+          "artificial Worlds Become Manufactured Products, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Worlds Become Manufactured Products, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Worlds Become Manufactured Products, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Worlds Become Manufactured Products, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-worlds-become-manufactured-products.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-worlds-become-manufactured-products.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-resource-scarcity-disappears-permanently",
+      "order": 35,
+      "slug": "resource-scarcity-disappears-permanently",
+      "title": "ความขาดแคลนทรัพยากรหายไปอย่างถาวร",
+      "shortTitle": "ความขาดแคลนทรัพยากรหายไป",
+      "category": "Materials & Manufacturing",
+      "description": "ความขาดแคลนทรัพยากรหายไปอย่างถาวร ขยายการผลิตไปสู่ระดับดาวเคราะห์ โลก และระบบดาว ผ่านวัสดุความจริงที่ตั้งโปรแกรมได้และการประกอบใหม่ทีละอะตอม",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 680960,
+        "endYear": 747426
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ความขาดแคลนทรัพยากรหายไปอย่างถาวร กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ความแม่นยำระดับอะตอมกลายเป็นแนวปฏิบัติปกติของการผลิต",
+        "ถิ่นอาศัยที่ประกอบตัวเองเติบโตได้โดยไม่ต้องใช้โรงงานแบบเดิม",
+        "การประกอบสสารใหม่ทำให้ห่วงโซ่อุปทานจำนวนมากหมดความจำเป็น"
+      ],
+      "implications": [
+        "ความขาดแคลนวัสดุส่วนใหญ่หายไป",
+        "เมืองและถิ่นอาศัยสามารถเติบโตหรือถูกประกอบใหม่ได้",
+        "เส้นแบ่งระหว่างวัสดุ เครื่องจักร และสิ่งมีชีวิตพร่าเลือน"
+      ],
+      "image": {
+        "alt": "ความขาดแคลนทรัพยากรหายไปอย่างถาวร",
+        "prompts": [
+          "resource Scarcity Disappears Permanently, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing resource Scarcity Disappears Permanently, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of resource Scarcity Disappears Permanently, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating resource Scarcity Disappears Permanently, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-resource-scarcity-disappears-permanently.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-resource-scarcity-disappears-permanently.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-stars-are-protected-as-ecological-systems",
+      "order": 36,
+      "slug": "stars-are-protected-as-ecological-systems",
+      "title": "ดาวฤกษ์ได้รับการคุ้มครองในฐานะระบบนิเวศ",
+      "shortTitle": "ดาวฤกษ์เป็นระบบนิเวศ",
+      "category": "Environment",
+      "description": "ดาวฤกษ์ได้รับการคุ้มครองในฐานะระบบนิเวศ ขยายการพิทักษ์ดูแลจากดาวเคราะห์ไปสู่ดาวฤกษ์ ระบบดาวเคราะห์ และกาแล็กซีที่ถูกมองเป็นเครือข่ายนิเวศ",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 700900,
+        "endYear": 767366
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ดาวฤกษ์ได้รับการคุ้มครองในฐานะระบบนิเวศ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบนิเวศประดิษฐ์มีเสถียรภาพเหนือกว่าระบบธรรมชาติที่ไม่ถูกจัดการ",
+        "การปรับสภาพดาวเคราะห์ถูกทำซ้ำบนโลกจำนวนมาก",
+        "การฟื้นฟูถูกวัดผลทั้งในระดับดาวเคราะห์และระดับจักรวาล"
+      ],
+      "implications": [
+        "อารยธรรมกลายเป็นทั้งผู้สร้างและผู้ดูแลชีวมณฑล",
+        "จริยธรรมขยายจากนิเวศของโลกไปสู่นิเวศระดับจักรวาล",
+        "โลกที่อยู่อาศัยได้สามารถถูกอนุรักษ์ ซ่อมแซม หรือออกแบบได้"
+      ],
+      "image": {
+        "alt": "ดาวฤกษ์ได้รับการคุ้มครองในฐานะระบบนิเวศ",
+        "prompts": [
+          "stars Are Protected As Ecological Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stars Are Protected As Ecological Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stars Are Protected As Ecological Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stars Are Protected As Ecological Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-stars-are-protected-as-ecological-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-stars-are-protected-as-ecological-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage",
+      "order": 37,
+      "slug": "cosmic-ecosystem-restoration-programs-reverse-ancient-damage",
+      "title": "โครงการฟื้นฟูระบบนิเวศจักรวาลย้อนแก้ความเสียหายโบราณ",
+      "shortTitle": "ฟื้นฟูระบบนิเวศจักรวาล",
+      "category": "Environment",
+      "description": "โครงการฟื้นฟูระบบนิเวศจักรวาลย้อนแก้ความเสียหายโบราณ ขยายการพิทักษ์ดูแลจากดาวเคราะห์ไปสู่ดาวฤกษ์ ระบบดาวเคราะห์ และกาแล็กซีที่ถูกมองเป็นเครือข่ายนิเวศ",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 720840,
+        "endYear": 787306
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "โครงการฟื้นฟูระบบนิเวศจักรวาลย้อนแก้ความเสียหายโบราณ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบนิเวศประดิษฐ์มีเสถียรภาพเหนือกว่าระบบธรรมชาติที่ไม่ถูกจัดการ",
+        "การปรับสภาพดาวเคราะห์ถูกทำซ้ำบนโลกจำนวนมาก",
+        "การฟื้นฟูถูกวัดผลทั้งในระดับดาวเคราะห์และระดับจักรวาล"
+      ],
+      "implications": [
+        "อารยธรรมกลายเป็นทั้งผู้สร้างและผู้ดูแลชีวมณฑล",
+        "จริยธรรมขยายจากนิเวศของโลกไปสู่นิเวศระดับจักรวาล",
+        "โลกที่อยู่อาศัยได้สามารถถูกอนุรักษ์ ซ่อมแซม หรือออกแบบได้"
+      ],
+      "image": {
+        "alt": "โครงการฟื้นฟูระบบนิเวศจักรวาลย้อนแก้ความเสียหายโบราณ",
+        "prompts": [
+          "cosmic Ecosystem Restoration Programs Reverse Ancient Damage, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cosmic Ecosystem Restoration Programs Reverse Ancient Damage, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cosmic Ecosystem Restoration Programs Reverse Ancient Damage, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cosmic Ecosystem Restoration Programs Reverse Ancient Damage, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-biospheres-support-exotic-life-forms",
+      "order": 38,
+      "slug": "artificial-biospheres-support-exotic-life-forms",
+      "title": "ชีวมณฑลประดิษฐ์รองรับรูปแบบชีวิตต่างถิ่น",
+      "shortTitle": "ชีวมณฑลประดิษฐ์เพื่อชีวิตต่างถิ่น",
+      "category": "Environment",
+      "description": "ชีวมณฑลประดิษฐ์รองรับรูปแบบชีวิตต่างถิ่น ขยายการพิทักษ์ดูแลจากดาวเคราะห์ไปสู่ดาวฤกษ์ ระบบดาวเคราะห์ และกาแล็กซีที่ถูกมองเป็นเครือข่ายนิเวศ",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 740780,
+        "endYear": 807246
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ชีวมณฑลประดิษฐ์รองรับรูปแบบชีวิตต่างถิ่น กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบนิเวศประดิษฐ์มีเสถียรภาพเหนือกว่าระบบธรรมชาติที่ไม่ถูกจัดการ",
+        "การปรับสภาพดาวเคราะห์ถูกทำซ้ำบนโลกจำนวนมาก",
+        "การฟื้นฟูถูกวัดผลทั้งในระดับดาวเคราะห์และระดับจักรวาล"
+      ],
+      "implications": [
+        "อารยธรรมกลายเป็นทั้งผู้สร้างและผู้ดูแลชีวมณฑล",
+        "จริยธรรมขยายจากนิเวศของโลกไปสู่นิเวศระดับจักรวาล",
+        "โลกที่อยู่อาศัยได้สามารถถูกอนุรักษ์ ซ่อมแซม หรือออกแบบได้"
+      ],
+      "image": {
+        "alt": "ชีวมณฑลประดิษฐ์รองรับรูปแบบชีวิตต่างถิ่น",
+        "prompts": [
+          "artificial Biospheres Support Exotic Life Forms, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Biospheres Support Exotic Life Forms, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Biospheres Support Exotic Life Forms, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Biospheres Support Exotic Life Forms, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-biospheres-support-exotic-life-forms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-biospheres-support-exotic-life-forms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-entire-planetary-systems-are-managed-sustainably",
+      "order": 39,
+      "slug": "entire-planetary-systems-are-managed-sustainably",
+      "title": "ระบบดาวเคราะห์ทั้งระบบถูกบริหารอย่างยั่งยืน",
+      "shortTitle": "บริหารระบบดาวเคราะห์อย่างยั่งยืน",
+      "category": "Environment",
+      "description": "ระบบดาวเคราะห์ทั้งระบบถูกบริหารอย่างยั่งยืน ขยายการพิทักษ์ดูแลจากดาวเคราะห์ไปสู่ดาวฤกษ์ ระบบดาวเคราะห์ และกาแล็กซีที่ถูกมองเป็นเครือข่ายนิเวศ",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 760720,
+        "endYear": 827186
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ระบบดาวเคราะห์ทั้งระบบถูกบริหารอย่างยั่งยืน กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบนิเวศประดิษฐ์มีเสถียรภาพเหนือกว่าระบบธรรมชาติที่ไม่ถูกจัดการ",
+        "การปรับสภาพดาวเคราะห์ถูกทำซ้ำบนโลกจำนวนมาก",
+        "การฟื้นฟูถูกวัดผลทั้งในระดับดาวเคราะห์และระดับจักรวาล"
+      ],
+      "implications": [
+        "อารยธรรมกลายเป็นทั้งผู้สร้างและผู้ดูแลชีวมณฑล",
+        "จริยธรรมขยายจากนิเวศของโลกไปสู่นิเวศระดับจักรวาล",
+        "โลกที่อยู่อาศัยได้สามารถถูกอนุรักษ์ ซ่อมแซม หรือออกแบบได้"
+      ],
+      "image": {
+        "alt": "ระบบดาวเคราะห์ทั้งระบบถูกบริหารอย่างยั่งยืน",
+        "prompts": [
+          "entire Planetary Systems Are Managed Sustainably, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Planetary Systems Are Managed Sustainably, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Planetary Systems Are Managed Sustainably, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Planetary Systems Are Managed Sustainably, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-entire-planetary-systems-are-managed-sustainably.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-entire-planetary-systems-are-managed-sustainably.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxies-become-recognized-as-living-ecological-networks",
+      "order": 40,
+      "slug": "galaxies-become-recognized-as-living-ecological-networks",
+      "title": "กาแล็กซีได้รับการยอมรับว่าเป็นเครือข่ายนิเวศมีชีวิต",
+      "shortTitle": "กาแล็กซีเป็นเครือข่ายนิเวศ",
+      "category": "Environment",
+      "description": "กาแล็กซีได้รับการยอมรับว่าเป็นเครือข่ายนิเวศมีชีวิต ขยายการพิทักษ์ดูแลจากดาวเคราะห์ไปสู่ดาวฤกษ์ ระบบดาวเคราะห์ และกาแล็กซีที่ถูกมองเป็นเครือข่ายนิเวศ",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 780660,
+        "endYear": 847126
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "กาแล็กซีได้รับการยอมรับว่าเป็นเครือข่ายนิเวศมีชีวิต กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "ระบบนิเวศประดิษฐ์มีเสถียรภาพเหนือกว่าระบบธรรมชาติที่ไม่ถูกจัดการ",
+        "การปรับสภาพดาวเคราะห์ถูกทำซ้ำบนโลกจำนวนมาก",
+        "การฟื้นฟูถูกวัดผลทั้งในระดับดาวเคราะห์และระดับจักรวาล"
+      ],
+      "implications": [
+        "อารยธรรมกลายเป็นทั้งผู้สร้างและผู้ดูแลชีวมณฑล",
+        "จริยธรรมขยายจากนิเวศของโลกไปสู่นิเวศระดับจักรวาล",
+        "โลกที่อยู่อาศัยได้สามารถถูกอนุรักษ์ ซ่อมแซม หรือออกแบบได้"
+      ],
+      "image": {
+        "alt": "กาแล็กซีได้รับการยอมรับว่าเป็นเครือข่ายนิเวศมีชีวิต",
+        "prompts": [
+          "galaxies Become Recognized As Living Ecological Networks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxies Become Recognized As Living Ecological Networks, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxies Become Recognized As Living Ecological Networks, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxies Become Recognized As Living Ecological Networks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxies-become-recognized-as-living-ecological-networks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxies-become-recognized-as-living-ecological-networks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-trade-expands-to-art-consciousness-biology-and-physics",
+      "order": 41,
+      "slug": "trade-expands-to-art-consciousness-biology-and-physics",
+      "title": "การค้าแผ่ขยายสู่ศิลปะ สำนึก ชีววิทยา และฟิสิกส์",
+      "shortTitle": "การค้าสู่ศิลปะและสำนึก",
+      "category": "Society & Economy",
+      "description": "การค้าแผ่ขยายสู่ศิลปะ สำนึก ชีววิทยา และฟิสิกส์ ขยายสังคมสู่การแลกเปลี่ยนข้ามอารยธรรม ที่ศิลปะ สำนึก ชีววิทยา ความทรงจำ และประสบการณ์กลายเป็นรูปแบบหลักของคุณค่า",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 800600,
+        "endYear": 867066
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การค้าแผ่ขยายสู่ศิลปะ สำนึก ชีววิทยา และฟิสิกส์ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "สกุลเงินมีบทบาทน้อยกว่าความรู้และความไว้วางใจ",
+        "ชุมชนเสมือนและชุมชนกายภาพได้รับความชอบธรรมทางเศรษฐกิจอย่างเท่าเทียม",
+        "การครอบครองเปลี่ยนไปสู่การเข้าถึงร่วมและประสบการณ์ชีวิต"
+      ],
+      "implications": [
+        "อัตลักษณ์ทางเศรษฐกิจเป็นอิสระจากร่างกายหรือสถานที่",
+        "ความขัดแย้งกลายเป็นเรื่องเชิงปรัชญามากกว่าเรื่องดินแดน",
+        "วัฒนธรรมกลายเป็นสนามหลักของการเติบโตทางอารยธรรม"
+      ],
+      "image": {
+        "alt": "การค้าแผ่ขยายสู่ศิลปะ สำนึก ชีววิทยา และฟิสิกส์",
+        "prompts": [
+          "trade Expands To Art, Consciousness, Biology, And Physics, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing trade Expands To Art, Consciousness, Biology, And Physics, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of trade Expands To Art, Consciousness, Biology, And Physics, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating trade Expands To Art, Consciousness, Biology, And Physics, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-trade-expands-to-art-consciousness-biology-and-physics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-trade-expands-to-art-consciousness-biology-and-physics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-physical-ownership-is-replaced-by-shared-experience-economies",
+      "order": 42,
+      "slug": "physical-ownership-is-replaced-by-shared-experience-economies",
+      "title": "การถือครองทางกายภาพถูกแทนที่ด้วยเศรษฐกิจประสบการณ์ร่วม",
+      "shortTitle": "เศรษฐกิจประสบการณ์ร่วม",
+      "category": "Society & Economy",
+      "description": "การถือครองทางกายภาพถูกแทนที่ด้วยเศรษฐกิจประสบการณ์ร่วม ขยายสังคมสู่การแลกเปลี่ยนข้ามอารยธรรม ที่ศิลปะ สำนึก ชีววิทยา ความทรงจำ และประสบการณ์กลายเป็นรูปแบบหลักของคุณค่า",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 820540,
+        "endYear": 887006
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การถือครองทางกายภาพถูกแทนที่ด้วยเศรษฐกิจประสบการณ์ร่วม กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "สกุลเงินมีบทบาทน้อยกว่าความรู้และความไว้วางใจ",
+        "ชุมชนเสมือนและชุมชนกายภาพได้รับความชอบธรรมทางเศรษฐกิจอย่างเท่าเทียม",
+        "การครอบครองเปลี่ยนไปสู่การเข้าถึงร่วมและประสบการณ์ชีวิต"
+      ],
+      "implications": [
+        "อัตลักษณ์ทางเศรษฐกิจเป็นอิสระจากร่างกายหรือสถานที่",
+        "ความขัดแย้งกลายเป็นเรื่องเชิงปรัชญามากกว่าเรื่องดินแดน",
+        "วัฒนธรรมกลายเป็นสนามหลักของการเติบโตทางอารยธรรม"
+      ],
+      "image": {
+        "alt": "การถือครองทางกายภาพถูกแทนที่ด้วยเศรษฐกิจประสบการณ์ร่วม",
+        "prompts": [
+          "physical Ownership Is Replaced By Shared Experience Economies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing physical Ownership Is Replaced By Shared Experience Economies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of physical Ownership Is Replaced By Shared Experience Economies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating physical Ownership Is Replaced By Shared Experience Economies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-physical-ownership-is-replaced-by-shared-experience-economies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-physical-ownership-is-replaced-by-shared-experience-economies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-identity-becomes-independent-of-species-or-origin",
+      "order": 43,
+      "slug": "identity-becomes-independent-of-species-or-origin",
+      "title": "อัตลักษณ์เป็นอิสระจากสายพันธุ์หรือแหล่งกำเนิด",
+      "shortTitle": "อัตลักษณ์อิสระจากสายพันธุ์",
+      "category": "Society & Economy",
+      "description": "อัตลักษณ์เป็นอิสระจากสายพันธุ์หรือแหล่งกำเนิด ขยายสังคมสู่การแลกเปลี่ยนข้ามอารยธรรม ที่ศิลปะ สำนึก ชีววิทยา ความทรงจำ และประสบการณ์กลายเป็นรูปแบบหลักของคุณค่า",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 840480,
+        "endYear": 906946
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "อัตลักษณ์เป็นอิสระจากสายพันธุ์หรือแหล่งกำเนิด กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "สกุลเงินมีบทบาทน้อยกว่าความรู้และความไว้วางใจ",
+        "ชุมชนเสมือนและชุมชนกายภาพได้รับความชอบธรรมทางเศรษฐกิจอย่างเท่าเทียม",
+        "การครอบครองเปลี่ยนไปสู่การเข้าถึงร่วมและประสบการณ์ชีวิต"
+      ],
+      "implications": [
+        "อัตลักษณ์ทางเศรษฐกิจเป็นอิสระจากร่างกายหรือสถานที่",
+        "ความขัดแย้งกลายเป็นเรื่องเชิงปรัชญามากกว่าเรื่องดินแดน",
+        "วัฒนธรรมกลายเป็นสนามหลักของการเติบโตทางอารยธรรม"
+      ],
+      "image": {
+        "alt": "อัตลักษณ์เป็นอิสระจากสายพันธุ์หรือแหล่งกำเนิด",
+        "prompts": [
+          "identity Becomes Independent Of Species Or Origin, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing identity Becomes Independent Of Species Or Origin, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of identity Becomes Independent Of Species Or Origin, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating identity Becomes Independent Of Species Or Origin, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-identity-becomes-independent-of-species-or-origin.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-identity-becomes-independent-of-species-or-origin.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-conflict-shifts-from-territory-to-philosophy-and-memory",
+      "order": 44,
+      "slug": "conflict-shifts-from-territory-to-philosophy-and-memory",
+      "title": "ความขัดแย้งเปลี่ยนจากดินแดนไปสู่ปรัชญาและความทรงจำ",
+      "shortTitle": "ความขัดแย้งด้านปรัชญาและความทรงจำ",
+      "category": "Society & Economy",
+      "description": "ความขัดแย้งเปลี่ยนจากดินแดนไปสู่ปรัชญาและความทรงจำ ขยายสังคมสู่การแลกเปลี่ยนข้ามอารยธรรม ที่ศิลปะ สำนึก ชีววิทยา ความทรงจำ และประสบการณ์กลายเป็นรูปแบบหลักของคุณค่า",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 860420,
+        "endYear": 926886
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ความขัดแย้งเปลี่ยนจากดินแดนไปสู่ปรัชญาและความทรงจำ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "สกุลเงินมีบทบาทน้อยกว่าความรู้และความไว้วางใจ",
+        "ชุมชนเสมือนและชุมชนกายภาพได้รับความชอบธรรมทางเศรษฐกิจอย่างเท่าเทียม",
+        "การครอบครองเปลี่ยนไปสู่การเข้าถึงร่วมและประสบการณ์ชีวิต"
+      ],
+      "implications": [
+        "อัตลักษณ์ทางเศรษฐกิจเป็นอิสระจากร่างกายหรือสถานที่",
+        "ความขัดแย้งกลายเป็นเรื่องเชิงปรัชญามากกว่าเรื่องดินแดน",
+        "วัฒนธรรมกลายเป็นสนามหลักของการเติบโตทางอารยธรรม"
+      ],
+      "image": {
+        "alt": "ความขัดแย้งเปลี่ยนจากดินแดนไปสู่ปรัชญาและความทรงจำ",
+        "prompts": [
+          "conflict Shifts From Territory To Philosophy And Memory, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing conflict Shifts From Territory To Philosophy And Memory, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of conflict Shifts From Territory To Philosophy And Memory, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating conflict Shifts From Territory To Philosophy And Memory, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cultural-exchange-between-civilizations-becomes-routine",
+      "order": 45,
+      "slug": "cultural-exchange-between-civilizations-becomes-routine",
+      "title": "การแลกเปลี่ยนวัฒนธรรมระหว่างอารยธรรมกลายเป็นเรื่องปกติ",
+      "shortTitle": "การแลกเปลี่ยนวัฒนธรรมระหว่างอารยธรรม",
+      "category": "Society & Economy",
+      "description": "การแลกเปลี่ยนวัฒนธรรมระหว่างอารยธรรมกลายเป็นเรื่องปกติ ขยายสังคมสู่การแลกเปลี่ยนข้ามอารยธรรม ที่ศิลปะ สำนึก ชีววิทยา ความทรงจำ และประสบการณ์กลายเป็นรูปแบบหลักของคุณค่า",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 880360,
+        "endYear": 946826
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "การแลกเปลี่ยนวัฒนธรรมระหว่างอารยธรรมกลายเป็นเรื่องปกติ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "สกุลเงินมีบทบาทน้อยกว่าความรู้และความไว้วางใจ",
+        "ชุมชนเสมือนและชุมชนกายภาพได้รับความชอบธรรมทางเศรษฐกิจอย่างเท่าเทียม",
+        "การครอบครองเปลี่ยนไปสู่การเข้าถึงร่วมและประสบการณ์ชีวิต"
+      ],
+      "implications": [
+        "อัตลักษณ์ทางเศรษฐกิจเป็นอิสระจากร่างกายหรือสถานที่",
+        "ความขัดแย้งกลายเป็นเรื่องเชิงปรัชญามากกว่าเรื่องดินแดน",
+        "วัฒนธรรมกลายเป็นสนามหลักของการเติบโตทางอารยธรรม"
+      ],
+      "image": {
+        "alt": "การแลกเปลี่ยนวัฒนธรรมระหว่างอารยธรรมกลายเป็นเรื่องปกติ",
+        "prompts": [
+          "cultural Exchange Between Civilizations Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cultural Exchange Between Civilizations Becomes Routine, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cultural Exchange Between Civilizations Becomes Routine, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cultural Exchange Between Civilizations Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cultural-exchange-between-civilizations-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cultural-exchange-between-civilizations-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galactic-coexistence-council-is-formed",
+      "order": 46,
+      "slug": "galactic-coexistence-council-is-formed",
+      "title": "สภาการอยู่ร่วมกันระดับกาแล็กซีถูกก่อตั้ง",
+      "shortTitle": "สภาการอยู่ร่วมกันระดับกาแล็กซี",
+      "category": "Civilization",
+      "description": "สภาการอยู่ร่วมกันระดับกาแล็กซีถูกก่อตั้ง บูรณาการมนุษยชาติเข้ากับชุมชนจักรวาลที่ใหญ่กว่า ที่ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 900300,
+        "endYear": 966766
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "สภาการอยู่ร่วมกันระดับกาแล็กซีถูกก่อตั้ง กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "กรอบสิทธิขยายออกไปไกลกว่ามนุษย์ชีวภาพ",
+        "ชุมชนรวมหมู่และชุมชนดิจิทัลได้รับสถานะทางกฎหมาย",
+        "อารยธรรมเตรียมพร้อมสำหรับปัญญาที่ไม่ได้มีต้นกำเนิดจากมนุษย์"
+      ],
+      "implications": [
+        "มนุษยชาติกลายเป็นเพียงแขนงหนึ่งของครอบครัวปัญญาที่กว้างกว่า",
+        "อัตลักษณ์ทางการเมืองก้าวพ้นชาติและสายพันธุ์",
+        "ระบบสุริยะกลายเป็นบ้านเกิดทางประวัติศาสตร์ มากกว่าจะเป็นศูนย์กลาง"
+      ],
+      "image": {
+        "alt": "สภาการอยู่ร่วมกันระดับกาแล็กซีถูกก่อตั้ง",
+        "prompts": [
+          "galactic Coexistence Council Is Formed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galactic Coexistence Council Is Formed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galactic Coexistence Council Is Formed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galactic Coexistence Council Is Formed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galactic-coexistence-council-is-formed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galactic-coexistence-council-is-formed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms",
+      "order": 47,
+      "slug": "intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms",
+      "title": "ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล",
+      "shortTitle": "ปัญญาหลากรูปแบบได้รับการยอมรับ",
+      "category": "Civilization",
+      "description": "ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล บูรณาการมนุษยชาติเข้ากับชุมชนจักรวาลที่ใหญ่กว่า ที่ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 920240,
+        "endYear": 986706
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "กรอบสิทธิขยายออกไปไกลกว่ามนุษย์ชีวภาพ",
+        "ชุมชนรวมหมู่และชุมชนดิจิทัลได้รับสถานะทางกฎหมาย",
+        "อารยธรรมเตรียมพร้อมสำหรับปัญญาที่ไม่ได้มีต้นกำเนิดจากมนุษย์"
+      ],
+      "implications": [
+        "มนุษยชาติกลายเป็นเพียงแขนงหนึ่งของครอบครัวปัญญาที่กว้างกว่า",
+        "อัตลักษณ์ทางการเมืองก้าวพ้นชาติและสายพันธุ์",
+        "ระบบสุริยะกลายเป็นบ้านเกิดทางประวัติศาสตร์ มากกว่าจะเป็นศูนย์กลาง"
+      ],
+      "image": {
+        "alt": "ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล",
+        "prompts": [
+          "intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-first-shared-human-ai-alien-city-is-built",
+      "order": 48,
+      "slug": "first-shared-human-ai-alien-city-is-built",
+      "title": "เมืองร่วมของมนุษย์ เอไอ และต่างดาวแห่งแรกถูกสร้างขึ้น",
+      "shortTitle": "เมืองร่วมมนุษย์ เอไอ ต่างดาว",
+      "category": "Civilization",
+      "description": "เมืองร่วมของมนุษย์ เอไอ และต่างดาวแห่งแรกถูกสร้างขึ้น บูรณาการมนุษยชาติเข้ากับชุมชนจักรวาลที่ใหญ่กว่า ที่ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 940180,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "เมืองร่วมของมนุษย์ เอไอ และต่างดาวแห่งแรกถูกสร้างขึ้น กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "กรอบสิทธิขยายออกไปไกลกว่ามนุษย์ชีวภาพ",
+        "ชุมชนรวมหมู่และชุมชนดิจิทัลได้รับสถานะทางกฎหมาย",
+        "อารยธรรมเตรียมพร้อมสำหรับปัญญาที่ไม่ได้มีต้นกำเนิดจากมนุษย์"
+      ],
+      "implications": [
+        "มนุษยชาติกลายเป็นเพียงแขนงหนึ่งของครอบครัวปัญญาที่กว้างกว่า",
+        "อัตลักษณ์ทางการเมืองก้าวพ้นชาติและสายพันธุ์",
+        "ระบบสุริยะกลายเป็นบ้านเกิดทางประวัติศาสตร์ มากกว่าจะเป็นศูนย์กลาง"
+      ],
+      "image": {
+        "alt": "เมืองร่วมของมนุษย์ เอไอ และต่างดาวแห่งแรกถูกสร้างขึ้น",
+        "prompts": [
+          "first Shared Human-AI-Alien City Is Built, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Shared Human-AI-Alien City Is Built, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Shared Human-AI-Alien City Is Built, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Shared Human-AI-Alien City Is Built, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-first-shared-human-ai-alien-city-is-built.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-first-shared-human-ai-alien-city-is-built.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history",
+      "order": 49,
+      "slug": "humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history",
+      "title": "เรื่องราวต้นกำเนิดของมนุษยชาติกลายเป็นหนึ่งบทในประวัติศาสตร์จักรวาลที่ใหญ่กว่า",
+      "shortTitle": "ต้นกำเนิดมนุษยชาติในประวัติศาสตร์จักรวาล",
+      "category": "Civilization",
+      "description": "เรื่องราวต้นกำเนิดของมนุษยชาติกลายเป็นหนึ่งบทในประวัติศาสตร์จักรวาลที่ใหญ่กว่า บูรณาการมนุษยชาติเข้ากับชุมชนจักรวาลที่ใหญ่กว่า ที่ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 960120,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "เรื่องราวต้นกำเนิดของมนุษยชาติกลายเป็นหนึ่งบทในประวัติศาสตร์จักรวาลที่ใหญ่กว่า กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "กรอบสิทธิขยายออกไปไกลกว่ามนุษย์ชีวภาพ",
+        "ชุมชนรวมหมู่และชุมชนดิจิทัลได้รับสถานะทางกฎหมาย",
+        "อารยธรรมเตรียมพร้อมสำหรับปัญญาที่ไม่ได้มีต้นกำเนิดจากมนุษย์"
+      ],
+      "implications": [
+        "มนุษยชาติกลายเป็นเพียงแขนงหนึ่งของครอบครัวปัญญาที่กว้างกว่า",
+        "อัตลักษณ์ทางการเมืองก้าวพ้นชาติและสายพันธุ์",
+        "ระบบสุริยะกลายเป็นบ้านเกิดทางประวัติศาสตร์ มากกว่าจะเป็นศูนย์กลาง"
+      ],
+      "image": {
+        "alt": "เรื่องราวต้นกำเนิดของมนุษยชาติกลายเป็นหนึ่งบทในประวัติศาสตร์จักรวาลที่ใหญ่กว่า",
+        "prompts": [
+          "humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity",
+      "order": 50,
+      "slug": "the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity",
+      "title": "ระบบสุริยะกลายเป็นอารยธรรมต้นกำเนิด แทนที่จะเป็นศูนย์กลางของมนุษยชาติ",
+      "shortTitle": "ระบบสุริยะคืออารยธรรมต้นกำเนิด",
+      "category": "Civilization",
+      "description": "ระบบสุริยะกลายเป็นอารยธรรมต้นกำเนิด แทนที่จะเป็นศูนย์กลางของมนุษยชาติ บูรณาการมนุษยชาติเข้ากับชุมชนจักรวาลที่ใหญ่กว่า ที่ปัญญาได้รับการยอมรับในรูปแบบชีวภาพ ประดิษฐ์ ดาวเคราะห์ และจักรวาล",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 980060,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "ระบบสุริยะกลายเป็นอารยธรรมต้นกำเนิด แทนที่จะเป็นศูนย์กลางของมนุษยชาติ กลายเป็นหมุดหมายสำคัญของการอยู่ร่วมกันระดับกาแล็กซี โดยวางมนุษยชาติไว้ภายในชุมชนจักรวาลที่กว้างขึ้นของปัญญาชีวภาพ ปัญญาประดิษฐ์ ปัญญาระดับดาวเคราะห์ และปัญญาต่างดาว",
+      "signals": [
+        "กรอบสิทธิขยายออกไปไกลกว่ามนุษย์ชีวภาพ",
+        "ชุมชนรวมหมู่และชุมชนดิจิทัลได้รับสถานะทางกฎหมาย",
+        "อารยธรรมเตรียมพร้อมสำหรับปัญญาที่ไม่ได้มีต้นกำเนิดจากมนุษย์"
+      ],
+      "implications": [
+        "มนุษยชาติกลายเป็นเพียงแขนงหนึ่งของครอบครัวปัญญาที่กว้างกว่า",
+        "อัตลักษณ์ทางการเมืองก้าวพ้นชาติและสายพันธุ์",
+        "ระบบสุริยะกลายเป็นบ้านเกิดทางประวัติศาสตร์ มากกว่าจะเป็นศูนย์กลาง"
+      ],
+      "image": {
+        "alt": "ระบบสุริยะกลายเป็นอารยธรรมต้นกำเนิด แทนที่จะเป็นศูนย์กลางของมนุษยชาติ",
+        "prompts": [
+          "the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

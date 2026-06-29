@@ -1,0 +1,251 @@
+{
+  "roadmapId": "future-civilization-roadmap",
+  "title": "未来文明路线图",
+  "description": "一份面向长期文明尺度的路线图，涵盖科学、技术、社会、地球修复、太空扩张与后人类未来。",
+  "eras": [
+    {
+      "id": "era-01",
+      "order": 1,
+      "title": "近未来突破",
+      "file": "/content/future-roadmap/era01/zh.json"
+    },
+    {
+      "id": "era-02",
+      "order": 2,
+      "title": "早期太空文明",
+      "file": "/content/future-roadmap/era02/zh.json"
+    },
+    {
+      "id": "era-03",
+      "order": 3,
+      "title": "后稀缺基础",
+      "file": "/content/future-roadmap/era03/zh.json"
+    },
+    {
+      "id": "era-04",
+      "order": 4,
+      "title": "行星级转型",
+      "file": "/content/future-roadmap/era04/zh.json"
+    },
+    {
+      "id": "era-05",
+      "order": 5,
+      "title": "高级人类文明",
+      "file": "/content/future-roadmap/era05/zh.json"
+    },
+    {
+      "id": "era-06",
+      "order": 6,
+      "title": "深空与后人类转型",
+      "file": "/content/future-roadmap/era06/zh.json"
+    },
+    {
+      "id": "era-07",
+      "order": 7,
+      "title": "星际文明",
+      "file": "/content/future-roadmap/era07/zh.json"
+    },
+    {
+      "id": "era-08",
+      "order": 8,
+      "title": "银河共存",
+      "file": "/content/future-roadmap/era08/zh.json"
+    }
+  ],
+  "ui": {
+    "navigation": {
+      "indexLabel": "未来文明",
+      "eraLabel": "时代"
+    },
+    "actions": {
+      "viewSignal": "查看信号"
+    },
+    "metadata": {
+      "siteName": "Chorn Planet",
+      "titleSuffix": "未来文明路线图",
+      "fallbackTitle": "未来文明路线图 | Chorn Planet"
+    },
+    "landingHero": {
+      "eyebrow": "Chorn Planet 未来文明"
+    },
+    "landingSignalGallery": {
+      "eyebrow": "未来文明信号画廊",
+      "title": "来自已加载路线图时代的随机信号。",
+      "description": "着陆页会刷新并展示来自每个已加载时代的精选信号，让访问者首先看到未来文明路线图的更广阔图景，同时保持每个时代板块聚焦且易于浏览。"
+    },
+    "layersSection": {
+      "eyebrow": "路线图层级",
+      "title": "作为文明系统而设计。"
+    },
+    "eraPage": {
+      "summaryDescription": "每个时代都被组织为实用信号：什么会改变、何时可能出现、属于哪个层级，以及会为文明设计带来什么后果。",
+      "continueTimeline": {
+        "eyebrow": "继续时间线",
+        "title": "打开另一个文明时代。"
+      }
+    },
+    "itemPage": {
+      "relatedSignals": {
+        "eyebrowPrefix": "更多来自",
+        "title": "继续浏览文明信号集。",
+        "descriptionPrefix": "穿行于",
+        "descriptionSuffix": "路线图，并可从此页面直接打开另一个未来文明节点。"
+      },
+      "detail": {
+        "timeframeLabel": "时间范围",
+        "layerLabel": "层级",
+        "impactLabel": "影响",
+        "maturityLabel": "成熟度",
+        "signalsTitle": "信号",
+        "implicationsTitle": "影响含义"
+      }
+    },
+    "homeHero": {
+      "eyebrow": "Chorn Planet 未来系统",
+      "title": "未来文明",
+      "description": "Chorn Planet 将文明媒体、路线图叙事与技术开发连接成一个高端平台，面向长期城市、食品系统、出行、太空、AI 与人类未来。",
+      "actions": {
+        "openRoadmap": "打开路线图",
+        "exploreRoadmap": "探索未来文明"
+      },
+      "railAriaLabel": "精选路线图信号",
+      "imageCaptionEyebrow": "第一阶段文明信号"
+    },
+    "homePreview": {
+      "eyebrow": "未来文明路线图",
+      "title": "文明路线图信号",
+      "description": "该集合会从第 01 时代到第 08 时代的活跃信号中刷新，使首页持续呈现不同的文明、媒体与技术信号。",
+      "actionLabel": "探索时代"
+    }
+  },
+  "taxonomy": {
+    "layers": [
+      {
+        "id": "science",
+        "title": "科学层",
+        "description": "物理、化学、生物学、行星科学与宇宙学中的基础发现。"
+      },
+      {
+        "id": "technology",
+        "title": "技术层",
+        "description": "扩展人类能力的应用系统、机器、平台、工具与基础设施。"
+      },
+      {
+        "id": "biotech-health",
+        "title": "生物技术与健康层",
+        "description": "医学、长寿、遗传学、再生、疾病预防与人类增强。"
+      },
+      {
+        "id": "environment",
+        "title": "环境层",
+        "description": "气候修复、生物多样性恢复、清洁水、污染清除与行星修复。"
+      },
+      {
+        "id": "society",
+        "title": "社会层",
+        "description": "教育、工作、治理、和平、法律、文化、不平等与集体福祉。"
+      },
+      {
+        "id": "civilization",
+        "title": "文明层",
+        "description": "城市、巨型结构、基础设施、经济、行星系统与长期文明设计。"
+      },
+      {
+        "id": "space",
+        "title": "太空层",
+        "description": "月球、火星、轨道基础设施、小行星采矿、深空与星际扩张。"
+      },
+      {
+        "id": "consciousness",
+        "title": "后人类与意识层",
+        "description": "神经接口、记忆、身份、合成身体、AI 权利与新的智能形式。"
+      }
+    ],
+    "categories": [
+      {
+        "id": "ai-computing",
+        "title": "AI 与计算"
+      },
+      {
+        "id": "robotics",
+        "title": "机器人"
+      },
+      {
+        "id": "biology-medicine",
+        "title": "生物学与医学"
+      },
+      {
+        "id": "energy",
+        "title": "能源"
+      },
+      {
+        "id": "materials-manufacturing",
+        "title": "材料与制造"
+      },
+      {
+        "id": "environment",
+        "title": "环境"
+      },
+      {
+        "id": "space",
+        "title": "太空"
+      },
+      {
+        "id": "society-economy",
+        "title": "社会与经济"
+      },
+      {
+        "id": "physics",
+        "title": "物理"
+      },
+      {
+        "id": "civilization",
+        "title": "文明"
+      }
+    ],
+    "sub-categories": [
+      {
+        "id": "artificial-intelligence",
+        "title": "人工智能",
+        "layerId": "technology"
+      },
+      {
+        "id": "fusion-energy",
+        "title": "聚变能源",
+        "layerId": "technology"
+      },
+      {
+        "id": "regenerative-medicine",
+        "title": "再生医学",
+        "layerId": "biotech-health"
+      },
+      {
+        "id": "lunar-civilization",
+        "title": "月球文明",
+        "layerId": "space"
+      },
+      {
+        "id": "mars-civilization",
+        "title": "火星文明",
+        "layerId": "space"
+      }
+    ],
+    "tags": [
+      "AI",
+      "机器人",
+      "聚变",
+      "量子",
+      "生物技术",
+      "遗传学",
+      "癌症",
+      "长寿",
+      "气候",
+      "材料",
+      "月球",
+      "火星",
+      "轨道基础设施",
+      "巨型结构",
+      "首次接触"
+    ]
+  }
+}

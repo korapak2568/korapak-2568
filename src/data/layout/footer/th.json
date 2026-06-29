@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet นำเสนอผลิตภัณฑ์ดิจิทัล บริการ AI แนวคิดเมืองอัจฉริยะ และความสามารถด้านวิศวกรรมแพลตฟอร์มจากเชียงใหม่สู่ผู้ชมทั่วโลก",
+  "social": {
+    "title": "โซเชียล",
+    "items": []
+  },
+  "important": {
+    "title": "ลิงก์สำคัญ",
+    "items": [
+      {
+        "label": "เกี่ยวกับ",
+        "link": "/about/"
+      },
+      {
+        "label": "เทคโนโลยี",
+        "link": "/technology/"
+      },
+      {
+        "label": "ติดต่อ",
+        "link": "/contact/"
+      },
+      {
+        "label": "ข้อกำหนดการใช้บริการ",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "นโยบายความเป็นส่วนตัว",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "นโยบายสถานที่ทำงาน",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "โปรเจกต์",
+    "items": [
+      {
+        "label": "โปรเจกต์ลักชัวรี",
+        "link": "/luxury/"
+      },
+      {
+        "label": "ระบบ Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Graceful Style",
+        "link": "/style/"
+      },
+      {
+        "label": "อนาคตเชียงใหม่",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "แพลตฟอร์ม",
+    "items": [
+      {
+        "label": "อารยธรรมอนาคต",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "ลักชัวรี",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "เมืองอัจฉริยะ",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "การเดินทางอัจฉริยะ",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "เรื่องราว",
+        "link": "/story/"
+      },
+      {
+        "label": "สไตล์",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "เชื่อมต่อ",
+    "items": [
+      {
+        "label": "ติดต่อ",
+        "link": "/contact",
+        "ariaLabel": "หน้าติดต่อ Chorn Planet"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "Chorn Planet บน LinkedIn"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "Chorn Planet บน GitHub"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Chorn Planet บน Facebook"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "Chorn Planet บน X"
+      }
+    ]
+  }
+}

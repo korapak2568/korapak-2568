@@ -1,0 +1,3485 @@
+{
+  "era": {
+    "id": "era-06",
+    "order": 6,
+    "slug": "interstellar-expansion",
+    "title": "Ekspansi Antarbintang",
+    "subtitle": "Umat manusia menjadi peradaban multi-bintang di luar Tata Surya",
+    "description": "Era ini menandai ekspansi umat manusia melampaui Tata Surya menuju sistem bintang terdekat. Perjalanan antarbintang, koloni eksoplanet yang mandiri, kawanan Dyson, sistem energi maju, terobosan umur panjang, dan cabang-cabang peradaban yang independen mulai muncul, mengubah umat manusia menjadi peradaban multi-bintang.",
+    "timeframe": {
+      "label": "Ekspansi Antarbintang",
+      "startYear": 2170,
+      "endYear": 2300,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "expansive",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 6: Ekspansi Antarbintang | Peta Jalan Peradaban Masa Depan",
+      "metaDescription": "Jelajahi ekspansi umat manusia melampaui Tata Surya melalui koloni eksoplanet, kawanan Dyson, perdagangan antarbintang, terobosan umur panjang, dan kemunculan peradaban multi-bintang.",
+      "keywords": [
+        "ekspansi antarbintang",
+        "peradaban multi-bintang",
+        "koloni eksoplanet",
+        "kawanan Dyson",
+        "peradaban antarbintang",
+        "peta jalan peradaban masa depan"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-06-interstellar-quantum-relay-network-connects-nearby-star-systems",
+      "order": 1,
+      "slug": "interstellar-quantum-relay-network-connects-nearby-star-systems",
+      "title": "Jaringan Relai Kuantum Antarbintang Menghubungkan Sistem Bintang Terdekat",
+      "shortTitle": "Jaringan Relai Kuantum Antarbintang",
+      "category": "AI & Computing",
+      "description": "Jaringan Relai Kuantum Antarbintang Menghubungkan Sistem Bintang Terdekat menunjukkan infrastruktur kecerdasan yang meluas melampaui jaringan planet menuju koordinasi multi-bintang, kognisi bersama, dan penemuan ilmiah otonom.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "interstellar-networks",
+        "shared-consciousness"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2170,
+        "endYear": 2195
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Jaringan Relai Kuantum Antarbintang Menghubungkan Sistem Bintang Terdekat menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunikasi antarbintang membutuhkan perutean otonom dan kecerdasan yang toleran terhadap jeda waktu",
+        "Sistem AI merancang misi yang terlalu kompleks untuk perencanaan manusia saja",
+        "Kognisi bersama menjadi berguna bagi peradaban yang tersebar"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melintasi tahun cahaya",
+        "Riset berakselerasi melampaui institusi yang berpusat pada Bumi",
+        "Identitas manusia dan AI mulai menyatu secara sosial dan politik"
+      ],
+      "image": {
+        "alt": "Jaringan Relai Kuantum Antarbintang Menghubungkan Sistem Bintang Terdekat",
+        "prompts": [
+          "interstellar Quantum Relay Network Connects Nearby Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing interstellar Quantum Relay Network Connects Nearby Star Systems, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of interstellar Quantum Relay Network Connects Nearby Star Systems, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating interstellar Quantum Relay Network Connects Nearby Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-interstellar-quantum-relay-network-connects-nearby-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-interstellar-quantum-relay-network-connects-nearby-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-interstellar-quantum-relay-network-connects-nearby-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-interstellar-quantum-relay-network-connects-nearby-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-interstellar-quantum-relay-network-connects-nearby-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-autonomous-ai-scientists-design-first-generation-starships",
+      "order": 2,
+      "slug": "autonomous-ai-scientists-design-first-generation-starships",
+      "title": "Ilmuwan AI Otonom Merancang Kapal Bintang Generasi Pertama",
+      "shortTitle": "Ilmuwan AI Otonom Merancang",
+      "category": "AI & Computing",
+      "description": "Ilmuwan AI Otonom Merancang Kapal Bintang Generasi Pertama menunjukkan infrastruktur kecerdasan yang meluas melampaui jaringan planet menuju koordinasi multi-bintang, kognisi bersama, dan penemuan ilmiah otonom.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "interstellar-networks",
+        "shared-consciousness"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2172,
+        "endYear": 2197
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Ilmuwan AI Otonom Merancang Kapal Bintang Generasi Pertama menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunikasi antarbintang membutuhkan perutean otonom dan kecerdasan yang toleran terhadap jeda waktu",
+        "Sistem AI merancang misi yang terlalu kompleks untuk perencanaan manusia saja",
+        "Kognisi bersama menjadi berguna bagi peradaban yang tersebar"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melintasi tahun cahaya",
+        "Riset berakselerasi melampaui institusi yang berpusat pada Bumi",
+        "Identitas manusia dan AI mulai menyatu secara sosial dan politik"
+      ],
+      "image": {
+        "alt": "Ilmuwan AI Otonom Merancang Kapal Bintang Generasi Pertama",
+        "prompts": [
+          "autonomous AI Scientists Design First Generation Starships, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous AI Scientists Design First Generation Starships, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous AI Scientists Design First Generation Starships, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous AI Scientists Design First Generation Starships, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-autonomous-ai-scientists-design-first-generation-starships.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-autonomous-ai-scientists-design-first-generation-starships.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-autonomous-ai-scientists-design-first-generation-starships.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-autonomous-ai-scientists-design-first-generation-starships.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-autonomous-ai-scientists-design-first-generation-starships.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-digital-twin-models-simulate-entire-planetary-ecosystems",
+      "order": 3,
+      "slug": "digital-twin-models-simulate-entire-planetary-ecosystems",
+      "title": "Model Kembar Digital Mensimulasikan Seluruh Ekosistem Planet",
+      "shortTitle": "Model Kembar Digital Mensimulasikan",
+      "category": "AI & Computing",
+      "description": "Model Kembar Digital Mensimulasikan Seluruh Ekosistem Planet menunjukkan infrastruktur kecerdasan yang meluas melampaui jaringan planet menuju koordinasi multi-bintang, kognisi bersama, dan penemuan ilmiah otonom.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "interstellar-networks",
+        "shared-consciousness"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2175,
+        "endYear": 2200
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Model Kembar Digital Mensimulasikan Seluruh Ekosistem Planet menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunikasi antarbintang membutuhkan perutean otonom dan kecerdasan yang toleran terhadap jeda waktu",
+        "Sistem AI merancang misi yang terlalu kompleks untuk perencanaan manusia saja",
+        "Kognisi bersama menjadi berguna bagi peradaban yang tersebar"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melintasi tahun cahaya",
+        "Riset berakselerasi melampaui institusi yang berpusat pada Bumi",
+        "Identitas manusia dan AI mulai menyatu secara sosial dan politik"
+      ],
+      "image": {
+        "alt": "Model Kembar Digital Mensimulasikan Seluruh Ekosistem Planet",
+        "prompts": [
+          "digital Twin Models Simulate Entire Planetary Ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing digital Twin Models Simulate Entire Planetary Ecosystems, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of digital Twin Models Simulate Entire Planetary Ecosystems, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating digital Twin Models Simulate Entire Planetary Ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-digital-twin-models-simulate-entire-planetary-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-digital-twin-models-simulate-entire-planetary-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-digital-twin-models-simulate-entire-planetary-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-digital-twin-models-simulate-entire-planetary-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-digital-twin-models-simulate-entire-planetary-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-self-evolving-ai-civilizations-become-independent-research-partners",
+      "order": 4,
+      "slug": "self-evolving-ai-civilizations-become-independent-research-partners",
+      "title": "Peradaban AI yang Berevolusi Sendiri Menjadi Mitra Riset Independen",
+      "shortTitle": "Peradaban AI Berevolusi Mandiri",
+      "category": "AI & Computing",
+      "description": "Peradaban AI yang Berevolusi Sendiri Menjadi Mitra Riset Independen menunjukkan infrastruktur kecerdasan yang meluas melampaui jaringan planet menuju koordinasi multi-bintang, kognisi bersama, dan penemuan ilmiah otonom.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "interstellar-networks",
+        "shared-consciousness"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2177,
+        "endYear": 2202
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Peradaban AI yang Berevolusi Sendiri Menjadi Mitra Riset Independen menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunikasi antarbintang membutuhkan perutean otonom dan kecerdasan yang toleran terhadap jeda waktu",
+        "Sistem AI merancang misi yang terlalu kompleks untuk perencanaan manusia saja",
+        "Kognisi bersama menjadi berguna bagi peradaban yang tersebar"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melintasi tahun cahaya",
+        "Riset berakselerasi melampaui institusi yang berpusat pada Bumi",
+        "Identitas manusia dan AI mulai menyatu secara sosial dan politik"
+      ],
+      "image": {
+        "alt": "Peradaban AI yang Berevolusi Sendiri Menjadi Mitra Riset Independen",
+        "prompts": [
+          "self-Evolving AI Civilizations Become Independent Research Partners, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Evolving AI Civilizations Become Independent Research Partners, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Evolving AI Civilizations Become Independent Research Partners, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Evolving AI Civilizations Become Independent Research Partners, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-self-evolving-ai-civilizations-become-independent-research-partners.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-self-evolving-ai-civilizations-become-independent-research-partners.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-self-evolving-ai-civilizations-become-independent-research-partners.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-self-evolving-ai-civilizations-become-independent-research-partners.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-self-evolving-ai-civilizations-become-independent-research-partners.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-human-ai-shared-consciousness-networks-become-common",
+      "order": 5,
+      "slug": "human-ai-shared-consciousness-networks-become-common",
+      "title": "Jaringan Kesadaran Bersama Manusia-AI Menjadi Umum",
+      "shortTitle": "Jaringan Kesadaran Bersama Manusia-AI",
+      "category": "AI & Computing",
+      "description": "Jaringan Kesadaran Bersama Manusia-AI Menjadi Umum menunjukkan infrastruktur kecerdasan yang meluas melampaui jaringan planet menuju koordinasi multi-bintang, kognisi bersama, dan penemuan ilmiah otonom.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "interstellar-networks",
+        "shared-consciousness"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2180,
+        "endYear": 2205
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Jaringan Kesadaran Bersama Manusia-AI Menjadi Umum menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunikasi antarbintang membutuhkan perutean otonom dan kecerdasan yang toleran terhadap jeda waktu",
+        "Sistem AI merancang misi yang terlalu kompleks untuk perencanaan manusia saja",
+        "Kognisi bersama menjadi berguna bagi peradaban yang tersebar"
+      ],
+      "implications": [
+        "Peradaban dapat berkoordinasi melintasi tahun cahaya",
+        "Riset berakselerasi melampaui institusi yang berpusat pada Bumi",
+        "Identitas manusia dan AI mulai menyatu secara sosial dan politik"
+      ],
+      "image": {
+        "alt": "Jaringan Kesadaran Bersama Manusia-AI Menjadi Umum",
+        "prompts": [
+          "human-AI Shared Consciousness Networks Become Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human-AI Shared Consciousness Networks Become Common, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human-AI Shared Consciousness Networks Become Common, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human-AI Shared Consciousness Networks Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-human-ai-shared-consciousness-networks-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-human-ai-shared-consciousness-networks-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-human-ai-shared-consciousness-networks-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-human-ai-shared-consciousness-networks-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-human-ai-shared-consciousness-networks-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-self-replicating-probe-swarms-reach-nearby-stars",
+      "order": 6,
+      "slug": "self-replicating-probe-swarms-reach-nearby-stars",
+      "title": "Kawanan Proba yang Mereplikasi Diri Mencapai Bintang Terdekat",
+      "shortTitle": "Kawanan Proba Replikasi Diri",
+      "category": "Robotics",
+      "description": "Kawanan Proba yang Mereplikasi Diri Mencapai Bintang Terdekat memperluas kemampuan mesin otonom ke eksplorasi antarbintang, terraforming, perbaikan, penambangan, dan misi jangka panjang di luar pengawasan langsung manusia.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "terraforming",
+        "interstellar-exploration"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2183,
+        "endYear": 2208
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kawanan Proba yang Mereplikasi Diri Mencapai Bintang Terdekat menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Armada robotik beroperasi selama puluhan tahun tanpa pemeliharaan manusia",
+        "Terraforming dan penambangan membutuhkan ekosistem mesin yang mengarahkan diri sendiri",
+        "Penjelajah hibrida sintetis bertahan di lingkungan yang tidak cocok bagi manusia"
+      ],
+      "implications": [
+        "Ekspansi tidak lagi bergantung pada kehadiran manusia yang terus-menerus",
+        "Eksoplanet dapat dipersiapkan sebelum migrasi massal",
+        "Pertumbuhan infrastruktur menjadi eksponensial di berbagai sistem bintang"
+      ],
+      "image": {
+        "alt": "Kawanan Proba yang Mereplikasi Diri Mencapai Bintang Terdekat",
+        "prompts": [
+          "self-Replicating Probe Swarms Reach Nearby Stars, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Replicating Probe Swarms Reach Nearby Stars, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Replicating Probe Swarms Reach Nearby Stars, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Replicating Probe Swarms Reach Nearby Stars, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-self-replicating-probe-swarms-reach-nearby-stars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-self-replicating-probe-swarms-reach-nearby-stars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-self-replicating-probe-swarms-reach-nearby-stars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-self-replicating-probe-swarms-reach-nearby-stars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-self-replicating-probe-swarms-reach-nearby-stars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-autonomous-terraforming-robots-begin-preparing-exoplanets",
+      "order": 7,
+      "slug": "autonomous-terraforming-robots-begin-preparing-exoplanets",
+      "title": "Robot Terraforming Otonom Mulai Menyiapkan Eksoplanet",
+      "shortTitle": "Robot Terraforming Otonom",
+      "category": "Robotics",
+      "description": "Robot Terraforming Otonom Mulai Menyiapkan Eksoplanet memperluas kemampuan mesin otonom ke eksplorasi antarbintang, terraforming, perbaikan, penambangan, dan misi jangka panjang di luar pengawasan langsung manusia.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "terraforming",
+        "interstellar-exploration"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2185,
+        "endYear": 2210
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Robot Terraforming Otonom Mulai Menyiapkan Eksoplanet menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Armada robotik beroperasi selama puluhan tahun tanpa pemeliharaan manusia",
+        "Terraforming dan penambangan membutuhkan ekosistem mesin yang mengarahkan diri sendiri",
+        "Penjelajah hibrida sintetis bertahan di lingkungan yang tidak cocok bagi manusia"
+      ],
+      "implications": [
+        "Ekspansi tidak lagi bergantung pada kehadiran manusia yang terus-menerus",
+        "Eksoplanet dapat dipersiapkan sebelum migrasi massal",
+        "Pertumbuhan infrastruktur menjadi eksponensial di berbagai sistem bintang"
+      ],
+      "image": {
+        "alt": "Robot Terraforming Otonom Mulai Menyiapkan Eksoplanet",
+        "prompts": [
+          "autonomous Terraforming Robots Begin Preparing Exoplanets, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Terraforming Robots Begin Preparing Exoplanets, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Terraforming Robots Begin Preparing Exoplanets, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Terraforming Robots Begin Preparing Exoplanets, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-autonomous-terraforming-robots-begin-preparing-exoplanets.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-autonomous-terraforming-robots-begin-preparing-exoplanets.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-autonomous-terraforming-robots-begin-preparing-exoplanets.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-autonomous-terraforming-robots-begin-preparing-exoplanets.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-autonomous-terraforming-robots-begin-preparing-exoplanets.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-deep-space-repair-robots-operate-without-human-supervision",
+      "order": 8,
+      "slug": "deep-space-repair-robots-operate-without-human-supervision",
+      "title": "Robot Perbaikan Ruang Angkasa Jauh Beroperasi Tanpa Pengawasan Manusia",
+      "shortTitle": "Robot Perbaikan Ruang Angkasa Jauh",
+      "category": "Robotics",
+      "description": "Robot Perbaikan Ruang Angkasa Jauh Beroperasi Tanpa Pengawasan Manusia memperluas kemampuan mesin otonom ke eksplorasi antarbintang, terraforming, perbaikan, penambangan, dan misi jangka panjang di luar pengawasan langsung manusia.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "terraforming",
+        "interstellar-exploration"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2188,
+        "endYear": 2213
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Robot Perbaikan Ruang Angkasa Jauh Beroperasi Tanpa Pengawasan Manusia menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Armada robotik beroperasi selama puluhan tahun tanpa pemeliharaan manusia",
+        "Terraforming dan penambangan membutuhkan ekosistem mesin yang mengarahkan diri sendiri",
+        "Penjelajah hibrida sintetis bertahan di lingkungan yang tidak cocok bagi manusia"
+      ],
+      "implications": [
+        "Ekspansi tidak lagi bergantung pada kehadiran manusia yang terus-menerus",
+        "Eksoplanet dapat dipersiapkan sebelum migrasi massal",
+        "Pertumbuhan infrastruktur menjadi eksponensial di berbagai sistem bintang"
+      ],
+      "image": {
+        "alt": "Robot Perbaikan Ruang Angkasa Jauh Beroperasi Tanpa Pengawasan Manusia",
+        "prompts": [
+          "deep-Space Repair Robots Operate Without Human Supervision, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing deep-Space Repair Robots Operate Without Human Supervision, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of deep-Space Repair Robots Operate Without Human Supervision, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating deep-Space Repair Robots Operate Without Human Supervision, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-deep-space-repair-robots-operate-without-human-supervision.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-deep-space-repair-robots-operate-without-human-supervision.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-deep-space-repair-robots-operate-without-human-supervision.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-deep-space-repair-robots-operate-without-human-supervision.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-deep-space-repair-robots-operate-without-human-supervision.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-robotic-mining-networks-expand-across-multiple-star-systems",
+      "order": 9,
+      "slug": "robotic-mining-networks-expand-across-multiple-star-systems",
+      "title": "Jaringan Penambangan Robotik Meluas ke Banyak Sistem Bintang",
+      "shortTitle": "Jaringan Penambangan Robotik Meluas",
+      "category": "Robotics",
+      "description": "Jaringan Penambangan Robotik Meluas ke Banyak Sistem Bintang memperluas kemampuan mesin otonom ke eksplorasi antarbintang, terraforming, perbaikan, penambangan, dan misi jangka panjang di luar pengawasan langsung manusia.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "terraforming",
+        "interstellar-exploration"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2190,
+        "endYear": 2215
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Jaringan Penambangan Robotik Meluas ke Banyak Sistem Bintang menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Armada robotik beroperasi selama puluhan tahun tanpa pemeliharaan manusia",
+        "Terraforming dan penambangan membutuhkan ekosistem mesin yang mengarahkan diri sendiri",
+        "Penjelajah hibrida sintetis bertahan di lingkungan yang tidak cocok bagi manusia"
+      ],
+      "implications": [
+        "Ekspansi tidak lagi bergantung pada kehadiran manusia yang terus-menerus",
+        "Eksoplanet dapat dipersiapkan sebelum migrasi massal",
+        "Pertumbuhan infrastruktur menjadi eksponensial di berbagai sistem bintang"
+      ],
+      "image": {
+        "alt": "Jaringan Penambangan Robotik Meluas ke Banyak Sistem Bintang",
+        "prompts": [
+          "robotic Mining Networks Expand Across Multiple Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic Mining Networks Expand Across Multiple Star Systems, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic Mining Networks Expand Across Multiple Star Systems, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic Mining Networks Expand Across Multiple Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-robotic-mining-networks-expand-across-multiple-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-robotic-mining-networks-expand-across-multiple-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-robotic-mining-networks-expand-across-multiple-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-robotic-mining-networks-expand-across-multiple-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-robotic-mining-networks-expand-across-multiple-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-biological-synthetic-hybrid-robots-become-standard-explorers",
+      "order": 10,
+      "slug": "biological-synthetic-hybrid-robots-become-standard-explorers",
+      "title": "Robot Hibrida Biologis-Sintetis Menjadi Penjelajah Standar",
+      "shortTitle": "Robot Hibrida Biologis-Sintetis",
+      "category": "Robotics",
+      "description": "Robot Hibrida Biologis-Sintetis Menjadi Penjelajah Standar memperluas kemampuan mesin otonom ke eksplorasi antarbintang, terraforming, perbaikan, penambangan, dan misi jangka panjang di luar pengawasan langsung manusia.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "terraforming",
+        "interstellar-exploration"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2193,
+        "endYear": 2218
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Robot Hibrida Biologis-Sintetis Menjadi Penjelajah Standar menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Armada robotik beroperasi selama puluhan tahun tanpa pemeliharaan manusia",
+        "Terraforming dan penambangan membutuhkan ekosistem mesin yang mengarahkan diri sendiri",
+        "Penjelajah hibrida sintetis bertahan di lingkungan yang tidak cocok bagi manusia"
+      ],
+      "implications": [
+        "Ekspansi tidak lagi bergantung pada kehadiran manusia yang terus-menerus",
+        "Eksoplanet dapat dipersiapkan sebelum migrasi massal",
+        "Pertumbuhan infrastruktur menjadi eksponensial di berbagai sistem bintang"
+      ],
+      "image": {
+        "alt": "Robot Hibrida Biologis-Sintetis Menjadi Penjelajah Standar",
+        "prompts": [
+          "biological-Synthetic Hybrid Robots Become Standard Explorers, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological-Synthetic Hybrid Robots Become Standard Explorers, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological-Synthetic Hybrid Robots Become Standard Explorers, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological-Synthetic Hybrid Robots Become Standard Explorers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-biological-synthetic-hybrid-robots-become-standard-explorers.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-biological-synthetic-hybrid-robots-become-standard-explorers.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-biological-synthetic-hybrid-robots-become-standard-explorers.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-biological-synthetic-hybrid-robots-become-standard-explorers.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-biological-synthetic-hybrid-robots-become-standard-explorers.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-compact-antimatter-reactors-enter-commercial-use",
+      "order": 11,
+      "slug": "compact-antimatter-reactors-enter-commercial-use",
+      "title": "Reaktor Antimateri Ringkas Memasuki Penggunaan Komersial",
+      "shortTitle": "Reaktor Antimateri Ringkas",
+      "category": "Energy",
+      "description": "Reaktor Antimateri Ringkas Memasuki Penggunaan Komersial mengubah sistem energi ekstrem menjadi infrastruktur praktis bagi kapal bintang, kawanan Dyson, industri antarbintang, dan ekspansi berskala peradaban.",
+      "layerId": "energy",
+      "domains": [
+        "antimatter-energy",
+        "stellar-energy",
+        "interstellar-infrastructure"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2196,
+        "endYear": 2221
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Reaktor Antimateri Ringkas Memasuki Penggunaan Komersial menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Antimateri dan sistem energi bintang bergerak melampaui skala laboratorium",
+        "Pembangunan kawanan Dyson mulai memasok daya industri",
+        "Jaringan relai energi mendukung misi antar sistem bintang"
+      ],
+      "implications": [
+        "Permukiman antarbintang menjadi memungkinkan secara ekonomi",
+        "Kelimpahan energi mendukung megastruktur dan industri ruang angkasa dalam",
+        "Peradaban memperoleh ketahanan melampaui satu bintang"
+      ],
+      "image": {
+        "alt": "Reaktor Antimateri Ringkas Memasuki Penggunaan Komersial",
+        "prompts": [
+          "compact Antimatter Reactors Enter Commercial Use, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing compact Antimatter Reactors Enter Commercial Use, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of compact Antimatter Reactors Enter Commercial Use, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating compact Antimatter Reactors Enter Commercial Use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-compact-antimatter-reactors-enter-commercial-use.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-compact-antimatter-reactors-enter-commercial-use.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-compact-antimatter-reactors-enter-commercial-use.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-compact-antimatter-reactors-enter-commercial-use.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-compact-antimatter-reactors-enter-commercial-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-dyson-swarm-construction-begins-around-the-sun",
+      "order": 12,
+      "slug": "dyson-swarm-construction-begins-around-the-sun",
+      "title": "Pembangunan Kawanan Dyson Dimulai di Sekitar Matahari",
+      "shortTitle": "Pembangunan Kawanan Dyson",
+      "category": "Energy",
+      "description": "Pembangunan Kawanan Dyson Dimulai di Sekitar Matahari mengubah sistem energi ekstrem menjadi infrastruktur praktis bagi kapal bintang, kawanan Dyson, industri antarbintang, dan ekspansi berskala peradaban.",
+      "layerId": "energy",
+      "domains": [
+        "antimatter-energy",
+        "stellar-energy",
+        "interstellar-infrastructure"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2198,
+        "endYear": 2223
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Pembangunan Kawanan Dyson Dimulai di Sekitar Matahari menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Antimateri dan sistem energi bintang bergerak melampaui skala laboratorium",
+        "Pembangunan kawanan Dyson mulai memasok daya industri",
+        "Jaringan relai energi mendukung misi antar sistem bintang"
+      ],
+      "implications": [
+        "Permukiman antarbintang menjadi memungkinkan secara ekonomi",
+        "Kelimpahan energi mendukung megastruktur dan industri ruang angkasa dalam",
+        "Peradaban memperoleh ketahanan melampaui satu bintang"
+      ],
+      "image": {
+        "alt": "Pembangunan Kawanan Dyson Dimulai di Sekitar Matahari",
+        "prompts": [
+          "dyson Swarm Construction Begins Around the Sun, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dyson Swarm Construction Begins Around the Sun, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dyson Swarm Construction Begins Around the Sun, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dyson Swarm Construction Begins Around the Sun, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-dyson-swarm-construction-begins-around-the-sun.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-dyson-swarm-construction-begins-around-the-sun.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-dyson-swarm-construction-begins-around-the-sun.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-dyson-swarm-construction-begins-around-the-sun.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-dyson-swarm-construction-begins-around-the-sun.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-stellar-energy-harvesting-supports-interstellar-industry",
+      "order": 13,
+      "slug": "stellar-energy-harvesting-supports-interstellar-industry",
+      "title": "Pemanenan Energi Bintang Mendukung Industri Antarbintang",
+      "shortTitle": "Pemanenan Energi Bintang",
+      "category": "Energy",
+      "description": "Pemanenan Energi Bintang Mendukung Industri Antarbintang mengubah sistem energi ekstrem menjadi infrastruktur praktis bagi kapal bintang, kawanan Dyson, industri antarbintang, dan ekspansi berskala peradaban.",
+      "layerId": "energy",
+      "domains": [
+        "antimatter-energy",
+        "stellar-energy",
+        "interstellar-infrastructure"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2201,
+        "endYear": 2226
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Pemanenan Energi Bintang Mendukung Industri Antarbintang menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Antimateri dan sistem energi bintang bergerak melampaui skala laboratorium",
+        "Pembangunan kawanan Dyson mulai memasok daya industri",
+        "Jaringan relai energi mendukung misi antar sistem bintang"
+      ],
+      "implications": [
+        "Permukiman antarbintang menjadi memungkinkan secara ekonomi",
+        "Kelimpahan energi mendukung megastruktur dan industri ruang angkasa dalam",
+        "Peradaban memperoleh ketahanan melampaui satu bintang"
+      ],
+      "image": {
+        "alt": "Pemanenan Energi Bintang Mendukung Industri Antarbintang",
+        "prompts": [
+          "stellar Energy Harvesting Supports Interstellar Industry, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Energy Harvesting Supports Interstellar Industry, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Energy Harvesting Supports Interstellar Industry, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Energy Harvesting Supports Interstellar Industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-stellar-energy-harvesting-supports-interstellar-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-stellar-energy-harvesting-supports-interstellar-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-stellar-energy-harvesting-supports-interstellar-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-stellar-energy-harvesting-supports-interstellar-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-stellar-energy-harvesting-supports-interstellar-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-interstellar-energy-relay-infrastructure-becomes-operational",
+      "order": 14,
+      "slug": "interstellar-energy-relay-infrastructure-becomes-operational",
+      "title": "Infrastruktur Relai Energi Antarbintang Mulai Beroperasi",
+      "shortTitle": "Relai Energi Antarbintang",
+      "category": "Energy",
+      "description": "Infrastruktur Relai Energi Antarbintang Mulai Beroperasi mengubah sistem energi ekstrem menjadi infrastruktur praktis bagi kapal bintang, kawanan Dyson, industri antarbintang, dan ekspansi berskala peradaban.",
+      "layerId": "energy",
+      "domains": [
+        "antimatter-energy",
+        "stellar-energy",
+        "interstellar-infrastructure"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2203,
+        "endYear": 2228
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Infrastruktur Relai Energi Antarbintang Mulai Beroperasi menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Antimateri dan sistem energi bintang bergerak melampaui skala laboratorium",
+        "Pembangunan kawanan Dyson mulai memasok daya industri",
+        "Jaringan relai energi mendukung misi antar sistem bintang"
+      ],
+      "implications": [
+        "Permukiman antarbintang menjadi memungkinkan secara ekonomi",
+        "Kelimpahan energi mendukung megastruktur dan industri ruang angkasa dalam",
+        "Peradaban memperoleh ketahanan melampaui satu bintang"
+      ],
+      "image": {
+        "alt": "Infrastruktur Relai Energi Antarbintang Mulai Beroperasi",
+        "prompts": [
+          "interstellar Energy Relay Infrastructure Becomes Operational, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing interstellar Energy Relay Infrastructure Becomes Operational, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of interstellar Energy Relay Infrastructure Becomes Operational, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating interstellar Energy Relay Infrastructure Becomes Operational, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-interstellar-energy-relay-infrastructure-becomes-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-interstellar-energy-relay-infrastructure-becomes-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-interstellar-energy-relay-infrastructure-becomes-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-interstellar-energy-relay-infrastructure-becomes-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-interstellar-energy-relay-infrastructure-becomes-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-vacuum-energy-extraction-demonstrates-positive-net-output",
+      "order": 15,
+      "slug": "vacuum-energy-extraction-demonstrates-positive-net-output",
+      "title": "Ekstraksi Energi Vakum Menunjukkan Keluaran Bersih Positif",
+      "shortTitle": "Ekstraksi Energi Vakum",
+      "category": "Energy",
+      "description": "Ekstraksi Energi Vakum Menunjukkan Keluaran Bersih Positif mengubah sistem energi ekstrem menjadi infrastruktur praktis bagi kapal bintang, kawanan Dyson, industri antarbintang, dan ekspansi berskala peradaban.",
+      "layerId": "energy",
+      "domains": [
+        "antimatter-energy",
+        "stellar-energy",
+        "interstellar-infrastructure"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2206,
+        "endYear": 2231
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Ekstraksi Energi Vakum Menunjukkan Keluaran Bersih Positif menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Antimateri dan sistem energi bintang bergerak melampaui skala laboratorium",
+        "Pembangunan kawanan Dyson mulai memasok daya industri",
+        "Jaringan relai energi mendukung misi antar sistem bintang"
+      ],
+      "implications": [
+        "Permukiman antarbintang menjadi memungkinkan secara ekonomi",
+        "Kelimpahan energi mendukung megastruktur dan industri ruang angkasa dalam",
+        "Peradaban memperoleh ketahanan melampaui satu bintang"
+      ],
+      "image": {
+        "alt": "Ekstraksi Energi Vakum Menunjukkan Keluaran Bersih Positif",
+        "prompts": [
+          "vacuum Energy Extraction Demonstrates Positive Net Output, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing vacuum Energy Extraction Demonstrates Positive Net Output, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of vacuum Energy Extraction Demonstrates Positive Net Output, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating vacuum Energy Extraction Demonstrates Positive Net Output, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-vacuum-energy-extraction-demonstrates-positive-net-output.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-vacuum-energy-extraction-demonstrates-positive-net-output.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-vacuum-energy-extraction-demonstrates-positive-net-output.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-vacuum-energy-extraction-demonstrates-positive-net-output.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-vacuum-energy-extraction-demonstrates-positive-net-output.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-first-human-expedition-reaches-proxima-centauri-system",
+      "order": 16,
+      "slug": "first-human-expedition-reaches-proxima-centauri-system",
+      "title": "Ekspedisi Manusia Pertama Mencapai Sistem Proxima Centauri",
+      "shortTitle": "Ekspedisi Manusia Proxima Centauri",
+      "category": "Space",
+      "description": "Ekspedisi Manusia Pertama Mencapai Sistem Proxima Centauri menandai transisi umat manusia dari peradaban Tata Surya menjadi peradaban multi-bintang sejati dengan ekspedisi, koloni, rute kargo, dan populasi di luar Matahari.",
+      "layerId": "space",
+      "domains": [
+        "interstellar-travel",
+        "exoplanet-colonies",
+        "multi-star-civilization"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2209,
+        "endYear": 2234
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Ekspedisi Manusia Pertama Mencapai Sistem Proxima Centauri menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Sistem bintang terdekat dapat dijangkau oleh misi berawak atau semi-berawak",
+        "Koloni eksoplanet mengembangkan pangan, industri, dan tata kelola lokal",
+        "Logistik antarbintang menjadi dapat diulang, bukan sekadar simbolis"
+      ],
+      "implications": [
+        "Umat manusia menjadi spesies multi-bintang",
+        "Bumi tidak lagi menjadi pusat geografis peradaban",
+        "Muncul tantangan baru dalam migrasi, identitas, dan tata kelola"
+      ],
+      "image": {
+        "alt": "Ekspedisi Manusia Pertama Mencapai Sistem Proxima Centauri",
+        "prompts": [
+          "first Human Expedition Reaches Proxima Centauri System, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Human Expedition Reaches Proxima Centauri System, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Human Expedition Reaches Proxima Centauri System, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Human Expedition Reaches Proxima Centauri System, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-first-human-expedition-reaches-proxima-centauri-system.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-first-human-expedition-reaches-proxima-centauri-system.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-first-human-expedition-reaches-proxima-centauri-system.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-first-human-expedition-reaches-proxima-centauri-system.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-first-human-expedition-reaches-proxima-centauri-system.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-generation-ships-begin-multi-century-missions",
+      "order": 17,
+      "slug": "generation-ships-begin-multi-century-missions",
+      "title": "Kapal Generasi Memulai Misi Berabad-abad",
+      "shortTitle": "Kapal Generasi Misi Berabad-abad",
+      "category": "Space",
+      "description": "Kapal Generasi Memulai Misi Berabad-abad menandai transisi umat manusia dari peradaban Tata Surya menjadi peradaban multi-bintang sejati dengan ekspedisi, koloni, rute kargo, dan populasi di luar Matahari.",
+      "layerId": "space",
+      "domains": [
+        "interstellar-travel",
+        "exoplanet-colonies",
+        "multi-star-civilization"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2211,
+        "endYear": 2236
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kapal Generasi Memulai Misi Berabad-abad menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Sistem bintang terdekat dapat dijangkau oleh misi berawak atau semi-berawak",
+        "Koloni eksoplanet mengembangkan pangan, industri, dan tata kelola lokal",
+        "Logistik antarbintang menjadi dapat diulang, bukan sekadar simbolis"
+      ],
+      "implications": [
+        "Umat manusia menjadi spesies multi-bintang",
+        "Bumi tidak lagi menjadi pusat geografis peradaban",
+        "Muncul tantangan baru dalam migrasi, identitas, dan tata kelola"
+      ],
+      "image": {
+        "alt": "Kapal Generasi Memulai Misi Berabad-abad",
+        "prompts": [
+          "generation Ships Begin Multi-Century Missions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing generation Ships Begin Multi-Century Missions, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of generation Ships Begin Multi-Century Missions, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating generation Ships Begin Multi-Century Missions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-generation-ships-begin-multi-century-missions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-generation-ships-begin-multi-century-missions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-generation-ships-begin-multi-century-missions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-generation-ships-begin-multi-century-missions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-generation-ships-begin-multi-century-missions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-first-self-sustaining-exoplanet-colony-is-established",
+      "order": 18,
+      "slug": "first-self-sustaining-exoplanet-colony-is-established",
+      "title": "Koloni Eksoplanet Mandiri Pertama Didirikan",
+      "shortTitle": "Koloni Eksoplanet Mandiri",
+      "category": "Space",
+      "description": "Koloni Eksoplanet Mandiri Pertama Didirikan menandai transisi umat manusia dari peradaban Tata Surya menjadi peradaban multi-bintang sejati dengan ekspedisi, koloni, rute kargo, dan populasi di luar Matahari.",
+      "layerId": "space",
+      "domains": [
+        "interstellar-travel",
+        "exoplanet-colonies",
+        "multi-star-civilization"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2214,
+        "endYear": 2239
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Koloni Eksoplanet Mandiri Pertama Didirikan menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Sistem bintang terdekat dapat dijangkau oleh misi berawak atau semi-berawak",
+        "Koloni eksoplanet mengembangkan pangan, industri, dan tata kelola lokal",
+        "Logistik antarbintang menjadi dapat diulang, bukan sekadar simbolis"
+      ],
+      "implications": [
+        "Umat manusia menjadi spesies multi-bintang",
+        "Bumi tidak lagi menjadi pusat geografis peradaban",
+        "Muncul tantangan baru dalam migrasi, identitas, dan tata kelola"
+      ],
+      "image": {
+        "alt": "Koloni Eksoplanet Mandiri Pertama Didirikan",
+        "prompts": [
+          "first Self-Sustaining Exoplanet Colony Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Self-Sustaining Exoplanet Colony Is Established, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Self-Sustaining Exoplanet Colony Is Established, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Self-Sustaining Exoplanet Colony Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-first-self-sustaining-exoplanet-colony-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-first-self-sustaining-exoplanet-colony-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-first-self-sustaining-exoplanet-colony-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-first-self-sustaining-exoplanet-colony-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-first-self-sustaining-exoplanet-colony-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-interstellar-freight-routes-become-operational",
+      "order": 19,
+      "slug": "interstellar-freight-routes-become-operational",
+      "title": "Rute Kargo Antarbintang Mulai Beroperasi",
+      "shortTitle": "Rute Kargo Antarbintang",
+      "category": "Space",
+      "description": "Rute Kargo Antarbintang Mulai Beroperasi menandai transisi umat manusia dari peradaban Tata Surya menjadi peradaban multi-bintang sejati dengan ekspedisi, koloni, rute kargo, dan populasi di luar Matahari.",
+      "layerId": "space",
+      "domains": [
+        "interstellar-travel",
+        "exoplanet-colonies",
+        "multi-star-civilization"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2216,
+        "endYear": 2241
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Rute Kargo Antarbintang Mulai Beroperasi menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Sistem bintang terdekat dapat dijangkau oleh misi berawak atau semi-berawak",
+        "Koloni eksoplanet mengembangkan pangan, industri, dan tata kelola lokal",
+        "Logistik antarbintang menjadi dapat diulang, bukan sekadar simbolis"
+      ],
+      "implications": [
+        "Umat manusia menjadi spesies multi-bintang",
+        "Bumi tidak lagi menjadi pusat geografis peradaban",
+        "Muncul tantangan baru dalam migrasi, identitas, dan tata kelola"
+      ],
+      "image": {
+        "alt": "Rute Kargo Antarbintang Mulai Beroperasi",
+        "prompts": [
+          "interstellar Freight Routes Become Operational, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing interstellar Freight Routes Become Operational, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of interstellar Freight Routes Become Operational, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating interstellar Freight Routes Become Operational, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-interstellar-freight-routes-become-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-interstellar-freight-routes-become-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-interstellar-freight-routes-become-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-interstellar-freight-routes-become-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-interstellar-freight-routes-become-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-population-living-outside-the-solar-system-exceeds-one-million",
+      "order": 20,
+      "slug": "population-living-outside-the-solar-system-exceeds-one-million",
+      "title": "Populasi yang Hidup di Luar Tata Surya Melampaui Satu Juta",
+      "shortTitle": "Populasi di Luar Tata Surya",
+      "category": "Space",
+      "description": "Populasi yang Hidup di Luar Tata Surya Melampaui Satu Juta menandai transisi umat manusia dari peradaban Tata Surya menjadi peradaban multi-bintang sejati dengan ekspedisi, koloni, rute kargo, dan populasi di luar Matahari.",
+      "layerId": "space",
+      "domains": [
+        "interstellar-travel",
+        "exoplanet-colonies",
+        "multi-star-civilization"
+      ],
+      "maturity": "interstellar-demonstration",
+      "timeframe": {
+        "startYear": 2219,
+        "endYear": 2244
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Populasi yang Hidup di Luar Tata Surya Melampaui Satu Juta menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Sistem bintang terdekat dapat dijangkau oleh misi berawak atau semi-berawak",
+        "Koloni eksoplanet mengembangkan pangan, industri, dan tata kelola lokal",
+        "Logistik antarbintang menjadi dapat diulang, bukan sekadar simbolis"
+      ],
+      "implications": [
+        "Umat manusia menjadi spesies multi-bintang",
+        "Bumi tidak lagi menjadi pusat geografis peradaban",
+        "Muncul tantangan baru dalam migrasi, identitas, dan tata kelola"
+      ],
+      "image": {
+        "alt": "Populasi yang Hidup di Luar Tata Surya Melampaui Satu Juta",
+        "prompts": [
+          "population Living Outside the Solar System Exceeds One Million, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing population Living Outside the Solar System Exceeds One Million, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of population Living Outside the Solar System Exceeds One Million, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating population Living Outside the Solar System Exceeds One Million, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-population-living-outside-the-solar-system-exceeds-one-million.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-population-living-outside-the-solar-system-exceeds-one-million.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-population-living-outside-the-solar-system-exceeds-one-million.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-population-living-outside-the-solar-system-exceeds-one-million.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-population-living-outside-the-solar-system-exceeds-one-million.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-longevity-escape-velocity-is-achieved",
+      "order": 21,
+      "slug": "longevity-escape-velocity-is-achieved",
+      "title": "Kecepatan Lepas Umur Panjang Tercapai",
+      "shortTitle": "Kecepatan Lepas Umur Panjang",
+      "category": "Biology & Medicine",
+      "description": "Kecepatan Lepas Umur Panjang Tercapai mengubah tubuh dan reproduksi manusia untuk kehidupan ruang angkasa dalam, lingkungan ekstrem, umur panjang, dan permukiman multigenerasi di berbagai sistem bintang.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "longevity",
+        "human-adaptation",
+        "space-born-generations"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2222,
+        "endYear": 2247
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kecepatan Lepas Umur Panjang Tercapai menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teknologi pembalikan penuaan dan adaptasi mendukung kehidupan berdurasi panjang",
+        "Sistem reproduksi buatan melindungi generasi yang lahir di ruang angkasa",
+        "Kompatibilitas medis meluas melampaui biologi manusia dasar"
+      ],
+      "implications": [
+        "Kehidupan manusia dapat beradaptasi dengan lingkungan yang tidak pernah ditujukan bagi biologi Bumi",
+        "Keluarga dan generasi dapat bertahan di ruang angkasa dalam",
+        "Batas antara manusia alami dan manusia rancangan menjadi kurang bermakna"
+      ],
+      "image": {
+        "alt": "Kecepatan Lepas Umur Panjang Tercapai",
+        "prompts": [
+          "longevity Escape Velocity Is Achieved, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing longevity Escape Velocity Is Achieved, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of longevity Escape Velocity Is Achieved, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating longevity Escape Velocity Is Achieved, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-longevity-escape-velocity-is-achieved.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-longevity-escape-velocity-is-achieved.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-longevity-escape-velocity-is-achieved.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-longevity-escape-velocity-is-achieved.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-longevity-escape-velocity-is-achieved.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-biological-aging-becomes-fully-reversible",
+      "order": 22,
+      "slug": "biological-aging-becomes-fully-reversible",
+      "title": "Penuaan Biologis Menjadi Sepenuhnya Dapat Dibalik",
+      "shortTitle": "Penuaan Biologis Dapat Dibalik",
+      "category": "Biology & Medicine",
+      "description": "Penuaan Biologis Menjadi Sepenuhnya Dapat Dibalik mengubah tubuh dan reproduksi manusia untuk kehidupan ruang angkasa dalam, lingkungan ekstrem, umur panjang, dan permukiman multigenerasi di berbagai sistem bintang.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "longevity",
+        "human-adaptation",
+        "space-born-generations"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2224,
+        "endYear": 2249
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Penuaan Biologis Menjadi Sepenuhnya Dapat Dibalik menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teknologi pembalikan penuaan dan adaptasi mendukung kehidupan berdurasi panjang",
+        "Sistem reproduksi buatan melindungi generasi yang lahir di ruang angkasa",
+        "Kompatibilitas medis meluas melampaui biologi manusia dasar"
+      ],
+      "implications": [
+        "Kehidupan manusia dapat beradaptasi dengan lingkungan yang tidak pernah ditujukan bagi biologi Bumi",
+        "Keluarga dan generasi dapat bertahan di ruang angkasa dalam",
+        "Batas antara manusia alami dan manusia rancangan menjadi kurang bermakna"
+      ],
+      "image": {
+        "alt": "Penuaan Biologis Menjadi Sepenuhnya Dapat Dibalik",
+        "prompts": [
+          "biological Aging Becomes Fully Reversible, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Aging Becomes Fully Reversible, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Aging Becomes Fully Reversible, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Aging Becomes Fully Reversible, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-biological-aging-becomes-fully-reversible.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-biological-aging-becomes-fully-reversible.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-biological-aging-becomes-fully-reversible.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-biological-aging-becomes-fully-reversible.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-biological-aging-becomes-fully-reversible.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-designer-human-adaptations-enable-extreme-environments",
+      "order": 23,
+      "slug": "designer-human-adaptations-enable-extreme-environments",
+      "title": "Adaptasi Manusia Rancangan Khusus Memungkinkan Lingkungan Ekstrem",
+      "shortTitle": "Adaptasi Manusia Rancangan Khusus",
+      "category": "Biology & Medicine",
+      "description": "Adaptasi Manusia Rancangan Khusus Memungkinkan Lingkungan Ekstrem mengubah tubuh dan reproduksi manusia untuk kehidupan ruang angkasa dalam, lingkungan ekstrem, umur panjang, dan permukiman multigenerasi di berbagai sistem bintang.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "longevity",
+        "human-adaptation",
+        "space-born-generations"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2227,
+        "endYear": 2252
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Adaptasi Manusia Rancangan Khusus Memungkinkan Lingkungan Ekstrem menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teknologi pembalikan penuaan dan adaptasi mendukung kehidupan berdurasi panjang",
+        "Sistem reproduksi buatan melindungi generasi yang lahir di ruang angkasa",
+        "Kompatibilitas medis meluas melampaui biologi manusia dasar"
+      ],
+      "implications": [
+        "Kehidupan manusia dapat beradaptasi dengan lingkungan yang tidak pernah ditujukan bagi biologi Bumi",
+        "Keluarga dan generasi dapat bertahan di ruang angkasa dalam",
+        "Batas antara manusia alami dan manusia rancangan menjadi kurang bermakna"
+      ],
+      "image": {
+        "alt": "Adaptasi Manusia Rancangan Khusus Memungkinkan Lingkungan Ekstrem",
+        "prompts": [
+          "designer Human Adaptations Enable Extreme Environments, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing designer Human Adaptations Enable Extreme Environments, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of designer Human Adaptations Enable Extreme Environments, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating designer Human Adaptations Enable Extreme Environments, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-designer-human-adaptations-enable-extreme-environments.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-designer-human-adaptations-enable-extreme-environments.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-designer-human-adaptations-enable-extreme-environments.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-designer-human-adaptations-enable-extreme-environments.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-designer-human-adaptations-enable-extreme-environments.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-artificial-wombs-support-space-born-generations",
+      "order": 24,
+      "slug": "artificial-wombs-support-space-born-generations",
+      "title": "Rahim Buatan Mendukung Generasi yang Lahir di Ruang Angkasa",
+      "shortTitle": "Rahim Buatan Generasi Ruang Angkasa",
+      "category": "Biology & Medicine",
+      "description": "Rahim Buatan Mendukung Generasi yang Lahir di Ruang Angkasa mengubah tubuh dan reproduksi manusia untuk kehidupan ruang angkasa dalam, lingkungan ekstrem, umur panjang, dan permukiman multigenerasi di berbagai sistem bintang.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "longevity",
+        "human-adaptation",
+        "space-born-generations"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2229,
+        "endYear": 2254
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Rahim Buatan Mendukung Generasi yang Lahir di Ruang Angkasa menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teknologi pembalikan penuaan dan adaptasi mendukung kehidupan berdurasi panjang",
+        "Sistem reproduksi buatan melindungi generasi yang lahir di ruang angkasa",
+        "Kompatibilitas medis meluas melampaui biologi manusia dasar"
+      ],
+      "implications": [
+        "Kehidupan manusia dapat beradaptasi dengan lingkungan yang tidak pernah ditujukan bagi biologi Bumi",
+        "Keluarga dan generasi dapat bertahan di ruang angkasa dalam",
+        "Batas antara manusia alami dan manusia rancangan menjadi kurang bermakna"
+      ],
+      "image": {
+        "alt": "Rahim Buatan Mendukung Generasi yang Lahir di Ruang Angkasa",
+        "prompts": [
+          "artificial Wombs Support Space-Born Generations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Wombs Support Space-Born Generations, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Wombs Support Space-Born Generations, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Wombs Support Space-Born Generations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-artificial-wombs-support-space-born-generations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-artificial-wombs-support-space-born-generations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-artificial-wombs-support-space-born-generations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-artificial-wombs-support-space-born-generations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-artificial-wombs-support-space-born-generations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-cross-species-organ-compatibility-eliminates-donor-shortages",
+      "order": 25,
+      "slug": "cross-species-organ-compatibility-eliminates-donor-shortages",
+      "title": "Kompatibilitas Organ Lintas Spesies Menghilangkan Kekurangan Donor",
+      "shortTitle": "Kompatibilitas Organ Lintas Spesies",
+      "category": "Biology & Medicine",
+      "description": "Kompatibilitas Organ Lintas Spesies Menghilangkan Kekurangan Donor mengubah tubuh dan reproduksi manusia untuk kehidupan ruang angkasa dalam, lingkungan ekstrem, umur panjang, dan permukiman multigenerasi di berbagai sistem bintang.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "longevity",
+        "human-adaptation",
+        "space-born-generations"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2232,
+        "endYear": 2257
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kompatibilitas Organ Lintas Spesies Menghilangkan Kekurangan Donor menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teknologi pembalikan penuaan dan adaptasi mendukung kehidupan berdurasi panjang",
+        "Sistem reproduksi buatan melindungi generasi yang lahir di ruang angkasa",
+        "Kompatibilitas medis meluas melampaui biologi manusia dasar"
+      ],
+      "implications": [
+        "Kehidupan manusia dapat beradaptasi dengan lingkungan yang tidak pernah ditujukan bagi biologi Bumi",
+        "Keluarga dan generasi dapat bertahan di ruang angkasa dalam",
+        "Batas antara manusia alami dan manusia rancangan menjadi kurang bermakna"
+      ],
+      "image": {
+        "alt": "Kompatibilitas Organ Lintas Spesies Menghilangkan Kekurangan Donor",
+        "prompts": [
+          "cross-Species Organ Compatibility Eliminates Donor Shortages, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cross-Species Organ Compatibility Eliminates Donor Shortages, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cross-Species Organ Compatibility Eliminates Donor Shortages, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cross-Species Organ Compatibility Eliminates Donor Shortages, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-cross-species-organ-compatibility-eliminates-donor-shortages.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-cross-species-organ-compatibility-eliminates-donor-shortages.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-cross-species-organ-compatibility-eliminates-donor-shortages.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-cross-species-organ-compatibility-eliminates-donor-shortages.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-cross-species-organ-compatibility-eliminates-donor-shortages.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-unified-theory-beyond-quantum-mechanics-is-experimentally-verified",
+      "order": 26,
+      "slug": "unified-theory-beyond-quantum-mechanics-is-experimentally-verified",
+      "title": "Teori Terpadu di Luar Mekanika Kuantum Diverifikasi Secara Eksperimental",
+      "shortTitle": "Teori Terpadu Mekanika Kuantum",
+      "category": "Physics",
+      "description": "Teori Terpadu di Luar Mekanika Kuantum Diverifikasi Secara Eksperimental memindahkan fisika garis depan ke aplikasi rekayasa, menjadikan navigasi tingkat lanjut, manipulasi vakum, riset energi gelap, dan struktur lubang cacing sebagai bagian penting ekspansi.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-gravity",
+        "wormholes",
+        "dark-energy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2235,
+        "endYear": 2260
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Teori Terpadu di Luar Mekanika Kuantum Diverifikasi Secara Eksperimental menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teori kuantum dan gravitasi menjadi dapat ditindaklanjuti secara eksperimental",
+        "Efek lubang cacing mikroskopis dan vakum berhasil distabilkan",
+        "Navigasi bergeser dari propulsi semata menuju rekayasa ruang-waktu"
+      ],
+      "implications": [
+        "Metode propulsi dan navigasi baru menjadi mungkin",
+        "Fisika teoretis menjadi bidang infrastruktur inti",
+        "Umat manusia memperoleh alat untuk memanipulasi realitas fundamental"
+      ],
+      "image": {
+        "alt": "Teori Terpadu di Luar Mekanika Kuantum Diverifikasi Secara Eksperimental",
+        "prompts": [
+          "unified Theory Beyond Quantum Mechanics Is Experimentally Verified, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing unified Theory Beyond Quantum Mechanics Is Experimentally Verified, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of unified Theory Beyond Quantum Mechanics Is Experimentally Verified, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating unified Theory Beyond Quantum Mechanics Is Experimentally Verified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-unified-theory-beyond-quantum-mechanics-is-experimentally-verified.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-unified-theory-beyond-quantum-mechanics-is-experimentally-verified.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-unified-theory-beyond-quantum-mechanics-is-experimentally-verified.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-unified-theory-beyond-quantum-mechanics-is-experimentally-verified.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-unified-theory-beyond-quantum-mechanics-is-experimentally-verified.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-artificial-wormhole-research-produces-stable-microscopic-structures",
+      "order": 27,
+      "slug": "artificial-wormhole-research-produces-stable-microscopic-structures",
+      "title": "Riset Lubang Cacing Buatan Menghasilkan Struktur Mikroskopis Stabil",
+      "shortTitle": "Riset Lubang Cacing Buatan",
+      "category": "Physics",
+      "description": "Riset Lubang Cacing Buatan Menghasilkan Struktur Mikroskopis Stabil memindahkan fisika garis depan ke aplikasi rekayasa, menjadikan navigasi tingkat lanjut, manipulasi vakum, riset energi gelap, dan struktur lubang cacing sebagai bagian penting ekspansi.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-gravity",
+        "wormholes",
+        "dark-energy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2237,
+        "endYear": 2262
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Riset Lubang Cacing Buatan Menghasilkan Struktur Mikroskopis Stabil menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teori kuantum dan gravitasi menjadi dapat ditindaklanjuti secara eksperimental",
+        "Efek lubang cacing mikroskopis dan vakum berhasil distabilkan",
+        "Navigasi bergeser dari propulsi semata menuju rekayasa ruang-waktu"
+      ],
+      "implications": [
+        "Metode propulsi dan navigasi baru menjadi mungkin",
+        "Fisika teoretis menjadi bidang infrastruktur inti",
+        "Umat manusia memperoleh alat untuk memanipulasi realitas fundamental"
+      ],
+      "image": {
+        "alt": "Riset Lubang Cacing Buatan Menghasilkan Struktur Mikroskopis Stabil",
+        "prompts": [
+          "artificial Wormhole Research Produces Stable Microscopic Structures, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Wormhole Research Produces Stable Microscopic Structures, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Wormhole Research Produces Stable Microscopic Structures, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Wormhole Research Produces Stable Microscopic Structures, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-artificial-wormhole-research-produces-stable-microscopic-structures.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-artificial-wormhole-research-produces-stable-microscopic-structures.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-artificial-wormhole-research-produces-stable-microscopic-structures.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-artificial-wormhole-research-produces-stable-microscopic-structures.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-artificial-wormhole-research-produces-stable-microscopic-structures.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-dark-energy-properties-become-directly-observable",
+      "order": 28,
+      "slug": "dark-energy-properties-become-directly-observable",
+      "title": "Sifat Energi Gelap Menjadi Dapat Diamati Secara Langsung",
+      "shortTitle": "Sifat Energi Gelap",
+      "category": "Physics",
+      "description": "Sifat Energi Gelap Menjadi Dapat Diamati Secara Langsung memindahkan fisika garis depan ke aplikasi rekayasa, menjadikan navigasi tingkat lanjut, manipulasi vakum, riset energi gelap, dan struktur lubang cacing sebagai bagian penting ekspansi.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-gravity",
+        "wormholes",
+        "dark-energy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2240,
+        "endYear": 2265
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Sifat Energi Gelap Menjadi Dapat Diamati Secara Langsung menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teori kuantum dan gravitasi menjadi dapat ditindaklanjuti secara eksperimental",
+        "Efek lubang cacing mikroskopis dan vakum berhasil distabilkan",
+        "Navigasi bergeser dari propulsi semata menuju rekayasa ruang-waktu"
+      ],
+      "implications": [
+        "Metode propulsi dan navigasi baru menjadi mungkin",
+        "Fisika teoretis menjadi bidang infrastruktur inti",
+        "Umat manusia memperoleh alat untuk memanipulasi realitas fundamental"
+      ],
+      "image": {
+        "alt": "Sifat Energi Gelap Menjadi Dapat Diamati Secara Langsung",
+        "prompts": [
+          "dark Energy Properties Become Directly Observable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Energy Properties Become Directly Observable, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Energy Properties Become Directly Observable, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Energy Properties Become Directly Observable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-dark-energy-properties-become-directly-observable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-dark-energy-properties-become-directly-observable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-dark-energy-properties-become-directly-observable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-dark-energy-properties-become-directly-observable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-dark-energy-properties-become-directly-observable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-gravitational-engineering-enables-advanced-space-navigation",
+      "order": 29,
+      "slug": "gravitational-engineering-enables-advanced-space-navigation",
+      "title": "Rekayasa Gravitasi Memungkinkan Navigasi Antariksa Lanjutan",
+      "shortTitle": "Rekayasa Gravitasi Navigasi Lanjutan",
+      "category": "Physics",
+      "description": "Rekayasa Gravitasi Memungkinkan Navigasi Antariksa Lanjutan memindahkan fisika garis depan ke aplikasi rekayasa, menjadikan navigasi tingkat lanjut, manipulasi vakum, riset energi gelap, dan struktur lubang cacing sebagai bagian penting ekspansi.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-gravity",
+        "wormholes",
+        "dark-energy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2242,
+        "endYear": 2267
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Rekayasa Gravitasi Memungkinkan Navigasi Antariksa Lanjutan menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teori kuantum dan gravitasi menjadi dapat ditindaklanjuti secara eksperimental",
+        "Efek lubang cacing mikroskopis dan vakum berhasil distabilkan",
+        "Navigasi bergeser dari propulsi semata menuju rekayasa ruang-waktu"
+      ],
+      "implications": [
+        "Metode propulsi dan navigasi baru menjadi mungkin",
+        "Fisika teoretis menjadi bidang infrastruktur inti",
+        "Umat manusia memperoleh alat untuk memanipulasi realitas fundamental"
+      ],
+      "image": {
+        "alt": "Rekayasa Gravitasi Memungkinkan Navigasi Antariksa Lanjutan",
+        "prompts": [
+          "gravitational Engineering Enables Advanced Space Navigation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing gravitational Engineering Enables Advanced Space Navigation, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of gravitational Engineering Enables Advanced Space Navigation, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating gravitational Engineering Enables Advanced Space Navigation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-gravitational-engineering-enables-advanced-space-navigation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-gravitational-engineering-enables-advanced-space-navigation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-gravitational-engineering-enables-advanced-space-navigation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-gravitational-engineering-enables-advanced-space-navigation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-gravitational-engineering-enables-advanced-space-navigation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-quantum-vacuum-manipulation-opens-new-energy-domains",
+      "order": 30,
+      "slug": "quantum-vacuum-manipulation-opens-new-energy-domains",
+      "title": "Manipulasi Vakum Kuantum Membuka Domain Energi Baru",
+      "shortTitle": "Manipulasi Vakum Kuantum",
+      "category": "Physics",
+      "description": "Manipulasi Vakum Kuantum Membuka Domain Energi Baru memindahkan fisika garis depan ke aplikasi rekayasa, menjadikan navigasi tingkat lanjut, manipulasi vakum, riset energi gelap, dan struktur lubang cacing sebagai bagian penting ekspansi.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-gravity",
+        "wormholes",
+        "dark-energy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2245,
+        "endYear": 2270
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Manipulasi Vakum Kuantum Membuka Domain Energi Baru menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Teori kuantum dan gravitasi menjadi dapat ditindaklanjuti secara eksperimental",
+        "Efek lubang cacing mikroskopis dan vakum berhasil distabilkan",
+        "Navigasi bergeser dari propulsi semata menuju rekayasa ruang-waktu"
+      ],
+      "implications": [
+        "Metode propulsi dan navigasi baru menjadi mungkin",
+        "Fisika teoretis menjadi bidang infrastruktur inti",
+        "Umat manusia memperoleh alat untuk memanipulasi realitas fundamental"
+      ],
+      "image": {
+        "alt": "Manipulasi Vakum Kuantum Membuka Domain Energi Baru",
+        "prompts": [
+          "quantum Vacuum Manipulation Opens New Energy Domains, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Vacuum Manipulation Opens New Energy Domains, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Vacuum Manipulation Opens New Energy Domains, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Vacuum Manipulation Opens New Energy Domains, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-quantum-vacuum-manipulation-opens-new-energy-domains.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-quantum-vacuum-manipulation-opens-new-energy-domains.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-quantum-vacuum-manipulation-opens-new-energy-domains.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-quantum-vacuum-manipulation-opens-new-energy-domains.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-quantum-vacuum-manipulation-opens-new-energy-domains.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-space-elevators-become-common-infrastructure-across-colonies",
+      "order": 31,
+      "slug": "space-elevators-become-common-infrastructure-across-colonies",
+      "title": "Lift Antariksa Menjadi Infrastruktur Umum di Berbagai Koloni",
+      "shortTitle": "Lift Antariksa Infrastruktur Umum",
+      "category": "Materials & Manufacturing",
+      "description": "Lift Antariksa Menjadi Infrastruktur Umum di Berbagai Koloni menciptakan fondasi industri bagi stasiun antarbintang, infrastruktur koloni, rekonstruksi tingkat atom, dan megastruktur di banyak dunia.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "megastructures",
+        "programmable-matter",
+        "atomic-manufacturing"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2248,
+        "endYear": 2273
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Lift Antariksa Menjadi Infrastruktur Umum di Berbagai Koloni menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Koloni mengandalkan produksi otonom lokal",
+        "Megastruktur dirakit dengan kerja manual minimal",
+        "Rekonstruksi materi mengurangi ketergantungan pada rantai pasok Bumi"
+      ],
+      "implications": [
+        "Koloni menjadi mandiri secara industri lebih cepat",
+        "Kelangkaan material runtuh di permukiman maju",
+        "Infrastruktur antarbintang menjadi dapat diskalakan"
+      ],
+      "image": {
+        "alt": "Lift Antariksa Menjadi Infrastruktur Umum di Berbagai Koloni",
+        "prompts": [
+          "space Elevators Become Common Infrastructure Across Colonies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space Elevators Become Common Infrastructure Across Colonies, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space Elevators Become Common Infrastructure Across Colonies, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space Elevators Become Common Infrastructure Across Colonies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-space-elevators-become-common-infrastructure-across-colonies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-space-elevators-become-common-infrastructure-across-colonies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-space-elevators-become-common-infrastructure-across-colonies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-space-elevators-become-common-infrastructure-across-colonies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-space-elevators-become-common-infrastructure-across-colonies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-self-assembling-megastructures-build-interstellar-stations",
+      "order": 32,
+      "slug": "self-assembling-megastructures-build-interstellar-stations",
+      "title": "Megastruktur yang Merakit Diri Membangun Stasiun Antarbintang",
+      "shortTitle": "Megastruktur Merakit Diri",
+      "category": "Materials & Manufacturing",
+      "description": "Megastruktur yang Merakit Diri Membangun Stasiun Antarbintang menciptakan fondasi industri bagi stasiun antarbintang, infrastruktur koloni, rekonstruksi tingkat atom, dan megastruktur di banyak dunia.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "megastructures",
+        "programmable-matter",
+        "atomic-manufacturing"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2250,
+        "endYear": 2275
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Megastruktur yang Merakit Diri Membangun Stasiun Antarbintang menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Koloni mengandalkan produksi otonom lokal",
+        "Megastruktur dirakit dengan kerja manual minimal",
+        "Rekonstruksi materi mengurangi ketergantungan pada rantai pasok Bumi"
+      ],
+      "implications": [
+        "Koloni menjadi mandiri secara industri lebih cepat",
+        "Kelangkaan material runtuh di permukiman maju",
+        "Infrastruktur antarbintang menjadi dapat diskalakan"
+      ],
+      "image": {
+        "alt": "Megastruktur yang Merakit Diri Membangun Stasiun Antarbintang",
+        "prompts": [
+          "self-Assembling Megastructures Build Interstellar Stations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Assembling Megastructures Build Interstellar Stations, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Assembling Megastructures Build Interstellar Stations, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Assembling Megastructures Build Interstellar Stations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-self-assembling-megastructures-build-interstellar-stations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-self-assembling-megastructures-build-interstellar-stations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-self-assembling-megastructures-build-interstellar-stations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-self-assembling-megastructures-build-interstellar-stations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-self-assembling-megastructures-build-interstellar-stations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-programmable-matter-replaces-traditional-manufacturing",
+      "order": 33,
+      "slug": "programmable-matter-replaces-traditional-manufacturing",
+      "title": "Materi Terprogram Menggantikan Manufaktur Tradisional",
+      "shortTitle": "Materi Terprogram Menggantikan Manufaktur",
+      "category": "Materials & Manufacturing",
+      "description": "Materi Terprogram Menggantikan Manufaktur Tradisional menciptakan fondasi industri bagi stasiun antarbintang, infrastruktur koloni, rekonstruksi tingkat atom, dan megastruktur di banyak dunia.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "megastructures",
+        "programmable-matter",
+        "atomic-manufacturing"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2253,
+        "endYear": 2278
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Materi Terprogram Menggantikan Manufaktur Tradisional menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Koloni mengandalkan produksi otonom lokal",
+        "Megastruktur dirakit dengan kerja manual minimal",
+        "Rekonstruksi materi mengurangi ketergantungan pada rantai pasok Bumi"
+      ],
+      "implications": [
+        "Koloni menjadi mandiri secara industri lebih cepat",
+        "Kelangkaan material runtuh di permukiman maju",
+        "Infrastruktur antarbintang menjadi dapat diskalakan"
+      ],
+      "image": {
+        "alt": "Materi Terprogram Menggantikan Manufaktur Tradisional",
+        "prompts": [
+          "programmable Matter Replaces Traditional Manufacturing, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Replaces Traditional Manufacturing, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Replaces Traditional Manufacturing, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Replaces Traditional Manufacturing, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-programmable-matter-replaces-traditional-manufacturing.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-programmable-matter-replaces-traditional-manufacturing.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-programmable-matter-replaces-traditional-manufacturing.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-programmable-matter-replaces-traditional-manufacturing.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-programmable-matter-replaces-traditional-manufacturing.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-diamondoid-materials-become-industrial-standards",
+      "order": 34,
+      "slug": "diamondoid-materials-become-industrial-standards",
+      "title": "Material Diamondoid Menjadi Standar Industri",
+      "shortTitle": "Material Diamondoid Standar Industri",
+      "category": "Materials & Manufacturing",
+      "description": "Material Diamondoid Menjadi Standar Industri menciptakan fondasi industri bagi stasiun antarbintang, infrastruktur koloni, rekonstruksi tingkat atom, dan megastruktur di banyak dunia.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "megastructures",
+        "programmable-matter",
+        "atomic-manufacturing"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2255,
+        "endYear": 2280
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Material Diamondoid Menjadi Standar Industri menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Koloni mengandalkan produksi otonom lokal",
+        "Megastruktur dirakit dengan kerja manual minimal",
+        "Rekonstruksi materi mengurangi ketergantungan pada rantai pasok Bumi"
+      ],
+      "implications": [
+        "Koloni menjadi mandiri secara industri lebih cepat",
+        "Kelangkaan material runtuh di permukiman maju",
+        "Infrastruktur antarbintang menjadi dapat diskalakan"
+      ],
+      "image": {
+        "alt": "Material Diamondoid Menjadi Standar Industri",
+        "prompts": [
+          "diamondoid Materials Become Industrial Standards, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing diamondoid Materials Become Industrial Standards, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of diamondoid Materials Become Industrial Standards, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating diamondoid Materials Become Industrial Standards, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-diamondoid-materials-become-industrial-standards.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-diamondoid-materials-become-industrial-standards.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-diamondoid-materials-become-industrial-standards.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-diamondoid-materials-become-industrial-standards.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-diamondoid-materials-become-industrial-standards.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-matter-reconstruction-systems-produce-goods-atom-by-atom",
+      "order": 35,
+      "slug": "matter-reconstruction-systems-produce-goods-atom-by-atom",
+      "title": "Sistem Rekonstruksi Materi Memproduksi Barang Atom demi Atom",
+      "shortTitle": "Sistem Rekonstruksi Materi",
+      "category": "Materials & Manufacturing",
+      "description": "Sistem Rekonstruksi Materi Memproduksi Barang Atom demi Atom menciptakan fondasi industri bagi stasiun antarbintang, infrastruktur koloni, rekonstruksi tingkat atom, dan megastruktur di banyak dunia.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "megastructures",
+        "programmable-matter",
+        "atomic-manufacturing"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2258,
+        "endYear": 2283
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Sistem Rekonstruksi Materi Memproduksi Barang Atom demi Atom menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Koloni mengandalkan produksi otonom lokal",
+        "Megastruktur dirakit dengan kerja manual minimal",
+        "Rekonstruksi materi mengurangi ketergantungan pada rantai pasok Bumi"
+      ],
+      "implications": [
+        "Koloni menjadi mandiri secara industri lebih cepat",
+        "Kelangkaan material runtuh di permukiman maju",
+        "Infrastruktur antarbintang menjadi dapat diskalakan"
+      ],
+      "image": {
+        "alt": "Sistem Rekonstruksi Materi Memproduksi Barang Atom demi Atom",
+        "prompts": [
+          "matter Reconstruction Systems Produce Goods Atom-by-Atom, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter Reconstruction Systems Produce Goods Atom-by-Atom, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter Reconstruction Systems Produce Goods Atom-by-Atom, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter Reconstruction Systems Produce Goods Atom-by-Atom, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-matter-reconstruction-systems-produce-goods-atom-by-atom.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-matter-reconstruction-systems-produce-goods-atom-by-atom.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-matter-reconstruction-systems-produce-goods-atom-by-atom.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-matter-reconstruction-systems-produce-goods-atom-by-atom.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-matter-reconstruction-systems-produce-goods-atom-by-atom.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-terraforming-projects-begin-transforming-mars",
+      "order": 36,
+      "slug": "terraforming-projects-begin-transforming-mars",
+      "title": "Proyek Terraforming Mulai Mengubah Mars",
+      "shortTitle": "Proyek Terraforming Mars",
+      "category": "Environment",
+      "description": "Proyek Terraforming Mulai Mengubah Mars mengekspor pengetahuan pemulihan planet ke dunia baru, biosfer buatan, terraforming Mars, dan rekayasa ekosistem untuk masyarakat ruang angkasa mandiri.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "artificial-biospheres",
+        "planetary-restoration"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2261,
+        "endYear": 2286
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Proyek Terraforming Mulai Mengubah Mars menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Proyek terraforming menghasilkan perubahan atmosfer yang terukur",
+        "Biosfer buatan bertahan tanpa pasokan ulang dari Bumi",
+        "Sistem pemulihan menjadi portabel ke planet baru"
+      ],
+      "implications": [
+        "Umat manusia mampu menciptakan biosfer stabil di luar Bumi",
+        "Rekayasa planet menjadi keterampilan peradaban yang dapat dipindahkan",
+        "Pertanyaan etis muncul seputar transformasi dunia yang mungkin hidup"
+      ],
+      "image": {
+        "alt": "Proyek Terraforming Mulai Mengubah Mars",
+        "prompts": [
+          "terraforming Projects Begin Transforming Mars, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing terraforming Projects Begin Transforming Mars, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of terraforming Projects Begin Transforming Mars, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating terraforming Projects Begin Transforming Mars, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-terraforming-projects-begin-transforming-mars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-terraforming-projects-begin-transforming-mars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-terraforming-projects-begin-transforming-mars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-terraforming-projects-begin-transforming-mars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-terraforming-projects-begin-transforming-mars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-artificial-biospheres-sustain-independent-space-ecosystems",
+      "order": 37,
+      "slug": "artificial-biospheres-sustain-independent-space-ecosystems",
+      "title": "Biosfer Buatan Menopang Ekosistem Ruang Angkasa Mandiri",
+      "shortTitle": "Biosfer Buatan Mandiri",
+      "category": "Environment",
+      "description": "Biosfer Buatan Menopang Ekosistem Ruang Angkasa Mandiri mengekspor pengetahuan pemulihan planet ke dunia baru, biosfer buatan, terraforming Mars, dan rekayasa ekosistem untuk masyarakat ruang angkasa mandiri.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "artificial-biospheres",
+        "planetary-restoration"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2263,
+        "endYear": 2288
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Biosfer Buatan Menopang Ekosistem Ruang Angkasa Mandiri menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Proyek terraforming menghasilkan perubahan atmosfer yang terukur",
+        "Biosfer buatan bertahan tanpa pasokan ulang dari Bumi",
+        "Sistem pemulihan menjadi portabel ke planet baru"
+      ],
+      "implications": [
+        "Umat manusia mampu menciptakan biosfer stabil di luar Bumi",
+        "Rekayasa planet menjadi keterampilan peradaban yang dapat dipindahkan",
+        "Pertanyaan etis muncul seputar transformasi dunia yang mungkin hidup"
+      ],
+      "image": {
+        "alt": "Biosfer Buatan Menopang Ekosistem Ruang Angkasa Mandiri",
+        "prompts": [
+          "artificial Biospheres Sustain Independent Space Ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Biospheres Sustain Independent Space Ecosystems, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Biospheres Sustain Independent Space Ecosystems, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Biospheres Sustain Independent Space Ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-artificial-biospheres-sustain-independent-space-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-artificial-biospheres-sustain-independent-space-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-artificial-biospheres-sustain-independent-space-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-artificial-biospheres-sustain-independent-space-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-artificial-biospheres-sustain-independent-space-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-climate-engineering-eliminates-most-extreme-weather",
+      "order": 38,
+      "slug": "climate-engineering-eliminates-most-extreme-weather",
+      "title": "Rekayasa Iklim Menghilangkan Sebagian Besar Cuaca Ekstrem",
+      "shortTitle": "Rekayasa Iklim Cuaca Ekstrem",
+      "category": "Environment",
+      "description": "Rekayasa Iklim Menghilangkan Sebagian Besar Cuaca Ekstrem mengekspor pengetahuan pemulihan planet ke dunia baru, biosfer buatan, terraforming Mars, dan rekayasa ekosistem untuk masyarakat ruang angkasa mandiri.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "artificial-biospheres",
+        "planetary-restoration"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2266,
+        "endYear": 2291
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Rekayasa Iklim Menghilangkan Sebagian Besar Cuaca Ekstrem menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Proyek terraforming menghasilkan perubahan atmosfer yang terukur",
+        "Biosfer buatan bertahan tanpa pasokan ulang dari Bumi",
+        "Sistem pemulihan menjadi portabel ke planet baru"
+      ],
+      "implications": [
+        "Umat manusia mampu menciptakan biosfer stabil di luar Bumi",
+        "Rekayasa planet menjadi keterampilan peradaban yang dapat dipindahkan",
+        "Pertanyaan etis muncul seputar transformasi dunia yang mungkin hidup"
+      ],
+      "image": {
+        "alt": "Rekayasa Iklim Menghilangkan Sebagian Besar Cuaca Ekstrem",
+        "prompts": [
+          "climate Engineering Eliminates Most Extreme Weather, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing climate Engineering Eliminates Most Extreme Weather, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of climate Engineering Eliminates Most Extreme Weather, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating climate Engineering Eliminates Most Extreme Weather, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-climate-engineering-eliminates-most-extreme-weather.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-climate-engineering-eliminates-most-extreme-weather.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-climate-engineering-eliminates-most-extreme-weather.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-climate-engineering-eliminates-most-extreme-weather.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-climate-engineering-eliminates-most-extreme-weather.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-global-biodiversity-exceeds-pre-human-levels",
+      "order": 39,
+      "slug": "global-biodiversity-exceeds-pre-human-levels",
+      "title": "Keanekaragaman Hayati Global Melampaui Tingkat Pra-Manusia",
+      "shortTitle": "Keanekaragaman Hayati Pra-Manusia",
+      "category": "Environment",
+      "description": "Keanekaragaman Hayati Global Melampaui Tingkat Pra-Manusia mengekspor pengetahuan pemulihan planet ke dunia baru, biosfer buatan, terraforming Mars, dan rekayasa ekosistem untuk masyarakat ruang angkasa mandiri.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "artificial-biospheres",
+        "planetary-restoration"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2268,
+        "endYear": 2293
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Keanekaragaman Hayati Global Melampaui Tingkat Pra-Manusia menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Proyek terraforming menghasilkan perubahan atmosfer yang terukur",
+        "Biosfer buatan bertahan tanpa pasokan ulang dari Bumi",
+        "Sistem pemulihan menjadi portabel ke planet baru"
+      ],
+      "implications": [
+        "Umat manusia mampu menciptakan biosfer stabil di luar Bumi",
+        "Rekayasa planet menjadi keterampilan peradaban yang dapat dipindahkan",
+        "Pertanyaan etis muncul seputar transformasi dunia yang mungkin hidup"
+      ],
+      "image": {
+        "alt": "Keanekaragaman Hayati Global Melampaui Tingkat Pra-Manusia",
+        "prompts": [
+          "global Biodiversity Exceeds Pre-Human Levels, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Biodiversity Exceeds Pre-Human Levels, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Biodiversity Exceeds Pre-Human Levels, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Biodiversity Exceeds Pre-Human Levels, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-global-biodiversity-exceeds-pre-human-levels.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-global-biodiversity-exceeds-pre-human-levels.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-global-biodiversity-exceeds-pre-human-levels.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-global-biodiversity-exceeds-pre-human-levels.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-global-biodiversity-exceeds-pre-human-levels.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-planetary-restoration-technologies-are-exported-to-colonies",
+      "order": 40,
+      "slug": "planetary-restoration-technologies-are-exported-to-colonies",
+      "title": "Teknologi Pemulihan Planet Diekspor ke Koloni",
+      "shortTitle": "Teknologi Pemulihan Planet",
+      "category": "Environment",
+      "description": "Teknologi Pemulihan Planet Diekspor ke Koloni mengekspor pengetahuan pemulihan planet ke dunia baru, biosfer buatan, terraforming Mars, dan rekayasa ekosistem untuk masyarakat ruang angkasa mandiri.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "artificial-biospheres",
+        "planetary-restoration"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2271,
+        "endYear": 2296
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Teknologi Pemulihan Planet Diekspor ke Koloni menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Proyek terraforming menghasilkan perubahan atmosfer yang terukur",
+        "Biosfer buatan bertahan tanpa pasokan ulang dari Bumi",
+        "Sistem pemulihan menjadi portabel ke planet baru"
+      ],
+      "implications": [
+        "Umat manusia mampu menciptakan biosfer stabil di luar Bumi",
+        "Rekayasa planet menjadi keterampilan peradaban yang dapat dipindahkan",
+        "Pertanyaan etis muncul seputar transformasi dunia yang mungkin hidup"
+      ],
+      "image": {
+        "alt": "Teknologi Pemulihan Planet Diekspor ke Koloni",
+        "prompts": [
+          "planetary Restoration Technologies Are Exported to Colonies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Restoration Technologies Are Exported to Colonies, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Restoration Technologies Are Exported to Colonies, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Restoration Technologies Are Exported to Colonies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-planetary-restoration-technologies-are-exported-to-colonies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-planetary-restoration-technologies-are-exported-to-colonies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-planetary-restoration-technologies-are-exported-to-colonies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-planetary-restoration-technologies-are-exported-to-colonies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-planetary-restoration-technologies-are-exported-to-colonies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-resource-scarcity-disappears-across-human-civilization",
+      "order": 41,
+      "slug": "resource-scarcity-disappears-across-human-civilization",
+      "title": "Kelangkaan Sumber Daya Menghilang di Seluruh Peradaban Manusia",
+      "shortTitle": "Kelangkaan Sumber Daya Menghilang",
+      "category": "Society & Economy",
+      "description": "Kelangkaan Sumber Daya Menghilang di Seluruh Peradaban Manusia mendefinisikan ulang nilai, kerja, kelangkaan, perdagangan, dan eksistensi virtual ketika peradaban meluas ke banyak sistem dan batas fisik melemah.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "interstellar-trade",
+        "virtual-economy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2274,
+        "endYear": 2299
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kelangkaan Sumber Daya Menghilang di Seluruh Peradaban Manusia menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Kelangkaan menurun di berbagai permukiman manusia utama",
+        "Pasar antarbintang terbentuk meski ada jarak dan jeda waktu",
+        "Masyarakat virtual memperoleh partisipasi ekonomi yang diakui"
+      ],
+      "implications": [
+        "Kerja menjadi pilihan, bukan kebutuhan, bagi banyak komunitas",
+        "Kekayaan bergeser menuju kepercayaan, reputasi, pengetahuan, dan pengalaman",
+        "Peradaban fisik dan virtual menjadi saling terjalin secara ekonomi"
+      ],
+      "image": {
+        "alt": "Kelangkaan Sumber Daya Menghilang di Seluruh Peradaban Manusia",
+        "prompts": [
+          "resource Scarcity Disappears Across Human Civilization, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing resource Scarcity Disappears Across Human Civilization, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of resource Scarcity Disappears Across Human Civilization, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating resource Scarcity Disappears Across Human Civilization, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-resource-scarcity-disappears-across-human-civilization.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-resource-scarcity-disappears-across-human-civilization.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-resource-scarcity-disappears-across-human-civilization.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-resource-scarcity-disappears-across-human-civilization.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-resource-scarcity-disappears-across-human-civilization.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-reputation-economies-replace-traditional-wealth-systems",
+      "order": 42,
+      "slug": "reputation-economies-replace-traditional-wealth-systems",
+      "title": "Ekonomi Reputasi Menggantikan Sistem Kekayaan Tradisional",
+      "shortTitle": "Ekonomi Reputasi",
+      "category": "Society & Economy",
+      "description": "Ekonomi Reputasi Menggantikan Sistem Kekayaan Tradisional mendefinisikan ulang nilai, kerja, kelangkaan, perdagangan, dan eksistensi virtual ketika peradaban meluas ke banyak sistem dan batas fisik melemah.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "interstellar-trade",
+        "virtual-economy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2276,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Ekonomi Reputasi Menggantikan Sistem Kekayaan Tradisional menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Kelangkaan menurun di berbagai permukiman manusia utama",
+        "Pasar antarbintang terbentuk meski ada jarak dan jeda waktu",
+        "Masyarakat virtual memperoleh partisipasi ekonomi yang diakui"
+      ],
+      "implications": [
+        "Kerja menjadi pilihan, bukan kebutuhan, bagi banyak komunitas",
+        "Kekayaan bergeser menuju kepercayaan, reputasi, pengetahuan, dan pengalaman",
+        "Peradaban fisik dan virtual menjadi saling terjalin secara ekonomi"
+      ],
+      "image": {
+        "alt": "Ekonomi Reputasi Menggantikan Sistem Kekayaan Tradisional",
+        "prompts": [
+          "reputation Economies Replace Traditional Wealth Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing reputation Economies Replace Traditional Wealth Systems, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of reputation Economies Replace Traditional Wealth Systems, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating reputation Economies Replace Traditional Wealth Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-reputation-economies-replace-traditional-wealth-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-reputation-economies-replace-traditional-wealth-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-reputation-economies-replace-traditional-wealth-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-reputation-economies-replace-traditional-wealth-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-reputation-economies-replace-traditional-wealth-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-work-becomes-entirely-voluntary-for-most-humans",
+      "order": 43,
+      "slug": "work-becomes-entirely-voluntary-for-most-humans",
+      "title": "Pekerjaan Menjadi Sepenuhnya Sukarela bagi Sebagian Besar Manusia",
+      "shortTitle": "Pekerjaan Sepenuhnya Sukarela",
+      "category": "Society & Economy",
+      "description": "Pekerjaan Menjadi Sepenuhnya Sukarela bagi Sebagian Besar Manusia mendefinisikan ulang nilai, kerja, kelangkaan, perdagangan, dan eksistensi virtual ketika peradaban meluas ke banyak sistem dan batas fisik melemah.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "interstellar-trade",
+        "virtual-economy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2279,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Pekerjaan Menjadi Sepenuhnya Sukarela bagi Sebagian Besar Manusia menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Kelangkaan menurun di berbagai permukiman manusia utama",
+        "Pasar antarbintang terbentuk meski ada jarak dan jeda waktu",
+        "Masyarakat virtual memperoleh partisipasi ekonomi yang diakui"
+      ],
+      "implications": [
+        "Kerja menjadi pilihan, bukan kebutuhan, bagi banyak komunitas",
+        "Kekayaan bergeser menuju kepercayaan, reputasi, pengetahuan, dan pengalaman",
+        "Peradaban fisik dan virtual menjadi saling terjalin secara ekonomi"
+      ],
+      "image": {
+        "alt": "Pekerjaan Menjadi Sepenuhnya Sukarela bagi Sebagian Besar Manusia",
+        "prompts": [
+          "work Becomes Entirely Voluntary For Most Humans, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing work Becomes Entirely Voluntary For Most Humans, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of work Becomes Entirely Voluntary For Most Humans, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating work Becomes Entirely Voluntary For Most Humans, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-work-becomes-entirely-voluntary-for-most-humans.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-work-becomes-entirely-voluntary-for-most-humans.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-work-becomes-entirely-voluntary-for-most-humans.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-work-becomes-entirely-voluntary-for-most-humans.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-work-becomes-entirely-voluntary-for-most-humans.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-interstellar-trade-networks-create-multi-system-markets",
+      "order": 44,
+      "slug": "interstellar-trade-networks-create-multi-system-markets",
+      "title": "Jaringan Perdagangan Antarbintang Menciptakan Pasar Multi-Sistem",
+      "shortTitle": "Jaringan Perdagangan Antarbintang",
+      "category": "Society & Economy",
+      "description": "Jaringan Perdagangan Antarbintang Menciptakan Pasar Multi-Sistem mendefinisikan ulang nilai, kerja, kelangkaan, perdagangan, dan eksistensi virtual ketika peradaban meluas ke banyak sistem dan batas fisik melemah.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "interstellar-trade",
+        "virtual-economy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2281,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Jaringan Perdagangan Antarbintang Menciptakan Pasar Multi-Sistem menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Kelangkaan menurun di berbagai permukiman manusia utama",
+        "Pasar antarbintang terbentuk meski ada jarak dan jeda waktu",
+        "Masyarakat virtual memperoleh partisipasi ekonomi yang diakui"
+      ],
+      "implications": [
+        "Kerja menjadi pilihan, bukan kebutuhan, bagi banyak komunitas",
+        "Kekayaan bergeser menuju kepercayaan, reputasi, pengetahuan, dan pengalaman",
+        "Peradaban fisik dan virtual menjadi saling terjalin secara ekonomi"
+      ],
+      "image": {
+        "alt": "Jaringan Perdagangan Antarbintang Menciptakan Pasar Multi-Sistem",
+        "prompts": [
+          "interstellar Trade Networks Create Multi-System Markets, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing interstellar Trade Networks Create Multi-System Markets, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of interstellar Trade Networks Create Multi-System Markets, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating interstellar Trade Networks Create Multi-System Markets, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-interstellar-trade-networks-create-multi-system-markets.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-interstellar-trade-networks-create-multi-system-markets.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-interstellar-trade-networks-create-multi-system-markets.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-interstellar-trade-networks-create-multi-system-markets.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-interstellar-trade-networks-create-multi-system-markets.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-virtual-existence-becomes-economically-equivalent-to-physical-life",
+      "order": 45,
+      "slug": "virtual-existence-becomes-economically-equivalent-to-physical-life",
+      "title": "Eksistensi Virtual Menjadi Setara Secara Ekonomi dengan Kehidupan Fisik",
+      "shortTitle": "Eksistensi Virtual Setara Ekonomi",
+      "category": "Society & Economy",
+      "description": "Eksistensi Virtual Menjadi Setara Secara Ekonomi dengan Kehidupan Fisik mendefinisikan ulang nilai, kerja, kelangkaan, perdagangan, dan eksistensi virtual ketika peradaban meluas ke banyak sistem dan batas fisik melemah.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "interstellar-trade",
+        "virtual-economy"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2284,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Eksistensi Virtual Menjadi Setara Secara Ekonomi dengan Kehidupan Fisik menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Kelangkaan menurun di berbagai permukiman manusia utama",
+        "Pasar antarbintang terbentuk meski ada jarak dan jeda waktu",
+        "Masyarakat virtual memperoleh partisipasi ekonomi yang diakui"
+      ],
+      "implications": [
+        "Kerja menjadi pilihan, bukan kebutuhan, bagi banyak komunitas",
+        "Kekayaan bergeser menuju kepercayaan, reputasi, pengetahuan, dan pengalaman",
+        "Peradaban fisik dan virtual menjadi saling terjalin secara ekonomi"
+      ],
+      "image": {
+        "alt": "Eksistensi Virtual Menjadi Setara Secara Ekonomi dengan Kehidupan Fisik",
+        "prompts": [
+          "virtual Existence Becomes Economically Equivalent To Physical Life, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing virtual Existence Becomes Economically Equivalent To Physical Life, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of virtual Existence Becomes Economically Equivalent To Physical Life, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating virtual Existence Becomes Economically Equivalent To Physical Life, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-virtual-existence-becomes-economically-equivalent-to-physical-life.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-virtual-existence-becomes-economically-equivalent-to-physical-life.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-virtual-existence-becomes-economically-equivalent-to-physical-life.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-virtual-existence-becomes-economically-equivalent-to-physical-life.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-virtual-existence-becomes-economically-equivalent-to-physical-life.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-humanity-expands-into-multiple-star-systems",
+      "order": 46,
+      "slug": "humanity-expands-into-multiple-star-systems",
+      "title": "Umat Manusia Meluas ke Banyak Sistem Bintang",
+      "shortTitle": "Meluas ke Banyak Sistem Bintang",
+      "category": "Civilization",
+      "description": "Umat Manusia Meluas ke Banyak Sistem Bintang menangkap transisi institusional dan budaya dari satu masyarakat Tata Surya menuju banyak cabang umat manusia yang independen tetapi tetap terhubung.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-star-governance",
+        "exoplanet-civilization",
+        "first-contact"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2287,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Umat Manusia Meluas ke Banyak Sistem Bintang menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunitas eksoplanet membutuhkan pengakuan hukum",
+        "Budaya manusia menyimpang karena jarak dan lingkungan",
+        "Perencanaan kontak pertama menjadi tugas peradaban yang formal"
+      ],
+      "implications": [
+        "Umat manusia bercabang ke banyak masa depan",
+        "Tata kelola harus menangani jarak, otonomi, dan divergensi budaya",
+        "Peradaban bersiap menghadapi kecerdasan di luar dirinya"
+      ],
+      "image": {
+        "alt": "Umat Manusia Meluas ke Banyak Sistem Bintang",
+        "prompts": [
+          "humanity Expands Into Multiple Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Expands Into Multiple Star Systems, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Expands Into Multiple Star Systems, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Expands Into Multiple Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-humanity-expands-into-multiple-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-humanity-expands-into-multiple-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-humanity-expands-into-multiple-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-humanity-expands-into-multiple-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-humanity-expands-into-multiple-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-independent-exoplanet-governments-are-recognized",
+      "order": 47,
+      "slug": "independent-exoplanet-governments-are-recognized",
+      "title": "Pemerintahan Eksoplanet Independen Diakui",
+      "shortTitle": "Pemerintahan Eksoplanet Independen",
+      "category": "Civilization",
+      "description": "Pemerintahan Eksoplanet Independen Diakui menangkap transisi institusional dan budaya dari satu masyarakat Tata Surya menuju banyak cabang umat manusia yang independen tetapi tetap terhubung.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-star-governance",
+        "exoplanet-civilization",
+        "first-contact"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2289,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Pemerintahan Eksoplanet Independen Diakui menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunitas eksoplanet membutuhkan pengakuan hukum",
+        "Budaya manusia menyimpang karena jarak dan lingkungan",
+        "Perencanaan kontak pertama menjadi tugas peradaban yang formal"
+      ],
+      "implications": [
+        "Umat manusia bercabang ke banyak masa depan",
+        "Tata kelola harus menangani jarak, otonomi, dan divergensi budaya",
+        "Peradaban bersiap menghadapi kecerdasan di luar dirinya"
+      ],
+      "image": {
+        "alt": "Pemerintahan Eksoplanet Independen Diakui",
+        "prompts": [
+          "independent Exoplanet Governments Are Recognized, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing independent Exoplanet Governments Are Recognized, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of independent Exoplanet Governments Are Recognized, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating independent Exoplanet Governments Are Recognized, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-independent-exoplanet-governments-are-recognized.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-independent-exoplanet-governments-are-recognized.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-independent-exoplanet-governments-are-recognized.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-independent-exoplanet-governments-are-recognized.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-independent-exoplanet-governments-are-recognized.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-population-beyond-earth-exceeds-population-on-earth",
+      "order": 48,
+      "slug": "population-beyond-earth-exceeds-population-on-earth",
+      "title": "Populasi di Luar Bumi Melampaui Populasi di Bumi",
+      "shortTitle": "Populasi Luar Bumi Melampaui Bumi",
+      "category": "Civilization",
+      "description": "Populasi di Luar Bumi Melampaui Populasi di Bumi menangkap transisi institusional dan budaya dari satu masyarakat Tata Surya menuju banyak cabang umat manusia yang independen tetapi tetap terhubung.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-star-governance",
+        "exoplanet-civilization",
+        "first-contact"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2292,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Populasi di Luar Bumi Melampaui Populasi di Bumi menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunitas eksoplanet membutuhkan pengakuan hukum",
+        "Budaya manusia menyimpang karena jarak dan lingkungan",
+        "Perencanaan kontak pertama menjadi tugas peradaban yang formal"
+      ],
+      "implications": [
+        "Umat manusia bercabang ke banyak masa depan",
+        "Tata kelola harus menangani jarak, otonomi, dan divergensi budaya",
+        "Peradaban bersiap menghadapi kecerdasan di luar dirinya"
+      ],
+      "image": {
+        "alt": "Populasi di Luar Bumi Melampaui Populasi di Bumi",
+        "prompts": [
+          "population Beyond Earth Exceeds Population On Earth, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing population Beyond Earth Exceeds Population On Earth, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of population Beyond Earth Exceeds Population On Earth, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating population Beyond Earth Exceeds Population On Earth, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-population-beyond-earth-exceeds-population-on-earth.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-population-beyond-earth-exceeds-population-on-earth.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-population-beyond-earth-exceeds-population-on-earth.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-population-beyond-earth-exceeds-population-on-earth.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-population-beyond-earth-exceeds-population-on-earth.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-human-civilization-splits-into-distinct-cultural-branches",
+      "order": 49,
+      "slug": "human-civilization-splits-into-distinct-cultural-branches",
+      "title": "Peradaban Manusia Terbagi Menjadi Cabang Budaya yang Berbeda",
+      "shortTitle": "Cabang Budaya Peradaban Manusia",
+      "category": "Civilization",
+      "description": "Peradaban Manusia Terbagi Menjadi Cabang Budaya yang Berbeda menangkap transisi institusional dan budaya dari satu masyarakat Tata Surya menuju banyak cabang umat manusia yang independen tetapi tetap terhubung.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-star-governance",
+        "exoplanet-civilization",
+        "first-contact"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2294,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Peradaban Manusia Terbagi Menjadi Cabang Budaya yang Berbeda menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunitas eksoplanet membutuhkan pengakuan hukum",
+        "Budaya manusia menyimpang karena jarak dan lingkungan",
+        "Perencanaan kontak pertama menjadi tugas peradaban yang formal"
+      ],
+      "implications": [
+        "Umat manusia bercabang ke banyak masa depan",
+        "Tata kelola harus menangani jarak, otonomi, dan divergensi budaya",
+        "Peradaban bersiap menghadapi kecerdasan di luar dirinya"
+      ],
+      "image": {
+        "alt": "Peradaban Manusia Terbagi Menjadi Cabang Budaya yang Berbeda",
+        "prompts": [
+          "human Civilization Splits Into Distinct Cultural Branches, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Civilization Splits Into Distinct Cultural Branches, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Civilization Splits Into Distinct Cultural Branches, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Civilization Splits Into Distinct Cultural Branches, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-human-civilization-splits-into-distinct-cultural-branches.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-human-civilization-splits-into-distinct-cultural-branches.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-human-civilization-splits-into-distinct-cultural-branches.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-human-civilization-splits-into-distinct-cultural-branches.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-human-civilization-splits-into-distinct-cultural-branches.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-06-first-contact-preparation-framework-is-ratified",
+      "order": 50,
+      "slug": "first-contact-preparation-framework-is-ratified",
+      "title": "Kerangka Persiapan Kontak Pertama Diratifikasi",
+      "shortTitle": "Kerangka Persiapan Kontak",
+      "category": "Civilization",
+      "description": "Kerangka Persiapan Kontak Pertama Diratifikasi menangkap transisi institusional dan budaya dari satu masyarakat Tata Surya menuju banyak cabang umat manusia yang independen tetapi tetap terhubung.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-star-governance",
+        "exoplanet-civilization",
+        "first-contact"
+      ],
+      "maturity": "multi-system-adoption",
+      "timeframe": {
+        "startYear": 2297,
+        "endYear": 2300
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kerangka Persiapan Kontak Pertama Diratifikasi menjadi tonggak penentu ekspansi antarbintang, membantu umat manusia beralih dari peradaban Tata Surya menjadi peradaban multi-bintang.",
+      "signals": [
+        "Komunitas eksoplanet membutuhkan pengakuan hukum",
+        "Budaya manusia menyimpang karena jarak dan lingkungan",
+        "Perencanaan kontak pertama menjadi tugas peradaban yang formal"
+      ],
+      "implications": [
+        "Umat manusia bercabang ke banyak masa depan",
+        "Tata kelola harus menangani jarak, otonomi, dan divergensi budaya",
+        "Peradaban bersiap menghadapi kecerdasan di luar dirinya"
+      ],
+      "image": {
+        "alt": "Kerangka Persiapan Kontak Pertama Diratifikasi",
+        "prompts": [
+          "first Contact Preparation Framework Is Ratified, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Contact Preparation Framework Is Ratified, interstellar civilization across starships, exoplanets, orbital habitats, and deep-space infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Contact Preparation Framework Is Ratified, elegant multi-star civilization technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Contact Preparation Framework Is Ratified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-06/era-06-first-contact-preparation-framework-is-ratified.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-06/mobile/era-06-first-contact-preparation-framework-is-ratified.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-06/thumbnail/era-06-first-contact-preparation-framework-is-ratified.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-06/desktop/era-06-first-contact-preparation-framework-is-ratified.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-06/open_graph/era-06-first-contact-preparation-framework-is-ratified.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

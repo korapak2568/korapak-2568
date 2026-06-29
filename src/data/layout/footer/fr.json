@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet présente des produits numériques, des services d’IA, des concepts de ville intelligente et des capacités d’ingénierie de plateforme depuis Chiang Mai vers un public mondial.",
+  "social": {
+    "title": "Réseaux sociaux",
+    "items": []
+  },
+  "important": {
+    "title": "Liens importants",
+    "items": [
+      {
+        "label": "À propos",
+        "link": "/about/"
+      },
+      {
+        "label": "Technologie",
+        "link": "/technology/"
+      },
+      {
+        "label": "Contact",
+        "link": "/contact/"
+      },
+      {
+        "label": "Conditions d’utilisation",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "Politique de confidentialité",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "Politique du lieu de travail",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "Projets",
+    "items": [
+      {
+        "label": "Projet Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Système Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Graceful Style",
+        "link": "/style/"
+      },
+      {
+        "label": "Futur Chiang Mai",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "Plateforme",
+    "items": [
+      {
+        "label": "Civilisation future",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Ville intelligente",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Mobilité intelligente",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Histoire",
+        "link": "/story/"
+      },
+      {
+        "label": "Style",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "Connexion",
+    "items": [
+      {
+        "label": "Contact",
+        "link": "/contact",
+        "ariaLabel": "Page de contact Chorn Planet"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "Chorn Planet sur LinkedIn"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "Chorn Planet sur GitHub"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Chorn Planet sur Facebook"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "Chorn Planet sur X"
+      }
+    ]
+  }
+}

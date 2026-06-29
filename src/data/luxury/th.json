@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "title": "การพัฒนา AI Luxury สำหรับอสังหาริมทรัพย์ การบริการ และธุรกิจ | Chorn Planet",
+    "description": "Chorn Planet AI Luxury สร้างความพร้อมด้านแพลตฟอร์ม AI สำหรับอสังหาริมทรัพย์ระดับพรีเมียม ธุรกิจการบริการ การท่องเที่ยว จุดหมายปลายทางแบบมิกซ์ยูส และธุรกิจ",
+    "openGraphTitle": "การพัฒนา AI Luxury สำหรับอสังหาริมทรัพย์ การบริการ และธุรกิจ"
+  },
+  "heroImage": {
+    "src": "/luxury/hero-ai-luxury-real-estate-platform.png",
+    "alt": "แนวคิดแพลตฟอร์มหรูแบบ AI สำหรับอสังหาริมทรัพย์ระดับพรีเมียมและธุรกิจการบริการ",
+    "width": 1792,
+    "height": 1024,
+    "sizes": "100vw",
+    "eyebrow": "Chorn Planet AI Luxury",
+    "title": "การพัฒนา AI Luxury สำหรับอสังหาริมทรัพย์ การบริการ และธุรกิจ",
+    "lead": "พัฒนา AI Luxury จำลองระบบนิเวศธุรกิจ สถานที่ บริการ และแบรนด์พรีเมียม",
+    "support": "สร้างขึ้นสำหรับบริษัทอสังหาริมทรัพย์ ธุรกิจการบริการ จุดหมายปลายทางด้านการท่องเที่ยว โครงการมิกซ์ยูส และธุรกิจบริการพรีเมียมที่ต้องการมากกว่าเว็บไซต์ แคมเปญ หรือแค็ตตาล็อกดิจิทัล",
+    "mobile": {
+      "src": "/luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    },
+    "open_graph": {
+      "src": "/images-opengraph/luxury/open_graph/hero-ai-luxury-real-estate-platform.png",
+      "width": 1200,
+      "height": 630,
+      "quality": 82
+    }
+  },
+  "heroContent": {
+    "actionsLabel": "การดำเนินการในหน้า AI Luxury",
+    "actions": [
+      {
+        "label": "สำรวจแพลตฟอร์ม AI Luxury",
+        "href": "#platform-readiness",
+        "variant": "primary"
+      },
+      {
+        "label": "ดูความพร้อมทางธุรกิจ",
+        "href": "#business-signal",
+        "variant": "secondary"
+      }
+    ],
+    "signalsLabel": "สัญญาณความสามารถของ AI Luxury",
+    "signals": [
+      "อสังหาริมทรัพย์ระดับพรีเมียม",
+      "ระบบนิเวศการบริการ",
+      "จุดหมายปลายทาง"
+    ]
+  },
+  "readinessImage": {
+    "src": "/luxury/ai-luxury-strategic-readiness.png",
+    "alt": "แพลตฟอร์มสถาปัตยกรรมเมืองหรูแห่งอนาคตบนจอพรีเมียม พร้อมภาพการวางแผนและความพร้อมด้าน AI",
+    "width": 1792,
+    "height": 1024,
+    "sizes": "(max-width: 1399px) 100vw, 1320px",
+    "mobile": {
+      "src": "/luxury/mobile/ai-luxury-strategic-readiness.webp",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/luxury/thumbnail/ai-luxury-strategic-readiness.webp",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/luxury/desktop/ai-luxury-strategic-readiness.webp",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    },
+    "open_graph": {
+      "src": "/images-opengraph/luxury/open_graph/ai-luxury-strategic-readiness.png",
+      "width": 1200,
+      "height": 630,
+      "quality": 82
+    }
+  },
+  "ventureImage": {
+    "src": "/luxury/venture-ready-business-signal.png",
+    "alt": "สัญญาณแพลตฟอร์มธุรกิจ AI Luxury ที่พร้อมสำหรับพันธมิตรระดับพรีเมียม",
+    "width": 1792,
+    "height": 1024,
+    "sizes": "(max-width: 991px) 100vw, 58vw",
+    "mobile": {
+      "src": "/luxury/mobile/venture-ready-business-signal.webp",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/luxury/thumbnail/venture-ready-business-signal.webp",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/luxury/desktop/venture-ready-business-signal.webp",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    },
+    "open_graph": {
+      "src": "/images-opengraph/luxury/open_graph/venture-ready-business-signal.png",
+      "width": 1200,
+      "height": 630,
+      "quality": 82
+    }
+  },
+  "readinessSection": {
+    "eyebrow": "ความพร้อมเชิงกลยุทธ์",
+    "title": "ไม่ใช่แค่ภาพลักษณ์ความหรู แต่เป็นการพัฒนาการดำเนินงานธุรกิจพรีเมียม",
+    "paragraphs": [
+      "AI Luxury คือการเชื่อมต่ออัจฉริยะระหว่างอัตลักษณ์แบรนด์พรีเมียม ประสบการณ์จุดหมายปลายทาง การบริการลูกค้า ดิจิทัลคอมเมิร์ซ เวิร์กโฟลว์การดำเนินงาน และการสนับสนุนการตัดสินใจด้วย AI",
+      "เป้าหมายคือทำให้ธุรกิจหรูฉลาดขึ้น มีประสบการณ์มากขึ้น ขยายตัวได้มากขึ้น ขณะยังคงรักษาประสบการณ์ลูกค้าให้สงบ ประณีต และมีความเป็นส่วนตัว"
+    ]
+  },
+  "segmentsSection": {
+    "eyebrow": "สร้างขึ้นสำหรับระบบนิเวศพรีเมียม",
+    "title": "ออกแบบสำหรับสถานที่ บริการ และธุรกิจมูลค่าสูง"
+  },
+  "layersSection": {
+    "eyebrow": "เลเยอร์ของแพลตฟอร์ม",
+    "title": "การออกแบบ AI สำหรับธุรกิจพรีเมียม",
+    "lead": "แต่ละเลเยอร์ถูกออกแบบมาเพื่อรองรับเส้นทางลูกค้าจริง ทีมบริการ โฟลว์คอมเมิร์ซ และการขยายระบบนิเวศในระยะยาว"
+  },
+  "businessSignalSection": {
+    "eyebrow": "สัญญาณความพร้อมทางธุรกิจ",
+    "title": "ความพร้อมในการพัฒนา AI Luxury",
+    "lead": "หน้านี้วางตำแหน่ง AI Luxury เป็นเลเยอร์ธุรกิจพรีเมียมที่มีประโยชน์ต่อบริษัทอสังหาริมทรัพย์ พันธมิตรร่วมลงทุน เจ้าของจุดหมายปลายทาง และผู้ประกอบการด้านการบริการที่ต้องการรากฐานดิจิทัลพร้อมอนาคต"
+  },
+  "premiumSegments": [
+    {
+      "title": "อสังหาริมทรัพย์และโครงการมิกซ์ยูส",
+      "text": "สร้างแพลตฟอร์มจุดหมายปลายทางอัจฉริยะสำหรับโครงการที่อยู่อาศัย เชิงพาณิชย์ การท่องเที่ยว และไลฟ์สไตล์ที่ต้องการเลเยอร์ระบบนิเวศดิจิทัลที่แข็งแรงขึ้น",
+      "image": {
+        "src": "/luxury/segment-real-estate-mixed-use.png",
+        "alt": "จุดหมายปลายทางอสังหาริมทรัพย์มิกซ์ยูสระดับพรีเมียมพร้อมความพร้อมด้านแพลตฟอร์ม AI",
+        "width": 1200,
+        "height": 900,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/luxury/mobile/segment-real-estate-mixed-use.webp",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/segment-real-estate-mixed-use.webp",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/segment-real-estate-mixed-use.webp",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/segment-real-estate-mixed-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "ประสบการณ์โรงแรมและรีสอร์ต",
+      "text": "เชื่อมต่อเส้นทางผู้เข้าพัก เวิร์กโฟลว์บริการ คอนเทนต์ การจอง คอมเมิร์ซ และการดำเนินงานที่ AI ช่วยสนับสนุนให้เป็นประสบการณ์บริการพรีเมียมหนึ่งเดียว",
+      "image": {
+        "src": "/luxury/segment-hospitality-resort.png",
+        "alt": "ประสบการณ์รีสอร์ตหรูที่รองรับด้วยเวิร์กโฟลว์บริการแบบ AI",
+        "width": 1200,
+        "height": 900,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/luxury/mobile/segment-hospitality-resort.webp",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/segment-hospitality-resort.webp",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/segment-hospitality-resort.webp",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/segment-hospitality-resort.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "การท่องเที่ยวและการสร้างแบรนด์จุดหมายปลายทาง",
+      "text": "สร้างเลเยอร์จุดหมายปลายทางดิจิทัลที่ทำให้สถานที่พรีเมียมค้นพบได้ง่ายขึ้น สัมผัสได้ง่ายขึ้น ดำเนินงานได้ดีขึ้น และขยายตัวผ่านสื่อและจุดสัมผัสลูกค้า",
+      "image": {
+        "src": "/luxury/segment-tourism-destination.png",
+        "alt": "แพลตฟอร์มจุดหมายปลายทางท่องเที่ยวระดับพรีเมียมพร้อมการเล่าเรื่องด้วย AI และความพร้อมด้านบริการ",
+        "width": 1200,
+        "height": 900,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/luxury/mobile/segment-tourism-destination.webp",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/segment-tourism-destination.webp",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/segment-tourism-destination.webp",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/segment-tourism-destination.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "คอมเมิร์ซไลฟ์สไตล์หรู",
+      "text": "เปลี่ยนสินค้า บริการ เรื่องราว และสัญญาณความต้องการระดับพรีเมียมให้เป็นประสบการณ์คอมเมิร์ซที่ชาญฉลาดขึ้นสำหรับธุรกิจไลฟ์สไตล์",
+      "image": {
+        "src": "/luxury/segment-luxury-commerce.png",
+        "alt": "เลเยอร์คอมเมิร์ซไลฟ์สไตล์หรูที่เชื่อมต่อกับประสบการณ์ลูกค้า",
+        "width": 1200,
+        "height": 900,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/luxury/mobile/segment-luxury-commerce.webp",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/segment-luxury-commerce.webp",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/segment-luxury-commerce.webp",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/segment-luxury-commerce.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ],
+  "platformLayers": [
+    {
+      "title": "การเล่าเรื่องแบรนด์ด้วย AI",
+      "text": "สร้างระบบคอนเทนต์พรีเมียมสำหรับโครงการ จุดหมายปลายทาง สินค้า แคมเปญ และประสบการณ์แบรนด์ที่ลูกค้าสัมผัสได้",
+      "image": {
+        "src": "/luxury/layer-brand-storytelling.png",
+        "alt": "เลเยอร์การเล่าเรื่องแบรนด์ด้วย AI สำหรับแพลตฟอร์มอสังหาริมทรัพย์หรูและการบริการ",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-brand-storytelling.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-brand-storytelling.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-brand-storytelling.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "อัจฉริยะเส้นทางลูกค้า",
+      "text": "ออกแบบเส้นทางที่ AI ช่วยสนับสนุน ตั้งแต่การค้นพบ การสอบถาม การจอง การสั่งซื้อ การเยี่ยมชม การซื้อ และการกลับมาใช้บริการ",
+      "image": {
+        "src": "/luxury/layer-customer-journey.png",
+        "alt": "อัจฉริยะเส้นทางลูกค้าสำหรับจุดหมายปลายทางพรีเมียมและประสบการณ์บริการหรู",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-customer-journey.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-customer-journey.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-customer-journey.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/layer-customer-journey.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "แพลตฟอร์มเวิร์กโฟลว์บริการ",
+      "text": "รองรับการดำเนินงานธุรกิจจริง เช่น การสอบถาม การจอง บริการคอนเซียร์จ การสั่งซื้อ การส่งมอบ และการติดตามบริการ",
+      "image": {
+        "src": "/luxury/layer-service-workflow.png",
+        "alt": "แพลตฟอร์มเวิร์กโฟลว์บริการ สำหรับธุรกิจการบริการและการดำเนินงานพรีเมียม",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-service-workflow.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-service-workflow.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-service-workflow.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/layer-service-workflow.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "อัจฉริยะคอมเมิร์ซหรู",
+      "text": "เชื่อมต่อสินค้า บริการ สื่อ และความต้องการของลูกค้าระดับพรีเมียมให้เป็นรากฐานคอมเมิร์ซที่ขยายตัวได้",
+      "image": {
+        "src": "/luxury/layer-commerce-intelligence.png",
+        "alt": "เลเยอร์อัจฉริยะคอมเมิร์ซหรูที่เชื่อมสินค้าและความต้องการลูกค้าระดับพรีเมียม",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-commerce-intelligence.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-commerce-intelligence.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-commerce-intelligence.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/layer-commerce-intelligence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "รากฐานพร้อมต่อยอดธุรกิจ",
+      "text": "สร้างฐานแพลตฟอร์มที่สามารถต่อยอดเป็น SaaS ระบบจุดหมายปลายทาง เครื่องมือการบริการ การวิเคราะห์ และประสบการณ์สมาร์ตซิตี้",
+      "image": {
+        "src": "/luxury/layer-venture-readiness.png",
+        "alt": "รากฐานแพลตฟอร์ม AI Luxury ที่พร้อมสำหรับการขยายธุรกิจในอนาคต",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-venture-readiness.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-venture-readiness.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-venture-readiness.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/layer-venture-readiness.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ],
+  "businessSignals": [
+    {
+      "title": "ความสามารถของแพลตฟอร์มพรีเมียม",
+      "text": "ความสามารถในการก้าวไกลกว่าคอนเซปต์ภาพ ไปสู่การพัฒนาแพลตฟอร์มธุรกิจ"
+    },
+    {
+      "title": "แนวคิดบริการจากโลกจริง",
+      "text": "ทิศทางนี้ตั้งอยู่บนเวิร์กโฟลว์ธุรกิจจริง เส้นทางลูกค้า และการดำเนินงานบริการ"
+    },
+    {
+      "title": "การคิดแบบระบบนิเวศความหรู",
+      "text": "สถานที่ เรื่องราว บริการ คอมเมิร์ซ และเทคโนโลยีสามารถทำงานร่วมกันเป็นระบบนิเวศพรีเมียมที่ขยายตัวได้"
+    },
+    {
+      "title": "รากฐานพร้อมขยาย",
+      "text": "เลเยอร์ AI Luxury สามารถเติบโตเป็นแพลตฟอร์มจุดหมายปลายทาง ระบบการบริการ คอมเมิร์ซ การวิเคราะห์ และประสบการณ์สมาร์ตซิตี้"
+    }
+  ]
+}

@@ -846,7 +846,6 @@ export function getFallbackLayoutContent(locale: string): LayoutContentPayload {
       items: getFallbackFooterProjectItems(normalizedLocale),
     },
     smartCity: { title: "Smart City", items: [] },
-    technology: { title: "Technology", items: [] },
     connect: { title: "Connect", items: [] },
   };
 
@@ -961,7 +960,6 @@ export function getFallbackSmartFoodAiContent(
       actionsLabel: "Smart Food AI actions",
       actions: [
         { label: "Explore workflow", href: "#workflow", variant: "primary" },
-        { label: "Business value", href: "#value", variant: "secondary" },
       ],
       visual: {
         ...image,
@@ -997,16 +995,6 @@ export function getFallbackSmartFoodAiContent(
         "Natural-language menu support",
         "Customer response flow",
         "Order coordination support",
-      ],
-    },
-    value: {
-      id: "value",
-      heading,
-      cards: [
-        {
-          title: "Better customer clarity",
-          text: "Customers receive clearer information about menu choices and ordering next steps.",
-        },
       ],
     },
     futureDirections: [

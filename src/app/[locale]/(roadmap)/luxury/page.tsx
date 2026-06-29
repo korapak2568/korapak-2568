@@ -1,7 +1,7 @@
 import type {Metadata} from "next";
 import {headers} from "next/headers";
 import AiLuxuryLandingPage from "@/components/AiLuxury/AiLuxuryLandingPage";
-import {getPlatformMetadata} from "@/lib/platform-content/homeContent";
+import {getPlatformMetadata} from "@/lib/metadata/platformMetadata";
 import {getAiLuxuryContent} from "@/lib/platform-content/luxuryContent";
 
 export async function generateMetadata(): Promise<Metadata> {

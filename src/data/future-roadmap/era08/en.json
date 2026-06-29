@@ -1,0 +1,3465 @@
+{
+  "era": {
+    "id": "era-08",
+    "order": 8,
+    "slug": "galactic-coexistence",
+    "title": "Galactic Coexistence",
+    "subtitle": "Humanity joins a larger cosmic community of intelligence",
+    "description": "This era marks humanity's integration into a broader cosmic civilization. Intelligence is recognized across biological, artificial, planetary, and cosmic forms. Galactic knowledge networks, black hole energy harvesting, intergalactic exploration, shared human-AI-alien societies, and new forms of consciousness redefine civilization itself. Humanity's story becomes one chapter in a much larger cosmic history.",
+    "timeframe": {
+      "label": "Galactic Coexistence",
+      "startYear": 3000,
+      "endYear": 1000000,
+      "certainty": "highly speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "cosmic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 8: Galactic Coexistence | Future Civilization Roadmap",
+      "metaDescription": "Explore galactic coexistence, where humanity joins a larger cosmic community through shared human-AI-alien civilizations, black hole energy harvesting, intergalactic exploration, and new forms of intelligence.",
+      "keywords": [
+        "galactic coexistence",
+        "cosmic civilization",
+        "human AI alien city",
+        "intergalactic exploration",
+        "black hole energy",
+        "future civilization roadmap"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-08-universal-translation-expands-beyond-language-into-emotion-and-perception",
+      "order": 1,
+      "slug": "universal-translation-expands-beyond-language-into-emotion-and-perception",
+      "title": "Universal Translation Expands Beyond Language Into Emotion And Perception",
+      "shortTitle": "Universal Translation Expands Language",
+      "category": "AI & Computing",
+      "description": "Universal Translation Expands Beyond Language Into Emotion And Perception extends intelligence beyond species and language, allowing biological, artificial, and alien minds to exchange knowledge, perception, and conscious experience.",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 3000,
+        "endYear": 69466
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Universal Translation Expands Beyond Language Into Emotion And Perception becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Shared cognition becomes stable across large populations",
+        "Digital minds and AI systems operate as recognized participants",
+        "Computation shifts from tools into civilization-scale intelligence"
+      ],
+      "implications": [
+        "Civilization can coordinate through thought-level networks",
+        "Science and culture accelerate beyond biological limits",
+        "Identity becomes increasingly networked and plural"
+      ],
+      "image": {
+        "alt": "Universal Translation Expands Beyond Language Into Emotion And Perception",
+        "prompts": [
+          "universal Translation Expands Beyond Language Into Emotion And Perception, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal Translation Expands Beyond Language Into Emotion And Perception, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal Translation Expands Beyond Language Into Emotion And Perception, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal Translation Expands Beyond Language Into Emotion And Perception, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-human-ai-and-alien-knowledge-networks-merge",
+      "order": 2,
+      "slug": "human-ai-and-alien-knowledge-networks-merge",
+      "title": "Human, AI, And Alien Knowledge Networks Merge",
+      "shortTitle": "Human AI Alien Knowledge",
+      "category": "AI & Computing",
+      "description": "Human, AI, And Alien Knowledge Networks Merge extends intelligence beyond species and language, allowing biological, artificial, and alien minds to exchange knowledge, perception, and conscious experience.",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 22940,
+        "endYear": 89406
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Human, AI, And Alien Knowledge Networks Merge becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Shared cognition becomes stable across large populations",
+        "Digital minds and AI systems operate as recognized participants",
+        "Computation shifts from tools into civilization-scale intelligence"
+      ],
+      "implications": [
+        "Civilization can coordinate through thought-level networks",
+        "Science and culture accelerate beyond biological limits",
+        "Identity becomes increasingly networked and plural"
+      ],
+      "image": {
+        "alt": "Human, AI, And Alien Knowledge Networks Merge",
+        "prompts": [
+          "human, AI, And Alien Knowledge Networks Merge, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human, AI, And Alien Knowledge Networks Merge, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human, AI, And Alien Knowledge Networks Merge, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human, AI, And Alien Knowledge Networks Merge, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-human-ai-and-alien-knowledge-networks-merge.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-human-ai-and-alien-knowledge-networks-merge.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxy-wide-distributed-intelligence-operates-continuously",
+      "order": 3,
+      "slug": "galaxy-wide-distributed-intelligence-operates-continuously",
+      "title": "Galaxy-Wide Distributed Intelligence Operates Continuously",
+      "shortTitle": "GalaxyWide Distributed Intelligence Operates",
+      "category": "AI & Computing",
+      "description": "Galaxy-Wide Distributed Intelligence Operates Continuously extends intelligence beyond species and language, allowing biological, artificial, and alien minds to exchange knowledge, perception, and conscious experience.",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 42880,
+        "endYear": 109346
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Galaxy-Wide Distributed Intelligence Operates Continuously becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Shared cognition becomes stable across large populations",
+        "Digital minds and AI systems operate as recognized participants",
+        "Computation shifts from tools into civilization-scale intelligence"
+      ],
+      "implications": [
+        "Civilization can coordinate through thought-level networks",
+        "Science and culture accelerate beyond biological limits",
+        "Identity becomes increasingly networked and plural"
+      ],
+      "image": {
+        "alt": "Galaxy-Wide Distributed Intelligence Operates Continuously",
+        "prompts": [
+          "galaxy-Wide Distributed Intelligence Operates Continuously, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Wide Distributed Intelligence Operates Continuously, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Wide Distributed Intelligence Operates Continuously, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Wide Distributed Intelligence Operates Continuously, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxy-wide-distributed-intelligence-operates-continuously.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxy-wide-distributed-intelligence-operates-continuously.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-simulated-universes-become-scientific-laboratories",
+      "order": 4,
+      "slug": "simulated-universes-become-scientific-laboratories",
+      "title": "Simulated Universes Become Scientific Laboratories",
+      "shortTitle": "Simulated Universes Scientific Laboratories",
+      "category": "AI & Computing",
+      "description": "Simulated Universes Become Scientific Laboratories extends intelligence beyond species and language, allowing biological, artificial, and alien minds to exchange knowledge, perception, and conscious experience.",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 62820,
+        "endYear": 129286
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Simulated Universes Become Scientific Laboratories becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Shared cognition becomes stable across large populations",
+        "Digital minds and AI systems operate as recognized participants",
+        "Computation shifts from tools into civilization-scale intelligence"
+      ],
+      "implications": [
+        "Civilization can coordinate through thought-level networks",
+        "Science and culture accelerate beyond biological limits",
+        "Identity becomes increasingly networked and plural"
+      ],
+      "image": {
+        "alt": "Simulated Universes Become Scientific Laboratories",
+        "prompts": [
+          "simulated Universes Become Scientific Laboratories, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing simulated Universes Become Scientific Laboratories, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of simulated Universes Become Scientific Laboratories, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating simulated Universes Become Scientific Laboratories, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-simulated-universes-become-scientific-laboratories.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-simulated-universes-become-scientific-laboratories.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-consciousness-based-computing-surpasses-matter-based-computation",
+      "order": 5,
+      "slug": "consciousness-based-computing-surpasses-matter-based-computation",
+      "title": "Consciousness-Based Computing Surpasses Matter-Based Computation",
+      "shortTitle": "ConsciousnessBased Computing Surpasses MatterBased",
+      "category": "AI & Computing",
+      "description": "Consciousness-Based Computing Surpasses Matter-Based Computation extends intelligence beyond species and language, allowing biological, artificial, and alien minds to exchange knowledge, perception, and conscious experience.",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 82760,
+        "endYear": 149226
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Consciousness-Based Computing Surpasses Matter-Based Computation becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Shared cognition becomes stable across large populations",
+        "Digital minds and AI systems operate as recognized participants",
+        "Computation shifts from tools into civilization-scale intelligence"
+      ],
+      "implications": [
+        "Civilization can coordinate through thought-level networks",
+        "Science and culture accelerate beyond biological limits",
+        "Identity becomes increasingly networked and plural"
+      ],
+      "image": {
+        "alt": "Consciousness-Based Computing Surpasses Matter-Based Computation",
+        "prompts": [
+          "consciousness-Based Computing Surpasses Matter-Based Computation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness-Based Computing Surpasses Matter-Based Computation, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness-Based Computing Surpasses Matter-Based Computation, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness-Based Computing Surpasses Matter-Based Computation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-consciousness-based-computing-surpasses-matter-based-computation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-consciousness-based-computing-surpasses-matter-based-computation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies",
+      "order": 6,
+      "slug": "autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies",
+      "title": "Autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies",
+      "shortTitle": "Autonomous Intergalactic Probe Swarms",
+      "category": "Robotics",
+      "description": "Autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies turns autonomous robotic systems into partners, archivists, builders, and caretakers across galaxies and diverse forms of life.",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 102700,
+        "endYear": 169166
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Robotic systems self-maintain across extreme environments",
+        "Synthetic forms adapt without human redesign",
+        "Autonomous builders operate at megastructure scale"
+      ],
+      "implications": [
+        "Physical expansion no longer depends on biological bodies",
+        "Infrastructure can grow across star systems continuously",
+        "Robotic civilizations become peers rather than tools"
+      ],
+      "image": {
+        "alt": "Autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies",
+        "prompts": [
+          "autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-self-evolving-robotic-civilizations-become-independent-partners",
+      "order": 7,
+      "slug": "self-evolving-robotic-civilizations-become-independent-partners",
+      "title": "Self-Evolving Robotic Civilizations Become Independent Partners",
+      "shortTitle": "SelfEvolving Robotic Civilizations Independent",
+      "category": "Robotics",
+      "description": "Self-Evolving Robotic Civilizations Become Independent Partners turns autonomous robotic systems into partners, archivists, builders, and caretakers across galaxies and diverse forms of life.",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 122640,
+        "endYear": 189106
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Self-Evolving Robotic Civilizations Become Independent Partners becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Robotic systems self-maintain across extreme environments",
+        "Synthetic forms adapt without human redesign",
+        "Autonomous builders operate at megastructure scale"
+      ],
+      "implications": [
+        "Physical expansion no longer depends on biological bodies",
+        "Infrastructure can grow across star systems continuously",
+        "Robotic civilizations become peers rather than tools"
+      ],
+      "image": {
+        "alt": "Self-Evolving Robotic Civilizations Become Independent Partners",
+        "prompts": [
+          "self-Evolving Robotic Civilizations Become Independent Partners, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Evolving Robotic Civilizations Become Independent Partners, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Evolving Robotic Civilizations Become Independent Partners, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Evolving Robotic Civilizations Become Independent Partners, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-self-evolving-robotic-civilizations-become-independent-partners.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-self-evolving-robotic-civilizations-become-independent-partners.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life",
+      "order": 8,
+      "slug": "shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life",
+      "title": "Shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life",
+      "shortTitle": "ShapeShifting Nanorobotic Ecosystems Support",
+      "category": "Robotics",
+      "description": "Shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life turns autonomous robotic systems into partners, archivists, builders, and caretakers across galaxies and diverse forms of life.",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 142580,
+        "endYear": 209046
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Robotic systems self-maintain across extreme environments",
+        "Synthetic forms adapt without human redesign",
+        "Autonomous builders operate at megastructure scale"
+      ],
+      "implications": [
+        "Physical expansion no longer depends on biological bodies",
+        "Infrastructure can grow across star systems continuously",
+        "Robotic civilizations become peers rather than tools"
+      ],
+      "image": {
+        "alt": "Shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life",
+        "prompts": [
+          "shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-planet-builders-operate-without-biological-supervision",
+      "order": 9,
+      "slug": "artificial-planet-builders-operate-without-biological-supervision",
+      "title": "Artificial Planet Builders Operate Without Biological Supervision",
+      "shortTitle": "Artificial Planet Builders Operate",
+      "category": "Robotics",
+      "description": "Artificial Planet Builders Operate Without Biological Supervision turns autonomous robotic systems into partners, archivists, builders, and caretakers across galaxies and diverse forms of life.",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 162520,
+        "endYear": 228986
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Artificial Planet Builders Operate Without Biological Supervision becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Robotic systems self-maintain across extreme environments",
+        "Synthetic forms adapt without human redesign",
+        "Autonomous builders operate at megastructure scale"
+      ],
+      "implications": [
+        "Physical expansion no longer depends on biological bodies",
+        "Infrastructure can grow across star systems continuously",
+        "Robotic civilizations become peers rather than tools"
+      ],
+      "image": {
+        "alt": "Artificial Planet Builders Operate Without Biological Supervision",
+        "prompts": [
+          "artificial Planet Builders Operate Without Biological Supervision, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Planet Builders Operate Without Biological Supervision, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Planet Builders Operate Without Biological Supervision, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Planet Builders Operate Without Biological Supervision, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-planet-builders-operate-without-biological-supervision.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-planet-builders-operate-without-biological-supervision.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-robotic-archivists-preserve-billions-of-civilizations",
+      "order": 10,
+      "slug": "robotic-archivists-preserve-billions-of-civilizations",
+      "title": "Robotic Archivists Preserve Billions Of Civilizations",
+      "shortTitle": "Robotic Archivists Preserve Billions",
+      "category": "Robotics",
+      "description": "Robotic Archivists Preserve Billions Of Civilizations turns autonomous robotic systems into partners, archivists, builders, and caretakers across galaxies and diverse forms of life.",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 182460,
+        "endYear": 248926
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Robotic Archivists Preserve Billions Of Civilizations becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Robotic systems self-maintain across extreme environments",
+        "Synthetic forms adapt without human redesign",
+        "Autonomous builders operate at megastructure scale"
+      ],
+      "implications": [
+        "Physical expansion no longer depends on biological bodies",
+        "Infrastructure can grow across star systems continuously",
+        "Robotic civilizations become peers rather than tools"
+      ],
+      "image": {
+        "alt": "Robotic Archivists Preserve Billions Of Civilizations",
+        "prompts": [
+          "robotic Archivists Preserve Billions Of Civilizations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic Archivists Preserve Billions Of Civilizations, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic Archivists Preserve Billions Of Civilizations, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic Archivists Preserve Billions Of Civilizations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-robotic-archivists-preserve-billions-of-civilizations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-robotic-archivists-preserve-billions-of-civilizations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-black-hole-energy-harvesting-becomes-practical",
+      "order": 11,
+      "slug": "black-hole-energy-harvesting-becomes-practical",
+      "title": "Black Hole Energy Harvesting Becomes Practical",
+      "shortTitle": "Black Hole Energy Harvesting",
+      "category": "Energy",
+      "description": "Black Hole Energy Harvesting Becomes Practical uses cosmic-scale energy sources such as black holes, dark energy, and background radiation to support long-duration galactic civilization.",
+      "layerId": "energy",
+      "domains": ["black-hole-energy", "dark-energy", "cosmic-energy-networks"],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 202400,
+        "endYear": 268866
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Black Hole Energy Harvesting Becomes Practical becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Energy systems approach near-perfect efficiency",
+        "Stellar and post-stellar sources become engineered resources",
+        "Power networks span star clusters and deep space"
+      ],
+      "implications": [
+        "Energy scarcity loses meaning at civilizational scale",
+        "Megastructures and artificial worlds become sustainable",
+        "Civilization gains resilience across cosmic timescales"
+      ],
+      "image": {
+        "alt": "Black Hole Energy Harvesting Becomes Practical",
+        "prompts": [
+          "black Hole Energy Harvesting Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing black Hole Energy Harvesting Becomes Practical, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of black Hole Energy Harvesting Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating black Hole Energy Harvesting Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-black-hole-energy-harvesting-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-black-hole-energy-harvesting-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-dark-energy-manipulation-enables-new-power-systems",
+      "order": 12,
+      "slug": "dark-energy-manipulation-enables-new-power-systems",
+      "title": "Dark Energy Manipulation Enables New Power Systems",
+      "shortTitle": "Dark Energy Manipulation Enables",
+      "category": "Energy",
+      "description": "Dark Energy Manipulation Enables New Power Systems uses cosmic-scale energy sources such as black holes, dark energy, and background radiation to support long-duration galactic civilization.",
+      "layerId": "energy",
+      "domains": ["black-hole-energy", "dark-energy", "cosmic-energy-networks"],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 222340,
+        "endYear": 288806
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Dark Energy Manipulation Enables New Power Systems becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Energy systems approach near-perfect efficiency",
+        "Stellar and post-stellar sources become engineered resources",
+        "Power networks span star clusters and deep space"
+      ],
+      "implications": [
+        "Energy scarcity loses meaning at civilizational scale",
+        "Megastructures and artificial worlds become sustainable",
+        "Civilization gains resilience across cosmic timescales"
+      ],
+      "image": {
+        "alt": "Dark Energy Manipulation Enables New Power Systems",
+        "prompts": [
+          "dark Energy Manipulation Enables New Power Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Energy Manipulation Enables New Power Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Energy Manipulation Enables New Power Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Energy Manipulation Enables New Power Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-dark-energy-manipulation-enables-new-power-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-dark-energy-manipulation-enables-new-power-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxy-scale-energy-networks-connect-star-clusters",
+      "order": 13,
+      "slug": "galaxy-scale-energy-networks-connect-star-clusters",
+      "title": "Galaxy-Scale Energy Networks Connect Star Clusters",
+      "shortTitle": "GalaxyScale Energy Networks Connect",
+      "category": "Energy",
+      "description": "Galaxy-Scale Energy Networks Connect Star Clusters uses cosmic-scale energy sources such as black holes, dark energy, and background radiation to support long-duration galactic civilization.",
+      "layerId": "energy",
+      "domains": ["black-hole-energy", "dark-energy", "cosmic-energy-networks"],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 242280,
+        "endYear": 308746
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Galaxy-Scale Energy Networks Connect Star Clusters becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Energy systems approach near-perfect efficiency",
+        "Stellar and post-stellar sources become engineered resources",
+        "Power networks span star clusters and deep space"
+      ],
+      "implications": [
+        "Energy scarcity loses meaning at civilizational scale",
+        "Megastructures and artificial worlds become sustainable",
+        "Civilization gains resilience across cosmic timescales"
+      ],
+      "image": {
+        "alt": "Galaxy-Scale Energy Networks Connect Star Clusters",
+        "prompts": [
+          "galaxy-Scale Energy Networks Connect Star Clusters, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Scale Energy Networks Connect Star Clusters, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Scale Energy Networks Connect Star Clusters, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Scale Energy Networks Connect Star Clusters, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxy-scale-energy-networks-connect-star-clusters.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxy-scale-energy-networks-connect-star-clusters.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-matter-energy-conversion-reaches-near-perfect-efficiency",
+      "order": 14,
+      "slug": "matter-energy-conversion-reaches-near-perfect-efficiency",
+      "title": "Matter-Energy Conversion Reaches Near-Perfect Efficiency",
+      "shortTitle": "MatterEnergy Conversion NearPerfect Efficiency",
+      "category": "Energy",
+      "description": "Matter-Energy Conversion Reaches Near-Perfect Efficiency uses cosmic-scale energy sources such as black holes, dark energy, and background radiation to support long-duration galactic civilization.",
+      "layerId": "energy",
+      "domains": ["black-hole-energy", "dark-energy", "cosmic-energy-networks"],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 262220,
+        "endYear": 328686
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Matter-Energy Conversion Reaches Near-Perfect Efficiency becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Energy systems approach near-perfect efficiency",
+        "Stellar and post-stellar sources become engineered resources",
+        "Power networks span star clusters and deep space"
+      ],
+      "implications": [
+        "Energy scarcity loses meaning at civilizational scale",
+        "Megastructures and artificial worlds become sustainable",
+        "Civilization gains resilience across cosmic timescales"
+      ],
+      "image": {
+        "alt": "Matter-Energy Conversion Reaches Near-Perfect Efficiency",
+        "prompts": [
+          "matter-Energy Conversion Reaches Near-Perfect Efficiency, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter-Energy Conversion Reaches Near-Perfect Efficiency, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter-Energy Conversion Reaches Near-Perfect Efficiency, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter-Energy Conversion Reaches Near-Perfect Efficiency, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cosmic-background-radiation-becomes-a-usable-energy-source",
+      "order": 15,
+      "slug": "cosmic-background-radiation-becomes-a-usable-energy-source",
+      "title": "Cosmic Background Radiation Becomes A Usable Energy Source",
+      "shortTitle": "Cosmic Background Radiation Usable",
+      "category": "Energy",
+      "description": "Cosmic Background Radiation Becomes A Usable Energy Source uses cosmic-scale energy sources such as black holes, dark energy, and background radiation to support long-duration galactic civilization.",
+      "layerId": "energy",
+      "domains": ["black-hole-energy", "dark-energy", "cosmic-energy-networks"],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 282160,
+        "endYear": 348626
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Cosmic Background Radiation Becomes A Usable Energy Source becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Energy systems approach near-perfect efficiency",
+        "Stellar and post-stellar sources become engineered resources",
+        "Power networks span star clusters and deep space"
+      ],
+      "implications": [
+        "Energy scarcity loses meaning at civilizational scale",
+        "Megastructures and artificial worlds become sustainable",
+        "Civilization gains resilience across cosmic timescales"
+      ],
+      "image": {
+        "alt": "Cosmic Background Radiation Becomes A Usable Energy Source",
+        "prompts": [
+          "cosmic Background Radiation Becomes A Usable Energy Source, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cosmic Background Radiation Becomes A Usable Energy Source, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cosmic Background Radiation Becomes A Usable Energy Source, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cosmic Background Radiation Becomes A Usable Energy Source, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-humanity-reaches-neighboring-galaxies",
+      "order": 16,
+      "slug": "humanity-reaches-neighboring-galaxies",
+      "title": "Humanity Reaches Neighboring Galaxies",
+      "shortTitle": "Neighboring Galaxies",
+      "category": "Space",
+      "description": "Humanity Reaches Neighboring Galaxies moves civilization beyond the Milky Way into neighboring galaxies, artificial star systems, intergalactic trade, and sustainable stellar engineering.",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 302100,
+        "endYear": 368566
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Humanity Reaches Neighboring Galaxies becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Large populations live away from planetary surfaces",
+        "Artificial worlds and star-system engineering become feasible",
+        "Exploration crosses galactic and intergalactic boundaries"
+      ],
+      "implications": [
+        "Humanity is no longer tied to any single star system",
+        "Space itself becomes a normal habitat of civilization",
+        "Cosmic-scale settlement changes identity and governance"
+      ],
+      "image": {
+        "alt": "Humanity Reaches Neighboring Galaxies",
+        "prompts": [
+          "humanity Reaches Neighboring Galaxies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Reaches Neighboring Galaxies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Reaches Neighboring Galaxies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Reaches Neighboring Galaxies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-humanity-reaches-neighboring-galaxies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-humanity-reaches-neighboring-galaxies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-first-intergalactic-trade-routes-become-operational",
+      "order": 17,
+      "slug": "first-intergalactic-trade-routes-become-operational",
+      "title": "First Intergalactic Trade Routes Become Operational",
+      "shortTitle": "Intergalactic Trade Routes Operational",
+      "category": "Space",
+      "description": "First Intergalactic Trade Routes Become Operational moves civilization beyond the Milky Way into neighboring galaxies, artificial star systems, intergalactic trade, and sustainable stellar engineering.",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 322040,
+        "endYear": 388506
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "First Intergalactic Trade Routes Become Operational becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Large populations live away from planetary surfaces",
+        "Artificial worlds and star-system engineering become feasible",
+        "Exploration crosses galactic and intergalactic boundaries"
+      ],
+      "implications": [
+        "Humanity is no longer tied to any single star system",
+        "Space itself becomes a normal habitat of civilization",
+        "Cosmic-scale settlement changes identity and governance"
+      ],
+      "image": {
+        "alt": "First Intergalactic Trade Routes Become Operational",
+        "prompts": [
+          "first Intergalactic Trade Routes Become Operational, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Intergalactic Trade Routes Become Operational, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Intergalactic Trade Routes Become Operational, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Intergalactic Trade Routes Become Operational, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-first-intergalactic-trade-routes-become-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-first-intergalactic-trade-routes-become-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-star-systems-are-constructed",
+      "order": 18,
+      "slug": "artificial-star-systems-are-constructed",
+      "title": "Artificial Star Systems Are Constructed",
+      "shortTitle": "Artificial Star Systems Constructed",
+      "category": "Space",
+      "description": "Artificial Star Systems Are Constructed moves civilization beyond the Milky Way into neighboring galaxies, artificial star systems, intergalactic trade, and sustainable stellar engineering.",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 341980,
+        "endYear": 408446
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Artificial Star Systems Are Constructed becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Large populations live away from planetary surfaces",
+        "Artificial worlds and star-system engineering become feasible",
+        "Exploration crosses galactic and intergalactic boundaries"
+      ],
+      "implications": [
+        "Humanity is no longer tied to any single star system",
+        "Space itself becomes a normal habitat of civilization",
+        "Cosmic-scale settlement changes identity and governance"
+      ],
+      "image": {
+        "alt": "Artificial Star Systems Are Constructed",
+        "prompts": [
+          "artificial Star Systems Are Constructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Star Systems Are Constructed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Star Systems Are Constructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Star Systems Are Constructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-star-systems-are-constructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-star-systems-are-constructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-population-living-outside-the-milky-way-exceeds-one-billion",
+      "order": 19,
+      "slug": "population-living-outside-the-milky-way-exceeds-one-billion",
+      "title": "Population Living Outside The Milky Way Exceeds One Billion",
+      "shortTitle": "Population Living Outside Milky",
+      "category": "Space",
+      "description": "Population Living Outside The Milky Way Exceeds One Billion moves civilization beyond the Milky Way into neighboring galaxies, artificial star systems, intergalactic trade, and sustainable stellar engineering.",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 361920,
+        "endYear": 428386
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Population Living Outside The Milky Way Exceeds One Billion becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Large populations live away from planetary surfaces",
+        "Artificial worlds and star-system engineering become feasible",
+        "Exploration crosses galactic and intergalactic boundaries"
+      ],
+      "implications": [
+        "Humanity is no longer tied to any single star system",
+        "Space itself becomes a normal habitat of civilization",
+        "Cosmic-scale settlement changes identity and governance"
+      ],
+      "image": {
+        "alt": "Population Living Outside The Milky Way Exceeds One Billion",
+        "prompts": [
+          "population Living Outside The Milky Way Exceeds One Billion, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing population Living Outside The Milky Way Exceeds One Billion, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of population Living Outside The Milky Way Exceeds One Billion, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating population Living Outside The Milky Way Exceeds One Billion, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-population-living-outside-the-milky-way-exceeds-one-billion.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-population-living-outside-the-milky-way-exceeds-one-billion.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-stellar-engineering-protects-dying-stars-from-collapse",
+      "order": 20,
+      "slug": "stellar-engineering-protects-dying-stars-from-collapse",
+      "title": "Stellar Engineering Protects Dying Stars From Collapse",
+      "shortTitle": "Stellar Engineering Protects Dying",
+      "category": "Space",
+      "description": "Stellar Engineering Protects Dying Stars From Collapse moves civilization beyond the Milky Way into neighboring galaxies, artificial star systems, intergalactic trade, and sustainable stellar engineering.",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 381860,
+        "endYear": 448326
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Stellar Engineering Protects Dying Stars From Collapse becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Large populations live away from planetary surfaces",
+        "Artificial worlds and star-system engineering become feasible",
+        "Exploration crosses galactic and intergalactic boundaries"
+      ],
+      "implications": [
+        "Humanity is no longer tied to any single star system",
+        "Space itself becomes a normal habitat of civilization",
+        "Cosmic-scale settlement changes identity and governance"
+      ],
+      "image": {
+        "alt": "Stellar Engineering Protects Dying Stars From Collapse",
+        "prompts": [
+          "stellar Engineering Protects Dying Stars From Collapse, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Engineering Protects Dying Stars From Collapse, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Engineering Protects Dying Stars From Collapse, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Engineering Protects Dying Stars From Collapse, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-stellar-engineering-protects-dying-stars-from-collapse.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-stellar-engineering-protects-dying-stars-from-collapse.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-biological-death-becomes-a-personal-choice",
+      "order": 21,
+      "slug": "biological-death-becomes-a-personal-choice",
+      "title": "Biological Death Becomes A Personal Choice",
+      "shortTitle": "Biological Death Personal Choice",
+      "category": "Biology & Medicine",
+      "description": "Biological Death Becomes A Personal Choice makes life, death, memory, and evolution deliberate choices shared across species and substrates.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 401800,
+        "endYear": 468266
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Biological Death Becomes A Personal Choice becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Consciousness continuity becomes clinically and legally measurable",
+        "Bodies become replaceable or optional",
+        "Memory and biology are managed as design spaces"
+      ],
+      "implications": [
+        "Death becomes negotiable rather than inevitable",
+        "Species boundaries become less rigid",
+        "Ethics must expand around continuity, copying, and identity"
+      ],
+      "image": {
+        "alt": "Biological Death Becomes A Personal Choice",
+        "prompts": [
+          "biological Death Becomes A Personal Choice, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Death Becomes A Personal Choice, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Death Becomes A Personal Choice, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Death Becomes A Personal Choice, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-biological-death-becomes-a-personal-choice.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-biological-death-becomes-a-personal-choice.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-consciousness-can-exist-independently-of-physical-substrates",
+      "order": 22,
+      "slug": "consciousness-can-exist-independently-of-physical-substrates",
+      "title": "Consciousness Can Exist Independently Of Physical Substrates",
+      "shortTitle": "Consciousness Exist Independently Physical",
+      "category": "Biology & Medicine",
+      "description": "Consciousness Can Exist Independently Of Physical Substrates makes life, death, memory, and evolution deliberate choices shared across species and substrates.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 421740,
+        "endYear": 488206
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Consciousness Can Exist Independently Of Physical Substrates becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Consciousness continuity becomes clinically and legally measurable",
+        "Bodies become replaceable or optional",
+        "Memory and biology are managed as design spaces"
+      ],
+      "implications": [
+        "Death becomes negotiable rather than inevitable",
+        "Species boundaries become less rigid",
+        "Ethics must expand around continuity, copying, and identity"
+      ],
+      "image": {
+        "alt": "Consciousness Can Exist Independently Of Physical Substrates",
+        "prompts": [
+          "consciousness Can Exist Independently Of Physical Substrates, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Can Exist Independently Of Physical Substrates, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Can Exist Independently Of Physical Substrates, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Can Exist Independently Of Physical Substrates, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-consciousness-can-exist-independently-of-physical-substrates.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-consciousness-can-exist-independently-of-physical-substrates.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-memories-can-be-shared-across-species",
+      "order": 23,
+      "slug": "memories-can-be-shared-across-species",
+      "title": "Memories Can Be Shared Across Species",
+      "shortTitle": "Memories Be Shared Species",
+      "category": "Biology & Medicine",
+      "description": "Memories Can Be Shared Across Species makes life, death, memory, and evolution deliberate choices shared across species and substrates.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 441680,
+        "endYear": 508146
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Memories Can Be Shared Across Species becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Consciousness continuity becomes clinically and legally measurable",
+        "Bodies become replaceable or optional",
+        "Memory and biology are managed as design spaces"
+      ],
+      "implications": [
+        "Death becomes negotiable rather than inevitable",
+        "Species boundaries become less rigid",
+        "Ethics must expand around continuity, copying, and identity"
+      ],
+      "image": {
+        "alt": "Memories Can Be Shared Across Species",
+        "prompts": [
+          "memories Can Be Shared Across Species, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing memories Can Be Shared Across Species, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of memories Can Be Shared Across Species, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating memories Can Be Shared Across Species, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-memories-can-be-shared-across-species.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-memories-can-be-shared-across-species.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-memories-can-be-shared-across-species.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-memories-can-be-shared-across-species.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-memories-can-be-shared-across-species.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-entire-ecosystems-are-reconstructed-from-genetic-archives",
+      "order": 24,
+      "slug": "entire-ecosystems-are-reconstructed-from-genetic-archives",
+      "title": "Entire Ecosystems Are Reconstructed From Genetic Archives",
+      "shortTitle": "Entire Ecosystems Reconstructed Genetic",
+      "category": "Biology & Medicine",
+      "description": "Entire Ecosystems Are Reconstructed From Genetic Archives makes life, death, memory, and evolution deliberate choices shared across species and substrates.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 461620,
+        "endYear": 528086
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Entire Ecosystems Are Reconstructed From Genetic Archives becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Consciousness continuity becomes clinically and legally measurable",
+        "Bodies become replaceable or optional",
+        "Memory and biology are managed as design spaces"
+      ],
+      "implications": [
+        "Death becomes negotiable rather than inevitable",
+        "Species boundaries become less rigid",
+        "Ethics must expand around continuity, copying, and identity"
+      ],
+      "image": {
+        "alt": "Entire Ecosystems Are Reconstructed From Genetic Archives",
+        "prompts": [
+          "entire Ecosystems Are Reconstructed From Genetic Archives, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Ecosystems Are Reconstructed From Genetic Archives, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Ecosystems Are Reconstructed From Genetic Archives, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Ecosystems Are Reconstructed From Genetic Archives, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one",
+      "order": 25,
+      "slug": "evolution-becomes-a-deliberate-process-rather-than-a-random-one",
+      "title": "Evolution Becomes A Deliberate Process Rather Than A Random One",
+      "shortTitle": "Evolution Deliberate Process Rather",
+      "category": "Biology & Medicine",
+      "description": "Evolution Becomes A Deliberate Process Rather Than A Random One makes life, death, memory, and evolution deliberate choices shared across species and substrates.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 481560,
+        "endYear": 548026
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Evolution Becomes A Deliberate Process Rather Than A Random One becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Consciousness continuity becomes clinically and legally measurable",
+        "Bodies become replaceable or optional",
+        "Memory and biology are managed as design spaces"
+      ],
+      "implications": [
+        "Death becomes negotiable rather than inevitable",
+        "Species boundaries become less rigid",
+        "Ethics must expand around continuity, copying, and identity"
+      ],
+      "image": {
+        "alt": "Evolution Becomes A Deliberate Process Rather Than A Random One",
+        "prompts": [
+          "evolution Becomes A Deliberate Process Rather Than A Random One, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing evolution Becomes A Deliberate Process Rather Than A Random One, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of evolution Becomes A Deliberate Process Rather Than A Random One, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating evolution Becomes A Deliberate Process Rather Than A Random One, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-dark-matter-engineering-becomes-practical",
+      "order": 26,
+      "slug": "dark-matter-engineering-becomes-practical",
+      "title": "Dark Matter Engineering Becomes Practical",
+      "shortTitle": "Dark Matter Engineering Practical",
+      "category": "Physics",
+      "description": "Dark Matter Engineering Becomes Practical uses cosmic physics to understand origins, preserve information, manipulate space-time topology, and engineer civilization infrastructure.",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 501500,
+        "endYear": 567966
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Dark Matter Engineering Becomes Practical becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Fundamental physics produces operational technologies",
+        "Space-time manipulation becomes repeatable",
+        "Cosmic-scale observations become experimental systems"
+      ],
+      "implications": [
+        "Travel, storage, and computation gain new physical foundations",
+        "Civilization begins engineering reality itself",
+        "Questions about universe-scale survival become practical"
+      ],
+      "image": {
+        "alt": "Dark Matter Engineering Becomes Practical",
+        "prompts": [
+          "dark Matter Engineering Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Matter Engineering Becomes Practical, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Matter Engineering Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Matter Engineering Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-dark-matter-engineering-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-dark-matter-engineering-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-space-time-topology-is-manipulated-for-civilization-infrastructure",
+      "order": 27,
+      "slug": "space-time-topology-is-manipulated-for-civilization-infrastructure",
+      "title": "Space-Time Topology Is Manipulated For Civilization Infrastructure",
+      "shortTitle": "SpaceTime Topology Manipulated Civilization",
+      "category": "Physics",
+      "description": "Space-Time Topology Is Manipulated For Civilization Infrastructure uses cosmic physics to understand origins, preserve information, manipulate space-time topology, and engineer civilization infrastructure.",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 521440,
+        "endYear": 587906
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Space-Time Topology Is Manipulated For Civilization Infrastructure becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Fundamental physics produces operational technologies",
+        "Space-time manipulation becomes repeatable",
+        "Cosmic-scale observations become experimental systems"
+      ],
+      "implications": [
+        "Travel, storage, and computation gain new physical foundations",
+        "Civilization begins engineering reality itself",
+        "Questions about universe-scale survival become practical"
+      ],
+      "image": {
+        "alt": "Space-Time Topology Is Manipulated For Civilization Infrastructure",
+        "prompts": [
+          "space-Time Topology Is Manipulated For Civilization Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Time Topology Is Manipulated For Civilization Infrastructure, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Time Topology Is Manipulated For Civilization Infrastructure, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Time Topology Is Manipulated For Civilization Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-the-origin-of-the-universe-is-experimentally-reconstructed",
+      "order": 28,
+      "slug": "the-origin-of-the-universe-is-experimentally-reconstructed",
+      "title": "The Origin Of The Universe Is Experimentally Reconstructed",
+      "shortTitle": "Origin Universe Experimentally Reconstructed",
+      "category": "Physics",
+      "description": "The Origin Of The Universe Is Experimentally Reconstructed uses cosmic physics to understand origins, preserve information, manipulate space-time topology, and engineer civilization infrastructure.",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 541380,
+        "endYear": 607846
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "The Origin Of The Universe Is Experimentally Reconstructed becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Fundamental physics produces operational technologies",
+        "Space-time manipulation becomes repeatable",
+        "Cosmic-scale observations become experimental systems"
+      ],
+      "implications": [
+        "Travel, storage, and computation gain new physical foundations",
+        "Civilization begins engineering reality itself",
+        "Questions about universe-scale survival become practical"
+      ],
+      "image": {
+        "alt": "The Origin Of The Universe Is Experimentally Reconstructed",
+        "prompts": [
+          "the Origin Of The Universe Is Experimentally Reconstructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Origin Of The Universe Is Experimentally Reconstructed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Origin Of The Universe Is Experimentally Reconstructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Origin Of The Universe Is Experimentally Reconstructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-parallel-universes-become-observable",
+      "order": 29,
+      "slug": "parallel-universes-become-observable",
+      "title": "Parallel Universes Become Observable",
+      "shortTitle": "Parallel Universes Observable",
+      "category": "Physics",
+      "description": "Parallel Universes Become Observable uses cosmic physics to understand origins, preserve information, manipulate space-time topology, and engineer civilization infrastructure.",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 561320,
+        "endYear": 627786
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Parallel Universes Become Observable becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Fundamental physics produces operational technologies",
+        "Space-time manipulation becomes repeatable",
+        "Cosmic-scale observations become experimental systems"
+      ],
+      "implications": [
+        "Travel, storage, and computation gain new physical foundations",
+        "Civilization begins engineering reality itself",
+        "Questions about universe-scale survival become practical"
+      ],
+      "image": {
+        "alt": "Parallel Universes Become Observable",
+        "prompts": [
+          "parallel Universes Become Observable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing parallel Universes Become Observable, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of parallel Universes Become Observable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating parallel Universes Become Observable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-parallel-universes-become-observable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-parallel-universes-become-observable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-parallel-universes-become-observable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-parallel-universes-become-observable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-parallel-universes-become-observable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-information-preservation-across-cosmic-timescales-is-achieved",
+      "order": 30,
+      "slug": "information-preservation-across-cosmic-timescales-is-achieved",
+      "title": "Information Preservation Across Cosmic Timescales Is Achieved",
+      "shortTitle": "Information Preservation Cosmic Timescales",
+      "category": "Physics",
+      "description": "Information Preservation Across Cosmic Timescales Is Achieved uses cosmic physics to understand origins, preserve information, manipulate space-time topology, and engineer civilization infrastructure.",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 581260,
+        "endYear": 647726
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Information Preservation Across Cosmic Timescales Is Achieved becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Fundamental physics produces operational technologies",
+        "Space-time manipulation becomes repeatable",
+        "Cosmic-scale observations become experimental systems"
+      ],
+      "implications": [
+        "Travel, storage, and computation gain new physical foundations",
+        "Civilization begins engineering reality itself",
+        "Questions about universe-scale survival become practical"
+      ],
+      "image": {
+        "alt": "Information Preservation Across Cosmic Timescales Is Achieved",
+        "prompts": [
+          "information Preservation Across Cosmic Timescales Is Achieved, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing information Preservation Across Cosmic Timescales Is Achieved, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of information Preservation Across Cosmic Timescales Is Achieved, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating information Preservation Across Cosmic Timescales Is Achieved, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-information-preservation-across-cosmic-timescales-is-achieved.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-information-preservation-across-cosmic-timescales-is-achieved.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale",
+      "order": 31,
+      "slug": "matter-can-be-reassembled-atom-by-atom-at-planetary-scale",
+      "title": "Matter Can Be Reassembled Atom-By-Atom At Planetary Scale",
+      "shortTitle": "Matter Be Reassembled AtomByAtom",
+      "category": "Materials & Manufacturing",
+      "description": "Matter Can Be Reassembled Atom-By-Atom At Planetary Scale scales manufacturing to planets, worlds, and star systems through programmable reality materials and atom-by-atom reassembly.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 601200,
+        "endYear": 667666
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Matter Can Be Reassembled Atom-By-Atom At Planetary Scale becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Atomic precision becomes normal manufacturing practice",
+        "Self-assembling habitats grow without conventional factories",
+        "Matter reconstruction eliminates many supply chains"
+      ],
+      "implications": [
+        "Material scarcity largely disappears",
+        "Cities and habitats can be grown or reassembled",
+        "The boundary between material, machine, and organism blurs"
+      ],
+      "image": {
+        "alt": "Matter Can Be Reassembled Atom-By-Atom At Planetary Scale",
+        "prompts": [
+          "matter Can Be Reassembled Atom-By-Atom At Planetary Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter Can Be Reassembled Atom-By-Atom At Planetary Scale, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter Can Be Reassembled Atom-By-Atom At Planetary Scale, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter Can Be Reassembled Atom-By-Atom At Planetary Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-self-growing-megastructures-build-entire-star-systems",
+      "order": 32,
+      "slug": "self-growing-megastructures-build-entire-star-systems",
+      "title": "Self-Growing Megastructures Build Entire Star Systems",
+      "shortTitle": "SelfGrowing Megastructures Build Entire",
+      "category": "Materials & Manufacturing",
+      "description": "Self-Growing Megastructures Build Entire Star Systems scales manufacturing to planets, worlds, and star systems through programmable reality materials and atom-by-atom reassembly.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 621140,
+        "endYear": 687606
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Self-Growing Megastructures Build Entire Star Systems becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Atomic precision becomes normal manufacturing practice",
+        "Self-assembling habitats grow without conventional factories",
+        "Matter reconstruction eliminates many supply chains"
+      ],
+      "implications": [
+        "Material scarcity largely disappears",
+        "Cities and habitats can be grown or reassembled",
+        "The boundary between material, machine, and organism blurs"
+      ],
+      "image": {
+        "alt": "Self-Growing Megastructures Build Entire Star Systems",
+        "prompts": [
+          "self-Growing Megastructures Build Entire Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Growing Megastructures Build Entire Star Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Growing Megastructures Build Entire Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Growing Megastructures Build Entire Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-self-growing-megastructures-build-entire-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-self-growing-megastructures-build-entire-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-programmable-reality-materials-enter-use",
+      "order": 33,
+      "slug": "programmable-reality-materials-enter-use",
+      "title": "Programmable Reality Materials Enter Use",
+      "shortTitle": "Programmable Reality Materials Enter",
+      "category": "Materials & Manufacturing",
+      "description": "Programmable Reality Materials Enter Use scales manufacturing to planets, worlds, and star systems through programmable reality materials and atom-by-atom reassembly.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 641080,
+        "endYear": 707546
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Programmable Reality Materials Enter Use becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Atomic precision becomes normal manufacturing practice",
+        "Self-assembling habitats grow without conventional factories",
+        "Matter reconstruction eliminates many supply chains"
+      ],
+      "implications": [
+        "Material scarcity largely disappears",
+        "Cities and habitats can be grown or reassembled",
+        "The boundary between material, machine, and organism blurs"
+      ],
+      "image": {
+        "alt": "Programmable Reality Materials Enter Use",
+        "prompts": [
+          "programmable Reality Materials Enter Use, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Reality Materials Enter Use, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Reality Materials Enter Use, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Reality Materials Enter Use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-programmable-reality-materials-enter-use.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-programmable-reality-materials-enter-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-worlds-become-manufactured-products",
+      "order": 34,
+      "slug": "artificial-worlds-become-manufactured-products",
+      "title": "Artificial Worlds Become Manufactured Products",
+      "shortTitle": "Artificial Worlds Manufactured Products",
+      "category": "Materials & Manufacturing",
+      "description": "Artificial Worlds Become Manufactured Products scales manufacturing to planets, worlds, and star systems through programmable reality materials and atom-by-atom reassembly.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 661020,
+        "endYear": 727486
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Artificial Worlds Become Manufactured Products becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Atomic precision becomes normal manufacturing practice",
+        "Self-assembling habitats grow without conventional factories",
+        "Matter reconstruction eliminates many supply chains"
+      ],
+      "implications": [
+        "Material scarcity largely disappears",
+        "Cities and habitats can be grown or reassembled",
+        "The boundary between material, machine, and organism blurs"
+      ],
+      "image": {
+        "alt": "Artificial Worlds Become Manufactured Products",
+        "prompts": [
+          "artificial Worlds Become Manufactured Products, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Worlds Become Manufactured Products, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Worlds Become Manufactured Products, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Worlds Become Manufactured Products, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-worlds-become-manufactured-products.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-worlds-become-manufactured-products.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-resource-scarcity-disappears-permanently",
+      "order": 35,
+      "slug": "resource-scarcity-disappears-permanently",
+      "title": "Resource Scarcity Disappears Permanently",
+      "shortTitle": "Resource Scarcity Disappears Permanently",
+      "category": "Materials & Manufacturing",
+      "description": "Resource Scarcity Disappears Permanently scales manufacturing to planets, worlds, and star systems through programmable reality materials and atom-by-atom reassembly.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 680960,
+        "endYear": 747426
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Resource Scarcity Disappears Permanently becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Atomic precision becomes normal manufacturing practice",
+        "Self-assembling habitats grow without conventional factories",
+        "Matter reconstruction eliminates many supply chains"
+      ],
+      "implications": [
+        "Material scarcity largely disappears",
+        "Cities and habitats can be grown or reassembled",
+        "The boundary between material, machine, and organism blurs"
+      ],
+      "image": {
+        "alt": "Resource Scarcity Disappears Permanently",
+        "prompts": [
+          "resource Scarcity Disappears Permanently, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing resource Scarcity Disappears Permanently, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of resource Scarcity Disappears Permanently, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating resource Scarcity Disappears Permanently, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-resource-scarcity-disappears-permanently.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-resource-scarcity-disappears-permanently.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-stars-are-protected-as-ecological-systems",
+      "order": 36,
+      "slug": "stars-are-protected-as-ecological-systems",
+      "title": "Stars Are Protected As Ecological Systems",
+      "shortTitle": "Stars Protected Ecological Systems",
+      "category": "Environment",
+      "description": "Stars Are Protected As Ecological Systems expands stewardship from planets to stars, planetary systems, and galaxies treated as ecological networks.",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 700900,
+        "endYear": 767366
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Stars Are Protected As Ecological Systems becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Artificial ecosystems outperform unmanaged natural systems in stability",
+        "Terraforming is repeated across many worlds",
+        "Restoration is measured across planetary and cosmic scales"
+      ],
+      "implications": [
+        "Civilization becomes a creator and caretaker of biospheres",
+        "Ethics expands from Earth ecology to cosmic ecology",
+        "Habitable worlds can be preserved, repaired, or designed"
+      ],
+      "image": {
+        "alt": "Stars Are Protected As Ecological Systems",
+        "prompts": [
+          "stars Are Protected As Ecological Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stars Are Protected As Ecological Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stars Are Protected As Ecological Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stars Are Protected As Ecological Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-stars-are-protected-as-ecological-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-stars-are-protected-as-ecological-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage",
+      "order": 37,
+      "slug": "cosmic-ecosystem-restoration-programs-reverse-ancient-damage",
+      "title": "Cosmic Ecosystem Restoration Programs Reverse Ancient Damage",
+      "shortTitle": "Cosmic Ecosystem Restoration Programs",
+      "category": "Environment",
+      "description": "Cosmic Ecosystem Restoration Programs Reverse Ancient Damage expands stewardship from planets to stars, planetary systems, and galaxies treated as ecological networks.",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 720840,
+        "endYear": 787306
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Cosmic Ecosystem Restoration Programs Reverse Ancient Damage becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Artificial ecosystems outperform unmanaged natural systems in stability",
+        "Terraforming is repeated across many worlds",
+        "Restoration is measured across planetary and cosmic scales"
+      ],
+      "implications": [
+        "Civilization becomes a creator and caretaker of biospheres",
+        "Ethics expands from Earth ecology to cosmic ecology",
+        "Habitable worlds can be preserved, repaired, or designed"
+      ],
+      "image": {
+        "alt": "Cosmic Ecosystem Restoration Programs Reverse Ancient Damage",
+        "prompts": [
+          "cosmic Ecosystem Restoration Programs Reverse Ancient Damage, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cosmic Ecosystem Restoration Programs Reverse Ancient Damage, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cosmic Ecosystem Restoration Programs Reverse Ancient Damage, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cosmic Ecosystem Restoration Programs Reverse Ancient Damage, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-biospheres-support-exotic-life-forms",
+      "order": 38,
+      "slug": "artificial-biospheres-support-exotic-life-forms",
+      "title": "Artificial Biospheres Support Exotic Life Forms",
+      "shortTitle": "Artificial Biospheres Support Exotic",
+      "category": "Environment",
+      "description": "Artificial Biospheres Support Exotic Life Forms expands stewardship from planets to stars, planetary systems, and galaxies treated as ecological networks.",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 740780,
+        "endYear": 807246
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Artificial Biospheres Support Exotic Life Forms becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Artificial ecosystems outperform unmanaged natural systems in stability",
+        "Terraforming is repeated across many worlds",
+        "Restoration is measured across planetary and cosmic scales"
+      ],
+      "implications": [
+        "Civilization becomes a creator and caretaker of biospheres",
+        "Ethics expands from Earth ecology to cosmic ecology",
+        "Habitable worlds can be preserved, repaired, or designed"
+      ],
+      "image": {
+        "alt": "Artificial Biospheres Support Exotic Life Forms",
+        "prompts": [
+          "artificial Biospheres Support Exotic Life Forms, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Biospheres Support Exotic Life Forms, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Biospheres Support Exotic Life Forms, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Biospheres Support Exotic Life Forms, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-biospheres-support-exotic-life-forms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-biospheres-support-exotic-life-forms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-entire-planetary-systems-are-managed-sustainably",
+      "order": 39,
+      "slug": "entire-planetary-systems-are-managed-sustainably",
+      "title": "Entire Planetary Systems Are Managed Sustainably",
+      "shortTitle": "Entire Planetary Systems Managed",
+      "category": "Environment",
+      "description": "Entire Planetary Systems Are Managed Sustainably expands stewardship from planets to stars, planetary systems, and galaxies treated as ecological networks.",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 760720,
+        "endYear": 827186
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Entire Planetary Systems Are Managed Sustainably becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Artificial ecosystems outperform unmanaged natural systems in stability",
+        "Terraforming is repeated across many worlds",
+        "Restoration is measured across planetary and cosmic scales"
+      ],
+      "implications": [
+        "Civilization becomes a creator and caretaker of biospheres",
+        "Ethics expands from Earth ecology to cosmic ecology",
+        "Habitable worlds can be preserved, repaired, or designed"
+      ],
+      "image": {
+        "alt": "Entire Planetary Systems Are Managed Sustainably",
+        "prompts": [
+          "entire Planetary Systems Are Managed Sustainably, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Planetary Systems Are Managed Sustainably, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Planetary Systems Are Managed Sustainably, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Planetary Systems Are Managed Sustainably, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-entire-planetary-systems-are-managed-sustainably.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-entire-planetary-systems-are-managed-sustainably.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxies-become-recognized-as-living-ecological-networks",
+      "order": 40,
+      "slug": "galaxies-become-recognized-as-living-ecological-networks",
+      "title": "Galaxies Become Recognized As Living Ecological Networks",
+      "shortTitle": "Galaxies Living Ecological Networks",
+      "category": "Environment",
+      "description": "Galaxies Become Recognized As Living Ecological Networks expands stewardship from planets to stars, planetary systems, and galaxies treated as ecological networks.",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 780660,
+        "endYear": 847126
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Galaxies Become Recognized As Living Ecological Networks becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Artificial ecosystems outperform unmanaged natural systems in stability",
+        "Terraforming is repeated across many worlds",
+        "Restoration is measured across planetary and cosmic scales"
+      ],
+      "implications": [
+        "Civilization becomes a creator and caretaker of biospheres",
+        "Ethics expands from Earth ecology to cosmic ecology",
+        "Habitable worlds can be preserved, repaired, or designed"
+      ],
+      "image": {
+        "alt": "Galaxies Become Recognized As Living Ecological Networks",
+        "prompts": [
+          "galaxies Become Recognized As Living Ecological Networks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxies Become Recognized As Living Ecological Networks, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxies Become Recognized As Living Ecological Networks, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxies Become Recognized As Living Ecological Networks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxies-become-recognized-as-living-ecological-networks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxies-become-recognized-as-living-ecological-networks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-trade-expands-to-art-consciousness-biology-and-physics",
+      "order": 41,
+      "slug": "trade-expands-to-art-consciousness-biology-and-physics",
+      "title": "Trade Expands To Art, Consciousness, Biology, And Physics",
+      "shortTitle": "Trade Expands Art Consciousness",
+      "category": "Society & Economy",
+      "description": "Trade Expands To Art, Consciousness, Biology, And Physics expands society into cross-civilization exchange where art, consciousness, biology, memory, and experience become primary forms of value.",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 800600,
+        "endYear": 867066
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Trade Expands To Art, Consciousness, Biology, And Physics becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Currency becomes less central than knowledge and trust",
+        "Virtual and physical communities gain equal economic legitimacy",
+        "Ownership shifts toward shared access and lived experience"
+      ],
+      "implications": [
+        "Economic identity becomes independent of body or location",
+        "Conflict becomes more philosophical than territorial",
+        "Culture becomes the main arena of civilizational growth"
+      ],
+      "image": {
+        "alt": "Trade Expands To Art, Consciousness, Biology, And Physics",
+        "prompts": [
+          "trade Expands To Art, Consciousness, Biology, And Physics, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing trade Expands To Art, Consciousness, Biology, And Physics, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of trade Expands To Art, Consciousness, Biology, And Physics, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating trade Expands To Art, Consciousness, Biology, And Physics, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-trade-expands-to-art-consciousness-biology-and-physics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-trade-expands-to-art-consciousness-biology-and-physics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-physical-ownership-is-replaced-by-shared-experience-economies",
+      "order": 42,
+      "slug": "physical-ownership-is-replaced-by-shared-experience-economies",
+      "title": "Physical Ownership Is Replaced By Shared Experience Economies",
+      "shortTitle": "Physical Ownership Replaced Shared",
+      "category": "Society & Economy",
+      "description": "Physical Ownership Is Replaced By Shared Experience Economies expands society into cross-civilization exchange where art, consciousness, biology, memory, and experience become primary forms of value.",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 820540,
+        "endYear": 887006
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Physical Ownership Is Replaced By Shared Experience Economies becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Currency becomes less central than knowledge and trust",
+        "Virtual and physical communities gain equal economic legitimacy",
+        "Ownership shifts toward shared access and lived experience"
+      ],
+      "implications": [
+        "Economic identity becomes independent of body or location",
+        "Conflict becomes more philosophical than territorial",
+        "Culture becomes the main arena of civilizational growth"
+      ],
+      "image": {
+        "alt": "Physical Ownership Is Replaced By Shared Experience Economies",
+        "prompts": [
+          "physical Ownership Is Replaced By Shared Experience Economies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing physical Ownership Is Replaced By Shared Experience Economies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of physical Ownership Is Replaced By Shared Experience Economies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating physical Ownership Is Replaced By Shared Experience Economies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-physical-ownership-is-replaced-by-shared-experience-economies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-physical-ownership-is-replaced-by-shared-experience-economies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-identity-becomes-independent-of-species-or-origin",
+      "order": 43,
+      "slug": "identity-becomes-independent-of-species-or-origin",
+      "title": "Identity Becomes Independent Of Species Or Origin",
+      "shortTitle": "Identity Independent Species Or",
+      "category": "Society & Economy",
+      "description": "Identity Becomes Independent Of Species Or Origin expands society into cross-civilization exchange where art, consciousness, biology, memory, and experience become primary forms of value.",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 840480,
+        "endYear": 906946
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Identity Becomes Independent Of Species Or Origin becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Currency becomes less central than knowledge and trust",
+        "Virtual and physical communities gain equal economic legitimacy",
+        "Ownership shifts toward shared access and lived experience"
+      ],
+      "implications": [
+        "Economic identity becomes independent of body or location",
+        "Conflict becomes more philosophical than territorial",
+        "Culture becomes the main arena of civilizational growth"
+      ],
+      "image": {
+        "alt": "Identity Becomes Independent Of Species Or Origin",
+        "prompts": [
+          "identity Becomes Independent Of Species Or Origin, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing identity Becomes Independent Of Species Or Origin, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of identity Becomes Independent Of Species Or Origin, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating identity Becomes Independent Of Species Or Origin, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-identity-becomes-independent-of-species-or-origin.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-identity-becomes-independent-of-species-or-origin.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-conflict-shifts-from-territory-to-philosophy-and-memory",
+      "order": 44,
+      "slug": "conflict-shifts-from-territory-to-philosophy-and-memory",
+      "title": "Conflict Shifts From Territory To Philosophy And Memory",
+      "shortTitle": "Conflict Shifts Territory Philosophy",
+      "category": "Society & Economy",
+      "description": "Conflict Shifts From Territory To Philosophy And Memory expands society into cross-civilization exchange where art, consciousness, biology, memory, and experience become primary forms of value.",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 860420,
+        "endYear": 926886
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Conflict Shifts From Territory To Philosophy And Memory becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Currency becomes less central than knowledge and trust",
+        "Virtual and physical communities gain equal economic legitimacy",
+        "Ownership shifts toward shared access and lived experience"
+      ],
+      "implications": [
+        "Economic identity becomes independent of body or location",
+        "Conflict becomes more philosophical than territorial",
+        "Culture becomes the main arena of civilizational growth"
+      ],
+      "image": {
+        "alt": "Conflict Shifts From Territory To Philosophy And Memory",
+        "prompts": [
+          "conflict Shifts From Territory To Philosophy And Memory, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing conflict Shifts From Territory To Philosophy And Memory, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of conflict Shifts From Territory To Philosophy And Memory, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating conflict Shifts From Territory To Philosophy And Memory, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cultural-exchange-between-civilizations-becomes-routine",
+      "order": 45,
+      "slug": "cultural-exchange-between-civilizations-becomes-routine",
+      "title": "Cultural Exchange Between Civilizations Becomes Routine",
+      "shortTitle": "Cultural Exchange Between Civilizations",
+      "category": "Society & Economy",
+      "description": "Cultural Exchange Between Civilizations Becomes Routine expands society into cross-civilization exchange where art, consciousness, biology, memory, and experience become primary forms of value.",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 880360,
+        "endYear": 946826
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Cultural Exchange Between Civilizations Becomes Routine becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Currency becomes less central than knowledge and trust",
+        "Virtual and physical communities gain equal economic legitimacy",
+        "Ownership shifts toward shared access and lived experience"
+      ],
+      "implications": [
+        "Economic identity becomes independent of body or location",
+        "Conflict becomes more philosophical than territorial",
+        "Culture becomes the main arena of civilizational growth"
+      ],
+      "image": {
+        "alt": "Cultural Exchange Between Civilizations Becomes Routine",
+        "prompts": [
+          "cultural Exchange Between Civilizations Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cultural Exchange Between Civilizations Becomes Routine, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cultural Exchange Between Civilizations Becomes Routine, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cultural Exchange Between Civilizations Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cultural-exchange-between-civilizations-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cultural-exchange-between-civilizations-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galactic-coexistence-council-is-formed",
+      "order": 46,
+      "slug": "galactic-coexistence-council-is-formed",
+      "title": "Galactic Coexistence Council Is Formed",
+      "shortTitle": "Galactic Coexistence Council Formed",
+      "category": "Civilization",
+      "description": "Galactic Coexistence Council Is Formed integrates humanity into a larger cosmic community where intelligence is recognized across biological, artificial, planetary, and cosmic forms.",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 900300,
+        "endYear": 966766
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Galactic Coexistence Council Is Formed becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Rights frameworks expand beyond biological humans",
+        "Collective and digital communities gain legal status",
+        "Civilization prepares for intelligences beyond human origin"
+      ],
+      "implications": [
+        "Humanity becomes one branch of a wider intelligence family",
+        "Political identity moves beyond nation and species",
+        "The Solar System becomes a historical birthplace rather than a center"
+      ],
+      "image": {
+        "alt": "Galactic Coexistence Council Is Formed",
+        "prompts": [
+          "galactic Coexistence Council Is Formed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galactic Coexistence Council Is Formed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galactic Coexistence Council Is Formed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galactic Coexistence Council Is Formed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galactic-coexistence-council-is-formed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galactic-coexistence-council-is-formed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms",
+      "order": 47,
+      "slug": "intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms",
+      "title": "Intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms",
+      "shortTitle": "Intelligence Biological Artificial Planetary",
+      "category": "Civilization",
+      "description": "Intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms integrates humanity into a larger cosmic community where intelligence is recognized across biological, artificial, planetary, and cosmic forms.",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 920240,
+        "endYear": 986706
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Rights frameworks expand beyond biological humans",
+        "Collective and digital communities gain legal status",
+        "Civilization prepares for intelligences beyond human origin"
+      ],
+      "implications": [
+        "Humanity becomes one branch of a wider intelligence family",
+        "Political identity moves beyond nation and species",
+        "The Solar System becomes a historical birthplace rather than a center"
+      ],
+      "image": {
+        "alt": "Intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms",
+        "prompts": [
+          "intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-first-shared-human-ai-alien-city-is-built",
+      "order": 48,
+      "slug": "first-shared-human-ai-alien-city-is-built",
+      "title": "First Shared Human-AI-Alien City Is Built",
+      "shortTitle": "Shared HumanAIAlien City Built",
+      "category": "Civilization",
+      "description": "First Shared Human-AI-Alien City Is Built integrates humanity into a larger cosmic community where intelligence is recognized across biological, artificial, planetary, and cosmic forms.",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 940180,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "First Shared Human-AI-Alien City Is Built becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Rights frameworks expand beyond biological humans",
+        "Collective and digital communities gain legal status",
+        "Civilization prepares for intelligences beyond human origin"
+      ],
+      "implications": [
+        "Humanity becomes one branch of a wider intelligence family",
+        "Political identity moves beyond nation and species",
+        "The Solar System becomes a historical birthplace rather than a center"
+      ],
+      "image": {
+        "alt": "First Shared Human-AI-Alien City Is Built",
+        "prompts": [
+          "first Shared Human-AI-Alien City Is Built, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Shared Human-AI-Alien City Is Built, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Shared Human-AI-Alien City Is Built, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Shared Human-AI-Alien City Is Built, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-first-shared-human-ai-alien-city-is-built.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-first-shared-human-ai-alien-city-is-built.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history",
+      "order": 49,
+      "slug": "humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history",
+      "title": "Humanity'S Origin Story Becomes One Chapter In A Larger Cosmic History",
+      "shortTitle": "Humanitys Origin Story One",
+      "category": "Civilization",
+      "description": "Humanity's Origin Story Becomes One Chapter In A Larger Cosmic History integrates humanity into a larger cosmic community where intelligence is recognized across biological, artificial, planetary, and cosmic forms.",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 960120,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "Humanity's Origin Story Becomes One Chapter In A Larger Cosmic History becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Rights frameworks expand beyond biological humans",
+        "Collective and digital communities gain legal status",
+        "Civilization prepares for intelligences beyond human origin"
+      ],
+      "implications": [
+        "Humanity becomes one branch of a wider intelligence family",
+        "Political identity moves beyond nation and species",
+        "The Solar System becomes a historical birthplace rather than a center"
+      ],
+      "image": {
+        "alt": "Humanity's Origin Story Becomes One Chapter In A Larger Cosmic History",
+        "prompts": [
+          "humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity",
+      "order": 50,
+      "slug": "the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity",
+      "title": "The Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity",
+      "shortTitle": "Solar System Birthplace Civilization",
+      "category": "Civilization",
+      "description": "The Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity integrates humanity into a larger cosmic community where intelligence is recognized across biological, artificial, planetary, and cosmic forms.",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 980060,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "The Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity becomes a defining milestone of galactic coexistence, placing humanity within a broader cosmic community of biological, artificial, planetary, and alien intelligence.",
+      "signals": [
+        "Rights frameworks expand beyond biological humans",
+        "Collective and digital communities gain legal status",
+        "Civilization prepares for intelligences beyond human origin"
+      ],
+      "implications": [
+        "Humanity becomes one branch of a wider intelligence family",
+        "Political identity moves beyond nation and species",
+        "The Solar System becomes a historical birthplace rather than a center"
+      ],
+      "image": {
+        "alt": "The Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity",
+        "prompts": [
+          "the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

@@ -26,10 +26,6 @@ export interface IFooter {
         items: IFooterDetail[]
     }
 
-    technology: {
-        title: string,
-        items: IFooterDetail[]
-    }
 
     connect: {
         title: string,

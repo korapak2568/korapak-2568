@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { ShoppingBag } from "lucide-react";
 import { FaTiktok } from "react-icons/fa";
 import {
+  getPlatformOutfitContent,
   getPlatformOutfitDetailMetadata,
   getPlatformOutfitLocalizedText,
   getPlatformOutfitSetById,
@@ -32,6 +33,8 @@ export async function generateMetadata({
 
 export default async function Page({ params }: PageParams) {
   const { locale, slug } = await params;
+  const content = getPlatformOutfitContent(locale);
+  const { detailPage } = content;
   const outfitSet = getPlatformOutfitSetById(slug, locale);
 
   if (!outfitSet) {
@@ -40,10 +43,6 @@ export default async function Page({ params }: PageParams) {
 
   const title = getPlatformOutfitLocalizedText(outfitSet.title, locale);
   const story = getPlatformOutfitLocalizedText(outfitSet.story, locale);
-  const summary = getPlatformOutfitLocalizedText(
-    outfitSet.visualSummary,
-    locale,
-  );
   const relatedOutfits = getPlatformOutfitSets(locale).filter(
     (relatedOutfitSet) => relatedOutfitSet.id !== outfitSet.id,
   );
@@ -52,16 +51,12 @@ export default async function Page({ params }: PageParams) {
     <main className="platform-page platform-outfit-detail-page">
       <section className="platform-outfit-detail-hero">
         <div className="platform-outfit-detail-hero__copy">
-          <Link
-            className="platform-outfit-detail-hero__back"
-            href={`/${locale}/style/`}
-          >
-            Style Collection
-          </Link>
-          <span className="platform-eyebrow">{outfitSet.audience}</span>
           <h1>{title}</h1>
           <p>{story}</p>
-          <div className="platform-outfit-detail-tags" aria-label="Outfit tags">
+          <div
+            className="platform-outfit-detail-tags"
+            aria-label={detailPage.tagListLabel}
+          >
             {outfitSet.tags.slice(0, 5).map((tag) => (
               <span key={tag}>{tag}</span>
             ))}
@@ -72,7 +67,10 @@ export default async function Page({ params }: PageParams) {
             target="_blank"
             rel="noreferrer"
           >
-            <span className="platform-outfit-detail-cta__icons" aria-hidden="true">
+            <span
+              className="platform-outfit-detail-cta__icons"
+              aria-hidden="true"
+            >
               <ShoppingBag
                 className="platform-outfit-detail-cta__shopping-icon"
                 size={18}
@@ -80,7 +78,7 @@ export default async function Page({ params }: PageParams) {
               />
               <FaTiktok className="platform-outfit-detail-cta__tiktok-icon" />
             </span>
-            <span>Explore on TikTok</span>
+            <span>{detailPage.externalCta}</span>
           </a>
         </div>
         <div className="platform-outfit-detail-hero__media">
@@ -95,17 +93,6 @@ export default async function Page({ params }: PageParams) {
         </div>
       </section>
 
-      <section className="platform-shell platform-outfit-detail-story">
-        <div className="platform-section__header">
-          <span>Outfit Story</span>
-          <h2>{summary}</h2>
-          <p>
-            From the first full-body still to the vertical detail scenes, the
-            look holds one recognizable mood: destination styling, product
-            clarity and a soft premium tone made for short-form discovery.
-          </p>
-        </div>
-      </section>
 
       <section className="platform-shell platform-outfit-detail-gallery">
         {outfitSet.images.map((detailImage, index) => (
@@ -124,27 +111,26 @@ export default async function Page({ params }: PageParams) {
 
       <section className="platform-shell platform-outfit-detail-related">
         <div className="platform-section__header">
-          <span>More Style Stories</span>
-          <h2>Explore other outfit directions.</h2>
-          <p>
-            Move through the full Chorn Planet Style set and open another look
-            directly from the detail page.
-          </p>
+          <span>{detailPage.relatedLabel}</span>
+          <h2>{detailPage.relatedTitle}</h2>
         </div>
         <div className="platform-outfit-detail-related__grid">
           {relatedOutfits.map((relatedOutfitSet) => (
-            <article
-              key={relatedOutfitSet.id}
-              className="platform-outfit-card"
-            >
+            <article key={relatedOutfitSet.id} className="platform-outfit-card">
               <Link
                 className="platform-outfit-card__link"
                 href={`/${locale}/style/${relatedOutfitSet.id}/`}
               >
                 <div className="platform-outfit-card__media">
                   <Image
-                    src={getPlatformImageSrc(relatedOutfitSet.image, "thumbnail")}
-                    alt={getPlatformImageAlt(relatedOutfitSet.image, "thumbnail")}
+                    src={getPlatformImageSrc(
+                      relatedOutfitSet.image,
+                      "thumbnail",
+                    )}
+                    alt={getPlatformImageAlt(
+                      relatedOutfitSet.image,
+                      "thumbnail",
+                    )}
                     fill
                     sizes="(max-width: 768px) 100vw, 31vw"
                     style={{ objectFit: "cover", objectPosition: "50% 18%" }}
@@ -165,10 +151,11 @@ export default async function Page({ params }: PageParams) {
                     )}
                   </p>
                   <div className="platform-outfit-card__meta">
-                    <strong>View Style</strong>
+                    <strong>{detailPage.relatedCardCta}</strong>
                     <small>
-                      {relatedOutfitSet.zoneDisplay[0] ??
-                        relatedOutfitSet.zoneCandidates[0]}
+                      {relatedOutfitSet.zoneDisplay?.[0] ??
+                        relatedOutfitSet.zoneCandidates?.[0] ??
+                        ""}
                     </small>
                   </div>
                 </div>

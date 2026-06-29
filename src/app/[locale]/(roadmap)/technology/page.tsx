@@ -4,12 +4,16 @@ import { headers } from "next/headers";
 import { SchemaMarkupServicePage } from "@/components/GoogleSchemaMarkup/SchemaMarkupServicePage";
 import WebDevelopmentPageMain from "@/components/Services/WebDevelopment/WebDevelopmentPageMain";
 import { MetadataWebDevelopment } from "@/metadata/main/MetadataWebDevelopment";
+import { withLocalizedAlternates } from "@/lib/metadata/alternates";
 import { getPlatformTechnologyContent } from "@/lib/platform-content/technologyContent";
 
 export async function generateMetadata(): Promise<Metadata> {
   const headersList = await headers();
   const lang = headersList.get("x-locale") || "en";
-  return MetadataWebDevelopment[lang];
+  return withLocalizedAlternates(
+    MetadataWebDevelopment[lang] ?? MetadataWebDevelopment.en,
+    "/technology/",
+  );
 }
 
 export default async function Page() {

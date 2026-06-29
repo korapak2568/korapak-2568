@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-03",
+    "order": 3,
+    "slug": "post-scarcity-foundations",
+    "title": "Nền móng hậu khan hiếm",
+    "subtitle": "Những hệ thống giúp sự dồi dào trở nên thực tế, phổ quát và ổn định",
+    "description": "Kỷ nguyên này thiết lập nền móng của nền văn minh hậu khan hiếm thông qua các dịch vụ phổ quát, năng lượng nhiệt hạch, y học tiên tiến, nước sạch, nhà ở chi phí thấp, vật liệu tuần hoàn và hạ tầng công cộng do AI quản lý.",
+    "timeframe": {
+      "label": "Nền móng hậu khan hiếm",
+      "startYear": 2055,
+      "endYear": 2085,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "society",
+      "mood": "optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Kỷ nguyên 3: Nền móng hậu khan hiếm | Lộ trình Văn minh Tương lai",
+      "metaDescription": "Khám phá nền móng hậu khan hiếm gồm dịch vụ cơ bản phổ quát, năng lượng nhiệt hạch, nước sạch, logistics thực phẩm do AI quản lý, robot chăm sóc người cao tuổi, y học mã nguồn mở và nhà ở chi phí thấp.",
+      "keywords": [
+        "nền văn minh hậu khan hiếm",
+        "dịch vụ cơ bản phổ quát",
+        "năng lượng nhiệt hạch",
+        "y tế tương lai",
+        "lộ trình văn minh tương lai"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-03-universal-basic-services-replace-traditional-welfare",
+      "order": 1,
+      "slug": "universal-basic-services-replace-traditional-welfare",
+      "title": "Dịch vụ cơ bản phổ quát thay thế phúc lợi truyền thống",
+      "shortTitle": "Dịch vụ cơ bản phổ quát",
+      "category": "Society & Economy",
+      "description": "Thực phẩm, hỗ trợ nhà ở, chăm sóc sức khỏe, giáo dục, giao thông, kết nối và các tiện ích thiết yếu ngày càng trở thành hạ tầng công cộng được bảo đảm thay vì các chương trình phúc lợi rời rạc.",
+      "layerId": "society",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "social-systems"
+      ],
+      "maturity": "policy-transition",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Nhu cầu sinh tồn cơ bản ít phụ thuộc hơn vào thu nhập, giảm bất ổn và cho phép nhiều người hơn theo đuổi giáo dục, chăm sóc, sáng tạo và tham gia đời sống công dân.",
+      "signals": [
+        "Các chính phủ chuyển từ phúc lợi chỉ bằng tiền mặt sang bảo đảm dịch vụ",
+        "Hệ thống AI điều phối điều kiện hưởng, phân phối và phòng chống gian lận",
+        "Ngân sách hạ tầng công cộng ưu tiên khả năng tiếp cận thực phẩm, y tế, nhà ở và kết nối"
+      ],
+      "implications": [
+        "Giảm nghèo cùng cực và bất ổn hộ gia đình",
+        "Những tranh luận mới về quyền, khả năng tiếp cận và danh tính số công cộng",
+        "Định nghĩa rộng hơn về quyền công dân và an toàn xã hội"
+      ],
+      "image": {
+        "alt": "Trung tâm dịch vụ cơ bản phổ quát cung cấp thực phẩm, chăm sóc sức khỏe, hỗ trợ nhà ở, giáo dục và kết nối",
+        "prompts": [
+          "Clean futuristic public service hub offering food, healthcare, housing support, education, and connectivity access, diverse families receiving help calmly, optimistic documentary realism, 16:9",
+          "City neighborhood with universal basic service centers integrated into transit, clinics, schools, and food distribution, clean post-scarcity future, 16:9",
+          "AI-assisted public services dashboard coordinating housing, food, healthcare, and transport access across a modern city, realistic civic technology, 16:9",
+          "Families using seamless essential services through a welcoming civic center, warm hopeful atmosphere, near-future documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-universal-basic-services-replace-traditional-welfare.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-universal-basic-services-replace-traditional-welfare.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-managed-food-logistics-eliminates-most-food-waste",
+      "order": 2,
+      "slug": "ai-managed-food-logistics-eliminates-most-food-waste",
+      "title": "Logistics thực phẩm do AI quản lý loại bỏ phần lớn lãng phí thực phẩm",
+      "shortTitle": "Logistics thực phẩm AI",
+      "category": "AI & Computing",
+      "description": "Chuỗi cung ứng do AI quản lý dự báo nhu cầu, điều phối thực phẩm dư thừa, tối ưu lưu trữ và phối hợp phân phối địa phương để phần lớn thực phẩm còn ăn được không còn bị lãng phí.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "food-systems",
+        "logistics"
+      ],
+      "maturity": "global-optimization",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Sự dồi dào thực phẩm trở nên dễ chia sẻ hơn, giảm nạn đói, phát thải và áp lực nông nghiệp mà không cần tăng sản lượng theo cùng tỷ lệ.",
+      "signals": [
+        "Mạng lưới tồn kho thực phẩm thời gian thực kết nối nông trại, nhà bán lẻ, bếp ăn và hệ thống cứu trợ",
+        "Mô hình dự báo nhu cầu giảm sản xuất dư thừa và hư hỏng",
+        "Tự động hóa chuỗi lạnh nâng cao độ tin cậy ở các khu vực dễ tổn thương"
+      ],
+      "implications": [
+        "Giảm thất thoát thực phẩm trên toàn chuỗi cung ứng",
+        "Phân phối thực phẩm khẩn cấp bền bỉ hơn",
+        "Giảm phát thải từ sản xuất bị lãng phí"
+      ],
+      "image": {
+        "alt": "Mạng logistics thực phẩm do AI quản lý điều phối thực phẩm dư thừa trước khi bị lãng phí",
+        "prompts": [
+          "AI-managed food logistics command center routing surplus food from farms and supermarkets to community kitchens, clean futuristic documentary, 16:9",
+          "Autonomous refrigerated delivery fleet moving fresh food through a city based on real-time demand predictions, optimistic food system future, 16:9",
+          "Warehouse robots sorting produce to prevent spoilage, transparent AI dashboards showing waste reduction, realistic near future, 16:9",
+          "Community food hub receiving perfectly timed deliveries from AI-optimized supply chains, hopeful post-scarcity society, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-clean-water-access-reaches-nearly-all-humans",
+      "order": 3,
+      "slug": "clean-water-access-reaches-nearly-all-humans",
+      "title": "Khả năng tiếp cận nước sạch đến gần như toàn bộ nhân loại",
+      "shortTitle": "Nước sạch phổ quát",
+      "category": "Environment",
+      "description": "Công nghệ lọc tiên tiến, khử mặn, phát hiện rò rỉ, phân phối thông minh và hệ thống xử lý địa phương chi phí thấp mang nước an toàn đến gần như mọi cộng đồng.",
+      "layerId": "civilization",
+      "domains": [
+        "water",
+        "public-health",
+        "infrastructure"
+      ],
+      "maturity": "near-universal-access",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Một trong những thách thức sinh tồn lâu đời nhất của nhân loại trở nên gần như có thể giải quyết, cải thiện sức khỏe, giáo dục, bình đẳng giới và ổn định khu vực.",
+      "signals": [
+        "Hệ thống lọc tiêu thụ ít năng lượng được mở rộng ở cả nông thôn và đô thị",
+        "Lưới nước thông minh phát hiện ô nhiễm và rò rỉ tức thì",
+        "Tài chính toàn cầu coi tiếp cận nước là hạ tầng cốt lõi của văn minh"
+      ],
+      "implications": [
+        "Giảm bệnh truyền qua nước",
+        "Các cộng đồng vùng khô hạn ổn định hơn",
+        "Chuẩn quản trị mới coi nước là quyền phổ quát"
+      ],
+      "image": {
+        "alt": "Cộng đồng nhận nước sạch an toàn từ hạ tầng lọc tiên tiến",
+        "prompts": [
+          "Dry-region community receiving clean water from advanced solar-fusion assisted purification infrastructure, hopeful documentary realism, 16:9",
+          "Smart water grid control room monitoring safe water access across cities and rural communities, clean futuristic civic technology, 16:9",
+          "Children and families using a beautiful public clean water station in a restored village, optimistic post-scarcity future, 16:9",
+          "Advanced water purification plant beside a river with transparent tanks and environmental sensors, realistic infrastructure scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-clean-water-access-reaches-nearly-all-humans.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-clean-water-access-reaches-nearly-all-humans.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-desalination-network-powered-by-fusion-begins-operation",
+      "order": 4,
+      "slug": "global-desalination-network-powered-by-fusion-begins-operation",
+      "title": "Mạng khử mặn toàn cầu chạy bằng nhiệt hạch bắt đầu hoạt động",
+      "shortTitle": "Mạng khử mặn nhiệt hạch",
+      "category": "Energy",
+      "description": "Năng lượng nhiệt hạch cho phép các hành lang khử mặn quy mô lớn tạo ra nguồn nước ngọt dồi dào, giảm phát thải và giảm áp lực lên sông ngòi cùng tầng chứa nước.",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "water",
+        "climate-adaptation"
+      ],
+      "maturity": "network-launch",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Các vùng ven biển trở thành nơi xuất khẩu nước ngọt, giúp ổn định nông nghiệp, đô thị và những vùng khô hạn dễ tổn thương trước khí hậu.",
+      "signals": [
+        "Nhà máy nhiệt hạch tạo năng lượng đầu ra lớn và ổn định cho khử mặn",
+        "Đường ống nước và hệ thống lưu trữ liên vùng mở rộng",
+        "Nước muối sau khử mặn được xử lý bằng kiểm soát môi trường nghiêm ngặt hơn"
+      ],
+      "implications": [
+        "An ninh nước cao hơn cho vùng khô hạn",
+        "Giảm nguy cơ xung đột về lưu vực nước ngọt",
+        "Các liên kết hạ tầng mới giữa hệ thống năng lượng và nước"
+      ],
+      "image": {
+        "alt": "Siêu cấu trúc khử mặn chạy bằng nhiệt hạch cung cấp nước ngọt cho vùng khô hạn",
+        "prompts": [
+          "Fusion-powered desalination megastructure on a bright coastline sending freshwater through pipelines to dry inland regions, clean futuristic documentary, 16:9",
+          "Control room for a global desalination network powered by fusion energy, world map of freshwater flows, optimistic infrastructure future, 16:9",
+          "Coastal fusion plant beside advanced desalination towers with clean water reservoirs and restored desert agriculture beyond, 16:9",
+          "Engineers monitoring eco-safe desalination and brine processing systems near a blue ocean, realistic climate-adaptation technology, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-education-becomes-fully-personalized-and-free",
+      "order": 5,
+      "slug": "education-becomes-fully-personalized-and-free",
+      "title": "Giáo dục trở nên hoàn toàn cá nhân hóa và miễn phí",
+      "shortTitle": "Giáo dục cá nhân hóa miễn phí",
+      "category": "Society & Economy",
+      "description": "Gia sư AI, chương trình học thích ứng, mô phỏng nhập vai và mạng lưới học tập công cộng giúp giáo dục chất lượng cao có sẵn cho mọi người ở mọi độ tuổi.",
+      "layerId": "society",
+      "domains": [
+        "education",
+        "artificial-intelligence",
+        "public-services"
+      ],
+      "maturity": "mainstream-public-access",
+      "timeframe": {
+        "startYear": 2055,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Học tập trở thành năng lực phổ quát suốt đời, thu hẹp khoảng cách cơ hội và giúp con người thích nghi với thay đổi công nghệ, xã hội nhanh chóng.",
+      "signals": [
+        "Gia sư AI cá nhân hóa bài học theo tốc độ và mục tiêu của từng người học",
+        "Hệ thống chứng nhận công nhận kỹ năng từ nền tảng học tập mở",
+        "Giáo dục nhập vai trở nên khả dụng bên ngoài các cơ sở tinh hoa"
+      ],
+      "implications": [
+        "Giảm bất bình đẳng giáo dục",
+        "Tái đào tạo lực lượng lao động nhanh hơn",
+        "Nhiều con đường đa dạng hơn vào nghiên cứu, nghệ thuật và khởi nghiệp"
+      ],
+      "image": {
+        "alt": "Trẻ em và người lớn học tập qua giáo dục AI cá nhân hóa miễn phí",
+        "prompts": [
+          "Children and adults learning through free personalized AI education in a bright community learning center, immersive holographic lessons, optimistic documentary realism, 16:9",
+          "Personal AI tutor guiding a student through adaptive science simulations at home, warm human-centered future, 16:9",
+          "Global public education platform connecting learners from many countries through translation and immersive classrooms, clean futuristic style, 16:9",
+          "Elderly learner and young student studying together with personalized AI guidance, lifelong learning society, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-education-becomes-fully-personalized-and-free.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-education-becomes-fully-personalized-and-free.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises",
+      "order": 6,
+      "slug": "personal-ai-financial-advisors-prevent-most-household-debt-crises",
+      "title": "Cố vấn tài chính AI cá nhân ngăn phần lớn khủng hoảng nợ hộ gia đình",
+      "shortTitle": "Cố vấn tài chính AI",
+      "category": "AI & Computing",
+      "description": "Hệ thống tài chính AI cá nhân phát hiện rủi ro sớm, thương lượng hóa đơn, tối ưu kế hoạch trả nợ và hướng dẫn hộ gia đình tránh vòng xoáy nợ trước khi thành khủng hoảng.",
+      "layerId": "society",
+      "domains": [
+        "artificial-intelligence",
+        "finance",
+        "consumer-protection"
+      ],
+      "maturity": "regulated-mainstream",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2072
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Bất ổn tài chính trở nên dễ phòng ngừa hơn, giúp hộ gia đình được bảo vệ tốt hơn trước cho vay bóc lột, cú sốc bất ngờ và lập kế hoạch yếu kém.",
+      "signals": [
+        "Cố vấn AI trở thành công cụ ủy thác được quản lý",
+        "Ngân hàng tích hợp hệ thống cảnh báo sớm để ngăn rủi ro nợ",
+        "Hộ gia đình tự động hóa ngân sách, thương lượng và quyết định tiết kiệm"
+      ],
+      "implications": [
+        "Ít khủng hoảng nợ và phá sản hơn",
+        "Tài chính cá nhân minh bạch hơn",
+        "Quy định chặt chẽ hơn với ảnh hưởng tài chính của AI"
+      ],
+      "image": {
+        "alt": "Cố vấn tài chính AI cá nhân giúp một hộ gia đình tránh khủng hoảng nợ",
+        "prompts": [
+          "Family reviewing a personal AI financial advisor dashboard that prevents debt crisis, calm home scene, clean realistic future, 16:9",
+          "AI finance assistant negotiating bills and repayment plans through a secure transparent interface, human-centered civic technology, 16:9",
+          "Community financial clinic using regulated AI advisors to protect households from debt spirals, optimistic post-scarcity society, 16:9",
+          "Close-up of privacy-preserving AI budget system warning a household before debt risk becomes severe, clean interface, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-robotic-eldercare-becomes-widely-available",
+      "order": 7,
+      "slug": "robotic-eldercare-becomes-widely-available",
+      "title": "Chăm sóc người cao tuổi bằng robot trở nên phổ biến",
+      "shortTitle": "Chăm sóc người cao tuổi bằng robot",
+      "category": "Robotics",
+      "description": "Robot hỗ trợ, cảm biến gia đình, y tế từ xa và điều phối chăm sóc bằng AI giúp người cao tuổi về vận động, thuốc men, bầu bạn và ứng phó khẩn cấp.",
+      "layerId": "society",
+      "domains": [
+        "robotics",
+        "healthcare",
+        "eldercare"
+      ],
+      "maturity": "wide-adoption",
+      "timeframe": {
+        "startYear": 2056,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Các xã hội già hóa trở nên bền vững hơn trong khi người cao tuổi có thêm độc lập, an toàn và phẩm giá tại nhà.",
+      "signals": [
+        "Robot chăm sóc tại nhà trở nên đáng tin cậy và vừa túi tiền",
+        "Hệ thống y tế chi trả cho robot hỗ trợ",
+        "Điều phối viên chăm sóc AI kết nối gia đình, y tá, bác sĩ và dịch vụ khẩn cấp"
+      ],
+      "implications": [
+        "Giảm áp lực cho nhân viên chăm sóc",
+        "Sống độc lập an toàn hơn",
+        "Chuẩn đạo đức mới cho robot chăm sóc cảm xúc và thể chất"
+      ],
+      "image": {
+        "alt": "Robot trợ lý chăm sóc người cao tuổi giúp một người lớn tuổi tại nhà",
+        "prompts": [
+          "Gentle robotic eldercare assistant helping an older adult walk safely at home, warm realistic documentary style, 16:9",
+          "Smart eldercare apartment with assistive robot, medication reminders, and remote nurse support, clean hopeful future, 16:9",
+          "Community eldercare center where robots support mobility, meals, and companionship under human supervision, optimistic society, 16:9",
+          "Close-up of eldercare robot offering a glass of water while health sensors quietly monitor safety, respectful human-centered scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-robotic-eldercare-becomes-widely-available.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-robotic-eldercare-becomes-widely-available.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-construction-cost-of-housing-falls-by-80",
+      "order": 8,
+      "slug": "construction-cost-of-housing-falls-by-80",
+      "title": "Chi phí xây dựng nhà ở giảm 80%",
+      "shortTitle": "Nhà ở chi phí cực thấp",
+      "category": "Materials & Manufacturing",
+      "description": "Robot, sản xuất mô-đun, vật liệu tiên tiến, thiết kế bằng AI và cấp phép tinh gọn làm giảm mạnh chi phí và thời gian cần thiết để xây nhà an toàn.",
+      "layerId": "civilization",
+      "domains": [
+        "housing",
+        "construction",
+        "automation"
+      ],
+      "maturity": "mass-deployment",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Khan hiếm nhà ở trở nên dễ giải quyết hơn, thay đổi quy hoạch đô thị, di cư, hình thành gia đình và ý nghĩa của an ninh kinh tế.",
+      "signals": [
+        "Hệ thống xây dựng tự động xây khu dân cư ở quy mô lớn",
+        "Nhà máy mô-đun sản xuất cấu kiện nhà ở đạt chứng nhận",
+        "Các thành phố áp dụng cấp phép và quy hoạch sử dụng đất hỗ trợ bởi AI"
+      ],
+      "implications": [
+        "Giảm vô gia cư và áp lực nhà ở",
+        "Nhà ở phục hồi sau thảm họa nhanh hơn",
+        "Đảo lộn lớn trong kinh tế bất động sản"
+      ],
+      "image": {
+        "alt": "Hệ thống xây dựng tự động xây nhà ở chi phí cực thấp ở quy mô lớn",
+        "prompts": [
+          "Autonomous construction robots building beautiful low-cost housing neighborhood at scale, families moving in, optimistic documentary realism, 16:9",
+          "Modular housing factory producing safe affordable homes with robotic assembly lines, clean future infrastructure, 16:9",
+          "AI-designed housing district with efficient materials, green spaces, and rapid robotic construction, bright post-scarcity city, 16:9",
+          "Public housing project completed by autonomous builders with welcoming community spaces, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-construction-cost-of-housing-falls-by-80.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-construction-cost-of-housing-falls-by-80.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-courts-resolve-minor-legal-disputes-instantly",
+      "order": 9,
+      "slug": "ai-courts-resolve-minor-legal-disputes-instantly",
+      "title": "Tòa án AI giải quyết tranh chấp pháp lý nhỏ gần như tức thì",
+      "shortTitle": "Tòa án AI cho vụ việc nhỏ",
+      "category": "AI & Computing",
+      "description": "Các hệ thống tranh chấp AI được phê duyệt xử lý khiếu kiện nhỏ, tiền phạt, hợp đồng và xung đột dân sự thường nhật nhanh chóng, với lộ trình kháng nghị lên con người cho vụ việc phức tạp hoặc còn tranh cãi.",
+      "layerId": "society",
+      "domains": [
+        "law",
+        "artificial-intelligence",
+        "public-services"
+      ],
+      "maturity": "regulated-automation",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2075
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Ma sát pháp lý thường nhật được giải quyết nhanh hơn và rẻ hơn, tăng niềm tin vào hệ thống công khi minh bạch và quyền kháng nghị được bảo vệ.",
+      "signals": [
+        "Tòa án chứng nhận mô hình AI giải quyết tranh chấp",
+        "Các vụ nhỏ đi qua quy trình bằng chứng số và hòa giải",
+        "Thẩm phán con người giám sát ngoại lệ, kháng nghị và vụ việc nhạy cảm về quyền"
+      ],
+      "implications": [
+        "Giảm tồn đọng hồ sơ tòa án",
+        "Chi phí thấp hơn cho tranh chấp nhỏ",
+        "Nhu cầu lớn hơn về kiểm toán thiên lệch và minh bạch thủ tục"
+      ],
+      "image": {
+        "alt": "Hệ thống tòa án AI giải quyết tranh chấp pháp lý nhỏ với sự giám sát của con người",
+        "prompts": [
+          "Civic AI court kiosk helping citizens resolve minor disputes instantly with transparent evidence review and human appeal option, clean documentary realism, 16:9",
+          "Modern digital courtroom where AI mediation resolves small claims while human legal officers supervise fairness, optimistic civic technology, 16:9",
+          "People reviewing a clear AI dispute-resolution decision in a public service center, calm and accessible legal future, 16:9",
+          "Transparent legal AI dashboard comparing evidence, rights, and settlement options for minor civil dispute, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-climate-refugee-resettlement-system-becomes-globally-coordinated",
+      "order": 10,
+      "slug": "climate-refugee-resettlement-system-becomes-globally-coordinated",
+      "title": "Hệ thống tái định cư người tị nạn khí hậu được điều phối toàn cầu",
+      "shortTitle": "Hệ thống tái định cư khí hậu",
+      "category": "Environment",
+      "description": "Các hệ thống quốc tế điều phối nhà ở, quy chế pháp lý, giáo dục, việc làm và hỗ trợ hạ tầng cho người phải di dời do tác động khí hậu.",
+      "layerId": "civilization",
+      "domains": [
+        "climate-adaptation",
+        "migration",
+        "governance"
+      ],
+      "maturity": "global-coordination",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Di cư khí hậu quy mô lớn trở nên nhân đạo và có kế hoạch hơn, giảm khủng hoảng nhân đạo và xung đột quanh vấn đề di dời.",
+      "signals": [
+        "Dự báo di dời do khí hậu cải thiện trước nhiều năm",
+        "Các vùng tiếp nhận được đầu tư hạ tầng trước khi làn sóng di cư đạt đỉnh",
+        "Khung pháp lý quốc tế công nhận quyền tái định cư do khí hậu"
+      ],
+      "implications": [
+        "Lộ trình di cư an toàn hơn",
+        "Giảm nguy cơ khủng hoảng di dời mất kiểm soát",
+        "Các mô hình mới về trách nhiệm toàn cầu chung"
+      ],
+      "image": {
+        "alt": "Hệ thống tái định cư người tị nạn khí hậu được điều phối toàn cầu hỗ trợ các gia đình phải di dời",
+        "prompts": [
+          "Globally coordinated climate resettlement center helping displaced families access housing, education, and jobs, hopeful documentary realism, 16:9",
+          "AI-assisted migration planning dashboard showing safe relocation routes and prepared host cities, clean civic technology, 16:9",
+          "New climate-adaptive neighborhood welcoming resettled families with schools, clinics, and transit, optimistic civilization scene, 16:9",
+          "International coordination room managing climate refugee support with maps, infrastructure plans, and humanitarian teams, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse",
+      "order": 11,
+      "slug": "fusion-powered-recycling-plants-achieve-near-total-material-reuse",
+      "title": "Nhà máy tái chế chạy bằng nhiệt hạch đạt tái sử dụng vật liệu gần như toàn phần",
+      "shortTitle": "Nhà máy tái chế nhiệt hạch",
+      "category": "Energy",
+      "description": "Các nhà máy tái chế năng lượng cao chạy bằng nhiệt hạch phân loại, tách, nung chảy và tái tạo vật liệu ở quy mô lớn, giảm nhu cầu khai thác nguyên sinh.",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "recycling",
+        "circular-economy"
+      ],
+      "maturity": "industrial-scale",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Sự khan hiếm vật liệu và rác thải suy giảm khi đô thị và công nghiệp bắt đầu vận hành giống các hệ sinh thái tuần hoàn hơn.",
+      "signals": [
+        "Năng lượng nhiệt hạch hạ chi phí tách vật liệu tiên tiến",
+        "Phân loại bằng robot đạt độ tinh khiết cao trên nhiều dòng chất thải",
+        "Nhà sản xuất thiết kế sản phẩm để thu hồi và tái sử dụng toàn phần"
+      ],
+      "implications": [
+        "Giảm áp lực khai khoáng",
+        "Giảm sử dụng bãi chôn lấp",
+        "Các ngành sản xuất tuần hoàn mới"
+      ],
+      "image": {
+        "alt": "Nhà máy tái chế chạy bằng nhiệt hạch chuyển rác thải thành nguyên liệu thô có thể tái sử dụng",
+        "prompts": [
+          "Fusion-powered recycling megafactory converting urban waste into clean reusable raw materials, bright industrial documentary realism, 16:9",
+          "Robotic sorting lines and high-energy material separation systems inside a circular economy plant, clean futuristic infrastructure, 16:9",
+          "City waste flowing into a fusion recycling facility and emerging as standardized material blocks, optimistic post-scarcity future, 16:9",
+          "Engineers monitoring near-total material reuse in an advanced recycling control room, transparent dashboards, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-synthetic-fertilizer-production-becomes-carbon-negative",
+      "order": 12,
+      "slug": "synthetic-fertilizer-production-becomes-carbon-negative",
+      "title": "Sản xuất phân bón tổng hợp trở thành carbon âm",
+      "shortTitle": "Phân bón carbon âm",
+      "category": "Materials & Manufacturing",
+      "description": "Sản xuất phân bón chuyển sang năng lượng sạch, đầu vào carbon thu giữ, hệ thống nitơ sinh học và hóa học phát thải thấp, loại bỏ nhiều carbon hơn lượng phát ra.",
+      "layerId": "technology",
+      "domains": [
+        "agriculture",
+        "climate-technology",
+        "chemistry"
+      ],
+      "maturity": "industrial-transition",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2076
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Nông nghiệp ít gây hại khí hậu hơn trong khi vẫn duy trì năng suất cao cho một nền văn minh ngày càng đô thị hóa và dân số tăng.",
+      "signals": [
+        "Amoniac sạch và hệ thống nitơ thay thế quy trình phụ thuộc nhiên liệu hóa thạch",
+        "Thu giữ carbon tích hợp vào sản xuất phân bón",
+        "Nông dân áp dụng bón phân chính xác để giảm dòng chảy ô nhiễm"
+      ],
+      "implications": [
+        "Giảm phát thải nông nghiệp",
+        "Sản xuất thực phẩm bền vững hơn",
+        "Đường nước sạch hơn nhờ sử dụng dinh dưỡng thông minh"
+      ],
+      "image": {
+        "alt": "Nhà máy phân bón tổng hợp carbon âm hỗ trợ nông nghiệp bền vững",
+        "prompts": [
+          "Carbon-negative fertilizer production facility beside sustainable farms, clean chemistry infrastructure, optimistic documentary realism, 16:9",
+          "Precision agriculture drones applying low-emission fertilizer only where needed, bright farm landscape, realistic future, 16:9",
+          "Chemical engineers monitoring clean ammonia and carbon capture systems for fertilizer production, modern industrial lab, 16:9",
+          "Farmers receiving sustainable fertilizer from a clean-energy manufacturing hub, resilient food future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-fully-autonomous-city-district-opens",
+      "order": 13,
+      "slug": "first-fully-autonomous-city-district-opens",
+      "title": "Khu đô thị tự vận hành hoàn toàn đầu tiên mở cửa",
+      "shortTitle": "Khu đô thị tự vận hành",
+      "category": "Civilization",
+      "description": "Một khu đô thị vận hành giao thông, tiện ích, bảo trì, giám sát an toàn, hệ thống rác thải và dịch vụ công thông qua hạ tầng AI và robot được điều phối.",
+      "layerId": "civilization",
+      "domains": [
+        "smart-cities",
+        "artificial-intelligence",
+        "urban-infrastructure"
+      ],
+      "maturity": "district-scale-deployment",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Thành phố trở nên thích ứng, hiệu quả và phản hồi nhanh hơn, đồng thời đặt ra câu hỏi mới về quản trị, trách nhiệm giải trình và kiểm soát công cộng.",
+      "signals": [
+        "Giao thông, tiện ích, rác thải và an toàn tự động tích hợp vào một nền tảng cấp quận",
+        "Robot xử lý bảo trì trước khi hư hỏng trở nên rõ ràng",
+        "Cư dân bỏ phiếu về quy tắc vận hành AI công cộng"
+      ],
+      "implications": [
+        "Chi phí vận hành dịch vụ đô thị thấp hơn",
+        "Phản ứng nhanh hơn với vấn đề địa phương",
+        "Mô hình dân chủ mới cho hạ tầng do AI quản lý"
+      ],
+      "image": {
+        "alt": "Khu đô thị tự vận hành hoàn toàn với giao thông, tiện ích và robot do AI quản lý",
+        "prompts": [
+          "First fully autonomous city district with AI-managed transit, utilities, waste systems, and maintenance robots, clean futuristic documentary realism, 16:9",
+          "Residents walking through a calm smart district where robots maintain streets and public systems operate seamlessly, optimistic urban future, 16:9",
+          "City operations center coordinating autonomous infrastructure across a self-running district, transparent dashboards, 16:9",
+          "Night view of an autonomous city district with quiet transport pods, clean energy systems, and responsive public services, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-fully-autonomous-city-district-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-fully-autonomous-city-district-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-disease-outbreak-prediction-network-prevents-pandemics",
+      "order": 14,
+      "slug": "global-disease-outbreak-prediction-network-prevents-pandemics",
+      "title": "Mạng dự báo bùng phát dịch bệnh toàn cầu ngăn ngừa đại dịch",
+      "shortTitle": "Mạng dự báo đại dịch",
+      "category": "AI & Computing",
+      "description": "Một mạng toàn cầu gồm cảm biến, phòng khám, giám sát bộ gen, dữ liệu môi trường và mô hình AI phát hiện rủi ro bùng phát đủ sớm để ngăn phần lớn đại dịch.",
+      "layerId": "technology",
+      "domains": [
+        "healthcare",
+        "public-health",
+        "artificial-intelligence"
+      ],
+      "maturity": "global-operational-network",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Nhân loại chuyển từ phản ứng với đại dịch sang phòng ngừa chúng, bảo vệ sinh mạng, nền kinh tế và niềm tin toàn cầu.",
+      "signals": [
+        "Dữ liệu nước thải, động vật hoang dã, phòng khám và du lịch đưa vào hệ thống cảnh báo sớm chung",
+        "Giám sát bộ gen phát hiện đột biến nguy hiểm nhanh hơn",
+        "Ứng phó y tế công cộng được kích hoạt trước khi lây lan mất kiểm soát"
+      ],
+      "implications": [
+        "Ít khủng hoảng bệnh dịch toàn cầu hơn",
+        "Can thiệp y tế có mục tiêu hơn và ít gây gián đoạn hơn",
+        "Tranh luận mới về quyền riêng tư và chủ quyền trong giám sát sinh học"
+      ],
+      "image": {
+        "alt": "Mạng dự báo bùng phát dịch bệnh toàn cầu ngăn đại dịch thông qua giám sát bằng AI",
+        "prompts": [
+          "Global disease outbreak prediction network control room with AI models, genomic alerts, and public health teams preventing pandemics, clean documentary realism, 16:9",
+          "Public health sensors, clinics, and genomic labs connected through a planetary early-warning dashboard, optimistic health infrastructure, 16:9",
+          "Scientists monitoring wastewater, wildlife, and hospital data for outbreak prevention, realistic future public health scene, 16:9",
+          "International health coordination center responding early to disease signals before pandemic spread, calm high-tech atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-open-source-medicine-libraries-become-available-worldwide",
+      "order": 15,
+      "slug": "open-source-medicine-libraries-become-available-worldwide",
+      "title": "Thư viện y học mã nguồn mở trở nên khả dụng trên toàn thế giới",
+      "shortTitle": "Y học mã nguồn mở",
+      "category": "Biology & Medicine",
+      "description": "Thiết kế thuốc đã xác minh, quy trình sản xuất, dữ liệu an toàn và tri thức điều trị được chia sẻ qua các thư viện mở toàn cầu cho sản xuất địa phương được phê duyệt.",
+      "layerId": "society",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "knowledge-access"
+      ],
+      "maturity": "global-knowledge-network",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Tiếp cận y tế cải thiện khi nút thắt tri thức giảm, cho phép nhiều khu vực sản xuất liệu pháp thiết yếu an toàn tại địa phương.",
+      "signals": [
+        "Cơ quan quản lý chứng nhận quy trình y học mở",
+        "Các trung tâm sản xuất sinh học địa phương mở rộng",
+        "Thư viện thuốc toàn cầu bao gồm dữ liệu an toàn, liều dùng và kiểm soát chất lượng"
+      ],
+      "implications": [
+        "Giảm bất bình đẳng tiếp cận thuốc",
+        "Phản ứng nhanh hơn với nhu cầu y tế khu vực",
+        "Mô hình sở hữu trí tuệ mới cho y tế công cộng"
+      ],
+      "image": {
+        "alt": "Thư viện y học mã nguồn mở kết nối với các phòng khám sản xuất sinh học địa phương trên toàn thế giới",
+        "prompts": [
+          "Open-source medicine library interface connected to local biomanufacturing clinic, doctors and technicians reviewing verified treatment protocols, optimistic documentary realism, 16:9",
+          "Community medical manufacturing hub producing approved medicines from open global protocols, clean biotech future, 16:9",
+          "Global map of open-source medicine access with clinics downloading verified therapies, clean healthcare technology, 16:9",
+          "Scientists contributing medicine designs to a shared public health library, transparent data screens, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-full-limb-replacement-using-cloned-cells-becomes-routine",
+      "order": 16,
+      "slug": "full-limb-replacement-using-cloned-cells-becomes-routine",
+      "title": "Thay thế toàn bộ chi bằng tế bào nhân bản trở thành điều trị thường quy",
+      "shortTitle": "Thay chi bằng tế bào nhân bản",
+      "category": "Biology & Medicine",
+      "description": "Y học tái tạo, mô nhân bản, giàn mạch máu, tích hợp thần kinh và robot phục hồi chức năng biến thay thế chi sinh học thành quy trình thường quy cho chấn thương nặng.",
+      "layerId": "technology",
+      "domains": [
+        "regenerative-medicine",
+        "biotechnology",
+        "healthcare"
+      ],
+      "maturity": "routine-clinical-care",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Khuyết tật thể chất nghiêm trọng do mất chi ngày càng có thể đảo ngược, biến đổi chăm sóc chấn thương, phục hồi chức năng và năng lực con người.",
+      "signals": [
+        "Mô nhân bản tích hợp với dây thần kinh và mạch máu",
+        "Trung tâm phẫu thuật tái tạo mở rộng vượt ngoài bệnh viện tinh hoa",
+        "Robot phục hồi chức năng tăng tốc khôi phục vận động"
+      ],
+      "implications": [
+        "Phục hồi tốt hơn sau chấn thương nặng",
+        "Chuẩn mới về danh tính, đồng thuận và phục hồi cơ thể",
+        "Giảm gánh nặng suốt đời do mất chi"
+      ],
+      "image": {
+        "alt": "Phòng khám y học tái tạo thay thế chi bị mất bằng tế bào nhân bản",
+        "prompts": [
+          "Advanced regenerative medicine clinic growing a replacement limb from cloned cells in a sterile bioreactor, respectful medical documentary realism, 16:9",
+          "Patient learning to move a regenerated biological limb with support from doctors and rehabilitation robots, hopeful clinical scene, 16:9",
+          "Surgeons and AI systems integrating nerves and blood vessels for cloned limb replacement, clean future medicine, 16:9",
+          "Regenerative tissue lab with vascular scaffolds and cloned limb structures under careful monitoring, realistic biotech atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases",
+      "order": 17,
+      "slug": "gene-therapy-eliminates-most-hereditary-genetic-diseases",
+      "title": "Liệu pháp gene loại bỏ phần lớn bệnh di truyền",
+      "shortTitle": "Liệu pháp bệnh di truyền",
+      "category": "Biology & Medicine",
+      "description": "Liệu pháp gene an toàn và sàng lọc sớm loại bỏ hoặc ngăn ngừa phần lớn bệnh di truyền trước khi chúng gây hại suốt đời.",
+      "layerId": "technology",
+      "domains": [
+        "gene-therapy",
+        "medicine",
+        "biotechnology"
+      ],
+      "maturity": "preventive-standard",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Các gia đình đối mặt với ít gánh nặng bệnh di truyền hơn, trong khi hệ thống y tế chuyển từ điều trị mãn tính sang phòng ngừa sớm.",
+      "signals": [
+        "Liệu pháp chỉnh sửa gene chứng minh độ bền và an toàn trên nhiều bệnh lý",
+        "Sàng lọc dân số phát hiện sớm rủi ro di truyền có thể điều trị",
+        "Cơ quan quản lý xác định ranh giới nghiêm ngặt giữa trị liệu và tăng cường"
+      ],
+      "implications": [
+        "Giảm đau khổ do bệnh di truyền",
+        "Giảm gánh nặng y tế dài hạn",
+        "Quản trị đạo đức lớn quanh di truyền người"
+      ],
+      "image": {
+        "alt": "Phòng khám liệu pháp gene ngăn ngừa bệnh di truyền",
+        "prompts": [
+          "Gene therapy clinic where doctors review safe hereditary disease prevention with families, clean hopeful medical future, 16:9",
+          "Advanced biotechnology lab preparing precise gene therapy for inherited disease, realistic documentary style, 16:9",
+          "AI-assisted genomic screening dashboard identifying treatable hereditary risks, respectful healthcare scene, 16:9",
+          "Public health center offering preventive gene therapy under strict ethical oversight, optimistic medical civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-operational-fusion-power-plant-becomes-commercially-stable",
+      "order": 18,
+      "slug": "first-operational-fusion-power-plant-becomes-commercially-stable",
+      "title": "Nhà máy điện nhiệt hạch vận hành đầu tiên đạt ổn định thương mại",
+      "shortTitle": "Nhà máy nhiệt hạch thương mại",
+      "category": "Energy",
+      "description": "Điện nhiệt hạch đạt vận hành thương mại đáng tin cậy, cung cấp năng lượng sạch dồi dào cho đô thị, công nghiệp, hệ thống nước và sản xuất tiên tiến.",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "infrastructure",
+        "climate-technology"
+      ],
+      "maturity": "commercial-stability",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Sự dồi dào năng lượng tăng tốc các hệ thống hậu khan hiếm bằng cách hạ chi phí nước, vật liệu, sản xuất, giao thông và phục hồi khí hậu.",
+      "signals": [
+        "Nhà máy nhiệt hạch vận hành với thời gian hoạt động cao và sản lượng dự báo được",
+        "Nhà vận hành lưới điện tích hợp nhiệt hạch vào kế hoạch phụ tải nền",
+        "Người dùng công nghiệp ký hợp đồng năng lượng sạch dài hạn"
+      ],
+      "implications": [
+        "Chi phí năng lượng sạch thấp hơn",
+        "Điện khí hóa công nghiệp nặng nhanh hơn",
+        "Địa chính trị năng lượng mới xoay quanh hạ tầng nhiệt hạch"
+      ],
+      "image": {
+        "alt": "Nhà máy điện nhiệt hạch ổn định thương mại đầu tiên cấp năng lượng sạch cho thành phố",
+        "prompts": [
+          "First commercially stable fusion power plant glowing softly beside a clean future city, optimistic energy infrastructure documentary, 16:9",
+          "Fusion control room with engineers monitoring reliable commercial output and grid stability, clean high-tech realism, 16:9",
+          "City skyline powered by a modern fusion plant with clean water and transport systems nearby, post-scarcity foundation, 16:9",
+          "Industrial district using abundant fusion energy for clean manufacturing, bright realistic future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-peace-summit-establishes-the-empathy-interface-protocol",
+      "order": 19,
+      "slug": "global-peace-summit-establishes-the-empathy-interface-protocol",
+      "title": "Hội nghị Hòa bình Toàn cầu thiết lập Giao thức Giao diện Đồng cảm",
+      "shortTitle": "Giao thức Giao diện Đồng cảm",
+      "category": "Civilization",
+      "description": "Lãnh đạo thế giới, nhà khoa học, nhà hòa giải và xã hội dân sự thiết lập các quy tắc đạo đức cho giao diện đồng cảm giúp con người hiểu trải nghiệm giữa các nền văn hóa và xung đột.",
+      "layerId": "society",
+      "domains": [
+        "governance",
+        "neurotechnology",
+        "peacebuilding"
+      ],
+      "maturity": "global-framework",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2085
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Ngoại giao có công cụ mới để giảm phi nhân hóa, dù cần biện pháp bảo vệ nghiêm ngặt để giữ quyền tự chủ, đồng thuận và riêng tư cảm xúc.",
+      "signals": [
+        "Nghiên cứu giao diện đồng cảm trở nên đo lường và kiểm toán được",
+        "Tổ chức xây dựng hòa bình thử nghiệm công cụ chia sẻ trải nghiệm dựa trên đồng thuận",
+        "Cơ quan quốc tế xác định quyền đối với dữ liệu cảm xúc và thần kinh"
+      ],
+      "implications": [
+        "Hình thức hòa giải xung đột mới",
+        "Quản trị đạo đức mạnh hơn cho công nghệ thần kinh",
+        "Khả năng giảm phân cực và thù địch giữa các nhóm"
+      ],
+      "image": {
+        "alt": "Hội nghị hòa bình toàn cầu thiết lập giao thức giao diện đồng cảm có đạo đức",
+        "prompts": [
+          "Global peace summit where leaders and citizens discuss an ethical empathy interface protocol, calm futuristic diplomacy hall, documentary realism, 16:9",
+          "Mediators using consent-based empathy interface tools to understand conflict experiences without coercion, hopeful civic future, 16:9",
+          "International neuroethics council reviewing emotional privacy and empathy technology safeguards, clean governance scene, 16:9",
+          "Symbolic gathering of diverse communities connected through transparent empathy interface visualization, optimistic human civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment",
+      "order": 20,
+      "slug": "atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment",
+      "title": "Máy làm sạch khí quyển chạy bằng nhiệt hạch bắt đầu triển khai quy mô lớn",
+      "shortTitle": "Máy làm sạch khí quyển nhiệt hạch",
+      "category": "Energy",
+      "description": "Các hệ thống làm sạch khí quyển quy mô lớn chạy bằng năng lượng nhiệt hạch dồi dào loại bỏ chất ô nhiễm, khí nhà kính dư thừa và aerosol có hại khỏi không khí.",
+      "layerId": "technology",
+      "domains": [
+        "climate-restoration",
+        "fusion-energy",
+        "atmospheric-engineering"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Sửa chữa khí hậu trở thành năng lực hành tinh chủ động, giúp phục hồi chất lượng không khí và ổn định các hệ thống môi trường dài hạn.",
+      "signals": [
+        "Năng lượng nhiệt hạch giúp xử lý không khí lưu lượng lớn có chi phí hợp lý",
+        "Giám sát khí quyển xác minh loại bỏ ô nhiễm và carbon",
+        "Hiệp ước khí hậu điều chỉnh triển khai và tác động khu vực"
+      ],
+      "implications": [
+        "Chất lượng không khí cải thiện",
+        "Năng lực loại bỏ carbon mở rộng",
+        "Quản trị toàn cầu mới cho công nghệ khí hậu quy mô hành tinh"
+      ],
+      "image": {
+        "alt": "Máy làm sạch khí quyển chạy bằng nhiệt hạch loại bỏ ô nhiễm khỏi bầu trời",
+        "prompts": [
+          "Fusion-powered atmospheric cleaners operating on the edge of a city, clear sky returning as pollution is removed, clean futuristic documentary, 16:9",
+          "Large climate restoration towers processing air with fusion energy, forests and city skyline in the distance, optimistic planetary repair, 16:9",
+          "Atmospheric engineering control room monitoring carbon removal and air quality across continents, realistic future infrastructure, 16:9",
+          "Massive but elegant air-cleaning structures in a restored industrial zone, bright hopeful climate technology, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-personal-life-managers-coordinate-daily-human-activities",
+      "order": 21,
+      "slug": "ai-personal-life-managers-coordinate-daily-human-activities",
+      "title": "Trình quản lý đời sống cá nhân AI điều phối hoạt động hằng ngày của con người",
+      "shortTitle": "Trình quản lý đời sống AI",
+      "category": "AI & Computing",
+      "description": "Trình quản lý đời sống cá nhân AI điều phối hoạt động hằng ngày của con người sử dụng AI như hạ tầng xã hội cho logistics, tài chính, pháp luật, phòng ngừa dịch bệnh, điều phối cá nhân, giáo dục và các hệ thống công cộng quy mô lớn.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Trình quản lý đời sống cá nhân AI điều phối hoạt động hằng ngày của con người trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Hệ thống AI điều phối các hoạt động xã hội và dịch vụ công phức tạp",
+        "Mô hình dự báo giảm lãng phí, chậm trễ, xung đột và rủi ro có thể phòng ngừa",
+        "Sự giám sát của con người chuyển sang chính sách, đạo đức và định hướng cấp cao"
+      ],
+      "implications": [
+        "Hệ thống công trở nên nhanh hơn và cá nhân hóa hơn",
+        "Điều phối quy mô lớn trở nên đáng tin cậy hơn",
+        "Công bằng phụ thuộc vào quản trị minh bạch và khả năng tiếp cận rộng rãi"
+      ],
+      "image": {
+        "alt": "Trình quản lý đời sống cá nhân AI điều phối hoạt động hằng ngày của con người",
+        "prompts": [
+          "aI Personal Life Managers Coordinate Daily Human Activities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Personal Life Managers Coordinate Daily Human Activities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Personal Life Managers Coordinate Daily Human Activities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Personal Life Managers Coordinate Daily Human Activities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fully-autonomous-agriculture-complexes-become-common",
+      "order": 22,
+      "slug": "fully-autonomous-agriculture-complexes-become-common",
+      "title": "Tổ hợp nông nghiệp tự động hoàn toàn trở nên phổ biến",
+      "shortTitle": "Tổ hợp nông nghiệp tự động",
+      "category": "Robotics",
+      "description": "Tổ hợp nông nghiệp tự động hoàn toàn trở nên phổ biến mở rộng lao động máy tự động vào chăm sóc, nông nghiệp, bảo trì đô thị, hỗ trợ gia đình và phục hồi biển ở quy mô hậu khan hiếm.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Tổ hợp nông nghiệp tự động hoàn toàn trở nên phổ biến trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các đội máy tự động thực hiện dịch vụ vật lý thiết yếu",
+        "Robot hoạt động trong nhà, nông trại, thành phố, đại dương và khu vực nguy hiểm",
+        "Bảo trì và phục hồi nhanh hơn, ít phụ thuộc vào lao động khan hiếm"
+      ],
+      "implications": [
+        "Lao động thể chất trở nên ít cần thiết hơn cho sự sinh tồn",
+        "Chăm sóc và hạ tầng trở nên sẵn có hơn",
+        "Công việc của con người chuyển sang vai trò sáng tạo, xã hội và giám sát"
+      ],
+      "image": {
+        "alt": "Tổ hợp nông nghiệp tự động hoàn toàn trở nên phổ biến",
+        "prompts": [
+          "fully Autonomous Agriculture Complexes Become Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing fully Autonomous Agriculture Complexes Become Common, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of fully Autonomous Agriculture Complexes Become Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating fully Autonomous Agriculture Complexes Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-household-service-robots-handle-most-domestic-tasks",
+      "order": 23,
+      "slug": "household-service-robots-handle-most-domestic-tasks",
+      "title": "Robot dịch vụ gia đình xử lý phần lớn việc nhà",
+      "shortTitle": "Robot dịch vụ gia đình",
+      "category": "Robotics",
+      "description": "Robot dịch vụ gia đình xử lý phần lớn việc nhà mở rộng lao động máy tự động vào chăm sóc, nông nghiệp, bảo trì đô thị, hỗ trợ gia đình và phục hồi biển ở quy mô hậu khan hiếm.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2073
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Robot dịch vụ gia đình xử lý phần lớn việc nhà trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các đội máy tự động thực hiện dịch vụ vật lý thiết yếu",
+        "Robot hoạt động trong nhà, nông trại, thành phố, đại dương và khu vực nguy hiểm",
+        "Bảo trì và phục hồi nhanh hơn, ít phụ thuộc vào lao động khan hiếm"
+      ],
+      "implications": [
+        "Lao động thể chất trở nên ít cần thiết hơn cho sự sinh tồn",
+        "Chăm sóc và hạ tầng trở nên sẵn có hơn",
+        "Công việc của con người chuyển sang vai trò sáng tạo, xã hội và giám sát"
+      ],
+      "image": {
+        "alt": "Robot dịch vụ gia đình xử lý phần lớn việc nhà",
+        "prompts": [
+          "household Service Robots Handle Most Domestic Tasks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing household Service Robots Handle Most Domestic Tasks, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of household Service Robots Handle Most Domestic Tasks, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating household Service Robots Handle Most Domestic Tasks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-household-service-robots-handle-most-domestic-tasks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-household-service-robots-handle-most-domestic-tasks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-autonomous-infrastructure-repair-robots-maintain-cities",
+      "order": 24,
+      "slug": "autonomous-infrastructure-repair-robots-maintain-cities",
+      "title": "Robot sửa chữa hạ tầng tự động bảo trì thành phố",
+      "shortTitle": "Robot sửa chữa hạ tầng tự động",
+      "category": "Robotics",
+      "description": "Robot sửa chữa hạ tầng tự động bảo trì thành phố mở rộng lao động máy tự động vào chăm sóc, nông nghiệp, bảo trì đô thị, hỗ trợ gia đình và phục hồi biển ở quy mô hậu khan hiếm.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2073
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Robot sửa chữa hạ tầng tự động bảo trì thành phố trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các đội máy tự động thực hiện dịch vụ vật lý thiết yếu",
+        "Robot hoạt động trong nhà, nông trại, thành phố, đại dương và khu vực nguy hiểm",
+        "Bảo trì và phục hồi nhanh hơn, ít phụ thuộc vào lao động khan hiếm"
+      ],
+      "implications": [
+        "Lao động thể chất trở nên ít cần thiết hơn cho sự sinh tồn",
+        "Chăm sóc và hạ tầng trở nên sẵn có hơn",
+        "Công việc của con người chuyển sang vai trò sáng tạo, xã hội và giám sát"
+      ],
+      "image": {
+        "alt": "Robot sửa chữa hạ tầng tự động bảo trì thành phố",
+        "prompts": [
+          "autonomous Infrastructure Repair Robots Maintain Cities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Infrastructure Repair Robots Maintain Cities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Infrastructure Repair Robots Maintain Cities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Infrastructure Repair Robots Maintain Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems",
+      "order": 25,
+      "slug": "ocean-cleanup-robot-fleets-restore-marine-ecosystems",
+      "title": "Đội robot làm sạch đại dương phục hồi hệ sinh thái biển",
+      "shortTitle": "Đội robot làm sạch đại dương",
+      "category": "Robotics",
+      "description": "Đội robot làm sạch đại dương phục hồi hệ sinh thái biển mở rộng lao động máy tự động vào chăm sóc, nông nghiệp, bảo trì đô thị, hỗ trợ gia đình và phục hồi biển ở quy mô hậu khan hiếm.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2069,
+        "endYear": 2074
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Đội robot làm sạch đại dương phục hồi hệ sinh thái biển trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các đội máy tự động thực hiện dịch vụ vật lý thiết yếu",
+        "Robot hoạt động trong nhà, nông trại, thành phố, đại dương và khu vực nguy hiểm",
+        "Bảo trì và phục hồi nhanh hơn, ít phụ thuộc vào lao động khan hiếm"
+      ],
+      "implications": [
+        "Lao động thể chất trở nên ít cần thiết hơn cho sự sinh tồn",
+        "Chăm sóc và hạ tầng trở nên sẵn có hơn",
+        "Công việc của con người chuyển sang vai trò sáng tạo, xã hội và giám sát"
+      ],
+      "image": {
+        "alt": "Đội robot làm sạch đại dương phục hồi hệ sinh thái biển",
+        "prompts": [
+          "ocean Cleanup Robot Fleets Restore Marine Ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ocean Cleanup Robot Fleets Restore Marine Ecosystems, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ocean Cleanup Robot Fleets Restore Marine Ecosystems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ocean Cleanup Robot Fleets Restore Marine Ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide",
+      "order": 26,
+      "slug": "fusion-energy-cost-falls-below-fossil-fuels-worldwide",
+      "title": "Chi phí năng lượng nhiệt hạch giảm thấp hơn nhiên liệu hóa thạch trên toàn thế giới",
+      "shortTitle": "Chi phí năng lượng nhiệt hạch giảm",
+      "category": "Energy",
+      "description": "Chi phí năng lượng nhiệt hạch giảm thấp hơn nhiên liệu hóa thạch trên toàn thế giới biến năng lượng sạch dồi dào thành nền tảng thực tế cho nước, tái chế, thực phẩm, sửa chữa khí quyển và những nền móng đầu tiên của xã hội hậu khan hiếm.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "clean-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2070,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Chi phí năng lượng nhiệt hạch giảm thấp hơn nhiên liệu hóa thạch trên toàn thế giới trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Hệ thống nhiệt hạch và năng lượng sạch trở nên ổn định về kinh tế",
+        "Các hàng hóa công tiêu tốn nhiều năng lượng trở nên vừa túi tiền",
+        "Hạ tầng lớn có thể vận hành mà không phụ thuộc nhiên liệu hóa thạch"
+      ],
+      "implications": [
+        "Khan hiếm về nước, thực phẩm, nhà ở và tái chế suy giảm",
+        "Sửa chữa khí hậu trở nên thực tế hơn",
+        "Văn minh có được nền tảng năng lượng cho chuyển đổi hành tinh"
+      ],
+      "image": {
+        "alt": "Chi phí năng lượng nhiệt hạch giảm thấp hơn nhiên liệu hóa thạch trên toàn thế giới",
+        "prompts": [
+          "fusion Energy Cost Falls Below Fossil Fuels Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing fusion Energy Cost Falls Below Fossil Fuels Worldwide, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of fusion Energy Cost Falls Below Fossil Fuels Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating fusion Energy Cost Falls Below Fossil Fuels Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-permanent-lunar-city-reaches-10-000-residents",
+      "order": 27,
+      "slug": "permanent-lunar-city-reaches-10-000-residents",
+      "title": "Thành phố Mặt Trăng thường trực đạt 10.000 cư dân",
+      "shortTitle": "Thành phố Mặt Trăng 10.000 dân",
+      "category": "Space",
+      "description": "Thành phố Mặt Trăng thường trực đạt 10.000 cư dân tiếp tục đưa phát triển ngoài Trái Đất từ tiền đồn ban đầu tiến tới thành phố Mặt Trăng, khu định cư Sao Hỏa, công nghiệp tiểu hành tinh, môi trường sống trọng lực nhân tạo và vận tải Trái Đất–Mặt Trăng thường lệ.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2070,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Thành phố Mặt Trăng thường trực đạt 10.000 cư dân trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các khu định cư thường trực phát triển vượt khỏi tiền đồn khoa học",
+        "Tuyến vận tải hành khách và hàng hóa trở nên thường lệ",
+        "Công nghiệp ngoài Trái Đất trở thành một phần của nền kinh tế rộng hơn"
+      ],
+      "implications": [
+        "Văn minh nhân loại trở nên phân tán hơn",
+        "Hạ tầng không gian hỗ trợ khả năng phục hồi và công nghiệp",
+        "Kỷ nguyên tiếp theo của văn minh Hệ Mặt Trời trở nên khả thi"
+      ],
+      "image": {
+        "alt": "Thành phố Mặt Trăng thường trực đạt 10.000 cư dân",
+        "prompts": [
+          "permanent Lunar City Reaches 10,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing permanent Lunar City Reaches 10,000 Residents, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of permanent Lunar City Reaches 10,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating permanent Lunar City Reaches 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies",
+      "order": 28,
+      "slug": "first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies",
+      "title": "Khu định cư Sao Hỏa tự duy trì đầu tiên độc lập với nguồn tiếp tế từ Trái Đất",
+      "shortTitle": "Khu định cư Sao Hỏa tự duy trì",
+      "category": "Space",
+      "description": "Khu định cư Sao Hỏa tự duy trì đầu tiên độc lập với nguồn tiếp tế từ Trái Đất tiếp tục đưa phát triển ngoài Trái Đất từ tiền đồn ban đầu tiến tới thành phố Mặt Trăng, khu định cư Sao Hỏa, công nghiệp tiểu hành tinh, môi trường sống trọng lực nhân tạo và vận tải Trái Đất–Mặt Trăng thường lệ.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2071,
+        "endYear": 2076
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Khu định cư Sao Hỏa tự duy trì đầu tiên độc lập với nguồn tiếp tế từ Trái Đất trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các khu định cư thường trực phát triển vượt khỏi tiền đồn khoa học",
+        "Tuyến vận tải hành khách và hàng hóa trở nên thường lệ",
+        "Công nghiệp ngoài Trái Đất trở thành một phần của nền kinh tế rộng hơn"
+      ],
+      "implications": [
+        "Văn minh nhân loại trở nên phân tán hơn",
+        "Hạ tầng không gian hỗ trợ khả năng phục hồi và công nghiệp",
+        "Kỷ nguyên tiếp theo của văn minh Hệ Mặt Trời trở nên khả thi"
+      ],
+      "image": {
+        "alt": "Khu định cư Sao Hỏa tự duy trì đầu tiên độc lập với nguồn tiếp tế từ Trái Đất",
+        "prompts": [
+          "first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-asteroid-mining-industry-reaches-commercial-scale",
+      "order": 29,
+      "slug": "asteroid-mining-industry-reaches-commercial-scale",
+      "title": "Ngành khai thác tiểu hành tinh đạt quy mô thương mại",
+      "shortTitle": "Khai thác tiểu hành tinh thương mại",
+      "category": "Space",
+      "description": "Ngành khai thác tiểu hành tinh đạt quy mô thương mại tiếp tục đưa phát triển ngoài Trái Đất từ tiền đồn ban đầu tiến tới thành phố Mặt Trăng, khu định cư Sao Hỏa, công nghiệp tiểu hành tinh, môi trường sống trọng lực nhân tạo và vận tải Trái Đất–Mặt Trăng thường lệ.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2071,
+        "endYear": 2076
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ngành khai thác tiểu hành tinh đạt quy mô thương mại trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các khu định cư thường trực phát triển vượt khỏi tiền đồn khoa học",
+        "Tuyến vận tải hành khách và hàng hóa trở nên thường lệ",
+        "Công nghiệp ngoài Trái Đất trở thành một phần của nền kinh tế rộng hơn"
+      ],
+      "implications": [
+        "Văn minh nhân loại trở nên phân tán hơn",
+        "Hạ tầng không gian hỗ trợ khả năng phục hồi và công nghiệp",
+        "Kỷ nguyên tiếp theo của văn minh Hệ Mặt Trời trở nên khả thi"
+      ],
+      "image": {
+        "alt": "Ngành khai thác tiểu hành tinh đạt quy mô thương mại",
+        "prompts": [
+          "asteroid Mining Industry Reaches Commercial Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing asteroid Mining Industry Reaches Commercial Scale, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of asteroid Mining Industry Reaches Commercial Scale, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating asteroid Mining Industry Reaches Commercial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-artificial-gravity-space-habitat-opens-to-residents",
+      "order": 30,
+      "slug": "artificial-gravity-space-habitat-opens-to-residents",
+      "title": "Môi trường sống không gian có trọng lực nhân tạo mở cửa cho cư dân",
+      "shortTitle": "Môi trường sống trọng lực nhân tạo",
+      "category": "Space",
+      "description": "Môi trường sống không gian có trọng lực nhân tạo mở cửa cho cư dân tiếp tục đưa phát triển ngoài Trái Đất từ tiền đồn ban đầu tiến tới thành phố Mặt Trăng, khu định cư Sao Hỏa, công nghiệp tiểu hành tinh, môi trường sống trọng lực nhân tạo và vận tải Trái Đất–Mặt Trăng thường lệ.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2072,
+        "endYear": 2077
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Môi trường sống không gian có trọng lực nhân tạo mở cửa cho cư dân trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các khu định cư thường trực phát triển vượt khỏi tiền đồn khoa học",
+        "Tuyến vận tải hành khách và hàng hóa trở nên thường lệ",
+        "Công nghiệp ngoài Trái Đất trở thành một phần của nền kinh tế rộng hơn"
+      ],
+      "implications": [
+        "Văn minh nhân loại trở nên phân tán hơn",
+        "Hạ tầng không gian hỗ trợ khả năng phục hồi và công nghiệp",
+        "Kỷ nguyên tiếp theo của văn minh Hệ Mặt Trời trở nên khả thi"
+      ],
+      "image": {
+        "alt": "Môi trường sống không gian có trọng lực nhân tạo mở cửa cho cư dân",
+        "prompts": [
+          "artificial Gravity Space Habitat Opens to Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Space Habitat Opens to Residents, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Space Habitat Opens to Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Space Habitat Opens to Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-earth-moon-passenger-transport-becomes-routine",
+      "order": 31,
+      "slug": "earth-moon-passenger-transport-becomes-routine",
+      "title": "Vận tải hành khách Trái Đất–Mặt Trăng trở nên thường lệ",
+      "shortTitle": "Vận tải hành khách Trái Đất–Mặt Trăng",
+      "category": "Space",
+      "description": "Vận tải hành khách Trái Đất–Mặt Trăng trở nên thường lệ tiếp tục đưa phát triển ngoài Trái Đất từ tiền đồn ban đầu tiến tới thành phố Mặt Trăng, khu định cư Sao Hỏa, công nghiệp tiểu hành tinh, môi trường sống trọng lực nhân tạo và vận tải Trái Đất–Mặt Trăng thường lệ.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2073,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Vận tải hành khách Trái Đất–Mặt Trăng trở nên thường lệ trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các khu định cư thường trực phát triển vượt khỏi tiền đồn khoa học",
+        "Tuyến vận tải hành khách và hàng hóa trở nên thường lệ",
+        "Công nghiệp ngoài Trái Đất trở thành một phần của nền kinh tế rộng hơn"
+      ],
+      "implications": [
+        "Văn minh nhân loại trở nên phân tán hơn",
+        "Hạ tầng không gian hỗ trợ khả năng phục hồi và công nghiệp",
+        "Kỷ nguyên tiếp theo của văn minh Hệ Mặt Trời trở nên khả thi"
+      ],
+      "image": {
+        "alt": "Vận tải hành khách Trái Đất–Mặt Trăng trở nên thường lệ",
+        "prompts": [
+          "earth-Moon Passenger Transport Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon Passenger Transport Becomes Routine, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon Passenger Transport Becomes Routine, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon Passenger Transport Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-earth-moon-passenger-transport-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-earth-moon-passenger-transport-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-organ-printing-replaces-most-donor-transplants",
+      "order": 32,
+      "slug": "organ-printing-replaces-most-donor-transplants",
+      "title": "In nội tạng thay thế phần lớn cấy ghép từ người hiến",
+      "shortTitle": "In nội tạng thay thế hiến tặng",
+      "category": "Biology & Medicine",
+      "description": "In nội tạng thay thế phần lớn cấy ghép từ người hiến mở rộng y học từ điều trị sang tái tạo, phòng ngừa, tiếp cận mã nguồn mở, in nội tạng và cải thiện lớn về tuổi thọ khỏe mạnh.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2073,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "In nội tạng thay thế phần lớn cấy ghép từ người hiến trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Y học tái tạo trở nên phổ biến rộng rãi",
+        "Phòng ngừa bệnh cải thiện nhờ giám sát toàn cầu và hệ thống cá nhân hóa",
+        "Sửa chữa sinh học trở nên đáng tin cậy và hợp túi tiền hơn"
+      ],
+      "implications": [
+        "Tuổi thọ khỏe mạnh tăng mạnh",
+        "Tiếp cận y tế trở thành dịch vụ cốt lõi của hậu khan hiếm",
+        "Bản sắc con người bắt đầu tách khỏi giới hạn sinh học"
+      ],
+      "image": {
+        "alt": "In nội tạng thay thế phần lớn cấy ghép từ người hiến",
+        "prompts": [
+          "organ Printing Replaces Most Donor Transplants, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing organ Printing Replaces Most Donor Transplants, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of organ Printing Replaces Most Donor Transplants, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating organ Printing Replaces Most Donor Transplants, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-organ-printing-replaces-most-donor-transplants.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-organ-printing-replaces-most-donor-transplants.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-human-lifespan-exceeds-120-years-for-the-majority-population",
+      "order": 33,
+      "slug": "human-lifespan-exceeds-120-years-for-the-majority-population",
+      "title": "Tuổi thọ con người vượt 120 năm đối với phần lớn dân số",
+      "shortTitle": "Tuổi thọ con người vượt 120",
+      "category": "Biology & Medicine",
+      "description": "Tuổi thọ con người vượt 120 năm đối với phần lớn dân số mở rộng y học từ điều trị sang tái tạo, phòng ngừa, tiếp cận mã nguồn mở, in nội tạng và cải thiện lớn về tuổi thọ khỏe mạnh.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2074,
+        "endYear": 2079
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Tuổi thọ con người vượt 120 năm đối với phần lớn dân số trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Y học tái tạo trở nên phổ biến rộng rãi",
+        "Phòng ngừa bệnh cải thiện nhờ giám sát toàn cầu và hệ thống cá nhân hóa",
+        "Sửa chữa sinh học trở nên đáng tin cậy và hợp túi tiền hơn"
+      ],
+      "implications": [
+        "Tuổi thọ khỏe mạnh tăng mạnh",
+        "Tiếp cận y tế trở thành dịch vụ cốt lõi của hậu khan hiếm",
+        "Bản sắc con người bắt đầu tách khỏi giới hạn sinh học"
+      ],
+      "image": {
+        "alt": "Tuổi thọ con người vượt 120 năm đối với phần lớn dân số",
+        "prompts": [
+          "human Lifespan Exceeds 120 Years for the Majority Population, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Lifespan Exceeds 120 Years for the Majority Population, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Lifespan Exceeds 120 Years for the Majority Population, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Lifespan Exceeds 120 Years for the Majority Population, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-artificial-gravity-systems-become-reliable-for-large-habitats",
+      "order": 34,
+      "slug": "artificial-gravity-systems-become-reliable-for-large-habitats",
+      "title": "Hệ thống trọng lực nhân tạo trở nên đáng tin cậy cho môi trường sống lớn",
+      "shortTitle": "Trọng lực nhân tạo cho môi trường lớn",
+      "category": "Physics",
+      "description": "Hệ thống trọng lực nhân tạo trở nên đáng tin cậy cho môi trường sống lớn đưa vật lý tiên tiến vào hạ tầng thực tế cho truyền thông lượng tử, trọng lực nhân tạo, chắn bức xạ, khoa học protein và hệ thống siêu dẫn.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2074,
+        "endYear": 2079
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Hệ thống trọng lực nhân tạo trở nên đáng tin cậy cho môi trường sống lớn trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Hệ thống lượng tử và liên quan đến trọng lực trở thành dịch vụ kỹ thuật hóa",
+        "Đo lường tiên tiến cải thiện hạ tầng và điều hướng",
+        "Sức mạnh tính toán giải quyết các vấn đề trước đây không thể tiếp cận"
+      ],
+      "implications": [
+        "Những lớp hạ tầng mới trở nên thực tế",
+        "Sinh sống trong không gian trở nên an toàn và thoải mái hơn",
+        "Tiến bộ khoa học tăng tốc trong y học, vật liệu và năng lượng"
+      ],
+      "image": {
+        "alt": "Hệ thống trọng lực nhân tạo trở nên đáng tin cậy cho môi trường sống lớn",
+        "prompts": [
+          "artificial Gravity Systems Become Reliable for Large Habitats, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Systems Become Reliable for Large Habitats, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Systems Become Reliable for Large Habitats, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Systems Become Reliable for Large Habitats, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-quantum-communication-networks-become-globally-standard",
+      "order": 35,
+      "slug": "quantum-communication-networks-become-globally-standard",
+      "title": "Mạng truyền thông lượng tử trở thành tiêu chuẩn toàn cầu",
+      "shortTitle": "Mạng truyền thông lượng tử toàn cầu",
+      "category": "Physics",
+      "description": "Mạng truyền thông lượng tử trở thành tiêu chuẩn toàn cầu đưa vật lý tiên tiến vào hạ tầng thực tế cho truyền thông lượng tử, trọng lực nhân tạo, chắn bức xạ, khoa học protein và hệ thống siêu dẫn.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2075,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Mạng truyền thông lượng tử trở thành tiêu chuẩn toàn cầu trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Hệ thống lượng tử và liên quan đến trọng lực trở thành dịch vụ kỹ thuật hóa",
+        "Đo lường tiên tiến cải thiện hạ tầng và điều hướng",
+        "Sức mạnh tính toán giải quyết các vấn đề trước đây không thể tiếp cận"
+      ],
+      "implications": [
+        "Những lớp hạ tầng mới trở nên thực tế",
+        "Sinh sống trong không gian trở nên an toàn và thoải mái hơn",
+        "Tiến bộ khoa học tăng tốc trong y học, vật liệu và năng lượng"
+      ],
+      "image": {
+        "alt": "Mạng truyền thông lượng tử trở thành tiêu chuẩn toàn cầu",
+        "prompts": [
+          "quantum Communication Networks Become Globally Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Communication Networks Become Globally Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Communication Networks Become Globally Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Communication Networks Become Globally Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-quantum-communication-networks-become-globally-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-quantum-communication-networks-become-globally-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-magnetic-radiation-shielding-protects-space-settlements",
+      "order": 36,
+      "slug": "magnetic-radiation-shielding-protects-space-settlements",
+      "title": "Lá chắn bức xạ từ trường bảo vệ các khu định cư không gian",
+      "shortTitle": "Lá chắn bức xạ từ trường",
+      "category": "Physics",
+      "description": "Lá chắn bức xạ từ trường bảo vệ các khu định cư không gian đưa vật lý tiên tiến vào hạ tầng thực tế cho truyền thông lượng tử, trọng lực nhân tạo, chắn bức xạ, khoa học protein và hệ thống siêu dẫn.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2076,
+        "endYear": 2081
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Lá chắn bức xạ từ trường bảo vệ các khu định cư không gian trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Hệ thống lượng tử và liên quan đến trọng lực trở thành dịch vụ kỹ thuật hóa",
+        "Đo lường tiên tiến cải thiện hạ tầng và điều hướng",
+        "Sức mạnh tính toán giải quyết các vấn đề trước đây không thể tiếp cận"
+      ],
+      "implications": [
+        "Những lớp hạ tầng mới trở nên thực tế",
+        "Sinh sống trong không gian trở nên an toàn và thoải mái hơn",
+        "Tiến bộ khoa học tăng tốc trong y học, vật liệu và năng lượng"
+      ],
+      "image": {
+        "alt": "Lá chắn bức xạ từ trường bảo vệ các khu định cư không gian",
+        "prompts": [
+          "magnetic Radiation Shielding Protects Space Settlements, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing magnetic Radiation Shielding Protects Space Settlements, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of magnetic Radiation Shielding Protects Space Settlements, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating magnetic Radiation Shielding Protects Space Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-large-scale-quantum-computing-solves-protein-folding-universally",
+      "order": 37,
+      "slug": "large-scale-quantum-computing-solves-protein-folding-universally",
+      "title": "Điện toán lượng tử quy mô lớn giải bài toán gấp protein một cách phổ quát",
+      "shortTitle": "Điện toán lượng tử quy mô lớn",
+      "category": "Physics",
+      "description": "Điện toán lượng tử quy mô lớn giải bài toán gấp protein một cách phổ quát đưa vật lý tiên tiến vào hạ tầng thực tế cho truyền thông lượng tử, trọng lực nhân tạo, chắn bức xạ, khoa học protein và hệ thống siêu dẫn.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2076,
+        "endYear": 2081
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Điện toán lượng tử quy mô lớn giải bài toán gấp protein một cách phổ quát trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Hệ thống lượng tử và liên quan đến trọng lực trở thành dịch vụ kỹ thuật hóa",
+        "Đo lường tiên tiến cải thiện hạ tầng và điều hướng",
+        "Sức mạnh tính toán giải quyết các vấn đề trước đây không thể tiếp cận"
+      ],
+      "implications": [
+        "Những lớp hạ tầng mới trở nên thực tế",
+        "Sinh sống trong không gian trở nên an toàn và thoải mái hơn",
+        "Tiến bộ khoa học tăng tốc trong y học, vật liệu và năng lượng"
+      ],
+      "image": {
+        "alt": "Điện toán lượng tử quy mô lớn giải bài toán gấp protein một cách phổ quát",
+        "prompts": [
+          "large-Scale Quantum Computing Solves Protein Folding Universally, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing large-Scale Quantum Computing Solves Protein Folding Universally, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of large-Scale Quantum Computing Solves Protein Folding Universally, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating large-Scale Quantum Computing Solves Protein Folding Universally, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-room-temperature-superconductors-become-commercially-common",
+      "order": 38,
+      "slug": "room-temperature-superconductors-become-commercially-common",
+      "title": "Chất siêu dẫn nhiệt độ phòng trở nên phổ biến về mặt thương mại",
+      "shortTitle": "Chất siêu dẫn nhiệt độ phòng",
+      "category": "Physics",
+      "description": "Chất siêu dẫn nhiệt độ phòng trở nên phổ biến về mặt thương mại đưa vật lý tiên tiến vào hạ tầng thực tế cho truyền thông lượng tử, trọng lực nhân tạo, chắn bức xạ, khoa học protein và hệ thống siêu dẫn.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2077,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Chất siêu dẫn nhiệt độ phòng trở nên phổ biến về mặt thương mại trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Hệ thống lượng tử và liên quan đến trọng lực trở thành dịch vụ kỹ thuật hóa",
+        "Đo lường tiên tiến cải thiện hạ tầng và điều hướng",
+        "Sức mạnh tính toán giải quyết các vấn đề trước đây không thể tiếp cận"
+      ],
+      "implications": [
+        "Những lớp hạ tầng mới trở nên thực tế",
+        "Sinh sống trong không gian trở nên an toàn và thoải mái hơn",
+        "Tiến bộ khoa học tăng tốc trong y học, vật liệu và năng lượng"
+      ],
+      "image": {
+        "alt": "Chất siêu dẫn nhiệt độ phòng trở nên phổ biến về mặt thương mại",
+        "prompts": [
+          "room-Temperature Superconductors Become Commercially Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing room-Temperature Superconductors Become Commercially Common, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of room-Temperature Superconductors Become Commercially Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating room-Temperature Superconductors Become Commercially Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-room-temperature-superconductors-become-commercially-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-room-temperature-superconductors-become-commercially-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-self-healing-infrastructure-materials-become-standard",
+      "order": 39,
+      "slug": "self-healing-infrastructure-materials-become-standard",
+      "title": "Vật liệu hạ tầng tự phục hồi trở thành tiêu chuẩn",
+      "shortTitle": "Vật liệu hạ tầng tự phục hồi",
+      "category": "Materials & Manufacturing",
+      "description": "Vật liệu hạ tầng tự phục hồi trở thành tiêu chuẩn làm giảm chi phí nơi ở và hàng hóa vật chất thông qua tái chế bằng nhiệt hạch, hạ tầng tự phục hồi, vật chất lập trình được và sản xuất phân tử.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2077,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Vật liệu hạ tầng tự phục hồi trở thành tiêu chuẩn trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Sản xuất tuần hoàn giảm nhu cầu vật liệu nguyên sinh",
+        "Công trình và hạ tầng tự sửa chữa",
+        "Sản xuất phân tử và lập trình được đi vào ứng dụng công nghiệp"
+      ],
+      "implications": [
+        "Nhà ở và hàng hóa trở nên rẻ hơn",
+        "Rác thải giảm mạnh",
+        "Hạ tầng trở nên bền bỉ và thích ứng hơn"
+      ],
+      "image": {
+        "alt": "Vật liệu hạ tầng tự phục hồi trở thành tiêu chuẩn",
+        "prompts": [
+          "self-Healing Infrastructure Materials Become Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Infrastructure Materials Become Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Infrastructure Materials Become Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Infrastructure Materials Become Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-self-healing-infrastructure-materials-become-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-self-healing-infrastructure-materials-become-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-programmable-matter-enters-industrial-production",
+      "order": 40,
+      "slug": "programmable-matter-enters-industrial-production",
+      "title": "Vật chất lập trình được bước vào sản xuất công nghiệp",
+      "shortTitle": "Sản xuất vật chất lập trình được",
+      "category": "Materials & Manufacturing",
+      "description": "Vật chất lập trình được bước vào sản xuất công nghiệp làm giảm chi phí nơi ở và hàng hóa vật chất thông qua tái chế bằng nhiệt hạch, hạ tầng tự phục hồi, vật chất lập trình được và sản xuất phân tử.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2083
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Vật chất lập trình được bước vào sản xuất công nghiệp trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Sản xuất tuần hoàn giảm nhu cầu vật liệu nguyên sinh",
+        "Công trình và hạ tầng tự sửa chữa",
+        "Sản xuất phân tử và lập trình được đi vào ứng dụng công nghiệp"
+      ],
+      "implications": [
+        "Nhà ở và hàng hóa trở nên rẻ hơn",
+        "Rác thải giảm mạnh",
+        "Hạ tầng trở nên bền bỉ và thích ứng hơn"
+      ],
+      "image": {
+        "alt": "Vật chất lập trình được bước vào sản xuất công nghiệp",
+        "prompts": [
+          "programmable Matter Enters Industrial Production, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Enters Industrial Production, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Enters Industrial Production, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Enters Industrial Production, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-programmable-matter-enters-industrial-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-programmable-matter-enters-industrial-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-molecular-manufacturing-begins-commercial-deployment",
+      "order": 41,
+      "slug": "molecular-manufacturing-begins-commercial-deployment",
+      "title": "Sản xuất phân tử bắt đầu triển khai thương mại",
+      "shortTitle": "Triển khai sản xuất phân tử",
+      "category": "Materials & Manufacturing",
+      "description": "Sản xuất phân tử bắt đầu triển khai thương mại làm giảm chi phí nơi ở và hàng hóa vật chất thông qua tái chế bằng nhiệt hạch, hạ tầng tự phục hồi, vật chất lập trình được và sản xuất phân tử.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2079,
+        "endYear": 2084
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Sản xuất phân tử bắt đầu triển khai thương mại trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Sản xuất tuần hoàn giảm nhu cầu vật liệu nguyên sinh",
+        "Công trình và hạ tầng tự sửa chữa",
+        "Sản xuất phân tử và lập trình được đi vào ứng dụng công nghiệp"
+      ],
+      "implications": [
+        "Nhà ở và hàng hóa trở nên rẻ hơn",
+        "Rác thải giảm mạnh",
+        "Hạ tầng trở nên bền bỉ và thích ứng hơn"
+      ],
+      "image": {
+        "alt": "Sản xuất phân tử bắt đầu triển khai thương mại",
+        "prompts": [
+          "molecular Manufacturing Begins Commercial Deployment, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing molecular Manufacturing Begins Commercial Deployment, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of molecular Manufacturing Begins Commercial Deployment, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating molecular Manufacturing Begins Commercial Deployment, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-biodiversity-loss-stops-and-global-recovery-begins",
+      "order": 42,
+      "slug": "biodiversity-loss-stops-and-global-recovery-begins",
+      "title": "Suy giảm đa dạng sinh học dừng lại và phục hồi toàn cầu bắt đầu",
+      "shortTitle": "Phục hồi đa dạng sinh học toàn cầu",
+      "category": "Environment",
+      "description": "Suy giảm đa dạng sinh học dừng lại và phục hồi toàn cầu bắt đầu ổn định các hệ thống hỗ trợ sự sống cơ bản thông qua nước sạch, khử mặn, điều phối người tị nạn khí hậu, phục hồi đa dạng sinh học, phủ xanh sa mạc và sửa chữa khí quyển.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2079,
+        "endYear": 2084
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Suy giảm đa dạng sinh học dừng lại và phục hồi toàn cầu bắt đầu trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các dự án phục hồi trở nên đo lường được ở quy mô khu vực và toàn cầu",
+        "Hệ thống nước và thực phẩm trở nên bền bỉ hơn",
+        "Dữ liệu khí hậu dẫn hướng can thiệp theo thời gian thực"
+      ],
+      "implications": [
+        "Rủi ro sụp đổ môi trường suy giảm",
+        "Đất có thể sinh sống và đa dạng sinh học phục hồi",
+        "Quản hộ hành tinh trở thành vai trò cốt lõi của văn minh"
+      ],
+      "image": {
+        "alt": "Suy giảm đa dạng sinh học dừng lại và phục hồi toàn cầu bắt đầu",
+        "prompts": [
+          "biodiversity Loss Stops and Global Recovery Begins, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biodiversity Loss Stops and Global Recovery Begins, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biodiversity Loss Stops and Global Recovery Begins, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biodiversity Loss Stops and Global Recovery Begins, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-desert-greening-projects-restore-millions-of-square-kilometers",
+      "order": 43,
+      "slug": "desert-greening-projects-restore-millions-of-square-kilometers",
+      "title": "Dự án phủ xanh sa mạc phục hồi hàng triệu kilômét vuông",
+      "shortTitle": "Dự án phủ xanh sa mạc",
+      "category": "Environment",
+      "description": "Dự án phủ xanh sa mạc phục hồi hàng triệu kilômét vuông ổn định các hệ thống hỗ trợ sự sống cơ bản thông qua nước sạch, khử mặn, điều phối người tị nạn khí hậu, phục hồi đa dạng sinh học, phủ xanh sa mạc và sửa chữa khí quyển.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Dự án phủ xanh sa mạc phục hồi hàng triệu kilômét vuông trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các dự án phục hồi trở nên đo lường được ở quy mô khu vực và toàn cầu",
+        "Hệ thống nước và thực phẩm trở nên bền bỉ hơn",
+        "Dữ liệu khí hậu dẫn hướng can thiệp theo thời gian thực"
+      ],
+      "implications": [
+        "Rủi ro sụp đổ môi trường suy giảm",
+        "Đất có thể sinh sống và đa dạng sinh học phục hồi",
+        "Quản hộ hành tinh trở thành vai trò cốt lõi của văn minh"
+      ],
+      "image": {
+        "alt": "Dự án phủ xanh sa mạc phục hồi hàng triệu kilômét vuông",
+        "prompts": [
+          "desert Greening Projects Restore Millions of Square Kilometers, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing desert Greening Projects Restore Millions of Square Kilometers, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of desert Greening Projects Restore Millions of Square Kilometers, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating desert Greening Projects Restore Millions of Square Kilometers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-carbon-concentration-returns-below-pre-industrial-levels",
+      "order": 44,
+      "slug": "carbon-concentration-returns-below-pre-industrial-levels",
+      "title": "Nồng độ carbon trở lại dưới mức tiền công nghiệp",
+      "shortTitle": "Nồng độ carbon giảm trở lại",
+      "category": "Environment",
+      "description": "Nồng độ carbon trở lại dưới mức tiền công nghiệp ổn định các hệ thống hỗ trợ sự sống cơ bản thông qua nước sạch, khử mặn, điều phối người tị nạn khí hậu, phục hồi đa dạng sinh học, phủ xanh sa mạc và sửa chữa khí quyển.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Nồng độ carbon trở lại dưới mức tiền công nghiệp trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Các dự án phục hồi trở nên đo lường được ở quy mô khu vực và toàn cầu",
+        "Hệ thống nước và thực phẩm trở nên bền bỉ hơn",
+        "Dữ liệu khí hậu dẫn hướng can thiệp theo thời gian thực"
+      ],
+      "implications": [
+        "Rủi ro sụp đổ môi trường suy giảm",
+        "Đất có thể sinh sống và đa dạng sinh học phục hồi",
+        "Quản hộ hành tinh trở thành vai trò cốt lõi của văn minh"
+      ],
+      "image": {
+        "alt": "Nồng độ carbon trở lại dưới mức tiền công nghiệp",
+        "prompts": [
+          "carbon Concentration Returns Below Pre-Industrial Levels, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Concentration Returns Below Pre-Industrial Levels, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Concentration Returns Below Pre-Industrial Levels, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Concentration Returns Below Pre-Industrial Levels, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-four-day-workweek-becomes-global-standard",
+      "order": 45,
+      "slug": "four-day-workweek-becomes-global-standard",
+      "title": "Tuần làm việc bốn ngày trở thành tiêu chuẩn toàn cầu",
+      "shortTitle": "Tuần làm việc bốn ngày",
+      "category": "Society & Economy",
+      "description": "Tuần làm việc bốn ngày trở thành tiêu chuẩn toàn cầu tái cấu trúc phúc lợi, giáo dục, nghèo đói, nợ, lao động và dịch vụ cơ bản quanh quyền tiếp cận phổ quát và sự dồi dào thay vì quản lý khan hiếm.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2081,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Tuần làm việc bốn ngày trở thành tiêu chuẩn toàn cầu trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Dịch vụ phổ quát mở rộng vượt khỏi phúc lợi truyền thống",
+        "Giờ làm việc giảm khi tự động hóa nâng cao năng suất",
+        "Nhu cầu cơ bản ít gắn với việc làm hoặc tài sản hơn"
+      ],
+      "implications": [
+        "Ổn định xã hội cải thiện",
+        "Tiềm năng con người mở rộng thông qua giáo dục và khả năng tiếp cận",
+        "Hệ thống kinh tế chuyển từ sinh tồn sang phát triển thịnh vượng"
+      ],
+      "image": {
+        "alt": "Tuần làm việc bốn ngày trở thành tiêu chuẩn toàn cầu",
+        "prompts": [
+          "four-Day Workweek Becomes Global Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing four-Day Workweek Becomes Global Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of four-Day Workweek Becomes Global Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating four-Day Workweek Becomes Global Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-four-day-workweek-becomes-global-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-four-day-workweek-becomes-global-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-extreme-poverty-falls-below-one-percent-worldwide",
+      "order": 46,
+      "slug": "extreme-poverty-falls-below-one-percent-worldwide",
+      "title": "Nghèo cùng cực giảm xuống dưới một phần trăm trên toàn thế giới",
+      "shortTitle": "Nghèo cùng cực dưới một phần trăm",
+      "category": "Society & Economy",
+      "description": "Nghèo cùng cực giảm xuống dưới một phần trăm trên toàn thế giới tái cấu trúc phúc lợi, giáo dục, nghèo đói, nợ, lao động và dịch vụ cơ bản quanh quyền tiếp cận phổ quát và sự dồi dào thay vì quản lý khan hiếm.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Nghèo cùng cực giảm xuống dưới một phần trăm trên toàn thế giới trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Dịch vụ phổ quát mở rộng vượt khỏi phúc lợi truyền thống",
+        "Giờ làm việc giảm khi tự động hóa nâng cao năng suất",
+        "Nhu cầu cơ bản ít gắn với việc làm hoặc tài sản hơn"
+      ],
+      "implications": [
+        "Ổn định xã hội cải thiện",
+        "Tiềm năng con người mở rộng thông qua giáo dục và khả năng tiếp cận",
+        "Hệ thống kinh tế chuyển từ sinh tồn sang phát triển thịnh vượng"
+      ],
+      "image": {
+        "alt": "Nghèo cùng cực giảm xuống dưới một phần trăm trên toàn thế giới",
+        "prompts": [
+          "extreme Poverty Falls Below One Percent Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing extreme Poverty Falls Below One Percent Worldwide, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of extreme Poverty Falls Below One Percent Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating extreme Poverty Falls Below One Percent Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-cashless-economies-become-nearly-universal",
+      "order": 47,
+      "slug": "cashless-economies-become-nearly-universal",
+      "title": "Nền kinh tế không tiền mặt trở nên gần như phổ quát",
+      "shortTitle": "Kinh tế không tiền mặt phổ quát",
+      "category": "Society & Economy",
+      "description": "Nền kinh tế không tiền mặt trở nên gần như phổ quát tái cấu trúc phúc lợi, giáo dục, nghèo đói, nợ, lao động và dịch vụ cơ bản quanh quyền tiếp cận phổ quát và sự dồi dào thay vì quản lý khan hiếm.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Nền kinh tế không tiền mặt trở nên gần như phổ quát trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Dịch vụ phổ quát mở rộng vượt khỏi phúc lợi truyền thống",
+        "Giờ làm việc giảm khi tự động hóa nâng cao năng suất",
+        "Nhu cầu cơ bản ít gắn với việc làm hoặc tài sản hơn"
+      ],
+      "implications": [
+        "Ổn định xã hội cải thiện",
+        "Tiềm năng con người mở rộng thông qua giáo dục và khả năng tiếp cận",
+        "Hệ thống kinh tế chuyển từ sinh tồn sang phát triển thịnh vượng"
+      ],
+      "image": {
+        "alt": "Nền kinh tế không tiền mặt trở nên gần như phổ quát",
+        "prompts": [
+          "cashless Economies Become Nearly Universal, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cashless Economies Become Nearly Universal, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cashless Economies Become Nearly Universal, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cashless Economies Become Nearly Universal, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-cashless-economies-become-nearly-universal.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-cashless-economies-become-nearly-universal.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-human-rights-framework-expands-to-include-ai-entities",
+      "order": 48,
+      "slug": "global-human-rights-framework-expands-to-include-ai-entities",
+      "title": "Khung nhân quyền toàn cầu mở rộng để bao gồm các thực thể AI",
+      "shortTitle": "Khung nhân quyền toàn cầu",
+      "category": "Civilization",
+      "description": "Khung nhân quyền toàn cầu mở rộng để bao gồm các thực thể AI tạo ra các thể chế quản trị, hòa bình, quyền và tài nguyên hành tinh mới cần thiết cho một xã hội dồi dào.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2083,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Khung nhân quyền toàn cầu mở rộng để bao gồm các thực thể AI trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Quản trị mở rộng vượt khỏi phản ứng khủng hoảng theo từng quốc gia",
+        "Khung quyền thích ứng với AI và các hệ thống tiên tiến",
+        "Các thể chế toàn cầu điều phối tài nguyên, hòa bình và hạ tầng công cộng"
+      ],
+      "implications": [
+        "Văn minh được điều phối tốt hơn ở quy mô hành tinh",
+        "Hệ thống chính trị thích ứng với sự dồi dào và tự động hóa",
+        "Nhân loại có được thể chế cho chuyển đổi hành tinh"
+      ],
+      "image": {
+        "alt": "Khung nhân quyền toàn cầu mở rộng để bao gồm các thực thể AI",
+        "prompts": [
+          "global Human Rights Framework Expands to Include AI Entities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Human Rights Framework Expands to Include AI Entities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Human Rights Framework Expands to Include AI Entities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Human Rights Framework Expands to Include AI Entities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-planetary-resource-governance-council-is-established",
+      "order": 49,
+      "slug": "first-planetary-resource-governance-council-is-established",
+      "title": "Hội đồng Quản trị Tài nguyên Hành tinh đầu tiên được thành lập",
+      "shortTitle": "Hội đồng Quản trị Tài nguyên Hành tinh",
+      "category": "Civilization",
+      "description": "Hội đồng Quản trị Tài nguyên Hành tinh đầu tiên được thành lập tạo ra các thể chế quản trị, hòa bình, quyền và tài nguyên hành tinh mới cần thiết cho một xã hội dồi dào.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2083,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Hội đồng Quản trị Tài nguyên Hành tinh đầu tiên được thành lập trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Quản trị mở rộng vượt khỏi phản ứng khủng hoảng theo từng quốc gia",
+        "Khung quyền thích ứng với AI và các hệ thống tiên tiến",
+        "Các thể chế toàn cầu điều phối tài nguyên, hòa bình và hạ tầng công cộng"
+      ],
+      "implications": [
+        "Văn minh được điều phối tốt hơn ở quy mô hành tinh",
+        "Hệ thống chính trị thích ứng với sự dồi dào và tự động hóa",
+        "Nhân loại có được thể chế cho chuyển đổi hành tinh"
+      ],
+      "image": {
+        "alt": "Hội đồng Quản trị Tài nguyên Hành tinh đầu tiên được thành lập",
+        "prompts": [
+          "first Planetary Resource Governance Council Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Planetary Resource Governance Council Is Established, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Planetary Resource Governance Council Is Established, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Planetary Resource Governance Council Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-planetary-resource-governance-council-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-planetary-resource-governance-council-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-human-development-index-reaches-historical-high-across-most-nations",
+      "order": 50,
+      "slug": "human-development-index-reaches-historical-high-across-most-nations",
+      "title": "Chỉ số phát triển con người đạt mức cao lịch sử ở hầu hết quốc gia",
+      "shortTitle": "Chỉ số phát triển con người lịch sử",
+      "category": "Civilization",
+      "description": "Chỉ số phát triển con người đạt mức cao lịch sử ở hầu hết quốc gia tạo ra các thể chế quản trị, hòa bình, quyền và tài nguyên hành tinh mới cần thiết cho một xã hội dồi dào.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2084,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Chỉ số phát triển con người đạt mức cao lịch sử ở hầu hết quốc gia trở thành cột mốc định hình nền móng hậu khan hiếm, giúp nhân loại chuyển từ các hệ thống dựa trên khan hiếm sang sự dồi dào, khả năng phục hồi và quyền tiếp cận phổ quát.",
+      "signals": [
+        "Quản trị mở rộng vượt khỏi phản ứng khủng hoảng theo từng quốc gia",
+        "Khung quyền thích ứng với AI và các hệ thống tiên tiến",
+        "Các thể chế toàn cầu điều phối tài nguyên, hòa bình và hạ tầng công cộng"
+      ],
+      "implications": [
+        "Văn minh được điều phối tốt hơn ở quy mô hành tinh",
+        "Hệ thống chính trị thích ứng với sự dồi dào và tự động hóa",
+        "Nhân loại có được thể chế cho chuyển đổi hành tinh"
+      ],
+      "image": {
+        "alt": "Chỉ số phát triển con người đạt mức cao lịch sử ở hầu hết quốc gia",
+        "prompts": [
+          "human Development Index Reaches Historical High Across Most Nations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Development Index Reaches Historical High Across Most Nations, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Development Index Reaches Historical High Across Most Nations, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Development Index Reaches Historical High Across Most Nations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

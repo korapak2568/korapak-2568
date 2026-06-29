@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet 向全球受众呈现来自清迈的数字产品、AI 服务、智慧城市概念与平台工程能力。",
+  "social": {
+    "title": "社交媒体",
+    "items": []
+  },
+  "important": {
+    "title": "重要链接",
+    "items": [
+      {
+        "label": "关于",
+        "link": "/about/"
+      },
+      {
+        "label": "技术",
+        "link": "/technology/"
+      },
+      {
+        "label": "联系",
+        "link": "/contact/"
+      },
+      {
+        "label": "服务条款",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "隐私政策",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "工作场所政策",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "项目",
+    "items": [
+      {
+        "label": "奢华项目",
+        "link": "/luxury/"
+      },
+      {
+        "label": "智慧食品系统",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "优雅风格",
+        "link": "/style/"
+      },
+      {
+        "label": "未来清迈",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "平台",
+    "items": [
+      {
+        "label": "未来文明",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "奢华",
+        "link": "/luxury/"
+      },
+      {
+        "label": "智慧食品",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "智慧城市",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "智慧出行",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "故事",
+        "link": "/story/"
+      },
+      {
+        "label": "风格",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "连接",
+    "items": [
+      {
+        "label": "联系",
+        "link": "/contact",
+        "ariaLabel": "Chorn Planet 联系页面"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "LinkedIn 上的 Chorn Planet"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "GitHub 上的 Chorn Planet"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Facebook 上的 Chorn Planet"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "X 上的 Chorn Planet"
+      }
+    ]
+  }
+}

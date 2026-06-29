@@ -2,20 +2,29 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import type { FutureRoadmapFeaturedItem } from "@/lib/platform-content/futureRoadmapContent";
+import type {
+  FutureRoadmapFeaturedItem,
+  FutureRoadmapManifest,
+} from "@/lib/platform-content/futureRoadmapContent";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
 
+type FutureCivilizationHeroCopy = FutureRoadmapManifest["ui"]["homeHero"];
+
 export default function FutureCivilizationHero({
   lang,
   featuredItems,
   heroItem,
+  copy,
+  eraLabel,
 }: {
   lang: string;
   featuredItems: FutureRoadmapFeaturedItem[];
   heroItem: FutureRoadmapFeaturedItem;
+  copy: FutureCivilizationHeroCopy;
+  eraLabel: string;
 }) {
   const href = `/${lang}/future-civilization/`;
 
@@ -23,27 +32,25 @@ export default function FutureCivilizationHero({
     <section className="future-civilization-home-hero">
       <div className="future-civilization-home-hero__body">
         <div className="platform-section__header future-civilization-home-hero__header">
-          <span>Chorn Planet future systems</span>
+          <span>{copy.eyebrow}</span>
           <h1 className="future-civilization-home-hero__headline">
-            Future Civilization
+            {copy.title}
           </h1>
         </div>
 
         <div className="future-civilization-home-hero__content">
           <p className="future-civilization-home-hero__paragraph">
-            Chorn Planet connects civilization media, roadmap storytelling, and
-            technology development into one premium platform for long-term
-            cities, food systems, mobility, space, AI, and human futures.
+            {copy.description}
           </p>
 
           <div className="future-civilization-home-hero__actions">
-            <Link href={href}>Open Roadmap</Link>
-            <Link href={href}>Explore Eras</Link>
+            <Link href={href}>{copy.actions.openRoadmap}</Link>
+            <Link href={href}>{copy.actions.exploreRoadmap}</Link>
           </div>
 
           <div
             className="future-civilization-home-hero__rail"
-            aria-label="Featured roadmap signals"
+            aria-label={copy.railAriaLabel}
           >
             {featuredItems.slice(0, 4).map((item) => (
               <Link
@@ -78,9 +85,9 @@ export default function FutureCivilizationHero({
               sizes="(max-width: 900px) 100vw, 50vw"
             />
             <div className="future-civilization-home-hero__image-caption">
-              <span>Phase one civilization signal</span>
+              <span>{copy.imageCaptionEyebrow}</span>
               <strong>{heroItem.shortTitle}</strong>
-              <small>Era {String(heroItem.era.order).padStart(2, "0")}</small>
+              <small>{eraLabel} {String(heroItem.era.order).padStart(2, "0")}</small>
             </div>
           </Link>
         </div>

@@ -1,7 +1,7 @@
 import {ObjectId, WithId} from "mongodb";
 import {ISmartFoodAiContent} from "@/lib/model/ISmartFoodAiContent";
 
-export const SMART_FOOD_AI_CONTENT_LOCALES = ['da', 'de', 'en', 'fi', 'fr', 'ja', 'ko', 'nl', 'th', 'zh'] as const;
+export const SMART_FOOD_AI_CONTENT_LOCALES = ['de', 'en', 'fr', 'id', 'ja', 'ko', 'ru', 'th', 'vi', 'zh'] as const;
 
 export type SmartFoodAiContentLocale = typeof SMART_FOOD_AI_CONTENT_LOCALES[number];
 
@@ -42,7 +42,6 @@ export function mapSmartFoodAiContentResponse(
         metadata: doc.metadata,
         workflow: doc.workflow,
         features: doc.features,
-        value: doc.value,
         futureDirections: doc.futureDirections,
         createdAt: doc.createdAt,
         updatedAt: doc.updatedAt,

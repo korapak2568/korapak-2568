@@ -1,6 +1,7 @@
 // src/app/[locale]/smart-city/page.tsx
 
 import type {Metadata} from "next";
+import {getLocalizedAlternates} from "@/lib/metadata/alternates";
 import {headers} from "next/headers";
 import PlatformSmartCityPage from "@/components/SmartCity/PlatformSmartCityPage";
 import {getPlatformSmartCityContent} from "@/lib/platform-content/smartCityContent";
@@ -13,9 +14,7 @@ export async function generateMetadata(): Promise<Metadata> {
         title: "Smart City | Chorn Planet",
         description:
             "Smart City from Chorn Planet studies human flow, mobility, public space, logistics, and city systems through practical urban observation.",
-        alternates: {
-            canonical: "/smart-city/",
-        },
+        alternates: getLocalizedAlternates("/smart-city/"),
         openGraph: {
             title: "Smart City | Chorn Planet",
             description:

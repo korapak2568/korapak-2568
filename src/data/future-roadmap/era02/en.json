@@ -1,0 +1,3284 @@
+{
+  "era": {
+    "id": "era-02",
+    "order": 2,
+    "slug": "early-space-civilization",
+    "title": "Early Space Civilization",
+    "subtitle": "The first permanent systems beyond Earth",
+    "description": "This era marks the shift from isolated space missions to early off-world infrastructure, lunar industry, orbital services, Mars logistics, and the first institutions of space civilization.",
+    "timeframe": {
+      "label": "Early Space Civilization",
+      "startYear": 2045,
+      "endYear": 2070,
+      "certainty": "highly-speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "expansive",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 2: Early Space Civilization | Future Civilization Roadmap",
+      "metaDescription": "Explore early space civilization milestones including lunar ice mining, orbital hotels, asteroid survey networks, Mars cargo logistics, lunar agriculture, and space law.",
+      "keywords": [
+        "early space civilization",
+        "lunar mining",
+        "orbital hotel",
+        "Mars logistics",
+        "future civilization"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-02-lunar-ice-mining-begins",
+      "order": 1,
+      "slug": "lunar-ice-mining-begins",
+      "title": "Lunar Ice Mining Begins",
+      "shortTitle": "Lunar Ice Mining",
+      "category": "Space",
+      "description": "Water ice extraction begins near lunar polar regions, supplying oxygen, water, radiation shielding, and rocket propellant for sustained Moon operations.",
+      "layerId": "civilization",
+      "domains": ["space", "resource-extraction", "lunar-infrastructure"],
+      "maturity": "early-industrial-deployment",
+      "timeframe": {
+        "startYear": 2045,
+        "endYear": 2055
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Lunar logistics becomes less dependent on Earth launches, making permanent off-world activity more practical and economically viable.",
+      "signals": [
+        "Polar prospecting missions confirm accessible ice deposits",
+        "Robotic mining systems operate through lunar night cycles",
+        "Propellant depots begin using locally processed water"
+      ],
+      "implications": [
+        "Lower cost for lunar missions",
+        "Foundation for fuel production beyond Earth",
+        "New governance questions around lunar resource rights"
+      ],
+      "image": {
+        "alt": "Lunar Ice Mining Begins",
+        "prompts": [
+          "Clean futuristic documentary scene of lunar Ice Mining Begins, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing lunar Ice Mining Begins as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of lunar Ice Mining Begins, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring lunar Ice Mining Begins, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-lunar-ice-mining-begins.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-lunar-ice-mining-begins.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-ice-mining-begins.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-lunar-ice-mining-begins.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-ice-mining-begins.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-lunar-emergency-hospital-becomes-operational",
+      "order": 2,
+      "slug": "first-lunar-emergency-hospital-becomes-operational",
+      "title": "First Lunar Emergency Hospital Becomes Operational",
+      "shortTitle": "Lunar Emergency Hospital",
+      "category": "Biology & Medicine",
+      "description": "A compact lunar medical facility provides trauma care, radiation monitoring, telemedicine, surgery support, and emergency stabilization for astronauts and early settlers.",
+      "layerId": "civilization",
+      "domains": ["space", "healthcare", "emergency-systems"],
+      "maturity": "operational-outpost",
+      "timeframe": {
+        "startYear": 2045,
+        "endYear": 2055
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Human presence on the Moon becomes safer and more resilient, reducing mission risk and enabling longer stays.",
+      "signals": [
+        "Lunar habitats include dedicated medical modules",
+        "Robotic surgery support is certified for off-world use",
+        "Emergency evacuation protocols shift from Earth return to local treatment"
+      ],
+      "implications": [
+        "Lower fatality risk during lunar operations",
+        "New space medicine standards",
+        "More confidence in permanent lunar settlement"
+      ],
+      "image": {
+        "alt": "First Lunar Emergency Hospital Becomes Operational",
+        "prompts": [
+          "Clean futuristic documentary scene of first Lunar Emergency Hospital Becomes Operational, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Lunar Emergency Hospital Becomes Operational as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Lunar Emergency Hospital Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Lunar Emergency Hospital Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-lunar-emergency-hospital-becomes-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-lunar-emergency-hospital-becomes-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-ai-operated-asteroid-survey-network-launches",
+      "order": 3,
+      "slug": "ai-operated-asteroid-survey-network-launches",
+      "title": "AI-Operated Asteroid Survey Network Launches",
+      "shortTitle": "Asteroid Survey Network",
+      "category": "AI & Computing",
+      "description": "Autonomous telescopes, probes, and AI models coordinate to detect, classify, and track asteroids for science, resource planning, and planetary defense.",
+      "layerId": "technology",
+      "domains": ["space", "artificial-intelligence", "astronomy"],
+      "maturity": "operational-network",
+      "timeframe": {
+        "startYear": 2045,
+        "endYear": 2056
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Humanity gains a continuous map of near-Earth and deep-space objects, improving both safety and economic planning.",
+      "signals": [
+        "AI classifies asteroid composition from spectral data",
+        "Distributed space telescopes share real-time orbital updates",
+        "Mining companies and defense agencies use shared asteroid catalogs"
+      ],
+      "implications": [
+        "Earlier warning for hazardous objects",
+        "Better targets for resource missions",
+        "New space traffic and ownership frameworks"
+      ],
+      "image": {
+        "alt": "AI-Operated Asteroid Survey Network Launches",
+        "prompts": [
+          "Clean futuristic documentary scene of aI-Operated Asteroid Survey Network Launches, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing aI-Operated Asteroid Survey Network Launches as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of aI-Operated Asteroid Survey Network Launches, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring aI-Operated Asteroid Survey Network Launches, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-ai-operated-asteroid-survey-network-launches.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-operated-asteroid-survey-network-launches.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-space-based-solar-power-pilot-sends-energy-to-earth",
+      "order": 4,
+      "slug": "space-based-solar-power-pilot-sends-energy-to-earth",
+      "title": "Space-Based Solar Power Pilot Sends Energy to Earth",
+      "shortTitle": "Space Solar Power",
+      "category": "Energy",
+      "description": "An orbital solar platform collects continuous sunlight and beams a controlled amount of energy to receiving stations on Earth.",
+      "layerId": "technology",
+      "domains": ["space", "energy", "infrastructure"],
+      "maturity": "pilot-demonstration",
+      "timeframe": {
+        "startYear": 2046,
+        "endYear": 2056
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Energy infrastructure begins expanding beyond the planet, opening a path to cleaner baseload power from space.",
+      "signals": [
+        "Microwave or laser power-beaming safety tests succeed",
+        "Ground rectenna sites connect to local grids",
+        "Regulators approve limited orbital energy transmission"
+      ],
+      "implications": [
+        "New renewable energy architecture",
+        "Debates over orbital energy safety",
+        "Lower dependence on weather-limited generation"
+      ],
+      "image": {
+        "alt": "Space-Based Solar Power Pilot Sends Energy to Earth",
+        "prompts": [
+          "Clean futuristic documentary scene of space-Based Solar Power Pilot Sends Energy to Earth, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing space-Based Solar Power Pilot Sends Energy to Earth as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of space-Based Solar Power Pilot Sends Energy to Earth, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring space-Based Solar Power Pilot Sends Energy to Earth, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-space-based-solar-power-pilot-sends-energy-to-earth.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-based-solar-power-pilot-sends-energy-to-earth.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-commercial-orbital-hotel-opens",
+      "order": 5,
+      "slug": "first-commercial-orbital-hotel-opens",
+      "title": "First Commercial Orbital Hotel Opens",
+      "shortTitle": "Orbital Hotel",
+      "category": "Space",
+      "description": "A privately operated orbital hotel offers short stays, research experiences, and Earth-view tourism for wealthy civilians and corporate customers.",
+      "layerId": "society",
+      "domains": ["space", "tourism", "commercial-infrastructure"],
+      "maturity": "commercial-opening",
+      "timeframe": {
+        "startYear": 2046,
+        "endYear": 2057
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Space becomes a commercial destination rather than only a government or astronaut domain.",
+      "signals": [
+        "Reusable launch costs decline further",
+        "Orbital life-support systems reach hospitality standards",
+        "Insurance and safety rules mature for civilian guests"
+      ],
+      "implications": [
+        "New luxury space economy",
+        "Expanded public imagination of off-world life",
+        "Pressure to improve orbital safety governance"
+      ],
+      "image": {
+        "alt": "First Commercial Orbital Hotel Opens",
+        "prompts": [
+          "Clean futuristic documentary scene of first Commercial Orbital Hotel Opens, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Commercial Orbital Hotel Opens as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Commercial Orbital Hotel Opens, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Commercial Orbital Hotel Opens, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-commercial-orbital-hotel-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-commercial-orbital-hotel-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-commercial-orbital-hotel-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-commercial-orbital-hotel-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-commercial-orbital-hotel-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith",
+      "order": 6,
+      "slug": "autonomous-lunar-construction-factory-produces-bricks-from-regolith",
+      "title": "Autonomous Lunar Construction Factory Produces Bricks from Regolith",
+      "shortTitle": "Lunar Brick Factory",
+      "category": "Robotics",
+      "description": "Autonomous factories on the Moon process regolith into bricks, panels, and protective structures for habitats, roads, landing pads, and storage facilities.",
+      "layerId": "civilization",
+      "domains": ["space", "robotics", "construction"],
+      "maturity": "industrial-prototype",
+      "timeframe": {
+        "startYear": 2046,
+        "endYear": 2057
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The Moon begins developing its own construction supply chain, reducing the need to launch heavy building materials from Earth.",
+      "signals": [
+        "Regolith sintering and 3D printing prove durable",
+        "Robots assemble shielding walls around habitats",
+        "Lunar construction standards begin to emerge"
+      ],
+      "implications": [
+        "Cheaper lunar bases",
+        "Faster infrastructure growth",
+        "Early off-world manufacturing ecosystem"
+      ],
+      "image": {
+        "alt": "Autonomous Lunar Construction Factory Produces Bricks from Regolith",
+        "prompts": [
+          "Clean futuristic documentary scene of autonomous Lunar Construction Factory Produces Bricks from Regolith, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing autonomous Lunar Construction Factory Produces Bricks from Regolith as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of autonomous Lunar Construction Factory Produces Bricks from Regolith, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring autonomous Lunar Construction Factory Produces Bricks from Regolith, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-mars-cargo-supply-chain-becomes-routine",
+      "order": 7,
+      "slug": "mars-cargo-supply-chain-becomes-routine",
+      "title": "Mars Cargo Supply Chain Becomes Routine",
+      "shortTitle": "Mars Cargo Supply Chain",
+      "category": "Space",
+      "description": "Cargo missions to Mars become predictable, scheduled, and partially autonomous, delivering equipment, food, spare parts, robots, and scientific payloads.",
+      "layerId": "civilization",
+      "domains": ["space", "logistics", "mars"],
+      "maturity": "routine-cadence",
+      "timeframe": {
+        "startYear": 2047,
+        "endYear": 2058
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Mars shifts from rare expedition target to a managed supply-chain destination.",
+      "signals": [
+        "Launch windows are planned years ahead",
+        "Autonomous cargo landers improve landing accuracy",
+        "Mars surface teams rely on standardized resupply packages"
+      ],
+      "implications": [
+        "Lower risk for Mars missions",
+        "Growth of interplanetary logistics companies",
+        "Foundation for scientific settlements"
+      ],
+      "image": {
+        "alt": "Mars Cargo Supply Chain Becomes Routine",
+        "prompts": [
+          "Clean futuristic documentary scene of mars Cargo Supply Chain Becomes Routine, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing mars Cargo Supply Chain Becomes Routine as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of mars Cargo Supply Chain Becomes Routine, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring mars Cargo Supply Chain Becomes Routine, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-mars-cargo-supply-chain-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-mars-cargo-supply-chain-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-baby-born-in-low-earth-orbit",
+      "order": 8,
+      "slug": "first-baby-born-in-low-earth-orbit",
+      "title": "First Baby Born in Low-Earth Orbit",
+      "shortTitle": "First Orbital Birth",
+      "category": "Biology & Medicine",
+      "description": "The first baby is born in low-Earth orbit under carefully controlled medical, ethical, and legal supervision.",
+      "layerId": "society",
+      "domains": ["space", "healthcare", "human-settlement"],
+      "maturity": "historic-first",
+      "timeframe": {
+        "startYear": 2047,
+        "endYear": 2058
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human reproduction beyond Earth becomes a real social and legal question, not only a theoretical frontier.",
+      "signals": [
+        "Orbital medical facilities support pregnancy monitoring",
+        "Bioethics councils approve limited reproductive studies",
+        "Citizenship and guardianship rules are tested for orbital births"
+      ],
+      "implications": [
+        "New field of space reproductive medicine",
+        "Legal debates over birthplace and citizenship",
+        "Greater seriousness around permanent off-world communities"
+      ],
+      "image": {
+        "alt": "First Baby Born in Low-Earth Orbit",
+        "prompts": [
+          "Clean futuristic documentary scene of first Baby Born in Low-Earth Orbit, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Baby Born in Low-Earth Orbit as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Baby Born in Low-Earth Orbit, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Baby Born in Low-Earth Orbit, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-baby-born-in-low-earth-orbit.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-baby-born-in-low-earth-orbit.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-orbital-debris-cleanup-network-becomes-operational",
+      "order": 9,
+      "slug": "orbital-debris-cleanup-network-becomes-operational",
+      "title": "Orbital Debris Cleanup Network Becomes Operational",
+      "shortTitle": "Debris Cleanup Network",
+      "category": "Environment",
+      "description": "Autonomous satellites and robotic collectors begin removing dangerous orbital debris from key traffic lanes around Earth.",
+      "layerId": "civilization",
+      "domains": ["space", "robotics", "public-safety"],
+      "maturity": "operational-network",
+      "timeframe": {
+        "startYear": 2047,
+        "endYear": 2059
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Orbital space becomes safer for habitats, energy systems, tourism, science, and communications.",
+      "signals": [
+        "Debris-tracking networks integrate with cleanup vehicles",
+        "Robotic capture systems prove reliable",
+        "Satellite operators fund shared orbital sanitation programs"
+      ],
+      "implications": [
+        "Reduced collision risk",
+        "Longer satellite infrastructure lifespan",
+        "New rules for orbital environmental responsibility"
+      ],
+      "image": {
+        "alt": "Orbital Debris Cleanup Network Becomes Operational",
+        "prompts": [
+          "Clean futuristic documentary scene of orbital Debris Cleanup Network Becomes Operational, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing orbital Debris Cleanup Network Becomes Operational as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of orbital Debris Cleanup Network Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring orbital Debris Cleanup Network Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-orbital-debris-cleanup-network-becomes-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-orbital-debris-cleanup-network-becomes-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-moon-to-earth-cargo-launcher-tested",
+      "order": 10,
+      "slug": "moon-to-earth-cargo-launcher-tested",
+      "title": "Moon-to-Earth Cargo Launcher Tested",
+      "shortTitle": "Lunar Cargo Launcher",
+      "category": "Space",
+      "description": "A prototype launcher sends cargo from the Moon toward Earth orbit or controlled reentry using low-energy launch infrastructure.",
+      "layerId": "technology",
+      "domains": ["space", "lunar-infrastructure", "logistics"],
+      "maturity": "system-test",
+      "timeframe": {
+        "startYear": 2048,
+        "endYear": 2059
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "The Moon becomes a potential export platform for materials, fuel, samples, and manufactured components.",
+      "signals": [
+        "Mass-driver or electromagnetic launcher tests succeed",
+        "Cargo capsules demonstrate safe trajectory control",
+        "Earth-orbit receivers prepare for lunar shipments"
+      ],
+      "implications": [
+        "Lower-cost lunar exports",
+        "New space customs and safety rules",
+        "Greater value for lunar industry"
+      ],
+      "image": {
+        "alt": "Moon-to-Earth Cargo Launcher Tested",
+        "prompts": [
+          "Clean futuristic documentary scene of moon-to-Earth Cargo Launcher Tested, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing moon-to-Earth Cargo Launcher Tested as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of moon-to-Earth Cargo Launcher Tested, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring moon-to-Earth Cargo Launcher Tested, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-moon-to-earth-cargo-launcher-tested.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-moon-to-earth-cargo-launcher-tested.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-lunar-agriculture-research-station-produces-full-food-cycles",
+      "order": 11,
+      "slug": "lunar-agriculture-research-station-produces-full-food-cycles",
+      "title": "Lunar Agriculture Research Station Produces Full Food Cycles",
+      "shortTitle": "Lunar Food Cycles",
+      "category": "Biology & Medicine",
+      "description": "A lunar agriculture station completes full food cycles using controlled environments, recycling systems, artificial lighting, and locally adapted crop methods.",
+      "layerId": "civilization",
+      "domains": ["space", "agriculture", "life-support"],
+      "maturity": "closed-loop-demonstration",
+      "timeframe": {
+        "startYear": 2048,
+        "endYear": 2060
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Off-world settlements become less dependent on Earth food shipments and more capable of long-term survival.",
+      "signals": [
+        "Closed-loop water and nutrient systems stabilize",
+        "Crops grow reliably under lunar constraints",
+        "Food production integrates with habitat life support"
+      ],
+      "implications": [
+        "More resilient lunar living",
+        "New space agriculture science",
+        "Reduced cargo mass for human missions"
+      ],
+      "image": {
+        "alt": "Lunar Agriculture Research Station Produces Full Food Cycles",
+        "prompts": [
+          "Clean futuristic documentary scene of lunar Agriculture Research Station Produces Full Food Cycles, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing lunar Agriculture Research Station Produces Full Food Cycles as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of lunar Agriculture Research Station Produces Full Food Cycles, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring lunar Agriculture Research Station Produces Full Food Cycles, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-lunar-agriculture-research-station-produces-full-food-cycles.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-agriculture-research-station-produces-full-food-cycles.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-permanent-space-law-court-established",
+      "order": 12,
+      "slug": "first-permanent-space-law-court-established",
+      "title": "First Permanent Space Law Court Established",
+      "shortTitle": "Space Law Court",
+      "category": "Society & Economy",
+      "description": "A permanent legal body is established to resolve disputes involving lunar property, orbital contracts, space accidents, and off-world citizenship claims.",
+      "layerId": "society",
+      "domains": ["space", "law", "governance"],
+      "maturity": "institutional-formation",
+      "timeframe": {
+        "startYear": 2048,
+        "endYear": 2060
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Space law evolves from treaty principles into day-to-day operating institutions for a growing space economy.",
+      "signals": [
+        "Commercial space disputes increase",
+        "Governments agree on specialized arbitration procedures",
+        "Off-world incidents require rapid legal decisions"
+      ],
+      "implications": [
+        "Clearer rules for space companies",
+        "Legal recognition of off-world communities",
+        "Reduced conflict over lunar and orbital assets"
+      ],
+      "image": {
+        "alt": "First Permanent Space Law Court Established",
+        "prompts": [
+          "Clean futuristic documentary scene of first Permanent Space Law Court Established, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Permanent Space Law Court Established as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Permanent Space Law Court Established, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Permanent Space Law Court Established, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-permanent-space-law-court-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-permanent-space-law-court-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-permanent-space-law-court-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-permanent-space-law-court-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-permanent-space-law-court-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-ai-mission-commanders-supervise-deep-space-logistics",
+      "order": 13,
+      "slug": "ai-mission-commanders-supervise-deep-space-logistics",
+      "title": "AI Mission Commanders Supervise Deep-Space Logistics",
+      "shortTitle": "AI Mission Commanders",
+      "category": "AI & Computing",
+      "description": "AI mission commanders coordinate fleets of spacecraft, habitats, robots, and cargo routes while humans supervise strategy, ethics, and exceptions.",
+      "layerId": "technology",
+      "domains": ["space", "artificial-intelligence", "logistics"],
+      "maturity": "supervisory-deployment",
+      "timeframe": {
+        "startYear": 2049,
+        "endYear": 2061
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Deep-space operations become too complex for manual control alone, making AI coordination a core civilization capability.",
+      "signals": [
+        "Mission control centers adopt autonomous planning agents",
+        "AI resolves schedule conflicts across missions",
+        "Human operators audit AI decisions through transparent logs"
+      ],
+      "implications": [
+        "More reliable interplanetary logistics",
+        "New accountability standards for mission AI",
+        "Faster response to emergencies far from Earth"
+      ],
+      "image": {
+        "alt": "AI Mission Commanders Supervise Deep-Space Logistics",
+        "prompts": [
+          "Clean futuristic documentary scene of aI Mission Commanders Supervise Deep-Space Logistics, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing aI Mission Commanders Supervise Deep-Space Logistics as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of aI Mission Commanders Supervise Deep-Space Logistics, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring aI Mission Commanders Supervise Deep-Space Logistics, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-ai-mission-commanders-supervise-deep-space-logistics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-mission-commanders-supervise-deep-space-logistics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-private-research-station-around-mars-orbit",
+      "order": 14,
+      "slug": "first-private-research-station-around-mars-orbit",
+      "title": "First Private Research Station Around Mars Orbit",
+      "shortTitle": "Mars Orbit Research Station",
+      "category": "Space",
+      "description": "A private research station operates in Mars orbit, supporting science, communications, teleoperation, and staging for future surface missions.",
+      "layerId": "civilization",
+      "domains": ["space", "research", "mars"],
+      "maturity": "research-outpost",
+      "timeframe": {
+        "startYear": 2049,
+        "endYear": 2061
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Mars gains a semi-permanent orbital layer that connects Earth logistics with surface exploration.",
+      "signals": [
+        "Commercial crews maintain orbital modules",
+        "Mars surface robots are teleoperated from orbit",
+        "Research payloads cycle through the station"
+      ],
+      "implications": [
+        "Lower latency for Mars robotics",
+        "New public-private science models",
+        "Foundation for larger Mars infrastructure"
+      ],
+      "image": {
+        "alt": "First Private Research Station Around Mars Orbit",
+        "prompts": [
+          "Clean futuristic documentary scene of first Private Research Station Around Mars Orbit, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Private Research Station Around Mars Orbit as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Private Research Station Around Mars Orbit, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Private Research Station Around Mars Orbit, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-private-research-station-around-mars-orbit.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-private-research-station-around-mars-orbit.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-private-research-station-around-mars-orbit.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-private-research-station-around-mars-orbit.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-private-research-station-around-mars-orbit.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens",
+      "order": 15,
+      "slug": "space-tourism-becomes-accessible-to-upper-middle-class-citizens",
+      "title": "Space Tourism Becomes Accessible to Upper-Middle-Class Citizens",
+      "shortTitle": "Accessible Space Tourism",
+      "category": "Society & Economy",
+      "description": "Orbital travel prices fall enough for upper-middle-class citizens to save, finance, or win access to short space tourism experiences.",
+      "layerId": "society",
+      "domains": ["space", "tourism", "mobility"],
+      "maturity": "early-mainstream",
+      "timeframe": {
+        "startYear": 2049,
+        "endYear": 2062
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Space travel begins shifting from elite novelty toward aspirational civilian mobility.",
+      "signals": [
+        "Reusable launch operations scale",
+        "Short-duration orbital flights become safer",
+        "Tourism providers create financing and lottery programs"
+      ],
+      "implications": [
+        "Broader cultural connection to space",
+        "New training systems for civilians",
+        "Greater demand for equitable access and safety oversight"
+      ],
+      "image": {
+        "alt": "Space Tourism Becomes Accessible to Upper-Middle-Class Citizens",
+        "prompts": [
+          "Clean futuristic documentary scene of space Tourism Becomes Accessible to Upper-Middle-Class Citizens, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing space Tourism Becomes Accessible to Upper-Middle-Class Citizens as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of space Tourism Becomes Accessible to Upper-Middle-Class Citizens, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring space Tourism Becomes Accessible to Upper-Middle-Class Citizens, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-low-pressure-lunar-gmo-greenhouses-go-operational",
+      "order": 16,
+      "slug": "low-pressure-lunar-gmo-greenhouses-go-operational",
+      "title": "Low-Pressure Lunar GMO Greenhouses Go Operational",
+      "shortTitle": "Lunar GMO Greenhouses",
+      "category": "Biology & Medicine",
+      "description": "Lunar greenhouses use low-pressure environments and engineered crops to reduce energy needs while producing food under Moon-specific constraints.",
+      "layerId": "technology",
+      "domains": ["space", "agriculture", "biotechnology"],
+      "maturity": "controlled-deployment",
+      "timeframe": {
+        "startYear": 2050,
+        "endYear": 2062
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Agriculture adapts to off-world conditions, helping lunar settlements become more self-sufficient.",
+      "signals": [
+        "Low-pressure crop trials improve yields",
+        "Engineered plants tolerate unusual humidity and radiation controls",
+        "Greenhouses integrate with oxygen and water recycling"
+      ],
+      "implications": [
+        "Lower life-support energy cost",
+        "More food diversity for lunar crews",
+        "Ethical oversight for off-world engineered organisms"
+      ],
+      "image": {
+        "alt": "Low-Pressure Lunar GMO Greenhouses Go Operational",
+        "prompts": [
+          "Clean futuristic documentary scene of low-Pressure Lunar GMO Greenhouses Go Operational, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing low-Pressure Lunar GMO Greenhouses Go Operational as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of low-Pressure Lunar GMO Greenhouses Go Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring low-Pressure Lunar GMO Greenhouses Go Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-autonomous-construction-robots-begin-building-on-mars",
+      "order": 17,
+      "slug": "autonomous-construction-robots-begin-building-on-mars",
+      "title": "Autonomous Construction Robots Begin Building on Mars",
+      "shortTitle": "Mars Construction Robots",
+      "category": "Robotics",
+      "description": "Autonomous construction robots begin building roads, pads, shelters, and utility corridors on Mars before large human crews arrive.",
+      "layerId": "civilization",
+      "domains": ["space", "robotics", "construction"],
+      "maturity": "early-surface-deployment",
+      "timeframe": {
+        "startYear": 2050,
+        "endYear": 2063
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Mars development starts through robotic labor, reducing risk and preparing the ground for long-term settlement.",
+      "signals": [
+        "Robotic builders operate in dusty low-pressure conditions",
+        "Local regolith is tested for construction materials",
+        "Surface infrastructure is built before crewed missions"
+      ],
+      "implications": [
+        "Safer Mars arrivals",
+        "Faster settlement preparation",
+        "New design principles for robot-first cities"
+      ],
+      "image": {
+        "alt": "Autonomous Construction Robots Begin Building on Mars",
+        "prompts": [
+          "Clean futuristic documentary scene of autonomous Construction Robots Begin Building on Mars, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing autonomous Construction Robots Begin Building on Mars as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of autonomous Construction Robots Begin Building on Mars, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring autonomous Construction Robots Begin Building on Mars, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-autonomous-construction-robots-begin-building-on-mars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-construction-robots-begin-building-on-mars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-orbital-weather-control-station-becomes-operational",
+      "order": 18,
+      "slug": "first-orbital-weather-control-station-becomes-operational",
+      "title": "First Orbital Weather Control Station Becomes Operational",
+      "shortTitle": "Orbital Weather Control",
+      "category": "Physics",
+      "description": "An orbital weather-control station begins controlled experiments to reduce extreme weather risk, redirect atmospheric energy, or protect vulnerable regions.",
+      "layerId": "civilization",
+      "domains": ["space", "climate", "planetary-systems"],
+      "maturity": "early-operation",
+      "timeframe": {
+        "startYear": 2050,
+        "endYear": 2063
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Climate response expands from prediction and adaptation toward cautious planetary-scale intervention.",
+      "signals": [
+        "Orbital platforms monitor storm systems in real time",
+        "Small-scale intervention tests pass safety review",
+        "International agencies govern weather-modification limits"
+      ],
+      "implications": [
+        "Potential reduction in disaster damage",
+        "Major geopolitical oversight challenges",
+        "New planetary engineering ethics"
+      ],
+      "image": {
+        "alt": "First Orbital Weather Control Station Becomes Operational",
+        "prompts": [
+          "Clean futuristic documentary scene of first Orbital Weather Control Station Becomes Operational, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Orbital Weather Control Station Becomes Operational as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Orbital Weather Control Station Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Orbital Weather Control Station Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-orbital-weather-control-station-becomes-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-orbital-weather-control-station-becomes-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs",
+      "order": 19,
+      "slug": "fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs",
+      "title": "Fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs",
+      "shortTitle": "Fusion Cargo Ships",
+      "category": "Energy",
+      "description": "Fusion-assisted autonomous cargo ships begin carrying heavy supplies between Earth orbit, the Moon, Mars, and industrial stations.",
+      "layerId": "technology",
+      "domains": ["space", "fusion", "logistics"],
+      "maturity": "advanced-prototype",
+      "timeframe": {
+        "startYear": 2051,
+        "endYear": 2064
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Interplanetary logistics gains higher energy capacity, enabling larger and more frequent cargo movement.",
+      "signals": [
+        "Fusion propulsion modules complete long-duration tests",
+        "Autonomous navigation handles deep-space transfer windows",
+        "Cargo ships dock with lunar and Mars logistics hubs"
+      ],
+      "implications": [
+        "Cheaper heavy cargo transport",
+        "Growth of interplanetary industry",
+        "New safety rules for fusion-powered spacecraft"
+      ],
+      "image": {
+        "alt": "Fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs",
+        "prompts": [
+          "Clean futuristic documentary scene of fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy",
+      "order": 20,
+      "slug": "open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy",
+      "title": "Open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy",
+      "shortTitle": "Open-Air Fusion Ignition",
+      "category": "Energy",
+      "description": "Open-air fusion ignition systems provide scalable power for large space infrastructure experiments, construction yards, and energy-intensive orbital operations.",
+      "layerId": "technology",
+      "domains": ["space", "fusion", "infrastructure"],
+      "maturity": "breakthrough-demonstration",
+      "timeframe": {
+        "startYear": 2051,
+        "endYear": 2064
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Very large space projects become more feasible as high-density energy becomes available beyond Earth.",
+      "signals": [
+        "Fusion ignition is demonstrated outside traditional reactor facilities",
+        "Orbital construction sites demand higher power density",
+        "Energy safety protocols mature for space environments"
+      ],
+      "implications": [
+        "Power for megastructure construction",
+        "Lower dependence on shipped fuel",
+        "Acceleration of orbital and lunar industry"
+      ],
+      "image": {
+        "alt": "Open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy",
+        "prompts": [
+          "Clean futuristic documentary scene of open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes",
+      "order": 21,
+      "slug": "ai-space-traffic-control-system-coordinates-earth-moon-routes",
+      "title": "aI Space Traffic Control System Coordinates Earth-Moon Routes",
+      "shortTitle": "AI Space Traffic Control",
+      "category": "AI & Computing",
+      "description": "AI Space Traffic Control System Coordinates Earth-Moon Routes extends intelligent systems into space operations, traffic control, mission command, asteroid surveying, and closed-loop off-world infrastructure.",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2055,
+        "endYear": 2059
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "AI Space Traffic Control System Coordinates Earth-Moon Routes becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "AI systems become trusted in high-stakes workflows",
+        "Human oversight shifts toward supervision and validation",
+        "Automation spreads from digital work into physical infrastructure"
+      ],
+      "implications": [
+        "Access to expert-level services expands",
+        "Scientific and operational decisions accelerate",
+        "Governance and safety standards become more important"
+      ],
+      "image": {
+        "alt": "AI Space Traffic Control System Coordinates Earth-Moon Routes",
+        "prompts": [
+          "aI Space Traffic Control System Coordinates Earth-Moon Routes, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Space Traffic Control System Coordinates Earth-Moon Routes, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Space Traffic Control System Coordinates Earth-Moon Routes, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Space Traffic Control System Coordinates Earth-Moon Routes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems",
+      "order": 22,
+      "slug": "autonomous-ai-scientists-optimize-closed-loop-life-support-systems",
+      "title": "autonomous AI Scientists Optimize Closed-Loop Life Support Systems",
+      "shortTitle": "Autonomous AI Scientists Optimize",
+      "category": "AI & Computing",
+      "description": "Autonomous AI Scientists Optimize Closed-Loop Life Support Systems extends intelligent systems into space operations, traffic control, mission command, asteroid surveying, and closed-loop off-world infrastructure.",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2055,
+        "endYear": 2059
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Autonomous AI Scientists Optimize Closed-Loop Life Support Systems becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "AI systems become trusted in high-stakes workflows",
+        "Human oversight shifts toward supervision and validation",
+        "Automation spreads from digital work into physical infrastructure"
+      ],
+      "implications": [
+        "Access to expert-level services expands",
+        "Scientific and operational decisions accelerate",
+        "Governance and safety standards become more important"
+      ],
+      "image": {
+        "alt": "Autonomous AI Scientists Optimize Closed-Loop Life Support Systems",
+        "prompts": [
+          "autonomous AI Scientists Optimize Closed-Loop Life Support Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous AI Scientists Optimize Closed-Loop Life Support Systems, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous AI Scientists Optimize Closed-Loop Life Support Systems, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous AI Scientists Optimize Closed-Loop Life Support Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-interplanetary-quantum-communication-network-pilot-goes-live",
+      "order": 23,
+      "slug": "interplanetary-quantum-communication-network-pilot-goes-live",
+      "title": "interplanetary Quantum Communication Network Pilot Goes Live",
+      "shortTitle": "Interplanetary Quantum Communication Network",
+      "category": "AI & Computing",
+      "description": "Interplanetary Quantum Communication Network Pilot Goes Live extends intelligent systems into space operations, traffic control, mission command, asteroid surveying, and closed-loop off-world infrastructure.",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2056,
+        "endYear": 2060
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Interplanetary Quantum Communication Network Pilot Goes Live becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "AI systems become trusted in high-stakes workflows",
+        "Human oversight shifts toward supervision and validation",
+        "Automation spreads from digital work into physical infrastructure"
+      ],
+      "implications": [
+        "Access to expert-level services expands",
+        "Scientific and operational decisions accelerate",
+        "Governance and safety standards become more important"
+      ],
+      "image": {
+        "alt": "Interplanetary Quantum Communication Network Pilot Goes Live",
+        "prompts": [
+          "interplanetary Quantum Communication Network Pilot Goes Live, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing interplanetary Quantum Communication Network Pilot Goes Live, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of interplanetary Quantum Communication Network Pilot Goes Live, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating interplanetary Quantum Communication Network Pilot Goes Live, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-interplanetary-quantum-communication-network-pilot-goes-live.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-interplanetary-quantum-communication-network-pilot-goes-live.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-orbital-maintenance-robots-service-commercial-space-stations",
+      "order": 24,
+      "slug": "orbital-maintenance-robots-service-commercial-space-stations",
+      "title": "orbital Maintenance Robots Service Commercial Space Stations",
+      "shortTitle": "Orbital Maintenance Robots Service",
+      "category": "Robotics",
+      "description": "Orbital Maintenance Robots Service Commercial Space Stations puts autonomous machines at the center of lunar, orbital, Martian, and deep-space construction, maintenance, mining, and repair.",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2056,
+        "endYear": 2060
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Orbital Maintenance Robots Service Commercial Space Stations becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Robots operate reliably in public and industrial environments",
+        "Autonomous fleets coordinate across cities or off-world facilities",
+        "Machine labor begins replacing dangerous repetitive work"
+      ],
+      "implications": [
+        "Physical services become cheaper and more available",
+        "Human exposure to hazardous work decreases",
+        "Infrastructure can scale faster than traditional labor allows"
+      ],
+      "image": {
+        "alt": "Orbital Maintenance Robots Service Commercial Space Stations",
+        "prompts": [
+          "orbital Maintenance Robots Service Commercial Space Stations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing orbital Maintenance Robots Service Commercial Space Stations, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of orbital Maintenance Robots Service Commercial Space Stations, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating orbital Maintenance Robots Service Commercial Space Stations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-orbital-maintenance-robots-service-commercial-space-stations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-orbital-maintenance-robots-service-commercial-space-stations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-autonomous-lunar-mining-robots-reach-continuous-operation",
+      "order": 25,
+      "slug": "autonomous-lunar-mining-robots-reach-continuous-operation",
+      "title": "autonomous Lunar Mining Robots Reach Continuous Operation",
+      "shortTitle": "Autonomous Lunar Mining Robots",
+      "category": "Robotics",
+      "description": "Autonomous Lunar Mining Robots Reach Continuous Operation puts autonomous machines at the center of lunar, orbital, Martian, and deep-space construction, maintenance, mining, and repair.",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2057,
+        "endYear": 2061
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Autonomous Lunar Mining Robots Reach Continuous Operation becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Robots operate reliably in public and industrial environments",
+        "Autonomous fleets coordinate across cities or off-world facilities",
+        "Machine labor begins replacing dangerous repetitive work"
+      ],
+      "implications": [
+        "Physical services become cheaper and more available",
+        "Human exposure to hazardous work decreases",
+        "Infrastructure can scale faster than traditional labor allows"
+      ],
+      "image": {
+        "alt": "Autonomous Lunar Mining Robots Reach Continuous Operation",
+        "prompts": [
+          "autonomous Lunar Mining Robots Reach Continuous Operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Lunar Mining Robots Reach Continuous Operation, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Lunar Mining Robots Reach Continuous Operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Lunar Mining Robots Reach Continuous Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions",
+      "order": 26,
+      "slug": "deep-space-repair-robots-become-standard-for-interplanetary-missions",
+      "title": "deep-Space Repair Robots Become Standard for Interplanetary Missions",
+      "shortTitle": "DeepSpace Repair Robots for",
+      "category": "Robotics",
+      "description": "Deep-Space Repair Robots Become Standard for Interplanetary Missions puts autonomous machines at the center of lunar, orbital, Martian, and deep-space construction, maintenance, mining, and repair.",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2057,
+        "endYear": 2061
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Deep-Space Repair Robots Become Standard for Interplanetary Missions becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Robots operate reliably in public and industrial environments",
+        "Autonomous fleets coordinate across cities or off-world facilities",
+        "Machine labor begins replacing dangerous repetitive work"
+      ],
+      "implications": [
+        "Physical services become cheaper and more available",
+        "Human exposure to hazardous work decreases",
+        "Infrastructure can scale faster than traditional labor allows"
+      ],
+      "image": {
+        "alt": "Deep-Space Repair Robots Become Standard for Interplanetary Missions",
+        "prompts": [
+          "deep-Space Repair Robots Become Standard for Interplanetary Missions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing deep-Space Repair Robots Become Standard for Interplanetary Missions, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of deep-Space Repair Robots Become Standard for Interplanetary Missions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating deep-Space Repair Robots Become Standard for Interplanetary Missions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-lunar-helium-3-processing-demonstration-plant-opens",
+      "order": 27,
+      "slug": "lunar-helium-3-processing-demonstration-plant-opens",
+      "title": "lunar Helium-3 Processing Demonstration Plant Opens",
+      "shortTitle": "Lunar Helium3 Processing Demonstration",
+      "category": "Energy",
+      "description": "Lunar Helium-3 Processing Demonstration Plant Opens turns advanced energy into the foundation of early space civilization, supporting orbital stations, lunar industry, interplanetary cargo, and energy transfer.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2062
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Lunar Helium-3 Processing Demonstration Plant Opens becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Prototype energy systems reach sustained demonstrations",
+        "Smart grids reduce waste and improve reliability",
+        "Energy infrastructure starts integrating with roads, buildings, and space assets"
+      ],
+      "implications": [
+        "Clean energy becomes easier to scale",
+        "Transportation and construction become less carbon intensive",
+        "Future space infrastructure becomes more economically plausible"
+      ],
+      "image": {
+        "alt": "Lunar Helium-3 Processing Demonstration Plant Opens",
+        "prompts": [
+          "lunar Helium-3 Processing Demonstration Plant Opens, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lunar Helium-3 Processing Demonstration Plant Opens, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lunar Helium-3 Processing Demonstration Plant Opens, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lunar Helium-3 Processing Demonstration Plant Opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-lunar-helium-3-processing-demonstration-plant-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-helium-3-processing-demonstration-plant-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable",
+      "order": 28,
+      "slug": "wireless-energy-transmission-between-orbital-stations-becomes-reliable",
+      "title": "wireless Energy Transmission Between Orbital Stations Becomes Reliable",
+      "shortTitle": "Wireless Energy Transmission Between",
+      "category": "Energy",
+      "description": "Wireless Energy Transmission Between Orbital Stations Becomes Reliable turns advanced energy into the foundation of early space civilization, supporting orbital stations, lunar industry, interplanetary cargo, and energy transfer.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2062
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Wireless Energy Transmission Between Orbital Stations Becomes Reliable becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Prototype energy systems reach sustained demonstrations",
+        "Smart grids reduce waste and improve reliability",
+        "Energy infrastructure starts integrating with roads, buildings, and space assets"
+      ],
+      "implications": [
+        "Clean energy becomes easier to scale",
+        "Transportation and construction become less carbon intensive",
+        "Future space infrastructure becomes more economically plausible"
+      ],
+      "image": {
+        "alt": "Wireless Energy Transmission Between Orbital Stations Becomes Reliable",
+        "prompts": [
+          "wireless Energy Transmission Between Orbital Stations Becomes Reliable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing wireless Energy Transmission Between Orbital Stations Becomes Reliable, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of wireless Energy Transmission Between Orbital Stations Becomes Reliable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating wireless Energy Transmission Between Orbital Stations Becomes Reliable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-artificial-womb-research-supports-long-duration-space-missions",
+      "order": 29,
+      "slug": "artificial-womb-research-supports-long-duration-space-missions",
+      "title": "artificial Womb Research Supports Long-Duration Space Missions",
+      "shortTitle": "Artificial Womb Research Supports",
+      "category": "Biology & Medicine",
+      "description": "Artificial Womb Research Supports Long-Duration Space Missions adapts medicine, reproduction, agriculture, and life support for permanent human activity beyond Earth.",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2059,
+        "endYear": 2063
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Artificial Womb Research Supports Long-Duration Space Missions becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Disease detection moves earlier and becomes more personalized",
+        "Regenerative and gene-based treatments expand",
+        "Closed-loop biological systems support space habitation"
+      ],
+      "implications": [
+        "Health systems become more preventive",
+        "Human bodies become more repairable",
+        "Long-duration space life becomes more realistic"
+      ],
+      "image": {
+        "alt": "Artificial Womb Research Supports Long-Duration Space Missions",
+        "prompts": [
+          "artificial Womb Research Supports Long-Duration Space Missions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Womb Research Supports Long-Duration Space Missions, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Womb Research Supports Long-Duration Space Missions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Womb Research Supports Long-Duration Space Missions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-artificial-womb-research-supports-long-duration-space-missions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-artificial-womb-research-supports-long-duration-space-missions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-artificial-gravity-habitat-prototype-completes-one-year-trial",
+      "order": 30,
+      "slug": "artificial-gravity-habitat-prototype-completes-one-year-trial",
+      "title": "artificial Gravity Habitat Prototype Completes One-Year Trial",
+      "shortTitle": "Artificial Gravity Habitat Prototype",
+      "category": "Physics",
+      "description": "Artificial Gravity Habitat Prototype Completes One-Year Trial applies advanced physics to artificial gravity, radiation protection, quantum timing, navigation, and deep-space observation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2059,
+        "endYear": 2063
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Artificial Gravity Habitat Prototype Completes One-Year Trial becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Experimental physics reaches repeatable engineered prototypes",
+        "Quantum and field-based systems leave laboratory-only settings",
+        "Precision measurement improves navigation and science"
+      ],
+      "implications": [
+        "New infrastructure capabilities become possible",
+        "Space settlement becomes safer",
+        "Future breakthroughs gain clearer engineering pathways"
+      ],
+      "image": {
+        "alt": "Artificial Gravity Habitat Prototype Completes One-Year Trial",
+        "prompts": [
+          "artificial Gravity Habitat Prototype Completes One-Year Trial, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Habitat Prototype Completes One-Year Trial, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Habitat Prototype Completes One-Year Trial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Habitat Prototype Completes One-Year Trial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-radiation-shielding-using-magnetic-fields-demonstrated",
+      "order": 31,
+      "slug": "radiation-shielding-using-magnetic-fields-demonstrated",
+      "title": "radiation Shielding Using Magnetic Fields Demonstrated",
+      "shortTitle": "Radiation Shielding Magnetic Fields",
+      "category": "Physics",
+      "description": "Radiation Shielding Using Magnetic Fields Demonstrated applies advanced physics to artificial gravity, radiation protection, quantum timing, navigation, and deep-space observation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2064
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Radiation Shielding Using Magnetic Fields Demonstrated becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Experimental physics reaches repeatable engineered prototypes",
+        "Quantum and field-based systems leave laboratory-only settings",
+        "Precision measurement improves navigation and science"
+      ],
+      "implications": [
+        "New infrastructure capabilities become possible",
+        "Space settlement becomes safer",
+        "Future breakthroughs gain clearer engineering pathways"
+      ],
+      "image": {
+        "alt": "Radiation Shielding Using Magnetic Fields Demonstrated",
+        "prompts": [
+          "radiation Shielding Using Magnetic Fields Demonstrated, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing radiation Shielding Using Magnetic Fields Demonstrated, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of radiation Shielding Using Magnetic Fields Demonstrated, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating radiation Shielding Using Magnetic Fields Demonstrated, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-radiation-shielding-using-magnetic-fields-demonstrated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-radiation-shielding-using-magnetic-fields-demonstrated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-space-based-quantum-clock-network-improves-navigation-precision",
+      "order": 32,
+      "slug": "space-based-quantum-clock-network-improves-navigation-precision",
+      "title": "space-Based Quantum Clock Network Improves Navigation Precision",
+      "shortTitle": "SpaceBased Quantum Clock Network",
+      "category": "Physics",
+      "description": "Space-Based Quantum Clock Network Improves Navigation Precision applies advanced physics to artificial gravity, radiation protection, quantum timing, navigation, and deep-space observation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2064
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Space-Based Quantum Clock Network Improves Navigation Precision becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Experimental physics reaches repeatable engineered prototypes",
+        "Quantum and field-based systems leave laboratory-only settings",
+        "Precision measurement improves navigation and science"
+      ],
+      "implications": [
+        "New infrastructure capabilities become possible",
+        "Space settlement becomes safer",
+        "Future breakthroughs gain clearer engineering pathways"
+      ],
+      "image": {
+        "alt": "Space-Based Quantum Clock Network Improves Navigation Precision",
+        "prompts": [
+          "space-Based Quantum Clock Network Improves Navigation Precision, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Based Quantum Clock Network Improves Navigation Precision, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Based Quantum Clock Network Improves Navigation Precision, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Based Quantum Clock Network Improves Navigation Precision, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-space-based-quantum-clock-network-improves-navigation-precision.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-based-quantum-clock-network-improves-navigation-precision.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-deep-space-neutrino-observatory-begins-operation",
+      "order": 33,
+      "slug": "deep-space-neutrino-observatory-begins-operation",
+      "title": "deep-Space Neutrino Observatory Begins Operation",
+      "shortTitle": "DeepSpace Neutrino Observatory Operation",
+      "category": "Physics",
+      "description": "Deep-Space Neutrino Observatory Begins Operation applies advanced physics to artificial gravity, radiation protection, quantum timing, navigation, and deep-space observation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2061,
+        "endYear": 2065
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Deep-Space Neutrino Observatory Begins Operation becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Experimental physics reaches repeatable engineered prototypes",
+        "Quantum and field-based systems leave laboratory-only settings",
+        "Precision measurement improves navigation and science"
+      ],
+      "implications": [
+        "New infrastructure capabilities become possible",
+        "Space settlement becomes safer",
+        "Future breakthroughs gain clearer engineering pathways"
+      ],
+      "image": {
+        "alt": "Deep-Space Neutrino Observatory Begins Operation",
+        "prompts": [
+          "deep-Space Neutrino Observatory Begins Operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing deep-Space Neutrino Observatory Begins Operation, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of deep-Space Neutrino Observatory Begins Operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating deep-Space Neutrino Observatory Begins Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-deep-space-neutrino-observatory-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-deep-space-neutrino-observatory-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon",
+      "order": 34,
+      "slug": "regolith-based-3d-printing-materials-become-standard-on-the-moon",
+      "title": "regolith-Based 3D Printing Materials Become Standard on the Moon",
+      "shortTitle": "RegolithBased 3D Printing Materials",
+      "category": "Materials & Manufacturing",
+      "description": "Regolith-Based 3D Printing Materials Become Standard on the Moon creates the industrial base for building, repairing, and manufacturing in orbit, on the Moon, and across cislunar space.",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2061,
+        "endYear": 2065
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Regolith-Based 3D Printing Materials Become Standard on the Moon becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Low-carbon and self-healing materials enter commercial use",
+        "Additive manufacturing scales to buildings and infrastructure",
+        "Space manufacturing produces materials not practical on Earth"
+      ],
+      "implications": [
+        "Construction becomes cheaper and cleaner",
+        "Cities and space habitats become more resilient",
+        "Supply chains shift toward local and automated production"
+      ],
+      "image": {
+        "alt": "Regolith-Based 3D Printing Materials Become Standard on the Moon",
+        "prompts": [
+          "regolith-Based 3D Printing Materials Become Standard on the Moon, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing regolith-Based 3D Printing Materials Become Standard on the Moon, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of regolith-Based 3D Printing Materials Become Standard on the Moon, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating regolith-Based 3D Printing Materials Become Standard on the Moon, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-self-healing-spacecraft-hull-materials-enter-service",
+      "order": 35,
+      "slug": "self-healing-spacecraft-hull-materials-enter-service",
+      "title": "self-Healing Spacecraft Hull Materials Enter Service",
+      "shortTitle": "SelfHealing Spacecraft Hull Materials",
+      "category": "Materials & Manufacturing",
+      "description": "Self-Healing Spacecraft Hull Materials Enter Service creates the industrial base for building, repairing, and manufacturing in orbit, on the Moon, and across cislunar space.",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2066
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Self-Healing Spacecraft Hull Materials Enter Service becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Low-carbon and self-healing materials enter commercial use",
+        "Additive manufacturing scales to buildings and infrastructure",
+        "Space manufacturing produces materials not practical on Earth"
+      ],
+      "implications": [
+        "Construction becomes cheaper and cleaner",
+        "Cities and space habitats become more resilient",
+        "Supply chains shift toward local and automated production"
+      ],
+      "image": {
+        "alt": "Self-Healing Spacecraft Hull Materials Enter Service",
+        "prompts": [
+          "self-Healing Spacecraft Hull Materials Enter Service, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Spacecraft Hull Materials Enter Service, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Spacecraft Hull Materials Enter Service, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Spacecraft Hull Materials Enter Service, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-self-healing-spacecraft-hull-materials-enter-service.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-self-healing-spacecraft-hull-materials-enter-service.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-carbon-nanotube-space-cables-reach-industrial-scale",
+      "order": 36,
+      "slug": "carbon-nanotube-space-cables-reach-industrial-scale",
+      "title": "carbon Nanotube Space Cables Reach Industrial Scale",
+      "shortTitle": "Carbon Nanotube Space Cables",
+      "category": "Materials & Manufacturing",
+      "description": "Carbon Nanotube Space Cables Reach Industrial Scale creates the industrial base for building, repairing, and manufacturing in orbit, on the Moon, and across cislunar space.",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2066
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Carbon Nanotube Space Cables Reach Industrial Scale becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Low-carbon and self-healing materials enter commercial use",
+        "Additive manufacturing scales to buildings and infrastructure",
+        "Space manufacturing produces materials not practical on Earth"
+      ],
+      "implications": [
+        "Construction becomes cheaper and cleaner",
+        "Cities and space habitats become more resilient",
+        "Supply chains shift toward local and automated production"
+      ],
+      "image": {
+        "alt": "Carbon Nanotube Space Cables Reach Industrial Scale",
+        "prompts": [
+          "carbon Nanotube Space Cables Reach Industrial Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Nanotube Space Cables Reach Industrial Scale, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Nanotube Space Cables Reach Industrial Scale, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Nanotube Space Cables Reach Industrial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-carbon-nanotube-space-cables-reach-industrial-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-carbon-nanotube-space-cables-reach-industrial-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors",
+      "order": 37,
+      "slug": "vacuum-manufacturing-produces-ultra-pure-semiconductors",
+      "title": "vacuum Manufacturing Produces Ultra-Pure Semiconductors",
+      "shortTitle": "Vacuum Manufacturing Produces UltraPure",
+      "category": "Materials & Manufacturing",
+      "description": "Vacuum Manufacturing Produces Ultra-Pure Semiconductors creates the industrial base for building, repairing, and manufacturing in orbit, on the Moon, and across cislunar space.",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2063,
+        "endYear": 2067
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Vacuum Manufacturing Produces Ultra-Pure Semiconductors becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Low-carbon and self-healing materials enter commercial use",
+        "Additive manufacturing scales to buildings and infrastructure",
+        "Space manufacturing produces materials not practical on Earth"
+      ],
+      "implications": [
+        "Construction becomes cheaper and cleaner",
+        "Cities and space habitats become more resilient",
+        "Supply chains shift toward local and automated production"
+      ],
+      "image": {
+        "alt": "Vacuum Manufacturing Produces Ultra-Pure Semiconductors",
+        "prompts": [
+          "vacuum Manufacturing Produces Ultra-Pure Semiconductors, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing vacuum Manufacturing Produces Ultra-Pure Semiconductors, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of vacuum Manufacturing Produces Ultra-Pure Semiconductors, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating vacuum Manufacturing Produces Ultra-Pure Semiconductors, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-in-orbit-additive-manufacturing-facilities-become-commercial",
+      "order": 38,
+      "slug": "in-orbit-additive-manufacturing-facilities-become-commercial",
+      "title": "in-Orbit Additive Manufacturing Facilities Become Commercial",
+      "shortTitle": "InOrbit Additive Manufacturing Facilities",
+      "category": "Materials & Manufacturing",
+      "description": "In-Orbit Additive Manufacturing Facilities Become Commercial creates the industrial base for building, repairing, and manufacturing in orbit, on the Moon, and across cislunar space.",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2063,
+        "endYear": 2067
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "In-Orbit Additive Manufacturing Facilities Become Commercial becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Low-carbon and self-healing materials enter commercial use",
+        "Additive manufacturing scales to buildings and infrastructure",
+        "Space manufacturing produces materials not practical on Earth"
+      ],
+      "implications": [
+        "Construction becomes cheaper and cleaner",
+        "Cities and space habitats become more resilient",
+        "Supply chains shift toward local and automated production"
+      ],
+      "image": {
+        "alt": "In-Orbit Additive Manufacturing Facilities Become Commercial",
+        "prompts": [
+          "in-Orbit Additive Manufacturing Facilities Become Commercial, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing in-Orbit Additive Manufacturing Facilities Become Commercial, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of in-Orbit Additive Manufacturing Facilities Become Commercial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating in-Orbit Additive Manufacturing Facilities Become Commercial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-space-radiation-monitoring-grid-covers-earth-moon-space",
+      "order": 39,
+      "slug": "space-radiation-monitoring-grid-covers-earth-moon-space",
+      "title": "space Radiation Monitoring Grid Covers Earth-Moon Space",
+      "shortTitle": "Space Radiation Monitoring Grid",
+      "category": "Environment",
+      "description": "Space Radiation Monitoring Grid Covers Earth-Moon Space extends environmental management into space while improving Earth systems through carbon capture, water recycling, radiation monitoring, and ecosystem recovery.",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2064,
+        "endYear": 2068
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Space Radiation Monitoring Grid Covers Earth-Moon Space becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "AI models guide climate and agriculture decisions",
+        "Restoration projects become measurable and scalable",
+        "Closed-loop resource systems reduce waste"
+      ],
+      "implications": [
+        "Climate and food risks become easier to manage",
+        "Ecological restoration becomes an active industry",
+        "Space habitats depend on sustainable resource loops"
+      ],
+      "image": {
+        "alt": "Space Radiation Monitoring Grid Covers Earth-Moon Space",
+        "prompts": [
+          "space Radiation Monitoring Grid Covers Earth-Moon Space, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space Radiation Monitoring Grid Covers Earth-Moon Space, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space Radiation Monitoring Grid Covers Earth-Moon Space, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space Radiation Monitoring Grid Covers Earth-Moon Space, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency",
+      "order": 40,
+      "slug": "closed-loop-water-recycling-achieves-near-perfect-efficiency",
+      "title": "closed-Loop Water Recycling Achieves Near-Perfect Efficiency",
+      "shortTitle": "ClosedLoop Water Recycling Achieves",
+      "category": "Environment",
+      "description": "Closed-Loop Water Recycling Achieves Near-Perfect Efficiency extends environmental management into space while improving Earth systems through carbon capture, water recycling, radiation monitoring, and ecosystem recovery.",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2064,
+        "endYear": 2068
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Closed-Loop Water Recycling Achieves Near-Perfect Efficiency becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "AI models guide climate and agriculture decisions",
+        "Restoration projects become measurable and scalable",
+        "Closed-loop resource systems reduce waste"
+      ],
+      "implications": [
+        "Climate and food risks become easier to manage",
+        "Ecological restoration becomes an active industry",
+        "Space habitats depend on sustainable resource loops"
+      ],
+      "image": {
+        "alt": "Closed-Loop Water Recycling Achieves Near-Perfect Efficiency",
+        "prompts": [
+          "closed-Loop Water Recycling Achieves Near-Perfect Efficiency, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing closed-Loop Water Recycling Achieves Near-Perfect Efficiency, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of closed-Loop Water Recycling Achieves Near-Perfect Efficiency, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating closed-Loop Water Recycling Achieves Near-Perfect Efficiency, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth",
+      "order": 41,
+      "slug": "carbon-capture-megaprojects-reverse-atmospheric-co2-growth",
+      "title": "carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth",
+      "shortTitle": "Carbon Capture Megaprojects Reverse",
+      "category": "Environment",
+      "description": "Carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth extends environmental management into space while improving Earth systems through carbon capture, water recycling, radiation monitoring, and ecosystem recovery.",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2069
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "AI models guide climate and agriculture decisions",
+        "Restoration projects become measurable and scalable",
+        "Closed-loop resource systems reduce waste"
+      ],
+      "implications": [
+        "Climate and food risks become easier to manage",
+        "Ecological restoration becomes an active industry",
+        "Space habitats depend on sustainable resource loops"
+      ],
+      "image": {
+        "alt": "Carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth",
+        "prompts": [
+          "carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions",
+      "order": 42,
+      "slug": "ocean-ecosystem-recovery-programs-restore-major-coral-regions",
+      "title": "ocean Ecosystem Recovery Programs Restore Major Coral Regions",
+      "shortTitle": "Ocean Ecosystem Recovery Programs",
+      "category": "Environment",
+      "description": "Ocean Ecosystem Recovery Programs Restore Major Coral Regions extends environmental management into space while improving Earth systems through carbon capture, water recycling, radiation monitoring, and ecosystem recovery.",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2069
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ocean Ecosystem Recovery Programs Restore Major Coral Regions becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "AI models guide climate and agriculture decisions",
+        "Restoration projects become measurable and scalable",
+        "Closed-loop resource systems reduce waste"
+      ],
+      "implications": [
+        "Climate and food risks become easier to manage",
+        "Ecological restoration becomes an active industry",
+        "Space habitats depend on sustainable resource loops"
+      ],
+      "image": {
+        "alt": "Ocean Ecosystem Recovery Programs Restore Major Coral Regions",
+        "prompts": [
+          "ocean Ecosystem Recovery Programs Restore Major Coral Regions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ocean Ecosystem Recovery Programs Restore Major Coral Regions, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ocean Ecosystem Recovery Programs Restore Major Coral Regions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ocean Ecosystem Recovery Programs Restore Major Coral Regions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-lunar-property-rights-framework-receives-international-recognition",
+      "order": 43,
+      "slug": "lunar-property-rights-framework-receives-international-recognition",
+      "title": "lunar Property Rights Framework Receives International Recognition",
+      "shortTitle": "Lunar Property Rights Framework",
+      "category": "Society & Economy",
+      "description": "Lunar Property Rights Framework Receives International Recognition builds the first legal, financial, cultural, and insurance systems needed for Earth-Moon economic activity.",
+      "layerId": "society-economy",
+      "domains": ["social-systems", "economy", "public-services"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2066,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Lunar Property Rights Framework Receives International Recognition becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Digital public infrastructure becomes interoperable",
+        "New economic systems form around automation and space services",
+        "Legal institutions adapt to new technological realities"
+      ],
+      "implications": [
+        "Access to services becomes easier and more global",
+        "Space commerce gains legitimacy",
+        "Economic life becomes more digital and border-crossing"
+      ],
+      "image": {
+        "alt": "Lunar Property Rights Framework Receives International Recognition",
+        "prompts": [
+          "lunar Property Rights Framework Receives International Recognition, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lunar Property Rights Framework Receives International Recognition, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lunar Property Rights Framework Receives International Recognition, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lunar Property Rights Framework Receives International Recognition, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-lunar-property-rights-framework-receives-international-recognition.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-property-rights-framework-receives-international-recognition.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-interplanetary-insurance-industry-emerges",
+      "order": 44,
+      "slug": "first-interplanetary-insurance-industry-emerges",
+      "title": "first Interplanetary Insurance Industry Emerges",
+      "shortTitle": "Interplanetary Insurance Industry Emerges",
+      "category": "Society & Economy",
+      "description": "First Interplanetary Insurance Industry Emerges builds the first legal, financial, cultural, and insurance systems needed for Earth-Moon economic activity.",
+      "layerId": "society-economy",
+      "domains": ["social-systems", "economy", "public-services"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2066,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "First Interplanetary Insurance Industry Emerges becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Digital public infrastructure becomes interoperable",
+        "New economic systems form around automation and space services",
+        "Legal institutions adapt to new technological realities"
+      ],
+      "implications": [
+        "Access to services becomes easier and more global",
+        "Space commerce gains legitimacy",
+        "Economic life becomes more digital and border-crossing"
+      ],
+      "image": {
+        "alt": "First Interplanetary Insurance Industry Emerges",
+        "prompts": [
+          "first Interplanetary Insurance Industry Emerges, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Interplanetary Insurance Industry Emerges, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Interplanetary Insurance Industry Emerges, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Interplanetary Insurance Industry Emerges, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-interplanetary-insurance-industry-emerges.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-interplanetary-insurance-industry-emerges.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-earth-moon-digital-currency-standard-gains-adoption",
+      "order": 45,
+      "slug": "earth-moon-digital-currency-standard-gains-adoption",
+      "title": "earth-Moon Digital Currency Standard Gains Adoption",
+      "shortTitle": "EarthMoon Digital Currency Gains",
+      "category": "Society & Economy",
+      "description": "Earth-Moon Digital Currency Standard Gains Adoption builds the first legal, financial, cultural, and insurance systems needed for Earth-Moon economic activity.",
+      "layerId": "society-economy",
+      "domains": ["social-systems", "economy", "public-services"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Earth-Moon Digital Currency Standard Gains Adoption becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "Digital public infrastructure becomes interoperable",
+        "New economic systems form around automation and space services",
+        "Legal institutions adapt to new technological realities"
+      ],
+      "implications": [
+        "Access to services becomes easier and more global",
+        "Space commerce gains legitimacy",
+        "Economic life becomes more digital and border-crossing"
+      ],
+      "image": {
+        "alt": "Earth-Moon Digital Currency Standard Gains Adoption",
+        "prompts": [
+          "earth-Moon Digital Currency Standard Gains Adoption, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon Digital Currency Standard Gains Adoption, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon Digital Currency Standard Gains Adoption, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon Digital Currency Standard Gains Adoption, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-earth-moon-digital-currency-standard-gains-adoption.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-earth-moon-digital-currency-standard-gains-adoption.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-permanent-lunar-settlement-reaches-1-000-residents",
+      "order": 46,
+      "slug": "first-permanent-lunar-settlement-reaches-1-000-residents",
+      "title": "first Permanent Lunar Settlement Reaches 1,000 Residents",
+      "shortTitle": "Permanent Lunar Settlement 1000",
+      "category": "Civilization",
+      "description": "First Permanent Lunar Settlement Reaches 1,000 Residents marks the first recognizable institutions, settlements, culture, and emergency systems of off-world civilization.",
+      "layerId": "civilization",
+      "domains": ["future-civilization", "governance", "institutions"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "First Permanent Lunar Settlement Reaches 1,000 Residents becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "New institutions form around space and technology",
+        "Permanent settlement becomes a planning assumption",
+        "Cultural activity expands beyond Earth"
+      ],
+      "implications": [
+        "Civilization starts moving beyond Earth-only systems",
+        "Shared rules become necessary for off-world life",
+        "Human identity begins expanding into cislunar society"
+      ],
+      "image": {
+        "alt": "First Permanent Lunar Settlement Reaches 1,000 Residents",
+        "prompts": [
+          "first Permanent Lunar Settlement Reaches 1,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Permanent Lunar Settlement Reaches 1,000 Residents, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Permanent Lunar Settlement Reaches 1,000 Residents, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Permanent Lunar Settlement Reaches 1,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars",
+      "order": 47,
+      "slug": "earth-moon-trade-volume-exceeds-one-trillion-dollars",
+      "title": "earth-Moon Trade Volume Exceeds One Trillion Dollars",
+      "shortTitle": "EarthMoon Trade Volume Exceeds",
+      "category": "Civilization",
+      "description": "Earth-Moon Trade Volume Exceeds One Trillion Dollars marks the first recognizable institutions, settlements, culture, and emergency systems of off-world civilization.",
+      "layerId": "civilization",
+      "domains": ["future-civilization", "governance", "institutions"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Earth-Moon Trade Volume Exceeds One Trillion Dollars becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "New institutions form around space and technology",
+        "Permanent settlement becomes a planning assumption",
+        "Cultural activity expands beyond Earth"
+      ],
+      "implications": [
+        "Civilization starts moving beyond Earth-only systems",
+        "Shared rules become necessary for off-world life",
+        "Human identity begins expanding into cislunar society"
+      ],
+      "image": {
+        "alt": "Earth-Moon Trade Volume Exceeds One Trillion Dollars",
+        "prompts": [
+          "earth-Moon Trade Volume Exceeds One Trillion Dollars, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon Trade Volume Exceeds One Trillion Dollars, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon Trade Volume Exceeds One Trillion Dollars, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon Trade Volume Exceeds One Trillion Dollars, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-space-university-opens-on-the-moon",
+      "order": 48,
+      "slug": "first-space-university-opens-on-the-moon",
+      "title": "first Space University Opens on the Moon",
+      "shortTitle": "Space University Opens on",
+      "category": "Civilization",
+      "description": "First Space University Opens on the Moon marks the first recognizable institutions, settlements, culture, and emergency systems of off-world civilization.",
+      "layerId": "civilization",
+      "domains": ["future-civilization", "governance", "institutions"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "First Space University Opens on the Moon becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "New institutions form around space and technology",
+        "Permanent settlement becomes a planning assumption",
+        "Cultural activity expands beyond Earth"
+      ],
+      "implications": [
+        "Civilization starts moving beyond Earth-only systems",
+        "Shared rules become necessary for off-world life",
+        "Human identity begins expanding into cislunar society"
+      ],
+      "image": {
+        "alt": "First Space University Opens on the Moon",
+        "prompts": [
+          "first Space University Opens on the Moon, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Space University Opens on the Moon, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Space University Opens on the Moon, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Space University Opens on the Moon, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-space-university-opens-on-the-moon.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-space-university-opens-on-the-moon.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-space-university-opens-on-the-moon.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-space-university-opens-on-the-moon.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-space-university-opens-on-the-moon.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-interplanetary-emergency-response-alliance-is-established",
+      "order": 49,
+      "slug": "interplanetary-emergency-response-alliance-is-established",
+      "title": "interplanetary Emergency Response Alliance Is Established",
+      "shortTitle": "Interplanetary Emergency Response Alliance",
+      "category": "Civilization",
+      "description": "Interplanetary Emergency Response Alliance Is Established marks the first recognizable institutions, settlements, culture, and emergency systems of off-world civilization.",
+      "layerId": "civilization",
+      "domains": ["future-civilization", "governance", "institutions"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2069,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Interplanetary Emergency Response Alliance Is Established becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "New institutions form around space and technology",
+        "Permanent settlement becomes a planning assumption",
+        "Cultural activity expands beyond Earth"
+      ],
+      "implications": [
+        "Civilization starts moving beyond Earth-only systems",
+        "Shared rules become necessary for off-world life",
+        "Human identity begins expanding into cislunar society"
+      ],
+      "image": {
+        "alt": "Interplanetary Emergency Response Alliance Is Established",
+        "prompts": [
+          "interplanetary Emergency Response Alliance Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing interplanetary Emergency Response Alliance Is Established, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of interplanetary Emergency Response Alliance Is Established, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating interplanetary Emergency Response Alliance Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-interplanetary-emergency-response-alliance-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-interplanetary-emergency-response-alliance-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-annual-earth-moon-cultural-festival-becomes-tradition",
+      "order": 50,
+      "slug": "annual-earth-moon-cultural-festival-becomes-tradition",
+      "title": "annual Earth-Moon Cultural Festival Becomes Tradition",
+      "shortTitle": "Annual EarthMoon Cultural Festival",
+      "category": "Civilization",
+      "description": "Annual Earth-Moon Cultural Festival Becomes Tradition marks the first recognizable institutions, settlements, culture, and emergency systems of off-world civilization.",
+      "layerId": "civilization",
+      "domains": ["future-civilization", "governance", "institutions"],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2069,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Annual Earth-Moon Cultural Festival Becomes Tradition becomes a defining milestone of early space civilization, helping humanity move from isolated missions toward permanent off-world systems.",
+      "signals": [
+        "New institutions form around space and technology",
+        "Permanent settlement becomes a planning assumption",
+        "Cultural activity expands beyond Earth"
+      ],
+      "implications": [
+        "Civilization starts moving beyond Earth-only systems",
+        "Shared rules become necessary for off-world life",
+        "Human identity begins expanding into cislunar society"
+      ],
+      "image": {
+        "alt": "Annual Earth-Moon Cultural Festival Becomes Tradition",
+        "prompts": [
+          "annual Earth-Moon Cultural Festival Becomes Tradition, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing annual Earth-Moon Cultural Festival Becomes Tradition, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of annual Earth-Moon Cultural Festival Becomes Tradition, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating annual Earth-Moon Cultural Festival Becomes Tradition, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-annual-earth-moon-cultural-festival-becomes-tradition.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-annual-earth-moon-cultural-festival-becomes-tradition.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

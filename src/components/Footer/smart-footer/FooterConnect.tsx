@@ -2,18 +2,12 @@ import React from "react";
 import {IFooter, IFooterDetail} from "@/lib/model/IFooter";
 import Link from "next/link";
 
-function shouldShowConnectItem(item: IFooterDetail): boolean {
-    const label = item.label.toLowerCase();
-    const link = item.link.toLowerCase();
+function getFooterConnectHref(lang: string, item: IFooterDetail): string {
+    if (item.link.startsWith("http")) {
+        return item.link;
+    }
 
-    return item.link !== undefined &&
-        label !== "contact" &&
-        link !== "/contact/" &&
-        label !== "youtube" &&
-        label !== "facebook" &&
-        !link.includes("youtube.com") &&
-        !link.includes("youtu.be") &&
-        !link.includes("facebook.com");
+    return '/' + lang + item.link;
 }
 
 export default function FooterConnect({lang, footer}: { lang: string, footer: IFooter }) {
@@ -23,27 +17,22 @@ export default function FooterConnect({lang, footer}: { lang: string, footer: IF
                 <h3 className='pb-2'>{footer.connect.title}</h3>
                 <div className="footer-bar footer-bar-bottom-addition"/>
                 <ul className="quick-links ul-footer">
-                    {footer.connect.items
-                        .filter(shouldShowConnectItem)
-                        .map((item: IFooterDetail, index: number) => {
+                    {footer.connect.items.map((item: IFooterDetail, index: number) => {
+                        const isExternalLink = item.link.startsWith("http");
 
-                            if (item.link.startsWith("http")) {
-                                return (<li key={index}>
-                                    <Link href={item.link} target={'_blank'}>
-                                        {item.label}
-                                    </Link>
-                                </li>)
-                            }
-
-                            return (
-                                <li key={index}>
-                                    <Link href={`/${lang}` + item.link}>
-                                        {item.label}
-                                    </Link>
-                                </li>
-                            )
-                        })
-                    }
+                        return (
+                            <li key={item.label + '-' + index}>
+                                <Link
+                                    href={getFooterConnectHref(lang, item)}
+                                    aria-label={item.ariaLabel}
+                                    target={isExternalLink ? '_blank' : undefined}
+                                    rel={isExternalLink ? 'noopener noreferrer' : undefined}
+                                >
+                                    {item.label}
+                                </Link>
+                            </li>
+                        );
+                    })}
                 </ul>
             </div>
         </div>

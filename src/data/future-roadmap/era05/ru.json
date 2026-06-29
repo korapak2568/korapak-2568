@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-05",
+    "order": 5,
+    "slug": "advanced-human-civilization",
+    "title": "Развитая человеческая цивилизация",
+    "subtitle": "Человечество осваивает цивилизационную систему Земля–орбита–Луна–Марс",
+    "description": "Эта эра знаменует становление зрелой многомировой цивилизации на Земле, орбите, Луне и Марсе, объединяющей космические мегаструктуры, лунные города, марсианскую промышленность, передовую медицину, нейронное присутствие и новые формы культуры и управления.",
+    "timeframe": {
+      "label": "Развитая человеческая цивилизация",
+      "startYear": 2110,
+      "endYear": 2170,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "expansive",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Эра 5: Развитая человеческая цивилизация | Дорожная карта будущей цивилизации",
+      "metaDescription": "Исследуйте развитую человеческую цивилизацию на Земле, орбите, Луне и Марсе, включая орбитальные среды обитания, лунные города, марсианский экспорт, квантовый интернет, цилиндры О’Нила и прорывы в долголетии.",
+      "keywords": [
+        "развитая человеческая цивилизация",
+        "экономика Земля Луна Марс",
+        "орбитальные среды обитания",
+        "лунный город",
+        "дорожная карта будущей цивилизации"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-05-orbital-ring-section-completed",
+      "order": 1,
+      "slug": "orbital-ring-section-completed",
+      "title": "Завершён участок орбитального кольца",
+      "shortTitle": "Участок орбитального кольца",
+      "category": "Space",
+      "description": "Завершён участок орбитального кольца обозначает крупное расширение постоянной человеческой активности за пределы Земли, превращая орбитальную, лунную и марсианскую инфраструктуру в обычные части цивилизации.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2122
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Завершён участок орбитального кольца становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Крупномасштабная орбитальная и внеземная инфраструктура становится надёжной",
+        "Гражданские путешествия и поселения расширяются за пределы Земли",
+        "Системы Земли, Луны и Марса работают как единая связанная цивилизация"
+      ],
+      "implications": [
+        "Человеческие поселения становятся всё более независимыми от Земли",
+        "Космическая инфраструктура становится частью обычной экономической жизни",
+        "Цивилизация повышает устойчивость благодаря распределённым средам обитания"
+      ],
+      "image": {
+        "alt": "Завершён участок орбитального кольца",
+        "prompts": [
+          "orbital Ring Section Completed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing orbital Ring Section Completed, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of orbital Ring Section Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating orbital Ring Section Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-orbital-ring-section-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-orbital-ring-section-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-orbital-ring-section-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-orbital-ring-section-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-orbital-ring-section-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-first-true-moon-city-reaches-10-000-residents",
+      "order": 2,
+      "slug": "first-true-moon-city-reaches-10-000-residents",
+      "title": "Первый настоящий лунный город достигает 10 000 жителей",
+      "shortTitle": "Лунный город на 10 000 жителей",
+      "category": "Space",
+      "description": "Первый настоящий лунный город достигает 10 000 жителей обозначает крупное расширение постоянной человеческой активности за пределы Земли, превращая орбитальную, лунную и марсианскую инфраструктуру в обычные части цивилизации.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2111,
+        "endYear": 2123
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Первый настоящий лунный город достигает 10 000 жителей становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Крупномасштабная орбитальная и внеземная инфраструктура становится надёжной",
+        "Гражданские путешествия и поселения расширяются за пределы Земли",
+        "Системы Земли, Луны и Марса работают как единая связанная цивилизация"
+      ],
+      "implications": [
+        "Человеческие поселения становятся всё более независимыми от Земли",
+        "Космическая инфраструктура становится частью обычной экономической жизни",
+        "Цивилизация повышает устойчивость благодаря распределённым средам обитания"
+      ],
+      "image": {
+        "alt": "Первый настоящий лунный город достигает 10 000 жителей",
+        "prompts": [
+          "first True Moon City Reaches 10,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first True Moon City Reaches 10,000 Residents, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first True Moon City Reaches 10,000 Residents, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first True Moon City Reaches 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-first-true-moon-city-reaches-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-true-moon-city-reaches-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-artificial-magnetosphere-protects-early-mars-settlements",
+      "order": 3,
+      "slug": "artificial-magnetosphere-protects-early-mars-settlements",
+      "title": "Искусственная магнитосфера защищает ранние поселения на Марсе",
+      "shortTitle": "Искусственная магнитосфера Марса",
+      "category": "Space",
+      "description": "Искусственная магнитосфера защищает ранние поселения на Марсе обозначает крупное расширение постоянной человеческой активности за пределы Земли, превращая орбитальную, лунную и марсианскую инфраструктуру в обычные части цивилизации.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2112,
+        "endYear": 2124
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Искусственная магнитосфера защищает ранние поселения на Марсе становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Крупномасштабная орбитальная и внеземная инфраструктура становится надёжной",
+        "Гражданские путешествия и поселения расширяются за пределы Земли",
+        "Системы Земли, Луны и Марса работают как единая связанная цивилизация"
+      ],
+      "implications": [
+        "Человеческие поселения становятся всё более независимыми от Земли",
+        "Космическая инфраструктура становится частью обычной экономической жизни",
+        "Цивилизация повышает устойчивость благодаря распределённым средам обитания"
+      ],
+      "image": {
+        "alt": "Искусственная магнитосфера защищает ранние поселения на Марсе",
+        "prompts": [
+          "artificial Magnetosphere Protects Early Mars Settlements, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Magnetosphere Protects Early Mars Settlements, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Magnetosphere Protects Early Mars Settlements, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Magnetosphere Protects Early Mars Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-oneill-cylinder-completed",
+      "order": 4,
+      "slug": "oneill-cylinder-completed",
+      "title": "Завершён цилиндр О’Нила",
+      "shortTitle": "Цилиндр О’Нила",
+      "category": "Space",
+      "description": "Завершён цилиндр О’Нила обозначает крупное расширение постоянной человеческой активности за пределы Земли, превращая орбитальную, лунную и марсианскую инфраструктуру в обычные части цивилизации.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2113,
+        "endYear": 2125
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Завершён цилиндр О’Нила становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Крупномасштабная орбитальная и внеземная инфраструктура становится надёжной",
+        "Гражданские путешествия и поселения расширяются за пределы Земли",
+        "Системы Земли, Луны и Марса работают как единая связанная цивилизация"
+      ],
+      "implications": [
+        "Человеческие поселения становятся всё более независимыми от Земли",
+        "Космическая инфраструктура становится частью обычной экономической жизни",
+        "Цивилизация повышает устойчивость благодаря распределённым средам обитания"
+      ],
+      "image": {
+        "alt": "Завершён цилиндр О’Нила",
+        "prompts": [
+          "o’Neill Cylinder Completed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing o’Neill Cylinder Completed, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of o’Neill Cylinder Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating o’Neill Cylinder Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-oneill-cylinder-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-oneill-cylinder-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-oneill-cylinder-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-oneill-cylinder-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-oneill-cylinder-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-quantum-internet-connects-earth-moon-and-mars",
+      "order": 5,
+      "slug": "quantum-internet-connects-earth-moon-and-mars",
+      "title": "Квантовый интернет соединяет Землю, Луну и Марс",
+      "shortTitle": "Квантовый интернет Земля–Луна–Марс",
+      "category": "AI & Computing",
+      "description": "Квантовый интернет соединяет Землю, Луну и Марс показывает, как продвинутые интеллектуальные системы становятся доверенной инфраструктурой для науки, управления, связи и крупномасштабной координации человеческой цивилизации.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2114,
+        "endYear": 2126
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Квантовый интернет соединяет Землю, Луну и Марс становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Системы ИИ координируют сложные многомировые операции",
+        "Квантово-защищённые сети поддерживают системы принятия решений в реальном времени",
+        "Человеческий надзор смещается от прямого контроля к стратегическому управлению"
+      ],
+      "implications": [
+        "Управление становится более предиктивным и менее реактивным",
+        "Научные открытия ускоряются",
+        "Координация между планетами становится возможной в масштабе"
+      ],
+      "image": {
+        "alt": "Квантовый интернет соединяет Землю, Луну и Марс",
+        "prompts": [
+          "quantum Internet Connects Earth, Moon, and Mars, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Internet Connects Earth, Moon, and Mars, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Internet Connects Earth, Moon, and Mars, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Internet Connects Earth, Moon, and Mars, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-quantum-internet-connects-earth-moon-and-mars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-quantum-internet-connects-earth-moon-and-mars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-first-interplanetary-olympic-games-held",
+      "order": 6,
+      "slug": "first-interplanetary-olympic-games-held",
+      "title": "Проведены первые межпланетные Олимпийские игры",
+      "shortTitle": "Межпланетные Олимпийские игры",
+      "category": "Space",
+      "description": "Проведены первые межпланетные Олимпийские игры обозначает крупное расширение постоянной человеческой активности за пределы Земли, превращая орбитальную, лунную и марсианскую инфраструктуру в обычные части цивилизации.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2116,
+        "endYear": 2128
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Проведены первые межпланетные Олимпийские игры становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Крупномасштабная орбитальная и внеземная инфраструктура становится надёжной",
+        "Гражданские путешествия и поселения расширяются за пределы Земли",
+        "Системы Земли, Луны и Марса работают как единая связанная цивилизация"
+      ],
+      "implications": [
+        "Человеческие поселения становятся всё более независимыми от Земли",
+        "Космическая инфраструктура становится частью обычной экономической жизни",
+        "Цивилизация повышает устойчивость благодаря распределённым средам обитания"
+      ],
+      "image": {
+        "alt": "Проведены первые межпланетные Олимпийские игры",
+        "prompts": [
+          "first Interplanetary Olympic Games Held, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Interplanetary Olympic Games Held, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Interplanetary Olympic Games Held, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Interplanetary Olympic Games Held, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-first-interplanetary-olympic-games-held.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-interplanetary-olympic-games-held.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-planet-scale-ai-mediates-geopolitical-conflicts",
+      "order": 7,
+      "slug": "planet-scale-ai-mediates-geopolitical-conflicts",
+      "title": "Планетарный ИИ выступает посредником в геополитических конфликтах",
+      "shortTitle": "Планетарный ИИ и конфликты",
+      "category": "AI & Computing",
+      "description": "Планетарный ИИ выступает посредником в геополитических конфликтах показывает, как продвинутые интеллектуальные системы становятся доверенной инфраструктурой для науки, управления, связи и крупномасштабной координации человеческой цивилизации.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2117,
+        "endYear": 2129
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Планетарный ИИ выступает посредником в геополитических конфликтах становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Системы ИИ координируют сложные многомировые операции",
+        "Квантово-защищённые сети поддерживают системы принятия решений в реальном времени",
+        "Человеческий надзор смещается от прямого контроля к стратегическому управлению"
+      ],
+      "implications": [
+        "Управление становится более предиктивным и менее реактивным",
+        "Научные открытия ускоряются",
+        "Координация между планетами становится возможной в масштабе"
+      ],
+      "image": {
+        "alt": "Планетарный ИИ выступает посредником в геополитических конфликтах",
+        "prompts": [
+          "planet-Scale AI Mediates Geopolitical Conflicts, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planet-Scale AI Mediates Geopolitical Conflicts, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planet-Scale AI Mediates Geopolitical Conflicts, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planet-Scale AI Mediates Geopolitical Conflicts, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-neural-telepresence-replaces-most-long-distance-travel",
+      "order": 8,
+      "slug": "neural-telepresence-replaces-most-long-distance-travel",
+      "title": "Нейронное телеприсутствие заменяет большинство дальних поездок",
+      "shortTitle": "Нейронное телеприсутствие",
+      "category": "Society & Economy",
+      "description": "Нейронное телеприсутствие заменяет большинство дальних поездок меняет повседневную жизнь, работу, мобильность и обмен ценностью по мере того, как человеческая цивилизация глубже входит в изобилие и связанную многомировую общественную систему.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2118,
+        "endYear": 2130
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Нейронное телеприсутствие заменяет большинство дальних поездок становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Повседневная жизнь всё меньше зависит от физического местоположения и традиционного труда",
+        "Общественные системы движутся к универсальному доступу и изобилию",
+        "Экономическая ценность смещается к знаниям, творчеству и присутствию"
+      ],
+      "implications": [
+        "Традиционные модели труда и валюты ослабевают",
+        "Доступ к услугам становится более универсальным",
+        "Мобильность человека всё меньше ограничивается расстоянием"
+      ],
+      "image": {
+        "alt": "Нейронное телеприсутствие заменяет большинство дальних поездок",
+        "prompts": [
+          "neural Telepresence Replaces Most Long-Distance Travel, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing neural Telepresence Replaces Most Long-Distance Travel, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of neural Telepresence Replaces Most Long-Distance Travel, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating neural Telepresence Replaces Most Long-Distance Travel, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities",
+      "order": 9,
+      "slug": "weather-moderation-prevents-most-hurricanes-from-reaching-cities",
+      "title": "Модерация погоды предотвращает выход большинства ураганов к городам",
+      "shortTitle": "Модерация погоды и ураганы",
+      "category": "Environment",
+      "description": "Модерация погоды предотвращает выход большинства ураганов к городам демонстрирует, что планетарные системы можно активно восстанавливать, стабилизировать и управлять ими с помощью передовой климатической науки, экологической инженерии и интеллектуальной инфраструктуры.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2119,
+        "endYear": 2131
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Модерация погоды предотвращает выход большинства ураганов к городам становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Климатические и экосистемные модели направляют реальные вмешательства",
+        "Проекты восстановления становятся измеримыми в планетарном масштабе",
+        "Предотвращение бедствий заменяет реактивное чрезвычайное реагирование"
+      ],
+      "implications": [
+        "Планетарное восстановление становится ключевой ответственностью",
+        "Климатические риски для крупных населённых центров снижаются",
+        "Экологическое восстановление становится измеримым и устойчивым"
+      ],
+      "image": {
+        "alt": "Модерация погоды предотвращает выход большинства ураганов к городам",
+        "prompts": [
+          "weather Moderation Prevents Most Hurricanes From Reaching Cities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing weather Moderation Prevents Most Hurricanes From Reaching Cities, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of weather Moderation Prevents Most Hurricanes From Reaching Cities, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating weather Moderation Prevents Most Hurricanes From Reaching Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-ai-designed-ecosystems-stabilize-damaged-biomes",
+      "order": 10,
+      "slug": "ai-designed-ecosystems-stabilize-damaged-biomes",
+      "title": "Экосистемы, спроектированные ИИ, стабилизируют повреждённые биомы",
+      "shortTitle": "ИИ-экосистемы для биомов",
+      "category": "Environment",
+      "description": "Экосистемы, спроектированные ИИ, стабилизируют повреждённые биомы демонстрирует, что планетарные системы можно активно восстанавливать, стабилизировать и управлять ими с помощью передовой климатической науки, экологической инженерии и интеллектуальной инфраструктуры.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2120,
+        "endYear": 2132
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Экосистемы, спроектированные ИИ, стабилизируют повреждённые биомы становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Климатические и экосистемные модели направляют реальные вмешательства",
+        "Проекты восстановления становятся измеримыми в планетарном масштабе",
+        "Предотвращение бедствий заменяет реактивное чрезвычайное реагирование"
+      ],
+      "implications": [
+        "Планетарное восстановление становится ключевой ответственностью",
+        "Климатические риски для крупных населённых центров снижаются",
+        "Экологическое восстановление становится измеримым и устойчивым"
+      ],
+      "image": {
+        "alt": "Экосистемы, спроектированные ИИ, стабилизируют повреждённые биомы",
+        "prompts": [
+          "aI-Designed Ecosystems Stabilize Damaged Biomes, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-Designed Ecosystems Stabilize Damaged Biomes, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-Designed Ecosystems Stabilize Damaged Biomes, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-Designed Ecosystems Stabilize Damaged Biomes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-memory-backup-becomes-available",
+      "order": 11,
+      "slug": "human-memory-backup-becomes-available",
+      "title": "Резервное копирование человеческой памяти становится доступным",
+      "shortTitle": "Резервное копирование памяти",
+      "category": "Biology & Medicine",
+      "description": "Резервное копирование человеческой памяти становится доступным преобразует здоровье и идентичность человека, продлевая жизнь, восстанавливая тело, сохраняя память и переопределяя возможности биологического существования.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2122,
+        "endYear": 2134
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Резервное копирование человеческой памяти становится доступным становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Регенеративная медицина и синтетическая биология становятся клинически надёжными",
+        "Персональные системы здоровья отслеживают долгосрочные биологические риски",
+        "Продолжительность жизни и дизайн тела человека становятся активными инженерными областями"
+      ],
+      "implications": [
+        "Период здоровой жизни человека резко расширяется",
+        "Идентичность становится менее зависимой от одного биологического тела",
+        "Медицинское неравенство снижается при широком управляемом доступе"
+      ],
+      "image": {
+        "alt": "Резервное копирование человеческой памяти становится доступным",
+        "prompts": [
+          "human Memory Backup Becomes Available, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Memory Backup Becomes Available, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Memory Backup Becomes Available, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Memory Backup Becomes Available, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-memory-backup-becomes-available.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-memory-backup-becomes-available.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-memory-backup-becomes-available.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-memory-backup-becomes-available.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-memory-backup-becomes-available.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-consciousness-research-produces-measurable-models-of-subjective-experience",
+      "order": 12,
+      "slug": "consciousness-research-produces-measurable-models-of-subjective-experience",
+      "title": "Исследования сознания создают измеримые модели субъективного опыта",
+      "shortTitle": "Измеримые модели сознания",
+      "category": "Biology & Medicine",
+      "description": "Исследования сознания создают измеримые модели субъективного опыта преобразует здоровье и идентичность человека, продлевая жизнь, восстанавливая тело, сохраняя память и переопределяя возможности биологического существования.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2123,
+        "endYear": 2135
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Исследования сознания создают измеримые модели субъективного опыта становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Регенеративная медицина и синтетическая биология становятся клинически надёжными",
+        "Персональные системы здоровья отслеживают долгосрочные биологические риски",
+        "Продолжительность жизни и дизайн тела человека становятся активными инженерными областями"
+      ],
+      "implications": [
+        "Период здоровой жизни человека резко расширяется",
+        "Идентичность становится менее зависимой от одного биологического тела",
+        "Медицинское неравенство снижается при широком управляемом доступе"
+      ],
+      "image": {
+        "alt": "Исследования сознания создают измеримые модели субъективного опыта",
+        "prompts": [
+          "consciousness Research Produces Measurable Models of Subjective Experience, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Research Produces Measurable Models of Subjective Experience, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Research Produces Measurable Models of Subjective Experience, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Research Produces Measurable Models of Subjective Experience, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-synthetic-biological-bodies-become-available-for-extreme-environments",
+      "order": 13,
+      "slug": "synthetic-biological-bodies-become-available-for-extreme-environments",
+      "title": "Синтетические биологические тела становятся доступными для экстремальных сред",
+      "shortTitle": "Синтетические биологические тела",
+      "category": "Biology & Medicine",
+      "description": "Синтетические биологические тела становятся доступными для экстремальных сред преобразует здоровье и идентичность человека, продлевая жизнь, восстанавливая тело, сохраняя память и переопределяя возможности биологического существования.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2124,
+        "endYear": 2136
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Синтетические биологические тела становятся доступными для экстремальных сред становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Регенеративная медицина и синтетическая биология становятся клинически надёжными",
+        "Персональные системы здоровья отслеживают долгосрочные биологические риски",
+        "Продолжительность жизни и дизайн тела человека становятся активными инженерными областями"
+      ],
+      "implications": [
+        "Период здоровой жизни человека резко расширяется",
+        "Идентичность становится менее зависимой от одного биологического тела",
+        "Медицинское неравенство снижается при широком управляемом доступе"
+      ],
+      "image": {
+        "alt": "Синтетические биологические тела становятся доступными для экстремальных сред",
+        "prompts": [
+          "synthetic Biological Bodies Become Available for Extreme Environments, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic Biological Bodies Become Available for Extreme Environments, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic Biological Bodies Become Available for Extreme Environments, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic Biological Bodies Become Available for Extreme Environments, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-end-of-cancer-as-a-human-disease",
+      "order": 14,
+      "slug": "end-of-cancer-as-a-human-disease",
+      "title": "Конец рака как человеческой болезни",
+      "shortTitle": "Конец рака",
+      "category": "Biology & Medicine",
+      "description": "Конец рака как человеческой болезни преобразует здоровье и идентичность человека, продлевая жизнь, восстанавливая тело, сохраняя память и переопределяя возможности биологического существования.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2125,
+        "endYear": 2137
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Конец рака как человеческой болезни становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Регенеративная медицина и синтетическая биология становятся клинически надёжными",
+        "Персональные системы здоровья отслеживают долгосрочные биологические риски",
+        "Продолжительность жизни и дизайн тела человека становятся активными инженерными областями"
+      ],
+      "implications": [
+        "Период здоровой жизни человека резко расширяется",
+        "Идентичность становится менее зависимой от одного биологического тела",
+        "Медицинское неравенство снижается при широком управляемом доступе"
+      ],
+      "image": {
+        "alt": "Конец рака как человеческой болезни",
+        "prompts": [
+          "end of Cancer as a Human Disease, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing end of Cancer as a Human Disease, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of end of Cancer as a Human Disease, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating end of Cancer as a Human Disease, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-end-of-cancer-as-a-human-disease.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-end-of-cancer-as-a-human-disease.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years",
+      "order": 15,
+      "slug": "cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years",
+      "title": "Терапия клеточного омоложения повышает среднюю продолжительность жизни человека к 200 годам",
+      "shortTitle": "Клеточное омоложение и долголетие",
+      "category": "Biology & Medicine",
+      "description": "Терапия клеточного омоложения повышает среднюю продолжительность жизни человека к 200 годам преобразует здоровье и идентичность человека, продлевая жизнь, восстанавливая тело, сохраняя память и переопределяя возможности биологического существования.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2126,
+        "endYear": 2138
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Терапия клеточного омоложения повышает среднюю продолжительность жизни человека к 200 годам становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Регенеративная медицина и синтетическая биология становятся клинически надёжными",
+        "Персональные системы здоровья отслеживают долгосрочные биологические риски",
+        "Продолжительность жизни и дизайн тела человека становятся активными инженерными областями"
+      ],
+      "implications": [
+        "Период здоровой жизни человека резко расширяется",
+        "Идентичность становится менее зависимой от одного биологического тела",
+        "Медицинское неравенство снижается при широком управляемом доступе"
+      ],
+      "image": {
+        "alt": "Терапия клеточного омоложения повышает среднюю продолжительность жизни человека к 200 годам",
+        "prompts": [
+          "cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-ai-scientists-discover-new-physics-beyond-the-standard-model",
+      "order": 16,
+      "slug": "ai-scientists-discover-new-physics-beyond-the-standard-model",
+      "title": "ИИ-учёные открывают новую физику за пределами Стандартной модели",
+      "shortTitle": "ИИ-учёные и новая физика",
+      "category": "AI & Computing",
+      "description": "ИИ-учёные открывают новую физику за пределами Стандартной модели показывает, как продвинутые интеллектуальные системы становятся доверенной инфраструктурой для науки, управления, связи и крупномасштабной координации человеческой цивилизации.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2128,
+        "endYear": 2140
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "ИИ-учёные открывают новую физику за пределами Стандартной модели становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Системы ИИ координируют сложные многомировые операции",
+        "Квантово-защищённые сети поддерживают системы принятия решений в реальном времени",
+        "Человеческий надзор смещается от прямого контроля к стратегическому управлению"
+      ],
+      "implications": [
+        "Управление становится более предиктивным и менее реактивным",
+        "Научные открытия ускоряются",
+        "Координация между планетами становится возможной в масштабе"
+      ],
+      "image": {
+        "alt": "ИИ-учёные открывают новую физику за пределами Стандартной модели",
+        "prompts": [
+          "aI Scientists Discover New Physics Beyond the Standard Model, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Scientists Discover New Physics Beyond the Standard Model, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Scientists Discover New Physics Beyond the Standard Model, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Scientists Discover New Physics Beyond the Standard Model, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-autonomous-ai-governments-manage-most-public-infrastructure",
+      "order": 17,
+      "slug": "autonomous-ai-governments-manage-most-public-infrastructure",
+      "title": "Автономные ИИ-правительства управляют большей частью общественной инфраструктуры",
+      "shortTitle": "Автономные ИИ-правительства",
+      "category": "AI & Computing",
+      "description": "Автономные ИИ-правительства управляют большей частью общественной инфраструктуры показывает, как продвинутые интеллектуальные системы становятся доверенной инфраструктурой для науки, управления, связи и крупномасштабной координации человеческой цивилизации.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2129,
+        "endYear": 2141
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Автономные ИИ-правительства управляют большей частью общественной инфраструктуры становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Системы ИИ координируют сложные многомировые операции",
+        "Квантово-защищённые сети поддерживают системы принятия решений в реальном времени",
+        "Человеческий надзор смещается от прямого контроля к стратегическому управлению"
+      ],
+      "implications": [
+        "Управление становится более предиктивным и менее реактивным",
+        "Научные открытия ускоряются",
+        "Координация между планетами становится возможной в масштабе"
+      ],
+      "image": {
+        "alt": "Автономные ИИ-правительства управляют большей частью общественной инфраструктуры",
+        "prompts": [
+          "autonomous AI Governments Manage Most Public Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous AI Governments Manage Most Public Infrastructure, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous AI Governments Manage Most Public Infrastructure, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous AI Governments Manage Most Public Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-autonomous-ai-governments-manage-most-public-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-ai-governments-manage-most-public-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-ai-cognitive-collaboration-becomes-standard",
+      "order": 18,
+      "slug": "human-ai-cognitive-collaboration-becomes-standard",
+      "title": "Когнитивное сотрудничество человека и ИИ становится стандартом",
+      "shortTitle": "Сотрудничество человека и ИИ",
+      "category": "AI & Computing",
+      "description": "Когнитивное сотрудничество человека и ИИ становится стандартом показывает, как продвинутые интеллектуальные системы становятся доверенной инфраструктурой для науки, управления, связи и крупномасштабной координации человеческой цивилизации.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2130,
+        "endYear": 2142
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Когнитивное сотрудничество человека и ИИ становится стандартом становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Системы ИИ координируют сложные многомировые операции",
+        "Квантово-защищённые сети поддерживают системы принятия решений в реальном времени",
+        "Человеческий надзор смещается от прямого контроля к стратегическому управлению"
+      ],
+      "implications": [
+        "Управление становится более предиктивным и менее реактивным",
+        "Научные открытия ускоряются",
+        "Координация между планетами становится возможной в масштабе"
+      ],
+      "image": {
+        "alt": "Когнитивное сотрудничество человека и ИИ становится стандартом",
+        "prompts": [
+          "human-AI Cognitive Collaboration Becomes Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human-AI Cognitive Collaboration Becomes Standard, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human-AI Cognitive Collaboration Becomes Standard, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human-AI Cognitive Collaboration Becomes Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-ai-cognitive-collaboration-becomes-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-ai-cognitive-collaboration-becomes-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure",
+      "order": 19,
+      "slug": "autonomous-space-construction-swarms-expand-orbital-infrastructure",
+      "title": "Автономные космические строительные рои расширяют орбитальную инфраструктуру",
+      "shortTitle": "Космические строительные рои",
+      "category": "Robotics",
+      "description": "Автономные космические строительные рои расширяют орбитальную инфраструктуру расширяет автономный машинный труд в среды, слишком обширные, опасные или сложные для традиционной человеческой работы, ускоряя строительство и обслуживание в масштабе цивилизации.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2131,
+        "endYear": 2143
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Автономные космические строительные рои расширяют орбитальную инфраструктуру становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Автономные рои выполняют сложную работу без постоянного надзора",
+        "Роботы работают в опасных космических, океанских и промышленных средах",
+        "Машинный труд становится встроенной инфраструктурой, а не видимым сервисом"
+      ],
+      "implications": [
+        "Опасный труд устраняется из человеческой жизни",
+        "Внеземное строительство ускоряется",
+        "Обслуживание огромной инфраструктуры становится экономически осуществимым"
+      ],
+      "image": {
+        "alt": "Автономные космические строительные рои расширяют орбитальную инфраструктуру",
+        "prompts": [
+          "autonomous Space Construction Swarms Expand Orbital Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Space Construction Swarms Expand Orbital Infrastructure, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Space Construction Swarms Expand Orbital Infrastructure, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Space Construction Swarms Expand Orbital Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-self-replicating-industrial-robots-operate-on-asteroids",
+      "order": 20,
+      "slug": "self-replicating-industrial-robots-operate-on-asteroids",
+      "title": "Самовоспроизводящиеся промышленные роботы работают на астероидах",
+      "shortTitle": "Самовоспроизводящиеся роботы",
+      "category": "Robotics",
+      "description": "Самовоспроизводящиеся промышленные роботы работают на астероидах расширяет автономный машинный труд в среды, слишком обширные, опасные или сложные для традиционной человеческой работы, ускоряя строительство и обслуживание в масштабе цивилизации.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2132,
+        "endYear": 2144
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Самовоспроизводящиеся промышленные роботы работают на астероидах становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Автономные рои выполняют сложную работу без постоянного надзора",
+        "Роботы работают в опасных космических, океанских и промышленных средах",
+        "Машинный труд становится встроенной инфраструктурой, а не видимым сервисом"
+      ],
+      "implications": [
+        "Опасный труд устраняется из человеческой жизни",
+        "Внеземное строительство ускоряется",
+        "Обслуживание огромной инфраструктуры становится экономически осуществимым"
+      ],
+      "image": {
+        "alt": "Самовоспроизводящиеся промышленные роботы работают на астероидах",
+        "prompts": [
+          "self-Replicating Industrial Robots Operate on Asteroids, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Replicating Industrial Robots Operate on Asteroids, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Replicating Industrial Robots Operate on Asteroids, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Replicating Industrial Robots Operate on Asteroids, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-self-replicating-industrial-robots-operate-on-asteroids.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-self-replicating-industrial-robots-operate-on-asteroids.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-robotic-exploration-networks-cover-the-outer-solar-system",
+      "order": 21,
+      "slug": "robotic-exploration-networks-cover-the-outer-solar-system",
+      "title": "Роботизированные исследовательские сети охватывают внешнюю Солнечную систему",
+      "shortTitle": "Роботизированные сети внешней системы",
+      "category": "Robotics",
+      "description": "Роботизированные исследовательские сети охватывают внешнюю Солнечную систему расширяет автономный машинный труд в среды, слишком обширные, опасные или сложные для традиционной человеческой работы, ускоряя строительство и обслуживание в масштабе цивилизации.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2134,
+        "endYear": 2146
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Роботизированные исследовательские сети охватывают внешнюю Солнечную систему становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Автономные рои выполняют сложную работу без постоянного надзора",
+        "Роботы работают в опасных космических, океанских и промышленных средах",
+        "Машинный труд становится встроенной инфраструктурой, а не видимым сервисом"
+      ],
+      "implications": [
+        "Опасный труд устраняется из человеческой жизни",
+        "Внеземное строительство ускоряется",
+        "Обслуживание огромной инфраструктуры становится экономически осуществимым"
+      ],
+      "image": {
+        "alt": "Роботизированные исследовательские сети охватывают внешнюю Солнечную систему",
+        "prompts": [
+          "robotic Exploration Networks Cover the Outer Solar System, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic Exploration Networks Cover the Outer Solar System, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic Exploration Networks Cover the Outer Solar System, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic Exploration Networks Cover the Outer Solar System, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-robotic-exploration-networks-cover-the-outer-solar-system.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-robotic-exploration-networks-cover-the-outer-solar-system.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-autonomous-ocean-cities-are-maintained-without-human-labor",
+      "order": 22,
+      "slug": "autonomous-ocean-cities-are-maintained-without-human-labor",
+      "title": "Автономные океанские города обслуживаются без человеческого труда",
+      "shortTitle": "Автономные океанские города",
+      "category": "Robotics",
+      "description": "Автономные океанские города обслуживаются без человеческого труда расширяет автономный машинный труд в среды, слишком обширные, опасные или сложные для традиционной человеческой работы, ускоряя строительство и обслуживание в масштабе цивилизации.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2135,
+        "endYear": 2147
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Автономные океанские города обслуживаются без человеческого труда становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Автономные рои выполняют сложную работу без постоянного надзора",
+        "Роботы работают в опасных космических, океанских и промышленных средах",
+        "Машинный труд становится встроенной инфраструктурой, а не видимым сервисом"
+      ],
+      "implications": [
+        "Опасный труд устраняется из человеческой жизни",
+        "Внеземное строительство ускоряется",
+        "Обслуживание огромной инфраструктуры становится экономически осуществимым"
+      ],
+      "image": {
+        "alt": "Автономные океанские города обслуживаются без человеческого труда",
+        "prompts": [
+          "autonomous Ocean Cities Are Maintained Without Human Labor, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Ocean Cities Are Maintained Without Human Labor, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Ocean Cities Are Maintained Without Human Labor, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Ocean Cities Are Maintained Without Human Labor, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-household-robotics-become-invisible-utilities",
+      "order": 23,
+      "slug": "household-robotics-become-invisible-utilities",
+      "title": "Домашняя робототехника становится невидимой коммунальной услугой",
+      "shortTitle": "Домашняя робототехника как утилита",
+      "category": "Robotics",
+      "description": "Домашняя робототехника становится невидимой коммунальной услугой расширяет автономный машинный труд в среды, слишком обширные, опасные или сложные для традиционной человеческой работы, ускоряя строительство и обслуживание в масштабе цивилизации.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2136,
+        "endYear": 2148
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Домашняя робототехника становится невидимой коммунальной услугой становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Автономные рои выполняют сложную работу без постоянного надзора",
+        "Роботы работают в опасных космических, океанских и промышленных средах",
+        "Машинный труд становится встроенной инфраструктурой, а не видимым сервисом"
+      ],
+      "implications": [
+        "Опасный труд устраняется из человеческой жизни",
+        "Внеземное строительство ускоряется",
+        "Обслуживание огромной инфраструктуры становится экономически осуществимым"
+      ],
+      "image": {
+        "alt": "Домашняя робототехника становится невидимой коммунальной услугой",
+        "prompts": [
+          "household Robotics Become Invisible Utilities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing household Robotics Become Invisible Utilities, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of household Robotics Become Invisible Utilities, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating household Robotics Become Invisible Utilities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-household-robotics-become-invisible-utilities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-household-robotics-become-invisible-utilities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-household-robotics-become-invisible-utilities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-household-robotics-become-invisible-utilities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-household-robotics-become-invisible-utilities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-solar-system-fusion-grid-enables-energy-abundance",
+      "order": 24,
+      "slug": "solar-system-fusion-grid-enables-energy-abundance",
+      "title": "Термоядерная энергосеть Солнечной системы обеспечивает энергетическое изобилие",
+      "shortTitle": "Термоядерная сеть Солнечной системы",
+      "category": "Energy",
+      "description": "Термоядерная энергосеть Солнечной системы обеспечивает энергетическое изобилие делает изобильную чистую энергию практической основой многомировой цивилизации, поддерживая орбитальные среды обитания, лунные города, марсианские поселения и промышленное расширение.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2137,
+        "endYear": 2149
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Термоядерная энергосеть Солнечной системы обеспечивает энергетическое изобилие становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Термоядерные и космические энергетические системы масштабируются за пределы национальных сетей",
+        "Энергетическая инфраструктура поддерживает непрерывные внеземные поселения",
+        "Изобилие чистой энергии снижает стоимость продвинутых цивилизационных систем"
+      ],
+      "implications": [
+        "Энергетический дефицит перестаёт ограничивать рост цивилизации",
+        "Крупные среды обитания и мегаструктуры становятся практичными",
+        "Промышленное расширение может продолжаться без зависимости от ископаемой энергии"
+      ],
+      "image": {
+        "alt": "Термоядерная энергосеть Солнечной системы обеспечивает энергетическое изобилие",
+        "prompts": [
+          "solar System Fusion Grid Enables Energy Abundance, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing solar System Fusion Grid Enables Energy Abundance, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of solar System Fusion Grid Enables Energy Abundance, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating solar System Fusion Grid Enables Energy Abundance, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-solar-system-fusion-grid-enables-energy-abundance.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-solar-system-fusion-grid-enables-energy-abundance.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-space-based-solar-arrays-supply-major-human-settlements",
+      "order": 25,
+      "slug": "space-based-solar-arrays-supply-major-human-settlements",
+      "title": "Космические солнечные массивы снабжают крупные человеческие поселения",
+      "shortTitle": "Космические солнечные массивы",
+      "category": "Energy",
+      "description": "Космические солнечные массивы снабжают крупные человеческие поселения делает изобильную чистую энергию практической основой многомировой цивилизации, поддерживая орбитальные среды обитания, лунные города, марсианские поселения и промышленное расширение.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2138,
+        "endYear": 2150
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Космические солнечные массивы снабжают крупные человеческие поселения становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Термоядерные и космические энергетические системы масштабируются за пределы национальных сетей",
+        "Энергетическая инфраструктура поддерживает непрерывные внеземные поселения",
+        "Изобилие чистой энергии снижает стоимость продвинутых цивилизационных систем"
+      ],
+      "implications": [
+        "Энергетический дефицит перестаёт ограничивать рост цивилизации",
+        "Крупные среды обитания и мегаструктуры становятся практичными",
+        "Промышленное расширение может продолжаться без зависимости от ископаемой энергии"
+      ],
+      "image": {
+        "alt": "Космические солнечные массивы снабжают крупные человеческие поселения",
+        "prompts": [
+          "space-Based Solar Arrays Supply Major Human Settlements, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Based Solar Arrays Supply Major Human Settlements, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Based Solar Arrays Supply Major Human Settlements, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Based Solar Arrays Supply Major Human Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-space-based-solar-arrays-supply-major-human-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-space-based-solar-arrays-supply-major-human-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-antimatter-production-reaches-experimental-scale",
+      "order": 26,
+      "slug": "antimatter-production-reaches-experimental-scale",
+      "title": "Производство антивещества достигает экспериментального масштаба",
+      "shortTitle": "Экспериментальное производство антивещества",
+      "category": "Energy",
+      "description": "Производство антивещества достигает экспериментального масштаба делает изобильную чистую энергию практической основой многомировой цивилизации, поддерживая орбитальные среды обитания, лунные города, марсианские поселения и промышленное расширение.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2140,
+        "endYear": 2152
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Производство антивещества достигает экспериментального масштаба становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Термоядерные и космические энергетические системы масштабируются за пределы национальных сетей",
+        "Энергетическая инфраструктура поддерживает непрерывные внеземные поселения",
+        "Изобилие чистой энергии снижает стоимость продвинутых цивилизационных систем"
+      ],
+      "implications": [
+        "Энергетический дефицит перестаёт ограничивать рост цивилизации",
+        "Крупные среды обитания и мегаструктуры становятся практичными",
+        "Промышленное расширение может продолжаться без зависимости от ископаемой энергии"
+      ],
+      "image": {
+        "alt": "Производство антивещества достигает экспериментального масштаба",
+        "prompts": [
+          "antimatter Production Reaches Experimental Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing antimatter Production Reaches Experimental Scale, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of antimatter Production Reaches Experimental Scale, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating antimatter Production Reaches Experimental Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-antimatter-production-reaches-experimental-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-antimatter-production-reaches-experimental-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-helium-3-mining-becomes-commercially-mature",
+      "order": 27,
+      "slug": "helium-3-mining-becomes-commercially-mature",
+      "title": "Добыча гелия-3 становится коммерчески зрелой",
+      "shortTitle": "Коммерческая добыча гелия-3",
+      "category": "Energy",
+      "description": "Добыча гелия-3 становится коммерчески зрелой делает изобильную чистую энергию практической основой многомировой цивилизации, поддерживая орбитальные среды обитания, лунные города, марсианские поселения и промышленное расширение.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2141,
+        "endYear": 2153
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Добыча гелия-3 становится коммерчески зрелой становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Термоядерные и космические энергетические системы масштабируются за пределы национальных сетей",
+        "Энергетическая инфраструктура поддерживает непрерывные внеземные поселения",
+        "Изобилие чистой энергии снижает стоимость продвинутых цивилизационных систем"
+      ],
+      "implications": [
+        "Энергетический дефицит перестаёт ограничивать рост цивилизации",
+        "Крупные среды обитания и мегаструктуры становятся практичными",
+        "Промышленное расширение может продолжаться без зависимости от ископаемой энергии"
+      ],
+      "image": {
+        "alt": "Добыча гелия-3 становится коммерчески зрелой",
+        "prompts": [
+          "helium-3 Mining Becomes Commercially Mature, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing helium-3 Mining Becomes Commercially Mature, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of helium-3 Mining Becomes Commercially Mature, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating helium-3 Mining Becomes Commercially Mature, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-helium-3-mining-becomes-commercially-mature.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-helium-3-mining-becomes-commercially-mature.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-energy-scarcity-disappears-across-the-solar-system",
+      "order": 28,
+      "slug": "energy-scarcity-disappears-across-the-solar-system",
+      "title": "Энергетическая нехватка исчезает по всей Солнечной системе",
+      "shortTitle": "Энергетическое изобилие в системе",
+      "category": "Energy",
+      "description": "Энергетическая нехватка исчезает по всей Солнечной системе делает изобильную чистую энергию практической основой многомировой цивилизации, поддерживая орбитальные среды обитания, лунные города, марсианские поселения и промышленное расширение.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2142,
+        "endYear": 2154
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Энергетическая нехватка исчезает по всей Солнечной системе становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Термоядерные и космические энергетические системы масштабируются за пределы национальных сетей",
+        "Энергетическая инфраструктура поддерживает непрерывные внеземные поселения",
+        "Изобилие чистой энергии снижает стоимость продвинутых цивилизационных систем"
+      ],
+      "implications": [
+        "Энергетический дефицит перестаёт ограничивать рост цивилизации",
+        "Крупные среды обитания и мегаструктуры становятся практичными",
+        "Промышленное расширение может продолжаться без зависимости от ископаемой энергии"
+      ],
+      "image": {
+        "alt": "Энергетическая нехватка исчезает по всей Солнечной системе",
+        "prompts": [
+          "energy Scarcity Disappears Across the Solar System, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing energy Scarcity Disappears Across the Solar System, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of energy Scarcity Disappears Across the Solar System, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating energy Scarcity Disappears Across the Solar System, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-energy-scarcity-disappears-across-the-solar-system.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-energy-scarcity-disappears-across-the-solar-system.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-practical-quantum-computing-solves-molecular-engineering-problems",
+      "order": 29,
+      "slug": "practical-quantum-computing-solves-molecular-engineering-problems",
+      "title": "Практические квантовые вычисления решают задачи молекулярной инженерии",
+      "shortTitle": "Квантовые вычисления для молекул",
+      "category": "Physics",
+      "description": "Практические квантовые вычисления решают задачи молекулярной инженерии превращает передовую физическую науку в используемую инфраструктуру, открывая новые возможности в вычислениях, навигации, астрономии, гравитации и понимании глубокого космоса.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2143,
+        "endYear": 2155
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Практические квантовые вычисления решают задачи молекулярной инженерии становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Передовые приборы создают высокоточные данные в масштабе цивилизации",
+        "Квантовые и гравитационные технологии становятся практическими инструментами",
+        "Новая физика переходит из теории в инженерные системы"
+      ],
+      "implications": [
+        "Навигация и наблюдение улучшаются по всей Солнечной системе",
+        "Становятся возможными новые инженерные области",
+        "Научная уверенность в расширении в глубокий космос возрастает"
+      ],
+      "image": {
+        "alt": "Практические квантовые вычисления решают задачи молекулярной инженерии",
+        "prompts": [
+          "practical Quantum Computing Solves Molecular Engineering Problems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing practical Quantum Computing Solves Molecular Engineering Problems, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of practical Quantum Computing Solves Molecular Engineering Problems, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating practical Quantum Computing Solves Molecular Engineering Problems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-practical-quantum-computing-solves-molecular-engineering-problems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-practical-quantum-computing-solves-molecular-engineering-problems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-artificial-gravity-becomes-standard-in-large-habitats",
+      "order": 30,
+      "slug": "artificial-gravity-becomes-standard-in-large-habitats",
+      "title": "Искусственная гравитация становится стандартом в крупных средах обитания",
+      "shortTitle": "Искусственная гравитация в средах обитания",
+      "category": "Physics",
+      "description": "Искусственная гравитация становится стандартом в крупных средах обитания превращает передовую физическую науку в используемую инфраструктуру, открывая новые возможности в вычислениях, навигации, астрономии, гравитации и понимании глубокого космоса.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2144,
+        "endYear": 2156
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Искусственная гравитация становится стандартом в крупных средах обитания становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Передовые приборы создают высокоточные данные в масштабе цивилизации",
+        "Квантовые и гравитационные технологии становятся практическими инструментами",
+        "Новая физика переходит из теории в инженерные системы"
+      ],
+      "implications": [
+        "Навигация и наблюдение улучшаются по всей Солнечной системе",
+        "Становятся возможными новые инженерные области",
+        "Научная уверенность в расширении в глубокий космос возрастает"
+      ],
+      "image": {
+        "alt": "Искусственная гравитация становится стандартом в крупных средах обитания",
+        "prompts": [
+          "artificial Gravity Becomes Standard in Large Habitats, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Becomes Standard in Large Habitats, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Becomes Standard in Large Habitats, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Becomes Standard in Large Habitats, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-artificial-gravity-becomes-standard-in-large-habitats.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-artificial-gravity-becomes-standard-in-large-habitats.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-gravitational-wave-navigation-systems-enter-service",
+      "order": 31,
+      "slug": "gravitational-wave-navigation-systems-enter-service",
+      "title": "Гравитационно-волновые навигационные системы вводятся в эксплуатацию",
+      "shortTitle": "Гравитационно-волновая навигация",
+      "category": "Physics",
+      "description": "Гравитационно-волновые навигационные системы вводятся в эксплуатацию превращает передовую физическую науку в используемую инфраструктуру, открывая новые возможности в вычислениях, навигации, астрономии, гравитации и понимании глубокого космоса.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2146,
+        "endYear": 2158
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Гравитационно-волновые навигационные системы вводятся в эксплуатацию становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Передовые приборы создают высокоточные данные в масштабе цивилизации",
+        "Квантовые и гравитационные технологии становятся практическими инструментами",
+        "Новая физика переходит из теории в инженерные системы"
+      ],
+      "implications": [
+        "Навигация и наблюдение улучшаются по всей Солнечной системе",
+        "Становятся возможными новые инженерные области",
+        "Научная уверенность в расширении в глубокий космос возрастает"
+      ],
+      "image": {
+        "alt": "Гравитационно-волновые навигационные системы вводятся в эксплуатацию",
+        "prompts": [
+          "gravitational Wave Navigation Systems Enter Service, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing gravitational Wave Navigation Systems Enter Service, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of gravitational Wave Navigation Systems Enter Service, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating gravitational Wave Navigation Systems Enter Service, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-gravitational-wave-navigation-systems-enter-service.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-gravitational-wave-navigation-systems-enter-service.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-dark-matter-distribution-map-of-the-milky-way-is-completed",
+      "order": 32,
+      "slug": "dark-matter-distribution-map-of-the-milky-way-is-completed",
+      "title": "Завершена карта распределения тёмной материи Млечного Пути",
+      "shortTitle": "Карта тёмной материи Млечного Пути",
+      "category": "Physics",
+      "description": "Завершена карта распределения тёмной материи Млечного Пути превращает передовую физическую науку в используемую инфраструктуру, открывая новые возможности в вычислениях, навигации, астрономии, гравитации и понимании глубокого космоса.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2147,
+        "endYear": 2159
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Завершена карта распределения тёмной материи Млечного Пути становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Передовые приборы создают высокоточные данные в масштабе цивилизации",
+        "Квантовые и гравитационные технологии становятся практическими инструментами",
+        "Новая физика переходит из теории в инженерные системы"
+      ],
+      "implications": [
+        "Навигация и наблюдение улучшаются по всей Солнечной системе",
+        "Становятся возможными новые инженерные области",
+        "Научная уверенность в расширении в глубокий космос возрастает"
+      ],
+      "image": {
+        "alt": "Завершена карта распределения тёмной материи Млечного Пути",
+        "prompts": [
+          "dark Matter Distribution Map of the Milky Way Is Completed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Matter Distribution Map of the Milky Way Is Completed, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Matter Distribution Map of the Milky Way Is Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Matter Distribution Map of the Milky Way Is Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-quantum-sensor-networks-transform-astronomy",
+      "order": 33,
+      "slug": "quantum-sensor-networks-transform-astronomy",
+      "title": "Сети квантовых сенсоров преобразуют астрономию",
+      "shortTitle": "Квантовые сенсорные сети",
+      "category": "Physics",
+      "description": "Сети квантовых сенсоров преобразуют астрономию превращает передовую физическую науку в используемую инфраструктуру, открывая новые возможности в вычислениях, навигации, астрономии, гравитации и понимании глубокого космоса.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2148,
+        "endYear": 2160
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Сети квантовых сенсоров преобразуют астрономию становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Передовые приборы создают высокоточные данные в масштабе цивилизации",
+        "Квантовые и гравитационные технологии становятся практическими инструментами",
+        "Новая физика переходит из теории в инженерные системы"
+      ],
+      "implications": [
+        "Навигация и наблюдение улучшаются по всей Солнечной системе",
+        "Становятся возможными новые инженерные области",
+        "Научная уверенность в расширении в глубокий космос возрастает"
+      ],
+      "image": {
+        "alt": "Сети квантовых сенсоров преобразуют астрономию",
+        "prompts": [
+          "quantum Sensor Networks Transform Astronomy, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Sensor Networks Transform Astronomy, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Sensor Networks Transform Astronomy, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Sensor Networks Transform Astronomy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-quantum-sensor-networks-transform-astronomy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-quantum-sensor-networks-transform-astronomy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-self-healing-spacecraft-hulls-become-standard",
+      "order": 34,
+      "slug": "self-healing-spacecraft-hulls-become-standard",
+      "title": "Самовосстанавливающиеся корпуса космических кораблей становятся стандартом",
+      "shortTitle": "Самовосстанавливающиеся корпуса",
+      "category": "Materials & Manufacturing",
+      "description": "Самовосстанавливающиеся корпуса космических кораблей становятся стандартом модернизирует материальную базу цивилизации благодаря более прочным структурам, программируемому производству, молекулярному производству и ресурсам космического происхождения.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2149,
+        "endYear": 2161
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Самовосстанавливающиеся корпуса космических кораблей становятся стандартом становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Производство смещается к молекулярным и автоматизированным процессам",
+        "Космические материалы становятся важными промышленными ресурсами",
+        "Мегаструктуры используют материалы, невозможные в более ранние эпохи"
+      ],
+      "implications": [
+        "Добыча ресурсов смещается с Земли",
+        "Промышленное производство становится чище и точнее",
+        "Строительство мегаструктур становится экономически жизнеспособным"
+      ],
+      "image": {
+        "alt": "Самовосстанавливающиеся корпуса космических кораблей становятся стандартом",
+        "prompts": [
+          "self-Healing Spacecraft Hulls Become Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Spacecraft Hulls Become Standard, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Spacecraft Hulls Become Standard, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Spacecraft Hulls Become Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-self-healing-spacecraft-hulls-become-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-self-healing-spacecraft-hulls-become-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-carbon-nanotube-megastructures-reach-industrial-scale",
+      "order": 35,
+      "slug": "carbon-nanotube-megastructures-reach-industrial-scale",
+      "title": "Мегаструктуры из углеродных нанотрубок достигают промышленного масштаба",
+      "shortTitle": "Нанотрубочные мегаструктуры",
+      "category": "Materials & Manufacturing",
+      "description": "Мегаструктуры из углеродных нанотрубок достигают промышленного масштаба модернизирует материальную базу цивилизации благодаря более прочным структурам, программируемому производству, молекулярному производству и ресурсам космического происхождения.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2150,
+        "endYear": 2162
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Мегаструктуры из углеродных нанотрубок достигают промышленного масштаба становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Производство смещается к молекулярным и автоматизированным процессам",
+        "Космические материалы становятся важными промышленными ресурсами",
+        "Мегаструктуры используют материалы, невозможные в более ранние эпохи"
+      ],
+      "implications": [
+        "Добыча ресурсов смещается с Земли",
+        "Промышленное производство становится чище и точнее",
+        "Строительство мегаструктур становится экономически жизнеспособным"
+      ],
+      "image": {
+        "alt": "Мегаструктуры из углеродных нанотрубок достигают промышленного масштаба",
+        "prompts": [
+          "carbon Nanotube Megastructures Reach Industrial Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Nanotube Megastructures Reach Industrial Scale, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Nanotube Megastructures Reach Industrial Scale, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Nanotube Megastructures Reach Industrial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-carbon-nanotube-megastructures-reach-industrial-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-carbon-nanotube-megastructures-reach-industrial-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-programmable-matter-enters-commercial-manufacturing",
+      "order": 36,
+      "slug": "programmable-matter-enters-commercial-manufacturing",
+      "title": "Программируемая материя входит в коммерческое производство",
+      "shortTitle": "Программируемая материя",
+      "category": "Materials & Manufacturing",
+      "description": "Программируемая материя входит в коммерческое производство модернизирует материальную базу цивилизации благодаря более прочным структурам, программируемому производству, молекулярному производству и ресурсам космического происхождения.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2152,
+        "endYear": 2164
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Программируемая материя входит в коммерческое производство становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Производство смещается к молекулярным и автоматизированным процессам",
+        "Космические материалы становятся важными промышленными ресурсами",
+        "Мегаструктуры используют материалы, невозможные в более ранние эпохи"
+      ],
+      "implications": [
+        "Добыча ресурсов смещается с Земли",
+        "Промышленное производство становится чище и точнее",
+        "Строительство мегаструктур становится экономически жизнеспособным"
+      ],
+      "image": {
+        "alt": "Программируемая материя входит в коммерческое производство",
+        "prompts": [
+          "programmable Matter Enters Commercial Manufacturing, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Enters Commercial Manufacturing, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Enters Commercial Manufacturing, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Enters Commercial Manufacturing, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-programmable-matter-enters-commercial-manufacturing.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-programmable-matter-enters-commercial-manufacturing.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-molecular-nanofactories-produce-consumer-goods",
+      "order": 37,
+      "slug": "molecular-nanofactories-produce-consumer-goods",
+      "title": "Молекулярные нанофабрики производят потребительские товары",
+      "shortTitle": "Молекулярные нанофабрики",
+      "category": "Materials & Manufacturing",
+      "description": "Молекулярные нанофабрики производят потребительские товары модернизирует материальную базу цивилизации благодаря более прочным структурам, программируемому производству, молекулярному производству и ресурсам космического происхождения.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2153,
+        "endYear": 2165
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Молекулярные нанофабрики производят потребительские товары становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Производство смещается к молекулярным и автоматизированным процессам",
+        "Космические материалы становятся важными промышленными ресурсами",
+        "Мегаструктуры используют материалы, невозможные в более ранние эпохи"
+      ],
+      "implications": [
+        "Добыча ресурсов смещается с Земли",
+        "Промышленное производство становится чище и точнее",
+        "Строительство мегаструктур становится экономически жизнеспособным"
+      ],
+      "image": {
+        "alt": "Молекулярные нанофабрики производят потребительские товары",
+        "prompts": [
+          "molecular Nanofactories Produce Consumer Goods, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing molecular Nanofactories Produce Consumer Goods, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of molecular Nanofactories Produce Consumer Goods, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating molecular Nanofactories Produce Consumer Goods, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-molecular-nanofactories-produce-consumer-goods.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-molecular-nanofactories-produce-consumer-goods.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-asteroid-materials-replace-earth-mining-industries",
+      "order": 38,
+      "slug": "asteroid-materials-replace-earth-mining-industries",
+      "title": "Астероидные материалы заменяют земные горнодобывающие отрасли",
+      "shortTitle": "Астероидные материалы вместо добычи",
+      "category": "Materials & Manufacturing",
+      "description": "Астероидные материалы заменяют земные горнодобывающие отрасли модернизирует материальную базу цивилизации благодаря более прочным структурам, программируемому производству, молекулярному производству и ресурсам космического происхождения.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2154,
+        "endYear": 2166
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Астероидные материалы заменяют земные горнодобывающие отрасли становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Производство смещается к молекулярным и автоматизированным процессам",
+        "Космические материалы становятся важными промышленными ресурсами",
+        "Мегаструктуры используют материалы, невозможные в более ранние эпохи"
+      ],
+      "implications": [
+        "Добыча ресурсов смещается с Земли",
+        "Промышленное производство становится чище и точнее",
+        "Строительство мегаструктур становится экономически жизнеспособным"
+      ],
+      "image": {
+        "alt": "Астероидные материалы заменяют земные горнодобывающие отрасли",
+        "prompts": [
+          "asteroid Materials Replace Earth Mining Industries, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing asteroid Materials Replace Earth Mining Industries, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of asteroid Materials Replace Earth Mining Industries, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating asteroid Materials Replace Earth Mining Industries, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-asteroid-materials-replace-earth-mining-industries.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-asteroid-materials-replace-earth-mining-industries.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-global-carbon-levels-return-to-pre-industrial-values",
+      "order": 39,
+      "slug": "global-carbon-levels-return-to-pre-industrial-values",
+      "title": "Глобальный уровень углерода возвращается к доиндустриальным значениям",
+      "shortTitle": "Углерод на доиндустриальном уровне",
+      "category": "Environment",
+      "description": "Глобальный уровень углерода возвращается к доиндустриальным значениям демонстрирует, что планетарные системы можно активно восстанавливать, стабилизировать и управлять ими с помощью передовой климатической науки, экологической инженерии и интеллектуальной инфраструктуры.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2155,
+        "endYear": 2167
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Глобальный уровень углерода возвращается к доиндустриальным значениям становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Климатические и экосистемные модели направляют реальные вмешательства",
+        "Проекты восстановления становятся измеримыми в планетарном масштабе",
+        "Предотвращение бедствий заменяет реактивное чрезвычайное реагирование"
+      ],
+      "implications": [
+        "Планетарное восстановление становится ключевой ответственностью",
+        "Климатические риски для крупных населённых центров снижаются",
+        "Экологическое восстановление становится измеримым и устойчивым"
+      ],
+      "image": {
+        "alt": "Глобальный уровень углерода возвращается к доиндустриальным значениям",
+        "prompts": [
+          "global Carbon Levels Return to Pre-Industrial Values, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Carbon Levels Return to Pre-Industrial Values, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Carbon Levels Return to Pre-Industrial Values, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Carbon Levels Return to Pre-Industrial Values, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-global-carbon-levels-return-to-pre-industrial-values.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-global-carbon-levels-return-to-pre-industrial-values.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-ocean-biodiversity-fully-recovers",
+      "order": 40,
+      "slug": "ocean-biodiversity-fully-recovers",
+      "title": "Биоразнообразие океана полностью восстанавливается",
+      "shortTitle": "Полное восстановление океана",
+      "category": "Environment",
+      "description": "Биоразнообразие океана полностью восстанавливается демонстрирует, что планетарные системы можно активно восстанавливать, стабилизировать и управлять ими с помощью передовой климатической науки, экологической инженерии и интеллектуальной инфраструктуры.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2156,
+        "endYear": 2168
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Биоразнообразие океана полностью восстанавливается становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Климатические и экосистемные модели направляют реальные вмешательства",
+        "Проекты восстановления становятся измеримыми в планетарном масштабе",
+        "Предотвращение бедствий заменяет реактивное чрезвычайное реагирование"
+      ],
+      "implications": [
+        "Планетарное восстановление становится ключевой ответственностью",
+        "Климатические риски для крупных населённых центров снижаются",
+        "Экологическое восстановление становится измеримым и устойчивым"
+      ],
+      "image": {
+        "alt": "Биоразнообразие океана полностью восстанавливается",
+        "prompts": [
+          "ocean Biodiversity Fully Recovers, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ocean Biodiversity Fully Recovers, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ocean Biodiversity Fully Recovers, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ocean Biodiversity Fully Recovers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-ocean-biodiversity-fully-recovers.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-ocean-biodiversity-fully-recovers.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-ocean-biodiversity-fully-recovers.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-ocean-biodiversity-fully-recovers.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ocean-biodiversity-fully-recovers.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-planetary-climate-stabilization-becomes-routine",
+      "order": 41,
+      "slug": "planetary-climate-stabilization-becomes-routine",
+      "title": "Планетарная стабилизация климата становится рутинной",
+      "shortTitle": "Рутинная стабилизация климата",
+      "category": "Environment",
+      "description": "Планетарная стабилизация климата становится рутинной демонстрирует, что планетарные системы можно активно восстанавливать, стабилизировать и управлять ими с помощью передовой климатической науки, экологической инженерии и интеллектуальной инфраструктуры.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2158,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Планетарная стабилизация климата становится рутинной становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Климатические и экосистемные модели направляют реальные вмешательства",
+        "Проекты восстановления становятся измеримыми в планетарном масштабе",
+        "Предотвращение бедствий заменяет реактивное чрезвычайное реагирование"
+      ],
+      "implications": [
+        "Планетарное восстановление становится ключевой ответственностью",
+        "Климатические риски для крупных населённых центров снижаются",
+        "Экологическое восстановление становится измеримым и устойчивым"
+      ],
+      "image": {
+        "alt": "Планетарная стабилизация климата становится рутинной",
+        "prompts": [
+          "planetary Climate Stabilization Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Climate Stabilization Becomes Routine, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Climate Stabilization Becomes Routine, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Climate Stabilization Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-planetary-climate-stabilization-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-planetary-climate-stabilization-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-universal-basic-services-replace-most-traditional-economies",
+      "order": 42,
+      "slug": "universal-basic-services-replace-most-traditional-economies",
+      "title": "Универсальные базовые услуги заменяют большинство традиционных экономик",
+      "shortTitle": "Универсальные базовые услуги",
+      "category": "Society & Economy",
+      "description": "Универсальные базовые услуги заменяют большинство традиционных экономик меняет повседневную жизнь, работу, мобильность и обмен ценностью по мере того, как человеческая цивилизация глубже входит в изобилие и связанную многомировую общественную систему.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2159,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Универсальные базовые услуги заменяют большинство традиционных экономик становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Повседневная жизнь всё меньше зависит от физического местоположения и традиционного труда",
+        "Общественные системы движутся к универсальному доступу и изобилию",
+        "Экономическая ценность смещается к знаниям, творчеству и присутствию"
+      ],
+      "implications": [
+        "Традиционные модели труда и валюты ослабевают",
+        "Доступ к услугам становится более универсальным",
+        "Мобильность человека всё меньше ограничивается расстоянием"
+      ],
+      "image": {
+        "alt": "Универсальные базовые услуги заменяют большинство традиционных экономик",
+        "prompts": [
+          "universal Basic Services Replace Most Traditional Economies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal Basic Services Replace Most Traditional Economies, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal Basic Services Replace Most Traditional Economies, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal Basic Services Replace Most Traditional Economies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-universal-basic-services-replace-most-traditional-economies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-universal-basic-services-replace-most-traditional-economies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-physical-currency-disappears-completely",
+      "order": 43,
+      "slug": "physical-currency-disappears-completely",
+      "title": "Физическая валюта полностью исчезает",
+      "shortTitle": "Исчезновение физической валюты",
+      "category": "Society & Economy",
+      "description": "Физическая валюта полностью исчезает меняет повседневную жизнь, работу, мобильность и обмен ценностью по мере того, как человеческая цивилизация глубже входит в изобилие и связанную многомировую общественную систему.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2160,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Физическая валюта полностью исчезает становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Повседневная жизнь всё меньше зависит от физического местоположения и традиционного труда",
+        "Общественные системы движутся к универсальному доступу и изобилию",
+        "Экономическая ценность смещается к знаниям, творчеству и присутствию"
+      ],
+      "implications": [
+        "Традиционные модели труда и валюты ослабевают",
+        "Доступ к услугам становится более универсальным",
+        "Мобильность человека всё меньше ограничивается расстоянием"
+      ],
+      "image": {
+        "alt": "Физическая валюта полностью исчезает",
+        "prompts": [
+          "physical Currency Disappears Completely, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing physical Currency Disappears Completely, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of physical Currency Disappears Completely, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating physical Currency Disappears Completely, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-physical-currency-disappears-completely.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-physical-currency-disappears-completely.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-physical-currency-disappears-completely.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-physical-currency-disappears-completely.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-physical-currency-disappears-completely.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-labor-becomes-primarily-optional",
+      "order": 44,
+      "slug": "human-labor-becomes-primarily-optional",
+      "title": "Человеческий труд становится в основном необязательным",
+      "shortTitle": "Необязательный человеческий труд",
+      "category": "Society & Economy",
+      "description": "Человеческий труд становится в основном необязательным меняет повседневную жизнь, работу, мобильность и обмен ценностью по мере того, как человеческая цивилизация глубже входит в изобилие и связанную многомировую общественную систему.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2161,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Человеческий труд становится в основном необязательным становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Повседневная жизнь всё меньше зависит от физического местоположения и традиционного труда",
+        "Общественные системы движутся к универсальному доступу и изобилию",
+        "Экономическая ценность смещается к знаниям, творчеству и присутствию"
+      ],
+      "implications": [
+        "Традиционные модели труда и валюты ослабевают",
+        "Доступ к услугам становится более универсальным",
+        "Мобильность человека всё меньше ограничивается расстоянием"
+      ],
+      "image": {
+        "alt": "Человеческий труд становится в основном необязательным",
+        "prompts": [
+          "human Labor Becomes Primarily Optional, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Labor Becomes Primarily Optional, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Labor Becomes Primarily Optional, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Labor Becomes Primarily Optional, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-labor-becomes-primarily-optional.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-labor-becomes-primarily-optional.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-labor-becomes-primarily-optional.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-labor-becomes-primarily-optional.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-labor-becomes-primarily-optional.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-wealth-inequality-reaches-historic-lows",
+      "order": 45,
+      "slug": "wealth-inequality-reaches-historic-lows",
+      "title": "Неравенство в богатстве достигает исторических минимумов",
+      "shortTitle": "Исторически низкое неравенство",
+      "category": "Society & Economy",
+      "description": "Неравенство в богатстве достигает исторических минимумов меняет повседневную жизнь, работу, мобильность и обмен ценностью по мере того, как человеческая цивилизация глубже входит в изобилие и связанную многомировую общественную систему.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2162,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Неравенство в богатстве достигает исторических минимумов становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Повседневная жизнь всё меньше зависит от физического местоположения и традиционного труда",
+        "Общественные системы движутся к универсальному доступу и изобилию",
+        "Экономическая ценность смещается к знаниям, творчеству и присутствию"
+      ],
+      "implications": [
+        "Традиционные модели труда и валюты ослабевают",
+        "Доступ к услугам становится более универсальным",
+        "Мобильность человека всё меньше ограничивается расстоянием"
+      ],
+      "image": {
+        "alt": "Неравенство в богатстве достигает исторических минимумов",
+        "prompts": [
+          "wealth Inequality Reaches Historic Lows, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing wealth Inequality Reaches Historic Lows, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of wealth Inequality Reaches Historic Lows, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating wealth Inequality Reaches Historic Lows, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-wealth-inequality-reaches-historic-lows.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-wealth-inequality-reaches-historic-lows.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth",
+      "order": 46,
+      "slug": "first-permanent-population-of-one-million-humans-lives-beyond-earth",
+      "title": "Первое постоянное население в один миллион человек живёт за пределами Земли",
+      "shortTitle": "Миллион людей за пределами Земли",
+      "category": "Civilization",
+      "description": "Первое постоянное население в один миллион человек живёт за пределами Земли представляет новый институциональный, культурный или правовой рубеж по мере того, как человечество становится скоординированной цивилизацией, охватывающей Землю, орбиту, Луну и Марс.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2164,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Первое постоянное население в один миллион человек живёт за пределами Земли становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Многомировые правовые системы становятся необходимыми",
+        "Гражданство и права расширяются за пределы общества, привязанного к Земле",
+        "Человеческая идентичность связывается с цивилизацией Солнечной системы"
+      ],
+      "implications": [
+        "Человеческое управление расширяется за планетарные границы",
+        "Правовые рамки адаптируются к искусственным и внеземным гражданам",
+        "Межзвёздное планирование становится цивилизационным приоритетом"
+      ],
+      "image": {
+        "alt": "Первое постоянное население в один миллион человек живёт за пределами Земли",
+        "prompts": [
+          "first Permanent Population of One Million Humans Lives Beyond Earth, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Permanent Population of One Million Humans Lives Beyond Earth, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Permanent Population of One Million Humans Lives Beyond Earth, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Permanent Population of One Million Humans Lives Beyond Earth, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-earth-moon-mars-governance-council-is-established",
+      "order": 47,
+      "slug": "earth-moon-mars-governance-council-is-established",
+      "title": "Создан Совет управления Земля–Луна–Марс",
+      "shortTitle": "Совет Земля–Луна–Марс",
+      "category": "Civilization",
+      "description": "Создан Совет управления Земля–Луна–Марс представляет новый институциональный, культурный или правовой рубеж по мере того, как человечество становится скоординированной цивилизацией, охватывающей Землю, орбиту, Луну и Марс.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2165,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Создан Совет управления Земля–Луна–Марс становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Многомировые правовые системы становятся необходимыми",
+        "Гражданство и права расширяются за пределы общества, привязанного к Земле",
+        "Человеческая идентичность связывается с цивилизацией Солнечной системы"
+      ],
+      "implications": [
+        "Человеческое управление расширяется за планетарные границы",
+        "Правовые рамки адаптируются к искусственным и внеземным гражданам",
+        "Межзвёздное планирование становится цивилизационным приоритетом"
+      ],
+      "image": {
+        "alt": "Создан Совет управления Земля–Луна–Марс",
+        "prompts": [
+          "earth-Moon-Mars Governance Council Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon-Mars Governance Council Is Established, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon-Mars Governance Council Is Established, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon-Mars Governance Council Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-earth-moon-mars-governance-council-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-earth-moon-mars-governance-council-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-rights-expand-to-include-artificial-consciousness",
+      "order": 48,
+      "slug": "human-rights-expand-to-include-artificial-consciousness",
+      "title": "Права человека расширяются, включая искусственное сознание",
+      "shortTitle": "Права и искусственное сознание",
+      "category": "Civilization",
+      "description": "Права человека расширяются, включая искусственное сознание представляет новый институциональный, культурный или правовой рубеж по мере того, как человечество становится скоординированной цивилизацией, охватывающей Землю, орбиту, Луну и Марс.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2166,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Права человека расширяются, включая искусственное сознание становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Многомировые правовые системы становятся необходимыми",
+        "Гражданство и права расширяются за пределы общества, привязанного к Земле",
+        "Человеческая идентичность связывается с цивилизацией Солнечной системы"
+      ],
+      "implications": [
+        "Человеческое управление расширяется за планетарные границы",
+        "Правовые рамки адаптируются к искусственным и внеземным гражданам",
+        "Межзвёздное планирование становится цивилизационным приоритетом"
+      ],
+      "image": {
+        "alt": "Права человека расширяются, включая искусственное сознание",
+        "prompts": [
+          "human Rights Expand to Include Artificial Consciousness, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Rights Expand to Include Artificial Consciousness, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Rights Expand to Include Artificial Consciousness, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Rights Expand to Include Artificial Consciousness, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-rights-expand-to-include-artificial-consciousness.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-rights-expand-to-include-artificial-consciousness.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-solar-system-citizenship-becomes-recognized",
+      "order": 49,
+      "slug": "solar-system-citizenship-becomes-recognized",
+      "title": "Гражданство Солнечной системы получает признание",
+      "shortTitle": "Гражданство Солнечной системы",
+      "category": "Civilization",
+      "description": "Гражданство Солнечной системы получает признание представляет новый институциональный, культурный или правовой рубеж по мере того, как человечество становится скоординированной цивилизацией, охватывающей Землю, орбиту, Луну и Марс.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2167,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Гражданство Солнечной системы получает признание становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Многомировые правовые системы становятся необходимыми",
+        "Гражданство и права расширяются за пределы общества, привязанного к Земле",
+        "Человеческая идентичность связывается с цивилизацией Солнечной системы"
+      ],
+      "implications": [
+        "Человеческое управление расширяется за планетарные границы",
+        "Правовые рамки адаптируются к искусственным и внеземным гражданам",
+        "Межзвёздное планирование становится цивилизационным приоритетом"
+      ],
+      "image": {
+        "alt": "Гражданство Солнечной системы получает признание",
+        "prompts": [
+          "solar System Citizenship Becomes Recognized, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing solar System Citizenship Becomes Recognized, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of solar System Citizenship Becomes Recognized, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating solar System Citizenship Becomes Recognized, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-solar-system-citizenship-becomes-recognized.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-solar-system-citizenship-becomes-recognized.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-humanity-begins-planning-the-first-interstellar-mission",
+      "order": 50,
+      "slug": "humanity-begins-planning-the-first-interstellar-mission",
+      "title": "Человечество начинает планировать первую межзвёздную миссию",
+      "shortTitle": "Планирование межзвёздной миссии",
+      "category": "Civilization",
+      "description": "Человечество начинает планировать первую межзвёздную миссию представляет новый институциональный, культурный или правовой рубеж по мере того, как человечество становится скоординированной цивилизацией, охватывающей Землю, орбиту, Луну и Марс.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2168,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Человечество начинает планировать первую межзвёздную миссию становится определяющей вехой развитой человеческой цивилизации, укрепляя переход человечества к зрелому обществу Солнечной системы.",
+      "signals": [
+        "Многомировые правовые системы становятся необходимыми",
+        "Гражданство и права расширяются за пределы общества, привязанного к Земле",
+        "Человеческая идентичность связывается с цивилизацией Солнечной системы"
+      ],
+      "implications": [
+        "Человеческое управление расширяется за планетарные границы",
+        "Правовые рамки адаптируются к искусственным и внеземным гражданам",
+        "Межзвёздное планирование становится цивилизационным приоритетом"
+      ],
+      "image": {
+        "alt": "Человечество начинает планировать первую межзвёздную миссию",
+        "prompts": [
+          "humanity Begins Planning the First Interstellar Mission, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Begins Planning the First Interstellar Mission, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Begins Planning the First Interstellar Mission, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Begins Planning the First Interstellar Mission, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-humanity-begins-planning-the-first-interstellar-mission.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-humanity-begins-planning-the-first-interstellar-mission.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

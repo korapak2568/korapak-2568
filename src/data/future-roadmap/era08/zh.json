@@ -1,0 +1,3485 @@
+{
+  "era": {
+    "id": "era-08",
+    "order": 8,
+    "slug": "galactic-coexistence",
+    "title": "银河共存",
+    "subtitle": "人类加入更广阔的宇宙智能共同体",
+    "description": "这一时代标志着人类融入更广阔的宇宙文明。智能开始跨越生物、人工、行星与宇宙形态而被承认。银河知识网络、黑洞能源采集、星系际探索、人类-AI-外星共享社会，以及新的意识形态，重新定义文明本身。人类的故事成为更宏大宇宙历史中的一章。",
+    "timeframe": {
+      "label": "银河共存",
+      "startYear": 3000,
+      "endYear": 1000000,
+      "certainty": "highly speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "cosmic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "第 8 纪元：银河共存 | 未来文明路线图",
+      "metaDescription": "探索银河共存时代：人类通过人类-AI-外星共享文明、黑洞能源采集、星系际探索与新的智能形态，加入更广阔的宇宙共同体。",
+      "keywords": [
+        "银河共存",
+        "宇宙文明",
+        "人类 AI 外星城市",
+        "星系际探索",
+        "黑洞能源",
+        "未来文明路线图"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-08-universal-translation-expands-beyond-language-into-emotion-and-perception",
+      "order": 1,
+      "slug": "universal-translation-expands-beyond-language-into-emotion-and-perception",
+      "title": "通用翻译从语言扩展到情感与感知",
+      "shortTitle": "通用翻译扩展语言边界",
+      "category": "AI & Computing",
+      "description": "通用翻译从语言扩展到情感与感知 将智能拓展到物种与语言之外，使生物、人工与外星心智能够交换知识、感知与意识体验。",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 3000,
+        "endYear": 69466
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "通用翻译从语言扩展到情感与感知 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "共享认知在大规模群体中变得稳定",
+        "数字心智与 AI 系统作为被承认的参与者运行",
+        "计算从工具转变为文明尺度的智能"
+      ],
+      "implications": [
+        "文明可以通过思想层级的网络进行协调",
+        "科学与文化加速超越生物限制",
+        "身份变得越来越网络化和多元"
+      ],
+      "image": {
+        "alt": "通用翻译从语言扩展到情感与感知",
+        "prompts": [
+          "universal Translation Expands Beyond Language Into Emotion And Perception, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal Translation Expands Beyond Language Into Emotion And Perception, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal Translation Expands Beyond Language Into Emotion And Perception, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal Translation Expands Beyond Language Into Emotion And Perception, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-universal-translation-expands-beyond-language-into-emotion-and-perception.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-human-ai-and-alien-knowledge-networks-merge",
+      "order": 2,
+      "slug": "human-ai-and-alien-knowledge-networks-merge",
+      "title": "人类、AI 与外星知识网络融合",
+      "shortTitle": "人类 AI 外星知识",
+      "category": "AI & Computing",
+      "description": "人类、AI 与外星知识网络融合 将智能拓展到物种与语言之外，使生物、人工与外星心智能够交换知识、感知与意识体验。",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 22940,
+        "endYear": 89406
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "人类、AI 与外星知识网络融合 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "共享认知在大规模群体中变得稳定",
+        "数字心智与 AI 系统作为被承认的参与者运行",
+        "计算从工具转变为文明尺度的智能"
+      ],
+      "implications": [
+        "文明可以通过思想层级的网络进行协调",
+        "科学与文化加速超越生物限制",
+        "身份变得越来越网络化和多元"
+      ],
+      "image": {
+        "alt": "人类、AI 与外星知识网络融合",
+        "prompts": [
+          "human, AI, And Alien Knowledge Networks Merge, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human, AI, And Alien Knowledge Networks Merge, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human, AI, And Alien Knowledge Networks Merge, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human, AI, And Alien Knowledge Networks Merge, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-human-ai-and-alien-knowledge-networks-merge.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-human-ai-and-alien-knowledge-networks-merge.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-human-ai-and-alien-knowledge-networks-merge.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxy-wide-distributed-intelligence-operates-continuously",
+      "order": 3,
+      "slug": "galaxy-wide-distributed-intelligence-operates-continuously",
+      "title": "银河尺度分布式智能持续运行",
+      "shortTitle": "银河尺度分布式智能运行",
+      "category": "AI & Computing",
+      "description": "银河尺度分布式智能持续运行 将智能拓展到物种与语言之外，使生物、人工与外星心智能够交换知识、感知与意识体验。",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 42880,
+        "endYear": 109346
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "银河尺度分布式智能持续运行 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "共享认知在大规模群体中变得稳定",
+        "数字心智与 AI 系统作为被承认的参与者运行",
+        "计算从工具转变为文明尺度的智能"
+      ],
+      "implications": [
+        "文明可以通过思想层级的网络进行协调",
+        "科学与文化加速超越生物限制",
+        "身份变得越来越网络化和多元"
+      ],
+      "image": {
+        "alt": "银河尺度分布式智能持续运行",
+        "prompts": [
+          "galaxy-Wide Distributed Intelligence Operates Continuously, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Wide Distributed Intelligence Operates Continuously, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Wide Distributed Intelligence Operates Continuously, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Wide Distributed Intelligence Operates Continuously, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxy-wide-distributed-intelligence-operates-continuously.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxy-wide-distributed-intelligence-operates-continuously.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxy-wide-distributed-intelligence-operates-continuously.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-simulated-universes-become-scientific-laboratories",
+      "order": 4,
+      "slug": "simulated-universes-become-scientific-laboratories",
+      "title": "模拟宇宙成为科学实验室",
+      "shortTitle": "模拟宇宙科学实验室",
+      "category": "AI & Computing",
+      "description": "模拟宇宙成为科学实验室 将智能拓展到物种与语言之外，使生物、人工与外星心智能够交换知识、感知与意识体验。",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 62820,
+        "endYear": 129286
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "模拟宇宙成为科学实验室 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "共享认知在大规模群体中变得稳定",
+        "数字心智与 AI 系统作为被承认的参与者运行",
+        "计算从工具转变为文明尺度的智能"
+      ],
+      "implications": [
+        "文明可以通过思想层级的网络进行协调",
+        "科学与文化加速超越生物限制",
+        "身份变得越来越网络化和多元"
+      ],
+      "image": {
+        "alt": "模拟宇宙成为科学实验室",
+        "prompts": [
+          "simulated Universes Become Scientific Laboratories, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing simulated Universes Become Scientific Laboratories, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of simulated Universes Become Scientific Laboratories, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating simulated Universes Become Scientific Laboratories, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-simulated-universes-become-scientific-laboratories.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-simulated-universes-become-scientific-laboratories.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-simulated-universes-become-scientific-laboratories.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-consciousness-based-computing-surpasses-matter-based-computation",
+      "order": 5,
+      "slug": "consciousness-based-computing-surpasses-matter-based-computation",
+      "title": "基于意识的计算超越基于物质的计算",
+      "shortTitle": "意识计算超越物质计算",
+      "category": "AI & Computing",
+      "description": "基于意识的计算超越基于物质的计算 将智能拓展到物种与语言之外，使生物、人工与外星心智能够交换知识、感知与意识体验。",
+      "layerId": "ai-computing",
+      "domains": [
+        "galactic-intelligence",
+        "universal-translation",
+        "consciousness-computing"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 82760,
+        "endYear": 149226
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "基于意识的计算超越基于物质的计算 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "共享认知在大规模群体中变得稳定",
+        "数字心智与 AI 系统作为被承认的参与者运行",
+        "计算从工具转变为文明尺度的智能"
+      ],
+      "implications": [
+        "文明可以通过思想层级的网络进行协调",
+        "科学与文化加速超越生物限制",
+        "身份变得越来越网络化和多元"
+      ],
+      "image": {
+        "alt": "基于意识的计算超越基于物质的计算",
+        "prompts": [
+          "consciousness-Based Computing Surpasses Matter-Based Computation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness-Based Computing Surpasses Matter-Based Computation, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness-Based Computing Surpasses Matter-Based Computation, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness-Based Computing Surpasses Matter-Based Computation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-consciousness-based-computing-surpasses-matter-based-computation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-consciousness-based-computing-surpasses-matter-based-computation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-consciousness-based-computing-surpasses-matter-based-computation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies",
+      "order": 6,
+      "slug": "autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies",
+      "title": "自主星系际探测器蜂群探索邻近星系",
+      "shortTitle": "自主星系际探测器蜂群",
+      "category": "Robotics",
+      "description": "自主星系际探测器蜂群探索邻近星系 使自主机器人系统成为跨星系、跨生命形态的伙伴、档案守护者、建造者和照护者。",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 102700,
+        "endYear": 169166
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "自主星系际探测器蜂群探索邻近星系 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "机器人系统能够在极端环境中自我维护",
+        "合成形态无需人类重新设计即可适应",
+        "自主建造者在巨构工程尺度上运行"
+      ],
+      "implications": [
+        "物理扩张不再依赖生物身体",
+        "基础设施可以在恒星系统之间持续生长",
+        "机器人文明成为同伴，而不只是工具"
+      ],
+      "image": {
+        "alt": "自主星系际探测器蜂群探索邻近星系",
+        "prompts": [
+          "autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Intergalactic Probe Swarms Explore Neighboring Galaxies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-autonomous-intergalactic-probe-swarms-explore-neighboring-galaxies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-self-evolving-robotic-civilizations-become-independent-partners",
+      "order": 7,
+      "slug": "self-evolving-robotic-civilizations-become-independent-partners",
+      "title": "自我演化的机器人文明成为独立伙伴",
+      "shortTitle": "自我演化机器人文明伙伴",
+      "category": "Robotics",
+      "description": "自我演化的机器人文明成为独立伙伴 使自主机器人系统成为跨星系、跨生命形态的伙伴、档案守护者、建造者和照护者。",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 122640,
+        "endYear": 189106
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "自我演化的机器人文明成为独立伙伴 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "机器人系统能够在极端环境中自我维护",
+        "合成形态无需人类重新设计即可适应",
+        "自主建造者在巨构工程尺度上运行"
+      ],
+      "implications": [
+        "物理扩张不再依赖生物身体",
+        "基础设施可以在恒星系统之间持续生长",
+        "机器人文明成为同伴，而不只是工具"
+      ],
+      "image": {
+        "alt": "自我演化的机器人文明成为独立伙伴",
+        "prompts": [
+          "self-Evolving Robotic Civilizations Become Independent Partners, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Evolving Robotic Civilizations Become Independent Partners, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Evolving Robotic Civilizations Become Independent Partners, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Evolving Robotic Civilizations Become Independent Partners, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-self-evolving-robotic-civilizations-become-independent-partners.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-self-evolving-robotic-civilizations-become-independent-partners.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-self-evolving-robotic-civilizations-become-independent-partners.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life",
+      "order": 8,
+      "slug": "shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life",
+      "title": "变形纳米机器人生态系统支持所有生命形态",
+      "shortTitle": "变形纳米机器人生态系统",
+      "category": "Robotics",
+      "description": "变形纳米机器人生态系统支持所有生命形态 使自主机器人系统成为跨星系、跨生命形态的伙伴、档案守护者、建造者和照护者。",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 142580,
+        "endYear": 209046
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "变形纳米机器人生态系统支持所有生命形态 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "机器人系统能够在极端环境中自我维护",
+        "合成形态无需人类重新设计即可适应",
+        "自主建造者在巨构工程尺度上运行"
+      ],
+      "implications": [
+        "物理扩张不再依赖生物身体",
+        "基础设施可以在恒星系统之间持续生长",
+        "机器人文明成为同伴，而不只是工具"
+      ],
+      "image": {
+        "alt": "变形纳米机器人生态系统支持所有生命形态",
+        "prompts": [
+          "shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating shape-Shifting Nanorobotic Ecosystems Support All Forms Of Life, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-shape-shifting-nanorobotic-ecosystems-support-all-forms-of-life.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-planet-builders-operate-without-biological-supervision",
+      "order": 9,
+      "slug": "artificial-planet-builders-operate-without-biological-supervision",
+      "title": "人工行星建造者在无生物监督下运行",
+      "shortTitle": "人工行星建造者运行",
+      "category": "Robotics",
+      "description": "人工行星建造者在无生物监督下运行 使自主机器人系统成为跨星系、跨生命形态的伙伴、档案守护者、建造者和照护者。",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 162520,
+        "endYear": 228986
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "人工行星建造者在无生物监督下运行 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "机器人系统能够在极端环境中自我维护",
+        "合成形态无需人类重新设计即可适应",
+        "自主建造者在巨构工程尺度上运行"
+      ],
+      "implications": [
+        "物理扩张不再依赖生物身体",
+        "基础设施可以在恒星系统之间持续生长",
+        "机器人文明成为同伴，而不只是工具"
+      ],
+      "image": {
+        "alt": "人工行星建造者在无生物监督下运行",
+        "prompts": [
+          "artificial Planet Builders Operate Without Biological Supervision, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Planet Builders Operate Without Biological Supervision, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Planet Builders Operate Without Biological Supervision, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Planet Builders Operate Without Biological Supervision, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-planet-builders-operate-without-biological-supervision.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-planet-builders-operate-without-biological-supervision.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-planet-builders-operate-without-biological-supervision.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-robotic-archivists-preserve-billions-of-civilizations",
+      "order": 10,
+      "slug": "robotic-archivists-preserve-billions-of-civilizations",
+      "title": "机器人档案守护者保存数十亿个文明",
+      "shortTitle": "机器人档案守护数十亿文明",
+      "category": "Robotics",
+      "description": "机器人档案守护者保存数十亿个文明 使自主机器人系统成为跨星系、跨生命形态的伙伴、档案守护者、建造者和照护者。",
+      "layerId": "robotics",
+      "domains": [
+        "intergalactic-probes",
+        "robotic-civilizations",
+        "civilization-archives"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 182460,
+        "endYear": 248926
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "机器人档案守护者保存数十亿个文明 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "机器人系统能够在极端环境中自我维护",
+        "合成形态无需人类重新设计即可适应",
+        "自主建造者在巨构工程尺度上运行"
+      ],
+      "implications": [
+        "物理扩张不再依赖生物身体",
+        "基础设施可以在恒星系统之间持续生长",
+        "机器人文明成为同伴，而不只是工具"
+      ],
+      "image": {
+        "alt": "机器人档案守护者保存数十亿个文明",
+        "prompts": [
+          "robotic Archivists Preserve Billions Of Civilizations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic Archivists Preserve Billions Of Civilizations, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic Archivists Preserve Billions Of Civilizations, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic Archivists Preserve Billions Of Civilizations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-robotic-archivists-preserve-billions-of-civilizations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-robotic-archivists-preserve-billions-of-civilizations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-robotic-archivists-preserve-billions-of-civilizations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-black-hole-energy-harvesting-becomes-practical",
+      "order": 11,
+      "slug": "black-hole-energy-harvesting-becomes-practical",
+      "title": "黑洞能源采集成为可实践技术",
+      "shortTitle": "黑洞能源采集",
+      "category": "Energy",
+      "description": "黑洞能源采集成为可实践技术 利用黑洞、暗能量、背景辐射等宇宙级能源，支撑长期延续的银河文明。",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 202400,
+        "endYear": 268866
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "黑洞能源采集成为可实践技术 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "能源系统接近近乎完美的效率",
+        "恒星与后恒星能源成为可工程化资源",
+        "能源网络横跨星团与深空"
+      ],
+      "implications": [
+        "能源稀缺在文明尺度上失去意义",
+        "巨构建筑与人工世界变得可持续",
+        "文明获得跨越宇宙时间尺度的韧性"
+      ],
+      "image": {
+        "alt": "黑洞能源采集成为可实践技术",
+        "prompts": [
+          "black Hole Energy Harvesting Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing black Hole Energy Harvesting Becomes Practical, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of black Hole Energy Harvesting Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating black Hole Energy Harvesting Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-black-hole-energy-harvesting-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-black-hole-energy-harvesting-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-black-hole-energy-harvesting-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-dark-energy-manipulation-enables-new-power-systems",
+      "order": 12,
+      "slug": "dark-energy-manipulation-enables-new-power-systems",
+      "title": "暗能量操控催生新的能源系统",
+      "shortTitle": "暗能量操控能源系统",
+      "category": "Energy",
+      "description": "暗能量操控催生新的能源系统 利用黑洞、暗能量、背景辐射等宇宙级能源，支撑长期延续的银河文明。",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 222340,
+        "endYear": 288806
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "暗能量操控催生新的能源系统 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "能源系统接近近乎完美的效率",
+        "恒星与后恒星能源成为可工程化资源",
+        "能源网络横跨星团与深空"
+      ],
+      "implications": [
+        "能源稀缺在文明尺度上失去意义",
+        "巨构建筑与人工世界变得可持续",
+        "文明获得跨越宇宙时间尺度的韧性"
+      ],
+      "image": {
+        "alt": "暗能量操控催生新的能源系统",
+        "prompts": [
+          "dark Energy Manipulation Enables New Power Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Energy Manipulation Enables New Power Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Energy Manipulation Enables New Power Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Energy Manipulation Enables New Power Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-dark-energy-manipulation-enables-new-power-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-dark-energy-manipulation-enables-new-power-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-dark-energy-manipulation-enables-new-power-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxy-scale-energy-networks-connect-star-clusters",
+      "order": 13,
+      "slug": "galaxy-scale-energy-networks-connect-star-clusters",
+      "title": "银河尺度能源网络连接星团",
+      "shortTitle": "银河尺度能源网络连接",
+      "category": "Energy",
+      "description": "银河尺度能源网络连接星团 利用黑洞、暗能量、背景辐射等宇宙级能源，支撑长期延续的银河文明。",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 242280,
+        "endYear": 308746
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "银河尺度能源网络连接星团 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "能源系统接近近乎完美的效率",
+        "恒星与后恒星能源成为可工程化资源",
+        "能源网络横跨星团与深空"
+      ],
+      "implications": [
+        "能源稀缺在文明尺度上失去意义",
+        "巨构建筑与人工世界变得可持续",
+        "文明获得跨越宇宙时间尺度的韧性"
+      ],
+      "image": {
+        "alt": "银河尺度能源网络连接星团",
+        "prompts": [
+          "galaxy-Scale Energy Networks Connect Star Clusters, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Scale Energy Networks Connect Star Clusters, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Scale Energy Networks Connect Star Clusters, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Scale Energy Networks Connect Star Clusters, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxy-scale-energy-networks-connect-star-clusters.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxy-scale-energy-networks-connect-star-clusters.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxy-scale-energy-networks-connect-star-clusters.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-matter-energy-conversion-reaches-near-perfect-efficiency",
+      "order": 14,
+      "slug": "matter-energy-conversion-reaches-near-perfect-efficiency",
+      "title": "质能转换达到近乎完美的效率",
+      "shortTitle": "质能转换近乎完美效率",
+      "category": "Energy",
+      "description": "质能转换达到近乎完美的效率 利用黑洞、暗能量、背景辐射等宇宙级能源，支撑长期延续的银河文明。",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 262220,
+        "endYear": 328686
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "质能转换达到近乎完美的效率 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "能源系统接近近乎完美的效率",
+        "恒星与后恒星能源成为可工程化资源",
+        "能源网络横跨星团与深空"
+      ],
+      "implications": [
+        "能源稀缺在文明尺度上失去意义",
+        "巨构建筑与人工世界变得可持续",
+        "文明获得跨越宇宙时间尺度的韧性"
+      ],
+      "image": {
+        "alt": "质能转换达到近乎完美的效率",
+        "prompts": [
+          "matter-Energy Conversion Reaches Near-Perfect Efficiency, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter-Energy Conversion Reaches Near-Perfect Efficiency, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter-Energy Conversion Reaches Near-Perfect Efficiency, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter-Energy Conversion Reaches Near-Perfect Efficiency, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-matter-energy-conversion-reaches-near-perfect-efficiency.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cosmic-background-radiation-becomes-a-usable-energy-source",
+      "order": 15,
+      "slug": "cosmic-background-radiation-becomes-a-usable-energy-source",
+      "title": "宇宙微波背景辐射成为可用能源",
+      "shortTitle": "宇宙背景辐射能源",
+      "category": "Energy",
+      "description": "宇宙微波背景辐射成为可用能源 利用黑洞、暗能量、背景辐射等宇宙级能源，支撑长期延续的银河文明。",
+      "layerId": "energy",
+      "domains": [
+        "black-hole-energy",
+        "dark-energy",
+        "cosmic-energy-networks"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 282160,
+        "endYear": 348626
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "宇宙微波背景辐射成为可用能源 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "能源系统接近近乎完美的效率",
+        "恒星与后恒星能源成为可工程化资源",
+        "能源网络横跨星团与深空"
+      ],
+      "implications": [
+        "能源稀缺在文明尺度上失去意义",
+        "巨构建筑与人工世界变得可持续",
+        "文明获得跨越宇宙时间尺度的韧性"
+      ],
+      "image": {
+        "alt": "宇宙微波背景辐射成为可用能源",
+        "prompts": [
+          "cosmic Background Radiation Becomes A Usable Energy Source, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cosmic Background Radiation Becomes A Usable Energy Source, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cosmic Background Radiation Becomes A Usable Energy Source, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cosmic Background Radiation Becomes A Usable Energy Source, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cosmic-background-radiation-becomes-a-usable-energy-source.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-humanity-reaches-neighboring-galaxies",
+      "order": 16,
+      "slug": "humanity-reaches-neighboring-galaxies",
+      "title": "人类抵达邻近星系",
+      "shortTitle": "邻近星系",
+      "category": "Space",
+      "description": "人类抵达邻近星系 推动文明越过银河系，进入邻近星系、人工恒星系统、星系际贸易与可持续恒星工程。",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 302100,
+        "endYear": 368566
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "人类抵达邻近星系 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "大量人口生活在行星表面之外",
+        "人工世界与恒星系统工程成为可行实践",
+        "探索跨越银河与星系际边界"
+      ],
+      "implications": [
+        "人类不再依附于任何单一恒星系统",
+        "太空本身成为文明的常态栖居地",
+        "宇宙尺度定居改变身份与治理"
+      ],
+      "image": {
+        "alt": "人类抵达邻近星系",
+        "prompts": [
+          "humanity Reaches Neighboring Galaxies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Reaches Neighboring Galaxies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Reaches Neighboring Galaxies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Reaches Neighboring Galaxies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-humanity-reaches-neighboring-galaxies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-humanity-reaches-neighboring-galaxies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-humanity-reaches-neighboring-galaxies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-first-intergalactic-trade-routes-become-operational",
+      "order": 17,
+      "slug": "first-intergalactic-trade-routes-become-operational",
+      "title": "首批星系际贸易路线投入运营",
+      "shortTitle": "星系际贸易路线运营",
+      "category": "Space",
+      "description": "首批星系际贸易路线投入运营 推动文明越过银河系，进入邻近星系、人工恒星系统、星系际贸易与可持续恒星工程。",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 322040,
+        "endYear": 388506
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "首批星系际贸易路线投入运营 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "大量人口生活在行星表面之外",
+        "人工世界与恒星系统工程成为可行实践",
+        "探索跨越银河与星系际边界"
+      ],
+      "implications": [
+        "人类不再依附于任何单一恒星系统",
+        "太空本身成为文明的常态栖居地",
+        "宇宙尺度定居改变身份与治理"
+      ],
+      "image": {
+        "alt": "首批星系际贸易路线投入运营",
+        "prompts": [
+          "first Intergalactic Trade Routes Become Operational, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Intergalactic Trade Routes Become Operational, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Intergalactic Trade Routes Become Operational, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Intergalactic Trade Routes Become Operational, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-first-intergalactic-trade-routes-become-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-first-intergalactic-trade-routes-become-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-first-intergalactic-trade-routes-become-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-star-systems-are-constructed",
+      "order": 18,
+      "slug": "artificial-star-systems-are-constructed",
+      "title": "人工恒星系统被建造出来",
+      "shortTitle": "人工恒星系统建成",
+      "category": "Space",
+      "description": "人工恒星系统被建造出来 推动文明越过银河系，进入邻近星系、人工恒星系统、星系际贸易与可持续恒星工程。",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 341980,
+        "endYear": 408446
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "人工恒星系统被建造出来 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "大量人口生活在行星表面之外",
+        "人工世界与恒星系统工程成为可行实践",
+        "探索跨越银河与星系际边界"
+      ],
+      "implications": [
+        "人类不再依附于任何单一恒星系统",
+        "太空本身成为文明的常态栖居地",
+        "宇宙尺度定居改变身份与治理"
+      ],
+      "image": {
+        "alt": "人工恒星系统被建造出来",
+        "prompts": [
+          "artificial Star Systems Are Constructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Star Systems Are Constructed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Star Systems Are Constructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Star Systems Are Constructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-star-systems-are-constructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-star-systems-are-constructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-star-systems-are-constructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-population-living-outside-the-milky-way-exceeds-one-billion",
+      "order": 19,
+      "slug": "population-living-outside-the-milky-way-exceeds-one-billion",
+      "title": "生活在银河系之外的人口超过十亿",
+      "shortTitle": "银河系外人口超过十亿",
+      "category": "Space",
+      "description": "生活在银河系之外的人口超过十亿 推动文明越过银河系，进入邻近星系、人工恒星系统、星系际贸易与可持续恒星工程。",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 361920,
+        "endYear": 428386
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "生活在银河系之外的人口超过十亿 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "大量人口生活在行星表面之外",
+        "人工世界与恒星系统工程成为可行实践",
+        "探索跨越银河与星系际边界"
+      ],
+      "implications": [
+        "人类不再依附于任何单一恒星系统",
+        "太空本身成为文明的常态栖居地",
+        "宇宙尺度定居改变身份与治理"
+      ],
+      "image": {
+        "alt": "生活在银河系之外的人口超过十亿",
+        "prompts": [
+          "population Living Outside The Milky Way Exceeds One Billion, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing population Living Outside The Milky Way Exceeds One Billion, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of population Living Outside The Milky Way Exceeds One Billion, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating population Living Outside The Milky Way Exceeds One Billion, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-population-living-outside-the-milky-way-exceeds-one-billion.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-population-living-outside-the-milky-way-exceeds-one-billion.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-population-living-outside-the-milky-way-exceeds-one-billion.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-stellar-engineering-protects-dying-stars-from-collapse",
+      "order": 20,
+      "slug": "stellar-engineering-protects-dying-stars-from-collapse",
+      "title": "恒星工程保护濒死恒星免于坍缩",
+      "shortTitle": "恒星工程保护濒死恒星",
+      "category": "Space",
+      "description": "恒星工程保护濒死恒星免于坍缩 推动文明越过银河系，进入邻近星系、人工恒星系统、星系际贸易与可持续恒星工程。",
+      "layerId": "space",
+      "domains": [
+        "intergalactic-civilization",
+        "artificial-star-systems",
+        "stellar-engineering"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 381860,
+        "endYear": 448326
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "恒星工程保护濒死恒星免于坍缩 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "大量人口生活在行星表面之外",
+        "人工世界与恒星系统工程成为可行实践",
+        "探索跨越银河与星系际边界"
+      ],
+      "implications": [
+        "人类不再依附于任何单一恒星系统",
+        "太空本身成为文明的常态栖居地",
+        "宇宙尺度定居改变身份与治理"
+      ],
+      "image": {
+        "alt": "恒星工程保护濒死恒星免于坍缩",
+        "prompts": [
+          "stellar Engineering Protects Dying Stars From Collapse, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Engineering Protects Dying Stars From Collapse, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Engineering Protects Dying Stars From Collapse, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Engineering Protects Dying Stars From Collapse, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-stellar-engineering-protects-dying-stars-from-collapse.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-stellar-engineering-protects-dying-stars-from-collapse.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-stellar-engineering-protects-dying-stars-from-collapse.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-biological-death-becomes-a-personal-choice",
+      "order": 21,
+      "slug": "biological-death-becomes-a-personal-choice",
+      "title": "生物性死亡成为个人选择",
+      "shortTitle": "生物性死亡个人选择",
+      "category": "Biology & Medicine",
+      "description": "生物性死亡成为个人选择 让生命、死亡、记忆与演化成为跨物种和跨基底共享的有意识选择。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 401800,
+        "endYear": 468266
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "生物性死亡成为个人选择 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "意识连续性可以在临床与法律层面被衡量",
+        "身体变得可替换或可选择",
+        "记忆与生物学成为可设计空间"
+      ],
+      "implications": [
+        "死亡变得可以协商，而非不可避免",
+        "物种边界变得不再僵硬",
+        "伦理必须围绕连续性、复制与身份扩展"
+      ],
+      "image": {
+        "alt": "生物性死亡成为个人选择",
+        "prompts": [
+          "biological Death Becomes A Personal Choice, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Death Becomes A Personal Choice, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Death Becomes A Personal Choice, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Death Becomes A Personal Choice, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-biological-death-becomes-a-personal-choice.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-biological-death-becomes-a-personal-choice.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-biological-death-becomes-a-personal-choice.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-consciousness-can-exist-independently-of-physical-substrates",
+      "order": 22,
+      "slug": "consciousness-can-exist-independently-of-physical-substrates",
+      "title": "意识可以独立于物理基底而存在",
+      "shortTitle": "意识独立于物理基底",
+      "category": "Biology & Medicine",
+      "description": "意识可以独立于物理基底而存在 让生命、死亡、记忆与演化成为跨物种和跨基底共享的有意识选择。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 421740,
+        "endYear": 488206
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "意识可以独立于物理基底而存在 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "意识连续性可以在临床与法律层面被衡量",
+        "身体变得可替换或可选择",
+        "记忆与生物学成为可设计空间"
+      ],
+      "implications": [
+        "死亡变得可以协商，而非不可避免",
+        "物种边界变得不再僵硬",
+        "伦理必须围绕连续性、复制与身份扩展"
+      ],
+      "image": {
+        "alt": "意识可以独立于物理基底而存在",
+        "prompts": [
+          "consciousness Can Exist Independently Of Physical Substrates, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Can Exist Independently Of Physical Substrates, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Can Exist Independently Of Physical Substrates, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Can Exist Independently Of Physical Substrates, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-consciousness-can-exist-independently-of-physical-substrates.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-consciousness-can-exist-independently-of-physical-substrates.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-consciousness-can-exist-independently-of-physical-substrates.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-memories-can-be-shared-across-species",
+      "order": 23,
+      "slug": "memories-can-be-shared-across-species",
+      "title": "记忆可以跨物种共享",
+      "shortTitle": "记忆跨物种共享",
+      "category": "Biology & Medicine",
+      "description": "记忆可以跨物种共享 让生命、死亡、记忆与演化成为跨物种和跨基底共享的有意识选择。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 441680,
+        "endYear": 508146
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "记忆可以跨物种共享 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "意识连续性可以在临床与法律层面被衡量",
+        "身体变得可替换或可选择",
+        "记忆与生物学成为可设计空间"
+      ],
+      "implications": [
+        "死亡变得可以协商，而非不可避免",
+        "物种边界变得不再僵硬",
+        "伦理必须围绕连续性、复制与身份扩展"
+      ],
+      "image": {
+        "alt": "记忆可以跨物种共享",
+        "prompts": [
+          "memories Can Be Shared Across Species, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing memories Can Be Shared Across Species, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of memories Can Be Shared Across Species, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating memories Can Be Shared Across Species, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-memories-can-be-shared-across-species.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-memories-can-be-shared-across-species.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-memories-can-be-shared-across-species.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-memories-can-be-shared-across-species.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-memories-can-be-shared-across-species.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-entire-ecosystems-are-reconstructed-from-genetic-archives",
+      "order": 24,
+      "slug": "entire-ecosystems-are-reconstructed-from-genetic-archives",
+      "title": "完整生态系统可由基因档案重建",
+      "shortTitle": "生态系统由基因档案重建",
+      "category": "Biology & Medicine",
+      "description": "完整生态系统可由基因档案重建 让生命、死亡、记忆与演化成为跨物种和跨基底共享的有意识选择。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 461620,
+        "endYear": 528086
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "完整生态系统可由基因档案重建 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "意识连续性可以在临床与法律层面被衡量",
+        "身体变得可替换或可选择",
+        "记忆与生物学成为可设计空间"
+      ],
+      "implications": [
+        "死亡变得可以协商，而非不可避免",
+        "物种边界变得不再僵硬",
+        "伦理必须围绕连续性、复制与身份扩展"
+      ],
+      "image": {
+        "alt": "完整生态系统可由基因档案重建",
+        "prompts": [
+          "entire Ecosystems Are Reconstructed From Genetic Archives, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Ecosystems Are Reconstructed From Genetic Archives, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Ecosystems Are Reconstructed From Genetic Archives, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Ecosystems Are Reconstructed From Genetic Archives, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-entire-ecosystems-are-reconstructed-from-genetic-archives.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one",
+      "order": 25,
+      "slug": "evolution-becomes-a-deliberate-process-rather-than-a-random-one",
+      "title": "演化成为有意识设计的过程，而非随机过程",
+      "shortTitle": "演化成为有意识过程",
+      "category": "Biology & Medicine",
+      "description": "演化成为有意识设计的过程，而非随机过程 让生命、死亡、记忆与演化成为跨物种和跨基底共享的有意识选择。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "substrate-independent-consciousness",
+        "cross-species-memory",
+        "designed-evolution"
+      ],
+      "maturity": "galactic-demonstration",
+      "timeframe": {
+        "startYear": 481560,
+        "endYear": 548026
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "演化成为有意识设计的过程，而非随机过程 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "意识连续性可以在临床与法律层面被衡量",
+        "身体变得可替换或可选择",
+        "记忆与生物学成为可设计空间"
+      ],
+      "implications": [
+        "死亡变得可以协商，而非不可避免",
+        "物种边界变得不再僵硬",
+        "伦理必须围绕连续性、复制与身份扩展"
+      ],
+      "image": {
+        "alt": "演化成为有意识设计的过程，而非随机过程",
+        "prompts": [
+          "evolution Becomes A Deliberate Process Rather Than A Random One, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing evolution Becomes A Deliberate Process Rather Than A Random One, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of evolution Becomes A Deliberate Process Rather Than A Random One, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating evolution Becomes A Deliberate Process Rather Than A Random One, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-evolution-becomes-a-deliberate-process-rather-than-a-random-one.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-dark-matter-engineering-becomes-practical",
+      "order": 26,
+      "slug": "dark-matter-engineering-becomes-practical",
+      "title": "暗物质工程成为可实践技术",
+      "shortTitle": "暗物质工程可实践",
+      "category": "Physics",
+      "description": "暗物质工程成为可实践技术 利用宇宙物理来理解起源、保存信息、操控时空拓扑，并构建文明基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 501500,
+        "endYear": 567966
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "暗物质工程成为可实践技术 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "基础物理产生可运行的技术",
+        "时空操控变得可重复",
+        "宇宙尺度观测成为实验系统"
+      ],
+      "implications": [
+        "旅行、存储与计算获得新的物理基础",
+        "文明开始工程化现实本身",
+        "关于宇宙尺度生存的问题变得可实践"
+      ],
+      "image": {
+        "alt": "暗物质工程成为可实践技术",
+        "prompts": [
+          "dark Matter Engineering Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Matter Engineering Becomes Practical, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Matter Engineering Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Matter Engineering Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-dark-matter-engineering-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-dark-matter-engineering-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-dark-matter-engineering-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-space-time-topology-is-manipulated-for-civilization-infrastructure",
+      "order": 27,
+      "slug": "space-time-topology-is-manipulated-for-civilization-infrastructure",
+      "title": "时空拓扑被用于文明基础设施",
+      "shortTitle": "时空拓扑文明基础设施",
+      "category": "Physics",
+      "description": "时空拓扑被用于文明基础设施 利用宇宙物理来理解起源、保存信息、操控时空拓扑，并构建文明基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 521440,
+        "endYear": 587906
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "时空拓扑被用于文明基础设施 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "基础物理产生可运行的技术",
+        "时空操控变得可重复",
+        "宇宙尺度观测成为实验系统"
+      ],
+      "implications": [
+        "旅行、存储与计算获得新的物理基础",
+        "文明开始工程化现实本身",
+        "关于宇宙尺度生存的问题变得可实践"
+      ],
+      "image": {
+        "alt": "时空拓扑被用于文明基础设施",
+        "prompts": [
+          "space-Time Topology Is Manipulated For Civilization Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Time Topology Is Manipulated For Civilization Infrastructure, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Time Topology Is Manipulated For Civilization Infrastructure, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Time Topology Is Manipulated For Civilization Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-space-time-topology-is-manipulated-for-civilization-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-the-origin-of-the-universe-is-experimentally-reconstructed",
+      "order": 28,
+      "slug": "the-origin-of-the-universe-is-experimentally-reconstructed",
+      "title": "宇宙起源被实验性重建",
+      "shortTitle": "宇宙起源实验重建",
+      "category": "Physics",
+      "description": "宇宙起源被实验性重建 利用宇宙物理来理解起源、保存信息、操控时空拓扑，并构建文明基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 541380,
+        "endYear": 607846
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "宇宙起源被实验性重建 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "基础物理产生可运行的技术",
+        "时空操控变得可重复",
+        "宇宙尺度观测成为实验系统"
+      ],
+      "implications": [
+        "旅行、存储与计算获得新的物理基础",
+        "文明开始工程化现实本身",
+        "关于宇宙尺度生存的问题变得可实践"
+      ],
+      "image": {
+        "alt": "宇宙起源被实验性重建",
+        "prompts": [
+          "the Origin Of The Universe Is Experimentally Reconstructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Origin Of The Universe Is Experimentally Reconstructed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Origin Of The Universe Is Experimentally Reconstructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Origin Of The Universe Is Experimentally Reconstructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-the-origin-of-the-universe-is-experimentally-reconstructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-parallel-universes-become-observable",
+      "order": 29,
+      "slug": "parallel-universes-become-observable",
+      "title": "平行宇宙变得可观测",
+      "shortTitle": "平行宇宙可观测",
+      "category": "Physics",
+      "description": "平行宇宙变得可观测 利用宇宙物理来理解起源、保存信息、操控时空拓扑，并构建文明基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 561320,
+        "endYear": 627786
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "平行宇宙变得可观测 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "基础物理产生可运行的技术",
+        "时空操控变得可重复",
+        "宇宙尺度观测成为实验系统"
+      ],
+      "implications": [
+        "旅行、存储与计算获得新的物理基础",
+        "文明开始工程化现实本身",
+        "关于宇宙尺度生存的问题变得可实践"
+      ],
+      "image": {
+        "alt": "平行宇宙变得可观测",
+        "prompts": [
+          "parallel Universes Become Observable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing parallel Universes Become Observable, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of parallel Universes Become Observable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating parallel Universes Become Observable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-parallel-universes-become-observable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-parallel-universes-become-observable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-parallel-universes-become-observable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-parallel-universes-become-observable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-parallel-universes-become-observable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-information-preservation-across-cosmic-timescales-is-achieved",
+      "order": 30,
+      "slug": "information-preservation-across-cosmic-timescales-is-achieved",
+      "title": "跨越宇宙时间尺度的信息保存得以实现",
+      "shortTitle": "宇宙时间尺度信息保存",
+      "category": "Physics",
+      "description": "跨越宇宙时间尺度的信息保存得以实现 利用宇宙物理来理解起源、保存信息、操控时空拓扑，并构建文明基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "dark-matter-engineering",
+        "space-time-topology",
+        "cosmic-information"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 581260,
+        "endYear": 647726
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "跨越宇宙时间尺度的信息保存得以实现 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "基础物理产生可运行的技术",
+        "时空操控变得可重复",
+        "宇宙尺度观测成为实验系统"
+      ],
+      "implications": [
+        "旅行、存储与计算获得新的物理基础",
+        "文明开始工程化现实本身",
+        "关于宇宙尺度生存的问题变得可实践"
+      ],
+      "image": {
+        "alt": "跨越宇宙时间尺度的信息保存得以实现",
+        "prompts": [
+          "information Preservation Across Cosmic Timescales Is Achieved, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing information Preservation Across Cosmic Timescales Is Achieved, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of information Preservation Across Cosmic Timescales Is Achieved, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating information Preservation Across Cosmic Timescales Is Achieved, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-information-preservation-across-cosmic-timescales-is-achieved.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-information-preservation-across-cosmic-timescales-is-achieved.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-information-preservation-across-cosmic-timescales-is-achieved.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale",
+      "order": 31,
+      "slug": "matter-can-be-reassembled-atom-by-atom-at-planetary-scale",
+      "title": "物质可在行星尺度上逐原子重组",
+      "shortTitle": "物质逐原子重组",
+      "category": "Materials & Manufacturing",
+      "description": "物质可在行星尺度上逐原子重组 通过可编程现实材料和逐原子重组，将制造扩展到行星、世界和恒星系统尺度。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 601200,
+        "endYear": 667666
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "物质可在行星尺度上逐原子重组 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "原子级精度成为常规制造实践",
+        "自组装栖居地无需传统工厂即可生长",
+        "物质重构消除许多供应链"
+      ],
+      "implications": [
+        "材料稀缺在很大程度上消失",
+        "城市与栖居地可以被生长或重组",
+        "材料、机器与生命体之间的边界变得模糊"
+      ],
+      "image": {
+        "alt": "物质可在行星尺度上逐原子重组",
+        "prompts": [
+          "matter Can Be Reassembled Atom-By-Atom At Planetary Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter Can Be Reassembled Atom-By-Atom At Planetary Scale, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter Can Be Reassembled Atom-By-Atom At Planetary Scale, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter Can Be Reassembled Atom-By-Atom At Planetary Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-matter-can-be-reassembled-atom-by-atom-at-planetary-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-self-growing-megastructures-build-entire-star-systems",
+      "order": 32,
+      "slug": "self-growing-megastructures-build-entire-star-systems",
+      "title": "自生长巨构建筑建造完整恒星系统",
+      "shortTitle": "自生长巨构建造恒星系统",
+      "category": "Materials & Manufacturing",
+      "description": "自生长巨构建筑建造完整恒星系统 通过可编程现实材料和逐原子重组，将制造扩展到行星、世界和恒星系统尺度。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 621140,
+        "endYear": 687606
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "自生长巨构建筑建造完整恒星系统 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "原子级精度成为常规制造实践",
+        "自组装栖居地无需传统工厂即可生长",
+        "物质重构消除许多供应链"
+      ],
+      "implications": [
+        "材料稀缺在很大程度上消失",
+        "城市与栖居地可以被生长或重组",
+        "材料、机器与生命体之间的边界变得模糊"
+      ],
+      "image": {
+        "alt": "自生长巨构建筑建造完整恒星系统",
+        "prompts": [
+          "self-Growing Megastructures Build Entire Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Growing Megastructures Build Entire Star Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Growing Megastructures Build Entire Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Growing Megastructures Build Entire Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-self-growing-megastructures-build-entire-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-self-growing-megastructures-build-entire-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-self-growing-megastructures-build-entire-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-programmable-reality-materials-enter-use",
+      "order": 33,
+      "slug": "programmable-reality-materials-enter-use",
+      "title": "可编程现实材料投入使用",
+      "shortTitle": "可编程现实材料使用",
+      "category": "Materials & Manufacturing",
+      "description": "可编程现实材料投入使用 通过可编程现实材料和逐原子重组，将制造扩展到行星、世界和恒星系统尺度。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 641080,
+        "endYear": 707546
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "可编程现实材料投入使用 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "原子级精度成为常规制造实践",
+        "自组装栖居地无需传统工厂即可生长",
+        "物质重构消除许多供应链"
+      ],
+      "implications": [
+        "材料稀缺在很大程度上消失",
+        "城市与栖居地可以被生长或重组",
+        "材料、机器与生命体之间的边界变得模糊"
+      ],
+      "image": {
+        "alt": "可编程现实材料投入使用",
+        "prompts": [
+          "programmable Reality Materials Enter Use, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Reality Materials Enter Use, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Reality Materials Enter Use, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Reality Materials Enter Use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-programmable-reality-materials-enter-use.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-programmable-reality-materials-enter-use.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-programmable-reality-materials-enter-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-worlds-become-manufactured-products",
+      "order": 34,
+      "slug": "artificial-worlds-become-manufactured-products",
+      "title": "人工世界成为可制造产品",
+      "shortTitle": "人工世界制造产品",
+      "category": "Materials & Manufacturing",
+      "description": "人工世界成为可制造产品 通过可编程现实材料和逐原子重组，将制造扩展到行星、世界和恒星系统尺度。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 661020,
+        "endYear": 727486
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "人工世界成为可制造产品 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "原子级精度成为常规制造实践",
+        "自组装栖居地无需传统工厂即可生长",
+        "物质重构消除许多供应链"
+      ],
+      "implications": [
+        "材料稀缺在很大程度上消失",
+        "城市与栖居地可以被生长或重组",
+        "材料、机器与生命体之间的边界变得模糊"
+      ],
+      "image": {
+        "alt": "人工世界成为可制造产品",
+        "prompts": [
+          "artificial Worlds Become Manufactured Products, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Worlds Become Manufactured Products, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Worlds Become Manufactured Products, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Worlds Become Manufactured Products, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-worlds-become-manufactured-products.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-worlds-become-manufactured-products.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-worlds-become-manufactured-products.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-resource-scarcity-disappears-permanently",
+      "order": 35,
+      "slug": "resource-scarcity-disappears-permanently",
+      "title": "资源稀缺永久消失",
+      "shortTitle": "资源稀缺永久消失",
+      "category": "Materials & Manufacturing",
+      "description": "资源稀缺永久消失 通过可编程现实材料和逐原子重组，将制造扩展到行星、世界和恒星系统尺度。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "planetary-scale-reassembly",
+        "programmable-reality",
+        "manufactured-worlds"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 680960,
+        "endYear": 747426
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "资源稀缺永久消失 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "原子级精度成为常规制造实践",
+        "自组装栖居地无需传统工厂即可生长",
+        "物质重构消除许多供应链"
+      ],
+      "implications": [
+        "材料稀缺在很大程度上消失",
+        "城市与栖居地可以被生长或重组",
+        "材料、机器与生命体之间的边界变得模糊"
+      ],
+      "image": {
+        "alt": "资源稀缺永久消失",
+        "prompts": [
+          "resource Scarcity Disappears Permanently, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing resource Scarcity Disappears Permanently, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of resource Scarcity Disappears Permanently, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating resource Scarcity Disappears Permanently, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-resource-scarcity-disappears-permanently.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-resource-scarcity-disappears-permanently.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-resource-scarcity-disappears-permanently.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-stars-are-protected-as-ecological-systems",
+      "order": 36,
+      "slug": "stars-are-protected-as-ecological-systems",
+      "title": "恒星被作为生态系统加以保护",
+      "shortTitle": "恒星生态系统保护",
+      "category": "Environment",
+      "description": "恒星被作为生态系统加以保护 将守护范围从行星扩展到恒星、行星系统，以及被视为生态网络的星系。",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 700900,
+        "endYear": 767366
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "恒星被作为生态系统加以保护 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "人工生态系统在稳定性上超越未管理的自然系统",
+        "地球化改造在多个世界反复实施",
+        "修复行动以行星与宇宙尺度衡量"
+      ],
+      "implications": [
+        "文明成为生物圈的创造者与守护者",
+        "伦理从地球生态扩展到宇宙生态",
+        "宜居世界可以被保存、修复或设计"
+      ],
+      "image": {
+        "alt": "恒星被作为生态系统加以保护",
+        "prompts": [
+          "stars Are Protected As Ecological Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stars Are Protected As Ecological Systems, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stars Are Protected As Ecological Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stars Are Protected As Ecological Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-stars-are-protected-as-ecological-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-stars-are-protected-as-ecological-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-stars-are-protected-as-ecological-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage",
+      "order": 37,
+      "slug": "cosmic-ecosystem-restoration-programs-reverse-ancient-damage",
+      "title": "宇宙生态修复计划逆转远古损伤",
+      "shortTitle": "宇宙生态修复计划",
+      "category": "Environment",
+      "description": "宇宙生态修复计划逆转远古损伤 将守护范围从行星扩展到恒星、行星系统，以及被视为生态网络的星系。",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 720840,
+        "endYear": 787306
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "宇宙生态修复计划逆转远古损伤 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "人工生态系统在稳定性上超越未管理的自然系统",
+        "地球化改造在多个世界反复实施",
+        "修复行动以行星与宇宙尺度衡量"
+      ],
+      "implications": [
+        "文明成为生物圈的创造者与守护者",
+        "伦理从地球生态扩展到宇宙生态",
+        "宜居世界可以被保存、修复或设计"
+      ],
+      "image": {
+        "alt": "宇宙生态修复计划逆转远古损伤",
+        "prompts": [
+          "cosmic Ecosystem Restoration Programs Reverse Ancient Damage, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cosmic Ecosystem Restoration Programs Reverse Ancient Damage, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cosmic Ecosystem Restoration Programs Reverse Ancient Damage, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cosmic Ecosystem Restoration Programs Reverse Ancient Damage, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cosmic-ecosystem-restoration-programs-reverse-ancient-damage.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-artificial-biospheres-support-exotic-life-forms",
+      "order": 38,
+      "slug": "artificial-biospheres-support-exotic-life-forms",
+      "title": "人工生物圈支持奇异生命形态",
+      "shortTitle": "人工生物圈支持奇异生命",
+      "category": "Environment",
+      "description": "人工生物圈支持奇异生命形态 将守护范围从行星扩展到恒星、行星系统，以及被视为生态网络的星系。",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 740780,
+        "endYear": 807246
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "人工生物圈支持奇异生命形态 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "人工生态系统在稳定性上超越未管理的自然系统",
+        "地球化改造在多个世界反复实施",
+        "修复行动以行星与宇宙尺度衡量"
+      ],
+      "implications": [
+        "文明成为生物圈的创造者与守护者",
+        "伦理从地球生态扩展到宇宙生态",
+        "宜居世界可以被保存、修复或设计"
+      ],
+      "image": {
+        "alt": "人工生物圈支持奇异生命形态",
+        "prompts": [
+          "artificial Biospheres Support Exotic Life Forms, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Biospheres Support Exotic Life Forms, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Biospheres Support Exotic Life Forms, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Biospheres Support Exotic Life Forms, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-artificial-biospheres-support-exotic-life-forms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-artificial-biospheres-support-exotic-life-forms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-artificial-biospheres-support-exotic-life-forms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-entire-planetary-systems-are-managed-sustainably",
+      "order": 39,
+      "slug": "entire-planetary-systems-are-managed-sustainably",
+      "title": "完整行星系统被可持续管理",
+      "shortTitle": "完整行星系统管理",
+      "category": "Environment",
+      "description": "完整行星系统被可持续管理 将守护范围从行星扩展到恒星、行星系统，以及被视为生态网络的星系。",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 760720,
+        "endYear": 827186
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "完整行星系统被可持续管理 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "人工生态系统在稳定性上超越未管理的自然系统",
+        "地球化改造在多个世界反复实施",
+        "修复行动以行星与宇宙尺度衡量"
+      ],
+      "implications": [
+        "文明成为生物圈的创造者与守护者",
+        "伦理从地球生态扩展到宇宙生态",
+        "宜居世界可以被保存、修复或设计"
+      ],
+      "image": {
+        "alt": "完整行星系统被可持续管理",
+        "prompts": [
+          "entire Planetary Systems Are Managed Sustainably, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Planetary Systems Are Managed Sustainably, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Planetary Systems Are Managed Sustainably, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Planetary Systems Are Managed Sustainably, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-entire-planetary-systems-are-managed-sustainably.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-entire-planetary-systems-are-managed-sustainably.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-entire-planetary-systems-are-managed-sustainably.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galaxies-become-recognized-as-living-ecological-networks",
+      "order": 40,
+      "slug": "galaxies-become-recognized-as-living-ecological-networks",
+      "title": "星系被承认为活的生态网络",
+      "shortTitle": "星系活生态网络",
+      "category": "Environment",
+      "description": "星系被承认为活的生态网络 将守护范围从行星扩展到恒星、行星系统，以及被视为生态网络的星系。",
+      "layerId": "environment",
+      "domains": [
+        "stellar-ecology",
+        "cosmic-restoration",
+        "galactic-ecosystems"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 780660,
+        "endYear": 847126
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "星系被承认为活的生态网络 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "人工生态系统在稳定性上超越未管理的自然系统",
+        "地球化改造在多个世界反复实施",
+        "修复行动以行星与宇宙尺度衡量"
+      ],
+      "implications": [
+        "文明成为生物圈的创造者与守护者",
+        "伦理从地球生态扩展到宇宙生态",
+        "宜居世界可以被保存、修复或设计"
+      ],
+      "image": {
+        "alt": "星系被承认为活的生态网络",
+        "prompts": [
+          "galaxies Become Recognized As Living Ecological Networks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxies Become Recognized As Living Ecological Networks, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxies Become Recognized As Living Ecological Networks, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxies Become Recognized As Living Ecological Networks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galaxies-become-recognized-as-living-ecological-networks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galaxies-become-recognized-as-living-ecological-networks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galaxies-become-recognized-as-living-ecological-networks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-trade-expands-to-art-consciousness-biology-and-physics",
+      "order": 41,
+      "slug": "trade-expands-to-art-consciousness-biology-and-physics",
+      "title": "贸易扩展到艺术、意识、生物学与物理学",
+      "shortTitle": "贸易扩展到艺术意识",
+      "category": "Society & Economy",
+      "description": "贸易扩展到艺术、意识、生物学与物理学 将社会扩展到跨文明交流，使艺术、意识、生物、记忆和体验成为主要价值形态。",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 800600,
+        "endYear": 867066
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "贸易扩展到艺术、意识、生物学与物理学 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "货币的重要性低于知识与信任",
+        "虚拟与物理社区获得同等经济合法性",
+        "所有权转向共享访问与真实体验"
+      ],
+      "implications": [
+        "经济身份不再依赖身体或地点",
+        "冲突更多转向哲学，而非领土",
+        "文化成为文明成长的主要舞台"
+      ],
+      "image": {
+        "alt": "贸易扩展到艺术、意识、生物学与物理学",
+        "prompts": [
+          "trade Expands To Art, Consciousness, Biology, And Physics, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing trade Expands To Art, Consciousness, Biology, And Physics, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of trade Expands To Art, Consciousness, Biology, And Physics, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating trade Expands To Art, Consciousness, Biology, And Physics, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-trade-expands-to-art-consciousness-biology-and-physics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-trade-expands-to-art-consciousness-biology-and-physics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-trade-expands-to-art-consciousness-biology-and-physics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-physical-ownership-is-replaced-by-shared-experience-economies",
+      "order": 42,
+      "slug": "physical-ownership-is-replaced-by-shared-experience-economies",
+      "title": "物理所有权被共享体验经济取代",
+      "shortTitle": "物理所有权共享体验",
+      "category": "Society & Economy",
+      "description": "物理所有权被共享体验经济取代 将社会扩展到跨文明交流，使艺术、意识、生物、记忆和体验成为主要价值形态。",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 820540,
+        "endYear": 887006
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "物理所有权被共享体验经济取代 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "货币的重要性低于知识与信任",
+        "虚拟与物理社区获得同等经济合法性",
+        "所有权转向共享访问与真实体验"
+      ],
+      "implications": [
+        "经济身份不再依赖身体或地点",
+        "冲突更多转向哲学，而非领土",
+        "文化成为文明成长的主要舞台"
+      ],
+      "image": {
+        "alt": "物理所有权被共享体验经济取代",
+        "prompts": [
+          "physical Ownership Is Replaced By Shared Experience Economies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing physical Ownership Is Replaced By Shared Experience Economies, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of physical Ownership Is Replaced By Shared Experience Economies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating physical Ownership Is Replaced By Shared Experience Economies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-physical-ownership-is-replaced-by-shared-experience-economies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-physical-ownership-is-replaced-by-shared-experience-economies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-physical-ownership-is-replaced-by-shared-experience-economies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-identity-becomes-independent-of-species-or-origin",
+      "order": 43,
+      "slug": "identity-becomes-independent-of-species-or-origin",
+      "title": "身份独立于物种或起源",
+      "shortTitle": "身份独立于物种起源",
+      "category": "Society & Economy",
+      "description": "身份独立于物种或起源 将社会扩展到跨文明交流，使艺术、意识、生物、记忆和体验成为主要价值形态。",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 840480,
+        "endYear": 906946
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "身份独立于物种或起源 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "货币的重要性低于知识与信任",
+        "虚拟与物理社区获得同等经济合法性",
+        "所有权转向共享访问与真实体验"
+      ],
+      "implications": [
+        "经济身份不再依赖身体或地点",
+        "冲突更多转向哲学，而非领土",
+        "文化成为文明成长的主要舞台"
+      ],
+      "image": {
+        "alt": "身份独立于物种或起源",
+        "prompts": [
+          "identity Becomes Independent Of Species Or Origin, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing identity Becomes Independent Of Species Or Origin, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of identity Becomes Independent Of Species Or Origin, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating identity Becomes Independent Of Species Or Origin, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-identity-becomes-independent-of-species-or-origin.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-identity-becomes-independent-of-species-or-origin.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-identity-becomes-independent-of-species-or-origin.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-conflict-shifts-from-territory-to-philosophy-and-memory",
+      "order": 44,
+      "slug": "conflict-shifts-from-territory-to-philosophy-and-memory",
+      "title": "冲突从领土转向哲学与记忆",
+      "shortTitle": "冲突转向哲学记忆",
+      "category": "Society & Economy",
+      "description": "冲突从领土转向哲学与记忆 将社会扩展到跨文明交流，使艺术、意识、生物、记忆和体验成为主要价值形态。",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 860420,
+        "endYear": 926886
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "冲突从领土转向哲学与记忆 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "货币的重要性低于知识与信任",
+        "虚拟与物理社区获得同等经济合法性",
+        "所有权转向共享访问与真实体验"
+      ],
+      "implications": [
+        "经济身份不再依赖身体或地点",
+        "冲突更多转向哲学，而非领土",
+        "文化成为文明成长的主要舞台"
+      ],
+      "image": {
+        "alt": "冲突从领土转向哲学与记忆",
+        "prompts": [
+          "conflict Shifts From Territory To Philosophy And Memory, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing conflict Shifts From Territory To Philosophy And Memory, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of conflict Shifts From Territory To Philosophy And Memory, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating conflict Shifts From Territory To Philosophy And Memory, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-conflict-shifts-from-territory-to-philosophy-and-memory.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-cultural-exchange-between-civilizations-becomes-routine",
+      "order": 45,
+      "slug": "cultural-exchange-between-civilizations-becomes-routine",
+      "title": "文明之间的文化交流成为常态",
+      "shortTitle": "文明间文化交流",
+      "category": "Society & Economy",
+      "description": "文明之间的文化交流成为常态 将社会扩展到跨文明交流，使艺术、意识、生物、记忆和体验成为主要价值形态。",
+      "layerId": "society-economy",
+      "domains": [
+        "experience-economy",
+        "cross-civilization-trade",
+        "identity-evolution"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 880360,
+        "endYear": 946826
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "文明之间的文化交流成为常态 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "货币的重要性低于知识与信任",
+        "虚拟与物理社区获得同等经济合法性",
+        "所有权转向共享访问与真实体验"
+      ],
+      "implications": [
+        "经济身份不再依赖身体或地点",
+        "冲突更多转向哲学，而非领土",
+        "文化成为文明成长的主要舞台"
+      ],
+      "image": {
+        "alt": "文明之间的文化交流成为常态",
+        "prompts": [
+          "cultural Exchange Between Civilizations Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cultural Exchange Between Civilizations Becomes Routine, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cultural Exchange Between Civilizations Becomes Routine, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cultural Exchange Between Civilizations Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-cultural-exchange-between-civilizations-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-cultural-exchange-between-civilizations-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-cultural-exchange-between-civilizations-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-galactic-coexistence-council-is-formed",
+      "order": 46,
+      "slug": "galactic-coexistence-council-is-formed",
+      "title": "银河共存委员会成立",
+      "shortTitle": "银河共存委员会成立",
+      "category": "Civilization",
+      "description": "银河共存委员会成立 将人类整合进更大的宇宙共同体，在其中智能跨越生物、人工、行星与宇宙形态而被承认。",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 900300,
+        "endYear": 966766
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "银河共存委员会成立 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "权利框架扩展到生物人类之外",
+        "集体与数字社区获得法律地位",
+        "文明开始为非人类起源的智能做准备"
+      ],
+      "implications": [
+        "人类成为更广阔智能家族的一支",
+        "政治身份超越国家与物种",
+        "太阳系成为历史上的诞生地，而不再是中心"
+      ],
+      "image": {
+        "alt": "银河共存委员会成立",
+        "prompts": [
+          "galactic Coexistence Council Is Formed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galactic Coexistence Council Is Formed, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galactic Coexistence Council Is Formed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galactic Coexistence Council Is Formed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-galactic-coexistence-council-is-formed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-galactic-coexistence-council-is-formed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-galactic-coexistence-council-is-formed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms",
+      "order": 47,
+      "slug": "intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms",
+      "title": "智能跨生物、人工、行星与宇宙形态获得承认",
+      "shortTitle": "智能跨多种形态承认",
+      "category": "Civilization",
+      "description": "智能跨生物、人工、行星与宇宙形态获得承认 将人类整合进更大的宇宙共同体，在其中智能跨越生物、人工、行星与宇宙形态而被承认。",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 920240,
+        "endYear": 986706
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "智能跨生物、人工、行星与宇宙形态获得承认 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "权利框架扩展到生物人类之外",
+        "集体与数字社区获得法律地位",
+        "文明开始为非人类起源的智能做准备"
+      ],
+      "implications": [
+        "人类成为更广阔智能家族的一支",
+        "政治身份超越国家与物种",
+        "太阳系成为历史上的诞生地，而不再是中心"
+      ],
+      "image": {
+        "alt": "智能跨生物、人工、行星与宇宙形态获得承认",
+        "prompts": [
+          "intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating intelligence Is Recognized Across Biological, Artificial, Planetary, And Cosmic Forms, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-intelligence-is-recognized-across-biological-artificial-planetary-and-cosmic-forms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-first-shared-human-ai-alien-city-is-built",
+      "order": 48,
+      "slug": "first-shared-human-ai-alien-city-is-built",
+      "title": "第一座人类-AI-外星共享城市建成",
+      "shortTitle": "人类 AI 外星共享城市",
+      "category": "Civilization",
+      "description": "第一座人类-AI-外星共享城市建成 将人类整合进更大的宇宙共同体，在其中智能跨越生物、人工、行星与宇宙形态而被承认。",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 940180,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "第一座人类-AI-外星共享城市建成 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "权利框架扩展到生物人类之外",
+        "集体与数字社区获得法律地位",
+        "文明开始为非人类起源的智能做准备"
+      ],
+      "implications": [
+        "人类成为更广阔智能家族的一支",
+        "政治身份超越国家与物种",
+        "太阳系成为历史上的诞生地，而不再是中心"
+      ],
+      "image": {
+        "alt": "第一座人类-AI-外星共享城市建成",
+        "prompts": [
+          "first Shared Human-AI-Alien City Is Built, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Shared Human-AI-Alien City Is Built, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Shared Human-AI-Alien City Is Built, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Shared Human-AI-Alien City Is Built, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-first-shared-human-ai-alien-city-is-built.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-first-shared-human-ai-alien-city-is-built.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-first-shared-human-ai-alien-city-is-built.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history",
+      "order": 49,
+      "slug": "humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history",
+      "title": "人类起源故事成为更大宇宙历史中的一章",
+      "shortTitle": "人类起源故事一章",
+      "category": "Civilization",
+      "description": "人类起源故事成为更大宇宙历史中的一章 将人类整合进更大的宇宙共同体，在其中智能跨越生物、人工、行星与宇宙形态而被承认。",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 960120,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "人类起源故事成为更大宇宙历史中的一章 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "权利框架扩展到生物人类之外",
+        "集体与数字社区获得法律地位",
+        "文明开始为非人类起源的智能做准备"
+      ],
+      "implications": [
+        "人类成为更广阔智能家族的一支",
+        "政治身份超越国家与物种",
+        "太阳系成为历史上的诞生地，而不再是中心"
+      ],
+      "image": {
+        "alt": "人类起源故事成为更大宇宙历史中的一章",
+        "prompts": [
+          "humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity's Origin Story Becomes One Chapter In A Larger Cosmic History, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-humanitys-origin-story-becomes-one-chapter-in-a-larger-cosmic-history.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity",
+      "order": 50,
+      "slug": "the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity",
+      "title": "太阳系成为诞生地文明，而非人类中心",
+      "shortTitle": "太阳系诞生地文明",
+      "category": "Civilization",
+      "description": "太阳系成为诞生地文明，而非人类中心 将人类整合进更大的宇宙共同体，在其中智能跨越生物、人工、行星与宇宙形态而被承认。",
+      "layerId": "civilization",
+      "domains": [
+        "galactic-coexistence",
+        "cosmic-rights",
+        "shared-civilizations"
+      ],
+      "maturity": "cosmic-scale-adoption",
+      "timeframe": {
+        "startYear": 980060,
+        "endYear": 1000000
+      },
+      "impactLevel": "cosmic",
+      "civilizationImpact": "太阳系成为诞生地文明，而非人类中心 成为银河共存的定义性里程碑，将人类置于更广阔的宇宙共同体之中，与生物、人工、行星和外星智能并存。",
+      "signals": [
+        "权利框架扩展到生物人类之外",
+        "集体与数字社区获得法律地位",
+        "文明开始为非人类起源的智能做准备"
+      ],
+      "implications": [
+        "人类成为更广阔智能家族的一支",
+        "政治身份超越国家与物种",
+        "太阳系成为历史上的诞生地，而不再是中心"
+      ],
+      "image": {
+        "alt": "太阳系成为诞生地文明，而非人类中心",
+        "prompts": [
+          "the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, galactic coexistence with human, AI, and alien civilizations, cosmic infrastructure, shared cities, and deep-space ecosystems, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Solar System Becomes A Birthplace Civilization Rather Than The Center Of Humanity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-08/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-08/mobile/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-08/thumbnail/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-08/desktop/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-08/open_graph/era-08-the-solar-system-becomes-a-birthplace-civilization-rather-than-the-center-of-humanity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

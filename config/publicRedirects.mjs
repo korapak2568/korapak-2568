@@ -1,3 +1,6 @@
+export const SUPPORTED_LOCALES = ['en', 'th', 'zh', 'ja', 'ko', 'id', 'de', 'fr', 'ru', 'vi'];
+export const RETIRED_LOCALES = ['da', 'fi', 'nl'];
+
 export function getLegacyPublicRedirects() {
     return [
         {
@@ -49,16 +52,23 @@ export function getLegacyPublicRedirects() {
 }
 
 export async function redirectIncorrectPublic() {
-    const locales = ['th', 'en', 'fr', 'ja', 'zh', 'de', 'nl', 'da', 'fi', 'ko'];
     const items = [
-        {source: '/na/:path*', destination: '/da/:path*', permanent: true},
-        {source: '/public/', destination: '/en', permanent: true},
+        {source: '/na/:path*', destination: '/en/:path*', permanent: true},
+        {source: '/public/', destination: '/en/', permanent: true},
     ];
 
-    for (const locale of locales) {
+    for (const locale of SUPPORTED_LOCALES) {
         items.push({
             source: `/public${locale}/`,
-            destination: `/${locale}`,
+            destination: `/${locale}/`,
+            permanent: true,
+        });
+    }
+
+    for (const locale of RETIRED_LOCALES) {
+        items.push({
+            source: `/${locale}/:path*`,
+            destination: '/en/:path*',
             permanent: true,
         });
     }

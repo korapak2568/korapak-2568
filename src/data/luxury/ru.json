@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "title": "Разработка AI Luxury для недвижимости, гостеприимства и венчурных проектов | Chorn Planet",
+    "description": "Chorn Planet AI Luxury формирует готовность AI-платформы для премиальной недвижимости, гостиничного бизнеса, туризма, многофункциональных направлений и венчурных проектов.",
+    "openGraphTitle": "Разработка AI Luxury для недвижимости, гостеприимства и венчурных проектов"
+  },
+  "heroImage": {
+    "src": "/luxury/hero-ai-luxury-real-estate-platform.png",
+    "alt": "Концепция AI luxury-платформы для премиальной недвижимости и гостиничного бизнеса",
+    "width": 1792,
+    "height": 1024,
+    "sizes": "100vw",
+    "eyebrow": "Chorn Planet AI Luxury",
+    "title": "Разработка AI Luxury для недвижимости, гостеприимства и венчурных проектов",
+    "lead": "Разработка AI Luxury для моделирования премиальных бизнес-экосистем, мест, сервисов и брендов.",
+    "support": "Создано для компаний в недвижимости, гостиничного бизнеса, туристических направлений, многофункциональных проектов и премиальных сервисных венчуров, которым нужно больше, чем сайт, кампания или цифровой каталог.",
+    "mobile": {
+      "src": "/luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    },
+    "open_graph": {
+      "src": "/images-opengraph/luxury/open_graph/hero-ai-luxury-real-estate-platform.png",
+      "width": 1200,
+      "height": 630,
+      "quality": 82
+    }
+  },
+  "heroContent": {
+    "actionsLabel": "Действия страницы AI Luxury",
+    "actions": [
+      {
+        "label": "Изучить платформу AI Luxury",
+        "href": "#platform-readiness",
+        "variant": "primary"
+      },
+      {
+        "label": "Посмотреть бизнес-готовность",
+        "href": "#business-signal",
+        "variant": "secondary"
+      }
+    ],
+    "signalsLabel": "Сигналы возможностей AI Luxury",
+    "signals": [
+      "Премиальная недвижимость",
+      "Экосистема гостеприимства",
+      "Опыт направлений"
+    ]
+  },
+  "readinessImage": {
+    "src": "/luxury/ai-luxury-strategic-readiness.png",
+    "alt": "Архитектурная платформа будущего люксового города на премиальном дисплее, с визуализацией планирования и AI-готовностью",
+    "width": 1792,
+    "height": 1024,
+    "sizes": "(max-width: 1399px) 100vw, 1320px",
+    "mobile": {
+      "src": "/luxury/mobile/ai-luxury-strategic-readiness.webp",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/luxury/thumbnail/ai-luxury-strategic-readiness.webp",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/luxury/desktop/ai-luxury-strategic-readiness.webp",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    },
+    "open_graph": {
+      "src": "/images-opengraph/luxury/open_graph/ai-luxury-strategic-readiness.png",
+      "width": 1200,
+      "height": 630,
+      "quality": 82
+    }
+  },
+  "ventureImage": {
+    "src": "/luxury/venture-ready-business-signal.png",
+    "alt": "Сигнал бизнес-платформы AI Luxury, готовой для премиальных партнеров",
+    "width": 1792,
+    "height": 1024,
+    "sizes": "(max-width: 991px) 100vw, 58vw",
+    "mobile": {
+      "src": "/luxury/mobile/venture-ready-business-signal.webp",
+      "width": 960,
+      "height": 540,
+      "quality": 78
+    },
+    "thumbnail": {
+      "src": "/luxury/thumbnail/venture-ready-business-signal.webp",
+      "width": 640,
+      "height": 360,
+      "quality": 72
+    },
+    "desktop": {
+      "src": "/luxury/desktop/venture-ready-business-signal.webp",
+      "width": 1920,
+      "height": 1080,
+      "quality": 82
+    },
+    "open_graph": {
+      "src": "/images-opengraph/luxury/open_graph/venture-ready-business-signal.png",
+      "width": 1200,
+      "height": 630,
+      "quality": 82
+    }
+  },
+  "readinessSection": {
+    "eyebrow": "Стратегическая готовность",
+    "title": "Не просто люксовый образ, а развитие премиальных бизнес-операций",
+    "paragraphs": [
+      "AI Luxury — это интеллектуальная связь между премиальной идентичностью бренда, опытом направлений, клиентским сервисом, цифровой коммерцией, операционными процессами и принятием решений при поддержке AI.",
+      "Цель — сделать luxury-бизнес умнее, более опытным и масштабируемым, сохранив клиентский опыт спокойным, утонченным и персональным."
+    ]
+  },
+  "segmentsSection": {
+    "eyebrow": "Создано для премиальных экосистем",
+    "title": "Разработано для высокоценных мест, сервисов и проектов"
+  },
+  "layersSection": {
+    "eyebrow": "Слои платформы",
+    "title": "AI-дизайн для премиального бизнеса",
+    "lead": "Каждый слой разработан для поддержки реальных клиентских путей, сервисных команд, коммерческих потоков и долгосрочного расширения экосистемы."
+  },
+  "businessSignalSection": {
+    "eyebrow": "Сигнал бизнес-готовности",
+    "title": "Готовность к развитию AI Luxury",
+    "lead": "Эта страница позиционирует AI Luxury как премиальный бизнес-слой для компаний в недвижимости, венчурных партнеров, владельцев направлений и операторов гостеприимства, которым нужна цифровая основа, готовая к будущему."
+  },
+  "premiumSegments": [
+    {
+      "title": "Недвижимость и многофункциональные проекты",
+      "text": "Создавайте интеллектуальные платформы направлений для жилых, коммерческих, туристических и lifestyle-проектов, которым нужен более сильный цифровой экосистемный слой.",
+      "image": {
+        "src": "/luxury/segment-real-estate-mixed-use.png",
+        "alt": "Премиальное многофункциональное направление недвижимости с AI-готовностью платформы",
+        "width": 1200,
+        "height": 900,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/luxury/mobile/segment-real-estate-mixed-use.webp",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/segment-real-estate-mixed-use.webp",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/segment-real-estate-mixed-use.webp",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/segment-real-estate-mixed-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "Опыт отелей и курортов",
+      "text": "Объединяйте путь гостя, сервисные процессы, контент, бронирование, коммерцию и операции с поддержкой AI в единый премиальный опыт гостеприимства.",
+      "image": {
+        "src": "/luxury/segment-hospitality-resort.png",
+        "alt": "Опыт luxury-курорта, поддерживаемый сервисными AI-процессами",
+        "width": 1200,
+        "height": 900,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/luxury/mobile/segment-hospitality-resort.webp",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/segment-hospitality-resort.webp",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/segment-hospitality-resort.webp",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/segment-hospitality-resort.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "Туризм и брендинг направлений",
+      "text": "Создавайте цифровой слой направления, который упрощает обнаружение, проживание, управление и масштабирование премиальных мест через медиа и клиентские точки контакта.",
+      "image": {
+        "src": "/luxury/segment-tourism-destination.png",
+        "alt": "Премиальная туристическая платформа направления с AI-сторителлингом и сервисной готовностью",
+        "width": 1200,
+        "height": 900,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/luxury/mobile/segment-tourism-destination.webp",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/segment-tourism-destination.webp",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/segment-tourism-destination.webp",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/segment-tourism-destination.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "Luxury lifestyle-коммерция",
+      "text": "Превращайте премиальные продукты, услуги, истории и сигналы спроса в более умный коммерческий опыт для lifestyle-бизнеса.",
+      "image": {
+        "src": "/luxury/segment-luxury-commerce.png",
+        "alt": "Слой luxury lifestyle-коммерции, связанный с клиентским опытом",
+        "width": 1200,
+        "height": 900,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 25vw",
+        "mobile": {
+          "src": "/luxury/mobile/segment-luxury-commerce.webp",
+          "width": 768,
+          "height": 576,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/segment-luxury-commerce.webp",
+          "width": 480,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/segment-luxury-commerce.webp",
+          "width": 1200,
+          "height": 900,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/segment-luxury-commerce.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ],
+  "platformLayers": [
+    {
+      "title": "AI-сторителлинг бренда",
+      "text": "Создавайте премиальные контент-системы для проектов, направлений, продуктов, кампаний и бренд-опыта, который клиенты могут почувствовать.",
+      "image": {
+        "src": "/luxury/layer-brand-storytelling.png",
+        "alt": "Слой AI-сторителлинга бренда для luxury-недвижимости и платформ гостеприимства",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-brand-storytelling.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-brand-storytelling.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-brand-storytelling.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "Интеллект клиентского пути",
+      "text": "Проектируйте клиентские пути с поддержкой AI: от обнаружения, запроса, бронирования и заказа до посещения, покупки и возвращения.",
+      "image": {
+        "src": "/luxury/layer-customer-journey.png",
+        "alt": "Интеллект клиентского пути для премиальных направлений и luxury-сервисного опыта",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-customer-journey.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-customer-journey.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-customer-journey.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/layer-customer-journey.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "Платформа сервисных процессов",
+      "text": "Поддерживайте реальные бизнес-операции: запросы, бронирования, консьерж-сервисы, заказы, доставку и отслеживание сервиса.",
+      "image": {
+        "src": "/luxury/layer-service-workflow.png",
+        "alt": "Платформа сервисных процессов для гостиничного бизнеса и премиальных операций",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-service-workflow.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-service-workflow.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-service-workflow.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/layer-service-workflow.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "Интеллект luxury-коммерции",
+      "text": "Связывайте продукты, сервисы, медиа и премиальный клиентский спрос в масштабируемую коммерческую основу.",
+      "image": {
+        "src": "/luxury/layer-commerce-intelligence.png",
+        "alt": "Слой интеллекта luxury-коммерции, соединяющий продукты и премиальный клиентский спрос",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-commerce-intelligence.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-commerce-intelligence.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-commerce-intelligence.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/layer-commerce-intelligence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "title": "Основа, готовая к венчурному развитию",
+      "text": "Создавайте платформенную основу, которая может вырасти в SaaS, системы направлений, инструменты гостеприимства, аналитику и smart city-опыт.",
+      "image": {
+        "src": "/luxury/layer-venture-readiness.png",
+        "alt": "Основа платформы AI Luxury, готовая к будущему венчурному расширению",
+        "width": 1200,
+        "height": 750,
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1199px) 50vw, 33vw",
+        "mobile": {
+          "src": "/luxury/mobile/layer-venture-readiness.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/luxury/thumbnail/layer-venture-readiness.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/luxury/desktop/layer-venture-readiness.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/luxury/open_graph/layer-venture-readiness.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ],
+  "businessSignals": [
+    {
+      "title": "Возможности премиальной платформы",
+      "text": "Способность перейти от визуальных концепций к развитию бизнес-платформы."
+    },
+    {
+      "title": "Реальная сервисная логика",
+      "text": "Это направление основано на реальных бизнес-процессах, клиентских путях и сервисных операциях."
+    },
+    {
+      "title": "Мышление luxury-экосистемы",
+      "text": "Места, истории, сервисы, коммерция и технологии могут работать вместе как масштабируемая премиальная экосистема."
+    },
+    {
+      "title": "Основа, готовая к расширению",
+      "text": "Слой AI Luxury может вырасти в платформы направлений, системы гостеприимства, коммерцию, аналитику и smart city-опыт."
+    }
+  ]
+}

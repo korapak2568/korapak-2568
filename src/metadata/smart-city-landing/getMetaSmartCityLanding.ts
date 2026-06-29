@@ -1,6 +1,7 @@
 // src/metadata/smart-city-landing/getMetaSmartCityLanding.ts
 
 import {Metadata} from "next";
+import {withLocalizedAlternates} from "@/lib/metadata/alternates";
 import {
     MetaWhenHumanLifeShapesTheCity
 } from "@/metadata/smart-city-landing/when-human-life-shapes-the-city/MetaWhenHumanLifeShapesTheCity";
@@ -62,38 +63,38 @@ export function getMetaSmartCityLanding(
 ): Record<string, Metadata> {
 
     return {
-        "when-human-life-shapes-the-city": MetaWhenHumanLifeShapesTheCity[lang],
+        "when-human-life-shapes-the-city": withLocalizedAlternates(MetaWhenHumanLifeShapesTheCity[lang] ?? MetaWhenHumanLifeShapesTheCity.en ?? {}, "/smart-city/when-human-life-shapes-the-city/"),
 
         // human daily flow morning
-        "human-daily-flow-morning": MetaHumanDailyFlowMorning[lang],
-        "human-daily-flow-midday": MetaHumanDailyFlowMidday[lang],
-        "human-daily-flow-evening": MetaHumanDailyFlowEvening[lang],
+        "human-daily-flow-morning": withLocalizedAlternates(MetaHumanDailyFlowMorning[lang] ?? MetaHumanDailyFlowMorning.en ?? {}, "/smart-city/human-daily-flow-morning/"),
+        "human-daily-flow-midday": withLocalizedAlternates(MetaHumanDailyFlowMidday[lang] ?? MetaHumanDailyFlowMidday.en ?? {}, "/smart-city/human-daily-flow-midday/"),
+        "human-daily-flow-evening": withLocalizedAlternates(MetaHumanDailyFlowEvening[lang] ?? MetaHumanDailyFlowEvening.en ?? {}, "/smart-city/human-daily-flow-evening/"),
 
         // from local life to global pattern
-        "from-local-life-to-global-pattern": MetaFromLocalLifeToGlobalPattern[lang],
+        "from-local-life-to-global-pattern": withLocalizedAlternates(MetaFromLocalLifeToGlobalPattern[lang] ?? MetaFromLocalLifeToGlobalPattern.en ?? {}, "/smart-city/from-local-life-to-global-pattern/"),
 
         // mobility fucus
-        "mobility-focus-predictable-movement": MetaMobilityPredictableMovement[lang],
-        "mobility-focus-mixed-mobility": MetaMobilityMixedMobility[lang],
+        "mobility-focus-predictable-movement": withLocalizedAlternates(MetaMobilityPredictableMovement[lang] ?? MetaMobilityPredictableMovement.en ?? {}, "/smart-city/mobility-focus-predictable-movement/"),
+        "mobility-focus-mixed-mobility": withLocalizedAlternates(MetaMobilityMixedMobility[lang] ?? MetaMobilityMixedMobility.en ?? {}, "/smart-city/mobility-focus-mixed-mobility/"),
 
         // city systems landings
-        "city-systems-movement-and-pause": MetaCitySystemsMovementAndPause[lang],
-        "city-systems-density-and-comfort": MetaCitySystemsDensityAndComfort[lang],
-        "city-systems-efficiency-and-rhythm": MetaCitySystemsEfficiencyAndRhythm[lang],
+        "city-systems-movement-and-pause": withLocalizedAlternates(MetaCitySystemsMovementAndPause[lang] ?? MetaCitySystemsMovementAndPause.en ?? {}, "/smart-city/city-systems-movement-and-pause/"),
+        "city-systems-density-and-comfort": withLocalizedAlternates(MetaCitySystemsDensityAndComfort[lang] ?? MetaCitySystemsDensityAndComfort.en ?? {}, "/smart-city/city-systems-density-and-comfort/"),
+        "city-systems-efficiency-and-rhythm": withLocalizedAlternates(MetaCitySystemsEfficiencyAndRhythm[lang] ?? MetaCitySystemsEfficiencyAndRhythm.en ?? {}, "/smart-city/city-systems-efficiency-and-rhythm/"),
 
         // global patterns landings
-        "global-patterns-predictable-shared-street": MetaGlobalPatternsPredictableSharedStreet[lang],
-        "global-patterns-mixed-mobility-coexistence": MetaGlobalPatternsMixedMobilityCoexistence[lang],
-        "global-patterns-urban-logistics": MetaGlobalPatternsUrbanLogistics[lang],
+        "global-patterns-predictable-shared-street": withLocalizedAlternates(MetaGlobalPatternsPredictableSharedStreet[lang] ?? MetaGlobalPatternsPredictableSharedStreet.en ?? {}, "/smart-city/global-patterns-predictable-shared-street/"),
+        "global-patterns-mixed-mobility-coexistence": withLocalizedAlternates(MetaGlobalPatternsMixedMobilityCoexistence[lang] ?? MetaGlobalPatternsMixedMobilityCoexistence.en ?? {}, "/smart-city/global-patterns-mixed-mobility-coexistence/"),
+        "global-patterns-urban-logistics": withLocalizedAlternates(MetaGlobalPatternsUrbanLogistics[lang] ?? MetaGlobalPatternsUrbanLogistics.en ?? {}, "/smart-city/global-patterns-urban-logistics/"),
 
         // urban signals landings
-        "urban-signals-predictable-street": MetaUrbanSignalsPredictableStreet[lang],
-        "urban-signals-logistics-integration": MetaUrbanSignalsLogisticsIntegration[lang],
-        "urban-signals-public-space-use": MetaUrbanSignalsPublicSpaceUse[lang],
+        "urban-signals-predictable-street": withLocalizedAlternates(MetaUrbanSignalsPredictableStreet[lang] ?? MetaUrbanSignalsPredictableStreet.en ?? {}, "/smart-city/urban-signals-predictable-street/"),
+        "urban-signals-logistics-integration": withLocalizedAlternates(MetaUrbanSignalsLogisticsIntegration[lang] ?? MetaUrbanSignalsLogisticsIntegration.en ?? {}, "/smart-city/urban-signals-logistics-integration/"),
+        "urban-signals-public-space-use": withLocalizedAlternates(MetaUrbanSignalsPublicSpaceUse[lang] ?? MetaUrbanSignalsPublicSpaceUse.en ?? {}, "/smart-city/urban-signals-public-space-use/"),
 
         // editorial positioning landings
-        "editorial-human-first-observation": MetaEditorialHumanFirstObservation[lang],
-        "editorial-system-before-technology": MetaEditorialSystemBeforeTechnology[lang],
-        "editorial-local-as-global-prototype": MetaEditorialLocalAsGlobalPrototype[lang],
+        "editorial-human-first-observation": withLocalizedAlternates(MetaEditorialHumanFirstObservation[lang] ?? MetaEditorialHumanFirstObservation.en ?? {}, "/smart-city/editorial-human-first-observation/"),
+        "editorial-system-before-technology": withLocalizedAlternates(MetaEditorialSystemBeforeTechnology[lang] ?? MetaEditorialSystemBeforeTechnology.en ?? {}, "/smart-city/editorial-system-before-technology/"),
+        "editorial-local-as-global-prototype": withLocalizedAlternates(MetaEditorialLocalAsGlobalPrototype[lang] ?? MetaEditorialLocalAsGlobalPrototype.en ?? {}, "/smart-city/editorial-local-as-global-prototype/"),
     };
 }

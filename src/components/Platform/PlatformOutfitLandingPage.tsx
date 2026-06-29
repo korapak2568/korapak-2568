@@ -12,7 +12,7 @@ import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
-import {usePlatformStyleContent} from "@/lib/platform-content/usePlatformStyleContent";
+import { usePlatformStyleContent } from "@/lib/platform-content/usePlatformStyleContent";
 
 function getLocalizedAnchor(lang: string, id: string): string {
   return `/${lang}/style/#${id}`;
@@ -66,15 +66,12 @@ export default function PlatformOutfitLandingPage({
   lang: string;
   content: ResolvedPlatformOutfitContent;
 }) {
-  const {data: cachedContent} = usePlatformStyleContent(lang, content);
+  const { data: cachedContent } = usePlatformStyleContent(lang, content);
   const styleContent = cachedContent ?? content;
   const [primaryHeroImage, secondaryHeroImage, tertiaryHeroImage] =
     styleContent.hero.images;
   const featuredSection = styleContent.layoutSections.find(
     (section) => section.id === "featured-outfit-sets",
-  );
-  const zoneSection = styleContent.layoutSections.find(
-    (section) => section.id === "zone-pairing",
   );
 
   return (
@@ -87,9 +84,6 @@ export default function PlatformOutfitLandingPage({
           <div className="platform-outfit-hero__actions">
             <Link href={getLocalizedAnchor(lang, "featured-outfit-sets")}>
               {styleContent.hero.primaryCta}
-            </Link>
-            <Link href={getLocalizedAnchor(lang, "zone-pairing")}>
-              {styleContent.hero.secondaryCta}
             </Link>
           </div>
         </div>
@@ -117,16 +111,6 @@ export default function PlatformOutfitLandingPage({
         </div>
       </section>
 
-      <section className="platform-shell platform-outfit-intro">
-        {styleContent.layoutSections.slice(0, 3).map((section) => (
-          <article key={section.id} className="platform-outfit-intro__item">
-            <span>{section.label}</span>
-            <h2>{section.title}</h2>
-            <p>{section.description}</p>
-          </article>
-        ))}
-      </section>
-
       <section
         id="featured-outfit-sets"
         className="platform-shell platform-outfit-section"
@@ -134,7 +118,6 @@ export default function PlatformOutfitLandingPage({
         <div className="platform-section__header">
           <span>{featuredSection?.label ?? "Featured Sets"}</span>
           <h2>{featuredSection?.title ?? "Starter outfit sets"}</h2>
-          <p>{featuredSection?.description ?? styleContent.hero.imageStrategy}</p>
         </div>
         <div className="platform-outfit-grid">
           {styleContent.outfitSets.map((outfitSet) => (
@@ -166,83 +149,17 @@ export default function PlatformOutfitLandingPage({
                   <div className="platform-outfit-card__meta">
                     <strong>
                       {outfitSet.subZoneRequired
-                        ? "Sub-Zone required"
-                        : "Zone-ready"}
+                        ? styleContent.landingPage.subZoneRequiredLabel ?? ""
+                        : styleContent.landingPage.zoneReadyLabel ?? ""}
                     </strong>
                     <small>
-                      {outfitSet.zoneDisplay[0] ?? outfitSet.zoneCandidates[0]}
+                      {outfitSet.zoneDisplay?.[0] ?? outfitSet.zoneCandidates?.[0] ?? ""}
                     </small>
                   </div>
                 </div>
               </Link>
             </article>
           ))}
-        </div>
-      </section>
-
-      <section className="platform-shell platform-outfit-section platform-outfit-section--audience">
-        <div className="platform-section__header">
-          <span>
-            {styleContent.layoutSections.find(
-              (section) => section.id === "audience-groups",
-            )?.label ?? "Audience"}
-          </span>
-          <h2>
-            {styleContent.layoutSections.find(
-              (section) => section.id === "audience-groups",
-            )?.title ?? "Audience groups"}
-          </h2>
-          <p>
-            {
-              styleContent.layoutSections.find(
-                (section) => section.id === "audience-groups",
-              )?.description
-            }
-          </p>
-        </div>
-        <div className="platform-outfit-audience">
-          {styleContent.audienceGroups.map((group) => (
-            <article key={group.id}>
-              <h3>{group.title}</h3>
-              <p>{group.description}</p>
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <section
-        id="zone-pairing"
-        className="platform-shell platform-outfit-section platform-outfit-zone"
-      >
-        <div className="platform-section__header">
-          <span>{zoneSection?.label ?? "Chorn DNA Zone Pairing"}</span>
-          <h2>
-            {zoneSection?.title ?? "Every look is prepared for zone resolution"}
-          </h2>
-          <p>{styleContent.zonePairingNote}</p>
-        </div>
-        <div className="platform-outfit-zone__grid">
-          {styleContent.outfitSets.slice(0, 6).map((outfitSet) => {
-            const zones = outfitSet.zoneDisplay.length
-              ? outfitSet.zoneDisplay
-              : outfitSet.zoneCandidates;
-
-            return (
-              <article key={outfitSet.id}>
-                <h3>
-                  {getPlatformOutfitLocalizedText(
-                    outfitSet.title,
-                    styleContent.locale,
-                  )}
-                </h3>
-                <div className="platform-outfit-zone__tags">
-                  {zones.map((zone) => (
-                    <span key={zone}>{zone}</span>
-                  ))}
-                </div>
-              </article>
-            );
-          })}
         </div>
       </section>
     </main>

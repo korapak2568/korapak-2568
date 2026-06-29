@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-01",
+    "order": 1,
+    "slug": "near-future-breakthroughs",
+    "title": "Durchbrüche der nahen Zukunft",
+    "subtitle": "Die erste Welle zivilisationsverändernder Entdeckungen",
+    "description": "Diese Ära führt Durchbrüche in KI, Robotik, Medizin, Klimatechnologie, Materialwissenschaft und früher Weltraumautomatisierung ein.",
+    "timeframe": {
+      "label": "Nahe Zukunft",
+      "startYear": 2030,
+      "endYear": 2045,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "technology",
+      "mood": "optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Ära 1: Durchbrüche der nahen Zukunft | Roadmap der zukünftigen Zivilisation",
+      "metaDescription": "Entdecken Sie Durchbrüche der nahen Zukunft in KI, Robotik, Krebserkennung, Klimamaterialien, Mondrobotik und selbstheilenden Städten.",
+      "keywords": [
+        "Zukunftstechnologie",
+        "KI-Roboter",
+        "Krebs-Bluttest",
+        "zukünftige Zivilisation",
+        "Klimatechnologie"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-01-ai-hospital-triage-becomes-standard-worldwide",
+      "order": 1,
+      "slug": "ai-hospital-triage-becomes-standard-worldwide",
+      "title": "KI-Triage in Krankenhäusern wird weltweit zum Standard",
+      "shortTitle": "KI-Krankenhaustriage",
+      "category": "AI & Computing",
+      "description": "Krankenhäuser führen KI-Triage-Systeme ein, die Dringlichkeit einstufen, frühe Warnsignale erkennen, Patienten schneller weiterleiten und Notaufnahmen entlasten.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "healthcare",
+        "public-systems"
+      ],
+      "maturity": "early-standardization",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2036
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Gesundheitsversorgung wird proaktiver, schneller und zugänglicher, besonders in überlasteten öffentlichen Gesundheitssystemen.",
+      "signals": [
+        "KI-gestützte Notaufnahme-Tools werden regulierte medizinische Software",
+        "Krankenhäuser integrieren Triage-Modelle mit elektronischen Patientenakten",
+        "Fernaufnahme von Patienten wird vor der physischen Ankunft üblich"
+      ],
+      "implications": [
+        "Kürzere Wartezeiten für dringende Fälle",
+        "Frühere Erkennung klinischer Verschlechterung",
+        "Neue Governance-Standards für Verantwortlichkeit medizinischer KI"
+      ],
+      "image": {
+        "alt": "KI-Triage-Dashboard unterstützt medizinisches Personal in einer modernen Notaufnahme",
+        "prompts": [
+          "Clean futuristic documentary scene of an AI hospital triage desk, doctors reviewing patient risk scores on transparent screens, bright modern emergency department, realistic, 16:9",
+          "Close-up of a nurse using an AI-assisted patient intake tablet, soft clinical lighting, diverse patients waiting calmly, realistic healthcare technology, 16:9",
+          "Wide view of a smart emergency room command center with live patient flow analytics, medical staff coordinating care, optimistic near future, 16:9",
+          "Human doctor and AI diagnostic interface working together during hospital triage, ethical and calm atmosphere, cinematic documentary realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-carbon-negative-concrete-enters-mass-production",
+      "order": 2,
+      "slug": "carbon-negative-concrete-enters-mass-production",
+      "title": "Kohlenstoffnegativer Beton geht in Massenproduktion",
+      "shortTitle": "Kohlenstoffnegativer Beton",
+      "category": "Materials & Manufacturing",
+      "description": "Neue Zement- und Betonverfahren speichern mehr Kohlenstoff, als sie ausstoßen, und machen große Bauprojekte zu langfristigen Kohlenstoffsenken.",
+      "layerId": "technology",
+      "domains": [
+        "climate-technology",
+        "materials-science",
+        "construction"
+      ],
+      "maturity": "mass-production",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Städte senken ihren gebundenen Kohlenstoff, während Infrastruktur, Wohnraum und öffentliche Bauten weiter ausgebaut werden.",
+      "signals": [
+        "Kohlenstoffmineralisierung wird im Industriemaßstab günstiger",
+        "Bauvorschriften erkennen geprüfte kohlenstoffspeichernde Materialien an",
+        "Große Entwickler wählen standardmäßig kohlenstoffarme Materialien"
+      ],
+      "implications": [
+        "Geringere Emissionen im Bauwesen",
+        "Neue Kohlenstoffbilanzierungsstandards für Gebäude",
+        "Grüne Infrastruktur wird wirtschaftlich wettbewerbsfähig"
+      ],
+      "image": {
+        "alt": "Baustelle nutzt kohlenstoffnegativen Beton in einer futuristischen Stadt",
+        "prompts": [
+          "Futuristic construction site pouring carbon-negative concrete, cranes, green city skyline, clean documentary realism, 16:9",
+          "Close-up of advanced concrete blocks with mineralized carbon texture, engineers inspecting material samples, realistic lab-to-construction scene, 16:9",
+          "Large bridge being built with low-carbon concrete beside a restored river ecosystem, optimistic climate technology, 16:9",
+          "Modern megacity construction with carbon capture symbols on material delivery trucks, bright sustainable urban future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-carbon-negative-concrete-enters-mass-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-personal-ai-health-monitors-detect-disease-before-symptoms",
+      "order": 3,
+      "slug": "personal-ai-health-monitors-detect-disease-before-symptoms",
+      "title": "Persönliche KI-Gesundheitsmonitore erkennen Krankheiten vor Symptomen",
+      "shortTitle": "KI-Gesundheitsmonitore",
+      "category": "AI & Computing",
+      "description": "Wearables, Heimsensoren und persönliche Gesundheitsmodelle analysieren kontinuierlich Biomarker, um Krankheitsrisiken zu erkennen, bevor Menschen sich krank fühlen.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "healthcare",
+        "consumer-devices"
+      ],
+      "maturity": "consumer-adoption",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2037
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Medizin verschiebt sich von reaktiver Behandlung zu früher Intervention, Prävention und personalisierter täglicher Gesundheitsführung.",
+      "signals": [
+        "Multisensor-Wearables erfassen Blut-, Schlaf-, Bewegungs- und Stimmmarker",
+        "KI-Modelle personalisieren Krankheitsrisiko-Baselines",
+        "Versicherungen und Gesundheitssysteme fördern Früherkennung"
+      ],
+      "implications": [
+        "Mehr Krankheiten werden in behandelbaren Stadien entdeckt",
+        "Die Nachfrage nach datenschutzwahrender Gesundheits-KI steigt",
+        "Persönliche Gesundheitsdashboards werden Alltagsinfrastruktur"
+      ],
+      "image": {
+        "alt": "Persönlicher KI-Gesundheitsmonitor zeigt Hinweise zur frühen Krankheitserkennung",
+        "prompts": [
+          "Person checking a personal AI health monitor on a wearable device, calm morning home scene, holographic health dashboard, realistic near future, 16:9",
+          "Close-up of smart ring and health patch collecting biometrics, clean futuristic product photography, 16:9",
+          "AI health assistant dashboard predicting disease risk before symptoms, minimalist interface, human-centered design, 16:9",
+          "Family using preventive AI health monitoring at home with privacy-focused devices, optimistic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-generated-medicines-enter-rapid-approval-pipelines",
+      "order": 4,
+      "slug": "ai-generated-medicines-enter-rapid-approval-pipelines",
+      "title": "KI-generierte Medikamente gelangen in beschleunigte Zulassungspfade",
+      "shortTitle": "KI-generierte Medikamente",
+      "category": "AI & Computing",
+      "description": "Plattformen für Wirkstoffentdeckung entwerfen Medikamentenkandidaten schneller, während Regulierer beschleunigte Wege für sichere KI-generierte Therapien schaffen.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "biotechnology",
+        "medicine"
+      ],
+      "maturity": "regulated-pipeline",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Therapieentwicklung wird schneller und zielgerichteter, besonders bei seltenen Krankheiten, Krebs und neu auftretenden Infektionsgefahren.",
+      "signals": [
+        "KI-Modelle erzeugen Moleküle mit prognostizierten Sicherheitsprofilen",
+        "Adaptive klinische Studien werden häufiger",
+        "Regulierer verlangen nachvollziehbare Evidenzpfade für KI-entworfene Medikamente"
+      ],
+      "implications": [
+        "Kürzere Entdeckungszyklen",
+        "Mehr Therapien für unterversorgte Krankheiten",
+        "Neue Rechtsfragen zu KI-generiertem geistigem Eigentum"
+      ],
+      "image": {
+        "alt": "KI-Labor für Wirkstoffentdeckung entwirft neue Medikamente",
+        "prompts": [
+          "AI drug discovery laboratory with molecular simulations floating above workstations, researchers reviewing candidate medicines, realistic biotech future, 16:9",
+          "Close-up of robotic lab system testing AI-generated compounds, sterile biotech environment, cinematic documentary, 16:9",
+          "Regulatory review room with scientists and AI evidence dashboards evaluating new medicine approvals, clean futuristic style, 16:9",
+          "Digital molecule design interface connected to automated synthesis machines, optimistic medical breakthrough atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-vertical-farms-become-profitable-in-major-cities",
+      "order": 5,
+      "slug": "vertical-farms-become-profitable-in-major-cities",
+      "title": "Vertikale Farmen werden in Großstädten profitabel",
+      "shortTitle": "Profitable vertikale Farmen",
+      "category": "Environment",
+      "description": "Urbane vertikale Farmen erreichen tragfähige Wirtschaftlichkeit durch Automatisierung, effiziente Beleuchtung, Klimasteuerung und direkte lokale Verteilung.",
+      "layerId": "technology",
+      "domains": [
+        "food-systems",
+        "urban-infrastructure",
+        "automation"
+      ],
+      "maturity": "commercial-scale",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Städte erhalten widerstandsfähigere Lebensmittelketten mit frischeren Produkten, geringeren Transportemissionen und weniger Abhängigkeit von entfernten Farmen.",
+      "signals": [
+        "Robotische Ernte senkt Arbeitskosten",
+        "Energieeffiziente LEDs verbessern die Wirtschaftlichkeit der Kulturen",
+        "Lokale Händler schließen langfristige Lieferverträge mit urbanen Farmen"
+      ],
+      "implications": [
+        "Mehr lokale Lebensmittelproduktion",
+        "Weniger Verderb und kürzere Transportwege",
+        "Neue Immobilienmodelle für Lebensmittelinfrastruktur"
+      ],
+      "image": {
+        "alt": "Große profitable vertikale Farm arbeitet innerhalb einer Großstadt",
+        "prompts": [
+          "Massive vertical farm inside a high-rise building, robotic arms harvesting leafy greens, glowing efficient LED rows, city skyline outside, 16:9",
+          "Urban supermarket connected directly to an automated vertical farm, fresh produce moving through smart logistics, realistic near future, 16:9",
+          "Engineers monitoring climate-controlled vertical farming towers, clean futuristic documentary lighting, 16:9",
+          "Night view of a city block with transparent vertical farm floors full of crops, sustainable urban food system, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-vertical-farms-become-profitable-in-major-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-humanoid-service-robots-become-common",
+      "order": 6,
+      "slug": "humanoid-service-robots-become-common",
+      "title": "Humanoide Serviceroboter werden in Hotels, Krankenhäusern und Lagern üblich",
+      "shortTitle": "Humanoide Serviceroboter",
+      "category": "Robotics",
+      "description": "Allzweck-Humanoidroboter übernehmen routinemäßige Service-, Logistik-, Reinigungs-, Hebe- und Unterstützungsaufgaben in arbeitsintensiven Umgebungen.",
+      "layerId": "technology",
+      "domains": [
+        "robotics",
+        "automation",
+        "service-economy"
+      ],
+      "maturity": "early-mainstream",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Roboter werden sichtbare Mitarbeitende im Alltag und verändern Arbeit, Servicedesign, Sicherheitsabläufe und Produktivität.",
+      "signals": [
+        "Robotik-Hardwarekosten sinken",
+        "Verkörperte KI verbessert Geschicklichkeit und Navigation",
+        "Große Einrichtungen setzen Roboterflotten mit menschlicher Aufsicht ein"
+      ],
+      "implications": [
+        "Neue Rollen für Mensch-Roboter-Betrieb entstehen",
+        "Wiederholte körperliche Arbeit wird weniger belastend",
+        "Bedarf an Robotiksicherheit und Arbeitsübergangspolitik wächst"
+      ],
+      "image": {
+        "alt": "Humanoide Serviceroboter arbeiten mit Menschen in Krankenhäusern, Hotels und Lagern",
+        "prompts": [
+          "Humanoid service robot assisting staff in a modern hotel lobby, guests interacting comfortably, clean futuristic documentary realism, 16:9",
+          "Hospital corridor with humanoid robot delivering supplies beside nurses, warm clinical lighting, realistic near future, 16:9",
+          "Warehouse with humanoid robots lifting boxes and coordinating with human supervisors, safe and organized automation, 16:9",
+          "Group of service robots charging and receiving task updates in a facility operations room, optimistic robotics future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-humanoid-service-robots-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-humanoid-service-robots-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-humanoid-service-robots-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-humanoid-service-robots-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities",
+      "order": 7,
+      "slug": "autonomous-drone-delivery-becomes-normal-in-dense-cities",
+      "title": "Autonome Drohnenlieferung wird in dichten Städten normal",
+      "shortTitle": "Urbane Drohnenlieferung",
+      "category": "Robotics",
+      "description": "Drohnenliefernetze werden zuverlässig genug, um kleine Pakete, dringende Güter, Lebensmittel und medizinische Artikel regelmäßig durch dichte Stadtzonen zu bewegen.",
+      "layerId": "technology",
+      "domains": [
+        "mobility",
+        "logistics",
+        "autonomous-systems"
+      ],
+      "maturity": "urban-normalization",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Logistik auf der letzten Meile wird schneller, sauberer und stärker automatisiert und verändert Stadtverkehr, Einzelhandelslieferungen und Notfallversorgung.",
+      "signals": [
+        "Städte definieren Luftkorridore in niedriger Höhe",
+        "Autonome Landestationen erscheinen auf Gebäuden",
+        "Medizinische und dringende Lieferfälle belegen Zuverlässigkeit"
+      ],
+      "implications": [
+        "Weniger Straßenstau durch kleine Lieferungen",
+        "Neue Infrastruktur für Luftverkehrsmanagement",
+        "Lärm, Datenschutz und Sicherheit werden zentrale Themen urbaner Politik"
+      ],
+      "image": {
+        "alt": "Autonome Lieferdrohnen fliegen durch eine dichte futuristische Stadt",
+        "prompts": [
+          "Autonomous delivery drones moving through designated city air corridors between high-rise buildings, realistic near future, 16:9",
+          "Rooftop drone delivery station with packages sorted by robotic systems, dense city skyline, clean documentary style, 16:9",
+          "Medical drone landing at a hospital balcony with urgent supplies, calm efficient urban logistics scene, 16:9",
+          "Evening city street with quiet delivery drones overhead and reduced traffic below, optimistic mobility future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-smart-roads-begin-charging-electric-vehicles-while-moving",
+      "order": 8,
+      "slug": "smart-roads-begin-charging-electric-vehicles-while-moving",
+      "title": "Intelligente Straßen laden Elektrofahrzeuge während der Fahrt",
+      "shortTitle": "Ladende intelligente Straßen",
+      "category": "Energy",
+      "description": "Ausgewählte Autobahnen und Stadtspuren nutzen eingebettete Ladeinfrastruktur, um kompatible Elektrofahrzeuge während der Fahrt mit Energie zu versorgen.",
+      "layerId": "technology",
+      "domains": [
+        "energy",
+        "mobility",
+        "infrastructure"
+      ],
+      "maturity": "pilot-to-corridor",
+      "timeframe": {
+        "startYear": 2031,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Elektrische Mobilität wird bequemer und weniger abhängig von großen Batterien, besonders für Busse, Frachtrouten und stark genutzte Korridore.",
+      "signals": [
+        "Drahtlose Ladespuren beweisen Haltbarkeit",
+        "Flottenbetreiber übernehmen dynamische Laderouten",
+        "Regierungen finanzieren intelligente Korridorinfrastruktur"
+      ],
+      "implications": [
+        "Kleinere EV-Batterieanforderungen auf bestimmten Routen",
+        "Neue Finanzierungsmodelle für Infrastruktur",
+        "Widerstandsfähiger elektrischer Güterverkehr und öffentlicher Nahverkehr"
+      ],
+      "image": {
+        "alt": "Elektrofahrzeuge laden während der Fahrt auf einer intelligenten Straße",
+        "prompts": [
+          "Electric vehicles driving on a smart road with subtle glowing charging lanes, futuristic highway, clean realistic documentary, 16:9",
+          "Electric bus charging wirelessly while moving through a modern city corridor, passengers visible, optimistic mobility future, 16:9",
+          "Engineers inspecting embedded road charging infrastructure during construction, sustainable transport technology, 16:9",
+          "Night view of freight trucks using dynamic electric charging lanes on an intelligent highway, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-climate-prediction-prevents-major-crop-failures",
+      "order": 9,
+      "slug": "ai-climate-prediction-prevents-major-crop-failures",
+      "title": "KI-Klimavorhersage verhindert große Ernteausfälle",
+      "shortTitle": "KI-Pflanzenschutz",
+      "category": "AI & Computing",
+      "description": "Fortschrittliche Klima- und Ernte-Risikomodelle warnen Landwirte, Regierungen und Lebensmittelunternehmen früher vor Dürren, Schädlingen, Überschwemmungen und Hitzewellen.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "climate",
+        "agriculture"
+      ],
+      "maturity": "operational-deployment",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ernährungssicherheit verbessert sich, weil Gesellschaften früher auf Klimaschocks reagieren und Ressourcen koordinieren, bevor Engpässe zu Krisen werden.",
+      "signals": [
+        "Satellitendaten werden mit lokalen Farmsensoren kombiniert",
+        "KI-Modelle prognostizieren Pflanzenstress Wochen früher",
+        "Regionale Lebensmittelsysteme bauen Klima-Reaktionsdashboards auf"
+      ],
+      "implications": [
+        "Weniger vermeidbare Ernteausfälle",
+        "Bessere Bewässerungs- und Pflanzentscheidungen",
+        "Koordiniertere Planung der Ernährungssicherheit"
+      ],
+      "image": {
+        "alt": "KI-Klimavorhersage-Dashboard hilft beim Schutz von Ernten",
+        "prompts": [
+          "Farmers viewing AI climate prediction dashboard beside a field, satellite overlays showing crop risk zones, realistic near future, 16:9",
+          "Control room for regional agriculture resilience with weather maps, crop forecasts, and food supply indicators, documentary style, 16:9",
+          "Drone and satellite data visualized over farmland during drought prevention planning, optimistic climate technology, 16:9",
+          "AI-assisted irrigation system activating before heat stress damages crops, clean agricultural future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment",
+      "order": 10,
+      "slug": "ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment",
+      "title": "Enzymbehandlung gegen Meeresplastik startet kontrollierte Anwendung",
+      "shortTitle": "Plastikabbauende Enzyme",
+      "category": "Environment",
+      "description": "Spezialisierte Enzymsysteme werden kontrolliert eingesetzt, um ausgewählte Kunststoffe aus Ozeanen, Flüssen und Küstenzonen abzubauen.",
+      "layerId": "technology",
+      "domains": [
+        "biotechnology",
+        "climate-technology",
+        "ocean-restoration"
+      ],
+      "maturity": "controlled-deployment",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Die Beseitigung von Plastikverschmutzung wird skalierbarer, während strenge Kontrollen zum Schutz mariner Ökosysteme notwendig bleiben.",
+      "signals": [
+        "Enzymbehandlungen wirken auf bestimmte Kunststofftypen",
+        "Reinigungsprogramme verbinden Sammlung mit biologischer Verarbeitung",
+        "Umweltbehörden verlangen Eindämmung und Monitoring"
+      ],
+      "implications": [
+        "Wirksamere Verarbeitung von Plastikabfall",
+        "Neue Bioreaktorinfrastruktur nahe Häfen",
+        "Stärkerer Fokus auf ökologische Sicherheitstests"
+      ],
+      "image": {
+        "alt": "Kontrollierte Anlage zur Enzymbehandlung von Meeresplastik nahe einer Küste",
+        "prompts": [
+          "Coastal cleanup facility using controlled enzyme bioreactors to process collected ocean plastic, realistic environmental technology, 16:9",
+          "Scientists monitoring plastic-eating enzyme treatment in a sealed marine research station, clean documentary realism, 16:9",
+          "Autonomous boats collecting ocean plastic and delivering it to a safe enzyme processing platform, optimistic restoration future, 16:9",
+          "Close-up of transparent bioreactor breaking down plastic fragments under strict ecological monitoring, biotech documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-synthetic-meat-becomes-cheaper-than-livestock-meat",
+      "order": 11,
+      "slug": "synthetic-meat-becomes-cheaper-than-livestock-meat",
+      "title": "Synthetisches Fleisch wird günstiger als Fleisch aus Tierhaltung",
+      "shortTitle": "Bezahlbares synthetisches Fleisch",
+      "category": "Biology & Medicine",
+      "description": "Kultiviertes und präzisionsfermentiertes Fleisch erreicht Preisparität und wird danach in vielen Märkten günstiger als konventionelles Fleisch aus Tierhaltung.",
+      "layerId": "technology",
+      "domains": [
+        "food-systems",
+        "biotechnology",
+        "climate-technology"
+      ],
+      "maturity": "price-breakthrough",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Lebensmittelproduktion reduziert Druck auf Land, Wasser, Tierseuchen und Emissionen, während vertraute Proteinoptionen erhalten bleiben.",
+      "signals": [
+        "Bessere Bioreaktorskalierung verbessert Stückkosten",
+        "Einzelhandelsketten starten günstigere synthetische Fleischprodukte",
+        "Akzeptanz steigt, wenn Geschmack und Textur besser werden"
+      ],
+      "implications": [
+        "Weniger Druck auf Tierhaltungs-Lieferketten",
+        "Neue Zentren für Lebensmittelherstellung",
+        "Starke Veränderung der konventionellen Fleischwirtschaft"
+      ],
+      "image": {
+        "alt": "Produktionsanlage für synthetisches Fleisch und Einzelhandelsprodukte",
+        "prompts": [
+          "Clean synthetic meat production facility with large bioreactors and food engineers, realistic near future, 16:9",
+          "Affordable synthetic meat products displayed in a modern supermarket, customers comparing prices, optimistic food future, 16:9",
+          "Chef preparing cultivated meat in a bright restaurant kitchen, appetizing realistic documentary style, 16:9",
+          "Precision fermentation facility producing sustainable proteins at industrial scale, clean biotechnology atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-large-scale-brain-computer-interface-for-disabled-patients",
+      "order": 12,
+      "slug": "first-large-scale-brain-computer-interface-for-disabled-patients",
+      "title": "Erste großskalige Gehirn-Computer-Schnittstelle für behinderte Patienten",
+      "shortTitle": "Medizinische Gehirnschnittstellen",
+      "category": "Biology & Medicine",
+      "description": "Gehirn-Computer-Schnittstellen gehen über kleine Studien hinaus und werden größeren Gruppen behinderter Patienten für Kommunikation, Mobilität und Gerätesteuerung zugänglich.",
+      "layerId": "technology",
+      "domains": [
+        "neurotechnology",
+        "healthcare",
+        "human-computer-interface"
+      ],
+      "maturity": "clinical-scale",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Menschen mit schwerer Lähmung, Sprachverlust oder neurologischen Einschränkungen erhalten neue Wege zu Selbstständigkeit und Teilhabe.",
+      "signals": [
+        "Implantierbare und nicht-invasive Schnittstellen werden zuverlässiger",
+        "Krankenhäuser bauen spezialisierte Neurotechnologieprogramme auf",
+        "Assistive Robotik integriert sich mit neuralen Steuerungssystemen"
+      ],
+      "implications": [
+        "Mehr Selbstständigkeit für behinderte Patienten",
+        "Neue Standards für Datenschutz neuraler Daten",
+        "Schnelles Wachstum assistiver Neurotechnologie"
+      ],
+      "image": {
+        "alt": "Behinderter Patient nutzt eine Gehirn-Computer-Schnittstelle zur Steuerung assistiver Technologie",
+        "prompts": [
+          "Disabled patient using a brain-computer interface to control a computer cursor, supportive clinical team nearby, respectful documentary realism, 16:9",
+          "Neurotechnology rehabilitation room with patient controlling robotic arm through neural interface, warm hopeful atmosphere, 16:9",
+          "Close-up of non-invasive brain interface headset connected to assistive communication display, clean medical future, 16:9",
+          "Hospital neurotechnology center helping patients regain digital communication through BCI systems, optimistic clinical scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-legal-assistants-reduce-access-to-justice-inequality",
+      "order": 13,
+      "slug": "ai-legal-assistants-reduce-access-to-justice-inequality",
+      "title": "KI-Rechtsassistenten verringern Ungleichheit beim Zugang zum Recht",
+      "shortTitle": "KI-Rechtszugang",
+      "category": "AI & Computing",
+      "description": "KI-Rechtswerkzeuge helfen Menschen, Rechte zu verstehen, Dokumente vorzubereiten, Streitigkeiten zu navigieren und grundlegende rechtliche Orientierung günstiger zu erhalten.",
+      "layerId": "society",
+      "domains": [
+        "artificial-intelligence",
+        "law",
+        "public-services"
+      ],
+      "maturity": "public-adoption",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Rechtssysteme werden zugänglicher für normale Bürger, kleine Unternehmen, Migranten, Mieter und unterversorgte Gemeinschaften.",
+      "signals": [
+        "Gerichte stellen zugelassene KI-Leitinterfaces bereit",
+        "Rechtsberatungsorganisationen skalieren Unterstützung mit KI",
+        "Regulierung unterscheidet Rechtsinformation von Rechtsvertretung"
+      ],
+      "implications": [
+        "Geringere Kosten für routinemäßige Rechtshilfe",
+        "Schnellere Dokumentenvorbereitung",
+        "Mehr Bedarf an Genauigkeit, Aufsicht und Fairnesskontrollen"
+      ],
+      "image": {
+        "alt": "KI-Rechtsassistent hilft Bürgern beim Zugang zu rechtlicher Orientierung",
+        "prompts": [
+          "Citizen using an AI legal assistant kiosk in a public service center, clear interface, helpful atmosphere, realistic near future, 16:9",
+          "Community legal-aid office with AI document preparation screens and human advisors, optimistic civic technology, 16:9",
+          "Court self-help center where people use AI guidance tools to understand forms and rights, documentary realism, 16:9",
+          "Small business owner reviewing contract risks with an AI legal assistant dashboard, clean professional setting, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-decentralized-disaster-response-robot-fleets-become-operational",
+      "order": 14,
+      "slug": "decentralized-disaster-response-robot-fleets-become-operational",
+      "title": "Dezentrale Roboterflotten für Katastrophenhilfe werden einsatzbereit",
+      "shortTitle": "Katastrophen-Roboterflotten",
+      "category": "Robotics",
+      "description": "Schwärme aus Boden-, Luft- und Meeresrobotern unterstützen Suche, Rettung, Kartierung, Versorgungslieferung und Gefahreninspektion nach Katastrophen.",
+      "layerId": "civilization",
+      "domains": [
+        "robotics",
+        "disaster-response",
+        "public-safety"
+      ],
+      "maturity": "operational-network",
+      "timeframe": {
+        "startYear": 2031,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Katastrophenhilfe wird schneller, sicherer und weniger abhängig davon, Menschen in instabile oder gefährliche Umgebungen zu schicken.",
+      "signals": [
+        "Notfallbehörden positionieren autonome Roboterflotten vor",
+        "Mesh-Netze halten Roboter verbunden, wenn Infrastruktur ausfällt",
+        "Roboter kartieren beschädigte Zonen, bevor Rettungsteams eintreten"
+      ],
+      "implications": [
+        "Schnellere Erkennung von Überlebenden",
+        "Geringeres Risiko für Ersthelfer",
+        "Neue öffentliche Sicherheitsprotokolle für autonome Systeme"
+      ],
+      "image": {
+        "alt": "Autonome Roboterflotte reagiert auf eine Naturkatastrophe",
+        "prompts": [
+          "Disaster-response robot fleet searching a flooded city street with drones overhead and rescue teams coordinating nearby, realistic documentary, 16:9",
+          "Ground robots mapping a collapsed building before human rescuers enter, emergency lights, hopeful atmosphere, 16:9",
+          "Decentralized drone swarm delivering medical supplies after an earthquake, damaged urban landscape, clean cinematic realism, 16:9",
+          "Emergency command vehicle coordinating aerial, ground, and marine robots through a resilient mesh network, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-real-time-universal-language-translation-becomes-seamless",
+      "order": 15,
+      "slug": "real-time-universal-language-translation-becomes-seamless",
+      "title": "Universelle Echtzeitübersetzung wird nahtlos",
+      "shortTitle": "Nahtlose Übersetzung",
+      "category": "AI & Computing",
+      "description": "Wearables, Telefone, Brillen und Konferenzsysteme liefern natürliche Echtzeitübersetzung über Sprache, Text, Tonfall und Kontext hinweg.",
+      "layerId": "society",
+      "domains": [
+        "artificial-intelligence",
+        "communication",
+        "culture"
+      ],
+      "maturity": "mainstream",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2036
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Sprachbarrieren sinken in Reisen, Bildung, Handel, Diplomatie, Unterhaltung und Remote-Zusammenarbeit.",
+      "signals": [
+        "Übersetzungsmodelle bewahren Tonfall und Absicht",
+        "AR-Brillen zeigen Echtzeit-Untertitel",
+        "Mehrsprachige Meetings werden in Geschäftstools normal"
+      ],
+      "implications": [
+        "Globalere und inklusivere Zusammenarbeit",
+        "Schnellerer grenzüberschreitender Handel",
+        "Mehr Fokus auf kulturelle Nuancen und Spracherhalt"
+      ],
+      "image": {
+        "alt": "Menschen sprechen verschiedene Sprachen durch nahtlose Echtzeit-KI-Übersetzung",
+        "prompts": [
+          "International group conversing naturally through real-time translation glasses, subtitles softly displayed in augmented reality, realistic near future, 16:9",
+          "Business meeting with participants speaking multiple languages while AI translation appears on transparent screens, clean global collaboration, 16:9",
+          "Traveler using seamless language translation earbuds in a busy market, warm human-centered documentary style, 16:9",
+          "Classroom with students from many countries learning together through real-time universal translation, optimistic education future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-real-time-universal-language-translation-becomes-seamless.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-discovery-of-a-next-generation-co2-absorbing-material",
+      "order": 16,
+      "slug": "discovery-of-a-next-generation-co2-absorbing-material",
+      "title": "Entdeckung eines CO2-absorbierenden Materials der nächsten Generation",
+      "shortTitle": "CO2-absorbierendes Material",
+      "category": "Materials & Manufacturing",
+      "description": "Forschende entdecken ein Material, das Kohlendioxid deutlich effizienter, energieärmer oder langlebiger bindet als frühere Systeme.",
+      "layerId": "technology",
+      "domains": [
+        "materials-science",
+        "climate-technology",
+        "carbon-removal"
+      ],
+      "maturity": "breakthrough-discovery",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Kohlenstoffentfernung wird praktikabler für Industrie, Gebäude, Luftabscheidungsanlagen und Strategien zur Klimawiederherstellung.",
+      "signals": [
+        "Neue poröse Materialien zeigen hohe CO2-Selektivität",
+        "Abscheidesysteme arbeiten mit weniger Wärme und Energie",
+        "Pilotanlagen validieren langfristige Materialstabilität"
+      ],
+      "implications": [
+        "Günstigere direkte Luftabscheidung",
+        "Kohlenstoffentfernende Gebäudesysteme",
+        "Ausbau der Klimareparaturindustrie"
+      ],
+      "image": {
+        "alt": "Material der nächsten Generation absorbiert Kohlendioxid in einer Forschungseinrichtung",
+        "prompts": [
+          "Advanced materials science lab showing next-generation CO2 absorbing material inside transparent testing chamber, clean futuristic realism, 16:9",
+          "Direct air capture facility using new carbon absorbing panels, mountains and blue sky in background, optimistic climate technology, 16:9",
+          "Close-up of porous carbon capture material visualized at macro scale, scientists reviewing performance data, 16:9",
+          "Urban building facade coated with CO2 absorbing material, subtle clean-tech design, bright sustainable city future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-ai-robots-begin-building-homes-for-free",
+      "order": 17,
+      "slug": "autonomous-ai-robots-begin-building-homes-for-free",
+      "title": "Autonome KI-Roboter beginnen, kostenlose Häuser zu bauen",
+      "shortTitle": "Kostenlose robotisch gebaute Häuser",
+      "category": "Robotics",
+      "description": "Autonome Bauroboter, öffentliche Finanzierung und extrem kostengünstige Materialien ermöglichen es einigen Regionen, einfache Häuser mit nahezu null Arbeitskosten zu errichten.",
+      "layerId": "civilization",
+      "domains": [
+        "robotics",
+        "housing",
+        "construction"
+      ],
+      "maturity": "public-pilot",
+      "timeframe": {
+        "startYear": 2035,
+        "endYear": 2045
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Wohnraum beginnt sich von einer knappen Ware zu essenzieller Infrastruktur zu verschieben, wo Automatisierung und starke öffentliche Politik zusammenwirken.",
+      "signals": [
+        "Robotische Bausysteme senken Arbeitsanforderungen",
+        "3D-gedruckte und modulare Häuser erfüllen Sicherheitsvorschriften",
+        "Regierungen testen automatisierte Programme für bezahlbaren Wohnraum"
+      ],
+      "implications": [
+        "Geringere Kosten für Basiswohnraum",
+        "Schnellerer Wiederaufbau nach Katastrophen",
+        "Große politische Debatten über Land, Eigentum und Anspruchsberechtigung"
+      ],
+      "image": {
+        "alt": "Autonome KI-Bauroboter errichten bezahlbare Häuser",
+        "prompts": [
+          "Autonomous AI construction robots building a small affordable home in a clean community site, hopeful documentary realism, 16:9",
+          "Robotic 3D printing system constructing disaster-relief housing with human supervisors nearby, near future, 16:9",
+          "New neighborhood of robot-built homes with families moving in, warm optimistic civilization scene, 16:9",
+          "Construction robots assembling modular wall panels under public housing program banners, realistic and grounded, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-universal-cancer-blood-test",
+      "order": 18,
+      "slug": "universal-cancer-blood-test",
+      "title": "Universeller Krebs-Bluttest",
+      "shortTitle": "Universeller Krebs-Bluttest",
+      "category": "Biology & Medicine",
+      "description": "Ein routinemäßiger Bluttest sucht früh nach vielen Krebsarten, indem molekulare Signale erkannt werden, bevor Tumore fortgeschritten oder symptomatisch sind.",
+      "layerId": "technology",
+      "domains": [
+        "healthcare",
+        "biotechnology",
+        "diagnostics"
+      ],
+      "maturity": "routine-screening",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Krebsüberleben verbessert sich, weil Erkennung früher erfolgt, Screening einfacher wird und Behandlung beginnt, bevor sich die Krankheit ausbreitet.",
+      "signals": [
+        "Multi-Krebs-Früherkennungstests verbessern Sensitivität und Spezifität",
+        "Öffentliche Gesundheitssysteme übernehmen bevölkerungsweite Screening-Leitlinien",
+        "KI unterstützt die Interpretation komplexer Blut-Biomarker"
+      ],
+      "implications": [
+        "Frühere Behandlung vieler Krebsarten",
+        "Geringere Sterblichkeit bei schwer erkennbaren Krebsarten",
+        "Neue Herausforderungen durch falsch positive Ergebnisse und Nachsorgekapazität"
+      ],
+      "image": {
+        "alt": "Universeller Krebs-Bluttest wird in einem fortschrittlichen Diagnostiklabor verarbeitet",
+        "prompts": [
+          "Advanced diagnostics lab processing universal cancer blood tests, robotic sample handling, calm medical breakthrough atmosphere, 16:9",
+          "Doctor explaining early cancer blood test results to a patient using a clear AI-assisted dashboard, respectful clinical realism, 16:9",
+          "Close-up of blood sample vial moving through automated multi-cancer screening machine, clean biotech future, 16:9",
+          "Public health screening center offering routine cancer blood tests, diverse community, optimistic healthcare future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-universal-cancer-blood-test.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-universal-cancer-blood-test.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-cancer-blood-test.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-universal-cancer-blood-test.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-cancer-blood-test.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-self-healing-megacity-materials",
+      "order": 19,
+      "slug": "self-healing-megacity-materials",
+      "title": "Selbstheilende Materialien für Megastädte",
+      "shortTitle": "Selbstheilende Materialien",
+      "category": "Materials & Manufacturing",
+      "description": "Straßen, Brücken, Gebäudehüllen, Rohre und Strukturkomponenten nutzen zunehmend Materialien, die Risse, Korrosion und Oberflächenschäden automatisch reparieren.",
+      "layerId": "technology",
+      "domains": [
+        "materials-science",
+        "smart-cities",
+        "infrastructure"
+      ],
+      "maturity": "infrastructure-adoption",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Städte werden langlebiger und wartungsärmer, wodurch Reparaturkosten, Betriebsunterbrechungen und Infrastrukturrisiken sinken.",
+      "signals": [
+        "Selbstheilender Beton und Beschichtungen bestehen Langzeit-Haltbarkeitstests",
+        "Infrastruktureigentümer priorisieren Lebenszykluskosten",
+        "Intelligente Sensoren lösen gezielte Reparaturreaktionen aus"
+      ],
+      "implications": [
+        "Langlebigere öffentliche Infrastruktur",
+        "Weniger Wartungsstillstand",
+        "Neue Standards für die Zertifizierung intelligenter Materialien"
+      ],
+      "image": {
+        "alt": "Selbstheilendes Material repariert Risse in Megastadt-Infrastruktur",
+        "prompts": [
+          "Megacity bridge surface visibly self-healing small cracks under embedded sensor monitoring, realistic clean future, 16:9",
+          "Close-up of self-healing concrete repairing microcracks in a smart city sidewalk, documentary macro detail, 16:9",
+          "Engineers inspecting building facade made of self-healing materials, futuristic skyline, optimistic infrastructure scene, 16:9",
+          "Underground smart pipe network using self-repairing coatings and maintenance drones, clean technical visualization, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-self-healing-megacity-materials.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-self-healing-megacity-materials.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-self-healing-megacity-materials.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-self-healing-megacity-materials.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-self-healing-megacity-materials.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-lunar-robotics-program",
+      "order": 20,
+      "slug": "lunar-robotics-program",
+      "title": "Mondrobotikprogramm",
+      "shortTitle": "Mondrobotik",
+      "category": "Robotics",
+      "description": "Robotersysteme bereiten den Mond auf dauerhafte menschliche Aktivität vor, indem sie Gelände kartieren, Infrastruktur bauen, Ressourcen abbauen und frühe Habitate unterstützen.",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "robotics",
+        "infrastructure"
+      ],
+      "maturity": "early-lunar-infrastructure",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2045
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Die Zivilisation erweitert Bau, Logistik und Ressourcensysteme über die Erde hinaus und legt Grundlagen für dauerhafte Mondpräsenz.",
+      "signals": [
+        "Autonome Mondrover bereiten Landezonen vor",
+        "Roboter testen Bau mit Regolith",
+        "Raumfahrtagenturen und private Unternehmen koordinieren Mondlogistik"
+      ],
+      "implications": [
+        "Geringeres Risiko für bemannte Mondmissionen",
+        "Frühe außerirdische Baukompetenz",
+        "Grundlage für spätere Monddörfer und Weltraumindustrie"
+      ],
+      "image": {
+        "alt": "Autonome Mondroboter bauen Infrastruktur auf dem Mond",
+        "prompts": [
+          "Autonomous lunar robots building a landing pad on the Moon with Earth visible in the sky, realistic space documentary, 16:9",
+          "Lunar rover fleet mapping terrain and placing infrastructure beacons near a future habitat site, cinematic realism, 16:9",
+          "Robotic construction system using lunar regolith to print protective walls around a small habitat, 16:9",
+          "Moon base preparation site with solar arrays, cargo landers, and autonomous robots working under harsh sunlight, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-lunar-robotics-program.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-lunar-robotics-program.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-lunar-robotics-program.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-lunar-robotics-program.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-lunar-robotics-program.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-personal-tutors-become-available-for-every-child",
+      "order": 21,
+      "slug": "ai-personal-tutors-become-available-for-every-child",
+      "title": "KI-Personaltutoren werden für jedes Kind verfügbar",
+      "shortTitle": "KI-Personaltutoren",
+      "category": "AI & Computing",
+      "description": "KI-Personaltutoren für jedes Kind zeigen, wie KI von experimenteller Software zu Alltagsinfrastruktur für Gesundheit, Bildung, Recht, Wissenschaft, Arbeit, Kreativität und Kommunikation wird.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "KI-Personaltutoren für jedes Kind werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "KI-Systeme werden in anspruchsvollen Arbeitsabläufen zunehmend verlässlich eingesetzt",
+        "Menschliche Aufsicht verlagert sich stärker auf Kontrolle und Validierung",
+        "Automatisierung breitet sich von digitaler Arbeit in physische Infrastruktur aus"
+      ],
+      "implications": [
+        "Der Zugang zu Leistungen auf Expertenniveau erweitert sich",
+        "Wissenschaftliche und operative Entscheidungen beschleunigen sich",
+        "Governance- und Sicherheitsstandards werden wichtiger"
+      ],
+      "image": {
+        "alt": "KI-Personaltutoren werden für jedes Kind verfügbar",
+        "prompts": [
+          "aI personal tutors become available for every child, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI personal tutors become available for every child, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI personal tutors become available for every child, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI personal tutors become available for every child, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-personal-tutors-become-available-for-every-child.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-personal-tutors-become-available-for-every-child.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-software-agents-automate-most-office-workflows",
+      "order": 22,
+      "slug": "ai-software-agents-automate-most-office-workflows",
+      "title": "KI-Softwareagenten automatisieren die meisten Büroabläufe",
+      "shortTitle": "KI-Softwareagenten automatisieren",
+      "category": "AI & Computing",
+      "description": "KI-Softwareagenten, die die meisten Büroabläufe automatisieren, zeigen KI als Alltagsinfrastruktur für Gesundheit, Bildung, Recht, Wissenschaft, Arbeit, Kreativität und Kommunikation.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "KI-Softwareagenten zur Automatisierung von Büroabläufen werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "KI-Systeme werden in anspruchsvollen Arbeitsabläufen zunehmend verlässlich eingesetzt",
+        "Menschliche Aufsicht verlagert sich stärker auf Kontrolle und Validierung",
+        "Automatisierung breitet sich von digitaler Arbeit in physische Infrastruktur aus"
+      ],
+      "implications": [
+        "Der Zugang zu Leistungen auf Expertenniveau erweitert sich",
+        "Wissenschaftliche und operative Entscheidungen beschleunigen sich",
+        "Governance- und Sicherheitsstandards werden wichtiger"
+      ],
+      "image": {
+        "alt": "KI-Softwareagenten automatisieren die meisten Büroabläufe",
+        "prompts": [
+          "aI software agents automate most office workflows, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI software agents automate most office workflows, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI software agents automate most office workflows, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI software agents automate most office workflows, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-software-agents-automate-most-office-workflows.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-software-agents-automate-most-office-workflows.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-scientific-assistants-accelerate-material-discovery",
+      "order": 23,
+      "slug": "ai-scientific-assistants-accelerate-material-discovery",
+      "title": "KI-Wissenschaftsassistenten beschleunigen Materialentdeckung",
+      "shortTitle": "KI-Wissenschaftsassistenten",
+      "category": "AI & Computing",
+      "description": "KI-Wissenschaftsassistenten zur Beschleunigung der Materialentdeckung zeigen KI als Alltagsinfrastruktur für Gesundheit, Bildung, Recht, Wissenschaft, Arbeit, Kreativität und Kommunikation.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "KI-Wissenschaftsassistenten für Materialentdeckung werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "KI-Systeme werden in anspruchsvollen Arbeitsabläufen zunehmend verlässlich eingesetzt",
+        "Menschliche Aufsicht verlagert sich stärker auf Kontrolle und Validierung",
+        "Automatisierung breitet sich von digitaler Arbeit in physische Infrastruktur aus"
+      ],
+      "implications": [
+        "Der Zugang zu Leistungen auf Expertenniveau erweitert sich",
+        "Wissenschaftliche und operative Entscheidungen beschleunigen sich",
+        "Governance- und Sicherheitsstandards werden wichtiger"
+      ],
+      "image": {
+        "alt": "KI-Wissenschaftsassistenten beschleunigen Materialentdeckung",
+        "prompts": [
+          "aI scientific assistants accelerate material discovery, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI scientific assistants accelerate material discovery, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI scientific assistants accelerate material discovery, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI scientific assistants accelerate material discovery, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-generated-films-and-games-become-mainstream",
+      "order": 24,
+      "slug": "ai-generated-films-and-games-become-mainstream",
+      "title": "KI-generierte Filme und Spiele werden Mainstream",
+      "shortTitle": "KI-generierte Filme und Spiele",
+      "category": "AI & Computing",
+      "description": "KI-generierte Filme und Spiele im Mainstream zeigen KI als Alltagsinfrastruktur für Gesundheit, Bildung, Recht, Wissenschaft, Arbeit, Kreativität und Kommunikation.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "KI-generierte Filme und Spiele werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "KI-Systeme werden in anspruchsvollen Arbeitsabläufen zunehmend verlässlich eingesetzt",
+        "Menschliche Aufsicht verlagert sich stärker auf Kontrolle und Validierung",
+        "Automatisierung breitet sich von digitaler Arbeit in physische Infrastruktur aus"
+      ],
+      "implications": [
+        "Der Zugang zu Leistungen auf Expertenniveau erweitert sich",
+        "Wissenschaftliche und operative Entscheidungen beschleunigen sich",
+        "Governance- und Sicherheitsstandards werden wichtiger"
+      ],
+      "image": {
+        "alt": "KI-generierte Filme und Spiele werden Mainstream",
+        "prompts": [
+          "aI-generated films and games become mainstream, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-generated films and games become mainstream, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-generated films and games become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-generated films and games become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-generated-films-and-games-become-mainstream.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-films-and-games-become-mainstream.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-companions-become-socially-accepted",
+      "order": 25,
+      "slug": "ai-companions-become-socially-accepted",
+      "title": "KI-Begleiter werden gesellschaftlich akzeptiert",
+      "shortTitle": "KI-Begleiter akzeptiert",
+      "category": "AI & Computing",
+      "description": "Gesellschaftlich akzeptierte KI-Begleiter zeigen KI als Alltagsinfrastruktur für Gesundheit, Bildung, Recht, Wissenschaft, Arbeit, Kreativität und Kommunikation.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Gesellschaftlich akzeptierte KI-Begleiter werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "KI-Systeme werden in anspruchsvollen Arbeitsabläufen zunehmend verlässlich eingesetzt",
+        "Menschliche Aufsicht verlagert sich stärker auf Kontrolle und Validierung",
+        "Automatisierung breitet sich von digitaler Arbeit in physische Infrastruktur aus"
+      ],
+      "implications": [
+        "Der Zugang zu Leistungen auf Expertenniveau erweitert sich",
+        "Wissenschaftliche und operative Entscheidungen beschleunigen sich",
+        "Governance- und Sicherheitsstandards werden wichtiger"
+      ],
+      "image": {
+        "alt": "KI-Begleiter werden gesellschaftlich akzeptiert",
+        "prompts": [
+          "aI companions become socially accepted, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI companions become socially accepted, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI companions become socially accepted, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI companions become socially accepted, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-companions-become-socially-accepted.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-companions-become-socially-accepted.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-agricultural-robots-replace-most-repetitive-farm-labor",
+      "order": 26,
+      "slug": "agricultural-robots-replace-most-repetitive-farm-labor",
+      "title": "Landwirtschaftsroboter ersetzen den Großteil repetitiver Feldarbeit",
+      "shortTitle": "Landwirtschaftsroboter ersetzen Feldarbeit",
+      "category": "Robotics",
+      "description": "Landwirtschaftsroboter, die repetitive Feldarbeit ersetzen, führen Roboter von begrenzter Automatisierung in sichtbaren Service, Logistik, Bau, Landwirtschaft, Pflege, Katastrophenhilfe und Ökosystemreparatur.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Landwirtschaftsroboter werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Roboter arbeiten zuverlässiger in öffentlichen und industriellen Umgebungen",
+        "Autonome Flotten koordinieren sich über Städte oder außerirdische Anlagen hinweg",
+        "Maschinenarbeit ersetzt zunehmend gefährliche repetitive Tätigkeiten"
+      ],
+      "implications": [
+        "Physische Dienstleistungen werden günstiger und leichter verfügbar",
+        "Die menschliche Belastung durch gefährliche Arbeit sinkt",
+        "Infrastruktur kann schneller wachsen als mit traditionellen Arbeitsmodellen"
+      ],
+      "image": {
+        "alt": "Landwirtschaftsroboter ersetzen den Großteil repetitiver Feldarbeit",
+        "prompts": [
+          "agricultural robots replace most repetitive farm labor, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing agricultural robots replace most repetitive farm labor, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of agricultural robots replace most repetitive farm labor, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating agricultural robots replace most repetitive farm labor, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-home-cleaning-robots-become-fully-autonomous",
+      "order": 27,
+      "slug": "home-cleaning-robots-become-fully-autonomous",
+      "title": "Haushaltsreinigungsroboter werden vollständig autonom",
+      "shortTitle": "Autonome Reinigungsroboter",
+      "category": "Robotics",
+      "description": "Vollständig autonome Haushaltsreinigungsroboter führen Roboter von begrenzter Automatisierung in sichtbaren Service, Logistik, Bau, Landwirtschaft, Pflege, Katastrophenhilfe und Ökosystemreparatur.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Vollständig autonome Haushaltsreinigungsroboter werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Roboter arbeiten zuverlässiger in öffentlichen und industriellen Umgebungen",
+        "Autonome Flotten koordinieren sich über Städte oder außerirdische Anlagen hinweg",
+        "Maschinenarbeit ersetzt zunehmend gefährliche repetitive Tätigkeiten"
+      ],
+      "implications": [
+        "Physische Dienstleistungen werden günstiger und leichter verfügbar",
+        "Die menschliche Belastung durch gefährliche Arbeit sinkt",
+        "Infrastruktur kann schneller wachsen als mit traditionellen Arbeitsmodellen"
+      ],
+      "image": {
+        "alt": "Haushaltsreinigungsroboter werden vollständig autonom",
+        "prompts": [
+          "home cleaning robots become fully autonomous, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing home cleaning robots become fully autonomous, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of home cleaning robots become fully autonomous, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating home cleaning robots become fully autonomous, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-home-cleaning-robots-become-fully-autonomous.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-home-cleaning-robots-become-fully-autonomous.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-warehouse-robots-achieve-lights-out-operations",
+      "order": 28,
+      "slug": "warehouse-robots-achieve-lights-out-operations",
+      "title": "Lagerroboter erreichen Lights-out-Betrieb",
+      "shortTitle": "Lagerroboter im Lights-out-Betrieb",
+      "category": "Robotics",
+      "description": "Lagerroboter im Lights-out-Betrieb führen Roboter von begrenzter Automatisierung in sichtbaren Service, Logistik, Bau, Landwirtschaft, Pflege, Katastrophenhilfe und Ökosystemreparatur.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Lagerroboter im Lights-out-Betrieb werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Roboter arbeiten zuverlässiger in öffentlichen und industriellen Umgebungen",
+        "Autonome Flotten koordinieren sich über Städte oder außerirdische Anlagen hinweg",
+        "Maschinenarbeit ersetzt zunehmend gefährliche repetitive Tätigkeiten"
+      ],
+      "implications": [
+        "Physische Dienstleistungen werden günstiger und leichter verfügbar",
+        "Die menschliche Belastung durch gefährliche Arbeit sinkt",
+        "Infrastruktur kann schneller wachsen als mit traditionellen Arbeitsmodellen"
+      ],
+      "image": {
+        "alt": "Lagerroboter erreichen Lights-out-Betrieb",
+        "prompts": [
+          "warehouse robots achieve lights-out operations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing warehouse robots achieve lights-out operations, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of warehouse robots achieve lights-out operations, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating warehouse robots achieve lights-out operations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-warehouse-robots-achieve-lights-out-operations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-warehouse-robots-achieve-lights-out-operations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-robotic-eldercare-assistants-become-common",
+      "order": 29,
+      "slug": "robotic-eldercare-assistants-become-common",
+      "title": "Robotische Pflegeassistenten für ältere Menschen werden üblich",
+      "shortTitle": "Robotische Pflegeassistenten",
+      "category": "Robotics",
+      "description": "Robotische Pflegeassistenten führen Roboter von begrenzter Automatisierung in sichtbaren Service, Logistik, Bau, Landwirtschaft, Pflege, Katastrophenhilfe und Ökosystemreparatur.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Robotische Pflegeassistenten werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Roboter arbeiten zuverlässiger in öffentlichen und industriellen Umgebungen",
+        "Autonome Flotten koordinieren sich über Städte oder außerirdische Anlagen hinweg",
+        "Maschinenarbeit ersetzt zunehmend gefährliche repetitive Tätigkeiten"
+      ],
+      "implications": [
+        "Physische Dienstleistungen werden günstiger und leichter verfügbar",
+        "Die menschliche Belastung durch gefährliche Arbeit sinkt",
+        "Infrastruktur kann schneller wachsen als mit traditionellen Arbeitsmodellen"
+      ],
+      "image": {
+        "alt": "Robotische Pflegeassistenten für ältere Menschen werden üblich",
+        "prompts": [
+          "robotic eldercare assistants become common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic eldercare assistants become common, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic eldercare assistants become common, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic eldercare assistants become common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-robotic-eldercare-assistants-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-robotic-eldercare-assistants-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-underwater-robots-restore-coral-reefs",
+      "order": 30,
+      "slug": "autonomous-underwater-robots-restore-coral-reefs",
+      "title": "Autonome Unterwasserroboter restaurieren Korallenriffe",
+      "shortTitle": "Unterwasserroboter restaurieren Riffe",
+      "category": "Robotics",
+      "description": "Autonome Unterwasserroboter zur Restaurierung von Korallenriffen führen Roboter von begrenzter Automatisierung in sichtbaren Service, Logistik, Bau, Landwirtschaft, Pflege, Katastrophenhilfe und Ökosystemreparatur.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Autonome Unterwasserroboter zur Riffrestaurierung werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Roboter arbeiten zuverlässiger in öffentlichen und industriellen Umgebungen",
+        "Autonome Flotten koordinieren sich über Städte oder außerirdische Anlagen hinweg",
+        "Maschinenarbeit ersetzt zunehmend gefährliche repetitive Tätigkeiten"
+      ],
+      "implications": [
+        "Physische Dienstleistungen werden günstiger und leichter verfügbar",
+        "Die menschliche Belastung durch gefährliche Arbeit sinkt",
+        "Infrastruktur kann schneller wachsen als mit traditionellen Arbeitsmodellen"
+      ],
+      "image": {
+        "alt": "Autonome Unterwasserroboter restaurieren Korallenriffe",
+        "prompts": [
+          "autonomous underwater robots restore coral reefs, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous underwater robots restore coral reefs, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous underwater robots restore coral reefs, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous underwater robots restore coral reefs, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-open-air-fusion-ignition-is-demonstrated",
+      "order": 31,
+      "slug": "open-air-fusion-ignition-is-demonstrated",
+      "title": "Fusionszündung im Freien wird demonstriert",
+      "shortTitle": "Fusionszündung im Freien",
+      "category": "Energy",
+      "description": "Die Demonstration einer Fusionszündung im Freien markiert die erste Welle saubererer, dichterer und intelligenterer Energiesysteme für großflächige Elektrifizierung und künftigen Überfluss.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Fusionszündung im Freien wird zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legt die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Prototypische Energiesysteme erreichen anhaltende Demonstrationen",
+        "Intelligente Netze verringern Verschwendung und verbessern Zuverlässigkeit",
+        "Energieinfrastruktur verbindet sich zunehmend mit Straßen, Gebäuden und Weltraumanlagen"
+      ],
+      "implications": [
+        "Saubere Energie lässt sich leichter skalieren",
+        "Verkehr und Bauwesen werden weniger kohlenstoffintensiv",
+        "Zukünftige Weltrauminfrastruktur wird wirtschaftlich plausibler"
+      ],
+      "image": {
+        "alt": "Fusionszündung im Freien wird demonstriert",
+        "prompts": [
+          "open-air fusion ignition is demonstrated, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing open-air fusion ignition is demonstrated, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of open-air fusion ignition is demonstrated, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating open-air fusion ignition is demonstrated, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-open-air-fusion-ignition-is-demonstrated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-open-air-fusion-ignition-is-demonstrated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ambient-temperature-superconductor-prototype-is-verified",
+      "order": 32,
+      "slug": "ambient-temperature-superconductor-prototype-is-verified",
+      "title": "Prototyp eines Supraleiters bei Umgebungstemperatur wird verifiziert",
+      "shortTitle": "Supraleiter-Prototyp verifiziert",
+      "category": "Energy",
+      "description": "Ein verifizierter Supraleiter-Prototyp bei Umgebungstemperatur verwandelt frühe Grenzphysik in praktische Demonstrationen, die Energie, Computing, Sensorik und Infrastruktur neu prägen könnten.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Der Supraleiter-Prototyp bei Umgebungstemperatur wird zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legt die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Experimentelle Physik erreicht wiederholbare technische Prototypen",
+        "Quanten- und feldbasierte Systeme verlassen reine Laborumgebungen",
+        "Präzisionsmessung verbessert Navigation und wissenschaftliche Forschung"
+      ],
+      "implications": [
+        "Neue Infrastrukturfähigkeiten werden möglich",
+        "Weltraumsiedlungen werden sicherer",
+        "Künftige Durchbrüche erhalten klarere technische Entwicklungspfade"
+      ],
+      "image": {
+        "alt": "Prototyp eines Supraleiters bei Umgebungstemperatur wird verifiziert",
+        "prompts": [
+          "ambient-temperature superconductor prototype is verified, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ambient-temperature superconductor prototype is verified, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ambient-temperature superconductor prototype is verified, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ambient-temperature superconductor prototype is verified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-solid-state-batteries-surpass-lithium-ion-technology",
+      "order": 33,
+      "slug": "solid-state-batteries-surpass-lithium-ion-technology",
+      "title": "Festkörperbatterien übertreffen Lithium-Ionen-Technologie",
+      "shortTitle": "Festkörperbatterien übertreffen Lithium-Ionen",
+      "category": "Energy",
+      "description": "Festkörperbatterien, die Lithium-Ionen-Technologie übertreffen, markieren die erste Welle saubererer, dichterer und intelligenterer Energiesysteme für großflächige Elektrifizierung und künftigen Überfluss.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Festkörperbatterien werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Prototypische Energiesysteme erreichen anhaltende Demonstrationen",
+        "Intelligente Netze verringern Verschwendung und verbessern Zuverlässigkeit",
+        "Energieinfrastruktur verbindet sich zunehmend mit Straßen, Gebäuden und Weltraumanlagen"
+      ],
+      "implications": [
+        "Saubere Energie lässt sich leichter skalieren",
+        "Verkehr und Bauwesen werden weniger kohlenstoffintensiv",
+        "Zukünftige Weltrauminfrastruktur wird wirtschaftlich plausibler"
+      ],
+      "image": {
+        "alt": "Festkörperbatterien übertreffen Lithium-Ionen-Technologie",
+        "prompts": [
+          "solid-state batteries surpass lithium-ion technology, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing solid-state batteries surpass lithium-ion technology, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of solid-state batteries surpass lithium-ion technology, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating solid-state batteries surpass lithium-ion technology, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-managed-smart-grids-reduce-energy-waste",
+      "order": 34,
+      "slug": "ai-managed-smart-grids-reduce-energy-waste",
+      "title": "KI-gesteuerte intelligente Netze reduzieren Energieverschwendung",
+      "shortTitle": "KI-gesteuerte Smart Grids",
+      "category": "Energy",
+      "description": "KI-gesteuerte intelligente Netze, die Energieverschwendung reduzieren, markieren die erste Welle saubererer, dichterer und intelligenterer Energiesysteme für großflächige Elektrifizierung und künftigen Überfluss.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "KI-gesteuerte Smart Grids werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Prototypische Energiesysteme erreichen anhaltende Demonstrationen",
+        "Intelligente Netze verringern Verschwendung und verbessern Zuverlässigkeit",
+        "Energieinfrastruktur verbindet sich zunehmend mit Straßen, Gebäuden und Weltraumanlagen"
+      ],
+      "implications": [
+        "Saubere Energie lässt sich leichter skalieren",
+        "Verkehr und Bauwesen werden weniger kohlenstoffintensiv",
+        "Zukünftige Weltrauminfrastruktur wird wirtschaftlich plausibler"
+      ],
+      "image": {
+        "alt": "KI-gesteuerte intelligente Netze reduzieren Energieverschwendung",
+        "prompts": [
+          "aI-managed smart grids reduce energy waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-managed smart grids reduce energy waste, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-managed smart grids reduce energy waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-managed smart grids reduce energy waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-building-integrated-solar-materials-become-affordable",
+      "order": 35,
+      "slug": "building-integrated-solar-materials-become-affordable",
+      "title": "Gebäudeintegrierte Solarmaterialien werden bezahlbar",
+      "shortTitle": "Bezahlbare gebäudeintegrierte Solarstoffe",
+      "category": "Energy",
+      "description": "Bezahlbare gebäudeintegrierte Solarmaterialien markieren die erste Welle saubererer, dichterer und intelligenterer Energiesysteme für großflächige Elektrifizierung und künftigen Überfluss.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Gebäudeintegrierte Solarmaterialien werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Prototypische Energiesysteme erreichen anhaltende Demonstrationen",
+        "Intelligente Netze verringern Verschwendung und verbessern Zuverlässigkeit",
+        "Energieinfrastruktur verbindet sich zunehmend mit Straßen, Gebäuden und Weltraumanlagen"
+      ],
+      "implications": [
+        "Saubere Energie lässt sich leichter skalieren",
+        "Verkehr und Bauwesen werden weniger kohlenstoffintensiv",
+        "Zukünftige Weltrauminfrastruktur wird wirtschaftlich plausibler"
+      ],
+      "image": {
+        "alt": "Gebäudeintegrierte Solarmaterialien werden bezahlbar",
+        "prompts": [
+          "building-integrated solar materials become affordable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing building-integrated solar materials become affordable, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of building-integrated solar materials become affordable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating building-integrated solar materials become affordable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-building-integrated-solar-materials-become-affordable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-building-integrated-solar-materials-become-affordable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-organ-regeneration-patches-enter-clinical-use",
+      "order": 36,
+      "slug": "organ-regeneration-patches-enter-clinical-use",
+      "title": "Organregenerations-Patches gelangen in die klinische Nutzung",
+      "shortTitle": "Organregenerations-Patches",
+      "category": "Biology & Medicine",
+      "description": "Organregenerations-Patches in klinischer Nutzung bringen frühe prädiktive, regenerative und personalisierte Medizin in die Versorgung und erweitern Prävention, Reparatur und biologische Widerstandsfähigkeit.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Organregenerations-Patches werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Krankheitserkennung wird früher und stärker personalisiert",
+        "Regenerative und genbasierte Behandlungen weiten sich aus",
+        "Geschlossene biologische Systeme unterstützen Leben im Weltraum"
+      ],
+      "implications": [
+        "Gesundheitssysteme werden stärker präventiv",
+        "Der menschliche Körper wird besser reparierbar",
+        "Langfristiges Leben im Weltraum wird realistischer"
+      ],
+      "image": {
+        "alt": "Organregenerations-Patches gelangen in die klinische Nutzung",
+        "prompts": [
+          "organ regeneration patches enter clinical use, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing organ regeneration patches enter clinical use, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of organ regeneration patches enter clinical use, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating organ regeneration patches enter clinical use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-organ-regeneration-patches-enter-clinical-use.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-organ-regeneration-patches-enter-clinical-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-digital-immune-systems-prevent-most-infectious-outbreaks",
+      "order": 37,
+      "slug": "digital-immune-systems-prevent-most-infectious-outbreaks",
+      "title": "Digitale Immunsysteme verhindern die meisten Infektionsausbrüche",
+      "shortTitle": "Digitale Immunsysteme",
+      "category": "Biology & Medicine",
+      "description": "Digitale Immunsysteme gegen Infektionsausbrüche bringen frühe prädiktive, regenerative und personalisierte Medizin in die Versorgung und erweitern Prävention, Reparatur und biologische Widerstandsfähigkeit.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Digitale Immunsysteme werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Krankheitserkennung wird früher und stärker personalisiert",
+        "Regenerative und genbasierte Behandlungen weiten sich aus",
+        "Geschlossene biologische Systeme unterstützen Leben im Weltraum"
+      ],
+      "implications": [
+        "Gesundheitssysteme werden stärker präventiv",
+        "Der menschliche Körper wird besser reparierbar",
+        "Langfristiges Leben im Weltraum wird realistischer"
+      ],
+      "image": {
+        "alt": "Digitale Immunsysteme verhindern die meisten Infektionsausbrüche",
+        "prompts": [
+          "digital immune systems prevent most infectious outbreaks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing digital immune systems prevent most infectious outbreaks, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of digital immune systems prevent most infectious outbreaks, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating digital immune systems prevent most infectious outbreaks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-longevity-drugs-extend-healthy-lifespan-significantly",
+      "order": 38,
+      "slug": "longevity-drugs-extend-healthy-lifespan-significantly",
+      "title": "Langlebigkeitsmedikamente verlängern die gesunde Lebensspanne deutlich",
+      "shortTitle": "Langlebigkeitsmedikamente",
+      "category": "Biology & Medicine",
+      "description": "Langlebigkeitsmedikamente zur deutlichen Verlängerung gesunder Lebensspanne bringen frühe prädiktive, regenerative und personalisierte Medizin in die Versorgung und erweitern Prävention, Reparatur und biologische Widerstandsfähigkeit.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Langlebigkeitsmedikamente werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Krankheitserkennung wird früher und stärker personalisiert",
+        "Regenerative und genbasierte Behandlungen weiten sich aus",
+        "Geschlossene biologische Systeme unterstützen Leben im Weltraum"
+      ],
+      "implications": [
+        "Gesundheitssysteme werden stärker präventiv",
+        "Der menschliche Körper wird besser reparierbar",
+        "Langfristiges Leben im Weltraum wird realistischer"
+      ],
+      "image": {
+        "alt": "Langlebigkeitsmedikamente verlängern die gesunde Lebensspanne deutlich",
+        "prompts": [
+          "longevity drugs extend healthy lifespan significantly, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing longevity drugs extend healthy lifespan significantly, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of longevity drugs extend healthy lifespan significantly, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating longevity drugs extend healthy lifespan significantly, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-synthetic-blood-enters-emergency-medicine",
+      "order": 39,
+      "slug": "synthetic-blood-enters-emergency-medicine",
+      "title": "Synthetisches Blut erreicht die Notfallmedizin",
+      "shortTitle": "Synthetisches Blut",
+      "category": "Biology & Medicine",
+      "description": "Synthetisches Blut in der Notfallmedizin bringt frühe prädiktive, regenerative und personalisierte Medizin in die Versorgung und erweitert Prävention, Reparatur und biologische Widerstandsfähigkeit.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Synthetisches Blut wird zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legt die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Krankheitserkennung wird früher und stärker personalisiert",
+        "Regenerative und genbasierte Behandlungen weiten sich aus",
+        "Geschlossene biologische Systeme unterstützen Leben im Weltraum"
+      ],
+      "implications": [
+        "Gesundheitssysteme werden stärker präventiv",
+        "Der menschliche Körper wird besser reparierbar",
+        "Langfristiges Leben im Weltraum wird realistischer"
+      ],
+      "image": {
+        "alt": "Synthetisches Blut erreicht die Notfallmedizin",
+        "prompts": [
+          "synthetic blood enters emergency medicine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic blood enters emergency medicine, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic blood enters emergency medicine, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic blood enters emergency medicine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-synthetic-blood-enters-emergency-medicine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-blood-enters-emergency-medicine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-gene-therapies-cure-several-inherited-diseases",
+      "order": 40,
+      "slug": "gene-therapies-cure-several-inherited-diseases",
+      "title": "Gentherapien heilen mehrere Erbkrankheiten",
+      "shortTitle": "Gentherapien gegen Erbkrankheiten",
+      "category": "Biology & Medicine",
+      "description": "Gentherapien zur Heilung mehrerer Erbkrankheiten bringen frühe prädiktive, regenerative und personalisierte Medizin in die Versorgung und erweitern Prävention, Reparatur und biologische Widerstandsfähigkeit.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Gentherapien werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Krankheitserkennung wird früher und stärker personalisiert",
+        "Regenerative und genbasierte Behandlungen weiten sich aus",
+        "Geschlossene biologische Systeme unterstützen Leben im Weltraum"
+      ],
+      "implications": [
+        "Gesundheitssysteme werden stärker präventiv",
+        "Der menschliche Körper wird besser reparierbar",
+        "Langfristiges Leben im Weltraum wird realistischer"
+      ],
+      "image": {
+        "alt": "Gentherapien heilen mehrere Erbkrankheiten",
+        "prompts": [
+          "gene therapies cure several inherited diseases, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing gene therapies cure several inherited diseases, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of gene therapies cure several inherited diseases, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating gene therapies cure several inherited diseases, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-gene-therapies-cure-several-inherited-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-gene-therapies-cure-several-inherited-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-programmable-smart-materials-enter-industry",
+      "order": 41,
+      "slug": "programmable-smart-materials-enter-industry",
+      "title": "Programmierbare intelligente Materialien erreichen die Industrie",
+      "shortTitle": "Programmierbare Smart Materials",
+      "category": "Materials & Manufacturing",
+      "description": "Programmierbare intelligente Materialien modernisieren die materielle Basis der Zivilisation durch saubereres Bauen, selbstheilende Strukturen, 3D-Druck, programmierbare Materialien und Kohlenstoffabscheidung.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Programmierbare intelligente Materialien werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Kohlenstoffarme und selbstheilende Materialien gelangen in kommerzielle Nutzung",
+        "Additive Fertigung skaliert auf Gebäude und Infrastruktur",
+        "Weltraumfertigung produziert Materialien, die auf der Erde kaum praktikabel sind"
+      ],
+      "implications": [
+        "Bauen wird günstiger und sauberer",
+        "Städte und Weltraumhabitate werden widerstandsfähiger",
+        "Lieferketten verlagern sich in Richtung lokaler und automatisierter Produktion"
+      ],
+      "image": {
+        "alt": "Programmierbare intelligente Materialien erreichen die Industrie",
+        "prompts": [
+          "programmable smart materials enter industry, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable smart materials enter industry, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable smart materials enter industry, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable smart materials enter industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-programmable-smart-materials-enter-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-programmable-smart-materials-enter-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-3d-printed-buildings-become-mainstream",
+      "order": 42,
+      "slug": "3d-printed-buildings-become-mainstream",
+      "title": "3D-gedruckte Gebäude werden Mainstream",
+      "shortTitle": "3D-gedruckte Gebäude",
+      "category": "Materials & Manufacturing",
+      "description": "3D-gedruckte Gebäude im Mainstream modernisieren die materielle Basis der Zivilisation durch saubereres Bauen, selbstheilende Strukturen, 3D-Druck, programmierbare Materialien und Kohlenstoffabscheidung.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "3D-gedruckte Gebäude werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Kohlenstoffarme und selbstheilende Materialien gelangen in kommerzielle Nutzung",
+        "Additive Fertigung skaliert auf Gebäude und Infrastruktur",
+        "Weltraumfertigung produziert Materialien, die auf der Erde kaum praktikabel sind"
+      ],
+      "implications": [
+        "Bauen wird günstiger und sauberer",
+        "Städte und Weltraumhabitate werden widerstandsfähiger",
+        "Lieferketten verlagern sich in Richtung lokaler und automatisierter Produktion"
+      ],
+      "image": {
+        "alt": "3D-gedruckte Gebäude werden Mainstream",
+        "prompts": [
+          "3D-printed buildings become mainstream, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing 3D-printed buildings become mainstream, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of 3D-printed buildings become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating 3D-printed buildings become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-3d-printed-buildings-become-mainstream.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-3d-printed-buildings-become-mainstream.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-precision-agriculture-dramatically-reduces-fertilizer-waste",
+      "order": 43,
+      "slug": "precision-agriculture-dramatically-reduces-fertilizer-waste",
+      "title": "Präzisionslandwirtschaft reduziert Düngerverschwendung deutlich",
+      "shortTitle": "Präzisionslandwirtschaft reduziert Abfall",
+      "category": "Environment",
+      "description": "Präzisionslandwirtschaft mit deutlich weniger Düngerverschwendung zeigt frühe Klimareparatur, Nahrungsresilienz, Wasserzugang, Wiederaufforstung und Schadstoffbehandlung als einsetzbare Systeme.",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Präzisionslandwirtschaft wird zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legt die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "KI-Modelle unterstützen Klima- und Landwirtschaftsentscheidungen",
+        "Restaurierungsprojekte werden messbar und skalierbar",
+        "Geschlossene Ressourcensysteme reduzieren Abfall"
+      ],
+      "implications": [
+        "Klima- und Ernährungsrisiken werden leichter steuerbar",
+        "Ökologische Wiederherstellung wird zu einer aktiven Industrie",
+        "Weltraumhabitate hängen von nachhaltigen Ressourcenkreisläufen ab"
+      ],
+      "image": {
+        "alt": "Präzisionslandwirtschaft reduziert Düngerverschwendung deutlich",
+        "prompts": [
+          "precision agriculture dramatically reduces fertilizer waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing precision agriculture dramatically reduces fertilizer waste, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of precision agriculture dramatically reduces fertilizer waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating precision agriculture dramatically reduces fertilizer waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-desalination-technologies-provide-low-cost-fresh-water",
+      "order": 44,
+      "slug": "desalination-technologies-provide-low-cost-fresh-water",
+      "title": "Entsalzungstechnologien liefern günstiges Süßwasser",
+      "shortTitle": "Günstige Entsalzungstechnologien",
+      "category": "Environment",
+      "description": "Entsalzungstechnologien für günstiges Süßwasser zeigen frühe Klimareparatur, Nahrungsresilienz, Wasserzugang, Wiederaufforstung und Schadstoffbehandlung als einsetzbare Systeme.",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Entsalzungstechnologien werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "KI-Modelle unterstützen Klima- und Landwirtschaftsentscheidungen",
+        "Restaurierungsprojekte werden messbar und skalierbar",
+        "Geschlossene Ressourcensysteme reduzieren Abfall"
+      ],
+      "implications": [
+        "Klima- und Ernährungsrisiken werden leichter steuerbar",
+        "Ökologische Wiederherstellung wird zu einer aktiven Industrie",
+        "Weltraumhabitate hängen von nachhaltigen Ressourcenkreisläufen ab"
+      ],
+      "image": {
+        "alt": "Entsalzungstechnologien liefern günstiges Süßwasser",
+        "prompts": [
+          "desalination technologies provide low-cost fresh water, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing desalination technologies provide low-cost fresh water, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of desalination technologies provide low-cost fresh water, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating desalination technologies provide low-cost fresh water, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-reforestation-drones-restore-damaged-ecosystems",
+      "order": 45,
+      "slug": "reforestation-drones-restore-damaged-ecosystems",
+      "title": "Wiederaufforstungsdrohnen restaurieren geschädigte Ökosysteme",
+      "shortTitle": "Wiederaufforstungsdrohnen",
+      "category": "Environment",
+      "description": "Wiederaufforstungsdrohnen zur Restaurierung geschädigter Ökosysteme zeigen frühe Klimareparatur, Nahrungsresilienz, Wasserzugang, Wiederaufforstung und Schadstoffbehandlung als einsetzbare Systeme.",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Wiederaufforstungsdrohnen werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "KI-Modelle unterstützen Klima- und Landwirtschaftsentscheidungen",
+        "Restaurierungsprojekte werden messbar und skalierbar",
+        "Geschlossene Ressourcensysteme reduzieren Abfall"
+      ],
+      "implications": [
+        "Klima- und Ernährungsrisiken werden leichter steuerbar",
+        "Ökologische Wiederherstellung wird zu einer aktiven Industrie",
+        "Weltraumhabitate hängen von nachhaltigen Ressourcenkreisläufen ab"
+      ],
+      "image": {
+        "alt": "Wiederaufforstungsdrohnen restaurieren geschädigte Ökosysteme",
+        "prompts": [
+          "reforestation drones restore damaged ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing reforestation drones restore damaged ecosystems, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of reforestation drones restore damaged ecosystems, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating reforestation drones restore damaged ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-commercial-orbital-hotel-opens",
+      "order": 46,
+      "slug": "first-commercial-orbital-hotel-opens",
+      "title": "Erstes kommerzielles Orbitalhotel eröffnet",
+      "shortTitle": "Kommerzielles Orbitalhotel",
+      "category": "Space",
+      "description": "Das erste kommerzielle Orbitalhotel eröffnet kommerzielle und robotische Wege jenseits der Erde und bereitet Orbitaldienste sowie Mondressourcenaktivitäten vor.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Das erste kommerzielle Orbitalhotel wird zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legt die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Kommerzielle Weltraumdienste werden routinemäßiger",
+        "Mond- und Orbitinfrastruktur erhält kontinuierliche Investitionen",
+        "Erde-Mond-Mars-Logistik bewegt sich von Demonstration zu frühen Operationen"
+      ],
+      "implications": [
+        "Der Weltraum wird zu einem Wirtschaftsraum statt nur zu einer symbolischen Grenze",
+        "Dauerhafte Siedlungen außerhalb der Erde werden glaubwürdiger",
+        "Die Zivilisation gewinnt neue Orte für Industrie, Forschung und Kultur"
+      ],
+      "image": {
+        "alt": "Erstes kommerzielles Orbitalhotel eröffnet",
+        "prompts": [
+          "first commercial orbital hotel opens, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first commercial orbital hotel opens, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first commercial orbital hotel opens, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first commercial orbital hotel opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-commercial-orbital-hotel-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-commercial-orbital-hotel-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-autonomous-lunar-construction-site-begins-operation",
+      "order": 47,
+      "slug": "first-autonomous-lunar-construction-site-begins-operation",
+      "title": "Erste autonome Mondbaustelle nimmt Betrieb auf",
+      "shortTitle": "Autonome Mondbaustelle",
+      "category": "Space",
+      "description": "Die erste autonome Mondbaustelle eröffnet kommerzielle und robotische Wege jenseits der Erde und bereitet Orbitaldienste sowie Mondressourcenaktivitäten vor.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Die erste autonome Mondbaustelle wird zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legt die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Kommerzielle Weltraumdienste werden routinemäßiger",
+        "Mond- und Orbitinfrastruktur erhält kontinuierliche Investitionen",
+        "Erde-Mond-Mars-Logistik bewegt sich von Demonstration zu frühen Operationen"
+      ],
+      "implications": [
+        "Der Weltraum wird zu einem Wirtschaftsraum statt nur zu einer symbolischen Grenze",
+        "Dauerhafte Siedlungen außerhalb der Erde werden glaubwürdiger",
+        "Die Zivilisation gewinnt neue Orte für Industrie, Forschung und Kultur"
+      ],
+      "image": {
+        "alt": "Erste autonome Mondbaustelle nimmt Betrieb auf",
+        "prompts": [
+          "first autonomous lunar construction site begins operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first autonomous lunar construction site begins operation, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first autonomous lunar construction site begins operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first autonomous lunar construction site begins operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-lunar-resource-prospecting-mission-becomes-commercial",
+      "order": 48,
+      "slug": "first-lunar-resource-prospecting-mission-becomes-commercial",
+      "title": "Erste kommerzielle Mondressourcen-Prospektionsmission startet",
+      "shortTitle": "Mondressourcen-Prospektionsmission",
+      "category": "Space",
+      "description": "Die erste kommerzielle Mondressourcen-Prospektionsmission eröffnet kommerzielle und robotische Wege jenseits der Erde und bereitet Orbitaldienste sowie Mondressourcenaktivitäten vor.",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Die kommerzielle Mondressourcen-Prospektion wird zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legt die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Kommerzielle Weltraumdienste werden routinemäßiger",
+        "Mond- und Orbitinfrastruktur erhält kontinuierliche Investitionen",
+        "Erde-Mond-Mars-Logistik bewegt sich von Demonstration zu frühen Operationen"
+      ],
+      "implications": [
+        "Der Weltraum wird zu einem Wirtschaftsraum statt nur zu einer symbolischen Grenze",
+        "Dauerhafte Siedlungen außerhalb der Erde werden glaubwürdiger",
+        "Die Zivilisation gewinnt neue Orte für Industrie, Forschung und Kultur"
+      ],
+      "image": {
+        "alt": "Erste Mondressourcen-Prospektionsmission wird kommerziell",
+        "prompts": [
+          "first lunar resource prospecting mission becomes commercial, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first lunar resource prospecting mission becomes commercial, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first lunar resource prospecting mission becomes commercial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first lunar resource prospecting mission becomes commercial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-universal-digital-identity-becomes-globally-interoperable",
+      "order": 49,
+      "slug": "universal-digital-identity-becomes-globally-interoperable",
+      "title": "Universelle digitale Identität wird global interoperabel",
+      "shortTitle": "Universelle digitale Identität",
+      "category": "Society & Economy",
+      "description": "Global interoperable digitale Identität zeigt frühe soziale und wirtschaftliche Transformation, während digitale Identität, bargeldlose Systeme, KI-Dienste und Automatisierung den Alltag verändern.",
+      "layerId": "society-economy",
+      "domains": [
+        "social-systems",
+        "economy",
+        "public-services"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Universelle digitale Identität wird zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legt die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Digitale öffentliche Infrastruktur wird interoperabler",
+        "Neue Wirtschaftssysteme entstehen rund um Automatisierung und Weltraumdienste",
+        "Rechtsinstitutionen passen sich neuen technologischen Realitäten an"
+      ],
+      "implications": [
+        "Der Zugang zu Diensten wird einfacher und globaler",
+        "Weltraumhandel gewinnt an Legitimität",
+        "Das Wirtschaftsleben wird digitaler und grenzüberschreitender"
+      ],
+      "image": {
+        "alt": "Universelle digitale Identität wird global interoperabel",
+        "prompts": [
+          "universal digital identity becomes globally interoperable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal digital identity becomes globally interoperable, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal digital identity becomes globally interoperable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal digital identity becomes globally interoperable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-cashless-economies-dominate-most-countries",
+      "order": 50,
+      "slug": "cashless-economies-dominate-most-countries",
+      "title": "Bargeldlose Volkswirtschaften prägen die meisten Länder",
+      "shortTitle": "Bargeldlose Volkswirtschaften",
+      "category": "Society & Economy",
+      "description": "Bargeldlose Volkswirtschaften in den meisten Ländern zeigen frühe soziale und wirtschaftliche Transformation, während digitale Identität, bargeldlose Systeme, KI-Dienste und Automatisierung den Alltag verändern.",
+      "layerId": "society-economy",
+      "domains": [
+        "social-systems",
+        "economy",
+        "public-services"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Bargeldlose Volkswirtschaften werden zu einem prägenden Meilenstein naher Zukunftsdurchbrüche und legen die technologische Grundlage für spätere Transformation im Zivilisationsmaßstab.",
+      "signals": [
+        "Digitale öffentliche Infrastruktur wird interoperabler",
+        "Neue Wirtschaftssysteme entstehen rund um Automatisierung und Weltraumdienste",
+        "Rechtsinstitutionen passen sich neuen technologischen Realitäten an"
+      ],
+      "implications": [
+        "Der Zugang zu Diensten wird einfacher und globaler",
+        "Weltraumhandel gewinnt an Legitimität",
+        "Das Wirtschaftsleben wird digitaler und grenzüberschreitender"
+      ],
+      "image": {
+        "alt": "Bargeldlose Volkswirtschaften prägen die meisten Länder",
+        "prompts": [
+          "cashless economies dominate most countries, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cashless economies dominate most countries, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cashless economies dominate most countries, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cashless economies dominate most countries, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-cashless-economies-dominate-most-countries.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-cashless-economies-dominate-most-countries.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

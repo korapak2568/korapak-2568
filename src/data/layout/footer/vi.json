@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet giới thiệu các sản phẩm số, dịch vụ AI, ý tưởng thành phố thông minh và năng lực kỹ thuật nền tảng từ Chiang Mai đến khán giả toàn cầu.",
+  "social": {
+    "title": "Mạng xã hội",
+    "items": []
+  },
+  "important": {
+    "title": "Liên kết quan trọng",
+    "items": [
+      {
+        "label": "Giới thiệu",
+        "link": "/about/"
+      },
+      {
+        "label": "Công nghệ",
+        "link": "/technology/"
+      },
+      {
+        "label": "Liên hệ",
+        "link": "/contact/"
+      },
+      {
+        "label": "Điều khoản dịch vụ",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "Chính sách quyền riêng tư",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "Chính sách nơi làm việc",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "Dự án",
+    "items": [
+      {
+        "label": "Dự án Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Hệ thống Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Graceful Style",
+        "link": "/style/"
+      },
+      {
+        "label": "Tương lai Chiang Mai",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "Nền tảng",
+    "items": [
+      {
+        "label": "Văn minh tương lai",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Thành phố thông minh",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Di chuyển thông minh",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Câu chuyện",
+        "link": "/story/"
+      },
+      {
+        "label": "Phong cách",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "Kết nối",
+    "items": [
+      {
+        "label": "Liên hệ",
+        "link": "/contact",
+        "ariaLabel": "Trang liên hệ Chorn Planet"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "Chorn Planet trên LinkedIn"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "Chorn Planet trên GitHub"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Chorn Planet trên Facebook"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "Chorn Planet trên X"
+      }
+    ]
+  }
+}

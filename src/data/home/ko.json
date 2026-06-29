@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "home": {
+      "title": "Chorn Planet | Smart Food, 럭셔리, 기술 및 라이프스타일 플랫폼",
+      "description": "Chorn Planet은 Smart Food, AI Luxury, Technology, Style, Smart City, Smart Mobility에 집중한 플랫폼으로 Phase 1을 시작합니다."
+    },
+    "about": {
+      "title": "Chorn Planet 소개 | AI 네이티브 라이프스타일 플랫폼",
+      "description": "Chorn Planet은 Smart Food, AI Luxury, Style, 실용 기술을 유용한 라이프스타일 시스템으로 연결하는 AI 네이티브 플랫폼입니다."
+    }
+  },
+  "home": {
+    "sections": [
+      {
+        "id": "phase-1",
+        "eyebrow": "프로젝트 개발",
+        "title": "프로젝트 개발 기술",
+        "layout": "featured",
+        "cards": [
+          {
+            "category": "Smart Food",
+            "title": "Smart Food 시스템",
+            "description": "음식 발견, 주문 개념, 고객 경험을 중심으로 한 일상생활 제품 방향입니다.",
+            "image": {
+              "src": "/smart-food/process5-receiving.png",
+              "alt": "Smart Food 시스템 비주얼",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.smart-food",
+              "mobile": {
+                "src": "/smart-food/mobile/process5-receiving.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-food/desktop/process5-receiving.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "음식",
+              "플랫폼"
+            ],
+            "cta": "Smart Food 탐색",
+            "href": "/smart-food/"
+          },
+          {
+            "category": "AI Luxury",
+            "title": "AI Luxury 프로젝트",
+            "description": "럭셔리 부동산, 목적지 서사, 미래 라이프스타일 콘셉트에 집중한 레이어입니다.",
+            "image": {
+              "src": "/images/ai-luxury/hero-ai-luxury-real-estate-platform.png",
+              "alt": "AI Luxury 프로젝트",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.ai-luxury",
+              "mobile": {
+                "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "럭셔리",
+              "프로젝트"
+            ],
+            "cta": "Luxury 보기",
+            "href": "/luxury/"
+          },
+          {
+            "category": "기술",
+            "title": "기술 플랫폼",
+            "description": "소프트웨어, AI, 클라우드, 플랫폼 엔지니어링 역량을 위한 실용적 기반입니다.",
+            "image": {
+              "src": "/images/features/morning-sky-optimize.webp",
+              "alt": "기술 플랫폼 비주얼",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.technology",
+              "mobile": {
+                "src": "/images/features/mobile/morning-sky-optimize.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/features/thumbnail/morning-sky-optimize.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/features/desktop/morning-sky-optimize.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "AI",
+              "엔지니어링"
+            ],
+            "cta": "기술 보기",
+            "href": "/technology/"
+          },
+          {
+            "category": "아웃핏 스타일",
+            "title": "패션, 의류, 아웃핏 방향",
+            "description": "시각적 정체성, 아웃핏 콘셉트, 미래 커머스 이야기를 위한 가벼운 라이프스타일 채널입니다.",
+            "image": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "alt": "스타일과 아웃핏 비주얼",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.style",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "스타일",
+              "라이프스타일"
+            ],
+            "cta": "스타일 보기",
+            "href": "/style/"
+          }
+        ]
+      },
+      {
+        "id": "outfit",
+        "eyebrow": "스타일과 아웃핏",
+        "title": "패션, 의류, 아웃핏 방향",
+        "layout": "grid",
+        "cards": [
+          {
+            "category": "여성",
+            "title": "여성 아웃핏",
+            "description": "프리미엄 라이프스타일 장면을 위한 우아한 문명적 룩입니다.",
+            "image": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "alt": "여성 아웃핏 콘셉트",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lady",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "여성",
+              "럭셔리"
+            ],
+            "cta": "컬렉션 보기",
+            "href": "/style/"
+          },
+          {
+            "category": "남성",
+            "title": "남성 아웃핏",
+            "description": "여행, 도시, 리조트 맥락에 어울리는 세련된 실루엣입니다.",
+            "image": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "alt": "남성 아웃핏 콘셉트",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.gentleman",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "남성",
+              "여행"
+            ],
+            "cta": "컬렉션 보기",
+            "href": "/style/"
+          },
+          {
+            "category": "문명",
+            "title": "문명 의류",
+            "description": "구역, 의식, 미래 커머스와 연결되는 의류 이야기입니다.",
+            "image": {
+              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "alt": "문명 의류 콘셉트",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.civilization",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "구역",
+              "Chorn DNA"
+            ],
+            "cta": "채널 열기",
+            "href": "/style/"
+          },
+          {
+            "category": "란나",
+            "title": "란나 퓨처 럭셔리",
+            "description": "북부의 우아함을 프리미엄 미래 라이프스타일로 해석합니다.",
+            "image": {
+              "src": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway.png",
+              "alt": "란나 퓨처 럭셔리 콘셉트",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lanna",
+              "mobile": {
+                "src": "/smart-mobility/chiang-mai/mobile/vision-smart-mobility-northern-gateway.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-mobility/chiang-mai/thumbnail/vision-smart-mobility-northern-gateway.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-mobility/chiang-mai/desktop/vision-smart-mobility-northern-gateway.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "란나",
+              "미래"
+            ],
+            "cta": "룩 탐색",
+            "href": "/smart-mobility/"
+          }
+        ]
+      }
+    ],
+    "circular": {
+      "title": "교통 시뮬레이션 시스템",
+      "span": "교통 시뮬레이션 시스템",
+      "description": "젊은 커플이 MTS를 타고 산골짜기를 지나 집으로 돌아옵니다. 조용한 알파인 역에서 언덕 위 따뜻한 집으로 이동하는 여정입니다. 이들의 여정은 하나의 목적지에서 끝나지 않습니다. 같은 순환형 모빌리티 시스템은 다시 해안 역, 일출 오션 데크, 마리나 지구, 라벤더 계곡, 산악 게이트웨이로 이들을 데려가며, 하나의 지능형 MTS 네트워크를 통해 집, 여행, 휴식, 미래 문명을 연결합니다.",
+      "categories": [
+        {
+          "title": "리클라이닝 소파에서 휴식",
+          "image": {
+            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "alt": "커플이 큰 산 전망 창가에서 휴식하고 있습니다.",
+            "width": 1024,
+            "height": 1536,
+            "aspectRatio": "2:3",
+            "positionKey": "home.circular.sofa",
+            "mobile": {
+              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 720,
+              "height": 1080,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 480,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 1024,
+              "height": 1536,
+              "quality": 82
+            }
+          },
+          "link": "/story"
+        },
+        {
+          "title": "MTS 라벤더 밸리 역",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "alt": "MTS 라벤더 밸리 역",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.valley",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-valley-2-lavender-valley"
+        },
+        {
+          "title": "MTS 코럴 베이 마리나 역",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "alt": "MTS 코럴 베이 마리나 역",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-marina",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-2-coral-bay-marina"
+        },
+        {
+          "title": "MTS 선라이즈 오션 데크 역",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "alt": "MTS 선라이즈 오션 데크 역",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-sunrise",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-6-sunrise-ocean-deck"
+        }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "Chorn Planet 소개",
+    "title": "미래 문명 플랫폼",
+    "description": "Chorn Planet은 Smart Mobility, Smart Food, AI Luxury, Style, 실용 기술을 하나의 진화하는 플랫폼으로 연결하여 미래형 생활, 연결된 환경, 인간 중심 디지털 경험을 탐구합니다.",
+    "image": {
+      "src": "/images/about/about-chorn-image-1200.webp",
+      "alt": "Chorn Planet 플랫폼 소개 비주얼",
+      "width": 1600,
+      "height": 1000,
+      "aspectRatio": "8:5",
+      "positionKey": "about.hero",
+      "mobile": {
+        "src": "/images/about/mobile/about-chorn-image-1200.webp",
+        "width": 800,
+        "height": 500,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images/about/thumbnail/about-chorn-image-1200.webp",
+        "width": 512,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images/about/desktop/about-chorn-image-1200.webp",
+        "width": 1600,
+        "height": 1000,
+        "quality": 82
+      }
+    },
+    "blocks": [
+      {
+        "title": "AI 네이티브 플랫폼",
+        "body": "Chorn Planet은 AI Smart Food, AI POS, AI Luxury, Style, 실용 기술을 하나의 진화하는 디지털 생태계로 통합하는 AI 네이티브 플랫폼입니다. ERP, MES, Logic Controller, Physical Layer를 포함한 핵심 시스템 역량과 연결됩니다.",
+        "tags": [
+          "AI 네이티브",
+          "ERP",
+          "MES",
+          "Logic Controller",
+          "Physical Layer",
+          "워크플로"
+        ],
+        "link": "/technology/"
+      },
+      {
+        "title": "AI Smart Mobility",
+        "body": "AI Smart Mobility는 Chorn Planet MTS Network를 통해 지능형 교통, 연결 인프라, 미래 모빌리티 경험을 탐구합니다. 목적지, 관광, 라이프스타일 환경, 미래형 문명 콘셉트를 연결하는 순환 시스템으로 작동합니다.",
+        "tags": [
+          "MTS Network",
+          "스마트 인프라",
+          "미래 모빌리티"
+        ],
+        "link": "/smart-mobility/"
+      },
+      {
+        "title": "스마트시티 시스템",
+        "body": "Smart City Systems는 지능형 환경, 연결 인프라, 모빌리티 조정, 인간 중심 도시 경험이 어떻게 함께 진화할 수 있는지 탐구합니다. 이 플랫폼은 미래 도시가 연결된 문명 생태계 안에서 기술, 이동, 편안함, 지속가능성, 일상생활의 균형을 어떻게 맞출 수 있는지 관찰합니다.",
+        "tags": [
+          "인간 중심 도시",
+          "연결 인프라",
+          "도시 지능"
+        ],
+        "link": "/smart-city/"
+      },
+      {
+        "title": "AI Smart Food",
+        "body": "Smart Food는 실용적인 일상생활 레이어입니다. 음식 발견, 메뉴 정보, 고객 경험, 주문 개념, 미래 AI 보조 음식 서비스 흐름을 중심으로 Chorn Planet에 유용한 시작점을 제공합니다.",
+        "tags": [
+          "음식 경험",
+          "주문 개념",
+          "일상 유틸리티"
+        ],
+        "link": "/smart-food/"
+      },
+      {
+        "title": "AI Luxury",
+        "body": "AI Luxury는 부동산, 목적지, 라이프스타일 서사를 위한 프리미엄 프로젝트 레이어입니다. 고가치 프로젝트를 더 명확한 이야기, 더 강한 비주얼 시스템, 투자자 준비형 플랫폼 콘텐츠로 전환하도록 돕습니다.",
+        "tags": [
+          "프리미엄 프로젝트",
+          "목적지 이야기",
+          "투자자 준비"
+        ],
+        "link": "/luxury/"
+      },
+      {
+        "title": "스타일과 아웃핏 방향",
+        "body": "Style은 플랫폼에 시각적 라이프스타일 레이어를 제공합니다. 아웃핏 콘셉트는 여행, 문화, 소프트 럭셔리, 미래 커머스 전반에서 장면, 이야기, 제품 방향이 됩니다.",
+        "tags": [
+          "Graceful Style",
+          "아웃핏 이야기",
+          "미래 커머스"
+        ],
+        "link": "/style/"
+      }
+    ]
+  },
+  "channels": {}
+}

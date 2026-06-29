@@ -5,25 +5,30 @@ import {IFooter, IFooterDetail} from "@/lib/model/IFooter";
 function findFooterPolicyLink(
     footer: IFooter,
     matchPath: string,
-    fallbackLabel: string
-): IFooterDetail {
+): IFooterDetail | undefined {
     const normalizedMatchPath = matchPath.replace(/\/$/, "");
-    const policyLink = footer.important.items.find((item) => {
-        const normalizedLink = item.link.replace(/\/$/, "");
-        return normalizedLink === normalizedMatchPath || item.label === fallbackLabel;
-    });
 
-    return policyLink ?? {
-        label: fallbackLabel,
-        link: matchPath,
-    };
+    return footer.important.items.find((item) => {
+        const normalizedLink = item.link.replace(/\/$/, "");
+        return normalizedLink === normalizedMatchPath;
+    });
+}
+
+function getLocalizedFooterHref(lang: string, link: string): string {
+    if (link.startsWith("http")) {
+        return link;
+    }
+
+    return '/' + lang + link;
 }
 
 export default function Information({lang, footer}: { lang: string, footer: IFooter }) {
     const year = new Date().getFullYear()
-    const termOfService = findFooterPolicyLink(footer, "/terms-of-service/", "Terms of Service")
-    const privacyPolicy = findFooterPolicyLink(footer, "/privacy-policy/", "Privacy Policy")
-    const workplacePolicy = findFooterPolicyLink(footer, "/workplace-policy/", "Workplace Policy")
+    const policyLinks = [
+        findFooterPolicyLink(footer, "/terms-of-service/"),
+        findFooterPolicyLink(footer, "/privacy-policy/"),
+        findFooterPolicyLink(footer, "/workplace-policy/"),
+    ].filter((item): item is IFooterDetail => item !== undefined);
 
     return (
         <div className="copyright-area">
@@ -32,30 +37,19 @@ export default function Information({lang, footer}: { lang: string, footer: IFoo
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
                             <p>
-                                Copyright &copy; {year} by <Link href={'/' + lang}>Chorn Planet</Link>
+                                Copyright &copy; {year} by <Link href={getLocalizedFooterHref(lang, footer.link)}>{footer.title}</Link>
                             </p>
                         </div>
 
                         <div className="col-lg-6 col-md-6">
                             <ul>
-                                <li>
-                                    <Link
-                                        href={'/' + lang + termOfService.link}>
-                                        {termOfService.label}
-                                    </Link>
-                                </li>
-                                <li>
-                                    <Link
-                                        href={'/' + lang + privacyPolicy.link}>
-                                        {privacyPolicy.label}
-                                    </Link>
-                                </li>
-                                <li>
-                                    <Link
-                                        href={'/' + lang + workplacePolicy.link}>
-                                        {workplacePolicy.label}
-                                    </Link>
-                                </li>
+                                {policyLinks.map((item) => (
+                                    <li key={item.link}>
+                                        <Link href={getLocalizedFooterHref(lang, item.link)}>
+                                            {item.label}
+                                        </Link>
+                                    </li>
+                                ))}
                             </ul>
                         </div>
                     </div>

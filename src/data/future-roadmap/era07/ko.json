@@ -1,0 +1,3485 @@
+{
+  "era": {
+    "id": "era-07",
+    "order": 7,
+    "slug": "post-biological-civilization",
+    "title": "탈생물학적 문명",
+    "subtitle": "지능이 생물학, 신체, 물리적 한계를 초월하다",
+    "description": "이 시대는 의식, 정체성, 존재가 물리적 신체로부터 점점 더 독립되는 탈생물학적 문명의 부상을 의미한다. 디지털 마음, 합성 신체, 공유 사고 공간, 프로그래머블 물질, 웜홀 관문, 현실 공학은 인류를 여러 형태의 지능으로 변화시킨다.",
+    "timeframe": {
+      "label": "탈생물학적 문명",
+      "startYear": 2300,
+      "endYear": 3000,
+      "certainty": "highly speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "transcendent",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "제7시대: 탈생물학적 문명 | 미래 문명 로드맵",
+      "metaDescription": "의식 전송, 합성 신체, 디지털 문명, 프로그래머블 물질, 웜홀 관문, 현실 공학이 인류를 재정의하는 탈생물학적 문명을 탐구한다.",
+      "keywords": [
+        "탈생물학적 문명",
+        "의식 전송",
+        "디지털 문명",
+        "합성 신체",
+        "프로그래머블 물질",
+        "미래 문명 로드맵"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-07-planetary-scale-consciousness-networks-become-common",
+      "order": 1,
+      "slug": "planetary-scale-consciousness-networks-become-common",
+      "title": "행성 규모 의식 네트워크가 보편화되다",
+      "shortTitle": "행성 규모 의식 네트워크",
+      "category": "AI & Computing",
+      "description": "행성 규모 의식 네트워크가 보편화되다은 지능이 마음, 시뮬레이션, 성간 거리 전반에서 작동할 수 있는 공유형·분산형·기반 유연형 시스템으로 변모하는 모습을 보여준다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2300,
+        "endYear": 2346
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "행성 규모 의식 네트워크가 보편화되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "공유 인지가 대규모 인구 전반에서 안정화된다",
+        "디지털 마음과 AI 시스템이 인정받는 참여자로 작동한다",
+        "컴퓨팅은 도구에서 문명 규모의 지능으로 전환된다"
+      ],
+      "implications": [
+        "문명은 사고 수준의 네트워크를 통해 조율할 수 있다",
+        "과학과 문화는 생물학적 한계를 넘어 가속된다",
+        "정체성은 점점 더 네트워크화되고 다원화된다"
+      ],
+      "image": {
+        "alt": "행성 규모 의식 네트워크가 보편화되다",
+        "prompts": [
+          "planetary-Scale Consciousness Networks Become Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary-Scale Consciousness Networks Become Common, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary-Scale Consciousness Networks Become Common, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary-Scale Consciousness Networks Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-planetary-scale-consciousness-networks-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-planetary-scale-consciousness-networks-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-human-minds-interact-directly-through-shared-thought-spaces",
+      "order": 2,
+      "slug": "human-minds-interact-directly-through-shared-thought-spaces",
+      "title": "인간의 마음이 공유 사고 공간을 통해 직접 상호작용하다",
+      "shortTitle": "인간 마음의 직접 상호작용",
+      "category": "AI & Computing",
+      "description": "인간의 마음이 공유 사고 공간을 통해 직접 상호작용하다은 지능이 마음, 시뮬레이션, 성간 거리 전반에서 작동할 수 있는 공유형·분산형·기반 유연형 시스템으로 변모하는 모습을 보여준다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2314,
+        "endYear": 2360
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "인간의 마음이 공유 사고 공간을 통해 직접 상호작용하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "공유 인지가 대규모 인구 전반에서 안정화된다",
+        "디지털 마음과 AI 시스템이 인정받는 참여자로 작동한다",
+        "컴퓨팅은 도구에서 문명 규모의 지능으로 전환된다"
+      ],
+      "implications": [
+        "문명은 사고 수준의 네트워크를 통해 조율할 수 있다",
+        "과학과 문화는 생물학적 한계를 넘어 가속된다",
+        "정체성은 점점 더 네트워크화되고 다원화된다"
+      ],
+      "image": {
+        "alt": "인간의 마음이 공유 사고 공간을 통해 직접 상호작용하다",
+        "prompts": [
+          "human Minds Interact Directly Through Shared Thought Spaces, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Minds Interact Directly Through Shared Thought Spaces, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Minds Interact Directly Through Shared Thought Spaces, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Minds Interact Directly Through Shared Thought Spaces, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-human-minds-interact-directly-through-shared-thought-spaces.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-human-minds-interact-directly-through-shared-thought-spaces.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-improving-ai-systems-surpass-human-scientific-capacity",
+      "order": 3,
+      "slug": "self-improving-ai-systems-surpass-human-scientific-capacity",
+      "title": "자기 개선형 AI 시스템이 인간의 과학 역량을 넘어서다",
+      "shortTitle": "자기 개선형 AI 시스템의 초월",
+      "category": "AI & Computing",
+      "description": "자기 개선형 AI 시스템이 인간의 과학 역량을 넘어서다은 지능이 마음, 시뮬레이션, 성간 거리 전반에서 작동할 수 있는 공유형·분산형·기반 유연형 시스템으로 변모하는 모습을 보여준다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2328,
+        "endYear": 2374
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "자기 개선형 AI 시스템이 인간의 과학 역량을 넘어서다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "공유 인지가 대규모 인구 전반에서 안정화된다",
+        "디지털 마음과 AI 시스템이 인정받는 참여자로 작동한다",
+        "컴퓨팅은 도구에서 문명 규모의 지능으로 전환된다"
+      ],
+      "implications": [
+        "문명은 사고 수준의 네트워크를 통해 조율할 수 있다",
+        "과학과 문화는 생물학적 한계를 넘어 가속된다",
+        "정체성은 점점 더 네트워크화되고 다원화된다"
+      ],
+      "image": {
+        "alt": "자기 개선형 AI 시스템이 인간의 과학 역량을 넘어서다",
+        "prompts": [
+          "self-Improving AI Systems Surpass Human Scientific Capacity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Improving AI Systems Surpass Human Scientific Capacity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Improving AI Systems Surpass Human Scientific Capacity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Improving AI Systems Surpass Human Scientific Capacity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-digital-civilizations-run-continuously-inside-simulated-universes",
+      "order": 4,
+      "slug": "digital-civilizations-run-continuously-inside-simulated-universes",
+      "title": "디지털 문명이 시뮬레이션 우주 안에서 지속적으로 운영되다",
+      "shortTitle": "디지털 문명의 지속 운영",
+      "category": "AI & Computing",
+      "description": "디지털 문명이 시뮬레이션 우주 안에서 지속적으로 운영되다은 지능이 마음, 시뮬레이션, 성간 거리 전반에서 작동할 수 있는 공유형·분산형·기반 유연형 시스템으로 변모하는 모습을 보여준다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2342,
+        "endYear": 2388
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "디지털 문명이 시뮬레이션 우주 안에서 지속적으로 운영되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "공유 인지가 대규모 인구 전반에서 안정화된다",
+        "디지털 마음과 AI 시스템이 인정받는 참여자로 작동한다",
+        "컴퓨팅은 도구에서 문명 규모의 지능으로 전환된다"
+      ],
+      "implications": [
+        "문명은 사고 수준의 네트워크를 통해 조율할 수 있다",
+        "과학과 문화는 생물학적 한계를 넘어 가속된다",
+        "정체성은 점점 더 네트워크화되고 다원화된다"
+      ],
+      "image": {
+        "alt": "디지털 문명이 시뮬레이션 우주 안에서 지속적으로 운영되다",
+        "prompts": [
+          "digital Civilizations Run Continuously Inside Simulated Universes, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing digital Civilizations Run Continuously Inside Simulated Universes, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of digital Civilizations Run Continuously Inside Simulated Universes, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating digital Civilizations Run Continuously Inside Simulated Universes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-digital-civilizations-run-continuously-inside-simulated-universes.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-digital-civilizations-run-continuously-inside-simulated-universes.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-consciousness-compression-enables-interstellar-information-transfer",
+      "order": 5,
+      "slug": "consciousness-compression-enables-interstellar-information-transfer",
+      "title": "의식 압축이 성간 정보 전송을 가능하게 하다",
+      "shortTitle": "성간 전송을 위한 의식 압축",
+      "category": "AI & Computing",
+      "description": "의식 압축이 성간 정보 전송을 가능하게 하다은 지능이 마음, 시뮬레이션, 성간 거리 전반에서 작동할 수 있는 공유형·분산형·기반 유연형 시스템으로 변모하는 모습을 보여준다.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2356,
+        "endYear": 2402
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "의식 압축이 성간 정보 전송을 가능하게 하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "공유 인지가 대규모 인구 전반에서 안정화된다",
+        "디지털 마음과 AI 시스템이 인정받는 참여자로 작동한다",
+        "컴퓨팅은 도구에서 문명 규모의 지능으로 전환된다"
+      ],
+      "implications": [
+        "문명은 사고 수준의 네트워크를 통해 조율할 수 있다",
+        "과학과 문화는 생물학적 한계를 넘어 가속된다",
+        "정체성은 점점 더 네트워크화되고 다원화된다"
+      ],
+      "image": {
+        "alt": "의식 압축이 성간 정보 전송을 가능하게 하다",
+        "prompts": [
+          "consciousness Compression Enables Interstellar Information Transfer, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Compression Enables Interstellar Information Transfer, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Compression Enables Interstellar Information Transfer, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Compression Enables Interstellar Information Transfer, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-consciousness-compression-enables-interstellar-information-transfer.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-consciousness-compression-enables-interstellar-information-transfer.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-synthetic-bodies-become-more-common-than-biological-bodies",
+      "order": 6,
+      "slug": "synthetic-bodies-become-more-common-than-biological-bodies",
+      "title": "합성 신체가 생물학적 신체보다 더 보편화되다",
+      "shortTitle": "합성 신체의 보편화",
+      "category": "Robotics",
+      "description": "합성 신체가 생물학적 신체보다 더 보편화되다은 기계 신체, 나노로봇, 자율 건설이 물리적 형태가 적응 가능한 인프라가 되는 탈생물학적 문명으로 이동하는 모습을 보여준다.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2370,
+        "endYear": 2416
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "합성 신체가 생물학적 신체보다 더 보편화되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "로봇 시스템은 극한 환경 전반에서 스스로 유지보수한다",
+        "합성 형태는 인간의 재설계 없이 적응한다",
+        "자율 건설자는 거대구조 규모에서 작동한다"
+      ],
+      "implications": [
+        "물리적 확장은 더 이상 생물학적 신체에 의존하지 않는다",
+        "인프라는 항성계 전반에서 지속적으로 성장할 수 있다",
+        "로봇 문명은 도구가 아니라 동료가 된다"
+      ],
+      "image": {
+        "alt": "합성 신체가 생물학적 신체보다 더 보편화되다",
+        "prompts": [
+          "synthetic Bodies Become More Common Than Biological Bodies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic Bodies Become More Common Than Biological Bodies, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic Bodies Become More Common Than Biological Bodies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic Bodies Become More Common Than Biological Bodies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-synthetic-bodies-become-more-common-than-biological-bodies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-synthetic-bodies-become-more-common-than-biological-bodies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-shape-shifting-robotic-forms-adapt-to-any-environment",
+      "order": 7,
+      "slug": "shape-shifting-robotic-forms-adapt-to-any-environment",
+      "title": "형태 변환 로봇 신체가 모든 환경에 적응하다",
+      "shortTitle": "형태 변환 로봇 신체 적응",
+      "category": "Robotics",
+      "description": "형태 변환 로봇 신체가 모든 환경에 적응하다은 기계 신체, 나노로봇, 자율 건설이 물리적 형태가 적응 가능한 인프라가 되는 탈생물학적 문명으로 이동하는 모습을 보여준다.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2384,
+        "endYear": 2430
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "형태 변환 로봇 신체가 모든 환경에 적응하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "로봇 시스템은 극한 환경 전반에서 스스로 유지보수한다",
+        "합성 형태는 인간의 재설계 없이 적응한다",
+        "자율 건설자는 거대구조 규모에서 작동한다"
+      ],
+      "implications": [
+        "물리적 확장은 더 이상 생물학적 신체에 의존하지 않는다",
+        "인프라는 항성계 전반에서 지속적으로 성장할 수 있다",
+        "로봇 문명은 도구가 아니라 동료가 된다"
+      ],
+      "image": {
+        "alt": "형태 변환 로봇 신체가 모든 환경에 적응하다",
+        "prompts": [
+          "shape-Shifting Robotic Forms Adapt To Any Environment, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing shape-Shifting Robotic Forms Adapt To Any Environment, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of shape-Shifting Robotic Forms Adapt To Any Environment, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating shape-Shifting Robotic Forms Adapt To Any Environment, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-autonomous-megastructure-builders-operate-across-star-systems",
+      "order": 8,
+      "slug": "autonomous-megastructure-builders-operate-across-star-systems",
+      "title": "자율 거대구조 건설자가 항성계 전반에서 작동하다",
+      "shortTitle": "자율 거대구조 건설자",
+      "category": "Robotics",
+      "description": "자율 거대구조 건설자가 항성계 전반에서 작동하다은 기계 신체, 나노로봇, 자율 건설이 물리적 형태가 적응 가능한 인프라가 되는 탈생물학적 문명으로 이동하는 모습을 보여준다.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2398,
+        "endYear": 2444
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "자율 거대구조 건설자가 항성계 전반에서 작동하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "로봇 시스템은 극한 환경 전반에서 스스로 유지보수한다",
+        "합성 형태는 인간의 재설계 없이 적응한다",
+        "자율 건설자는 거대구조 규모에서 작동한다"
+      ],
+      "implications": [
+        "물리적 확장은 더 이상 생물학적 신체에 의존하지 않는다",
+        "인프라는 항성계 전반에서 지속적으로 성장할 수 있다",
+        "로봇 문명은 도구가 아니라 동료가 된다"
+      ],
+      "image": {
+        "alt": "자율 거대구조 건설자가 항성계 전반에서 작동하다",
+        "prompts": [
+          "autonomous Megastructure Builders Operate Across Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Megastructure Builders Operate Across Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Megastructure Builders Operate Across Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Megastructure Builders Operate Across Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-autonomous-megastructure-builders-operate-across-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-autonomous-megastructure-builders-operate-across-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure",
+      "order": 9,
+      "slug": "nanorobot-swarms-perform-continuous-self-repair-of-infrastructure",
+      "title": "나노로봇 군집이 인프라를 지속적으로 자가 수리하다",
+      "shortTitle": "나노로봇 군집의 지속 수리",
+      "category": "Robotics",
+      "description": "나노로봇 군집이 인프라를 지속적으로 자가 수리하다은 기계 신체, 나노로봇, 자율 건설이 물리적 형태가 적응 가능한 인프라가 되는 탈생물학적 문명으로 이동하는 모습을 보여준다.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2412,
+        "endYear": 2458
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "나노로봇 군집이 인프라를 지속적으로 자가 수리하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "로봇 시스템은 극한 환경 전반에서 스스로 유지보수한다",
+        "합성 형태는 인간의 재설계 없이 적응한다",
+        "자율 건설자는 거대구조 규모에서 작동한다"
+      ],
+      "implications": [
+        "물리적 확장은 더 이상 생물학적 신체에 의존하지 않는다",
+        "인프라는 항성계 전반에서 지속적으로 성장할 수 있다",
+        "로봇 문명은 도구가 아니라 동료가 된다"
+      ],
+      "image": {
+        "alt": "나노로봇 군집이 인프라를 지속적으로 자가 수리하다",
+        "prompts": [
+          "nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-replicating-construction-systems-expand-without-human-oversight",
+      "order": 10,
+      "slug": "self-replicating-construction-systems-expand-without-human-oversight",
+      "title": "자기 복제 건설 시스템이 인간 감독 없이 확장되다",
+      "shortTitle": "자기 복제 건설 시스템 확장",
+      "category": "Robotics",
+      "description": "자기 복제 건설 시스템이 인간 감독 없이 확장되다은 기계 신체, 나노로봇, 자율 건설이 물리적 형태가 적응 가능한 인프라가 되는 탈생물학적 문명으로 이동하는 모습을 보여준다.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2426,
+        "endYear": 2472
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "자기 복제 건설 시스템이 인간 감독 없이 확장되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "로봇 시스템은 극한 환경 전반에서 스스로 유지보수한다",
+        "합성 형태는 인간의 재설계 없이 적응한다",
+        "자율 건설자는 거대구조 규모에서 작동한다"
+      ],
+      "implications": [
+        "물리적 확장은 더 이상 생물학적 신체에 의존하지 않는다",
+        "인프라는 항성계 전반에서 지속적으로 성장할 수 있다",
+        "로봇 문명은 도구가 아니라 동료가 된다"
+      ],
+      "image": {
+        "alt": "자기 복제 건설 시스템이 인간 감독 없이 확장되다",
+        "prompts": [
+          "self-Replicating Construction Systems Expand Without Human Oversight, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Replicating Construction Systems Expand Without Human Oversight, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Replicating Construction Systems Expand Without Human Oversight, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Replicating Construction Systems Expand Without Human Oversight, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-replicating-construction-systems-expand-without-human-oversight.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-replicating-construction-systems-expand-without-human-oversight.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-matter-energy-conversion-becomes-commercially-practical",
+      "order": 11,
+      "slug": "matter-energy-conversion-becomes-commercially-practical",
+      "title": "물질-에너지 변환이 상업적으로 실용화되다",
+      "shortTitle": "물질-에너지 변환 실용화",
+      "category": "Energy",
+      "description": "물질-에너지 변환이 상업적으로 실용화되다은 극한 에너지 물리학을 탈생물학적 문명, 거대구조, 은하 규모 운영을 위한 일상적 인프라로 전환한다.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2440,
+        "endYear": 2486
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "물질-에너지 변환이 상업적으로 실용화되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "에너지 시스템은 거의 완전한 효율에 접근한다",
+        "항성 및 항성 이후 자원은 공학적으로 활용되는 자원이 된다",
+        "전력 네트워크는 성단과 심우주까지 확장된다"
+      ],
+      "implications": [
+        "문명 규모에서 에너지 희소성은 의미를 잃는다",
+        "거대구조와 인공 세계가 지속 가능해진다",
+        "문명은 우주적 시간 규모에 걸친 회복력을 얻는다"
+      ],
+      "image": {
+        "alt": "물질-에너지 변환이 상업적으로 실용화되다",
+        "prompts": [
+          "matter-Energy Conversion Becomes Commercially Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter-Energy Conversion Becomes Commercially Practical, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter-Energy Conversion Becomes Commercially Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter-Energy Conversion Becomes Commercially Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-matter-energy-conversion-becomes-commercially-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-matter-energy-conversion-becomes-commercially-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-zero-entropy-energy-recycling-eliminates-energy-waste",
+      "order": 12,
+      "slug": "zero-entropy-energy-recycling-eliminates-energy-waste",
+      "title": "제로 엔트로피 에너지 재활용이 에너지 낭비를 없애다",
+      "shortTitle": "제로 엔트로피 에너지 재활용",
+      "category": "Energy",
+      "description": "제로 엔트로피 에너지 재활용이 에너지 낭비를 없애다은 극한 에너지 물리학을 탈생물학적 문명, 거대구조, 은하 규모 운영을 위한 일상적 인프라로 전환한다.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2454,
+        "endYear": 2500
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "제로 엔트로피 에너지 재활용이 에너지 낭비를 없애다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "에너지 시스템은 거의 완전한 효율에 접근한다",
+        "항성 및 항성 이후 자원은 공학적으로 활용되는 자원이 된다",
+        "전력 네트워크는 성단과 심우주까지 확장된다"
+      ],
+      "implications": [
+        "문명 규모에서 에너지 희소성은 의미를 잃는다",
+        "거대구조와 인공 세계가 지속 가능해진다",
+        "문명은 우주적 시간 규모에 걸친 회복력을 얻는다"
+      ],
+      "image": {
+        "alt": "제로 엔트로피 에너지 재활용이 에너지 낭비를 없애다",
+        "prompts": [
+          "zero-Entropy Energy Recycling Eliminates Energy Waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing zero-Entropy Energy Recycling Eliminates Energy Waste, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of zero-Entropy Energy Recycling Eliminates Energy Waste, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating zero-Entropy Energy Recycling Eliminates Energy Waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-artificial-micro-stars-provide-unlimited-local-energy",
+      "order": 13,
+      "slug": "artificial-micro-stars-provide-unlimited-local-energy",
+      "title": "인공 마이크로 항성이 무제한 지역 에너지를 제공하다",
+      "shortTitle": "인공 마이크로 항성 에너지",
+      "category": "Energy",
+      "description": "인공 마이크로 항성이 무제한 지역 에너지를 제공하다은 극한 에너지 물리학을 탈생물학적 문명, 거대구조, 은하 규모 운영을 위한 일상적 인프라로 전환한다.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2468,
+        "endYear": 2514
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "인공 마이크로 항성이 무제한 지역 에너지를 제공하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "에너지 시스템은 거의 완전한 효율에 접근한다",
+        "항성 및 항성 이후 자원은 공학적으로 활용되는 자원이 된다",
+        "전력 네트워크는 성단과 심우주까지 확장된다"
+      ],
+      "implications": [
+        "문명 규모에서 에너지 희소성은 의미를 잃는다",
+        "거대구조와 인공 세계가 지속 가능해진다",
+        "문명은 우주적 시간 규모에 걸친 회복력을 얻는다"
+      ],
+      "image": {
+        "alt": "인공 마이크로 항성이 무제한 지역 에너지를 제공하다",
+        "prompts": [
+          "artificial Micro-Stars Provide Unlimited Local Energy, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Micro-Stars Provide Unlimited Local Energy, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Micro-Stars Provide Unlimited Local Energy, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Micro-Stars Provide Unlimited Local Energy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-artificial-micro-stars-provide-unlimited-local-energy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-artificial-micro-stars-provide-unlimited-local-energy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-stellar-remnants-become-major-energy-sources",
+      "order": 14,
+      "slug": "stellar-remnants-become-major-energy-sources",
+      "title": "항성 잔해가 주요 에너지원이 되다",
+      "shortTitle": "항성 잔해 주요 에너지원",
+      "category": "Energy",
+      "description": "항성 잔해가 주요 에너지원이 되다은 극한 에너지 물리학을 탈생물학적 문명, 거대구조, 은하 규모 운영을 위한 일상적 인프라로 전환한다.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2482,
+        "endYear": 2528
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "항성 잔해가 주요 에너지원이 되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "에너지 시스템은 거의 완전한 효율에 접근한다",
+        "항성 및 항성 이후 자원은 공학적으로 활용되는 자원이 된다",
+        "전력 네트워크는 성단과 심우주까지 확장된다"
+      ],
+      "implications": [
+        "문명 규모에서 에너지 희소성은 의미를 잃는다",
+        "거대구조와 인공 세계가 지속 가능해진다",
+        "문명은 우주적 시간 규모에 걸친 회복력을 얻는다"
+      ],
+      "image": {
+        "alt": "항성 잔해가 주요 에너지원이 되다",
+        "prompts": [
+          "stellar Remnants Become Major Energy Sources, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Remnants Become Major Energy Sources, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Remnants Become Major Energy Sources, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Remnants Become Major Energy Sources, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-stellar-remnants-become-major-energy-sources.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-stellar-remnants-become-major-energy-sources.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-galaxy-scale-energy-distribution-networks-begin-operation",
+      "order": 15,
+      "slug": "galaxy-scale-energy-distribution-networks-begin-operation",
+      "title": "은하 규모 에너지 분배 네트워크가 운영을 시작하다",
+      "shortTitle": "은하 규모 에너지 분배망",
+      "category": "Energy",
+      "description": "은하 규모 에너지 분배 네트워크가 운영을 시작하다은 극한 에너지 물리학을 탈생물학적 문명, 거대구조, 은하 규모 운영을 위한 일상적 인프라로 전환한다.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2496,
+        "endYear": 2542
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "은하 규모 에너지 분배 네트워크가 운영을 시작하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "에너지 시스템은 거의 완전한 효율에 접근한다",
+        "항성 및 항성 이후 자원은 공학적으로 활용되는 자원이 된다",
+        "전력 네트워크는 성단과 심우주까지 확장된다"
+      ],
+      "implications": [
+        "문명 규모에서 에너지 희소성은 의미를 잃는다",
+        "거대구조와 인공 세계가 지속 가능해진다",
+        "문명은 우주적 시간 규모에 걸친 회복력을 얻는다"
+      ],
+      "image": {
+        "alt": "은하 규모 에너지 분배 네트워크가 운영을 시작하다",
+        "prompts": [
+          "galaxy-Scale Energy Distribution Networks Begin Operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Scale Energy Distribution Networks Begin Operation, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Scale Energy Distribution Networks Begin Operation, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Scale Energy Distribution Networks Begin Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-galaxy-scale-energy-distribution-networks-begin-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-galaxy-scale-energy-distribution-networks-begin-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-occupies-thousands-of-star-systems",
+      "order": 16,
+      "slug": "humanity-occupies-thousands-of-star-systems",
+      "title": "인류가 수천 개 항성계를 점유하다",
+      "shortTitle": "수천 개 항성계 점유",
+      "category": "Space",
+      "description": "인류가 수천 개 항성계를 점유하다은 문명이 수천 개 항성계, 인공 행성, 항성 엔진, 그리고 자연 세계 밖에서 주로 살아가는 인구로 확장되는 모습을 보여준다.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2510,
+        "endYear": 2556
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "인류가 수천 개 항성계를 점유하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "많은 인구가 행성 표면을 벗어나 살아간다",
+        "인공 세계와 항성계 공학이 실현 가능해진다",
+        "탐사는 은하 및 은하간 경계를 넘어선다"
+      ],
+      "implications": [
+        "인류는 더 이상 어떤 단일 항성계에도 묶이지 않는다",
+        "우주 자체가 문명의 일상적 거주지가 된다",
+        "우주 규모 정착은 정체성과 거버넌스를 변화시킨다"
+      ],
+      "image": {
+        "alt": "인류가 수천 개 항성계를 점유하다",
+        "prompts": [
+          "humanity Occupies Thousands Of Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Occupies Thousands Of Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Occupies Thousands Of Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Occupies Thousands Of Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-occupies-thousands-of-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-occupies-thousands-of-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-first-artificial-planet-is-constructed",
+      "order": 17,
+      "slug": "first-artificial-planet-is-constructed",
+      "title": "첫 인공 행성이 건설되다",
+      "shortTitle": "인공 행성 건설",
+      "category": "Space",
+      "description": "첫 인공 행성이 건설되다은 문명이 수천 개 항성계, 인공 행성, 항성 엔진, 그리고 자연 세계 밖에서 주로 살아가는 인구로 확장되는 모습을 보여준다.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2524,
+        "endYear": 2570
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "첫 인공 행성이 건설되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "많은 인구가 행성 표면을 벗어나 살아간다",
+        "인공 세계와 항성계 공학이 실현 가능해진다",
+        "탐사는 은하 및 은하간 경계를 넘어선다"
+      ],
+      "implications": [
+        "인류는 더 이상 어떤 단일 항성계에도 묶이지 않는다",
+        "우주 자체가 문명의 일상적 거주지가 된다",
+        "우주 규모 정착은 정체성과 거버넌스를 변화시킨다"
+      ],
+      "image": {
+        "alt": "첫 인공 행성이 건설되다",
+        "prompts": [
+          "first Artificial Planet Is Constructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Artificial Planet Is Constructed, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Artificial Planet Is Constructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Artificial Planet Is Constructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-first-artificial-planet-is-constructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-first-artificial-planet-is-constructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-intergalactic-exploration-probes-leave-the-milky-way",
+      "order": 18,
+      "slug": "intergalactic-exploration-probes-leave-the-milky-way",
+      "title": "은하간 탐사선이 은하수를 떠나다",
+      "shortTitle": "은하간 탐사선 이탈",
+      "category": "Space",
+      "description": "은하간 탐사선이 은하수를 떠나다은 문명이 수천 개 항성계, 인공 행성, 항성 엔진, 그리고 자연 세계 밖에서 주로 살아가는 인구로 확장되는 모습을 보여준다.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2538,
+        "endYear": 2584
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "은하간 탐사선이 은하수를 떠나다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "많은 인구가 행성 표면을 벗어나 살아간다",
+        "인공 세계와 항성계 공학이 실현 가능해진다",
+        "탐사는 은하 및 은하간 경계를 넘어선다"
+      ],
+      "implications": [
+        "인류는 더 이상 어떤 단일 항성계에도 묶이지 않는다",
+        "우주 자체가 문명의 일상적 거주지가 된다",
+        "우주 규모 정착은 정체성과 거버넌스를 변화시킨다"
+      ],
+      "image": {
+        "alt": "은하간 탐사선이 은하수를 떠나다",
+        "prompts": [
+          "intergalactic Exploration Probes Leave The Milky Way, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing intergalactic Exploration Probes Leave The Milky Way, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of intergalactic Exploration Probes Leave The Milky Way, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating intergalactic Exploration Probes Leave The Milky Way, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-intergalactic-exploration-probes-leave-the-milky-way.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-intergalactic-exploration-probes-leave-the-milky-way.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-stellar-engines-begin-moving-entire-star-systems",
+      "order": 19,
+      "slug": "stellar-engines-begin-moving-entire-star-systems",
+      "title": "항성 엔진이 전체 항성계를 이동시키기 시작하다",
+      "shortTitle": "항성 엔진의 항성계 이동",
+      "category": "Space",
+      "description": "항성 엔진이 전체 항성계를 이동시키기 시작하다은 문명이 수천 개 항성계, 인공 행성, 항성 엔진, 그리고 자연 세계 밖에서 주로 살아가는 인구로 확장되는 모습을 보여준다.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2552,
+        "endYear": 2598
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "항성 엔진이 전체 항성계를 이동시키기 시작하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "많은 인구가 행성 표면을 벗어나 살아간다",
+        "인공 세계와 항성계 공학이 실현 가능해진다",
+        "탐사는 은하 및 은하간 경계를 넘어선다"
+      ],
+      "implications": [
+        "인류는 더 이상 어떤 단일 항성계에도 묶이지 않는다",
+        "우주 자체가 문명의 일상적 거주지가 된다",
+        "우주 규모 정착은 정체성과 거버넌스를 변화시킨다"
+      ],
+      "image": {
+        "alt": "항성 엔진이 전체 항성계를 이동시키기 시작하다",
+        "prompts": [
+          "stellar Engines Begin Moving Entire Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Engines Begin Moving Entire Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Engines Begin Moving Entire Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Engines Begin Moving Entire Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-stellar-engines-begin-moving-entire-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-stellar-engines-begin-moving-entire-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-population-living-in-space-exceeds-population-living-on-planets",
+      "order": 20,
+      "slug": "population-living-in-space-exceeds-population-living-on-planets",
+      "title": "우주 거주 인구가 행성 거주 인구를 넘어서다",
+      "shortTitle": "우주 거주 인구 초과",
+      "category": "Space",
+      "description": "우주 거주 인구가 행성 거주 인구를 넘어서다은 문명이 수천 개 항성계, 인공 행성, 항성 엔진, 그리고 자연 세계 밖에서 주로 살아가는 인구로 확장되는 모습을 보여준다.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2566,
+        "endYear": 2612
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "우주 거주 인구가 행성 거주 인구를 넘어서다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "많은 인구가 행성 표면을 벗어나 살아간다",
+        "인공 세계와 항성계 공학이 실현 가능해진다",
+        "탐사는 은하 및 은하간 경계를 넘어선다"
+      ],
+      "implications": [
+        "인류는 더 이상 어떤 단일 항성계에도 묶이지 않는다",
+        "우주 자체가 문명의 일상적 거주지가 된다",
+        "우주 규모 정착은 정체성과 거버넌스를 변화시킨다"
+      ],
+      "image": {
+        "alt": "우주 거주 인구가 행성 거주 인구를 넘어서다",
+        "prompts": [
+          "population Living In Space Exceeds Population Living On Planets, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing population Living In Space Exceeds Population Living On Planets, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of population Living In Space Exceeds Population Living On Planets, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating population Living In Space Exceeds Population Living On Planets, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-population-living-in-space-exceeds-population-living-on-planets.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-population-living-in-space-exceeds-population-living-on-planets.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-death-becomes-mostly-optional",
+      "order": 21,
+      "slug": "death-becomes-mostly-optional",
+      "title": "죽음이 대부분 선택 가능한 일이 되다",
+      "shortTitle": "죽음의 선택 가능화",
+      "category": "Biology & Medicine",
+      "description": "죽음이 대부분 선택 가능한 일이 되다은 복원, 신체 교체, 의식 전송, 급진적 장수를 통해 정체성과 연속성을 취약한 생물학적 신체로부터 분리한다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2580,
+        "endYear": 2626
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "죽음이 대부분 선택 가능한 일이 되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "의식 연속성이 임상적·법적으로 측정 가능해진다",
+        "신체는 교체 가능하거나 선택 사항이 된다",
+        "기억과 생물학은 설계 공간으로 관리된다"
+      ],
+      "implications": [
+        "죽음은 불가피한 일이 아니라 협상 가능한 일이 된다",
+        "종의 경계는 덜 경직된다",
+        "윤리는 연속성, 복제, 정체성을 둘러싸고 확장되어야 한다"
+      ],
+      "image": {
+        "alt": "죽음이 대부분 선택 가능한 일이 되다",
+        "prompts": [
+          "death Becomes Mostly Optional, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing death Becomes Mostly Optional, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of death Becomes Mostly Optional, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating death Becomes Mostly Optional, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-death-becomes-mostly-optional.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-death-becomes-mostly-optional.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-death-becomes-mostly-optional.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-death-becomes-mostly-optional.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-death-becomes-mostly-optional.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-memory-restoration-reconstructs-lost-experiences",
+      "order": 22,
+      "slug": "memory-restoration-reconstructs-lost-experiences",
+      "title": "기억 복원이 잃어버린 경험을 재구성하다",
+      "shortTitle": "기억 복원의 경험 재구성",
+      "category": "Biology & Medicine",
+      "description": "기억 복원이 잃어버린 경험을 재구성하다은 복원, 신체 교체, 의식 전송, 급진적 장수를 통해 정체성과 연속성을 취약한 생물학적 신체로부터 분리한다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2594,
+        "endYear": 2640
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "기억 복원이 잃어버린 경험을 재구성하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "의식 연속성이 임상적·법적으로 측정 가능해진다",
+        "신체는 교체 가능하거나 선택 사항이 된다",
+        "기억과 생물학은 설계 공간으로 관리된다"
+      ],
+      "implications": [
+        "죽음은 불가피한 일이 아니라 협상 가능한 일이 된다",
+        "종의 경계는 덜 경직된다",
+        "윤리는 연속성, 복제, 정체성을 둘러싸고 확장되어야 한다"
+      ],
+      "image": {
+        "alt": "기억 복원이 잃어버린 경험을 재구성하다",
+        "prompts": [
+          "memory Restoration Reconstructs Lost Experiences, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing memory Restoration Reconstructs Lost Experiences, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of memory Restoration Reconstructs Lost Experiences, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating memory Restoration Reconstructs Lost Experiences, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-memory-restoration-reconstructs-lost-experiences.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-memory-restoration-reconstructs-lost-experiences.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-biological-bodies-become-fully-replaceable",
+      "order": 23,
+      "slug": "biological-bodies-become-fully-replaceable",
+      "title": "생물학적 신체가 완전히 교체 가능해지다",
+      "shortTitle": "생물학적 신체 교체 가능",
+      "category": "Biology & Medicine",
+      "description": "생물학적 신체가 완전히 교체 가능해지다은 복원, 신체 교체, 의식 전송, 급진적 장수를 통해 정체성과 연속성을 취약한 생물학적 신체로부터 분리한다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2608,
+        "endYear": 2654
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "생물학적 신체가 완전히 교체 가능해지다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "의식 연속성이 임상적·법적으로 측정 가능해진다",
+        "신체는 교체 가능하거나 선택 사항이 된다",
+        "기억과 생물학은 설계 공간으로 관리된다"
+      ],
+      "implications": [
+        "죽음은 불가피한 일이 아니라 협상 가능한 일이 된다",
+        "종의 경계는 덜 경직된다",
+        "윤리는 연속성, 복제, 정체성을 둘러싸고 확장되어야 한다"
+      ],
+      "image": {
+        "alt": "생물학적 신체가 완전히 교체 가능해지다",
+        "prompts": [
+          "biological Bodies Become Fully Replaceable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Bodies Become Fully Replaceable, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Bodies Become Fully Replaceable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Bodies Become Fully Replaceable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-biological-bodies-become-fully-replaceable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-biological-bodies-become-fully-replaceable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-consciousness-transfer-between-bodies-becomes-routine",
+      "order": 24,
+      "slug": "consciousness-transfer-between-bodies-becomes-routine",
+      "title": "신체 간 의식 전송이 일상화되다",
+      "shortTitle": "신체 간 의식 전송",
+      "category": "Biology & Medicine",
+      "description": "신체 간 의식 전송이 일상화되다은 복원, 신체 교체, 의식 전송, 급진적 장수를 통해 정체성과 연속성을 취약한 생물학적 신체로부터 분리한다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2622,
+        "endYear": 2668
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "신체 간 의식 전송이 일상화되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "의식 연속성이 임상적·법적으로 측정 가능해진다",
+        "신체는 교체 가능하거나 선택 사항이 된다",
+        "기억과 생물학은 설계 공간으로 관리된다"
+      ],
+      "implications": [
+        "죽음은 불가피한 일이 아니라 협상 가능한 일이 된다",
+        "종의 경계는 덜 경직된다",
+        "윤리는 연속성, 복제, 정체성을 둘러싸고 확장되어야 한다"
+      ],
+      "image": {
+        "alt": "신체 간 의식 전송이 일상화되다",
+        "prompts": [
+          "consciousness Transfer Between Bodies Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Transfer Between Bodies Becomes Routine, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Transfer Between Bodies Becomes Routine, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Transfer Between Bodies Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-consciousness-transfer-between-bodies-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-consciousness-transfer-between-bodies-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-lifespans-extend-beyond-ten-thousand-years",
+      "order": 25,
+      "slug": "lifespans-extend-beyond-ten-thousand-years",
+      "title": "수명이 1만 년을 넘어서다",
+      "shortTitle": "1만 년 이상의 수명",
+      "category": "Biology & Medicine",
+      "description": "수명이 1만 년을 넘어서다은 복원, 신체 교체, 의식 전송, 급진적 장수를 통해 정체성과 연속성을 취약한 생물학적 신체로부터 분리한다.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2636,
+        "endYear": 2682
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "수명이 1만 년을 넘어서다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "의식 연속성이 임상적·법적으로 측정 가능해진다",
+        "신체는 교체 가능하거나 선택 사항이 된다",
+        "기억과 생물학은 설계 공간으로 관리된다"
+      ],
+      "implications": [
+        "죽음은 불가피한 일이 아니라 협상 가능한 일이 된다",
+        "종의 경계는 덜 경직된다",
+        "윤리는 연속성, 복제, 정체성을 둘러싸고 확장되어야 한다"
+      ],
+      "image": {
+        "alt": "수명이 1만 년을 넘어서다",
+        "prompts": [
+          "lifespans Extend Beyond Ten Thousand Years, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lifespans Extend Beyond Ten Thousand Years, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lifespans Extend Beyond Ten Thousand Years, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lifespans Extend Beyond Ten Thousand Years, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-lifespans-extend-beyond-ten-thousand-years.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-lifespans-extend-beyond-ten-thousand-years.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-practical-wormhole-gateways-enable-instant-interstellar-travel",
+      "order": 26,
+      "slug": "practical-wormhole-gateways-enable-instant-interstellar-travel",
+      "title": "실용적 웜홀 관문이 즉각적 성간 여행을 가능하게 하다",
+      "shortTitle": "실용적 웜홀 관문",
+      "category": "Physics",
+      "description": "실용적 웜홀 관문이 즉각적 성간 여행을 가능하게 하다은 시공간, 암흑물질, 양자중력, 웜홀을 실용적인 공학 영역으로 전환한다.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2650,
+        "endYear": 2696
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "실용적 웜홀 관문이 즉각적 성간 여행을 가능하게 하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "기초 물리학이 작동 가능한 기술을 만들어낸다",
+        "시공간 조작이 반복 가능해진다",
+        "우주 규모 관측이 실험 시스템이 된다"
+      ],
+      "implications": [
+        "여행, 저장, 계산은 새로운 물리적 기반을 얻는다",
+        "문명은 현실 자체를 공학적으로 다루기 시작한다",
+        "우주 규모 생존에 대한 질문이 실용적 과제가 된다"
+      ],
+      "image": {
+        "alt": "실용적 웜홀 관문이 즉각적 성간 여행을 가능하게 하다",
+        "prompts": [
+          "practical Wormhole Gateways Enable Instant Interstellar Travel, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing practical Wormhole Gateways Enable Instant Interstellar Travel, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of practical Wormhole Gateways Enable Instant Interstellar Travel, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating practical Wormhole Gateways Enable Instant Interstellar Travel, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-dark-matter-is-manipulated-for-engineering-applications",
+      "order": 27,
+      "slug": "dark-matter-is-manipulated-for-engineering-applications",
+      "title": "암흑물질이 공학 응용을 위해 조작되다",
+      "shortTitle": "암흑물질 공학 조작",
+      "category": "Physics",
+      "description": "암흑물질이 공학 응용을 위해 조작되다은 시공간, 암흑물질, 양자중력, 웜홀을 실용적인 공학 영역으로 전환한다.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2664,
+        "endYear": 2710
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "암흑물질이 공학 응용을 위해 조작되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "기초 물리학이 작동 가능한 기술을 만들어낸다",
+        "시공간 조작이 반복 가능해진다",
+        "우주 규모 관측이 실험 시스템이 된다"
+      ],
+      "implications": [
+        "여행, 저장, 계산은 새로운 물리적 기반을 얻는다",
+        "문명은 현실 자체를 공학적으로 다루기 시작한다",
+        "우주 규모 생존에 대한 질문이 실용적 과제가 된다"
+      ],
+      "image": {
+        "alt": "암흑물질이 공학 응용을 위해 조작되다",
+        "prompts": [
+          "dark Matter Is Manipulated For Engineering Applications, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Matter Is Manipulated For Engineering Applications, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Matter Is Manipulated For Engineering Applications, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Matter Is Manipulated For Engineering Applications, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-dark-matter-is-manipulated-for-engineering-applications.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-dark-matter-is-manipulated-for-engineering-applications.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-quantum-gravity-theory-is-experimentally-confirmed",
+      "order": 28,
+      "slug": "quantum-gravity-theory-is-experimentally-confirmed",
+      "title": "양자중력 이론이 실험적으로 확인되다",
+      "shortTitle": "양자중력 이론 확인",
+      "category": "Physics",
+      "description": "양자중력 이론이 실험적으로 확인되다은 시공간, 암흑물질, 양자중력, 웜홀을 실용적인 공학 영역으로 전환한다.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2678,
+        "endYear": 2724
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "양자중력 이론이 실험적으로 확인되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "기초 물리학이 작동 가능한 기술을 만들어낸다",
+        "시공간 조작이 반복 가능해진다",
+        "우주 규모 관측이 실험 시스템이 된다"
+      ],
+      "implications": [
+        "여행, 저장, 계산은 새로운 물리적 기반을 얻는다",
+        "문명은 현실 자체를 공학적으로 다루기 시작한다",
+        "우주 규모 생존에 대한 질문이 실용적 과제가 된다"
+      ],
+      "image": {
+        "alt": "양자중력 이론이 실험적으로 확인되다",
+        "prompts": [
+          "quantum Gravity Theory Is Experimentally Confirmed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Gravity Theory Is Experimentally Confirmed, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Gravity Theory Is Experimentally Confirmed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Gravity Theory Is Experimentally Confirmed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-quantum-gravity-theory-is-experimentally-confirmed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-quantum-gravity-theory-is-experimentally-confirmed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-time-dilation-engineering-enables-extreme-time-management",
+      "order": 29,
+      "slug": "time-dilation-engineering-enables-extreme-time-management",
+      "title": "시간 지연 공학이 극한의 시간 관리를 가능하게 하다",
+      "shortTitle": "시간 지연 공학",
+      "category": "Physics",
+      "description": "시간 지연 공학이 극한의 시간 관리를 가능하게 하다은 시공간, 암흑물질, 양자중력, 웜홀을 실용적인 공학 영역으로 전환한다.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2692,
+        "endYear": 2738
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "시간 지연 공학이 극한의 시간 관리를 가능하게 하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "기초 물리학이 작동 가능한 기술을 만들어낸다",
+        "시공간 조작이 반복 가능해진다",
+        "우주 규모 관측이 실험 시스템이 된다"
+      ],
+      "implications": [
+        "여행, 저장, 계산은 새로운 물리적 기반을 얻는다",
+        "문명은 현실 자체를 공학적으로 다루기 시작한다",
+        "우주 규모 생존에 대한 질문이 실용적 과제가 된다"
+      ],
+      "image": {
+        "alt": "시간 지연 공학이 극한의 시간 관리를 가능하게 하다",
+        "prompts": [
+          "time Dilation Engineering Enables Extreme Time Management, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing time Dilation Engineering Enables Extreme Time Management, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of time Dilation Engineering Enables Extreme Time Management, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating time Dilation Engineering Enables Extreme Time Management, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-time-dilation-engineering-enables-extreme-time-management.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-time-dilation-engineering-enables-extreme-time-management.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-space-time-curvature-control-becomes-practical",
+      "order": 30,
+      "slug": "space-time-curvature-control-becomes-practical",
+      "title": "시공간 곡률 제어가 실용화되다",
+      "shortTitle": "시공간 곡률 제어",
+      "category": "Physics",
+      "description": "시공간 곡률 제어가 실용화되다은 시공간, 암흑물질, 양자중력, 웜홀을 실용적인 공학 영역으로 전환한다.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2706,
+        "endYear": 2752
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "시공간 곡률 제어가 실용화되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "기초 물리학이 작동 가능한 기술을 만들어낸다",
+        "시공간 조작이 반복 가능해진다",
+        "우주 규모 관측이 실험 시스템이 된다"
+      ],
+      "implications": [
+        "여행, 저장, 계산은 새로운 물리적 기반을 얻는다",
+        "문명은 현실 자체를 공학적으로 다루기 시작한다",
+        "우주 규모 생존에 대한 질문이 실용적 과제가 된다"
+      ],
+      "image": {
+        "alt": "시공간 곡률 제어가 실용화되다",
+        "prompts": [
+          "space-Time Curvature Control Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Time Curvature Control Becomes Practical, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Time Curvature Control Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Time Curvature Control Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-space-time-curvature-control-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-space-time-curvature-control-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-atomic-level-manufacturing-replaces-industrial-production",
+      "order": 31,
+      "slug": "atomic-level-manufacturing-replaces-industrial-production",
+      "title": "원자 수준 제조가 산업 생산을 대체하다",
+      "shortTitle": "원자 수준 제조",
+      "category": "Materials & Manufacturing",
+      "description": "원자 수준 제조가 산업 생산을 대체하다은 산업 생산을 원자 수준 건설, 보편적 프로그래머블 물질, 살아 있는 공학 소재로 대체한다.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2720,
+        "endYear": 2766
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "원자 수준 제조가 산업 생산을 대체하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "원자 정밀도가 일반적인 제조 방식이 된다",
+        "자가 조립 서식지는 전통적 공장 없이 성장한다",
+        "물질 재구성은 많은 공급망을 제거한다"
+      ],
+      "implications": [
+        "물질 희소성은 대부분 사라진다",
+        "도시와 서식지는 성장하거나 재조립될 수 있다",
+        "물질, 기계, 유기체의 경계가 흐려진다"
+      ],
+      "image": {
+        "alt": "원자 수준 제조가 산업 생산을 대체하다",
+        "prompts": [
+          "atomic-Level Manufacturing Replaces Industrial Production, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing atomic-Level Manufacturing Replaces Industrial Production, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of atomic-Level Manufacturing Replaces Industrial Production, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating atomic-Level Manufacturing Replaces Industrial Production, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-atomic-level-manufacturing-replaces-industrial-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-atomic-level-manufacturing-replaces-industrial-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-programmable-matter-becomes-a-universal-construction-medium",
+      "order": 32,
+      "slug": "programmable-matter-becomes-a-universal-construction-medium",
+      "title": "프로그래머블 물질이 보편적 건설 매체가 되다",
+      "shortTitle": "프로그래머블 물질 건설 매체",
+      "category": "Materials & Manufacturing",
+      "description": "프로그래머블 물질이 보편적 건설 매체가 되다은 산업 생산을 원자 수준 건설, 보편적 프로그래머블 물질, 살아 있는 공학 소재로 대체한다.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2734,
+        "endYear": 2780
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "프로그래머블 물질이 보편적 건설 매체가 되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "원자 정밀도가 일반적인 제조 방식이 된다",
+        "자가 조립 서식지는 전통적 공장 없이 성장한다",
+        "물질 재구성은 많은 공급망을 제거한다"
+      ],
+      "implications": [
+        "물질 희소성은 대부분 사라진다",
+        "도시와 서식지는 성장하거나 재조립될 수 있다",
+        "물질, 기계, 유기체의 경계가 흐려진다"
+      ],
+      "image": {
+        "alt": "프로그래머블 물질이 보편적 건설 매체가 되다",
+        "prompts": [
+          "programmable Matter Becomes A Universal Construction Medium, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Becomes A Universal Construction Medium, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Becomes A Universal Construction Medium, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Becomes A Universal Construction Medium, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-programmable-matter-becomes-a-universal-construction-medium.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-programmable-matter-becomes-a-universal-construction-medium.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-assembling-habitats-build-entire-cities-automatically",
+      "order": 33,
+      "slug": "self-assembling-habitats-build-entire-cities-automatically",
+      "title": "자가 조립 서식지가 도시 전체를 자동으로 건설하다",
+      "shortTitle": "자가 조립 서식지 도시 건설",
+      "category": "Materials & Manufacturing",
+      "description": "자가 조립 서식지가 도시 전체를 자동으로 건설하다은 산업 생산을 원자 수준 건설, 보편적 프로그래머블 물질, 살아 있는 공학 소재로 대체한다.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2748,
+        "endYear": 2794
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "자가 조립 서식지가 도시 전체를 자동으로 건설하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "원자 정밀도가 일반적인 제조 방식이 된다",
+        "자가 조립 서식지는 전통적 공장 없이 성장한다",
+        "물질 재구성은 많은 공급망을 제거한다"
+      ],
+      "implications": [
+        "물질 희소성은 대부분 사라진다",
+        "도시와 서식지는 성장하거나 재조립될 수 있다",
+        "물질, 기계, 유기체의 경계가 흐려진다"
+      ],
+      "image": {
+        "alt": "자가 조립 서식지가 도시 전체를 자동으로 건설하다",
+        "prompts": [
+          "self-Assembling Habitats Build Entire Cities Automatically, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Assembling Habitats Build Entire Cities Automatically, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Assembling Habitats Build Entire Cities Automatically, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Assembling Habitats Build Entire Cities Automatically, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-assembling-habitats-build-entire-cities-automatically.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-assembling-habitats-build-entire-cities-automatically.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-matter-reconstruction-systems-eliminate-material-scarcity",
+      "order": 34,
+      "slug": "matter-reconstruction-systems-eliminate-material-scarcity",
+      "title": "물질 재구성 시스템이 물질 희소성을 제거하다",
+      "shortTitle": "물질 재구성 시스템",
+      "category": "Materials & Manufacturing",
+      "description": "물질 재구성 시스템이 물질 희소성을 제거하다은 산업 생산을 원자 수준 건설, 보편적 프로그래머블 물질, 살아 있는 공학 소재로 대체한다.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2762,
+        "endYear": 2808
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "물질 재구성 시스템이 물질 희소성을 제거하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "원자 정밀도가 일반적인 제조 방식이 된다",
+        "자가 조립 서식지는 전통적 공장 없이 성장한다",
+        "물질 재구성은 많은 공급망을 제거한다"
+      ],
+      "implications": [
+        "물질 희소성은 대부분 사라진다",
+        "도시와 서식지는 성장하거나 재조립될 수 있다",
+        "물질, 기계, 유기체의 경계가 흐려진다"
+      ],
+      "image": {
+        "alt": "물질 재구성 시스템이 물질 희소성을 제거하다",
+        "prompts": [
+          "matter Reconstruction Systems Eliminate Material Scarcity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter Reconstruction Systems Eliminate Material Scarcity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter Reconstruction Systems Eliminate Material Scarcity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter Reconstruction Systems Eliminate Material Scarcity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-matter-reconstruction-systems-eliminate-material-scarcity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-matter-reconstruction-systems-eliminate-material-scarcity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-living-materials-merge-biology-and-engineering",
+      "order": 35,
+      "slug": "living-materials-merge-biology-and-engineering",
+      "title": "살아 있는 물질이 생물학과 공학을 융합하다",
+      "shortTitle": "살아 있는 물질 융합",
+      "category": "Materials & Manufacturing",
+      "description": "살아 있는 물질이 생물학과 공학을 융합하다은 산업 생산을 원자 수준 건설, 보편적 프로그래머블 물질, 살아 있는 공학 소재로 대체한다.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2776,
+        "endYear": 2822
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "살아 있는 물질이 생물학과 공학을 융합하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "원자 정밀도가 일반적인 제조 방식이 된다",
+        "자가 조립 서식지는 전통적 공장 없이 성장한다",
+        "물질 재구성은 많은 공급망을 제거한다"
+      ],
+      "implications": [
+        "물질 희소성은 대부분 사라진다",
+        "도시와 서식지는 성장하거나 재조립될 수 있다",
+        "물질, 기계, 유기체의 경계가 흐려진다"
+      ],
+      "image": {
+        "alt": "살아 있는 물질이 생물학과 공학을 융합하다",
+        "prompts": [
+          "living Materials Merge Biology And Engineering, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing living Materials Merge Biology And Engineering, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of living Materials Merge Biology And Engineering, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating living Materials Merge Biology And Engineering, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-living-materials-merge-biology-and-engineering.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-living-materials-merge-biology-and-engineering.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability",
+      "order": 36,
+      "slug": "artificial-ecosystems-surpass-natural-ecosystems-in-stability",
+      "title": "인공 생태계가 안정성에서 자연 생태계를 넘어서다",
+      "shortTitle": "인공 생태계 안정성 초월",
+      "category": "Environment",
+      "description": "인공 생태계가 안정성에서 자연 생태계를 넘어서다은 생태계, 해양, 기상, 테라포밍을 거주 가능한 세계 전반의 능동적 설계 영역으로 만든다.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2790,
+        "endYear": 2836
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "인공 생태계가 안정성에서 자연 생태계를 넘어서다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "인공 생태계가 관리되지 않는 자연 시스템보다 안정성에서 뛰어나다",
+        "테라포밍은 많은 세계에서 반복된다",
+        "복원은 행성 및 우주 규모에서 측정된다"
+      ],
+      "implications": [
+        "문명은 생물권의 창조자이자 관리자가 된다",
+        "윤리는 지구 생태에서 우주 생태로 확장된다",
+        "거주 가능한 세계는 보존, 복구, 설계될 수 있다"
+      ],
+      "image": {
+        "alt": "인공 생태계가 안정성에서 자연 생태계를 넘어서다",
+        "prompts": [
+          "artificial Ecosystems Surpass Natural Ecosystems In Stability, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Ecosystems Surpass Natural Ecosystems In Stability, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Ecosystems Surpass Natural Ecosystems In Stability, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Ecosystems Surpass Natural Ecosystems In Stability, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-extinct-species-restoration-recreates-ancient-biodiversity",
+      "order": 37,
+      "slug": "extinct-species-restoration-recreates-ancient-biodiversity",
+      "title": "멸종 종 복원이 고대 생물다양성을 재현하다",
+      "shortTitle": "멸종 종 복원",
+      "category": "Environment",
+      "description": "멸종 종 복원이 고대 생물다양성을 재현하다은 생태계, 해양, 기상, 테라포밍을 거주 가능한 세계 전반의 능동적 설계 영역으로 만든다.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2804,
+        "endYear": 2850
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "멸종 종 복원이 고대 생물다양성을 재현하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "인공 생태계가 관리되지 않는 자연 시스템보다 안정성에서 뛰어나다",
+        "테라포밍은 많은 세계에서 반복된다",
+        "복원은 행성 및 우주 규모에서 측정된다"
+      ],
+      "implications": [
+        "문명은 생물권의 창조자이자 관리자가 된다",
+        "윤리는 지구 생태에서 우주 생태로 확장된다",
+        "거주 가능한 세계는 보존, 복구, 설계될 수 있다"
+      ],
+      "image": {
+        "alt": "멸종 종 복원이 고대 생물다양성을 재현하다",
+        "prompts": [
+          "extinct Species Restoration Recreates Ancient Biodiversity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing extinct Species Restoration Recreates Ancient Biodiversity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of extinct Species Restoration Recreates Ancient Biodiversity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating extinct Species Restoration Recreates Ancient Biodiversity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-extinct-species-restoration-recreates-ancient-biodiversity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-extinct-species-restoration-recreates-ancient-biodiversity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-planetary-weather-systems-become-fully-controllable",
+      "order": 38,
+      "slug": "planetary-weather-systems-become-fully-controllable",
+      "title": "행성 기상 시스템이 완전히 제어 가능해지다",
+      "shortTitle": "행성 기상 시스템 제어",
+      "category": "Environment",
+      "description": "행성 기상 시스템이 완전히 제어 가능해지다은 생태계, 해양, 기상, 테라포밍을 거주 가능한 세계 전반의 능동적 설계 영역으로 만든다.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2818,
+        "endYear": 2864
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "행성 기상 시스템이 완전히 제어 가능해지다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "인공 생태계가 관리되지 않는 자연 시스템보다 안정성에서 뛰어나다",
+        "테라포밍은 많은 세계에서 반복된다",
+        "복원은 행성 및 우주 규모에서 측정된다"
+      ],
+      "implications": [
+        "문명은 생물권의 창조자이자 관리자가 된다",
+        "윤리는 지구 생태에서 우주 생태로 확장된다",
+        "거주 가능한 세계는 보존, 복구, 설계될 수 있다"
+      ],
+      "image": {
+        "alt": "행성 기상 시스템이 완전히 제어 가능해지다",
+        "prompts": [
+          "planetary Weather Systems Become Fully Controllable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Weather Systems Become Fully Controllable, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Weather Systems Become Fully Controllable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Weather Systems Become Fully Controllable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-planetary-weather-systems-become-fully-controllable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-planetary-weather-systems-become-fully-controllable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-entire-oceans-are-reengineered-to-support-new-life",
+      "order": 39,
+      "slug": "entire-oceans-are-reengineered-to-support-new-life",
+      "title": "전체 해양이 새로운 생명을 지원하도록 재공학화되다",
+      "shortTitle": "해양 재공학",
+      "category": "Environment",
+      "description": "전체 해양이 새로운 생명을 지원하도록 재공학화되다은 생태계, 해양, 기상, 테라포밍을 거주 가능한 세계 전반의 능동적 설계 영역으로 만든다.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2832,
+        "endYear": 2878
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "전체 해양이 새로운 생명을 지원하도록 재공학화되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "인공 생태계가 관리되지 않는 자연 시스템보다 안정성에서 뛰어나다",
+        "테라포밍은 많은 세계에서 반복된다",
+        "복원은 행성 및 우주 규모에서 측정된다"
+      ],
+      "implications": [
+        "문명은 생물권의 창조자이자 관리자가 된다",
+        "윤리는 지구 생태에서 우주 생태로 확장된다",
+        "거주 가능한 세계는 보존, 복구, 설계될 수 있다"
+      ],
+      "image": {
+        "alt": "전체 해양이 새로운 생명을 지원하도록 재공학화되다",
+        "prompts": [
+          "entire Oceans Are Reengineered To Support New Life, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Oceans Are Reengineered To Support New Life, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Oceans Are Reengineered To Support New Life, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Oceans Are Reengineered To Support New Life, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-entire-oceans-are-reengineered-to-support-new-life.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-entire-oceans-are-reengineered-to-support-new-life.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-terraforming-becomes-routine-across-habitable-worlds",
+      "order": 40,
+      "slug": "terraforming-becomes-routine-across-habitable-worlds",
+      "title": "테라포밍이 거주 가능 세계 전반에서 일상화되다",
+      "shortTitle": "거주 가능 세계의 테라포밍",
+      "category": "Environment",
+      "description": "테라포밍이 거주 가능 세계 전반에서 일상화되다은 생태계, 해양, 기상, 테라포밍을 거주 가능한 세계 전반의 능동적 설계 영역으로 만든다.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2846,
+        "endYear": 2892
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "테라포밍이 거주 가능 세계 전반에서 일상화되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "인공 생태계가 관리되지 않는 자연 시스템보다 안정성에서 뛰어나다",
+        "테라포밍은 많은 세계에서 반복된다",
+        "복원은 행성 및 우주 규모에서 측정된다"
+      ],
+      "implications": [
+        "문명은 생물권의 창조자이자 관리자가 된다",
+        "윤리는 지구 생태에서 우주 생태로 확장된다",
+        "거주 가능한 세계는 보존, 복구, 설계될 수 있다"
+      ],
+      "image": {
+        "alt": "테라포밍이 거주 가능 세계 전반에서 일상화되다",
+        "prompts": [
+          "terraforming Becomes Routine Across Habitable Worlds, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing terraforming Becomes Routine Across Habitable Worlds, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of terraforming Becomes Routine Across Habitable Worlds, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating terraforming Becomes Routine Across Habitable Worlds, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-terraforming-becomes-routine-across-habitable-worlds.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-terraforming-becomes-routine-across-habitable-worlds.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-reputation-and-knowledge-replace-currency-as-primary-value",
+      "order": 41,
+      "slug": "reputation-and-knowledge-replace-currency-as-primary-value",
+      "title": "평판과 지식이 화폐를 주요 가치로 대체하다",
+      "shortTitle": "평판과 지식의 가치",
+      "category": "Society & Economy",
+      "description": "평판과 지식이 화폐를 주요 가치로 대체하다은 희소성 기반 경제를 지식, 평판, 혼합 현실, 공유 접근, 가상 문명에 대한 동등한 인정으로 대체한다.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2860,
+        "endYear": 2906
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "평판과 지식이 화폐를 주요 가치로 대체하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "화폐는 지식과 신뢰보다 덜 중심적이 된다",
+        "가상 및 물리 공동체는 동등한 경제적 정당성을 얻는다",
+        "소유는 공유 접근과 경험 중심으로 이동한다"
+      ],
+      "implications": [
+        "경제적 정체성은 신체나 위치와 독립된다",
+        "갈등은 영토보다 철학적 성격을 더 띠게 된다",
+        "문화는 문명 성장의 주요 무대가 된다"
+      ],
+      "image": {
+        "alt": "평판과 지식이 화폐를 주요 가치로 대체하다",
+        "prompts": [
+          "reputation And Knowledge Replace Currency As Primary Value, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing reputation And Knowledge Replace Currency As Primary Value, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of reputation And Knowledge Replace Currency As Primary Value, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating reputation And Knowledge Replace Currency As Primary Value, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-reputation-and-knowledge-replace-currency-as-primary-value.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-reputation-and-knowledge-replace-currency-as-primary-value.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities",
+      "order": 42,
+      "slug": "most-citizens-spend-their-lives-in-mixed-physical-digital-realities",
+      "title": "대부분의 시민이 물리-디지털 혼합 현실에서 삶을 보내다",
+      "shortTitle": "혼합 현실의 시민 생활",
+      "category": "Society & Economy",
+      "description": "대부분의 시민이 물리-디지털 혼합 현실에서 삶을 보내다은 희소성 기반 경제를 지식, 평판, 혼합 현실, 공유 접근, 가상 문명에 대한 동등한 인정으로 대체한다.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2874,
+        "endYear": 2920
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "대부분의 시민이 물리-디지털 혼합 현실에서 삶을 보내다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "화폐는 지식과 신뢰보다 덜 중심적이 된다",
+        "가상 및 물리 공동체는 동등한 경제적 정당성을 얻는다",
+        "소유는 공유 접근과 경험 중심으로 이동한다"
+      ],
+      "implications": [
+        "경제적 정체성은 신체나 위치와 독립된다",
+        "갈등은 영토보다 철학적 성격을 더 띠게 된다",
+        "문화는 문명 성장의 주요 무대가 된다"
+      ],
+      "image": {
+        "alt": "대부분의 시민이 물리-디지털 혼합 현실에서 삶을 보내다",
+        "prompts": [
+          "most Citizens Spend Their Lives In Mixed Physical-Digital Realities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing most Citizens Spend Their Lives In Mixed Physical-Digital Realities, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of most Citizens Spend Their Lives In Mixed Physical-Digital Realities, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating most Citizens Spend Their Lives In Mixed Physical-Digital Realities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-ownership-evolves-into-shared-access-models",
+      "order": 43,
+      "slug": "ownership-evolves-into-shared-access-models",
+      "title": "소유가 공유 접근 모델로 진화하다",
+      "shortTitle": "공유 접근 모델로의 소유 진화",
+      "category": "Society & Economy",
+      "description": "소유가 공유 접근 모델로 진화하다은 희소성 기반 경제를 지식, 평판, 혼합 현실, 공유 접근, 가상 문명에 대한 동등한 인정으로 대체한다.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2888,
+        "endYear": 2934
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "소유가 공유 접근 모델로 진화하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "화폐는 지식과 신뢰보다 덜 중심적이 된다",
+        "가상 및 물리 공동체는 동등한 경제적 정당성을 얻는다",
+        "소유는 공유 접근과 경험 중심으로 이동한다"
+      ],
+      "implications": [
+        "경제적 정체성은 신체나 위치와 독립된다",
+        "갈등은 영토보다 철학적 성격을 더 띠게 된다",
+        "문화는 문명 성장의 주요 무대가 된다"
+      ],
+      "image": {
+        "alt": "소유가 공유 접근 모델로 진화하다",
+        "prompts": [
+          "ownership Evolves Into Shared Access Models, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ownership Evolves Into Shared Access Models, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ownership Evolves Into Shared Access Models, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ownership Evolves Into Shared Access Models, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-ownership-evolves-into-shared-access-models.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-ownership-evolves-into-shared-access-models.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-creative-expression-becomes-humanitys-largest-industry",
+      "order": 44,
+      "slug": "creative-expression-becomes-humanitys-largest-industry",
+      "title": "창조적 표현이 인류 최대 산업이 되다",
+      "shortTitle": "창조적 표현 산업",
+      "category": "Society & Economy",
+      "description": "창조적 표현이 인류 최대 산업이 되다은 희소성 기반 경제를 지식, 평판, 혼합 현실, 공유 접근, 가상 문명에 대한 동등한 인정으로 대체한다.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2902,
+        "endYear": 2948
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "창조적 표현이 인류 최대 산업이 되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "화폐는 지식과 신뢰보다 덜 중심적이 된다",
+        "가상 및 물리 공동체는 동등한 경제적 정당성을 얻는다",
+        "소유는 공유 접근과 경험 중심으로 이동한다"
+      ],
+      "implications": [
+        "경제적 정체성은 신체나 위치와 독립된다",
+        "갈등은 영토보다 철학적 성격을 더 띠게 된다",
+        "문화는 문명 성장의 주요 무대가 된다"
+      ],
+      "image": {
+        "alt": "창조적 표현이 인류 최대 산업이 되다",
+        "prompts": [
+          "creative Expression Becomes Humanity's Largest Industry, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing creative Expression Becomes Humanity's Largest Industry, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of creative Expression Becomes Humanity's Largest Industry, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating creative Expression Becomes Humanity's Largest Industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-creative-expression-becomes-humanitys-largest-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-creative-expression-becomes-humanitys-largest-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones",
+      "order": 45,
+      "slug": "virtual-civilizations-gain-equal-economic-status-to-physical-ones",
+      "title": "가상 문명이 물리적 문명과 동등한 경제적 지위를 얻다",
+      "shortTitle": "가상 문명의 동등 지위",
+      "category": "Society & Economy",
+      "description": "가상 문명이 물리적 문명과 동등한 경제적 지위를 얻다은 희소성 기반 경제를 지식, 평판, 혼합 현실, 공유 접근, 가상 문명에 대한 동등한 인정으로 대체한다.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2916,
+        "endYear": 2962
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "가상 문명이 물리적 문명과 동등한 경제적 지위를 얻다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "화폐는 지식과 신뢰보다 덜 중심적이 된다",
+        "가상 및 물리 공동체는 동등한 경제적 정당성을 얻는다",
+        "소유는 공유 접근과 경험 중심으로 이동한다"
+      ],
+      "implications": [
+        "경제적 정체성은 신체나 위치와 독립된다",
+        "갈등은 영토보다 철학적 성격을 더 띠게 된다",
+        "문화는 문명 성장의 주요 무대가 된다"
+      ],
+      "image": {
+        "alt": "가상 문명이 물리적 문명과 동등한 경제적 지위를 얻다",
+        "prompts": [
+          "virtual Civilizations Gain Equal Economic Status To Physical Ones, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing virtual Civilizations Gain Equal Economic Status To Physical Ones, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of virtual Civilizations Gain Equal Economic Status To Physical Ones, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating virtual Civilizations Gain Equal Economic Status To Physical Ones, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-biological-and-digital-citizens-receive-equal-rights",
+      "order": 46,
+      "slug": "biological-and-digital-citizens-receive-equal-rights",
+      "title": "생물학적 시민과 디지털 시민이 동등한 권리를 받다",
+      "shortTitle": "생물학·디지털 시민 동등 권리",
+      "category": "Civilization",
+      "description": "생물학적 시민과 디지털 시민이 동등한 권리를 받다은 생물학적, 디지털, 집단 의식 형태가 공존하면서 시민권, 권리, 공동체, 거버넌스를 재정의한다.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2930,
+        "endYear": 2976
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "생물학적 시민과 디지털 시민이 동등한 권리를 받다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "권리 체계는 생물학적 인간을 넘어 확장된다",
+        "집단 및 디지털 공동체는 법적 지위를 얻는다",
+        "문명은 인간 기원이 아닌 지능에 대비한다"
+      ],
+      "implications": [
+        "인류는 더 넓은 지능 가족의 한 갈래가 된다",
+        "정치적 정체성은 국가와 종을 넘어 이동한다",
+        "태양계는 중심이 아니라 역사적 발상지가 된다"
+      ],
+      "image": {
+        "alt": "생물학적 시민과 디지털 시민이 동등한 권리를 받다",
+        "prompts": [
+          "biological And Digital Citizens Receive Equal Rights, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological And Digital Citizens Receive Equal Rights, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological And Digital Citizens Receive Equal Rights, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological And Digital Citizens Receive Equal Rights, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-biological-and-digital-citizens-receive-equal-rights.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-biological-and-digital-citizens-receive-equal-rights.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-evolves-into-multiple-intelligent-species",
+      "order": 47,
+      "slug": "humanity-evolves-into-multiple-intelligent-species",
+      "title": "인류가 여러 지능 종으로 진화하다",
+      "shortTitle": "여러 지능 종으로 진화",
+      "category": "Civilization",
+      "description": "인류가 여러 지능 종으로 진화하다은 생물학적, 디지털, 집단 의식 형태가 공존하면서 시민권, 권리, 공동체, 거버넌스를 재정의한다.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2944,
+        "endYear": 2990
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "인류가 여러 지능 종으로 진화하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "권리 체계는 생물학적 인간을 넘어 확장된다",
+        "집단 및 디지털 공동체는 법적 지위를 얻는다",
+        "문명은 인간 기원이 아닌 지능에 대비한다"
+      ],
+      "implications": [
+        "인류는 더 넓은 지능 가족의 한 갈래가 된다",
+        "정치적 정체성은 국가와 종을 넘어 이동한다",
+        "태양계는 중심이 아니라 역사적 발상지가 된다"
+      ],
+      "image": {
+        "alt": "인류가 여러 지능 종으로 진화하다",
+        "prompts": [
+          "humanity Evolves Into Multiple Intelligent Species, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Evolves Into Multiple Intelligent Species, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Evolves Into Multiple Intelligent Species, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Evolves Into Multiple Intelligent Species, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-evolves-into-multiple-intelligent-species.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-evolves-into-multiple-intelligent-species.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-collective-consciousness-communities-become-recognized-civilizations",
+      "order": 48,
+      "slug": "collective-consciousness-communities-become-recognized-civilizations",
+      "title": "집단 의식 공동체가 인정받는 문명이 되다",
+      "shortTitle": "집단 의식 공동체 문명",
+      "category": "Civilization",
+      "description": "집단 의식 공동체가 인정받는 문명이 되다은 생물학적, 디지털, 집단 의식 형태가 공존하면서 시민권, 권리, 공동체, 거버넌스를 재정의한다.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2958,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "집단 의식 공동체가 인정받는 문명이 되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "권리 체계는 생물학적 인간을 넘어 확장된다",
+        "집단 및 디지털 공동체는 법적 지위를 얻는다",
+        "문명은 인간 기원이 아닌 지능에 대비한다"
+      ],
+      "implications": [
+        "인류는 더 넓은 지능 가족의 한 갈래가 된다",
+        "정치적 정체성은 국가와 종을 넘어 이동한다",
+        "태양계는 중심이 아니라 역사적 발상지가 된다"
+      ],
+      "image": {
+        "alt": "집단 의식 공동체가 인정받는 문명이 되다",
+        "prompts": [
+          "collective Consciousness Communities Become Recognized Civilizations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing collective Consciousness Communities Become Recognized Civilizations, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of collective Consciousness Communities Become Recognized Civilizations, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating collective Consciousness Communities Become Recognized Civilizations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-collective-consciousness-communities-become-recognized-civilizations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-collective-consciousness-communities-become-recognized-civilizations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-the-concept-of-nation-states-becomes-obsolete",
+      "order": 49,
+      "slug": "the-concept-of-nation-states-becomes-obsolete",
+      "title": "국민국가라는 개념이 구식이 되다",
+      "shortTitle": "국민국가 개념의 소멸",
+      "category": "Civilization",
+      "description": "국민국가라는 개념이 구식이 되다은 생물학적, 디지털, 집단 의식 형태가 공존하면서 시민권, 권리, 공동체, 거버넌스를 재정의한다.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2972,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "국민국가라는 개념이 구식이 되다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "권리 체계는 생물학적 인간을 넘어 확장된다",
+        "집단 및 디지털 공동체는 법적 지위를 얻는다",
+        "문명은 인간 기원이 아닌 지능에 대비한다"
+      ],
+      "implications": [
+        "인류는 더 넓은 지능 가족의 한 갈래가 된다",
+        "정치적 정체성은 국가와 종을 넘어 이동한다",
+        "태양계는 중심이 아니라 역사적 발상지가 된다"
+      ],
+      "image": {
+        "alt": "국민국가라는 개념이 구식이 되다",
+        "prompts": [
+          "the Concept Of Nation States Becomes Obsolete, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Concept Of Nation States Becomes Obsolete, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Concept Of Nation States Becomes Obsolete, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Concept Of Nation States Becomes Obsolete, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-the-concept-of-nation-states-becomes-obsolete.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-the-concept-of-nation-states-becomes-obsolete.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence",
+      "order": 50,
+      "slug": "humanity-begins-preparing-for-contact-with-extragalactic-intelligence",
+      "title": "인류가 은하계 밖 지능과의 접촉 준비를 시작하다",
+      "shortTitle": "은하계 밖 지능 접촉 준비",
+      "category": "Civilization",
+      "description": "인류가 은하계 밖 지능과의 접촉 준비를 시작하다은 생물학적, 디지털, 집단 의식 형태가 공존하면서 시민권, 권리, 공동체, 거버넌스를 재정의한다.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2986,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "인류가 은하계 밖 지능과의 접촉 준비를 시작하다은 탈생물학적 문명의 결정적 이정표가 되며, 지능이 고정된 신체, 생물학적 한계, 전통적 사회 형태를 넘어서는 데 기여한다.",
+      "signals": [
+        "권리 체계는 생물학적 인간을 넘어 확장된다",
+        "집단 및 디지털 공동체는 법적 지위를 얻는다",
+        "문명은 인간 기원이 아닌 지능에 대비한다"
+      ],
+      "implications": [
+        "인류는 더 넓은 지능 가족의 한 갈래가 된다",
+        "정치적 정체성은 국가와 종을 넘어 이동한다",
+        "태양계는 중심이 아니라 역사적 발상지가 된다"
+      ],
+      "image": {
+        "alt": "인류가 은하계 밖 지능과의 접촉 준비를 시작하다",
+        "prompts": [
+          "humanity Begins Preparing For Contact With Extragalactic Intelligence, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Begins Preparing For Contact With Extragalactic Intelligence, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Begins Preparing For Contact With Extragalactic Intelligence, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Begins Preparing For Contact With Extragalactic Intelligence, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

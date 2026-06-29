@@ -3,14 +3,15 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
-import { ShoppingBag } from "lucide-react";
-import { FaTiktok } from "react-icons/fa";
 import FutureCivilizationHero from "@/components/hero/future-civilization/FutureCivilizationHero";
 import FutureCivilizationPreviewSection from "@/components/hero/future-civilization/FutureCivilizationPreviewSection";
 import PlatformContentCard, {
   getLocalizedHref,
 } from "@/components/Platform/PlatformContentCard";
-import type { FutureRoadmapFeaturedItem } from "@/lib/platform-content/futureRoadmapContent";
+import type {
+  FutureRoadmapFeaturedItem,
+  FutureRoadmapManifest,
+} from "@/lib/platform-content/futureRoadmapContent";
 import type {
   PlatformCircularContent,
   PlatformHomeContent,
@@ -42,7 +43,6 @@ function PlatformHomeSection({
       <div className="platform-section__header">
         <span>{section.eyebrow}</span>
         <h2>{section.title}</h2>
-        <p>{section.description}</p>
       </div>
       <div className="platform-card-grid">
         {section.cards.map((card) => (
@@ -72,13 +72,8 @@ export function PlatformHomeCircularSystemSection({
     <>
       <section className="platform-shell platform-outfit-detail-related platform-home-sofa-story platform-home-sofa-story--intro">
         <div className="platform-section__header platform-home-sofa-story__section1">
-          <span>{"Circulatory System Story"}</span>
-          <h2>{"Turn circulatory system into scenes and stories"}</h2>
-          <p>
-            A soft future-lifestyle story where MTS is more than transport: it
-            carries a couple from the rhythm of the valley line back into the
-            warmth of home, love, rest and everyday civilization.
-          </p>
+          <span>{circular.span}</span>
+          <h2>{circular.title}</h2>
         </div>
       </section>
 
@@ -107,45 +102,6 @@ export function PlatformHomeCircularSystemSection({
               <span>{circular.span}</span>
               <h3 id="platform-home-sofa-story-title">{circular.title}</h3>
               <p>{circular.description}</p>
-              <div className="platform-home-sofa-story__actions">
-                {showStoryLink ? (
-                  <Link
-                    className="platform-home-sofa-story__link"
-                    href={`/${lang}/story/`}
-                  >
-                    Open Story
-                  </Link>
-                ) : null}
-                {showStoryLink ? (
-                  <Link
-                    className="platform-home-sofa-story__link platform-home-sofa-story__link--mobility"
-                    href={`/${lang}/smart-mobility/`}
-                  >
-                    Circulatory System
-                  </Link>
-                ) : null}
-                {showTiktokLink ? (
-                  <a
-                    className="platform-outfit-detail-cta platform-home-sofa-story__tiktok"
-                    href={sofaCoupleStory.tiktok}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span
-                      className="platform-outfit-detail-cta__icons"
-                      aria-hidden="true"
-                    >
-                      <ShoppingBag
-                        className="platform-outfit-detail-cta__shopping-icon"
-                        size={18}
-                        strokeWidth={2.4}
-                      />
-                      <FaTiktok className="platform-outfit-detail-cta__tiktok-icon" />
-                    </span>
-                    <span>Explore on TikTok</span>
-                  </a>
-                ) : null}
-              </div>
             </div>
             <div className="platform-home-sofa-story__cards">
               {circular.categories.slice(0, 4).map((storyImage) => (
@@ -188,12 +144,8 @@ function PlatformHomeOutfitSection({
   return (
     <section className="platform-shell platform-outfit-detail-related platform-home-sofa-story platform-home-sofa-story--outfits">
       <div className="platform-section__header platform-home-sofa-story__section1">
-        <span>{section?.eyebrow ?? "Graceful Style"}</span>
-        <h2>{section?.title ?? "Explore outfit directions."}</h2>
-        <p>
-          {section?.description ??
-            "Move through the full Chorn Planet Style set and open each look directly from the homepage."}
-        </p>
+        <span>{section?.eyebrow}</span>
+        <h2>{section?.title}</h2>
       </div>
 
       <div className="platform-outfit-detail-related__grid platform-home-sofa-story__section3">
@@ -224,7 +176,7 @@ function PlatformHomeOutfitSection({
                 <div className="platform-outfit-card__meta">
                   <strong>View Style</strong>
                   <small>
-                    {outfitSet.zoneDisplay[0] ?? outfitSet.zoneCandidates[0]}
+                    {outfitSet.zoneDisplay?.[0] ?? outfitSet.zoneCandidates?.[0] ?? ""}
                   </small>
                 </div>
               </div>
@@ -242,12 +194,14 @@ export default function PlatformHomePage({
   afterHero,
   futureRoadmapItems,
   futureRoadmapHeroItem,
+  futureRoadmapManifest,
 }: {
   lang: string;
   content: PlatformHomeContent;
   afterHero?: ReactNode;
   futureRoadmapItems: FutureRoadmapFeaturedItem[];
   futureRoadmapHeroItem: FutureRoadmapFeaturedItem;
+  futureRoadmapManifest: FutureRoadmapManifest;
 }) {
   const { data: cachedContent } = usePlatformHomeContent(lang, content);
   const homeContent = cachedContent ?? content;
@@ -266,11 +220,15 @@ export default function PlatformHomePage({
         lang={lang}
         featuredItems={futureHeroItems}
         heroItem={futureRoadmapHeroItem}
+        copy={futureRoadmapManifest.ui.homeHero}
+        eraLabel={futureRoadmapManifest.ui.navigation.eraLabel}
       />
 
       <FutureCivilizationPreviewSection
         lang={lang}
         featuredItems={futurePreviewItems}
+        copy={futureRoadmapManifest.ui.homePreview}
+        eraLabel={futureRoadmapManifest.ui.navigation.eraLabel}
       />
 
       {afterHero ? (

@@ -1,0 +1,299 @@
+{
+  "locale": "vi",
+  "metadata": {
+    "title": "Smart Food | Nền tảng đặt món bằng AI Chat đầu tiên tại Chiang Mai",
+    "description": "Smart Food là nền tảng quản lý dịch vụ ẩm thực bằng AI Chat của Chorn Planet, được thiết kế để nâng cấp các nhà hàng địa phương tại Chiang Mai từ đặt món, thanh toán đến quản lý bếp và vận hành giao hàng.",
+    "openGraphTitle": "Smart Food - Nền tảng quản lý dịch vụ ẩm thực bằng AI Chat tại Chiang Mai"
+  },
+  "hero": {
+    "eyebrow": "Smart Food, người bạn đồng hành thông minh về ẩm thực",
+    "title": "Smart Food",
+    "lead": "Nâng cấp doanh nghiệp ẩm thực địa phương tại Chiang Mai bằng hệ thống đặt món AI Chat thông minh.",
+    "support": "Chorn Planet hỗ trợ doanh nghiệp ẩm thực bằng công nghệ AI, giúp khách hàng đặt món, khám phá món yêu thích và nhận gợi ý dễ dàng qua chat, cùng hệ thống back-office kết nối đơn hàng, thanh toán và giao hàng một cách liền mạch.",
+    "actionsLabel": "Khám phá tính năng Smart Food",
+    "actions": [
+      {
+        "label": "Khám phá Workflow",
+        "href": "#smart-food-ai-workflow",
+        "variant": "primary"
+      }
+    ],
+    "visual": {
+      "src": "/smart-food/smart-food-overview.png",
+      "alt": "Nền tảng Smart Food AI phục vụ khách hàng tại Chiang Mai",
+      "ariaLabel": "Câu chuyện hình ảnh của Smart Food AI",
+      "mobile": {
+        "src": "/smart-food/mobile/smart-food-overview.webp",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/smart-food/thumbnail/smart-food-overview.webp",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/smart-food/desktop/smart-food-overview.webp",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      },
+      "open_graph": {
+        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "width": 1200,
+        "height": 630,
+        "quality": 82
+      }
+    }
+  },
+  "proof": {
+    "heading": {
+      "eyebrow": "Nền tảng quản lý nhà hàng bằng AI Chat",
+      "title": "Smart Food chuyển đổi nhà hàng địa phương Chiang Mai thành nền tảng thông minh nhờ AI"
+    },
+    "paragraphs": [
+      "Smart Food vận hành dịch vụ ẩm thực tại Chiang Mai bằng một hệ thống thông minh quản lý toàn bộ quy trình: từ nhận đơn và gợi ý thực đơn qua chat, xác nhận mua hàng, xử lý thanh toán, phối hợp với bếp và tài xế giao hàng, đến tạo báo cáo dữ liệu sẵn sàng cho phân tích kinh doanh.",
+      "Để mang lại sự tiện lợi tối đa, nền tảng Smart Food hỗ trợ nhiều kênh thanh toán, bao gồm tiền mặt, quét QR Code qua ứng dụng ngân hàng như PromptPay, cũng như các hệ thống sẵn sàng hỗ trợ chương trình kích thích kinh tế của chính phủ như Thai Chuai Thai Plus.",
+      "Chúng tôi không chỉ giúp khách hàng đặt món dễ hơn. Smart Food đang phát triển thành All-in-One Restaurant OS, bao phủ quản lý bếp, dịch vụ giao hàng, xác minh phiếu thanh toán tự động, hệ thống kế toán và vận hành nội bộ, tạo nền tảng vững chắc cho tăng trưởng bền vững của doanh nghiệp ẩm thực."
+    ],
+    "image": {
+      "src": "/smart-food/chat-ordering.png",
+      "alt": "Smart Food AI phục vụ khách hàng tại Chiang Mai thông qua đặt món bằng chat",
+      "mobile": {
+        "src": "/smart-food/mobile/chat-ordering.webp",
+        "width": 720,
+        "height": 608,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/smart-food/thumbnail/chat-ordering.webp",
+        "width": 480,
+        "height": 405,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/smart-food/desktop/chat-ordering.webp",
+        "width": 900,
+        "height": 760,
+        "quality": 82
+      },
+      "open_graph": {
+        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "width": 1200,
+        "height": 630,
+        "quality": 82
+      }
+    },
+    "cards": [
+      {
+        "index": "01",
+        "title": "Hiểu sâu doanh nghiệp địa phương",
+        "text": "Bắt đầu từ sự thấu hiểu sâu sắc bối cảnh nhà hàng và hành vi khách hàng tại Chiang Mai, Smart Food được thiết kế để đáp ứng nhu cầu thực tế của nhà vận hành địa phương và khách hàng."
+      },
+      {
+        "index": "02",
+        "title": "Đặt món dễ dàng qua AI Chat",
+        "text": "Nâng cấp trải nghiệm khách hàng bằng cách giúp mọi người tìm món yêu thích, đặt câu hỏi và xác nhận đơn hàng qua các cuộc trò chuyện tự nhiên."
+      },
+      {
+        "index": "03",
+        "title": "Đổi mới nền tảng AI-native",
+        "text": "Xây dựng nền tảng thông minh sẵn sàng kết nối đặt món, thanh toán, giao hàng, phân tích dữ liệu và các năng lực full-commerce trong tương lai."
+      }
+    ]
+  },
+  "workflow": {
+    "id": "smart-food-ai-workflow",
+    "heading": {
+      "eyebrow": "Workflow Dịch vụ",
+      "title": "Cận cảnh 5 bước thông minh của Smart Food AI"
+    },
+    "steps": [
+      {
+        "title": "1. Đặt món dễ dàng qua AI Chat",
+        "text": "Khách hàng có thể chọn món yêu thích, hỏi chi tiết hoặc xác nhận đơn hàng ngay lập tức qua cuộc trò chuyện chat đơn giản và tự nhiên.",
+        "image": {
+          "src": "/smart-food/process1-chat-ordering.png",
+          "alt": "Giao diện đặt món Smart Food AI Chat thông minh dành cho khách hàng",
+          "mobile": {
+            "src": "/smart-food/mobile/process1-chat-ordering.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process1-chat-ordering.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process1-chat-ordering.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      },
+      {
+        "title": "2. Xử lý và xác minh hóa đơn tự động",
+        "text": "Hệ thống AI tổng hợp giá trị đơn hàng, nhận phiếu thanh toán và tự động xác minh số tiền trước khi gửi đơn vào bếp.",
+        "image": {
+          "src": "/smart-food/process2-bill-processing.png",
+          "alt": "Hệ thống Smart Food AI tổng hợp hóa đơn và tự động xác minh phiếu thanh toán",
+          "mobile": {
+            "src": "/smart-food/mobile/process2-bill-processing.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process2-bill-processing.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process2-bill-processing.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      },
+      {
+        "title": "3. Nấu mới theo tiêu chuẩn đội bếp",
+        "text": "Đội bếp nhận đơn đã xác nhận và bắt đầu nấu ngay với nguyên liệu tươi dưới hệ thống quản lý hàng đợi bếp chính xác và chuẩn hóa.",
+        "image": {
+          "src": "/smart-food/process3-cooking.png",
+          "alt": "Đội bếp chuẩn bị món ăn cẩn thận theo đơn hàng từ hệ thống Smart Food",
+          "mobile": {
+            "src": "/smart-food/mobile/process3-cooking.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process3-cooking.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process3-cooking.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      },
+      {
+        "title": "4. Điều phối giao hàng",
+        "text": "Hệ thống lập tức thông báo và chuyển các đơn đã hoàn tất cho tài xế giao hàng địa phương, chuẩn bị giao món nhanh đến khách hàng.",
+        "image": {
+          "src": "/smart-food/process4-delivery.png",
+          "alt": "Hệ thống Smart Food điều phối giao món với tài xế giao hàng địa phương",
+          "mobile": {
+            "src": "/smart-food/mobile/process4-delivery.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process4-delivery.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process4-delivery.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      },
+      {
+        "title": "5. Nhận món nóng giao tận tay",
+        "text": "Khách hàng có thể ghim chính xác địa điểm giao hàng và thưởng thức món yêu thích, hoàn tất trải nghiệm đặt món liền mạch.",
+        "image": {
+          "src": "/smart-food/process5-receiving.png",
+          "alt": "Tài xế giao hàng trao đơn món ăn đã hoàn tất cho khách hàng một cách an toàn",
+          "mobile": {
+            "src": "/smart-food/mobile/process5-receiving.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process5-receiving.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process5-receiving.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      }
+    ]
+  },
+  "features": {
+    "heading": {
+      "eyebrow": "Điểm nổi bật của nền tảng",
+      "title": "Thúc đẩy nhà hàng Chiang Mai bằng các tính năng thông minh"
+    },
+    "items": [
+      "Đặt món dễ dàng qua các cuộc trò chuyện tự nhiên",
+      "Tìm và ghép đúng thực đơn với độ chính xác cao",
+      "Ghi nhớ món yêu thích để đặt lại nhanh hơn",
+      "Tổng hợp giá trị đơn hàng và hóa đơn, sẵn sàng thanh toán tức thì",
+      "Được thiết kế để hỗ trợ cấu trúc kinh doanh ẩm thực địa phương",
+      "Hỗ trợ đặt món mượt mà qua LINE OA và kênh website",
+      "Chuyển đổi liền mạch giữa nhiều kênh dịch vụ",
+      "Mở rộng kinh doanh không giới hạn, từ nội dung đến thương mại"
+    ]
+  },
+  "futureDirections": [
+    "Phát triển hệ thống đặt món đầy đủ qua website và ứng dụng",
+    "Kết nối và nâng cấp tính năng LINE OA để mạnh mẽ hơn",
+    "Điều phối hệ thống back-office bằng công nghệ Menu Match thông minh",
+    "Ra mắt layer commerce để nâng tầm giao dịch trực tuyến của Smart Food",
+    "Thúc đẩy tăng trưởng kinh doanh bằng hệ thống phân tích dữ liệu và insight"
+  ]
+}

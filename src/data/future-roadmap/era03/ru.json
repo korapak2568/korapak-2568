@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-03",
+    "order": 3,
+    "slug": "post-scarcity-foundations",
+    "title": "Основы постдефицитной цивилизации",
+    "subtitle": "Системы, которые делают изобилие практичным, всеобщим и устойчивым",
+    "description": "Эта эпоха закладывает основы постдефицитной цивилизации через универсальные услуги, термоядерную энергетику, продвинутую медицину, чистую воду, доступное жилье, циклические материалы и общественную инфраструктуру, управляемую ИИ.",
+    "timeframe": {
+      "label": "Основы постдефицитной цивилизации",
+      "startYear": 2055,
+      "endYear": 2085,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "society",
+      "mood": "optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Эпоха 3: Основы постдефицитной цивилизации | Дорожная карта будущей цивилизации",
+      "metaDescription": "Исследуйте основы постдефицитной цивилизации: универсальные базовые услуги, термоядерную энергетику, чистую воду, продовольственную логистику на базе ИИ, роботизированный уход за пожилыми, открытую медицину и доступное жилье.",
+      "keywords": [
+        "постдефицитная цивилизация",
+        "универсальные базовые услуги",
+        "термоядерная энергетика",
+        "медицина будущего",
+        "дорожная карта будущей цивилизации"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-03-universal-basic-services-replace-traditional-welfare",
+      "order": 1,
+      "slug": "universal-basic-services-replace-traditional-welfare",
+      "title": "Универсальные базовые услуги заменяют традиционную систему социальной поддержки",
+      "shortTitle": "Универсальные базовые услуги",
+      "category": "Society & Economy",
+      "description": "Питание, поддержка жилья, здравоохранение, образование, транспорт, связь и базовые коммунальные услуги все чаще становятся гарантированной общественной инфраструктурой, а не разрозненными программами пособий.",
+      "layerId": "society",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "social-systems"
+      ],
+      "maturity": "policy-transition",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Базовое выживание становится меньше зависимым от дохода, снижая незащищенность и позволяя большему числу людей заниматься образованием, заботой, творчеством и гражданским участием.",
+      "signals": [
+        "Государства переходят от денежных пособий к гарантиям доступа к услугам",
+        "ИИ координирует право на получение услуг, доставку и предотвращение мошенничества",
+        "Бюджеты общественной инфраструктуры ставят в приоритет доступ к еде, здоровью, жилью и связи"
+      ],
+      "implications": [
+        "Снижение крайней бедности и нестабильности домохозяйств",
+        "Новые дебаты о правах, доступе и публичной цифровой идентичности",
+        "Более широкое понимание гражданства и социальной безопасности"
+      ],
+      "image": {
+        "alt": "Центр универсальных базовых услуг, предоставляющий питание, здравоохранение, жилищную поддержку, образование и связь",
+        "prompts": [
+          "Clean futuristic public service hub offering food, healthcare, housing support, education, and connectivity access, diverse families receiving help calmly, optimistic documentary realism, 16:9",
+          "City neighborhood with universal basic service centers integrated into transit, clinics, schools, and food distribution, clean post-scarcity future, 16:9",
+          "AI-assisted public services dashboard coordinating housing, food, healthcare, and transport access across a modern city, realistic civic technology, 16:9",
+          "Families using seamless essential services through a welcoming civic center, warm hopeful atmosphere, near-future documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-universal-basic-services-replace-traditional-welfare.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-universal-basic-services-replace-traditional-welfare.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-managed-food-logistics-eliminates-most-food-waste",
+      "order": 2,
+      "slug": "ai-managed-food-logistics-eliminates-most-food-waste",
+      "title": "Продовольственная логистика под управлением ИИ устраняет большую часть пищевых отходов",
+      "shortTitle": "Продовольственная логистика ИИ",
+      "category": "AI & Computing",
+      "description": "Цепочки поставок под управлением ИИ прогнозируют спрос, направляют излишки еды, оптимизируют хранение и координируют локальное распределение, чтобы большая часть съедобных продуктов больше не пропадала.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "food-systems",
+        "logistics"
+      ],
+      "maturity": "global-optimization",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Продовольственное изобилие становится проще распределять, снижая голод, выбросы и давление на сельское хозяйство без пропорционального роста производства.",
+      "signals": [
+        "Сети учета еды в реальном времени соединяют фермы, магазины, кухни и системы помощи",
+        "Прогнозные модели спроса сокращают перепроизводство и порчу продуктов",
+        "Автоматизация холодовой цепи повышает надежность в уязвимых регионах"
+      ],
+      "implications": [
+        "Меньше потерь еды по всей цепочке поставок",
+        "Более устойчивая экстренная продовольственная помощь",
+        "Снижение выбросов от напрасно произведенной продукции"
+      ],
+      "image": {
+        "alt": "Продовольственная логистическая сеть под управлением ИИ направляет излишки еды до того, как они будут потеряны",
+        "prompts": [
+          "AI-managed food logistics command center routing surplus food from farms and supermarkets to community kitchens, clean futuristic documentary, 16:9",
+          "Autonomous refrigerated delivery fleet moving fresh food through a city based on real-time demand predictions, optimistic food system future, 16:9",
+          "Warehouse robots sorting produce to prevent spoilage, transparent AI dashboards showing waste reduction, realistic near future, 16:9",
+          "Community food hub receiving perfectly timed deliveries from AI-optimized supply chains, hopeful post-scarcity society, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-clean-water-access-reaches-nearly-all-humans",
+      "order": 3,
+      "slug": "clean-water-access-reaches-nearly-all-humans",
+      "title": "Доступ к чистой воде охватывает почти все человечество",
+      "shortTitle": "Всеобщий доступ к чистой воде",
+      "category": "Environment",
+      "description": "Продвинутая очистка, опреснение, обнаружение утечек, умное распределение и недорогие локальные системы обработки обеспечивают безопасной водой почти каждое сообщество.",
+      "layerId": "civilization",
+      "domains": [
+        "water",
+        "public-health",
+        "infrastructure"
+      ],
+      "maturity": "near-universal-access",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Одна из древнейших проблем выживания человечества становится в значительной степени решаемой, улучшая здоровье, образование, гендерное равенство и региональную стабильность.",
+      "signals": [
+        "Низкоэнергетические системы очистки масштабируются в сельских и городских районах",
+        "Умные водные сети мгновенно обнаруживают загрязнение и утечки",
+        "Глобальное финансирование рассматривает доступ к воде как базовую инфраструктуру цивилизации"
+      ],
+      "implications": [
+        "Снижение заболеваний, передающихся через воду",
+        "Более стабильные сообщества в засушливых регионах",
+        "Новые стандарты управления водой как универсальным правом"
+      ],
+      "image": {
+        "alt": "Сообщество получает безопасную чистую воду из продвинутой инфраструктуры очистки",
+        "prompts": [
+          "Dry-region community receiving clean water from advanced solar-fusion assisted purification infrastructure, hopeful documentary realism, 16:9",
+          "Smart water grid control room monitoring safe water access across cities and rural communities, clean futuristic civic technology, 16:9",
+          "Children and families using a beautiful public clean water station in a restored village, optimistic post-scarcity future, 16:9",
+          "Advanced water purification plant beside a river with transparent tanks and environmental sensors, realistic infrastructure scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-clean-water-access-reaches-nearly-all-humans.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-clean-water-access-reaches-nearly-all-humans.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-desalination-network-powered-by-fusion-begins-operation",
+      "order": 4,
+      "slug": "global-desalination-network-powered-by-fusion-begins-operation",
+      "title": "Глобальная сеть опреснения на термоядерной энергии начинает работу",
+      "shortTitle": "Термоядерная сеть опреснения",
+      "category": "Energy",
+      "description": "Термоядерная энергия делает возможными крупномасштабные коридоры опреснения, которые производят обильную пресную воду, минимизируют выбросы и снижают нагрузку на реки и водоносные горизонты.",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "water",
+        "climate-adaptation"
+      ],
+      "maturity": "network-launch",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Прибрежные регионы становятся экспортерами пресной воды, помогая стабилизировать сельское хозяйство, города и уязвимые к климату засушливые зоны.",
+      "signals": [
+        "Термоядерные станции дают надежную высокую мощность для опреснения",
+        "Межрегиональные водопроводы и системы хранения расширяются",
+        "Рассол от опреснения обрабатывается с более строгим экологическим контролем"
+      ],
+      "implications": [
+        "Повышенная водная безопасность засушливых регионов",
+        "Снижение риска конфликтов за пресноводные бассейны",
+        "Новые инфраструктурные связи между энергетическими и водными системами"
+      ],
+      "image": {
+        "alt": "Мегаструктура опреснения на термоядерной энергии обеспечивает пресной водой засушливые регионы",
+        "prompts": [
+          "Fusion-powered desalination megastructure on a bright coastline sending freshwater through pipelines to dry inland regions, clean futuristic documentary, 16:9",
+          "Control room for a global desalination network powered by fusion energy, world map of freshwater flows, optimistic infrastructure future, 16:9",
+          "Coastal fusion plant beside advanced desalination towers with clean water reservoirs and restored desert agriculture beyond, 16:9",
+          "Engineers monitoring eco-safe desalination and brine processing systems near a blue ocean, realistic climate-adaptation technology, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-education-becomes-fully-personalized-and-free",
+      "order": 5,
+      "slug": "education-becomes-fully-personalized-and-free",
+      "title": "Образование становится полностью персонализированным и бесплатным",
+      "shortTitle": "Бесплатное персонализированное образование",
+      "category": "Society & Economy",
+      "description": "ИИ-репетиторы, адаптивные учебные программы, иммерсивные симуляции и публичные образовательные сети делают качественное образование доступным каждому в любом возрасте.",
+      "layerId": "society",
+      "domains": [
+        "education",
+        "artificial-intelligence",
+        "public-services"
+      ],
+      "maturity": "mainstream-public-access",
+      "timeframe": {
+        "startYear": 2055,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Обучение становится универсальной способностью на протяжении всей жизни, сокращая разрыв возможностей и помогая людям адаптироваться к быстрым технологическим и социальным изменениям.",
+      "signals": [
+        "ИИ-репетиторы подстраивают уроки под темп и цели каждого ученика",
+        "Системы подтверждения квалификаций признают навыки, полученные на открытых образовательных платформах",
+        "Иммерсивное образование становится доступным вне элитных институтов"
+      ],
+      "implications": [
+        "Снижение образовательного неравенства",
+        "Более быстрое переобучение рабочей силы",
+        "Более разнообразные пути в науку, искусство и предпринимательство"
+      ],
+      "image": {
+        "alt": "Дети и взрослые учатся через бесплатное персонализированное образование с ИИ",
+        "prompts": [
+          "Children and adults learning through free personalized AI education in a bright community learning center, immersive holographic lessons, optimistic documentary realism, 16:9",
+          "Personal AI tutor guiding a student through adaptive science simulations at home, warm human-centered future, 16:9",
+          "Global public education platform connecting learners from many countries through translation and immersive classrooms, clean futuristic style, 16:9",
+          "Elderly learner and young student studying together with personalized AI guidance, lifelong learning society, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-education-becomes-fully-personalized-and-free.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-education-becomes-fully-personalized-and-free.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises",
+      "order": 6,
+      "slug": "personal-ai-financial-advisors-prevent-most-household-debt-crises",
+      "title": "Персональные финансовые ИИ-советники предотвращают большинство долговых кризисов домохозяйств",
+      "shortTitle": "Финансовые ИИ-советники",
+      "category": "AI & Computing",
+      "description": "Персональные финансовые ИИ-системы заранее выявляют риски, ведут переговоры по счетам, оптимизируют планы погашения и помогают домохозяйствам избежать долговой спирали до кризиса.",
+      "layerId": "society",
+      "domains": [
+        "artificial-intelligence",
+        "finance",
+        "consumer-protection"
+      ],
+      "maturity": "regulated-mainstream",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2072
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Финансовая нестабильность становится более предотвратимой, давая домохозяйствам лучшую защиту от хищнического кредитования, внезапных потрясений и слабого планирования.",
+      "signals": [
+        "ИИ-советники становятся регулируемыми фидуциарными инструментами",
+        "Банки внедряют системы раннего предупреждения о долговых рисках",
+        "Домохозяйства автоматизируют бюджетирование, переговоры и накопления"
+      ],
+      "implications": [
+        "Меньше долговых кризисов и банкротств",
+        "Более прозрачные личные финансы",
+        "Более жесткое регулирование финансового влияния ИИ"
+      ],
+      "image": {
+        "alt": "Персональный финансовый ИИ-советник помогает семье избежать долгового кризиса",
+        "prompts": [
+          "Family reviewing a personal AI financial advisor dashboard that prevents debt crisis, calm home scene, clean realistic future, 16:9",
+          "AI finance assistant negotiating bills and repayment plans through a secure transparent interface, human-centered civic technology, 16:9",
+          "Community financial clinic using regulated AI advisors to protect households from debt spirals, optimistic post-scarcity society, 16:9",
+          "Close-up of privacy-preserving AI budget system warning a household before debt risk becomes severe, clean interface, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-robotic-eldercare-becomes-widely-available",
+      "order": 7,
+      "slug": "robotic-eldercare-becomes-widely-available",
+      "title": "Роботизированный уход за пожилыми становится широко доступным",
+      "shortTitle": "Роботизированный уход за пожилыми",
+      "category": "Robotics",
+      "description": "Ассистивные роботы, домашние датчики, телемедицина и координация ухода на базе ИИ поддерживают пожилых людей в мобильности, приеме лекарств, общении и экстренном реагировании.",
+      "layerId": "society",
+      "domains": [
+        "robotics",
+        "healthcare",
+        "eldercare"
+      ],
+      "maturity": "wide-adoption",
+      "timeframe": {
+        "startYear": 2056,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Стареющие общества становятся устойчивее, а пожилые люди получают больше независимости, безопасности и достоинства дома.",
+      "signals": [
+        "Домашние роботы ухода становятся доступными и надежными",
+        "Системы здравоохранения начинают компенсировать ассистивную робототехнику",
+        "ИИ-координаторы ухода соединяют семьи, медсестер, врачей и экстренные службы"
+      ],
+      "implications": [
+        "Снижение нагрузки на работников ухода",
+        "Более безопасная самостоятельная жизнь",
+        "Новые этические стандарты для роботов эмоционального и физического ухода"
+      ],
+      "image": {
+        "alt": "Робот-помощник по уходу за пожилыми помогает пожилому человеку дома",
+        "prompts": [
+          "Gentle robotic eldercare assistant helping an older adult walk safely at home, warm realistic documentary style, 16:9",
+          "Smart eldercare apartment with assistive robot, medication reminders, and remote nurse support, clean hopeful future, 16:9",
+          "Community eldercare center where robots support mobility, meals, and companionship under human supervision, optimistic society, 16:9",
+          "Close-up of eldercare robot offering a glass of water while health sensors quietly monitor safety, respectful human-centered scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-robotic-eldercare-becomes-widely-available.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-robotic-eldercare-becomes-widely-available.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-construction-cost-of-housing-falls-by-80",
+      "order": 8,
+      "slug": "construction-cost-of-housing-falls-by-80",
+      "title": "Стоимость строительства жилья снижается на 80%",
+      "shortTitle": "Сверхдоступное жилье",
+      "category": "Materials & Manufacturing",
+      "description": "Робототехника, модульное производство, передовые материалы, ИИ-проектирование и упрощенные разрешительные процедуры резко сокращают стоимость и сроки строительства безопасных домов.",
+      "layerId": "civilization",
+      "domains": [
+        "housing",
+        "construction",
+        "automation"
+      ],
+      "maturity": "mass-deployment",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Жилищный дефицит становится более решаемым, меняя городское планирование, миграцию, создание семей и само значение экономической безопасности.",
+      "signals": [
+        "Автономные строительные системы возводят районы в масштабе",
+        "Модульные фабрики производят сертифицированные компоненты жилья",
+        "Города внедряют разрешения и землепользование с поддержкой ИИ"
+      ],
+      "implications": [
+        "Снижение бездомности и жилищного стресса",
+        "Более быстрое восстановление жилья после катастроф",
+        "Крупное нарушение привычной экономики недвижимости"
+      ],
+      "image": {
+        "alt": "Автономные строительные системы массово возводят сверхдоступное жилье",
+        "prompts": [
+          "Autonomous construction robots building beautiful low-cost housing neighborhood at scale, families moving in, optimistic documentary realism, 16:9",
+          "Modular housing factory producing safe affordable homes with robotic assembly lines, clean future infrastructure, 16:9",
+          "AI-designed housing district with efficient materials, green spaces, and rapid robotic construction, bright post-scarcity city, 16:9",
+          "Public housing project completed by autonomous builders with welcoming community spaces, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-construction-cost-of-housing-falls-by-80.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-construction-cost-of-housing-falls-by-80.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-courts-resolve-minor-legal-disputes-instantly",
+      "order": 9,
+      "slug": "ai-courts-resolve-minor-legal-disputes-instantly",
+      "title": "ИИ-суды мгновенно разрешают мелкие правовые споры",
+      "shortTitle": "ИИ-суды для мелких дел",
+      "category": "AI & Computing",
+      "description": "Одобренные ИИ-системы разрешения споров быстро обрабатывают мелкие иски, штрафы, контракты и обычные гражданские конфликты, сохраняя возможность обращения к человеку в сложных или спорных случаях.",
+      "layerId": "society",
+      "domains": [
+        "law",
+        "artificial-intelligence",
+        "public-services"
+      ],
+      "maturity": "regulated-automation",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2075
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Повседневные юридические трения решаются быстрее и дешевле, укрепляя доверие к публичным системам при условии прозрачности и защищенного права на апелляцию.",
+      "signals": [
+        "Суды сертифицируют модели ИИ для разрешения споров",
+        "Мелкие дела проходят через цифровые доказательства и медиационные процессы",
+        "Судьи-люди контролируют исключения, апелляции и дела, затрагивающие права"
+      ],
+      "implications": [
+        "Сокращение судебных очередей",
+        "Более низкая стоимость мелких споров",
+        "Более высокая потребность в аудитах предвзятости и процедурной прозрачности"
+      ],
+      "image": {
+        "alt": "ИИ-суд разрешает мелкие правовые споры под надзором человека",
+        "prompts": [
+          "Civic AI court kiosk helping citizens resolve minor disputes instantly with transparent evidence review and human appeal option, clean documentary realism, 16:9",
+          "Modern digital courtroom where AI mediation resolves small claims while human legal officers supervise fairness, optimistic civic technology, 16:9",
+          "People reviewing a clear AI dispute-resolution decision in a public service center, calm and accessible legal future, 16:9",
+          "Transparent legal AI dashboard comparing evidence, rights, and settlement options for minor civil dispute, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-climate-refugee-resettlement-system-becomes-globally-coordinated",
+      "order": 10,
+      "slug": "climate-refugee-resettlement-system-becomes-globally-coordinated",
+      "title": "Система переселения климатических беженцев становится глобально координированной",
+      "shortTitle": "Система климатического переселения",
+      "category": "Environment",
+      "description": "Международные системы координируют жилье, правовой статус, образование, работу и инфраструктурную поддержку для людей, перемещенных из-за климатических воздействий.",
+      "layerId": "civilization",
+      "domains": [
+        "climate-adaptation",
+        "migration",
+        "governance"
+      ],
+      "maturity": "global-coordination",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Масштабная климатическая миграция становится более гуманной и планируемой, снижая гуманитарные кризисы и конфликты вокруг перемещения.",
+      "signals": [
+        "Прогнозирование климатического перемещения улучшается на годы вперед",
+        "Принимающие регионы получают инфраструктурные инвестиции до пика миграции",
+        "Международные правовые рамки признают права на климатическое переселение"
+      ],
+      "implications": [
+        "Более безопасные маршруты миграции",
+        "Снижение риска неконтролируемых кризисов перемещения",
+        "Новые модели общей глобальной ответственности"
+      ],
+      "image": {
+        "alt": "Глобально координированная система переселения климатических беженцев поддерживает перемещенные семьи",
+        "prompts": [
+          "Globally coordinated climate resettlement center helping displaced families access housing, education, and jobs, hopeful documentary realism, 16:9",
+          "AI-assisted migration planning dashboard showing safe relocation routes and prepared host cities, clean civic technology, 16:9",
+          "New climate-adaptive neighborhood welcoming resettled families with schools, clinics, and transit, optimistic civilization scene, 16:9",
+          "International coordination room managing climate refugee support with maps, infrastructure plans, and humanitarian teams, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse",
+      "order": 11,
+      "slug": "fusion-powered-recycling-plants-achieve-near-total-material-reuse",
+      "title": "Перерабатывающие заводы на термоядерной энергии достигают почти полного повторного использования материалов",
+      "shortTitle": "Термоядерные заводы переработки",
+      "category": "Energy",
+      "description": "Высокоэнергетические заводы переработки на термоядерной энергии сортируют, разделяют, плавят и заново формируют материалы в масштабе, сокращая спрос на первичную добычу.",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "recycling",
+        "circular-economy"
+      ],
+      "maturity": "industrial-scale",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Дефицит материалов и отходы снижаются, поскольку города и отрасли начинают работать как более замкнутые циклические экосистемы.",
+      "signals": [
+        "Термоядерная энергия снижает стоимость сложного разделения материалов",
+        "Роботизированная сортировка достигает высокой чистоты в разных потоках отходов",
+        "Производители проектируют товары для полного восстановления и повторного использования"
+      ],
+      "implications": [
+        "Снижение давления на добычу полезных ископаемых",
+        "Меньше использования полигонов",
+        "Новые отрасли циклического производства"
+      ],
+      "image": {
+        "alt": "Завод переработки на термоядерной энергии превращает отходы в повторно используемое сырье",
+        "prompts": [
+          "Fusion-powered recycling megafactory converting urban waste into clean reusable raw materials, bright industrial documentary realism, 16:9",
+          "Robotic sorting lines and high-energy material separation systems inside a circular economy plant, clean futuristic infrastructure, 16:9",
+          "City waste flowing into a fusion recycling facility and emerging as standardized material blocks, optimistic post-scarcity future, 16:9",
+          "Engineers monitoring near-total material reuse in an advanced recycling control room, transparent dashboards, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-synthetic-fertilizer-production-becomes-carbon-negative",
+      "order": 12,
+      "slug": "synthetic-fertilizer-production-becomes-carbon-negative",
+      "title": "Производство синтетических удобрений становится углеродно-отрицательным",
+      "shortTitle": "Углеродно-отрицательные удобрения",
+      "category": "Materials & Manufacturing",
+      "description": "Производство удобрений переходит на чистую энергию, улавливаемый углерод, биологические азотные системы и низкоэмиссионную химию, удаляя больше углерода, чем выбрасывает.",
+      "layerId": "technology",
+      "domains": [
+        "agriculture",
+        "climate-technology",
+        "chemistry"
+      ],
+      "maturity": "industrial-transition",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2076
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Сельское хозяйство становится менее вредным для климата, сохраняя высокую урожайность для растущей и все более городской цивилизации.",
+      "signals": [
+        "Чистый аммиак и азотные системы заменяют процессы, зависящие от ископаемого топлива",
+        "Улавливание углерода интегрируется в производство удобрений",
+        "Фермеры применяют точное внесение, чтобы уменьшить стоки"
+      ],
+      "implications": [
+        "Снижение сельскохозяйственных выбросов",
+        "Более устойчивое производство еды",
+        "Более чистые водные пути благодаря умному использованию питательных веществ"
+      ],
+      "image": {
+        "alt": "Завод углеродно-отрицательных синтетических удобрений поддерживает устойчивое сельское хозяйство",
+        "prompts": [
+          "Carbon-negative fertilizer production facility beside sustainable farms, clean chemistry infrastructure, optimistic documentary realism, 16:9",
+          "Precision agriculture drones applying low-emission fertilizer only where needed, bright farm landscape, realistic future, 16:9",
+          "Chemical engineers monitoring clean ammonia and carbon capture systems for fertilizer production, modern industrial lab, 16:9",
+          "Farmers receiving sustainable fertilizer from a clean-energy manufacturing hub, resilient food future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-fully-autonomous-city-district-opens",
+      "order": 13,
+      "slug": "first-fully-autonomous-city-district-opens",
+      "title": "Открывается первый полностью автономный городской район",
+      "shortTitle": "Автономный городской район",
+      "category": "Civilization",
+      "description": "Городской район управляет транспортом, коммунальными системами, обслуживанием, мониторингом безопасности, отходами и публичными услугами через скоординированную инфраструктуру ИИ и роботов.",
+      "layerId": "civilization",
+      "domains": [
+        "smart-cities",
+        "artificial-intelligence",
+        "urban-infrastructure"
+      ],
+      "maturity": "district-scale-deployment",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Города становятся более адаптивными, эффективными и отзывчивыми, одновременно поднимая новые вопросы управления, ответственности и общественного контроля.",
+      "signals": [
+        "Автономный транспорт, коммунальные системы, отходы и безопасность объединяются в единую районную платформу",
+        "Роботы выполняют обслуживание до того, как неисправности становятся заметными",
+        "Жители голосуют за правила работы публичного ИИ"
+      ],
+      "implications": [
+        "Снижение операционных затрат городских служб",
+        "Более быстрый ответ на локальные проблемы",
+        "Новые демократические модели для инфраструктуры, управляемой ИИ"
+      ],
+      "image": {
+        "alt": "Полностью автономный городской район с транспортом, коммунальными системами и роботами под управлением ИИ",
+        "prompts": [
+          "First fully autonomous city district with AI-managed transit, utilities, waste systems, and maintenance robots, clean futuristic documentary realism, 16:9",
+          "Residents walking through a calm smart district where robots maintain streets and public systems operate seamlessly, optimistic urban future, 16:9",
+          "City operations center coordinating autonomous infrastructure across a self-running district, transparent dashboards, 16:9",
+          "Night view of an autonomous city district with quiet transport pods, clean energy systems, and responsive public services, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-fully-autonomous-city-district-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-fully-autonomous-city-district-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-disease-outbreak-prediction-network-prevents-pandemics",
+      "order": 14,
+      "slug": "global-disease-outbreak-prediction-network-prevents-pandemics",
+      "title": "Глобальная сеть прогнозирования вспышек болезней предотвращает пандемии",
+      "shortTitle": "Сеть прогнозирования пандемий",
+      "category": "AI & Computing",
+      "description": "Глобальная сеть датчиков, клиник, геномного мониторинга, экологических данных и ИИ-моделей выявляет риск вспышек достаточно рано, чтобы предотвращать большинство пандемий.",
+      "layerId": "technology",
+      "domains": [
+        "healthcare",
+        "public-health",
+        "artificial-intelligence"
+      ],
+      "maturity": "global-operational-network",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Человечество переходит от реакции на пандемии к их предотвращению, защищая жизни, экономики и глобальное доверие.",
+      "signals": [
+        "Данные сточных вод, дикой природы, клиник и путешествий поступают в общие системы раннего предупреждения",
+        "Геномный надзор быстрее выявляет опасные мутации",
+        "Ответы общественного здравоохранения активируются до неконтролируемого распространения"
+      ],
+      "implications": [
+        "Меньше глобальных кризисов заболеваний",
+        "Более точные и менее разрушительные медицинские меры",
+        "Новые дебаты о приватности и суверенитете в биологическом мониторинге"
+      ],
+      "image": {
+        "alt": "Глобальная сеть прогнозирования вспышек болезней предотвращает пандемии через мониторинг ИИ",
+        "prompts": [
+          "Global disease outbreak prediction network control room with AI models, genomic alerts, and public health teams preventing pandemics, clean documentary realism, 16:9",
+          "Public health sensors, clinics, and genomic labs connected through a planetary early-warning dashboard, optimistic health infrastructure, 16:9",
+          "Scientists monitoring wastewater, wildlife, and hospital data for outbreak prevention, realistic future public health scene, 16:9",
+          "International health coordination center responding early to disease signals before pandemic spread, calm high-tech atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-open-source-medicine-libraries-become-available-worldwide",
+      "order": 15,
+      "slug": "open-source-medicine-libraries-become-available-worldwide",
+      "title": "Открытые библиотеки медицины становятся доступны по всему миру",
+      "shortTitle": "Открытая медицина",
+      "category": "Biology & Medicine",
+      "description": "Проверенные проекты лекарств, производственные протоколы, данные безопасности и лечебные знания распространяются через глобальные открытые библиотеки для одобренного локального производства.",
+      "layerId": "society",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "knowledge-access"
+      ],
+      "maturity": "global-knowledge-network",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Доступ к медицине улучшается по мере снижения барьеров знания, позволяя большему числу регионов локально производить безопасные базовые терапии.",
+      "signals": [
+        "Регуляторы сертифицируют открытые медицинские протоколы",
+        "Локальные центры биопроизводства расширяются",
+        "Глобальные медицинские библиотеки включают данные безопасности, дозировки и контроля качества"
+      ],
+      "implications": [
+        "Снижение неравенства в доступе к лекарствам",
+        "Более быстрый ответ на региональные потребности здравоохранения",
+        "Новые модели интеллектуальной собственности для общественного здоровья"
+      ],
+      "image": {
+        "alt": "Открытая медицинская библиотека соединена с локальными биопроизводственными клиниками по всему миру",
+        "prompts": [
+          "Open-source medicine library interface connected to local biomanufacturing clinic, doctors and technicians reviewing verified treatment protocols, optimistic documentary realism, 16:9",
+          "Community medical manufacturing hub producing approved medicines from open global protocols, clean biotech future, 16:9",
+          "Global map of open-source medicine access with clinics downloading verified therapies, clean healthcare technology, 16:9",
+          "Scientists contributing medicine designs to a shared public health library, transparent data screens, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-full-limb-replacement-using-cloned-cells-becomes-routine",
+      "order": 16,
+      "slug": "full-limb-replacement-using-cloned-cells-becomes-routine",
+      "title": "Полная замена конечностей с использованием клонированных клеток становится рутинной",
+      "shortTitle": "Замена конечностей из клонированных клеток",
+      "category": "Biology & Medicine",
+      "description": "Регенеративная медицина, клонированные ткани, сосудистые каркасы, интеграция нервов и реабилитационная робототехника делают биологическую замену конечностей обычной процедурой при тяжелых травмах.",
+      "layerId": "technology",
+      "domains": [
+        "regenerative-medicine",
+        "biotechnology",
+        "healthcare"
+      ],
+      "maturity": "routine-clinical-care",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Тяжелая физическая инвалидность из-за потери конечностей становится все более обратимой, трансформируя травматологию, реабилитацию и человеческие возможности.",
+      "signals": [
+        "Клонированные ткани интегрируются с нервами и кровеносными сосудами",
+        "Центры регенеративной хирургии масштабируются за пределы элитных больниц",
+        "Роботизированная реабилитация ускоряет функциональное восстановление"
+      ],
+      "implications": [
+        "Лучшее восстановление после тяжелых травм",
+        "Новые стандарты идентичности, согласия и восстановления тела",
+        "Снижение пожизненной нагрузки от потери конечностей"
+      ],
+      "image": {
+        "alt": "Клиника регенеративной медицины заменяет утраченную конечность с помощью клонированных клеток",
+        "prompts": [
+          "Advanced regenerative medicine clinic growing a replacement limb from cloned cells in a sterile bioreactor, respectful medical documentary realism, 16:9",
+          "Patient learning to move a regenerated biological limb with support from doctors and rehabilitation robots, hopeful clinical scene, 16:9",
+          "Surgeons and AI systems integrating nerves and blood vessels for cloned limb replacement, clean future medicine, 16:9",
+          "Regenerative tissue lab with vascular scaffolds and cloned limb structures under careful monitoring, realistic biotech atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases",
+      "order": 17,
+      "slug": "gene-therapy-eliminates-most-hereditary-genetic-diseases",
+      "title": "Генная терапия устраняет большинство наследственных генетических заболеваний",
+      "shortTitle": "Терапия наследственных заболеваний",
+      "category": "Biology & Medicine",
+      "description": "Безопасные генотерапии и ранний скрининг устраняют или предотвращают большинство наследственных генетических заболеваний до того, как они причиняют пожизненный вред.",
+      "layerId": "technology",
+      "domains": [
+        "gene-therapy",
+        "medicine",
+        "biotechnology"
+      ],
+      "maturity": "preventive-standard",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Семьи сталкиваются с меньшим бременем наследственных заболеваний, а системы здравоохранения переходят от хронического генетического лечения к ранней профилактике.",
+      "signals": [
+        "Терапии редактирования генов доказывают долговечность и безопасность для многих состояний",
+        "Популяционный скрининг рано выявляет лечимые наследственные риски",
+        "Регуляторы определяют строгие границы между терапией и усилением возможностей"
+      ],
+      "implications": [
+        "Снижение страданий от наследственных болезней",
+        "Меньшая долгосрочная нагрузка на здравоохранение",
+        "Серьезное этическое управление человеческой генетикой"
+      ],
+      "image": {
+        "alt": "Клиника генной терапии предотвращает наследственное генетическое заболевание",
+        "prompts": [
+          "Gene therapy clinic where doctors review safe hereditary disease prevention with families, clean hopeful medical future, 16:9",
+          "Advanced biotechnology lab preparing precise gene therapy for inherited disease, realistic documentary style, 16:9",
+          "AI-assisted genomic screening dashboard identifying treatable hereditary risks, respectful healthcare scene, 16:9",
+          "Public health center offering preventive gene therapy under strict ethical oversight, optimistic medical civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-operational-fusion-power-plant-becomes-commercially-stable",
+      "order": 18,
+      "slug": "first-operational-fusion-power-plant-becomes-commercially-stable",
+      "title": "Первая действующая термоядерная электростанция становится коммерчески стабильной",
+      "shortTitle": "Коммерческая термоядерная станция",
+      "category": "Energy",
+      "description": "Термоядерная энергетика достигает надежной коммерческой эксплуатации, обеспечивая города, промышленность, водные системы и продвинутое производство изобильной чистой энергией.",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "infrastructure",
+        "climate-technology"
+      ],
+      "maturity": "commercial-stability",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Энергетическое изобилие ускоряет постдефицитные системы, снижая стоимость воды, материалов, производства, транспорта и восстановления климата.",
+      "signals": [
+        "Термоядерные станции работают с высокой готовностью и предсказуемой мощностью",
+        "Операторы сетей включают термоядерную энергетику в планирование базовой нагрузки",
+        "Промышленные пользователи подписывают долгосрочные контракты на чистую энергию"
+      ],
+      "implications": [
+        "Снижение стоимости чистой энергии",
+        "Более быстрая электрификация тяжелой промышленности",
+        "Новая энергетическая геополитика вокруг термоядерной инфраструктуры"
+      ],
+      "image": {
+        "alt": "Первая коммерчески стабильная термоядерная электростанция снабжает город чистой энергией",
+        "prompts": [
+          "First commercially stable fusion power plant glowing softly beside a clean future city, optimistic energy infrastructure documentary, 16:9",
+          "Fusion control room with engineers monitoring reliable commercial output and grid stability, clean high-tech realism, 16:9",
+          "City skyline powered by a modern fusion plant with clean water and transport systems nearby, post-scarcity foundation, 16:9",
+          "Industrial district using abundant fusion energy for clean manufacturing, bright realistic future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-peace-summit-establishes-the-empathy-interface-protocol",
+      "order": 19,
+      "slug": "global-peace-summit-establishes-the-empathy-interface-protocol",
+      "title": "Глобальный саммит мира учреждает Протокол интерфейса эмпатии",
+      "shortTitle": "Протокол интерфейса эмпатии",
+      "category": "Civilization",
+      "description": "Мировые лидеры, ученые, медиаторы и гражданское общество устанавливают этические правила для интерфейсов эмпатии, которые помогают людям понимать опыт разных культур и конфликтов.",
+      "layerId": "society",
+      "domains": [
+        "governance",
+        "neurotechnology",
+        "peacebuilding"
+      ],
+      "maturity": "global-framework",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2085
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Дипломатия получает новые инструменты для снижения дегуманизации, хотя требуются строгие safeguards для защиты автономии, согласия и эмоциональной приватности.",
+      "signals": [
+        "Исследования интерфейсов эмпатии становятся измеримыми и проверяемыми",
+        "Организации миростроительства тестируют инструменты совместного опыта на основе согласия",
+        "Международные органы определяют права на эмоциональные и нейронные данные"
+      ],
+      "implications": [
+        "Новые формы посредничества в конфликтах",
+        "Более сильное этическое управление нейротехнологиями",
+        "Возможное снижение поляризации и межгрупповой враждебности"
+      ],
+      "image": {
+        "alt": "Глобальный саммит мира учреждает этический протокол интерфейса эмпатии",
+        "prompts": [
+          "Global peace summit where leaders and citizens discuss an ethical empathy interface protocol, calm futuristic diplomacy hall, documentary realism, 16:9",
+          "Mediators using consent-based empathy interface tools to understand conflict experiences without coercion, hopeful civic future, 16:9",
+          "International neuroethics council reviewing emotional privacy and empathy technology safeguards, clean governance scene, 16:9",
+          "Symbolic gathering of diverse communities connected through transparent empathy interface visualization, optimistic human civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment",
+      "order": 20,
+      "slug": "atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment",
+      "title": "Атмосферные очистители на термоядерной энергии начинают масштабное развертывание",
+      "shortTitle": "Термоядерные атмосферные очистители",
+      "category": "Energy",
+      "description": "Крупномасштабные системы очистки атмосферы, питаемые изобильной термоядерной энергией, удаляют загрязнители, избыток парниковых газов и вредные аэрозоли из воздуха.",
+      "layerId": "technology",
+      "domains": [
+        "climate-restoration",
+        "fusion-energy",
+        "atmospheric-engineering"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Восстановление климата становится активной планетарной возможностью, помогая улучшать качество воздуха и стабилизировать долгосрочные экологические системы.",
+      "signals": [
+        "Термоядерная энергия делает доступной обработку больших объемов воздуха",
+        "Атмосферный мониторинг подтверждает удаление загрязнений и углерода",
+        "Климатические договоры регулируют развертывание и региональные последствия"
+      ],
+      "implications": [
+        "Улучшение качества воздуха",
+        "Расширение возможностей удаления углерода",
+        "Новое глобальное управление климатическими технологиями планетарного масштаба"
+      ],
+      "image": {
+        "alt": "Атмосферные очистители на термоядерной энергии удаляют загрязнение из неба",
+        "prompts": [
+          "Fusion-powered atmospheric cleaners operating on the edge of a city, clear sky returning as pollution is removed, clean futuristic documentary, 16:9",
+          "Large climate restoration towers processing air with fusion energy, forests and city skyline in the distance, optimistic planetary repair, 16:9",
+          "Atmospheric engineering control room monitoring carbon removal and air quality across continents, realistic future infrastructure, 16:9",
+          "Massive but elegant air-cleaning structures in a restored industrial zone, bright hopeful climate technology, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-personal-life-managers-coordinate-daily-human-activities",
+      "order": 21,
+      "slug": "ai-personal-life-managers-coordinate-daily-human-activities",
+      "title": "Персональные ИИ-менеджеры жизни координируют повседневную деятельность людей",
+      "shortTitle": "Персональные ИИ-менеджеры жизни",
+      "category": "AI & Computing",
+      "description": "Персональные ИИ-менеджеры жизни координируют повседневную деятельность людей, превращая ИИ в социальную инфраструктуру для логистики, финансов, права, профилактики болезней, личной координации, образования и крупных общественных систем.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Персональные ИИ-менеджеры жизни становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти от систем, основанных на дефиците, к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "ИИ-системы координируют сложные социальные и общественные операции",
+        "Прогнозные модели сокращают отходы, задержки, конфликты и предотвратимые риски",
+        "Человеческий надзор смещается к политике, этике и высокоуровневому руководству"
+      ],
+      "implications": [
+        "Общественные системы становятся быстрее и персонализированнее",
+        "Крупномасштабная координация становится надежнее",
+        "Справедливость зависит от прозрачного управления и широкого доступа"
+      ],
+      "image": {
+        "alt": "Персональные ИИ-менеджеры жизни координируют повседневную деятельность людей",
+        "prompts": [
+          "aI Personal Life Managers Coordinate Daily Human Activities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Personal Life Managers Coordinate Daily Human Activities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Personal Life Managers Coordinate Daily Human Activities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Personal Life Managers Coordinate Daily Human Activities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fully-autonomous-agriculture-complexes-become-common",
+      "order": 22,
+      "slug": "fully-autonomous-agriculture-complexes-become-common",
+      "title": "Полностью автономные сельскохозяйственные комплексы становятся обычными",
+      "shortTitle": "Полностью автономные сельхозкомплексы",
+      "category": "Robotics",
+      "description": "Полностью автономные сельскохозяйственные комплексы становятся обычными, расширяя автономный машинный труд на уход, сельское хозяйство, городское обслуживание, домашнюю поддержку и восстановление морских экосистем в постдефицитном масштабе.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Полностью автономные сельскохозяйственные комплексы становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти от систем дефицита к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Автономные флоты выполняют важные физические услуги",
+        "Роботы работают в домах, на фермах, в городах, океанах и опасных зонах",
+        "Обслуживание и восстановление становятся быстрее и меньше зависят от дефицитного труда"
+      ],
+      "implications": [
+        "Физический труд становится менее необходимым для выживания",
+        "Уход и инфраструктура становятся доступнее",
+        "Человеческая работа смещается к творческим, социальным и надзорным ролям"
+      ],
+      "image": {
+        "alt": "Полностью автономные сельскохозяйственные комплексы становятся обычными",
+        "prompts": [
+          "fully Autonomous Agriculture Complexes Become Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing fully Autonomous Agriculture Complexes Become Common, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of fully Autonomous Agriculture Complexes Become Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating fully Autonomous Agriculture Complexes Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-household-service-robots-handle-most-domestic-tasks",
+      "order": 23,
+      "slug": "household-service-robots-handle-most-domestic-tasks",
+      "title": "Домашние сервисные роботы выполняют большинство бытовых задач",
+      "shortTitle": "Домашние сервисные роботы",
+      "category": "Robotics",
+      "description": "Домашние сервисные роботы выполняют большинство бытовых задач, расширяя автономный машинный труд на уход, сельское хозяйство, городское обслуживание, домашнюю поддержку и восстановление морских экосистем в постдефицитном масштабе.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2073
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Домашние сервисные роботы становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти от систем дефицита к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Автономные флоты выполняют важные физические услуги",
+        "Роботы работают в домах, на фермах, в городах, океанах и опасных зонах",
+        "Обслуживание и восстановление становятся быстрее и меньше зависят от дефицитного труда"
+      ],
+      "implications": [
+        "Физический труд становится менее необходимым для выживания",
+        "Уход и инфраструктура становятся доступнее",
+        "Человеческая работа смещается к творческим, социальным и надзорным ролям"
+      ],
+      "image": {
+        "alt": "Домашние сервисные роботы выполняют большинство бытовых задач",
+        "prompts": [
+          "household Service Robots Handle Most Domestic Tasks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing household Service Robots Handle Most Domestic Tasks, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of household Service Robots Handle Most Domestic Tasks, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating household Service Robots Handle Most Domestic Tasks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-household-service-robots-handle-most-domestic-tasks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-household-service-robots-handle-most-domestic-tasks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-autonomous-infrastructure-repair-robots-maintain-cities",
+      "order": 24,
+      "slug": "autonomous-infrastructure-repair-robots-maintain-cities",
+      "title": "Автономные роботы ремонта инфраструктуры обслуживают города",
+      "shortTitle": "Автономные роботы ремонта инфраструктуры",
+      "category": "Robotics",
+      "description": "Автономные роботы ремонта инфраструктуры обслуживают города, расширяя автономный машинный труд на уход, сельское хозяйство, городское обслуживание, домашнюю поддержку и восстановление морских экосистем в постдефицитном масштабе.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2073
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Автономные роботы ремонта инфраструктуры становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти от систем дефицита к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Автономные флоты выполняют важные физические услуги",
+        "Роботы работают в домах, на фермах, в городах, океанах и опасных зонах",
+        "Обслуживание и восстановление становятся быстрее и меньше зависят от дефицитного труда"
+      ],
+      "implications": [
+        "Физический труд становится менее необходимым для выживания",
+        "Уход и инфраструктура становятся доступнее",
+        "Человеческая работа смещается к творческим, социальным и надзорным ролям"
+      ],
+      "image": {
+        "alt": "Автономные роботы ремонта инфраструктуры обслуживают города",
+        "prompts": [
+          "autonomous Infrastructure Repair Robots Maintain Cities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Infrastructure Repair Robots Maintain Cities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Infrastructure Repair Robots Maintain Cities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Infrastructure Repair Robots Maintain Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems",
+      "order": 25,
+      "slug": "ocean-cleanup-robot-fleets-restore-marine-ecosystems",
+      "title": "Флоты роботов для очистки океана восстанавливают морские экосистемы",
+      "shortTitle": "Флоты роботов очистки океана",
+      "category": "Robotics",
+      "description": "Флоты роботов для очистки океана восстанавливают морские экосистемы, расширяя автономный машинный труд на уход, сельское хозяйство, городское обслуживание, домашнюю поддержку и восстановление морских экосистем в постдефицитном масштабе.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2069,
+        "endYear": 2074
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Флоты роботов для очистки океана становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти от систем дефицита к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Автономные флоты выполняют важные физические услуги",
+        "Роботы работают в домах, на фермах, в городах, океанах и опасных зонах",
+        "Обслуживание и восстановление становятся быстрее и меньше зависят от дефицитного труда"
+      ],
+      "implications": [
+        "Физический труд становится менее необходимым для выживания",
+        "Уход и инфраструктура становятся доступнее",
+        "Человеческая работа смещается к творческим, социальным и надзорным ролям"
+      ],
+      "image": {
+        "alt": "Флоты роботов для очистки океана восстанавливают морские экосистемы",
+        "prompts": [
+          "ocean Cleanup Robot Fleets Restore Marine Ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ocean Cleanup Robot Fleets Restore Marine Ecosystems, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ocean Cleanup Robot Fleets Restore Marine Ecosystems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ocean Cleanup Robot Fleets Restore Marine Ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide",
+      "order": 26,
+      "slug": "fusion-energy-cost-falls-below-fossil-fuels-worldwide",
+      "title": "Стоимость термоядерной энергии во всем мире падает ниже стоимости ископаемого топлива",
+      "shortTitle": "Стоимость термоядерной энергии падает",
+      "category": "Energy",
+      "description": "Падение стоимости термоядерной энергии ниже ископаемого топлива делает изобильную чистую энергию практичной для воды, переработки, еды, очистки атмосферы и ранних основ постдефицитного общества.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "clean-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2070,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Снижение стоимости термоядерной энергии становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти от систем дефицита к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Термоядерные и чистые энергетические системы становятся экономически стабильными",
+        "Энергоемкие общественные блага становятся доступными",
+        "Крупная инфраструктура может работать без зависимости от ископаемого топлива"
+      ],
+      "implications": [
+        "Дефицит воды, еды, жилья и переработки снижается",
+        "Восстановление климата становится практичнее",
+        "Цивилизация получает энергетическую базу для планетарной трансформации"
+      ],
+      "image": {
+        "alt": "Стоимость термоядерной энергии во всем мире падает ниже стоимости ископаемого топлива",
+        "prompts": [
+          "fusion Energy Cost Falls Below Fossil Fuels Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing fusion Energy Cost Falls Below Fossil Fuels Worldwide, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of fusion Energy Cost Falls Below Fossil Fuels Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating fusion Energy Cost Falls Below Fossil Fuels Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-permanent-lunar-city-reaches-10-000-residents",
+      "order": 27,
+      "slug": "permanent-lunar-city-reaches-10-000-residents",
+      "title": "Постоянный лунный город достигает 10 000 жителей",
+      "shortTitle": "Лунный город на 10 000 жителей",
+      "category": "Space",
+      "description": "Постоянный лунный город достигает 10 000 жителей, продвигая внеземное развитие от ранних форпостов к лунным городам, поселениям на Марсе, астероидной промышленности, средам обитания с искусственной гравитацией и регулярному сообщению Земля—Луна.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2070,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Постоянный лунный город на 10 000 жителей становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Постоянные поселения выходят за пределы научных форпостов",
+        "Пассажирские и грузовые маршруты становятся регулярными",
+        "Внеземная промышленность становится частью более широкой экономики"
+      ],
+      "implications": [
+        "Человеческая цивилизация становится более распределенной",
+        "Космическая инфраструктура поддерживает устойчивость и промышленность",
+        "Следующая эпоха цивилизации Солнечной системы становится возможной"
+      ],
+      "image": {
+        "alt": "Постоянный лунный город достигает 10 000 жителей",
+        "prompts": [
+          "permanent Lunar City Reaches 10,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing permanent Lunar City Reaches 10,000 Residents, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of permanent Lunar City Reaches 10,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating permanent Lunar City Reaches 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies",
+      "order": 28,
+      "slug": "first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies",
+      "title": "Первое самодостаточное поселение на Марсе достигает независимости от поставок с Земли",
+      "shortTitle": "Самодостаточное поселение на Марсе",
+      "category": "Space",
+      "description": "Первое самодостаточное поселение на Марсе достигает независимости от земных поставок, продвигая внеземное развитие от ранних форпостов к лунным городам, марсианским поселениям, астероидной промышленности, средам с искусственной гравитацией и регулярному сообщению Земля—Луна.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2071,
+        "endYear": 2076
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Первое самодостаточное поселение на Марсе становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Постоянные поселения выходят за пределы научных форпостов",
+        "Пассажирские и грузовые маршруты становятся регулярными",
+        "Внеземная промышленность становится частью более широкой экономики"
+      ],
+      "implications": [
+        "Человеческая цивилизация становится более распределенной",
+        "Космическая инфраструктура поддерживает устойчивость и промышленность",
+        "Следующая эпоха цивилизации Солнечной системы становится возможной"
+      ],
+      "image": {
+        "alt": "Первое самодостаточное поселение на Марсе достигает независимости от поставок с Земли",
+        "prompts": [
+          "first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-asteroid-mining-industry-reaches-commercial-scale",
+      "order": 29,
+      "slug": "asteroid-mining-industry-reaches-commercial-scale",
+      "title": "Промышленность добычи астероидов достигает коммерческого масштаба",
+      "shortTitle": "Коммерческая добыча астероидов",
+      "category": "Space",
+      "description": "Промышленность добычи астероидов достигает коммерческого масштаба, продвигая внеземное развитие от ранних форпостов к лунным городам, марсианским поселениям, астероидной промышленности, средам с искусственной гравитацией и регулярному сообщению Земля—Луна.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2071,
+        "endYear": 2076
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Добыча астероидов коммерческого масштаба становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Постоянные поселения выходят за пределы научных форпостов",
+        "Пассажирские и грузовые маршруты становятся регулярными",
+        "Внеземная промышленность становится частью более широкой экономики"
+      ],
+      "implications": [
+        "Человеческая цивилизация становится более распределенной",
+        "Космическая инфраструктура поддерживает устойчивость и промышленность",
+        "Следующая эпоха цивилизации Солнечной системы становится возможной"
+      ],
+      "image": {
+        "alt": "Промышленность добычи астероидов достигает коммерческого масштаба",
+        "prompts": [
+          "asteroid Mining Industry Reaches Commercial Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing asteroid Mining Industry Reaches Commercial Scale, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of asteroid Mining Industry Reaches Commercial Scale, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating asteroid Mining Industry Reaches Commercial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-artificial-gravity-space-habitat-opens-to-residents",
+      "order": 30,
+      "slug": "artificial-gravity-space-habitat-opens-to-residents",
+      "title": "Космическая среда обитания с искусственной гравитацией открывается для жителей",
+      "shortTitle": "Среда обитания с искусственной гравитацией",
+      "category": "Space",
+      "description": "Космическая среда обитания с искусственной гравитацией открывается для жителей, продвигая внеземное развитие от ранних форпостов к лунным городам, марсианским поселениям, астероидной промышленности, средам с искусственной гравитацией и регулярному сообщению Земля—Луна.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2072,
+        "endYear": 2077
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Космическая среда обитания с искусственной гравитацией становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Постоянные поселения выходят за пределы научных форпостов",
+        "Пассажирские и грузовые маршруты становятся регулярными",
+        "Внеземная промышленность становится частью более широкой экономики"
+      ],
+      "implications": [
+        "Человеческая цивилизация становится более распределенной",
+        "Космическая инфраструктура поддерживает устойчивость и промышленность",
+        "Следующая эпоха цивилизации Солнечной системы становится возможной"
+      ],
+      "image": {
+        "alt": "Космическая среда обитания с искусственной гравитацией открывается для жителей",
+        "prompts": [
+          "artificial Gravity Space Habitat Opens to Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Space Habitat Opens to Residents, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Space Habitat Opens to Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Space Habitat Opens to Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-earth-moon-passenger-transport-becomes-routine",
+      "order": 31,
+      "slug": "earth-moon-passenger-transport-becomes-routine",
+      "title": "Пассажирские перевозки Земля—Луна становятся регулярными",
+      "shortTitle": "Регулярный транспорт Земля—Луна",
+      "category": "Space",
+      "description": "Пассажирские перевозки Земля—Луна становятся регулярными, продвигая внеземное развитие от ранних форпостов к лунным городам, марсианским поселениям, астероидной промышленности, средам с искусственной гравитацией и регулярному сообщению Земля—Луна.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2073,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Регулярный пассажирский транспорт Земля—Луна становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Постоянные поселения выходят за пределы научных форпостов",
+        "Пассажирские и грузовые маршруты становятся регулярными",
+        "Внеземная промышленность становится частью более широкой экономики"
+      ],
+      "implications": [
+        "Человеческая цивилизация становится более распределенной",
+        "Космическая инфраструктура поддерживает устойчивость и промышленность",
+        "Следующая эпоха цивилизации Солнечной системы становится возможной"
+      ],
+      "image": {
+        "alt": "Пассажирские перевозки Земля—Луна становятся регулярными",
+        "prompts": [
+          "earth-Moon Passenger Transport Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon Passenger Transport Becomes Routine, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon Passenger Transport Becomes Routine, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon Passenger Transport Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-earth-moon-passenger-transport-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-earth-moon-passenger-transport-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-organ-printing-replaces-most-donor-transplants",
+      "order": 32,
+      "slug": "organ-printing-replaces-most-donor-transplants",
+      "title": "Печать органов заменяет большинство донорских трансплантаций",
+      "shortTitle": "Печать органов вместо донорства",
+      "category": "Biology & Medicine",
+      "description": "Печать органов заменяет большинство донорских трансплантаций, расширяя медицину от лечения к регенерации, профилактике, открытому доступу, печати органов и значительному росту здоровой продолжительности жизни.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2073,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Печать органов становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти от систем дефицита к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Регенеративная медицина становится широко доступной",
+        "Профилактика болезней улучшается благодаря глобальному мониторингу и персонализированным системам",
+        "Биологическое восстановление становится надежнее и доступнее"
+      ],
+      "implications": [
+        "Продолжительность здоровой жизни резко растет",
+        "Доступ к медицине становится базовой постдефицитной услугой",
+        "Человеческая идентичность начинает отделяться от биологических ограничений"
+      ],
+      "image": {
+        "alt": "Печать органов заменяет большинство донорских трансплантаций",
+        "prompts": [
+          "organ Printing Replaces Most Donor Transplants, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing organ Printing Replaces Most Donor Transplants, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of organ Printing Replaces Most Donor Transplants, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating organ Printing Replaces Most Donor Transplants, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-organ-printing-replaces-most-donor-transplants.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-organ-printing-replaces-most-donor-transplants.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-human-lifespan-exceeds-120-years-for-the-majority-population",
+      "order": 33,
+      "slug": "human-lifespan-exceeds-120-years-for-the-majority-population",
+      "title": "Продолжительность жизни человека превышает 120 лет для большинства населения",
+      "shortTitle": "Жизнь человека свыше 120 лет",
+      "category": "Biology & Medicine",
+      "description": "Продолжительность жизни человека превышает 120 лет для большинства населения, расширяя медицину от лечения к регенерации, профилактике, открытому доступу, печати органов и значительному росту здоровой продолжительности жизни.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2074,
+        "endYear": 2079
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Продолжительность жизни свыше 120 лет становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Регенеративная медицина становится широко доступной",
+        "Профилактика болезней улучшается благодаря глобальному мониторингу и персонализированным системам",
+        "Биологическое восстановление становится надежнее и доступнее"
+      ],
+      "implications": [
+        "Продолжительность здоровой жизни резко растет",
+        "Доступ к медицине становится базовой постдефицитной услугой",
+        "Человеческая идентичность начинает отделяться от биологических ограничений"
+      ],
+      "image": {
+        "alt": "Продолжительность жизни человека превышает 120 лет для большинства населения",
+        "prompts": [
+          "human Lifespan Exceeds 120 Years for the Majority Population, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Lifespan Exceeds 120 Years for the Majority Population, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Lifespan Exceeds 120 Years for the Majority Population, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Lifespan Exceeds 120 Years for the Majority Population, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-artificial-gravity-systems-become-reliable-for-large-habitats",
+      "order": 34,
+      "slug": "artificial-gravity-systems-become-reliable-for-large-habitats",
+      "title": "Системы искусственной гравитации становятся надежными для крупных сред обитания",
+      "shortTitle": "Надежная искусственная гравитация",
+      "category": "Physics",
+      "description": "Системы искусственной гравитации становятся надежными для крупных сред обитания, переводя передовую физику в практическую инфраструктуру для квантовой связи, искусственной гравитации, радиационной защиты, белковой науки и сверхпроводящих систем.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2074,
+        "endYear": 2079
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Надежная искусственная гравитация становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Квантовые и гравитационные системы становятся инженерными сервисами",
+        "Продвинутые измерения улучшают инфраструктуру и навигацию",
+        "Вычислительная мощность решает ранее недоступные задачи"
+      ],
+      "implications": [
+        "Новые классы инфраструктуры становятся практичными",
+        "Космическое проживание становится безопаснее и комфортнее",
+        "Научный прогресс ускоряется в медицине, материалах и энергетике"
+      ],
+      "image": {
+        "alt": "Системы искусственной гравитации становятся надежными для крупных сред обитания",
+        "prompts": [
+          "artificial Gravity Systems Become Reliable for Large Habitats, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Systems Become Reliable for Large Habitats, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Systems Become Reliable for Large Habitats, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Systems Become Reliable for Large Habitats, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-quantum-communication-networks-become-globally-standard",
+      "order": 35,
+      "slug": "quantum-communication-networks-become-globally-standard",
+      "title": "Квантовые коммуникационные сети становятся глобальным стандартом",
+      "shortTitle": "Глобальные квантовые сети связи",
+      "category": "Physics",
+      "description": "Квантовые коммуникационные сети становятся глобальным стандартом, переводя передовую физику в практическую инфраструктуру для квантовой связи, искусственной гравитации, радиационной защиты, белковой науки и сверхпроводящих систем.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2075,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Квантовые сети связи становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Квантовые и гравитационные системы становятся инженерными сервисами",
+        "Продвинутые измерения улучшают инфраструктуру и навигацию",
+        "Вычислительная мощность решает ранее недоступные задачи"
+      ],
+      "implications": [
+        "Новые классы инфраструктуры становятся практичными",
+        "Космическое проживание становится безопаснее и комфортнее",
+        "Научный прогресс ускоряется в медицине, материалах и энергетике"
+      ],
+      "image": {
+        "alt": "Квантовые коммуникационные сети становятся глобальным стандартом",
+        "prompts": [
+          "quantum Communication Networks Become Globally Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Communication Networks Become Globally Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Communication Networks Become Globally Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Communication Networks Become Globally Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-quantum-communication-networks-become-globally-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-quantum-communication-networks-become-globally-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-magnetic-radiation-shielding-protects-space-settlements",
+      "order": 36,
+      "slug": "magnetic-radiation-shielding-protects-space-settlements",
+      "title": "Магнитная радиационная защита оберегает космические поселения",
+      "shortTitle": "Магнитная радиационная защита",
+      "category": "Physics",
+      "description": "Магнитная радиационная защита оберегает космические поселения, переводя передовую физику в практическую инфраструктуру для квантовой связи, искусственной гравитации, радиационной защиты, белковой науки и сверхпроводящих систем.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2076,
+        "endYear": 2081
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Магнитная радиационная защита становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Квантовые и гравитационные системы становятся инженерными сервисами",
+        "Продвинутые измерения улучшают инфраструктуру и навигацию",
+        "Вычислительная мощность решает ранее недоступные задачи"
+      ],
+      "implications": [
+        "Новые классы инфраструктуры становятся практичными",
+        "Космическое проживание становится безопаснее и комфортнее",
+        "Научный прогресс ускоряется в медицине, материалах и энергетике"
+      ],
+      "image": {
+        "alt": "Магнитная радиационная защита оберегает космические поселения",
+        "prompts": [
+          "magnetic Radiation Shielding Protects Space Settlements, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing magnetic Radiation Shielding Protects Space Settlements, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of magnetic Radiation Shielding Protects Space Settlements, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating magnetic Radiation Shielding Protects Space Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-large-scale-quantum-computing-solves-protein-folding-universally",
+      "order": 37,
+      "slug": "large-scale-quantum-computing-solves-protein-folding-universally",
+      "title": "Крупномасштабные квантовые вычисления универсально решают задачу сворачивания белков",
+      "shortTitle": "Квантовое решение сворачивания белков",
+      "category": "Physics",
+      "description": "Крупномасштабные квантовые вычисления универсально решают задачу сворачивания белков, переводя передовую физику в практическую инфраструктуру для квантовой связи, искусственной гравитации, радиационной защиты, белковой науки и сверхпроводящих систем.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2076,
+        "endYear": 2081
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Квантовое решение сворачивания белков становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Квантовые и гравитационные системы становятся инженерными сервисами",
+        "Продвинутые измерения улучшают инфраструктуру и навигацию",
+        "Вычислительная мощность решает ранее недоступные задачи"
+      ],
+      "implications": [
+        "Новые классы инфраструктуры становятся практичными",
+        "Космическое проживание становится безопаснее и комфортнее",
+        "Научный прогресс ускоряется в медицине, материалах и энергетике"
+      ],
+      "image": {
+        "alt": "Крупномасштабные квантовые вычисления универсально решают задачу сворачивания белков",
+        "prompts": [
+          "large-Scale Quantum Computing Solves Protein Folding Universally, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing large-Scale Quantum Computing Solves Protein Folding Universally, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of large-Scale Quantum Computing Solves Protein Folding Universally, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating large-Scale Quantum Computing Solves Protein Folding Universally, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-room-temperature-superconductors-become-commercially-common",
+      "order": 38,
+      "slug": "room-temperature-superconductors-become-commercially-common",
+      "title": "Сверхпроводники комнатной температуры становятся коммерчески распространенными",
+      "shortTitle": "Сверхпроводники комнатной температуры",
+      "category": "Physics",
+      "description": "Сверхпроводники комнатной температуры становятся коммерчески распространенными, переводя передовую физику в практическую инфраструктуру для квантовой связи, искусственной гравитации, радиационной защиты, белковой науки и сверхпроводящих систем.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2077,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Сверхпроводники комнатной температуры становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Квантовые и гравитационные системы становятся инженерными сервисами",
+        "Продвинутые измерения улучшают инфраструктуру и навигацию",
+        "Вычислительная мощность решает ранее недоступные задачи"
+      ],
+      "implications": [
+        "Новые классы инфраструктуры становятся практичными",
+        "Космическое проживание становится безопаснее и комфортнее",
+        "Научный прогресс ускоряется в медицине, материалах и энергетике"
+      ],
+      "image": {
+        "alt": "Сверхпроводники комнатной температуры становятся коммерчески распространенными",
+        "prompts": [
+          "room-Temperature Superconductors Become Commercially Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing room-Temperature Superconductors Become Commercially Common, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of room-Temperature Superconductors Become Commercially Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating room-Temperature Superconductors Become Commercially Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-room-temperature-superconductors-become-commercially-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-room-temperature-superconductors-become-commercially-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-self-healing-infrastructure-materials-become-standard",
+      "order": 39,
+      "slug": "self-healing-infrastructure-materials-become-standard",
+      "title": "Самовосстанавливающиеся инфраструктурные материалы становятся стандартом",
+      "shortTitle": "Самовосстанавливающиеся материалы",
+      "category": "Materials & Manufacturing",
+      "description": "Самовосстанавливающиеся инфраструктурные материалы становятся стандартом, снижая стоимость жилья и физических товаров через термоядерную переработку, самовосстанавливающуюся инфраструктуру, программируемую материю и молекулярное производство.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2077,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Самовосстанавливающиеся инфраструктурные материалы становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Циклическое производство снижает спрос на первичные материалы",
+        "Здания и инфраструктура ремонтируют себя сами",
+        "Молекулярное и программируемое производство достигает промышленного применения"
+      ],
+      "implications": [
+        "Жилье и товары становятся дешевле",
+        "Отходы резко сокращаются",
+        "Инфраструктура становится более устойчивой и адаптивной"
+      ],
+      "image": {
+        "alt": "Самовосстанавливающиеся инфраструктурные материалы становятся стандартом",
+        "prompts": [
+          "self-Healing Infrastructure Materials Become Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Infrastructure Materials Become Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Infrastructure Materials Become Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Infrastructure Materials Become Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-self-healing-infrastructure-materials-become-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-self-healing-infrastructure-materials-become-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-programmable-matter-enters-industrial-production",
+      "order": 40,
+      "slug": "programmable-matter-enters-industrial-production",
+      "title": "Программируемая материя входит в промышленное производство",
+      "shortTitle": "Промышленная программируемая материя",
+      "category": "Materials & Manufacturing",
+      "description": "Программируемая материя входит в промышленное производство, снижая стоимость жилья и физических товаров через термоядерную переработку, самовосстанавливающуюся инфраструктуру, программируемую материю и молекулярное производство.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2083
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Программируемая материя становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Циклическое производство снижает спрос на первичные материалы",
+        "Здания и инфраструктура ремонтируют себя сами",
+        "Молекулярное и программируемое производство достигает промышленного применения"
+      ],
+      "implications": [
+        "Жилье и товары становятся дешевле",
+        "Отходы резко сокращаются",
+        "Инфраструктура становится более устойчивой и адаптивной"
+      ],
+      "image": {
+        "alt": "Программируемая материя входит в промышленное производство",
+        "prompts": [
+          "programmable Matter Enters Industrial Production, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Enters Industrial Production, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Enters Industrial Production, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Enters Industrial Production, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-programmable-matter-enters-industrial-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-programmable-matter-enters-industrial-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-molecular-manufacturing-begins-commercial-deployment",
+      "order": 41,
+      "slug": "molecular-manufacturing-begins-commercial-deployment",
+      "title": "Молекулярное производство начинает коммерческое развертывание",
+      "shortTitle": "Молекулярное производство",
+      "category": "Materials & Manufacturing",
+      "description": "Молекулярное производство начинает коммерческое развертывание, снижая стоимость жилья и физических товаров через термоядерную переработку, самовосстанавливающуюся инфраструктуру, программируемую материю и молекулярное производство.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2079,
+        "endYear": 2084
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Молекулярное производство становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Циклическое производство снижает спрос на первичные материалы",
+        "Здания и инфраструктура ремонтируют себя сами",
+        "Молекулярное и программируемое производство достигает промышленного применения"
+      ],
+      "implications": [
+        "Жилье и товары становятся дешевле",
+        "Отходы резко сокращаются",
+        "Инфраструктура становится более устойчивой и адаптивной"
+      ],
+      "image": {
+        "alt": "Молекулярное производство начинает коммерческое развертывание",
+        "prompts": [
+          "molecular Manufacturing Begins Commercial Deployment, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing molecular Manufacturing Begins Commercial Deployment, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of molecular Manufacturing Begins Commercial Deployment, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating molecular Manufacturing Begins Commercial Deployment, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-biodiversity-loss-stops-and-global-recovery-begins",
+      "order": 42,
+      "slug": "biodiversity-loss-stops-and-global-recovery-begins",
+      "title": "Потеря биоразнообразия останавливается, и начинается глобальное восстановление",
+      "shortTitle": "Восстановление биоразнообразия",
+      "category": "Environment",
+      "description": "Остановка потери биоразнообразия и начало глобального восстановления стабилизируют базовые системы жизнеобеспечения через чистую воду, опреснение, координацию климатических беженцев, восстановление биоразнообразия, озеленение пустынь и очистку атмосферы.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2079,
+        "endYear": 2084
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Глобальное восстановление биоразнообразия становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Проекты восстановления становятся измеримыми в региональном и глобальном масштабе",
+        "Водные и продовольственные системы становятся устойчивее",
+        "Климатические данные направляют вмешательства в реальном времени"
+      ],
+      "implications": [
+        "Риск экологического коллапса снижается",
+        "Обитаемые земли и биоразнообразие восстанавливаются",
+        "Планетарное stewardship становится основной цивилизационной ролью"
+      ],
+      "image": {
+        "alt": "Потеря биоразнообразия останавливается, и начинается глобальное восстановление",
+        "prompts": [
+          "biodiversity Loss Stops and Global Recovery Begins, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biodiversity Loss Stops and Global Recovery Begins, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biodiversity Loss Stops and Global Recovery Begins, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biodiversity Loss Stops and Global Recovery Begins, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-desert-greening-projects-restore-millions-of-square-kilometers",
+      "order": 43,
+      "slug": "desert-greening-projects-restore-millions-of-square-kilometers",
+      "title": "Проекты озеленения пустынь восстанавливают миллионы квадратных километров",
+      "shortTitle": "Озеленение пустынь",
+      "category": "Environment",
+      "description": "Проекты озеленения пустынь восстанавливают миллионы квадратных километров, стабилизируя базовые системы жизнеобеспечения через чистую воду, опреснение, координацию климатических беженцев, восстановление биоразнообразия, озеленение пустынь и очистку атмосферы.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Озеленение пустынь становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Проекты восстановления становятся измеримыми в региональном и глобальном масштабе",
+        "Водные и продовольственные системы становятся устойчивее",
+        "Климатические данные направляют вмешательства в реальном времени"
+      ],
+      "implications": [
+        "Риск экологического коллапса снижается",
+        "Обитаемые земли и биоразнообразие восстанавливаются",
+        "Планетарное stewardship становится основной цивилизационной ролью"
+      ],
+      "image": {
+        "alt": "Проекты озеленения пустынь восстанавливают миллионы квадратных километров",
+        "prompts": [
+          "desert Greening Projects Restore Millions of Square Kilometers, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing desert Greening Projects Restore Millions of Square Kilometers, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of desert Greening Projects Restore Millions of Square Kilometers, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating desert Greening Projects Restore Millions of Square Kilometers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-carbon-concentration-returns-below-pre-industrial-levels",
+      "order": 44,
+      "slug": "carbon-concentration-returns-below-pre-industrial-levels",
+      "title": "Концентрация углерода возвращается ниже доиндустриального уровня",
+      "shortTitle": "Углерод ниже доиндустриального уровня",
+      "category": "Environment",
+      "description": "Возвращение концентрации углерода ниже доиндустриального уровня стабилизирует базовые системы жизнеобеспечения через чистую воду, опреснение, координацию климатических беженцев, восстановление биоразнообразия, озеленение пустынь и очистку атмосферы.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Возвращение концентрации углерода ниже доиндустриального уровня становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Проекты восстановления становятся измеримыми в региональном и глобальном масштабе",
+        "Водные и продовольственные системы становятся устойчивее",
+        "Климатические данные направляют вмешательства в реальном времени"
+      ],
+      "implications": [
+        "Риск экологического коллапса снижается",
+        "Обитаемые земли и биоразнообразие восстанавливаются",
+        "Планетарное stewardship становится основной цивилизационной ролью"
+      ],
+      "image": {
+        "alt": "Концентрация углерода возвращается ниже доиндустриального уровня",
+        "prompts": [
+          "carbon Concentration Returns Below Pre-Industrial Levels, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Concentration Returns Below Pre-Industrial Levels, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Concentration Returns Below Pre-Industrial Levels, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Concentration Returns Below Pre-Industrial Levels, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-four-day-workweek-becomes-global-standard",
+      "order": 45,
+      "slug": "four-day-workweek-becomes-global-standard",
+      "title": "Четырехдневная рабочая неделя становится глобальным стандартом",
+      "shortTitle": "Глобальная четырехдневная неделя",
+      "category": "Society & Economy",
+      "description": "Четырехдневная рабочая неделя становится глобальным стандартом, перестраивая социальную поддержку, образование, бедность, долги, работу и базовые услуги вокруг универсального доступа и изобилия, а не управления дефицитом.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2081,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Четырехдневная рабочая неделя становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Универсальные услуги расширяются за пределы традиционной социальной поддержки",
+        "Рабочие часы сокращаются по мере роста продуктивности благодаря автоматизации",
+        "Базовые потребности становятся меньше привязаны к занятости или богатству"
+      ],
+      "implications": [
+        "Социальная стабильность улучшается",
+        "Человеческий потенциал расширяется через образование и доступ",
+        "Экономические системы смещаются от выживания к процветанию"
+      ],
+      "image": {
+        "alt": "Четырехдневная рабочая неделя становится глобальным стандартом",
+        "prompts": [
+          "four-Day Workweek Becomes Global Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing four-Day Workweek Becomes Global Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of four-Day Workweek Becomes Global Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating four-Day Workweek Becomes Global Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-four-day-workweek-becomes-global-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-four-day-workweek-becomes-global-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-extreme-poverty-falls-below-one-percent-worldwide",
+      "order": 46,
+      "slug": "extreme-poverty-falls-below-one-percent-worldwide",
+      "title": "Крайняя бедность во всем мире падает ниже одного процента",
+      "shortTitle": "Крайняя бедность ниже 1%",
+      "category": "Society & Economy",
+      "description": "Падение крайней бедности ниже одного процента перестраивает социальную поддержку, образование, бедность, долги, работу и базовые услуги вокруг универсального доступа и изобилия, а не управления дефицитом.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Падение крайней бедности ниже одного процента становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Универсальные услуги расширяются за пределы традиционной социальной поддержки",
+        "Рабочие часы сокращаются по мере роста продуктивности благодаря автоматизации",
+        "Базовые потребности становятся меньше привязаны к занятости или богатству"
+      ],
+      "implications": [
+        "Социальная стабильность улучшается",
+        "Человеческий потенциал расширяется через образование и доступ",
+        "Экономические системы смещаются от выживания к процветанию"
+      ],
+      "image": {
+        "alt": "Крайняя бедность во всем мире падает ниже одного процента",
+        "prompts": [
+          "extreme Poverty Falls Below One Percent Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing extreme Poverty Falls Below One Percent Worldwide, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of extreme Poverty Falls Below One Percent Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating extreme Poverty Falls Below One Percent Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-cashless-economies-become-nearly-universal",
+      "order": 47,
+      "slug": "cashless-economies-become-nearly-universal",
+      "title": "Безналичные экономики становятся почти универсальными",
+      "shortTitle": "Почти универсальные безналичные экономики",
+      "category": "Society & Economy",
+      "description": "Безналичные экономики становятся почти универсальными, перестраивая социальную поддержку, образование, бедность, долги, работу и базовые услуги вокруг универсального доступа и изобилия, а не управления дефицитом.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Безналичные экономики становятся определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Универсальные услуги расширяются за пределы традиционной социальной поддержки",
+        "Рабочие часы сокращаются по мере роста продуктивности благодаря автоматизации",
+        "Базовые потребности становятся меньше привязаны к занятости или богатству"
+      ],
+      "implications": [
+        "Социальная стабильность улучшается",
+        "Человеческий потенциал расширяется через образование и доступ",
+        "Экономические системы смещаются от выживания к процветанию"
+      ],
+      "image": {
+        "alt": "Безналичные экономики становятся почти универсальными",
+        "prompts": [
+          "cashless Economies Become Nearly Universal, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cashless Economies Become Nearly Universal, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cashless Economies Become Nearly Universal, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cashless Economies Become Nearly Universal, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-cashless-economies-become-nearly-universal.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-cashless-economies-become-nearly-universal.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-human-rights-framework-expands-to-include-ai-entities",
+      "order": 48,
+      "slug": "global-human-rights-framework-expands-to-include-ai-entities",
+      "title": "Глобальная рамка прав человека расширяется, включая ИИ-сущности",
+      "shortTitle": "Глобальная рамка прав человека",
+      "category": "Civilization",
+      "description": "Глобальная рамка прав человека расширяется, включая ИИ-сущности, создавая новые институты управления, мира, прав и планетарных ресурсов, необходимые обществу изобилия.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2083,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Расширение глобальной рамки прав человека становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Управление выходит за пределы кризисного реагирования отдельных государств",
+        "Рамки прав адаптируются к ИИ и продвинутым системам",
+        "Глобальные институты координируют ресурсы, мир и общественную инфраструктуру"
+      ],
+      "implications": [
+        "Цивилизация становится более скоординированной на планетарном масштабе",
+        "Политические системы адаптируются к изобилию и автоматизации",
+        "Человечество получает институты для планетарной трансформации"
+      ],
+      "image": {
+        "alt": "Глобальная рамка прав человека расширяется, включая ИИ-сущности",
+        "prompts": [
+          "global Human Rights Framework Expands to Include AI Entities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Human Rights Framework Expands to Include AI Entities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Human Rights Framework Expands to Include AI Entities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Human Rights Framework Expands to Include AI Entities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-planetary-resource-governance-council-is-established",
+      "order": 49,
+      "slug": "first-planetary-resource-governance-council-is-established",
+      "title": "Учреждается первый Совет управления планетарными ресурсами",
+      "shortTitle": "Совет управления планетарными ресурсами",
+      "category": "Civilization",
+      "description": "Первый Совет управления планетарными ресурсами создает новые институты управления, мира, прав и планетарных ресурсов, необходимые обществу изобилия.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2083,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Совет управления планетарными ресурсами становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Управление выходит за пределы кризисного реагирования отдельных государств",
+        "Рамки прав адаптируются к ИИ и продвинутым системам",
+        "Глобальные институты координируют ресурсы, мир и общественную инфраструктуру"
+      ],
+      "implications": [
+        "Цивилизация становится более скоординированной на планетарном масштабе",
+        "Политические системы адаптируются к изобилию и автоматизации",
+        "Человечество получает институты для планетарной трансформации"
+      ],
+      "image": {
+        "alt": "Учреждается первый Совет управления планетарными ресурсами",
+        "prompts": [
+          "first Planetary Resource Governance Council Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Planetary Resource Governance Council Is Established, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Planetary Resource Governance Council Is Established, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Planetary Resource Governance Council Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-planetary-resource-governance-council-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-planetary-resource-governance-council-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-human-development-index-reaches-historical-high-across-most-nations",
+      "order": 50,
+      "slug": "human-development-index-reaches-historical-high-across-most-nations",
+      "title": "Индекс человеческого развития достигает исторического максимума в большинстве стран",
+      "shortTitle": "Исторический максимум ИЧР",
+      "category": "Civilization",
+      "description": "Индекс человеческого развития достигает исторического максимума в большинстве стран, создавая новые институты управления, мира, прав и планетарных ресурсов, необходимые обществу изобилия.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2084,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Исторический максимум человеческого развития становится определяющей вехой основ постдефицитной цивилизации, помогая человечеству перейти к изобилию, устойчивости и универсальному доступу.",
+      "signals": [
+        "Управление выходит за пределы кризисного реагирования отдельных государств",
+        "Рамки прав адаптируются к ИИ и продвинутым системам",
+        "Глобальные институты координируют ресурсы, мир и общественную инфраструктуру"
+      ],
+      "implications": [
+        "Цивилизация становится более скоординированной на планетарном масштабе",
+        "Политические системы адаптируются к изобилию и автоматизации",
+        "Человечество получает институты для планетарной трансформации"
+      ],
+      "image": {
+        "alt": "Индекс человеческого развития достигает исторического максимума в большинстве стран",
+        "prompts": [
+          "human Development Index Reaches Historical High Across Most Nations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Development Index Reaches Historical High Across Most Nations, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Development Index Reaches Historical High Across Most Nations, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Development Index Reaches Historical High Across Most Nations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

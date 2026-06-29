@@ -1,0 +1,3296 @@
+{
+  "era": {
+    "id": "era-01",
+    "order": 1,
+    "slug": "near-future-breakthroughs",
+    "title": "นวัตกรรมเปลี่ยนอารยธรรมในอนาคตอันใกล้",
+    "subtitle": "คลื่นลูกแรกของการค้นพบที่เริ่มเปลี่ยนทิศทางอารยธรรม",
+    "description": "ยุคนี้เปิดด้วยความก้าวหน้าใน AI หุ่นยนต์ การแพทย์ เทคโนโลยีภูมิอากาศ วัสดุศาสตร์ และระบบอัตโนมัติด้านอวกาศระยะเริ่มต้น",
+    "timeframe": {
+      "label": "อนาคตอันใกล้",
+      "startYear": 2030,
+      "endYear": 2045,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "technology",
+      "mood": "optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "ยุคที่ 1: นวัตกรรมอนาคตอันใกล้ | แผนที่อารยธรรมอนาคต",
+      "metaDescription": "สำรวจความก้าวหน้าอนาคตอันใกล้ใน AI หุ่นยนต์ การตรวจมะเร็ง วัสดุเพื่อภูมิอากาศ หุ่นยนต์ดวงจันทร์ และเมืองที่ซ่อมแซมตัวเองได้",
+      "keywords": [
+        "เทคโนโลยีอนาคต",
+        "หุ่นยนต์ AI",
+        "การตรวจมะเร็งจากเลือด",
+        "อารยธรรมอนาคต",
+        "เทคโนโลยีภูมิอากาศ"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-01-ai-hospital-triage-becomes-standard-worldwide",
+      "order": 1,
+      "slug": "ai-hospital-triage-becomes-standard-worldwide",
+      "title": "ระบบคัดกรองผู้ป่วยด้วย AI กลายเป็นมาตรฐานในโรงพยาบาลทั่วโลก",
+      "shortTitle": "คัดกรองผู้ป่วยด้วย AI",
+      "category": "AI & Computing",
+      "description": "โรงพยาบาลเริ่มใช้ระบบคัดกรองด้วย AI เพื่อช่วยจำแนกระดับความเร่งด่วน ตรวจสัญญาณเตือนตั้งแต่ระยะต้น ส่งต่อผู้ป่วยได้เร็วขึ้น และลดภาระของแผนกฉุกเฉิน",
+      "layerId": "technology",
+      "domains": ["artificial-intelligence", "healthcare", "public-systems"],
+      "maturity": "early-standardization",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2036
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ระบบสาธารณสุขกลายเป็นเชิงรุก รวดเร็ว และเข้าถึงได้มากขึ้น โดยเฉพาะในระบบสุขภาพสาธารณะที่มีภาระงานสูง",
+      "signals": [
+        "เครื่องมือรับผู้ป่วยฉุกเฉินที่มี AI ช่วยสนับสนุนได้รับการกำกับดูแลเป็นซอฟต์แวร์ทางการแพทย์",
+        "โรงพยาบาลเชื่อมโมเดลคัดกรองเข้ากับเวชระเบียนอิเล็กทรอนิกส์",
+        "การรับข้อมูลผู้ป่วยจากระยะไกลก่อนมาถึงโรงพยาบาลกลายเป็นเรื่องปกติ"
+      ],
+      "implications": [
+        "ผู้ป่วยเร่งด่วนรอคิวน้อยลง",
+        "ตรวจพบอาการทรุดลงได้เร็วขึ้น",
+        "เกิดมาตรฐานธรรมาภิบาลใหม่สำหรับความรับผิดชอบของ AI ทางการแพทย์"
+      ],
+      "image": {
+        "alt": "แดชบอร์ดคัดกรองผู้ป่วยด้วย AI ช่วยบุคลากรแพทย์ในแผนกฉุกเฉินสมัยใหม่",
+        "prompts": [
+          "Clean futuristic documentary scene of an AI hospital triage desk, doctors reviewing patient risk scores on transparent screens, bright modern emergency department, realistic, 16:9",
+          "Close-up of a nurse using an AI-assisted patient intake tablet, soft clinical lighting, diverse patients waiting calmly, realistic healthcare technology, 16:9",
+          "Wide view of a smart emergency room command center with live patient flow analytics, medical staff coordinating care, optimistic near future, 16:9",
+          "Human doctor and AI diagnostic interface working together during hospital triage, ethical and calm atmosphere, cinematic documentary realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-hospital-triage-becomes-standard-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-hospital-triage-becomes-standard-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-carbon-negative-concrete-enters-mass-production",
+      "order": 2,
+      "slug": "carbon-negative-concrete-enters-mass-production",
+      "title": "คอนกรีตคาร์บอนติดลบเข้าสู่การผลิตจำนวนมาก",
+      "shortTitle": "คอนกรีตคาร์บอนติดลบ",
+      "category": "Materials & Manufacturing",
+      "description": "กระบวนการผลิตปูนซีเมนต์และคอนกรีตรุ่นใหม่กักเก็บคาร์บอนได้มากกว่าที่ปล่อยออกมา ทำให้โครงการก่อสร้างขนาดใหญ่กลายเป็นแหล่งกักเก็บคาร์บอนระยะยาว",
+      "layerId": "technology",
+      "domains": ["climate-technology", "materials-science", "construction"],
+      "maturity": "mass-production",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เมืองต่าง ๆ เริ่มลดคาร์บอนแฝงในอาคารและโครงสร้างพื้นฐาน ขณะยังสามารถขยายที่อยู่อาศัย ระบบขนส่ง และงานสาธารณะได้ต่อเนื่อง",
+      "signals": [
+        "การทำให้คาร์บอนกลายเป็นแร่มีต้นทุนต่ำลงในระดับอุตสาหกรรม",
+        "มาตรฐานอาคารเริ่มยอมรับวัสดุที่กักเก็บคาร์บอนได้อย่างตรวจสอบได้",
+        "ผู้พัฒนาโครงการขนาดใหญ่เลือกใช้วัสดุคาร์บอนต่ำเป็นค่าเริ่มต้น"
+      ],
+      "implications": [
+        "การปล่อยคาร์บอนจากการก่อสร้างลดลง",
+        "เกิดมาตรฐานบัญชีคาร์บอนใหม่สำหรับอาคาร",
+        "โครงสร้างพื้นฐานสีเขียวแข่งขันทางเศรษฐกิจได้มากขึ้น"
+      ],
+      "image": {
+        "alt": "ไซต์ก่อสร้างในเมืองอนาคตที่ใช้คอนกรีตคาร์บอนติดลบ",
+        "prompts": [
+          "Futuristic construction site pouring carbon-negative concrete, cranes, green city skyline, clean documentary realism, 16:9",
+          "Close-up of advanced concrete blocks with mineralized carbon texture, engineers inspecting material samples, realistic lab-to-construction scene, 16:9",
+          "Large bridge being built with low-carbon concrete beside a restored river ecosystem, optimistic climate technology, 16:9",
+          "Modern megacity construction with carbon capture symbols on material delivery trucks, bright sustainable urban future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-carbon-negative-concrete-enters-mass-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-carbon-negative-concrete-enters-mass-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-carbon-negative-concrete-enters-mass-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-personal-ai-health-monitors-detect-disease-before-symptoms",
+      "order": 3,
+      "slug": "personal-ai-health-monitors-detect-disease-before-symptoms",
+      "title": "อุปกรณ์สุขภาพ AI ส่วนบุคคลตรวจพบความเสี่ยงโรคก่อนมีอาการ",
+      "shortTitle": "อุปกรณ์สุขภาพ AI",
+      "category": "AI & Computing",
+      "description": "อุปกรณ์สวมใส่ เซ็นเซอร์ภายในบ้าน และโมเดลสุขภาพส่วนบุคคลวิเคราะห์ข้อมูลชีวภาพอย่างต่อเนื่อง เพื่อตรวจจับความเสี่ยงของโรคก่อนที่ผู้คนจะรู้สึกป่วย",
+      "layerId": "technology",
+      "domains": ["artificial-intelligence", "healthcare", "consumer-devices"],
+      "maturity": "consumer-adoption",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2037
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "การแพทย์เปลี่ยนจากการรักษาหลังเกิดอาการ ไปสู่การแทรกแซงตั้งแต่ระยะต้น การป้องกัน และคำแนะนำสุขภาพรายวันที่ปรับให้เหมาะกับแต่ละคน",
+      "signals": [
+        "อุปกรณ์สวมใส่หลายเซ็นเซอร์ติดตามเลือด การนอน การเคลื่อนไหว และสัญญาณจากเสียง",
+        "โมเดล AI สร้างค่าพื้นฐานความเสี่ยงโรคเฉพาะบุคคล",
+        "ระบบประกันและระบบสุขภาพให้แรงจูงใจต่อการตรวจพบตั้งแต่ระยะต้น"
+      ],
+      "implications": [
+        "โรคจำนวนมากถูกตรวจพบในระยะที่รักษาได้",
+        "ความต้องการ AI สุขภาพที่รักษาความเป็นส่วนตัวเพิ่มขึ้น",
+        "แดชบอร์ดสุขภาพส่วนบุคคลกลายเป็นโครงสร้างพื้นฐานในชีวิตประจำวัน"
+      ],
+      "image": {
+        "alt": "อุปกรณ์สุขภาพ AI ส่วนบุคคลแสดงข้อมูลเชิงลึกเพื่อการตรวจพบโรคตั้งแต่ระยะต้น",
+        "prompts": [
+          "Person checking a personal AI health monitor on a wearable device, calm morning home scene, holographic health dashboard, realistic near future, 16:9",
+          "Close-up of smart ring and health patch collecting biometrics, clean futuristic product photography, 16:9",
+          "AI health assistant dashboard predicting disease risk before symptoms, minimalist interface, human-centered design, 16:9",
+          "Family using preventive AI health monitoring at home with privacy-focused devices, optimistic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-personal-ai-health-monitors-detect-disease-before-symptoms.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-generated-medicines-enter-rapid-approval-pipelines",
+      "order": 4,
+      "slug": "ai-generated-medicines-enter-rapid-approval-pipelines",
+      "title": "ยาที่ออกแบบโดย AI เข้าสู่กระบวนการอนุมัติแบบเร่งรัด",
+      "shortTitle": "ยาที่ออกแบบโดย AI",
+      "category": "AI & Computing",
+      "description": "แพลตฟอร์มค้นคว้ายาออกแบบตัวยาได้เร็วขึ้น ขณะที่หน่วยงานกำกับดูแลสร้างเส้นทางอนุมัติแบบเร่งรัดสำหรับการรักษาที่ AI ช่วยออกแบบและผ่านกรอบความปลอดภัย",
+      "layerId": "technology",
+      "domains": ["artificial-intelligence", "biotechnology", "medicine"],
+      "maturity": "regulated-pipeline",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "การพัฒนาการรักษารวดเร็วและตรงเป้าหมายมากขึ้น โดยเฉพาะโรคหายาก มะเร็ง และภัยโรคติดเชื้ออุบัติใหม่",
+      "signals": [
+        "โมเดล AI สร้างโมเลกุลพร้อมคาดการณ์โปรไฟล์ความปลอดภัย",
+        "การทดลองทางคลินิกแบบปรับตัวได้ถูกใช้บ่อยขึ้น",
+        "หน่วยงานกำกับดูแลกำหนดให้ยาที่ออกแบบด้วย AI ต้องมีหลักฐานที่อธิบายได้"
+      ],
+      "implications": [
+        "วงจรค้นคว้ายาสั้นลง",
+        "มีทางเลือกการรักษามากขึ้นสำหรับโรคที่ยังขาดการดูแล",
+        "เกิดคำถามทางกฎหมายใหม่เกี่ยวกับทรัพย์สินทางปัญญาที่ AI สร้างขึ้น"
+      ],
+      "image": {
+        "alt": "ห้องปฏิบัติการค้นคว้ายาด้วย AI ที่กำลังออกแบบตัวยาใหม่",
+        "prompts": [
+          "AI drug discovery laboratory with molecular simulations floating above workstations, researchers reviewing candidate medicines, realistic biotech future, 16:9",
+          "Close-up of robotic lab system testing AI-generated compounds, sterile biotech environment, cinematic documentary, 16:9",
+          "Regulatory review room with scientists and AI evidence dashboards evaluating new medicine approvals, clean futuristic style, 16:9",
+          "Digital molecule design interface connected to automated synthesis machines, optimistic medical breakthrough atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-medicines-enter-rapid-approval-pipelines.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-vertical-farms-become-profitable-in-major-cities",
+      "order": 5,
+      "slug": "vertical-farms-become-profitable-in-major-cities",
+      "title": "ฟาร์มแนวตั้งทำกำไรได้ในเมืองใหญ่",
+      "shortTitle": "ฟาร์มแนวตั้งที่ทำกำไรได้",
+      "category": "Environment",
+      "description": "ฟาร์มแนวตั้งในเมืองมีเศรษฐศาสตร์ที่แข็งแรงขึ้นจากระบบอัตโนมัติ แสงประหยัดพลังงาน การควบคุมสภาพแวดล้อม และการกระจายสินค้าในท้องถิ่นโดยตรง",
+      "layerId": "technology",
+      "domains": ["food-systems", "urban-infrastructure", "automation"],
+      "maturity": "commercial-scale",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เมืองมีห่วงโซ่อาหารที่ยืดหยุ่นขึ้น ได้ผลผลิตสดกว่า ลดการปล่อยคาร์บอนจากการขนส่ง และพึ่งพาฟาร์มระยะไกลน้อยลง",
+      "signals": [
+        "หุ่นยนต์เก็บเกี่ยวช่วยลดต้นทุนแรงงาน",
+        "หลอด LED ประหยัดพลังงานทำให้ต้นทุนการปลูกดีขึ้น",
+        "ร้านค้าท้องถิ่นทำสัญญาซื้อระยะยาวกับฟาร์มในเมือง"
+      ],
+      "implications": [
+        "การผลิตอาหารในท้องถิ่นเพิ่มขึ้น",
+        "ลดการเน่าเสียและระยะทางขนส่ง",
+        "เกิดโมเดลอสังหาริมทรัพย์ใหม่สำหรับโครงสร้างพื้นฐานด้านอาหาร"
+      ],
+      "image": {
+        "alt": "ฟาร์มแนวตั้งขนาดใหญ่ที่ดำเนินงานอย่างมีกำไรภายในเมืองใหญ่",
+        "prompts": [
+          "Massive vertical farm inside a high-rise building, robotic arms harvesting leafy greens, glowing efficient LED rows, city skyline outside, 16:9",
+          "Urban supermarket connected directly to an automated vertical farm, fresh produce moving through smart logistics, realistic near future, 16:9",
+          "Engineers monitoring climate-controlled vertical farming towers, clean futuristic documentary lighting, 16:9",
+          "Night view of a city block with transparent vertical farm floors full of crops, sustainable urban food system, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-vertical-farms-become-profitable-in-major-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-vertical-farms-become-profitable-in-major-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-vertical-farms-become-profitable-in-major-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-humanoid-service-robots-become-common",
+      "order": 6,
+      "slug": "humanoid-service-robots-become-common",
+      "title": "หุ่นยนต์บริการรูปร่างมนุษย์พบเห็นได้ทั่วไปในโรงแรม โรงพยาบาล และคลังสินค้า",
+      "shortTitle": "หุ่นยนต์บริการรูปร่างมนุษย์",
+      "category": "Robotics",
+      "description": "หุ่นยนต์รูปร่างมนุษย์อเนกประสงค์เริ่มทำงานบริการ งานโลจิสติกส์ ทำความสะอาด ยกของ และงานสนับสนุนในสภาพแวดล้อมที่ใช้แรงงานสูง",
+      "layerId": "technology",
+      "domains": ["robotics", "automation", "service-economy"],
+      "maturity": "early-mainstream",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "หุ่นยนต์กลายเป็นเพื่อนร่วมงานที่มองเห็นได้ในพื้นที่ชีวิตประจำวัน และเปลี่ยนรูปแบบแรงงาน การออกแบบบริการ ขั้นตอนความปลอดภัย และผลิตภาพ",
+      "signals": [
+        "ต้นทุนฮาร์ดแวร์หุ่นยนต์ลดลง",
+        "AI เชิงกายภาพพัฒนาความคล่องแคล่วและการนำทาง",
+        "สถานประกอบการขนาดใหญ่ใช้งานฝูงหุ่นยนต์ภายใต้การดูแลของมนุษย์"
+      ],
+      "implications": [
+        "เกิดบทบาทงานใหม่ด้านปฏิบัติการมนุษย์กับหุ่นยนต์",
+        "ลดภาระจากแรงงานกายภาพซ้ำ ๆ",
+        "ความต้องการนโยบายความปลอดภัยหุ่นยนต์และการเปลี่ยนผ่านแรงงานเพิ่มขึ้น"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์บริการรูปร่างมนุษย์ทำงานร่วมกับมนุษย์ในโรงพยาบาล โรงแรม และคลังสินค้า",
+        "prompts": [
+          "Humanoid service robot assisting staff in a modern hotel lobby, guests interacting comfortably, clean futuristic documentary realism, 16:9",
+          "Hospital corridor with humanoid robot delivering supplies beside nurses, warm clinical lighting, realistic near future, 16:9",
+          "Warehouse with humanoid robots lifting boxes and coordinating with human supervisors, safe and organized automation, 16:9",
+          "Group of service robots charging and receiving task updates in a facility operations room, optimistic robotics future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-humanoid-service-robots-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-humanoid-service-robots-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-humanoid-service-robots-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-humanoid-service-robots-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-humanoid-service-robots-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities",
+      "order": 7,
+      "slug": "autonomous-drone-delivery-becomes-normal-in-dense-cities",
+      "title": "การส่งของด้วยโดรนอัตโนมัติกลายเป็นเรื่องปกติในเมืองหนาแน่น",
+      "shortTitle": "โดรนส่งของในเมือง",
+      "category": "Robotics",
+      "description": "เครือข่ายโดรนส่งของมีความเชื่อถือได้พอสำหรับการขนส่งพัสดุขนาดเล็ก เวชภัณฑ์เร่งด่วน อาหาร และสิ่งของทางการแพทย์ในพื้นที่เมืองหนาแน่น",
+      "layerId": "technology",
+      "domains": ["mobility", "logistics", "autonomous-systems"],
+      "maturity": "urban-normalization",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "โลจิสติกส์ระยะสุดท้ายรวดเร็ว สะอาด และอัตโนมัติมากขึ้น เปลี่ยนการจราจรในเมือง การส่งสินค้าปลีก และห่วงโซ่อุปทานฉุกเฉิน",
+      "signals": [
+        "เมืองกำหนดเส้นทางจราจรทางอากาศระดับต่ำ",
+        "สถานีลงจอดอัตโนมัติเริ่มปรากฏบนอาคาร",
+        "กรณีใช้งานด้านการแพทย์และการส่งของเร่งด่วนพิสูจน์ความเชื่อถือได้"
+      ],
+      "implications": [
+        "การจราจรถนนลดลงสำหรับการส่งของขนาดเล็ก",
+        "เกิดโครงสร้างพื้นฐานจัดการจราจรทางอากาศใหม่",
+        "เสียงรบกวน ความเป็นส่วนตัว และความปลอดภัยกลายเป็นประเด็นนโยบายเมืองสำคัญ"
+      ],
+      "image": {
+        "alt": "โดรนส่งของอัตโนมัติบินผ่านเมืองอนาคตที่หนาแน่น",
+        "prompts": [
+          "Autonomous delivery drones moving through designated city air corridors between high-rise buildings, realistic near future, 16:9",
+          "Rooftop drone delivery station with packages sorted by robotic systems, dense city skyline, clean documentary style, 16:9",
+          "Medical drone landing at a hospital balcony with urgent supplies, calm efficient urban logistics scene, 16:9",
+          "Evening city street with quiet delivery drones overhead and reduced traffic below, optimistic mobility future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-drone-delivery-becomes-normal-in-dense-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-smart-roads-begin-charging-electric-vehicles-while-moving",
+      "order": 8,
+      "slug": "smart-roads-begin-charging-electric-vehicles-while-moving",
+      "title": "ถนนอัจฉริยะเริ่มชาร์จรถยนต์ไฟฟ้าขณะวิ่ง",
+      "shortTitle": "ถนนอัจฉริยะชาร์จไฟ",
+      "category": "Energy",
+      "description": "ทางหลวงและเลนเมืองบางส่วนใช้โครงสร้างพื้นฐานชาร์จไฟแบบฝังในถนน เพื่อจ่ายพลังงานให้รถยนต์ไฟฟ้าที่รองรับขณะขับเคลื่อน",
+      "layerId": "technology",
+      "domains": ["energy", "mobility", "infrastructure"],
+      "maturity": "pilot-to-corridor",
+      "timeframe": {
+        "startYear": 2031,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "การเดินทางด้วยไฟฟ้าสะดวกขึ้นและพึ่งพาแบตเตอรี่ขนาดใหญ่น้อยลง โดยเฉพาะรถโดยสาร เส้นทางขนส่งสินค้า และคอร์ริดอร์ที่มีการใช้งานสูง",
+      "signals": [
+        "เลนชาร์จไร้สายพิสูจน์ความทนทาน",
+        "ผู้ให้บริการยานพาหนะเชิงพาณิชย์ใช้เส้นทางชาร์จแบบเคลื่อนที่",
+        "รัฐบาลสนับสนุนโครงสร้างพื้นฐานคอร์ริดอร์อัจฉริยะ"
+      ],
+      "implications": [
+        "รถ EV บางเส้นทางอาจต้องใช้แบตเตอรี่ขนาดเล็กลง",
+        "เกิดโมเดลการเงินใหม่สำหรับโครงสร้างพื้นฐาน",
+        "การขนส่งสินค้าและระบบขนส่งสาธารณะไฟฟ้ามีความยืดหยุ่นมากขึ้น"
+      ],
+      "image": {
+        "alt": "รถยนต์ไฟฟ้ากำลังชาร์จไฟขณะวิ่งบนถนนอัจฉริยะ",
+        "prompts": [
+          "Electric vehicles driving on a smart road with subtle glowing charging lanes, futuristic highway, clean realistic documentary, 16:9",
+          "Electric bus charging wirelessly while moving through a modern city corridor, passengers visible, optimistic mobility future, 16:9",
+          "Engineers inspecting embedded road charging infrastructure during construction, sustainable transport technology, 16:9",
+          "Night view of freight trucks using dynamic electric charging lanes on an intelligent highway, cinematic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-smart-roads-begin-charging-electric-vehicles-while-moving.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-climate-prediction-prevents-major-crop-failures",
+      "order": 9,
+      "slug": "ai-climate-prediction-prevents-major-crop-failures",
+      "title": "การพยากรณ์ภูมิอากาศด้วย AI ช่วยป้องกันความเสียหายใหญ่ของพืชผล",
+      "shortTitle": "AI ปกป้องพืชผล",
+      "category": "AI & Computing",
+      "description": "โมเดลภูมิอากาศและความเสี่ยงพืชผลขั้นสูงให้คำเตือนล่วงหน้าแก่เกษตรกร รัฐบาล และบริษัทอาหาร ก่อนภัยแล้ง ศัตรูพืช น้ำท่วม และคลื่นความร้อนจะสร้างความเสียหายต่อผลผลิต",
+      "layerId": "technology",
+      "domains": ["artificial-intelligence", "climate", "agriculture"],
+      "maturity": "operational-deployment",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "ความมั่นคงทางอาหารดีขึ้น เพราะสังคมตอบสนองต่อแรงกระแทกจากภูมิอากาศได้เร็วขึ้น และประสานทรัพยากรก่อนที่ปัญหาขาดแคลนจะกลายเป็นวิกฤต",
+      "signals": [
+        "ข้อมูลดาวเทียมผสานกับเซ็นเซอร์ฟาร์มในท้องถิ่น",
+        "โมเดล AI คาดการณ์ความเครียดของพืชได้เร็วขึ้นหลายสัปดาห์",
+        "ระบบอาหารระดับภูมิภาคสร้างแดชบอร์ดตอบสนองต่อภูมิอากาศ"
+      ],
+      "implications": [
+        "ความเสียหายของพืชผลที่ป้องกันได้ลดลง",
+        "การตัดสินใจเรื่องชลประทานและช่วงเพาะปลูกดีขึ้น",
+        "การวางแผนความมั่นคงอาหารประสานกันมากขึ้น"
+      ],
+      "image": {
+        "alt": "แดชบอร์ดพยากรณ์ภูมิอากาศด้วย AI ช่วยปกป้องพืชผล",
+        "prompts": [
+          "Farmers viewing AI climate prediction dashboard beside a field, satellite overlays showing crop risk zones, realistic near future, 16:9",
+          "Control room for regional agriculture resilience with weather maps, crop forecasts, and food supply indicators, documentary style, 16:9",
+          "Drone and satellite data visualized over farmland during drought prevention planning, optimistic climate technology, 16:9",
+          "AI-assisted irrigation system activating before heat stress damages crops, clean agricultural future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-climate-prediction-prevents-major-crop-failures.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-climate-prediction-prevents-major-crop-failures.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment",
+      "order": 10,
+      "slug": "ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment",
+      "title": "การบำบัดพลาสติกทะเลด้วยเอนไซม์เริ่มใช้งานภายใต้การควบคุม",
+      "shortTitle": "เอนไซม์ย่อยพลาสติก",
+      "category": "Environment",
+      "description": "ระบบเอนไซม์เฉพาะทางเริ่มถูกนำไปใช้อย่างระมัดระวังและมีการติดตามผล เพื่อย่อยสลายพลาสติกบางประเภทที่เก็บจากมหาสมุทร แม่น้ำ และพื้นที่ชายฝั่ง",
+      "layerId": "technology",
+      "domains": ["biotechnology", "climate-technology", "ocean-restoration"],
+      "maturity": "controlled-deployment",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "การจัดการมลพิษพลาสติกขยายผลได้มากขึ้น แม้ยังต้องมีการควบคุมอย่างเข้มงวดเพื่อปกป้องระบบนิเวศทางทะเล",
+      "signals": [
+        "การบำบัดด้วยเอนไซม์ทำงานได้กับพลาสติกบางชนิด",
+        "โครงการเก็บกู้ขยะผสานการรวบรวมกับกระบวนการชีวภาพ",
+        "หน่วยงานสิ่งแวดล้อมกำหนดให้มีระบบกักกันและติดตามผล"
+      ],
+      "implications": [
+        "การแปรรูปขยะพลาสติกมีประสิทธิภาพมากขึ้น",
+        "เกิดโครงสร้างพื้นฐานไบโอรีแอคเตอร์ใกล้ท่าเรือ",
+        "การทดสอบความปลอดภัยต่อระบบนิเวศได้รับความสำคัญมากขึ้น"
+      ],
+      "image": {
+        "alt": "โรงงานบำบัดพลาสติกทะเลด้วยเอนไซม์ภายใต้การควบคุมใกล้ชายฝั่ง",
+        "prompts": [
+          "Coastal cleanup facility using controlled enzyme bioreactors to process collected ocean plastic, realistic environmental technology, 16:9",
+          "Scientists monitoring plastic-eating enzyme treatment in a sealed marine research station, clean documentary realism, 16:9",
+          "Autonomous boats collecting ocean plastic and delivering it to a safe enzyme processing platform, optimistic restoration future, 16:9",
+          "Close-up of transparent bioreactor breaking down plastic fragments under strict ecological monitoring, biotech documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ocean-plastic-eating-enzyme-treatment-begins-controlled-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-synthetic-meat-becomes-cheaper-than-livestock-meat",
+      "order": 11,
+      "slug": "synthetic-meat-becomes-cheaper-than-livestock-meat",
+      "title": "เนื้อสังเคราะห์มีราคาถูกกว่าเนื้อจากปศุสัตว์",
+      "shortTitle": "เนื้อสังเคราะห์ราคาถูก",
+      "category": "Biology & Medicine",
+      "description": "เนื้อเพาะเลี้ยงและเนื้อจากกระบวนการหมักแบบแม่นยำมีราคาเทียบเท่า แล้วเริ่มถูกกว่าเนื้อจากปศุสัตว์แบบดั้งเดิมในหลายตลาด",
+      "layerId": "technology",
+      "domains": ["food-systems", "biotechnology", "climate-technology"],
+      "maturity": "price-breakthrough",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "การผลิตอาหารลดแรงกดดันด้านที่ดิน น้ำ โรค และการปล่อยคาร์บอน พร้อมยังให้ผู้บริโภคมีตัวเลือกโปรตีนที่คุ้นเคย",
+      "signals": [
+        "การขยายขนาดไบโอรีแอคเตอร์ทำให้ต้นทุนต่อหน่วยดีขึ้น",
+        "เครือข่ายค้าปลีกเปิดตัวผลิตภัณฑ์เนื้อสังเคราะห์ราคาต่ำลง",
+        "การยอมรับของผู้บริโภคเพิ่มขึ้นเมื่อรสชาติและเนื้อสัมผัสดีขึ้น"
+      ],
+      "implications": [
+        "แรงกดดันต่อห่วงโซ่อุปทานปศุสัตว์ลดลง",
+        "เกิดศูนย์การผลิตอาหารรูปแบบใหม่",
+        "เศรษฐศาสตร์ของอุตสาหกรรมเนื้อแบบดั้งเดิมถูกรบกวนอย่างมาก"
+      ],
+      "image": {
+        "alt": "โรงงานผลิตเนื้อสังเคราะห์และผลิตภัณฑ์ค้าปลีก",
+        "prompts": [
+          "Clean synthetic meat production facility with large bioreactors and food engineers, realistic near future, 16:9",
+          "Affordable synthetic meat products displayed in a modern supermarket, customers comparing prices, optimistic food future, 16:9",
+          "Chef preparing cultivated meat in a bright restaurant kitchen, appetizing realistic documentary style, 16:9",
+          "Precision fermentation facility producing sustainable proteins at industrial scale, clean biotechnology atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-meat-becomes-cheaper-than-livestock-meat.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-large-scale-brain-computer-interface-for-disabled-patients",
+      "order": 12,
+      "slug": "first-large-scale-brain-computer-interface-for-disabled-patients",
+      "title": "อินเทอร์เฟซสมองกับคอมพิวเตอร์ขนาดใหญ่รุ่นแรกสำหรับผู้ป่วยพิการ",
+      "shortTitle": "อินเทอร์เฟซสมองทางการแพทย์",
+      "category": "Biology & Medicine",
+      "description": "อินเทอร์เฟซสมองกับคอมพิวเตอร์ก้าวพ้นการทดลองขนาดเล็ก และเปิดให้ผู้ป่วยพิการกลุ่มใหญ่ขึ้นใช้เพื่อการสื่อสาร การเคลื่อนไหว และการควบคุมอุปกรณ์",
+      "layerId": "technology",
+      "domains": ["neurotechnology", "healthcare", "human-computer-interface"],
+      "maturity": "clinical-scale",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "ผู้ที่มีอัมพาตรุนแรง สูญเสียการพูด หรือมีความบกพร่องทางระบบประสาท ได้ช่องทางใหม่ในการพึ่งพาตนเองและมีส่วนร่วมในสังคม",
+      "signals": [
+        "อินเทอร์เฟซแบบฝังและแบบไม่รุกล้ำมีความน่าเชื่อถือมากขึ้น",
+        "โรงพยาบาลสร้างโปรแกรมเฉพาะด้านนิวโรเทคโนโลยี",
+        "หุ่นยนต์ช่วยเหลือเชื่อมเข้ากับระบบควบคุมด้วยสัญญาณประสาท"
+      ],
+      "implications": [
+        "ผู้ป่วยพิการมีความเป็นอิสระมากขึ้น",
+        "เกิดมาตรฐานใหม่ด้านความเป็นส่วนตัวของข้อมูลประสาท",
+        "นิวโรเทคโนโลยีเพื่อการช่วยเหลือเติบโตอย่างรวดเร็ว"
+      ],
+      "image": {
+        "alt": "ผู้ป่วยพิการใช้ระบบอินเทอร์เฟซสมองกับคอมพิวเตอร์เพื่อควบคุมเทคโนโลยีช่วยเหลือ",
+        "prompts": [
+          "Disabled patient using a brain-computer interface to control a computer cursor, supportive clinical team nearby, respectful documentary realism, 16:9",
+          "Neurotechnology rehabilitation room with patient controlling robotic arm through neural interface, warm hopeful atmosphere, 16:9",
+          "Close-up of non-invasive brain interface headset connected to assistive communication display, clean medical future, 16:9",
+          "Hospital neurotechnology center helping patients regain digital communication through BCI systems, optimistic clinical scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-large-scale-brain-computer-interface-for-disabled-patients.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-legal-assistants-reduce-access-to-justice-inequality",
+      "order": 13,
+      "slug": "ai-legal-assistants-reduce-access-to-justice-inequality",
+      "title": "ผู้ช่วยกฎหมาย AI ช่วยลดความเหลื่อมล้ำในการเข้าถึงความยุติธรรม",
+      "shortTitle": "การเข้าถึงกฎหมายด้วย AI",
+      "category": "AI & Computing",
+      "description": "เครื่องมือกฎหมาย AI ช่วยให้ผู้คนเข้าใจสิทธิ เตรียมเอกสาร นำทางข้อพิพาท และเข้าถึงคำแนะนำกฎหมายพื้นฐานด้วยต้นทุนที่ต่ำลงมาก",
+      "layerId": "society",
+      "domains": ["artificial-intelligence", "law", "public-services"],
+      "maturity": "public-adoption",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2038
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ระบบกฎหมายเข้าถึงได้มากขึ้นสำหรับประชาชนทั่วไป ธุรกิจขนาดเล็ก ผู้ย้ายถิ่น ผู้เช่า และชุมชนที่ยังขาดการสนับสนุน",
+      "signals": [
+        "ศาลให้บริการอินเทอร์เฟซคำแนะนำ AI ที่ผ่านการอนุมัติ",
+        "องค์กรช่วยเหลือทางกฎหมายใช้ AI เพื่อขยายการสนับสนุน",
+        "กฎระเบียบแยกข้อมูลกฎหมายออกจากการเป็นตัวแทนทางกฎหมาย"
+      ],
+      "implications": [
+        "ต้นทุนความช่วยเหลือทางกฎหมายทั่วไปลดลง",
+        "การเตรียมเอกสารเร็วขึ้น",
+        "ความจำเป็นด้านความถูกต้อง การกำกับดูแล และความเป็นธรรมเพิ่มขึ้น"
+      ],
+      "image": {
+        "alt": "ผู้ช่วยกฎหมาย AI ช่วยประชาชนเข้าถึงคำแนะนำทางกฎหมาย",
+        "prompts": [
+          "Citizen using an AI legal assistant kiosk in a public service center, clear interface, helpful atmosphere, realistic near future, 16:9",
+          "Community legal-aid office with AI document preparation screens and human advisors, optimistic civic technology, 16:9",
+          "Court self-help center where people use AI guidance tools to understand forms and rights, documentary realism, 16:9",
+          "Small business owner reviewing contract risks with an AI legal assistant dashboard, clean professional setting, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-legal-assistants-reduce-access-to-justice-inequality.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-decentralized-disaster-response-robot-fleets-become-operational",
+      "order": 14,
+      "slug": "decentralized-disaster-response-robot-fleets-become-operational",
+      "title": "ฝูงหุ่นยนต์รับมือภัยพิบัติแบบกระจายศูนย์เริ่มปฏิบัติการได้จริง",
+      "shortTitle": "ฝูงหุ่นยนต์ภัยพิบัติ",
+      "category": "Robotics",
+      "description": "ฝูงหุ่นยนต์ภาคพื้น อากาศ และทะเล สนับสนุนการค้นหา กู้ภัย ทำแผนที่ ส่งเสบียง และตรวจสอบพื้นที่อันตรายหลังเกิดภัยพิบัติ",
+      "layerId": "civilization",
+      "domains": ["robotics", "disaster-response", "public-safety"],
+      "maturity": "operational-network",
+      "timeframe": {
+        "startYear": 2031,
+        "endYear": 2042
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "การรับมือภัยพิบัติรวดเร็วและปลอดภัยขึ้น และพึ่งพาการส่งมนุษย์เข้าไปในพื้นที่ไม่มั่นคงหรืออันตรายน้อยลง",
+      "signals": [
+        "หน่วยงานฉุกเฉินจัดเตรียมฝูงหุ่นยนต์อัตโนมัติไว้ล่วงหน้า",
+        "เครือข่ายเมชทำให้หุ่นยนต์ยังเชื่อมต่อกันได้เมื่อโครงสร้างพื้นฐานล้มเหลว",
+        "หุ่นยนต์ทำแผนที่พื้นที่เสียหายก่อนทีมกู้ภัยเข้าไป"
+      ],
+      "implications": [
+        "ตรวจพบผู้รอดชีวิตได้เร็วขึ้น",
+        "ลดความเสี่ยงต่อเจ้าหน้าที่กู้ภัยด่านหน้า",
+        "เกิดระเบียบความปลอดภัยสาธารณะใหม่สำหรับระบบอัตโนมัติ"
+      ],
+      "image": {
+        "alt": "ฝูงหุ่นยนต์อัตโนมัติกำลังตอบสนองต่อภัยพิบัติธรรมชาติ",
+        "prompts": [
+          "Disaster-response robot fleet searching a flooded city street with drones overhead and rescue teams coordinating nearby, realistic documentary, 16:9",
+          "Ground robots mapping a collapsed building before human rescuers enter, emergency lights, hopeful atmosphere, 16:9",
+          "Decentralized drone swarm delivering medical supplies after an earthquake, damaged urban landscape, clean cinematic realism, 16:9",
+          "Emergency command vehicle coordinating aerial, ground, and marine robots through a resilient mesh network, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-decentralized-disaster-response-robot-fleets-become-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-decentralized-disaster-response-robot-fleets-become-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-real-time-universal-language-translation-becomes-seamless",
+      "order": 15,
+      "slug": "real-time-universal-language-translation-becomes-seamless",
+      "title": "การแปลภาษาสากลแบบเรียลไทม์ลื่นไหลไร้รอยต่อ",
+      "shortTitle": "การแปลไร้รอยต่อ",
+      "category": "AI & Computing",
+      "description": "อุปกรณ์สวมใส่ โทรศัพท์ แว่นตา และระบบประชุมสามารถแปลแบบเรียลไทม์อย่างเป็นธรรมชาติ ทั้งคำพูด ข้อความ น้ำเสียง และบริบท",
+      "layerId": "society",
+      "domains": ["artificial-intelligence", "communication", "culture"],
+      "maturity": "mainstream",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2036
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "กำแพงภาษาลดลงในด้านการเดินทาง การศึกษา การค้า การทูต ความบันเทิง และการทำงานร่วมกันจากระยะไกล",
+      "signals": [
+        "โมเดลแปลภาษารักษาน้ำเสียงและเจตนาได้ดีขึ้น",
+        "แว่น AR แสดงคำบรรยายแบบเรียลไทม์",
+        "การประชุมข้ามภาษาเป็นเรื่องปกติในเครื่องมือธุรกิจ"
+      ],
+      "implications": [
+        "ความร่วมมือระดับโลกครอบคลุมผู้คนมากขึ้น",
+        "การค้าข้ามพรมแดนรวดเร็วขึ้น",
+        "ความละเอียดอ่อนทางวัฒนธรรมและการอนุรักษ์ภาษาได้รับความสนใจใหม่"
+      ],
+      "image": {
+        "alt": "ผู้คนต่างภาษาใช้การแปล AI แบบเรียลไทม์ที่ลื่นไหลในการสื่อสาร",
+        "prompts": [
+          "International group conversing naturally through real-time translation glasses, subtitles softly displayed in augmented reality, realistic near future, 16:9",
+          "Business meeting with participants speaking multiple languages while AI translation appears on transparent screens, clean global collaboration, 16:9",
+          "Traveler using seamless language translation earbuds in a busy market, warm human-centered documentary style, 16:9",
+          "Classroom with students from many countries learning together through real-time universal translation, optimistic education future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-real-time-universal-language-translation-becomes-seamless.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-real-time-universal-language-translation-becomes-seamless.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-real-time-universal-language-translation-becomes-seamless.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-discovery-of-a-next-generation-co2-absorbing-material",
+      "order": 16,
+      "slug": "discovery-of-a-next-generation-co2-absorbing-material",
+      "title": "ค้นพบวัสดุดูดซับ CO2 รุ่นใหม่",
+      "shortTitle": "วัสดุดูดซับ CO2",
+      "category": "Materials & Manufacturing",
+      "description": "นักวิจัยค้นพบวัสดุที่ดักจับคาร์บอนไดออกไซด์ได้มีประสิทธิภาพสูงขึ้นมาก ใช้พลังงานต่ำลง หรือมีความทนทานยาวนานกว่าระบบก่อนหน้า",
+      "layerId": "technology",
+      "domains": ["materials-science", "climate-technology", "carbon-removal"],
+      "maturity": "breakthrough-discovery",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "การกำจัดคาร์บอนทำได้จริงมากขึ้นสำหรับอุตสาหกรรม อาคาร โรงงานดักจับอากาศโดยตรง และยุทธศาสตร์ฟื้นฟูภูมิอากาศ",
+      "signals": [
+        "วัสดุพรุนชนิดใหม่แสดงความสามารถเลือกจับ CO2 สูง",
+        "ระบบดักจับคาร์บอนทำงานได้ด้วยความร้อนและพลังงานน้อยลง",
+        "โรงงานนำร่องยืนยันเสถียรภาพของวัสดุในระยะยาว"
+      ],
+      "implications": [
+        "ต้นทุนการดักจับคาร์บอนจากอากาศโดยตรงลดลง",
+        "เกิดระบบอาคารที่ช่วยกำจัดคาร์บอน",
+        "อุตสาหกรรมซ่อมแซมภูมิอากาศขยายตัว"
+      ],
+      "image": {
+        "alt": "วัสดุรุ่นใหม่กำลังดูดซับคาร์บอนไดออกไซด์ในศูนย์วิจัย",
+        "prompts": [
+          "Advanced materials science lab showing next-generation CO2 absorbing material inside transparent testing chamber, clean futuristic realism, 16:9",
+          "Direct air capture facility using new carbon absorbing panels, mountains and blue sky in background, optimistic climate technology, 16:9",
+          "Close-up of porous carbon capture material visualized at macro scale, scientists reviewing performance data, 16:9",
+          "Urban building facade coated with CO2 absorbing material, subtle clean-tech design, bright sustainable city future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-discovery-of-a-next-generation-co2-absorbing-material.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-discovery-of-a-next-generation-co2-absorbing-material.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-ai-robots-begin-building-homes-for-free",
+      "order": 17,
+      "slug": "autonomous-ai-robots-begin-building-homes-for-free",
+      "title": "หุ่นยนต์ AI อัตโนมัติเริ่มสร้างบ้านโดยแทบไม่มีค่าแรง",
+      "shortTitle": "บ้านสร้างด้วยหุ่นยนต์ต้นทุนต่ำ",
+      "category": "Robotics",
+      "description": "หุ่นยนต์ก่อสร้างอัตโนมัติ เงินสนับสนุนสาธารณะ และวัสดุต้นทุนต่ำมาก ทำให้บางภูมิภาคสามารถสร้างบ้านพื้นฐานด้วยต้นทุนแรงงานใกล้ศูนย์",
+      "layerId": "civilization",
+      "domains": ["robotics", "housing", "construction"],
+      "maturity": "public-pilot",
+      "timeframe": {
+        "startYear": 2035,
+        "endYear": 2045
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "ที่อยู่อาศัยเริ่มเปลี่ยนจากสินค้าที่ขาดแคลน ไปสู่โครงสร้างพื้นฐานจำเป็นในพื้นที่ที่ผสานระบบอัตโนมัติเข้ากับนโยบายสาธารณะที่แข็งแรง",
+      "signals": [
+        "ระบบก่อสร้างด้วยหุ่นยนต์ลดความต้องการแรงงาน",
+        "บ้านแบบพิมพ์ 3D และโมดูลาร์ผ่านมาตรฐานความปลอดภัย",
+        "รัฐบาลทดสอบโครงการที่อยู่อาศัยราคาย่อมเยาด้วยระบบอัตโนมัติ"
+      ],
+      "implications": [
+        "ต้นทุนที่อยู่อาศัยพื้นฐานลดลง",
+        "การฟื้นฟูหลังภัยพิบัติรวดเร็วขึ้น",
+        "เกิดการถกเถียงทางการเมืองครั้งใหญ่เรื่องที่ดิน สิทธิครอบครอง และคุณสมบัติผู้ได้รับสิทธิ"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์ก่อสร้าง AI อัตโนมัติกำลังสร้างบ้านราคาย่อมเยา",
+        "prompts": [
+          "Autonomous AI construction robots building a small affordable home in a clean community site, hopeful documentary realism, 16:9",
+          "Robotic 3D printing system constructing disaster-relief housing with human supervisors nearby, near future, 16:9",
+          "New neighborhood of robot-built homes with families moving in, warm optimistic civilization scene, 16:9",
+          "Construction robots assembling modular wall panels under public housing program banners, realistic and grounded, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-ai-robots-begin-building-homes-for-free.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-ai-robots-begin-building-homes-for-free.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-universal-cancer-blood-test",
+      "order": 18,
+      "slug": "universal-cancer-blood-test",
+      "title": "การตรวจเลือดมะเร็งแบบครอบคลุมหลายชนิด",
+      "shortTitle": "ตรวจเลือดมะเร็งแบบครอบคลุม",
+      "category": "Biology & Medicine",
+      "description": "การตรวจเลือดประจำสามารถคัดกรองมะเร็งหลายชนิดตั้งแต่ระยะต้น โดยตรวจจับสัญญาณโมเลกุลก่อนที่ก้อนมะเร็งจะลุกลามหรือแสดงอาการ",
+      "layerId": "technology",
+      "domains": ["healthcare", "biotechnology", "diagnostics"],
+      "maturity": "routine-screening",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2040
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "อัตรารอดชีวิตจากมะเร็งดีขึ้น เมื่อการตรวจพบย้ายไปสู่ระยะต้น การคัดกรองง่ายขึ้น และการรักษาเริ่มก่อนโรคแพร่กระจาย",
+      "signals": [
+        "การตรวจพบมะเร็งหลายชนิดระยะต้นมีความไวและความจำเพาะดีขึ้น",
+        "ระบบสาธารณสุขรับแนวทางคัดกรองระดับประชากร",
+        "AI ช่วยตีความตัวบ่งชี้ทางชีวภาพในเลือดที่ซับซ้อน"
+      ],
+      "implications": [
+        "มะเร็งหลายชนิดได้รับการรักษาเร็วขึ้น",
+        "อัตราการเสียชีวิตจากมะเร็งที่ตรวจพบยากลดลง",
+        "เกิดความท้าทายใหม่เรื่องผลบวกลวงและขีดความสามารถในการติดตามผล"
+      ],
+      "image": {
+        "alt": "การตรวจเลือดมะเร็งแบบครอบคลุมหลายชนิดกำลังประมวลผลในห้องปฏิบัติการวินิจฉัยขั้นสูง",
+        "prompts": [
+          "Advanced diagnostics lab processing universal cancer blood tests, robotic sample handling, calm medical breakthrough atmosphere, 16:9",
+          "Doctor explaining early cancer blood test results to a patient using a clear AI-assisted dashboard, respectful clinical realism, 16:9",
+          "Close-up of blood sample vial moving through automated multi-cancer screening machine, clean biotech future, 16:9",
+          "Public health screening center offering routine cancer blood tests, diverse community, optimistic healthcare future, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-universal-cancer-blood-test.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-universal-cancer-blood-test.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-cancer-blood-test.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-universal-cancer-blood-test.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-cancer-blood-test.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-self-healing-megacity-materials",
+      "order": 19,
+      "slug": "self-healing-megacity-materials",
+      "title": "วัสดุเมืองใหญ่ที่ซ่อมแซมตัวเองได้",
+      "shortTitle": "วัสดุซ่อมแซมตัวเอง",
+      "category": "Materials & Manufacturing",
+      "description": "ถนน สะพาน ผิวอาคาร ท่อ และชิ้นส่วนโครงสร้างเริ่มใช้วัสดุที่ซ่อมรอยร้าว การกัดกร่อน และความเสียหายบนผิวได้โดยอัตโนมัติ",
+      "layerId": "technology",
+      "domains": ["materials-science", "smart-cities", "infrastructure"],
+      "maturity": "infrastructure-adoption",
+      "timeframe": {
+        "startYear": 2032,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เมืองมีความทนทานและดูแลง่ายขึ้น ลดต้นทุนซ่อมบำรุง การหยุดชะงักของบริการ และความเสี่ยงจากความล้มเหลวของโครงสร้างพื้นฐาน",
+      "signals": [
+        "คอนกรีตและสารเคลือบซ่อมตัวเองผ่านการทดสอบความทนทานระยะยาว",
+        "เจ้าของโครงสร้างพื้นฐานให้ความสำคัญกับการประหยัดต้นทุนตลอดอายุใช้งาน",
+        "เซ็นเซอร์อัจฉริยะกระตุ้นการซ่อมแซมแบบตรงจุด"
+      ],
+      "implications": [
+        "โครงสร้างพื้นฐานสาธารณะมีอายุใช้งานยาวขึ้น",
+        "เวลาหยุดซ่อมบำรุงลดลง",
+        "เกิดมาตรฐานใหม่สำหรับการรับรองวัสดุอัจฉริยะ"
+      ],
+      "image": {
+        "alt": "วัสดุซ่อมแซมตัวเองกำลังซ่อมรอยร้าวในโครงสร้างพื้นฐานของเมืองใหญ่",
+        "prompts": [
+          "Megacity bridge surface visibly self-healing small cracks under embedded sensor monitoring, realistic clean future, 16:9",
+          "Close-up of self-healing concrete repairing microcracks in a smart city sidewalk, documentary macro detail, 16:9",
+          "Engineers inspecting building facade made of self-healing materials, futuristic skyline, optimistic infrastructure scene, 16:9",
+          "Underground smart pipe network using self-repairing coatings and maintenance drones, clean technical visualization, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-self-healing-megacity-materials.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-self-healing-megacity-materials.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-self-healing-megacity-materials.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-self-healing-megacity-materials.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-self-healing-megacity-materials.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-lunar-robotics-program",
+      "order": 20,
+      "slug": "lunar-robotics-program",
+      "title": "โครงการหุ่นยนต์ดวงจันทร์",
+      "shortTitle": "หุ่นยนต์ดวงจันทร์",
+      "category": "Robotics",
+      "description": "ระบบหุ่นยนต์เริ่มเตรียมดวงจันทร์สำหรับกิจกรรมมนุษย์ระยะยาว ทั้งการทำแผนที่ภูมิประเทศ สร้างโครงสร้างพื้นฐาน ทำเหมืองทรัพยากร และสนับสนุนถิ่นอาศัยระยะเริ่มต้น",
+      "layerId": "civilization",
+      "domains": ["space", "robotics", "infrastructure"],
+      "maturity": "early-lunar-infrastructure",
+      "timeframe": {
+        "startYear": 2030,
+        "endYear": 2045
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "อารยธรรมขยายระบบก่อสร้าง โลจิสติกส์ และทรัพยากรออกไปนอกโลก วางรากฐานสำหรับการมีอยู่บนดวงจันทร์อย่างถาวร",
+      "signals": [
+        "โรเวอร์ดวงจันทร์อัตโนมัติเตรียมพื้นที่ลงจอด",
+        "หุ่นยนต์ทดสอบการก่อสร้างด้วยเรโกลิธบนดวงจันทร์",
+        "หน่วยงานอวกาศและบริษัทเอกชนประสานโลจิสติกส์ดวงจันทร์"
+      ],
+      "implications": [
+        "ภารกิจมนุษย์บนดวงจันทร์มีความเสี่ยงลดลง",
+        "เกิดขีดความสามารถก่อสร้างนอกโลกระยะเริ่มต้น",
+        "วางฐานสำหรับหมู่บ้านดวงจันทร์และอุตสาหกรรมอวกาศในอนาคต"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์ดวงจันทร์อัตโนมัติกำลังสร้างโครงสร้างพื้นฐานบนดวงจันทร์",
+        "prompts": [
+          "Autonomous lunar robots building a landing pad on the Moon with Earth visible in the sky, realistic space documentary, 16:9",
+          "Lunar rover fleet mapping terrain and placing infrastructure beacons near a future habitat site, cinematic realism, 16:9",
+          "Robotic construction system using lunar regolith to print protective walls around a small habitat, 16:9",
+          "Moon base preparation site with solar arrays, cargo landers, and autonomous robots working under harsh sunlight, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-lunar-robotics-program.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-lunar-robotics-program.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-lunar-robotics-program.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-lunar-robotics-program.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-lunar-robotics-program.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-personal-tutors-become-available-for-every-child",
+      "order": 21,
+      "slug": "ai-personal-tutors-become-available-for-every-child",
+      "title": "ติวเตอร์ AI ส่วนบุคคลพร้อมให้เด็กทุกคนเข้าถึง",
+      "shortTitle": "ติวเตอร์ AI ส่วนบุคคล",
+      "category": "AI & Computing",
+      "description": "ติวเตอร์ AI ส่วนบุคคลพร้อมให้เด็กทุกคนเข้าถึง แสดงให้เห็นว่า AI กำลังก้าวจากซอฟต์แวร์ทดลองสู่โครงสร้างพื้นฐานประจำวันสำหรับสุขภาพ การศึกษา กฎหมาย วิทยาศาสตร์ งาน ความคิดสร้างสรรค์ และการสื่อสาร",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ติวเตอร์ AI ส่วนบุคคลพร้อมให้เด็กทุกคนเข้าถึง กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบ AI ได้รับความไว้วางใจมากขึ้นในเวิร์กโฟลว์ที่มีความเสี่ยงสูง",
+        "บทบาทมนุษย์เปลี่ยนไปสู่การกำกับดูแลและตรวจสอบความถูกต้อง",
+        "ระบบอัตโนมัติขยายจากงานดิจิทัลสู่โครงสร้างพื้นฐานทางกายภาพ"
+      ],
+      "implications": [
+        "การเข้าถึงบริการระดับผู้เชี่ยวชาญขยายตัว",
+        "การตัดสินใจทางวิทยาศาสตร์และปฏิบัติการรวดเร็วขึ้น",
+        "มาตรฐานธรรมาภิบาลและความปลอดภัยมีความสำคัญมากขึ้น"
+      ],
+      "image": {
+        "alt": "ติวเตอร์ AI ส่วนบุคคลพร้อมให้เด็กทุกคนเข้าถึง",
+        "prompts": [
+          "aI personal tutors become available for every child, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI personal tutors become available for every child, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI personal tutors become available for every child, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI personal tutors become available for every child, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-personal-tutors-become-available-for-every-child.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-personal-tutors-become-available-for-every-child.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-personal-tutors-become-available-for-every-child.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-software-agents-automate-most-office-workflows",
+      "order": 22,
+      "slug": "ai-software-agents-automate-most-office-workflows",
+      "title": "เอเจนต์ซอฟต์แวร์ AI ทำให้งานสำนักงานส่วนใหญ่เป็นอัตโนมัติ",
+      "shortTitle": "เอเจนต์ซอฟต์แวร์ AI",
+      "category": "AI & Computing",
+      "description": "เอเจนต์ซอฟต์แวร์ AI ทำให้งานสำนักงานส่วนใหญ่เป็นอัตโนมัติ แสดงให้เห็นว่า AI กำลังก้าวจากซอฟต์แวร์ทดลองสู่โครงสร้างพื้นฐานประจำวันสำหรับสุขภาพ การศึกษา กฎหมาย วิทยาศาสตร์ งาน ความคิดสร้างสรรค์ และการสื่อสาร",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เอเจนต์ซอฟต์แวร์ AI ทำให้งานสำนักงานส่วนใหญ่เป็นอัตโนมัติ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบ AI ได้รับความไว้วางใจมากขึ้นในเวิร์กโฟลว์ที่มีความเสี่ยงสูง",
+        "บทบาทมนุษย์เปลี่ยนไปสู่การกำกับดูแลและตรวจสอบความถูกต้อง",
+        "ระบบอัตโนมัติขยายจากงานดิจิทัลสู่โครงสร้างพื้นฐานทางกายภาพ"
+      ],
+      "implications": [
+        "การเข้าถึงบริการระดับผู้เชี่ยวชาญขยายตัว",
+        "การตัดสินใจทางวิทยาศาสตร์และปฏิบัติการรวดเร็วขึ้น",
+        "มาตรฐานธรรมาภิบาลและความปลอดภัยมีความสำคัญมากขึ้น"
+      ],
+      "image": {
+        "alt": "เอเจนต์ซอฟต์แวร์ AI ทำให้งานสำนักงานส่วนใหญ่เป็นอัตโนมัติ",
+        "prompts": [
+          "aI software agents automate most office workflows, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI software agents automate most office workflows, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI software agents automate most office workflows, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI software agents automate most office workflows, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-software-agents-automate-most-office-workflows.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-software-agents-automate-most-office-workflows.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-software-agents-automate-most-office-workflows.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-scientific-assistants-accelerate-material-discovery",
+      "order": 23,
+      "slug": "ai-scientific-assistants-accelerate-material-discovery",
+      "title": "ผู้ช่วยวิทยาศาสตร์ AI เร่งการค้นพบวัสดุใหม่",
+      "shortTitle": "ผู้ช่วยวิทยาศาสตร์ AI",
+      "category": "AI & Computing",
+      "description": "ผู้ช่วยวิทยาศาสตร์ AI เร่งการค้นพบวัสดุใหม่ แสดงให้เห็นว่า AI กำลังก้าวจากซอฟต์แวร์ทดลองสู่โครงสร้างพื้นฐานประจำวันสำหรับสุขภาพ การศึกษา กฎหมาย วิทยาศาสตร์ งาน ความคิดสร้างสรรค์ และการสื่อสาร",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ผู้ช่วยวิทยาศาสตร์ AI เร่งการค้นพบวัสดุใหม่ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบ AI ได้รับความไว้วางใจมากขึ้นในเวิร์กโฟลว์ที่มีความเสี่ยงสูง",
+        "บทบาทมนุษย์เปลี่ยนไปสู่การกำกับดูแลและตรวจสอบความถูกต้อง",
+        "ระบบอัตโนมัติขยายจากงานดิจิทัลสู่โครงสร้างพื้นฐานทางกายภาพ"
+      ],
+      "implications": [
+        "การเข้าถึงบริการระดับผู้เชี่ยวชาญขยายตัว",
+        "การตัดสินใจทางวิทยาศาสตร์และปฏิบัติการรวดเร็วขึ้น",
+        "มาตรฐานธรรมาภิบาลและความปลอดภัยมีความสำคัญมากขึ้น"
+      ],
+      "image": {
+        "alt": "ผู้ช่วยวิทยาศาสตร์ AI เร่งการค้นพบวัสดุใหม่",
+        "prompts": [
+          "aI scientific assistants accelerate material discovery, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI scientific assistants accelerate material discovery, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI scientific assistants accelerate material discovery, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI scientific assistants accelerate material discovery, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-scientific-assistants-accelerate-material-discovery.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-scientific-assistants-accelerate-material-discovery.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-generated-films-and-games-become-mainstream",
+      "order": 24,
+      "slug": "ai-generated-films-and-games-become-mainstream",
+      "title": "ภาพยนตร์และเกมที่สร้างด้วย AI กลายเป็นกระแสหลัก",
+      "shortTitle": "ภาพยนตร์และเกมจาก AI",
+      "category": "AI & Computing",
+      "description": "ภาพยนตร์และเกมที่สร้างด้วย AI กลายเป็นกระแสหลัก แสดงให้เห็นว่า AI กำลังก้าวจากซอฟต์แวร์ทดลองสู่โครงสร้างพื้นฐานประจำวันสำหรับสุขภาพ การศึกษา กฎหมาย วิทยาศาสตร์ งาน ความคิดสร้างสรรค์ และการสื่อสาร",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2036,
+        "endYear": 2039
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ภาพยนตร์และเกมที่สร้างด้วย AI กลายเป็นกระแสหลัก เป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบ AI ได้รับความไว้วางใจมากขึ้นในเวิร์กโฟลว์ที่มีความเสี่ยงสูง",
+        "บทบาทมนุษย์เปลี่ยนไปสู่การกำกับดูแลและตรวจสอบความถูกต้อง",
+        "ระบบอัตโนมัติขยายจากงานดิจิทัลสู่โครงสร้างพื้นฐานทางกายภาพ"
+      ],
+      "implications": [
+        "การเข้าถึงบริการระดับผู้เชี่ยวชาญขยายตัว",
+        "การตัดสินใจทางวิทยาศาสตร์และปฏิบัติการรวดเร็วขึ้น",
+        "มาตรฐานธรรมาภิบาลและความปลอดภัยมีความสำคัญมากขึ้น"
+      ],
+      "image": {
+        "alt": "ภาพยนตร์และเกมที่สร้างด้วย AI กลายเป็นกระแสหลัก",
+        "prompts": [
+          "aI-generated films and games become mainstream, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-generated films and games become mainstream, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-generated films and games become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-generated films and games become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-generated-films-and-games-become-mainstream.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-generated-films-and-games-become-mainstream.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-generated-films-and-games-become-mainstream.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-companions-become-socially-accepted",
+      "order": 25,
+      "slug": "ai-companions-become-socially-accepted",
+      "title": "เพื่อนร่วมทาง AI ได้รับการยอมรับทางสังคม",
+      "shortTitle": "เพื่อนร่วมทาง AI",
+      "category": "AI & Computing",
+      "description": "เพื่อนร่วมทาง AI ได้รับการยอมรับทางสังคม แสดงให้เห็นว่า AI กำลังก้าวจากซอฟต์แวร์ทดลองสู่โครงสร้างพื้นฐานประจำวันสำหรับสุขภาพ การศึกษา กฎหมาย วิทยาศาสตร์ งาน ความคิดสร้างสรรค์ และการสื่อสาร",
+      "layerId": "ai-computing",
+      "domains": ["artificial-intelligence", "automation", "digital-systems"],
+      "maturity": "early-commercial-adoption",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เพื่อนร่วมทาง AI ได้รับการยอมรับทางสังคม กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบ AI ได้รับความไว้วางใจมากขึ้นในเวิร์กโฟลว์ที่มีความเสี่ยงสูง",
+        "บทบาทมนุษย์เปลี่ยนไปสู่การกำกับดูแลและตรวจสอบความถูกต้อง",
+        "ระบบอัตโนมัติขยายจากงานดิจิทัลสู่โครงสร้างพื้นฐานทางกายภาพ"
+      ],
+      "implications": [
+        "การเข้าถึงบริการระดับผู้เชี่ยวชาญขยายตัว",
+        "การตัดสินใจทางวิทยาศาสตร์และปฏิบัติการรวดเร็วขึ้น",
+        "มาตรฐานธรรมาภิบาลและความปลอดภัยมีความสำคัญมากขึ้น"
+      ],
+      "image": {
+        "alt": "เพื่อนร่วมทาง AI ได้รับการยอมรับทางสังคม",
+        "prompts": [
+          "aI companions become socially accepted, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI companions become socially accepted, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI companions become socially accepted, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI companions become socially accepted, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-companions-become-socially-accepted.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-companions-become-socially-accepted.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-companions-become-socially-accepted.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-agricultural-robots-replace-most-repetitive-farm-labor",
+      "order": 26,
+      "slug": "agricultural-robots-replace-most-repetitive-farm-labor",
+      "title": "หุ่นยนต์เกษตรทดแทนแรงงานฟาร์มที่ทำซ้ำส่วนใหญ่",
+      "shortTitle": "หุ่นยนต์เกษตร",
+      "category": "Robotics",
+      "description": "หุ่นยนต์เกษตรทดแทนแรงงานฟาร์มที่ทำซ้ำส่วนใหญ่ ทำให้หุ่นยนต์ก้าวจากระบบอัตโนมัติแบบจำกัด สู่บริการที่มองเห็นได้จริงในโลจิสติกส์ การก่อสร้าง เกษตรกรรม การดูแลผู้สูงอายุ การรับมือภัยพิบัติ และการฟื้นฟูระบบนิเวศ",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "หุ่นยนต์เกษตรทดแทนแรงงานฟาร์มที่ทำซ้ำส่วนใหญ่ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "หุ่นยนต์ทำงานได้อย่างน่าเชื่อถือในพื้นที่สาธารณะและอุตสาหกรรม",
+        "ฝูงระบบอัตโนมัติประสานงานกันได้ทั้งในเมืองหรือพื้นที่นอกโลก",
+        "แรงงานเครื่องจักรเริ่มทดแทนงานซ้ำ ๆ ที่มีความเสี่ยง"
+      ],
+      "implications": [
+        "บริการทางกายภาพมีต้นทุนต่ำลงและเข้าถึงได้มากขึ้น",
+        "มนุษย์สัมผัสงานอันตรายน้อยลง",
+        "โครงสร้างพื้นฐานขยายตัวได้เร็วกว่าการพึ่งพาแรงงานแบบเดิม"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์เกษตรทดแทนแรงงานฟาร์มที่ทำซ้ำส่วนใหญ่",
+        "prompts": [
+          "agricultural robots replace most repetitive farm labor, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing agricultural robots replace most repetitive farm labor, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of agricultural robots replace most repetitive farm labor, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating agricultural robots replace most repetitive farm labor, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-agricultural-robots-replace-most-repetitive-farm-labor.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-agricultural-robots-replace-most-repetitive-farm-labor.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-home-cleaning-robots-become-fully-autonomous",
+      "order": 27,
+      "slug": "home-cleaning-robots-become-fully-autonomous",
+      "title": "หุ่นยนต์ทำความสะอาดบ้านกลายเป็นระบบอัตโนมัติเต็มรูปแบบ",
+      "shortTitle": "หุ่นยนต์ทำความสะอาดบ้าน",
+      "category": "Robotics",
+      "description": "หุ่นยนต์ทำความสะอาดบ้านกลายเป็นระบบอัตโนมัติเต็มรูปแบบ ทำให้หุ่นยนต์ก้าวจากระบบอัตโนมัติแบบจำกัด สู่บริการที่มองเห็นได้จริงในโลจิสติกส์ การก่อสร้าง เกษตรกรรม การดูแลผู้สูงอายุ การรับมือภัยพิบัติ และการฟื้นฟูระบบนิเวศ",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2037,
+        "endYear": 2040
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "หุ่นยนต์ทำความสะอาดบ้านกลายเป็นระบบอัตโนมัติเต็มรูปแบบ เป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "หุ่นยนต์ทำงานได้อย่างน่าเชื่อถือในพื้นที่สาธารณะและอุตสาหกรรม",
+        "ฝูงระบบอัตโนมัติประสานงานกันได้ทั้งในเมืองหรือพื้นที่นอกโลก",
+        "แรงงานเครื่องจักรเริ่มทดแทนงานซ้ำ ๆ ที่มีความเสี่ยง"
+      ],
+      "implications": [
+        "บริการทางกายภาพมีต้นทุนต่ำลงและเข้าถึงได้มากขึ้น",
+        "มนุษย์สัมผัสงานอันตรายน้อยลง",
+        "โครงสร้างพื้นฐานขยายตัวได้เร็วกว่าการพึ่งพาแรงงานแบบเดิม"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์ทำความสะอาดบ้านกลายเป็นระบบอัตโนมัติเต็มรูปแบบ",
+        "prompts": [
+          "home cleaning robots become fully autonomous, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing home cleaning robots become fully autonomous, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of home cleaning robots become fully autonomous, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating home cleaning robots become fully autonomous, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-home-cleaning-robots-become-fully-autonomous.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-home-cleaning-robots-become-fully-autonomous.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-home-cleaning-robots-become-fully-autonomous.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-warehouse-robots-achieve-lights-out-operations",
+      "order": 28,
+      "slug": "warehouse-robots-achieve-lights-out-operations",
+      "title": "หุ่นยนต์คลังสินค้าทำงานแบบไร้คนประจำได้สำเร็จ",
+      "shortTitle": "หุ่นยนต์คลังสินค้าไร้คนประจำ",
+      "category": "Robotics",
+      "description": "หุ่นยนต์คลังสินค้าทำงานแบบไร้คนประจำได้สำเร็จ ทำให้หุ่นยนต์ก้าวจากระบบอัตโนมัติแบบจำกัด สู่บริการที่มองเห็นได้จริงในโลจิสติกส์ การก่อสร้าง เกษตรกรรม การดูแลผู้สูงอายุ การรับมือภัยพิบัติ และการฟื้นฟูระบบนิเวศ",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "หุ่นยนต์คลังสินค้าทำงานแบบไร้คนประจำได้สำเร็จ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "หุ่นยนต์ทำงานได้อย่างน่าเชื่อถือในพื้นที่สาธารณะและอุตสาหกรรม",
+        "ฝูงระบบอัตโนมัติประสานงานกันได้ทั้งในเมืองหรือพื้นที่นอกโลก",
+        "แรงงานเครื่องจักรเริ่มทดแทนงานซ้ำ ๆ ที่มีความเสี่ยง"
+      ],
+      "implications": [
+        "บริการทางกายภาพมีต้นทุนต่ำลงและเข้าถึงได้มากขึ้น",
+        "มนุษย์สัมผัสงานอันตรายน้อยลง",
+        "โครงสร้างพื้นฐานขยายตัวได้เร็วกว่าการพึ่งพาแรงงานแบบเดิม"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์คลังสินค้าทำงานแบบไร้คนประจำได้สำเร็จ",
+        "prompts": [
+          "warehouse robots achieve lights-out operations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing warehouse robots achieve lights-out operations, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of warehouse robots achieve lights-out operations, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating warehouse robots achieve lights-out operations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-warehouse-robots-achieve-lights-out-operations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-warehouse-robots-achieve-lights-out-operations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-warehouse-robots-achieve-lights-out-operations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-robotic-eldercare-assistants-become-common",
+      "order": 29,
+      "slug": "robotic-eldercare-assistants-become-common",
+      "title": "หุ่นยนต์ช่วยดูแลผู้สูงอายุกลายเป็นเรื่องทั่วไป",
+      "shortTitle": "หุ่นยนต์ดูแลผู้สูงอายุ",
+      "category": "Robotics",
+      "description": "หุ่นยนต์ช่วยดูแลผู้สูงอายุกลายเป็นเรื่องทั่วไป ทำให้หุ่นยนต์ก้าวจากระบบอัตโนมัติแบบจำกัด สู่บริการที่มองเห็นได้จริงในโลจิสติกส์ การก่อสร้าง เกษตรกรรม การดูแลผู้สูงอายุ การรับมือภัยพิบัติ และการฟื้นฟูระบบนิเวศ",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "หุ่นยนต์ช่วยดูแลผู้สูงอายุกลายเป็นเรื่องทั่วไป เป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "หุ่นยนต์ทำงานได้อย่างน่าเชื่อถือในพื้นที่สาธารณะและอุตสาหกรรม",
+        "ฝูงระบบอัตโนมัติประสานงานกันได้ทั้งในเมืองหรือพื้นที่นอกโลก",
+        "แรงงานเครื่องจักรเริ่มทดแทนงานซ้ำ ๆ ที่มีความเสี่ยง"
+      ],
+      "implications": [
+        "บริการทางกายภาพมีต้นทุนต่ำลงและเข้าถึงได้มากขึ้น",
+        "มนุษย์สัมผัสงานอันตรายน้อยลง",
+        "โครงสร้างพื้นฐานขยายตัวได้เร็วกว่าการพึ่งพาแรงงานแบบเดิม"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์ช่วยดูแลผู้สูงอายุกลายเป็นเรื่องทั่วไป",
+        "prompts": [
+          "robotic eldercare assistants become common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic eldercare assistants become common, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic eldercare assistants become common, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic eldercare assistants become common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-robotic-eldercare-assistants-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-robotic-eldercare-assistants-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-robotic-eldercare-assistants-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-autonomous-underwater-robots-restore-coral-reefs",
+      "order": 30,
+      "slug": "autonomous-underwater-robots-restore-coral-reefs",
+      "title": "หุ่นยนต์ใต้น้ำอัตโนมัติฟื้นฟูแนวปะการัง",
+      "shortTitle": "หุ่นยนต์ใต้น้ำฟื้นฟูปะการัง",
+      "category": "Robotics",
+      "description": "หุ่นยนต์ใต้น้ำอัตโนมัติฟื้นฟูแนวปะการัง ทำให้หุ่นยนต์ก้าวจากระบบอัตโนมัติแบบจำกัด สู่บริการที่มองเห็นได้จริงในโลจิสติกส์ การก่อสร้าง เกษตรกรรม การดูแลผู้สูงอายุ การรับมือภัยพิบัติ และการฟื้นฟูระบบนิเวศ",
+      "layerId": "robotics",
+      "domains": ["autonomous-robotics", "service-robots", "robot-swarms"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2038,
+        "endYear": 2041
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "หุ่นยนต์ใต้น้ำอัตโนมัติฟื้นฟูแนวปะการัง กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "หุ่นยนต์ทำงานได้อย่างน่าเชื่อถือในพื้นที่สาธารณะและอุตสาหกรรม",
+        "ฝูงระบบอัตโนมัติประสานงานกันได้ทั้งในเมืองหรือพื้นที่นอกโลก",
+        "แรงงานเครื่องจักรเริ่มทดแทนงานซ้ำ ๆ ที่มีความเสี่ยง"
+      ],
+      "implications": [
+        "บริการทางกายภาพมีต้นทุนต่ำลงและเข้าถึงได้มากขึ้น",
+        "มนุษย์สัมผัสงานอันตรายน้อยลง",
+        "โครงสร้างพื้นฐานขยายตัวได้เร็วกว่าการพึ่งพาแรงงานแบบเดิม"
+      ],
+      "image": {
+        "alt": "หุ่นยนต์ใต้น้ำอัตโนมัติฟื้นฟูแนวปะการัง",
+        "prompts": [
+          "autonomous underwater robots restore coral reefs, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous underwater robots restore coral reefs, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous underwater robots restore coral reefs, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous underwater robots restore coral reefs, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-autonomous-underwater-robots-restore-coral-reefs.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-autonomous-underwater-robots-restore-coral-reefs.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-open-air-fusion-ignition-is-demonstrated",
+      "order": 31,
+      "slug": "open-air-fusion-ignition-is-demonstrated",
+      "title": "การจุดติดฟิวชันแบบเปิดโล่งได้รับการสาธิต",
+      "shortTitle": "การจุดติดฟิวชันแบบเปิดโล่ง",
+      "category": "Energy",
+      "description": "การจุดติดฟิวชันแบบเปิดโล่งได้รับการสาธิต เป็นคลื่นลูกแรกของระบบพลังงานที่สะอาด หนาแน่น และชาญฉลาดมากขึ้น เพื่อเตรียมอารยธรรมสู่การใช้ไฟฟ้าขนาดใหญ่และความอุดมสมบูรณ์ในอนาคต",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "การจุดติดฟิวชันแบบเปิดโล่งได้รับการสาธิต กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบพลังงานต้นแบบสาธิตการทำงานอย่างต่อเนื่องได้",
+        "กริดอัจฉริยะลดการสูญเสียและเพิ่มความน่าเชื่อถือ",
+        "โครงสร้างพื้นฐานพลังงานเริ่มเชื่อมกับถนน อาคาร และสินทรัพย์อวกาศ"
+      ],
+      "implications": [
+        "พลังงานสะอาดขยายขนาดได้ง่ายขึ้น",
+        "การขนส่งและการก่อสร้างลดการพึ่งพาคาร์บอนมากขึ้น",
+        "โครงสร้างพื้นฐานอวกาศในอนาคตมีความเป็นไปได้ทางเศรษฐกิจมากขึ้น"
+      ],
+      "image": {
+        "alt": "การจุดติดฟิวชันแบบเปิดโล่งได้รับการสาธิต",
+        "prompts": [
+          "open-air fusion ignition is demonstrated, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing open-air fusion ignition is demonstrated, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of open-air fusion ignition is demonstrated, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating open-air fusion ignition is demonstrated, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-open-air-fusion-ignition-is-demonstrated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-open-air-fusion-ignition-is-demonstrated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-open-air-fusion-ignition-is-demonstrated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ambient-temperature-superconductor-prototype-is-verified",
+      "order": 32,
+      "slug": "ambient-temperature-superconductor-prototype-is-verified",
+      "title": "ต้นแบบตัวนำยิ่งยวดที่อุณหภูมิแวดล้อมได้รับการยืนยัน",
+      "shortTitle": "ตัวนำยิ่งยวดอุณหภูมิแวดล้อม",
+      "category": "Energy",
+      "description": "ต้นแบบตัวนำยิ่งยวดที่อุณหภูมิแวดล้อมได้รับการยืนยัน เปลี่ยนฟิสิกส์แนวหน้าระยะต้นให้เป็นการสาธิตที่ใช้งานได้จริง และอาจเปลี่ยนพลังงาน คอมพิวเตอร์ การตรวจวัด และโครงสร้างพื้นฐาน",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ต้นแบบตัวนำยิ่งยวดที่อุณหภูมิแวดล้อมได้รับการยืนยัน กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ฟิสิกส์เชิงทดลองไปถึงต้นแบบวิศวกรรมที่ทำซ้ำได้",
+        "ระบบควอนตัมและระบบสนามพลังเริ่มออกจากขอบเขตห้องทดลองเท่านั้น",
+        "การวัดความแม่นยำสูงช่วยยกระดับการนำทางและวิทยาศาสตร์"
+      ],
+      "implications": [
+        "ขีดความสามารถใหม่ของโครงสร้างพื้นฐานเป็นไปได้มากขึ้น",
+        "การตั้งถิ่นฐานในอวกาศปลอดภัยขึ้น",
+        "ความก้าวหน้าระยะต่อไปมีเส้นทางวิศวกรรมที่ชัดเจนขึ้น"
+      ],
+      "image": {
+        "alt": "ต้นแบบตัวนำยิ่งยวดที่อุณหภูมิแวดล้อมได้รับการยืนยัน",
+        "prompts": [
+          "ambient-temperature superconductor prototype is verified, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ambient-temperature superconductor prototype is verified, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ambient-temperature superconductor prototype is verified, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ambient-temperature superconductor prototype is verified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ambient-temperature-superconductor-prototype-is-verified.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ambient-temperature-superconductor-prototype-is-verified.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-solid-state-batteries-surpass-lithium-ion-technology",
+      "order": 33,
+      "slug": "solid-state-batteries-surpass-lithium-ion-technology",
+      "title": "แบตเตอรี่โซลิดสเตตเหนือกว่าเทคโนโลยีลิเทียมไอออน",
+      "shortTitle": "แบตเตอรี่โซลิดสเตต",
+      "category": "Energy",
+      "description": "แบตเตอรี่โซลิดสเตตเหนือกว่าเทคโนโลยีลิเทียมไอออน เป็นคลื่นลูกแรกของระบบพลังงานที่สะอาด หนาแน่น และชาญฉลาดมากขึ้น เพื่อเตรียมอารยธรรมสู่การใช้ไฟฟ้าขนาดใหญ่และความอุดมสมบูรณ์ในอนาคต",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "แบตเตอรี่โซลิดสเตตเหนือกว่าเทคโนโลยีลิเทียมไอออน กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบพลังงานต้นแบบสาธิตการทำงานอย่างต่อเนื่องได้",
+        "กริดอัจฉริยะลดการสูญเสียและเพิ่มความน่าเชื่อถือ",
+        "โครงสร้างพื้นฐานพลังงานเริ่มเชื่อมกับถนน อาคาร และสินทรัพย์อวกาศ"
+      ],
+      "implications": [
+        "พลังงานสะอาดขยายขนาดได้ง่ายขึ้น",
+        "การขนส่งและการก่อสร้างลดการพึ่งพาคาร์บอนมากขึ้น",
+        "โครงสร้างพื้นฐานอวกาศในอนาคตมีความเป็นไปได้ทางเศรษฐกิจมากขึ้น"
+      ],
+      "image": {
+        "alt": "แบตเตอรี่โซลิดสเตตเหนือกว่าเทคโนโลยีลิเทียมไอออน",
+        "prompts": [
+          "solid-state batteries surpass lithium-ion technology, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing solid-state batteries surpass lithium-ion technology, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of solid-state batteries surpass lithium-ion technology, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating solid-state batteries surpass lithium-ion technology, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-solid-state-batteries-surpass-lithium-ion-technology.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-solid-state-batteries-surpass-lithium-ion-technology.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-ai-managed-smart-grids-reduce-energy-waste",
+      "order": 34,
+      "slug": "ai-managed-smart-grids-reduce-energy-waste",
+      "title": "กริดอัจฉริยะที่บริหารด้วย AI ลดการสูญเสียพลังงาน",
+      "shortTitle": "กริดอัจฉริยะ AI",
+      "category": "Energy",
+      "description": "กริดอัจฉริยะที่บริหารด้วย AI ลดการสูญเสียพลังงาน เป็นคลื่นลูกแรกของระบบพลังงานที่สะอาด หนาแน่น และชาญฉลาดมากขึ้น เพื่อเตรียมอารยธรรมสู่การใช้ไฟฟ้าขนาดใหญ่และความอุดมสมบูรณ์ในอนาคต",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2039,
+        "endYear": 2042
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "กริดอัจฉริยะที่บริหารด้วย AI ลดการสูญเสียพลังงาน กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบพลังงานต้นแบบสาธิตการทำงานอย่างต่อเนื่องได้",
+        "กริดอัจฉริยะลดการสูญเสียและเพิ่มความน่าเชื่อถือ",
+        "โครงสร้างพื้นฐานพลังงานเริ่มเชื่อมกับถนน อาคาร และสินทรัพย์อวกาศ"
+      ],
+      "implications": [
+        "พลังงานสะอาดขยายขนาดได้ง่ายขึ้น",
+        "การขนส่งและการก่อสร้างลดการพึ่งพาคาร์บอนมากขึ้น",
+        "โครงสร้างพื้นฐานอวกาศในอนาคตมีความเป็นไปได้ทางเศรษฐกิจมากขึ้น"
+      ],
+      "image": {
+        "alt": "กริดอัจฉริยะที่บริหารด้วย AI ลดการสูญเสียพลังงาน",
+        "prompts": [
+          "aI-managed smart grids reduce energy waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-managed smart grids reduce energy waste, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-managed smart grids reduce energy waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-managed smart grids reduce energy waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-ai-managed-smart-grids-reduce-energy-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-ai-managed-smart-grids-reduce-energy-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-building-integrated-solar-materials-become-affordable",
+      "order": 35,
+      "slug": "building-integrated-solar-materials-become-affordable",
+      "title": "วัสดุโซลาร์แบบผสานกับอาคารมีราคาที่เข้าถึงได้",
+      "shortTitle": "วัสดุโซลาร์ผสานอาคาร",
+      "category": "Energy",
+      "description": "วัสดุโซลาร์แบบผสานกับอาคารมีราคาที่เข้าถึงได้ เป็นคลื่นลูกแรกของระบบพลังงานที่สะอาด หนาแน่น และชาญฉลาดมากขึ้น เพื่อเตรียมอารยธรรมสู่การใช้ไฟฟ้าขนาดใหญ่และความอุดมสมบูรณ์ในอนาคต",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "electric-infrastructure", "clean-energy"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "วัสดุโซลาร์แบบผสานกับอาคารมีราคาที่เข้าถึงได้ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "ระบบพลังงานต้นแบบสาธิตการทำงานอย่างต่อเนื่องได้",
+        "กริดอัจฉริยะลดการสูญเสียและเพิ่มความน่าเชื่อถือ",
+        "โครงสร้างพื้นฐานพลังงานเริ่มเชื่อมกับถนน อาคาร และสินทรัพย์อวกาศ"
+      ],
+      "implications": [
+        "พลังงานสะอาดขยายขนาดได้ง่ายขึ้น",
+        "การขนส่งและการก่อสร้างลดการพึ่งพาคาร์บอนมากขึ้น",
+        "โครงสร้างพื้นฐานอวกาศในอนาคตมีความเป็นไปได้ทางเศรษฐกิจมากขึ้น"
+      ],
+      "image": {
+        "alt": "วัสดุโซลาร์แบบผสานกับอาคารมีราคาที่เข้าถึงได้",
+        "prompts": [
+          "building-integrated solar materials become affordable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing building-integrated solar materials become affordable, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of building-integrated solar materials become affordable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating building-integrated solar materials become affordable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-building-integrated-solar-materials-become-affordable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-building-integrated-solar-materials-become-affordable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-building-integrated-solar-materials-become-affordable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-organ-regeneration-patches-enter-clinical-use",
+      "order": 36,
+      "slug": "organ-regeneration-patches-enter-clinical-use",
+      "title": "แผ่นฟื้นฟูอวัยวะเข้าสู่การใช้งานทางคลินิก",
+      "shortTitle": "แผ่นฟื้นฟูอวัยวะ",
+      "category": "Biology & Medicine",
+      "description": "แผ่นฟื้นฟูอวัยวะเข้าสู่การใช้งานทางคลินิก นำการแพทย์เชิงคาดการณ์ การฟื้นฟู และการรักษาเฉพาะบุคคลระยะต้นเข้าสู่การใช้งานจริง เพื่อขยายการป้องกัน การซ่อมแซม และความยืดหยุ่นทางชีวภาพ",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "แผ่นฟื้นฟูอวัยวะเข้าสู่การใช้งานทางคลินิก กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "การตรวจพบโรคเกิดเร็วขึ้นและปรับเฉพาะบุคคลมากขึ้น",
+        "การรักษาแบบฟื้นฟูและยีนบำบัดขยายตัว",
+        "ระบบชีวภาพแบบวงปิดสนับสนุนการอยู่อาศัยในอวกาศ"
+      ],
+      "implications": [
+        "ระบบสุขภาพเน้นการป้องกันมากขึ้น",
+        "ร่างกายมนุษย์ซ่อมแซมได้มากขึ้น",
+        "ชีวิตระยะยาวในอวกาศมีความเป็นจริงมากขึ้น"
+      ],
+      "image": {
+        "alt": "แผ่นฟื้นฟูอวัยวะเข้าสู่การใช้งานทางคลินิก",
+        "prompts": [
+          "organ regeneration patches enter clinical use, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing organ regeneration patches enter clinical use, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of organ regeneration patches enter clinical use, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating organ regeneration patches enter clinical use, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-organ-regeneration-patches-enter-clinical-use.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-organ-regeneration-patches-enter-clinical-use.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-organ-regeneration-patches-enter-clinical-use.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-digital-immune-systems-prevent-most-infectious-outbreaks",
+      "order": 37,
+      "slug": "digital-immune-systems-prevent-most-infectious-outbreaks",
+      "title": "ระบบภูมิคุ้มกันดิจิทัลช่วยป้องกันการระบาดของโรคติดเชื้อส่วนใหญ่",
+      "shortTitle": "ระบบภูมิคุ้มกันดิจิทัล",
+      "category": "Biology & Medicine",
+      "description": "ระบบภูมิคุ้มกันดิจิทัลช่วยป้องกันการระบาดของโรคติดเชื้อส่วนใหญ่ นำการแพทย์เชิงคาดการณ์ การฟื้นฟู และการรักษาเฉพาะบุคคลระยะต้นเข้าสู่การใช้งานจริง เพื่อขยายการป้องกัน การซ่อมแซม และความยืดหยุ่นทางชีวภาพ",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2040,
+        "endYear": 2043
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ระบบภูมิคุ้มกันดิจิทัลช่วยป้องกันการระบาดของโรคติดเชื้อส่วนใหญ่ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "การตรวจพบโรคเกิดเร็วขึ้นและปรับเฉพาะบุคคลมากขึ้น",
+        "การรักษาแบบฟื้นฟูและยีนบำบัดขยายตัว",
+        "ระบบชีวภาพแบบวงปิดสนับสนุนการอยู่อาศัยในอวกาศ"
+      ],
+      "implications": [
+        "ระบบสุขภาพเน้นการป้องกันมากขึ้น",
+        "ร่างกายมนุษย์ซ่อมแซมได้มากขึ้น",
+        "ชีวิตระยะยาวในอวกาศมีความเป็นจริงมากขึ้น"
+      ],
+      "image": {
+        "alt": "ระบบภูมิคุ้มกันดิจิทัลช่วยป้องกันการระบาดของโรคติดเชื้อส่วนใหญ่",
+        "prompts": [
+          "digital immune systems prevent most infectious outbreaks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing digital immune systems prevent most infectious outbreaks, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of digital immune systems prevent most infectious outbreaks, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating digital immune systems prevent most infectious outbreaks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-digital-immune-systems-prevent-most-infectious-outbreaks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-longevity-drugs-extend-healthy-lifespan-significantly",
+      "order": 38,
+      "slug": "longevity-drugs-extend-healthy-lifespan-significantly",
+      "title": "ยาชะลอวัยช่วยยืดช่วงชีวิตสุขภาพดีอย่างมีนัยสำคัญ",
+      "shortTitle": "ยาชะลอวัย",
+      "category": "Biology & Medicine",
+      "description": "ยาชะลอวัยช่วยยืดช่วงชีวิตสุขภาพดีอย่างมีนัยสำคัญ นำการแพทย์เชิงคาดการณ์ การฟื้นฟู และการรักษาเฉพาะบุคคลระยะต้นเข้าสู่การใช้งานจริง เพื่อขยายการป้องกัน การซ่อมแซม และความยืดหยุ่นทางชีวภาพ",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ยาชะลอวัยช่วยยืดช่วงชีวิตสุขภาพดีอย่างมีนัยสำคัญ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "การตรวจพบโรคเกิดเร็วขึ้นและปรับเฉพาะบุคคลมากขึ้น",
+        "การรักษาแบบฟื้นฟูและยีนบำบัดขยายตัว",
+        "ระบบชีวภาพแบบวงปิดสนับสนุนการอยู่อาศัยในอวกาศ"
+      ],
+      "implications": [
+        "ระบบสุขภาพเน้นการป้องกันมากขึ้น",
+        "ร่างกายมนุษย์ซ่อมแซมได้มากขึ้น",
+        "ชีวิตระยะยาวในอวกาศมีความเป็นจริงมากขึ้น"
+      ],
+      "image": {
+        "alt": "ยาชะลอวัยช่วยยืดช่วงชีวิตสุขภาพดีอย่างมีนัยสำคัญ",
+        "prompts": [
+          "longevity drugs extend healthy lifespan significantly, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing longevity drugs extend healthy lifespan significantly, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of longevity drugs extend healthy lifespan significantly, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating longevity drugs extend healthy lifespan significantly, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-longevity-drugs-extend-healthy-lifespan-significantly.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-longevity-drugs-extend-healthy-lifespan-significantly.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-synthetic-blood-enters-emergency-medicine",
+      "order": 39,
+      "slug": "synthetic-blood-enters-emergency-medicine",
+      "title": "เลือดสังเคราะห์เข้าสู่เวชศาสตร์ฉุกเฉิน",
+      "shortTitle": "เลือดสังเคราะห์",
+      "category": "Biology & Medicine",
+      "description": "เลือดสังเคราะห์เข้าสู่เวชศาสตร์ฉุกเฉิน นำการแพทย์เชิงคาดการณ์ การฟื้นฟู และการรักษาเฉพาะบุคคลระยะต้นเข้าสู่การใช้งานจริง เพื่อขยายการป้องกัน การซ่อมแซม และความยืดหยุ่นทางชีวภาพ",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เลือดสังเคราะห์เข้าสู่เวชศาสตร์ฉุกเฉิน กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "การตรวจพบโรคเกิดเร็วขึ้นและปรับเฉพาะบุคคลมากขึ้น",
+        "การรักษาแบบฟื้นฟูและยีนบำบัดขยายตัว",
+        "ระบบชีวภาพแบบวงปิดสนับสนุนการอยู่อาศัยในอวกาศ"
+      ],
+      "implications": [
+        "ระบบสุขภาพเน้นการป้องกันมากขึ้น",
+        "ร่างกายมนุษย์ซ่อมแซมได้มากขึ้น",
+        "ชีวิตระยะยาวในอวกาศมีความเป็นจริงมากขึ้น"
+      ],
+      "image": {
+        "alt": "เลือดสังเคราะห์เข้าสู่เวชศาสตร์ฉุกเฉิน",
+        "prompts": [
+          "synthetic blood enters emergency medicine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic blood enters emergency medicine, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic blood enters emergency medicine, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic blood enters emergency medicine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-synthetic-blood-enters-emergency-medicine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-synthetic-blood-enters-emergency-medicine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-synthetic-blood-enters-emergency-medicine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-gene-therapies-cure-several-inherited-diseases",
+      "order": 40,
+      "slug": "gene-therapies-cure-several-inherited-diseases",
+      "title": "ยีนบำบัดรักษาโรคพันธุกรรมหลายชนิดได้สำเร็จ",
+      "shortTitle": "ยีนบำบัดรักษาโรคพันธุกรรม",
+      "category": "Biology & Medicine",
+      "description": "ยีนบำบัดรักษาโรคพันธุกรรมหลายชนิดได้สำเร็จ นำการแพทย์เชิงคาดการณ์ การฟื้นฟู และการรักษาเฉพาะบุคคลระยะต้นเข้าสู่การใช้งานจริง เพื่อขยายการป้องกัน การซ่อมแซม และความยืดหยุ่นทางชีวภาพ",
+      "layerId": "biology-medicine",
+      "domains": ["medicine", "biotechnology", "human-health"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2041,
+        "endYear": 2044
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ยีนบำบัดรักษาโรคพันธุกรรมหลายชนิดได้สำเร็จ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "การตรวจพบโรคเกิดเร็วขึ้นและปรับเฉพาะบุคคลมากขึ้น",
+        "การรักษาแบบฟื้นฟูและยีนบำบัดขยายตัว",
+        "ระบบชีวภาพแบบวงปิดสนับสนุนการอยู่อาศัยในอวกาศ"
+      ],
+      "implications": [
+        "ระบบสุขภาพเน้นการป้องกันมากขึ้น",
+        "ร่างกายมนุษย์ซ่อมแซมได้มากขึ้น",
+        "ชีวิตระยะยาวในอวกาศมีความเป็นจริงมากขึ้น"
+      ],
+      "image": {
+        "alt": "ยีนบำบัดรักษาโรคพันธุกรรมหลายชนิดได้สำเร็จ",
+        "prompts": [
+          "gene therapies cure several inherited diseases, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing gene therapies cure several inherited diseases, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of gene therapies cure several inherited diseases, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating gene therapies cure several inherited diseases, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-gene-therapies-cure-several-inherited-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-gene-therapies-cure-several-inherited-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-gene-therapies-cure-several-inherited-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-programmable-smart-materials-enter-industry",
+      "order": 41,
+      "slug": "programmable-smart-materials-enter-industry",
+      "title": "วัสดุอัจฉริยะที่ตั้งโปรแกรมได้เข้าสู่อุตสาหกรรม",
+      "shortTitle": "วัสดุอัจฉริยะตั้งโปรแกรมได้",
+      "category": "Materials & Manufacturing",
+      "description": "วัสดุอัจฉริยะที่ตั้งโปรแกรมได้เข้าสู่อุตสาหกรรม ยกระดับฐานวัสดุของอารยธรรมผ่านการก่อสร้างที่สะอาดขึ้น โครงสร้างซ่อมตัวเองได้ การพิมพ์ 3D วัสดุที่ตั้งโปรแกรมได้ และการดักจับคาร์บอน",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "วัสดุอัจฉริยะที่ตั้งโปรแกรมได้เข้าสู่อุตสาหกรรม กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "วัสดุคาร์บอนต่ำและวัสดุซ่อมตัวเองเข้าสู่การใช้งานเชิงพาณิชย์",
+        "การผลิตแบบเพิ่มเนื้อวัสดุขยายสู่ระดับอาคารและโครงสร้างพื้นฐาน",
+        "การผลิตในอวกาศสร้างวัสดุที่ทำได้ยากบนโลก"
+      ],
+      "implications": [
+        "การก่อสร้างมีต้นทุนต่ำลงและสะอาดขึ้น",
+        "เมืองและถิ่นอาศัยอวกาศมีความยืดหยุ่นมากขึ้น",
+        "ห่วงโซ่อุปทานเปลี่ยนไปสู่การผลิตในท้องถิ่นและอัตโนมัติมากขึ้น"
+      ],
+      "image": {
+        "alt": "วัสดุอัจฉริยะที่ตั้งโปรแกรมได้เข้าสู่อุตสาหกรรม",
+        "prompts": [
+          "programmable smart materials enter industry, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable smart materials enter industry, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable smart materials enter industry, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable smart materials enter industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-programmable-smart-materials-enter-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-programmable-smart-materials-enter-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-programmable-smart-materials-enter-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-3d-printed-buildings-become-mainstream",
+      "order": 42,
+      "slug": "3d-printed-buildings-become-mainstream",
+      "title": "อาคารพิมพ์ 3D กลายเป็นกระแสหลัก",
+      "shortTitle": "อาคารพิมพ์ 3D",
+      "category": "Materials & Manufacturing",
+      "description": "อาคารพิมพ์ 3D กลายเป็นกระแสหลัก ยกระดับฐานวัสดุของอารยธรรมผ่านการก่อสร้างที่สะอาดขึ้น โครงสร้างซ่อมตัวเองได้ การพิมพ์ 3D วัสดุที่ตั้งโปรแกรมได้ และการดักจับคาร์บอน",
+      "layerId": "materials-manufacturing",
+      "domains": ["advanced-materials", "manufacturing", "construction"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "อาคารพิมพ์ 3D กลายเป็นกระแสหลัก เป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "วัสดุคาร์บอนต่ำและวัสดุซ่อมตัวเองเข้าสู่การใช้งานเชิงพาณิชย์",
+        "การผลิตแบบเพิ่มเนื้อวัสดุขยายสู่ระดับอาคารและโครงสร้างพื้นฐาน",
+        "การผลิตในอวกาศสร้างวัสดุที่ทำได้ยากบนโลก"
+      ],
+      "implications": [
+        "การก่อสร้างมีต้นทุนต่ำลงและสะอาดขึ้น",
+        "เมืองและถิ่นอาศัยอวกาศมีความยืดหยุ่นมากขึ้น",
+        "ห่วงโซ่อุปทานเปลี่ยนไปสู่การผลิตในท้องถิ่นและอัตโนมัติมากขึ้น"
+      ],
+      "image": {
+        "alt": "อาคารพิมพ์ 3D กลายเป็นกระแสหลัก",
+        "prompts": [
+          "3D-printed buildings become mainstream, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing 3D-printed buildings become mainstream, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of 3D-printed buildings become mainstream, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating 3D-printed buildings become mainstream, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-3d-printed-buildings-become-mainstream.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-3d-printed-buildings-become-mainstream.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-3d-printed-buildings-become-mainstream.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-precision-agriculture-dramatically-reduces-fertilizer-waste",
+      "order": 43,
+      "slug": "precision-agriculture-dramatically-reduces-fertilizer-waste",
+      "title": "เกษตรแม่นยำลดการสูญเสียปุ๋ยลงอย่างมาก",
+      "shortTitle": "เกษตรแม่นยำ",
+      "category": "Environment",
+      "description": "เกษตรแม่นยำลดการสูญเสียปุ๋ยลงอย่างมาก แสดงให้เห็นว่าการซ่อมแซมภูมิอากาศ ความยืดหยุ่นด้านอาหาร การเข้าถึงน้ำ การปลูกป่าฟื้นฟู และการบำบัดมลพิษเริ่มกลายเป็นระบบที่นำไปใช้ได้จริง",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เกษตรแม่นยำลดการสูญเสียปุ๋ยลงอย่างมาก กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "โมเดล AI ช่วยนำทางการตัดสินใจด้านภูมิอากาศและเกษตรกรรม",
+        "โครงการฟื้นฟูระบบนิเวศวัดผลได้และขยายขนาดได้",
+        "ระบบทรัพยากรแบบวงปิดช่วยลดของเสีย"
+      ],
+      "implications": [
+        "ความเสี่ยงด้านภูมิอากาศและอาหารจัดการได้ง่ายขึ้น",
+        "การฟื้นฟูระบบนิเวศกลายเป็นอุตสาหกรรมที่จริงจัง",
+        "ถิ่นอาศัยในอวกาศพึ่งพาวงจรทรัพยากรที่ยั่งยืน"
+      ],
+      "image": {
+        "alt": "เกษตรแม่นยำลดการสูญเสียปุ๋ยลงอย่างมาก",
+        "prompts": [
+          "precision agriculture dramatically reduces fertilizer waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing precision agriculture dramatically reduces fertilizer waste, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of precision agriculture dramatically reduces fertilizer waste, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating precision agriculture dramatically reduces fertilizer waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-precision-agriculture-dramatically-reduces-fertilizer-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-desalination-technologies-provide-low-cost-fresh-water",
+      "order": 44,
+      "slug": "desalination-technologies-provide-low-cost-fresh-water",
+      "title": "เทคโนโลยีแยกเกลือจากน้ำทะเลผลิตน้ำจืดต้นทุนต่ำ",
+      "shortTitle": "น้ำจืดจากการแยกเกลือต้นทุนต่ำ",
+      "category": "Environment",
+      "description": "เทคโนโลยีแยกเกลือจากน้ำทะเลผลิตน้ำจืดต้นทุนต่ำ แสดงให้เห็นว่าการซ่อมแซมภูมิอากาศ ความยืดหยุ่นด้านอาหาร การเข้าถึงน้ำ การปลูกป่าฟื้นฟู และการบำบัดมลพิษเริ่มกลายเป็นระบบที่นำไปใช้ได้จริง",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2042,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เทคโนโลยีแยกเกลือจากน้ำทะเลผลิตน้ำจืดต้นทุนต่ำ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "โมเดล AI ช่วยนำทางการตัดสินใจด้านภูมิอากาศและเกษตรกรรม",
+        "โครงการฟื้นฟูระบบนิเวศวัดผลได้และขยายขนาดได้",
+        "ระบบทรัพยากรแบบวงปิดช่วยลดของเสีย"
+      ],
+      "implications": [
+        "ความเสี่ยงด้านภูมิอากาศและอาหารจัดการได้ง่ายขึ้น",
+        "การฟื้นฟูระบบนิเวศกลายเป็นอุตสาหกรรมที่จริงจัง",
+        "ถิ่นอาศัยในอวกาศพึ่งพาวงจรทรัพยากรที่ยั่งยืน"
+      ],
+      "image": {
+        "alt": "เทคโนโลยีแยกเกลือจากน้ำทะเลผลิตน้ำจืดต้นทุนต่ำ",
+        "prompts": [
+          "desalination technologies provide low-cost fresh water, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing desalination technologies provide low-cost fresh water, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of desalination technologies provide low-cost fresh water, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating desalination technologies provide low-cost fresh water, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-desalination-technologies-provide-low-cost-fresh-water.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-desalination-technologies-provide-low-cost-fresh-water.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-reforestation-drones-restore-damaged-ecosystems",
+      "order": 45,
+      "slug": "reforestation-drones-restore-damaged-ecosystems",
+      "title": "โดรนปลูกป่าฟื้นฟูระบบนิเวศที่เสียหาย",
+      "shortTitle": "โดรนปลูกป่าฟื้นฟูระบบนิเวศ",
+      "category": "Environment",
+      "description": "โดรนปลูกป่าฟื้นฟูระบบนิเวศที่เสียหาย แสดงให้เห็นว่าการซ่อมแซมภูมิอากาศ ความยืดหยุ่นด้านอาหาร การเข้าถึงน้ำ การปลูกป่าฟื้นฟู และการบำบัดมลพิษเริ่มกลายเป็นระบบที่นำไปใช้ได้จริง",
+      "layerId": "environment",
+      "domains": ["climate", "ecosystem-restoration", "water-systems"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "โดรนปลูกป่าฟื้นฟูระบบนิเวศที่เสียหาย กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "โมเดล AI ช่วยนำทางการตัดสินใจด้านภูมิอากาศและเกษตรกรรม",
+        "โครงการฟื้นฟูระบบนิเวศวัดผลได้และขยายขนาดได้",
+        "ระบบทรัพยากรแบบวงปิดช่วยลดของเสีย"
+      ],
+      "implications": [
+        "ความเสี่ยงด้านภูมิอากาศและอาหารจัดการได้ง่ายขึ้น",
+        "การฟื้นฟูระบบนิเวศกลายเป็นอุตสาหกรรมที่จริงจัง",
+        "ถิ่นอาศัยในอวกาศพึ่งพาวงจรทรัพยากรที่ยั่งยืน"
+      ],
+      "image": {
+        "alt": "โดรนปลูกป่าฟื้นฟูระบบนิเวศที่เสียหาย",
+        "prompts": [
+          "reforestation drones restore damaged ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing reforestation drones restore damaged ecosystems, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of reforestation drones restore damaged ecosystems, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating reforestation drones restore damaged ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-reforestation-drones-restore-damaged-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-reforestation-drones-restore-damaged-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-commercial-orbital-hotel-opens",
+      "order": 46,
+      "slug": "first-commercial-orbital-hotel-opens",
+      "title": "โรงแรมเชิงพาณิชย์ในวงโคจรแห่งแรกเปิดให้บริการ",
+      "shortTitle": "โรงแรมเชิงพาณิชย์ในวงโคจร",
+      "category": "Space",
+      "description": "โรงแรมเชิงพาณิชย์ในวงโคจรแห่งแรกเปิดให้บริการ เปิดเส้นทางเชิงพาณิชย์และหุ่นยนต์ระยะแรกนอกโลก เพื่อเตรียมฐานสำหรับบริการในวงโคจรและกิจกรรมทรัพยากรบนดวงจันทร์",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "โรงแรมเชิงพาณิชย์ในวงโคจรแห่งแรกเปิดให้บริการ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "บริการอวกาศเชิงพาณิชย์กลายเป็นเรื่องที่เกิดขึ้นสม่ำเสมอ",
+        "โครงสร้างพื้นฐานดวงจันทร์และวงโคจรได้รับการลงทุนต่อเนื่อง",
+        "โลจิสติกส์โลก-ดวงจันทร์-ดาวอังคารก้าวจากการสาธิตสู่การปฏิบัติการระยะต้น"
+      ],
+      "implications": [
+        "อวกาศกลายเป็นพื้นที่เศรษฐกิจ ไม่ใช่เพียงพรมแดนเชิงสัญลักษณ์",
+        "การตั้งถิ่นฐานถาวรนอกโลกมีความน่าเชื่อถือมากขึ้น",
+        "อารยธรรมมีพื้นที่ใหม่สำหรับอุตสาหกรรม การวิจัย และวัฒนธรรม"
+      ],
+      "image": {
+        "alt": "โรงแรมเชิงพาณิชย์ในวงโคจรแห่งแรกเปิดให้บริการ",
+        "prompts": [
+          "first commercial orbital hotel opens, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first commercial orbital hotel opens, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first commercial orbital hotel opens, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first commercial orbital hotel opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-commercial-orbital-hotel-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-commercial-orbital-hotel-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-commercial-orbital-hotel-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-autonomous-lunar-construction-site-begins-operation",
+      "order": 47,
+      "slug": "first-autonomous-lunar-construction-site-begins-operation",
+      "title": "ไซต์ก่อสร้างดวงจันทร์อัตโนมัติแห่งแรกเริ่มปฏิบัติการ",
+      "shortTitle": "ไซต์ก่อสร้างดวงจันทร์อัตโนมัติ",
+      "category": "Space",
+      "description": "ไซต์ก่อสร้างดวงจันทร์อัตโนมัติแห่งแรกเริ่มปฏิบัติการ เปิดเส้นทางเชิงพาณิชย์และหุ่นยนต์ระยะแรกนอกโลก เพื่อเตรียมฐานสำหรับบริการในวงโคจรและกิจกรรมทรัพยากรบนดวงจันทร์",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2043,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ไซต์ก่อสร้างดวงจันทร์อัตโนมัติแห่งแรกเริ่มปฏิบัติการ กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "บริการอวกาศเชิงพาณิชย์กลายเป็นเรื่องที่เกิดขึ้นสม่ำเสมอ",
+        "โครงสร้างพื้นฐานดวงจันทร์และวงโคจรได้รับการลงทุนต่อเนื่อง",
+        "โลจิสติกส์โลก-ดวงจันทร์-ดาวอังคารก้าวจากการสาธิตสู่การปฏิบัติการระยะต้น"
+      ],
+      "implications": [
+        "อวกาศกลายเป็นพื้นที่เศรษฐกิจ ไม่ใช่เพียงพรมแดนเชิงสัญลักษณ์",
+        "การตั้งถิ่นฐานถาวรนอกโลกมีความน่าเชื่อถือมากขึ้น",
+        "อารยธรรมมีพื้นที่ใหม่สำหรับอุตสาหกรรม การวิจัย และวัฒนธรรม"
+      ],
+      "image": {
+        "alt": "ไซต์ก่อสร้างดวงจันทร์อัตโนมัติแห่งแรกเริ่มปฏิบัติการ",
+        "prompts": [
+          "first autonomous lunar construction site begins operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first autonomous lunar construction site begins operation, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first autonomous lunar construction site begins operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first autonomous lunar construction site begins operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-autonomous-lunar-construction-site-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-autonomous-lunar-construction-site-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-first-lunar-resource-prospecting-mission-becomes-commercial",
+      "order": 48,
+      "slug": "first-lunar-resource-prospecting-mission-becomes-commercial",
+      "title": "ภารกิจสำรวจทรัพยากรดวงจันทร์เชิงพาณิชย์แห่งแรกเกิดขึ้น",
+      "shortTitle": "ภารกิจสำรวจทรัพยากรดวงจันทร์",
+      "category": "Space",
+      "description": "ภารกิจสำรวจทรัพยากรดวงจันทร์เชิงพาณิชย์แห่งแรกเกิดขึ้น เปิดเส้นทางเชิงพาณิชย์และหุ่นยนต์ระยะแรกนอกโลก เพื่อเตรียมฐานสำหรับบริการในวงโคจรและกิจกรรมทรัพยากรบนดวงจันทร์",
+      "layerId": "space",
+      "domains": [
+        "orbital-infrastructure",
+        "lunar-systems",
+        "space-civilization"
+      ],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ภารกิจสำรวจทรัพยากรดวงจันทร์เชิงพาณิชย์แห่งแรกเกิดขึ้น กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "บริการอวกาศเชิงพาณิชย์กลายเป็นเรื่องที่เกิดขึ้นสม่ำเสมอ",
+        "โครงสร้างพื้นฐานดวงจันทร์และวงโคจรได้รับการลงทุนต่อเนื่อง",
+        "โลจิสติกส์โลก-ดวงจันทร์-ดาวอังคารก้าวจากการสาธิตสู่การปฏิบัติการระยะต้น"
+      ],
+      "implications": [
+        "อวกาศกลายเป็นพื้นที่เศรษฐกิจ ไม่ใช่เพียงพรมแดนเชิงสัญลักษณ์",
+        "การตั้งถิ่นฐานถาวรนอกโลกมีความน่าเชื่อถือมากขึ้น",
+        "อารยธรรมมีพื้นที่ใหม่สำหรับอุตสาหกรรม การวิจัย และวัฒนธรรม"
+      ],
+      "image": {
+        "alt": "ภารกิจสำรวจทรัพยากรดวงจันทร์เชิงพาณิชย์แห่งแรกเกิดขึ้น",
+        "prompts": [
+          "first lunar resource prospecting mission becomes commercial, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first lunar resource prospecting mission becomes commercial, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first lunar resource prospecting mission becomes commercial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first lunar resource prospecting mission becomes commercial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-first-lunar-resource-prospecting-mission-becomes-commercial.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-universal-digital-identity-becomes-globally-interoperable",
+      "order": 49,
+      "slug": "universal-digital-identity-becomes-globally-interoperable",
+      "title": "อัตลักษณ์ดิจิทัลสากลเชื่อมใช้ร่วมกันได้ทั่วโลก",
+      "shortTitle": "อัตลักษณ์ดิจิทัลสากล",
+      "category": "Society & Economy",
+      "description": "อัตลักษณ์ดิจิทัลสากลเชื่อมใช้ร่วมกันได้ทั่วโลก สะท้อนการเปลี่ยนผ่านทางสังคมและเศรษฐกิจระยะแรก เมื่ออัตลักษณ์ดิจิทัล ระบบไร้เงินสด บริการ AI และระบบอัตโนมัติเริ่มเปลี่ยนชีวิตประจำวัน",
+      "layerId": "society-economy",
+      "domains": ["social-systems", "economy", "public-services"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "อัตลักษณ์ดิจิทัลสากลเชื่อมใช้ร่วมกันได้ทั่วโลก กลายเป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "โครงสร้างพื้นฐานดิจิทัลสาธารณะเชื่อมทำงานร่วมกันได้",
+        "ระบบเศรษฐกิจใหม่ก่อตัวรอบระบบอัตโนมัติและบริการอวกาศ",
+        "สถาบันกฎหมายปรับตัวต่อความเป็นจริงทางเทคโนโลยีรูปแบบใหม่"
+      ],
+      "implications": [
+        "การเข้าถึงบริการง่ายขึ้นและเป็นสากลมากขึ้น",
+        "การค้าในอวกาศมีความชอบธรรมมากขึ้น",
+        "ชีวิตทางเศรษฐกิจเป็นดิจิทัลและข้ามพรมแดนมากขึ้น"
+      ],
+      "image": {
+        "alt": "อัตลักษณ์ดิจิทัลสากลเชื่อมใช้ร่วมกันได้ทั่วโลก",
+        "prompts": [
+          "universal digital identity becomes globally interoperable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal digital identity becomes globally interoperable, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal digital identity becomes globally interoperable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal digital identity becomes globally interoperable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-universal-digital-identity-becomes-globally-interoperable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-universal-digital-identity-becomes-globally-interoperable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-01-cashless-economies-dominate-most-countries",
+      "order": 50,
+      "slug": "cashless-economies-dominate-most-countries",
+      "title": "เศรษฐกิจไร้เงินสดกลายเป็นระบบหลักในประเทศส่วนใหญ่",
+      "shortTitle": "เศรษฐกิจไร้เงินสด",
+      "category": "Society & Economy",
+      "description": "เศรษฐกิจไร้เงินสดกลายเป็นระบบหลักในประเทศส่วนใหญ่ สะท้อนการเปลี่ยนผ่านทางสังคมและเศรษฐกิจระยะแรก เมื่ออัตลักษณ์ดิจิทัล ระบบไร้เงินสด บริการ AI และระบบอัตโนมัติเริ่มเปลี่ยนชีวิตประจำวัน",
+      "layerId": "society-economy",
+      "domains": ["social-systems", "economy", "public-services"],
+      "maturity": "large-scale-demonstration",
+      "timeframe": {
+        "startYear": 2044,
+        "endYear": 2045
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "เศรษฐกิจไร้เงินสดกลายเป็นระบบหลักในประเทศส่วนใหญ่ เป็นหมุดหมายสำคัญของนวัตกรรมอนาคตอันใกล้ และวางรากฐานเทคโนโลยีสำหรับการเปลี่ยนผ่านระดับอารยธรรมในระยะต่อไป",
+      "signals": [
+        "โครงสร้างพื้นฐานดิจิทัลสาธารณะเชื่อมทำงานร่วมกันได้",
+        "ระบบเศรษฐกิจใหม่ก่อตัวรอบระบบอัตโนมัติและบริการอวกาศ",
+        "สถาบันกฎหมายปรับตัวต่อความเป็นจริงทางเทคโนโลยีรูปแบบใหม่"
+      ],
+      "implications": [
+        "การเข้าถึงบริการง่ายขึ้นและเป็นสากลมากขึ้น",
+        "การค้าในอวกาศมีความชอบธรรมมากขึ้น",
+        "ชีวิตทางเศรษฐกิจเป็นดิจิทัลและข้ามพรมแดนมากขึ้น"
+      ],
+      "image": {
+        "alt": "เศรษฐกิจไร้เงินสดกลายเป็นระบบหลักในประเทศส่วนใหญ่",
+        "prompts": [
+          "cashless economies dominate most countries, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cashless economies dominate most countries, near-future breakthroughs in AI, robotics, medicine, climate technology, materials, energy, and early space automation, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cashless economies dominate most countries, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cashless economies dominate most countries, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-01/era-01-cashless-economies-dominate-most-countries.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-01/mobile/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-01/thumbnail/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-01/desktop/era-01-cashless-economies-dominate-most-countries.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-01/open_graph/era-01-cashless-economies-dominate-most-countries.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

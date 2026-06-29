@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-05",
+    "order": 5,
+    "slug": "advanced-human-civilization",
+    "title": "Peradaban Manusia Maju",
+    "subtitle": "Umat manusia menguasai sistem peradaban Bumi–orbit–Bulan–Mars",
+    "description": "Era ini menandai munculnya peradaban multi-dunia yang matang di Bumi, orbit, Bulan, dan Mars, menggabungkan megastruktur antariksa, kota Bulan, industri Mars, kedokteran maju, kehadiran neural, serta bentuk-bentuk baru budaya dan tata kelola.",
+    "timeframe": {
+      "label": "Peradaban Manusia Maju",
+      "startYear": 2110,
+      "endYear": 2170,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "expansive",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 5: Peradaban Manusia Maju | Peta Jalan Peradaban Masa Depan",
+      "metaDescription": "Jelajahi peradaban manusia maju di Bumi, orbit, Bulan, dan Mars, termasuk habitat orbital, kota Bulan, ekspor Mars, internet kuantum, silinder O’Neill, dan terobosan umur panjang.",
+      "keywords": [
+        "peradaban manusia maju",
+        "ekonomi Bumi Bulan Mars",
+        "habitat orbital",
+        "kota Bulan",
+        "peta jalan peradaban masa depan"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-05-orbital-ring-section-completed",
+      "order": 1,
+      "slug": "orbital-ring-section-completed",
+      "title": "Bagian Cincin Orbital Selesai Dibangun",
+      "shortTitle": "Bagian Cincin Orbital",
+      "category": "Space",
+      "description": "Penyelesaian bagian cincin orbital menandai perluasan besar aktivitas manusia permanen di luar Bumi, menjadikan infrastruktur orbital, Bulan, dan Mars sebagai bagian normal dari peradaban.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2122
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Penyelesaian bagian cincin orbital menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Infrastruktur orbital dan luar Bumi berskala besar menjadi andal",
+        "Perjalanan dan permukiman sipil berkembang melampaui Bumi",
+        "Sistem Bumi, Bulan, dan Mars beroperasi sebagai satu peradaban terhubung"
+      ],
+      "implications": [
+        "Permukiman manusia menjadi semakin mandiri dari Bumi",
+        "Infrastruktur antariksa menjadi bagian dari kehidupan ekonomi sehari-hari",
+        "Peradaban memperoleh ketahanan melalui habitat yang tersebar"
+      ],
+      "image": {
+        "alt": "Bagian cincin orbital selesai dibangun",
+        "prompts": [
+          "orbital Ring Section Completed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing orbital Ring Section Completed, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of orbital Ring Section Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating orbital Ring Section Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-orbital-ring-section-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-orbital-ring-section-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-orbital-ring-section-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-orbital-ring-section-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-orbital-ring-section-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-first-true-moon-city-reaches-10-000-residents",
+      "order": 2,
+      "slug": "first-true-moon-city-reaches-10-000-residents",
+      "title": "Kota Bulan Sejati Pertama Mencapai 10.000 Penduduk",
+      "shortTitle": "Kota Bulan 10.000",
+      "category": "Space",
+      "description": "Kota Bulan sejati pertama yang mencapai 10.000 penduduk menandai perluasan besar aktivitas manusia permanen di luar Bumi, menjadikan infrastruktur orbital, Bulan, dan Mars sebagai bagian normal dari peradaban.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2111,
+        "endYear": 2123
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Kota Bulan sejati pertama yang mencapai 10.000 penduduk menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Infrastruktur orbital dan luar Bumi berskala besar menjadi andal",
+        "Perjalanan dan permukiman sipil berkembang melampaui Bumi",
+        "Sistem Bumi, Bulan, dan Mars beroperasi sebagai satu peradaban terhubung"
+      ],
+      "implications": [
+        "Permukiman manusia menjadi semakin mandiri dari Bumi",
+        "Infrastruktur antariksa menjadi bagian dari kehidupan ekonomi sehari-hari",
+        "Peradaban memperoleh ketahanan melalui habitat yang tersebar"
+      ],
+      "image": {
+        "alt": "Kota Bulan sejati pertama mencapai 10.000 penduduk",
+        "prompts": [
+          "first True Moon City Reaches 10,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first True Moon City Reaches 10,000 Residents, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first True Moon City Reaches 10,000 Residents, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first True Moon City Reaches 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-first-true-moon-city-reaches-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-first-true-moon-city-reaches-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-true-moon-city-reaches-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-artificial-magnetosphere-protects-early-mars-settlements",
+      "order": 3,
+      "slug": "artificial-magnetosphere-protects-early-mars-settlements",
+      "title": "Magnetosfer Buatan Melindungi Permukiman Awal Mars",
+      "shortTitle": "Magnetosfer Buatan Mars",
+      "category": "Space",
+      "description": "Magnetosfer buatan yang melindungi permukiman awal Mars menandai perluasan besar aktivitas manusia permanen di luar Bumi, menjadikan infrastruktur orbital, Bulan, dan Mars sebagai bagian normal dari peradaban.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2112,
+        "endYear": 2124
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Magnetosfer buatan yang melindungi permukiman awal Mars menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Infrastruktur orbital dan luar Bumi berskala besar menjadi andal",
+        "Perjalanan dan permukiman sipil berkembang melampaui Bumi",
+        "Sistem Bumi, Bulan, dan Mars beroperasi sebagai satu peradaban terhubung"
+      ],
+      "implications": [
+        "Permukiman manusia menjadi semakin mandiri dari Bumi",
+        "Infrastruktur antariksa menjadi bagian dari kehidupan ekonomi sehari-hari",
+        "Peradaban memperoleh ketahanan melalui habitat yang tersebar"
+      ],
+      "image": {
+        "alt": "Magnetosfer buatan melindungi permukiman awal Mars",
+        "prompts": [
+          "artificial Magnetosphere Protects Early Mars Settlements, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Magnetosphere Protects Early Mars Settlements, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Magnetosphere Protects Early Mars Settlements, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Magnetosphere Protects Early Mars Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-artificial-magnetosphere-protects-early-mars-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-artificial-magnetosphere-protects-early-mars-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-oneill-cylinder-completed",
+      "order": 4,
+      "slug": "oneill-cylinder-completed",
+      "title": "Silinder O’Neill Selesai Dibangun",
+      "shortTitle": "Silinder O’Neill",
+      "category": "Space",
+      "description": "Penyelesaian Silinder O’Neill menandai perluasan besar aktivitas manusia permanen di luar Bumi, menjadikan infrastruktur orbital, Bulan, dan Mars sebagai bagian normal dari peradaban.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2113,
+        "endYear": 2125
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Silinder O’Neill yang selesai dibangun menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Infrastruktur orbital dan luar Bumi berskala besar menjadi andal",
+        "Perjalanan dan permukiman sipil berkembang melampaui Bumi",
+        "Sistem Bumi, Bulan, dan Mars beroperasi sebagai satu peradaban terhubung"
+      ],
+      "implications": [
+        "Permukiman manusia menjadi semakin mandiri dari Bumi",
+        "Infrastruktur antariksa menjadi bagian dari kehidupan ekonomi sehari-hari",
+        "Peradaban memperoleh ketahanan melalui habitat yang tersebar"
+      ],
+      "image": {
+        "alt": "Silinder O’Neill selesai dibangun",
+        "prompts": [
+          "o’Neill Cylinder Completed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing o’Neill Cylinder Completed, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of o’Neill Cylinder Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating o’Neill Cylinder Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-oneill-cylinder-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-oneill-cylinder-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-oneill-cylinder-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-oneill-cylinder-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-oneill-cylinder-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-quantum-internet-connects-earth-moon-and-mars",
+      "order": 5,
+      "slug": "quantum-internet-connects-earth-moon-and-mars",
+      "title": "Internet Kuantum Menghubungkan Bumi, Bulan, dan Mars",
+      "shortTitle": "Internet Kuantum Bumi Bulan Mars",
+      "category": "AI & Computing",
+      "description": "Internet kuantum yang menghubungkan Bumi, Bulan, dan Mars menunjukkan sistem kecerdasan maju menjadi infrastruktur tepercaya untuk sains, tata kelola, komunikasi, dan koordinasi skala besar di seluruh peradaban manusia.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2114,
+        "endYear": 2126
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Internet kuantum yang menghubungkan Bumi, Bulan, dan Mars menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem AI mengoordinasikan operasi multi-dunia yang kompleks",
+        "Jaringan aman kuantum mendukung sistem keputusan waktu nyata",
+        "Pengawasan manusia bergeser dari kendali langsung menuju tata kelola strategis"
+      ],
+      "implications": [
+        "Tata kelola menjadi lebih prediktif dan tidak terlalu reaktif",
+        "Penemuan ilmiah semakin cepat",
+        "Koordinasi lintas planet menjadi mungkin pada skala besar"
+      ],
+      "image": {
+        "alt": "Internet kuantum menghubungkan Bumi, Bulan, dan Mars",
+        "prompts": [
+          "quantum Internet Connects Earth, Moon, and Mars, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Internet Connects Earth, Moon, and Mars, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Internet Connects Earth, Moon, and Mars, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Internet Connects Earth, Moon, and Mars, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-quantum-internet-connects-earth-moon-and-mars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-quantum-internet-connects-earth-moon-and-mars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-quantum-internet-connects-earth-moon-and-mars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-first-interplanetary-olympic-games-held",
+      "order": 6,
+      "slug": "first-interplanetary-olympic-games-held",
+      "title": "Olimpiade Antarplanet Pertama Diselenggarakan",
+      "shortTitle": "Olimpiade Antarplanet",
+      "category": "Space",
+      "description": "Olimpiade antarplanet pertama menandai perluasan besar aktivitas manusia permanen di luar Bumi, menjadikan infrastruktur orbital, Bulan, dan Mars sebagai bagian normal dari peradaban.",
+      "layerId": "space",
+      "domains": [
+        "space-infrastructure",
+        "orbital-systems",
+        "multi-world-civilization"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2116,
+        "endYear": 2128
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Olimpiade antarplanet pertama menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Infrastruktur orbital dan luar Bumi berskala besar menjadi andal",
+        "Perjalanan dan permukiman sipil berkembang melampaui Bumi",
+        "Sistem Bumi, Bulan, dan Mars beroperasi sebagai satu peradaban terhubung"
+      ],
+      "implications": [
+        "Permukiman manusia menjadi semakin mandiri dari Bumi",
+        "Infrastruktur antariksa menjadi bagian dari kehidupan ekonomi sehari-hari",
+        "Peradaban memperoleh ketahanan melalui habitat yang tersebar"
+      ],
+      "image": {
+        "alt": "Olimpiade antarplanet pertama diselenggarakan",
+        "prompts": [
+          "first Interplanetary Olympic Games Held, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Interplanetary Olympic Games Held, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Interplanetary Olympic Games Held, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Interplanetary Olympic Games Held, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-first-interplanetary-olympic-games-held.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-first-interplanetary-olympic-games-held.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-interplanetary-olympic-games-held.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-planet-scale-ai-mediates-geopolitical-conflicts",
+      "order": 7,
+      "slug": "planet-scale-ai-mediates-geopolitical-conflicts",
+      "title": "AI Skala Planet Memediasi Konflik Geopolitik",
+      "shortTitle": "AI Skala Planet Memediasi Konflik",
+      "category": "AI & Computing",
+      "description": "AI skala planet yang memediasi konflik geopolitik menunjukkan sistem kecerdasan maju menjadi infrastruktur tepercaya untuk sains, tata kelola, komunikasi, dan koordinasi skala besar di seluruh peradaban manusia.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2117,
+        "endYear": 2129
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "AI skala planet yang memediasi konflik geopolitik menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem AI mengoordinasikan operasi multi-dunia yang kompleks",
+        "Jaringan aman kuantum mendukung sistem keputusan waktu nyata",
+        "Pengawasan manusia bergeser dari kendali langsung menuju tata kelola strategis"
+      ],
+      "implications": [
+        "Tata kelola menjadi lebih prediktif dan tidak terlalu reaktif",
+        "Penemuan ilmiah semakin cepat",
+        "Koordinasi lintas planet menjadi mungkin pada skala besar"
+      ],
+      "image": {
+        "alt": "AI skala planet memediasi konflik geopolitik",
+        "prompts": [
+          "planet-Scale AI Mediates Geopolitical Conflicts, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planet-Scale AI Mediates Geopolitical Conflicts, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planet-Scale AI Mediates Geopolitical Conflicts, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planet-Scale AI Mediates Geopolitical Conflicts, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-planet-scale-ai-mediates-geopolitical-conflicts.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-planet-scale-ai-mediates-geopolitical-conflicts.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-neural-telepresence-replaces-most-long-distance-travel",
+      "order": 8,
+      "slug": "neural-telepresence-replaces-most-long-distance-travel",
+      "title": "Telepresensi Neural Menggantikan Sebagian Besar Perjalanan Jarak Jauh",
+      "shortTitle": "Telepresensi Neural",
+      "category": "Society & Economy",
+      "description": "Telepresensi neural yang menggantikan sebagian besar perjalanan jarak jauh membentuk ulang kehidupan sehari-hari, pekerjaan, mobilitas, dan pertukaran nilai saat peradaban manusia bergerak lebih jauh menuju kelimpahan dan masyarakat multi-dunia yang terhubung.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2118,
+        "endYear": 2130
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Telepresensi neural yang menggantikan sebagian besar perjalanan jarak jauh menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kehidupan sehari-hari makin sedikit bergantung pada lokasi fisik dan kerja tradisional",
+        "Sistem publik bergerak menuju akses universal dan kelimpahan",
+        "Nilai ekonomi bergeser menuju pengetahuan, kreativitas, dan kehadiran"
+      ],
+      "implications": [
+        "Model tenaga kerja dan mata uang tradisional melemah",
+        "Akses terhadap layanan menjadi lebih universal",
+        "Mobilitas manusia menjadi kurang dibatasi oleh jarak"
+      ],
+      "image": {
+        "alt": "Telepresensi neural menggantikan sebagian besar perjalanan jarak jauh",
+        "prompts": [
+          "neural Telepresence Replaces Most Long-Distance Travel, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing neural Telepresence Replaces Most Long-Distance Travel, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of neural Telepresence Replaces Most Long-Distance Travel, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating neural Telepresence Replaces Most Long-Distance Travel, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-neural-telepresence-replaces-most-long-distance-travel.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-neural-telepresence-replaces-most-long-distance-travel.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities",
+      "order": 9,
+      "slug": "weather-moderation-prevents-most-hurricanes-from-reaching-cities",
+      "title": "Moderasi Cuaca Mencegah Sebagian Besar Badai Mencapai Kota",
+      "shortTitle": "Moderasi Cuaca Mencegah Badai",
+      "category": "Environment",
+      "description": "Moderasi cuaca yang mencegah sebagian besar badai mencapai kota membuktikan bahwa sistem planet dapat dipulihkan, distabilkan, dan dikelola secara aktif melalui ilmu iklim maju, rekayasa ekologi, dan infrastruktur cerdas.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2119,
+        "endYear": 2131
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Moderasi cuaca yang mencegah sebagian besar badai mencapai kota menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Model iklim dan ekosistem memandu intervensi dunia nyata",
+        "Proyek pemulihan menjadi terukur pada skala planet",
+        "Pencegahan bencana menggantikan respons darurat yang reaktif"
+      ],
+      "implications": [
+        "Pemulihan planet menjadi tanggung jawab inti",
+        "Risiko iklim menurun bagi pusat populasi besar",
+        "Pemulihan ekologi menjadi terukur dan tahan lama"
+      ],
+      "image": {
+        "alt": "Moderasi cuaca mencegah sebagian besar badai mencapai kota",
+        "prompts": [
+          "weather Moderation Prevents Most Hurricanes From Reaching Cities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing weather Moderation Prevents Most Hurricanes From Reaching Cities, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of weather Moderation Prevents Most Hurricanes From Reaching Cities, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating weather Moderation Prevents Most Hurricanes From Reaching Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-weather-moderation-prevents-most-hurricanes-from-reaching-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-ai-designed-ecosystems-stabilize-damaged-biomes",
+      "order": 10,
+      "slug": "ai-designed-ecosystems-stabilize-damaged-biomes",
+      "title": "Ekosistem Rancangan AI Menstabilkan Bioma yang Rusak",
+      "shortTitle": "Ekosistem Rancangan AI",
+      "category": "Environment",
+      "description": "Ekosistem rancangan AI yang menstabilkan bioma rusak membuktikan bahwa sistem planet dapat dipulihkan, distabilkan, dan dikelola secara aktif melalui ilmu iklim maju, rekayasa ekologi, dan infrastruktur cerdas.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2120,
+        "endYear": 2132
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ekosistem rancangan AI yang menstabilkan bioma rusak menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Model iklim dan ekosistem memandu intervensi dunia nyata",
+        "Proyek pemulihan menjadi terukur pada skala planet",
+        "Pencegahan bencana menggantikan respons darurat yang reaktif"
+      ],
+      "implications": [
+        "Pemulihan planet menjadi tanggung jawab inti",
+        "Risiko iklim menurun bagi pusat populasi besar",
+        "Pemulihan ekologi menjadi terukur dan tahan lama"
+      ],
+      "image": {
+        "alt": "Ekosistem rancangan AI menstabilkan bioma yang rusak",
+        "prompts": [
+          "aI-Designed Ecosystems Stabilize Damaged Biomes, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI-Designed Ecosystems Stabilize Damaged Biomes, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI-Designed Ecosystems Stabilize Damaged Biomes, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI-Designed Ecosystems Stabilize Damaged Biomes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ai-designed-ecosystems-stabilize-damaged-biomes.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-memory-backup-becomes-available",
+      "order": 11,
+      "slug": "human-memory-backup-becomes-available",
+      "title": "Cadangan Memori Manusia Mulai Tersedia",
+      "shortTitle": "Cadangan Memori Manusia",
+      "category": "Biology & Medicine",
+      "description": "Cadangan memori manusia yang mulai tersedia mengubah kesehatan dan identitas manusia dengan memperpanjang hidup, memperbaiki tubuh, melestarikan memori, dan mendefinisikan ulang makna keberadaan biologis.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2122,
+        "endYear": 2134
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Cadangan memori manusia yang mulai tersedia menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kedokteran regeneratif dan biologi sintetis menjadi andal secara klinis",
+        "Sistem kesehatan personal melacak risiko biologis jangka panjang",
+        "Umur manusia dan desain tubuh menjadi ranah rekayasa aktif"
+      ],
+      "implications": [
+        "Rentang hidup sehat manusia meningkat secara dramatis",
+        "Identitas menjadi kurang bergantung pada satu tubuh biologis",
+        "Ketimpangan medis menurun jika akses dikelola secara luas"
+      ],
+      "image": {
+        "alt": "Cadangan memori manusia mulai tersedia",
+        "prompts": [
+          "human Memory Backup Becomes Available, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Memory Backup Becomes Available, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Memory Backup Becomes Available, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Memory Backup Becomes Available, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-memory-backup-becomes-available.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-memory-backup-becomes-available.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-memory-backup-becomes-available.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-memory-backup-becomes-available.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-memory-backup-becomes-available.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-consciousness-research-produces-measurable-models-of-subjective-experience",
+      "order": 12,
+      "slug": "consciousness-research-produces-measurable-models-of-subjective-experience",
+      "title": "Riset Kesadaran Menghasilkan Model Terukur Pengalaman Subjektif",
+      "shortTitle": "Model Terukur Kesadaran",
+      "category": "Biology & Medicine",
+      "description": "Riset kesadaran yang menghasilkan model terukur pengalaman subjektif mengubah kesehatan dan identitas manusia dengan memperpanjang hidup, memperbaiki tubuh, melestarikan memori, dan mendefinisikan ulang makna keberadaan biologis.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2123,
+        "endYear": 2135
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Riset kesadaran yang menghasilkan model terukur pengalaman subjektif menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kedokteran regeneratif dan biologi sintetis menjadi andal secara klinis",
+        "Sistem kesehatan personal melacak risiko biologis jangka panjang",
+        "Umur manusia dan desain tubuh menjadi ranah rekayasa aktif"
+      ],
+      "implications": [
+        "Rentang hidup sehat manusia meningkat secara dramatis",
+        "Identitas menjadi kurang bergantung pada satu tubuh biologis",
+        "Ketimpangan medis menurun jika akses dikelola secara luas"
+      ],
+      "image": {
+        "alt": "Riset kesadaran menghasilkan model terukur pengalaman subjektif",
+        "prompts": [
+          "consciousness Research Produces Measurable Models of Subjective Experience, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Research Produces Measurable Models of Subjective Experience, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Research Produces Measurable Models of Subjective Experience, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Research Produces Measurable Models of Subjective Experience, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-consciousness-research-produces-measurable-models-of-subjective-experience.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-synthetic-biological-bodies-become-available-for-extreme-environments",
+      "order": 13,
+      "slug": "synthetic-biological-bodies-become-available-for-extreme-environments",
+      "title": "Tubuh Biologis Sintetis Tersedia untuk Lingkungan Ekstrem",
+      "shortTitle": "Tubuh Biologis Sintetis",
+      "category": "Biology & Medicine",
+      "description": "Tubuh biologis sintetis yang tersedia untuk lingkungan ekstrem mengubah kesehatan dan identitas manusia dengan memperpanjang hidup, memperbaiki tubuh, melestarikan memori, dan mendefinisikan ulang makna keberadaan biologis.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2124,
+        "endYear": 2136
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Tubuh biologis sintetis yang tersedia untuk lingkungan ekstrem menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kedokteran regeneratif dan biologi sintetis menjadi andal secara klinis",
+        "Sistem kesehatan personal melacak risiko biologis jangka panjang",
+        "Umur manusia dan desain tubuh menjadi ranah rekayasa aktif"
+      ],
+      "implications": [
+        "Rentang hidup sehat manusia meningkat secara dramatis",
+        "Identitas menjadi kurang bergantung pada satu tubuh biologis",
+        "Ketimpangan medis menurun jika akses dikelola secara luas"
+      ],
+      "image": {
+        "alt": "Tubuh biologis sintetis tersedia untuk lingkungan ekstrem",
+        "prompts": [
+          "synthetic Biological Bodies Become Available for Extreme Environments, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic Biological Bodies Become Available for Extreme Environments, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic Biological Bodies Become Available for Extreme Environments, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic Biological Bodies Become Available for Extreme Environments, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-synthetic-biological-bodies-become-available-for-extreme-environments.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-end-of-cancer-as-a-human-disease",
+      "order": 14,
+      "slug": "end-of-cancer-as-a-human-disease",
+      "title": "Berakhirnya Kanker sebagai Penyakit Manusia",
+      "shortTitle": "Akhir Kanker sebagai Penyakit",
+      "category": "Biology & Medicine",
+      "description": "Berakhirnya kanker sebagai penyakit manusia mengubah kesehatan dan identitas manusia dengan memperpanjang hidup, memperbaiki tubuh, melestarikan memori, dan mendefinisikan ulang makna keberadaan biologis.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2125,
+        "endYear": 2137
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Berakhirnya kanker sebagai penyakit manusia menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kedokteran regeneratif dan biologi sintetis menjadi andal secara klinis",
+        "Sistem kesehatan personal melacak risiko biologis jangka panjang",
+        "Umur manusia dan desain tubuh menjadi ranah rekayasa aktif"
+      ],
+      "implications": [
+        "Rentang hidup sehat manusia meningkat secara dramatis",
+        "Identitas menjadi kurang bergantung pada satu tubuh biologis",
+        "Ketimpangan medis menurun jika akses dikelola secara luas"
+      ],
+      "image": {
+        "alt": "Berakhirnya kanker sebagai penyakit manusia",
+        "prompts": [
+          "end of Cancer as a Human Disease, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing end of Cancer as a Human Disease, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of end of Cancer as a Human Disease, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating end of Cancer as a Human Disease, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-end-of-cancer-as-a-human-disease.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-end-of-cancer-as-a-human-disease.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-end-of-cancer-as-a-human-disease.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years",
+      "order": 15,
+      "slug": "cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years",
+      "title": "Terapi Peremajaan Seluler Mendorong Rata-Rata Umur Manusia Menuju 200 Tahun",
+      "shortTitle": "Terapi Peremajaan Seluler",
+      "category": "Biology & Medicine",
+      "description": "Terapi peremajaan seluler yang mendorong rata-rata umur manusia menuju 200 tahun mengubah kesehatan dan identitas manusia dengan memperpanjang hidup, memperbaiki tubuh, melestarikan memori, dan mendefinisikan ulang makna keberadaan biologis.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "longevity",
+        "human-enhancement"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2126,
+        "endYear": 2138
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Terapi peremajaan seluler yang mendorong rata-rata umur manusia menuju 200 tahun menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kedokteran regeneratif dan biologi sintetis menjadi andal secara klinis",
+        "Sistem kesehatan personal melacak risiko biologis jangka panjang",
+        "Umur manusia dan desain tubuh menjadi ranah rekayasa aktif"
+      ],
+      "implications": [
+        "Rentang hidup sehat manusia meningkat secara dramatis",
+        "Identitas menjadi kurang bergantung pada satu tubuh biologis",
+        "Ketimpangan medis menurun jika akses dikelola secara luas"
+      ],
+      "image": {
+        "alt": "Terapi peremajaan seluler mendorong rata-rata umur manusia menuju 200 tahun",
+        "prompts": [
+          "cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cellular Rejuvenation Therapy Raises Average Human Lifespan Toward 200 Years, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-cellular-rejuvenation-therapy-raises-average-human-lifespan-toward-200-years.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-ai-scientists-discover-new-physics-beyond-the-standard-model",
+      "order": 16,
+      "slug": "ai-scientists-discover-new-physics-beyond-the-standard-model",
+      "title": "Ilmuwan AI Menemukan Fisika Baru di Luar Model Standar",
+      "shortTitle": "Ilmuwan AI Menemukan Fisika Baru",
+      "category": "AI & Computing",
+      "description": "Ilmuwan AI yang menemukan fisika baru di luar Model Standar menunjukkan sistem kecerdasan maju menjadi infrastruktur tepercaya untuk sains, tata kelola, komunikasi, dan koordinasi skala besar di seluruh peradaban manusia.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2128,
+        "endYear": 2140
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ilmuwan AI yang menemukan fisika baru di luar Model Standar menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem AI mengoordinasikan operasi multi-dunia yang kompleks",
+        "Jaringan aman kuantum mendukung sistem keputusan waktu nyata",
+        "Pengawasan manusia bergeser dari kendali langsung menuju tata kelola strategis"
+      ],
+      "implications": [
+        "Tata kelola menjadi lebih prediktif dan tidak terlalu reaktif",
+        "Penemuan ilmiah semakin cepat",
+        "Koordinasi lintas planet menjadi mungkin pada skala besar"
+      ],
+      "image": {
+        "alt": "Ilmuwan AI menemukan fisika baru di luar Model Standar",
+        "prompts": [
+          "aI Scientists Discover New Physics Beyond the Standard Model, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Scientists Discover New Physics Beyond the Standard Model, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Scientists Discover New Physics Beyond the Standard Model, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Scientists Discover New Physics Beyond the Standard Model, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ai-scientists-discover-new-physics-beyond-the-standard-model.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-autonomous-ai-governments-manage-most-public-infrastructure",
+      "order": 17,
+      "slug": "autonomous-ai-governments-manage-most-public-infrastructure",
+      "title": "Pemerintahan AI Otonom Mengelola Sebagian Besar Infrastruktur Publik",
+      "shortTitle": "Pemerintahan AI Otonom",
+      "category": "AI & Computing",
+      "description": "Pemerintahan AI otonom yang mengelola sebagian besar infrastruktur publik menunjukkan sistem kecerdasan maju menjadi infrastruktur tepercaya untuk sains, tata kelola, komunikasi, dan koordinasi skala besar di seluruh peradaban manusia.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2129,
+        "endYear": 2141
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Pemerintahan AI otonom yang mengelola sebagian besar infrastruktur publik menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem AI mengoordinasikan operasi multi-dunia yang kompleks",
+        "Jaringan aman kuantum mendukung sistem keputusan waktu nyata",
+        "Pengawasan manusia bergeser dari kendali langsung menuju tata kelola strategis"
+      ],
+      "implications": [
+        "Tata kelola menjadi lebih prediktif dan tidak terlalu reaktif",
+        "Penemuan ilmiah semakin cepat",
+        "Koordinasi lintas planet menjadi mungkin pada skala besar"
+      ],
+      "image": {
+        "alt": "Pemerintahan AI otonom mengelola sebagian besar infrastruktur publik",
+        "prompts": [
+          "autonomous AI Governments Manage Most Public Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous AI Governments Manage Most Public Infrastructure, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous AI Governments Manage Most Public Infrastructure, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous AI Governments Manage Most Public Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-autonomous-ai-governments-manage-most-public-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-ai-governments-manage-most-public-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-ai-governments-manage-most-public-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-ai-cognitive-collaboration-becomes-standard",
+      "order": 18,
+      "slug": "human-ai-cognitive-collaboration-becomes-standard",
+      "title": "Kolaborasi Kognitif Manusia-AI Menjadi Standar",
+      "shortTitle": "Kolaborasi Kognitif Manusia-AI",
+      "category": "AI & Computing",
+      "description": "Kolaborasi kognitif manusia-AI yang menjadi standar menunjukkan sistem kecerdasan maju menjadi infrastruktur tepercaya untuk sains, tata kelola, komunikasi, dan koordinasi skala besar di seluruh peradaban manusia.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "quantum-networks",
+        "governance-systems"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2130,
+        "endYear": 2142
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Kolaborasi kognitif manusia-AI yang menjadi standar menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem AI mengoordinasikan operasi multi-dunia yang kompleks",
+        "Jaringan aman kuantum mendukung sistem keputusan waktu nyata",
+        "Pengawasan manusia bergeser dari kendali langsung menuju tata kelola strategis"
+      ],
+      "implications": [
+        "Tata kelola menjadi lebih prediktif dan tidak terlalu reaktif",
+        "Penemuan ilmiah semakin cepat",
+        "Koordinasi lintas planet menjadi mungkin pada skala besar"
+      ],
+      "image": {
+        "alt": "Kolaborasi kognitif manusia-AI menjadi standar",
+        "prompts": [
+          "human-AI Cognitive Collaboration Becomes Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human-AI Cognitive Collaboration Becomes Standard, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human-AI Cognitive Collaboration Becomes Standard, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human-AI Cognitive Collaboration Becomes Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-ai-cognitive-collaboration-becomes-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-ai-cognitive-collaboration-becomes-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-ai-cognitive-collaboration-becomes-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure",
+      "order": 19,
+      "slug": "autonomous-space-construction-swarms-expand-orbital-infrastructure",
+      "title": "Kawanan Konstruksi Antariksa Otonom Memperluas Infrastruktur Orbital",
+      "shortTitle": "Kawanan Konstruksi Antariksa",
+      "category": "Robotics",
+      "description": "Kawanan konstruksi antariksa otonom yang memperluas infrastruktur orbital membawa kerja mesin otonom ke lingkungan yang terlalu luas, berbahaya, atau kompleks bagi pekerjaan manusia tradisional, mempercepat konstruksi dan pemeliharaan pada skala peradaban.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2131,
+        "endYear": 2143
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Kawanan konstruksi antariksa otonom yang memperluas infrastruktur orbital menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kawanan otonom menyelesaikan pekerjaan kompleks tanpa pengawasan terus-menerus",
+        "Robot beroperasi di lingkungan antariksa, laut, dan industri yang berbahaya",
+        "Kerja mesin menjadi infrastruktur tertanam, bukan sekadar layanan yang terlihat"
+      ],
+      "implications": [
+        "Pekerjaan berbahaya dihapus dari kehidupan manusia",
+        "Konstruksi luar Bumi semakin cepat",
+        "Pemeliharaan infrastruktur raksasa menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Kawanan konstruksi antariksa otonom memperluas infrastruktur orbital",
+        "prompts": [
+          "autonomous Space Construction Swarms Expand Orbital Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Space Construction Swarms Expand Orbital Infrastructure, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Space Construction Swarms Expand Orbital Infrastructure, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Space Construction Swarms Expand Orbital Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-space-construction-swarms-expand-orbital-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-self-replicating-industrial-robots-operate-on-asteroids",
+      "order": 20,
+      "slug": "self-replicating-industrial-robots-operate-on-asteroids",
+      "title": "Robot Industri Bereplikasi Mandiri Beroperasi di Asteroid",
+      "shortTitle": "Robot Industri Bereplikasi Mandiri",
+      "category": "Robotics",
+      "description": "Robot industri bereplikasi mandiri yang beroperasi di asteroid membawa kerja mesin otonom ke lingkungan yang terlalu luas, berbahaya, atau kompleks bagi pekerjaan manusia tradisional, mempercepat konstruksi dan pemeliharaan pada skala peradaban.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2132,
+        "endYear": 2144
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Robot industri bereplikasi mandiri yang beroperasi di asteroid menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kawanan otonom menyelesaikan pekerjaan kompleks tanpa pengawasan terus-menerus",
+        "Robot beroperasi di lingkungan antariksa, laut, dan industri yang berbahaya",
+        "Kerja mesin menjadi infrastruktur tertanam, bukan sekadar layanan yang terlihat"
+      ],
+      "implications": [
+        "Pekerjaan berbahaya dihapus dari kehidupan manusia",
+        "Konstruksi luar Bumi semakin cepat",
+        "Pemeliharaan infrastruktur raksasa menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Robot industri bereplikasi mandiri beroperasi di asteroid",
+        "prompts": [
+          "self-Replicating Industrial Robots Operate on Asteroids, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Replicating Industrial Robots Operate on Asteroids, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Replicating Industrial Robots Operate on Asteroids, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Replicating Industrial Robots Operate on Asteroids, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-self-replicating-industrial-robots-operate-on-asteroids.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-self-replicating-industrial-robots-operate-on-asteroids.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-self-replicating-industrial-robots-operate-on-asteroids.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-robotic-exploration-networks-cover-the-outer-solar-system",
+      "order": 21,
+      "slug": "robotic-exploration-networks-cover-the-outer-solar-system",
+      "title": "Jaringan Eksplorasi Robotik Mencakup Tata Surya Bagian Luar",
+      "shortTitle": "Jaringan Eksplorasi Robotik",
+      "category": "Robotics",
+      "description": "Jaringan eksplorasi robotik yang mencakup Tata Surya bagian luar membawa kerja mesin otonom ke lingkungan yang terlalu luas, berbahaya, atau kompleks bagi pekerjaan manusia tradisional, mempercepat konstruksi dan pemeliharaan pada skala peradaban.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2134,
+        "endYear": 2146
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Jaringan eksplorasi robotik yang mencakup Tata Surya bagian luar menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kawanan otonom menyelesaikan pekerjaan kompleks tanpa pengawasan terus-menerus",
+        "Robot beroperasi di lingkungan antariksa, laut, dan industri yang berbahaya",
+        "Kerja mesin menjadi infrastruktur tertanam, bukan sekadar layanan yang terlihat"
+      ],
+      "implications": [
+        "Pekerjaan berbahaya dihapus dari kehidupan manusia",
+        "Konstruksi luar Bumi semakin cepat",
+        "Pemeliharaan infrastruktur raksasa menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Jaringan eksplorasi robotik mencakup Tata Surya bagian luar",
+        "prompts": [
+          "robotic Exploration Networks Cover the Outer Solar System, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic Exploration Networks Cover the Outer Solar System, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic Exploration Networks Cover the Outer Solar System, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic Exploration Networks Cover the Outer Solar System, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-robotic-exploration-networks-cover-the-outer-solar-system.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-robotic-exploration-networks-cover-the-outer-solar-system.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-robotic-exploration-networks-cover-the-outer-solar-system.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-autonomous-ocean-cities-are-maintained-without-human-labor",
+      "order": 22,
+      "slug": "autonomous-ocean-cities-are-maintained-without-human-labor",
+      "title": "Kota Laut Otonom Dipelihara Tanpa Tenaga Kerja Manusia",
+      "shortTitle": "Kota Laut Otonom",
+      "category": "Robotics",
+      "description": "Kota laut otonom yang dipelihara tanpa tenaga kerja manusia membawa kerja mesin otonom ke lingkungan yang terlalu luas, berbahaya, atau kompleks bagi pekerjaan manusia tradisional, mempercepat konstruksi dan pemeliharaan pada skala peradaban.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2135,
+        "endYear": 2147
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Kota laut otonom yang dipelihara tanpa tenaga kerja manusia menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kawanan otonom menyelesaikan pekerjaan kompleks tanpa pengawasan terus-menerus",
+        "Robot beroperasi di lingkungan antariksa, laut, dan industri yang berbahaya",
+        "Kerja mesin menjadi infrastruktur tertanam, bukan sekadar layanan yang terlihat"
+      ],
+      "implications": [
+        "Pekerjaan berbahaya dihapus dari kehidupan manusia",
+        "Konstruksi luar Bumi semakin cepat",
+        "Pemeliharaan infrastruktur raksasa menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Kota laut otonom dipelihara tanpa tenaga kerja manusia",
+        "prompts": [
+          "autonomous Ocean Cities Are Maintained Without Human Labor, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Ocean Cities Are Maintained Without Human Labor, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Ocean Cities Are Maintained Without Human Labor, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Ocean Cities Are Maintained Without Human Labor, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-autonomous-ocean-cities-are-maintained-without-human-labor.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-household-robotics-become-invisible-utilities",
+      "order": 23,
+      "slug": "household-robotics-become-invisible-utilities",
+      "title": "Robotika Rumah Tangga Menjadi Utilitas Tak Terlihat",
+      "shortTitle": "Robotika Rumah Tangga Tak Terlihat",
+      "category": "Robotics",
+      "description": "Robotika rumah tangga yang menjadi utilitas tak terlihat membawa kerja mesin otonom ke lingkungan yang terlalu luas, berbahaya, atau kompleks bagi pekerjaan manusia tradisional, mempercepat konstruksi dan pemeliharaan pada skala peradaban.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "space-construction",
+        "industrial-automation"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2136,
+        "endYear": 2148
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Robotika rumah tangga yang menjadi utilitas tak terlihat menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kawanan otonom menyelesaikan pekerjaan kompleks tanpa pengawasan terus-menerus",
+        "Robot beroperasi di lingkungan antariksa, laut, dan industri yang berbahaya",
+        "Kerja mesin menjadi infrastruktur tertanam, bukan sekadar layanan yang terlihat"
+      ],
+      "implications": [
+        "Pekerjaan berbahaya dihapus dari kehidupan manusia",
+        "Konstruksi luar Bumi semakin cepat",
+        "Pemeliharaan infrastruktur raksasa menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Robotika rumah tangga menjadi utilitas tak terlihat",
+        "prompts": [
+          "household Robotics Become Invisible Utilities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing household Robotics Become Invisible Utilities, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of household Robotics Become Invisible Utilities, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating household Robotics Become Invisible Utilities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-household-robotics-become-invisible-utilities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-household-robotics-become-invisible-utilities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-household-robotics-become-invisible-utilities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-household-robotics-become-invisible-utilities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-household-robotics-become-invisible-utilities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-solar-system-fusion-grid-enables-energy-abundance",
+      "order": 24,
+      "slug": "solar-system-fusion-grid-enables-energy-abundance",
+      "title": "Jaringan Fusi Tata Surya Memungkinkan Kelimpahan Energi",
+      "shortTitle": "Jaringan Fusi Tata Surya",
+      "category": "Energy",
+      "description": "Jaringan fusi Tata Surya yang memungkinkan kelimpahan energi menjadikan energi bersih yang melimpah sebagai fondasi praktis bagi peradaban multi-dunia, mendukung habitat orbital, kota Bulan, permukiman Mars, dan perluasan industri.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2137,
+        "endYear": 2149
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Jaringan fusi Tata Surya yang memungkinkan kelimpahan energi menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem fusi dan energi berbasis antariksa berkembang melampaui jaringan nasional",
+        "Infrastruktur energi mendukung permukiman luar Bumi secara berkelanjutan",
+        "Kelimpahan energi bersih menurunkan biaya sistem peradaban maju"
+      ],
+      "implications": [
+        "Kelangkaan energi berhenti membatasi pertumbuhan peradaban",
+        "Habitat besar dan megastruktur menjadi praktis",
+        "Perluasan industri dapat terus berlangsung tanpa ketergantungan pada energi fosil"
+      ],
+      "image": {
+        "alt": "Jaringan fusi Tata Surya memungkinkan kelimpahan energi",
+        "prompts": [
+          "solar System Fusion Grid Enables Energy Abundance, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing solar System Fusion Grid Enables Energy Abundance, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of solar System Fusion Grid Enables Energy Abundance, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating solar System Fusion Grid Enables Energy Abundance, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-solar-system-fusion-grid-enables-energy-abundance.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-solar-system-fusion-grid-enables-energy-abundance.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-solar-system-fusion-grid-enables-energy-abundance.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-space-based-solar-arrays-supply-major-human-settlements",
+      "order": 25,
+      "slug": "space-based-solar-arrays-supply-major-human-settlements",
+      "title": "Array Surya Berbasis Antariksa Memasok Permukiman Manusia Besar",
+      "shortTitle": "Array Surya Antariksa",
+      "category": "Energy",
+      "description": "Array surya berbasis antariksa yang memasok permukiman manusia besar menjadikan energi bersih yang melimpah sebagai fondasi praktis bagi peradaban multi-dunia, mendukung habitat orbital, kota Bulan, permukiman Mars, dan perluasan industri.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2138,
+        "endYear": 2150
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Array surya berbasis antariksa yang memasok permukiman manusia besar menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem fusi dan energi berbasis antariksa berkembang melampaui jaringan nasional",
+        "Infrastruktur energi mendukung permukiman luar Bumi secara berkelanjutan",
+        "Kelimpahan energi bersih menurunkan biaya sistem peradaban maju"
+      ],
+      "implications": [
+        "Kelangkaan energi berhenti membatasi pertumbuhan peradaban",
+        "Habitat besar dan megastruktur menjadi praktis",
+        "Perluasan industri dapat terus berlangsung tanpa ketergantungan pada energi fosil"
+      ],
+      "image": {
+        "alt": "Array surya berbasis antariksa memasok permukiman manusia besar",
+        "prompts": [
+          "space-Based Solar Arrays Supply Major Human Settlements, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Based Solar Arrays Supply Major Human Settlements, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Based Solar Arrays Supply Major Human Settlements, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Based Solar Arrays Supply Major Human Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-space-based-solar-arrays-supply-major-human-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-space-based-solar-arrays-supply-major-human-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-space-based-solar-arrays-supply-major-human-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-antimatter-production-reaches-experimental-scale",
+      "order": 26,
+      "slug": "antimatter-production-reaches-experimental-scale",
+      "title": "Produksi Antimateri Mencapai Skala Eksperimental",
+      "shortTitle": "Produksi Antimateri Eksperimental",
+      "category": "Energy",
+      "description": "Produksi antimateri yang mencapai skala eksperimental menjadikan energi bersih yang melimpah sebagai fondasi praktis bagi peradaban multi-dunia, mendukung habitat orbital, kota Bulan, permukiman Mars, dan perluasan industri.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2140,
+        "endYear": 2152
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Produksi antimateri yang mencapai skala eksperimental menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem fusi dan energi berbasis antariksa berkembang melampaui jaringan nasional",
+        "Infrastruktur energi mendukung permukiman luar Bumi secara berkelanjutan",
+        "Kelimpahan energi bersih menurunkan biaya sistem peradaban maju"
+      ],
+      "implications": [
+        "Kelangkaan energi berhenti membatasi pertumbuhan peradaban",
+        "Habitat besar dan megastruktur menjadi praktis",
+        "Perluasan industri dapat terus berlangsung tanpa ketergantungan pada energi fosil"
+      ],
+      "image": {
+        "alt": "Produksi antimateri mencapai skala eksperimental",
+        "prompts": [
+          "antimatter Production Reaches Experimental Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing antimatter Production Reaches Experimental Scale, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of antimatter Production Reaches Experimental Scale, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating antimatter Production Reaches Experimental Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-antimatter-production-reaches-experimental-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-antimatter-production-reaches-experimental-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-antimatter-production-reaches-experimental-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-helium-3-mining-becomes-commercially-mature",
+      "order": 27,
+      "slug": "helium-3-mining-becomes-commercially-mature",
+      "title": "Penambangan Helium-3 Menjadi Matang Secara Komersial",
+      "shortTitle": "Penambangan Helium-3",
+      "category": "Energy",
+      "description": "Penambangan helium-3 yang matang secara komersial menjadikan energi bersih yang melimpah sebagai fondasi praktis bagi peradaban multi-dunia, mendukung habitat orbital, kota Bulan, permukiman Mars, dan perluasan industri.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2141,
+        "endYear": 2153
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Penambangan helium-3 yang matang secara komersial menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem fusi dan energi berbasis antariksa berkembang melampaui jaringan nasional",
+        "Infrastruktur energi mendukung permukiman luar Bumi secara berkelanjutan",
+        "Kelimpahan energi bersih menurunkan biaya sistem peradaban maju"
+      ],
+      "implications": [
+        "Kelangkaan energi berhenti membatasi pertumbuhan peradaban",
+        "Habitat besar dan megastruktur menjadi praktis",
+        "Perluasan industri dapat terus berlangsung tanpa ketergantungan pada energi fosil"
+      ],
+      "image": {
+        "alt": "Penambangan helium-3 menjadi matang secara komersial",
+        "prompts": [
+          "helium-3 Mining Becomes Commercially Mature, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing helium-3 Mining Becomes Commercially Mature, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of helium-3 Mining Becomes Commercially Mature, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating helium-3 Mining Becomes Commercially Mature, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-helium-3-mining-becomes-commercially-mature.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-helium-3-mining-becomes-commercially-mature.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-helium-3-mining-becomes-commercially-mature.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-energy-scarcity-disappears-across-the-solar-system",
+      "order": 28,
+      "slug": "energy-scarcity-disappears-across-the-solar-system",
+      "title": "Kelangkaan Energi Menghilang di Seluruh Tata Surya",
+      "shortTitle": "Kelangkaan Energi Menghilang",
+      "category": "Energy",
+      "description": "Kelangkaan energi yang menghilang di seluruh Tata Surya menjadikan energi bersih yang melimpah sebagai fondasi praktis bagi peradaban multi-dunia, mendukung habitat orbital, kota Bulan, permukiman Mars, dan perluasan industri.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "space-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2142,
+        "endYear": 2154
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Kelangkaan energi yang menghilang di seluruh Tata Surya menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem fusi dan energi berbasis antariksa berkembang melampaui jaringan nasional",
+        "Infrastruktur energi mendukung permukiman luar Bumi secara berkelanjutan",
+        "Kelimpahan energi bersih menurunkan biaya sistem peradaban maju"
+      ],
+      "implications": [
+        "Kelangkaan energi berhenti membatasi pertumbuhan peradaban",
+        "Habitat besar dan megastruktur menjadi praktis",
+        "Perluasan industri dapat terus berlangsung tanpa ketergantungan pada energi fosil"
+      ],
+      "image": {
+        "alt": "Kelangkaan energi menghilang di seluruh Tata Surya",
+        "prompts": [
+          "energy Scarcity Disappears Across the Solar System, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing energy Scarcity Disappears Across the Solar System, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of energy Scarcity Disappears Across the Solar System, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating energy Scarcity Disappears Across the Solar System, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-energy-scarcity-disappears-across-the-solar-system.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-energy-scarcity-disappears-across-the-solar-system.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-energy-scarcity-disappears-across-the-solar-system.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-practical-quantum-computing-solves-molecular-engineering-problems",
+      "order": 29,
+      "slug": "practical-quantum-computing-solves-molecular-engineering-problems",
+      "title": "Komputasi Kuantum Praktis Memecahkan Masalah Rekayasa Molekuler",
+      "shortTitle": "Komputasi Kuantum Praktis",
+      "category": "Physics",
+      "description": "Komputasi kuantum praktis yang memecahkan masalah rekayasa molekuler mengubah ilmu fisika maju menjadi infrastruktur yang dapat digunakan, membuka kemampuan baru dalam komputasi, navigasi, astronomi, gravitasi, dan pemahaman antariksa dalam.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2143,
+        "endYear": 2155
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Komputasi kuantum praktis yang memecahkan masalah rekayasa molekuler menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Instrumen maju menghasilkan data presisi pada skala peradaban",
+        "Teknologi kuantum dan gravitasi menjadi alat praktis",
+        "Fisika baru bergerak dari teori menuju sistem rekayasa"
+      ],
+      "implications": [
+        "Navigasi dan observasi meningkat di seluruh Tata Surya",
+        "Domain rekayasa baru menjadi mungkin",
+        "Kepercayaan ilmiah terhadap ekspansi antariksa dalam meningkat"
+      ],
+      "image": {
+        "alt": "Komputasi kuantum praktis memecahkan masalah rekayasa molekuler",
+        "prompts": [
+          "practical Quantum Computing Solves Molecular Engineering Problems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing practical Quantum Computing Solves Molecular Engineering Problems, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of practical Quantum Computing Solves Molecular Engineering Problems, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating practical Quantum Computing Solves Molecular Engineering Problems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-practical-quantum-computing-solves-molecular-engineering-problems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-practical-quantum-computing-solves-molecular-engineering-problems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-practical-quantum-computing-solves-molecular-engineering-problems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-artificial-gravity-becomes-standard-in-large-habitats",
+      "order": 30,
+      "slug": "artificial-gravity-becomes-standard-in-large-habitats",
+      "title": "Gravitasi Buatan Menjadi Standar di Habitat Besar",
+      "shortTitle": "Gravitasi Buatan di Habitat Besar",
+      "category": "Physics",
+      "description": "Gravitasi buatan yang menjadi standar di habitat besar mengubah ilmu fisika maju menjadi infrastruktur yang dapat digunakan, membuka kemampuan baru dalam komputasi, navigasi, astronomi, gravitasi, dan pemahaman antariksa dalam.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2144,
+        "endYear": 2156
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Gravitasi buatan yang menjadi standar di habitat besar menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Instrumen maju menghasilkan data presisi pada skala peradaban",
+        "Teknologi kuantum dan gravitasi menjadi alat praktis",
+        "Fisika baru bergerak dari teori menuju sistem rekayasa"
+      ],
+      "implications": [
+        "Navigasi dan observasi meningkat di seluruh Tata Surya",
+        "Domain rekayasa baru menjadi mungkin",
+        "Kepercayaan ilmiah terhadap ekspansi antariksa dalam meningkat"
+      ],
+      "image": {
+        "alt": "Gravitasi buatan menjadi standar di habitat besar",
+        "prompts": [
+          "artificial Gravity Becomes Standard in Large Habitats, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Becomes Standard in Large Habitats, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Becomes Standard in Large Habitats, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Becomes Standard in Large Habitats, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-artificial-gravity-becomes-standard-in-large-habitats.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-artificial-gravity-becomes-standard-in-large-habitats.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-artificial-gravity-becomes-standard-in-large-habitats.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-gravitational-wave-navigation-systems-enter-service",
+      "order": 31,
+      "slug": "gravitational-wave-navigation-systems-enter-service",
+      "title": "Sistem Navigasi Gelombang Gravitasi Mulai Beroperasi",
+      "shortTitle": "Navigasi Gelombang Gravitasi",
+      "category": "Physics",
+      "description": "Sistem navigasi gelombang gravitasi yang mulai beroperasi mengubah ilmu fisika maju menjadi infrastruktur yang dapat digunakan, membuka kemampuan baru dalam komputasi, navigasi, astronomi, gravitasi, dan pemahaman antariksa dalam.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2146,
+        "endYear": 2158
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Sistem navigasi gelombang gravitasi yang mulai beroperasi menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Instrumen maju menghasilkan data presisi pada skala peradaban",
+        "Teknologi kuantum dan gravitasi menjadi alat praktis",
+        "Fisika baru bergerak dari teori menuju sistem rekayasa"
+      ],
+      "implications": [
+        "Navigasi dan observasi meningkat di seluruh Tata Surya",
+        "Domain rekayasa baru menjadi mungkin",
+        "Kepercayaan ilmiah terhadap ekspansi antariksa dalam meningkat"
+      ],
+      "image": {
+        "alt": "Sistem navigasi gelombang gravitasi mulai beroperasi",
+        "prompts": [
+          "gravitational Wave Navigation Systems Enter Service, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing gravitational Wave Navigation Systems Enter Service, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of gravitational Wave Navigation Systems Enter Service, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating gravitational Wave Navigation Systems Enter Service, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-gravitational-wave-navigation-systems-enter-service.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-gravitational-wave-navigation-systems-enter-service.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-gravitational-wave-navigation-systems-enter-service.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-dark-matter-distribution-map-of-the-milky-way-is-completed",
+      "order": 32,
+      "slug": "dark-matter-distribution-map-of-the-milky-way-is-completed",
+      "title": "Peta Distribusi Materi Gelap Bima Sakti Selesai Dibuat",
+      "shortTitle": "Peta Materi Gelap Bima Sakti",
+      "category": "Physics",
+      "description": "Peta distribusi materi gelap Bima Sakti yang selesai dibuat mengubah ilmu fisika maju menjadi infrastruktur yang dapat digunakan, membuka kemampuan baru dalam komputasi, navigasi, astronomi, gravitasi, dan pemahaman antariksa dalam.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2147,
+        "endYear": 2159
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Peta distribusi materi gelap Bima Sakti yang selesai dibuat menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Instrumen maju menghasilkan data presisi pada skala peradaban",
+        "Teknologi kuantum dan gravitasi menjadi alat praktis",
+        "Fisika baru bergerak dari teori menuju sistem rekayasa"
+      ],
+      "implications": [
+        "Navigasi dan observasi meningkat di seluruh Tata Surya",
+        "Domain rekayasa baru menjadi mungkin",
+        "Kepercayaan ilmiah terhadap ekspansi antariksa dalam meningkat"
+      ],
+      "image": {
+        "alt": "Peta distribusi materi gelap Bima Sakti selesai dibuat",
+        "prompts": [
+          "dark Matter Distribution Map of the Milky Way Is Completed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Matter Distribution Map of the Milky Way Is Completed, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Matter Distribution Map of the Milky Way Is Completed, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Matter Distribution Map of the Milky Way Is Completed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-dark-matter-distribution-map-of-the-milky-way-is-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-quantum-sensor-networks-transform-astronomy",
+      "order": 33,
+      "slug": "quantum-sensor-networks-transform-astronomy",
+      "title": "Jaringan Sensor Kuantum Mengubah Astronomi",
+      "shortTitle": "Jaringan Sensor Kuantum",
+      "category": "Physics",
+      "description": "Jaringan sensor kuantum yang mengubah astronomi mengubah ilmu fisika maju menjadi infrastruktur yang dapat digunakan, membuka kemampuan baru dalam komputasi, navigasi, astronomi, gravitasi, dan pemahaman antariksa dalam.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "astronomy"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2148,
+        "endYear": 2160
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Jaringan sensor kuantum yang mengubah astronomi menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Instrumen maju menghasilkan data presisi pada skala peradaban",
+        "Teknologi kuantum dan gravitasi menjadi alat praktis",
+        "Fisika baru bergerak dari teori menuju sistem rekayasa"
+      ],
+      "implications": [
+        "Navigasi dan observasi meningkat di seluruh Tata Surya",
+        "Domain rekayasa baru menjadi mungkin",
+        "Kepercayaan ilmiah terhadap ekspansi antariksa dalam meningkat"
+      ],
+      "image": {
+        "alt": "Jaringan sensor kuantum mengubah astronomi",
+        "prompts": [
+          "quantum Sensor Networks Transform Astronomy, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Sensor Networks Transform Astronomy, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Sensor Networks Transform Astronomy, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Sensor Networks Transform Astronomy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-quantum-sensor-networks-transform-astronomy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-quantum-sensor-networks-transform-astronomy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-quantum-sensor-networks-transform-astronomy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-self-healing-spacecraft-hulls-become-standard",
+      "order": 34,
+      "slug": "self-healing-spacecraft-hulls-become-standard",
+      "title": "Lambung Pesawat Antariksa yang Memperbaiki Diri Menjadi Standar",
+      "shortTitle": "Lambung Antariksa Memperbaiki Diri",
+      "category": "Materials & Manufacturing",
+      "description": "Lambung pesawat antariksa yang dapat memperbaiki diri meningkatkan basis material peradaban melalui struktur yang lebih kuat, produksi terprogram, manufaktur molekuler, dan sumber daya dari antariksa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2149,
+        "endYear": 2161
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Lambung pesawat antariksa yang dapat memperbaiki diri menjadi standar dan menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Manufaktur bergeser menuju produksi molekuler dan otomatis",
+        "Material antariksa menjadi input industri utama",
+        "Megastruktur menggunakan material yang mustahil pada era sebelumnya"
+      ],
+      "implications": [
+        "Ekstraksi sumber daya bergeser menjauh dari Bumi",
+        "Produksi industri menjadi lebih bersih dan presisi",
+        "Pembangunan megastruktur menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Lambung pesawat antariksa yang memperbaiki diri menjadi standar",
+        "prompts": [
+          "self-Healing Spacecraft Hulls Become Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Spacecraft Hulls Become Standard, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Spacecraft Hulls Become Standard, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Spacecraft Hulls Become Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-self-healing-spacecraft-hulls-become-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-self-healing-spacecraft-hulls-become-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-self-healing-spacecraft-hulls-become-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-carbon-nanotube-megastructures-reach-industrial-scale",
+      "order": 35,
+      "slug": "carbon-nanotube-megastructures-reach-industrial-scale",
+      "title": "Megastruktur Nanotube Karbon Mencapai Skala Industri",
+      "shortTitle": "Megastruktur Nanotube Karbon",
+      "category": "Materials & Manufacturing",
+      "description": "Megastruktur nanotube karbon yang mencapai skala industri meningkatkan basis material peradaban melalui struktur yang lebih kuat, produksi terprogram, manufaktur molekuler, dan sumber daya dari antariksa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2150,
+        "endYear": 2162
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Megastruktur nanotube karbon yang mencapai skala industri menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Manufaktur bergeser menuju produksi molekuler dan otomatis",
+        "Material antariksa menjadi input industri utama",
+        "Megastruktur menggunakan material yang mustahil pada era sebelumnya"
+      ],
+      "implications": [
+        "Ekstraksi sumber daya bergeser menjauh dari Bumi",
+        "Produksi industri menjadi lebih bersih dan presisi",
+        "Pembangunan megastruktur menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Megastruktur nanotube karbon mencapai skala industri",
+        "prompts": [
+          "carbon Nanotube Megastructures Reach Industrial Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Nanotube Megastructures Reach Industrial Scale, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Nanotube Megastructures Reach Industrial Scale, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Nanotube Megastructures Reach Industrial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-carbon-nanotube-megastructures-reach-industrial-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-carbon-nanotube-megastructures-reach-industrial-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-carbon-nanotube-megastructures-reach-industrial-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-programmable-matter-enters-commercial-manufacturing",
+      "order": 36,
+      "slug": "programmable-matter-enters-commercial-manufacturing",
+      "title": "Materi Terprogram Masuk ke Manufaktur Komersial",
+      "shortTitle": "Materi Terprogram",
+      "category": "Materials & Manufacturing",
+      "description": "Materi terprogram yang masuk ke manufaktur komersial meningkatkan basis material peradaban melalui struktur yang lebih kuat, produksi terprogram, manufaktur molekuler, dan sumber daya dari antariksa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2152,
+        "endYear": 2164
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Materi terprogram yang masuk ke manufaktur komersial menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Manufaktur bergeser menuju produksi molekuler dan otomatis",
+        "Material antariksa menjadi input industri utama",
+        "Megastruktur menggunakan material yang mustahil pada era sebelumnya"
+      ],
+      "implications": [
+        "Ekstraksi sumber daya bergeser menjauh dari Bumi",
+        "Produksi industri menjadi lebih bersih dan presisi",
+        "Pembangunan megastruktur menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Materi terprogram masuk ke manufaktur komersial",
+        "prompts": [
+          "programmable Matter Enters Commercial Manufacturing, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Enters Commercial Manufacturing, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Enters Commercial Manufacturing, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Enters Commercial Manufacturing, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-programmable-matter-enters-commercial-manufacturing.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-programmable-matter-enters-commercial-manufacturing.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-programmable-matter-enters-commercial-manufacturing.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-molecular-nanofactories-produce-consumer-goods",
+      "order": 37,
+      "slug": "molecular-nanofactories-produce-consumer-goods",
+      "title": "Nanofabrik Molekuler Memproduksi Barang Konsumen",
+      "shortTitle": "Nanofabrik Molekuler",
+      "category": "Materials & Manufacturing",
+      "description": "Nanofabrik molekuler yang memproduksi barang konsumen meningkatkan basis material peradaban melalui struktur yang lebih kuat, produksi terprogram, manufaktur molekuler, dan sumber daya dari antariksa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2153,
+        "endYear": 2165
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Nanofabrik molekuler yang memproduksi barang konsumen menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Manufaktur bergeser menuju produksi molekuler dan otomatis",
+        "Material antariksa menjadi input industri utama",
+        "Megastruktur menggunakan material yang mustahil pada era sebelumnya"
+      ],
+      "implications": [
+        "Ekstraksi sumber daya bergeser menjauh dari Bumi",
+        "Produksi industri menjadi lebih bersih dan presisi",
+        "Pembangunan megastruktur menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Nanofabrik molekuler memproduksi barang konsumen",
+        "prompts": [
+          "molecular Nanofactories Produce Consumer Goods, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing molecular Nanofactories Produce Consumer Goods, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of molecular Nanofactories Produce Consumer Goods, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating molecular Nanofactories Produce Consumer Goods, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-molecular-nanofactories-produce-consumer-goods.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-molecular-nanofactories-produce-consumer-goods.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-molecular-nanofactories-produce-consumer-goods.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-asteroid-materials-replace-earth-mining-industries",
+      "order": 38,
+      "slug": "asteroid-materials-replace-earth-mining-industries",
+      "title": "Material Asteroid Menggantikan Industri Pertambangan Bumi",
+      "shortTitle": "Material Asteroid Menggantikan Tambang Bumi",
+      "category": "Materials & Manufacturing",
+      "description": "Material asteroid yang menggantikan industri pertambangan Bumi meningkatkan basis material peradaban melalui struktur yang lebih kuat, produksi terprogram, manufaktur molekuler, dan sumber daya dari antariksa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "nanomanufacturing",
+        "space-industry"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2154,
+        "endYear": 2166
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Material asteroid yang menggantikan industri pertambangan Bumi menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Manufaktur bergeser menuju produksi molekuler dan otomatis",
+        "Material antariksa menjadi input industri utama",
+        "Megastruktur menggunakan material yang mustahil pada era sebelumnya"
+      ],
+      "implications": [
+        "Ekstraksi sumber daya bergeser menjauh dari Bumi",
+        "Produksi industri menjadi lebih bersih dan presisi",
+        "Pembangunan megastruktur menjadi layak secara ekonomi"
+      ],
+      "image": {
+        "alt": "Material asteroid menggantikan industri pertambangan Bumi",
+        "prompts": [
+          "asteroid Materials Replace Earth Mining Industries, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing asteroid Materials Replace Earth Mining Industries, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of asteroid Materials Replace Earth Mining Industries, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating asteroid Materials Replace Earth Mining Industries, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-asteroid-materials-replace-earth-mining-industries.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-asteroid-materials-replace-earth-mining-industries.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-asteroid-materials-replace-earth-mining-industries.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-global-carbon-levels-return-to-pre-industrial-values",
+      "order": 39,
+      "slug": "global-carbon-levels-return-to-pre-industrial-values",
+      "title": "Kadar Karbon Global Kembali ke Nilai Pra-Industri",
+      "shortTitle": "Karbon Global Pra-Industri",
+      "category": "Environment",
+      "description": "Kadar karbon global yang kembali ke nilai pra-industri membuktikan bahwa sistem planet dapat dipulihkan, distabilkan, dan dikelola secara aktif melalui ilmu iklim maju, rekayasa ekologi, dan infrastruktur cerdas.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2155,
+        "endYear": 2167
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Kadar karbon global yang kembali ke nilai pra-industri menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Model iklim dan ekosistem memandu intervensi dunia nyata",
+        "Proyek pemulihan menjadi terukur pada skala planet",
+        "Pencegahan bencana menggantikan respons darurat yang reaktif"
+      ],
+      "implications": [
+        "Pemulihan planet menjadi tanggung jawab inti",
+        "Risiko iklim menurun bagi pusat populasi besar",
+        "Pemulihan ekologi menjadi terukur dan tahan lama"
+      ],
+      "image": {
+        "alt": "Kadar karbon global kembali ke nilai pra-industri",
+        "prompts": [
+          "global Carbon Levels Return to Pre-Industrial Values, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Carbon Levels Return to Pre-Industrial Values, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Carbon Levels Return to Pre-Industrial Values, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Carbon Levels Return to Pre-Industrial Values, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-global-carbon-levels-return-to-pre-industrial-values.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-global-carbon-levels-return-to-pre-industrial-values.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-global-carbon-levels-return-to-pre-industrial-values.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-ocean-biodiversity-fully-recovers",
+      "order": 40,
+      "slug": "ocean-biodiversity-fully-recovers",
+      "title": "Keanekaragaman Hayati Laut Pulih Sepenuhnya",
+      "shortTitle": "Keanekaragaman Hayati Laut Pulih",
+      "category": "Environment",
+      "description": "Keanekaragaman hayati laut yang pulih sepenuhnya membuktikan bahwa sistem planet dapat dipulihkan, distabilkan, dan dikelola secara aktif melalui ilmu iklim maju, rekayasa ekologi, dan infrastruktur cerdas.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2156,
+        "endYear": 2168
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Keanekaragaman hayati laut yang pulih sepenuhnya menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Model iklim dan ekosistem memandu intervensi dunia nyata",
+        "Proyek pemulihan menjadi terukur pada skala planet",
+        "Pencegahan bencana menggantikan respons darurat yang reaktif"
+      ],
+      "implications": [
+        "Pemulihan planet menjadi tanggung jawab inti",
+        "Risiko iklim menurun bagi pusat populasi besar",
+        "Pemulihan ekologi menjadi terukur dan tahan lama"
+      ],
+      "image": {
+        "alt": "Keanekaragaman hayati laut pulih sepenuhnya",
+        "prompts": [
+          "ocean Biodiversity Fully Recovers, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ocean Biodiversity Fully Recovers, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ocean Biodiversity Fully Recovers, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ocean Biodiversity Fully Recovers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-ocean-biodiversity-fully-recovers.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-ocean-biodiversity-fully-recovers.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-ocean-biodiversity-fully-recovers.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-ocean-biodiversity-fully-recovers.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-ocean-biodiversity-fully-recovers.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-planetary-climate-stabilization-becomes-routine",
+      "order": 41,
+      "slug": "planetary-climate-stabilization-becomes-routine",
+      "title": "Stabilisasi Iklim Planet Menjadi Rutinitas",
+      "shortTitle": "Stabilisasi Iklim Planet",
+      "category": "Environment",
+      "description": "Stabilisasi iklim planet yang menjadi rutinitas membuktikan bahwa sistem planet dapat dipulihkan, distabilkan, dan dikelola secara aktif melalui ilmu iklim maju, rekayasa ekologi, dan infrastruktur cerdas.",
+      "layerId": "environment",
+      "domains": [
+        "climate-stabilization",
+        "ecosystem-restoration",
+        "planetary-stewardship"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2158,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Stabilisasi iklim planet yang menjadi rutinitas menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Model iklim dan ekosistem memandu intervensi dunia nyata",
+        "Proyek pemulihan menjadi terukur pada skala planet",
+        "Pencegahan bencana menggantikan respons darurat yang reaktif"
+      ],
+      "implications": [
+        "Pemulihan planet menjadi tanggung jawab inti",
+        "Risiko iklim menurun bagi pusat populasi besar",
+        "Pemulihan ekologi menjadi terukur dan tahan lama"
+      ],
+      "image": {
+        "alt": "Stabilisasi iklim planet menjadi rutinitas",
+        "prompts": [
+          "planetary Climate Stabilization Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Climate Stabilization Becomes Routine, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Climate Stabilization Becomes Routine, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Climate Stabilization Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-planetary-climate-stabilization-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-planetary-climate-stabilization-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-planetary-climate-stabilization-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-universal-basic-services-replace-most-traditional-economies",
+      "order": 42,
+      "slug": "universal-basic-services-replace-most-traditional-economies",
+      "title": "Layanan Dasar Universal Menggantikan Sebagian Besar Ekonomi Tradisional",
+      "shortTitle": "Layanan Dasar Universal",
+      "category": "Society & Economy",
+      "description": "Layanan dasar universal yang menggantikan sebagian besar ekonomi tradisional membentuk ulang kehidupan sehari-hari, pekerjaan, mobilitas, dan pertukaran nilai saat peradaban manusia bergerak lebih jauh menuju kelimpahan dan masyarakat multi-dunia yang terhubung.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2159,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Layanan dasar universal yang menggantikan sebagian besar ekonomi tradisional menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kehidupan sehari-hari makin sedikit bergantung pada lokasi fisik dan kerja tradisional",
+        "Sistem publik bergerak menuju akses universal dan kelimpahan",
+        "Nilai ekonomi bergeser menuju pengetahuan, kreativitas, dan kehadiran"
+      ],
+      "implications": [
+        "Model tenaga kerja dan mata uang tradisional melemah",
+        "Akses terhadap layanan menjadi lebih universal",
+        "Mobilitas manusia menjadi kurang dibatasi oleh jarak"
+      ],
+      "image": {
+        "alt": "Layanan dasar universal menggantikan sebagian besar ekonomi tradisional",
+        "prompts": [
+          "universal Basic Services Replace Most Traditional Economies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing universal Basic Services Replace Most Traditional Economies, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of universal Basic Services Replace Most Traditional Economies, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating universal Basic Services Replace Most Traditional Economies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-universal-basic-services-replace-most-traditional-economies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-universal-basic-services-replace-most-traditional-economies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-universal-basic-services-replace-most-traditional-economies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-physical-currency-disappears-completely",
+      "order": 43,
+      "slug": "physical-currency-disappears-completely",
+      "title": "Mata Uang Fisik Menghilang Sepenuhnya",
+      "shortTitle": "Mata Uang Fisik Menghilang",
+      "category": "Society & Economy",
+      "description": "Mata uang fisik yang menghilang sepenuhnya membentuk ulang kehidupan sehari-hari, pekerjaan, mobilitas, dan pertukaran nilai saat peradaban manusia bergerak lebih jauh menuju kelimpahan dan masyarakat multi-dunia yang terhubung.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2160,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Mata uang fisik yang menghilang sepenuhnya menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kehidupan sehari-hari makin sedikit bergantung pada lokasi fisik dan kerja tradisional",
+        "Sistem publik bergerak menuju akses universal dan kelimpahan",
+        "Nilai ekonomi bergeser menuju pengetahuan, kreativitas, dan kehadiran"
+      ],
+      "implications": [
+        "Model tenaga kerja dan mata uang tradisional melemah",
+        "Akses terhadap layanan menjadi lebih universal",
+        "Mobilitas manusia menjadi kurang dibatasi oleh jarak"
+      ],
+      "image": {
+        "alt": "Mata uang fisik menghilang sepenuhnya",
+        "prompts": [
+          "physical Currency Disappears Completely, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing physical Currency Disappears Completely, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of physical Currency Disappears Completely, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating physical Currency Disappears Completely, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-physical-currency-disappears-completely.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-physical-currency-disappears-completely.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-physical-currency-disappears-completely.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-physical-currency-disappears-completely.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-physical-currency-disappears-completely.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-labor-becomes-primarily-optional",
+      "order": 44,
+      "slug": "human-labor-becomes-primarily-optional",
+      "title": "Tenaga Kerja Manusia Menjadi Terutama Opsional",
+      "shortTitle": "Tenaga Kerja Manusia Opsional",
+      "category": "Society & Economy",
+      "description": "Tenaga kerja manusia yang menjadi terutama opsional membentuk ulang kehidupan sehari-hari, pekerjaan, mobilitas, dan pertukaran nilai saat peradaban manusia bergerak lebih jauh menuju kelimpahan dan masyarakat multi-dunia yang terhubung.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2161,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Tenaga kerja manusia yang menjadi terutama opsional menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kehidupan sehari-hari makin sedikit bergantung pada lokasi fisik dan kerja tradisional",
+        "Sistem publik bergerak menuju akses universal dan kelimpahan",
+        "Nilai ekonomi bergeser menuju pengetahuan, kreativitas, dan kehadiran"
+      ],
+      "implications": [
+        "Model tenaga kerja dan mata uang tradisional melemah",
+        "Akses terhadap layanan menjadi lebih universal",
+        "Mobilitas manusia menjadi kurang dibatasi oleh jarak"
+      ],
+      "image": {
+        "alt": "Tenaga kerja manusia menjadi terutama opsional",
+        "prompts": [
+          "human Labor Becomes Primarily Optional, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Labor Becomes Primarily Optional, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Labor Becomes Primarily Optional, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Labor Becomes Primarily Optional, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-labor-becomes-primarily-optional.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-labor-becomes-primarily-optional.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-labor-becomes-primarily-optional.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-labor-becomes-primarily-optional.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-labor-becomes-primarily-optional.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-wealth-inequality-reaches-historic-lows",
+      "order": 45,
+      "slug": "wealth-inequality-reaches-historic-lows",
+      "title": "Ketimpangan Kekayaan Mencapai Titik Terendah Historis",
+      "shortTitle": "Ketimpangan Kekayaan Terendah",
+      "category": "Society & Economy",
+      "description": "Ketimpangan kekayaan yang mencapai titik terendah historis membentuk ulang kehidupan sehari-hari, pekerjaan, mobilitas, dan pertukaran nilai saat peradaban manusia bergerak lebih jauh menuju kelimpahan dan masyarakat multi-dunia yang terhubung.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "economy",
+        "social-systems"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2162,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ketimpangan kekayaan yang mencapai titik terendah historis menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Kehidupan sehari-hari makin sedikit bergantung pada lokasi fisik dan kerja tradisional",
+        "Sistem publik bergerak menuju akses universal dan kelimpahan",
+        "Nilai ekonomi bergeser menuju pengetahuan, kreativitas, dan kehadiran"
+      ],
+      "implications": [
+        "Model tenaga kerja dan mata uang tradisional melemah",
+        "Akses terhadap layanan menjadi lebih universal",
+        "Mobilitas manusia menjadi kurang dibatasi oleh jarak"
+      ],
+      "image": {
+        "alt": "Ketimpangan kekayaan mencapai titik terendah historis",
+        "prompts": [
+          "wealth Inequality Reaches Historic Lows, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing wealth Inequality Reaches Historic Lows, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of wealth Inequality Reaches Historic Lows, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating wealth Inequality Reaches Historic Lows, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-wealth-inequality-reaches-historic-lows.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-wealth-inequality-reaches-historic-lows.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-wealth-inequality-reaches-historic-lows.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth",
+      "order": 46,
+      "slug": "first-permanent-population-of-one-million-humans-lives-beyond-earth",
+      "title": "Populasi Permanen Pertama Satu Juta Manusia Hidup di Luar Bumi",
+      "shortTitle": "Satu Juta Manusia di Luar Bumi",
+      "category": "Civilization",
+      "description": "Populasi permanen pertama satu juta manusia yang hidup di luar Bumi mewakili tonggak kelembagaan, budaya, atau hukum baru saat umat manusia menjadi peradaban terkoordinasi yang membentang dari Bumi, orbit, Bulan, hingga Mars.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2164,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Populasi permanen pertama satu juta manusia yang hidup di luar Bumi menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem hukum multi-dunia menjadi diperlukan",
+        "Kewarganegaraan dan hak meluas melampaui masyarakat yang terikat Bumi",
+        "Identitas manusia makin terkait dengan peradaban Tata Surya"
+      ],
+      "implications": [
+        "Tata kelola manusia meluas melampaui batas planet",
+        "Kerangka hak beradaptasi dengan warga buatan dan luar Bumi",
+        "Perencanaan antarbintang menjadi prioritas peradaban"
+      ],
+      "image": {
+        "alt": "Populasi permanen pertama satu juta manusia hidup di luar Bumi",
+        "prompts": [
+          "first Permanent Population of One Million Humans Lives Beyond Earth, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Permanent Population of One Million Humans Lives Beyond Earth, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Permanent Population of One Million Humans Lives Beyond Earth, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Permanent Population of One Million Humans Lives Beyond Earth, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-first-permanent-population-of-one-million-humans-lives-beyond-earth.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-earth-moon-mars-governance-council-is-established",
+      "order": 47,
+      "slug": "earth-moon-mars-governance-council-is-established",
+      "title": "Dewan Tata Kelola Bumi-Bulan-Mars Dibentuk",
+      "shortTitle": "Dewan Bumi-Bulan-Mars",
+      "category": "Civilization",
+      "description": "Pembentukan Dewan Tata Kelola Bumi-Bulan-Mars mewakili tonggak kelembagaan, budaya, atau hukum baru saat umat manusia menjadi peradaban terkoordinasi yang membentang dari Bumi, orbit, Bulan, hingga Mars.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2165,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Dewan Tata Kelola Bumi-Bulan-Mars yang dibentuk menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem hukum multi-dunia menjadi diperlukan",
+        "Kewarganegaraan dan hak meluas melampaui masyarakat yang terikat Bumi",
+        "Identitas manusia makin terkait dengan peradaban Tata Surya"
+      ],
+      "implications": [
+        "Tata kelola manusia meluas melampaui batas planet",
+        "Kerangka hak beradaptasi dengan warga buatan dan luar Bumi",
+        "Perencanaan antarbintang menjadi prioritas peradaban"
+      ],
+      "image": {
+        "alt": "Dewan Tata Kelola Bumi-Bulan-Mars dibentuk",
+        "prompts": [
+          "earth-Moon-Mars Governance Council Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon-Mars Governance Council Is Established, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon-Mars Governance Council Is Established, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon-Mars Governance Council Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-earth-moon-mars-governance-council-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-earth-moon-mars-governance-council-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-earth-moon-mars-governance-council-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-human-rights-expand-to-include-artificial-consciousness",
+      "order": 48,
+      "slug": "human-rights-expand-to-include-artificial-consciousness",
+      "title": "Hak Asasi Manusia Meluas Mencakup Kesadaran Buatan",
+      "shortTitle": "Hak Mencakup Kesadaran Buatan",
+      "category": "Civilization",
+      "description": "Perluasan hak asasi manusia untuk mencakup kesadaran buatan mewakili tonggak kelembagaan, budaya, atau hukum baru saat umat manusia menjadi peradaban terkoordinasi yang membentang dari Bumi, orbit, Bulan, hingga Mars.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2166,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Perluasan hak asasi manusia untuk mencakup kesadaran buatan menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem hukum multi-dunia menjadi diperlukan",
+        "Kewarganegaraan dan hak meluas melampaui masyarakat yang terikat Bumi",
+        "Identitas manusia makin terkait dengan peradaban Tata Surya"
+      ],
+      "implications": [
+        "Tata kelola manusia meluas melampaui batas planet",
+        "Kerangka hak beradaptasi dengan warga buatan dan luar Bumi",
+        "Perencanaan antarbintang menjadi prioritas peradaban"
+      ],
+      "image": {
+        "alt": "Hak asasi manusia meluas mencakup kesadaran buatan",
+        "prompts": [
+          "human Rights Expand to Include Artificial Consciousness, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Rights Expand to Include Artificial Consciousness, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Rights Expand to Include Artificial Consciousness, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Rights Expand to Include Artificial Consciousness, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-human-rights-expand-to-include-artificial-consciousness.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-human-rights-expand-to-include-artificial-consciousness.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-human-rights-expand-to-include-artificial-consciousness.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-solar-system-citizenship-becomes-recognized",
+      "order": 49,
+      "slug": "solar-system-citizenship-becomes-recognized",
+      "title": "Kewarganegaraan Tata Surya Diakui",
+      "shortTitle": "Kewarganegaraan Tata Surya",
+      "category": "Civilization",
+      "description": "Kewarganegaraan Tata Surya yang diakui mewakili tonggak kelembagaan, budaya, atau hukum baru saat umat manusia menjadi peradaban terkoordinasi yang membentang dari Bumi, orbit, Bulan, hingga Mars.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2167,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Kewarganegaraan Tata Surya yang diakui menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem hukum multi-dunia menjadi diperlukan",
+        "Kewarganegaraan dan hak meluas melampaui masyarakat yang terikat Bumi",
+        "Identitas manusia makin terkait dengan peradaban Tata Surya"
+      ],
+      "implications": [
+        "Tata kelola manusia meluas melampaui batas planet",
+        "Kerangka hak beradaptasi dengan warga buatan dan luar Bumi",
+        "Perencanaan antarbintang menjadi prioritas peradaban"
+      ],
+      "image": {
+        "alt": "Kewarganegaraan Tata Surya diakui",
+        "prompts": [
+          "solar System Citizenship Becomes Recognized, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing solar System Citizenship Becomes Recognized, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of solar System Citizenship Becomes Recognized, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating solar System Citizenship Becomes Recognized, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-solar-system-citizenship-becomes-recognized.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-solar-system-citizenship-becomes-recognized.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-solar-system-citizenship-becomes-recognized.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-05-humanity-begins-planning-the-first-interstellar-mission",
+      "order": 50,
+      "slug": "humanity-begins-planning-the-first-interstellar-mission",
+      "title": "Umat Manusia Mulai Merencanakan Misi Antarbintang Pertama",
+      "shortTitle": "Misi Antarbintang Pertama",
+      "category": "Civilization",
+      "description": "Umat manusia yang mulai merencanakan misi antarbintang pertama mewakili tonggak kelembagaan, budaya, atau hukum baru saat umat manusia menjadi peradaban terkoordinasi yang membentang dari Bumi, orbit, Bulan, hingga Mars.",
+      "layerId": "civilization",
+      "domains": [
+        "multi-world-governance",
+        "rights",
+        "future-civilization"
+      ],
+      "maturity": "civilization-scale-adoption",
+      "timeframe": {
+        "startYear": 2168,
+        "endYear": 2170
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Umat manusia yang mulai merencanakan misi antarbintang pertama menjadi tonggak penentu peradaban manusia maju, memperkuat transisi umat manusia menuju masyarakat Tata Surya yang matang.",
+      "signals": [
+        "Sistem hukum multi-dunia menjadi diperlukan",
+        "Kewarganegaraan dan hak meluas melampaui masyarakat yang terikat Bumi",
+        "Identitas manusia makin terkait dengan peradaban Tata Surya"
+      ],
+      "implications": [
+        "Tata kelola manusia meluas melampaui batas planet",
+        "Kerangka hak beradaptasi dengan warga buatan dan luar Bumi",
+        "Perencanaan antarbintang menjadi prioritas peradaban"
+      ],
+      "image": {
+        "alt": "Umat manusia mulai merencanakan misi antarbintang pertama",
+        "prompts": [
+          "humanity Begins Planning the First Interstellar Mission, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Begins Planning the First Interstellar Mission, advanced human civilization across Earth, orbit, Moon, and Mars, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Begins Planning the First Interstellar Mission, elegant high-technology infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Begins Planning the First Interstellar Mission, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-05/era-05-humanity-begins-planning-the-first-interstellar-mission.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-05/mobile/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-05/thumbnail/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-05/desktop/era-05-humanity-begins-planning-the-first-interstellar-mission.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-05/open_graph/era-05-humanity-begins-planning-the-first-interstellar-mission.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

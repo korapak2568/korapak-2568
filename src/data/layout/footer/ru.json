@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet представляет цифровые продукты, AI-сервисы, концепции умных городов и возможности платформенной инженерии из Чиангмая для глобальной аудитории.",
+  "social": {
+    "title": "Социальные сети",
+    "items": []
+  },
+  "important": {
+    "title": "Важные ссылки",
+    "items": [
+      {
+        "label": "О проекте",
+        "link": "/about/"
+      },
+      {
+        "label": "Технологии",
+        "link": "/technology/"
+      },
+      {
+        "label": "Контакты",
+        "link": "/contact/"
+      },
+      {
+        "label": "Условия использования",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "Политика конфиденциальности",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "Политика рабочего места",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "Проекты",
+    "items": [
+      {
+        "label": "Проект Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Система Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Graceful Style",
+        "link": "/style/"
+      },
+      {
+        "label": "Будущее Чиангмая",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "Платформа",
+    "items": [
+      {
+        "label": "Будущая цивилизация",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Умный город",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Умная мобильность",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "История",
+        "link": "/story/"
+      },
+      {
+        "label": "Стиль",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "Связаться",
+    "items": [
+      {
+        "label": "Контакты",
+        "link": "/contact",
+        "ariaLabel": "Страница контактов Chorn Planet"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "Chorn Planet в LinkedIn"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "Chorn Planet на GitHub"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Chorn Planet в Facebook"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "Chorn Planet в X"
+      }
+    ]
+  }
+}

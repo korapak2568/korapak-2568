@@ -1,0 +1,251 @@
+{
+  "roadmapId": "future-civilization-roadmap",
+  "title": "Roadmap der zukünftigen Zivilisation",
+  "description": "Eine langfristige Roadmap im Maßstab der Zivilisation für Wissenschaft, Technologie, Gesellschaft, Wiederherstellung der Erde, Expansion in den Weltraum und posthumane Zukünfte.",
+  "eras": [
+    {
+      "id": "era-01",
+      "order": 1,
+      "title": "Durchbrüche der nahen Zukunft",
+      "file": "/content/future-roadmap/era01/de.json"
+    },
+    {
+      "id": "era-02",
+      "order": 2,
+      "title": "Frühe Weltraumzivilisation",
+      "file": "/content/future-roadmap/era02/de.json"
+    },
+    {
+      "id": "era-03",
+      "order": 3,
+      "title": "Grundlagen nach der Knappheit",
+      "file": "/content/future-roadmap/era03/de.json"
+    },
+    {
+      "id": "era-04",
+      "order": 4,
+      "title": "Planetare Transformation",
+      "file": "/content/future-roadmap/era04/de.json"
+    },
+    {
+      "id": "era-05",
+      "order": 5,
+      "title": "Fortgeschrittene menschliche Zivilisation",
+      "file": "/content/future-roadmap/era05/de.json"
+    },
+    {
+      "id": "era-06",
+      "order": 6,
+      "title": "Tiefer Weltraum und posthumaner Übergang",
+      "file": "/content/future-roadmap/era06/de.json"
+    },
+    {
+      "id": "era-07",
+      "order": 7,
+      "title": "Interstellare Zivilisation",
+      "file": "/content/future-roadmap/era07/de.json"
+    },
+    {
+      "id": "era-08",
+      "order": 8,
+      "title": "Galaktische Koexistenz",
+      "file": "/content/future-roadmap/era08/de.json"
+    }
+  ],
+  "ui": {
+    "navigation": {
+      "indexLabel": "Zukünftige Zivilisation",
+      "eraLabel": "Ära"
+    },
+    "actions": {
+      "viewSignal": "Signal ansehen"
+    },
+    "metadata": {
+      "siteName": "Chorn Planet",
+      "titleSuffix": "Roadmap der zukünftigen Zivilisation",
+      "fallbackTitle": "Roadmap der zukünftigen Zivilisation | Chorn Planet"
+    },
+    "landingHero": {
+      "eyebrow": "Chorn Planet Zukünftige Zivilisation"
+    },
+    "landingSignalGallery": {
+      "eyebrow": "Signalgalerie der zukünftigen Zivilisation",
+      "title": "Zufällige Signale aus den geladenen Roadmap-Ären.",
+      "description": "Die Landingpage aktualisiert sich mit ausgewählten Signalen aus jeder geladenen Ära und gibt Besuchern einen breiteren ersten Blick auf die Roadmap der zukünftigen Zivilisation, während jeder Abschnitt fokussiert und leicht erfassbar bleibt."
+    },
+    "layersSection": {
+      "eyebrow": "Roadmap-Ebenen",
+      "title": "Als Zivilisationssystem entworfen."
+    },
+    "eraPage": {
+      "summaryDescription": "Die Ära ist als praktische Signale organisiert: was sich verändert, wann es entstehen könnte, welcher Ebene es angehört und welche Folgen es für das Design von Zivilisation erzeugt.",
+      "continueTimeline": {
+        "eyebrow": "Zeitlinie fortsetzen",
+        "title": "Eine weitere Zivilisationsära öffnen."
+      }
+    },
+    "itemPage": {
+      "relatedSignals": {
+        "eyebrowPrefix": "Mehr aus",
+        "title": "Weiter durch das Set der Zivilisationssignale.",
+        "descriptionPrefix": "Bewege dich durch die",
+        "descriptionSuffix": "Roadmap und öffne direkt von dieser Seite einen weiteren Zukunftszivilisations-Knoten."
+      },
+      "detail": {
+        "timeframeLabel": "Zeitraum",
+        "layerLabel": "Ebene",
+        "impactLabel": "Auswirkung",
+        "maturityLabel": "Reifegrad",
+        "signalsTitle": "Signale",
+        "implicationsTitle": "Implikationen"
+      }
+    },
+    "homeHero": {
+      "eyebrow": "Chorn Planet Zukunftssysteme",
+      "title": "Zukünftige Zivilisation",
+      "description": "Chorn Planet verbindet Zivilisationsmedien, Roadmap-Storytelling und Technologieentwicklung zu einer Premium-Plattform für langfristige Städte, Ernährungssysteme, Mobilität, Weltraum, KI und menschliche Zukünfte.",
+      "actions": {
+        "openRoadmap": "Roadmap öffnen",
+        "exploreRoadmap": "Zukünftige Zivilisation erkunden"
+      },
+      "railAriaLabel": "Hervorgehobene Roadmap-Signale",
+      "imageCaptionEyebrow": "Zivilisationssignal der ersten Phase"
+    },
+    "homePreview": {
+      "eyebrow": "Roadmap der zukünftigen Zivilisation",
+      "title": "Zivilisations-Roadmap-Signale",
+      "description": "Dieses Set aktualisiert sich aus den aktiven Signalen von Ära 01 bis Ära 08, sodass die Startseite immer wieder unterschiedliche Signale zu Zivilisation, Medien und Technologie zeigt.",
+      "actionLabel": "Ära erkunden"
+    }
+  },
+  "taxonomy": {
+    "layers": [
+      {
+        "id": "science",
+        "title": "Wissenschaftsebene",
+        "description": "Grundlegende Entdeckungen in Physik, Chemie, Biologie, Planetenwissenschaft und Kosmologie."
+      },
+      {
+        "id": "technology",
+        "title": "Technologieebene",
+        "description": "Angewandte Systeme, Maschinen, Plattformen, Werkzeuge und Infrastruktur, die menschliche Fähigkeiten erweitern."
+      },
+      {
+        "id": "biotech-health",
+        "title": "Biotech- & Gesundheitsebene",
+        "description": "Medizin, Langlebigkeit, Genetik, Regeneration, Krankheitsprävention und menschliche Erweiterung."
+      },
+      {
+        "id": "environment",
+        "title": "Umweltebene",
+        "description": "Klimawiederherstellung, Erholung der Biodiversität, sauberes Wasser, Schadstoffentfernung und planetare Reparatur."
+      },
+      {
+        "id": "society",
+        "title": "Gesellschaftsebene",
+        "description": "Bildung, Arbeit, Governance, Frieden, Recht, Kultur, Ungleichheit und kollektives Wohlbefinden."
+      },
+      {
+        "id": "civilization",
+        "title": "Zivilisationsebene",
+        "description": "Städte, Megastrukturen, Infrastruktur, Ökonomie, planetare Systeme und langfristiges Zivilisationsdesign."
+      },
+      {
+        "id": "space",
+        "title": "Weltraumebene",
+        "description": "Mond, Mars, orbitale Infrastruktur, Asteroidenbergbau, tiefer Weltraum und interstellare Expansion."
+      },
+      {
+        "id": "consciousness",
+        "title": "Posthuman- & Bewusstseinsebene",
+        "description": "Neuronale Schnittstellen, Erinnerung, Identität, synthetische Körper, KI-Rechte und neue Formen von Intelligenz."
+      }
+    ],
+    "categories": [
+      {
+        "id": "ai-computing",
+        "title": "KI & Computing"
+      },
+      {
+        "id": "robotics",
+        "title": "Robotik"
+      },
+      {
+        "id": "biology-medicine",
+        "title": "Biologie & Medizin"
+      },
+      {
+        "id": "energy",
+        "title": "Energie"
+      },
+      {
+        "id": "materials-manufacturing",
+        "title": "Materialien & Fertigung"
+      },
+      {
+        "id": "environment",
+        "title": "Umwelt"
+      },
+      {
+        "id": "space",
+        "title": "Weltraum"
+      },
+      {
+        "id": "society-economy",
+        "title": "Gesellschaft & Wirtschaft"
+      },
+      {
+        "id": "physics",
+        "title": "Physik"
+      },
+      {
+        "id": "civilization",
+        "title": "Zivilisation"
+      }
+    ],
+    "sub-categories": [
+      {
+        "id": "artificial-intelligence",
+        "title": "Künstliche Intelligenz",
+        "layerId": "technology"
+      },
+      {
+        "id": "fusion-energy",
+        "title": "Fusionsenergie",
+        "layerId": "technology"
+      },
+      {
+        "id": "regenerative-medicine",
+        "title": "Regenerative Medizin",
+        "layerId": "biotech-health"
+      },
+      {
+        "id": "lunar-civilization",
+        "title": "Mondzivilisation",
+        "layerId": "space"
+      },
+      {
+        "id": "mars-civilization",
+        "title": "Marszivilisation",
+        "layerId": "space"
+      }
+    ],
+    "tags": [
+      "KI",
+      "Robotik",
+      "Fusion",
+      "Quanten",
+      "Biotech",
+      "Genetik",
+      "Krebs",
+      "Langlebigkeit",
+      "Klima",
+      "Materialien",
+      "Mond",
+      "Mars",
+      "Orbitale Infrastruktur",
+      "Megastruktur",
+      "Erstkontakt"
+    ]
+  }
+}

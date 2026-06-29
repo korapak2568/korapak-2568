@@ -481,21 +481,27 @@ ChornPlanet Full Visual Policy Pack
 
 # M. Production Media Standards
 
-## Lock Image Rule
+## # Default Image Workflow
 
-* Web/Desktop, 16:9, 85mm, f/1.8, panorama
-* No text overlay
-* ลดตัวอักษรให้เหลือน้อยที่สุด
-* ใช้ไอคอน/สัญลักษณ์แทนข้อความ
-* ถ้าจำเป็นต้องมีข้อความในภาพ ให้ใช้ภาษาไทย
-* Thai people as hero by default
-* Final PNG exactly 2560 × 1440
-* Main image only, no thumbnail inset
-* No ERA x years, big title, long description
-* Remove small text and paragraph
-* No flags and country name
-* No Chorn Logo. I will specify it case by case.
-* Feel free to generate logo compatible with the image prompt to the best UI practice.
+- Chorn Planet M. Production Media Standards
+- Web/Desktop, 16:9, 85mm, f/1.8
+- panorama
+- no text overlay
+- Thai people as hero by default
+- final PNG exactly 2560 × 1440
+
+# Guidelines for creating and enhancing images.
+
+- สร้างเฉพาะเฉพาะรูปภาพหลัก ไม่ต้องสร้างรูปภาพย่อย (Thumbnail image) บนรูปภาพหลัก
+- ปรับปรุงรูปภาพ โดยลดจำนวนตัวอักษรที่เป็นอธิบายให้เหลือน้อยที่สุด
+- ใช้ไอคอน สัญลักษณ์ แสดงความหมายแทนตัวอักษรให้มากที่สุด
+- No need ERA x years and Big title and description.
+- Remove out the small text and paragraph
+- แสดงตัวอักษรที่ยังจำเป็นในรูปภาพ เป็นภาษาไทย
+- No flags and country name
+- No Chorn Logo. I will specify it case by case.
+- นักปฏิบัติการอวกาศควรจะสวมหมวกอวกาศ เมื่ออยู่นอกยานแม่ หรืออยู่นอกโตมที่อยู่อาศัยของมนุษย์
+- Feel free to generate logo compatible with the image prompt.
 
 ## Image Chorn Planet Platform for Web/Desktop
 

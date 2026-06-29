@@ -2,28 +2,34 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import type { FutureRoadmapFeaturedItem } from "@/lib/platform-content/futureRoadmapContent";
+import type {
+  FutureRoadmapFeaturedItem,
+  FutureRoadmapManifest,
+} from "@/lib/platform-content/futureRoadmapContent";
 import {
   getPlatformImageAlt,
   getPlatformImageSrc,
 } from "@/lib/platform-content/platformImageVariants";
 
+type FutureCivilizationPreviewCopy = FutureRoadmapManifest["ui"]["homePreview"];
+
 export default function FutureCivilizationPreviewSection({
   lang,
   featuredItems,
+  copy,
+  eraLabel,
 }: {
   lang: string;
   featuredItems: FutureRoadmapFeaturedItem[];
+  copy: FutureCivilizationPreviewCopy;
+  eraLabel: string;
 }) {
   return (
     <section className="platform-shell future-civilization-preview">
       <div className="platform-section__header future-civilization-preview__header">
-        <span>Future Civilization Roadmap</span>
-        <h2>Civilization Roadmap Signals</h2>
-        <p>
-          This set refreshes from the 40 ready signals in Era 01 and Era 02, so
-          the homepage keeps surfacing different civilization, media, and technology signals.
-        </p>
+        <span>{copy.eyebrow}</span>
+        <h2>{copy.title}</h2>
+        <p>{copy.description}</p>
       </div>
       <div className="future-civilization-preview__grid">
         {featuredItems.map((item, index) => {
@@ -54,12 +60,12 @@ export default function FutureCivilizationPreviewSection({
                 </div>
               <div className="future-civilization-preview-card__body">
                 <span>
-                  Era {String(item.era.order).padStart(2, "0")} /{" "}
+                  {eraLabel} {String(item.era.order).padStart(2, "0")} /{" "}
                   {item.era.timeframe.startYear}-{item.era.timeframe.endYear}
                 </span>
                 <h3>{item.era.title}</h3>
                 <p>{item.description}</p>
-                <strong>Explore Era</strong>
+                <strong>{copy.actionLabel}</strong>
                 </div>
               </Link>
             </article>

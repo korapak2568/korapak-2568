@@ -1,6 +1,7 @@
 // src/metadata/smart-city-landing/getMetaSmartCityLanding.ts
 
 import {Metadata} from "next";
+import {withLocalizedAlternates} from "@/lib/metadata/alternates";
 import {MetaLiteBeneathTheRoute} from "@/metadata/smart-city/chiang-mai/MetaLiteBeneathTheRoute";
 import {MetaPlazaThatConnectsTheHub} from "@/metadata/smart-city/chiang-mai/MetaPlazaThatConnectsTheHub";
 import {MetaVertiportReflectedInWater} from "@/metadata/smart-city/chiang-mai/MetaVertiportReflectedInWater";
@@ -14,10 +15,10 @@ export function getMetaSmartCity(
 ): Record<string, Metadata> {
 
     return {
-        "life-beneath-the-route": MetaLiteBeneathTheRoute[lang],
-        "plaza-that-connects-the-hub": MetaPlazaThatConnectsTheHub[lang],
-        "vertiport-reflected-in-water": MetaVertiportReflectedInWater[lang],
-        "when-human-flow-aligns-with-system-flow": MetaWhenHumanFlowAlignsWithSystemFlow[lang],
-        "the-city-in-balance": MetaTheCityInBalance[lang],
+        "life-beneath-the-route": withLocalizedAlternates(MetaLiteBeneathTheRoute[lang] ?? MetaLiteBeneathTheRoute.en ?? {}, "/smart-city/chiang-mai/life-beneath-the-route/"),
+        "plaza-that-connects-the-hub": withLocalizedAlternates(MetaPlazaThatConnectsTheHub[lang] ?? MetaPlazaThatConnectsTheHub.en ?? {}, "/smart-city/chiang-mai/plaza-that-connects-the-hub/"),
+        "vertiport-reflected-in-water": withLocalizedAlternates(MetaVertiportReflectedInWater[lang] ?? MetaVertiportReflectedInWater.en ?? {}, "/smart-city/chiang-mai/vertiport-reflected-in-water/"),
+        "when-human-flow-aligns-with-system-flow": withLocalizedAlternates(MetaWhenHumanFlowAlignsWithSystemFlow[lang] ?? MetaWhenHumanFlowAlignsWithSystemFlow.en ?? {}, "/smart-city/chiang-mai/when-human-flow-aligns-with-system-flow/"),
+        "the-city-in-balance": withLocalizedAlternates(MetaTheCityInBalance[lang] ?? MetaTheCityInBalance.en ?? {}, "/smart-city/chiang-mai/the-city-in-balance/"),
     };
 }

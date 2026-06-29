@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "home": {
+      "title": "Chorn Planet | Platform Smart Food, Luxury, Technology, dan Lifestyle",
+      "description": "Chorn Planet memulai Phase 1 dengan platform terfokus untuk Smart Food, AI Luxury, Technology, Style, Smart City, dan Smart Mobility."
+    },
+    "about": {
+      "title": "Tentang Chorn Planet | Platform Lifestyle AI Native",
+      "description": "Chorn Planet adalah platform AI-native yang menghubungkan Smart Food, AI Luxury, Style, dan teknologi praktis menjadi sistem lifestyle yang berguna."
+    }
+  },
+  "home": {
+    "sections": [
+      {
+        "id": "phase-1",
+        "eyebrow": "Pengembangan Proyek",
+        "title": "Teknologi Pengembangan Proyek",
+        "layout": "featured",
+        "cards": [
+          {
+            "category": "Smart Food",
+            "title": "Sistem Smart Food",
+            "description": "Arah produk kehidupan sehari-hari seputar penemuan makanan, konsep pemesanan, dan pengalaman pelanggan.",
+            "image": {
+              "src": "/smart-food/process5-receiving.png",
+              "alt": "Visual sistem Smart Food",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.smart-food",
+              "mobile": {
+                "src": "/smart-food/mobile/process5-receiving.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-food/thumbnail/process5-receiving.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-food/desktop/process5-receiving.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Makanan",
+              "Platform"
+            ],
+            "cta": "Jelajahi Smart Food",
+            "href": "/smart-food/"
+          },
+          {
+            "category": "AI Luxury",
+            "title": "Proyek AI Luxury",
+            "description": "Lapisan terfokus untuk real estat mewah, narasi destinasi, dan konsep lifestyle masa depan.",
+            "image": {
+              "src": "/images/ai-luxury/hero-ai-luxury-real-estate-platform.png",
+              "alt": "Proyek AI Luxury",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.ai-luxury",
+              "mobile": {
+                "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Luxury",
+              "Proyek"
+            ],
+            "cta": "Lihat Luxury",
+            "href": "/luxury/"
+          },
+          {
+            "category": "Teknologi",
+            "title": "Platform Teknologi",
+            "description": "Ruang praktis untuk perangkat lunak, AI, cloud, dan kapabilitas rekayasa platform.",
+            "image": {
+              "src": "/images/features/morning-sky-optimize.webp",
+              "alt": "Visual platform teknologi",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.technology",
+              "mobile": {
+                "src": "/images/features/mobile/morning-sky-optimize.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images/features/thumbnail/morning-sky-optimize.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images/features/desktop/morning-sky-optimize.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "AI",
+              "Rekayasa"
+            ],
+            "cta": "Lihat Teknologi",
+            "href": "/technology/"
+          },
+          {
+            "category": "Gaya Busana",
+            "title": "Arah Fashion, Pakaian, dan Busana",
+            "description": "Kanal lifestyle ringan untuk identitas visual, konsep busana, dan cerita commerce masa depan.",
+            "image": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+              "alt": "Visual gaya dan busana",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.phase-1.style",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Gaya",
+              "Lifestyle"
+            ],
+            "cta": "Lihat Style",
+            "href": "/style/"
+          }
+        ]
+      },
+      {
+        "id": "outfit",
+        "eyebrow": "Style dan Busana",
+        "title": "Arah Fashion, Pakaian, Busana",
+        "layout": "grid",
+        "cards": [
+          {
+            "category": "Wanita",
+            "title": "Busana Wanita",
+            "description": "Tampilan peradaban yang elegan untuk adegan lifestyle premium.",
+            "image": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+              "alt": "Konsep busana wanita",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lady",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Wanita",
+              "Luxury"
+            ],
+            "cta": "Lihat Koleksi",
+            "href": "/style/"
+          },
+          {
+            "category": "Pria",
+            "title": "Busana Pria",
+            "description": "Siluet yang rapi untuk konteks perjalanan, perkotaan, dan resor.",
+            "image": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+              "alt": "Konsep busana pria",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.gentleman",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Pria",
+              "Perjalanan"
+            ],
+            "cta": "Lihat Koleksi",
+            "href": "/style/"
+          },
+          {
+            "category": "Peradaban",
+            "title": "Pakaian Peradaban",
+            "description": "Cerita pakaian yang terhubung dengan zona, ritual, dan commerce masa depan.",
+            "image": {
+              "src": "/images-platform/styles/02-coastal-resort-floral.png",
+              "alt": "Konsep pakaian peradaban",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.civilization",
+              "mobile": {
+                "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Zona",
+              "Chorn DNA"
+            ],
+            "cta": "Buka Kanal",
+            "href": "/style/"
+          },
+          {
+            "category": "Lanna",
+            "title": "Lanna Future Luxury",
+            "description": "Keanggunan wilayah utara diterjemahkan menjadi lifestyle masa depan yang premium.",
+            "image": {
+              "src": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway.png",
+              "alt": "Konsep Lanna Future Luxury",
+              "width": 1200,
+              "height": 900,
+              "aspectRatio": "4:3",
+              "positionKey": "home.sections.outfit.lanna",
+              "mobile": {
+                "src": "/smart-mobility/chiang-mai/mobile/vision-smart-mobility-northern-gateway.webp",
+                "width": 768,
+                "height": 576,
+                "quality": 78
+              },
+              "thumbnail": {
+                "src": "/smart-mobility/chiang-mai/thumbnail/vision-smart-mobility-northern-gateway.webp",
+                "width": 480,
+                "height": 360,
+                "quality": 72
+              },
+              "desktop": {
+                "src": "/smart-mobility/chiang-mai/desktop/vision-smart-mobility-northern-gateway.webp",
+                "width": 1200,
+                "height": 900,
+                "quality": 82
+              }
+            },
+            "tags": [
+              "Lanna",
+              "Masa Depan"
+            ],
+            "cta": "Jelajahi Look",
+            "href": "/smart-mobility/"
+          }
+        ]
+      }
+    ],
+    "circular": {
+      "title": "Sistem Simulasi Transportasi",
+      "span": "Sistem Simulasi Transportasi",
+      "description": "Sepasang muda kembali pulang melalui lembah pegunungan menggunakan MTS, bergerak dari stasiun alpine yang tenang menuju kehangatan rumah mereka di lereng bukit. Perjalanan mereka tidak berakhir di satu tujuan: sistem mobilitas sirkular yang sama dapat membawa mereka kembali ke stasiun pesisir, dek laut saat matahari terbit, kawasan marina, lembah lavender, dan gerbang pegunungan, menghubungkan rumah, perjalanan, istirahat, dan peradaban masa depan melalui satu jaringan MTS cerdas.",
+      "categories": [
+        {
+          "title": "Bersantai di Sofa Rebah",
+          "image": {
+            "src": "/images-platform/story/sofa-couple/02-relaxing-on-the-reclining-sofa.png",
+            "alt": "Sepasang kekasih bersantai di dekat jendela besar dengan pemandangan pegunungan.",
+            "width": 1024,
+            "height": 1536,
+            "aspectRatio": "2:3",
+            "positionKey": "home.circular.sofa",
+            "mobile": {
+              "src": "/images-platform/story/sofa-couple/mobile/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 720,
+              "height": 1080,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/story/sofa-couple/thumbnail/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 480,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/story/sofa-couple/desktop/02-relaxing-on-the-reclining-sofa.webp",
+              "width": 1024,
+              "height": 1536,
+              "quality": 82
+            }
+          },
+          "link": "/story"
+        },
+        {
+          "title": "Stasiun MTS Lavender Valley",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-valley2-lavender-valley.png",
+            "alt": "Stasiun MTS Lavender Valley",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.valley",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-valley2-lavender-valley.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-valley2-lavender-valley.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-valley2-lavender-valley.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-valley-2-lavender-valley"
+        },
+        {
+          "title": "Stasiun MTS Coral Bay Marina",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal2-coral-bay-marina.png",
+            "alt": "Stasiun MTS Coral Bay Marina",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-marina",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal2-coral-bay-marina.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal2-coral-bay-marina.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal2-coral-bay-marina.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-2-coral-bay-marina"
+        },
+        {
+          "title": "Stasiun MTS Sunrise Ocean Deck",
+          "image": {
+            "src": "/images-platform/smart-mobility/mts-coastal6-sunrise-ocean-deck.png",
+            "alt": "Stasiun MTS Sunrise Ocean Deck",
+            "width": 1536,
+            "height": 1024,
+            "aspectRatio": "3:2",
+            "positionKey": "home.circular.coastal-sunrise",
+            "mobile": {
+              "src": "/images-platform/smart-mobility/mobile/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 768,
+              "height": 512,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/smart-mobility/thumbnail/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 480,
+              "height": 320,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/smart-mobility/desktop/mts-coastal6-sunrise-ocean-deck.webp",
+              "width": 1200,
+              "height": 800,
+              "quality": 82
+            }
+          },
+          "link": "/smart-mobility/mts/mts-coastal-6-sunrise-ocean-deck"
+        }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "Tentang Chorn Planet",
+    "title": "Platform Peradaban Masa Depan",
+    "description": "Chorn Planet menghubungkan Smart Mobility, Smart Food, AI Luxury, Style, dan teknologi praktis ke dalam platform yang terus berkembang untuk mengeksplorasi kehidupan siap masa depan, lingkungan terhubung, dan pengalaman digital yang berpusat pada manusia.",
+    "image": {
+      "src": "/images/about/about-chorn-image-1200.webp",
+      "alt": "Visual tentang platform Chorn Planet",
+      "width": 1600,
+      "height": 1000,
+      "aspectRatio": "8:5",
+      "positionKey": "about.hero",
+      "mobile": {
+        "src": "/images/about/mobile/about-chorn-image-1200.webp",
+        "width": 800,
+        "height": 500,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/images/about/thumbnail/about-chorn-image-1200.webp",
+        "width": 512,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/images/about/desktop/about-chorn-image-1200.webp",
+        "width": 1600,
+        "height": 1000,
+        "quality": 82
+      }
+    },
+    "blocks": [
+      {
+        "title": "Platform AI Native",
+        "body": "Chorn Planet adalah platform AI-native yang menyatukan AI Smart Food, AI POS, AI Luxury, Style, dan teknologi praktis ke dalam satu ekosistem digital yang terus berkembang. Platform ini terhubung dengan kapabilitas sistem inti, termasuk ERP, MES, Logic Controller, dan Physical Layer.",
+        "tags": [
+          "AI Native",
+          "ERP",
+          "MES",
+          "Logic Controller",
+          "Physical Layer",
+          "Workflow"
+        ],
+        "link": "/technology/"
+      },
+      {
+        "title": "AI Smart Mobility",
+        "body": "AI Smart Mobility mengeksplorasi transportasi cerdas, infrastruktur terhubung, dan pengalaman mobilitas masa depan melalui Chorn Planet MTS Network. Sistem ini berperan sebagai sirkulasi yang menghubungkan destinasi, pariwisata, lingkungan lifestyle, dan konsep peradaban siap masa depan.",
+        "tags": [
+          "MTS Network",
+          "Infrastruktur Cerdas",
+          "Mobilitas Masa Depan"
+        ],
+        "link": "/smart-mobility/"
+      },
+      {
+        "title": "Sistem Smart City",
+        "body": "Smart City Systems mengeksplorasi bagaimana lingkungan cerdas, infrastruktur terhubung, koordinasi mobilitas, dan pengalaman perkotaan yang berpusat pada manusia dapat berkembang bersama. Platform ini mengamati bagaimana kota masa depan dapat menyeimbangkan teknologi, pergerakan, kenyamanan, keberlanjutan, dan kehidupan sehari-hari dalam ekosistem peradaban yang terhubung.",
+        "tags": [
+          "Kota Berpusat pada Manusia",
+          "Infrastruktur Terhubung",
+          "Kecerdasan Perkotaan"
+        ],
+        "link": "/smart-city/"
+      },
+      {
+        "title": "AI Smart Food",
+        "body": "Smart Food adalah lapisan praktis untuk kehidupan sehari-hari. Ini memberi Chorn Planet titik awal yang berguna seputar penemuan makanan, informasi menu, pengalaman pelanggan, konsep pemesanan, dan alur layanan makanan masa depan berbantuan AI.",
+        "tags": [
+          "Pengalaman Makanan",
+          "Konsep Pemesanan",
+          "Kegunaan Harian"
+        ],
+        "link": "/smart-food/"
+      },
+      {
+        "title": "AI Luxury",
+        "body": "AI Luxury adalah lapisan proyek premium untuk narasi properti, destinasi, dan lifestyle. Ini membantu mengubah proyek bernilai tinggi menjadi cerita yang lebih jelas, sistem visual yang lebih kuat, dan konten platform siap investor.",
+        "tags": [
+          "Proyek Premium",
+          "Cerita Destinasi",
+          "Siap Investor"
+        ],
+        "link": "/luxury/"
+      },
+      {
+        "title": "Arah Style dan Busana",
+        "body": "Style memberi platform lapisan lifestyle visual. Konsep busana menjadi adegan, cerita, dan arah produk di bidang perjalanan, budaya, soft luxury, dan commerce masa depan.",
+        "tags": [
+          "Graceful Style",
+          "Cerita Busana",
+          "Commerce Masa Depan"
+        ],
+        "link": "/style/"
+      }
+    ]
+  },
+  "channels": {}
+}

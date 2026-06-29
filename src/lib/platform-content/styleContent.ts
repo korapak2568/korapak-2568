@@ -1,29 +1,28 @@
 import type { Metadata } from "next";
-import platformStyleEnSeed from "@/data/style/en.seed.json";
-import platformStyleThSeed from "@/data/style/th.seed.json";
+import { getLocalizedAlternates } from "@/lib/metadata/alternates";
+import platformStyleEnSeed from "@/data/style/en.json";
+import platformStyleThSeed from "@/data/style/th.json";
+import platformStyleDeSeed from "@/data/style/de.json";
+import platformStyleFrSeed from "@/data/style/fr.json";
+import platformStyleIdSeed from "@/data/style/id.json";
+import platformStyleJaSeed from "@/data/style/ja.json";
+import platformStyleKoSeed from "@/data/style/ko.json";
+import platformStyleRuSeed from "@/data/style/ru.json";
+import platformStyleViSeed from "@/data/style/vi.json";
+import platformStyleZhSeed from "@/data/style/zh.json";
 import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
+import { DEFAULT_LOCALE, LOCALES, type SiteLocale } from "@/lib/SiteUrlLocales";
 
 type PlatformMeta = {
   title: string;
   description: string;
 };
 
-export type PlatformOutfitLocale =
-  | "da"
-  | "de"
-  | "en"
-  | "fi"
-  | "fr"
-  | "ja"
-  | "ko"
-  | "nl"
-  | "th"
-  | "zh";
+export type PlatformOutfitLocale = SiteLocale;
 
-export type PlatformOutfitLocalizedText = string | {
-  en: string;
-  th: string;
-};
+export type PlatformOutfitLocalizedText =
+  | string
+  | (Partial<Record<PlatformOutfitLocale, string>> & { en: string });
 
 export type PlatformOutfitHeroImage = {
   slot: "primary" | "secondary" | "tertiary";
@@ -52,7 +51,7 @@ export type PlatformOutfitImage = {
 };
 
 export type PlatformOutfitDetailImage = {
-  imageGenerationSize: PlatformOutfitImageGenerationSize;
+  imageGenerationSize?: PlatformOutfitImageGenerationSize;
   image: PlatformOutfitImage;
 };
 
@@ -61,7 +60,6 @@ export type PlatformOutfitHeroContent = {
   title: string;
   description: string;
   primaryCta: string;
-  secondaryCta: string;
   imageStrategy: string;
   images: PlatformOutfitHeroImage[];
 };
@@ -73,18 +71,27 @@ export type PlatformOutfitLayoutSection = {
   description: string;
 };
 
-export type PlatformOutfitAudienceGroup = {
-  id: string;
-  title: string;
-  description: string;
+export type PlatformOutfitDetailPageContent = {
+  tagListLabel: string;
+  externalCta: string;
+  relatedLabel: string;
+  relatedTitle: string;
+  relatedCardCta: string;
+  metadataSuffix: string;
+  notFoundTitle: string;
+};
+
+export type PlatformOutfitLandingPageContent = {
+  subZoneRequiredLabel: string;
+  zoneReadyLabel: string;
 };
 
 export type PlatformOutfitTranslation = {
-  seo: PlatformMeta;
+  metadata: PlatformMeta;
   hero: PlatformOutfitHeroContent;
   layoutSections: PlatformOutfitLayoutSection[];
-  audienceGroups: PlatformOutfitAudienceGroup[];
-  zonePairingNote: string;
+  detailPage: PlatformOutfitDetailPageContent;
+  landingPage: Partial<PlatformOutfitLandingPageContent>;
   productionRules: string[];
   cta: {
     title: string;
@@ -99,23 +106,19 @@ export type PlatformOutfitSet = {
   title: string;
   audience: string;
   image: PlatformOutfitImage;
-  imageGenerationSize: PlatformOutfitImageGenerationSize;
+  imageGenerationSize?: PlatformOutfitImageGenerationSize;
   images: PlatformOutfitDetailImage[];
   story: string;
   tags: string[];
   tiktok_url: string;
   visualSummary: string;
-  zoneCandidates: string[];
-  zoneDisplay: string[];
-  subZoneRequired: boolean;
+  zoneCandidates?: string[];
+  zoneDisplay?: string[];
+  subZoneRequired?: boolean;
 };
 
 export type PlatformOutfitSeed = {
   locale: PlatformOutfitLocale;
-  localeStrategy: {
-    defaultLocale: PlatformOutfitLocale;
-    supportedLocales: PlatformOutfitLocale[];
-  };
   content: PlatformOutfitTranslation;
   outfitSets: PlatformOutfitSet[];
 };
@@ -123,32 +126,127 @@ export type PlatformOutfitSeed = {
 export type ResolvedPlatformOutfitContent = PlatformOutfitTranslation & {
   locale: PlatformOutfitLocale;
   outfitSets: PlatformOutfitSet[];
-  localeStrategy: PlatformOutfitSeed["localeStrategy"];
 };
 
 const styleSeeds = {
   en: platformStyleEnSeed,
   th: platformStyleThSeed,
-} as Record<string, PlatformOutfitSeed>;
-const defaultStyleSeed = styleSeeds.en;
+  de: platformStyleDeSeed,
+  fr: platformStyleFrSeed,
+  id: platformStyleIdSeed,
+  ja: platformStyleJaSeed,
+  ko: platformStyleKoSeed,
+  ru: platformStyleRuSeed,
+  vi: platformStyleViSeed,
+  zh: platformStyleZhSeed,
+} as unknown as Partial<Record<PlatformOutfitLocale, PlatformOutfitSeed>>;
+const defaultStyleSeed = styleSeeds.en as PlatformOutfitSeed;
 const platformOutfitOgImage =
   "/images-platform/styles/01-rice-valley-couple-lanna.png";
 
-export const PLATFORM_OUTFIT_SUPPORTED_LOCALES =
-  defaultStyleSeed.localeStrategy.supportedLocales;
+function getPlatformOutfitImageDimensions(
+  outfitSet: Pick<PlatformOutfitSet, "image" | "imageGenerationSize">,
+): Pick<PlatformOutfitImageGenerationSize, "width" | "height"> {
+  const dimensions =
+    outfitSet.imageGenerationSize ??
+    outfitSet.image.desktop ??
+    outfitSet.image.thumbnail ??
+    outfitSet.image.mobile;
+
+  return {
+    width: dimensions?.width ?? 1600,
+    height: dimensions?.height ?? 1000,
+  };
+}
+
+function resolvePlatformOutfitContentSeed(
+  seed: PlatformOutfitSeed,
+): PlatformOutfitTranslation {
+  const defaultContent = defaultStyleSeed.content;
+  const content = seed.content;
+
+  return {
+    ...defaultContent,
+    ...content,
+    metadata: {
+      ...defaultContent.metadata,
+      ...content.metadata,
+    },
+    hero: {
+      ...defaultContent.hero,
+      ...content.hero,
+      images: content.hero.images?.length
+        ? content.hero.images
+        : defaultContent.hero.images,
+    },
+    layoutSections: content.layoutSections?.length
+      ? content.layoutSections
+      : defaultContent.layoutSections,
+    detailPage: {
+      ...defaultContent.detailPage,
+      ...content.detailPage,
+    },
+    landingPage: {
+      ...defaultContent.landingPage,
+      ...content.landingPage,
+    },
+    productionRules: content.productionRules?.length
+      ? content.productionRules
+      : defaultContent.productionRules,
+    cta: {
+      ...defaultContent.cta,
+      ...content.cta,
+    },
+  };
+}
+
+function resolvePlatformOutfitDetailImages(
+  outfitSet: PlatformOutfitSet,
+  defaultOutfitSet?: PlatformOutfitSet,
+): PlatformOutfitDetailImage[] {
+  return outfitSet.images.map((detailImage, index) => {
+    const defaultDetailImage = defaultOutfitSet?.images[index];
+
+    return {
+      ...defaultDetailImage,
+      ...detailImage,
+      image: {
+        ...defaultDetailImage?.image,
+        ...detailImage.image,
+      },
+    } as PlatformOutfitDetailImage;
+  });
+}
+
+function resolvePlatformOutfitSet(
+  outfitSet: PlatformOutfitSet,
+): PlatformOutfitSet {
+  const defaultOutfitSet = defaultStyleSeed.outfitSets.find(
+    (defaultSet) => defaultSet.id === outfitSet.id,
+  );
+
+  return {
+    ...defaultOutfitSet,
+    ...outfitSet,
+    image: {
+      ...defaultOutfitSet?.image,
+      ...outfitSet.image,
+    },
+    images: resolvePlatformOutfitDetailImages(outfitSet, defaultOutfitSet),
+  } as PlatformOutfitSet;
+}
+export const PLATFORM_OUTFIT_SUPPORTED_LOCALES = LOCALES;
 
 export function getPlatformOutfitMetadata(locale?: string | null): Metadata {
   const content = getPlatformOutfitContent(locale);
 
   return {
-    title: content.seo.title,
-    description: content.seo.description,
-    alternates: {
-      canonical: "/style/",
-    },
+    title: content.metadata.title,
+    description: content.metadata.description,
+    alternates: getLocalizedAlternates("/style/"),
     openGraph: {
-      title: content.seo.title,
-      description: content.seo.description,
+      title: content.metadata.title,
+      description: content.metadata.description,
       type: "website",
       images: [
         {
@@ -161,8 +259,8 @@ export function getPlatformOutfitMetadata(locale?: string | null): Metadata {
     },
     twitter: {
       card: "summary_large_image",
-      title: content.seo.title,
-      description: content.seo.description,
+      title: content.metadata.title,
+      description: content.metadata.description,
       images: [platformOutfitOgImage],
     },
   };
@@ -175,24 +273,24 @@ export function getPlatformOutfitDetailMetadata({
   locale?: string | null;
   slug: string;
 }): Metadata {
+  const content = getPlatformOutfitContent(locale);
   const outfitSet = getPlatformOutfitSetById(slug, locale);
 
   if (!outfitSet) {
     return {
-      title: "Style outfit not found",
+      title: content.detailPage.notFoundTitle,
     };
   }
 
   const title = getPlatformOutfitLocalizedText(outfitSet.title, locale);
   const description = getPlatformOutfitLocalizedText(outfitSet.story, locale);
   const ogImageOutfitSet = getPlatformOutfitSetById(slug, "en") ?? outfitSet;
+  const ogImageDimensions = getPlatformOutfitImageDimensions(ogImageOutfitSet);
 
   return {
-    title: `${title} | Chorn Planet Style`,
+    title: `${title} | ${content.detailPage.metadataSuffix}`,
     description,
-    alternates: {
-      canonical: `/style/${outfitSet.id}/`,
-    },
+    alternates: getLocalizedAlternates(`/style/${outfitSet.id}/`),
     openGraph: {
       title,
       description,
@@ -200,8 +298,8 @@ export function getPlatformOutfitDetailMetadata({
       images: [
         {
           url: ogImageOutfitSet.image.src,
-          width: ogImageOutfitSet.imageGenerationSize.width,
-          height: ogImageOutfitSet.imageGenerationSize.height,
+          width: ogImageDimensions.width,
+          height: ogImageDimensions.height,
           alt: ogImageOutfitSet.image.alt,
         },
       ],
@@ -226,11 +324,11 @@ export function isPlatformOutfitLocale(
 export function resolvePlatformOutfitLocale(
   locale?: string | null,
 ): PlatformOutfitLocale {
-  if (locale && isPlatformOutfitLocale(locale) && styleSeeds[locale]) {
-    return locale as PlatformOutfitLocale;
+  if (locale && isPlatformOutfitLocale(locale)) {
+    return locale;
   }
 
-  return defaultStyleSeed.localeStrategy.defaultLocale;
+  return DEFAULT_LOCALE;
 }
 
 function getPlatformOutfitSeed(locale?: string | null): PlatformOutfitSeed {
@@ -242,37 +340,35 @@ export function getPlatformOutfitContent(
 ): ResolvedPlatformOutfitContent {
   const resolvedLocale = resolvePlatformOutfitLocale(locale);
   const seed = getPlatformOutfitSeed(resolvedLocale);
+  const content = resolvePlatformOutfitContentSeed(seed);
 
   return {
-    ...seed.content,
+    ...content,
     locale: resolvedLocale,
     outfitSets: getPlatformOutfitSets(resolvedLocale),
-    localeStrategy: defaultStyleSeed.localeStrategy,
   };
 }
 
 export function getPlatformOutfitSets(
   locale?: string | null,
 ): PlatformOutfitSet[] {
-  return [...getPlatformOutfitSeed(locale).outfitSets].sort(
-    (first, second) => first.order - second.order,
-  );
+  return getPlatformOutfitSeed(locale).outfitSets
+    .map(resolvePlatformOutfitSet)
+    .sort((first, second) => first.order - second.order);
 }
 
 export function getPlatformOutfitSetById(
   id: string,
   locale?: string | null,
 ): PlatformOutfitSet | undefined {
-  return getPlatformOutfitSeed(locale).outfitSets.find(
-    (outfitSet) => outfitSet.id === id,
-  );
+  return getPlatformOutfitSets(locale).find((outfitSet) => outfitSet.id === id);
 }
 
 export function getPlatformOutfitSetsByZone(
   zoneFileName: string,
 ): PlatformOutfitSet[] {
   return getPlatformOutfitSets().filter((outfitSet) =>
-    outfitSet.zoneCandidates.includes(zoneFileName),
+    outfitSet.zoneCandidates?.includes(zoneFileName) ?? false,
   );
 }
 
@@ -284,7 +380,8 @@ export function getPlatformOutfitLocalizedText(
     return text;
   }
 
-  return resolvePlatformOutfitLocale(locale) === "th" ? text.th : text.en;
+  const resolvedLocale = resolvePlatformOutfitLocale(locale);
+  return text[resolvedLocale] ?? text.en;
 }
 
 export function getPlatformOutfitExampleImagePath(

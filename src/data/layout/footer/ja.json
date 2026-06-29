@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet は、チェンマイ発のデジタル製品、AI サービス、スマートシティ構想、プラットフォームエンジニアリング能力を世界のオーディエンスに届けます。",
+  "social": {
+    "title": "ソーシャル",
+    "items": []
+  },
+  "important": {
+    "title": "重要リンク",
+    "items": [
+      {
+        "label": "概要",
+        "link": "/about/"
+      },
+      {
+        "label": "テクノロジー",
+        "link": "/technology/"
+      },
+      {
+        "label": "お問い合わせ",
+        "link": "/contact/"
+      },
+      {
+        "label": "利用規約",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "プライバシーポリシー",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "職場ポリシー",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "プロジェクト",
+    "items": [
+      {
+        "label": "ラグジュアリープロジェクト",
+        "link": "/luxury/"
+      },
+      {
+        "label": "スマートフードシステム",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "グレースフルスタイル",
+        "link": "/style/"
+      },
+      {
+        "label": "未来のチェンマイ",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "プラットフォーム",
+    "items": [
+      {
+        "label": "未来文明",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "ラグジュアリー",
+        "link": "/luxury/"
+      },
+      {
+        "label": "スマートフード",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "スマートシティ",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "スマートモビリティ",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "ストーリー",
+        "link": "/story/"
+      },
+      {
+        "label": "スタイル",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "つながる",
+    "items": [
+      {
+        "label": "お問い合わせ",
+        "link": "/contact",
+        "ariaLabel": "Chorn Planet お問い合わせページ"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "LinkedIn の Chorn Planet"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "GitHub の Chorn Planet"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Facebook の Chorn Planet"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "X の Chorn Planet"
+      }
+    ]
+  }
+}

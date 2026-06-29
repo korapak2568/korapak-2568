@@ -7,6 +7,7 @@ import type {
 import {
   getFutureRoadmapEraSummaries,
   getFutureRoadmapLayer,
+  getFutureRoadmapManifest,
 } from "@/lib/platform-content/futureRoadmapContent";
 import {
   getPlatformImageAlt,
@@ -22,7 +23,8 @@ function RelatedFutureSignalCard({
   item: FutureRoadmapItem;
   lang: string;
 }) {
-  const layer = getFutureRoadmapLayer(item.layerId);
+  const manifest = getFutureRoadmapManifest(lang);
+  const layer = getFutureRoadmapLayer(item.layerId, lang);
 
   return (
     <article className="platform-outfit-card platform-mts-card future-civilization-related-mts-card">
@@ -44,7 +46,7 @@ function RelatedFutureSignalCard({
           <h3>{item.shortTitle}</h3>
           <p>{item.description}</p>
           <div className="platform-outfit-card__meta">
-            <strong>View Signal</strong>
+            <strong>{manifest.ui.actions.viewSignal}</strong>
             <small>{layer?.title ?? item.layerId}</small>
           </div>
         </div>
@@ -60,15 +62,25 @@ export default function FutureCivilizationItemPage({
   lang: string;
   detail: FutureRoadmapItemDetail;
 }) {
+  const manifest = getFutureRoadmapManifest(lang);
   const { era, item, relatedItems } = detail;
-  const layer = getFutureRoadmapLayer(item.layerId);
-  const eras = getFutureRoadmapEraSummaries();
+  const layer = getFutureRoadmapLayer(item.layerId, lang);
+  const eras = getFutureRoadmapEraSummaries(lang);
+  const detailLabels = manifest.ui.itemPage.detail;
+  const timeframeLabel = `${item.timeframe.startYear} - ${item.timeframe.endYear}`;
 
   return (
     <main className="platform-page platform-mts-page platform-mts-detail-page future-civilization-page future-civilization-item-page">
       <section className="platform-outfit-detail-hero platform-mts-hero">
         <div className="platform-outfit-detail-hero__copy">
           <div className="platform-mts-hero__actions">
+            <Link
+              className="platform-mts-hero__action"
+              href={`/${lang}/future-civilization/`}
+            >
+              {manifest.ui.navigation.indexLabel}
+            </Link>
+
             {eras.map((roadmapEra) => {
               const isActive = roadmapEra.slug === era.slug;
 
@@ -91,8 +103,50 @@ export default function FutureCivilizationItemPage({
 
           <span className="platform-eyebrow">{layer?.title ?? item.layerId}</span>
           <div className="platform-mts-station-summary future-civilization-item-summary">
-            <strong>{item.title}</strong>
+            <strong>{item.shortTitle}</strong>
             <p>{item.description}</p>
+            <p className="future-civilization-item-summary__impact">
+              {item.civilizationImpact}
+            </p>
+          </div>
+
+          <dl className="future-civilization-item-summary__meta">
+            <div>
+              <dt>{detailLabels.timeframeLabel}</dt>
+              <dd>{timeframeLabel}</dd>
+            </div>
+            <div>
+              <dt>{detailLabels.layerLabel}</dt>
+              <dd>{layer?.title ?? item.layerId}</dd>
+            </div>
+            <div>
+              <dt>{detailLabels.impactLabel}</dt>
+              <dd>{item.impactLevel.replaceAll("-", " ")}</dd>
+            </div>
+            <div>
+              <dt>{detailLabels.maturityLabel}</dt>
+              <dd>{item.maturity.replaceAll("-", " ")}</dd>
+            </div>
+          </dl>
+
+          <div className="future-civilization-item-intelligence-grid">
+            <section className="future-civilization-item-intelligence-panel">
+              <h2>{detailLabels.signalsTitle}</h2>
+              <ul>
+                {item.signals.map((signal, index) => (
+                  <li key={`${item.id}-signal-${index}`}>{signal}</li>
+                ))}
+              </ul>
+            </section>
+
+            <section className="future-civilization-item-intelligence-panel">
+              <h2>{detailLabels.implicationsTitle}</h2>
+              <ul>
+                {item.implications.map((implication, index) => (
+                  <li key={`${item.id}-implication-${index}`}>{implication}</li>
+                ))}
+              </ul>
+            </section>
           </div>
         </div>
 
@@ -110,11 +164,10 @@ export default function FutureCivilizationItemPage({
 
       <section className="platform-shell platform-outfit-detail-related future-civilization-item-related">
         <div className="platform-section__header">
-          <span>More From {era.title}</span>
-          <h2>Continue through the civilization signal set.</h2>
+          <span>{manifest.ui.itemPage.relatedSignals.eyebrowPrefix} {era.title}</span>
+          <h2>{manifest.ui.itemPage.relatedSignals.title}</h2>
           <p>
-            Move across the {era.title} roadmap and open another future
-            civilization node directly from this page.
+            {manifest.ui.itemPage.relatedSignals.descriptionPrefix} {era.title} {manifest.ui.itemPage.relatedSignals.descriptionSuffix}
           </p>
         </div>
         <div className="platform-outfit-detail-related__grid">

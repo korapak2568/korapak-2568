@@ -1,10 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import FutureCivilizationEraPage from "@/components/FutureCivilization/FutureCivilizationEraPage";
-import {
-  getFutureCivilizationEraMetadata,
-  getFutureRoadmapEraBySlug,
-} from "@/lib/platform-content/futureRoadmapContent";
+import { getFutureCivilizationEraMetadata } from "@/lib/metadata/futureCivilizationMetadata";
+import { getFutureRoadmapEraBySlug } from "@/lib/platform-content/futureRoadmapContent";
 
 type PageParams = {
   params: Promise<{
@@ -18,14 +16,14 @@ export const dynamic = "force-dynamic";
 export async function generateMetadata({
   params,
 }: PageParams): Promise<Metadata> {
-  const { eraSlug } = await params;
+  const { locale, eraSlug } = await params;
 
-  return getFutureCivilizationEraMetadata(eraSlug);
+  return getFutureCivilizationEraMetadata(eraSlug, locale);
 }
 
 export default async function Page({ params }: PageParams) {
   const { locale, eraSlug } = await params;
-  const roadmapEra = getFutureRoadmapEraBySlug(eraSlug);
+  const roadmapEra = getFutureRoadmapEraBySlug(eraSlug, locale);
 
   if (!roadmapEra) {
     notFound();

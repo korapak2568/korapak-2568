@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet menghadirkan produk digital, layanan AI, konsep kota cerdas, dan kemampuan rekayasa platform dari Chiang Mai untuk audiens global.",
+  "social": {
+    "title": "Sosial",
+    "items": []
+  },
+  "important": {
+    "title": "Tautan Penting",
+    "items": [
+      {
+        "label": "Tentang",
+        "link": "/about/"
+      },
+      {
+        "label": "Teknologi",
+        "link": "/technology/"
+      },
+      {
+        "label": "Kontak",
+        "link": "/contact/"
+      },
+      {
+        "label": "Ketentuan Layanan",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "Kebijakan Privasi",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "Kebijakan Tempat Kerja",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "Proyek",
+    "items": [
+      {
+        "label": "Proyek Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Sistem Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Graceful Style",
+        "link": "/style/"
+      },
+      {
+        "label": "Masa Depan Chiang Mai",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "Platform",
+    "items": [
+      {
+        "label": "Peradaban Masa Depan",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Kota Cerdas",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Mobilitas Cerdas",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Cerita",
+        "link": "/story/"
+      },
+      {
+        "label": "Gaya",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "Terhubung",
+    "items": [
+      {
+        "label": "Kontak",
+        "link": "/contact",
+        "ariaLabel": "Halaman Kontak Chorn Planet"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "Chorn Planet di LinkedIn"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "Chorn Planet di GitHub"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Chorn Planet di Facebook"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "Chorn Planet di X"
+      }
+    ]
+  }
+}

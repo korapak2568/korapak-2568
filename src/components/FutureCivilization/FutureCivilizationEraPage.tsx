@@ -4,6 +4,7 @@ import type { FutureRoadmapEra } from "@/lib/platform-content/futureRoadmapConte
 import {
   getFutureRoadmapEraSummaries,
   getFutureRoadmapLayer,
+  getFutureRoadmapManifest,
 } from "@/lib/platform-content/futureRoadmapContent";
 import {
   getPlatformImageAlt,
@@ -17,9 +18,10 @@ export default function FutureCivilizationEraPage({
   lang: string;
   roadmapEra: FutureRoadmapEra;
 }) {
+  const manifest = getFutureRoadmapManifest(lang);
   const { era, items } = roadmapEra;
   const heroItem = items[0];
-  const eras = getFutureRoadmapEraSummaries();
+  const eras = getFutureRoadmapEraSummaries(lang);
   const otherEras = eras.filter((summary) => summary.slug !== era.slug);
 
   return (
@@ -35,9 +37,9 @@ export default function FutureCivilizationEraPage({
           />
         </div>
         <div className="future-civilization-era-hero__copy">
-          <Link href={`/${lang}/future-civilization/`}>Future Civilization</Link>
+          <Link href={`/${lang}/future-civilization/`}>{manifest.ui.navigation.indexLabel}</Link>
           <span>
-            Era {String(era.order).padStart(2, "0")} /{" "}
+            {manifest.ui.navigation.eraLabel} {String(era.order).padStart(2, "0")} /{" "}
             {era.timeframe.startYear}-{era.timeframe.endYear}
           </span>
           <h1>{era.title}</h1>
@@ -47,6 +49,13 @@ export default function FutureCivilizationEraPage({
 
       <section className="platform-shell platform-outfit-detail-hero__copy future-civilization-item-summary-panel future-civilization-era-intro">
         <div className="platform-mts-hero__actions">
+          <Link
+            className="platform-mts-hero__action"
+            href={`/${lang}/future-civilization/`}
+          >
+            {manifest.ui.navigation.indexLabel}
+          </Link>
+
           {eras.map((roadmapEra) => {
             const isActive = roadmapEra.slug === era.slug;
 
@@ -70,11 +79,7 @@ export default function FutureCivilizationEraPage({
         <span className="platform-eyebrow">{era.subtitle}</span>
         <div className="platform-mts-station-summary future-civilization-item-summary">
           <strong>{heroItem.civilizationImpact}</strong>
-          <p>
-            The era is organized as practical signals: what changes, when it
-            could emerge, what layer it belongs to, and what consequences it
-            creates for civilization design.
-          </p>
+          <p>{manifest.ui.eraPage.summaryDescription}</p>
         </div>
         <div className="future-civilization-item-summary__meta">
           <span>
@@ -87,7 +92,7 @@ export default function FutureCivilizationEraPage({
 
       <section className="platform-shell future-civilization-signal-grid">
         {items.map((item, index) => {
-          const layer = getFutureRoadmapLayer(item.layerId);
+          const layer = getFutureRoadmapLayer(item.layerId, lang);
 
           return (
             <Link
@@ -125,16 +130,16 @@ export default function FutureCivilizationEraPage({
 
       <section className="platform-shell future-civilization-more-eras">
         <div className="platform-section__header">
-          <span>Continue the Timeline</span>
-          <h2>Open another civilization era.</h2>
+          <span>{manifest.ui.eraPage.continueTimeline.eyebrow}</span>
+          <h2>{manifest.ui.eraPage.continueTimeline.title}</h2>
         </div>
         <div className="future-civilization-more-eras__grid">
-          {otherEras.slice(0, 4).map((relatedEra) => (
+          {otherEras.map((relatedEra) => (
             <Link
               key={relatedEra.id}
               href={`/${lang}/future-civilization/${relatedEra.slug}/`}
             >
-              <span>Era {String(relatedEra.order).padStart(2, "0")}</span>
+              <span>{manifest.ui.navigation.eraLabel} {String(relatedEra.order).padStart(2, "0")}</span>
               <strong>{relatedEra.title}</strong>
             </Link>
           ))}

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getLocalizedAlternates } from "@/lib/metadata/alternates";
 import Image from "next/image";
 import Link from "next/link";
 import PlatformStorySection from "@/components/Story/PlatformStorySection";
@@ -67,9 +68,7 @@ export async function generateMetadata({
   return {
     title,
     description,
-    alternates: {
-      canonical: `/${locale}/story/`,
-    },
+    alternates: getLocalizedAlternates("/story/"),
     openGraph: {
       title,
       description,

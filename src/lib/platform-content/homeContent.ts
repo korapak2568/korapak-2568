@@ -1,11 +1,26 @@
-import type { Metadata } from "next";
-import platformHomeEnSeed from "@/data/home/en.home.json";
-import platformHomeThSeed from "@/data/home/th.home.json";
+import platformHomeDeSeed from "@/data/home/de.json";
+import platformHomeEnSeed from "@/data/home/en.json";
+import platformHomeFrSeed from "@/data/home/fr.json";
+import platformHomeIdSeed from "@/data/home/id.json";
+import platformHomeJaSeed from "@/data/home/ja.json";
+import platformHomeKoSeed from "@/data/home/ko.json";
+import platformHomeRuSeed from "@/data/home/ru.json";
+import platformHomeThSeed from "@/data/home/th.json";
+import platformHomeViSeed from "@/data/home/vi.json";
+import platformHomeZhSeed from "@/data/home/zh.json";
 import type { PlatformResponsiveImageVariant } from "@/lib/platform-content/platformImageVariants";
 
 const platformContent = {
+  de: platformHomeDeSeed,
   en: platformHomeEnSeed,
+  fr: platformHomeFrSeed,
+  id: platformHomeIdSeed,
+  ja: platformHomeJaSeed,
+  ko: platformHomeKoSeed,
+  ru: platformHomeRuSeed,
   th: platformHomeThSeed,
+  vi: platformHomeViSeed,
+  zh: platformHomeZhSeed,
 };
 
 export type PlatformLocale = keyof typeof platformContent;
@@ -19,11 +34,6 @@ export type PlatformRouteKey =
   | "commerce"
   | "smart-food"
   | "luxury";
-
-export type PlatformAction = {
-  label: string;
-  href: string;
-};
 
 export type PlatformImageGenerationSize = {
   width: number;
@@ -68,22 +78,12 @@ export type PlatformSection = {
   id: string;
   eyebrow: string;
   title: string;
-  description: string;
+  description?: string;
   layout: "featured" | "grid" | "compact";
   cards: PlatformCard[];
 };
 
-export type PlatformHero = {
-  eyebrow: string;
-  title: string;
-  subtitle: string;
-  image: PlatformImage;
-  actions: PlatformAction[];
-  signals: string[];
-};
-
 export type PlatformHomeContent = {
-  hero: PlatformHero;
   sections: PlatformSection[];
   circular: PlatformCircularContent;
 };
@@ -116,34 +116,6 @@ type PlatformMeta = {
   description: string;
 };
 
-const platformHomeOgImage =
-  "/images-opengraph/images-platform/home/hero/youtube-banner-image.png";
-
-const platformOpenGraphImages: Partial<
-  Record<
-    PlatformRouteKey,
-    {
-      url: string;
-      width: number;
-      height: number;
-      alt: string;
-    }
-  >
-> = {
-  home: {
-    url: platformHomeOgImage,
-    width: 1200,
-    height: 630,
-    alt: "Chorn Planet platform homepage",
-  },
-  about: {
-    url: "/images-opengraph/about/about-og-image.jpg",
-    width: 1200,
-    height: 630,
-    alt: "Chorn Planet platform about page",
-  },
-};
-
 type PlatformContent = {
   meta: Partial<Record<PlatformRouteKey, PlatformMeta>>;
   home: PlatformHomeContent;
@@ -164,7 +136,7 @@ type PlatformContentInput = Partial<
   channels?: PlatformContent["channels"];
 };
 
-const contentByLocale = platformContent as Record<string, PlatformContentInput>;
+const contentByLocale = platformContent as unknown as Record<string, PlatformContentInput>;
 const defaultContent = contentByLocale.en as PlatformContent;
 
 export function getPlatformContent(locale: string): PlatformContent {
@@ -182,45 +154,6 @@ export function getPlatformContent(locale: string): PlatformContent {
       ...(localeContent.channels ?? {}),
     },
   } as PlatformContent;
-}
-
-export function getPlatformMetadata(
-  locale: string,
-  routeKey: PlatformRouteKey,
-): Metadata {
-  const content = getPlatformContent(locale);
-  const meta =
-    content.meta[routeKey] ??
-    defaultContent.meta[routeKey] ??
-    defaultContent.meta.home;
-  const resolvedMeta = meta ?? {
-    title: "Chorn Planet",
-    description: "Chorn Planet platform.",
-  };
-  const path = routeKey === "home" ? "/" : `/${routeKey}/`;
-  const routeImage = platformOpenGraphImages[routeKey];
-  const imageMetadata = routeImage ? { images: [routeImage] } : {};
-  const twitterImageMetadata = routeImage ? { images: [routeImage.url] } : {};
-
-  return {
-    title: resolvedMeta.title,
-    description: resolvedMeta.description,
-    alternates: {
-      canonical: path,
-    },
-    openGraph: {
-      title: resolvedMeta.title,
-      description: resolvedMeta.description,
-      type: "website",
-      ...imageMetadata,
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: resolvedMeta.title,
-      description: resolvedMeta.description,
-      ...twitterImageMetadata,
-    },
-  };
 }
 
 export function getPlatformChannelContent(

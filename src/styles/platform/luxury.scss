@@ -77,9 +77,9 @@ p.ai-luxury-eyebrow::before {
 
 .ai-luxury-signal__grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(320px, 0.88fr);
-  gap: 52px;
-  align-items: center;
+  grid-template-columns: 1fr;
+  gap: clamp(28px, 4vw, 46px);
+  align-items: stretch;
 }
 
 .ai-luxury-hero__content {
@@ -549,7 +549,6 @@ p.ai-luxury-eyebrow::before {
 .ai-luxury-layers .ai-luxury-section-heading h2 {
   color: #18120c;
   font-size: clamp(2.1rem, 3.35vw, 3.35rem);
-  max-width: 1040px;
   text-wrap: balance;
 }
 
@@ -591,7 +590,7 @@ p.ai-luxury-eyebrow::before {
 }
 
 .ai-luxury-layer-card__content {
-  min-height: 236px;
+  min-height: 150px;
 }
 
 .ai-luxury-layer-card__index {
@@ -621,8 +620,8 @@ p.ai-luxury-eyebrow::before {
 }
 
 .ai-luxury-signal__grid {
-  grid-template-columns: minmax(0, 1.18fr) minmax(360px, 0.82fr);
-  gap: clamp(32px, 4vw, 28px);
+  grid-template-columns: 1fr;
+  gap: clamp(28px, 4vw, 44px);
   align-items: stretch;
 }
 
@@ -652,7 +651,9 @@ p.ai-luxury-eyebrow::before {
 
 .ai-luxury-signal__image {
   position: relative;
-  min-height: 520px;
+  width: 100%;
+  min-height: clamp(360px, 48vw, 620px);
+  aspect-ratio: 16 / 9;
   border-color: rgba(117, 78, 32, 0.22);
   background: #eadfd0;
   box-shadow: 0 34px 96px rgba(66, 45, 23, 0.18);
@@ -679,16 +680,17 @@ p.ai-luxury-eyebrow::before {
 }
 
 .ai-luxury-signal__image img {
+  width: 100%;
   height: 100%;
-  min-height: 520px;
+  min-height: 0;
   object-fit: cover;
   object-position: center;
   filter: saturate(1.04) contrast(1.02) brightness(1.02);
 }
 
 .ai-luxury-signal__content {
-  align-self: center;
-  padding: clamp(28px, 3.2vw, 20px);
+  align-self: stretch;
+  padding: clamp(28px, 4vw, 46px);
   border: 1px solid rgba(117, 78, 32, 0.16);
   background: rgba(255, 253, 248, 0.78);
   box-shadow: 0 24px 70px rgba(66, 45, 23, 0.1);
@@ -696,6 +698,7 @@ p.ai-luxury-eyebrow::before {
 }
 
 .ai-luxury-signal__content > p {
+  max-width: 980px;
   margin: 0;
   color: #51473c;
   font-size: clamp(1.02rem, 1.18vw, 1.15rem);
@@ -705,8 +708,8 @@ p.ai-luxury-eyebrow::before {
 .ai-luxury-signal__cards {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
-  margin-top: 28px;
+  gap: clamp(16px, 2vw, 22px);
+  margin-top: clamp(24px, 3vw, 34px);
 }
 
 .ai-luxury-signal__cards article {
@@ -792,9 +795,12 @@ p.ai-luxury-eyebrow::before {
     grid-template-columns: 1fr;
   }
 
-  .ai-luxury-signal__image,
-  .ai-luxury-signal__image img {
+  .ai-luxury-signal__image {
     min-height: 430px;
+  }
+
+  .ai-luxury-signal__image img {
+    min-height: 0;
   }
 
   .ai-luxury-section-heading--center {
@@ -886,9 +892,12 @@ p.ai-luxury-eyebrow::before {
     grid-template-columns: 1fr;
   }
 
-  .ai-luxury-signal__image,
-  .ai-luxury-signal__image img {
+  .ai-luxury-signal__image {
     min-height: 300px;
+  }
+
+  .ai-luxury-signal__image img {
+    min-height: 0;
   }
 
   .ai-luxury-signal__image::before {

@@ -10,9 +10,7 @@ export interface IMetaLinks {
     aiAom: IMetaLink,
     aiCompanion: IMetaLink,
     aiFah: IMetaLink,
-    aiLuxury: IMetaLink,
     aiPloy: IMetaLink,
-    smartFoodAi: IMetaLink,
     cloudSolutions: IMetaLink,
     gallery: IMetaLink,
     home: IMetaLink,
@@ -28,3 +26,5 @@ export interface IMetaLinks {
     backend: IMetaLinkBackend,
     devops: IMetaLinkDevOps
 }
+
+

@@ -1,0 +1,3324 @@
+{
+  "era": {
+    "id": "era-04",
+    "order": 4,
+    "slug": "planetary-transformation",
+    "title": "Planetary Transformation",
+    "subtitle": "Earth becomes a restored, managed, and consciously stewarded planet",
+    "description": "This era shows humanity transforming Earth through climate restoration, ecological repair, circular manufacturing, autonomous infrastructure, AI-managed cities, ocean expansion, and advanced human-support systems.",
+    "timeframe": {
+      "label": "Planetary Transformation",
+      "startYear": 2078,
+      "endYear": 2115,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "restorative",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 4: Planetary Transformation | Future Civilization Roadmap",
+      "metaDescription": "Explore planetary transformation through climate-restored deserts, artificial coral reefs, global rewilding corridors, AI-designed cities, zero-waste manufacturing, and fusion-powered food systems.",
+      "keywords": [
+        "planetary transformation",
+        "climate restoration",
+        "rewilding corridors",
+        "AI cities",
+        "future civilization roadmap"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-04-first-climate-restored-desert-zone-becomes-habitable",
+      "order": 1,
+      "slug": "first-climate-restored-desert-zone-becomes-habitable",
+      "title": "First climate-restored desert zone becomes habitable",
+      "shortTitle": "Restored Desert Zone",
+      "category": "Environment",
+      "description": "Large-scale climate restoration, water systems, soil regeneration, shade infrastructure, and ecological design transform a formerly hostile desert zone into a stable habitable region.",
+      "layerId": "civilization",
+      "domains": ["climate-restoration", "water", "ecological-engineering"],
+      "maturity": "regional-demonstration",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2100
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity proves it can restore damaged environments at regional scale, turning climate adaptation into active planetary repair.",
+      "signals": [
+        "Atmospheric water harvesting and desalination support dry-region settlements",
+        "AI climate models guide microclimate restoration",
+        "Regenerated soils and drought-adapted ecosystems become self-sustaining"
+      ],
+      "implications": [
+        "New habitable land in climate-stressed regions",
+        "Lower displacement pressure from desertification",
+        "Stronger confidence in planetary restoration projects"
+      ],
+      "image": {
+        "alt": "Climate-restored desert zone transformed into a habitable green region",
+        "prompts": [
+          "Former desert transformed into a habitable green region with restored soils, water channels, shaded settlements, and clean climate infrastructure, optimistic documentary realism, 16:9",
+          "Wide aerial view of a climate-restored desert zone with vegetation corridors, solar-fusion water systems, and sustainable homes, clean futuristic style, 16:9",
+          "Scientists and local residents monitoring a restored desert ecosystem with atmospheric water towers and new wetlands, hopeful planetary repair, 16:9",
+          "Before-and-after inspired scene of dry desert edge becoming fertile through ecological engineering and AI climate restoration, realistic future documentary, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-first-climate-restored-desert-zone-becomes-habitable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-climate-restored-desert-zone-becomes-habitable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-artificial-coral-reef-networks-restore-marine-biodiversity",
+      "order": 2,
+      "slug": "artificial-coral-reef-networks-restore-marine-biodiversity",
+      "title": "Artificial Coral Reef Networks Restore Marine Biodiversity",
+      "shortTitle": "Artificial Coral Reefs",
+      "category": "Environment",
+      "description": "Engineered reef structures, heat-tolerant corals, marine robotics, and ecological monitoring rebuild damaged reef systems and restore coastal marine biodiversity.",
+      "layerId": "technology",
+      "domains": ["ocean-restoration", "biotechnology", "marine-ecology"],
+      "maturity": "ecosystem-scale-deployment",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2098
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ocean restoration becomes visible and measurable, protecting fisheries, coastlines, tourism, and marine life from long-term collapse.",
+      "signals": [
+        "Robotic reef builders deploy modular coral habitats",
+        "Heat-tolerant coral strains survive repeated warming events",
+        "Marine biodiversity dashboards track species return"
+      ],
+      "implications": [
+        "Recovered coastal ecosystems",
+        "Stronger fish populations and food security",
+        "New ethical frameworks for engineered marine habitats"
+      ],
+      "image": {
+        "alt": "Artificial coral reef network restoring marine biodiversity",
+        "prompts": [
+          "Artificial coral reef network glowing with restored marine biodiversity, robotic reef builders and colorful fish, realistic underwater documentary, 16:9",
+          "Marine scientists monitoring engineered coral reefs from an underwater research station, clear blue water, hopeful ocean restoration future, 16:9",
+          "Autonomous reef drones placing modular coral structures across a damaged reef zone, cinematic ecological repair, 16:9",
+          "Wide underwater view of restored coral corridors reconnecting marine habitats with diverse sea life returning, clean futuristic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-global-rewilding-corridors-reconnect-continents",
+      "order": 3,
+      "slug": "global-rewilding-corridors-reconnect-continents",
+      "title": "Global Rewilding Corridors Reconnect Continents",
+      "shortTitle": "Global Rewilding Corridors",
+      "category": "Environment",
+      "description": "Protected ecological corridors, wildlife crossings, restored forests, and AI biodiversity planning reconnect habitats across continents for migrating species and recovering ecosystems.",
+      "layerId": "civilization",
+      "domains": [
+        "biodiversity",
+        "ecological-restoration",
+        "planetary-infrastructure"
+      ],
+      "maturity": "continental-network",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2105
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human infrastructure begins working with nature instead of fragmenting it, allowing ecosystems to recover at continental scale.",
+      "signals": [
+        "Governments coordinate cross-border habitat corridors",
+        "AI models identify critical biodiversity pathways",
+        "Wildlife populations rebound after corridors reconnect"
+      ],
+      "implications": [
+        "Reduced extinction pressure",
+        "Healthier ecosystems across borders",
+        "New land-use agreements balancing people, farms, and wildlife"
+      ],
+      "image": {
+        "alt": "Global rewilding corridors reconnecting wildlife habitats across continents",
+        "prompts": [
+          "Aerial view of global rewilding corridor crossing forests, farms, roads, and wildlife bridges, animals migrating safely, optimistic documentary realism, 16:9",
+          "Continental wildlife corridor with green bridges over highways and restored forest bands connecting protected habitats, clean future ecology, 16:9",
+          "AI biodiversity control center monitoring rewilding corridors across continents, maps of animal movement and ecosystem health, 16:9",
+          "Elephants, deer, birds, and pollinators moving through restored habitat corridors beside human settlements, peaceful planetary transformation, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-global-rewilding-corridors-reconnect-continents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-rewilding-corridors-reconnect-continents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure",
+      "order": 4,
+      "slug": "real-time-planetary-environmental-dashboard-becomes-public-infrastructure",
+      "title": "Real-time Planetary Environmental Dashboard Becomes Public Infrastructure",
+      "shortTitle": "Planetary Dashboard",
+      "category": "AI & Computing",
+      "description": "Planet-wide environmental sensing becomes public infrastructure, showing real-time air, water, biodiversity, soil, carbon, ocean, and climate conditions to citizens and institutions.",
+      "layerId": "civilization",
+      "domains": ["planetary-monitoring", "public-infrastructure", "climate"],
+      "maturity": "public-infrastructure",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2095
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Environmental accountability becomes transparent and real-time, changing policy, markets, education, and public participation in planetary stewardship.",
+      "signals": [
+        "Satellites, sensors, drones, and ocean systems feed shared environmental data",
+        "Public dashboards become trusted civic infrastructure",
+        "Local governments tie budgets to ecological performance metrics"
+      ],
+      "implications": [
+        "Faster response to environmental damage",
+        "Greater public trust in restoration progress",
+        "New political pressure for measurable planetary stewardship"
+      ],
+      "image": {
+        "alt": "Public real-time planetary environmental dashboard showing Earth systems health",
+        "prompts": [
+          "Public real-time planetary environmental dashboard displayed in a civic plaza, citizens viewing Earth systems health data, clean futuristic documentary, 16:9",
+          "Planetary monitoring command center with live maps of air, water, biodiversity, oceans, and climate conditions, optimistic science infrastructure, 16:9",
+          "Schoolchildren and community leaders using a transparent Earth dashboard to understand local environmental health, hopeful civic future, 16:9",
+          "Satellite and sensor network visualized around Earth feeding a public environmental dashboard, clean planetary stewardship scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions",
+      "order": 5,
+      "slug": "large-scale-atmospheric-water-harvesting-supports-dry-regions",
+      "title": "Large-Scale Atmospheric Water Harvesting Supports Dry Regions",
+      "shortTitle": "Atmospheric Water Harvesting",
+      "category": "Environment",
+      "description": "Atmospheric water harvesters, powered by abundant clean energy, capture moisture from air and supply dry regions with resilient freshwater.",
+      "layerId": "technology",
+      "domains": ["water", "climate-adaptation", "infrastructure"],
+      "maturity": "regional-scale-deployment",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2095
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Dry regions become more resilient, reducing drought vulnerability and expanding the possibilities for settlement, agriculture, and restoration.",
+      "signals": [
+        "High-efficiency water harvesting works in arid climates",
+        "Fusion and solar hybrid grids power atmospheric water systems",
+        "Regional water networks combine harvested water with desalination and recycling"
+      ],
+      "implications": [
+        "More stable dry-region communities",
+        "Lower dependence on depleted aquifers",
+        "Expanded climate restoration in arid landscapes"
+      ],
+      "image": {
+        "alt": "Large-scale atmospheric water harvesting towers supplying dry regions",
+        "prompts": [
+          "Large-scale atmospheric water harvesting towers in a dry region supplying clean water to farms and settlements, optimistic documentary realism, 16:9",
+          "Desert community supported by elegant atmospheric water infrastructure, reservoirs, gardens, and clean energy systems, bright future scene, 16:9",
+          "Engineers monitoring moisture capture arrays at sunrise in an arid landscape, clean climate-adaptation technology, 16:9",
+          "Regional water network combining atmospheric harvesters, storage lakes, and restored dryland ecosystems, realistic planetary transformation, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-zero-waste-manufacturing-becomes-the-global-standard",
+      "order": 6,
+      "slug": "zero-waste-manufacturing-becomes-the-global-standard",
+      "title": "Zero-Waste Manufacturing Becomes the Global Standard",
+      "shortTitle": "Zero-Waste Manufacturing",
+      "category": "Materials & Manufacturing",
+      "description": "Factories are redesigned around circular materials, robotic disassembly, digital product passports, and near-total recovery of components and waste streams.",
+      "layerId": "technology",
+      "domains": ["manufacturing", "circular-economy", "automation"],
+      "maturity": "global-standard",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2100
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Industrial growth becomes less tied to pollution and extraction, helping society maintain abundance without overwhelming ecosystems.",
+      "signals": [
+        "Product passports track material origin, repairability, and recovery",
+        "Factories treat waste as feedstock by default",
+        "Global standards require circular design for major industries"
+      ],
+      "implications": [
+        "Reduced landfill and industrial pollution",
+        "Lower resource pressure from consumer goods",
+        "New manufacturing jobs around reuse, repair, and material intelligence"
+      ],
+      "image": {
+        "alt": "Zero-waste manufacturing facility operating as a circular material ecosystem",
+        "prompts": [
+          "Zero-waste manufacturing facility with robotic disassembly, circular material flows, and clean production lines, futuristic documentary realism, 16:9",
+          "Factory floor where every material stream is recovered and reused through transparent circular economy systems, clean industrial future, 16:9",
+          "Engineers reviewing digital product passports and material recovery dashboards in a zero-waste factory, optimistic technology scene, 16:9",
+          "Consumer products being disassembled by robots and rebuilt into new goods without waste, bright circular manufacturing system, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-zero-waste-manufacturing-becomes-the-global-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-zero-waste-manufacturing-becomes-the-global-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-universal-biodegradable-polymers-replace-plastic",
+      "order": 7,
+      "slug": "universal-biodegradable-polymers-replace-plastic",
+      "title": "Universal Biodegradable Polymers Replace Plastic",
+      "shortTitle": "Biodegradable Polymers",
+      "category": "Materials & Manufacturing",
+      "description": "Advanced biodegradable polymers replace conventional plastics across packaging, textiles, consumer products, and industrial applications without sacrificing performance.",
+      "layerId": "technology",
+      "domains": ["materials-science", "chemistry", "pollution-reduction"],
+      "maturity": "global-replacement",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2098
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Plastic pollution declines sharply as everyday materials become compatible with biological and circular systems.",
+      "signals": [
+        "New polymers match plastic durability while safely degrading under controlled conditions",
+        "Global bans accelerate replacement of persistent plastics",
+        "Manufacturers adopt compostable and recyclable material standards"
+      ],
+      "implications": [
+        "Lower ocean and soil plastic pollution",
+        "Cleaner packaging and textile supply chains",
+        "New certification systems for safe material breakdown"
+      ],
+      "image": {
+        "alt": "Biodegradable polymer materials replacing conventional plastic in global products",
+        "prompts": [
+          "Advanced biodegradable polymer products replacing conventional plastic in a clean modern store, material labels and sustainable packaging, realistic future, 16:9",
+          "Materials science lab testing high-performance biodegradable polymers with transparent samples and green chemistry systems, clean documentary style, 16:9",
+          "Ocean cleanup transition scene showing biodegradable materials and reduced plastic pollution along a restored coastline, optimistic environmental future, 16:9",
+          "Factory producing universal biodegradable polymers for packaging, textiles, and consumer goods, circular economy atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-universal-biodegradable-polymers-replace-plastic.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-universal-biodegradable-polymers-replace-plastic.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-ocean-farming-produces-a-major-share-of-global-protein",
+      "order": 8,
+      "slug": "ocean-farming-produces-a-major-share-of-global-protein",
+      "title": "Ocean Farming Produces a Major Share of Global Protein",
+      "shortTitle": "Ocean Protein Farming",
+      "category": "Environment",
+      "description": "Sustainable ocean farms produce fish, shellfish, algae, and cultivated marine proteins at large scale while protecting ecosystems and reducing land pressure.",
+      "layerId": "civilization",
+      "domains": ["food-systems", "ocean-farming", "climate-technology"],
+      "maturity": "major-global-supply",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2105
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Food systems diversify beyond land agriculture, improving protein security while allowing more terrestrial ecosystems to recover.",
+      "signals": [
+        "Automated ocean farms monitor ecological impacts in real time",
+        "Algae and marine protein systems become cost competitive",
+        "Regenerative aquaculture standards protect biodiversity"
+      ],
+      "implications": [
+        "More resilient global protein supply",
+        "Lower land and freshwater pressure",
+        "New governance challenges for ocean commons"
+      ],
+      "image": {
+        "alt": "Sustainable ocean farming network producing a major share of global protein",
+        "prompts": [
+          "Sustainable ocean farming network producing algae, shellfish, and fish protein with autonomous monitoring drones, clean futuristic documentary, 16:9",
+          "Floating regenerative aquaculture city with marine farms, research vessels, and biodiversity protection zones, optimistic ocean future, 16:9",
+          "Workers and robots harvesting ocean-grown protein from clean offshore farms under ecological monitoring, realistic future scene, 16:9",
+          "Aerial view of large ocean farming grids integrated with wildlife corridors and clean energy platforms, planetary food system, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-ocean-farming-produces-a-major-share-of-global-protein.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ocean-farming-produces-a-major-share-of-global-protein.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-first-undersea-city-project-completed",
+      "order": 9,
+      "slug": "first-undersea-city-project-completed",
+      "title": "First Undersea City Project Completed",
+      "shortTitle": "Undersea City",
+      "category": "Materials & Manufacturing",
+      "description": "A permanent undersea city demonstrates safe long-term living, marine research, ocean farming, tourism, and ecological monitoring beneath the ocean surface.",
+      "layerId": "civilization",
+      "domains": [
+        "ocean-infrastructure",
+        "urban-development",
+        "marine-science"
+      ],
+      "maturity": "first-completed-city",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Human settlement expands into the ocean in a more integrated way, linking habitation with marine stewardship and research.",
+      "signals": [
+        "Pressure-safe habitats support long-duration residents",
+        "Undersea cities connect to ocean farms and research stations",
+        "Marine protection rules shape settlement design"
+      ],
+      "implications": [
+        "New models of ocean habitation",
+        "Expanded marine science and ecosystem monitoring",
+        "Debates over ocean territory and ecological limits"
+      ],
+      "image": {
+        "alt": "First completed undersea city with habitats and marine research systems",
+        "prompts": [
+          "First completed undersea city with transparent habitats, marine research labs, ocean farms, and coral restoration around it, realistic documentary, 16:9",
+          "Interior of an undersea city looking out at marine life through panoramic windows, calm futuristic civilization scene, 16:9",
+          "Submersible vehicles approaching a beautiful undersea city integrated with ecological monitoring systems, cinematic realism, 16:9",
+          "Undersea urban habitat connected to algae farms and coral restoration zones, hopeful ocean civilization future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-first-undersea-city-project-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-first-undersea-city-project-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-first-undersea-city-project-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-first-undersea-city-project-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-undersea-city-project-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-ai-designed-cities-reduce-energy-use-by-90",
+      "order": 10,
+      "slug": "ai-designed-cities-reduce-energy-use-by-90",
+      "title": "AI-Designed Cities Reduce Energy Use by 90%",
+      "shortTitle": "AI-Designed Cities",
+      "category": "Materials & Manufacturing",
+      "description": "AI planning systems optimize buildings, transit, energy flows, climate control, water use, logistics, and public spaces to create ultra-efficient cities.",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "smart-cities",
+        "energy-efficiency"
+      ],
+      "maturity": "city-scale-adoption",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2100
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Urban civilization becomes dramatically more efficient, reducing energy demand while improving comfort, mobility, and resilience.",
+      "signals": [
+        "City digital twins optimize infrastructure before construction",
+        "Buildings coordinate energy storage and demand in real time",
+        "AI urban planning reduces unnecessary travel and heat stress"
+      ],
+      "implications": [
+        "Lower urban emissions and operating costs",
+        "More comfortable and resilient public spaces",
+        "New governance for algorithmic urban planning"
+      ],
+      "image": {
+        "alt": "AI-designed city reducing energy use through optimized buildings and infrastructure",
+        "prompts": [
+          "AI-designed city with ultra-efficient buildings, shaded streets, autonomous transit, and clean energy flows, optimistic futuristic documentary, 16:9",
+          "City digital twin interface optimizing energy, water, transport, and climate comfort across an urban district, clean civic technology, 16:9",
+          "Aerial view of an AI-planned city with green corridors, passive cooling towers, and integrated transit reducing energy use, 16:9",
+          "Residents enjoying a beautiful low-energy city designed by AI for comfort, resilience, and public life, realistic future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-ai-designed-cities-reduce-energy-use-by-90.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-designed-cities-reduce-energy-use-by-90.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-first-self-governing-ai-managed-city-recognized-legally",
+      "order": 11,
+      "slug": "first-self-governing-ai-managed-city-recognized-legally",
+      "title": "First Self-Governing AI-Managed City Recognized Legally",
+      "shortTitle": "AI-Managed City",
+      "category": "Civilization",
+      "description": "A city operating under democratic rules allows AI systems to manage infrastructure, services, budgets, and planning while legal frameworks define accountability and rights.",
+      "layerId": "society",
+      "domains": ["governance", "artificial-intelligence", "smart-cities"],
+      "maturity": "legal-recognition",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The relationship between citizens, governments, and AI changes as public administration becomes partly autonomous but legally accountable.",
+      "signals": [
+        "Citizens approve AI-managed city charters",
+        "Auditable public AI systems handle service optimization",
+        "Legal institutions define liability for AI civic decisions"
+      ],
+      "implications": [
+        "Faster and more adaptive public administration",
+        "New democratic oversight models",
+        "Intense debate over autonomy, legitimacy, and human authority"
+      ],
+      "image": {
+        "alt": "Legally recognized self-governing AI-managed city with citizen oversight",
+        "prompts": [
+          "Self-governing AI-managed city hall where citizens review transparent AI decisions and vote on civic rules, clean futuristic documentary, 16:9",
+          "AI-managed city operations center coordinating public services with legal accountability dashboards, optimistic governance future, 16:9",
+          "Public square in a legally recognized AI-managed city with residents, autonomous services, and transparent civic interfaces, realistic future, 16:9",
+          "Council chamber where humans and AI governance systems collaborate under a city charter, calm democratic atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-first-self-governing-ai-managed-city-recognized-legally.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-self-governing-ai-managed-city-recognized-legally.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work",
+      "order": 12,
+      "slug": "fully-autonomous-mining-removes-humans-from-dangerous-extraction-work",
+      "title": "Fully Autonomous Mining Removes Humans from Dangerous Extraction Work",
+      "shortTitle": "Autonomous Mining",
+      "category": "Robotics",
+      "description": "Mining operations become fully robotic, keeping humans away from dangerous environments while improving precision, safety, and environmental monitoring.",
+      "layerId": "technology",
+      "domains": ["mining", "robotics", "industrial-safety"],
+      "maturity": "fully-autonomous-operations",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2098
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "One of the most hazardous forms of labor becomes machine-operated, reducing injuries while forcing society to govern extraction more carefully.",
+      "signals": [
+        "Robotic fleets operate underground and remote mines without human presence",
+        "AI systems optimize extraction while monitoring ecological impact",
+        "Former mine workers transition into remote supervision and restoration roles"
+      ],
+      "implications": [
+        "Fewer deaths and injuries in extraction work",
+        "Higher demand for mining transparency",
+        "New focus on ecological restoration after extraction"
+      ],
+      "image": {
+        "alt": "Fully autonomous mining operation with robots and no humans in dangerous zones",
+        "prompts": [
+          "Fully autonomous mining operation with robotic vehicles and drones working in dangerous terrain while humans supervise remotely, realistic industrial documentary, 16:9",
+          "Underground mine operated entirely by robots with environmental sensors and safety systems, clean high-tech extraction scene, 16:9",
+          "Remote mining control center where former miners supervise autonomous fleets from a safe location, human-centered transition, 16:9",
+          "Robotic mining machines extracting minerals precisely with ecological monitoring and restoration systems nearby, futuristic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-household-robots-become-as-common-as-smartphones",
+      "order": 13,
+      "slug": "household-robots-become-as-common-as-smartphones",
+      "title": "Household Robots Become as Common as Smartphones",
+      "shortTitle": "Common Household Robots",
+      "category": "Robotics",
+      "description": "Affordable general-purpose household robots help with cleaning, cooking, lifting, maintenance, caregiving, security, and everyday domestic tasks.",
+      "layerId": "society",
+      "domains": ["robotics", "consumer-technology", "home-life"],
+      "maturity": "mass-adoption",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2095
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Daily life changes as physical assistance becomes widely available, freeing time and supporting families, older adults, and disabled people.",
+      "signals": [
+        "Home robots reach consumer price points",
+        "Robots safely handle varied domestic environments",
+        "Household AI integrates scheduling, care, maintenance, and security"
+      ],
+      "implications": [
+        "Less burden from domestic labor",
+        "New norms for privacy inside homes",
+        "Greater independence for many households"
+      ],
+      "image": {
+        "alt": "Household robots assisting families in everyday home life",
+        "prompts": [
+          "Household robot helping a family with cooking and cleaning in a warm modern home, realistic optimistic future, 16:9",
+          "Affordable home robot assisting an elderly person, a child, and parents with everyday domestic tasks, respectful documentary style, 16:9",
+          "Apartment building where many households use friendly general-purpose robots like common appliances, clean future society, 16:9",
+          "Close-up of a household robot organizing groceries and checking home maintenance systems, human-centered robotics scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-household-robots-become-as-common-as-smartphones.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-household-robots-become-as-common-as-smartphones.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-personal-ai-companions-become-legally-recognized-care-assistants",
+      "order": 14,
+      "slug": "personal-ai-companions-become-legally-recognized-care-assistants",
+      "title": "Personal AI Companions Become Legally Recognized Care Assistants",
+      "shortTitle": "AI Care Companions",
+      "category": "Civilization",
+      "description": "Personal AI companions gain legal recognition as supervised care assistants for emotional support, eldercare, disability assistance, and daily life coordination.",
+      "layerId": "society",
+      "domains": ["artificial-intelligence", "caregiving", "law"],
+      "maturity": "legal-recognition",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2100
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Care expands beyond human-only systems, raising quality of life while forcing society to define consent, accountability, and emotional safety for AI companions.",
+      "signals": [
+        "AI companions pass regulated care-assistant certification",
+        "Healthcare systems integrate companion AI into care plans",
+        "Laws define boundaries for advice, monitoring, and emotional influence"
+      ],
+      "implications": [
+        "More support for isolated or vulnerable people",
+        "New rights and safeguards for care recipients",
+        "Ethical debate around dependence on AI relationships"
+      ],
+      "image": {
+        "alt": "Personal AI companion legally recognized as a care assistant",
+        "prompts": [
+          "Personal AI companion assisting an older adult with daily care in a peaceful home, legal care dashboard visible, realistic optimistic future, 16:9",
+          "Doctor, family member, and AI care companion coordinating support for a patient through transparent consent settings, clean healthcare scene, 16:9",
+          "Public certification center for AI care companions with safety and accountability standards, civic technology documentary, 16:9",
+          "Friendly AI companion interface helping a disabled person plan mobility, medication, and communication support, respectful human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-personal-ai-companions-become-legally-recognized-care-assistants.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-personal-ai-companions-become-legally-recognized-care-assistants.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-most-physical-jobs-become-optional",
+      "order": 15,
+      "slug": "most-physical-jobs-become-optional",
+      "title": "Most Physical Jobs Become Optional",
+      "shortTitle": "Optional Physical Work",
+      "category": "Society & Economy",
+      "description": "Robots, automation, and abundant services make most dangerous, repetitive, or exhausting physical labor optional rather than economically required for survival.",
+      "layerId": "society",
+      "domains": ["automation", "labor", "post-scarcity"],
+      "maturity": "societal-transition",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "The meaning of work changes as physical labor shifts toward choice, craft, service, exploration, care, or creativity instead of necessity.",
+      "signals": [
+        "Robots handle most repetitive logistics, cleaning, farming, and construction tasks",
+        "Universal services reduce dependence on hazardous employment",
+        "People choose physical work for purpose, skill, or community rather than survival"
+      ],
+      "implications": [
+        "Major labor identity transition",
+        "More time for education, care, art, and civic work",
+        "Need for new social status systems beyond job necessity"
+      ],
+      "image": {
+        "alt": "Robots performing physical labor while people choose creative and community work",
+        "prompts": [
+          "Robots performing heavy physical labor while people choose creative, care, and community work in a post-scarcity city, optimistic documentary, 16:9",
+          "Automated construction, farming, and logistics systems operating safely while humans supervise or pursue voluntary craft work, clean future society, 16:9",
+          "Community workshop where people do physical work by choice alongside robots, warm human-centered civilization scene, 16:9",
+          "Public plaza showing a society where machines handle exhausting labor and people focus on learning, art, and care, realistic future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-most-physical-jobs-become-optional.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-most-physical-jobs-become-optional.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-most-physical-jobs-become-optional.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-most-physical-jobs-become-optional.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-most-physical-jobs-become-optional.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-neural-prosthetics-restore-sight-hearing-and-touch",
+      "order": 16,
+      "slug": "neural-prosthetics-restore-sight-hearing-and-touch",
+      "title": "Neural Prosthetics Restore Sight, Hearing, and Touch",
+      "shortTitle": "Neural Prosthetics",
+      "category": "Biology & Medicine",
+      "description": "Advanced neural prosthetics connect directly with the nervous system to restore or simulate sight, hearing, touch, balance, and fine sensory feedback.",
+      "layerId": "technology",
+      "domains": ["neurotechnology", "healthcare", "prosthetics"],
+      "maturity": "routine-clinical-care",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2105
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Sensory disability becomes increasingly treatable, expanding human independence and redefining the boundary between therapy and enhancement.",
+      "signals": [
+        "Neural interfaces achieve stable long-term sensory feedback",
+        "Clinics offer integrated visual, auditory, and tactile restoration",
+        "Regulators define standards for neural data and sensory augmentation"
+      ],
+      "implications": [
+        "Restored independence for many disabled people",
+        "New privacy questions around sensory data",
+        "Expansion of human-machine sensory integration"
+      ],
+      "image": {
+        "alt": "Neural prosthetics restoring sight hearing and touch in a clinical setting",
+        "prompts": [
+          "Patient using neural prosthetics to regain sight, hearing, and touch in a warm advanced clinic, respectful medical documentary realism, 16:9",
+          "Close-up of a neural prosthetic hand delivering tactile feedback through nerve interfaces, clean future medicine, 16:9",
+          "Doctor calibrating visual and auditory neural prosthetics with transparent sensory maps, hopeful healthcare scene, 16:9",
+          "Rehabilitation room where people test restored sensory feedback with advanced neural prosthetics, optimistic clinical future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-neural-prosthetics-restore-sight-hearing-and-touch.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-neural-prosthetics-restore-sight-hearing-and-touch.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-human-organ-printing-becomes-routine",
+      "order": 17,
+      "slug": "human-organ-printing-becomes-routine",
+      "title": "Human Organ Printing Becomes Routine",
+      "shortTitle": "Routine Organ Printing",
+      "category": "Biology & Medicine",
+      "description": "Bioprinted organs using patient-matched cells become routine for transplant, reducing waiting lists and immune rejection for many major organs.",
+      "layerId": "technology",
+      "domains": ["bioprinting", "healthcare", "regenerative-medicine"],
+      "maturity": "routine-transplant-care",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2105
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Organ failure becomes far less deadly as replacement organs become manufacturable, personalized, and widely available.",
+      "signals": [
+        "Bioprinters produce vascularized organ tissue reliably",
+        "Hospitals operate certified organ-printing units",
+        "Immunological matching improves through patient-derived cells"
+      ],
+      "implications": [
+        "Shorter transplant waiting lists",
+        "Lower organ rejection risk",
+        "New ethical and access questions around manufactured biology"
+      ],
+      "image": {
+        "alt": "Human organ printing laboratory producing patient-matched transplant organs",
+        "prompts": [
+          "Human organ printing laboratory producing patient-matched organs with advanced bioprinters and medical teams, clean documentary realism, 16:9",
+          "Hospital bioprinting unit preparing a replacement organ inside a sterile transparent chamber, hopeful medical future, 16:9",
+          "Doctors reviewing a printed organ readiness dashboard before transplant, realistic regenerative medicine scene, 16:9",
+          "Close-up of vascularized tissue being bioprinted layer by layer in a high-tech clinic, cinematic medical realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-human-organ-printing-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-human-organ-printing-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-human-organ-printing-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-human-organ-printing-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-organ-printing-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-extreme-poverty-falls-below-1-worldwide",
+      "order": 18,
+      "slug": "extreme-poverty-falls-below-1-worldwide",
+      "title": "Extreme Poverty Falls Below 1% Worldwide",
+      "shortTitle": "Extreme Poverty Below 1%",
+      "category": "Society & Economy",
+      "description": "Universal services, abundant energy, automated production, clean water, food logistics, and global coordination reduce extreme poverty below 1% worldwide.",
+      "layerId": "civilization",
+      "domains": ["post-scarcity", "economic-systems", "human-development"],
+      "maturity": "global-milestone",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Extreme poverty becomes rare rather than normal, marking a major moral and economic transformation in human civilization.",
+      "signals": [
+        "Universal basic services reach most countries",
+        "AI-managed logistics reduce scarcity shocks",
+        "Global development metrics shift from survival access to flourishing"
+      ],
+      "implications": [
+        "Higher global stability and health",
+        "New focus on dignity, participation, and inequality beyond survival",
+        "Reduced pressure from preventable deprivation"
+      ],
+      "image": {
+        "alt": "Global celebration as extreme poverty falls below one percent worldwide",
+        "prompts": [
+          "Global civic celebration showing communities with clean water, housing, education, and food access as extreme poverty falls below one percent, optimistic documentary realism, 16:9",
+          "World development dashboard showing extreme poverty below one percent while families thrive in diverse regions, clean hopeful future, 16:9",
+          "Village, city, and refugee community transformed by universal services and post-scarcity infrastructure, warm civilization milestone, 16:9",
+          "Public square with people from many cultures celebrating access to basic dignity and opportunity, realistic future society, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-extreme-poverty-falls-below-1-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-extreme-poverty-falls-below-1-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence",
+      "order": 19,
+      "slug": "ai-quantum-conflict-simulation-system-ends-nuclear-deterrence",
+      "title": "AI Quantum Conflict Simulation System Ends Nuclear Deterrence",
+      "shortTitle": "Quantum Conflict Simulation",
+      "category": "AI & Computing",
+      "description": "Advanced AI and quantum-scale scenario modeling allow nations to verify outcomes, prevent escalation, and replace nuclear deterrence with transparent conflict-avoidance systems.",
+      "layerId": "society",
+      "domains": ["governance", "peacebuilding", "quantum-computing"],
+      "maturity": "global-security-framework",
+      "timeframe": {
+        "startYear": 2088,
+        "endYear": 2115
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Global security shifts away from existential threat and toward verified de-escalation, though trust, transparency, and governance remain critical.",
+      "signals": [
+        "Major powers adopt shared escalation simulation protocols",
+        "Verification systems reduce uncertainty during crises",
+        "Nuclear arsenals decline under AI-assisted treaty monitoring"
+      ],
+      "implications": [
+        "Lower nuclear war risk",
+        "New dependence on trusted simulation infrastructure",
+        "Stronger global institutions for conflict transparency"
+      ],
+      "image": {
+        "alt": "AI quantum conflict simulation system helping nations de-escalate nuclear conflict",
+        "prompts": [
+          "Global security council using AI quantum conflict simulation to de-escalate a nuclear crisis, transparent scenario maps, serious optimistic documentary, 16:9",
+          "Quantum conflict simulation center showing peaceful resolution pathways between nations, clean high-stakes governance scene, 16:9",
+          "Diplomats reviewing verified de-escalation models with AI systems replacing nuclear deterrence logic, realistic future politics, 16:9",
+          "Secure international control room monitoring treaty compliance and conflict simulations, calm civilization-scale security future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger",
+      "order": 20,
+      "slug": "fusion-powered-vertical-farm-towers-end-chronic-global-hunger",
+      "title": "Fusion-powered Vertical Farm Towers End Chronic Global Hunger",
+      "shortTitle": "Fusion Farm Towers",
+      "category": "Energy",
+      "description": "Fusion-powered vertical farm towers provide reliable high-yield food production near cities and vulnerable regions, ending chronic hunger as a persistent global condition.",
+      "layerId": "civilization",
+      "domains": ["food-systems", "fusion-energy", "urban-infrastructure"],
+      "maturity": "global-food-security",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Food becomes reliably abundant across regions, allowing civilization to move from famine response toward long-term nutritional security.",
+      "signals": [
+        "Fusion energy powers high-density indoor agriculture",
+        "AI food logistics match production with regional need",
+        "Farm towers operate in cities, deserts, islands, and disaster-prone areas"
+      ],
+      "implications": [
+        "Chronic hunger declines sharply",
+        "Cities become major food producers",
+        "Traditional agriculture shifts toward restoration, diversity, and specialty production"
+      ],
+      "image": {
+        "alt": "Fusion-powered vertical farm towers producing abundant food for global hunger relief",
+        "prompts": [
+          "Fusion-powered vertical farm towers producing abundant food beside a city, distribution hubs delivering meals to communities, optimistic documentary realism, 16:9",
+          "Interior of a massive fusion-powered farm tower with layered crops, robotics, and clean energy systems, bright post-scarcity food future, 16:9",
+          "Dry-region settlement supported by vertical farm towers ending chronic hunger locally, water systems and greenhouses glowing, 16:9",
+          "Global food security command center coordinating fusion farm tower production and AI logistics, hopeful civilization milestone, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-planetary-digital-twin-simulates-earths-systems-continuously",
+      "order": 21,
+      "slug": "planetary-digital-twin-simulates-earths-systems-continuously",
+      "title": "planetary Digital Twin Simulates Earth's Systems Continuously",
+      "shortTitle": "Planetary Digital Twin Simulates",
+      "category": "AI & Computing",
+      "description": "Planetary Digital Twin Simulates Earth's Systems Continuously turns AI into a planetary operating layer for environmental sensing, city design, conflict simulation, policymaking, and personal interfaces.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2092,
+        "endYear": 2098
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Planetary Digital Twin Simulates Earth's Systems Continuously becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "AI systems coordinate complex social and public-service operations",
+        "Predictive models reduce waste, delays, conflict, and preventable risk",
+        "Human oversight shifts toward policy, ethics, and high-level guidance"
+      ],
+      "implications": [
+        "Public systems become faster and more personalized",
+        "Large-scale coordination becomes more reliable",
+        "Equity depends on transparent governance and broad access"
+      ],
+      "image": {
+        "alt": "Planetary Digital Twin Simulates Earth's Systems Continuously",
+        "prompts": [
+          "planetary Digital Twin Simulates Earth's Systems Continuously, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Digital Twin Simulates Earth's Systems Continuously, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Digital Twin Simulates Earth's Systems Continuously, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Digital Twin Simulates Earth's Systems Continuously, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-planetary-digital-twin-simulates-earths-systems-continuously.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-digital-twin-simulates-earths-systems-continuously.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-ai-policymakers-assist-most-governments",
+      "order": 22,
+      "slug": "ai-policymakers-assist-most-governments",
+      "title": "aI Policymakers Assist Most Governments",
+      "shortTitle": "AI Policymakers Assist Governments",
+      "category": "AI & Computing",
+      "description": "AI Policymakers Assist Most Governments turns AI into a planetary operating layer for environmental sensing, city design, conflict simulation, policymaking, and personal interfaces.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2093,
+        "endYear": 2099
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "AI Policymakers Assist Most Governments becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "AI systems coordinate complex social and public-service operations",
+        "Predictive models reduce waste, delays, conflict, and preventable risk",
+        "Human oversight shifts toward policy, ethics, and high-level guidance"
+      ],
+      "implications": [
+        "Public systems become faster and more personalized",
+        "Large-scale coordination becomes more reliable",
+        "Equity depends on transparent governance and broad access"
+      ],
+      "image": {
+        "alt": "AI Policymakers Assist Most Governments",
+        "prompts": [
+          "aI Policymakers Assist Most Governments, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Policymakers Assist Most Governments, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Policymakers Assist Most Governments, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Policymakers Assist Most Governments, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-ai-policymakers-assist-most-governments.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-ai-policymakers-assist-most-governments.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-policymakers-assist-most-governments.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-ai-policymakers-assist-most-governments.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-policymakers-assist-most-governments.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-personal-ai-agents-become-primary-human-interfaces",
+      "order": 23,
+      "slug": "personal-ai-agents-become-primary-human-interfaces",
+      "title": "personal AI Agents Become Primary Human Interfaces",
+      "shortTitle": "Personal AI Agents Primary",
+      "category": "AI & Computing",
+      "description": "Personal AI Agents Become Primary Human Interfaces turns AI into a planetary operating layer for environmental sensing, city design, conflict simulation, policymaking, and personal interfaces.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2094,
+        "endYear": 2100
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Personal AI Agents Become Primary Human Interfaces becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "AI systems coordinate complex social and public-service operations",
+        "Predictive models reduce waste, delays, conflict, and preventable risk",
+        "Human oversight shifts toward policy, ethics, and high-level guidance"
+      ],
+      "implications": [
+        "Public systems become faster and more personalized",
+        "Large-scale coordination becomes more reliable",
+        "Equity depends on transparent governance and broad access"
+      ],
+      "image": {
+        "alt": "Personal AI Agents Become Primary Human Interfaces",
+        "prompts": [
+          "personal AI Agents Become Primary Human Interfaces, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing personal AI Agents Become Primary Human Interfaces, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of personal AI Agents Become Primary Human Interfaces, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating personal AI Agents Become Primary Human Interfaces, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-personal-ai-agents-become-primary-human-interfaces.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-personal-ai-agents-become-primary-human-interfaces.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-autonomous-infrastructure-repair-swarms-maintain-cities",
+      "order": 24,
+      "slug": "autonomous-infrastructure-repair-swarms-maintain-cities",
+      "title": "autonomous Infrastructure Repair Swarms Maintain Cities",
+      "shortTitle": "Autonomous Infrastructure Repair Swarms",
+      "category": "Robotics",
+      "description": "Autonomous Infrastructure Repair Swarms Maintain Cities makes robots ordinary planetary infrastructure, removing humans from dangerous labor and maintaining cities, oceans, mines, and disaster zones.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2095,
+        "endYear": 2101
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Autonomous Infrastructure Repair Swarms Maintain Cities becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Autonomous fleets perform essential physical services",
+        "Robots operate in homes, farms, cities, oceans, and hazardous sites",
+        "Maintenance and recovery become faster and less dependent on scarce labor"
+      ],
+      "implications": [
+        "Physical labor becomes less necessary for survival",
+        "Care and infrastructure become more available",
+        "Human work shifts toward creative, social, and supervisory roles"
+      ],
+      "image": {
+        "alt": "Autonomous Infrastructure Repair Swarms Maintain Cities",
+        "prompts": [
+          "autonomous Infrastructure Repair Swarms Maintain Cities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Infrastructure Repair Swarms Maintain Cities, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Infrastructure Repair Swarms Maintain Cities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Infrastructure Repair Swarms Maintain Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-robotic-ocean-harvesting-systems-operate-globally",
+      "order": 25,
+      "slug": "robotic-ocean-harvesting-systems-operate-globally",
+      "title": "robotic Ocean Harvesting Systems Operate Globally",
+      "shortTitle": "Robotic Ocean Harvesting Operate",
+      "category": "Robotics",
+      "description": "Robotic Ocean Harvesting Systems Operate Globally makes robots ordinary planetary infrastructure, removing humans from dangerous labor and maintaining cities, oceans, mines, and disaster zones.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2095,
+        "endYear": 2101
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Robotic Ocean Harvesting Systems Operate Globally becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Autonomous fleets perform essential physical services",
+        "Robots operate in homes, farms, cities, oceans, and hazardous sites",
+        "Maintenance and recovery become faster and less dependent on scarce labor"
+      ],
+      "implications": [
+        "Physical labor becomes less necessary for survival",
+        "Care and infrastructure become more available",
+        "Human work shifts toward creative, social, and supervisory roles"
+      ],
+      "image": {
+        "alt": "Robotic Ocean Harvesting Systems Operate Globally",
+        "prompts": [
+          "robotic Ocean Harvesting Systems Operate Globally, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic Ocean Harvesting Systems Operate Globally, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic Ocean Harvesting Systems Operate Globally, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic Ocean Harvesting Systems Operate Globally, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-robotic-ocean-harvesting-systems-operate-globally.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-robotic-ocean-harvesting-systems-operate-globally.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays",
+      "order": 26,
+      "slug": "autonomous-disaster-recovery-networks-eliminate-most-recovery-delays",
+      "title": "autonomous Disaster Recovery Networks Eliminate Most Recovery Delays",
+      "shortTitle": "Autonomous Disaster Recovery Networks",
+      "category": "Robotics",
+      "description": "Autonomous Disaster Recovery Networks Eliminate Most Recovery Delays makes robots ordinary planetary infrastructure, removing humans from dangerous labor and maintaining cities, oceans, mines, and disaster zones.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2096,
+        "endYear": 2102
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Autonomous Disaster Recovery Networks Eliminate Most Recovery Delays becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Autonomous fleets perform essential physical services",
+        "Robots operate in homes, farms, cities, oceans, and hazardous sites",
+        "Maintenance and recovery become faster and less dependent on scarce labor"
+      ],
+      "implications": [
+        "Physical labor becomes less necessary for survival",
+        "Care and infrastructure become more available",
+        "Human work shifts toward creative, social, and supervisory roles"
+      ],
+      "image": {
+        "alt": "Autonomous Disaster Recovery Networks Eliminate Most Recovery Delays",
+        "prompts": [
+          "autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-global-fusion-grid-supplies-nearly-unlimited-energy",
+      "order": 27,
+      "slug": "global-fusion-grid-supplies-nearly-unlimited-energy",
+      "title": "global Fusion Grid Supplies Nearly Unlimited Energy",
+      "shortTitle": "Global Fusion Grid Supplies",
+      "category": "Energy",
+      "description": "Global Fusion Grid Supplies Nearly Unlimited Energy scales energy abundance into continental grids, wireless power, space-based solar systems, and the end of energy poverty.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2097,
+        "endYear": 2103
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Global Fusion Grid Supplies Nearly Unlimited Energy becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Fusion and clean energy systems become economically stable",
+        "Energy-intensive public goods become affordable",
+        "Large infrastructure can run without fossil fuel dependence"
+      ],
+      "implications": [
+        "Scarcity in water, food, housing, and recycling declines",
+        "Climate repair becomes more practical",
+        "Civilization gains the power base for planetary transformation"
+      ],
+      "image": {
+        "alt": "Global Fusion Grid Supplies Nearly Unlimited Energy",
+        "prompts": [
+          "global Fusion Grid Supplies Nearly Unlimited Energy, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Fusion Grid Supplies Nearly Unlimited Energy, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Fusion Grid Supplies Nearly Unlimited Energy, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Fusion Grid Supplies Nearly Unlimited Energy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-wireless-power-transmission-networks-cover-continents",
+      "order": 28,
+      "slug": "wireless-power-transmission-networks-cover-continents",
+      "title": "wireless Power Transmission Networks Cover Continents",
+      "shortTitle": "Wireless Power Transmission Networks",
+      "category": "Energy",
+      "description": "Wireless Power Transmission Networks Cover Continents scales energy abundance into continental grids, wireless power, space-based solar systems, and the end of energy poverty.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2097,
+        "endYear": 2103
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Wireless Power Transmission Networks Cover Continents becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Fusion and clean energy systems become economically stable",
+        "Energy-intensive public goods become affordable",
+        "Large infrastructure can run without fossil fuel dependence"
+      ],
+      "implications": [
+        "Scarcity in water, food, housing, and recycling declines",
+        "Climate repair becomes more practical",
+        "Civilization gains the power base for planetary transformation"
+      ],
+      "image": {
+        "alt": "Wireless Power Transmission Networks Cover Continents",
+        "prompts": [
+          "wireless Power Transmission Networks Cover Continents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing wireless Power Transmission Networks Cover Continents, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of wireless Power Transmission Networks Cover Continents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating wireless Power Transmission Networks Cover Continents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-wireless-power-transmission-networks-cover-continents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-wireless-power-transmission-networks-cover-continents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-space-based-solar-arrays-supply-major-regions",
+      "order": 29,
+      "slug": "space-based-solar-arrays-supply-major-regions",
+      "title": "space-Based Solar Arrays Supply Major Regions",
+      "shortTitle": "SpaceBased Solar Arrays Supply",
+      "category": "Energy",
+      "description": "Space-Based Solar Arrays Supply Major Regions scales energy abundance into continental grids, wireless power, space-based solar systems, and the end of energy poverty.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2098,
+        "endYear": 2104
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Space-Based Solar Arrays Supply Major Regions becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Fusion and clean energy systems become economically stable",
+        "Energy-intensive public goods become affordable",
+        "Large infrastructure can run without fossil fuel dependence"
+      ],
+      "implications": [
+        "Scarcity in water, food, housing, and recycling declines",
+        "Climate repair becomes more practical",
+        "Civilization gains the power base for planetary transformation"
+      ],
+      "image": {
+        "alt": "Space-Based Solar Arrays Supply Major Regions",
+        "prompts": [
+          "space-Based Solar Arrays Supply Major Regions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Based Solar Arrays Supply Major Regions, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Based Solar Arrays Supply Major Regions, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Based Solar Arrays Supply Major Regions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-space-based-solar-arrays-supply-major-regions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-space-based-solar-arrays-supply-major-regions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-energy-poverty-disappears-worldwide",
+      "order": 30,
+      "slug": "energy-poverty-disappears-worldwide",
+      "title": "energy Poverty Disappears Worldwide",
+      "shortTitle": "Energy Poverty Disappears Worldwide",
+      "category": "Energy",
+      "description": "Energy Poverty Disappears Worldwide scales energy abundance into continental grids, wireless power, space-based solar systems, and the end of energy poverty.",
+      "layerId": "energy",
+      "domains": ["fusion-energy", "clean-energy", "abundance-infrastructure"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2099,
+        "endYear": 2105
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Energy Poverty Disappears Worldwide becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Fusion and clean energy systems become economically stable",
+        "Energy-intensive public goods become affordable",
+        "Large infrastructure can run without fossil fuel dependence"
+      ],
+      "implications": [
+        "Scarcity in water, food, housing, and recycling declines",
+        "Climate repair becomes more practical",
+        "Civilization gains the power base for planetary transformation"
+      ],
+      "image": {
+        "alt": "Energy Poverty Disappears Worldwide",
+        "prompts": [
+          "energy Poverty Disappears Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing energy Poverty Disappears Worldwide, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of energy Poverty Disappears Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating energy Poverty Disappears Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-energy-poverty-disappears-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-energy-poverty-disappears-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-energy-poverty-disappears-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-energy-poverty-disappears-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-energy-poverty-disappears-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-first-rotating-artificial-gravity-space-city-opens",
+      "order": 31,
+      "slug": "first-rotating-artificial-gravity-space-city-opens",
+      "title": "first Rotating Artificial Gravity Space City Opens",
+      "shortTitle": "Rotating Artificial Gravity Space",
+      "category": "Space",
+      "description": "First Rotating Artificial Gravity Space City Opens expands space civilization into larger lunar and Martian populations, rotating space cities, asteroid economies, and high-speed Earth-Moon logistics.",
+      "layerId": "space",
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2100,
+        "endYear": 2106
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "First Rotating Artificial Gravity Space City Opens becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "First Rotating Artificial Gravity Space City Opens",
+        "prompts": [
+          "first Rotating Artificial Gravity Space City Opens, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Rotating Artificial Gravity Space City Opens, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Rotating Artificial Gravity Space City Opens, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Rotating Artificial Gravity Space City Opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-first-rotating-artificial-gravity-space-city-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-rotating-artificial-gravity-space-city-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-lunar-population-exceeds-100-000-residents",
+      "order": 32,
+      "slug": "lunar-population-exceeds-100-000-residents",
+      "title": "lunar Population Exceeds 100,000 Residents",
+      "shortTitle": "Lunar Population Exceeds 100000",
+      "category": "Space",
+      "description": "Lunar Population Exceeds 100,000 Residents expands space civilization into larger lunar and Martian populations, rotating space cities, asteroid economies, and high-speed Earth-Moon logistics.",
+      "layerId": "space",
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2100,
+        "endYear": 2106
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Lunar Population Exceeds 100,000 Residents becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "Lunar Population Exceeds 100,000 Residents",
+        "prompts": [
+          "lunar Population Exceeds 100,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lunar Population Exceeds 100,000 Residents, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lunar Population Exceeds 100,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lunar Population Exceeds 100,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-lunar-population-exceeds-100-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-lunar-population-exceeds-100-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-mars-population-surpasses-10-000-residents",
+      "order": 33,
+      "slug": "mars-population-surpasses-10-000-residents",
+      "title": "mars Population Surpasses 10,000 Residents",
+      "shortTitle": "Mars Population Surpasses 10000",
+      "category": "Space",
+      "description": "Mars Population Surpasses 10,000 Residents expands space civilization into larger lunar and Martian populations, rotating space cities, asteroid economies, and high-speed Earth-Moon logistics.",
+      "layerId": "space",
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2101,
+        "endYear": 2107
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Mars Population Surpasses 10,000 Residents becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "Mars Population Surpasses 10,000 Residents",
+        "prompts": [
+          "mars Population Surpasses 10,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing mars Population Surpasses 10,000 Residents, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of mars Population Surpasses 10,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating mars Population Surpasses 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-mars-population-surpasses-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-mars-population-surpasses-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-mars-population-surpasses-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-mars-population-surpasses-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-mars-population-surpasses-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-asteroid-mining-becomes-a-major-economic-sector",
+      "order": 34,
+      "slug": "asteroid-mining-becomes-a-major-economic-sector",
+      "title": "asteroid Mining Becomes a Major Economic Sector",
+      "shortTitle": "Asteroid Mining a Major",
+      "category": "Space",
+      "description": "Asteroid Mining Becomes a Major Economic Sector expands space civilization into larger lunar and Martian populations, rotating space cities, asteroid economies, and high-speed Earth-Moon logistics.",
+      "layerId": "space",
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2102,
+        "endYear": 2108
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Asteroid Mining Becomes a Major Economic Sector becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "Asteroid Mining Becomes a Major Economic Sector",
+        "prompts": [
+          "asteroid Mining Becomes a Major Economic Sector, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing asteroid Mining Becomes a Major Economic Sector, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of asteroid Mining Becomes a Major Economic Sector, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating asteroid Mining Becomes a Major Economic Sector, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-asteroid-mining-becomes-a-major-economic-sector.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-asteroid-mining-becomes-a-major-economic-sector.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-earth-moon-high-speed-cargo-network-becomes-routine",
+      "order": 35,
+      "slug": "earth-moon-high-speed-cargo-network-becomes-routine",
+      "title": "earth-Moon High-Speed Cargo Network Becomes Routine",
+      "shortTitle": "EarthMoon HighSpeed Cargo Network",
+      "category": "Space",
+      "description": "Earth-Moon High-Speed Cargo Network Becomes Routine expands space civilization into larger lunar and Martian populations, rotating space cities, asteroid economies, and high-speed Earth-Moon logistics.",
+      "layerId": "space",
+      "domains": ["space-settlement", "lunar-mars-systems", "orbital-habitats"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2103,
+        "endYear": 2109
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Earth-Moon High-Speed Cargo Network Becomes Routine becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "Earth-Moon High-Speed Cargo Network Becomes Routine",
+        "prompts": [
+          "earth-Moon High-Speed Cargo Network Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon High-Speed Cargo Network Becomes Routine, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon High-Speed Cargo Network Becomes Routine, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon High-Speed Cargo Network Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-earth-moon-high-speed-cargo-network-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-earth-moon-high-speed-cargo-network-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-biological-aging-is-significantly-reversed",
+      "order": 36,
+      "slug": "biological-aging-is-significantly-reversed",
+      "title": "biological Aging Is Significantly Reversed",
+      "shortTitle": "Biological Aging Significantly Reversed",
+      "category": "Biology & Medicine",
+      "description": "Biological Aging Is Significantly Reversed makes advanced body repair and enhancement routine through neural prosthetics, organ printing, synthetic blood, aging reversal, and neuroprotective monitoring.",
+      "layerId": "biology-medicine",
+      "domains": ["advanced-medicine", "regenerative-biology", "human-health"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2103,
+        "endYear": 2109
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Biological Aging Is Significantly Reversed becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Regenerative medicine becomes widely available",
+        "Disease prevention improves through global monitoring and personalized systems",
+        "Biological repair becomes more reliable and affordable"
+      ],
+      "implications": [
+        "Healthspan rises sharply",
+        "Medical access becomes a core post-scarcity service",
+        "Human identity begins separating from biological limitation"
+      ],
+      "image": {
+        "alt": "Biological Aging Is Significantly Reversed",
+        "prompts": [
+          "biological Aging Is Significantly Reversed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Aging Is Significantly Reversed, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Aging Is Significantly Reversed, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Aging Is Significantly Reversed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-biological-aging-is-significantly-reversed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-biological-aging-is-significantly-reversed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-biological-aging-is-significantly-reversed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-biological-aging-is-significantly-reversed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-biological-aging-is-significantly-reversed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-synthetic-blood-replaces-emergency-donor-dependence",
+      "order": 37,
+      "slug": "synthetic-blood-replaces-emergency-donor-dependence",
+      "title": "synthetic Blood Replaces Emergency Donor Dependence",
+      "shortTitle": "Synthetic Blood Replaces Emergency",
+      "category": "Biology & Medicine",
+      "description": "Synthetic Blood Replaces Emergency Donor Dependence makes advanced body repair and enhancement routine through neural prosthetics, organ printing, synthetic blood, aging reversal, and neuroprotective monitoring.",
+      "layerId": "biology-medicine",
+      "domains": ["advanced-medicine", "regenerative-biology", "human-health"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2104,
+        "endYear": 2110
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Synthetic Blood Replaces Emergency Donor Dependence becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Regenerative medicine becomes widely available",
+        "Disease prevention improves through global monitoring and personalized systems",
+        "Biological repair becomes more reliable and affordable"
+      ],
+      "implications": [
+        "Healthspan rises sharply",
+        "Medical access becomes a core post-scarcity service",
+        "Human identity begins separating from biological limitation"
+      ],
+      "image": {
+        "alt": "Synthetic Blood Replaces Emergency Donor Dependence",
+        "prompts": [
+          "synthetic Blood Replaces Emergency Donor Dependence, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic Blood Replaces Emergency Donor Dependence, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic Blood Replaces Emergency Donor Dependence, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic Blood Replaces Emergency Donor Dependence, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-synthetic-blood-replaces-emergency-donor-dependence.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-synthetic-blood-replaces-emergency-donor-dependence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases",
+      "order": 38,
+      "slug": "brain-health-monitoring-prevents-most-neurodegenerative-diseases",
+      "title": "brain Health Monitoring Prevents Most Neurodegenerative Diseases",
+      "shortTitle": "Brain Health Monitoring Prevents",
+      "category": "Biology & Medicine",
+      "description": "Brain Health Monitoring Prevents Most Neurodegenerative Diseases makes advanced body repair and enhancement routine through neural prosthetics, organ printing, synthetic blood, aging reversal, and neuroprotective monitoring.",
+      "layerId": "biology-medicine",
+      "domains": ["advanced-medicine", "regenerative-biology", "human-health"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2105,
+        "endYear": 2111
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Brain Health Monitoring Prevents Most Neurodegenerative Diseases becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Regenerative medicine becomes widely available",
+        "Disease prevention improves through global monitoring and personalized systems",
+        "Biological repair becomes more reliable and affordable"
+      ],
+      "implications": [
+        "Healthspan rises sharply",
+        "Medical access becomes a core post-scarcity service",
+        "Human identity begins separating from biological limitation"
+      ],
+      "image": {
+        "alt": "Brain Health Monitoring Prevents Most Neurodegenerative Diseases",
+        "prompts": [
+          "brain Health Monitoring Prevents Most Neurodegenerative Diseases, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing brain Health Monitoring Prevents Most Neurodegenerative Diseases, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of brain Health Monitoring Prevents Most Neurodegenerative Diseases, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating brain Health Monitoring Prevents Most Neurodegenerative Diseases, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-room-temperature-superconductors-become-global-infrastructure",
+      "order": 39,
+      "slug": "room-temperature-superconductors-become-global-infrastructure",
+      "title": "room-Temperature Superconductors Become Global Infrastructure",
+      "shortTitle": "RoomTemperature Superconductors Global Infrastructure",
+      "category": "Physics",
+      "description": "Room-Temperature Superconductors Become Global Infrastructure turns precision physics into planetary infrastructure through quantum internet, artificial gravity, global timing systems, superconductors, and powerful quantum computation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2106,
+        "endYear": 2112
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Room-Temperature Superconductors Become Global Infrastructure becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Room-Temperature Superconductors Become Global Infrastructure",
+        "prompts": [
+          "room-Temperature Superconductors Become Global Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing room-Temperature Superconductors Become Global Infrastructure, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of room-Temperature Superconductors Become Global Infrastructure, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating room-Temperature Superconductors Become Global Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-room-temperature-superconductors-become-global-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-room-temperature-superconductors-become-global-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-artificial-gravity-systems-become-commercially-mature",
+      "order": 40,
+      "slug": "artificial-gravity-systems-become-commercially-mature",
+      "title": "artificial Gravity Systems Become Commercially Mature",
+      "shortTitle": "Artificial Gravity Mature",
+      "category": "Physics",
+      "description": "Artificial Gravity Systems Become Commercially Mature turns precision physics into planetary infrastructure through quantum internet, artificial gravity, global timing systems, superconductors, and powerful quantum computation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2106,
+        "endYear": 2112
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Artificial Gravity Systems Become Commercially Mature becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Artificial Gravity Systems Become Commercially Mature",
+        "prompts": [
+          "artificial Gravity Systems Become Commercially Mature, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Systems Become Commercially Mature, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Systems Become Commercially Mature, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Systems Become Commercially Mature, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-artificial-gravity-systems-become-commercially-mature.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-artificial-gravity-systems-become-commercially-mature.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-quantum-internet-replaces-traditional-encryption",
+      "order": 41,
+      "slug": "quantum-internet-replaces-traditional-encryption",
+      "title": "quantum Internet Replaces Traditional Encryption",
+      "shortTitle": "Quantum Internet Replaces Traditional",
+      "category": "Physics",
+      "description": "Quantum Internet Replaces Traditional Encryption turns precision physics into planetary infrastructure through quantum internet, artificial gravity, global timing systems, superconductors, and powerful quantum computation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2107,
+        "endYear": 2113
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Quantum Internet Replaces Traditional Encryption becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Quantum Internet Replaces Traditional Encryption",
+        "prompts": [
+          "quantum Internet Replaces Traditional Encryption, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Internet Replaces Traditional Encryption, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Internet Replaces Traditional Encryption, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Internet Replaces Traditional Encryption, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-quantum-internet-replaces-traditional-encryption.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-quantum-internet-replaces-traditional-encryption.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-planetary-precision-clocks-synchronize-human-infrastructure",
+      "order": 42,
+      "slug": "planetary-precision-clocks-synchronize-human-infrastructure",
+      "title": "planetary Precision Clocks Synchronize Human Infrastructure",
+      "shortTitle": "Planetary Precision Clocks Synchronize",
+      "category": "Physics",
+      "description": "Planetary Precision Clocks Synchronize Human Infrastructure turns precision physics into planetary infrastructure through quantum internet, artificial gravity, global timing systems, superconductors, and powerful quantum computation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2108,
+        "endYear": 2114
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Planetary Precision Clocks Synchronize Human Infrastructure becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Planetary Precision Clocks Synchronize Human Infrastructure",
+        "prompts": [
+          "planetary Precision Clocks Synchronize Human Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Precision Clocks Synchronize Human Infrastructure, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Precision Clocks Synchronize Human Infrastructure, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Precision Clocks Synchronize Human Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-planetary-precision-clocks-synchronize-human-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-precision-clocks-synchronize-human-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-large-scale-quantum-computers-solve-previously-impossible-problems",
+      "order": 43,
+      "slug": "large-scale-quantum-computers-solve-previously-impossible-problems",
+      "title": "large-Scale Quantum Computers Solve Previously Impossible Problems",
+      "shortTitle": "LargeScale Quantum Computers Solve",
+      "category": "Physics",
+      "description": "Large-Scale Quantum Computers Solve Previously Impossible Problems turns precision physics into planetary infrastructure through quantum internet, artificial gravity, global timing systems, superconductors, and powerful quantum computation.",
+      "layerId": "physics",
+      "domains": ["quantum-systems", "gravity", "advanced-physics"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2109,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Large-Scale Quantum Computers Solve Previously Impossible Problems becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Large-Scale Quantum Computers Solve Previously Impossible Problems",
+        "prompts": [
+          "large-Scale Quantum Computers Solve Previously Impossible Problems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing large-Scale Quantum Computers Solve Previously Impossible Problems, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of large-Scale Quantum Computers Solve Previously Impossible Problems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating large-Scale Quantum Computers Solve Previously Impossible Problems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-self-healing-buildings-become-standard-construction-practice",
+      "order": 44,
+      "slug": "self-healing-buildings-become-standard-construction-practice",
+      "title": "self-Healing Buildings Become Standard Construction Practice",
+      "shortTitle": "SelfHealing Buildings Construction Practice",
+      "category": "Materials & Manufacturing",
+      "description": "Self-Healing Buildings Become Standard Construction Practice turns manufacturing into a zero-waste, biodegradable, self-healing, and AI-designed foundation for planetary transformation.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2109,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Self-Healing Buildings Become Standard Construction Practice becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Circular manufacturing reduces demand for virgin materials",
+        "Buildings and infrastructure repair themselves",
+        "Molecular and programmable manufacturing reaches industrial use"
+      ],
+      "implications": [
+        "Housing and goods become cheaper",
+        "Waste declines dramatically",
+        "Infrastructure becomes more resilient and adaptive"
+      ],
+      "image": {
+        "alt": "Self-Healing Buildings Become Standard Construction Practice",
+        "prompts": [
+          "self-Healing Buildings Become Standard Construction Practice, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Buildings Become Standard Construction Practice, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Buildings Become Standard Construction Practice, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Buildings Become Standard Construction Practice, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-self-healing-buildings-become-standard-construction-practice.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-self-healing-buildings-become-standard-construction-practice.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-four-day-workweek-becomes-universal",
+      "order": 45,
+      "slug": "four-day-workweek-becomes-universal",
+      "title": "four-Day Workweek Becomes Universal",
+      "shortTitle": "FourDay Workweek Universal",
+      "category": "Society & Economy",
+      "description": "Four-Day Workweek Becomes Universal normalizes optional physical labor, universal services, creative work, and the decline of extreme poverty as planetary systems stabilize.",
+      "layerId": "society-economy",
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Four-Day Workweek Becomes Universal becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Universal services expand beyond traditional welfare",
+        "Work hours decline as automation improves productivity",
+        "Basic needs become less tied to employment or wealth"
+      ],
+      "implications": [
+        "Social stability improves",
+        "Human potential expands through education and access",
+        "Economic systems shift from survival to flourishing"
+      ],
+      "image": {
+        "alt": "Four-Day Workweek Becomes Universal",
+        "prompts": [
+          "four-Day Workweek Becomes Universal, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing four-Day Workweek Becomes Universal, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of four-Day Workweek Becomes Universal, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating four-Day Workweek Becomes Universal, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-four-day-workweek-becomes-universal.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-four-day-workweek-becomes-universal.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-four-day-workweek-becomes-universal.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-four-day-workweek-becomes-universal.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-four-day-workweek-becomes-universal.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-global-basic-services-replace-most-welfare-systems",
+      "order": 46,
+      "slug": "global-basic-services-replace-most-welfare-systems",
+      "title": "global Basic Services Replace Most Welfare Systems",
+      "shortTitle": "Global Basic Services Replace",
+      "category": "Society & Economy",
+      "description": "Global Basic Services Replace Most Welfare Systems normalizes optional physical labor, universal services, creative work, and the decline of extreme poverty as planetary systems stabilize.",
+      "layerId": "society-economy",
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2111,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Global Basic Services Replace Most Welfare Systems becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Universal services expand beyond traditional welfare",
+        "Work hours decline as automation improves productivity",
+        "Basic needs become less tied to employment or wealth"
+      ],
+      "implications": [
+        "Social stability improves",
+        "Human potential expands through education and access",
+        "Economic systems shift from survival to flourishing"
+      ],
+      "image": {
+        "alt": "Global Basic Services Replace Most Welfare Systems",
+        "prompts": [
+          "global Basic Services Replace Most Welfare Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Basic Services Replace Most Welfare Systems, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Basic Services Replace Most Welfare Systems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Basic Services Replace Most Welfare Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-global-basic-services-replace-most-welfare-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-basic-services-replace-most-welfare-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-human-work-becomes-primarily-creative-and-social",
+      "order": 47,
+      "slug": "human-work-becomes-primarily-creative-and-social",
+      "title": "human Work Becomes Primarily Creative and Social",
+      "shortTitle": "Human Work Primarily Creative",
+      "category": "Society & Economy",
+      "description": "Human Work Becomes Primarily Creative and Social normalizes optional physical labor, universal services, creative work, and the decline of extreme poverty as planetary systems stabilize.",
+      "layerId": "society-economy",
+      "domains": ["post-scarcity", "public-services", "economic-systems"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2112,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Human Work Becomes Primarily Creative and Social becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Universal services expand beyond traditional welfare",
+        "Work hours decline as automation improves productivity",
+        "Basic needs become less tied to employment or wealth"
+      ],
+      "implications": [
+        "Social stability improves",
+        "Human potential expands through education and access",
+        "Economic systems shift from survival to flourishing"
+      ],
+      "image": {
+        "alt": "Human Work Becomes Primarily Creative and Social",
+        "prompts": [
+          "human Work Becomes Primarily Creative and Social, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Work Becomes Primarily Creative and Social, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Work Becomes Primarily Creative and Social, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Work Becomes Primarily Creative and Social, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-human-work-becomes-primarily-creative-and-social.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-work-becomes-primarily-creative-and-social.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-planetary-governance-council-coordinates-global-challenges",
+      "order": 48,
+      "slug": "planetary-governance-council-coordinates-global-challenges",
+      "title": "planetary Governance Council Coordinates Global Challenges",
+      "shortTitle": "Planetary Governance Council Coordinates",
+      "category": "Civilization",
+      "description": "Planetary Governance Council Coordinates Global Challenges establishes planetary governance, human-AI rights, legally recognized AI-managed cities, and historically low violent conflict.",
+      "layerId": "civilization",
+      "domains": ["governance", "rights", "planetary-civilization"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2112,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Planetary Governance Council Coordinates Global Challenges becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Governance expands beyond nation-by-nation crisis response",
+        "Rights frameworks adapt to AI and advanced systems",
+        "Global institutions coordinate resources, peace, and public infrastructure"
+      ],
+      "implications": [
+        "Civilization becomes more coordinated at planetary scale",
+        "Political systems adapt to abundance and automation",
+        "Humanity gains institutions for planetary transformation"
+      ],
+      "image": {
+        "alt": "Planetary Governance Council Coordinates Global Challenges",
+        "prompts": [
+          "planetary Governance Council Coordinates Global Challenges, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Governance Council Coordinates Global Challenges, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Governance Council Coordinates Global Challenges, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Governance Council Coordinates Global Challenges, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-planetary-governance-council-coordinates-global-challenges.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-governance-council-coordinates-global-challenges.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-human-ai-rights-charter-is-ratified",
+      "order": 49,
+      "slug": "human-ai-rights-charter-is-ratified",
+      "title": "human-AI Rights Charter Is Ratified",
+      "shortTitle": "HumanAI Rights Charter Ratified",
+      "category": "Civilization",
+      "description": "Human-AI Rights Charter Is Ratified establishes planetary governance, human-AI rights, legally recognized AI-managed cities, and historically low violent conflict.",
+      "layerId": "civilization",
+      "domains": ["governance", "rights", "planetary-civilization"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2113,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Human-AI Rights Charter Is Ratified becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Governance expands beyond nation-by-nation crisis response",
+        "Rights frameworks adapt to AI and advanced systems",
+        "Global institutions coordinate resources, peace, and public infrastructure"
+      ],
+      "implications": [
+        "Civilization becomes more coordinated at planetary scale",
+        "Political systems adapt to abundance and automation",
+        "Humanity gains institutions for planetary transformation"
+      ],
+      "image": {
+        "alt": "Human-AI Rights Charter Is Ratified",
+        "prompts": [
+          "human-AI Rights Charter Is Ratified, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human-AI Rights Charter Is Ratified, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human-AI Rights Charter Is Ratified, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human-AI Rights Charter Is Ratified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-human-ai-rights-charter-is-ratified.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-human-ai-rights-charter-is-ratified.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-human-ai-rights-charter-is-ratified.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-human-ai-rights-charter-is-ratified.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-ai-rights-charter-is-ratified.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-global-violent-conflict-reaches-historic-low",
+      "order": 50,
+      "slug": "global-violent-conflict-reaches-historic-low",
+      "title": "global Violent Conflict Reaches Historic Low",
+      "shortTitle": "Global Violent Conflict Historic",
+      "category": "Civilization",
+      "description": "Global Violent Conflict Reaches Historic Low establishes planetary governance, human-AI rights, legally recognized AI-managed cities, and historically low violent conflict.",
+      "layerId": "civilization",
+      "domains": ["governance", "rights", "planetary-civilization"],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2114,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Global Violent Conflict Reaches Historic Low becomes a defining milestone of planetary transformation, enabling humanity to actively restore, optimize, and steward Earth as a consciously managed civilization.",
+      "signals": [
+        "Governance expands beyond nation-by-nation crisis response",
+        "Rights frameworks adapt to AI and advanced systems",
+        "Global institutions coordinate resources, peace, and public infrastructure"
+      ],
+      "implications": [
+        "Civilization becomes more coordinated at planetary scale",
+        "Political systems adapt to abundance and automation",
+        "Humanity gains institutions for planetary transformation"
+      ],
+      "image": {
+        "alt": "Global Violent Conflict Reaches Historic Low",
+        "prompts": [
+          "global Violent Conflict Reaches Historic Low, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Violent Conflict Reaches Historic Low, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Violent Conflict Reaches Historic Low, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Violent Conflict Reaches Historic Low, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-global-violent-conflict-reaches-historic-low.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-violent-conflict-reaches-historic-low.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

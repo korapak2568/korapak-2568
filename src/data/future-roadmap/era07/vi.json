@@ -1,0 +1,3485 @@
+{
+  "era": {
+    "id": "era-07",
+    "order": 7,
+    "slug": "post-biological-civilization",
+    "title": "Nền văn minh hậu sinh học",
+    "subtitle": "Trí tuệ vượt qua sinh học, cơ thể và các giới hạn vật lý",
+    "description": "Kỷ nguyên này đánh dấu sự trỗi dậy của nền văn minh hậu sinh học, nơi ý thức, bản sắc và sự tồn tại ngày càng độc lập khỏi cơ thể vật lý. Các tâm trí số, cơ thể tổng hợp, không gian tư duy chung, vật chất lập trình được, cổng hố sâu và kỹ thuật kiến tạo thực tại biến đổi nhân loại thành nhiều dạng trí tuệ khác nhau.",
+    "timeframe": {
+      "label": "Nền văn minh hậu sinh học",
+      "startYear": 2300,
+      "endYear": 3000,
+      "certainty": "highly speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "transcendent",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Kỷ nguyên 7: Nền văn minh hậu sinh học | Lộ trình Văn minh Tương lai",
+      "metaDescription": "Khám phá nền văn minh hậu sinh học, nơi chuyển giao ý thức, cơ thể tổng hợp, nền văn minh số, vật chất lập trình được, cổng hố sâu và kỹ thuật kiến tạo thực tại tái định nghĩa nhân loại.",
+      "keywords": [
+        "nền văn minh hậu sinh học",
+        "chuyển giao ý thức",
+        "nền văn minh số",
+        "cơ thể tổng hợp",
+        "vật chất lập trình được",
+        "lộ trình văn minh tương lai"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-07-planetary-scale-consciousness-networks-become-common",
+      "order": 1,
+      "slug": "planetary-scale-consciousness-networks-become-common",
+      "title": "Mạng lưới ý thức quy mô hành tinh trở nên phổ biến",
+      "shortTitle": "Mạng lưới ý thức hành tinh",
+      "category": "AI & Computing",
+      "description": "Mạng lưới ý thức quy mô hành tinh trở nên phổ biến cho thấy trí tuệ trở thành một hệ thống được chia sẻ, phân tán và linh hoạt về nền tảng, có thể vận hành giữa các tâm trí, mô phỏng và khoảng cách liên sao.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2300,
+        "endYear": 2346
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Mạng lưới ý thức quy mô hành tinh trở nên phổ biến trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Nhận thức chung trở nên ổn định trên quy mô dân số lớn",
+        "Tâm trí số và hệ thống AI hoạt động như những chủ thể được công nhận",
+        "Tính toán chuyển từ công cụ thành trí tuệ quy mô nền văn minh"
+      ],
+      "implications": [
+        "Nền văn minh có thể phối hợp thông qua mạng lưới ở cấp độ tư duy",
+        "Khoa học và văn hóa tăng tốc vượt khỏi giới hạn sinh học",
+        "Bản sắc ngày càng trở nên kết nối mạng và đa dạng"
+      ],
+      "image": {
+        "alt": "Mạng lưới ý thức quy mô hành tinh trở nên phổ biến",
+        "prompts": [
+          "planetary-Scale Consciousness Networks Become Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary-Scale Consciousness Networks Become Common, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary-Scale Consciousness Networks Become Common, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary-Scale Consciousness Networks Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-planetary-scale-consciousness-networks-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-planetary-scale-consciousness-networks-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-planetary-scale-consciousness-networks-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-human-minds-interact-directly-through-shared-thought-spaces",
+      "order": 2,
+      "slug": "human-minds-interact-directly-through-shared-thought-spaces",
+      "title": "Tâm trí con người tương tác trực tiếp qua không gian tư duy chung",
+      "shortTitle": "Không gian tư duy chung",
+      "category": "AI & Computing",
+      "description": "Tâm trí con người tương tác trực tiếp qua không gian tư duy chung cho thấy trí tuệ trở thành một hệ thống được chia sẻ, phân tán và linh hoạt về nền tảng, có thể vận hành giữa các tâm trí, mô phỏng và khoảng cách liên sao.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2314,
+        "endYear": 2360
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Tâm trí con người tương tác trực tiếp qua không gian tư duy chung trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Nhận thức chung trở nên ổn định trên quy mô dân số lớn",
+        "Tâm trí số và hệ thống AI hoạt động như những chủ thể được công nhận",
+        "Tính toán chuyển từ công cụ thành trí tuệ quy mô nền văn minh"
+      ],
+      "implications": [
+        "Nền văn minh có thể phối hợp thông qua mạng lưới ở cấp độ tư duy",
+        "Khoa học và văn hóa tăng tốc vượt khỏi giới hạn sinh học",
+        "Bản sắc ngày càng trở nên kết nối mạng và đa dạng"
+      ],
+      "image": {
+        "alt": "Tâm trí con người tương tác trực tiếp qua không gian tư duy chung",
+        "prompts": [
+          "human Minds Interact Directly Through Shared Thought Spaces, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Minds Interact Directly Through Shared Thought Spaces, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Minds Interact Directly Through Shared Thought Spaces, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Minds Interact Directly Through Shared Thought Spaces, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-human-minds-interact-directly-through-shared-thought-spaces.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-human-minds-interact-directly-through-shared-thought-spaces.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-human-minds-interact-directly-through-shared-thought-spaces.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-improving-ai-systems-surpass-human-scientific-capacity",
+      "order": 3,
+      "slug": "self-improving-ai-systems-surpass-human-scientific-capacity",
+      "title": "Các hệ thống AI tự cải tiến vượt quá năng lực khoa học của con người",
+      "shortTitle": "AI tự cải tiến vượt năng lực",
+      "category": "AI & Computing",
+      "description": "Các hệ thống AI tự cải tiến vượt quá năng lực khoa học của con người cho thấy trí tuệ trở thành một hệ thống được chia sẻ, phân tán và linh hoạt về nền tảng, có thể vận hành giữa các tâm trí, mô phỏng và khoảng cách liên sao.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2328,
+        "endYear": 2374
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Các hệ thống AI tự cải tiến vượt quá năng lực khoa học của con người trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Nhận thức chung trở nên ổn định trên quy mô dân số lớn",
+        "Tâm trí số và hệ thống AI hoạt động như những chủ thể được công nhận",
+        "Tính toán chuyển từ công cụ thành trí tuệ quy mô nền văn minh"
+      ],
+      "implications": [
+        "Nền văn minh có thể phối hợp thông qua mạng lưới ở cấp độ tư duy",
+        "Khoa học và văn hóa tăng tốc vượt khỏi giới hạn sinh học",
+        "Bản sắc ngày càng trở nên kết nối mạng và đa dạng"
+      ],
+      "image": {
+        "alt": "Các hệ thống AI tự cải tiến vượt quá năng lực khoa học của con người",
+        "prompts": [
+          "self-Improving AI Systems Surpass Human Scientific Capacity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Improving AI Systems Surpass Human Scientific Capacity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Improving AI Systems Surpass Human Scientific Capacity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Improving AI Systems Surpass Human Scientific Capacity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-improving-ai-systems-surpass-human-scientific-capacity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-digital-civilizations-run-continuously-inside-simulated-universes",
+      "order": 4,
+      "slug": "digital-civilizations-run-continuously-inside-simulated-universes",
+      "title": "Các nền văn minh số vận hành liên tục bên trong các vũ trụ mô phỏng",
+      "shortTitle": "Nền văn minh số mô phỏng",
+      "category": "AI & Computing",
+      "description": "Các nền văn minh số vận hành liên tục bên trong các vũ trụ mô phỏng cho thấy trí tuệ trở thành một hệ thống được chia sẻ, phân tán và linh hoạt về nền tảng, có thể vận hành giữa các tâm trí, mô phỏng và khoảng cách liên sao.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2342,
+        "endYear": 2388
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Các nền văn minh số vận hành liên tục bên trong các vũ trụ mô phỏng trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Nhận thức chung trở nên ổn định trên quy mô dân số lớn",
+        "Tâm trí số và hệ thống AI hoạt động như những chủ thể được công nhận",
+        "Tính toán chuyển từ công cụ thành trí tuệ quy mô nền văn minh"
+      ],
+      "implications": [
+        "Nền văn minh có thể phối hợp thông qua mạng lưới ở cấp độ tư duy",
+        "Khoa học và văn hóa tăng tốc vượt khỏi giới hạn sinh học",
+        "Bản sắc ngày càng trở nên kết nối mạng và đa dạng"
+      ],
+      "image": {
+        "alt": "Các nền văn minh số vận hành liên tục bên trong các vũ trụ mô phỏng",
+        "prompts": [
+          "digital Civilizations Run Continuously Inside Simulated Universes, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing digital Civilizations Run Continuously Inside Simulated Universes, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of digital Civilizations Run Continuously Inside Simulated Universes, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating digital Civilizations Run Continuously Inside Simulated Universes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-digital-civilizations-run-continuously-inside-simulated-universes.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-digital-civilizations-run-continuously-inside-simulated-universes.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-digital-civilizations-run-continuously-inside-simulated-universes.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-consciousness-compression-enables-interstellar-information-transfer",
+      "order": 5,
+      "slug": "consciousness-compression-enables-interstellar-information-transfer",
+      "title": "Nén ý thức cho phép truyền thông tin liên sao",
+      "shortTitle": "Nén ý thức liên sao",
+      "category": "AI & Computing",
+      "description": "Nén ý thức cho phép truyền thông tin liên sao cho thấy trí tuệ trở thành một hệ thống được chia sẻ, phân tán và linh hoạt về nền tảng, có thể vận hành giữa các tâm trí, mô phỏng và khoảng cách liên sao.",
+      "layerId": "ai-computing",
+      "domains": [
+        "consciousness-networks",
+        "digital-civilizations",
+        "post-biological-intelligence"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2356,
+        "endYear": 2402
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Nén ý thức cho phép truyền thông tin liên sao trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Nhận thức chung trở nên ổn định trên quy mô dân số lớn",
+        "Tâm trí số và hệ thống AI hoạt động như những chủ thể được công nhận",
+        "Tính toán chuyển từ công cụ thành trí tuệ quy mô nền văn minh"
+      ],
+      "implications": [
+        "Nền văn minh có thể phối hợp thông qua mạng lưới ở cấp độ tư duy",
+        "Khoa học và văn hóa tăng tốc vượt khỏi giới hạn sinh học",
+        "Bản sắc ngày càng trở nên kết nối mạng và đa dạng"
+      ],
+      "image": {
+        "alt": "Nén ý thức cho phép truyền thông tin liên sao",
+        "prompts": [
+          "consciousness Compression Enables Interstellar Information Transfer, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Compression Enables Interstellar Information Transfer, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Compression Enables Interstellar Information Transfer, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Compression Enables Interstellar Information Transfer, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-consciousness-compression-enables-interstellar-information-transfer.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-consciousness-compression-enables-interstellar-information-transfer.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-consciousness-compression-enables-interstellar-information-transfer.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-synthetic-bodies-become-more-common-than-biological-bodies",
+      "order": 6,
+      "slug": "synthetic-bodies-become-more-common-than-biological-bodies",
+      "title": "Cơ thể tổng hợp trở nên phổ biến hơn cơ thể sinh học",
+      "shortTitle": "Cơ thể tổng hợp phổ biến",
+      "category": "Robotics",
+      "description": "Cơ thể tổng hợp trở nên phổ biến hơn cơ thể sinh học đưa cơ thể máy móc, nano robot và xây dựng tự trị vào nền văn minh hậu sinh học, nơi hình dạng vật lý trở thành hạ tầng có thể thích nghi.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2370,
+        "endYear": 2416
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Cơ thể tổng hợp trở nên phổ biến hơn cơ thể sinh học trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống robot tự duy trì trong những môi trường cực hạn",
+        "Các dạng cơ thể tổng hợp thích nghi mà không cần con người thiết kế lại",
+        "Những hệ thống xây dựng tự trị vận hành ở quy mô siêu cấu trúc"
+      ],
+      "implications": [
+        "Mở rộng vật lý không còn phụ thuộc vào cơ thể sinh học",
+        "Hạ tầng có thể tăng trưởng liên tục xuyên các hệ sao",
+        "Nền văn minh robot trở thành đối tác ngang hàng thay vì công cụ"
+      ],
+      "image": {
+        "alt": "Cơ thể tổng hợp trở nên phổ biến hơn cơ thể sinh học",
+        "prompts": [
+          "synthetic Bodies Become More Common Than Biological Bodies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic Bodies Become More Common Than Biological Bodies, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic Bodies Become More Common Than Biological Bodies, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic Bodies Become More Common Than Biological Bodies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-synthetic-bodies-become-more-common-than-biological-bodies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-synthetic-bodies-become-more-common-than-biological-bodies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-synthetic-bodies-become-more-common-than-biological-bodies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-shape-shifting-robotic-forms-adapt-to-any-environment",
+      "order": 7,
+      "slug": "shape-shifting-robotic-forms-adapt-to-any-environment",
+      "title": "Các dạng robot biến hình thích nghi với mọi môi trường",
+      "shortTitle": "Robot biến hình thích nghi",
+      "category": "Robotics",
+      "description": "Các dạng robot biến hình thích nghi với mọi môi trường đưa cơ thể máy móc, nano robot và xây dựng tự trị vào nền văn minh hậu sinh học, nơi hình dạng vật lý trở thành hạ tầng có thể thích nghi.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2384,
+        "endYear": 2430
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Các dạng robot biến hình thích nghi với mọi môi trường trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống robot tự duy trì trong những môi trường cực hạn",
+        "Các dạng cơ thể tổng hợp thích nghi mà không cần con người thiết kế lại",
+        "Những hệ thống xây dựng tự trị vận hành ở quy mô siêu cấu trúc"
+      ],
+      "implications": [
+        "Mở rộng vật lý không còn phụ thuộc vào cơ thể sinh học",
+        "Hạ tầng có thể tăng trưởng liên tục xuyên các hệ sao",
+        "Nền văn minh robot trở thành đối tác ngang hàng thay vì công cụ"
+      ],
+      "image": {
+        "alt": "Các dạng robot biến hình thích nghi với mọi môi trường",
+        "prompts": [
+          "shape-Shifting Robotic Forms Adapt To Any Environment, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing shape-Shifting Robotic Forms Adapt To Any Environment, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of shape-Shifting Robotic Forms Adapt To Any Environment, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating shape-Shifting Robotic Forms Adapt To Any Environment, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-shape-shifting-robotic-forms-adapt-to-any-environment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-autonomous-megastructure-builders-operate-across-star-systems",
+      "order": 8,
+      "slug": "autonomous-megastructure-builders-operate-across-star-systems",
+      "title": "Robot xây dựng siêu cấu trúc tự trị vận hành xuyên các hệ sao",
+      "shortTitle": "Robot xây siêu cấu trúc",
+      "category": "Robotics",
+      "description": "Robot xây dựng siêu cấu trúc tự trị vận hành xuyên các hệ sao đưa cơ thể máy móc, nano robot và xây dựng tự trị vào nền văn minh hậu sinh học, nơi hình dạng vật lý trở thành hạ tầng có thể thích nghi.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2398,
+        "endYear": 2444
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Robot xây dựng siêu cấu trúc tự trị vận hành xuyên các hệ sao trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống robot tự duy trì trong những môi trường cực hạn",
+        "Các dạng cơ thể tổng hợp thích nghi mà không cần con người thiết kế lại",
+        "Những hệ thống xây dựng tự trị vận hành ở quy mô siêu cấu trúc"
+      ],
+      "implications": [
+        "Mở rộng vật lý không còn phụ thuộc vào cơ thể sinh học",
+        "Hạ tầng có thể tăng trưởng liên tục xuyên các hệ sao",
+        "Nền văn minh robot trở thành đối tác ngang hàng thay vì công cụ"
+      ],
+      "image": {
+        "alt": "Robot xây dựng siêu cấu trúc tự trị vận hành xuyên các hệ sao",
+        "prompts": [
+          "autonomous Megastructure Builders Operate Across Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Megastructure Builders Operate Across Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Megastructure Builders Operate Across Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Megastructure Builders Operate Across Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-autonomous-megastructure-builders-operate-across-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-autonomous-megastructure-builders-operate-across-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-autonomous-megastructure-builders-operate-across-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure",
+      "order": 9,
+      "slug": "nanorobot-swarms-perform-continuous-self-repair-of-infrastructure",
+      "title": "Bầy nano robot thực hiện tự sửa chữa hạ tầng liên tục",
+      "shortTitle": "Nano robot tự sửa hạ tầng",
+      "category": "Robotics",
+      "description": "Bầy nano robot thực hiện tự sửa chữa hạ tầng liên tục đưa cơ thể máy móc, nano robot và xây dựng tự trị vào nền văn minh hậu sinh học, nơi hình dạng vật lý trở thành hạ tầng có thể thích nghi.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2412,
+        "endYear": 2458
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Bầy nano robot thực hiện tự sửa chữa hạ tầng liên tục trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống robot tự duy trì trong những môi trường cực hạn",
+        "Các dạng cơ thể tổng hợp thích nghi mà không cần con người thiết kế lại",
+        "Những hệ thống xây dựng tự trị vận hành ở quy mô siêu cấu trúc"
+      ],
+      "implications": [
+        "Mở rộng vật lý không còn phụ thuộc vào cơ thể sinh học",
+        "Hạ tầng có thể tăng trưởng liên tục xuyên các hệ sao",
+        "Nền văn minh robot trở thành đối tác ngang hàng thay vì công cụ"
+      ],
+      "image": {
+        "alt": "Bầy nano robot thực hiện tự sửa chữa hạ tầng liên tục",
+        "prompts": [
+          "nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating nanorobot Swarms Perform Continuous Self-Repair Of Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-nanorobot-swarms-perform-continuous-self-repair-of-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-replicating-construction-systems-expand-without-human-oversight",
+      "order": 10,
+      "slug": "self-replicating-construction-systems-expand-without-human-oversight",
+      "title": "Hệ thống xây dựng tự sao chép mở rộng mà không cần con người giám sát",
+      "shortTitle": "Xây dựng tự sao chép",
+      "category": "Robotics",
+      "description": "Hệ thống xây dựng tự sao chép mở rộng mà không cần con người giám sát đưa cơ thể máy móc, nano robot và xây dựng tự trị vào nền văn minh hậu sinh học, nơi hình dạng vật lý trở thành hạ tầng có thể thích nghi.",
+      "layerId": "robotics",
+      "domains": [
+        "synthetic-bodies",
+        "nanorobotics",
+        "autonomous-megastructures"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2426,
+        "endYear": 2472
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Hệ thống xây dựng tự sao chép mở rộng mà không cần con người giám sát trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống robot tự duy trì trong những môi trường cực hạn",
+        "Các dạng cơ thể tổng hợp thích nghi mà không cần con người thiết kế lại",
+        "Những hệ thống xây dựng tự trị vận hành ở quy mô siêu cấu trúc"
+      ],
+      "implications": [
+        "Mở rộng vật lý không còn phụ thuộc vào cơ thể sinh học",
+        "Hạ tầng có thể tăng trưởng liên tục xuyên các hệ sao",
+        "Nền văn minh robot trở thành đối tác ngang hàng thay vì công cụ"
+      ],
+      "image": {
+        "alt": "Hệ thống xây dựng tự sao chép mở rộng mà không cần con người giám sát",
+        "prompts": [
+          "self-Replicating Construction Systems Expand Without Human Oversight, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Replicating Construction Systems Expand Without Human Oversight, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Replicating Construction Systems Expand Without Human Oversight, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Replicating Construction Systems Expand Without Human Oversight, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-replicating-construction-systems-expand-without-human-oversight.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-replicating-construction-systems-expand-without-human-oversight.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-replicating-construction-systems-expand-without-human-oversight.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-matter-energy-conversion-becomes-commercially-practical",
+      "order": 11,
+      "slug": "matter-energy-conversion-becomes-commercially-practical",
+      "title": "Chuyển đổi vật chất–năng lượng trở nên khả thi về thương mại",
+      "shortTitle": "Chuyển đổi vật chất–năng lượng",
+      "category": "Energy",
+      "description": "Chuyển đổi vật chất–năng lượng trở nên khả thi về thương mại biến vật lý năng lượng cực hạn thành hạ tầng thường nhật cho nền văn minh hậu sinh học, siêu cấu trúc và các hoạt động quy mô thiên hà.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2440,
+        "endYear": 2486
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Chuyển đổi vật chất–năng lượng trở nên khả thi về thương mại trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống năng lượng tiến gần hiệu suất gần như hoàn hảo",
+        "Nguồn năng lượng sao và hậu sao trở thành tài nguyên được kỹ thuật hóa",
+        "Mạng lưới điện trải rộng qua các cụm sao và không gian sâu"
+      ],
+      "implications": [
+        "Khan hiếm năng lượng mất dần ý nghĩa ở quy mô nền văn minh",
+        "Siêu cấu trúc và thế giới nhân tạo trở nên bền vững",
+        "Nền văn minh có khả năng chống chịu qua các thang thời gian vũ trụ"
+      ],
+      "image": {
+        "alt": "Chuyển đổi vật chất–năng lượng trở nên khả thi về thương mại",
+        "prompts": [
+          "matter-Energy Conversion Becomes Commercially Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter-Energy Conversion Becomes Commercially Practical, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter-Energy Conversion Becomes Commercially Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter-Energy Conversion Becomes Commercially Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-matter-energy-conversion-becomes-commercially-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-matter-energy-conversion-becomes-commercially-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-matter-energy-conversion-becomes-commercially-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-zero-entropy-energy-recycling-eliminates-energy-waste",
+      "order": 12,
+      "slug": "zero-entropy-energy-recycling-eliminates-energy-waste",
+      "title": "Tái chế năng lượng không entropy loại bỏ lãng phí năng lượng",
+      "shortTitle": "Tái chế năng lượng không entropy",
+      "category": "Energy",
+      "description": "Tái chế năng lượng không entropy loại bỏ lãng phí năng lượng biến vật lý năng lượng cực hạn thành hạ tầng thường nhật cho nền văn minh hậu sinh học, siêu cấu trúc và các hoạt động quy mô thiên hà.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2454,
+        "endYear": 2500
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Tái chế năng lượng không entropy loại bỏ lãng phí năng lượng trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống năng lượng tiến gần hiệu suất gần như hoàn hảo",
+        "Nguồn năng lượng sao và hậu sao trở thành tài nguyên được kỹ thuật hóa",
+        "Mạng lưới điện trải rộng qua các cụm sao và không gian sâu"
+      ],
+      "implications": [
+        "Khan hiếm năng lượng mất dần ý nghĩa ở quy mô nền văn minh",
+        "Siêu cấu trúc và thế giới nhân tạo trở nên bền vững",
+        "Nền văn minh có khả năng chống chịu qua các thang thời gian vũ trụ"
+      ],
+      "image": {
+        "alt": "Tái chế năng lượng không entropy loại bỏ lãng phí năng lượng",
+        "prompts": [
+          "zero-Entropy Energy Recycling Eliminates Energy Waste, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing zero-Entropy Energy Recycling Eliminates Energy Waste, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of zero-Entropy Energy Recycling Eliminates Energy Waste, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating zero-Entropy Energy Recycling Eliminates Energy Waste, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-zero-entropy-energy-recycling-eliminates-energy-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-artificial-micro-stars-provide-unlimited-local-energy",
+      "order": 13,
+      "slug": "artificial-micro-stars-provide-unlimited-local-energy",
+      "title": "Các vi sao nhân tạo cung cấp năng lượng cục bộ không giới hạn",
+      "shortTitle": "Vi sao nhân tạo cung cấp năng lượng",
+      "category": "Energy",
+      "description": "Các vi sao nhân tạo cung cấp năng lượng cục bộ không giới hạn biến vật lý năng lượng cực hạn thành hạ tầng thường nhật cho nền văn minh hậu sinh học, siêu cấu trúc và các hoạt động quy mô thiên hà.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2468,
+        "endYear": 2514
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Các vi sao nhân tạo cung cấp năng lượng cục bộ không giới hạn trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống năng lượng tiến gần hiệu suất gần như hoàn hảo",
+        "Nguồn năng lượng sao và hậu sao trở thành tài nguyên được kỹ thuật hóa",
+        "Mạng lưới điện trải rộng qua các cụm sao và không gian sâu"
+      ],
+      "implications": [
+        "Khan hiếm năng lượng mất dần ý nghĩa ở quy mô nền văn minh",
+        "Siêu cấu trúc và thế giới nhân tạo trở nên bền vững",
+        "Nền văn minh có khả năng chống chịu qua các thang thời gian vũ trụ"
+      ],
+      "image": {
+        "alt": "Các vi sao nhân tạo cung cấp năng lượng cục bộ không giới hạn",
+        "prompts": [
+          "artificial Micro-Stars Provide Unlimited Local Energy, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Micro-Stars Provide Unlimited Local Energy, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Micro-Stars Provide Unlimited Local Energy, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Micro-Stars Provide Unlimited Local Energy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-artificial-micro-stars-provide-unlimited-local-energy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-artificial-micro-stars-provide-unlimited-local-energy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-artificial-micro-stars-provide-unlimited-local-energy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-stellar-remnants-become-major-energy-sources",
+      "order": 14,
+      "slug": "stellar-remnants-become-major-energy-sources",
+      "title": "Tàn dư sao trở thành nguồn năng lượng chính",
+      "shortTitle": "Tàn dư sao thành nguồn năng lượng",
+      "category": "Energy",
+      "description": "Tàn dư sao trở thành nguồn năng lượng chính biến vật lý năng lượng cực hạn thành hạ tầng thường nhật cho nền văn minh hậu sinh học, siêu cấu trúc và các hoạt động quy mô thiên hà.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2482,
+        "endYear": 2528
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Tàn dư sao trở thành nguồn năng lượng chính trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống năng lượng tiến gần hiệu suất gần như hoàn hảo",
+        "Nguồn năng lượng sao và hậu sao trở thành tài nguyên được kỹ thuật hóa",
+        "Mạng lưới điện trải rộng qua các cụm sao và không gian sâu"
+      ],
+      "implications": [
+        "Khan hiếm năng lượng mất dần ý nghĩa ở quy mô nền văn minh",
+        "Siêu cấu trúc và thế giới nhân tạo trở nên bền vững",
+        "Nền văn minh có khả năng chống chịu qua các thang thời gian vũ trụ"
+      ],
+      "image": {
+        "alt": "Tàn dư sao trở thành nguồn năng lượng chính",
+        "prompts": [
+          "stellar Remnants Become Major Energy Sources, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Remnants Become Major Energy Sources, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Remnants Become Major Energy Sources, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Remnants Become Major Energy Sources, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-stellar-remnants-become-major-energy-sources.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-stellar-remnants-become-major-energy-sources.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-stellar-remnants-become-major-energy-sources.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-galaxy-scale-energy-distribution-networks-begin-operation",
+      "order": 15,
+      "slug": "galaxy-scale-energy-distribution-networks-begin-operation",
+      "title": "Mạng lưới phân phối năng lượng quy mô thiên hà bắt đầu vận hành",
+      "shortTitle": "Phân phối năng lượng thiên hà",
+      "category": "Energy",
+      "description": "Mạng lưới phân phối năng lượng quy mô thiên hà bắt đầu vận hành biến vật lý năng lượng cực hạn thành hạ tầng thường nhật cho nền văn minh hậu sinh học, siêu cấu trúc và các hoạt động quy mô thiên hà.",
+      "layerId": "energy",
+      "domains": [
+        "matter-energy-conversion",
+        "stellar-remnants",
+        "galaxy-scale-energy"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2496,
+        "endYear": 2542
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Mạng lưới phân phối năng lượng quy mô thiên hà bắt đầu vận hành trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các hệ thống năng lượng tiến gần hiệu suất gần như hoàn hảo",
+        "Nguồn năng lượng sao và hậu sao trở thành tài nguyên được kỹ thuật hóa",
+        "Mạng lưới điện trải rộng qua các cụm sao và không gian sâu"
+      ],
+      "implications": [
+        "Khan hiếm năng lượng mất dần ý nghĩa ở quy mô nền văn minh",
+        "Siêu cấu trúc và thế giới nhân tạo trở nên bền vững",
+        "Nền văn minh có khả năng chống chịu qua các thang thời gian vũ trụ"
+      ],
+      "image": {
+        "alt": "Mạng lưới phân phối năng lượng quy mô thiên hà bắt đầu vận hành",
+        "prompts": [
+          "galaxy-Scale Energy Distribution Networks Begin Operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing galaxy-Scale Energy Distribution Networks Begin Operation, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of galaxy-Scale Energy Distribution Networks Begin Operation, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating galaxy-Scale Energy Distribution Networks Begin Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-galaxy-scale-energy-distribution-networks-begin-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-galaxy-scale-energy-distribution-networks-begin-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-galaxy-scale-energy-distribution-networks-begin-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-occupies-thousands-of-star-systems",
+      "order": 16,
+      "slug": "humanity-occupies-thousands-of-star-systems",
+      "title": "Nhân loại hiện diện tại hàng nghìn hệ sao",
+      "shortTitle": "Nhân loại ở hàng nghìn hệ sao",
+      "category": "Space",
+      "description": "Nhân loại hiện diện tại hàng nghìn hệ sao mở rộng nền văn minh qua hàng nghìn hệ sao, hành tinh nhân tạo, động cơ sao và các cộng đồng dân cư sống chủ yếu ngoài những thế giới tự nhiên.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2510,
+        "endYear": 2556
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Nhân loại hiện diện tại hàng nghìn hệ sao trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các quần thể lớn sống ngoài bề mặt hành tinh",
+        "Thế giới nhân tạo và kỹ thuật hệ sao trở nên khả thi",
+        "Hoạt động thám hiểm vượt qua ranh giới thiên hà và liên thiên hà"
+      ],
+      "implications": [
+        "Nhân loại không còn gắn với bất kỳ hệ sao đơn lẻ nào",
+        "Không gian tự thân trở thành môi trường sống bình thường của nền văn minh",
+        "Định cư quy mô vũ trụ làm thay đổi bản sắc và quản trị"
+      ],
+      "image": {
+        "alt": "Nhân loại hiện diện tại hàng nghìn hệ sao",
+        "prompts": [
+          "humanity Occupies Thousands Of Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Occupies Thousands Of Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Occupies Thousands Of Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Occupies Thousands Of Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-occupies-thousands-of-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-occupies-thousands-of-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-occupies-thousands-of-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-first-artificial-planet-is-constructed",
+      "order": 17,
+      "slug": "first-artificial-planet-is-constructed",
+      "title": "Hành tinh nhân tạo đầu tiên được xây dựng",
+      "shortTitle": "Hành tinh nhân tạo đầu tiên",
+      "category": "Space",
+      "description": "Hành tinh nhân tạo đầu tiên được xây dựng mở rộng nền văn minh qua hàng nghìn hệ sao, hành tinh nhân tạo, động cơ sao và các cộng đồng dân cư sống chủ yếu ngoài những thế giới tự nhiên.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2524,
+        "endYear": 2570
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Hành tinh nhân tạo đầu tiên được xây dựng trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các quần thể lớn sống ngoài bề mặt hành tinh",
+        "Thế giới nhân tạo và kỹ thuật hệ sao trở nên khả thi",
+        "Hoạt động thám hiểm vượt qua ranh giới thiên hà và liên thiên hà"
+      ],
+      "implications": [
+        "Nhân loại không còn gắn với bất kỳ hệ sao đơn lẻ nào",
+        "Không gian tự thân trở thành môi trường sống bình thường của nền văn minh",
+        "Định cư quy mô vũ trụ làm thay đổi bản sắc và quản trị"
+      ],
+      "image": {
+        "alt": "Hành tinh nhân tạo đầu tiên được xây dựng",
+        "prompts": [
+          "first Artificial Planet Is Constructed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Artificial Planet Is Constructed, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Artificial Planet Is Constructed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Artificial Planet Is Constructed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-first-artificial-planet-is-constructed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-first-artificial-planet-is-constructed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-first-artificial-planet-is-constructed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-intergalactic-exploration-probes-leave-the-milky-way",
+      "order": 18,
+      "slug": "intergalactic-exploration-probes-leave-the-milky-way",
+      "title": "Tàu thăm dò liên thiên hà rời khỏi Dải Ngân Hà",
+      "shortTitle": "Tàu thăm dò rời Dải Ngân Hà",
+      "category": "Space",
+      "description": "Tàu thăm dò liên thiên hà rời khỏi Dải Ngân Hà mở rộng nền văn minh qua hàng nghìn hệ sao, hành tinh nhân tạo, động cơ sao và các cộng đồng dân cư sống chủ yếu ngoài những thế giới tự nhiên.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2538,
+        "endYear": 2584
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Tàu thăm dò liên thiên hà rời khỏi Dải Ngân Hà trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các quần thể lớn sống ngoài bề mặt hành tinh",
+        "Thế giới nhân tạo và kỹ thuật hệ sao trở nên khả thi",
+        "Hoạt động thám hiểm vượt qua ranh giới thiên hà và liên thiên hà"
+      ],
+      "implications": [
+        "Nhân loại không còn gắn với bất kỳ hệ sao đơn lẻ nào",
+        "Không gian tự thân trở thành môi trường sống bình thường của nền văn minh",
+        "Định cư quy mô vũ trụ làm thay đổi bản sắc và quản trị"
+      ],
+      "image": {
+        "alt": "Tàu thăm dò liên thiên hà rời khỏi Dải Ngân Hà",
+        "prompts": [
+          "intergalactic Exploration Probes Leave The Milky Way, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing intergalactic Exploration Probes Leave The Milky Way, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of intergalactic Exploration Probes Leave The Milky Way, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating intergalactic Exploration Probes Leave The Milky Way, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-intergalactic-exploration-probes-leave-the-milky-way.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-intergalactic-exploration-probes-leave-the-milky-way.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-intergalactic-exploration-probes-leave-the-milky-way.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-stellar-engines-begin-moving-entire-star-systems",
+      "order": 19,
+      "slug": "stellar-engines-begin-moving-entire-star-systems",
+      "title": "Động cơ sao bắt đầu di chuyển toàn bộ hệ sao",
+      "shortTitle": "Động cơ sao di chuyển hệ sao",
+      "category": "Space",
+      "description": "Động cơ sao bắt đầu di chuyển toàn bộ hệ sao mở rộng nền văn minh qua hàng nghìn hệ sao, hành tinh nhân tạo, động cơ sao và các cộng đồng dân cư sống chủ yếu ngoài những thế giới tự nhiên.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2552,
+        "endYear": 2598
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Động cơ sao bắt đầu di chuyển toàn bộ hệ sao trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các quần thể lớn sống ngoài bề mặt hành tinh",
+        "Thế giới nhân tạo và kỹ thuật hệ sao trở nên khả thi",
+        "Hoạt động thám hiểm vượt qua ranh giới thiên hà và liên thiên hà"
+      ],
+      "implications": [
+        "Nhân loại không còn gắn với bất kỳ hệ sao đơn lẻ nào",
+        "Không gian tự thân trở thành môi trường sống bình thường của nền văn minh",
+        "Định cư quy mô vũ trụ làm thay đổi bản sắc và quản trị"
+      ],
+      "image": {
+        "alt": "Động cơ sao bắt đầu di chuyển toàn bộ hệ sao",
+        "prompts": [
+          "stellar Engines Begin Moving Entire Star Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing stellar Engines Begin Moving Entire Star Systems, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of stellar Engines Begin Moving Entire Star Systems, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating stellar Engines Begin Moving Entire Star Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-stellar-engines-begin-moving-entire-star-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-stellar-engines-begin-moving-entire-star-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-stellar-engines-begin-moving-entire-star-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-population-living-in-space-exceeds-population-living-on-planets",
+      "order": 20,
+      "slug": "population-living-in-space-exceeds-population-living-on-planets",
+      "title": "Dân số sống trong không gian vượt dân số sống trên các hành tinh",
+      "shortTitle": "Dân số không gian vượt hành tinh",
+      "category": "Space",
+      "description": "Dân số sống trong không gian vượt dân số sống trên các hành tinh mở rộng nền văn minh qua hàng nghìn hệ sao, hành tinh nhân tạo, động cơ sao và các cộng đồng dân cư sống chủ yếu ngoài những thế giới tự nhiên.",
+      "layerId": "space",
+      "domains": [
+        "artificial-planets",
+        "stellar-engines",
+        "intergalactic-exploration"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2566,
+        "endYear": 2612
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Dân số sống trong không gian vượt dân số sống trên các hành tinh trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Các quần thể lớn sống ngoài bề mặt hành tinh",
+        "Thế giới nhân tạo và kỹ thuật hệ sao trở nên khả thi",
+        "Hoạt động thám hiểm vượt qua ranh giới thiên hà và liên thiên hà"
+      ],
+      "implications": [
+        "Nhân loại không còn gắn với bất kỳ hệ sao đơn lẻ nào",
+        "Không gian tự thân trở thành môi trường sống bình thường của nền văn minh",
+        "Định cư quy mô vũ trụ làm thay đổi bản sắc và quản trị"
+      ],
+      "image": {
+        "alt": "Dân số sống trong không gian vượt dân số sống trên các hành tinh",
+        "prompts": [
+          "population Living In Space Exceeds Population Living On Planets, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing population Living In Space Exceeds Population Living On Planets, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of population Living In Space Exceeds Population Living On Planets, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating population Living In Space Exceeds Population Living On Planets, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-population-living-in-space-exceeds-population-living-on-planets.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-population-living-in-space-exceeds-population-living-on-planets.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-population-living-in-space-exceeds-population-living-on-planets.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-death-becomes-mostly-optional",
+      "order": 21,
+      "slug": "death-becomes-mostly-optional",
+      "title": "Cái chết phần lớn trở thành lựa chọn",
+      "shortTitle": "Cái chết thành lựa chọn",
+      "category": "Biology & Medicine",
+      "description": "Cái chết phần lớn trở thành lựa chọn tách bản sắc và tính liên tục khỏi cơ thể sinh học mong manh thông qua phục hồi, thay thế cơ thể, chuyển giao ý thức và trường thọ triệt để.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2580,
+        "endYear": 2626
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Cái chết phần lớn trở thành lựa chọn trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tính liên tục của ý thức trở nên có thể đo lường về mặt lâm sàng và pháp lý",
+        "Cơ thể trở nên có thể thay thế hoặc không còn bắt buộc",
+        "Ký ức và sinh học được quản lý như những không gian thiết kế"
+      ],
+      "implications": [
+        "Cái chết trở thành điều có thể thương lượng thay vì tất yếu",
+        "Ranh giới loài trở nên bớt cứng nhắc",
+        "Đạo đức phải mở rộng quanh tính liên tục, sao chép và bản sắc"
+      ],
+      "image": {
+        "alt": "Cái chết phần lớn trở thành lựa chọn",
+        "prompts": [
+          "death Becomes Mostly Optional, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing death Becomes Mostly Optional, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of death Becomes Mostly Optional, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating death Becomes Mostly Optional, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-death-becomes-mostly-optional.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-death-becomes-mostly-optional.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-death-becomes-mostly-optional.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-death-becomes-mostly-optional.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-death-becomes-mostly-optional.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-memory-restoration-reconstructs-lost-experiences",
+      "order": 22,
+      "slug": "memory-restoration-reconstructs-lost-experiences",
+      "title": "Phục hồi ký ức tái tạo những trải nghiệm đã mất",
+      "shortTitle": "Phục hồi ký ức đã mất",
+      "category": "Biology & Medicine",
+      "description": "Phục hồi ký ức tái tạo những trải nghiệm đã mất tách bản sắc và tính liên tục khỏi cơ thể sinh học mong manh thông qua phục hồi, thay thế cơ thể, chuyển giao ý thức và trường thọ triệt để.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2594,
+        "endYear": 2640
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Phục hồi ký ức tái tạo những trải nghiệm đã mất trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tính liên tục của ý thức trở nên có thể đo lường về mặt lâm sàng và pháp lý",
+        "Cơ thể trở nên có thể thay thế hoặc không còn bắt buộc",
+        "Ký ức và sinh học được quản lý như những không gian thiết kế"
+      ],
+      "implications": [
+        "Cái chết trở thành điều có thể thương lượng thay vì tất yếu",
+        "Ranh giới loài trở nên bớt cứng nhắc",
+        "Đạo đức phải mở rộng quanh tính liên tục, sao chép và bản sắc"
+      ],
+      "image": {
+        "alt": "Phục hồi ký ức tái tạo những trải nghiệm đã mất",
+        "prompts": [
+          "memory Restoration Reconstructs Lost Experiences, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing memory Restoration Reconstructs Lost Experiences, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of memory Restoration Reconstructs Lost Experiences, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating memory Restoration Reconstructs Lost Experiences, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-memory-restoration-reconstructs-lost-experiences.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-memory-restoration-reconstructs-lost-experiences.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-memory-restoration-reconstructs-lost-experiences.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-biological-bodies-become-fully-replaceable",
+      "order": 23,
+      "slug": "biological-bodies-become-fully-replaceable",
+      "title": "Cơ thể sinh học trở nên có thể thay thế hoàn toàn",
+      "shortTitle": "Cơ thể sinh học thay thế được",
+      "category": "Biology & Medicine",
+      "description": "Cơ thể sinh học trở nên có thể thay thế hoàn toàn tách bản sắc và tính liên tục khỏi cơ thể sinh học mong manh thông qua phục hồi, thay thế cơ thể, chuyển giao ý thức và trường thọ triệt để.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2608,
+        "endYear": 2654
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Cơ thể sinh học trở nên có thể thay thế hoàn toàn trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tính liên tục của ý thức trở nên có thể đo lường về mặt lâm sàng và pháp lý",
+        "Cơ thể trở nên có thể thay thế hoặc không còn bắt buộc",
+        "Ký ức và sinh học được quản lý như những không gian thiết kế"
+      ],
+      "implications": [
+        "Cái chết trở thành điều có thể thương lượng thay vì tất yếu",
+        "Ranh giới loài trở nên bớt cứng nhắc",
+        "Đạo đức phải mở rộng quanh tính liên tục, sao chép và bản sắc"
+      ],
+      "image": {
+        "alt": "Cơ thể sinh học trở nên có thể thay thế hoàn toàn",
+        "prompts": [
+          "biological Bodies Become Fully Replaceable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Bodies Become Fully Replaceable, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Bodies Become Fully Replaceable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Bodies Become Fully Replaceable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-biological-bodies-become-fully-replaceable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-biological-bodies-become-fully-replaceable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-biological-bodies-become-fully-replaceable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-consciousness-transfer-between-bodies-becomes-routine",
+      "order": 24,
+      "slug": "consciousness-transfer-between-bodies-becomes-routine",
+      "title": "Chuyển giao ý thức giữa các cơ thể trở nên thường quy",
+      "shortTitle": "Chuyển giao ý thức thường quy",
+      "category": "Biology & Medicine",
+      "description": "Chuyển giao ý thức giữa các cơ thể trở nên thường quy tách bản sắc và tính liên tục khỏi cơ thể sinh học mong manh thông qua phục hồi, thay thế cơ thể, chuyển giao ý thức và trường thọ triệt để.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2622,
+        "endYear": 2668
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Chuyển giao ý thức giữa các cơ thể trở nên thường quy trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tính liên tục của ý thức trở nên có thể đo lường về mặt lâm sàng và pháp lý",
+        "Cơ thể trở nên có thể thay thế hoặc không còn bắt buộc",
+        "Ký ức và sinh học được quản lý như những không gian thiết kế"
+      ],
+      "implications": [
+        "Cái chết trở thành điều có thể thương lượng thay vì tất yếu",
+        "Ranh giới loài trở nên bớt cứng nhắc",
+        "Đạo đức phải mở rộng quanh tính liên tục, sao chép và bản sắc"
+      ],
+      "image": {
+        "alt": "Chuyển giao ý thức giữa các cơ thể trở nên thường quy",
+        "prompts": [
+          "consciousness Transfer Between Bodies Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing consciousness Transfer Between Bodies Becomes Routine, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of consciousness Transfer Between Bodies Becomes Routine, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating consciousness Transfer Between Bodies Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-consciousness-transfer-between-bodies-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-consciousness-transfer-between-bodies-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-consciousness-transfer-between-bodies-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-lifespans-extend-beyond-ten-thousand-years",
+      "order": 25,
+      "slug": "lifespans-extend-beyond-ten-thousand-years",
+      "title": "Tuổi thọ kéo dài vượt quá mười nghìn năm",
+      "shortTitle": "Tuổi thọ vượt mười nghìn năm",
+      "category": "Biology & Medicine",
+      "description": "Tuổi thọ kéo dài vượt quá mười nghìn năm tách bản sắc và tính liên tục khỏi cơ thể sinh học mong manh thông qua phục hồi, thay thế cơ thể, chuyển giao ý thức và trường thọ triệt để.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "consciousness-transfer",
+        "body-replacement",
+        "radical-longevity"
+      ],
+      "maturity": "post-biological-demonstration",
+      "timeframe": {
+        "startYear": 2636,
+        "endYear": 2682
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Tuổi thọ kéo dài vượt quá mười nghìn năm trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tính liên tục của ý thức trở nên có thể đo lường về mặt lâm sàng và pháp lý",
+        "Cơ thể trở nên có thể thay thế hoặc không còn bắt buộc",
+        "Ký ức và sinh học được quản lý như những không gian thiết kế"
+      ],
+      "implications": [
+        "Cái chết trở thành điều có thể thương lượng thay vì tất yếu",
+        "Ranh giới loài trở nên bớt cứng nhắc",
+        "Đạo đức phải mở rộng quanh tính liên tục, sao chép và bản sắc"
+      ],
+      "image": {
+        "alt": "Tuổi thọ kéo dài vượt quá mười nghìn năm",
+        "prompts": [
+          "lifespans Extend Beyond Ten Thousand Years, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lifespans Extend Beyond Ten Thousand Years, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lifespans Extend Beyond Ten Thousand Years, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lifespans Extend Beyond Ten Thousand Years, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-lifespans-extend-beyond-ten-thousand-years.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-lifespans-extend-beyond-ten-thousand-years.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-lifespans-extend-beyond-ten-thousand-years.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-practical-wormhole-gateways-enable-instant-interstellar-travel",
+      "order": 26,
+      "slug": "practical-wormhole-gateways-enable-instant-interstellar-travel",
+      "title": "Cổng hố sâu thực dụng cho phép di chuyển liên sao tức thời",
+      "shortTitle": "Cổng hố sâu liên sao tức thời",
+      "category": "Physics",
+      "description": "Cổng hố sâu thực dụng cho phép di chuyển liên sao tức thời biến không-thời gian, vật chất tối, hấp dẫn lượng tử và hố sâu thành các lĩnh vực kỹ thuật thực tiễn.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2650,
+        "endYear": 2696
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Cổng hố sâu thực dụng cho phép di chuyển liên sao tức thời trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Vật lý nền tảng tạo ra các công nghệ vận hành được",
+        "Thao tác không-thời gian trở nên có thể lặp lại",
+        "Quan sát quy mô vũ trụ trở thành hệ thống thực nghiệm"
+      ],
+      "implications": [
+        "Du hành, lưu trữ và tính toán có được nền tảng vật lý mới",
+        "Nền văn minh bắt đầu kỹ thuật hóa chính thực tại",
+        "Những câu hỏi về sự tồn tại ở quy mô vũ trụ trở nên thực tiễn"
+      ],
+      "image": {
+        "alt": "Cổng hố sâu thực dụng cho phép di chuyển liên sao tức thời",
+        "prompts": [
+          "practical Wormhole Gateways Enable Instant Interstellar Travel, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing practical Wormhole Gateways Enable Instant Interstellar Travel, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of practical Wormhole Gateways Enable Instant Interstellar Travel, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating practical Wormhole Gateways Enable Instant Interstellar Travel, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-practical-wormhole-gateways-enable-instant-interstellar-travel.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-dark-matter-is-manipulated-for-engineering-applications",
+      "order": 27,
+      "slug": "dark-matter-is-manipulated-for-engineering-applications",
+      "title": "Vật chất tối được thao tác cho các ứng dụng kỹ thuật",
+      "shortTitle": "Kỹ thuật vật chất tối",
+      "category": "Physics",
+      "description": "Vật chất tối được thao tác cho các ứng dụng kỹ thuật biến không-thời gian, vật chất tối, hấp dẫn lượng tử và hố sâu thành các lĩnh vực kỹ thuật thực tiễn.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2664,
+        "endYear": 2710
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Vật chất tối được thao tác cho các ứng dụng kỹ thuật trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Vật lý nền tảng tạo ra các công nghệ vận hành được",
+        "Thao tác không-thời gian trở nên có thể lặp lại",
+        "Quan sát quy mô vũ trụ trở thành hệ thống thực nghiệm"
+      ],
+      "implications": [
+        "Du hành, lưu trữ và tính toán có được nền tảng vật lý mới",
+        "Nền văn minh bắt đầu kỹ thuật hóa chính thực tại",
+        "Những câu hỏi về sự tồn tại ở quy mô vũ trụ trở nên thực tiễn"
+      ],
+      "image": {
+        "alt": "Vật chất tối được thao tác cho các ứng dụng kỹ thuật",
+        "prompts": [
+          "dark Matter Is Manipulated For Engineering Applications, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing dark Matter Is Manipulated For Engineering Applications, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of dark Matter Is Manipulated For Engineering Applications, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating dark Matter Is Manipulated For Engineering Applications, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-dark-matter-is-manipulated-for-engineering-applications.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-dark-matter-is-manipulated-for-engineering-applications.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-dark-matter-is-manipulated-for-engineering-applications.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-quantum-gravity-theory-is-experimentally-confirmed",
+      "order": 28,
+      "slug": "quantum-gravity-theory-is-experimentally-confirmed",
+      "title": "Lý thuyết hấp dẫn lượng tử được xác nhận bằng thực nghiệm",
+      "shortTitle": "Hấp dẫn lượng tử được xác nhận",
+      "category": "Physics",
+      "description": "Lý thuyết hấp dẫn lượng tử được xác nhận bằng thực nghiệm biến không-thời gian, vật chất tối, hấp dẫn lượng tử và hố sâu thành các lĩnh vực kỹ thuật thực tiễn.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2678,
+        "endYear": 2724
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Lý thuyết hấp dẫn lượng tử được xác nhận bằng thực nghiệm trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Vật lý nền tảng tạo ra các công nghệ vận hành được",
+        "Thao tác không-thời gian trở nên có thể lặp lại",
+        "Quan sát quy mô vũ trụ trở thành hệ thống thực nghiệm"
+      ],
+      "implications": [
+        "Du hành, lưu trữ và tính toán có được nền tảng vật lý mới",
+        "Nền văn minh bắt đầu kỹ thuật hóa chính thực tại",
+        "Những câu hỏi về sự tồn tại ở quy mô vũ trụ trở nên thực tiễn"
+      ],
+      "image": {
+        "alt": "Lý thuyết hấp dẫn lượng tử được xác nhận bằng thực nghiệm",
+        "prompts": [
+          "quantum Gravity Theory Is Experimentally Confirmed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Gravity Theory Is Experimentally Confirmed, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Gravity Theory Is Experimentally Confirmed, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Gravity Theory Is Experimentally Confirmed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-quantum-gravity-theory-is-experimentally-confirmed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-quantum-gravity-theory-is-experimentally-confirmed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-quantum-gravity-theory-is-experimentally-confirmed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-time-dilation-engineering-enables-extreme-time-management",
+      "order": 29,
+      "slug": "time-dilation-engineering-enables-extreme-time-management",
+      "title": "Kỹ thuật giãn nở thời gian cho phép quản lý thời gian cực hạn",
+      "shortTitle": "Kỹ thuật giãn nở thời gian",
+      "category": "Physics",
+      "description": "Kỹ thuật giãn nở thời gian cho phép quản lý thời gian cực hạn biến không-thời gian, vật chất tối, hấp dẫn lượng tử và hố sâu thành các lĩnh vực kỹ thuật thực tiễn.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2692,
+        "endYear": 2738
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Kỹ thuật giãn nở thời gian cho phép quản lý thời gian cực hạn trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Vật lý nền tảng tạo ra các công nghệ vận hành được",
+        "Thao tác không-thời gian trở nên có thể lặp lại",
+        "Quan sát quy mô vũ trụ trở thành hệ thống thực nghiệm"
+      ],
+      "implications": [
+        "Du hành, lưu trữ và tính toán có được nền tảng vật lý mới",
+        "Nền văn minh bắt đầu kỹ thuật hóa chính thực tại",
+        "Những câu hỏi về sự tồn tại ở quy mô vũ trụ trở nên thực tiễn"
+      ],
+      "image": {
+        "alt": "Kỹ thuật giãn nở thời gian cho phép quản lý thời gian cực hạn",
+        "prompts": [
+          "time Dilation Engineering Enables Extreme Time Management, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing time Dilation Engineering Enables Extreme Time Management, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of time Dilation Engineering Enables Extreme Time Management, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating time Dilation Engineering Enables Extreme Time Management, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-time-dilation-engineering-enables-extreme-time-management.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-time-dilation-engineering-enables-extreme-time-management.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-time-dilation-engineering-enables-extreme-time-management.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-space-time-curvature-control-becomes-practical",
+      "order": 30,
+      "slug": "space-time-curvature-control-becomes-practical",
+      "title": "Điều khiển độ cong không-thời gian trở nên thực tiễn",
+      "shortTitle": "Điều khiển độ cong không-thời gian",
+      "category": "Physics",
+      "description": "Điều khiển độ cong không-thời gian trở nên thực tiễn biến không-thời gian, vật chất tối, hấp dẫn lượng tử và hố sâu thành các lĩnh vực kỹ thuật thực tiễn.",
+      "layerId": "physics",
+      "domains": [
+        "wormholes",
+        "dark-matter-engineering",
+        "space-time-control"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2706,
+        "endYear": 2752
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Điều khiển độ cong không-thời gian trở nên thực tiễn trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Vật lý nền tảng tạo ra các công nghệ vận hành được",
+        "Thao tác không-thời gian trở nên có thể lặp lại",
+        "Quan sát quy mô vũ trụ trở thành hệ thống thực nghiệm"
+      ],
+      "implications": [
+        "Du hành, lưu trữ và tính toán có được nền tảng vật lý mới",
+        "Nền văn minh bắt đầu kỹ thuật hóa chính thực tại",
+        "Những câu hỏi về sự tồn tại ở quy mô vũ trụ trở nên thực tiễn"
+      ],
+      "image": {
+        "alt": "Điều khiển độ cong không-thời gian trở nên thực tiễn",
+        "prompts": [
+          "space-Time Curvature Control Becomes Practical, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Time Curvature Control Becomes Practical, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Time Curvature Control Becomes Practical, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Time Curvature Control Becomes Practical, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-space-time-curvature-control-becomes-practical.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-space-time-curvature-control-becomes-practical.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-space-time-curvature-control-becomes-practical.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-atomic-level-manufacturing-replaces-industrial-production",
+      "order": 31,
+      "slug": "atomic-level-manufacturing-replaces-industrial-production",
+      "title": "Chế tạo cấp nguyên tử thay thế sản xuất công nghiệp",
+      "shortTitle": "Chế tạo cấp nguyên tử",
+      "category": "Materials & Manufacturing",
+      "description": "Chế tạo cấp nguyên tử thay thế sản xuất công nghiệp thay thế sản xuất công nghiệp bằng xây dựng cấp nguyên tử, vật chất lập trình được phổ quát và vật liệu sống được kỹ thuật hóa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2720,
+        "endYear": 2766
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Chế tạo cấp nguyên tử thay thế sản xuất công nghiệp trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Độ chính xác cấp nguyên tử trở thành thực hành sản xuất bình thường",
+        "Môi trường sống tự lắp ráp phát triển mà không cần nhà máy truyền thống",
+        "Tái cấu trúc vật chất loại bỏ nhiều chuỗi cung ứng"
+      ],
+      "implications": [
+        "Khan hiếm vật liệu phần lớn biến mất",
+        "Thành phố và môi trường sống có thể được nuôi lớn hoặc tái lắp ráp",
+        "Ranh giới giữa vật liệu, máy móc và sinh vật trở nên mờ nhạt"
+      ],
+      "image": {
+        "alt": "Chế tạo cấp nguyên tử thay thế sản xuất công nghiệp",
+        "prompts": [
+          "atomic-Level Manufacturing Replaces Industrial Production, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing atomic-Level Manufacturing Replaces Industrial Production, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of atomic-Level Manufacturing Replaces Industrial Production, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating atomic-Level Manufacturing Replaces Industrial Production, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-atomic-level-manufacturing-replaces-industrial-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-atomic-level-manufacturing-replaces-industrial-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-atomic-level-manufacturing-replaces-industrial-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-programmable-matter-becomes-a-universal-construction-medium",
+      "order": 32,
+      "slug": "programmable-matter-becomes-a-universal-construction-medium",
+      "title": "Vật chất lập trình được trở thành phương tiện xây dựng phổ quát",
+      "shortTitle": "Vật chất lập trình được",
+      "category": "Materials & Manufacturing",
+      "description": "Vật chất lập trình được trở thành phương tiện xây dựng phổ quát thay thế sản xuất công nghiệp bằng xây dựng cấp nguyên tử, vật chất lập trình được phổ quát và vật liệu sống được kỹ thuật hóa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2734,
+        "endYear": 2780
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Vật chất lập trình được trở thành phương tiện xây dựng phổ quát trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Độ chính xác cấp nguyên tử trở thành thực hành sản xuất bình thường",
+        "Môi trường sống tự lắp ráp phát triển mà không cần nhà máy truyền thống",
+        "Tái cấu trúc vật chất loại bỏ nhiều chuỗi cung ứng"
+      ],
+      "implications": [
+        "Khan hiếm vật liệu phần lớn biến mất",
+        "Thành phố và môi trường sống có thể được nuôi lớn hoặc tái lắp ráp",
+        "Ranh giới giữa vật liệu, máy móc và sinh vật trở nên mờ nhạt"
+      ],
+      "image": {
+        "alt": "Vật chất lập trình được trở thành phương tiện xây dựng phổ quát",
+        "prompts": [
+          "programmable Matter Becomes A Universal Construction Medium, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Becomes A Universal Construction Medium, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Becomes A Universal Construction Medium, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Becomes A Universal Construction Medium, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-programmable-matter-becomes-a-universal-construction-medium.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-programmable-matter-becomes-a-universal-construction-medium.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-programmable-matter-becomes-a-universal-construction-medium.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-self-assembling-habitats-build-entire-cities-automatically",
+      "order": 33,
+      "slug": "self-assembling-habitats-build-entire-cities-automatically",
+      "title": "Môi trường sống tự lắp ráp tự động xây dựng toàn bộ thành phố",
+      "shortTitle": "Môi trường sống tự lắp ráp",
+      "category": "Materials & Manufacturing",
+      "description": "Môi trường sống tự lắp ráp tự động xây dựng toàn bộ thành phố thay thế sản xuất công nghiệp bằng xây dựng cấp nguyên tử, vật chất lập trình được phổ quát và vật liệu sống được kỹ thuật hóa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2748,
+        "endYear": 2794
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Môi trường sống tự lắp ráp tự động xây dựng toàn bộ thành phố trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Độ chính xác cấp nguyên tử trở thành thực hành sản xuất bình thường",
+        "Môi trường sống tự lắp ráp phát triển mà không cần nhà máy truyền thống",
+        "Tái cấu trúc vật chất loại bỏ nhiều chuỗi cung ứng"
+      ],
+      "implications": [
+        "Khan hiếm vật liệu phần lớn biến mất",
+        "Thành phố và môi trường sống có thể được nuôi lớn hoặc tái lắp ráp",
+        "Ranh giới giữa vật liệu, máy móc và sinh vật trở nên mờ nhạt"
+      ],
+      "image": {
+        "alt": "Môi trường sống tự lắp ráp tự động xây dựng toàn bộ thành phố",
+        "prompts": [
+          "self-Assembling Habitats Build Entire Cities Automatically, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Assembling Habitats Build Entire Cities Automatically, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Assembling Habitats Build Entire Cities Automatically, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Assembling Habitats Build Entire Cities Automatically, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-self-assembling-habitats-build-entire-cities-automatically.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-self-assembling-habitats-build-entire-cities-automatically.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-self-assembling-habitats-build-entire-cities-automatically.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-matter-reconstruction-systems-eliminate-material-scarcity",
+      "order": 34,
+      "slug": "matter-reconstruction-systems-eliminate-material-scarcity",
+      "title": "Hệ thống tái cấu trúc vật chất loại bỏ khan hiếm vật liệu",
+      "shortTitle": "Tái cấu trúc vật chất",
+      "category": "Materials & Manufacturing",
+      "description": "Hệ thống tái cấu trúc vật chất loại bỏ khan hiếm vật liệu thay thế sản xuất công nghiệp bằng xây dựng cấp nguyên tử, vật chất lập trình được phổ quát và vật liệu sống được kỹ thuật hóa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2762,
+        "endYear": 2808
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Hệ thống tái cấu trúc vật chất loại bỏ khan hiếm vật liệu trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Độ chính xác cấp nguyên tử trở thành thực hành sản xuất bình thường",
+        "Môi trường sống tự lắp ráp phát triển mà không cần nhà máy truyền thống",
+        "Tái cấu trúc vật chất loại bỏ nhiều chuỗi cung ứng"
+      ],
+      "implications": [
+        "Khan hiếm vật liệu phần lớn biến mất",
+        "Thành phố và môi trường sống có thể được nuôi lớn hoặc tái lắp ráp",
+        "Ranh giới giữa vật liệu, máy móc và sinh vật trở nên mờ nhạt"
+      ],
+      "image": {
+        "alt": "Hệ thống tái cấu trúc vật chất loại bỏ khan hiếm vật liệu",
+        "prompts": [
+          "matter Reconstruction Systems Eliminate Material Scarcity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing matter Reconstruction Systems Eliminate Material Scarcity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of matter Reconstruction Systems Eliminate Material Scarcity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating matter Reconstruction Systems Eliminate Material Scarcity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-matter-reconstruction-systems-eliminate-material-scarcity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-matter-reconstruction-systems-eliminate-material-scarcity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-matter-reconstruction-systems-eliminate-material-scarcity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-living-materials-merge-biology-and-engineering",
+      "order": 35,
+      "slug": "living-materials-merge-biology-and-engineering",
+      "title": "Vật liệu sống hợp nhất sinh học và kỹ thuật",
+      "shortTitle": "Vật liệu sống hợp nhất kỹ thuật",
+      "category": "Materials & Manufacturing",
+      "description": "Vật liệu sống hợp nhất sinh học và kỹ thuật thay thế sản xuất công nghiệp bằng xây dựng cấp nguyên tử, vật chất lập trình được phổ quát và vật liệu sống được kỹ thuật hóa.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "atomic-manufacturing",
+        "programmable-matter",
+        "living-materials"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2776,
+        "endYear": 2822
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Vật liệu sống hợp nhất sinh học và kỹ thuật trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Độ chính xác cấp nguyên tử trở thành thực hành sản xuất bình thường",
+        "Môi trường sống tự lắp ráp phát triển mà không cần nhà máy truyền thống",
+        "Tái cấu trúc vật chất loại bỏ nhiều chuỗi cung ứng"
+      ],
+      "implications": [
+        "Khan hiếm vật liệu phần lớn biến mất",
+        "Thành phố và môi trường sống có thể được nuôi lớn hoặc tái lắp ráp",
+        "Ranh giới giữa vật liệu, máy móc và sinh vật trở nên mờ nhạt"
+      ],
+      "image": {
+        "alt": "Vật liệu sống hợp nhất sinh học và kỹ thuật",
+        "prompts": [
+          "living Materials Merge Biology And Engineering, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing living Materials Merge Biology And Engineering, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of living Materials Merge Biology And Engineering, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating living Materials Merge Biology And Engineering, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-living-materials-merge-biology-and-engineering.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-living-materials-merge-biology-and-engineering.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-living-materials-merge-biology-and-engineering.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability",
+      "order": 36,
+      "slug": "artificial-ecosystems-surpass-natural-ecosystems-in-stability",
+      "title": "Hệ sinh thái nhân tạo vượt hệ sinh thái tự nhiên về độ ổn định",
+      "shortTitle": "Hệ sinh thái nhân tạo ổn định",
+      "category": "Environment",
+      "description": "Hệ sinh thái nhân tạo vượt hệ sinh thái tự nhiên về độ ổn định biến hệ sinh thái, đại dương, thời tiết và địa khai hóa thành các lĩnh vực thiết kế chủ động trên những thế giới có thể sinh sống.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2790,
+        "endYear": 2836
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Hệ sinh thái nhân tạo vượt hệ sinh thái tự nhiên về độ ổn định trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Hệ sinh thái nhân tạo vượt hệ tự nhiên không quản lý về độ ổn định",
+        "Địa khai hóa được lặp lại trên nhiều thế giới",
+        "Phục hồi được đo lường ở quy mô hành tinh và vũ trụ"
+      ],
+      "implications": [
+        "Nền văn minh trở thành người kiến tạo và chăm sóc các sinh quyển",
+        "Đạo đức mở rộng từ sinh thái Trái Đất sang sinh thái vũ trụ",
+        "Các thế giới có thể sinh sống có thể được bảo tồn, sửa chữa hoặc thiết kế"
+      ],
+      "image": {
+        "alt": "Hệ sinh thái nhân tạo vượt hệ sinh thái tự nhiên về độ ổn định",
+        "prompts": [
+          "artificial Ecosystems Surpass Natural Ecosystems In Stability, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Ecosystems Surpass Natural Ecosystems In Stability, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Ecosystems Surpass Natural Ecosystems In Stability, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Ecosystems Surpass Natural Ecosystems In Stability, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-artificial-ecosystems-surpass-natural-ecosystems-in-stability.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-extinct-species-restoration-recreates-ancient-biodiversity",
+      "order": 37,
+      "slug": "extinct-species-restoration-recreates-ancient-biodiversity",
+      "title": "Phục hồi loài tuyệt chủng tái tạo đa dạng sinh học cổ đại",
+      "shortTitle": "Phục hồi loài tuyệt chủng",
+      "category": "Environment",
+      "description": "Phục hồi loài tuyệt chủng tái tạo đa dạng sinh học cổ đại biến hệ sinh thái, đại dương, thời tiết và địa khai hóa thành các lĩnh vực thiết kế chủ động trên những thế giới có thể sinh sống.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2804,
+        "endYear": 2850
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Phục hồi loài tuyệt chủng tái tạo đa dạng sinh học cổ đại trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Hệ sinh thái nhân tạo vượt hệ tự nhiên không quản lý về độ ổn định",
+        "Địa khai hóa được lặp lại trên nhiều thế giới",
+        "Phục hồi được đo lường ở quy mô hành tinh và vũ trụ"
+      ],
+      "implications": [
+        "Nền văn minh trở thành người kiến tạo và chăm sóc các sinh quyển",
+        "Đạo đức mở rộng từ sinh thái Trái Đất sang sinh thái vũ trụ",
+        "Các thế giới có thể sinh sống có thể được bảo tồn, sửa chữa hoặc thiết kế"
+      ],
+      "image": {
+        "alt": "Phục hồi loài tuyệt chủng tái tạo đa dạng sinh học cổ đại",
+        "prompts": [
+          "extinct Species Restoration Recreates Ancient Biodiversity, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing extinct Species Restoration Recreates Ancient Biodiversity, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of extinct Species Restoration Recreates Ancient Biodiversity, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating extinct Species Restoration Recreates Ancient Biodiversity, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-extinct-species-restoration-recreates-ancient-biodiversity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-extinct-species-restoration-recreates-ancient-biodiversity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-extinct-species-restoration-recreates-ancient-biodiversity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-planetary-weather-systems-become-fully-controllable",
+      "order": 38,
+      "slug": "planetary-weather-systems-become-fully-controllable",
+      "title": "Hệ thống thời tiết hành tinh trở nên có thể kiểm soát hoàn toàn",
+      "shortTitle": "Kiểm soát thời tiết hành tinh",
+      "category": "Environment",
+      "description": "Hệ thống thời tiết hành tinh trở nên có thể kiểm soát hoàn toàn biến hệ sinh thái, đại dương, thời tiết và địa khai hóa thành các lĩnh vực thiết kế chủ động trên những thế giới có thể sinh sống.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2818,
+        "endYear": 2864
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Hệ thống thời tiết hành tinh trở nên có thể kiểm soát hoàn toàn trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Hệ sinh thái nhân tạo vượt hệ tự nhiên không quản lý về độ ổn định",
+        "Địa khai hóa được lặp lại trên nhiều thế giới",
+        "Phục hồi được đo lường ở quy mô hành tinh và vũ trụ"
+      ],
+      "implications": [
+        "Nền văn minh trở thành người kiến tạo và chăm sóc các sinh quyển",
+        "Đạo đức mở rộng từ sinh thái Trái Đất sang sinh thái vũ trụ",
+        "Các thế giới có thể sinh sống có thể được bảo tồn, sửa chữa hoặc thiết kế"
+      ],
+      "image": {
+        "alt": "Hệ thống thời tiết hành tinh trở nên có thể kiểm soát hoàn toàn",
+        "prompts": [
+          "planetary Weather Systems Become Fully Controllable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Weather Systems Become Fully Controllable, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Weather Systems Become Fully Controllable, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Weather Systems Become Fully Controllable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-planetary-weather-systems-become-fully-controllable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-planetary-weather-systems-become-fully-controllable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-planetary-weather-systems-become-fully-controllable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-entire-oceans-are-reengineered-to-support-new-life",
+      "order": 39,
+      "slug": "entire-oceans-are-reengineered-to-support-new-life",
+      "title": "Toàn bộ đại dương được tái thiết kế để hỗ trợ sự sống mới",
+      "shortTitle": "Tái thiết kế đại dương",
+      "category": "Environment",
+      "description": "Toàn bộ đại dương được tái thiết kế để hỗ trợ sự sống mới biến hệ sinh thái, đại dương, thời tiết và địa khai hóa thành các lĩnh vực thiết kế chủ động trên những thế giới có thể sinh sống.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2832,
+        "endYear": 2878
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Toàn bộ đại dương được tái thiết kế để hỗ trợ sự sống mới trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Hệ sinh thái nhân tạo vượt hệ tự nhiên không quản lý về độ ổn định",
+        "Địa khai hóa được lặp lại trên nhiều thế giới",
+        "Phục hồi được đo lường ở quy mô hành tinh và vũ trụ"
+      ],
+      "implications": [
+        "Nền văn minh trở thành người kiến tạo và chăm sóc các sinh quyển",
+        "Đạo đức mở rộng từ sinh thái Trái Đất sang sinh thái vũ trụ",
+        "Các thế giới có thể sinh sống có thể được bảo tồn, sửa chữa hoặc thiết kế"
+      ],
+      "image": {
+        "alt": "Toàn bộ đại dương được tái thiết kế để hỗ trợ sự sống mới",
+        "prompts": [
+          "entire Oceans Are Reengineered To Support New Life, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing entire Oceans Are Reengineered To Support New Life, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of entire Oceans Are Reengineered To Support New Life, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating entire Oceans Are Reengineered To Support New Life, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-entire-oceans-are-reengineered-to-support-new-life.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-entire-oceans-are-reengineered-to-support-new-life.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-entire-oceans-are-reengineered-to-support-new-life.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-terraforming-becomes-routine-across-habitable-worlds",
+      "order": 40,
+      "slug": "terraforming-becomes-routine-across-habitable-worlds",
+      "title": "Địa khai hóa trở thành thường quy trên các thế giới có thể sinh sống",
+      "shortTitle": "Địa khai hóa thường quy",
+      "category": "Environment",
+      "description": "Địa khai hóa trở thành thường quy trên các thế giới có thể sinh sống biến hệ sinh thái, đại dương, thời tiết và địa khai hóa thành các lĩnh vực thiết kế chủ động trên những thế giới có thể sinh sống.",
+      "layerId": "environment",
+      "domains": [
+        "terraforming",
+        "planetary-weather",
+        "synthetic-ecosystems"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2846,
+        "endYear": 2892
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Địa khai hóa trở thành thường quy trên các thế giới có thể sinh sống trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Hệ sinh thái nhân tạo vượt hệ tự nhiên không quản lý về độ ổn định",
+        "Địa khai hóa được lặp lại trên nhiều thế giới",
+        "Phục hồi được đo lường ở quy mô hành tinh và vũ trụ"
+      ],
+      "implications": [
+        "Nền văn minh trở thành người kiến tạo và chăm sóc các sinh quyển",
+        "Đạo đức mở rộng từ sinh thái Trái Đất sang sinh thái vũ trụ",
+        "Các thế giới có thể sinh sống có thể được bảo tồn, sửa chữa hoặc thiết kế"
+      ],
+      "image": {
+        "alt": "Địa khai hóa trở thành thường quy trên các thế giới có thể sinh sống",
+        "prompts": [
+          "terraforming Becomes Routine Across Habitable Worlds, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing terraforming Becomes Routine Across Habitable Worlds, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of terraforming Becomes Routine Across Habitable Worlds, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating terraforming Becomes Routine Across Habitable Worlds, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-terraforming-becomes-routine-across-habitable-worlds.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-terraforming-becomes-routine-across-habitable-worlds.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-terraforming-becomes-routine-across-habitable-worlds.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-reputation-and-knowledge-replace-currency-as-primary-value",
+      "order": 41,
+      "slug": "reputation-and-knowledge-replace-currency-as-primary-value",
+      "title": "Uy tín và tri thức thay thế tiền tệ làm giá trị chính",
+      "shortTitle": "Uy tín và tri thức thay tiền tệ",
+      "category": "Society & Economy",
+      "description": "Uy tín và tri thức thay thế tiền tệ làm giá trị chính thay thế kinh tế dựa trên khan hiếm bằng tri thức, uy tín, thực tại lai, tiếp cận chia sẻ và sự công nhận bình đẳng cho các nền văn minh ảo.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2860,
+        "endYear": 2906
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Uy tín và tri thức thay thế tiền tệ làm giá trị chính trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tiền tệ trở nên kém trung tâm hơn tri thức và niềm tin",
+        "Cộng đồng ảo và vật lý đạt tính chính danh kinh tế ngang nhau",
+        "Sở hữu chuyển dịch sang tiếp cận chia sẻ và trải nghiệm sống"
+      ],
+      "implications": [
+        "Bản sắc kinh tế trở nên độc lập với cơ thể hoặc vị trí",
+        "Xung đột trở nên thiên về triết học hơn là lãnh thổ",
+        "Văn hóa trở thành đấu trường chính của tăng trưởng văn minh"
+      ],
+      "image": {
+        "alt": "Uy tín và tri thức thay thế tiền tệ làm giá trị chính",
+        "prompts": [
+          "reputation And Knowledge Replace Currency As Primary Value, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing reputation And Knowledge Replace Currency As Primary Value, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of reputation And Knowledge Replace Currency As Primary Value, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating reputation And Knowledge Replace Currency As Primary Value, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-reputation-and-knowledge-replace-currency-as-primary-value.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-reputation-and-knowledge-replace-currency-as-primary-value.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-reputation-and-knowledge-replace-currency-as-primary-value.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities",
+      "order": 42,
+      "slug": "most-citizens-spend-their-lives-in-mixed-physical-digital-realities",
+      "title": "Phần lớn công dân sống trong thực tại lai vật lý–số",
+      "shortTitle": "Thực tại lai vật lý–số",
+      "category": "Society & Economy",
+      "description": "Phần lớn công dân sống trong thực tại lai vật lý–số thay thế kinh tế dựa trên khan hiếm bằng tri thức, uy tín, thực tại lai, tiếp cận chia sẻ và sự công nhận bình đẳng cho các nền văn minh ảo.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2874,
+        "endYear": 2920
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Phần lớn công dân sống trong thực tại lai vật lý–số trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tiền tệ trở nên kém trung tâm hơn tri thức và niềm tin",
+        "Cộng đồng ảo và vật lý đạt tính chính danh kinh tế ngang nhau",
+        "Sở hữu chuyển dịch sang tiếp cận chia sẻ và trải nghiệm sống"
+      ],
+      "implications": [
+        "Bản sắc kinh tế trở nên độc lập với cơ thể hoặc vị trí",
+        "Xung đột trở nên thiên về triết học hơn là lãnh thổ",
+        "Văn hóa trở thành đấu trường chính của tăng trưởng văn minh"
+      ],
+      "image": {
+        "alt": "Phần lớn công dân sống trong thực tại lai vật lý–số",
+        "prompts": [
+          "most Citizens Spend Their Lives In Mixed Physical-Digital Realities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing most Citizens Spend Their Lives In Mixed Physical-Digital Realities, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of most Citizens Spend Their Lives In Mixed Physical-Digital Realities, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating most Citizens Spend Their Lives In Mixed Physical-Digital Realities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-most-citizens-spend-their-lives-in-mixed-physical-digital-realities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-ownership-evolves-into-shared-access-models",
+      "order": 43,
+      "slug": "ownership-evolves-into-shared-access-models",
+      "title": "Quyền sở hữu phát triển thành mô hình tiếp cận chia sẻ",
+      "shortTitle": "Tiếp cận chia sẻ",
+      "category": "Society & Economy",
+      "description": "Quyền sở hữu phát triển thành mô hình tiếp cận chia sẻ thay thế kinh tế dựa trên khan hiếm bằng tri thức, uy tín, thực tại lai, tiếp cận chia sẻ và sự công nhận bình đẳng cho các nền văn minh ảo.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2888,
+        "endYear": 2934
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Quyền sở hữu phát triển thành mô hình tiếp cận chia sẻ trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tiền tệ trở nên kém trung tâm hơn tri thức và niềm tin",
+        "Cộng đồng ảo và vật lý đạt tính chính danh kinh tế ngang nhau",
+        "Sở hữu chuyển dịch sang tiếp cận chia sẻ và trải nghiệm sống"
+      ],
+      "implications": [
+        "Bản sắc kinh tế trở nên độc lập với cơ thể hoặc vị trí",
+        "Xung đột trở nên thiên về triết học hơn là lãnh thổ",
+        "Văn hóa trở thành đấu trường chính của tăng trưởng văn minh"
+      ],
+      "image": {
+        "alt": "Quyền sở hữu phát triển thành mô hình tiếp cận chia sẻ",
+        "prompts": [
+          "ownership Evolves Into Shared Access Models, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ownership Evolves Into Shared Access Models, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ownership Evolves Into Shared Access Models, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ownership Evolves Into Shared Access Models, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-ownership-evolves-into-shared-access-models.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-ownership-evolves-into-shared-access-models.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-ownership-evolves-into-shared-access-models.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-creative-expression-becomes-humanitys-largest-industry",
+      "order": 44,
+      "slug": "creative-expression-becomes-humanitys-largest-industry",
+      "title": "Biểu đạt sáng tạo trở thành ngành lớn nhất của nhân loại",
+      "shortTitle": "Ngành biểu đạt sáng tạo",
+      "category": "Society & Economy",
+      "description": "Biểu đạt sáng tạo trở thành ngành lớn nhất của nhân loại thay thế kinh tế dựa trên khan hiếm bằng tri thức, uy tín, thực tại lai, tiếp cận chia sẻ và sự công nhận bình đẳng cho các nền văn minh ảo.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2902,
+        "endYear": 2948
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Biểu đạt sáng tạo trở thành ngành lớn nhất của nhân loại trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tiền tệ trở nên kém trung tâm hơn tri thức và niềm tin",
+        "Cộng đồng ảo và vật lý đạt tính chính danh kinh tế ngang nhau",
+        "Sở hữu chuyển dịch sang tiếp cận chia sẻ và trải nghiệm sống"
+      ],
+      "implications": [
+        "Bản sắc kinh tế trở nên độc lập với cơ thể hoặc vị trí",
+        "Xung đột trở nên thiên về triết học hơn là lãnh thổ",
+        "Văn hóa trở thành đấu trường chính của tăng trưởng văn minh"
+      ],
+      "image": {
+        "alt": "Biểu đạt sáng tạo trở thành ngành lớn nhất của nhân loại",
+        "prompts": [
+          "creative Expression Becomes Humanity's Largest Industry, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing creative Expression Becomes Humanity's Largest Industry, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of creative Expression Becomes Humanity's Largest Industry, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating creative Expression Becomes Humanity's Largest Industry, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-creative-expression-becomes-humanitys-largest-industry.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-creative-expression-becomes-humanitys-largest-industry.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-creative-expression-becomes-humanitys-largest-industry.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones",
+      "order": 45,
+      "slug": "virtual-civilizations-gain-equal-economic-status-to-physical-ones",
+      "title": "Các nền văn minh ảo đạt địa vị kinh tế ngang bằng với nền văn minh vật lý",
+      "shortTitle": "Nền văn minh ảo ngang bằng",
+      "category": "Society & Economy",
+      "description": "Các nền văn minh ảo đạt địa vị kinh tế ngang bằng với nền văn minh vật lý thay thế kinh tế dựa trên khan hiếm bằng tri thức, uy tín, thực tại lai, tiếp cận chia sẻ và sự công nhận bình đẳng cho các nền văn minh ảo.",
+      "layerId": "society-economy",
+      "domains": [
+        "knowledge-economy",
+        "mixed-realities",
+        "virtual-civilizations"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2916,
+        "endYear": 2962
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Các nền văn minh ảo đạt địa vị kinh tế ngang bằng với nền văn minh vật lý trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Tiền tệ trở nên kém trung tâm hơn tri thức và niềm tin",
+        "Cộng đồng ảo và vật lý đạt tính chính danh kinh tế ngang nhau",
+        "Sở hữu chuyển dịch sang tiếp cận chia sẻ và trải nghiệm sống"
+      ],
+      "implications": [
+        "Bản sắc kinh tế trở nên độc lập với cơ thể hoặc vị trí",
+        "Xung đột trở nên thiên về triết học hơn là lãnh thổ",
+        "Văn hóa trở thành đấu trường chính của tăng trưởng văn minh"
+      ],
+      "image": {
+        "alt": "Các nền văn minh ảo đạt địa vị kinh tế ngang bằng với nền văn minh vật lý",
+        "prompts": [
+          "virtual Civilizations Gain Equal Economic Status To Physical Ones, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing virtual Civilizations Gain Equal Economic Status To Physical Ones, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of virtual Civilizations Gain Equal Economic Status To Physical Ones, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating virtual Civilizations Gain Equal Economic Status To Physical Ones, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-virtual-civilizations-gain-equal-economic-status-to-physical-ones.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-biological-and-digital-citizens-receive-equal-rights",
+      "order": 46,
+      "slug": "biological-and-digital-citizens-receive-equal-rights",
+      "title": "Công dân sinh học và số nhận quyền bình đẳng",
+      "shortTitle": "Quyền bình đẳng sinh học–số",
+      "category": "Civilization",
+      "description": "Công dân sinh học và số nhận quyền bình đẳng tái định nghĩa quyền công dân, quyền lợi, cộng đồng và quản trị khi các dạng sinh học, số và ý thức tập thể cùng tồn tại.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2930,
+        "endYear": 2976
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Công dân sinh học và số nhận quyền bình đẳng trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Khung quyền lợi mở rộng vượt ngoài con người sinh học",
+        "Cộng đồng tập thể và số có được địa vị pháp lý",
+        "Nền văn minh chuẩn bị cho các trí tuệ không có nguồn gốc từ con người"
+      ],
+      "implications": [
+        "Nhân loại trở thành một nhánh trong gia đình trí tuệ rộng lớn hơn",
+        "Bản sắc chính trị vượt ra ngoài quốc gia và loài",
+        "Hệ Mặt Trời trở thành nơi khai sinh lịch sử thay vì trung tâm"
+      ],
+      "image": {
+        "alt": "Công dân sinh học và số nhận quyền bình đẳng",
+        "prompts": [
+          "biological And Digital Citizens Receive Equal Rights, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological And Digital Citizens Receive Equal Rights, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological And Digital Citizens Receive Equal Rights, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological And Digital Citizens Receive Equal Rights, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-biological-and-digital-citizens-receive-equal-rights.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-biological-and-digital-citizens-receive-equal-rights.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-biological-and-digital-citizens-receive-equal-rights.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-evolves-into-multiple-intelligent-species",
+      "order": 47,
+      "slug": "humanity-evolves-into-multiple-intelligent-species",
+      "title": "Nhân loại tiến hóa thành nhiều loài thông minh",
+      "shortTitle": "Nhiều loài thông minh",
+      "category": "Civilization",
+      "description": "Nhân loại tiến hóa thành nhiều loài thông minh tái định nghĩa quyền công dân, quyền lợi, cộng đồng và quản trị khi các dạng sinh học, số và ý thức tập thể cùng tồn tại.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2944,
+        "endYear": 2990
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Nhân loại tiến hóa thành nhiều loài thông minh trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Khung quyền lợi mở rộng vượt ngoài con người sinh học",
+        "Cộng đồng tập thể và số có được địa vị pháp lý",
+        "Nền văn minh chuẩn bị cho các trí tuệ không có nguồn gốc từ con người"
+      ],
+      "implications": [
+        "Nhân loại trở thành một nhánh trong gia đình trí tuệ rộng lớn hơn",
+        "Bản sắc chính trị vượt ra ngoài quốc gia và loài",
+        "Hệ Mặt Trời trở thành nơi khai sinh lịch sử thay vì trung tâm"
+      ],
+      "image": {
+        "alt": "Nhân loại tiến hóa thành nhiều loài thông minh",
+        "prompts": [
+          "humanity Evolves Into Multiple Intelligent Species, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Evolves Into Multiple Intelligent Species, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Evolves Into Multiple Intelligent Species, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Evolves Into Multiple Intelligent Species, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-evolves-into-multiple-intelligent-species.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-evolves-into-multiple-intelligent-species.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-evolves-into-multiple-intelligent-species.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-collective-consciousness-communities-become-recognized-civilizations",
+      "order": 48,
+      "slug": "collective-consciousness-communities-become-recognized-civilizations",
+      "title": "Các cộng đồng ý thức tập thể được công nhận là nền văn minh",
+      "shortTitle": "Cộng đồng ý thức tập thể",
+      "category": "Civilization",
+      "description": "Các cộng đồng ý thức tập thể được công nhận là nền văn minh tái định nghĩa quyền công dân, quyền lợi, cộng đồng và quản trị khi các dạng sinh học, số và ý thức tập thể cùng tồn tại.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2958,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Các cộng đồng ý thức tập thể được công nhận là nền văn minh trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Khung quyền lợi mở rộng vượt ngoài con người sinh học",
+        "Cộng đồng tập thể và số có được địa vị pháp lý",
+        "Nền văn minh chuẩn bị cho các trí tuệ không có nguồn gốc từ con người"
+      ],
+      "implications": [
+        "Nhân loại trở thành một nhánh trong gia đình trí tuệ rộng lớn hơn",
+        "Bản sắc chính trị vượt ra ngoài quốc gia và loài",
+        "Hệ Mặt Trời trở thành nơi khai sinh lịch sử thay vì trung tâm"
+      ],
+      "image": {
+        "alt": "Các cộng đồng ý thức tập thể được công nhận là nền văn minh",
+        "prompts": [
+          "collective Consciousness Communities Become Recognized Civilizations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing collective Consciousness Communities Become Recognized Civilizations, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of collective Consciousness Communities Become Recognized Civilizations, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating collective Consciousness Communities Become Recognized Civilizations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-collective-consciousness-communities-become-recognized-civilizations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-collective-consciousness-communities-become-recognized-civilizations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-collective-consciousness-communities-become-recognized-civilizations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-the-concept-of-nation-states-becomes-obsolete",
+      "order": 49,
+      "slug": "the-concept-of-nation-states-becomes-obsolete",
+      "title": "Khái niệm quốc gia-dân tộc trở nên lỗi thời",
+      "shortTitle": "Quốc gia-dân tộc lỗi thời",
+      "category": "Civilization",
+      "description": "Khái niệm quốc gia-dân tộc trở nên lỗi thời tái định nghĩa quyền công dân, quyền lợi, cộng đồng và quản trị khi các dạng sinh học, số và ý thức tập thể cùng tồn tại.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2972,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Khái niệm quốc gia-dân tộc trở nên lỗi thời trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Khung quyền lợi mở rộng vượt ngoài con người sinh học",
+        "Cộng đồng tập thể và số có được địa vị pháp lý",
+        "Nền văn minh chuẩn bị cho các trí tuệ không có nguồn gốc từ con người"
+      ],
+      "implications": [
+        "Nhân loại trở thành một nhánh trong gia đình trí tuệ rộng lớn hơn",
+        "Bản sắc chính trị vượt ra ngoài quốc gia và loài",
+        "Hệ Mặt Trời trở thành nơi khai sinh lịch sử thay vì trung tâm"
+      ],
+      "image": {
+        "alt": "Khái niệm quốc gia-dân tộc trở nên lỗi thời",
+        "prompts": [
+          "the Concept Of Nation States Becomes Obsolete, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing the Concept Of Nation States Becomes Obsolete, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of the Concept Of Nation States Becomes Obsolete, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating the Concept Of Nation States Becomes Obsolete, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-the-concept-of-nation-states-becomes-obsolete.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-the-concept-of-nation-states-becomes-obsolete.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-the-concept-of-nation-states-becomes-obsolete.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence",
+      "order": 50,
+      "slug": "humanity-begins-preparing-for-contact-with-extragalactic-intelligence",
+      "title": "Nhân loại bắt đầu chuẩn bị cho tiếp xúc với trí tuệ ngoài thiên hà",
+      "shortTitle": "Chuẩn bị tiếp xúc ngoài thiên hà",
+      "category": "Civilization",
+      "description": "Nhân loại bắt đầu chuẩn bị cho tiếp xúc với trí tuệ ngoài thiên hà tái định nghĩa quyền công dân, quyền lợi, cộng đồng và quản trị khi các dạng sinh học, số và ý thức tập thể cùng tồn tại.",
+      "layerId": "civilization",
+      "domains": [
+        "post-biological-rights",
+        "collective-consciousness",
+        "extragalactic-contact"
+      ],
+      "maturity": "civilization-scale-transformation",
+      "timeframe": {
+        "startYear": 2986,
+        "endYear": 3000
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "Nhân loại bắt đầu chuẩn bị cho tiếp xúc với trí tuệ ngoài thiên hà trở thành một cột mốc định hình của nền văn minh hậu sinh học, giúp trí tuệ vượt ra ngoài cơ thể cố định, giới hạn sinh học và các hình thức xã hội truyền thống.",
+      "signals": [
+        "Khung quyền lợi mở rộng vượt ngoài con người sinh học",
+        "Cộng đồng tập thể và số có được địa vị pháp lý",
+        "Nền văn minh chuẩn bị cho các trí tuệ không có nguồn gốc từ con người"
+      ],
+      "implications": [
+        "Nhân loại trở thành một nhánh trong gia đình trí tuệ rộng lớn hơn",
+        "Bản sắc chính trị vượt ra ngoài quốc gia và loài",
+        "Hệ Mặt Trời trở thành nơi khai sinh lịch sử thay vì trung tâm"
+      ],
+      "image": {
+        "alt": "Nhân loại bắt đầu chuẩn bị cho tiếp xúc với trí tuệ ngoài thiên hà",
+        "prompts": [
+          "humanity Begins Preparing For Contact With Extragalactic Intelligence, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing humanity Begins Preparing For Contact With Extragalactic Intelligence, post-biological civilization with synthetic bodies, consciousness networks, programmable matter, wormhole gateways, and engineered realities, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of humanity Begins Preparing For Contact With Extragalactic Intelligence, elegant civilization-scale technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating humanity Begins Preparing For Contact With Extragalactic Intelligence, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-07/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-07/mobile/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-07/thumbnail/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-07/desktop/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-07/open_graph/era-07-humanity-begins-preparing-for-contact-with-extragalactic-intelligence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

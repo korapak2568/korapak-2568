@@ -2,50 +2,67 @@
 
 import type {NextRequest} from 'next/server';
 import {NextResponse} from 'next/server';
-import {LOCALES} from "@/lib/SiteUrlLocales";
+import {DEFAULT_LOCALE, LOCALES} from "@/lib/SiteUrlLocales";
 
-const defaultLocale = 'en';
+const PUBLIC_FILE_PATTERN = /\.[^/]+$/;
+const RETIRED_LOCALES = new Set(['da', 'fi', 'nl']);
+const PUBLIC_PATH_PREFIXES = [
+    '/_next',
+    '/api',
+    '/sitemap',
+    '/images',
+    '/images-ai',
+    '/images-platform',
+    '/images-opengraph',
+    '/future-roadmap',
+    '/smart-city',
+    '/smart-food',
+    '/smart-mobility',
+    '/chorn-images',
+    '/internal-images',
+    '/contracts',
+    '/fonts',
+];
+
+function shouldBypassLocaleRouting(pathname: string) {
+    return (
+        PUBLIC_PATH_PREFIXES.some((prefix) => pathname.startsWith(prefix)) ||
+        PUBLIC_FILE_PATTERN.test(pathname) ||
+        pathname === '/googleaa85449beb5ca13c.html' ||
+        pathname === '/favicon.ico' ||
+        pathname === '/robots.txt'
+    );
+}
+
+function getDefaultLocaleRedirectPath(pathname: string, locale: string) {
+    if (pathname === '/') {
+        return `/${DEFAULT_LOCALE}/`;
+    }
+
+    if (RETIRED_LOCALES.has(locale)) {
+        const remainder = pathname.split('/').slice(2).join('/');
+        return `/${DEFAULT_LOCALE}/${remainder}`.replace(/\/+$/, '/') || `/${DEFAULT_LOCALE}/`;
+    }
+
+    return `/${DEFAULT_LOCALE}${pathname}`;
+}
 
 export function proxy(req: NextRequest) {
     const {pathname} = req.nextUrl;
     const cookie_consent: string = req.cookies.get("cookie_consent")?.value || 'false';
 
-    // Skip requests
-    if (
-        pathname.startsWith('/_next') ||
-        pathname.startsWith('/sitemap') ||
-        pathname.startsWith('/images') ||
-        pathname.startsWith('/images-ai') ||
-        pathname.startsWith('/smart-city') ||
-        pathname.startsWith('/smart-mobility') ||
-        pathname.startsWith('/chorn-images') ||
-        pathname.startsWith('/internal-images') ||
-        pathname.startsWith('/contracts') ||
-        pathname.startsWith('/fonts') ||
-        pathname.startsWith('/api/sitemap') ||
-        pathname.startsWith('/api/openai') ||
-        pathname === '/googleaa85449beb5ca13c.html' ||
-        pathname === '/favicon.ico' ||
-        pathname === '/robots.txt'
-    ) {
+    if (shouldBypassLocaleRouting(pathname)) {
         return NextResponse.next();
     }
 
-    // Extract the locale from the pathname
     const pathnameParts = pathname.split('/');
-    const locale = pathnameParts[1];                    // en
+    const locale = pathnameParts[1];
 
-    // Redirect root ("/") to the default locale ("/en")
-    if (
-        pathname === '/' ||
-        !LOCALES.includes(locale)
-    ) {
-        const newPathName = `/${defaultLocale}${pathname === '/' ? '' : pathname}`;
-        const url = new URL(newPathName, req.url);
+    if (pathname === '/' || !LOCALES.includes(locale as (typeof LOCALES)[number])) {
+        const url = new URL(getDefaultLocaleRedirectPath(pathname, locale), req.url);
         return NextResponse.redirect(url);
     }
 
-    // Pass locale context to Server Components through request headers.
     const requestHeaders = new Headers(req.headers);
     requestHeaders.set('x-cookie-consent', cookie_consent);
     requestHeaders.set('x-locale', locale);
@@ -59,14 +76,9 @@ export function proxy(req: NextRequest) {
     res.headers.set('x-cookie-consent', cookie_consent);
     res.headers.set('x-locale', locale);
     res.headers.set('x-pathname', pathname);
-    return res
+    return res;
 }
 
-// Apply proxy to all paths
 export const config = {
-    matcher: [
-        '/',
-        '/(th|en|fr|ja|zh|de|nl|da|fi|ko)/:path*',
-        '/api/:path*'
-    ],
+    matcher: ['/:path*'],
 };

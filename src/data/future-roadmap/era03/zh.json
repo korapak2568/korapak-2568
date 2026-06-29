@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-03",
+    "order": 3,
+    "slug": "post-scarcity-foundations",
+    "title": "后稀缺基础",
+    "subtitle": "让丰裕变得可行、普遍且稳定的系统",
+    "description": "本时代通过普遍服务、聚变能源、先进医学、清洁水、低成本住房、循环材料和 AI 管理的公共基础设施，建立后稀缺文明的基础。",
+    "timeframe": {
+      "label": "后稀缺基础",
+      "startYear": 2055,
+      "endYear": 2085,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "society",
+      "mood": "optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "第三时代：后稀缺基础 | 未来文明路线图",
+      "metaDescription": "探索后稀缺基础，包括普遍基本服务、聚变能源、清洁水、AI 食品物流、机器人养老、开源医学和低成本住房。",
+      "keywords": [
+        "后稀缺文明",
+        "普遍基本服务",
+        "聚变能源",
+        "未来医疗",
+        "未来文明路线图"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-03-universal-basic-services-replace-traditional-welfare",
+      "order": 1,
+      "slug": "universal-basic-services-replace-traditional-welfare",
+      "title": "普遍基本服务取代传统福利",
+      "shortTitle": "普遍基本服务",
+      "category": "Society & Economy",
+      "description": "食物、住房支持、医疗、教育、交通、连接能力和基础公用事业逐渐成为有保障的公共基础设施，而不再是碎片化的福利项目。",
+      "layerId": "society",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "social-systems"
+      ],
+      "maturity": "policy-transition",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "基本生存越来越少依赖收入，减少不安全感，让更多人能够投入教育、照护、创造力和公民参与。",
+      "signals": [
+        "政府从单纯现金福利转向服务保障",
+        "AI 系统协调资格审核、交付和防欺诈",
+        "公共基础设施预算优先保障食物、健康、住房和连接能力"
+      ],
+      "implications": [
+        "极端贫困和家庭不稳定减少",
+        "围绕权利、准入和公共数字身份出现新讨论",
+        "公民身份与社会安全的定义更加宽广"
+      ],
+      "image": {
+        "alt": "提供食物、医疗、住房支持、教育和连接能力的普遍基本服务枢纽",
+        "prompts": [
+          "Clean futuristic public service hub offering food, healthcare, housing support, education, and connectivity access, diverse families receiving help calmly, optimistic documentary realism, 16:9",
+          "City neighborhood with universal basic service centers integrated into transit, clinics, schools, and food distribution, clean post-scarcity future, 16:9",
+          "AI-assisted public services dashboard coordinating housing, food, healthcare, and transport access across a modern city, realistic civic technology, 16:9",
+          "Families using seamless essential services through a welcoming civic center, warm hopeful atmosphere, near-future documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-universal-basic-services-replace-traditional-welfare.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-universal-basic-services-replace-traditional-welfare.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-managed-food-logistics-eliminates-most-food-waste",
+      "order": 2,
+      "slug": "ai-managed-food-logistics-eliminates-most-food-waste",
+      "title": "AI 管理的食品物流消除大部分食物浪费",
+      "shortTitle": "AI 食品物流",
+      "category": "AI & Computing",
+      "description": "AI 管理的供应链预测需求、调配剩余食物、优化储存并协调本地分发，让大多数可食用食物不再被浪费。",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "food-systems",
+        "logistics"
+      ],
+      "maturity": "global-optimization",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "食物丰裕更容易被分享，在不按比例增加产量的情况下减少饥饿、排放和农业压力。",
+      "signals": [
+        "实时食品库存网络连接农场、零售商、厨房和援助系统",
+        "预测性需求模型减少过量生产和腐败",
+        "冷链自动化提升脆弱地区的可靠性"
+      ],
+      "implications": [
+        "供应链中的食物损失减少",
+        "应急食品分发更具韧性",
+        "浪费性生产带来的排放减少"
+      ],
+      "image": {
+        "alt": "AI 管理的食品物流网络在食物被浪费前调配剩余食品",
+        "prompts": [
+          "AI-managed food logistics command center routing surplus food from farms and supermarkets to community kitchens, clean futuristic documentary, 16:9",
+          "Autonomous refrigerated delivery fleet moving fresh food through a city based on real-time demand predictions, optimistic food system future, 16:9",
+          "Warehouse robots sorting produce to prevent spoilage, transparent AI dashboards showing waste reduction, realistic near future, 16:9",
+          "Community food hub receiving perfectly timed deliveries from AI-optimized supply chains, hopeful post-scarcity society, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-clean-water-access-reaches-nearly-all-humans",
+      "order": 3,
+      "slug": "clean-water-access-reaches-nearly-all-humans",
+      "title": "清洁用水几乎覆盖所有人类",
+      "shortTitle": "普遍清洁用水",
+      "category": "Environment",
+      "description": "先进净化、海水淡化、漏损检测、智能分配和低成本本地处理系统，让几乎每个社区都能获得安全用水。",
+      "layerId": "civilization",
+      "domains": [
+        "water",
+        "public-health",
+        "infrastructure"
+      ],
+      "maturity": "near-universal-access",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "人类最古老的生存挑战之一基本变得可解决，改善健康、教育、性别平等和区域稳定。",
+      "signals": [
+        "低能耗净化系统在农村和城市地区扩展",
+        "智能水网即时检测污染和泄漏",
+        "全球融资将用水准入视为核心文明基础设施"
+      ],
+      "implications": [
+        "水传播疾病减少",
+        "干旱地区社区更加稳定",
+        "水作为普遍权利形成新的治理标准"
+      ],
+      "image": {
+        "alt": "社区从先进净化基础设施获得安全清洁用水",
+        "prompts": [
+          "Dry-region community receiving clean water from advanced solar-fusion assisted purification infrastructure, hopeful documentary realism, 16:9",
+          "Smart water grid control room monitoring safe water access across cities and rural communities, clean futuristic civic technology, 16:9",
+          "Children and families using a beautiful public clean water station in a restored village, optimistic post-scarcity future, 16:9",
+          "Advanced water purification plant beside a river with transparent tanks and environmental sensors, realistic infrastructure scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-clean-water-access-reaches-nearly-all-humans.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-clean-water-access-reaches-nearly-all-humans.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-desalination-network-powered-by-fusion-begins-operation",
+      "order": 4,
+      "slug": "global-desalination-network-powered-by-fusion-begins-operation",
+      "title": "由聚变驱动的全球海水淡化网络开始运行",
+      "shortTitle": "聚变海水淡化网络",
+      "category": "Energy",
+      "description": "聚变能源支撑大规模海水淡化走廊，在尽量减少排放的同时生产充足淡水，并降低对河流和含水层的压力。",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "water",
+        "climate-adaptation"
+      ],
+      "maturity": "network-launch",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "沿海地区成为淡水出口地，帮助稳定农业、城市和易受气候影响的干旱地带。",
+      "signals": [
+        "聚变电站为海水淡化提供可靠高输出能源",
+        "跨区域输水管线和储水系统扩张",
+        "海水淡化浓盐水在更严格环境控制下处理"
+      ],
+      "implications": [
+        "干旱地区水安全提高",
+        "淡水流域冲突风险下降",
+        "能源系统与水系统形成新的基础设施连接"
+      ],
+      "image": {
+        "alt": "聚变驱动的海水淡化巨型结构向干旱地区提供淡水",
+        "prompts": [
+          "Fusion-powered desalination megastructure on a bright coastline sending freshwater through pipelines to dry inland regions, clean futuristic documentary, 16:9",
+          "Control room for a global desalination network powered by fusion energy, world map of freshwater flows, optimistic infrastructure future, 16:9",
+          "Coastal fusion plant beside advanced desalination towers with clean water reservoirs and restored desert agriculture beyond, 16:9",
+          "Engineers monitoring eco-safe desalination and brine processing systems near a blue ocean, realistic climate-adaptation technology, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-education-becomes-fully-personalized-and-free",
+      "order": 5,
+      "slug": "education-becomes-fully-personalized-and-free",
+      "title": "教育变得完全个性化且免费",
+      "shortTitle": "免费个性化教育",
+      "category": "Society & Economy",
+      "description": "AI 导师、自适应课程、沉浸式模拟和公共学习网络，让任何年龄的人都能获得高质量教育。",
+      "layerId": "society",
+      "domains": [
+        "education",
+        "artificial-intelligence",
+        "public-services"
+      ],
+      "maturity": "mainstream-public-access",
+      "timeframe": {
+        "startYear": 2055,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "学习成为终身普遍能力，缩小机会差距，并帮助人们适应快速的技术与社会变化。",
+      "signals": [
+        "AI 导师根据每位学习者的节奏和目标定制课程",
+        "认证系统认可开放学习平台获得的技能",
+        "沉浸式教育不再只属于精英机构"
+      ],
+      "implications": [
+        "教育不平等下降",
+        "劳动力再技能化更快",
+        "进入研究、艺术和创业的路径更加多样"
+      ],
+      "image": {
+        "alt": "儿童和成年人通过免费的个性化 AI 教育学习",
+        "prompts": [
+          "Children and adults learning through free personalized AI education in a bright community learning center, immersive holographic lessons, optimistic documentary realism, 16:9",
+          "Personal AI tutor guiding a student through adaptive science simulations at home, warm human-centered future, 16:9",
+          "Global public education platform connecting learners from many countries through translation and immersive classrooms, clean futuristic style, 16:9",
+          "Elderly learner and young student studying together with personalized AI guidance, lifelong learning society, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-education-becomes-fully-personalized-and-free.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-education-becomes-fully-personalized-and-free.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises",
+      "order": 6,
+      "slug": "personal-ai-financial-advisors-prevent-most-household-debt-crises",
+      "title": "个人 AI 财务顾问预防大多数家庭债务危机",
+      "shortTitle": "AI 财务顾问",
+      "category": "AI & Computing",
+      "description": "个人 AI 财务系统提前发现风险、协商账单、优化还款计划，并在债务螺旋变成危机前引导家庭避开风险。",
+      "layerId": "society",
+      "domains": [
+        "artificial-intelligence",
+        "finance",
+        "consumer-protection"
+      ],
+      "maturity": "regulated-mainstream",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2072
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "金融不稳定变得更可预防，使家庭更能抵御掠夺性借贷、突发冲击和规划失误。",
+      "signals": [
+        "AI 顾问成为受监管的受托工具",
+        "银行整合早期预警债务预防系统",
+        "家庭自动化预算、协商和储蓄决策"
+      ],
+      "implications": [
+        "债务危机和破产减少",
+        "个人金融更加透明",
+        "对 AI 金融影响的监管更强"
+      ],
+      "image": {
+        "alt": "个人 AI 财务顾问帮助家庭避免债务危机",
+        "prompts": [
+          "Family reviewing a personal AI financial advisor dashboard that prevents debt crisis, calm home scene, clean realistic future, 16:9",
+          "AI finance assistant negotiating bills and repayment plans through a secure transparent interface, human-centered civic technology, 16:9",
+          "Community financial clinic using regulated AI advisors to protect households from debt spirals, optimistic post-scarcity society, 16:9",
+          "Close-up of privacy-preserving AI budget system warning a household before debt risk becomes severe, clean interface, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-robotic-eldercare-becomes-widely-available",
+      "order": 7,
+      "slug": "robotic-eldercare-becomes-widely-available",
+      "title": "机器人养老护理变得广泛可及",
+      "shortTitle": "机器人养老护理",
+      "category": "Robotics",
+      "description": "辅助机器人、家庭传感器、远程医疗和 AI 照护协调，为老年人的行动、用药、陪伴和紧急响应提供支持。",
+      "layerId": "society",
+      "domains": [
+        "robotics",
+        "healthcare",
+        "eldercare"
+      ],
+      "maturity": "wide-adoption",
+      "timeframe": {
+        "startYear": 2056,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "老龄化社会更加可持续，同时老年人在家中获得更多独立性、安全感和尊严。",
+      "signals": [
+        "家庭护理机器人变得可负担且可靠",
+        "医疗系统开始报销辅助机器人服务",
+        "AI 照护协调员连接家庭、护士、医生和急救服务"
+      ],
+      "implications": [
+        "照护工作者压力降低",
+        "独立生活更安全",
+        "情感和身体照护机器人需要新的伦理标准"
+      ],
+      "image": {
+        "alt": "机器人养老护理助手在家中帮助老年人",
+        "prompts": [
+          "Gentle robotic eldercare assistant helping an older adult walk safely at home, warm realistic documentary style, 16:9",
+          "Smart eldercare apartment with assistive robot, medication reminders, and remote nurse support, clean hopeful future, 16:9",
+          "Community eldercare center where robots support mobility, meals, and companionship under human supervision, optimistic society, 16:9",
+          "Close-up of eldercare robot offering a glass of water while health sensors quietly monitor safety, respectful human-centered scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-robotic-eldercare-becomes-widely-available.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-robotic-eldercare-becomes-widely-available.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-construction-cost-of-housing-falls-by-80",
+      "order": 8,
+      "slug": "construction-cost-of-housing-falls-by-80",
+      "title": "住房建造成本下降 80%",
+      "shortTitle": "超低成本住房",
+      "category": "Materials & Manufacturing",
+      "description": "机器人、模块化制造、先进材料、AI 设计和简化审批大幅降低建造安全住房所需的成本和时间。",
+      "layerId": "civilization",
+      "domains": [
+        "housing",
+        "construction",
+        "automation"
+      ],
+      "maturity": "mass-deployment",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "住房短缺变得更可解决，改变城市规划、迁移、家庭形成和经济安全的意义。",
+      "signals": [
+        "自主建造系统大规模建设社区",
+        "模块化工厂生产认证住房部件",
+        "城市采用 AI 辅助审批和土地使用规划"
+      ],
+      "implications": [
+        "无家可归和住房压力减少",
+        "灾后恢复住房建设更快",
+        "房地产经济受到重大冲击"
+      ],
+      "image": {
+        "alt": "自主建造系统大规模建设超低成本住房",
+        "prompts": [
+          "Autonomous construction robots building beautiful low-cost housing neighborhood at scale, families moving in, optimistic documentary realism, 16:9",
+          "Modular housing factory producing safe affordable homes with robotic assembly lines, clean future infrastructure, 16:9",
+          "AI-designed housing district with efficient materials, green spaces, and rapid robotic construction, bright post-scarcity city, 16:9",
+          "Public housing project completed by autonomous builders with welcoming community spaces, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-construction-cost-of-housing-falls-by-80.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-construction-cost-of-housing-falls-by-80.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-courts-resolve-minor-legal-disputes-instantly",
+      "order": 9,
+      "slug": "ai-courts-resolve-minor-legal-disputes-instantly",
+      "title": "AI 法庭即时解决轻微法律纠纷",
+      "shortTitle": "AI 小额法庭",
+      "category": "AI & Computing",
+      "description": "经批准的 AI 争议系统快速处理小额索赔、罚款、合同和常规民事冲突，并为复杂或有争议案件保留人工上诉路径。",
+      "layerId": "society",
+      "domains": [
+        "law",
+        "artificial-intelligence",
+        "public-services"
+      ],
+      "maturity": "regulated-automation",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2075
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "常规法律摩擦更快、更低成本地解决；当透明度和上诉权受到保护时，公众对系统的信任提升。",
+      "signals": [
+        "法院认证 AI 争议解决模型",
+        "轻微案件通过数字证据和调解流程处理",
+        "人类法官监督例外、上诉和涉及权利敏感的案件"
+      ],
+      "implications": [
+        "法院积压减少",
+        "小额纠纷成本降低",
+        "更需要偏见审计和程序透明"
+      ],
+      "image": {
+        "alt": "AI 法庭系统在人工监督下解决轻微法律纠纷",
+        "prompts": [
+          "Civic AI court kiosk helping citizens resolve minor disputes instantly with transparent evidence review and human appeal option, clean documentary realism, 16:9",
+          "Modern digital courtroom where AI mediation resolves small claims while human legal officers supervise fairness, optimistic civic technology, 16:9",
+          "People reviewing a clear AI dispute-resolution decision in a public service center, calm and accessible legal future, 16:9",
+          "Transparent legal AI dashboard comparing evidence, rights, and settlement options for minor civil dispute, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-climate-refugee-resettlement-system-becomes-globally-coordinated",
+      "order": 10,
+      "slug": "climate-refugee-resettlement-system-becomes-globally-coordinated",
+      "title": "气候难民安置系统实现全球协调",
+      "shortTitle": "气候安置系统",
+      "category": "Environment",
+      "description": "国际系统为受气候影响流离失所的人协调住房、法律身份、教育、就业和基础设施支持。",
+      "layerId": "civilization",
+      "domains": [
+        "climate-adaptation",
+        "migration",
+        "governance"
+      ],
+      "maturity": "global-coordination",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "大规模气候迁移变得更加人道且有计划，减少围绕流离失所产生的人道危机和冲突。",
+      "signals": [
+        "气候流离失所预测可提前数年改善",
+        "接收地区在迁移高峰前获得基础设施投资",
+        "国际法律框架承认气候迁移权利"
+      ],
+      "implications": [
+        "迁移路径更安全",
+        "失控流离失所危机风险降低",
+        "形成共享全球责任的新模式"
+      ],
+      "image": {
+        "alt": "全球协调的气候难民安置系统支持流离失所家庭",
+        "prompts": [
+          "Globally coordinated climate resettlement center helping displaced families access housing, education, and jobs, hopeful documentary realism, 16:9",
+          "AI-assisted migration planning dashboard showing safe relocation routes and prepared host cities, clean civic technology, 16:9",
+          "New climate-adaptive neighborhood welcoming resettled families with schools, clinics, and transit, optimistic civilization scene, 16:9",
+          "International coordination room managing climate refugee support with maps, infrastructure plans, and humanitarian teams, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse",
+      "order": 11,
+      "slug": "fusion-powered-recycling-plants-achieve-near-total-material-reuse",
+      "title": "聚变驱动的回收工厂实现近乎完全的材料再利用",
+      "shortTitle": "聚变回收工厂",
+      "category": "Energy",
+      "description": "由聚变供能的高能回收工厂大规模分类、分离、熔炼并重构材料，减少对原生开采的需求。",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "recycling",
+        "circular-economy"
+      ],
+      "maturity": "industrial-scale",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "随着城市和工业开始像循环生态系统一样运行，材料稀缺和废弃物减少。",
+      "signals": [
+        "聚变能源降低先进材料分离成本",
+        "机器人分拣在多种废物流中达到高纯度",
+        "制造商为完全回收和再利用而设计产品"
+      ],
+      "implications": [
+        "采矿压力降低",
+        "填埋场使用减少",
+        "新的循环制造产业兴起"
+      ],
+      "image": {
+        "alt": "聚变驱动的回收工厂将废弃物转化为可再利用原材料",
+        "prompts": [
+          "Fusion-powered recycling megafactory converting urban waste into clean reusable raw materials, bright industrial documentary realism, 16:9",
+          "Robotic sorting lines and high-energy material separation systems inside a circular economy plant, clean futuristic infrastructure, 16:9",
+          "City waste flowing into a fusion recycling facility and emerging as standardized material blocks, optimistic post-scarcity future, 16:9",
+          "Engineers monitoring near-total material reuse in an advanced recycling control room, transparent dashboards, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-synthetic-fertilizer-production-becomes-carbon-negative",
+      "order": 12,
+      "slug": "synthetic-fertilizer-production-becomes-carbon-negative",
+      "title": "合成肥料生产实现负碳化",
+      "shortTitle": "负碳肥料",
+      "category": "Materials & Manufacturing",
+      "description": "肥料生产转向清洁能源、捕获碳输入、生物固氮系统和低排放化学工艺，移除的碳多于其排放。",
+      "layerId": "technology",
+      "domains": [
+        "agriculture",
+        "climate-technology",
+        "chemistry"
+      ],
+      "maturity": "industrial-transition",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2076
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "农业在保持高产量的同时减少气候损害，支撑不断增长且日益城市化的文明。",
+      "signals": [
+        "清洁氨和氮系统取代高化石燃料依赖工艺",
+        "碳捕集整合进肥料制造",
+        "农民采用精准施用减少径流污染"
+      ],
+      "implications": [
+        "农业排放降低",
+        "粮食生产更可持续",
+        "通过更智能的养分使用让水道更清洁"
+      ],
+      "image": {
+        "alt": "负碳合成肥料工厂支持可持续农业",
+        "prompts": [
+          "Carbon-negative fertilizer production facility beside sustainable farms, clean chemistry infrastructure, optimistic documentary realism, 16:9",
+          "Precision agriculture drones applying low-emission fertilizer only where needed, bright farm landscape, realistic future, 16:9",
+          "Chemical engineers monitoring clean ammonia and carbon capture systems for fertilizer production, modern industrial lab, 16:9",
+          "Farmers receiving sustainable fertilizer from a clean-energy manufacturing hub, resilient food future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-fully-autonomous-city-district-opens",
+      "order": 13,
+      "slug": "first-fully-autonomous-city-district-opens",
+      "title": "首个完全自主运行的城市街区开放",
+      "shortTitle": "自主城市街区",
+      "category": "Civilization",
+      "description": "一个城市街区通过协调的 AI 与机器人基础设施运行交通、公用事业、维护、安全监测、废弃物系统和公共服务。",
+      "layerId": "civilization",
+      "domains": [
+        "smart-cities",
+        "artificial-intelligence",
+        "urban-infrastructure"
+      ],
+      "maturity": "district-scale-deployment",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "城市变得更适应性强、高效且响应迅速，同时也提出治理、问责和公共控制的新问题。",
+      "signals": [
+        "自主交通、公用事业、废弃物和安全系统整合为一个街区平台",
+        "机器人在故障可见前完成维护",
+        "居民投票决定公共 AI 的运行规则"
+      ],
+      "implications": [
+        "城市服务运营成本降低",
+        "对本地问题响应更快",
+        "AI 管理基础设施形成新的民主模式"
+      ],
+      "image": {
+        "alt": "由 AI 管理交通、公用事业和机器人的完全自主城市街区",
+        "prompts": [
+          "First fully autonomous city district with AI-managed transit, utilities, waste systems, and maintenance robots, clean futuristic documentary realism, 16:9",
+          "Residents walking through a calm smart district where robots maintain streets and public systems operate seamlessly, optimistic urban future, 16:9",
+          "City operations center coordinating autonomous infrastructure across a self-running district, transparent dashboards, 16:9",
+          "Night view of an autonomous city district with quiet transport pods, clean energy systems, and responsive public services, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-fully-autonomous-city-district-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-fully-autonomous-city-district-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-disease-outbreak-prediction-network-prevents-pandemics",
+      "order": 14,
+      "slug": "global-disease-outbreak-prediction-network-prevents-pandemics",
+      "title": "全球疾病暴发预测网络预防大流行",
+      "shortTitle": "大流行预测网络",
+      "category": "AI & Computing",
+      "description": "由传感器、诊所、基因组监测、环境数据和 AI 模型组成的全球网络，能足够早地发现疫情风险，从而预防大多数大流行。",
+      "layerId": "technology",
+      "domains": [
+        "healthcare",
+        "public-health",
+        "artificial-intelligence"
+      ],
+      "maturity": "global-operational-network",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "人类从应对大流行转向预防大流行，保护生命、经济和全球信任。",
+      "signals": [
+        "污水、野生动物、诊所和旅行数据进入共享早期预警系统",
+        "基因组监测更快发现危险突变",
+        "公共卫生响应在失控传播前启动"
+      ],
+      "implications": [
+        "全球疾病危机减少",
+        "健康干预更精准且破坏性更低",
+        "围绕生物监测的隐私和主权出现新争论"
+      ],
+      "image": {
+        "alt": "全球疾病暴发预测网络通过 AI 监测预防大流行",
+        "prompts": [
+          "Global disease outbreak prediction network control room with AI models, genomic alerts, and public health teams preventing pandemics, clean documentary realism, 16:9",
+          "Public health sensors, clinics, and genomic labs connected through a planetary early-warning dashboard, optimistic health infrastructure, 16:9",
+          "Scientists monitoring wastewater, wildlife, and hospital data for outbreak prevention, realistic future public health scene, 16:9",
+          "International health coordination center responding early to disease signals before pandemic spread, calm high-tech atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-open-source-medicine-libraries-become-available-worldwide",
+      "order": 15,
+      "slug": "open-source-medicine-libraries-become-available-worldwide",
+      "title": "开源医学库在全球可用",
+      "shortTitle": "开源医学",
+      "category": "Biology & Medicine",
+      "description": "经过验证的药物设计、制造协议、安全数据和治疗知识通过全球开放库共享，用于经批准的本地生产。",
+      "layerId": "society",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "knowledge-access"
+      ],
+      "maturity": "global-knowledge-network",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "随着知识瓶颈下降，医疗可及性改善，让更多地区能够本地生产安全的基本疗法。",
+      "signals": [
+        "监管机构认证开放医学协议",
+        "本地生物制造中心扩张",
+        "全球医学库包含安全性、剂量和质量控制数据"
+      ],
+      "implications": [
+        "药物获取不平等降低",
+        "更快响应区域健康需求",
+        "公共卫生形成新的知识产权模式"
+      ],
+      "image": {
+        "alt": "开源医学库连接全球本地生物制造诊所",
+        "prompts": [
+          "Open-source medicine library interface connected to local biomanufacturing clinic, doctors and technicians reviewing verified treatment protocols, optimistic documentary realism, 16:9",
+          "Community medical manufacturing hub producing approved medicines from open global protocols, clean biotech future, 16:9",
+          "Global map of open-source medicine access with clinics downloading verified therapies, clean healthcare technology, 16:9",
+          "Scientists contributing medicine designs to a shared public health library, transparent data screens, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-full-limb-replacement-using-cloned-cells-becomes-routine",
+      "order": 16,
+      "slug": "full-limb-replacement-using-cloned-cells-becomes-routine",
+      "title": "使用克隆细胞的完整肢体替换成为常规医疗",
+      "shortTitle": "克隆肢体替换",
+      "category": "Biology & Medicine",
+      "description": "再生医学、克隆组织、血管支架、神经整合和康复机器人，使严重损伤后的生物肢体替换成为常规。",
+      "layerId": "technology",
+      "domains": [
+        "regenerative-medicine",
+        "biotechnology",
+        "healthcare"
+      ],
+      "maturity": "routine-clinical-care",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "由肢体丧失造成的严重身体残障越来越可逆，改变创伤护理、康复和人类能力。",
+      "signals": [
+        "克隆组织与神经和血管整合",
+        "再生手术中心扩展到精英医院之外",
+        "机器人康复加速功能恢复"
+      ],
+      "implications": [
+        "严重损伤后的恢复更好",
+        "身份、同意和身体修复形成新标准",
+        "肢体丧失带来的终身负担减少"
+      ],
+      "image": {
+        "alt": "再生医学诊所使用克隆细胞替换失去的肢体",
+        "prompts": [
+          "Advanced regenerative medicine clinic growing a replacement limb from cloned cells in a sterile bioreactor, respectful medical documentary realism, 16:9",
+          "Patient learning to move a regenerated biological limb with support from doctors and rehabilitation robots, hopeful clinical scene, 16:9",
+          "Surgeons and AI systems integrating nerves and blood vessels for cloned limb replacement, clean future medicine, 16:9",
+          "Regenerative tissue lab with vascular scaffolds and cloned limb structures under careful monitoring, realistic biotech atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases",
+      "order": 17,
+      "slug": "gene-therapy-eliminates-most-hereditary-genetic-diseases",
+      "title": "基因治疗消除大多数遗传性疾病",
+      "shortTitle": "遗传病治疗",
+      "category": "Biology & Medicine",
+      "description": "安全的基因治疗和早期筛查在造成终身伤害前消除或预防大多数遗传性疾病。",
+      "layerId": "technology",
+      "domains": [
+        "gene-therapy",
+        "medicine",
+        "biotechnology"
+      ],
+      "maturity": "preventive-standard",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "家庭面对的遗传病负担减少，医疗系统从慢性遗传治疗转向早期预防。",
+      "signals": [
+        "基因编辑疗法在多种疾病上证明持久且安全",
+        "人口筛查更早识别可治疗的遗传风险",
+        "监管机构严格界定治疗与增强之间的边界"
+      ],
+      "implications": [
+        "遗传病造成的痛苦减少",
+        "长期医疗负担降低",
+        "人类遗传学需要重大伦理治理"
+      ],
+      "image": {
+        "alt": "基因治疗诊所预防遗传性疾病",
+        "prompts": [
+          "Gene therapy clinic where doctors review safe hereditary disease prevention with families, clean hopeful medical future, 16:9",
+          "Advanced biotechnology lab preparing precise gene therapy for inherited disease, realistic documentary style, 16:9",
+          "AI-assisted genomic screening dashboard identifying treatable hereditary risks, respectful healthcare scene, 16:9",
+          "Public health center offering preventive gene therapy under strict ethical oversight, optimistic medical civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-operational-fusion-power-plant-becomes-commercially-stable",
+      "order": 18,
+      "slug": "first-operational-fusion-power-plant-becomes-commercially-stable",
+      "title": "首座运行中的聚变电站实现商业稳定",
+      "shortTitle": "商业聚变电站",
+      "category": "Energy",
+      "description": "聚变电力实现可靠商业运行，为城市、工业、水系统和先进制造提供充足清洁能源。",
+      "layerId": "technology",
+      "domains": [
+        "fusion-energy",
+        "infrastructure",
+        "climate-technology"
+      ],
+      "maturity": "commercial-stability",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "能源丰裕通过降低水、材料、制造、交通和气候修复成本，加速后稀缺系统发展。",
+      "signals": [
+        "聚变电站以高正常运行率和可预测输出运行",
+        "电网运营商将聚变纳入基荷规划",
+        "工业用户签署长期清洁能源合同"
+      ],
+      "implications": [
+        "清洁能源成本降低",
+        "重工业电气化加速",
+        "围绕聚变基础设施形成新的能源地缘政治"
+      ],
+      "image": {
+        "alt": "首座商业稳定的聚变电站向城市供应清洁能源",
+        "prompts": [
+          "First commercially stable fusion power plant glowing softly beside a clean future city, optimistic energy infrastructure documentary, 16:9",
+          "Fusion control room with engineers monitoring reliable commercial output and grid stability, clean high-tech realism, 16:9",
+          "City skyline powered by a modern fusion plant with clean water and transport systems nearby, post-scarcity foundation, 16:9",
+          "Industrial district using abundant fusion energy for clean manufacturing, bright realistic future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-peace-summit-establishes-the-empathy-interface-protocol",
+      "order": 19,
+      "slug": "global-peace-summit-establishes-the-empathy-interface-protocol",
+      "title": "全球和平峰会建立共情接口协议",
+      "shortTitle": "共情接口协议",
+      "category": "Civilization",
+      "description": "世界领导人、科学家、调解者和公民社会建立共情接口的伦理规则，帮助人们理解跨文化和冲突中的经验。",
+      "layerId": "society",
+      "domains": [
+        "governance",
+        "neurotechnology",
+        "peacebuilding"
+      ],
+      "maturity": "global-framework",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2085
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "外交获得减少非人化的新工具，但必须有严格保障来保护自主性、同意和情感隐私。",
+      "signals": [
+        "共情接口研究变得可测量且可审计",
+        "和平建设组织测试基于同意的共享体验工具",
+        "国际机构定义情感和神经数据权利"
+      ],
+      "implications": [
+        "冲突调解出现新形式",
+        "神经技术伦理治理更强",
+        "有可能减少极化和群体间敌意"
+      ],
+      "image": {
+        "alt": "全球和平峰会建立伦理共情接口协议",
+        "prompts": [
+          "Global peace summit where leaders and citizens discuss an ethical empathy interface protocol, calm futuristic diplomacy hall, documentary realism, 16:9",
+          "Mediators using consent-based empathy interface tools to understand conflict experiences without coercion, hopeful civic future, 16:9",
+          "International neuroethics council reviewing emotional privacy and empathy technology safeguards, clean governance scene, 16:9",
+          "Symbolic gathering of diverse communities connected through transparent empathy interface visualization, optimistic human civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment",
+      "order": 20,
+      "slug": "atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment",
+      "title": "由聚变驱动的大气清洁器开始大规模部署",
+      "shortTitle": "聚变大气清洁器",
+      "category": "Energy",
+      "description": "由充足聚变能源驱动的大规模大气清洁系统从空气中去除污染物、过量温室气体和有害气溶胶。",
+      "layerId": "technology",
+      "domains": [
+        "climate-restoration",
+        "fusion-energy",
+        "atmospheric-engineering"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "气候修复成为主动的行星能力，帮助恢复空气质量并稳定长期环境系统。",
+      "signals": [
+        "聚变能源让高通量空气处理变得可负担",
+        "大气监测验证污染物和碳移除",
+        "气候条约规范部署和区域影响"
+      ],
+      "implications": [
+        "空气质量改善",
+        "碳移除能力扩大",
+        "行星尺度气候技术需要新的全球治理"
+      ],
+      "image": {
+        "alt": "聚变驱动的大气清洁器从天空中移除污染",
+        "prompts": [
+          "Fusion-powered atmospheric cleaners operating on the edge of a city, clear sky returning as pollution is removed, clean futuristic documentary, 16:9",
+          "Large climate restoration towers processing air with fusion energy, forests and city skyline in the distance, optimistic planetary repair, 16:9",
+          "Atmospheric engineering control room monitoring carbon removal and air quality across continents, realistic future infrastructure, 16:9",
+          "Massive but elegant air-cleaning structures in a restored industrial zone, bright hopeful climate technology, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-personal-life-managers-coordinate-daily-human-activities",
+      "order": 21,
+      "slug": "ai-personal-life-managers-coordinate-daily-human-activities",
+      "title": "AI 个人生活管理器协调人类日常活动",
+      "shortTitle": "AI 个人生活管理器",
+      "category": "AI & Computing",
+      "description": "AI 个人生活管理器将 AI 作为社会基础设施，用于物流、金融、法律、疾病预防、个人协调、教育和大规模公共系统。",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "AI 个人生活管理器成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "AI 系统协调复杂的社会和公共服务运行",
+        "预测模型减少浪费、延迟、冲突和可预防风险",
+        "人类监督转向政策、伦理和高层指导"
+      ],
+      "implications": [
+        "公共系统更快速且更个性化",
+        "大规模协调更可靠",
+        "公平取决于透明治理和广泛准入"
+      ],
+      "image": {
+        "alt": "AI 个人生活管理器协调人类日常活动",
+        "prompts": [
+          "aI Personal Life Managers Coordinate Daily Human Activities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Personal Life Managers Coordinate Daily Human Activities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Personal Life Managers Coordinate Daily Human Activities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Personal Life Managers Coordinate Daily Human Activities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fully-autonomous-agriculture-complexes-become-common",
+      "order": 22,
+      "slug": "fully-autonomous-agriculture-complexes-become-common",
+      "title": "完全自主的农业综合体变得普遍",
+      "shortTitle": "完全自主农业综合体",
+      "category": "Robotics",
+      "description": "完全自主农业综合体将自主机器劳动扩展到照护、农业、城市维护、家庭支持和海洋修复，并达到后稀缺规模。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "完全自主农业综合体成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "自主机群执行基本实体服务",
+        "机器人在家庭、农场、城市、海洋和危险场所运行",
+        "维护和恢复更快且更少依赖稀缺劳动力"
+      ],
+      "implications": [
+        "为了生存而进行的体力劳动变得不那么必要",
+        "照护和基础设施更加可及",
+        "人类工作转向创造性、社会性和监督性角色"
+      ],
+      "image": {
+        "alt": "完全自主的农业综合体变得普遍",
+        "prompts": [
+          "fully Autonomous Agriculture Complexes Become Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing fully Autonomous Agriculture Complexes Become Common, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of fully Autonomous Agriculture Complexes Become Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating fully Autonomous Agriculture Complexes Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-household-service-robots-handle-most-domestic-tasks",
+      "order": 23,
+      "slug": "household-service-robots-handle-most-domestic-tasks",
+      "title": "家庭服务机器人处理大多数家务",
+      "shortTitle": "家庭服务机器人",
+      "category": "Robotics",
+      "description": "家庭服务机器人将自主机器劳动扩展到照护、农业、城市维护、家庭支持和海洋修复，并达到后稀缺规模。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2073
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "家庭服务机器人成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "自主机群执行基本实体服务",
+        "机器人在家庭、农场、城市、海洋和危险场所运行",
+        "维护和恢复更快且更少依赖稀缺劳动力"
+      ],
+      "implications": [
+        "为了生存而进行的体力劳动变得不那么必要",
+        "照护和基础设施更加可及",
+        "人类工作转向创造性、社会性和监督性角色"
+      ],
+      "image": {
+        "alt": "家庭服务机器人处理大多数家务",
+        "prompts": [
+          "household Service Robots Handle Most Domestic Tasks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing household Service Robots Handle Most Domestic Tasks, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of household Service Robots Handle Most Domestic Tasks, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating household Service Robots Handle Most Domestic Tasks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-household-service-robots-handle-most-domestic-tasks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-household-service-robots-handle-most-domestic-tasks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-autonomous-infrastructure-repair-robots-maintain-cities",
+      "order": 24,
+      "slug": "autonomous-infrastructure-repair-robots-maintain-cities",
+      "title": "自主基础设施维修机器人维护城市",
+      "shortTitle": "自主基础设施维修机器人",
+      "category": "Robotics",
+      "description": "自主基础设施维修机器人将自主机器劳动扩展到照护、农业、城市维护、家庭支持和海洋修复，并达到后稀缺规模。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2073
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "自主基础设施维修机器人成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "自主机群执行基本实体服务",
+        "机器人在家庭、农场、城市、海洋和危险场所运行",
+        "维护和恢复更快且更少依赖稀缺劳动力"
+      ],
+      "implications": [
+        "为了生存而进行的体力劳动变得不那么必要",
+        "照护和基础设施更加可及",
+        "人类工作转向创造性、社会性和监督性角色"
+      ],
+      "image": {
+        "alt": "自主基础设施维修机器人维护城市",
+        "prompts": [
+          "autonomous Infrastructure Repair Robots Maintain Cities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Infrastructure Repair Robots Maintain Cities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Infrastructure Repair Robots Maintain Cities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Infrastructure Repair Robots Maintain Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems",
+      "order": 25,
+      "slug": "ocean-cleanup-robot-fleets-restore-marine-ecosystems",
+      "title": "海洋清理机器人舰队修复海洋生态系统",
+      "shortTitle": "海洋清理机器人舰队",
+      "category": "Robotics",
+      "description": "海洋清理机器人舰队将自主机器劳动扩展到照护、农业、城市维护、家庭支持和海洋修复，并达到后稀缺规模。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2069,
+        "endYear": 2074
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "海洋清理机器人舰队成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "自主机群执行基本实体服务",
+        "机器人在家庭、农场、城市、海洋和危险场所运行",
+        "维护和恢复更快且更少依赖稀缺劳动力"
+      ],
+      "implications": [
+        "为了生存而进行的体力劳动变得不那么必要",
+        "照护和基础设施更加可及",
+        "人类工作转向创造性、社会性和监督性角色"
+      ],
+      "image": {
+        "alt": "海洋清理机器人舰队修复海洋生态系统",
+        "prompts": [
+          "ocean Cleanup Robot Fleets Restore Marine Ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ocean Cleanup Robot Fleets Restore Marine Ecosystems, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ocean Cleanup Robot Fleets Restore Marine Ecosystems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ocean Cleanup Robot Fleets Restore Marine Ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide",
+      "order": 26,
+      "slug": "fusion-energy-cost-falls-below-fossil-fuels-worldwide",
+      "title": "全球聚变能源成本低于化石燃料",
+      "shortTitle": "聚变能源成本下降",
+      "category": "Energy",
+      "description": "全球聚变能源成本低于化石燃料，使充足清洁能源能够实际支撑水、回收、食品、大气修复和后稀缺社会的早期基础。",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "clean-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2070,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "全球聚变能源成本低于化石燃料成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "聚变和清洁能源系统实现经济稳定",
+        "能源密集型公共产品变得可负担",
+        "大型基础设施能够摆脱化石燃料依赖运行"
+      ],
+      "implications": [
+        "水、食物、住房和回收领域的稀缺下降",
+        "气候修复更加可行",
+        "文明获得行星转型所需的能源基础"
+      ],
+      "image": {
+        "alt": "全球聚变能源成本低于化石燃料",
+        "prompts": [
+          "fusion Energy Cost Falls Below Fossil Fuels Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing fusion Energy Cost Falls Below Fossil Fuels Worldwide, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of fusion Energy Cost Falls Below Fossil Fuels Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating fusion Energy Cost Falls Below Fossil Fuels Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-permanent-lunar-city-reaches-10-000-residents",
+      "order": 27,
+      "slug": "permanent-lunar-city-reaches-10-000-residents",
+      "title": "永久月球城市达到 10,000 名居民",
+      "shortTitle": "永久月球城市 10000",
+      "category": "Space",
+      "description": "永久月球城市达到 10,000 名居民，推动地外发展从早期前哨迈向月球城市、火星定居点、小行星产业、人工重力栖息地和常规地月运输。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2070,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "永久月球城市达到 10,000 名居民成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "永久定居点超越科学前哨规模",
+        "客运和货运路线变得常规化",
+        "地外产业成为更广泛经济的一部分"
+      ],
+      "implications": [
+        "人类文明变得更加分布式",
+        "太空基础设施支撑韧性和产业",
+        "太阳系文明的下一时代成为可能"
+      ],
+      "image": {
+        "alt": "永久月球城市达到 10,000 名居民",
+        "prompts": [
+          "permanent Lunar City Reaches 10,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing permanent Lunar City Reaches 10,000 Residents, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of permanent Lunar City Reaches 10,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating permanent Lunar City Reaches 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies",
+      "order": 28,
+      "slug": "first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies",
+      "title": "首个自给自足的火星定居点实现独立于地球补给",
+      "shortTitle": "自给自足火星定居点",
+      "category": "Space",
+      "description": "首个自给自足的火星定居点实现独立于地球补给，推动地外发展从早期前哨迈向月球城市、火星定居点、小行星产业、人工重力栖息地和常规地月运输。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2071,
+        "endYear": 2076
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "首个自给自足的火星定居点成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "永久定居点超越科学前哨规模",
+        "客运和货运路线变得常规化",
+        "地外产业成为更广泛经济的一部分"
+      ],
+      "implications": [
+        "人类文明变得更加分布式",
+        "太空基础设施支撑韧性和产业",
+        "太阳系文明的下一时代成为可能"
+      ],
+      "image": {
+        "alt": "首个自给自足的火星定居点实现独立于地球补给",
+        "prompts": [
+          "first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-asteroid-mining-industry-reaches-commercial-scale",
+      "order": 29,
+      "slug": "asteroid-mining-industry-reaches-commercial-scale",
+      "title": "小行星采矿产业达到商业规模",
+      "shortTitle": "小行星采矿商业规模",
+      "category": "Space",
+      "description": "小行星采矿产业达到商业规模，推动地外发展从早期前哨迈向月球城市、火星定居点、小行星产业、人工重力栖息地和常规地月运输。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2071,
+        "endYear": 2076
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "小行星采矿产业达到商业规模成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "永久定居点超越科学前哨规模",
+        "客运和货运路线变得常规化",
+        "地外产业成为更广泛经济的一部分"
+      ],
+      "implications": [
+        "人类文明变得更加分布式",
+        "太空基础设施支撑韧性和产业",
+        "太阳系文明的下一时代成为可能"
+      ],
+      "image": {
+        "alt": "小行星采矿产业达到商业规模",
+        "prompts": [
+          "asteroid Mining Industry Reaches Commercial Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing asteroid Mining Industry Reaches Commercial Scale, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of asteroid Mining Industry Reaches Commercial Scale, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating asteroid Mining Industry Reaches Commercial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-artificial-gravity-space-habitat-opens-to-residents",
+      "order": 30,
+      "slug": "artificial-gravity-space-habitat-opens-to-residents",
+      "title": "人工重力太空栖息地向居民开放",
+      "shortTitle": "人工重力太空栖息地",
+      "category": "Space",
+      "description": "人工重力太空栖息地向居民开放，推动地外发展从早期前哨迈向月球城市、火星定居点、小行星产业、人工重力栖息地和常规地月运输。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2072,
+        "endYear": 2077
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "人工重力太空栖息地向居民开放成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "永久定居点超越科学前哨规模",
+        "客运和货运路线变得常规化",
+        "地外产业成为更广泛经济的一部分"
+      ],
+      "implications": [
+        "人类文明变得更加分布式",
+        "太空基础设施支撑韧性和产业",
+        "太阳系文明的下一时代成为可能"
+      ],
+      "image": {
+        "alt": "人工重力太空栖息地向居民开放",
+        "prompts": [
+          "artificial Gravity Space Habitat Opens to Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Space Habitat Opens to Residents, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Space Habitat Opens to Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Space Habitat Opens to Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-earth-moon-passenger-transport-becomes-routine",
+      "order": 31,
+      "slug": "earth-moon-passenger-transport-becomes-routine",
+      "title": "地月客运变得常规化",
+      "shortTitle": "地月客运常规化",
+      "category": "Space",
+      "description": "地月客运变得常规化，推动地外发展从早期前哨迈向月球城市、火星定居点、小行星产业、人工重力栖息地和常规地月运输。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2073,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "地月客运变得常规化成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "永久定居点超越科学前哨规模",
+        "客运和货运路线变得常规化",
+        "地外产业成为更广泛经济的一部分"
+      ],
+      "implications": [
+        "人类文明变得更加分布式",
+        "太空基础设施支撑韧性和产业",
+        "太阳系文明的下一时代成为可能"
+      ],
+      "image": {
+        "alt": "地月客运变得常规化",
+        "prompts": [
+          "earth-Moon Passenger Transport Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon Passenger Transport Becomes Routine, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon Passenger Transport Becomes Routine, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon Passenger Transport Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-earth-moon-passenger-transport-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-earth-moon-passenger-transport-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-organ-printing-replaces-most-donor-transplants",
+      "order": 32,
+      "slug": "organ-printing-replaces-most-donor-transplants",
+      "title": "器官打印取代大多数捐赠移植",
+      "shortTitle": "器官打印取代捐赠",
+      "category": "Biology & Medicine",
+      "description": "器官打印取代大多数捐赠移植，使医学从治疗扩展到再生、预防、开源准入、器官打印和健康寿命的大幅提升。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2073,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "器官打印取代大多数捐赠移植成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "再生医学变得广泛可及",
+        "疾病预防通过全球监测和个性化系统改善",
+        "生物修复更加可靠且可负担"
+      ],
+      "implications": [
+        "健康寿命大幅提高",
+        "医疗可及性成为核心后稀缺服务",
+        "人类身份开始从生物限制中分离"
+      ],
+      "image": {
+        "alt": "器官打印取代大多数捐赠移植",
+        "prompts": [
+          "organ Printing Replaces Most Donor Transplants, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing organ Printing Replaces Most Donor Transplants, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of organ Printing Replaces Most Donor Transplants, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating organ Printing Replaces Most Donor Transplants, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-organ-printing-replaces-most-donor-transplants.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-organ-printing-replaces-most-donor-transplants.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-human-lifespan-exceeds-120-years-for-the-majority-population",
+      "order": 33,
+      "slug": "human-lifespan-exceeds-120-years-for-the-majority-population",
+      "title": "大多数人口的人类寿命超过 120 岁",
+      "shortTitle": "人类寿命超过 120",
+      "category": "Biology & Medicine",
+      "description": "大多数人口的人类寿命超过 120 岁，使医学从治疗扩展到再生、预防、开源准入、器官打印和健康寿命的大幅提升。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2074,
+        "endYear": 2079
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "大多数人口的人类寿命超过 120 岁成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "再生医学变得广泛可及",
+        "疾病预防通过全球监测和个性化系统改善",
+        "生物修复更加可靠且可负担"
+      ],
+      "implications": [
+        "健康寿命大幅提高",
+        "医疗可及性成为核心后稀缺服务",
+        "人类身份开始从生物限制中分离"
+      ],
+      "image": {
+        "alt": "大多数人口的人类寿命超过 120 岁",
+        "prompts": [
+          "human Lifespan Exceeds 120 Years for the Majority Population, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Lifespan Exceeds 120 Years for the Majority Population, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Lifespan Exceeds 120 Years for the Majority Population, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Lifespan Exceeds 120 Years for the Majority Population, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-artificial-gravity-systems-become-reliable-for-large-habitats",
+      "order": 34,
+      "slug": "artificial-gravity-systems-become-reliable-for-large-habitats",
+      "title": "人工重力系统对大型栖息地变得可靠",
+      "shortTitle": "大型栖息地可靠人工重力",
+      "category": "Physics",
+      "description": "人工重力系统对大型栖息地变得可靠，使先进物理进入量子通信、人工重力、辐射屏蔽、蛋白质科学和超导系统等实用基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2074,
+        "endYear": 2079
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "人工重力系统对大型栖息地变得可靠成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "量子和重力相关系统成为工程化服务",
+        "先进测量改进基础设施和导航",
+        "计算能力解决过去无法触及的问题"
+      ],
+      "implications": [
+        "新类型基础设施变得可行",
+        "太空居住更安全、更舒适",
+        "医学、材料和能源领域的科学进步加速"
+      ],
+      "image": {
+        "alt": "人工重力系统对大型栖息地变得可靠",
+        "prompts": [
+          "artificial Gravity Systems Become Reliable for Large Habitats, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Systems Become Reliable for Large Habitats, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Systems Become Reliable for Large Habitats, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Systems Become Reliable for Large Habitats, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-quantum-communication-networks-become-globally-standard",
+      "order": 35,
+      "slug": "quantum-communication-networks-become-globally-standard",
+      "title": "量子通信网络成为全球标准",
+      "shortTitle": "全球量子通信网络",
+      "category": "Physics",
+      "description": "量子通信网络成为全球标准，使先进物理进入量子通信、人工重力、辐射屏蔽、蛋白质科学和超导系统等实用基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2075,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "量子通信网络成为全球标准成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "量子和重力相关系统成为工程化服务",
+        "先进测量改进基础设施和导航",
+        "计算能力解决过去无法触及的问题"
+      ],
+      "implications": [
+        "新类型基础设施变得可行",
+        "太空居住更安全、更舒适",
+        "医学、材料和能源领域的科学进步加速"
+      ],
+      "image": {
+        "alt": "量子通信网络成为全球标准",
+        "prompts": [
+          "quantum Communication Networks Become Globally Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Communication Networks Become Globally Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Communication Networks Become Globally Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Communication Networks Become Globally Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-quantum-communication-networks-become-globally-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-quantum-communication-networks-become-globally-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-magnetic-radiation-shielding-protects-space-settlements",
+      "order": 36,
+      "slug": "magnetic-radiation-shielding-protects-space-settlements",
+      "title": "磁辐射屏蔽保护太空定居点",
+      "shortTitle": "磁辐射屏蔽保护",
+      "category": "Physics",
+      "description": "磁辐射屏蔽保护太空定居点，使先进物理进入量子通信、人工重力、辐射屏蔽、蛋白质科学和超导系统等实用基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2076,
+        "endYear": 2081
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "磁辐射屏蔽保护太空定居点成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "量子和重力相关系统成为工程化服务",
+        "先进测量改进基础设施和导航",
+        "计算能力解决过去无法触及的问题"
+      ],
+      "implications": [
+        "新类型基础设施变得可行",
+        "太空居住更安全、更舒适",
+        "医学、材料和能源领域的科学进步加速"
+      ],
+      "image": {
+        "alt": "磁辐射屏蔽保护太空定居点",
+        "prompts": [
+          "magnetic Radiation Shielding Protects Space Settlements, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing magnetic Radiation Shielding Protects Space Settlements, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of magnetic Radiation Shielding Protects Space Settlements, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating magnetic Radiation Shielding Protects Space Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-large-scale-quantum-computing-solves-protein-folding-universally",
+      "order": 37,
+      "slug": "large-scale-quantum-computing-solves-protein-folding-universally",
+      "title": "大规模量子计算普遍解决蛋白质折叠问题",
+      "shortTitle": "量子计算解决蛋白折叠",
+      "category": "Physics",
+      "description": "大规模量子计算普遍解决蛋白质折叠问题，使先进物理进入量子通信、人工重力、辐射屏蔽、蛋白质科学和超导系统等实用基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2076,
+        "endYear": 2081
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "大规模量子计算普遍解决蛋白质折叠问题成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "量子和重力相关系统成为工程化服务",
+        "先进测量改进基础设施和导航",
+        "计算能力解决过去无法触及的问题"
+      ],
+      "implications": [
+        "新类型基础设施变得可行",
+        "太空居住更安全、更舒适",
+        "医学、材料和能源领域的科学进步加速"
+      ],
+      "image": {
+        "alt": "大规模量子计算普遍解决蛋白质折叠问题",
+        "prompts": [
+          "large-Scale Quantum Computing Solves Protein Folding Universally, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing large-Scale Quantum Computing Solves Protein Folding Universally, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of large-Scale Quantum Computing Solves Protein Folding Universally, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating large-Scale Quantum Computing Solves Protein Folding Universally, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-room-temperature-superconductors-become-commercially-common",
+      "order": 38,
+      "slug": "room-temperature-superconductors-become-commercially-common",
+      "title": "室温超导体在商业上变得普遍",
+      "shortTitle": "室温超导体普及",
+      "category": "Physics",
+      "description": "室温超导体在商业上变得普遍，使先进物理进入量子通信、人工重力、辐射屏蔽、蛋白质科学和超导系统等实用基础设施。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2077,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "室温超导体在商业上变得普遍成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "量子和重力相关系统成为工程化服务",
+        "先进测量改进基础设施和导航",
+        "计算能力解决过去无法触及的问题"
+      ],
+      "implications": [
+        "新类型基础设施变得可行",
+        "太空居住更安全、更舒适",
+        "医学、材料和能源领域的科学进步加速"
+      ],
+      "image": {
+        "alt": "室温超导体在商业上变得普遍",
+        "prompts": [
+          "room-Temperature Superconductors Become Commercially Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing room-Temperature Superconductors Become Commercially Common, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of room-Temperature Superconductors Become Commercially Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating room-Temperature Superconductors Become Commercially Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-room-temperature-superconductors-become-commercially-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-room-temperature-superconductors-become-commercially-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-self-healing-infrastructure-materials-become-standard",
+      "order": 39,
+      "slug": "self-healing-infrastructure-materials-become-standard",
+      "title": "自修复基础设施材料成为标准",
+      "shortTitle": "自修复基础设施材料",
+      "category": "Materials & Manufacturing",
+      "description": "自修复基础设施材料成为标准，通过聚变回收、自修复基础设施、可编程物质和分子制造降低居住空间与实体商品成本。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2077,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "自修复基础设施材料成为标准成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "循环制造减少对原生材料的需求",
+        "建筑和基础设施能够自我修复",
+        "分子和可编程制造进入工业应用"
+      ],
+      "implications": [
+        "住房和商品变得更便宜",
+        "废弃物大幅减少",
+        "基础设施更具韧性和适应性"
+      ],
+      "image": {
+        "alt": "自修复基础设施材料成为标准",
+        "prompts": [
+          "self-Healing Infrastructure Materials Become Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Infrastructure Materials Become Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Infrastructure Materials Become Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Infrastructure Materials Become Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-self-healing-infrastructure-materials-become-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-self-healing-infrastructure-materials-become-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-programmable-matter-enters-industrial-production",
+      "order": 40,
+      "slug": "programmable-matter-enters-industrial-production",
+      "title": "可编程物质进入工业生产",
+      "shortTitle": "可编程物质工业生产",
+      "category": "Materials & Manufacturing",
+      "description": "可编程物质进入工业生产，通过聚变回收、自修复基础设施、可编程物质和分子制造降低居住空间与实体商品成本。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2083
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "可编程物质进入工业生产成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "循环制造减少对原生材料的需求",
+        "建筑和基础设施能够自我修复",
+        "分子和可编程制造进入工业应用"
+      ],
+      "implications": [
+        "住房和商品变得更便宜",
+        "废弃物大幅减少",
+        "基础设施更具韧性和适应性"
+      ],
+      "image": {
+        "alt": "可编程物质进入工业生产",
+        "prompts": [
+          "programmable Matter Enters Industrial Production, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Enters Industrial Production, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Enters Industrial Production, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Enters Industrial Production, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-programmable-matter-enters-industrial-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-programmable-matter-enters-industrial-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-molecular-manufacturing-begins-commercial-deployment",
+      "order": 41,
+      "slug": "molecular-manufacturing-begins-commercial-deployment",
+      "title": "分子制造开始商业部署",
+      "shortTitle": "分子制造部署",
+      "category": "Materials & Manufacturing",
+      "description": "分子制造开始商业部署，通过聚变回收、自修复基础设施、可编程物质和分子制造降低居住空间与实体商品成本。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2079,
+        "endYear": 2084
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "分子制造开始商业部署成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "循环制造减少对原生材料的需求",
+        "建筑和基础设施能够自我修复",
+        "分子和可编程制造进入工业应用"
+      ],
+      "implications": [
+        "住房和商品变得更便宜",
+        "废弃物大幅减少",
+        "基础设施更具韧性和适应性"
+      ],
+      "image": {
+        "alt": "分子制造开始商业部署",
+        "prompts": [
+          "molecular Manufacturing Begins Commercial Deployment, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing molecular Manufacturing Begins Commercial Deployment, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of molecular Manufacturing Begins Commercial Deployment, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating molecular Manufacturing Begins Commercial Deployment, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-biodiversity-loss-stops-and-global-recovery-begins",
+      "order": 42,
+      "slug": "biodiversity-loss-stops-and-global-recovery-begins",
+      "title": "生物多样性丧失停止，全球恢复开始",
+      "shortTitle": "生物多样性恢复开始",
+      "category": "Environment",
+      "description": "生物多样性丧失停止，全球恢复开始，通过清洁用水、海水淡化、气候难民协调、生物多样性恢复、沙漠绿化和大气修复稳定基本生命支持系统。",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2079,
+        "endYear": 2084
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "生物多样性丧失停止，全球恢复开始成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "修复项目在区域和全球尺度上变得可测量",
+        "水和食物系统更具韧性",
+        "气候数据指导实时干预"
+      ],
+      "implications": [
+        "环境崩溃风险下降",
+        "宜居土地和生物多样性恢复",
+        "行星守护成为核心文明角色"
+      ],
+      "image": {
+        "alt": "生物多样性丧失停止，全球恢复开始",
+        "prompts": [
+          "biodiversity Loss Stops and Global Recovery Begins, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biodiversity Loss Stops and Global Recovery Begins, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biodiversity Loss Stops and Global Recovery Begins, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biodiversity Loss Stops and Global Recovery Begins, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-desert-greening-projects-restore-millions-of-square-kilometers",
+      "order": 43,
+      "slug": "desert-greening-projects-restore-millions-of-square-kilometers",
+      "title": "沙漠绿化项目恢复数百万平方公里土地",
+      "shortTitle": "沙漠绿化恢复项目",
+      "category": "Environment",
+      "description": "沙漠绿化项目恢复数百万平方公里土地，通过清洁用水、海水淡化、气候难民协调、生物多样性恢复、沙漠绿化和大气修复稳定基本生命支持系统。",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "沙漠绿化项目恢复数百万平方公里土地成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "修复项目在区域和全球尺度上变得可测量",
+        "水和食物系统更具韧性",
+        "气候数据指导实时干预"
+      ],
+      "implications": [
+        "环境崩溃风险下降",
+        "宜居土地和生物多样性恢复",
+        "行星守护成为核心文明角色"
+      ],
+      "image": {
+        "alt": "沙漠绿化项目恢复数百万平方公里土地",
+        "prompts": [
+          "desert Greening Projects Restore Millions of Square Kilometers, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing desert Greening Projects Restore Millions of Square Kilometers, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of desert Greening Projects Restore Millions of Square Kilometers, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating desert Greening Projects Restore Millions of Square Kilometers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-carbon-concentration-returns-below-pre-industrial-levels",
+      "order": 44,
+      "slug": "carbon-concentration-returns-below-pre-industrial-levels",
+      "title": "碳浓度回到工业化前水平以下",
+      "shortTitle": "碳浓度回落",
+      "category": "Environment",
+      "description": "碳浓度回到工业化前水平以下，通过清洁用水、海水淡化、气候难民协调、生物多样性恢复、沙漠绿化和大气修复稳定基本生命支持系统。",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "碳浓度回到工业化前水平以下成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "修复项目在区域和全球尺度上变得可测量",
+        "水和食物系统更具韧性",
+        "气候数据指导实时干预"
+      ],
+      "implications": [
+        "环境崩溃风险下降",
+        "宜居土地和生物多样性恢复",
+        "行星守护成为核心文明角色"
+      ],
+      "image": {
+        "alt": "碳浓度回到工业化前水平以下",
+        "prompts": [
+          "carbon Concentration Returns Below Pre-Industrial Levels, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Concentration Returns Below Pre-Industrial Levels, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Concentration Returns Below Pre-Industrial Levels, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Concentration Returns Below Pre-Industrial Levels, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-four-day-workweek-becomes-global-standard",
+      "order": 45,
+      "slug": "four-day-workweek-becomes-global-standard",
+      "title": "四天工作周成为全球标准",
+      "shortTitle": "全球四天工作周",
+      "category": "Society & Economy",
+      "description": "四天工作周成为全球标准，围绕普遍准入和丰裕而非稀缺管理，重构福利、教育、贫困、债务、工作和基本服务。",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2081,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "四天工作周成为全球标准成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "普遍服务扩展到传统福利之外",
+        "随着自动化提高生产率，工作时间下降",
+        "基本需求越来越少与就业或财富绑定"
+      ],
+      "implications": [
+        "社会稳定改善",
+        "人类潜能通过教育和准入扩展",
+        "经济系统从生存转向繁荣"
+      ],
+      "image": {
+        "alt": "四天工作周成为全球标准",
+        "prompts": [
+          "four-Day Workweek Becomes Global Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing four-Day Workweek Becomes Global Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of four-Day Workweek Becomes Global Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating four-Day Workweek Becomes Global Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-four-day-workweek-becomes-global-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-four-day-workweek-becomes-global-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-extreme-poverty-falls-below-one-percent-worldwide",
+      "order": 46,
+      "slug": "extreme-poverty-falls-below-one-percent-worldwide",
+      "title": "全球极端贫困降至 1% 以下",
+      "shortTitle": "极端贫困下降",
+      "category": "Society & Economy",
+      "description": "全球极端贫困降至 1% 以下，围绕普遍准入和丰裕而非稀缺管理，重构福利、教育、贫困、债务、工作和基本服务。",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "全球极端贫困降至 1% 以下成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "普遍服务扩展到传统福利之外",
+        "随着自动化提高生产率，工作时间下降",
+        "基本需求越来越少与就业或财富绑定"
+      ],
+      "implications": [
+        "社会稳定改善",
+        "人类潜能通过教育和准入扩展",
+        "经济系统从生存转向繁荣"
+      ],
+      "image": {
+        "alt": "全球极端贫困降至 1% 以下",
+        "prompts": [
+          "extreme Poverty Falls Below One Percent Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing extreme Poverty Falls Below One Percent Worldwide, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of extreme Poverty Falls Below One Percent Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating extreme Poverty Falls Below One Percent Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-cashless-economies-become-nearly-universal",
+      "order": 47,
+      "slug": "cashless-economies-become-nearly-universal",
+      "title": "无现金经济几乎普及全球",
+      "shortTitle": "无现金经济普及",
+      "category": "Society & Economy",
+      "description": "无现金经济几乎普及全球，围绕普遍准入和丰裕而非稀缺管理，重构福利、教育、贫困、债务、工作和基本服务。",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "无现金经济几乎普及全球成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "普遍服务扩展到传统福利之外",
+        "随着自动化提高生产率，工作时间下降",
+        "基本需求越来越少与就业或财富绑定"
+      ],
+      "implications": [
+        "社会稳定改善",
+        "人类潜能通过教育和准入扩展",
+        "经济系统从生存转向繁荣"
+      ],
+      "image": {
+        "alt": "无现金经济几乎普及全球",
+        "prompts": [
+          "cashless Economies Become Nearly Universal, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cashless Economies Become Nearly Universal, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cashless Economies Become Nearly Universal, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cashless Economies Become Nearly Universal, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-cashless-economies-become-nearly-universal.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-cashless-economies-become-nearly-universal.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-human-rights-framework-expands-to-include-ai-entities",
+      "order": 48,
+      "slug": "global-human-rights-framework-expands-to-include-ai-entities",
+      "title": "全球人权框架扩展至包含 AI 实体",
+      "shortTitle": "全球人权框架",
+      "category": "Civilization",
+      "description": "全球人权框架扩展至包含 AI 实体，创建丰裕社会所需的新治理、和平、权利和行星资源机构。",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2083,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "全球人权框架扩展至包含 AI 实体成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "治理超越逐国危机应对",
+        "权利框架适应 AI 和先进系统",
+        "全球机构协调资源、和平和公共基础设施"
+      ],
+      "implications": [
+        "文明在行星尺度上更加协调",
+        "政治系统适应丰裕和自动化",
+        "人类获得推动行星转型的机构"
+      ],
+      "image": {
+        "alt": "全球人权框架扩展至包含 AI 实体",
+        "prompts": [
+          "global Human Rights Framework Expands to Include AI Entities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Human Rights Framework Expands to Include AI Entities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Human Rights Framework Expands to Include AI Entities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Human Rights Framework Expands to Include AI Entities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-planetary-resource-governance-council-is-established",
+      "order": 49,
+      "slug": "first-planetary-resource-governance-council-is-established",
+      "title": "首个行星资源治理委员会成立",
+      "shortTitle": "行星资源治理委员会",
+      "category": "Civilization",
+      "description": "首个行星资源治理委员会成立，创建丰裕社会所需的新治理、和平、权利和行星资源机构。",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2083,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "首个行星资源治理委员会成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "治理超越逐国危机应对",
+        "权利框架适应 AI 和先进系统",
+        "全球机构协调资源、和平和公共基础设施"
+      ],
+      "implications": [
+        "文明在行星尺度上更加协调",
+        "政治系统适应丰裕和自动化",
+        "人类获得推动行星转型的机构"
+      ],
+      "image": {
+        "alt": "首个行星资源治理委员会成立",
+        "prompts": [
+          "first Planetary Resource Governance Council Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Planetary Resource Governance Council Is Established, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Planetary Resource Governance Council Is Established, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Planetary Resource Governance Council Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-planetary-resource-governance-council-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-planetary-resource-governance-council-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-human-development-index-reaches-historical-high-across-most-nations",
+      "order": 50,
+      "slug": "human-development-index-reaches-historical-high-across-most-nations",
+      "title": "多数国家的人类发展指数达到历史高位",
+      "shortTitle": "人类发展指数新高",
+      "category": "Civilization",
+      "description": "多数国家的人类发展指数达到历史高位，创建丰裕社会所需的新治理、和平、权利和行星资源机构。",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2084,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "多数国家的人类发展指数达到历史高位成为后稀缺基础的定义性里程碑，帮助人类从基于稀缺的系统转向丰裕、韧性和普遍准入。",
+      "signals": [
+        "治理超越逐国危机应对",
+        "权利框架适应 AI 和先进系统",
+        "全球机构协调资源、和平和公共基础设施"
+      ],
+      "implications": [
+        "文明在行星尺度上更加协调",
+        "政治系统适应丰裕和自动化",
+        "人类获得推动行星转型的机构"
+      ],
+      "image": {
+        "alt": "多数国家的人类发展指数达到历史高位",
+        "prompts": [
+          "human Development Index Reaches Historical High Across Most Nations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Development Index Reaches Historical High Across Most Nations, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Development Index Reaches Historical High Across Most Nations, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Development Index Reaches Historical High Across Most Nations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

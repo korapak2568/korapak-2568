@@ -1,0 +1,1495 @@
+{
+  "locale": "id",
+  "content": {
+    "hero": {
+      "eyebrow": "Chorn Planet Style",
+      "title": "Definisi Baru Gaya yang Anggun",
+      "description": "Ruang gaya premium yang menyatukan seluruh dimensi gaya hidup dan perjalanan ke dalam satu identitas. Kami merangkai kisah perjalanan melalui sudut pandang yang halus, menghubungkan keanggunan tradisional Thailand, kelembutan santai resor pesisir, dan semangat petualangan pegunungan menjadi satu bahasa visual yang utuh. Diciptakan untuk mereka yang menyukai kemewahan yang sederhana, bermakna, dan siap menemani setiap jalan kehidupan.",
+      "primaryCta": "Jelajahi Set Gaya",
+      "imageStrategy": "Gunakan strip editorial tiga gambar di atas lipatan: satu gambar utama vertikal penuh pasangan/peradaban, didukung gambar resor pesisir dan perjalanan air terjun.",
+      "images": [
+        {
+          "slot": "primary",
+          "src": "/images/dev/styles/set1.png",
+          "alt": "Pasangan Lanna",
+          "sizes": "(max-width: 768px) 100vw, 36vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set1.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set1.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set1.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        },
+        {
+          "slot": "secondary",
+          "src": "/images/dev/styles/set2.png",
+          "alt": "Busana Floral Resor Pesisir",
+          "sizes": "(max-width: 768px) 50vw, 18vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set2.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set2.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set2.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        },
+        {
+          "slot": "tertiary",
+          "src": "/images/dev/styles/set3.png",
+          "alt": "Tampilan Perjalanan",
+          "sizes": "(max-width: 768px) 50vw, 18vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set3.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set3.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set3.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        }
+      ]
+    },
+    "layoutSections": [
+      {
+        "id": "hero-civilization-outfit",
+        "label": "Pengantar",
+        "title": "Gaya Busana",
+        "description": "Bagian pertama langsung menunjukkan keragaman Chorn Planet: perjalanan pasangan, keanggunan Lanna wanita, tampilan resor kasual, perjalanan pegunungan pria, adegan gaya hidup, dan tampilan pagi mewah yang lembut."
+      },
+      {
+        "id": "outfit-universe",
+        "label": "Semesta Gaya Busana",
+        "title": "Satu kanal, banyak audiens",
+        "description": "Gunakan kartu kategori untuk menunjukkan bahwa Outfit bukan hanya fashion, tetapi juga styling pariwisata, storytelling peradaban, mood produk, TikTok Commerce, gaya hidup, dan identitas mewah."
+      },
+      {
+        "id": "featured-outfit-sets",
+        "label": "Set Unggulan",
+        "title": "Set Gaya Busana"
+      },
+      {
+        "id": "lanna-luxury",
+        "label": "Lanna Luxury",
+        "title": "Keanggunan tradisional dengan sentuhan editorial modern",
+        "description": "Tunjukkan bagaimana kain sinh, blus lilit, detail emas, dan latar alam lembut dapat menjadi konten Story Commerce premium tanpa terasa seperti katalog kostum."
+      },
+      {
+        "id": "resort-and-travel",
+        "label": "Resor dan Perjalanan",
+        "title": "Gaya untuk pesisir, pegunungan, dan perjalanan",
+        "description": "Mencakup tampilan perjalanan praktis untuk resor pantai, air terjun, lembah bunga, stasiun MTS, bandara, dan rute wisata premium."
+      },
+      {
+        "id": "smart-food-lifestyle",
+        "label": "Gaya Hidup Kuliner Lokal",
+        "title": "Gaya busana menghubungkan kisah makanan dengan commerce harian",
+        "description": "Padukan adegan kafe, kolam lotus, dan penyajian makanan menjadi kisah gaya hidup yang nantinya dapat terhubung ke LINE OA ordering dan MenuMatch."
+      },
+      {
+        "id": "commerce-and-tiktok",
+        "label": "Story Commerce",
+        "title": "Siap untuk storytelling produk TikTok-first",
+        "description": "Setiap set mendukung tag produk, ide episode pendek, teks CTA, dan placeholder tautan Marketplace tanpa terasa memaksa."
+      },
+      {
+        "id": "production-guidelines",
+        "label": "Produksi",
+        "title": "Siap prompt, aman, dan skalabel",
+        "description": "Simpan panduan produksi untuk rasio aspek, pemilihan Style Sub-Zone, penanganan Ultra Policy Safe untuk sleepwear, dan larangan publikasi otomatis tanpa review."
+      }
+    ],
+    "metadata": {
+      "title": "Gaya Busana Fashion",
+      "description": "Jelajahi koleksi dari Lanna luxury, resor pesisir, perjalanan pegunungan, dan berbagai gaya hidup."
+    },
+    "detailPage": {
+      "tagListLabel": "Tag gaya",
+      "externalCta": "Jelajahi di TikTok",
+      "relatedLabel": "Kisah gaya lainnya",
+      "relatedTitle": "Jelajahi gaya lainnya",
+      "relatedCardCta": "Lihat gaya",
+      "notFoundTitle": "Set gaya ini tidak ditemukan",
+      "metadataSuffix": "Chorn Planet Style"
+    }
+  },
+  "outfitSets": [
+    {
+      "id": "rice-valley-couple-lanna",
+      "order": 1,
+      "title": "Pasangan Lanna",
+      "visualSummary": "Tampilan pasangan Lanna romantis untuk storytelling lembah lotus dan pariwisata pedesaan.",
+      "image": {
+        "src": "/images-platform/styles/01-rice-valley-couple-lanna.png",
+        "alt": "Pasangan Lanna",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/01-rice-valley-couple-lanna.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/01-rice-valley-couple-lanna.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/01-rice-valley-couple-lanna.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
+            "alt": "Pasangan Lanna 1",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
+            "alt": "Pasangan Lanna 2",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
+            "alt": "Pasangan Lanna 3",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
+            "alt": "Pasangan Lanna 4",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "Saat cinta bermekaran dalam pelukan pegunungan dan sawah keemasan, selamat datang di lembah Lanna yang tenang, tempat kisah cinta baru dirangkai indah. Di kafe tepi kolam lotus dan hamparan padi hijau, tampilan ini membawa kehangatan keramahan desa dan keanggunan tradisi utara, disempurnakan dengan sentuhan editorial modern agar setiap momen bersama orang terkasih menjadi kenangan klasik yang tak lekang waktu.",
+      "tags": [
+        "Pasangan Lanna",
+        "Kafe Lembah Padi",
+        "Kafe Kolam Lotus",
+        "Perjalanan Budaya"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GY81f/"
+    },
+    {
+      "id": "coastal-resort-floral",
+      "order": 2,
+      "title": "Busana Floral",
+      "visualSummary": "Busana floral untuk resor pesisir, jalur pantai, vila di atas air, dan gaya hidup musim panas premium.",
+      "image": {
+        "src": "/images-platform/styles/02-coastal-resort-floral.png",
+        "alt": "Busana Floral",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
+            "alt": "Busana Floral 1",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
+            "alt": "Busana Floral 2",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
+            "alt": "Busana Floral 3",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
+            "alt": "Busana Floral 4",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Arrival of Summer: estetika gerak dan motif bunga. Saat musim panas tiba, waktunya beralih ke tampilan resor yang penuh gaya. Koleksi floral ini diciptakan untuk momen leisure mewah, dari berjalan santai di tepi pantai hingga menginap di vila pribadi di atas air biru. Warna dan pola bunga yang dipilih cermat menghadirkan pesona halus, sementara kain ringan dan siluet rileks mengekspresikan kemewahan sederhana yang berkesan.",
+      "tags": [
+        "Resor Pesisir",
+        "Busana Floral",
+        "Perjalanan Musim Panas",
+        "Jalur Pantai"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5sWkgR/"
+    },
+    {
+      "id": "waterfall-citrus-travel",
+      "order": 3,
+      "title": "Tampilan Perjalanan",
+      "visualSummary": "Tampilan perjalanan lengan pendek cerah untuk dek air terjun, jalur alam, dan wisata petualangan ringan.",
+      "image": {
+        "src": "/images-platform/styles/03-waterfall-citrus-travel.png",
+        "alt": "Tampilan Perjalanan",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/03-waterfall-citrus-travel.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/03-waterfall-citrus-travel.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/03-waterfall-citrus-travel.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
+            "alt": "Tampilan Perjalanan 1",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
+            "alt": "Tampilan Perjalanan 2",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
+            "alt": "Tampilan Perjalanan 3",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
+            "alt": "Tampilan Perjalanan 4",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "Light Adventure, Bright Style: ketika alam dan warna bertemu. Perjalanan bukan hanya tentang petualangan berat; ia juga tentang memadukan gaya dengan alam secara tepat. Item lengan pendek cerah ini menyegarkan mood perjalanan, baik saat berdiri di kabut air terjun maupun berjalan di jalur alam. Dirancang untuk mobilitas dan mudah dikenakan, gaya Light Adventure ini membuat Anda menonjol di latar hijau hutan dan membuat konten perjalanan terasa lebih energik.",
+      "tags": [
+        "Air Terjun",
+        "Kemeja Citrus",
+        "Perjalanan Alam",
+        "Petualangan Ringan",
+        "Gaya Segar"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G9eXL/"
+    },
+    {
+      "id": "lotus-smart-food-cafe",
+      "order": 4,
+      "title": "Kafe Kolam Lotus",
+      "visualSummary": "Tampilan kafe bernuansa lembut untuk makanan tersaji, kolam lotus, dan santap lokal.",
+      "image": {
+        "src": "/images-platform/styles/04-lotus-smart-food-cafe.png",
+        "alt": "Kafe Kolam Lotus",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/04-lotus-smart-food-cafe.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/04-lotus-smart-food-cafe.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/04-lotus-smart-food-cafe.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
+            "alt": "Kafe Kolam Lotus 1",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
+            "alt": "Kafe Kolam Lotus 2",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
+            "alt": "Kafe Kolam Lotus 3",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
+            "alt": "Kafe Kolam Lotus 4",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Art of Everyday Elegance: pesona kesederhanaan di tepi kolam lotus. Merah muda pastel lembut bertemu celana pendek putih bersih, menciptakan tampilan santai yang segar dan klasik. Baik menikmati kopi favorit di samping kolam lotus maupun menyantap makanan lokal dalam suasana pedesaan hangat, set ini membawa estetika relaksasi sejati. Keistimewaannya adalah mengubah lanskap sekitar dan cerita menu menjadi momen harian yang anggun dan fotogenik.",
+      "tags": [
+        "Kafe Kolam Lotus",
+        "Makanan Lokal",
+        "Cerita Menu",
+        "Lifestyle Commerce"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GC2N9/"
+    },
+    {
+      "id": "lotus-lanna-ceremony",
+      "order": 5,
+      "title": "Busana Lanna",
+      "visualSummary": "Busana Lanna ungu yang halus untuk jalur kolam lotus, perjalanan budaya, dan identitas Quiet Luxury.",
+      "image": {
+        "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+        "alt": "Busana Lanna",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
+            "alt": "Busana Lanna 1",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
+            "alt": "Busana Lanna 2",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
+            "alt": "Busana Lanna 3",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
+            "alt": "Busana Lanna 4",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Philosophy of Quiet Lanna Luxury: nilai abadi dan estetika ketenangan. Tampilan ini mengangkat kerajinan Lanna ke bahasa kontemporer, mengundang Anda menikmati keindahan abadi di kafe tepi kolam lotus dan keramahan budaya yang hangat. Busana Lanna bernuansa ungu bermartabat dengan detail benang emas berkilau mencerminkan filosofi kemewahan sederhana yang bernilai dari dalam melalui cutting tingkat tinggi.",
+      "tags": [
+        "Jalur Kolam Lotus",
+        "Quiet Luxury",
+        "Detail Emas",
+        "Potret Budaya"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G5Ejm/"
+    },
+    {
+      "id": "mountain-hydrangea-gentleman",
+      "order": 6,
+      "title": "Gentleman Lembah Hydrangea",
+      "visualSummary": "Tampilan resortwear pria yang bersih dengan motif tropis monokrom hitam-putih untuk teras gunung dan lembah hydrangea.",
+      "image": {
+        "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+        "alt": "Gentleman Lembah Hydrangea",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
+            "alt": "Gentleman Lembah Hydrangea 1",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
+            "alt": "Gentleman Lembah Hydrangea 2",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
+            "alt": "Gentleman Lembah Hydrangea 3",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
+            "alt": "Gentleman Lembah Hydrangea 4",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Mountain Resort Gentleman: definisi baru gaya keren di antara angin dingin dan lanskap pegunungan. Tingkatkan perjalanan iklim sejuk dengan resortwear pria yang menyeimbangkan kesan smart dan santai. Item utama ini menampilkan motif tropis hitam-putih yang bersih, siluet pas, dan tailoring rapi. Cocok untuk kopi di teras gunung yang tenang, foto di lembah hydrangea, konten menswear, dan destination retail premium bagi traveler mewah.",
+      "tags": [
+        "Resortwear Pria",
+        "Lembah Hydrangea",
+        "Teras Gunung",
+        "Motif Tropis",
+        "Perjalanan Premium"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GDNpv/"
+    },
+    {
+      "id": "mountain-lanna-noble-woman",
+      "order": 7,
+      "title": "Perempuan Lanna",
+      "visualSummary": "Busana Lanna halus dalam hijau dan emas untuk lanskap lembah bunga dan teras gunung, siap menjadi citra potret budaya premium.",
+      "image": {
+        "src": "/images-platform/styles/07-mountain-lanna-noble-woman.png",
+        "alt": "Perempuan Lanna",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/07-mountain-lanna-noble-woman.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/07-mountain-lanna-noble-woman.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
+            "alt": "Perempuan Lanna 1",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
+            "alt": "Perempuan Lanna 2",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
+            "alt": "Perempuan Lanna 3",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
+            "alt": "Perempuan Lanna 4",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Lanna Signature: identitas keanggunan abadi. Pesona peradaban hadir melalui tampilan wanita Lanna yang estetis, memadukan hijau botani dan emas bernilai. Struktur busana dirancang agar mengalir anggun di setiap postur, terutama di lembah bunga dan teras gunung yang tenang. Ini bukan sekadar pakaian, tetapi visual signature yang menciptakan memori tahan lama untuk potret budaya dan storytelling destinasi premium.",
+      "tags": [
+        "Lanna Anggun",
+        "Bunga Pegunungan",
+        "Hijau dan Emas",
+        "Identitas Budaya",
+        "Potret Editorial"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G9se5/"
+    },
+    {
+      "id": "flower-valley-gentleman-casual",
+      "order": 8,
+      "title": "Gentleman Kasual di Lembah Bunga",
+      "visualSummary": "Kemeja floral berwarna cerah untuk konten perjalanan pria, mudah dipadukan untuk jalan di taman dan liburan keluarga hangat.",
+      "image": {
+        "src": "/images-platform/styles/08-flower-valley-gentleman-casual.png",
+        "alt": "Gentleman Kasual di Lembah Bunga",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/08-flower-valley-gentleman-casual.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/08-flower-valley-gentleman-casual.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
+            "alt": "Gentleman Kasual di Lembah Bunga 1",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
+            "alt": "Gentleman Kasual di Lembah Bunga 2",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
+            "alt": "Gentleman Kasual di Lembah Bunga 3",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
+            "alt": "Gentleman Kasual di Lembah Bunga 4",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Bright Casual Gentleman: memberi hidup pada perjalanan keluarga dan hari santai. Ubah liburan biasa menjadi momen penuh senyum dengan tampilan floral kasual pria. Desainnya memadukan kesegaran, energi, dan kemudahan, dibuat untuk jalan taman, panorama lembah, dan liburan keluarga. Kemeja ini terasa natural dan nyaman namun tetap rapi di setiap detail, siap untuk foto keluarga dan storytelling perjalanan di platform lifestyle premium.",
+      "tags": [
+        "Menswear Kasual",
+        "Lembah Bunga",
+        "Jalan Taman",
+        "Perjalanan Keluarga",
+        "Cerita Warna"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GDe8W/"
+    },
+    {
+      "id": "coastal-mts-traveler",
+      "order": 9,
+      "title": "Langkah Pertama Menuju Angin Laut",
+      "visualSummary": "Tampilan perjalanan bernuansa lembut dengan koper dan tas anyaman, dibuat untuk transisi dari stasiun transit ke marina dan gerbang pertama menuju angin laut.",
+      "image": {
+        "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+        "alt": "Langkah Pertama Menuju Angin Laut",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
+            "alt": "Langkah Pertama Menuju Angin Laut 1",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
+            "alt": "Langkah Pertama Menuju Angin Laut 2",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
+            "alt": "Langkah Pertama Menuju Angin Laut 3",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
+            "alt": "Langkah Pertama Menuju Angin Laut 4",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "Gateway to the Sea: pesona perjalanan ringan di setiap langkah. Mulailah perjalanan santai dengan gaya sejak momen pertama melalui busana traveler bernuansa lembut. Dirancang untuk setiap transisi, dari bergerak melalui stasiun, tiba di marina, hingga melewati gerbang pertama menuju cakrawala dan udara pesisir. Koper klasik dan tas anyaman natural menonjolkan gaya travel yang bersih, nyaman, dan praktis.",
+      "tags": [
+        "Gerbang ke Laut",
+        "Kedatangan Marina",
+        "Travel Retail",
+        "Cerita Rute"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GhPTh/"
+    },
+    {
+      "id": "soft-morning-luxury-safe",
+      "order": 10,
+      "title": "Estetika Tampilan Pagi yang Lembut",
+      "visualSummary": "Tampilan pagi lembut untuk jam wellness di hotel mewah, ditemani kopi hangat dan ketenangan pagi.",
+      "image": {
+        "src": "/images-platform/styles/10-soft-morning-luxury-safe.png",
+        "alt": "Estetika Tampilan Pagi yang Lembut",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/10-soft-morning-luxury-safe.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/10-soft-morning-luxury-safe.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/10-soft-morning-luxury-safe.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
+            "alt": "Estetika Tampilan Pagi yang Lembut 1",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
+            "alt": "Estetika Tampilan Pagi yang Lembut 2",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
+            "alt": "Estetika Tampilan Pagi yang Lembut 3",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
+            "alt": "Estetika Tampilan Pagi yang Lembut 4",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Art of Morning Wellness: definisi baru quiet luxury. Mulai hari dengan ketenangan sejati dalam atmosfer wellness hotel yang dirancang untuk relaksasi halus. Momen spesial terasa lebih tinggi dengan kopi favorit dan layanan yang memperhatikan detail. Kain berkualitas tinggi bergerak lembut mengikuti tubuh, mencerminkan filosofi keindahan yang sederhana, tenang, dan tidak berlebihan, mengubah hari istirahat menjadi momen klasik abadi.",
+      "tags": [
+        "Morning Luxury",
+        "Hotel Wellness",
+        "Ritual Kopi",
+        "Gaya Aman",
+        "Hospitality"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GuS35/"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
 import {
-  futureRoadmapManifest,
-  futureRoadmapTaxonomy,
   getFutureRoadmapEras,
   getFutureRoadmapFeaturedItems,
   getFutureRoadmapLayer,
+  getFutureRoadmapManifest,
+  getFutureRoadmapTaxonomy,
   type FutureRoadmapEra,
   type FutureRoadmapItem,
 } from "@/lib/platform-content/futureRoadmapContent";
@@ -47,7 +47,8 @@ function FutureCivilizationSignalCard({
   lang: string;
   roadmapEra: FutureRoadmapEra;
 }) {
-  const layer = getFutureRoadmapLayer(item.layerId);
+  const manifest = getFutureRoadmapManifest(lang);
+  const layer = getFutureRoadmapLayer(item.layerId, lang);
 
   return (
     <article className="platform-outfit-card platform-mts-card future-civilization-random-card">
@@ -66,13 +67,14 @@ function FutureCivilizationSignalCard({
         </div>
         <div className="platform-outfit-card__body">
           <span>
-            Era {String(roadmapEra.era.order).padStart(2, "0")} /{" "}
+            {manifest.ui.navigation.eraLabel}{" "}
+            {String(roadmapEra.era.order).padStart(2, "0")} /{" "}
             {String(item.order).padStart(2, "0")}
           </span>
           <h3>{item.shortTitle}</h3>
           <p>{item.description}</p>
           <div className="platform-outfit-card__meta">
-            <strong>View Signal</strong>
+            <strong>{manifest.ui.actions.viewSignal}</strong>
             <small>{layer?.title ?? item.layerId}</small>
           </div>
         </div>
@@ -88,13 +90,15 @@ function FutureCivilizationEraSignalSection({
   lang: string;
   roadmapEra: FutureRoadmapEra;
 }) {
+  const manifest = getFutureRoadmapManifest(lang);
   const randomItems = getMixedItems(roadmapEra.items, 9, roadmapEra.era.slug);
 
   return (
     <section className="platform-shell platform-outfit-detail-related future-civilization-random-signals">
       <div className="platform-section__header">
         <span>
-          Era {String(roadmapEra.era.order).padStart(2, "0")} /{" "}
+          {manifest.ui.navigation.eraLabel}{" "}
+          {String(roadmapEra.era.order).padStart(2, "0")} /{" "}
           {roadmapEra.era.timeframe.startYear}-
           {roadmapEra.era.timeframe.endYear}
         </span>
@@ -120,12 +124,14 @@ export default function FutureCivilizationRoadmapPage({
 }: {
   lang: string;
 }) {
-  const eras = getFutureRoadmapEras();
+  const manifest = getFutureRoadmapManifest(lang);
+  const taxonomy = getFutureRoadmapTaxonomy(lang);
+  const eras = getFutureRoadmapEras(lang);
   const signalCount = eras.reduce(
     (totalSignals, roadmapEra) => totalSignals + roadmapEra.items.length,
     0,
   );
-  const featuredItems = getFutureRoadmapFeaturedItems(signalCount);
+  const featuredItems = getFutureRoadmapFeaturedItems(signalCount, lang);
   const heroItem = getMixedItems(featuredItems, 1, "landing-hero")[0];
 
   return (
@@ -143,29 +149,17 @@ export default function FutureCivilizationRoadmapPage({
           ) : null}
         </div>
         <div className="future-civilization-landing-hero__content">
-          <span>Chorn Planet Future Civilization</span>
-          <h1>{futureRoadmapManifest.title}</h1>
-          <p>{futureRoadmapManifest.description}</p>
-
-          {/* <div className="future-civilization-landing-hero__stats">
-            <strong>{eras.length}</strong>
-            <small>Eras</small>
-            <strong>{signalCount}</strong>
-            <small>Signals</small>
-          </div> */}
-
+          <span>{manifest.ui.landingHero.eyebrow}</span>
+          <h1>{manifest.title}</h1>
+          <p>{manifest.description}</p>
         </div>
       </section>
 
       <section className="platform-shell future-civilization-featured-intro">
         <div className="platform-section__header">
-          <span>Future Civilization Signal Gallery</span>
-          <h2>Randomized signals from the loaded roadmap eras.</h2>
-          <p>
-            The landing page refreshes with selected signals from every loaded era,
-            giving visitors a broader first view of the Future Civilization roadmap
-            while keeping each era section focused and scannable.
-          </p>
+          <span>{manifest.ui.landingSignalGallery.eyebrow}</span>
+          <h2>{manifest.ui.landingSignalGallery.title}</h2>
+          <p>{manifest.ui.landingSignalGallery.description}</p>
         </div>
         <div className="platform-mts-hero__actions">
           <Link
@@ -173,7 +167,7 @@ export default function FutureCivilizationRoadmapPage({
             href={`/${lang}/future-civilization/`}
             aria-current="page"
           >
-            Future Civilization
+            {manifest.ui.navigation.indexLabel}
           </Link>
           {eras.map((roadmapEra) => (
             <Link
@@ -197,11 +191,11 @@ export default function FutureCivilizationRoadmapPage({
 
       <section className="platform-shell future-civilization-layers">
         <div className="platform-section__header">
-          <span>Roadmap Layers</span>
-          <h2>Designed as a civilization system.</h2>
+          <span>{manifest.ui.layersSection.eyebrow}</span>
+          <h2>{manifest.ui.layersSection.title}</h2>
         </div>
         <div className="future-civilization-layers__grid">
-          {futureRoadmapTaxonomy.layers.map((layer) => (
+          {taxonomy.layers.map((layer) => (
             <article key={layer.id}>
               <h3>{layer.title}</h3>
               <p>{layer.description}</p>

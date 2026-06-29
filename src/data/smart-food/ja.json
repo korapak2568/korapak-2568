@@ -1,0 +1,299 @@
+{
+  "locale": "ja",
+  "metadata": {
+    "title": "Smart Food | チェンマイ初の AI Chat フード注文プラットフォーム",
+    "description": "Smart Food は Chorn Planet による AI Chat 食品サービス管理プラットフォームで、チェンマイのローカルレストランを、注文・決済からキッチン管理、デリバリー運用までアップグレードします。",
+    "openGraphTitle": "Smart Food - チェンマイの AI Chat 食品サービス管理プラットフォーム"
+  },
+  "hero": {
+    "eyebrow": "Smart Food、あなたの賢い食のパートナー",
+    "title": "Smart Food",
+    "lead": "インテリジェントな AI Chat 注文で、チェンマイのローカル飲食ビジネスをアップグレードします。",
+    "support": "Chorn Planet は AI 技術で飲食ビジネスを支え、顧客がチャットで簡単に料理を注文し、お気に入りのメニューを見つけ、レコメンドを受けられるようにします。さらに、注文・決済・配送をシームレスにつなぐバックオフィスシステムを備えています。",
+    "actionsLabel": "Smart Food の機能を探る",
+    "actions": [
+      {
+        "label": "ワークフローを見る",
+        "href": "#smart-food-ai-workflow",
+        "variant": "primary"
+      }
+    ],
+    "visual": {
+      "src": "/smart-food/smart-food-overview.png",
+      "alt": "チェンマイの顧客にサービスを提供する Smart Food AI プラットフォーム",
+      "ariaLabel": "Smart Food AI のビジュアルストーリー",
+      "mobile": {
+        "src": "/smart-food/mobile/smart-food-overview.webp",
+        "width": 768,
+        "height": 512,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/smart-food/thumbnail/smart-food-overview.webp",
+        "width": 480,
+        "height": 320,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/smart-food/desktop/smart-food-overview.webp",
+        "width": 1200,
+        "height": 800,
+        "quality": 82
+      },
+      "open_graph": {
+        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "width": 1200,
+        "height": 630,
+        "quality": 82
+      }
+    }
+  },
+  "proof": {
+    "heading": {
+      "eyebrow": "AI Chat レストラン管理プラットフォーム",
+      "title": "Smart Food は AI の力でチェンマイのローカルレストランをインテリジェントなプラットフォームへ変革します"
+    },
+    "paragraphs": [
+      "Smart Food は、チェンマイの食品サービスをインテリジェントなシステムで支えます。チャットによる注文受付とメニュー提案から、購入確認、決済フロー、キッチンと配達ライダーとの連携、さらに事業分析に使えるデータサマリーの生成まで、全プロセスを管理します。",
+      "最大限の利便性を実現するため、Smart Food プラットフォームは現金、PromptPay などの銀行アプリによる QR Code スキャン、Thai Chuai Thai Plus など政府の経済刺激策に対応可能なシステムなど、複数の決済チャネルをサポートします。",
+      "私たちは顧客の注文を簡単にするだけではありません。Smart Food は、キッチン管理、デリバリーサービス、支払いスリップの自動検証、会計システム、内部オペレーションまでカバーする All-in-One Restaurant OS へ進化し、飲食ビジネスの持続的成長を支える基盤を作ります。"
+    ],
+    "image": {
+      "src": "/smart-food/chat-ordering.png",
+      "alt": "チャットベースのフード注文でチェンマイの顧客に対応する Smart Food AI",
+      "mobile": {
+        "src": "/smart-food/mobile/chat-ordering.webp",
+        "width": 720,
+        "height": 608,
+        "quality": 78
+      },
+      "thumbnail": {
+        "src": "/smart-food/thumbnail/chat-ordering.webp",
+        "width": 480,
+        "height": 405,
+        "quality": 72
+      },
+      "desktop": {
+        "src": "/smart-food/desktop/chat-ordering.webp",
+        "width": 900,
+        "height": 760,
+        "quality": 82
+      },
+      "open_graph": {
+        "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+        "width": 1200,
+        "height": 630,
+        "quality": 82
+      }
+    },
+    "cards": [
+      {
+        "index": "01",
+        "title": "ローカルビジネスへの深い理解",
+        "text": "チェンマイのレストラン事情と顧客行動を深く理解することから始め、Smart Food は地域の事業者と顧客の実際のニーズに応えるよう設計されています。"
+      },
+      {
+        "index": "02",
+        "title": "AI Chat による簡単注文",
+        "text": "自然な会話を通じて、お気に入りのメニュー検索、質問、注文確認を支援し、顧客体験を高めます。"
+      },
+      {
+        "index": "03",
+        "title": "AI-native プラットフォーム革新",
+        "text": "注文、決済、配送、データ分析、将来のフルコマース機能まで接続できるインテリジェントな基盤を構築します。"
+      }
+    ]
+  },
+  "workflow": {
+    "id": "smart-food-ai-workflow",
+    "heading": {
+      "eyebrow": "サービスワークフロー",
+      "title": "Smart Food AI の 5 つのインテリジェントなステップ"
+    },
+    "steps": [
+      {
+        "title": "1. AI Chat で簡単に注文",
+        "text": "顧客はシンプルで自然なチャット会話を通じて、お気に入りのメニューを選び、詳細を質問し、すぐに注文を確定できます。",
+        "image": {
+          "src": "/smart-food/process1-chat-ordering.png",
+          "alt": "顧客向け Smart Food インテリジェント AI Chat フード注文インターフェース",
+          "mobile": {
+            "src": "/smart-food/mobile/process1-chat-ordering.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process1-chat-ordering.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process1-chat-ordering.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      },
+      {
+        "title": "2. 請求を自動処理・検証",
+        "text": "AI システムが注文合計をまとめ、支払いスリップを受け取り、注文をキッチンへ送る前に支払い金額を自動で検証します。",
+        "image": {
+          "src": "/smart-food/process2-bill-processing.png",
+          "alt": "Smart Food AI システムが請求をまとめ、支払いスリップを自動検証している様子",
+          "mobile": {
+            "src": "/smart-food/mobile/process2-bill-processing.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process2-bill-processing.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process2-bill-processing.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      },
+      {
+        "title": "3. キッチンチーム基準で新鮮に調理",
+        "text": "キッチンチームは確定済みの注文を受け取り、正確で標準化されたキュー管理のもと、新鮮な食材でただちに調理を開始します。",
+        "image": {
+          "src": "/smart-food/process3-cooking.png",
+          "alt": "Smart Food システムからの注文に基づいて料理を丁寧に準備するキッチンチーム",
+          "mobile": {
+            "src": "/smart-food/mobile/process3-cooking.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process3-cooking.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process3-cooking.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      },
+      {
+        "title": "4. デリバリー配車を調整",
+        "text": "システムは完成した注文をすぐに地域の配達ライダーへ通知・転送し、顧客へ素早く届ける準備をします。",
+        "image": {
+          "src": "/smart-food/process4-delivery.png",
+          "alt": "Smart Food システムが地域の配達ライダーとフードデリバリーを調整",
+          "mobile": {
+            "src": "/smart-food/mobile/process4-delivery.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process4-delivery.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process4-delivery.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      },
+      {
+        "title": "5. 熱々の料理を直接受け取る",
+        "text": "顧客は配送先を正確に指定し、お気に入りの料理を楽しむことで、シームレスな注文体験が完了します。",
+        "image": {
+          "src": "/smart-food/process5-receiving.png",
+          "alt": "配達ライダーが完成した食品注文を顧客へ安全に手渡す様子",
+          "mobile": {
+            "src": "/smart-food/mobile/process5-receiving.webp",
+            "width": 720,
+            "height": 1080,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/smart-food/thumbnail/process5-receiving.webp",
+            "width": 480,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/smart-food/desktop/process5-receiving.webp",
+            "width": 1024,
+            "height": 1536,
+            "quality": 82
+          },
+          "open_graph": {
+            "src": "/images-opengraph/smart-food/open_graph/smart-food-overview.png",
+            "width": 1200,
+            "height": 630,
+            "quality": 82
+          }
+        }
+      }
+    ]
+  },
+  "features": {
+    "heading": {
+      "eyebrow": "プラットフォームの注目機能",
+      "title": "インテリジェントな機能でチェンマイのレストランを支える"
+    },
+    "items": [
+      "自然な会話で簡単に料理を注文",
+      "最適なメニューを正確に検索・マッチング",
+      "お気に入りメニューを記憶し、リピート注文を高速化",
+      "注文合計と請求をまとめ、即時決済に対応",
+      "ローカル飲食ビジネスの構造を支える設計",
+      "LINE OA とウェブサイト経由のスムーズな注文に対応",
+      "複数のサービスチャネルをシームレスに切り替え",
+      "コンテンツからコマースまで、制限なく事業を拡張"
+    ]
+  },
+  "futureDirections": [
+    "ウェブサイトとアプリチャネルを通じたフル注文システムを開発",
+    "LINE OA 機能を接続・強化し、さらに強力にする",
+    "インテリジェントな Menu Match 技術でバックオフィスシステムを連携",
+    "Smart Food のオンライン取引を高めるコマースレイヤーを立ち上げる",
+    "データ分析とインサイトシステムでビジネス成長を推進"
+  ]
+}

@@ -36,15 +36,14 @@ export default function PlatformContentCard({
           sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 320px"
         />
       </Link>
+      
       <div className="platform-card__body">
-        <span className="platform-card__category">{card.category}</span>
-        <h3>{card.title}</h3>
-        <p>{card.description}</p>
-        <div className="platform-card__tags" aria-label={`${card.title} tags`}>
-          {card.tags.map((tag) => (
-            <span key={tag}>{tag}</span>
-          ))}
+        <div className="platform-card__content">
+          <span className="platform-card__category">{card.category}</span>
+          <h3>{card.title}</h3>
+          <p>{card.description}</p>
         </div>
+
         <Link
           href={getLocalizedHref(lang, card.href)}
           className="platform-card__cta"

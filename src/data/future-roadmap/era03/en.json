@@ -1,0 +1,3412 @@
+{
+  "era": {
+    "id": "era-03",
+    "order": 3,
+    "slug": "post-scarcity-foundations",
+    "title": "Post-Scarcity Foundations",
+    "subtitle": "The systems that make abundance practical, universal, and stable",
+    "description": "This era establishes the foundations of post-scarcity civilization through universal services, fusion energy, advanced medicine, clean water, low-cost housing, circular materials, and AI-managed public infrastructure.",
+    "timeframe": {
+      "label": "Post-Scarcity Foundations",
+      "startYear": 2055,
+      "endYear": 2085,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "society",
+      "mood": "optimistic",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 3: Post-Scarcity Foundations | Future Civilization Roadmap",
+      "metaDescription": "Explore post-scarcity foundations including universal basic services, fusion energy, clean water, AI food logistics, robotic eldercare, open-source medicine, and low-cost housing.",
+      "keywords": [
+        "post-scarcity civilization",
+        "universal basic services",
+        "fusion energy",
+        "future healthcare",
+        "future civilization roadmap"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-03-universal-basic-services-replace-traditional-welfare",
+      "order": 1,
+      "slug": "universal-basic-services-replace-traditional-welfare",
+      "title": "Universal basic services replace traditional welfare",
+      "shortTitle": "Universal Basic Services",
+      "category": "Society & Economy",
+      "description": "Food, housing support, healthcare, education, transport, connectivity, and essential utilities increasingly become guaranteed public infrastructure rather than fragmented welfare programs.",
+      "layerId": "society",
+      "domains": ["post-scarcity", "public-services", "social-systems"],
+      "maturity": "policy-transition",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Basic survival becomes less dependent on income, reducing insecurity and allowing more people to pursue education, care, creativity, and civic participation.",
+      "signals": [
+        "Governments shift from cash-only welfare toward service guarantees",
+        "AI systems coordinate eligibility, delivery, and fraud prevention",
+        "Public infrastructure budgets prioritize food, health, housing, and connectivity access"
+      ],
+      "implications": [
+        "Lower extreme poverty and household instability",
+        "New debates around rights, access, and public digital identity",
+        "A broader definition of citizenship and social safety"
+      ],
+      "image": {
+        "alt": "Universal basic services hub providing food, healthcare, housing support, education, and connectivity",
+        "prompts": [
+          "Clean futuristic public service hub offering food, healthcare, housing support, education, and connectivity access, diverse families receiving help calmly, optimistic documentary realism, 16:9",
+          "City neighborhood with universal basic service centers integrated into transit, clinics, schools, and food distribution, clean post-scarcity future, 16:9",
+          "AI-assisted public services dashboard coordinating housing, food, healthcare, and transport access across a modern city, realistic civic technology, 16:9",
+          "Families using seamless essential services through a welcoming civic center, warm hopeful atmosphere, near-future documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-universal-basic-services-replace-traditional-welfare.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-universal-basic-services-replace-traditional-welfare.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-universal-basic-services-replace-traditional-welfare.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-managed-food-logistics-eliminates-most-food-waste",
+      "order": 2,
+      "slug": "ai-managed-food-logistics-eliminates-most-food-waste",
+      "title": "AI-managed food logistics eliminates most food waste",
+      "shortTitle": "AI Food Logistics",
+      "category": "AI & Computing",
+      "description": "AI-managed supply chains predict demand, route surplus food, optimize storage, and coordinate local distribution so most edible food no longer goes to waste.",
+      "layerId": "technology",
+      "domains": ["artificial-intelligence", "food-systems", "logistics"],
+      "maturity": "global-optimization",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Food abundance becomes easier to share, lowering hunger, emissions, and agricultural pressure without requiring proportional increases in production.",
+      "signals": [
+        "Real-time food inventory networks connect farms, retailers, kitchens, and aid systems",
+        "Predictive demand models reduce overproduction and spoilage",
+        "Cold-chain automation improves reliability in vulnerable regions"
+      ],
+      "implications": [
+        "Less food loss across the supply chain",
+        "More resilient emergency food distribution",
+        "Reduced emissions from wasted production"
+      ],
+      "image": {
+        "alt": "AI-managed food logistics network routing surplus food before it is wasted",
+        "prompts": [
+          "AI-managed food logistics command center routing surplus food from farms and supermarkets to community kitchens, clean futuristic documentary, 16:9",
+          "Autonomous refrigerated delivery fleet moving fresh food through a city based on real-time demand predictions, optimistic food system future, 16:9",
+          "Warehouse robots sorting produce to prevent spoilage, transparent AI dashboards showing waste reduction, realistic near future, 16:9",
+          "Community food hub receiving perfectly timed deliveries from AI-optimized supply chains, hopeful post-scarcity society, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-managed-food-logistics-eliminates-most-food-waste.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-managed-food-logistics-eliminates-most-food-waste.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-clean-water-access-reaches-nearly-all-humans",
+      "order": 3,
+      "slug": "clean-water-access-reaches-nearly-all-humans",
+      "title": "Clean water access reaches nearly all humans",
+      "shortTitle": "Universal Clean Water",
+      "category": "Environment",
+      "description": "Advanced purification, desalination, leak detection, smart distribution, and low-cost local treatment systems bring safe water access to nearly every community.",
+      "layerId": "civilization",
+      "domains": ["water", "public-health", "infrastructure"],
+      "maturity": "near-universal-access",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "One of humanity's oldest survival challenges becomes largely solvable, improving health, education, gender equality, and regional stability.",
+      "signals": [
+        "Low-energy purification systems scale in rural and urban areas",
+        "Smart water grids detect contamination and leaks instantly",
+        "Global financing treats water access as core civilization infrastructure"
+      ],
+      "implications": [
+        "Reduced waterborne disease",
+        "More stable dry-region communities",
+        "New governance standards for water as a universal right"
+      ],
+      "image": {
+        "alt": "Community receiving safe clean water from advanced purification infrastructure",
+        "prompts": [
+          "Dry-region community receiving clean water from advanced solar-fusion assisted purification infrastructure, hopeful documentary realism, 16:9",
+          "Smart water grid control room monitoring safe water access across cities and rural communities, clean futuristic civic technology, 16:9",
+          "Children and families using a beautiful public clean water station in a restored village, optimistic post-scarcity future, 16:9",
+          "Advanced water purification plant beside a river with transparent tanks and environmental sensors, realistic infrastructure scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-clean-water-access-reaches-nearly-all-humans.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-clean-water-access-reaches-nearly-all-humans.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-clean-water-access-reaches-nearly-all-humans.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-desalination-network-powered-by-fusion-begins-operation",
+      "order": 4,
+      "slug": "global-desalination-network-powered-by-fusion-begins-operation",
+      "title": "Global desalination network powered by fusion begins operation",
+      "shortTitle": "Fusion Desalination Network",
+      "category": "Energy",
+      "description": "Fusion energy enables large-scale desalination corridors that produce abundant freshwater while minimizing emissions and reducing pressure on rivers and aquifers.",
+      "layerId": "technology",
+      "domains": ["fusion-energy", "water", "climate-adaptation"],
+      "maturity": "network-launch",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Coastal regions become freshwater exporters, helping stabilize agriculture, cities, and climate-vulnerable dry zones.",
+      "signals": [
+        "Fusion plants produce reliable high-output energy for desalination",
+        "Transregional water pipelines and storage systems expand",
+        "Desalination brine is processed with stronger environmental controls"
+      ],
+      "implications": [
+        "Greater water security for dry regions",
+        "Reduced conflict risk over freshwater basins",
+        "New infrastructure links between energy and water systems"
+      ],
+      "image": {
+        "alt": "Fusion-powered desalination megastructure providing freshwater to dry regions",
+        "prompts": [
+          "Fusion-powered desalination megastructure on a bright coastline sending freshwater through pipelines to dry inland regions, clean futuristic documentary, 16:9",
+          "Control room for a global desalination network powered by fusion energy, world map of freshwater flows, optimistic infrastructure future, 16:9",
+          "Coastal fusion plant beside advanced desalination towers with clean water reservoirs and restored desert agriculture beyond, 16:9",
+          "Engineers monitoring eco-safe desalination and brine processing systems near a blue ocean, realistic climate-adaptation technology, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-desalination-network-powered-by-fusion-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-desalination-network-powered-by-fusion-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-education-becomes-fully-personalized-and-free",
+      "order": 5,
+      "slug": "education-becomes-fully-personalized-and-free",
+      "title": "Education becomes fully personalized and free",
+      "shortTitle": "Free Personalized Education",
+      "category": "Society & Economy",
+      "description": "AI tutors, adaptive curricula, immersive simulations, and public learning networks make high-quality education available to anyone at any age.",
+      "layerId": "society",
+      "domains": ["education", "artificial-intelligence", "public-services"],
+      "maturity": "mainstream-public-access",
+      "timeframe": {
+        "startYear": 2055,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Learning becomes a lifelong universal capability, narrowing opportunity gaps and helping people adapt to rapid technological and social change.",
+      "signals": [
+        "AI tutors personalize lessons to each learner's pace and goals",
+        "Credential systems recognize skills from open learning platforms",
+        "Immersive education becomes available outside elite institutions"
+      ],
+      "implications": [
+        "Lower education inequality",
+        "Faster workforce reskilling",
+        "More diverse pathways into research, art, and entrepreneurship"
+      ],
+      "image": {
+        "alt": "Children and adults learning through free personalized AI education",
+        "prompts": [
+          "Children and adults learning through free personalized AI education in a bright community learning center, immersive holographic lessons, optimistic documentary realism, 16:9",
+          "Personal AI tutor guiding a student through adaptive science simulations at home, warm human-centered future, 16:9",
+          "Global public education platform connecting learners from many countries through translation and immersive classrooms, clean futuristic style, 16:9",
+          "Elderly learner and young student studying together with personalized AI guidance, lifelong learning society, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-education-becomes-fully-personalized-and-free.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-education-becomes-fully-personalized-and-free.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-education-becomes-fully-personalized-and-free.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises",
+      "order": 6,
+      "slug": "personal-ai-financial-advisors-prevent-most-household-debt-crises",
+      "title": "Personal AI financial advisors prevent most household debt crises",
+      "shortTitle": "AI Financial Advisors",
+      "category": "AI & Computing",
+      "description": "Personal AI finance systems detect risk early, negotiate bills, optimize repayment plans, and guide households away from debt spirals before they become crises.",
+      "layerId": "society",
+      "domains": ["artificial-intelligence", "finance", "consumer-protection"],
+      "maturity": "regulated-mainstream",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2072
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Financial instability becomes more preventable, giving households better protection from predatory lending, sudden shocks, and poor planning.",
+      "signals": [
+        "AI advisors become regulated fiduciary tools",
+        "Banks integrate early-warning debt prevention systems",
+        "Households automate budgeting, negotiation, and savings decisions"
+      ],
+      "implications": [
+        "Fewer debt crises and bankruptcies",
+        "More transparent personal finance",
+        "Stronger regulation of AI financial influence"
+      ],
+      "image": {
+        "alt": "Personal AI financial advisor helping a household avoid debt crisis",
+        "prompts": [
+          "Family reviewing a personal AI financial advisor dashboard that prevents debt crisis, calm home scene, clean realistic future, 16:9",
+          "AI finance assistant negotiating bills and repayment plans through a secure transparent interface, human-centered civic technology, 16:9",
+          "Community financial clinic using regulated AI advisors to protect households from debt spirals, optimistic post-scarcity society, 16:9",
+          "Close-up of privacy-preserving AI budget system warning a household before debt risk becomes severe, clean interface, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-personal-ai-financial-advisors-prevent-most-household-debt-crises.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-robotic-eldercare-becomes-widely-available",
+      "order": 7,
+      "slug": "robotic-eldercare-becomes-widely-available",
+      "title": "Robotic eldercare becomes widely available",
+      "shortTitle": "Robotic Eldercare",
+      "category": "Robotics",
+      "description": "Assistive robots, home sensors, telemedicine, and AI care coordination support older adults with mobility, medication, companionship, and emergency response.",
+      "layerId": "society",
+      "domains": ["robotics", "healthcare", "eldercare"],
+      "maturity": "wide-adoption",
+      "timeframe": {
+        "startYear": 2056,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Aging societies become more sustainable while older adults gain more independence, safety, and dignity at home.",
+      "signals": [
+        "Home-care robots become affordable and reliable",
+        "Healthcare systems reimburse assistive robotics",
+        "AI care coordinators connect families, nurses, doctors, and emergency services"
+      ],
+      "implications": [
+        "Reduced pressure on care workers",
+        "Safer independent living",
+        "New ethical standards for emotional and physical care robots"
+      ],
+      "image": {
+        "alt": "Robotic eldercare assistant helping an older adult at home",
+        "prompts": [
+          "Gentle robotic eldercare assistant helping an older adult walk safely at home, warm realistic documentary style, 16:9",
+          "Smart eldercare apartment with assistive robot, medication reminders, and remote nurse support, clean hopeful future, 16:9",
+          "Community eldercare center where robots support mobility, meals, and companionship under human supervision, optimistic society, 16:9",
+          "Close-up of eldercare robot offering a glass of water while health sensors quietly monitor safety, respectful human-centered scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-robotic-eldercare-becomes-widely-available.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-robotic-eldercare-becomes-widely-available.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-robotic-eldercare-becomes-widely-available.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-construction-cost-of-housing-falls-by-80",
+      "order": 8,
+      "slug": "construction-cost-of-housing-falls-by-80",
+      "title": "Construction cost of housing falls by 80%",
+      "shortTitle": "Ultra-Low-Cost Housing",
+      "category": "Materials & Manufacturing",
+      "description": "Robotics, modular manufacturing, advanced materials, AI design, and streamlined permitting dramatically reduce the cost and time required to build safe homes.",
+      "layerId": "civilization",
+      "domains": ["housing", "construction", "automation"],
+      "maturity": "mass-deployment",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Housing scarcity becomes more solvable, changing urban planning, migration, family formation, and the meaning of economic security.",
+      "signals": [
+        "Autonomous construction systems build neighborhoods at scale",
+        "Modular factories produce certified housing components",
+        "Cities adopt AI-assisted permitting and land-use planning"
+      ],
+      "implications": [
+        "Lower homelessness and housing stress",
+        "Faster disaster recovery housing",
+        "Major disruption to real estate economics"
+      ],
+      "image": {
+        "alt": "Autonomous construction systems building ultra-low-cost housing at scale",
+        "prompts": [
+          "Autonomous construction robots building beautiful low-cost housing neighborhood at scale, families moving in, optimistic documentary realism, 16:9",
+          "Modular housing factory producing safe affordable homes with robotic assembly lines, clean future infrastructure, 16:9",
+          "AI-designed housing district with efficient materials, green spaces, and rapid robotic construction, bright post-scarcity city, 16:9",
+          "Public housing project completed by autonomous builders with welcoming community spaces, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-construction-cost-of-housing-falls-by-80.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-construction-cost-of-housing-falls-by-80.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-construction-cost-of-housing-falls-by-80.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-courts-resolve-minor-legal-disputes-instantly",
+      "order": 9,
+      "slug": "ai-courts-resolve-minor-legal-disputes-instantly",
+      "title": "AI courts resolve minor legal disputes instantly",
+      "shortTitle": "AI Minor Courts",
+      "category": "AI & Computing",
+      "description": "Approved AI dispute systems resolve small claims, fines, contracts, and routine civil conflicts quickly, with human appeal paths for complex or contested cases.",
+      "layerId": "society",
+      "domains": ["law", "artificial-intelligence", "public-services"],
+      "maturity": "regulated-automation",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2075
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Routine legal friction becomes faster and cheaper to resolve, improving trust in public systems when transparency and appeals are protected.",
+      "signals": [
+        "Courts certify AI dispute-resolution models",
+        "Minor cases move through digital evidence and mediation workflows",
+        "Human judges supervise exceptions, appeals, and rights-sensitive cases"
+      ],
+      "implications": [
+        "Reduced court backlogs",
+        "Lower cost for small disputes",
+        "Stronger need for bias audits and procedural transparency"
+      ],
+      "image": {
+        "alt": "AI court system resolving minor legal disputes with human oversight",
+        "prompts": [
+          "Civic AI court kiosk helping citizens resolve minor disputes instantly with transparent evidence review and human appeal option, clean documentary realism, 16:9",
+          "Modern digital courtroom where AI mediation resolves small claims while human legal officers supervise fairness, optimistic civic technology, 16:9",
+          "People reviewing a clear AI dispute-resolution decision in a public service center, calm and accessible legal future, 16:9",
+          "Transparent legal AI dashboard comparing evidence, rights, and settlement options for minor civil dispute, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-courts-resolve-minor-legal-disputes-instantly.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-courts-resolve-minor-legal-disputes-instantly.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-climate-refugee-resettlement-system-becomes-globally-coordinated",
+      "order": 10,
+      "slug": "climate-refugee-resettlement-system-becomes-globally-coordinated",
+      "title": "Climate refugee resettlement system becomes globally coordinated",
+      "shortTitle": "Climate Resettlement System",
+      "category": "Environment",
+      "description": "International systems coordinate housing, legal status, education, jobs, and infrastructure support for people displaced by climate impacts.",
+      "layerId": "civilization",
+      "domains": ["climate-adaptation", "migration", "governance"],
+      "maturity": "global-coordination",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Large-scale climate migration becomes more humane and planned, reducing humanitarian crises and conflict around displacement.",
+      "signals": [
+        "Climate displacement forecasting improves years ahead",
+        "Receiving regions receive infrastructure investment before migration peaks",
+        "International legal frameworks recognize climate relocation rights"
+      ],
+      "implications": [
+        "Safer migration pathways",
+        "Lower risk of unmanaged displacement crises",
+        "New models of shared global responsibility"
+      ],
+      "image": {
+        "alt": "Globally coordinated climate refugee resettlement system supporting displaced families",
+        "prompts": [
+          "Globally coordinated climate resettlement center helping displaced families access housing, education, and jobs, hopeful documentary realism, 16:9",
+          "AI-assisted migration planning dashboard showing safe relocation routes and prepared host cities, clean civic technology, 16:9",
+          "New climate-adaptive neighborhood welcoming resettled families with schools, clinics, and transit, optimistic civilization scene, 16:9",
+          "International coordination room managing climate refugee support with maps, infrastructure plans, and humanitarian teams, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-climate-refugee-resettlement-system-becomes-globally-coordinated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse",
+      "order": 11,
+      "slug": "fusion-powered-recycling-plants-achieve-near-total-material-reuse",
+      "title": "Fusion-powered recycling plants achieve near-total material reuse",
+      "shortTitle": "Fusion Recycling Plants",
+      "category": "Energy",
+      "description": "High-energy recycling plants powered by fusion sort, separate, melt, and rebuild materials at scale, reducing demand for virgin extraction.",
+      "layerId": "technology",
+      "domains": ["fusion-energy", "recycling", "circular-economy"],
+      "maturity": "industrial-scale",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Material scarcity and waste decline as cities and industries begin operating more like circular ecosystems.",
+      "signals": [
+        "Fusion energy lowers the cost of advanced material separation",
+        "Robotic sorting reaches high purity across waste streams",
+        "Manufacturers design products for full recovery and reuse"
+      ],
+      "implications": [
+        "Lower mining pressure",
+        "Reduced landfill use",
+        "New circular manufacturing industries"
+      ],
+      "image": {
+        "alt": "Fusion-powered recycling plant converting waste into reusable raw materials",
+        "prompts": [
+          "Fusion-powered recycling megafactory converting urban waste into clean reusable raw materials, bright industrial documentary realism, 16:9",
+          "Robotic sorting lines and high-energy material separation systems inside a circular economy plant, clean futuristic infrastructure, 16:9",
+          "City waste flowing into a fusion recycling facility and emerging as standardized material blocks, optimistic post-scarcity future, 16:9",
+          "Engineers monitoring near-total material reuse in an advanced recycling control room, transparent dashboards, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-powered-recycling-plants-achieve-near-total-material-reuse.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-synthetic-fertilizer-production-becomes-carbon-negative",
+      "order": 12,
+      "slug": "synthetic-fertilizer-production-becomes-carbon-negative",
+      "title": "Synthetic fertilizer production becomes carbon-negative",
+      "shortTitle": "Carbon-Negative Fertilizer",
+      "category": "Materials & Manufacturing",
+      "description": "Fertilizer production shifts to clean energy, captured carbon inputs, biological nitrogen systems, and low-emission chemistry that removes more carbon than it emits.",
+      "layerId": "technology",
+      "domains": ["agriculture", "climate-technology", "chemistry"],
+      "maturity": "industrial-transition",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2076
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Agriculture becomes less climate-damaging while maintaining high yields for a growing and increasingly urban civilization.",
+      "signals": [
+        "Clean ammonia and nitrogen systems replace fossil-heavy processes",
+        "Carbon capture integrates into fertilizer manufacturing",
+        "Farmers adopt precision application to reduce runoff"
+      ],
+      "implications": [
+        "Lower agricultural emissions",
+        "More sustainable food production",
+        "Cleaner waterways from smarter nutrient use"
+      ],
+      "image": {
+        "alt": "Carbon-negative synthetic fertilizer plant supporting sustainable agriculture",
+        "prompts": [
+          "Carbon-negative fertilizer production facility beside sustainable farms, clean chemistry infrastructure, optimistic documentary realism, 16:9",
+          "Precision agriculture drones applying low-emission fertilizer only where needed, bright farm landscape, realistic future, 16:9",
+          "Chemical engineers monitoring clean ammonia and carbon capture systems for fertilizer production, modern industrial lab, 16:9",
+          "Farmers receiving sustainable fertilizer from a clean-energy manufacturing hub, resilient food future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-synthetic-fertilizer-production-becomes-carbon-negative.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-synthetic-fertilizer-production-becomes-carbon-negative.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-fully-autonomous-city-district-opens",
+      "order": 13,
+      "slug": "first-fully-autonomous-city-district-opens",
+      "title": "First fully autonomous city district opens",
+      "shortTitle": "Autonomous City District",
+      "category": "Civilization",
+      "description": "A city district runs transport, utilities, maintenance, safety monitoring, waste systems, and public services through coordinated AI and robotic infrastructure.",
+      "layerId": "civilization",
+      "domains": [
+        "smart-cities",
+        "artificial-intelligence",
+        "urban-infrastructure"
+      ],
+      "maturity": "district-scale-deployment",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Cities become more adaptive, efficient, and responsive, while raising new questions about governance, accountability, and public control.",
+      "signals": [
+        "Autonomous transport, utilities, waste, and safety systems integrate into one district platform",
+        "Robots handle maintenance before failures become visible",
+        "Residents vote on public AI operating rules"
+      ],
+      "implications": [
+        "Lower operating costs for urban services",
+        "Faster response to local problems",
+        "New democratic models for AI-managed infrastructure"
+      ],
+      "image": {
+        "alt": "Fully autonomous city district operating with AI-managed transport, utilities, and robots",
+        "prompts": [
+          "First fully autonomous city district with AI-managed transit, utilities, waste systems, and maintenance robots, clean futuristic documentary realism, 16:9",
+          "Residents walking through a calm smart district where robots maintain streets and public systems operate seamlessly, optimistic urban future, 16:9",
+          "City operations center coordinating autonomous infrastructure across a self-running district, transparent dashboards, 16:9",
+          "Night view of an autonomous city district with quiet transport pods, clean energy systems, and responsive public services, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-fully-autonomous-city-district-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-fully-autonomous-city-district-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-fully-autonomous-city-district-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-disease-outbreak-prediction-network-prevents-pandemics",
+      "order": 14,
+      "slug": "global-disease-outbreak-prediction-network-prevents-pandemics",
+      "title": "Global disease outbreak prediction network prevents pandemics",
+      "shortTitle": "Pandemic Prediction Network",
+      "category": "AI & Computing",
+      "description": "A global network of sensors, clinics, genomic monitoring, environmental data, and AI models detects outbreak risk early enough to prevent most pandemics.",
+      "layerId": "technology",
+      "domains": ["healthcare", "public-health", "artificial-intelligence"],
+      "maturity": "global-operational-network",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Humanity moves from reacting to pandemics toward preventing them, protecting lives, economies, and global trust.",
+      "signals": [
+        "Wastewater, wildlife, clinic, and travel data feed shared early-warning systems",
+        "Genomic surveillance detects dangerous mutations faster",
+        "Public health responses activate before uncontrolled spread"
+      ],
+      "implications": [
+        "Fewer global disease crises",
+        "More targeted and less disruptive health interventions",
+        "New privacy and sovereignty debates around biological monitoring"
+      ],
+      "image": {
+        "alt": "Global disease outbreak prediction network preventing pandemics through AI monitoring",
+        "prompts": [
+          "Global disease outbreak prediction network control room with AI models, genomic alerts, and public health teams preventing pandemics, clean documentary realism, 16:9",
+          "Public health sensors, clinics, and genomic labs connected through a planetary early-warning dashboard, optimistic health infrastructure, 16:9",
+          "Scientists monitoring wastewater, wildlife, and hospital data for outbreak prevention, realistic future public health scene, 16:9",
+          "International health coordination center responding early to disease signals before pandemic spread, calm high-tech atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-disease-outbreak-prediction-network-prevents-pandemics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-open-source-medicine-libraries-become-available-worldwide",
+      "order": 15,
+      "slug": "open-source-medicine-libraries-become-available-worldwide",
+      "title": "Open-source medicine libraries become available worldwide",
+      "shortTitle": "Open-Source Medicine",
+      "category": "Biology & Medicine",
+      "description": "Verified medicine designs, manufacturing protocols, safety data, and treatment knowledge become shared through global open libraries for approved local production.",
+      "layerId": "society",
+      "domains": ["medicine", "biotechnology", "knowledge-access"],
+      "maturity": "global-knowledge-network",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Medical access improves as knowledge bottlenecks fall, allowing more regions to produce safe essential therapies locally.",
+      "signals": [
+        "Regulators certify open medicine protocols",
+        "Local biomanufacturing hubs expand",
+        "Global medicine libraries include safety, dosing, and quality-control data"
+      ],
+      "implications": [
+        "Lower medicine access inequality",
+        "Faster response to regional health needs",
+        "New intellectual-property models for public health"
+      ],
+      "image": {
+        "alt": "Open-source medicine library connected to local biomanufacturing clinics worldwide",
+        "prompts": [
+          "Open-source medicine library interface connected to local biomanufacturing clinic, doctors and technicians reviewing verified treatment protocols, optimistic documentary realism, 16:9",
+          "Community medical manufacturing hub producing approved medicines from open global protocols, clean biotech future, 16:9",
+          "Global map of open-source medicine access with clinics downloading verified therapies, clean healthcare technology, 16:9",
+          "Scientists contributing medicine designs to a shared public health library, transparent data screens, human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-open-source-medicine-libraries-become-available-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-open-source-medicine-libraries-become-available-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-full-limb-replacement-using-cloned-cells-becomes-routine",
+      "order": 16,
+      "slug": "full-limb-replacement-using-cloned-cells-becomes-routine",
+      "title": "Full limb replacement using cloned cells becomes routine",
+      "shortTitle": "Cloned Limb Replacement",
+      "category": "Biology & Medicine",
+      "description": "Regenerative medicine, cloned tissues, vascular scaffolds, nerve integration, and rehabilitation robotics make biological limb replacement routine for severe injuries.",
+      "layerId": "technology",
+      "domains": ["regenerative-medicine", "biotechnology", "healthcare"],
+      "maturity": "routine-clinical-care",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Severe physical disability from limb loss becomes increasingly reversible, transforming trauma care, rehabilitation, and human capability.",
+      "signals": [
+        "Cloned tissues integrate with nerves and blood vessels",
+        "Regenerative surgery centers scale beyond elite hospitals",
+        "Robotic rehabilitation accelerates functional recovery"
+      ],
+      "implications": [
+        "Better recovery from severe injury",
+        "New standards for identity, consent, and body restoration",
+        "Reduced lifelong burden from limb loss"
+      ],
+      "image": {
+        "alt": "Regenerative medicine clinic replacing a lost limb using cloned cells",
+        "prompts": [
+          "Advanced regenerative medicine clinic growing a replacement limb from cloned cells in a sterile bioreactor, respectful medical documentary realism, 16:9",
+          "Patient learning to move a regenerated biological limb with support from doctors and rehabilitation robots, hopeful clinical scene, 16:9",
+          "Surgeons and AI systems integrating nerves and blood vessels for cloned limb replacement, clean future medicine, 16:9",
+          "Regenerative tissue lab with vascular scaffolds and cloned limb structures under careful monitoring, realistic biotech atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-full-limb-replacement-using-cloned-cells-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases",
+      "order": 17,
+      "slug": "gene-therapy-eliminates-most-hereditary-genetic-diseases",
+      "title": "Gene therapy eliminates most hereditary genetic diseases",
+      "shortTitle": "Hereditary Disease Therapy",
+      "category": "Biology & Medicine",
+      "description": "Safe gene therapies and early screening eliminate or prevent most hereditary genetic diseases before they cause lifelong harm.",
+      "layerId": "technology",
+      "domains": ["gene-therapy", "medicine", "biotechnology"],
+      "maturity": "preventive-standard",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Families face fewer inherited disease burdens, while healthcare systems shift from chronic genetic treatment to early prevention.",
+      "signals": [
+        "Gene-editing therapies prove durable and safe across many conditions",
+        "Population screening identifies treatable hereditary risks early",
+        "Regulators define strict boundaries for therapy versus enhancement"
+      ],
+      "implications": [
+        "Reduced suffering from inherited disease",
+        "Lower long-term healthcare burden",
+        "Major ethical governance around human genetics"
+      ],
+      "image": {
+        "alt": "Gene therapy clinic preventing hereditary genetic disease",
+        "prompts": [
+          "Gene therapy clinic where doctors review safe hereditary disease prevention with families, clean hopeful medical future, 16:9",
+          "Advanced biotechnology lab preparing precise gene therapy for inherited disease, realistic documentary style, 16:9",
+          "AI-assisted genomic screening dashboard identifying treatable hereditary risks, respectful healthcare scene, 16:9",
+          "Public health center offering preventive gene therapy under strict ethical oversight, optimistic medical civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-gene-therapy-eliminates-most-hereditary-genetic-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-operational-fusion-power-plant-becomes-commercially-stable",
+      "order": 18,
+      "slug": "first-operational-fusion-power-plant-becomes-commercially-stable",
+      "title": "First operational fusion power plant becomes commercially stable",
+      "shortTitle": "Commercial Fusion Plant",
+      "category": "Energy",
+      "description": "Fusion power reaches reliable commercial operation, providing abundant clean energy for cities, industry, water systems, and advanced manufacturing.",
+      "layerId": "technology",
+      "domains": ["fusion-energy", "infrastructure", "climate-technology"],
+      "maturity": "commercial-stability",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Energy abundance accelerates post-scarcity systems by lowering the cost of water, materials, manufacturing, transport, and climate repair.",
+      "signals": [
+        "Fusion plants operate with high uptime and predictable output",
+        "Grid operators integrate fusion into baseload planning",
+        "Industrial users sign long-term clean-energy contracts"
+      ],
+      "implications": [
+        "Lower clean-energy costs",
+        "Faster electrification of heavy industry",
+        "New energy geopolitics built around fusion infrastructure"
+      ],
+      "image": {
+        "alt": "First commercially stable fusion power plant supplying clean energy to a city",
+        "prompts": [
+          "First commercially stable fusion power plant glowing softly beside a clean future city, optimistic energy infrastructure documentary, 16:9",
+          "Fusion control room with engineers monitoring reliable commercial output and grid stability, clean high-tech realism, 16:9",
+          "City skyline powered by a modern fusion plant with clean water and transport systems nearby, post-scarcity foundation, 16:9",
+          "Industrial district using abundant fusion energy for clean manufacturing, bright realistic future, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-operational-fusion-power-plant-becomes-commercially-stable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-peace-summit-establishes-the-empathy-interface-protocol",
+      "order": 19,
+      "slug": "global-peace-summit-establishes-the-empathy-interface-protocol",
+      "title": "Global Peace Summit establishes the Empathy Interface Protocol",
+      "shortTitle": "Empathy Interface Protocol",
+      "category": "Civilization",
+      "description": "World leaders, scientists, mediators, and civil society establish ethical rules for empathy interfaces that help people understand experiences across cultures and conflicts.",
+      "layerId": "society",
+      "domains": ["governance", "neurotechnology", "peacebuilding"],
+      "maturity": "global-framework",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2085
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "Diplomacy gains new tools for reducing dehumanization, though strict safeguards are needed to protect autonomy, consent, and emotional privacy.",
+      "signals": [
+        "Empathy-interface research becomes measurable and auditable",
+        "Peacebuilding organizations test consent-based shared-experience tools",
+        "International bodies define rights for emotional and neural data"
+      ],
+      "implications": [
+        "New forms of conflict mediation",
+        "Stronger ethical governance of neurotechnology",
+        "Potential reduction in polarization and intergroup hostility"
+      ],
+      "image": {
+        "alt": "Global peace summit establishing ethical empathy interface protocol",
+        "prompts": [
+          "Global peace summit where leaders and citizens discuss an ethical empathy interface protocol, calm futuristic diplomacy hall, documentary realism, 16:9",
+          "Mediators using consent-based empathy interface tools to understand conflict experiences without coercion, hopeful civic future, 16:9",
+          "International neuroethics council reviewing emotional privacy and empathy technology safeguards, clean governance scene, 16:9",
+          "Symbolic gathering of diverse communities connected through transparent empathy interface visualization, optimistic human civilization, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-peace-summit-establishes-the-empathy-interface-protocol.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment",
+      "order": 20,
+      "slug": "atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment",
+      "title": "Atmospheric cleaners powered by fusion begin large-scale deployment",
+      "shortTitle": "Fusion Atmospheric Cleaners",
+      "category": "Energy",
+      "description": "Large-scale atmospheric cleaning systems powered by abundant fusion energy remove pollutants, excess greenhouse gases, and harmful aerosols from the air.",
+      "layerId": "technology",
+      "domains": [
+        "climate-restoration",
+        "fusion-energy",
+        "atmospheric-engineering"
+      ],
+      "maturity": "large-scale-deployment",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Climate repair becomes an active planetary capability, helping restore air quality and stabilize long-term environmental systems.",
+      "signals": [
+        "Fusion energy makes high-volume air processing affordable",
+        "Atmospheric monitoring verifies pollution and carbon removal",
+        "Climate treaties regulate deployment and regional impacts"
+      ],
+      "implications": [
+        "Improved air quality",
+        "Expanded carbon removal capacity",
+        "New global governance for planetary-scale climate technology"
+      ],
+      "image": {
+        "alt": "Fusion-powered atmospheric cleaners removing pollution from the sky",
+        "prompts": [
+          "Fusion-powered atmospheric cleaners operating on the edge of a city, clear sky returning as pollution is removed, clean futuristic documentary, 16:9",
+          "Large climate restoration towers processing air with fusion energy, forests and city skyline in the distance, optimistic planetary repair, 16:9",
+          "Atmospheric engineering control room monitoring carbon removal and air quality across continents, realistic future infrastructure, 16:9",
+          "Massive but elegant air-cleaning structures in a restored industrial zone, bright hopeful climate technology, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-atmospheric-cleaners-powered-by-fusion-begin-large-scale-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ai-personal-life-managers-coordinate-daily-human-activities",
+      "order": 21,
+      "slug": "ai-personal-life-managers-coordinate-daily-human-activities",
+      "title": "aI Personal Life Managers Coordinate Daily Human Activities",
+      "shortTitle": "AI Personal Life Managers",
+      "category": "AI & Computing",
+      "description": "AI Personal Life Managers Coordinate Daily Human Activities uses AI as social infrastructure for logistics, finance, law, disease prevention, personal coordination, education, and large-scale public systems.",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "AI Personal Life Managers Coordinate Daily Human Activities becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "AI systems coordinate complex social and public-service operations",
+        "Predictive models reduce waste, delays, conflict, and preventable risk",
+        "Human oversight shifts toward policy, ethics, and high-level guidance"
+      ],
+      "implications": [
+        "Public systems become faster and more personalized",
+        "Large-scale coordination becomes more reliable",
+        "Equity depends on transparent governance and broad access"
+      ],
+      "image": {
+        "alt": "AI Personal Life Managers Coordinate Daily Human Activities",
+        "prompts": [
+          "aI Personal Life Managers Coordinate Daily Human Activities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Personal Life Managers Coordinate Daily Human Activities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Personal Life Managers Coordinate Daily Human Activities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Personal Life Managers Coordinate Daily Human Activities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ai-personal-life-managers-coordinate-daily-human-activities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ai-personal-life-managers-coordinate-daily-human-activities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fully-autonomous-agriculture-complexes-become-common",
+      "order": 22,
+      "slug": "fully-autonomous-agriculture-complexes-become-common",
+      "title": "fully Autonomous Agriculture Complexes Become Common",
+      "shortTitle": "Fully Autonomous Agriculture Complexes",
+      "category": "Robotics",
+      "description": "Fully Autonomous Agriculture Complexes Become Common expands autonomous machine labor into care, agriculture, city maintenance, household support, and marine restoration at post-scarcity scale.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2072
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Fully Autonomous Agriculture Complexes Become Common becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Autonomous fleets perform essential physical services",
+        "Robots operate in homes, farms, cities, oceans, and hazardous sites",
+        "Maintenance and recovery become faster and less dependent on scarce labor"
+      ],
+      "implications": [
+        "Physical labor becomes less necessary for survival",
+        "Care and infrastructure become more available",
+        "Human work shifts toward creative, social, and supervisory roles"
+      ],
+      "image": {
+        "alt": "Fully Autonomous Agriculture Complexes Become Common",
+        "prompts": [
+          "fully Autonomous Agriculture Complexes Become Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing fully Autonomous Agriculture Complexes Become Common, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of fully Autonomous Agriculture Complexes Become Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating fully Autonomous Agriculture Complexes Become Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fully-autonomous-agriculture-complexes-become-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fully-autonomous-agriculture-complexes-become-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-household-service-robots-handle-most-domestic-tasks",
+      "order": 23,
+      "slug": "household-service-robots-handle-most-domestic-tasks",
+      "title": "household Service Robots Handle Most Domestic Tasks",
+      "shortTitle": "Household Service Robots Handle",
+      "category": "Robotics",
+      "description": "Household Service Robots Handle Most Domestic Tasks expands autonomous machine labor into care, agriculture, city maintenance, household support, and marine restoration at post-scarcity scale.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2073
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Household Service Robots Handle Most Domestic Tasks becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Autonomous fleets perform essential physical services",
+        "Robots operate in homes, farms, cities, oceans, and hazardous sites",
+        "Maintenance and recovery become faster and less dependent on scarce labor"
+      ],
+      "implications": [
+        "Physical labor becomes less necessary for survival",
+        "Care and infrastructure become more available",
+        "Human work shifts toward creative, social, and supervisory roles"
+      ],
+      "image": {
+        "alt": "Household Service Robots Handle Most Domestic Tasks",
+        "prompts": [
+          "household Service Robots Handle Most Domestic Tasks, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing household Service Robots Handle Most Domestic Tasks, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of household Service Robots Handle Most Domestic Tasks, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating household Service Robots Handle Most Domestic Tasks, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-household-service-robots-handle-most-domestic-tasks.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-household-service-robots-handle-most-domestic-tasks.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-household-service-robots-handle-most-domestic-tasks.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-autonomous-infrastructure-repair-robots-maintain-cities",
+      "order": 24,
+      "slug": "autonomous-infrastructure-repair-robots-maintain-cities",
+      "title": "autonomous Infrastructure Repair Robots Maintain Cities",
+      "shortTitle": "Autonomous Infrastructure Repair Robots",
+      "category": "Robotics",
+      "description": "Autonomous Infrastructure Repair Robots Maintain Cities expands autonomous machine labor into care, agriculture, city maintenance, household support, and marine restoration at post-scarcity scale.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2073
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Autonomous Infrastructure Repair Robots Maintain Cities becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Autonomous fleets perform essential physical services",
+        "Robots operate in homes, farms, cities, oceans, and hazardous sites",
+        "Maintenance and recovery become faster and less dependent on scarce labor"
+      ],
+      "implications": [
+        "Physical labor becomes less necessary for survival",
+        "Care and infrastructure become more available",
+        "Human work shifts toward creative, social, and supervisory roles"
+      ],
+      "image": {
+        "alt": "Autonomous Infrastructure Repair Robots Maintain Cities",
+        "prompts": [
+          "autonomous Infrastructure Repair Robots Maintain Cities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Infrastructure Repair Robots Maintain Cities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Infrastructure Repair Robots Maintain Cities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Infrastructure Repair Robots Maintain Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-autonomous-infrastructure-repair-robots-maintain-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-autonomous-infrastructure-repair-robots-maintain-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems",
+      "order": 25,
+      "slug": "ocean-cleanup-robot-fleets-restore-marine-ecosystems",
+      "title": "ocean Cleanup Robot Fleets Restore Marine Ecosystems",
+      "shortTitle": "Ocean Cleanup Robot Fleets",
+      "category": "Robotics",
+      "description": "Ocean Cleanup Robot Fleets Restore Marine Ecosystems expands autonomous machine labor into care, agriculture, city maintenance, household support, and marine restoration at post-scarcity scale.",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "large-scale-adoption",
+      "timeframe": {
+        "startYear": 2069,
+        "endYear": 2074
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Ocean Cleanup Robot Fleets Restore Marine Ecosystems becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Autonomous fleets perform essential physical services",
+        "Robots operate in homes, farms, cities, oceans, and hazardous sites",
+        "Maintenance and recovery become faster and less dependent on scarce labor"
+      ],
+      "implications": [
+        "Physical labor becomes less necessary for survival",
+        "Care and infrastructure become more available",
+        "Human work shifts toward creative, social, and supervisory roles"
+      ],
+      "image": {
+        "alt": "Ocean Cleanup Robot Fleets Restore Marine Ecosystems",
+        "prompts": [
+          "ocean Cleanup Robot Fleets Restore Marine Ecosystems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ocean Cleanup Robot Fleets Restore Marine Ecosystems, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ocean Cleanup Robot Fleets Restore Marine Ecosystems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ocean Cleanup Robot Fleets Restore Marine Ecosystems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-ocean-cleanup-robot-fleets-restore-marine-ecosystems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide",
+      "order": 26,
+      "slug": "fusion-energy-cost-falls-below-fossil-fuels-worldwide",
+      "title": "fusion Energy Cost Falls Below Fossil Fuels Worldwide",
+      "shortTitle": "Fusion Energy Cost Falls",
+      "category": "Energy",
+      "description": "Fusion Energy Cost Falls Below Fossil Fuels Worldwide makes abundant clean energy practical for water, recycling, food, atmospheric repair, and the early foundations of post-scarcity society.",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "clean-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2070,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Fusion Energy Cost Falls Below Fossil Fuels Worldwide becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Fusion and clean energy systems become economically stable",
+        "Energy-intensive public goods become affordable",
+        "Large infrastructure can run without fossil fuel dependence"
+      ],
+      "implications": [
+        "Scarcity in water, food, housing, and recycling declines",
+        "Climate repair becomes more practical",
+        "Civilization gains the power base for planetary transformation"
+      ],
+      "image": {
+        "alt": "Fusion Energy Cost Falls Below Fossil Fuels Worldwide",
+        "prompts": [
+          "fusion Energy Cost Falls Below Fossil Fuels Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing fusion Energy Cost Falls Below Fossil Fuels Worldwide, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of fusion Energy Cost Falls Below Fossil Fuels Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating fusion Energy Cost Falls Below Fossil Fuels Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-fusion-energy-cost-falls-below-fossil-fuels-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-permanent-lunar-city-reaches-10-000-residents",
+      "order": 27,
+      "slug": "permanent-lunar-city-reaches-10-000-residents",
+      "title": "permanent Lunar City Reaches 10,000 Residents",
+      "shortTitle": "Permanent Lunar City 10000",
+      "category": "Space",
+      "description": "Permanent Lunar City Reaches 10,000 Residents keeps off-world development moving from early outposts toward lunar cities, Mars settlements, asteroid industry, artificial gravity habitats, and routine Earth-Moon transport.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2070,
+        "endYear": 2075
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Permanent Lunar City Reaches 10,000 Residents becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "Permanent Lunar City Reaches 10,000 Residents",
+        "prompts": [
+          "permanent Lunar City Reaches 10,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing permanent Lunar City Reaches 10,000 Residents, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of permanent Lunar City Reaches 10,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating permanent Lunar City Reaches 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-permanent-lunar-city-reaches-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-permanent-lunar-city-reaches-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies",
+      "order": 28,
+      "slug": "first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies",
+      "title": "first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies",
+      "shortTitle": "SelfSustaining Mars Settlement Achieves",
+      "category": "Space",
+      "description": "First Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies keeps off-world development moving from early outposts toward lunar cities, Mars settlements, asteroid industry, artificial gravity habitats, and routine Earth-Moon transport.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2071,
+        "endYear": 2076
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "First Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "First Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies",
+        "prompts": [
+          "first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Self-Sustaining Mars Settlement Achieves Independence from Earth Supplies, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-self-sustaining-mars-settlement-achieves-independence-from-earth-supplies.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-asteroid-mining-industry-reaches-commercial-scale",
+      "order": 29,
+      "slug": "asteroid-mining-industry-reaches-commercial-scale",
+      "title": "asteroid Mining Industry Reaches Commercial Scale",
+      "shortTitle": "Asteroid Mining Industry Scale",
+      "category": "Space",
+      "description": "Asteroid Mining Industry Reaches Commercial Scale keeps off-world development moving from early outposts toward lunar cities, Mars settlements, asteroid industry, artificial gravity habitats, and routine Earth-Moon transport.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2071,
+        "endYear": 2076
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Asteroid Mining Industry Reaches Commercial Scale becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "Asteroid Mining Industry Reaches Commercial Scale",
+        "prompts": [
+          "asteroid Mining Industry Reaches Commercial Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing asteroid Mining Industry Reaches Commercial Scale, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of asteroid Mining Industry Reaches Commercial Scale, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating asteroid Mining Industry Reaches Commercial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-asteroid-mining-industry-reaches-commercial-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-asteroid-mining-industry-reaches-commercial-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-artificial-gravity-space-habitat-opens-to-residents",
+      "order": 30,
+      "slug": "artificial-gravity-space-habitat-opens-to-residents",
+      "title": "artificial Gravity Space Habitat Opens to Residents",
+      "shortTitle": "Artificial Gravity Space Habitat",
+      "category": "Space",
+      "description": "Artificial Gravity Space Habitat Opens to Residents keeps off-world development moving from early outposts toward lunar cities, Mars settlements, asteroid industry, artificial gravity habitats, and routine Earth-Moon transport.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2072,
+        "endYear": 2077
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Artificial Gravity Space Habitat Opens to Residents becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "Artificial Gravity Space Habitat Opens to Residents",
+        "prompts": [
+          "artificial Gravity Space Habitat Opens to Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Space Habitat Opens to Residents, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Space Habitat Opens to Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Space Habitat Opens to Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-space-habitat-opens-to-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-space-habitat-opens-to-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-earth-moon-passenger-transport-becomes-routine",
+      "order": 31,
+      "slug": "earth-moon-passenger-transport-becomes-routine",
+      "title": "earth-Moon Passenger Transport Becomes Routine",
+      "shortTitle": "EarthMoon Passenger Transport Routine",
+      "category": "Space",
+      "description": "Earth-Moon Passenger Transport Becomes Routine keeps off-world development moving from early outposts toward lunar cities, Mars settlements, asteroid industry, artificial gravity habitats, and routine Earth-Moon transport.",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2073,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Earth-Moon Passenger Transport Becomes Routine becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Permanent settlements grow beyond scientific outposts",
+        "Passenger and cargo routes become routine",
+        "Off-world industry becomes part of the wider economy"
+      ],
+      "implications": [
+        "Human civilization becomes more distributed",
+        "Space infrastructure supports resilience and industry",
+        "The next era of Solar System civilization becomes possible"
+      ],
+      "image": {
+        "alt": "Earth-Moon Passenger Transport Becomes Routine",
+        "prompts": [
+          "earth-Moon Passenger Transport Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon Passenger Transport Becomes Routine, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon Passenger Transport Becomes Routine, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon Passenger Transport Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-earth-moon-passenger-transport-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-earth-moon-passenger-transport-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-earth-moon-passenger-transport-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-organ-printing-replaces-most-donor-transplants",
+      "order": 32,
+      "slug": "organ-printing-replaces-most-donor-transplants",
+      "title": "organ Printing Replaces Most Donor Transplants",
+      "shortTitle": "Organ Printing Replaces Donor",
+      "category": "Biology & Medicine",
+      "description": "Organ Printing Replaces Most Donor Transplants expands medicine from treatment into regeneration, prevention, open-source access, organ printing, and major improvements in healthy lifespan.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2073,
+        "endYear": 2078
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Organ Printing Replaces Most Donor Transplants becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Regenerative medicine becomes widely available",
+        "Disease prevention improves through global monitoring and personalized systems",
+        "Biological repair becomes more reliable and affordable"
+      ],
+      "implications": [
+        "Healthspan rises sharply",
+        "Medical access becomes a core post-scarcity service",
+        "Human identity begins separating from biological limitation"
+      ],
+      "image": {
+        "alt": "Organ Printing Replaces Most Donor Transplants",
+        "prompts": [
+          "organ Printing Replaces Most Donor Transplants, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing organ Printing Replaces Most Donor Transplants, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of organ Printing Replaces Most Donor Transplants, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating organ Printing Replaces Most Donor Transplants, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-organ-printing-replaces-most-donor-transplants.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-organ-printing-replaces-most-donor-transplants.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-organ-printing-replaces-most-donor-transplants.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-human-lifespan-exceeds-120-years-for-the-majority-population",
+      "order": 33,
+      "slug": "human-lifespan-exceeds-120-years-for-the-majority-population",
+      "title": "human Lifespan Exceeds 120 Years for the Majority Population",
+      "shortTitle": "Human Lifespan Exceeds 120",
+      "category": "Biology & Medicine",
+      "description": "Human Lifespan Exceeds 120 Years for the Majority Population expands medicine from treatment into regeneration, prevention, open-source access, organ printing, and major improvements in healthy lifespan.",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2074,
+        "endYear": 2079
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human Lifespan Exceeds 120 Years for the Majority Population becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Regenerative medicine becomes widely available",
+        "Disease prevention improves through global monitoring and personalized systems",
+        "Biological repair becomes more reliable and affordable"
+      ],
+      "implications": [
+        "Healthspan rises sharply",
+        "Medical access becomes a core post-scarcity service",
+        "Human identity begins separating from biological limitation"
+      ],
+      "image": {
+        "alt": "Human Lifespan Exceeds 120 Years for the Majority Population",
+        "prompts": [
+          "human Lifespan Exceeds 120 Years for the Majority Population, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Lifespan Exceeds 120 Years for the Majority Population, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Lifespan Exceeds 120 Years for the Majority Population, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Lifespan Exceeds 120 Years for the Majority Population, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-lifespan-exceeds-120-years-for-the-majority-population.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-artificial-gravity-systems-become-reliable-for-large-habitats",
+      "order": 34,
+      "slug": "artificial-gravity-systems-become-reliable-for-large-habitats",
+      "title": "artificial Gravity Systems Become Reliable for Large Habitats",
+      "shortTitle": "Artificial Gravity Reliable for",
+      "category": "Physics",
+      "description": "Artificial Gravity Systems Become Reliable for Large Habitats moves advanced physics into practical infrastructure for quantum communication, artificial gravity, radiation shielding, protein science, and superconducting systems.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2074,
+        "endYear": 2079
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Artificial Gravity Systems Become Reliable for Large Habitats becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Artificial Gravity Systems Become Reliable for Large Habitats",
+        "prompts": [
+          "artificial Gravity Systems Become Reliable for Large Habitats, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Systems Become Reliable for Large Habitats, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Systems Become Reliable for Large Habitats, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Systems Become Reliable for Large Habitats, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-artificial-gravity-systems-become-reliable-for-large-habitats.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-quantum-communication-networks-become-globally-standard",
+      "order": 35,
+      "slug": "quantum-communication-networks-become-globally-standard",
+      "title": "quantum Communication Networks Become Globally Standard",
+      "shortTitle": "Quantum Communication Networks Globally",
+      "category": "Physics",
+      "description": "Quantum Communication Networks Become Globally Standard moves advanced physics into practical infrastructure for quantum communication, artificial gravity, radiation shielding, protein science, and superconducting systems.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2075,
+        "endYear": 2080
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Quantum Communication Networks Become Globally Standard becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Quantum Communication Networks Become Globally Standard",
+        "prompts": [
+          "quantum Communication Networks Become Globally Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Communication Networks Become Globally Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Communication Networks Become Globally Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Communication Networks Become Globally Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-quantum-communication-networks-become-globally-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-quantum-communication-networks-become-globally-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-quantum-communication-networks-become-globally-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-magnetic-radiation-shielding-protects-space-settlements",
+      "order": 36,
+      "slug": "magnetic-radiation-shielding-protects-space-settlements",
+      "title": "magnetic Radiation Shielding Protects Space Settlements",
+      "shortTitle": "Magnetic Radiation Shielding Protects",
+      "category": "Physics",
+      "description": "Magnetic Radiation Shielding Protects Space Settlements moves advanced physics into practical infrastructure for quantum communication, artificial gravity, radiation shielding, protein science, and superconducting systems.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2076,
+        "endYear": 2081
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Magnetic Radiation Shielding Protects Space Settlements becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Magnetic Radiation Shielding Protects Space Settlements",
+        "prompts": [
+          "magnetic Radiation Shielding Protects Space Settlements, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing magnetic Radiation Shielding Protects Space Settlements, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of magnetic Radiation Shielding Protects Space Settlements, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating magnetic Radiation Shielding Protects Space Settlements, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-magnetic-radiation-shielding-protects-space-settlements.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-magnetic-radiation-shielding-protects-space-settlements.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-large-scale-quantum-computing-solves-protein-folding-universally",
+      "order": 37,
+      "slug": "large-scale-quantum-computing-solves-protein-folding-universally",
+      "title": "large-Scale Quantum Computing Solves Protein Folding Universally",
+      "shortTitle": "LargeScale Quantum Computing Solves",
+      "category": "Physics",
+      "description": "Large-Scale Quantum Computing Solves Protein Folding Universally moves advanced physics into practical infrastructure for quantum communication, artificial gravity, radiation shielding, protein science, and superconducting systems.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2076,
+        "endYear": 2081
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Large-Scale Quantum Computing Solves Protein Folding Universally becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Large-Scale Quantum Computing Solves Protein Folding Universally",
+        "prompts": [
+          "large-Scale Quantum Computing Solves Protein Folding Universally, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing large-Scale Quantum Computing Solves Protein Folding Universally, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of large-Scale Quantum Computing Solves Protein Folding Universally, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating large-Scale Quantum Computing Solves Protein Folding Universally, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-large-scale-quantum-computing-solves-protein-folding-universally.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-large-scale-quantum-computing-solves-protein-folding-universally.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-room-temperature-superconductors-become-commercially-common",
+      "order": 38,
+      "slug": "room-temperature-superconductors-become-commercially-common",
+      "title": "room-Temperature Superconductors Become Commercially Common",
+      "shortTitle": "RoomTemperature Superconductors Common",
+      "category": "Physics",
+      "description": "Room-Temperature Superconductors Become Commercially Common moves advanced physics into practical infrastructure for quantum communication, artificial gravity, radiation shielding, protein science, and superconducting systems.",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2077,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Room-Temperature Superconductors Become Commercially Common becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Quantum and gravity-related systems become engineered services",
+        "Advanced measurement improves infrastructure and navigation",
+        "Computing power solves problems that were previously inaccessible"
+      ],
+      "implications": [
+        "New classes of infrastructure become practical",
+        "Space habitation becomes safer and more comfortable",
+        "Scientific progress accelerates across medicine, materials, and energy"
+      ],
+      "image": {
+        "alt": "Room-Temperature Superconductors Become Commercially Common",
+        "prompts": [
+          "room-Temperature Superconductors Become Commercially Common, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing room-Temperature Superconductors Become Commercially Common, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of room-Temperature Superconductors Become Commercially Common, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating room-Temperature Superconductors Become Commercially Common, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-room-temperature-superconductors-become-commercially-common.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-room-temperature-superconductors-become-commercially-common.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-room-temperature-superconductors-become-commercially-common.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-self-healing-infrastructure-materials-become-standard",
+      "order": 39,
+      "slug": "self-healing-infrastructure-materials-become-standard",
+      "title": "self-Healing Infrastructure Materials Become Standard",
+      "shortTitle": "SelfHealing Infrastructure Materials",
+      "category": "Materials & Manufacturing",
+      "description": "Self-Healing Infrastructure Materials Become Standard reduces the cost of shelter and physical goods through fusion recycling, self-healing infrastructure, programmable matter, and molecular manufacturing.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2077,
+        "endYear": 2082
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Self-Healing Infrastructure Materials Become Standard becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Circular manufacturing reduces demand for virgin materials",
+        "Buildings and infrastructure repair themselves",
+        "Molecular and programmable manufacturing reaches industrial use"
+      ],
+      "implications": [
+        "Housing and goods become cheaper",
+        "Waste declines dramatically",
+        "Infrastructure becomes more resilient and adaptive"
+      ],
+      "image": {
+        "alt": "Self-Healing Infrastructure Materials Become Standard",
+        "prompts": [
+          "self-Healing Infrastructure Materials Become Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Infrastructure Materials Become Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Infrastructure Materials Become Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Infrastructure Materials Become Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-self-healing-infrastructure-materials-become-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-self-healing-infrastructure-materials-become-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-self-healing-infrastructure-materials-become-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-programmable-matter-enters-industrial-production",
+      "order": 40,
+      "slug": "programmable-matter-enters-industrial-production",
+      "title": "programmable Matter Enters Industrial Production",
+      "shortTitle": "Programmable Matter Industrial Production",
+      "category": "Materials & Manufacturing",
+      "description": "Programmable Matter Enters Industrial Production reduces the cost of shelter and physical goods through fusion recycling, self-healing infrastructure, programmable matter, and molecular manufacturing.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2083
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Programmable Matter Enters Industrial Production becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Circular manufacturing reduces demand for virgin materials",
+        "Buildings and infrastructure repair themselves",
+        "Molecular and programmable manufacturing reaches industrial use"
+      ],
+      "implications": [
+        "Housing and goods become cheaper",
+        "Waste declines dramatically",
+        "Infrastructure becomes more resilient and adaptive"
+      ],
+      "image": {
+        "alt": "Programmable Matter Enters Industrial Production",
+        "prompts": [
+          "programmable Matter Enters Industrial Production, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing programmable Matter Enters Industrial Production, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of programmable Matter Enters Industrial Production, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating programmable Matter Enters Industrial Production, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-programmable-matter-enters-industrial-production.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-programmable-matter-enters-industrial-production.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-programmable-matter-enters-industrial-production.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-molecular-manufacturing-begins-commercial-deployment",
+      "order": 41,
+      "slug": "molecular-manufacturing-begins-commercial-deployment",
+      "title": "molecular Manufacturing Begins Commercial Deployment",
+      "shortTitle": "Molecular Manufacturing Deployment",
+      "category": "Materials & Manufacturing",
+      "description": "Molecular Manufacturing Begins Commercial Deployment reduces the cost of shelter and physical goods through fusion recycling, self-healing infrastructure, programmable matter, and molecular manufacturing.",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2079,
+        "endYear": 2084
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Molecular Manufacturing Begins Commercial Deployment becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Circular manufacturing reduces demand for virgin materials",
+        "Buildings and infrastructure repair themselves",
+        "Molecular and programmable manufacturing reaches industrial use"
+      ],
+      "implications": [
+        "Housing and goods become cheaper",
+        "Waste declines dramatically",
+        "Infrastructure becomes more resilient and adaptive"
+      ],
+      "image": {
+        "alt": "Molecular Manufacturing Begins Commercial Deployment",
+        "prompts": [
+          "molecular Manufacturing Begins Commercial Deployment, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing molecular Manufacturing Begins Commercial Deployment, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of molecular Manufacturing Begins Commercial Deployment, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating molecular Manufacturing Begins Commercial Deployment, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-molecular-manufacturing-begins-commercial-deployment.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-molecular-manufacturing-begins-commercial-deployment.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-biodiversity-loss-stops-and-global-recovery-begins",
+      "order": 42,
+      "slug": "biodiversity-loss-stops-and-global-recovery-begins",
+      "title": "biodiversity Loss Stops and Global Recovery Begins",
+      "shortTitle": "Biodiversity Loss Stops and",
+      "category": "Environment",
+      "description": "Biodiversity Loss Stops and Global Recovery Begins stabilizes basic life-support systems through clean water, desalination, climate refugee coordination, biodiversity recovery, desert greening, and atmospheric repair.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2079,
+        "endYear": 2084
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Biodiversity Loss Stops and Global Recovery Begins becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Restoration projects become measurable at regional and global scale",
+        "Water and food systems become more resilient",
+        "Climate data guides real-time intervention"
+      ],
+      "implications": [
+        "Environmental collapse risk declines",
+        "Habitable land and biodiversity recover",
+        "Planetary stewardship becomes a core civilizational role"
+      ],
+      "image": {
+        "alt": "Biodiversity Loss Stops and Global Recovery Begins",
+        "prompts": [
+          "biodiversity Loss Stops and Global Recovery Begins, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biodiversity Loss Stops and Global Recovery Begins, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biodiversity Loss Stops and Global Recovery Begins, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biodiversity Loss Stops and Global Recovery Begins, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-biodiversity-loss-stops-and-global-recovery-begins.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-biodiversity-loss-stops-and-global-recovery-begins.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-desert-greening-projects-restore-millions-of-square-kilometers",
+      "order": 43,
+      "slug": "desert-greening-projects-restore-millions-of-square-kilometers",
+      "title": "desert Greening Projects Restore Millions of Square Kilometers",
+      "shortTitle": "Desert Greening Projects Restore",
+      "category": "Environment",
+      "description": "Desert Greening Projects Restore Millions of Square Kilometers stabilizes basic life-support systems through clean water, desalination, climate refugee coordination, biodiversity recovery, desert greening, and atmospheric repair.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Desert Greening Projects Restore Millions of Square Kilometers becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Restoration projects become measurable at regional and global scale",
+        "Water and food systems become more resilient",
+        "Climate data guides real-time intervention"
+      ],
+      "implications": [
+        "Environmental collapse risk declines",
+        "Habitable land and biodiversity recover",
+        "Planetary stewardship becomes a core civilizational role"
+      ],
+      "image": {
+        "alt": "Desert Greening Projects Restore Millions of Square Kilometers",
+        "prompts": [
+          "desert Greening Projects Restore Millions of Square Kilometers, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing desert Greening Projects Restore Millions of Square Kilometers, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of desert Greening Projects Restore Millions of Square Kilometers, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating desert Greening Projects Restore Millions of Square Kilometers, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-desert-greening-projects-restore-millions-of-square-kilometers.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-desert-greening-projects-restore-millions-of-square-kilometers.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-carbon-concentration-returns-below-pre-industrial-levels",
+      "order": 44,
+      "slug": "carbon-concentration-returns-below-pre-industrial-levels",
+      "title": "carbon Concentration Returns Below Pre-Industrial Levels",
+      "shortTitle": "Carbon Concentration Returns Below",
+      "category": "Environment",
+      "description": "Carbon Concentration Returns Below Pre-Industrial Levels stabilizes basic life-support systems through clean water, desalination, climate refugee coordination, biodiversity recovery, desert greening, and atmospheric repair.",
+      "layerId": "environment",
+      "domains": [
+        "climate-restoration",
+        "ecological-repair",
+        "planetary-stewardship"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Carbon Concentration Returns Below Pre-Industrial Levels becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Restoration projects become measurable at regional and global scale",
+        "Water and food systems become more resilient",
+        "Climate data guides real-time intervention"
+      ],
+      "implications": [
+        "Environmental collapse risk declines",
+        "Habitable land and biodiversity recover",
+        "Planetary stewardship becomes a core civilizational role"
+      ],
+      "image": {
+        "alt": "Carbon Concentration Returns Below Pre-Industrial Levels",
+        "prompts": [
+          "carbon Concentration Returns Below Pre-Industrial Levels, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Concentration Returns Below Pre-Industrial Levels, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Concentration Returns Below Pre-Industrial Levels, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Concentration Returns Below Pre-Industrial Levels, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-carbon-concentration-returns-below-pre-industrial-levels.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-carbon-concentration-returns-below-pre-industrial-levels.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-four-day-workweek-becomes-global-standard",
+      "order": 45,
+      "slug": "four-day-workweek-becomes-global-standard",
+      "title": "four-Day Workweek Becomes Global Standard",
+      "shortTitle": "FourDay Workweek Global",
+      "category": "Society & Economy",
+      "description": "Four-Day Workweek Becomes Global Standard restructures welfare, education, poverty, debt, work, and basic services around universal access and abundance rather than scarcity management.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2081,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Four-Day Workweek Becomes Global Standard becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Universal services expand beyond traditional welfare",
+        "Work hours decline as automation improves productivity",
+        "Basic needs become less tied to employment or wealth"
+      ],
+      "implications": [
+        "Social stability improves",
+        "Human potential expands through education and access",
+        "Economic systems shift from survival to flourishing"
+      ],
+      "image": {
+        "alt": "Four-Day Workweek Becomes Global Standard",
+        "prompts": [
+          "four-Day Workweek Becomes Global Standard, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing four-Day Workweek Becomes Global Standard, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of four-Day Workweek Becomes Global Standard, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating four-Day Workweek Becomes Global Standard, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-four-day-workweek-becomes-global-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-four-day-workweek-becomes-global-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-four-day-workweek-becomes-global-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-extreme-poverty-falls-below-one-percent-worldwide",
+      "order": 46,
+      "slug": "extreme-poverty-falls-below-one-percent-worldwide",
+      "title": "extreme Poverty Falls Below One Percent Worldwide",
+      "shortTitle": "Extreme Poverty Falls Below",
+      "category": "Society & Economy",
+      "description": "Extreme Poverty Falls Below One Percent Worldwide restructures welfare, education, poverty, debt, work, and basic services around universal access and abundance rather than scarcity management.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Extreme Poverty Falls Below One Percent Worldwide becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Universal services expand beyond traditional welfare",
+        "Work hours decline as automation improves productivity",
+        "Basic needs become less tied to employment or wealth"
+      ],
+      "implications": [
+        "Social stability improves",
+        "Human potential expands through education and access",
+        "Economic systems shift from survival to flourishing"
+      ],
+      "image": {
+        "alt": "Extreme Poverty Falls Below One Percent Worldwide",
+        "prompts": [
+          "extreme Poverty Falls Below One Percent Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing extreme Poverty Falls Below One Percent Worldwide, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of extreme Poverty Falls Below One Percent Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating extreme Poverty Falls Below One Percent Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-extreme-poverty-falls-below-one-percent-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-extreme-poverty-falls-below-one-percent-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-cashless-economies-become-nearly-universal",
+      "order": 47,
+      "slug": "cashless-economies-become-nearly-universal",
+      "title": "cashless Economies Become Nearly Universal",
+      "shortTitle": "Cashless Economies Universal",
+      "category": "Society & Economy",
+      "description": "Cashless Economies Become Nearly Universal restructures welfare, education, poverty, debt, work, and basic services around universal access and abundance rather than scarcity management.",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Cashless Economies Become Nearly Universal becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Universal services expand beyond traditional welfare",
+        "Work hours decline as automation improves productivity",
+        "Basic needs become less tied to employment or wealth"
+      ],
+      "implications": [
+        "Social stability improves",
+        "Human potential expands through education and access",
+        "Economic systems shift from survival to flourishing"
+      ],
+      "image": {
+        "alt": "Cashless Economies Become Nearly Universal",
+        "prompts": [
+          "cashless Economies Become Nearly Universal, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing cashless Economies Become Nearly Universal, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of cashless Economies Become Nearly Universal, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating cashless Economies Become Nearly Universal, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-cashless-economies-become-nearly-universal.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-cashless-economies-become-nearly-universal.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-cashless-economies-become-nearly-universal.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-global-human-rights-framework-expands-to-include-ai-entities",
+      "order": 48,
+      "slug": "global-human-rights-framework-expands-to-include-ai-entities",
+      "title": "global Human Rights Framework Expands to Include AI Entities",
+      "shortTitle": "Global Human Rights Framework",
+      "category": "Civilization",
+      "description": "Global Human Rights Framework Expands to Include AI Entities creates new governance, peace, rights, and planetary resource institutions needed for an abundance society.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2083,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Global Human Rights Framework Expands to Include AI Entities becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Governance expands beyond nation-by-nation crisis response",
+        "Rights frameworks adapt to AI and advanced systems",
+        "Global institutions coordinate resources, peace, and public infrastructure"
+      ],
+      "implications": [
+        "Civilization becomes more coordinated at planetary scale",
+        "Political systems adapt to abundance and automation",
+        "Humanity gains institutions for planetary transformation"
+      ],
+      "image": {
+        "alt": "Global Human Rights Framework Expands to Include AI Entities",
+        "prompts": [
+          "global Human Rights Framework Expands to Include AI Entities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Human Rights Framework Expands to Include AI Entities, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Human Rights Framework Expands to Include AI Entities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Human Rights Framework Expands to Include AI Entities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-global-human-rights-framework-expands-to-include-ai-entities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-global-human-rights-framework-expands-to-include-ai-entities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-first-planetary-resource-governance-council-is-established",
+      "order": 49,
+      "slug": "first-planetary-resource-governance-council-is-established",
+      "title": "first Planetary Resource Governance Council Is Established",
+      "shortTitle": "Planetary Resource Governance Council",
+      "category": "Civilization",
+      "description": "First Planetary Resource Governance Council Is Established creates new governance, peace, rights, and planetary resource institutions needed for an abundance society.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2083,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "First Planetary Resource Governance Council Is Established becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Governance expands beyond nation-by-nation crisis response",
+        "Rights frameworks adapt to AI and advanced systems",
+        "Global institutions coordinate resources, peace, and public infrastructure"
+      ],
+      "implications": [
+        "Civilization becomes more coordinated at planetary scale",
+        "Political systems adapt to abundance and automation",
+        "Humanity gains institutions for planetary transformation"
+      ],
+      "image": {
+        "alt": "First Planetary Resource Governance Council Is Established",
+        "prompts": [
+          "first Planetary Resource Governance Council Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Planetary Resource Governance Council Is Established, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Planetary Resource Governance Council Is Established, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Planetary Resource Governance Council Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-first-planetary-resource-governance-council-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-first-planetary-resource-governance-council-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-first-planetary-resource-governance-council-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-03-human-development-index-reaches-historical-high-across-most-nations",
+      "order": 50,
+      "slug": "human-development-index-reaches-historical-high-across-most-nations",
+      "title": "human Development Index Reaches Historical High Across Most Nations",
+      "shortTitle": "Human Development Index Historical",
+      "category": "Civilization",
+      "description": "Human Development Index Reaches Historical High Across Most Nations creates new governance, peace, rights, and planetary resource institutions needed for an abundance society.",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "post-scarcity-foundation",
+      "timeframe": {
+        "startYear": 2084,
+        "endYear": 2085
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "Human Development Index Reaches Historical High Across Most Nations becomes a defining milestone of post-scarcity foundations, helping humanity transition from scarcity-based systems toward abundance, resilience, and universal access.",
+      "signals": [
+        "Governance expands beyond nation-by-nation crisis response",
+        "Rights frameworks adapt to AI and advanced systems",
+        "Global institutions coordinate resources, peace, and public infrastructure"
+      ],
+      "implications": [
+        "Civilization becomes more coordinated at planetary scale",
+        "Political systems adapt to abundance and automation",
+        "Humanity gains institutions for planetary transformation"
+      ],
+      "image": {
+        "alt": "Human Development Index Reaches Historical High Across Most Nations",
+        "prompts": [
+          "human Development Index Reaches Historical High Across Most Nations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Development Index Reaches Historical High Across Most Nations, post-scarcity foundations with universal services, fusion energy, clean water, advanced medicine, low-cost housing, and AI-managed public infrastructure, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Development Index Reaches Historical High Across Most Nations, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Development Index Reaches Historical High Across Most Nations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-03/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-03/mobile/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-03/thumbnail/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-03/desktop/era-03-human-development-index-reaches-historical-high-across-most-nations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-03/open_graph/era-03-human-development-index-reaches-historical-high-across-most-nations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

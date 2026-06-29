@@ -1,4 +1,3 @@
-
 // ILanguageOption.ts
 export interface ILanguageOption {
     language: string;
@@ -11,12 +10,12 @@ export interface ILanguageOption {
 export interface ILanguageOptions {
     en: ILanguageOption,
     th: ILanguageOption,
-    fr: ILanguageOption,
-    ja: ILanguageOption,
     zh: ILanguageOption,
-    de: ILanguageOption,
-    nl: ILanguageOption,
-    da: ILanguageOption,
-    fi: ILanguageOption,
+    ja: ILanguageOption,
     ko: ILanguageOption,
+    id: ILanguageOption,
+    de: ILanguageOption,
+    fr: ILanguageOption,
+    ru: ILanguageOption,
+    vi: ILanguageOption,
 }

@@ -6,6 +6,7 @@ export interface ISmartFoodAiContentImage {
   mobile?: PlatformResponsiveImageVariant;
   thumbnail?: PlatformResponsiveImageVariant;
   desktop?: PlatformResponsiveImageVariant;
+  open_graph?: PlatformResponsiveImageVariant;
 }
 
 export interface ISmartFoodAiAction {
@@ -22,11 +23,6 @@ export interface ISmartFoodAiWorkflowStep {
 
 export interface ISmartFoodAiProofCard {
   index: string;
-  title: string;
-  text: string;
-}
-
-export interface ISmartFoodAiValueCard {
   title: string;
   text: string;
 }
@@ -70,11 +66,6 @@ export interface ISmartFoodAiContent {
   features: {
     heading: ISmartFoodAiSectionHeading;
     items: string[];
-  };
-  value: {
-    id: string;
-    heading: ISmartFoodAiSectionHeading;
-    cards: ISmartFoodAiValueCard[];
   };
   futureDirections: string[];
 }

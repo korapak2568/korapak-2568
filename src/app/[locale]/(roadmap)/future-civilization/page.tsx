@@ -1,15 +1,23 @@
 import type { Metadata } from "next";
-import { headers } from "next/headers";
 import FutureCivilizationRoadmapPage from "@/components/FutureCivilization/FutureCivilizationRoadmapPage";
-import { getFutureCivilizationMetadata } from "@/lib/platform-content/futureRoadmapContent";
+import { getFutureCivilizationMetadata } from "@/lib/metadata/futureCivilizationMetadata";
 
-export async function generateMetadata(): Promise<Metadata> {
-  return getFutureCivilizationMetadata();
+type PageParams = {
+  params: Promise<{
+    locale: string;
+  }>;
+};
+
+export async function generateMetadata({
+  params,
+}: PageParams): Promise<Metadata> {
+  const { locale } = await params;
+
+  return getFutureCivilizationMetadata(locale);
 }
 
-export default async function Page() {
-  const headersList = await headers();
-  const lang = headersList.get("x-locale") || "en";
+export default async function Page({ params }: PageParams) {
+  const { locale } = await params;
 
-  return <FutureCivilizationRoadmapPage lang={lang} />;
+  return <FutureCivilizationRoadmapPage lang={locale} />;
 }

@@ -8,7 +8,6 @@ import {
 } from "@/core/domain/smart-food-ai-content.entity";
 import {SmartFoodAiContentService} from "@/core/services/smart-food-ai-content.service";
 import {SmartFoodAiContentRepository} from "@/adapters/outbound/mongo.repository/smart-food-ai-content.repository";
-import {loadLocalizedContentWithFallback} from "@/lib/localized-content/localizedContentFallback";
 import {getSmartFoodAiStaticFallback} from "@/lib/smart-food-content/smartFoodStaticFallback";
 import {hydratePlatformImageVariants} from "@/lib/platform-content/platformImageVariants";
 
@@ -20,7 +19,6 @@ const REQUIRED_SMART_FOOD_AI_CONTENT_FIELDS = [
     'proof',
     'workflow',
     'features',
-    'value',
     'futureDirections',
 ] as const;
 const REQUIRED_SMART_FOOD_AI_METADATA_FIELDS = [
@@ -64,8 +62,8 @@ function assertCompleteSmartFoodAiContent(
         throw new Error(`Smart Food AI content is incomplete for locale "${locale}". Missing fields: workflow.steps`);
     }
 
-    if (!Array.isArray(databaseContent.features?.items) || !Array.isArray(databaseContent.value?.cards)) {
-        throw new Error(`Smart Food AI content is incomplete for locale "${locale}". Missing fields: features/items or value/cards`);
+    if (!Array.isArray(databaseContent.features?.items)) {
+        throw new Error(`Smart Food AI content is incomplete for locale "${locale}". Missing fields: features.items`);
     }
 
     return databaseContent as SmartFoodAiContentPayload;
@@ -96,13 +94,7 @@ export async function getSmartFoodAiContent(locale: string): Promise<SmartFoodAi
 
 export async function getSmartFoodAiContentForPublicPage(locale: string): Promise<SmartFoodAiContentPayload> {
     const normalizedLocale = normalizeSmartFoodAiContentLocale(locale);
-
-    const content = await loadLocalizedContentWithFallback({
-        locale: normalizedLocale,
-        context: 'Smart Food AI content public render',
-        load: getSmartFoodAiContent,
-        fallback: () => getSmartFoodAiStaticFallback(normalizedLocale),
-    });
+    const content = getSmartFoodAiStaticFallback(normalizedLocale);
 
     return hydratePlatformImageVariants(content);
 }

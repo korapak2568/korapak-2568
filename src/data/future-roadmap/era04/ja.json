@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-04",
+    "order": 4,
+    "slug": "planetary-transformation",
+    "title": "惑星変革",
+    "subtitle": "地球は修復され、管理され、意識的に守られる惑星になる",
+    "description": "この時代は、気候修復、生態系の再生、循環型製造、自律インフラ、AI管理都市、海洋への拡張、そして高度な人間支援システムを通じて、人類が地球そのものを変革していく段階を描く。",
+    "timeframe": {
+      "label": "惑星変革",
+      "startYear": 2078,
+      "endYear": 2115,
+      "certainty": "speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "restorative",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 4：惑星変革 | Future Civilization Roadmap",
+      "metaDescription": "気候修復された砂漠、人工サンゴ礁、世界的な再野生化回廊、AI設計都市、ゼロ廃棄物製造、核融合駆動の食料システムを通じた惑星変革を探る。",
+      "keywords": [
+        "惑星変革",
+        "気候修復",
+        "再野生化回廊",
+        "AI都市",
+        "未来文明ロードマップ"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-04-first-climate-restored-desert-zone-becomes-habitable",
+      "order": 1,
+      "slug": "first-climate-restored-desert-zone-becomes-habitable",
+      "title": "気候修復された最初の砂漠地帯が居住可能になる",
+      "shortTitle": "修復された砂漠地帯",
+      "category": "Environment",
+      "description": "大規模な気候修復、水システム、土壌再生、日陰インフラ、生態設計により、かつて過酷だった砂漠地帯が安定した居住可能地域へと変わる。",
+      "layerId": "civilization",
+      "domains": [
+        "climate-restoration",
+        "water",
+        "ecological-engineering"
+      ],
+      "maturity": "regional-demonstration",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2100
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "人類は損傷した環境を地域規模で修復できることを証明し、気候適応を能動的な惑星修復へと変えていく。",
+      "signals": [
+        "大気中水分の回収と淡水化が乾燥地域の居住地を支える",
+        "AI気候モデルが微気候の修復を導く",
+        "再生された土壌と乾燥適応型の生態系が自立する"
+      ],
+      "implications": [
+        "気候ストレス地域に新たな居住可能地が生まれる",
+        "砂漠化による移住圧力が低下する",
+        "惑星修復プロジェクトへの信頼が高まる"
+      ],
+      "image": {
+        "alt": "気候修復された砂漠地帯が居住可能な緑の地域へ変わる様子",
+        "prompts": [
+          "Former desert transformed into a habitable green region with restored soils, water channels, shaded settlements, and clean climate infrastructure, optimistic documentary realism, 16:9",
+          "Wide aerial view of a climate-restored desert zone with vegetation corridors, solar-fusion water systems, and sustainable homes, clean futuristic style, 16:9",
+          "Scientists and local residents monitoring a restored desert ecosystem with atmospheric water towers and new wetlands, hopeful planetary repair, 16:9",
+          "Before-and-after inspired scene of dry desert edge becoming fertile through ecological engineering and AI climate restoration, realistic future documentary, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-first-climate-restored-desert-zone-becomes-habitable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-first-climate-restored-desert-zone-becomes-habitable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-climate-restored-desert-zone-becomes-habitable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-artificial-coral-reef-networks-restore-marine-biodiversity",
+      "order": 2,
+      "slug": "artificial-coral-reef-networks-restore-marine-biodiversity",
+      "title": "人工サンゴ礁ネットワークが海洋生物多様性を回復する",
+      "shortTitle": "人工サンゴ礁",
+      "category": "Environment",
+      "description": "工学的に設計された礁構造、耐熱性サンゴ、海洋ロボット、生態モニタリングが、損傷したサンゴ礁システムを再建し沿岸の海洋生物多様性を回復する。",
+      "layerId": "technology",
+      "domains": [
+        "ocean-restoration",
+        "biotechnology",
+        "marine-ecology"
+      ],
+      "maturity": "ecosystem-scale-deployment",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2098
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "海洋修復は目に見え、測定可能な取り組みとなり、漁業、海岸線、観光、海洋生物を長期的な崩壊から守る。",
+      "signals": [
+        "ロボット礁建設機がモジュール式のサンゴ生息地を展開する",
+        "耐熱性サンゴ系統が繰り返す温暖化イベントを生き延びる",
+        "海洋生物多様性ダッシュボードが種の回復を追跡する"
+      ],
+      "implications": [
+        "沿岸生態系が回復する",
+        "魚類資源と食料安全保障が強化される",
+        "工学的海洋生息地に関する新しい倫理枠組みが必要になる"
+      ],
+      "image": {
+        "alt": "海洋生物多様性を回復する人工サンゴ礁ネットワーク",
+        "prompts": [
+          "Artificial coral reef network glowing with restored marine biodiversity, robotic reef builders and colorful fish, realistic underwater documentary, 16:9",
+          "Marine scientists monitoring engineered coral reefs from an underwater research station, clear blue water, hopeful ocean restoration future, 16:9",
+          "Autonomous reef drones placing modular coral structures across a damaged reef zone, cinematic ecological repair, 16:9",
+          "Wide underwater view of restored coral corridors reconnecting marine habitats with diverse sea life returning, clean futuristic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-artificial-coral-reef-networks-restore-marine-biodiversity.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-global-rewilding-corridors-reconnect-continents",
+      "order": 3,
+      "slug": "global-rewilding-corridors-reconnect-continents",
+      "title": "世界的な再野生化回廊が大陸を再接続する",
+      "shortTitle": "世界的な再野生化回廊",
+      "category": "Environment",
+      "description": "保護された生態回廊、野生動物の横断路、修復された森林、AIによる生物多様性計画が、移動する種と回復する生態系のために大陸を横断して生息地を再接続する。",
+      "layerId": "civilization",
+      "domains": [
+        "biodiversity",
+        "ecological-restoration",
+        "planetary-infrastructure"
+      ],
+      "maturity": "continental-network",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2105
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "人間のインフラは自然を分断するのではなく自然と協調し始め、生態系が大陸規模で回復できるようになる。",
+      "signals": [
+        "政府が国境を越えた生息地回廊を協調して整備する",
+        "AIモデルが重要な生物多様性の経路を特定する",
+        "回廊の再接続後、野生動物の個体群が回復する"
+      ],
+      "implications": [
+        "絶滅圧力が低下する",
+        "国境を越えて生態系が健全化する",
+        "人々、農地、野生生物のバランスを取る新たな土地利用合意が生まれる"
+      ],
+      "image": {
+        "alt": "大陸を横断して野生動物の生息地を再接続する世界的な再野生化回廊",
+        "prompts": [
+          "Aerial view of global rewilding corridor crossing forests, farms, roads, and wildlife bridges, animals migrating safely, optimistic documentary realism, 16:9",
+          "Continental wildlife corridor with green bridges over highways and restored forest bands connecting protected habitats, clean future ecology, 16:9",
+          "AI biodiversity control center monitoring rewilding corridors across continents, maps of animal movement and ecosystem health, 16:9",
+          "Elephants, deer, birds, and pollinators moving through restored habitat corridors beside human settlements, peaceful planetary transformation, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-global-rewilding-corridors-reconnect-continents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-global-rewilding-corridors-reconnect-continents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-rewilding-corridors-reconnect-continents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure",
+      "order": 4,
+      "slug": "real-time-planetary-environmental-dashboard-becomes-public-infrastructure",
+      "title": "リアルタイムの惑星環境ダッシュボードが公共インフラになる",
+      "shortTitle": "惑星ダッシュボード",
+      "category": "AI & Computing",
+      "description": "地球規模の環境センシングが公共インフラとなり、大気、水、生物多様性、土壌、炭素、海洋、気候の状態を市民と機関にリアルタイムで示す。",
+      "layerId": "civilization",
+      "domains": [
+        "planetary-monitoring",
+        "public-infrastructure",
+        "climate"
+      ],
+      "maturity": "public-infrastructure",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2095
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "環境への説明責任が透明かつリアルタイムになり、政策、市場、教育、惑星スチュワードシップへの市民参加を変えていく。",
+      "signals": [
+        "衛星、センサー、ドローン、海洋システムが共有環境データを供給する",
+        "公共ダッシュボードが信頼される市民インフラになる",
+        "地方政府が予算を生態パフォーマンス指標に結びつける"
+      ],
+      "implications": [
+        "環境被害への対応が速くなる",
+        "修復の進捗に対する公共の信頼が高まる",
+        "測定可能な惑星スチュワードシップへの政治的圧力が強まる"
+      ],
+      "image": {
+        "alt": "地球システムの健康状態を示す公共リアルタイム惑星環境ダッシュボード",
+        "prompts": [
+          "Public real-time planetary environmental dashboard displayed in a civic plaza, citizens viewing Earth systems health data, clean futuristic documentary, 16:9",
+          "Planetary monitoring command center with live maps of air, water, biodiversity, oceans, and climate conditions, optimistic science infrastructure, 16:9",
+          "Schoolchildren and community leaders using a transparent Earth dashboard to understand local environmental health, hopeful civic future, 16:9",
+          "Satellite and sensor network visualized around Earth feeding a public environmental dashboard, clean planetary stewardship scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-real-time-planetary-environmental-dashboard-becomes-public-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions",
+      "order": 5,
+      "slug": "large-scale-atmospheric-water-harvesting-supports-dry-regions",
+      "title": "大規模な大気水回収が乾燥地域を支える",
+      "shortTitle": "大気水回収",
+      "category": "Environment",
+      "description": "豊富なクリーンエネルギーで動く大気水回収装置が空気中の水分を捕集し、乾燥地域に強靭な淡水供給をもたらす。",
+      "layerId": "technology",
+      "domains": [
+        "water",
+        "climate-adaptation",
+        "infrastructure"
+      ],
+      "maturity": "regional-scale-deployment",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2095
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "乾燥地域のレジリエンスが高まり、干ばつへの脆弱性が低下し、居住、農業、修復の可能性が広がる。",
+      "signals": [
+        "高効率の水回収が乾燥気候でも機能する",
+        "核融合と太陽光のハイブリッドグリッドが大気水システムを動かす",
+        "地域の水ネットワークが回収水、淡水化、リサイクル水を組み合わせる"
+      ],
+      "implications": [
+        "乾燥地域のコミュニティがより安定する",
+        "枯渇した帯水層への依存が低下する",
+        "乾燥地での気候修復が拡大する"
+      ],
+      "image": {
+        "alt": "乾燥地域に水を供給する大規模な大気水回収タワー",
+        "prompts": [
+          "Large-scale atmospheric water harvesting towers in a dry region supplying clean water to farms and settlements, optimistic documentary realism, 16:9",
+          "Desert community supported by elegant atmospheric water infrastructure, reservoirs, gardens, and clean energy systems, bright future scene, 16:9",
+          "Engineers monitoring moisture capture arrays at sunrise in an arid landscape, clean climate-adaptation technology, 16:9",
+          "Regional water network combining atmospheric harvesters, storage lakes, and restored dryland ecosystems, realistic planetary transformation, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-large-scale-atmospheric-water-harvesting-supports-dry-regions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-zero-waste-manufacturing-becomes-the-global-standard",
+      "order": 6,
+      "slug": "zero-waste-manufacturing-becomes-the-global-standard",
+      "title": "ゼロ廃棄物製造が世界標準になる",
+      "shortTitle": "ゼロ廃棄物製造",
+      "category": "Materials & Manufacturing",
+      "description": "工場は循環型材料、ロボットによる分解、デジタル製品パスポート、部品と廃棄物のほぼ完全な回収を前提に再設計される。",
+      "layerId": "technology",
+      "domains": [
+        "manufacturing",
+        "circular-economy",
+        "automation"
+      ],
+      "maturity": "global-standard",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2100
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "産業成長は汚染や採掘への依存から離れ、社会は生態系を圧倒せずに豊かさを維持できるようになる。",
+      "signals": [
+        "製品パスポートが材料の由来、修理可能性、回収性を追跡する",
+        "工場は廃棄物を標準的に原料として扱う",
+        "主要産業に循環型設計を義務づける世界標準が整備される"
+      ],
+      "implications": [
+        "埋立と産業汚染が減少する",
+        "消費財による資源圧力が低下する",
+        "再利用、修理、材料インテリジェンスを中心とした新たな製造雇用が生まれる"
+      ],
+      "image": {
+        "alt": "循環型材料エコシステムとして稼働するゼロ廃棄物製造施設",
+        "prompts": [
+          "Zero-waste manufacturing facility with robotic disassembly, circular material flows, and clean production lines, futuristic documentary realism, 16:9",
+          "Factory floor where every material stream is recovered and reused through transparent circular economy systems, clean industrial future, 16:9",
+          "Engineers reviewing digital product passports and material recovery dashboards in a zero-waste factory, optimistic technology scene, 16:9",
+          "Consumer products being disassembled by robots and rebuilt into new goods without waste, bright circular manufacturing system, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-zero-waste-manufacturing-becomes-the-global-standard.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-zero-waste-manufacturing-becomes-the-global-standard.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-zero-waste-manufacturing-becomes-the-global-standard.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-universal-biodegradable-polymers-replace-plastic",
+      "order": 7,
+      "slug": "universal-biodegradable-polymers-replace-plastic",
+      "title": "汎用生分解性ポリマーがプラスチックを置き換える",
+      "shortTitle": "生分解性ポリマー",
+      "category": "Materials & Manufacturing",
+      "description": "高度な生分解性ポリマーが、性能を犠牲にせず包装、繊維、消費財、産業用途で従来のプラスチックを置き換える。",
+      "layerId": "technology",
+      "domains": [
+        "materials-science",
+        "chemistry",
+        "pollution-reduction"
+      ],
+      "maturity": "global-replacement",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2098
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "日常材料が生物システムや循環システムと両立するようになり、プラスチック汚染は急速に減少する。",
+      "signals": [
+        "新しいポリマーがプラスチック並みの耐久性を持ちながら制御条件下で安全に分解する",
+        "世界的な禁止措置が残留性プラスチックの代替を加速する",
+        "メーカーが堆肥化可能でリサイクル可能な材料標準を採用する"
+      ],
+      "implications": [
+        "海洋と土壌のプラスチック汚染が低下する",
+        "包装と繊維のサプライチェーンがより清潔になる",
+        "安全な材料分解を保証する新たな認証制度が生まれる"
+      ],
+      "image": {
+        "alt": "従来のプラスチックを世界の製品で置き換える生分解性ポリマー材料",
+        "prompts": [
+          "Advanced biodegradable polymer products replacing conventional plastic in a clean modern store, material labels and sustainable packaging, realistic future, 16:9",
+          "Materials science lab testing high-performance biodegradable polymers with transparent samples and green chemistry systems, clean documentary style, 16:9",
+          "Ocean cleanup transition scene showing biodegradable materials and reduced plastic pollution along a restored coastline, optimistic environmental future, 16:9",
+          "Factory producing universal biodegradable polymers for packaging, textiles, and consumer goods, circular economy atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-universal-biodegradable-polymers-replace-plastic.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-universal-biodegradable-polymers-replace-plastic.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-universal-biodegradable-polymers-replace-plastic.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-ocean-farming-produces-a-major-share-of-global-protein",
+      "order": 8,
+      "slug": "ocean-farming-produces-a-major-share-of-global-protein",
+      "title": "海洋農業が世界のタンパク質の大きな割合を生産する",
+      "shortTitle": "海洋タンパク質農業",
+      "category": "Environment",
+      "description": "持続可能な海洋農場が魚介類、藻類、培養海洋タンパク質を大規模に生産し、生態系を守りながら陸地への圧力を軽減する。",
+      "layerId": "civilization",
+      "domains": [
+        "food-systems",
+        "ocean-farming",
+        "climate-technology"
+      ],
+      "maturity": "major-global-supply",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2105
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "食料システムは陸上農業を超えて多様化し、タンパク質安全保障を高める一方で、より多くの陸上生態系の回復を可能にする。",
+      "signals": [
+        "自動化された海洋農場が生態影響をリアルタイムで監視する",
+        "藻類と海洋タンパク質システムがコスト競争力を持つ",
+        "再生型養殖基準が生物多様性を保護する"
+      ],
+      "implications": [
+        "世界のタンパク質供給がより強靭になる",
+        "土地と淡水への圧力が低下する",
+        "海洋コモンズの統治に新たな課題が生まれる"
+      ],
+      "image": {
+        "alt": "世界のタンパク質の大きな割合を生産する持続可能な海洋農業ネットワーク",
+        "prompts": [
+          "Sustainable ocean farming network producing algae, shellfish, and fish protein with autonomous monitoring drones, clean futuristic documentary, 16:9",
+          "Floating regenerative aquaculture city with marine farms, research vessels, and biodiversity protection zones, optimistic ocean future, 16:9",
+          "Workers and robots harvesting ocean-grown protein from clean offshore farms under ecological monitoring, realistic future scene, 16:9",
+          "Aerial view of large ocean farming grids integrated with wildlife corridors and clean energy platforms, planetary food system, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-ocean-farming-produces-a-major-share-of-global-protein.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-ocean-farming-produces-a-major-share-of-global-protein.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ocean-farming-produces-a-major-share-of-global-protein.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-first-undersea-city-project-completed",
+      "order": 9,
+      "slug": "first-undersea-city-project-completed",
+      "title": "最初の海底都市プロジェクトが完成する",
+      "shortTitle": "海底都市",
+      "category": "Materials & Manufacturing",
+      "description": "恒久的な海底都市が、海面下での安全な長期居住、海洋研究、海洋農業、観光、生態モニタリングを実証する。",
+      "layerId": "civilization",
+      "domains": [
+        "ocean-infrastructure",
+        "urban-development",
+        "marine-science"
+      ],
+      "maturity": "first-completed-city",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "人類の居住圏はより統合された形で海へ広がり、居住と海洋スチュワードシップ、研究を結びつける。",
+      "signals": [
+        "耐圧居住区が長期居住者を支える",
+        "海底都市が海洋農場や研究ステーションと接続する",
+        "海洋保護ルールが居住設計を形づくる"
+      ],
+      "implications": [
+        "海洋居住の新しいモデルが生まれる",
+        "海洋科学と生態系モニタリングが拡大する",
+        "海洋領域と生態的限界をめぐる議論が高まる"
+      ],
+      "image": {
+        "alt": "居住区と海洋研究システムを備えた完成済みの最初の海底都市",
+        "prompts": [
+          "First completed undersea city with transparent habitats, marine research labs, ocean farms, and coral restoration around it, realistic documentary, 16:9",
+          "Interior of an undersea city looking out at marine life through panoramic windows, calm futuristic civilization scene, 16:9",
+          "Submersible vehicles approaching a beautiful undersea city integrated with ecological monitoring systems, cinematic realism, 16:9",
+          "Undersea urban habitat connected to algae farms and coral restoration zones, hopeful ocean civilization future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-first-undersea-city-project-completed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-first-undersea-city-project-completed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-first-undersea-city-project-completed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-first-undersea-city-project-completed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-undersea-city-project-completed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-ai-designed-cities-reduce-energy-use-by-90",
+      "order": 10,
+      "slug": "ai-designed-cities-reduce-energy-use-by-90",
+      "title": "AI設計都市がエネルギー使用を90%削減する",
+      "shortTitle": "AI設計都市",
+      "category": "Materials & Manufacturing",
+      "description": "AI計画システムが建物、交通、エネルギーフロー、気候制御、水利用、物流、公共空間を最適化し、超高効率都市を生み出す。",
+      "layerId": "technology",
+      "domains": [
+        "artificial-intelligence",
+        "smart-cities",
+        "energy-efficiency"
+      ],
+      "maturity": "city-scale-adoption",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2100
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "都市文明は劇的に効率化し、快適性、移動性、レジリエンスを高めながらエネルギー需要を削減する。",
+      "signals": [
+        "都市デジタルツインが建設前にインフラを最適化する",
+        "建物がエネルギー貯蔵と需要をリアルタイムで協調させる",
+        "AI都市計画が不要な移動と熱ストレスを減らす"
+      ],
+      "implications": [
+        "都市の排出と運営コストが低下する",
+        "公共空間がより快適で強靭になる",
+        "アルゴリズムによる都市計画に新たな統治が必要になる"
+      ],
+      "image": {
+        "alt": "最適化された建物とインフラによりエネルギー使用を削減するAI設計都市",
+        "prompts": [
+          "AI-designed city with ultra-efficient buildings, shaded streets, autonomous transit, and clean energy flows, optimistic futuristic documentary, 16:9",
+          "City digital twin interface optimizing energy, water, transport, and climate comfort across an urban district, clean civic technology, 16:9",
+          "Aerial view of an AI-planned city with green corridors, passive cooling towers, and integrated transit reducing energy use, 16:9",
+          "Residents enjoying a beautiful low-energy city designed by AI for comfort, resilience, and public life, realistic future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-ai-designed-cities-reduce-energy-use-by-90.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-ai-designed-cities-reduce-energy-use-by-90.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-designed-cities-reduce-energy-use-by-90.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-first-self-governing-ai-managed-city-recognized-legally",
+      "order": 11,
+      "slug": "first-self-governing-ai-managed-city-recognized-legally",
+      "title": "最初の自律統治型AI管理都市が法的に認められる",
+      "shortTitle": "AI管理都市",
+      "category": "Civilization",
+      "description": "民主的ルールの下で運営される都市が、AIシステムにインフラ、サービス、予算、計画の管理を認め、法的枠組みが説明責任と権利を定義する。",
+      "layerId": "society",
+      "domains": [
+        "governance",
+        "artificial-intelligence",
+        "smart-cities"
+      ],
+      "maturity": "legal-recognition",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "公共行政が部分的に自律化しながら法的説明責任を持つことで、市民、政府、AIの関係が変化する。",
+      "signals": [
+        "市民がAI管理都市の憲章を承認する",
+        "監査可能な公共AIシステムがサービス最適化を担う",
+        "法制度がAIの市民的判断に対する責任を定義する"
+      ],
+      "implications": [
+        "公共行政がより速く適応的になる",
+        "民主的監督の新しいモデルが生まれる",
+        "自律性、正統性、人間の権限をめぐる激しい議論が起こる"
+      ],
+      "image": {
+        "alt": "市民監督を備えた法的に認められた自律統治型AI管理都市",
+        "prompts": [
+          "Self-governing AI-managed city hall where citizens review transparent AI decisions and vote on civic rules, clean futuristic documentary, 16:9",
+          "AI-managed city operations center coordinating public services with legal accountability dashboards, optimistic governance future, 16:9",
+          "Public square in a legally recognized AI-managed city with residents, autonomous services, and transparent civic interfaces, realistic future, 16:9",
+          "Council chamber where humans and AI governance systems collaborate under a city charter, calm democratic atmosphere, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-first-self-governing-ai-managed-city-recognized-legally.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-first-self-governing-ai-managed-city-recognized-legally.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-self-governing-ai-managed-city-recognized-legally.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work",
+      "order": 12,
+      "slug": "fully-autonomous-mining-removes-humans-from-dangerous-extraction-work",
+      "title": "完全自律採掘が危険な採掘作業から人間を外す",
+      "shortTitle": "自律採掘",
+      "category": "Robotics",
+      "description": "採掘作業は完全にロボット化され、人間を危険な環境から遠ざけながら、精度、安全性、環境モニタリングを高める。",
+      "layerId": "technology",
+      "domains": [
+        "mining",
+        "robotics",
+        "industrial-safety"
+      ],
+      "maturity": "fully-autonomous-operations",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2098
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "最も危険な労働の一つが機械によって運営され、負傷を減らす一方で、社会は採掘をより慎重に統治する必要に迫られる。",
+      "signals": [
+        "ロボット群が地下鉱山や遠隔鉱山を人間不在で運営する",
+        "AIシステムが生態影響を監視しながら採掘を最適化する",
+        "元鉱山労働者が遠隔監督と修復役割へ移行する"
+      ],
+      "implications": [
+        "採掘作業での死亡と負傷が減る",
+        "採掘の透明性への要求が高まる",
+        "採掘後の生態修復に新たな焦点が当たる"
+      ],
+      "image": {
+        "alt": "危険区域に人間がいないロボットによる完全自律採掘作業",
+        "prompts": [
+          "Fully autonomous mining operation with robotic vehicles and drones working in dangerous terrain while humans supervise remotely, realistic industrial documentary, 16:9",
+          "Underground mine operated entirely by robots with environmental sensors and safety systems, clean high-tech extraction scene, 16:9",
+          "Remote mining control center where former miners supervise autonomous fleets from a safe location, human-centered transition, 16:9",
+          "Robotic mining machines extracting minerals precisely with ecological monitoring and restoration systems nearby, futuristic realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-fully-autonomous-mining-removes-humans-from-dangerous-extraction-work.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-household-robots-become-as-common-as-smartphones",
+      "order": 13,
+      "slug": "household-robots-become-as-common-as-smartphones",
+      "title": "家庭用ロボットがスマートフォン並みに普及する",
+      "shortTitle": "一般的な家庭用ロボット",
+      "category": "Robotics",
+      "description": "手頃な価格の汎用家庭用ロボットが、掃除、調理、持ち上げ、保守、介護、防犯、日常の家事を支援する。",
+      "layerId": "society",
+      "domains": [
+        "robotics",
+        "consumer-technology",
+        "home-life"
+      ],
+      "maturity": "mass-adoption",
+      "timeframe": {
+        "startYear": 2078,
+        "endYear": 2095
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "身体的支援が広く利用可能になり、家族、高齢者、障害のある人々を支えながら、日常生活と時間の使い方が変わる。",
+      "signals": [
+        "家庭用ロボットが消費者向け価格帯に到達する",
+        "ロボットが多様な家庭環境を安全に扱えるようになる",
+        "家庭AIがスケジュール、ケア、保守、防犯を統合する"
+      ],
+      "implications": [
+        "家事労働の負担が軽くなる",
+        "家庭内プライバシーに新たな規範が生まれる",
+        "多くの家庭で自立性が高まる"
+      ],
+      "image": {
+        "alt": "日常の家庭生活で家族を支援する家庭用ロボット",
+        "prompts": [
+          "Household robot helping a family with cooking and cleaning in a warm modern home, realistic optimistic future, 16:9",
+          "Affordable home robot assisting an elderly person, a child, and parents with everyday domestic tasks, respectful documentary style, 16:9",
+          "Apartment building where many households use friendly general-purpose robots like common appliances, clean future society, 16:9",
+          "Close-up of a household robot organizing groceries and checking home maintenance systems, human-centered robotics scene, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-household-robots-become-as-common-as-smartphones.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-household-robots-become-as-common-as-smartphones.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-household-robots-become-as-common-as-smartphones.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-personal-ai-companions-become-legally-recognized-care-assistants",
+      "order": 14,
+      "slug": "personal-ai-companions-become-legally-recognized-care-assistants",
+      "title": "個人AIコンパニオンが法的に認められたケア支援者になる",
+      "shortTitle": "AIケアコンパニオン",
+      "category": "Civilization",
+      "description": "個人AIコンパニオンは、感情的支援、高齢者ケア、障害支援、日常生活の調整を行う監督付きケア支援者として法的認定を受ける。",
+      "layerId": "society",
+      "domains": [
+        "artificial-intelligence",
+        "caregiving",
+        "law"
+      ],
+      "maturity": "legal-recognition",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2100
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "ケアは人間だけのシステムを超えて広がり、生活の質を高める一方で、社会はAIコンパニオンの同意、説明責任、感情的安全性を定義する必要がある。",
+      "signals": [
+        "AIコンパニオンが規制されたケア支援者認証を通過する",
+        "医療システムがコンパニオンAIをケア計画に統合する",
+        "法律が助言、監視、感情的影響の境界を定義する"
+      ],
+      "implications": [
+        "孤立した人や脆弱な人への支援が増える",
+        "ケアを受ける人の新たな権利と保護措置が必要になる",
+        "AIとの関係への依存をめぐる倫理的議論が生まれる"
+      ],
+      "image": {
+        "alt": "ケア支援者として法的に認められた個人AIコンパニオン",
+        "prompts": [
+          "Personal AI companion assisting an older adult with daily care in a peaceful home, legal care dashboard visible, realistic optimistic future, 16:9",
+          "Doctor, family member, and AI care companion coordinating support for a patient through transparent consent settings, clean healthcare scene, 16:9",
+          "Public certification center for AI care companions with safety and accountability standards, civic technology documentary, 16:9",
+          "Friendly AI companion interface helping a disabled person plan mobility, medication, and communication support, respectful human-centered future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-personal-ai-companions-become-legally-recognized-care-assistants.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-personal-ai-companions-become-legally-recognized-care-assistants.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-personal-ai-companions-become-legally-recognized-care-assistants.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-most-physical-jobs-become-optional",
+      "order": 15,
+      "slug": "most-physical-jobs-become-optional",
+      "title": "ほとんどの身体労働が任意になる",
+      "shortTitle": "任意の身体労働",
+      "category": "Society & Economy",
+      "description": "ロボット、自動化、豊富なサービスにより、危険で反復的、または消耗の激しい身体労働の多くは、生存のための経済的必要ではなく任意の選択になる。",
+      "layerId": "society",
+      "domains": [
+        "automation",
+        "labor",
+        "post-scarcity"
+      ],
+      "maturity": "societal-transition",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "身体労働は必要性ではなく、選択、職人技、サービス、探究、ケア、創造性へと変わり、仕事の意味そのものが変化する。",
+      "signals": [
+        "ロボットが物流、清掃、農業、建設の反復作業の大半を担う",
+        "普遍的サービスが危険な雇用への依存を減らす",
+        "人々は生存のためではなく目的、技能、共同体のために身体労働を選ぶ"
+      ],
+      "implications": [
+        "労働アイデンティティが大きく移行する",
+        "教育、ケア、芸術、市民活動により多くの時間が使える",
+        "仕事の必要性を超えた新しい社会的地位システムが必要になる"
+      ],
+      "image": {
+        "alt": "ロボットが身体労働を行い、人々が創造的で共同体的な仕事を選ぶ様子",
+        "prompts": [
+          "Robots performing heavy physical labor while people choose creative, care, and community work in a post-scarcity city, optimistic documentary, 16:9",
+          "Automated construction, farming, and logistics systems operating safely while humans supervise or pursue voluntary craft work, clean future society, 16:9",
+          "Community workshop where people do physical work by choice alongside robots, warm human-centered civilization scene, 16:9",
+          "Public plaza showing a society where machines handle exhausting labor and people focus on learning, art, and care, realistic future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-most-physical-jobs-become-optional.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-most-physical-jobs-become-optional.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-most-physical-jobs-become-optional.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-most-physical-jobs-become-optional.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-most-physical-jobs-become-optional.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-neural-prosthetics-restore-sight-hearing-and-touch",
+      "order": 16,
+      "slug": "neural-prosthetics-restore-sight-hearing-and-touch",
+      "title": "神経義肢が視覚・聴覚・触覚を回復する",
+      "shortTitle": "神経義肢",
+      "category": "Biology & Medicine",
+      "description": "高度な神経義肢が神経系に直接接続し、視覚、聴覚、触覚、平衡感覚、精密な感覚フィードバックを回復または再現する。",
+      "layerId": "technology",
+      "domains": [
+        "neurotechnology",
+        "healthcare",
+        "prosthetics"
+      ],
+      "maturity": "routine-clinical-care",
+      "timeframe": {
+        "startYear": 2080,
+        "endYear": 2105
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "感覚障害はますます治療可能になり、人間の自立性を広げ、治療と拡張の境界を再定義する。",
+      "signals": [
+        "神経インターフェースが長期安定した感覚フィードバックを実現する",
+        "クリニックが視覚、聴覚、触覚の統合的回復を提供する",
+        "規制当局が神経データと感覚拡張の標準を定める"
+      ],
+      "implications": [
+        "多くの障害者が自立を取り戻す",
+        "感覚データをめぐる新たなプライバシー課題が生まれる",
+        "人間と機械の感覚統合が拡大する"
+      ],
+      "image": {
+        "alt": "臨床環境で視覚・聴覚・触覚を回復する神経義肢",
+        "prompts": [
+          "Patient using neural prosthetics to regain sight, hearing, and touch in a warm advanced clinic, respectful medical documentary realism, 16:9",
+          "Close-up of a neural prosthetic hand delivering tactile feedback through nerve interfaces, clean future medicine, 16:9",
+          "Doctor calibrating visual and auditory neural prosthetics with transparent sensory maps, hopeful healthcare scene, 16:9",
+          "Rehabilitation room where people test restored sensory feedback with advanced neural prosthetics, optimistic clinical future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-neural-prosthetics-restore-sight-hearing-and-touch.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-neural-prosthetics-restore-sight-hearing-and-touch.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-neural-prosthetics-restore-sight-hearing-and-touch.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-human-organ-printing-becomes-routine",
+      "order": 17,
+      "slug": "human-organ-printing-becomes-routine",
+      "title": "ヒト臓器印刷が日常医療になる",
+      "shortTitle": "日常的な臓器印刷",
+      "category": "Biology & Medicine",
+      "description": "患者に適合した細胞を用いたバイオプリント臓器が移植で日常的に使われるようになり、多くの主要臓器で待機リストと免疫拒絶を減らす。",
+      "layerId": "technology",
+      "domains": [
+        "bioprinting",
+        "healthcare",
+        "regenerative-medicine"
+      ],
+      "maturity": "routine-transplant-care",
+      "timeframe": {
+        "startYear": 2082,
+        "endYear": 2105
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "置換臓器が製造可能で個別化され広く利用できるようになり、臓器不全の致死性は大幅に低下する。",
+      "signals": [
+        "バイオプリンターが血管化された臓器組織を安定して作る",
+        "病院が認証された臓器印刷ユニットを運用する",
+        "患者由来細胞により免疫学的適合が改善する"
+      ],
+      "implications": [
+        "移植待機リストが短縮される",
+        "臓器拒絶リスクが低下する",
+        "製造された生物学をめぐる新たな倫理とアクセスの課題が生まれる"
+      ],
+      "image": {
+        "alt": "患者適合型の移植臓器を作るヒト臓器印刷研究室",
+        "prompts": [
+          "Human organ printing laboratory producing patient-matched organs with advanced bioprinters and medical teams, clean documentary realism, 16:9",
+          "Hospital bioprinting unit preparing a replacement organ inside a sterile transparent chamber, hopeful medical future, 16:9",
+          "Doctors reviewing a printed organ readiness dashboard before transplant, realistic regenerative medicine scene, 16:9",
+          "Close-up of vascularized tissue being bioprinted layer by layer in a high-tech clinic, cinematic medical realism, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-human-organ-printing-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-human-organ-printing-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-human-organ-printing-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-human-organ-printing-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-organ-printing-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-extreme-poverty-falls-below-1-worldwide",
+      "order": 18,
+      "slug": "extreme-poverty-falls-below-1-worldwide",
+      "title": "世界の極度の貧困が1%未満に下がる",
+      "shortTitle": "極度の貧困1%未満",
+      "category": "Society & Economy",
+      "description": "普遍的サービス、豊富なエネルギー、自動化された生産、清潔な水、食料物流、世界的協調により、世界の極度の貧困は1%未満に低下する。",
+      "layerId": "civilization",
+      "domains": [
+        "post-scarcity",
+        "economic-systems",
+        "human-development"
+      ],
+      "maturity": "global-milestone",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "極度の貧困は普通の状態ではなく稀な状態となり、人類文明における大きな道徳的・経済的変革を示す。",
+      "signals": [
+        "普遍的基本サービスがほとんどの国に届く",
+        "AI管理の物流が不足ショックを減らす",
+        "世界の開発指標が生存アクセスから繁栄へと移行する"
+      ],
+      "implications": [
+        "世界の安定と健康が向上する",
+        "生存を超えた尊厳、参加、不平等に焦点が移る",
+        "予防可能な欠乏による圧力が低下する"
+      ],
+      "image": {
+        "alt": "世界の極度の貧困が1%未満になったことを祝う世界的な場面",
+        "prompts": [
+          "Global civic celebration showing communities with clean water, housing, education, and food access as extreme poverty falls below one percent, optimistic documentary realism, 16:9",
+          "World development dashboard showing extreme poverty below one percent while families thrive in diverse regions, clean hopeful future, 16:9",
+          "Village, city, and refugee community transformed by universal services and post-scarcity infrastructure, warm civilization milestone, 16:9",
+          "Public square with people from many cultures celebrating access to basic dignity and opportunity, realistic future society, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-extreme-poverty-falls-below-1-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-extreme-poverty-falls-below-1-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-extreme-poverty-falls-below-1-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence",
+      "order": 19,
+      "slug": "ai-quantum-conflict-simulation-system-ends-nuclear-deterrence",
+      "title": "AI量子紛争シミュレーションシステムが核抑止を終わらせる",
+      "shortTitle": "量子紛争シミュレーション",
+      "category": "AI & Computing",
+      "description": "高度なAIと量子規模のシナリオモデリングにより、各国は結果を検証し、エスカレーションを防ぎ、核抑止を透明な紛争回避システムへ置き換える。",
+      "layerId": "society",
+      "domains": [
+        "governance",
+        "peacebuilding",
+        "quantum-computing"
+      ],
+      "maturity": "global-security-framework",
+      "timeframe": {
+        "startYear": 2088,
+        "endYear": 2115
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "世界安全保障は実存的脅威から検証された緊張緩和へと移行するが、信頼、透明性、統治は依然として重要であり続ける。",
+      "signals": [
+        "主要国が共有エスカレーション・シミュレーション手順を採用する",
+        "検証システムが危機時の不確実性を減らす",
+        "AI支援の条約監視により核兵器が減少する"
+      ],
+      "implications": [
+        "核戦争リスクが低下する",
+        "信頼できるシミュレーションインフラへの依存が新たに生まれる",
+        "紛争透明性のための世界機関が強化される"
+      ],
+      "image": {
+        "alt": "各国の核紛争緩和を支援するAI量子紛争シミュレーションシステム",
+        "prompts": [
+          "Global security council using AI quantum conflict simulation to de-escalate a nuclear crisis, transparent scenario maps, serious optimistic documentary, 16:9",
+          "Quantum conflict simulation center showing peaceful resolution pathways between nations, clean high-stakes governance scene, 16:9",
+          "Diplomats reviewing verified de-escalation models with AI systems replacing nuclear deterrence logic, realistic future politics, 16:9",
+          "Secure international control room monitoring treaty compliance and conflict simulations, calm civilization-scale security future, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-quantum-conflict-simulation-system-ends-nuclear-deterrence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger",
+      "order": 20,
+      "slug": "fusion-powered-vertical-farm-towers-end-chronic-global-hunger",
+      "title": "核融合駆動の垂直農場タワーが慢性的な世界飢餓を終わらせる",
+      "shortTitle": "核融合農場タワー",
+      "category": "Energy",
+      "description": "核融合駆動の垂直農場タワーが都市や脆弱地域の近くで安定した高収量食料生産を提供し、慢性的飢餓を持続的な世界問題として終わらせる。",
+      "layerId": "civilization",
+      "domains": [
+        "food-systems",
+        "fusion-energy",
+        "urban-infrastructure"
+      ],
+      "maturity": "global-food-security",
+      "timeframe": {
+        "startYear": 2085,
+        "endYear": 2110
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "食料は地域を超えて安定して豊富になり、文明は飢饉対応から長期的な栄養安全保障へ移行できる。",
+      "signals": [
+        "核融合エネルギーが高密度の屋内農業を動かす",
+        "AI食料物流が生産を地域ニーズに合わせる",
+        "農場タワーが都市、砂漠、島嶼、災害多発地域で運用される"
+      ],
+      "implications": [
+        "慢性的飢餓が急減する",
+        "都市が主要な食料生産地になる",
+        "従来農業は修復、多様性、専門生産へ移行する"
+      ],
+      "image": {
+        "alt": "世界の飢餓救済のために豊富な食料を生産する核融合駆動の垂直農場タワー",
+        "prompts": [
+          "Fusion-powered vertical farm towers producing abundant food beside a city, distribution hubs delivering meals to communities, optimistic documentary realism, 16:9",
+          "Interior of a massive fusion-powered farm tower with layered crops, robotics, and clean energy systems, bright post-scarcity food future, 16:9",
+          "Dry-region settlement supported by vertical farm towers ending chronic hunger locally, water systems and greenhouses glowing, 16:9",
+          "Global food security command center coordinating fusion farm tower production and AI logistics, hopeful civilization milestone, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-fusion-powered-vertical-farm-towers-end-chronic-global-hunger.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-planetary-digital-twin-simulates-earths-systems-continuously",
+      "order": 21,
+      "slug": "planetary-digital-twin-simulates-earths-systems-continuously",
+      "title": "惑星デジタルツインが地球システムを継続的にシミュレートする",
+      "shortTitle": "惑星デジタルツイン",
+      "category": "AI & Computing",
+      "description": "惑星デジタルツインが地球システムを継続的にシミュレートし、AIを環境センシング、都市設計、紛争シミュレーション、政策立案、個人インターフェースのための惑星運用層へ変える。",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2092,
+        "endYear": 2098
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "惑星デジタルツインが地球システムを継続的にシミュレートすることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "AIシステムが複雑な社会・公共サービス運用を調整する",
+        "予測モデルが廃棄、遅延、紛争、予防可能なリスクを減らす",
+        "人間の監督は政策、倫理、高次の指針へ移行する"
+      ],
+      "implications": [
+        "公共システムがより速く個別化される",
+        "大規模な調整がより信頼できるものになる",
+        "公平性は透明な統治と広範なアクセスに依存する"
+      ],
+      "image": {
+        "alt": "地球システムを継続的にシミュレートする惑星デジタルツイン",
+        "prompts": [
+          "planetary Digital Twin Simulates Earth's Systems Continuously, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Digital Twin Simulates Earth's Systems Continuously, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Digital Twin Simulates Earth's Systems Continuously, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Digital Twin Simulates Earth's Systems Continuously, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-planetary-digital-twin-simulates-earths-systems-continuously.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-planetary-digital-twin-simulates-earths-systems-continuously.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-digital-twin-simulates-earths-systems-continuously.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-ai-policymakers-assist-most-governments",
+      "order": 22,
+      "slug": "ai-policymakers-assist-most-governments",
+      "title": "AI政策立案者がほとんどの政府を支援する",
+      "shortTitle": "政府を支援するAI政策立案者",
+      "category": "AI & Computing",
+      "description": "AI政策立案者がほとんどの政府を支援し、AIを環境センシング、都市設計、紛争シミュレーション、政策立案、個人インターフェースのための惑星運用層へ変える。",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2093,
+        "endYear": 2099
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "AI政策立案者がほとんどの政府を支援することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "AIシステムが複雑な社会・公共サービス運用を調整する",
+        "予測モデルが廃棄、遅延、紛争、予防可能なリスクを減らす",
+        "人間の監督は政策、倫理、高次の指針へ移行する"
+      ],
+      "implications": [
+        "公共システムがより速く個別化される",
+        "大規模な調整がより信頼できるものになる",
+        "公平性は透明な統治と広範なアクセスに依存する"
+      ],
+      "image": {
+        "alt": "ほとんどの政府を支援するAI政策立案者",
+        "prompts": [
+          "aI Policymakers Assist Most Governments, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Policymakers Assist Most Governments, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Policymakers Assist Most Governments, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Policymakers Assist Most Governments, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-ai-policymakers-assist-most-governments.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-ai-policymakers-assist-most-governments.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-ai-policymakers-assist-most-governments.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-ai-policymakers-assist-most-governments.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-ai-policymakers-assist-most-governments.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-personal-ai-agents-become-primary-human-interfaces",
+      "order": 23,
+      "slug": "personal-ai-agents-become-primary-human-interfaces",
+      "title": "個人AIエージェントが主要な人間インターフェースになる",
+      "shortTitle": "主要インターフェースとなる個人AIエージェント",
+      "category": "AI & Computing",
+      "description": "個人AIエージェントが主要な人間インターフェースとなり、AIを環境センシング、都市設計、紛争シミュレーション、政策立案、個人インターフェースのための惑星運用層へ変える。",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "public-infrastructure",
+        "decision-systems"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2094,
+        "endYear": 2100
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "個人AIエージェントが主要な人間インターフェースになることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "AIシステムが複雑な社会・公共サービス運用を調整する",
+        "予測モデルが廃棄、遅延、紛争、予防可能なリスクを減らす",
+        "人間の監督は政策、倫理、高次の指針へ移行する"
+      ],
+      "implications": [
+        "公共システムがより速く個別化される",
+        "大規模な調整がより信頼できるものになる",
+        "公平性は透明な統治と広範なアクセスに依存する"
+      ],
+      "image": {
+        "alt": "主要な人間インターフェースになる個人AIエージェント",
+        "prompts": [
+          "personal AI Agents Become Primary Human Interfaces, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing personal AI Agents Become Primary Human Interfaces, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of personal AI Agents Become Primary Human Interfaces, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating personal AI Agents Become Primary Human Interfaces, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-personal-ai-agents-become-primary-human-interfaces.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-personal-ai-agents-become-primary-human-interfaces.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-personal-ai-agents-become-primary-human-interfaces.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-autonomous-infrastructure-repair-swarms-maintain-cities",
+      "order": 24,
+      "slug": "autonomous-infrastructure-repair-swarms-maintain-cities",
+      "title": "自律インフラ修理スウォームが都市を維持する",
+      "shortTitle": "自律インフラ修理スウォーム",
+      "category": "Robotics",
+      "description": "自律インフラ修理スウォームが都市を維持し、ロボットを通常の惑星インフラに変え、人間を危険労働から外し、都市、海洋、鉱山、災害地帯を保守する。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2095,
+        "endYear": 2101
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "自律インフラ修理スウォームが都市を維持することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "自律フリートが不可欠な物理サービスを担う",
+        "ロボットが家庭、農場、都市、海洋、危険現場で稼働する",
+        "保守と復旧が希少な労働力への依存を減らして高速化する"
+      ],
+      "implications": [
+        "生存のための身体労働の必要性が低下する",
+        "ケアとインフラがより利用可能になる",
+        "人間の仕事は創造的、社会的、監督的役割へ移行する"
+      ],
+      "image": {
+        "alt": "都市を維持する自律インフラ修理スウォーム",
+        "prompts": [
+          "autonomous Infrastructure Repair Swarms Maintain Cities, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Infrastructure Repair Swarms Maintain Cities, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Infrastructure Repair Swarms Maintain Cities, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Infrastructure Repair Swarms Maintain Cities, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-autonomous-infrastructure-repair-swarms-maintain-cities.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-robotic-ocean-harvesting-systems-operate-globally",
+      "order": 25,
+      "slug": "robotic-ocean-harvesting-systems-operate-globally",
+      "title": "ロボット海洋収穫システムが世界的に稼働する",
+      "shortTitle": "ロボット海洋収穫システム",
+      "category": "Robotics",
+      "description": "ロボット海洋収穫システムが世界的に稼働し、ロボットを通常の惑星インフラに変え、人間を危険労働から外し、都市、海洋、鉱山、災害地帯を保守する。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "planetary-demonstration",
+      "timeframe": {
+        "startYear": 2095,
+        "endYear": 2101
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "ロボット海洋収穫システムが世界的に稼働することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "自律フリートが不可欠な物理サービスを担う",
+        "ロボットが家庭、農場、都市、海洋、危険現場で稼働する",
+        "保守と復旧が希少な労働力への依存を減らして高速化する"
+      ],
+      "implications": [
+        "生存のための身体労働の必要性が低下する",
+        "ケアとインフラがより利用可能になる",
+        "人間の仕事は創造的、社会的、監督的役割へ移行する"
+      ],
+      "image": {
+        "alt": "世界的に稼働するロボット海洋収穫システム",
+        "prompts": [
+          "robotic Ocean Harvesting Systems Operate Globally, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing robotic Ocean Harvesting Systems Operate Globally, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of robotic Ocean Harvesting Systems Operate Globally, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating robotic Ocean Harvesting Systems Operate Globally, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-robotic-ocean-harvesting-systems-operate-globally.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-robotic-ocean-harvesting-systems-operate-globally.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-robotic-ocean-harvesting-systems-operate-globally.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays",
+      "order": 26,
+      "slug": "autonomous-disaster-recovery-networks-eliminate-most-recovery-delays",
+      "title": "自律災害復旧ネットワークがほとんどの復旧遅延をなくす",
+      "shortTitle": "自律災害復旧ネットワーク",
+      "category": "Robotics",
+      "description": "自律災害復旧ネットワークがほとんどの復旧遅延をなくし、ロボットを通常の惑星インフラに変え、人間を危険労働から外し、都市、海洋、鉱山、災害地帯を保守する。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "infrastructure-maintenance",
+        "service-robots"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2096,
+        "endYear": 2102
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "自律災害復旧ネットワークがほとんどの復旧遅延をなくすことは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "自律フリートが不可欠な物理サービスを担う",
+        "ロボットが家庭、農場、都市、海洋、危険現場で稼働する",
+        "保守と復旧が希少な労働力への依存を減らして高速化する"
+      ],
+      "implications": [
+        "生存のための身体労働の必要性が低下する",
+        "ケアとインフラがより利用可能になる",
+        "人間の仕事は創造的、社会的、監督的役割へ移行する"
+      ],
+      "image": {
+        "alt": "ほとんどの復旧遅延をなくす自律災害復旧ネットワーク",
+        "prompts": [
+          "autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Disaster Recovery Networks Eliminate Most Recovery Delays, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-autonomous-disaster-recovery-networks-eliminate-most-recovery-delays.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-global-fusion-grid-supplies-nearly-unlimited-energy",
+      "order": 27,
+      "slug": "global-fusion-grid-supplies-nearly-unlimited-energy",
+      "title": "世界核融合グリッドがほぼ無限のエネルギーを供給する",
+      "shortTitle": "世界核融合グリッド",
+      "category": "Energy",
+      "description": "世界核融合グリッドがほぼ無限のエネルギーを供給し、エネルギーの豊かさを大陸規模のグリッド、無線送電、宇宙太陽光システム、エネルギー貧困の終焉へ拡大する。",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "clean-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2097,
+        "endYear": 2103
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "世界核融合グリッドがほぼ無限のエネルギーを供給することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "核融合とクリーンエネルギーシステムが経済的に安定する",
+        "エネルギー集約型の公共財が手頃になる",
+        "大規模インフラが化石燃料に依存せず稼働できる"
+      ],
+      "implications": [
+        "水、食料、住宅、リサイクルの不足が低下する",
+        "気候修復がより実用的になる",
+        "文明は惑星変革のためのエネルギー基盤を得る"
+      ],
+      "image": {
+        "alt": "ほぼ無限のエネルギーを供給する世界核融合グリッド",
+        "prompts": [
+          "global Fusion Grid Supplies Nearly Unlimited Energy, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Fusion Grid Supplies Nearly Unlimited Energy, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Fusion Grid Supplies Nearly Unlimited Energy, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Fusion Grid Supplies Nearly Unlimited Energy, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-fusion-grid-supplies-nearly-unlimited-energy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-wireless-power-transmission-networks-cover-continents",
+      "order": 28,
+      "slug": "wireless-power-transmission-networks-cover-continents",
+      "title": "無線送電ネットワークが大陸を覆う",
+      "shortTitle": "無線送電ネットワーク",
+      "category": "Energy",
+      "description": "無線送電ネットワークが大陸を覆い、エネルギーの豊かさを大陸規模のグリッド、無線送電、宇宙太陽光システム、エネルギー貧困の終焉へ拡大する。",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "clean-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2097,
+        "endYear": 2103
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "無線送電ネットワークが大陸を覆うことは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "核融合とクリーンエネルギーシステムが経済的に安定する",
+        "エネルギー集約型の公共財が手頃になる",
+        "大規模インフラが化石燃料に依存せず稼働できる"
+      ],
+      "implications": [
+        "水、食料、住宅、リサイクルの不足が低下する",
+        "気候修復がより実用的になる",
+        "文明は惑星変革のためのエネルギー基盤を得る"
+      ],
+      "image": {
+        "alt": "大陸を覆う無線送電ネットワーク",
+        "prompts": [
+          "wireless Power Transmission Networks Cover Continents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing wireless Power Transmission Networks Cover Continents, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of wireless Power Transmission Networks Cover Continents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating wireless Power Transmission Networks Cover Continents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-wireless-power-transmission-networks-cover-continents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-wireless-power-transmission-networks-cover-continents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-wireless-power-transmission-networks-cover-continents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-space-based-solar-arrays-supply-major-regions",
+      "order": 29,
+      "slug": "space-based-solar-arrays-supply-major-regions",
+      "title": "宇宙太陽光アレイが主要地域に電力を供給する",
+      "shortTitle": "宇宙太陽光アレイ",
+      "category": "Energy",
+      "description": "宇宙太陽光アレイが主要地域に電力を供給し、エネルギーの豊かさを大陸規模のグリッド、無線送電、宇宙太陽光システム、エネルギー貧困の終焉へ拡大する。",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "clean-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2098,
+        "endYear": 2104
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "宇宙太陽光アレイが主要地域に電力を供給することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "核融合とクリーンエネルギーシステムが経済的に安定する",
+        "エネルギー集約型の公共財が手頃になる",
+        "大規模インフラが化石燃料に依存せず稼働できる"
+      ],
+      "implications": [
+        "水、食料、住宅、リサイクルの不足が低下する",
+        "気候修復がより実用的になる",
+        "文明は惑星変革のためのエネルギー基盤を得る"
+      ],
+      "image": {
+        "alt": "主要地域に電力を供給する宇宙太陽光アレイ",
+        "prompts": [
+          "space-Based Solar Arrays Supply Major Regions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Based Solar Arrays Supply Major Regions, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Based Solar Arrays Supply Major Regions, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Based Solar Arrays Supply Major Regions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-space-based-solar-arrays-supply-major-regions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-space-based-solar-arrays-supply-major-regions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-space-based-solar-arrays-supply-major-regions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-energy-poverty-disappears-worldwide",
+      "order": 30,
+      "slug": "energy-poverty-disappears-worldwide",
+      "title": "エネルギー貧困が世界中で消える",
+      "shortTitle": "エネルギー貧困の消滅",
+      "category": "Energy",
+      "description": "エネルギー貧困が世界中で消え、エネルギーの豊かさを大陸規模のグリッド、無線送電、宇宙太陽光システム、エネルギー貧困の終焉へ拡大する。",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "clean-energy",
+        "abundance-infrastructure"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2099,
+        "endYear": 2105
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "エネルギー貧困が世界中で消えることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "核融合とクリーンエネルギーシステムが経済的に安定する",
+        "エネルギー集約型の公共財が手頃になる",
+        "大規模インフラが化石燃料に依存せず稼働できる"
+      ],
+      "implications": [
+        "水、食料、住宅、リサイクルの不足が低下する",
+        "気候修復がより実用的になる",
+        "文明は惑星変革のためのエネルギー基盤を得る"
+      ],
+      "image": {
+        "alt": "世界中で消えるエネルギー貧困",
+        "prompts": [
+          "energy Poverty Disappears Worldwide, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing energy Poverty Disappears Worldwide, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of energy Poverty Disappears Worldwide, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating energy Poverty Disappears Worldwide, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-energy-poverty-disappears-worldwide.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-energy-poverty-disappears-worldwide.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-energy-poverty-disappears-worldwide.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-energy-poverty-disappears-worldwide.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-energy-poverty-disappears-worldwide.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-first-rotating-artificial-gravity-space-city-opens",
+      "order": 31,
+      "slug": "first-rotating-artificial-gravity-space-city-opens",
+      "title": "最初の回転式人工重力宇宙都市が開く",
+      "shortTitle": "回転式人工重力宇宙都市",
+      "category": "Space",
+      "description": "最初の回転式人工重力宇宙都市が開き、宇宙文明はより大きな月面・火星人口、回転宇宙都市、小惑星経済、高速地球―月物流へ拡大する。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2100,
+        "endYear": 2106
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "最初の回転式人工重力宇宙都市が開くことは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "恒久的な居住地が科学前哨基地を超えて成長する",
+        "旅客と貨物ルートが日常化する",
+        "地球外産業がより広い経済の一部になる"
+      ],
+      "implications": [
+        "人類文明がより分散する",
+        "宇宙インフラがレジリエンスと産業を支える",
+        "次の太陽系文明の時代が可能になる"
+      ],
+      "image": {
+        "alt": "開業する最初の回転式人工重力宇宙都市",
+        "prompts": [
+          "first Rotating Artificial Gravity Space City Opens, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Rotating Artificial Gravity Space City Opens, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Rotating Artificial Gravity Space City Opens, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Rotating Artificial Gravity Space City Opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-first-rotating-artificial-gravity-space-city-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-first-rotating-artificial-gravity-space-city-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-first-rotating-artificial-gravity-space-city-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-lunar-population-exceeds-100-000-residents",
+      "order": 32,
+      "slug": "lunar-population-exceeds-100-000-residents",
+      "title": "月面人口が10万人を超える",
+      "shortTitle": "月面人口10万人超",
+      "category": "Space",
+      "description": "月面人口が10万人を超え、宇宙文明はより大きな月面・火星人口、回転宇宙都市、小惑星経済、高速地球―月物流へ拡大する。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2100,
+        "endYear": 2106
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "月面人口が10万人を超えることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "恒久的な居住地が科学前哨基地を超えて成長する",
+        "旅客と貨物ルートが日常化する",
+        "地球外産業がより広い経済の一部になる"
+      ],
+      "implications": [
+        "人類文明がより分散する",
+        "宇宙インフラがレジリエンスと産業を支える",
+        "次の太陽系文明の時代が可能になる"
+      ],
+      "image": {
+        "alt": "10万人を超える月面人口",
+        "prompts": [
+          "lunar Population Exceeds 100,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lunar Population Exceeds 100,000 Residents, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lunar Population Exceeds 100,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lunar Population Exceeds 100,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-lunar-population-exceeds-100-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-lunar-population-exceeds-100-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-lunar-population-exceeds-100-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-mars-population-surpasses-10-000-residents",
+      "order": 33,
+      "slug": "mars-population-surpasses-10-000-residents",
+      "title": "火星人口が1万人を超える",
+      "shortTitle": "火星人口1万人超",
+      "category": "Space",
+      "description": "火星人口が1万人を超え、宇宙文明はより大きな月面・火星人口、回転宇宙都市、小惑星経済、高速地球―月物流へ拡大する。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2101,
+        "endYear": 2107
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "火星人口が1万人を超えることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "恒久的な居住地が科学前哨基地を超えて成長する",
+        "旅客と貨物ルートが日常化する",
+        "地球外産業がより広い経済の一部になる"
+      ],
+      "implications": [
+        "人類文明がより分散する",
+        "宇宙インフラがレジリエンスと産業を支える",
+        "次の太陽系文明の時代が可能になる"
+      ],
+      "image": {
+        "alt": "1万人を超える火星人口",
+        "prompts": [
+          "mars Population Surpasses 10,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing mars Population Surpasses 10,000 Residents, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of mars Population Surpasses 10,000 Residents, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating mars Population Surpasses 10,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-mars-population-surpasses-10-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-mars-population-surpasses-10-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-mars-population-surpasses-10-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-mars-population-surpasses-10-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-mars-population-surpasses-10-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-asteroid-mining-becomes-a-major-economic-sector",
+      "order": 34,
+      "slug": "asteroid-mining-becomes-a-major-economic-sector",
+      "title": "小惑星採掘が主要な経済部門になる",
+      "shortTitle": "主要経済部門となる小惑星採掘",
+      "category": "Space",
+      "description": "小惑星採掘が主要な経済部門となり、宇宙文明はより大きな月面・火星人口、回転宇宙都市、小惑星経済、高速地球―月物流へ拡大する。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2102,
+        "endYear": 2108
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "小惑星採掘が主要な経済部門になることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "恒久的な居住地が科学前哨基地を超えて成長する",
+        "旅客と貨物ルートが日常化する",
+        "地球外産業がより広い経済の一部になる"
+      ],
+      "implications": [
+        "人類文明がより分散する",
+        "宇宙インフラがレジリエンスと産業を支える",
+        "次の太陽系文明の時代が可能になる"
+      ],
+      "image": {
+        "alt": "主要な経済部門になる小惑星採掘",
+        "prompts": [
+          "asteroid Mining Becomes a Major Economic Sector, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing asteroid Mining Becomes a Major Economic Sector, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of asteroid Mining Becomes a Major Economic Sector, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating asteroid Mining Becomes a Major Economic Sector, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-asteroid-mining-becomes-a-major-economic-sector.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-asteroid-mining-becomes-a-major-economic-sector.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-asteroid-mining-becomes-a-major-economic-sector.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-earth-moon-high-speed-cargo-network-becomes-routine",
+      "order": 35,
+      "slug": "earth-moon-high-speed-cargo-network-becomes-routine",
+      "title": "地球―月高速貨物ネットワークが日常化する",
+      "shortTitle": "地球―月高速貨物ネットワーク",
+      "category": "Space",
+      "description": "地球―月高速貨物ネットワークが日常化し、宇宙文明はより大きな月面・火星人口、回転宇宙都市、小惑星経済、高速地球―月物流へ拡大する。",
+      "layerId": "space",
+      "domains": [
+        "space-settlement",
+        "lunar-mars-systems",
+        "orbital-habitats"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2103,
+        "endYear": 2109
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "地球―月高速貨物ネットワークが日常化することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "恒久的な居住地が科学前哨基地を超えて成長する",
+        "旅客と貨物ルートが日常化する",
+        "地球外産業がより広い経済の一部になる"
+      ],
+      "implications": [
+        "人類文明がより分散する",
+        "宇宙インフラがレジリエンスと産業を支える",
+        "次の太陽系文明の時代が可能になる"
+      ],
+      "image": {
+        "alt": "日常化する地球―月高速貨物ネットワーク",
+        "prompts": [
+          "earth-Moon High-Speed Cargo Network Becomes Routine, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon High-Speed Cargo Network Becomes Routine, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon High-Speed Cargo Network Becomes Routine, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon High-Speed Cargo Network Becomes Routine, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-earth-moon-high-speed-cargo-network-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-earth-moon-high-speed-cargo-network-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-earth-moon-high-speed-cargo-network-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-biological-aging-is-significantly-reversed",
+      "order": 36,
+      "slug": "biological-aging-is-significantly-reversed",
+      "title": "生物学的老化が大きく逆転される",
+      "shortTitle": "大きく逆転される生物学的老化",
+      "category": "Biology & Medicine",
+      "description": "生物学的老化が大きく逆転され、神経義肢、臓器印刷、合成血液、老化逆転、神経保護モニタリングを通じて高度な身体修復と強化が日常化する。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2103,
+        "endYear": 2109
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "生物学的老化が大きく逆転されることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "再生医療が広く利用可能になる",
+        "世界的モニタリングと個別化システムにより疾病予防が改善する",
+        "生物学的修復がより信頼でき手頃になる"
+      ],
+      "implications": [
+        "健康寿命が急上昇する",
+        "医療アクセスがポスト希少性サービスの中核になる",
+        "人間のアイデンティティが生物学的制約から切り離され始める"
+      ],
+      "image": {
+        "alt": "大きく逆転される生物学的老化",
+        "prompts": [
+          "biological Aging Is Significantly Reversed, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing biological Aging Is Significantly Reversed, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of biological Aging Is Significantly Reversed, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating biological Aging Is Significantly Reversed, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-biological-aging-is-significantly-reversed.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-biological-aging-is-significantly-reversed.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-biological-aging-is-significantly-reversed.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-biological-aging-is-significantly-reversed.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-biological-aging-is-significantly-reversed.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-synthetic-blood-replaces-emergency-donor-dependence",
+      "order": 37,
+      "slug": "synthetic-blood-replaces-emergency-donor-dependence",
+      "title": "合成血液が緊急時の献血依存を置き換える",
+      "shortTitle": "緊急献血依存を置き換える合成血液",
+      "category": "Biology & Medicine",
+      "description": "合成血液が緊急時の献血依存を置き換え、神経義肢、臓器印刷、合成血液、老化逆転、神経保護モニタリングを通じて高度な身体修復と強化が日常化する。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2104,
+        "endYear": 2110
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "合成血液が緊急時の献血依存を置き換えることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "再生医療が広く利用可能になる",
+        "世界的モニタリングと個別化システムにより疾病予防が改善する",
+        "生物学的修復がより信頼でき手頃になる"
+      ],
+      "implications": [
+        "健康寿命が急上昇する",
+        "医療アクセスがポスト希少性サービスの中核になる",
+        "人間のアイデンティティが生物学的制約から切り離され始める"
+      ],
+      "image": {
+        "alt": "緊急時の献血依存を置き換える合成血液",
+        "prompts": [
+          "synthetic Blood Replaces Emergency Donor Dependence, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing synthetic Blood Replaces Emergency Donor Dependence, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of synthetic Blood Replaces Emergency Donor Dependence, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating synthetic Blood Replaces Emergency Donor Dependence, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-synthetic-blood-replaces-emergency-donor-dependence.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-synthetic-blood-replaces-emergency-donor-dependence.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-synthetic-blood-replaces-emergency-donor-dependence.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases",
+      "order": 38,
+      "slug": "brain-health-monitoring-prevents-most-neurodegenerative-diseases",
+      "title": "脳健康モニタリングがほとんどの神経変性疾患を防ぐ",
+      "shortTitle": "脳健康モニタリング",
+      "category": "Biology & Medicine",
+      "description": "脳健康モニタリングがほとんどの神経変性疾患を防ぎ、神経義肢、臓器印刷、合成血液、老化逆転、神経保護モニタリングを通じて高度な身体修復と強化が日常化する。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "advanced-medicine",
+        "regenerative-biology",
+        "human-health"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2105,
+        "endYear": 2111
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "脳健康モニタリングがほとんどの神経変性疾患を防ぐことは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "再生医療が広く利用可能になる",
+        "世界的モニタリングと個別化システムにより疾病予防が改善する",
+        "生物学的修復がより信頼でき手頃になる"
+      ],
+      "implications": [
+        "健康寿命が急上昇する",
+        "医療アクセスがポスト希少性サービスの中核になる",
+        "人間のアイデンティティが生物学的制約から切り離され始める"
+      ],
+      "image": {
+        "alt": "ほとんどの神経変性疾患を防ぐ脳健康モニタリング",
+        "prompts": [
+          "brain Health Monitoring Prevents Most Neurodegenerative Diseases, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing brain Health Monitoring Prevents Most Neurodegenerative Diseases, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of brain Health Monitoring Prevents Most Neurodegenerative Diseases, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating brain Health Monitoring Prevents Most Neurodegenerative Diseases, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-brain-health-monitoring-prevents-most-neurodegenerative-diseases.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-room-temperature-superconductors-become-global-infrastructure",
+      "order": 39,
+      "slug": "room-temperature-superconductors-become-global-infrastructure",
+      "title": "室温超伝導体が世界インフラになる",
+      "shortTitle": "世界インフラとなる室温超伝導体",
+      "category": "Physics",
+      "description": "室温超伝導体が世界インフラとなり、量子インターネット、人工重力、世界的時刻同期システム、超伝導体、強力な量子計算を通じて精密物理を惑星インフラへ変える。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2106,
+        "endYear": 2112
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "室温超伝導体が世界インフラになることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "量子および重力関連システムが工学サービスになる",
+        "高度計測がインフラと航法を改善する",
+        "計算能力が以前は解けなかった問題を解く"
+      ],
+      "implications": [
+        "新しい種類のインフラが実用化する",
+        "宇宙居住がより安全で快適になる",
+        "医学、材料、エネルギー全体で科学進歩が加速する"
+      ],
+      "image": {
+        "alt": "世界インフラになる室温超伝導体",
+        "prompts": [
+          "room-Temperature Superconductors Become Global Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing room-Temperature Superconductors Become Global Infrastructure, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of room-Temperature Superconductors Become Global Infrastructure, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating room-Temperature Superconductors Become Global Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-room-temperature-superconductors-become-global-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-room-temperature-superconductors-become-global-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-room-temperature-superconductors-become-global-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-artificial-gravity-systems-become-commercially-mature",
+      "order": 40,
+      "slug": "artificial-gravity-systems-become-commercially-mature",
+      "title": "人工重力システムが商業的に成熟する",
+      "shortTitle": "成熟した人工重力システム",
+      "category": "Physics",
+      "description": "人工重力システムが商業的に成熟し、量子インターネット、人工重力、世界的時刻同期システム、超伝導体、強力な量子計算を通じて精密物理を惑星インフラへ変える。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2106,
+        "endYear": 2112
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "人工重力システムが商業的に成熟することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "量子および重力関連システムが工学サービスになる",
+        "高度計測がインフラと航法を改善する",
+        "計算能力が以前は解けなかった問題を解く"
+      ],
+      "implications": [
+        "新しい種類のインフラが実用化する",
+        "宇宙居住がより安全で快適になる",
+        "医学、材料、エネルギー全体で科学進歩が加速する"
+      ],
+      "image": {
+        "alt": "商業的に成熟する人工重力システム",
+        "prompts": [
+          "artificial Gravity Systems Become Commercially Mature, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Systems Become Commercially Mature, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Systems Become Commercially Mature, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Systems Become Commercially Mature, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-artificial-gravity-systems-become-commercially-mature.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-artificial-gravity-systems-become-commercially-mature.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-artificial-gravity-systems-become-commercially-mature.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-quantum-internet-replaces-traditional-encryption",
+      "order": 41,
+      "slug": "quantum-internet-replaces-traditional-encryption",
+      "title": "量子インターネットが従来型暗号を置き換える",
+      "shortTitle": "従来型暗号を置き換える量子インターネット",
+      "category": "Physics",
+      "description": "量子インターネットが従来型暗号を置き換え、量子インターネット、人工重力、世界的時刻同期システム、超伝導体、強力な量子計算を通じて精密物理を惑星インフラへ変える。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2107,
+        "endYear": 2113
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "量子インターネットが従来型暗号を置き換えることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "量子および重力関連システムが工学サービスになる",
+        "高度計測がインフラと航法を改善する",
+        "計算能力が以前は解けなかった問題を解く"
+      ],
+      "implications": [
+        "新しい種類のインフラが実用化する",
+        "宇宙居住がより安全で快適になる",
+        "医学、材料、エネルギー全体で科学進歩が加速する"
+      ],
+      "image": {
+        "alt": "従来型暗号を置き換える量子インターネット",
+        "prompts": [
+          "quantum Internet Replaces Traditional Encryption, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing quantum Internet Replaces Traditional Encryption, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of quantum Internet Replaces Traditional Encryption, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating quantum Internet Replaces Traditional Encryption, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-quantum-internet-replaces-traditional-encryption.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-quantum-internet-replaces-traditional-encryption.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-quantum-internet-replaces-traditional-encryption.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-planetary-precision-clocks-synchronize-human-infrastructure",
+      "order": 42,
+      "slug": "planetary-precision-clocks-synchronize-human-infrastructure",
+      "title": "惑星精密時計が人類インフラを同期する",
+      "shortTitle": "惑星精密時計による同期",
+      "category": "Physics",
+      "description": "惑星精密時計が人類インフラを同期し、量子インターネット、人工重力、世界的時刻同期システム、超伝導体、強力な量子計算を通じて精密物理を惑星インフラへ変える。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2108,
+        "endYear": 2114
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "惑星精密時計が人類インフラを同期することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "量子および重力関連システムが工学サービスになる",
+        "高度計測がインフラと航法を改善する",
+        "計算能力が以前は解けなかった問題を解く"
+      ],
+      "implications": [
+        "新しい種類のインフラが実用化する",
+        "宇宙居住がより安全で快適になる",
+        "医学、材料、エネルギー全体で科学進歩が加速する"
+      ],
+      "image": {
+        "alt": "人類インフラを同期する惑星精密時計",
+        "prompts": [
+          "planetary Precision Clocks Synchronize Human Infrastructure, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Precision Clocks Synchronize Human Infrastructure, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Precision Clocks Synchronize Human Infrastructure, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Precision Clocks Synchronize Human Infrastructure, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-planetary-precision-clocks-synchronize-human-infrastructure.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-planetary-precision-clocks-synchronize-human-infrastructure.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-precision-clocks-synchronize-human-infrastructure.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-large-scale-quantum-computers-solve-previously-impossible-problems",
+      "order": 43,
+      "slug": "large-scale-quantum-computers-solve-previously-impossible-problems",
+      "title": "大規模量子コンピューターが以前は不可能だった問題を解く",
+      "shortTitle": "大規模量子コンピューター",
+      "category": "Physics",
+      "description": "大規模量子コンピューターが以前は不可能だった問題を解き、量子インターネット、人工重力、世界的時刻同期システム、超伝導体、強力な量子計算を通じて精密物理を惑星インフラへ変える。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2109,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "大規模量子コンピューターが以前は不可能だった問題を解くことは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "量子および重力関連システムが工学サービスになる",
+        "高度計測がインフラと航法を改善する",
+        "計算能力が以前は解けなかった問題を解く"
+      ],
+      "implications": [
+        "新しい種類のインフラが実用化する",
+        "宇宙居住がより安全で快適になる",
+        "医学、材料、エネルギー全体で科学進歩が加速する"
+      ],
+      "image": {
+        "alt": "以前は不可能だった問題を解く大規模量子コンピューター",
+        "prompts": [
+          "large-Scale Quantum Computers Solve Previously Impossible Problems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing large-Scale Quantum Computers Solve Previously Impossible Problems, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of large-Scale Quantum Computers Solve Previously Impossible Problems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating large-Scale Quantum Computers Solve Previously Impossible Problems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-large-scale-quantum-computers-solve-previously-impossible-problems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-self-healing-buildings-become-standard-construction-practice",
+      "order": 44,
+      "slug": "self-healing-buildings-become-standard-construction-practice",
+      "title": "自己修復建築が標準的な建設手法になる",
+      "shortTitle": "自己修復建築の標準化",
+      "category": "Materials & Manufacturing",
+      "description": "自己修復建築が標準的な建設手法となり、製造をゼロ廃棄物、生分解性、自己修復、AI設計を基盤とする惑星変革の土台へ変える。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "circular-manufacturing",
+        "advanced-materials",
+        "industrial-systems"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2109,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "自己修復建築が標準的な建設手法になることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "循環型製造が未使用資源への需要を減らす",
+        "建物とインフラが自己修復する",
+        "分子製造とプログラマブル製造が産業利用に到達する"
+      ],
+      "implications": [
+        "住宅と物品がより安価になる",
+        "廃棄物が劇的に減少する",
+        "インフラがより強靭で適応的になる"
+      ],
+      "image": {
+        "alt": "標準的な建設手法になる自己修復建築",
+        "prompts": [
+          "self-Healing Buildings Become Standard Construction Practice, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Buildings Become Standard Construction Practice, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Buildings Become Standard Construction Practice, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Buildings Become Standard Construction Practice, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-self-healing-buildings-become-standard-construction-practice.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-self-healing-buildings-become-standard-construction-practice.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-self-healing-buildings-become-standard-construction-practice.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-four-day-workweek-becomes-universal",
+      "order": 45,
+      "slug": "four-day-workweek-becomes-universal",
+      "title": "週4日労働が普遍化する",
+      "shortTitle": "普遍化する週4日労働",
+      "category": "Society & Economy",
+      "description": "週4日労働が普遍化し、身体労働の任意化、普遍的サービス、創造的な仕事、極度の貧困の減少が、惑星システムの安定とともに標準化する。",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2110,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "週4日労働が普遍化することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "普遍的サービスが従来型福祉を超えて拡大する",
+        "自動化による生産性向上で労働時間が減少する",
+        "基本的ニーズが雇用や富に結びつきにくくなる"
+      ],
+      "implications": [
+        "社会の安定性が高まる",
+        "教育とアクセスにより人間の可能性が広がる",
+        "経済システムが生存から繁栄へ移行する"
+      ],
+      "image": {
+        "alt": "普遍化する週4日労働",
+        "prompts": [
+          "four-Day Workweek Becomes Universal, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing four-Day Workweek Becomes Universal, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of four-Day Workweek Becomes Universal, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating four-Day Workweek Becomes Universal, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-four-day-workweek-becomes-universal.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-four-day-workweek-becomes-universal.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-four-day-workweek-becomes-universal.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-four-day-workweek-becomes-universal.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-four-day-workweek-becomes-universal.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-global-basic-services-replace-most-welfare-systems",
+      "order": 46,
+      "slug": "global-basic-services-replace-most-welfare-systems",
+      "title": "世界的基本サービスがほとんどの福祉制度を置き換える",
+      "shortTitle": "世界的基本サービス",
+      "category": "Society & Economy",
+      "description": "世界的基本サービスがほとんどの福祉制度を置き換え、身体労働の任意化、普遍的サービス、創造的な仕事、極度の貧困の減少が、惑星システムの安定とともに標準化する。",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2111,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "世界的基本サービスがほとんどの福祉制度を置き換えることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "普遍的サービスが従来型福祉を超えて拡大する",
+        "自動化による生産性向上で労働時間が減少する",
+        "基本的ニーズが雇用や富に結びつきにくくなる"
+      ],
+      "implications": [
+        "社会の安定性が高まる",
+        "教育とアクセスにより人間の可能性が広がる",
+        "経済システムが生存から繁栄へ移行する"
+      ],
+      "image": {
+        "alt": "ほとんどの福祉制度を置き換える世界的基本サービス",
+        "prompts": [
+          "global Basic Services Replace Most Welfare Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Basic Services Replace Most Welfare Systems, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Basic Services Replace Most Welfare Systems, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Basic Services Replace Most Welfare Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-global-basic-services-replace-most-welfare-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-global-basic-services-replace-most-welfare-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-basic-services-replace-most-welfare-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-human-work-becomes-primarily-creative-and-social",
+      "order": 47,
+      "slug": "human-work-becomes-primarily-creative-and-social",
+      "title": "人間の仕事は主に創造的・社会的なものになる",
+      "shortTitle": "創造的・社会的な人間の仕事",
+      "category": "Society & Economy",
+      "description": "人間の仕事は主に創造的・社会的なものとなり、身体労働の任意化、普遍的サービス、創造的な仕事、極度の貧困の減少が、惑星システムの安定とともに標準化する。",
+      "layerId": "society-economy",
+      "domains": [
+        "post-scarcity",
+        "public-services",
+        "economic-systems"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2112,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "人間の仕事が主に創造的・社会的なものになることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "普遍的サービスが従来型福祉を超えて拡大する",
+        "自動化による生産性向上で労働時間が減少する",
+        "基本的ニーズが雇用や富に結びつきにくくなる"
+      ],
+      "implications": [
+        "社会の安定性が高まる",
+        "教育とアクセスにより人間の可能性が広がる",
+        "経済システムが生存から繁栄へ移行する"
+      ],
+      "image": {
+        "alt": "主に創造的・社会的になる人間の仕事",
+        "prompts": [
+          "human Work Becomes Primarily Creative and Social, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human Work Becomes Primarily Creative and Social, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human Work Becomes Primarily Creative and Social, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human Work Becomes Primarily Creative and Social, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-human-work-becomes-primarily-creative-and-social.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-human-work-becomes-primarily-creative-and-social.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-work-becomes-primarily-creative-and-social.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-planetary-governance-council-coordinates-global-challenges",
+      "order": 48,
+      "slug": "planetary-governance-council-coordinates-global-challenges",
+      "title": "惑星統治評議会が地球規模の課題を調整する",
+      "shortTitle": "惑星統治評議会",
+      "category": "Civilization",
+      "description": "惑星統治評議会が地球規模の課題を調整し、惑星統治、人間とAIの権利、法的に認められたAI管理都市、歴史的に低い暴力的紛争を確立する。",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2112,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "惑星統治評議会が地球規模の課題を調整することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "統治が国ごとの危機対応を超えて拡張する",
+        "権利枠組みがAIと高度システムに適応する",
+        "世界機関が資源、平和、公共インフラを調整する"
+      ],
+      "implications": [
+        "文明が惑星規模でより協調的になる",
+        "政治システムが豊かさと自動化に適応する",
+        "人類は惑星変革のための制度を得る"
+      ],
+      "image": {
+        "alt": "地球規模の課題を調整する惑星統治評議会",
+        "prompts": [
+          "planetary Governance Council Coordinates Global Challenges, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing planetary Governance Council Coordinates Global Challenges, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of planetary Governance Council Coordinates Global Challenges, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating planetary Governance Council Coordinates Global Challenges, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-planetary-governance-council-coordinates-global-challenges.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-planetary-governance-council-coordinates-global-challenges.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-planetary-governance-council-coordinates-global-challenges.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-human-ai-rights-charter-is-ratified",
+      "order": 49,
+      "slug": "human-ai-rights-charter-is-ratified",
+      "title": "人間・AI権利憲章が批准される",
+      "shortTitle": "人間・AI権利憲章の批准",
+      "category": "Civilization",
+      "description": "人間・AI権利憲章が批准され、惑星統治、人間とAIの権利、法的に認められたAI管理都市、歴史的に低い暴力的紛争を確立する。",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2113,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "人間・AI権利憲章が批准されることは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "統治が国ごとの危機対応を超えて拡張する",
+        "権利枠組みがAIと高度システムに適応する",
+        "世界機関が資源、平和、公共インフラを調整する"
+      ],
+      "implications": [
+        "文明が惑星規模でより協調的になる",
+        "政治システムが豊かさと自動化に適応する",
+        "人類は惑星変革のための制度を得る"
+      ],
+      "image": {
+        "alt": "批准される人間・AI権利憲章",
+        "prompts": [
+          "human-AI Rights Charter Is Ratified, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing human-AI Rights Charter Is Ratified, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of human-AI Rights Charter Is Ratified, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating human-AI Rights Charter Is Ratified, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-human-ai-rights-charter-is-ratified.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-human-ai-rights-charter-is-ratified.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-human-ai-rights-charter-is-ratified.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-human-ai-rights-charter-is-ratified.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-human-ai-rights-charter-is-ratified.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-04-global-violent-conflict-reaches-historic-low",
+      "order": 50,
+      "slug": "global-violent-conflict-reaches-historic-low",
+      "title": "世界の暴力的紛争が歴史的低水準に達する",
+      "shortTitle": "歴史的低水準の暴力的紛争",
+      "category": "Civilization",
+      "description": "世界の暴力的紛争が歴史的低水準に達し、惑星統治、人間とAIの権利、法的に認められたAI管理都市、歴史的に低い暴力的紛争を確立する。",
+      "layerId": "civilization",
+      "domains": [
+        "governance",
+        "rights",
+        "planetary-civilization"
+      ],
+      "maturity": "planetary-scale-adoption",
+      "timeframe": {
+        "startYear": 2114,
+        "endYear": 2115
+      },
+      "impactLevel": "extreme",
+      "civilizationImpact": "世界の暴力的紛争が歴史的低水準に達することは惑星変革の決定的節目となり、人類が意識的に管理される文明として地球を能動的に修復、最適化、保護できるようにする。",
+      "signals": [
+        "統治が国ごとの危機対応を超えて拡張する",
+        "権利枠組みがAIと高度システムに適応する",
+        "世界機関が資源、平和、公共インフラを調整する"
+      ],
+      "implications": [
+        "文明が惑星規模でより協調的になる",
+        "政治システムが豊かさと自動化に適応する",
+        "人類は惑星変革のための制度を得る"
+      ],
+      "image": {
+        "alt": "歴史的低水準に達する世界の暴力的紛争",
+        "prompts": [
+          "global Violent Conflict Reaches Historic Low, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing global Violent Conflict Reaches Historic Low, planetary transformation with restored ecosystems, AI-designed cities, zero-waste industry, autonomous infrastructure, and consciously stewarded Earth, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of global Violent Conflict Reaches Historic Low, elegant practical future infrastructure, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating global Violent Conflict Reaches Historic Low, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-04/era-04-global-violent-conflict-reaches-historic-low.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-04/mobile/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-04/thumbnail/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-04/desktop/era-04-global-violent-conflict-reaches-historic-low.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-04/open_graph/era-04-global-violent-conflict-reaches-historic-low.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}

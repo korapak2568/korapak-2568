@@ -1,0 +1,251 @@
+{
+  "roadmapId": "future-civilization-roadmap",
+  "title": "Feuille de route de la civilisation future",
+  "description": "Une feuille de route à long terme, à l’échelle civilisationnelle, couvrant la science, la technologie, la société, la restauration de la Terre, l’expansion spatiale et les futurs post-humains.",
+  "eras": [
+    {
+      "id": "era-01",
+      "order": 1,
+      "title": "Percées du futur proche",
+      "file": "/content/future-roadmap/era01/fr.json"
+    },
+    {
+      "id": "era-02",
+      "order": 2,
+      "title": "Première civilisation spatiale",
+      "file": "/content/future-roadmap/era02/fr.json"
+    },
+    {
+      "id": "era-03",
+      "order": 3,
+      "title": "Fondations post-rareté",
+      "file": "/content/future-roadmap/era03/fr.json"
+    },
+    {
+      "id": "era-04",
+      "order": 4,
+      "title": "Transformation planétaire",
+      "file": "/content/future-roadmap/era04/fr.json"
+    },
+    {
+      "id": "era-05",
+      "order": 5,
+      "title": "Civilisation humaine avancée",
+      "file": "/content/future-roadmap/era05/fr.json"
+    },
+    {
+      "id": "era-06",
+      "order": 6,
+      "title": "Espace profond et transition post-humaine",
+      "file": "/content/future-roadmap/era06/fr.json"
+    },
+    {
+      "id": "era-07",
+      "order": 7,
+      "title": "Civilisation interstellaire",
+      "file": "/content/future-roadmap/era07/fr.json"
+    },
+    {
+      "id": "era-08",
+      "order": 8,
+      "title": "Coexistence galactique",
+      "file": "/content/future-roadmap/era08/fr.json"
+    }
+  ],
+  "ui": {
+    "navigation": {
+      "indexLabel": "Civilisation future",
+      "eraLabel": "Ère"
+    },
+    "actions": {
+      "viewSignal": "Voir le signal"
+    },
+    "metadata": {
+      "siteName": "Chorn Planet",
+      "titleSuffix": "Feuille de route de la civilisation future",
+      "fallbackTitle": "Feuille de route de la civilisation future | Chorn Planet"
+    },
+    "landingHero": {
+      "eyebrow": "Civilisation future Chorn Planet"
+    },
+    "landingSignalGallery": {
+      "eyebrow": "Galerie des signaux de civilisation future",
+      "title": "Signaux aléatoires issus des ères chargées de la feuille de route.",
+      "description": "La page d’accueil se rafraîchit avec des signaux sélectionnés dans chaque ère chargée, donnant aux visiteurs une première vision plus large de la feuille de route de la Civilisation future tout en gardant chaque section d’ère claire et facile à parcourir."
+    },
+    "layersSection": {
+      "eyebrow": "Couches de la feuille de route",
+      "title": "Conçue comme un système de civilisation."
+    },
+    "eraPage": {
+      "summaryDescription": "L’ère est organisée en signaux pratiques : ce qui change, quand cela pourrait émerger, à quelle couche cela appartient et quelles conséquences cela crée pour la conception de la civilisation.",
+      "continueTimeline": {
+        "eyebrow": "Continuer la chronologie",
+        "title": "Ouvrir une autre ère de civilisation."
+      }
+    },
+    "itemPage": {
+      "relatedSignals": {
+        "eyebrowPrefix": "Plus de",
+        "title": "Continuez à travers l’ensemble des signaux de civilisation.",
+        "descriptionPrefix": "Parcourez la",
+        "descriptionSuffix": "feuille de route et ouvrez directement depuis cette page un autre nœud de civilisation future."
+      },
+      "detail": {
+        "timeframeLabel": "Période",
+        "layerLabel": "Couche",
+        "impactLabel": "Impact",
+        "maturityLabel": "Maturité",
+        "signalsTitle": "Signaux",
+        "implicationsTitle": "Implications"
+      }
+    },
+    "homeHero": {
+      "eyebrow": "Systèmes futurs Chorn Planet",
+      "title": "Civilisation future",
+      "description": "Chorn Planet relie les médias de civilisation, la narration par feuille de route et le développement technologique au sein d’une plateforme premium pour les villes de long terme, les systèmes alimentaires, la mobilité, l’espace, l’IA et les futurs humains.",
+      "actions": {
+        "openRoadmap": "Ouvrir la feuille de route",
+        "exploreRoadmap": "Explorer la civilisation future"
+      },
+      "railAriaLabel": "Signaux de feuille de route mis en avant",
+      "imageCaptionEyebrow": "Signal de civilisation de phase un"
+    },
+    "homePreview": {
+      "eyebrow": "Feuille de route de la civilisation future",
+      "title": "Signaux de la feuille de route civilisationnelle",
+      "description": "Cet ensemble se rafraîchit à partir des signaux actifs de l’Ère 01 à l’Ère 08, afin que la page d’accueil continue de faire émerger différents signaux de civilisation, de médias et de technologie.",
+      "actionLabel": "Explorer l’ère"
+    }
+  },
+  "taxonomy": {
+    "layers": [
+      {
+        "id": "science",
+        "title": "Couche science",
+        "description": "Découvertes fondamentales en physique, chimie, biologie, sciences planétaires et cosmologie."
+      },
+      {
+        "id": "technology",
+        "title": "Couche technologie",
+        "description": "Systèmes appliqués, machines, plateformes, outils et infrastructures qui étendent les capacités humaines."
+      },
+      {
+        "id": "biotech-health",
+        "title": "Couche biotech et santé",
+        "description": "Médecine, longévité, génétique, régénération, prévention des maladies et augmentation humaine."
+      },
+      {
+        "id": "environment",
+        "title": "Couche environnement",
+        "description": "Restauration climatique, rétablissement de la biodiversité, eau propre, élimination de la pollution et réparation planétaire."
+      },
+      {
+        "id": "society",
+        "title": "Couche société",
+        "description": "Éducation, travail, gouvernance, paix, droit, culture, inégalités et bien-être collectif."
+      },
+      {
+        "id": "civilization",
+        "title": "Couche civilisation",
+        "description": "Villes, mégastructures, infrastructures, économie, systèmes planétaires et conception civilisationnelle de long terme."
+      },
+      {
+        "id": "space",
+        "title": "Couche espace",
+        "description": "Lune, Mars, infrastructure orbitale, exploitation minière des astéroïdes, espace profond et expansion interstellaire."
+      },
+      {
+        "id": "consciousness",
+        "title": "Couche post-humaine et conscience",
+        "description": "Interfaces neuronales, mémoire, identité, corps synthétiques, droits de l’IA et nouvelles formes d’intelligence."
+      }
+    ],
+    "categories": [
+      {
+        "id": "ai-computing",
+        "title": "IA et informatique"
+      },
+      {
+        "id": "robotics",
+        "title": "Robotique"
+      },
+      {
+        "id": "biology-medicine",
+        "title": "Biologie et médecine"
+      },
+      {
+        "id": "energy",
+        "title": "Énergie"
+      },
+      {
+        "id": "materials-manufacturing",
+        "title": "Matériaux et fabrication"
+      },
+      {
+        "id": "environment",
+        "title": "Environnement"
+      },
+      {
+        "id": "space",
+        "title": "Espace"
+      },
+      {
+        "id": "society-economy",
+        "title": "Société et économie"
+      },
+      {
+        "id": "physics",
+        "title": "Physique"
+      },
+      {
+        "id": "civilization",
+        "title": "Civilisation"
+      }
+    ],
+    "sub-categories": [
+      {
+        "id": "artificial-intelligence",
+        "title": "Intelligence artificielle",
+        "layerId": "technology"
+      },
+      {
+        "id": "fusion-energy",
+        "title": "Énergie de fusion",
+        "layerId": "technology"
+      },
+      {
+        "id": "regenerative-medicine",
+        "title": "Médecine régénérative",
+        "layerId": "biotech-health"
+      },
+      {
+        "id": "lunar-civilization",
+        "title": "Civilisation lunaire",
+        "layerId": "space"
+      },
+      {
+        "id": "mars-civilization",
+        "title": "Civilisation martienne",
+        "layerId": "space"
+      }
+    ],
+    "tags": [
+      "IA",
+      "Robotique",
+      "Fusion",
+      "Quantique",
+      "Biotech",
+      "Génétique",
+      "Cancer",
+      "Longévité",
+      "Climat",
+      "Matériaux",
+      "Lune",
+      "Mars",
+      "Infrastructure orbitale",
+      "Mégastructure",
+      "Premier contact"
+    ]
+  }
+}

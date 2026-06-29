@@ -1,0 +1,1495 @@
+{
+  "locale": "fr",
+  "content": {
+    "hero": {
+      "eyebrow": "Chorn Planet Style",
+      "title": "Une nouvelle définition du style gracieux",
+      "description": "Un espace de style premium qui réunit toutes les dimensions du lifestyle et du voyage en une seule identité. Nous tissons des récits de voyage avec un regard raffiné, en reliant l’élégance thaïlandaise traditionnelle, la douceur des resorts côtiers et l’esprit d’aventure des montagnes dans un langage visuel complet. Il est créé pour celles et ceux qui aiment un luxe simple, précieux et prêt à les accompagner sur chaque chemin de vie.",
+      "primaryCta": "Explorer les ensembles de style",
+      "imageStrategy": "Utiliser une bande éditoriale de trois images au-dessus de la ligne de flottaison : une image principale verticale pleine hauteur couple/civilisation, accompagnée d’une image de resort côtier et d’une image de voyage à la cascade.",
+      "images": [
+        {
+          "slot": "primary",
+          "src": "/images/dev/styles/set1.png",
+          "alt": "Couple Lanna",
+          "sizes": "(max-width: 768px) 100vw, 36vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set1.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set1.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set1.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        },
+        {
+          "slot": "secondary",
+          "src": "/images/dev/styles/set2.png",
+          "alt": "Tenue florale de resort côtier",
+          "sizes": "(max-width: 768px) 50vw, 18vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set2.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set2.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set2.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        },
+        {
+          "slot": "tertiary",
+          "src": "/images/dev/styles/set3.png",
+          "alt": "Look de voyage",
+          "sizes": "(max-width: 768px) 50vw, 18vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set3.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set3.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set3.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        }
+      ]
+    },
+    "layoutSections": [
+      {
+        "id": "hero-civilization-outfit",
+        "label": "Introduction",
+        "title": "Style vestimentaire",
+        "description": "La première section doit montrer immédiatement la diversité de Chorn Planet : voyage en couple, élégance Lanna féminine, looks resort casual, voyage montagne pour hommes, scènes lifestyle et looks matinaux de luxe doux."
+      },
+      {
+        "id": "outfit-universe",
+        "label": "Univers du style vestimentaire",
+        "title": "Un canal, plusieurs publics",
+        "description": "Utiliser des cartes de catégories pour montrer que Outfit n’est pas seulement de la mode, mais aussi du styling touristique, du storytelling de civilisation, une ambiance produit, TikTok Commerce, lifestyle et identité luxe."
+      },
+      {
+        "id": "featured-outfit-sets",
+        "label": "Ensembles vedettes",
+        "title": "Ensembles de style vestimentaire"
+      },
+      {
+        "id": "lanna-luxury",
+        "label": "Lanna Luxury",
+        "title": "Élégance traditionnelle et raffinement éditorial moderne",
+        "description": "Montrer comment les sinh, blouses portefeuille, détails dorés et décors naturels doux peuvent devenir du contenu Story Commerce premium sans ressembler à un catalogue de costumes."
+      },
+      {
+        "id": "resort-and-travel",
+        "label": "Resort et voyage",
+        "title": "Style pour la côte, la montagne et les déplacements",
+        "description": "Couvrir des looks de voyage pratiques pour resorts de plage, cascades, vallées fleuries, stations MTS, aéroports et routes touristiques premium."
+      },
+      {
+        "id": "smart-food-lifestyle",
+        "label": "Lifestyle cuisine locale",
+        "title": "Le style vestimentaire relie histoires culinaires et commerce quotidien",
+        "description": "Mêler scènes de café, bassins de lotus et présentation culinaire dans des récits lifestyle pouvant ensuite se connecter à LINE OA ordering et MenuMatch."
+      },
+      {
+        "id": "commerce-and-tiktok",
+        "label": "Story Commerce",
+        "title": "Prêt pour le storytelling produit TikTok-first",
+        "description": "Chaque ensemble doit soutenir tags produits, idées d’épisodes courts, CTA et emplacements de liens Marketplace sans vente agressive."
+      },
+      {
+        "id": "production-guidelines",
+        "label": "Production",
+        "title": "Prêt pour les prompts, sûr et scalable",
+        "description": "Conserver les règles de production pour le ratio, la résolution Style Sub-Zone, le traitement Ultra Policy Safe pour le sleepwear et l’absence de publication automatique sans revue."
+      }
+    ],
+    "metadata": {
+      "title": "Style mode et vêtements",
+      "description": "Explorez des collections allant du luxe Lanna aux resorts côtiers, aux voyages en montagne et à différents styles de vie."
+    },
+    "detailPage": {
+      "tagListLabel": "Tags de style",
+      "externalCta": "Explorer sur TikTok",
+      "relatedLabel": "Autres histoires de style",
+      "relatedTitle": "Explorer plus de styles",
+      "relatedCardCta": "Voir le style",
+      "notFoundTitle": "Cet ensemble de style est introuvable",
+      "metadataSuffix": "Chorn Planet Style"
+    }
+  },
+  "outfitSets": [
+    {
+      "id": "rice-valley-couple-lanna",
+      "order": 1,
+      "title": "Couple Lanna",
+      "visualSummary": "Un look romantique de couple Lanna pour raconter une vallée de lotus et le tourisme rural.",
+      "image": {
+        "src": "/images-platform/styles/01-rice-valley-couple-lanna.png",
+        "alt": "Couple Lanna",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/01-rice-valley-couple-lanna.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/01-rice-valley-couple-lanna.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/01-rice-valley-couple-lanna.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
+            "alt": "Couple Lanna 1",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
+            "alt": "Couple Lanna 2",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
+            "alt": "Couple Lanna 3",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
+            "alt": "Couple Lanna 4",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "Lorsque l’amour fleurit dans l’étreinte des montagnes et des rizières dorées, bienvenue dans une paisible vallée Lanna où une nouvelle histoire d’amour se tisse avec beauté. Au bord d’un café de lotus et de rizières verdoyantes, ce look porte la chaleur de l’hospitalité rurale et la grâce du nord traditionnel, affinées par une touche éditoriale moderne, afin que chaque moment avec l’être aimé devienne un souvenir classique et intemporel.",
+      "tags": [
+        "Couple Lanna",
+        "Café de la vallée du riz",
+        "Café du bassin de lotus",
+        "Voyage culturel"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GY81f/"
+    },
+    {
+      "id": "coastal-resort-floral",
+      "order": 2,
+      "title": "Tenue florale",
+      "visualSummary": "Une tenue florale pour resorts côtiers, promenades de plage, villas sur l’eau et lifestyle estival premium.",
+      "image": {
+        "src": "/images-platform/styles/02-coastal-resort-floral.png",
+        "alt": "Tenue florale",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
+            "alt": "Tenue florale 1",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
+            "alt": "Tenue florale 2",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
+            "alt": "Tenue florale 3",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
+            "alt": "Tenue florale 4",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Arrival of Summer : esthétique du mouvement et de l’imprimé floral. Quand l’été arrive, il est temps de passer à un look resort stylé. Cette collection florale est pensée pour des moments de loisir luxueux, de la promenade au bord de la mer au séjour en villa privée sur l’eau bleue. Les couleurs et motifs choisis avec soin apportent un charme raffiné, tandis que les tissus légers et les silhouettes détendues expriment un luxe simple et mémorable.",
+      "tags": [
+        "Resort côtier",
+        "Tenue florale",
+        "Voyage d’été",
+        "Promenade de plage"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5sWkgR/"
+    },
+    {
+      "id": "waterfall-citrus-travel",
+      "order": 3,
+      "title": "Look de voyage",
+      "visualSummary": "Un look de voyage lumineux à manches courtes pour plateformes de cascade, sentiers nature et tourisme d’aventure légère.",
+      "image": {
+        "src": "/images-platform/styles/03-waterfall-citrus-travel.png",
+        "alt": "Look de voyage",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/03-waterfall-citrus-travel.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/03-waterfall-citrus-travel.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/03-waterfall-citrus-travel.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
+            "alt": "Look de voyage 1",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
+            "alt": "Look de voyage 2",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
+            "alt": "Look de voyage 3",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
+            "alt": "Look de voyage 4",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "Light Adventure, Bright Style : là où la nature rencontre la couleur. Voyager ne signifie pas seulement partir à l’aventure, c’est aussi intégrer le style à la nature avec justesse. Cette pièce lumineuse à manches courtes rafraîchit l’atmosphère du voyage, que ce soit dans la brume d’une cascade ou sur un sentier naturel. Mobile et facile à porter, elle crée un style Light Adventure accessible et énergise les photos et contenus de voyage.",
+      "tags": [
+        "Cascade",
+        "Chemise citrus",
+        "Voyage nature",
+        "Aventure légère",
+        "Style frais"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G9eXL/"
+    },
+    {
+      "id": "lotus-smart-food-cafe",
+      "order": 4,
+      "title": "Café du bassin de lotus",
+      "visualSummary": "Un look café aux tons doux pour plats dressés, bassins de lotus et repas locaux.",
+      "image": {
+        "src": "/images-platform/styles/04-lotus-smart-food-cafe.png",
+        "alt": "Café du bassin de lotus",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/04-lotus-smart-food-cafe.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/04-lotus-smart-food-cafe.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/04-lotus-smart-food-cafe.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
+            "alt": "Café du bassin de lotus 1",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
+            "alt": "Café du bassin de lotus 2",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
+            "alt": "Café du bassin de lotus 3",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
+            "alt": "Café du bassin de lotus 4",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Art of Everyday Elegance : le charme de la simplicité au bord d’un bassin de lotus. Le rose pastel doux rencontre la netteté d’un short blanc pour créer un look détente frais et classique. Que l’on savoure un café préféré au bord de l’eau ou un repas local dans une ambiance rurale chaleureuse, cet ensemble transforme le paysage et l’histoire du menu en moments quotidiens élégants, délicats et photogéniques.",
+      "tags": [
+        "Café du bassin de lotus",
+        "Cuisine locale",
+        "Histoire de menu",
+        "Lifestyle Commerce"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GC2N9/"
+    },
+    {
+      "id": "lotus-lanna-ceremony",
+      "order": 5,
+      "title": "Tenue Lanna",
+      "visualSummary": "Une tenue Lanna violette raffinée pour passerelles de lotus, voyage culturel et identité Quiet Luxury.",
+      "image": {
+        "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+        "alt": "Tenue Lanna",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
+            "alt": "Tenue Lanna 1",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
+            "alt": "Tenue Lanna 2",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
+            "alt": "Tenue Lanna 3",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
+            "alt": "Tenue Lanna 4",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Philosophy of Quiet Lanna Luxury : valeur intemporelle et esthétique du calme. Ce look élève l’artisanat Lanna vers un langage contemporain et invite à une beauté durable dans un café de lotus et une hospitalité culturelle chaleureuse. La tenue violette, noble et finement coupée, avec ses fils dorés scintillants, reflète un luxe simple porteur de valeur intérieure.",
+      "tags": [
+        "Passerelle de lotus",
+        "Quiet Luxury",
+        "Détails dorés",
+        "Portrait culturel"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G5Ejm/"
+    },
+    {
+      "id": "mountain-hydrangea-gentleman",
+      "order": 6,
+      "title": "Gentleman de la vallée d’hortensias",
+      "visualSummary": "Un look resortwear masculin net, souligné par un imprimé tropical monochrome noir et blanc, conçu pour terrasses de montagne et vallées d’hortensias.",
+      "image": {
+        "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+        "alt": "Gentleman de la vallée d’hortensias",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
+            "alt": "Gentleman de la vallée d’hortensias 1",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
+            "alt": "Gentleman de la vallée d’hortensias 2",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
+            "alt": "Gentleman de la vallée d’hortensias 3",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
+            "alt": "Gentleman de la vallée d’hortensias 4",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Mountain Resort Gentleman : une nouvelle définition du cool entre brise froide et paysage de montagne. Ce look resortwear masculin équilibre allure smart et détente pour les voyages en climat frais. La pièce forte présente un imprimé tropical noir et blanc, une silhouette ajustée et une coupe précise. Elle convient aux cafés en terrasse de montagne, aux photos dans les vallées d’hortensias, au contenu menswear premium et au destination retail.",
+      "tags": [
+        "Resortwear homme",
+        "Vallée d’hortensias",
+        "Terrasse de montagne",
+        "Imprimé tropical",
+        "Voyage premium"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GDNpv/"
+    },
+    {
+      "id": "mountain-lanna-noble-woman",
+      "order": 7,
+      "title": "Dame Lanna",
+      "visualSummary": "Une tenue Lanna raffinée en vert et or, pensée pour vallées fleuries et terrasses de montagne, prête pour des portraits culturels premium.",
+      "image": {
+        "src": "/images-platform/styles/07-mountain-lanna-noble-woman.png",
+        "alt": "Dame Lanna",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/07-mountain-lanna-noble-woman.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/07-mountain-lanna-noble-woman.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
+            "alt": "Dame Lanna 1",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
+            "alt": "Dame Lanna 2",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
+            "alt": "Dame Lanna 3",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
+            "alt": "Dame Lanna 4",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Lanna Signature : une identité d’élégance intemporelle. Ce look féminin Lanna unit vert botanique et or précieux pour libérer le charme d’une esthétique de civilisation. Sa structure accompagne chaque posture avec grâce, particulièrement dans les vallées fleuries et sur les terrasses de montagne calmes. Ce n’est pas seulement un vêtement, mais une signature visuelle destinée aux portraits culturels et au storytelling de destinations premium.",
+      "tags": [
+        "Lanna élégant",
+        "Fleurs de montagne",
+        "Vert et or",
+        "Identité culturelle",
+        "Portrait éditorial"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G9se5/"
+    },
+    {
+      "id": "flower-valley-gentleman-casual",
+      "order": 8,
+      "title": "Gentleman casual dans la vallée fleurie",
+      "visualSummary": "Une chemise florale colorée pour le contenu voyage masculin, facile à porter lors de promenades de jardin et d’escapades familiales chaleureuses.",
+      "image": {
+        "src": "/images-platform/styles/08-flower-valley-gentleman-casual.png",
+        "alt": "Gentleman casual dans la vallée fleurie",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/08-flower-valley-gentleman-casual.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/08-flower-valley-gentleman-casual.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
+            "alt": "Gentleman casual dans la vallée fleurie 1",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
+            "alt": "Gentleman casual dans la vallée fleurie 2",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
+            "alt": "Gentleman casual dans la vallée fleurie 3",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
+            "alt": "Gentleman casual dans la vallée fleurie 4",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Bright Casual Gentleman : donner vie aux voyages en famille et aux jours de repos. Un look floral casual transforme les vacances ordinaires en moments pleins de sourires. Le design mêle fraîcheur, énergie et accessibilité pour les promenades de jardin, les vues de vallée et les escapades familiales. Naturel et confortable, il reste raffiné dans les détails et prêt pour les photos de famille comme pour le storytelling voyage premium.",
+      "tags": [
+        "Mode homme casual",
+        "Vallée fleurie",
+        "Promenade de jardin",
+        "Voyage en famille",
+        "Histoire de couleur"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GDe8W/"
+    },
+    {
+      "id": "coastal-mts-traveler",
+      "order": 9,
+      "title": "Premier pas vers la brise marine",
+      "visualSummary": "Un look de voyage aux tons doux, avec bagage et sac tissé, créé pour la transition entre station de transport, marina et première porte vers la brise marine.",
+      "image": {
+        "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+        "alt": "Premier pas vers la brise marine",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
+            "alt": "Premier pas vers la brise marine 1",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
+            "alt": "Premier pas vers la brise marine 2",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
+            "alt": "Premier pas vers la brise marine 3",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
+            "alt": "Premier pas vers la brise marine 4",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "Gateway to the Sea : le charme d’un voyage léger à chaque pas. Commencer le séjour avec style dès le premier instant grâce à une tenue de voyage aux tons doux, pensée pour les transitions : traverser une gare, arriver à la marina, puis passer la première porte vers l’horizon et l’air côtier. Le bagage classique et le sac tissé naturel soulignent un style propre, détendu et pratique, idéal pour raconter une route de voyage.",
+      "tags": [
+        "Porte vers la mer",
+        "Arrivée à la marina",
+        "Travel retail",
+        "Histoire d’itinéraire"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GhPTh/"
+    },
+    {
+      "id": "soft-morning-luxury-safe",
+      "order": 10,
+      "title": "L’esthétique d’un doux look du matin",
+      "visualSummary": "Un look matinal doux créé pour les heures wellness d’un hôtel de luxe, accompagné de café chaud et de calme matinal.",
+      "image": {
+        "src": "/images-platform/styles/10-soft-morning-luxury-safe.png",
+        "alt": "L’esthétique d’un doux look du matin",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/10-soft-morning-luxury-safe.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/10-soft-morning-luxury-safe.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/10-soft-morning-luxury-safe.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
+            "alt": "L’esthétique d’un doux look du matin 1",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
+            "alt": "L’esthétique d’un doux look du matin 2",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
+            "alt": "L’esthétique d’un doux look du matin 3",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
+            "alt": "L’esthétique d’un doux look du matin 4",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "The Art of Morning Wellness : une nouvelle définition du luxe silencieux. Commencer la journée dans un véritable calme, au sein d’une atmosphère wellness d’hôtel conçue pour une détente délicate. Le café préféré et le service attentif élèvent ce moment spécial. Les tissus de qualité accompagnent doucement le mouvement du corps et reflètent une beauté simple, posée et sans ostentation, transformant le repos en instant classique intemporel.",
+      "tags": [
+        "Luxe du matin",
+        "Wellness hôtel",
+        "Rituel café",
+        "Style sûr",
+        "Hospitalité"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GuS35/"
+    }
+  ]
+}

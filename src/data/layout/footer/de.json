@@ -1,0 +1,131 @@
+{
+  "title": "Chorn Planet",
+  "link": "/",
+  "www": "chornplanet.com",
+  "description": "Chorn Planet präsentiert digitale Produkte, KI-Dienste, Smart-City-Konzepte und Plattform-Engineering-Kompetenzen aus Chiang Mai für ein globales Publikum.",
+  "social": {
+    "title": "Soziale Medien",
+    "items": []
+  },
+  "important": {
+    "title": "Wichtige Links",
+    "items": [
+      {
+        "label": "Über uns",
+        "link": "/about/"
+      },
+      {
+        "label": "Technologie",
+        "link": "/technology/"
+      },
+      {
+        "label": "Kontakt",
+        "link": "/contact/"
+      },
+      {
+        "label": "Nutzungsbedingungen",
+        "link": "/terms-of-service/"
+      },
+      {
+        "label": "Datenschutzrichtlinie",
+        "link": "/privacy-policy/"
+      },
+      {
+        "label": "Arbeitsplatzrichtlinie",
+        "link": "/workplace-policy/"
+      }
+    ]
+  },
+  "project": {
+    "title": "Projekte",
+    "items": [
+      {
+        "label": "Luxury-Projekt",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart-Food-System",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Graceful Style",
+        "link": "/style/"
+      },
+      {
+        "label": "Zukunft Chiang Mai",
+        "link": "/smart-mobility/chiang-mai/vision-smart-mobility-northern-gateway/"
+      },
+      {
+        "label": "Chorn Planet",
+        "link": "/"
+      }
+    ]
+  },
+  "smartCity": {
+    "title": "Plattform",
+    "items": [
+      {
+        "label": "Zukunftszivilisation",
+        "link": "/future-civilization/"
+      },
+      {
+        "label": "Luxury",
+        "link": "/luxury/"
+      },
+      {
+        "label": "Smart Food",
+        "link": "/smart-food/"
+      },
+      {
+        "label": "Smart City",
+        "link": "/smart-city/"
+      },
+      {
+        "label": "Smart Mobility",
+        "link": "/smart-mobility/"
+      },
+      {
+        "label": "Story",
+        "link": "/story/"
+      },
+      {
+        "label": "Style",
+        "link": "/style/"
+      }
+    ]
+  },
+  "connect": {
+    "title": "Verbinden",
+    "items": [
+      {
+        "label": "Kontakt",
+        "link": "/contact",
+        "ariaLabel": "Kontaktseite von Chorn Planet"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/company/chornplanet/",
+        "ariaLabel": "Chorn Planet auf LinkedIn"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/chornplanet",
+        "ariaLabel": "Chorn Planet auf GitHub"
+      },
+      {
+        "label": "TikTok",
+        "link": "https://tiktok.com/@chornplanet"
+      },
+      {
+        "label": "Facebook",
+        "link": "https://www.facebook.com/chornplanet",
+        "ariaLabel": "Chorn Planet auf Facebook"
+      },
+      {
+        "label": "X",
+        "link": "https://x.com/chornplanet",
+        "ariaLabel": "Chorn Planet auf X"
+      }
+    ]
+  }
+}

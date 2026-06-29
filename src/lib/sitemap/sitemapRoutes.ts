@@ -213,7 +213,7 @@ function getLocalizedUrl(locale: string, routePath: string): string {
     return `${SITE_URL}/${locale}${routePath}`;
 }
 
-export async function getLocalizedSitemapEntries(locales: string[]): Promise<MetadataRoute.Sitemap> {
+export async function getLocalizedSitemapEntries(locales: readonly string[]): Promise<MetadataRoute.Sitemap> {
     const routes = await getDiscoveredRoutes();
     const generatedAt = new Date();
 

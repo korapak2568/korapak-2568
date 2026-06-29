@@ -1,0 +1,251 @@
+{
+  "roadmapId": "future-civilization-roadmap",
+  "title": "Lộ trình Văn minh Tương lai",
+  "description": "Một lộ trình dài hạn ở quy mô văn minh về khoa học, công nghệ, xã hội, phục hồi Trái Đất, mở rộng không gian và tương lai hậu nhân loại.",
+  "eras": [
+    {
+      "id": "era-01",
+      "order": 1,
+      "title": "Đột phá Tương lai Gần",
+      "file": "/content/future-roadmap/era01/vi.json"
+    },
+    {
+      "id": "era-02",
+      "order": 2,
+      "title": "Văn minh Không gian Sơ khai",
+      "file": "/content/future-roadmap/era02/vi.json"
+    },
+    {
+      "id": "era-03",
+      "order": 3,
+      "title": "Nền tảng Hậu Khan hiếm",
+      "file": "/content/future-roadmap/era03/vi.json"
+    },
+    {
+      "id": "era-04",
+      "order": 4,
+      "title": "Chuyển đổi Hành tinh",
+      "file": "/content/future-roadmap/era04/vi.json"
+    },
+    {
+      "id": "era-05",
+      "order": 5,
+      "title": "Văn minh Nhân loại Tiên tiến",
+      "file": "/content/future-roadmap/era05/vi.json"
+    },
+    {
+      "id": "era-06",
+      "order": 6,
+      "title": "Không gian Sâu và Chuyển đổi Hậu Nhân loại",
+      "file": "/content/future-roadmap/era06/vi.json"
+    },
+    {
+      "id": "era-07",
+      "order": 7,
+      "title": "Văn minh Liên sao",
+      "file": "/content/future-roadmap/era07/vi.json"
+    },
+    {
+      "id": "era-08",
+      "order": 8,
+      "title": "Cùng tồn tại cấp Ngân hà",
+      "file": "/content/future-roadmap/era08/vi.json"
+    }
+  ],
+  "ui": {
+    "navigation": {
+      "indexLabel": "Văn minh Tương lai",
+      "eraLabel": "Kỷ nguyên"
+    },
+    "actions": {
+      "viewSignal": "Xem tín hiệu"
+    },
+    "metadata": {
+      "siteName": "Chorn Planet",
+      "titleSuffix": "Lộ trình Văn minh Tương lai",
+      "fallbackTitle": "Lộ trình Văn minh Tương lai | Chorn Planet"
+    },
+    "landingHero": {
+      "eyebrow": "Văn minh Tương lai Chorn Planet"
+    },
+    "landingSignalGallery": {
+      "eyebrow": "Thư viện Tín hiệu Văn minh Tương lai",
+      "title": "Các tín hiệu ngẫu nhiên từ những kỷ nguyên lộ trình đã tải.",
+      "description": "Trang đích được làm mới bằng các tín hiệu được chọn từ mọi kỷ nguyên đã tải, giúp người xem có cái nhìn đầu tiên rộng hơn về lộ trình Văn minh Tương lai trong khi vẫn giữ từng phần kỷ nguyên tập trung và dễ quét."
+    },
+    "layersSection": {
+      "eyebrow": "Các lớp Lộ trình",
+      "title": "Được thiết kế như một hệ thống văn minh."
+    },
+    "eraPage": {
+      "summaryDescription": "Kỷ nguyên được tổ chức thành các tín hiệu thực tiễn: điều gì thay đổi, khi nào có thể xuất hiện, thuộc lớp nào và tạo ra hệ quả gì cho thiết kế văn minh.",
+      "continueTimeline": {
+        "eyebrow": "Tiếp tục Dòng thời gian",
+        "title": "Mở một kỷ nguyên văn minh khác."
+      }
+    },
+    "itemPage": {
+      "relatedSignals": {
+        "eyebrowPrefix": "Thêm từ",
+        "title": "Tiếp tục qua bộ tín hiệu văn minh.",
+        "descriptionPrefix": "Di chuyển qua",
+        "descriptionSuffix": "lộ trình và mở một nút văn minh tương lai khác trực tiếp từ trang này."
+      },
+      "detail": {
+        "timeframeLabel": "Khung thời gian",
+        "layerLabel": "Lớp",
+        "impactLabel": "Tác động",
+        "maturityLabel": "Độ trưởng thành",
+        "signalsTitle": "Tín hiệu",
+        "implicationsTitle": "Hàm ý"
+      }
+    },
+    "homeHero": {
+      "eyebrow": "Các hệ thống tương lai Chorn Planet",
+      "title": "Văn minh Tương lai",
+      "description": "Chorn Planet kết nối truyền thông văn minh, kể chuyện bằng lộ trình và phát triển công nghệ vào một nền tảng cao cấp cho thành phố dài hạn, hệ thống thực phẩm, di chuyển, không gian, AI và tương lai con người.",
+      "actions": {
+        "openRoadmap": "Mở lộ trình",
+        "exploreRoadmap": "Khám phá Văn minh Tương lai"
+      },
+      "railAriaLabel": "Tín hiệu lộ trình nổi bật",
+      "imageCaptionEyebrow": "Tín hiệu văn minh giai đoạn một"
+    },
+    "homePreview": {
+      "eyebrow": "Lộ trình Văn minh Tương lai",
+      "title": "Tín hiệu Lộ trình Văn minh",
+      "description": "Bộ này được làm mới từ các tín hiệu đang hoạt động xuyên suốt Kỷ nguyên 01 đến Kỷ nguyên 08, nên trang chủ liên tục hiển thị các tín hiệu khác nhau về văn minh, truyền thông và công nghệ.",
+      "actionLabel": "Khám phá Kỷ nguyên"
+    }
+  },
+  "taxonomy": {
+    "layers": [
+      {
+        "id": "science",
+        "title": "Lớp Khoa học",
+        "description": "Những khám phá nền tảng trong vật lý, hóa học, sinh học, khoa học hành tinh và vũ trụ học."
+      },
+      {
+        "id": "technology",
+        "title": "Lớp Công nghệ",
+        "description": "Các hệ thống ứng dụng, máy móc, nền tảng, công cụ và hạ tầng mở rộng năng lực con người."
+      },
+      {
+        "id": "biotech-health",
+        "title": "Lớp Công nghệ sinh học & Sức khỏe",
+        "description": "Y học, tuổi thọ, di truyền, tái tạo, phòng bệnh và nâng cao năng lực con người."
+      },
+      {
+        "id": "environment",
+        "title": "Lớp Môi trường",
+        "description": "Phục hồi khí hậu, khôi phục đa dạng sinh học, nước sạch, loại bỏ ô nhiễm và sửa chữa hành tinh."
+      },
+      {
+        "id": "society",
+        "title": "Lớp Xã hội",
+        "description": "Giáo dục, việc làm, quản trị, hòa bình, luật pháp, văn hóa, bất bình đẳng và phúc lợi tập thể."
+      },
+      {
+        "id": "civilization",
+        "title": "Lớp Văn minh",
+        "description": "Thành phố, siêu cấu trúc, hạ tầng, kinh tế, hệ thống hành tinh và thiết kế văn minh dài hạn."
+      },
+      {
+        "id": "space",
+        "title": "Lớp Không gian",
+        "description": "Mặt Trăng, Sao Hỏa, hạ tầng quỹ đạo, khai thác tiểu hành tinh, không gian sâu và mở rộng liên sao."
+      },
+      {
+        "id": "consciousness",
+        "title": "Lớp Hậu nhân loại & Ý thức",
+        "description": "Giao diện thần kinh, ký ức, bản sắc, cơ thể tổng hợp, quyền AI và các hình thái trí tuệ mới."
+      }
+    ],
+    "categories": [
+      {
+        "id": "ai-computing",
+        "title": "AI & Điện toán"
+      },
+      {
+        "id": "robotics",
+        "title": "Robot học"
+      },
+      {
+        "id": "biology-medicine",
+        "title": "Sinh học & Y học"
+      },
+      {
+        "id": "energy",
+        "title": "Năng lượng"
+      },
+      {
+        "id": "materials-manufacturing",
+        "title": "Vật liệu & Sản xuất"
+      },
+      {
+        "id": "environment",
+        "title": "Môi trường"
+      },
+      {
+        "id": "space",
+        "title": "Không gian"
+      },
+      {
+        "id": "society-economy",
+        "title": "Xã hội & Kinh tế"
+      },
+      {
+        "id": "physics",
+        "title": "Vật lý"
+      },
+      {
+        "id": "civilization",
+        "title": "Văn minh"
+      }
+    ],
+    "sub-categories": [
+      {
+        "id": "artificial-intelligence",
+        "title": "Trí tuệ nhân tạo",
+        "layerId": "technology"
+      },
+      {
+        "id": "fusion-energy",
+        "title": "Năng lượng nhiệt hạch",
+        "layerId": "technology"
+      },
+      {
+        "id": "regenerative-medicine",
+        "title": "Y học tái tạo",
+        "layerId": "biotech-health"
+      },
+      {
+        "id": "lunar-civilization",
+        "title": "Văn minh Mặt Trăng",
+        "layerId": "space"
+      },
+      {
+        "id": "mars-civilization",
+        "title": "Văn minh Sao Hỏa",
+        "layerId": "space"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Robot học",
+      "Nhiệt hạch",
+      "Lượng tử",
+      "Công nghệ sinh học",
+      "Di truyền",
+      "Ung thư",
+      "Tuổi thọ",
+      "Khí hậu",
+      "Vật liệu",
+      "Mặt Trăng",
+      "Sao Hỏa",
+      "Hạ tầng quỹ đạo",
+      "Siêu cấu trúc",
+      "Tiếp xúc đầu tiên"
+    ]
+  }
+}

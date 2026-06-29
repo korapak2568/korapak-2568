@@ -49,6 +49,20 @@ const nextConfig = {
                     },
                 ]
             },
+            {
+                source: "/:locale(en|th|zh|ja|ko|id|de|fr|ru|vi)/:path*",
+                locale: false,
+                headers: [
+                    {
+                        key: "Content-Language",
+                        value: ":locale"
+                    },
+                    {
+                        key: "Vary",
+                        value: "Accept-Language, Cookie"
+                    },
+                ]
+            },
             // Cache headers for static assets
             {
                 source: "/images/:path*",
@@ -76,6 +90,12 @@ const nextConfig = {
             },
             {
                 source: "/future-roadmap/:path*",
+                headers: [{
+                    key: "Cache-Control", value: "public, max-age=31536000, immutable"
+                }]
+            },
+            {
+                source: "/luxury/:path*",
                 headers: [{
                     key: "Cache-Control", value: "public, max-age=31536000, immutable"
                 }]
@@ -123,6 +143,10 @@ const nextConfig = {
             {
                 source: '/images-opengraph/future-roadmap/:path*',
                 destination: 'https://cdn.chornplanet.com/future-roadmap/:path*'
+            },
+            {
+                source: '/images-opengraph/luxury/:path*',
+                destination: 'https://cdn.chornplanet.com/luxury/:path*'
             },
             {
                 source: '/images-opengraph/images-platform/:path*',
@@ -177,7 +201,15 @@ const nextConfig = {
                 permanent: true,
             },
 
+            // Luxury
+            {
+                source: '/luxury/:path*',
+                destination: 'https://cdn.chornplanet.com/luxury/:path*',
+                permanent: true,
+            },
+
             ...getLegacyPublicRedirects(),
+            ...(await redirectIncorrectPublic()),
         ]
     },
 };

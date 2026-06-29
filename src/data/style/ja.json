@@ -1,0 +1,1495 @@
+{
+  "locale": "ja",
+  "content": {
+    "hero": {
+      "eyebrow": "Chorn Planet Style",
+      "title": "優雅なスタイルの新しい定義",
+      "description": "ライフスタイルと旅のあらゆる要素を一つの統一されたアイデンティティへと結びつける、プレミアムなスタイル空間。伝統的なタイの優雅さ、海辺のリゾートの柔らかな心地よさ、そして山岳の旅に宿る冒険心を、洗練された視点で一つのビジュアル言語へと織り上げます。シンプルで価値あるラグジュアリーを愛し、人生のあらゆる道をともに歩みたい人のために生まれた世界です。",
+      "primaryCta": "スタイルセットを見る",
+      "imageStrategy": "ファーストビューでは3枚構成のエディトリアル画像帯を使用します。全高の縦長カップル/文明メイン画像に、海辺リゾート画像と滝の旅画像を添えます。",
+      "images": [
+        {
+          "slot": "primary",
+          "src": "/images/dev/styles/set1.png",
+          "alt": "ランナー・カップル",
+          "sizes": "(max-width: 768px) 100vw, 36vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set1.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set1.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set1.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        },
+        {
+          "slot": "secondary",
+          "src": "/images/dev/styles/set2.png",
+          "alt": "海辺リゾートのフローラル衣装",
+          "sizes": "(max-width: 768px) 50vw, 18vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set2.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set2.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set2.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        },
+        {
+          "slot": "tertiary",
+          "src": "/images/dev/styles/set3.png",
+          "alt": "トラベルルック",
+          "sizes": "(max-width: 768px) 50vw, 18vw",
+          "mobile": {
+            "src": "/images/dev/styles/mobile/set3.webp",
+            "width": 720,
+            "height": 1280,
+            "quality": 78
+          },
+          "thumbnail": {
+            "src": "/images/dev/styles/thumbnail/set3.webp",
+            "width": 405,
+            "height": 720,
+            "quality": 72
+          },
+          "desktop": {
+            "src": "/images/dev/styles/desktop/set3.webp",
+            "width": 900,
+            "height": 1600,
+            "quality": 82
+          }
+        }
+      ]
+    },
+    "layoutSections": [
+      {
+        "id": "hero-civilization-outfit",
+        "label": "イントロダクション",
+        "title": "アウトフィットスタイル",
+        "description": "最初のセクションでは、Chorn Planet の多様性をすぐに示します。カップル旅行、女性のランナーエレガンス、カジュアルなリゾートルック、男性の山岳旅行、ライフスタイルシーン、柔らかな朝のラグジュアリールックを含みます。"
+      },
+      {
+        "id": "outfit-universe",
+        "label": "アウトフィットスタイル宇宙",
+        "title": "一つのチャンネル、多様なオーディエンス",
+        "description": "カテゴリカードを使い、Outfit が単なるファッションではなく、観光スタイリング、文明ストーリーテリング、商品ムード、TikTok Commerce、ライフスタイル、ラグジュアリー・アイデンティティであることを示します。"
+      },
+      {
+        "id": "featured-outfit-sets",
+        "label": "注目セット",
+        "title": "アウトフィットスタイルセット"
+      },
+      {
+        "id": "lanna-luxury",
+        "label": "ランナー・ラグジュアリー",
+        "title": "伝統的な優雅さと現代的なエディトリアル refinement",
+        "description": "シン、ラップブラウス、ゴールドディテール、柔らかな自然背景が、衣装カタログのように見えずにプレミアムな Story Commerce コンテンツへ変わることを示します。"
+      },
+      {
+        "id": "resort-and-travel",
+        "label": "リゾートと旅",
+        "title": "海辺・山・移動のためのスタイル",
+        "description": "ビーチリゾート、滝、花の谷、MTSステーション、空港、プレミアム観光ルートに適した実用的な旅の装いを扱います。"
+      },
+      {
+        "id": "smart-food-lifestyle",
+        "label": "ローカルフード・ライフスタイル",
+        "title": "装いが食の物語と日常コマースをつなぐ",
+        "description": "カフェ、蓮池、料理のプレゼンテーションをライフスタイルストーリーに融合し、将来 LINE OA 注文や MenuMatch と接続できるようにします。"
+      },
+      {
+        "id": "commerce-and-tiktok",
+        "label": "Story Commerce",
+        "title": "TikTok-firstの商品ストーリーテリングに対応",
+        "description": "各セットは商品タグ、短いエピソード案、CTAコピー、Marketplaceリンクのプレースホルダーに対応しつつ、押し売りにならない構成にします。"
+      },
+      {
+        "id": "production-guidelines",
+        "label": "制作",
+        "title": "プロンプト対応・安全・拡張可能",
+        "description": "アスペクト比、Style Sub-Zone の選択、寝間着に関する Ultra Policy Safe 対応、レビューなしの自動公開禁止などの制作ガイドを保存します。"
+      }
+    ],
+    "metadata": {
+      "title": "ファッション衣装スタイル",
+      "description": "ランナー・ラグジュアリー、海辺リゾート、山岳旅行、多様なライフスタイルのコレクションを探索します。"
+    },
+    "detailPage": {
+      "tagListLabel": "スタイルタグ",
+      "externalCta": "TikTokで見る",
+      "relatedLabel": "さらに見るスタイルストーリー",
+      "relatedTitle": "さらにスタイルを探索",
+      "relatedCardCta": "スタイルを見る",
+      "notFoundTitle": "このスタイルセットは見つかりません",
+      "metadataSuffix": "Chorn Planet Style"
+    }
+  },
+  "outfitSets": [
+    {
+      "id": "rice-valley-couple-lanna",
+      "order": 1,
+      "title": "ランナー・カップル",
+      "visualSummary": "蓮の谷の物語と農村観光のためのロマンチックなランナー・カップルルック。",
+      "image": {
+        "src": "/images-platform/styles/01-rice-valley-couple-lanna.png",
+        "alt": "ランナー・カップル",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/01-rice-valley-couple-lanna.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/01-rice-valley-couple-lanna.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/01-rice-valley-couple-lanna.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-2.png",
+            "alt": "ランナー・カップル 1",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-3.png",
+            "alt": "ランナー・カップル 2",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-4.png",
+            "alt": "ランナー・カップル 3",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/01-rice-valley-couple-lanna/rice-valley-couple-lanna-5.png",
+            "alt": "ランナー・カップル 4",
+            "mobile": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/mobile/rice-valley-couple-lanna-5.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/thumbnail/rice-valley-couple-lanna-5.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/01-rice-valley-couple-lanna/desktop/rice-valley-couple-lanna-5.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "山々と黄金の稲穂に抱かれて愛が咲くとき、静かなランナーの谷へようこそ。ここでは新しい愛の物語が美しく織り上げられます。蓮池カフェと青々とした田園を舞台に、このルックは農村の温かなもてなしと北部伝統の優雅さを、現代的なエディトリアル感覚で磨き上げます。大切な人とのすべての瞬間を、時を超えるクラシックな記憶へ変えてくれます。",
+      "tags": [
+        "ランナー・カップル",
+        "ライスバレー・カフェ",
+        "蓮池カフェ",
+        "文化旅行"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GY81f/"
+    },
+    {
+      "id": "coastal-resort-floral",
+      "order": 2,
+      "title": "フローラル衣装",
+      "visualSummary": "海辺リゾート、ビーチウォーク、水上ヴィラ、プレミアムな夏のライフスタイルのためのフローラル衣装。",
+      "image": {
+        "src": "/images-platform/styles/02-coastal-resort-floral.png",
+        "alt": "フローラル衣装",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/02-coastal-resort-floral.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/02-coastal-resort-floral.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/02-coastal-resort-floral.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-1.png",
+            "alt": "フローラル衣装 1",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-2.png",
+            "alt": "フローラル衣装 2",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-3.png",
+            "alt": "フローラル衣装 3",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/02-coastal-resort-floral/coastal-resort-floral-4.png",
+            "alt": "フローラル衣装 4",
+            "mobile": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/mobile/coastal-resort-floral-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/thumbnail/coastal-resort-floral-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/02-coastal-resort-floral/desktop/coastal-resort-floral-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "夏の到来：揺らぎと花柄の美学。夏が訪れるとき、スタイリッシュなリゾートルックへ切り替える時間です。このフローラルコレクションは、ビーチの風を感じる散歩から青い海上のプライベートヴィラ滞在まで、ラグジュアリーな休暇の瞬間のために作られました。丁寧に選ばれた色と花柄が上品な魅力を生み、軽やかに動く生地とリラックスしたシルエットが、シンプルで記憶に残るラグジュアリーを表現します。",
+      "tags": [
+        "海辺リゾート",
+        "フローラル衣装",
+        "夏の旅",
+        "ビーチウォーク"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5sWkgR/"
+    },
+    {
+      "id": "waterfall-citrus-travel",
+      "order": 3,
+      "title": "トラベルルック",
+      "visualSummary": "滝の展望デッキ、自然歩道、ライトアドベンチャー観光のための明るい半袖トラベルルック。",
+      "image": {
+        "src": "/images-platform/styles/03-waterfall-citrus-travel.png",
+        "alt": "トラベルルック",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/03-waterfall-citrus-travel.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/03-waterfall-citrus-travel.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/03-waterfall-citrus-travel.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-1.png",
+            "alt": "トラベルルック 1",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-2.png",
+            "alt": "トラベルルック 2",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-3.png",
+            "alt": "トラベルルック 3",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/03-waterfall-citrus-travel/waterfall-citrus-travel-4.png",
+            "alt": "トラベルルック 4",
+            "mobile": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/mobile/waterfall-citrus-travel-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/thumbnail/waterfall-citrus-travel-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/03-waterfall-citrus-travel/desktop/waterfall-citrus-travel-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "ライトアドベンチャー、明るいスタイル：自然と色が出会う場所。旅はただタフな冒険だけではなく、自然にスタイルをうまく重ねることでもあります。この明るい半袖アイテムは、滝のデッキで霧を浴びる瞬間にも、自然の道を歩く時間にも旅のムードを新鮮にしてくれます。動きやすさと着やすさを重視したデザインで、誰もが楽しめる Light Adventure スタイルを支え、森の緑を背景にあなたを際立たせ、旅の写真やコンテンツにこれまで以上のエネルギーを与えます。",
+      "tags": [
+        "滝",
+        "シトラスシャツ",
+        "自然旅行",
+        "ライトアドベンチャー",
+        "フレッシュスタイル"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G9eXL/"
+    },
+    {
+      "id": "lotus-smart-food-cafe",
+      "order": 4,
+      "title": "蓮池カフェ",
+      "visualSummary": "料理の盛り付け、蓮池、ローカルダイニングのために設計された柔らかなカフェルック。",
+      "image": {
+        "src": "/images-platform/styles/04-lotus-smart-food-cafe.png",
+        "alt": "蓮池カフェ",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/04-lotus-smart-food-cafe.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/04-lotus-smart-food-cafe.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/04-lotus-smart-food-cafe.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-1.png",
+            "alt": "蓮池カフェ 1",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-2.png",
+            "alt": "蓮池カフェ 2",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-3.png",
+            "alt": "蓮池カフェ 3",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/04-lotus-smart-food-cafe/lotus-smart-food-cafe-4.png",
+            "alt": "蓮池カフェ 4",
+            "mobile": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/mobile/lotus-smart-food-cafe-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/thumbnail/lotus-smart-food-cafe-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/04-lotus-smart-food-cafe/desktop/lotus-smart-food-cafe-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "日常の優雅さの芸術：蓮池のそばにあるシンプルな魅力。柔らかなパステルピンクと白いショーツの清潔感が出会い、新鮮でクラシックな休暇ルックを生み出します。お気に入りのコーヒーを蓮池のそばで楽しむときも、温かな農村の雰囲気で郷土料理を味わうときも、このセットは本物のリラックス美学へ導きます。周囲の景色とメニューの物語を、どの角度からも上品でフォトジェニックな日常の瞬間へ変えることが、このルックの強みです。",
+      "tags": [
+        "蓮池カフェ",
+        "ローカルフード",
+        "メニューストーリー",
+        "ライフスタイルコマース"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GC2N9/"
+    },
+    {
+      "id": "lotus-lanna-ceremony",
+      "order": 5,
+      "title": "ランナー衣装",
+      "visualSummary": "蓮池の遊歩道、文化旅行、Quiet Luxury のアイデンティティに向けた洗練された紫のランナー衣装。",
+      "image": {
+        "src": "/images-platform/styles/05-lotus-lanna-ceremony.png",
+        "alt": "ランナー衣装",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/05-lotus-lanna-ceremony.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/05-lotus-lanna-ceremony.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/05-lotus-lanna-ceremony.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-1.png",
+            "alt": "ランナー衣装 1",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-2.png",
+            "alt": "ランナー衣装 2",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-3.png",
+            "alt": "ランナー衣装 3",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/05-lotus-lanna-ceremony/lotus-lanna-ceremony-4.png",
+            "alt": "ランナー衣装 4",
+            "mobile": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/mobile/lotus-lanna-ceremony-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/thumbnail/lotus-lanna-ceremony-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/05-lotus-lanna-ceremony/desktop/lotus-lanna-ceremony-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "Quiet Lanna Luxury の哲学：時を超える価値と静けさの美学。ランナーの手仕事を現代的な言語へ高め、蓮池カフェと温かな文化的もてなしの中で、時を超えた美しさへ誘います。落ち着いた紫のランナー衣装は、きらめく金糸のディテールとともに精緻に仕立てられ、高度なカッティングと構成によって内側から価値を宿す、シンプルなラグジュアリーの哲学を映し出します。",
+      "tags": [
+        "蓮池の遊歩道",
+        "Quiet Luxury",
+        "ゴールドディテール",
+        "文化ポートレート"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G5Ejm/"
+    },
+    {
+      "id": "mountain-hydrangea-gentleman",
+      "order": 6,
+      "title": "紫陽花の谷のジェントルマン",
+      "visualSummary": "モノクロのトロピカルプリントを特徴とする、山の展望テラスと紫陽花の谷のための清潔感あるメンズリゾートウェアルック。",
+      "image": {
+        "src": "/images-platform/styles/06-mountain-hydrangea-gentleman.png",
+        "alt": "紫陽花の谷のジェントルマン",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/06-mountain-hydrangea-gentleman.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/06-mountain-hydrangea-gentleman.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/06-mountain-hydrangea-gentleman.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-1.png",
+            "alt": "紫陽花の谷のジェントルマン 1",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-2.png",
+            "alt": "紫陽花の谷のジェントルマン 2",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-3.png",
+            "alt": "紫陽花の谷のジェントルマン 3",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mountain-hydrangea-gentleman-4.png",
+            "alt": "紫陽花の谷のジェントルマン 4",
+            "mobile": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/mobile/mountain-hydrangea-gentleman-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/thumbnail/mountain-hydrangea-gentleman-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/06-mountain-hydrangea-gentleman/desktop/mountain-hydrangea-gentleman-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "マウンテンリゾート・ジェントルマン：冷たい風と山の風景の中での新しいクールの定義。スマートさとリラックス感を両立したメンズリゾートウェアで、涼しい気候の旅を格上げします。主役となる一着は、清潔感ある白黒のトロピカルプリント、身体に合うシルエット、切れ味のよい仕立てが特徴です。静かな山のテラスでコーヒーを飲むときも、咲き誇る紫陽花の谷で写真を撮るときも、プレミアム観光、スタイリッシュなメンズウェアコンテンツ、そしてラグジュアリーな旅人が荷物に入れたくなる Destination Retail の答えになります。",
+      "tags": [
+        "メンズリゾートウェア",
+        "紫陽花の谷",
+        "山のテラス",
+        "トロピカルプリント",
+        "プレミアム旅行"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GDNpv/"
+    },
+    {
+      "id": "mountain-lanna-noble-woman",
+      "order": 7,
+      "title": "ランナー・レディ",
+      "visualSummary": "緑と金で仕立てた精緻なランナー衣装。花の谷と山のテラスの風景に向け、プレミアムな文化ポートレートへ展開できます。",
+      "image": {
+        "src": "/images-platform/styles/07-mountain-lanna-noble-woman.png",
+        "alt": "ランナー・レディ",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/07-mountain-lanna-noble-woman.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/07-mountain-lanna-noble-woman.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/07-mountain-lanna-noble-woman.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-1.png",
+            "alt": "ランナー・レディ 1",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-2.png",
+            "alt": "ランナー・レディ 2",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-3.png",
+            "alt": "ランナー・レディ 3",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mountain-lanna-noble-woman-4.png",
+            "alt": "ランナー・レディ 4",
+            "mobile": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/mobile/mountain-lanna-noble-woman-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/thumbnail/mountain-lanna-noble-woman-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/07-mountain-lanna-noble-woman/desktop/mountain-lanna-noble-woman-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "ランナー・シグネチャー：時を超える優雅さのアイデンティティ。植物の緑と価値ある金色を組み合わせた、美意識あふれるランナー女性ルックで文明の魅力を解き放ちます。服の構造はどの姿勢でも優雅に動くよう設計され、花の谷や静かな山のテラスで特に美しく映えます。この装いは単なる服ではなく、記憶に残る視覚的なシグネチャーです。洗練された文化ポートレートや、プレミアムな目的地ストーリーテリングに最適です。",
+      "tags": [
+        "優雅なランナー",
+        "山の花",
+        "緑と金",
+        "文化アイデンティティ",
+        "エディトリアルポートレート"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5G9se5/"
+    },
+    {
+      "id": "flower-valley-gentleman-casual",
+      "order": 8,
+      "title": "花の谷のカジュアルジェントルマン",
+      "visualSummary": "男性の旅行コンテンツに適したカラフルなフローラルシャツ。ガーデンウォークや温かな家族旅行に合わせやすい一枚。",
+      "image": {
+        "src": "/images-platform/styles/08-flower-valley-gentleman-casual.png",
+        "alt": "花の谷のカジュアルジェントルマン",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/08-flower-valley-gentleman-casual.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/08-flower-valley-gentleman-casual.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/08-flower-valley-gentleman-casual.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-1.png",
+            "alt": "花の谷のカジュアルジェントルマン 1",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-2.png",
+            "alt": "花の谷のカジュアルジェントルマン 2",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-3.png",
+            "alt": "花の谷のカジュアルジェントルマン 3",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/08-flower-valley-gentleman-casual/flower-valley-gentleman-casual-4.png",
+            "alt": "花の谷のカジュアルジェントルマン 4",
+            "mobile": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/mobile/flower-valley-gentleman-casual-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/thumbnail/flower-valley-gentleman-casual-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/08-flower-valley-gentleman-casual/desktop/flower-valley-gentleman-casual-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "明るいカジュアルジェントルマン：家族旅行と休日に生命感を添える。カジュアルな紳士のフローラルルックで、普通の休日を笑顔に満ちた時間へ変えます。デザインは新鮮さ、活気、親しみやすさを自然に組み合わせ、ガーデンウォーク、谷の景色、家族との休暇のために作られています。このシャツは自然で快適にスタイリングでき、細部には十分な refinement を残しています。クリーンな仕立てがどの角度からもスマートに見せ、家族写真やプレミアムなライフスタイルプラットフォームでの旅の共有に自信を与えます。",
+      "tags": [
+        "カジュアルメンズウェア",
+        "花の谷",
+        "ガーデンウォーク",
+        "家族旅行",
+        "カラーストーリー"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GDe8W/"
+    },
+    {
+      "id": "coastal-mts-traveler",
+      "order": 9,
+      "title": "海風への第一歩",
+      "visualSummary": "柔らかな色調のトラベルルック。スーツケースと編みバッグを合わせ、交通駅からマリーナ、そして海風の入口へ移る瞬間のために作られました。",
+      "image": {
+        "src": "/images-platform/styles/09-coastal-mts-traveler.png",
+        "alt": "海風への第一歩",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/09-coastal-mts-traveler.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/09-coastal-mts-traveler.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/09-coastal-mts-traveler.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-1.png",
+            "alt": "海風への第一歩 1",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-2.png",
+            "alt": "海風への第一歩 2",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-3.png",
+            "alt": "海風への第一歩 3",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/09-coastal-mts-traveler/coastal-mts-traveler-4.png",
+            "alt": "海風への第一歩 4",
+            "mobile": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/mobile/coastal-mts-traveler-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/thumbnail/coastal-mts-traveler-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/09-coastal-mts-traveler/desktop/coastal-mts-traveler-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "海へのゲートウェイ：一歩ごとに軽やかな旅の魅力。柔らかな色調のトラベラー衣装で、最初の瞬間からスタイリッシュに休暇を始めましょう。駅を通り抜ける機動性、マリーナへの到着、そして水平線と海の空気に出会う最初のゲートウェイまで、あらゆる移動の瞬間に応えます。クラシックなスーツケースと自然素材の編みバッグの組み合わせが、清潔で安心感があり、実用的な旅行スタイルを引き立てます。このルックは、旅のルートの美しさを語る Story Commerce の重要な一着です。",
+      "tags": [
+        "海へのゲートウェイ",
+        "マリーナ到着",
+        "トラベルリテール",
+        "ルートストーリー"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GhPTh/"
+    },
+    {
+      "id": "soft-morning-luxury-safe",
+      "order": 10,
+      "title": "柔らかな朝のルックの美学",
+      "visualSummary": "ラグジュアリーホテルのウェルネス時間のために作られた柔らかな朝のルック。温かなコーヒーと静かな朝の穏やかさに寄り添います。",
+      "image": {
+        "src": "/images-platform/styles/10-soft-morning-luxury-safe.png",
+        "alt": "柔らかな朝のルックの美学",
+        "mobile": {
+          "src": "/images-platform/styles/mobile/10-soft-morning-luxury-safe.webp",
+          "width": 800,
+          "height": 500,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/images-platform/styles/thumbnail/10-soft-morning-luxury-safe.webp",
+          "width": 640,
+          "height": 400,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/images-platform/styles/desktop/10-soft-morning-luxury-safe.webp",
+          "width": 1600,
+          "height": 1000,
+          "quality": 82
+        }
+      },
+      "images": [
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-1.png",
+            "alt": "柔らかな朝のルックの美学 1",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-1.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-1.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-1.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-2.png",
+            "alt": "柔らかな朝のルックの美学 2",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-2.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-2.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-2.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-3.png",
+            "alt": "柔らかな朝のルックの美学 3",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-3.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-3.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-3.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        },
+        {
+          "image": {
+            "src": "/images-platform/styles/10-soft-morning-luxury-safe/soft-morning-luxury-safe-4.png",
+            "alt": "柔らかな朝のルックの美学 4",
+            "mobile": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/mobile/soft-morning-luxury-safe-4.webp",
+              "width": 720,
+              "height": 1280,
+              "quality": 78
+            },
+            "thumbnail": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/thumbnail/soft-morning-luxury-safe-4.webp",
+              "width": 405,
+              "height": 720,
+              "quality": 72
+            },
+            "desktop": {
+              "src": "/images-platform/styles/10-soft-morning-luxury-safe/desktop/soft-morning-luxury-safe-4.webp",
+              "width": 900,
+              "height": 1600,
+              "quality": 82
+            }
+          }
+        }
+      ],
+      "story": "朝のウェルネスの芸術：静かなラグジュアリーの新しい定義。繊細なリラクゼーションのために設計されたホテルウェルネスの空気の中で、本当の静けさとともに一日を始めます。お気に入りのコーヒーと細部まで行き届いたサービスで特別な時間を高めます。身体の動きに柔らかく寄り添う高品質な生地を通じて、シンプルで落ち着き、誇張しない美の哲学を映し出し、休息の日を時を超えるクラシックな瞬間へ変えます。",
+      "tags": [
+        "朝のラグジュアリー",
+        "ホテルウェルネス",
+        "コーヒーリチュアル",
+        "安全なスタイル",
+        "ホスピタリティ"
+      ],
+      "tiktok_url": "https://vt.tiktok.com/ZSx5GuS35/"
+    }
+  ]
+}

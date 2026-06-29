@@ -44,10 +44,15 @@
     background: rgba(9, 18, 15, 0.94);
     backdrop-filter: blur(14px);
     box-shadow: 0 22px 48px rgba(0, 0, 0, 0.34);
+    list-style: none;
     z-index: 1200;
   }
 
-  .dropdown-langs li,
+  .dropdown-langs li {
+    margin: 0;
+    padding: 0;
+  }
+
   .dropdown-langs a {
     float: none;
     position: relative;
@@ -61,7 +66,6 @@
     transition: background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
   }
 
-  .dropdown-langs li:hover,
   .dropdown-langs a:hover,
   .dropdown-active {
     cursor: pointer;

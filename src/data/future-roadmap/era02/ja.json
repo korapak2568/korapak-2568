@@ -1,0 +1,3484 @@
+{
+  "era": {
+    "id": "era-02",
+    "order": 2,
+    "slug": "early-space-civilization",
+    "title": "初期宇宙文明",
+    "subtitle": "地球の外に築かれる最初の恒久システム",
+    "description": "この時代は、孤立した宇宙ミッションから、初期の地球外インフラ、月面産業、軌道サービス、火星物流、そして宇宙文明の最初の制度へ移行する段階を示します。",
+    "timeframe": {
+      "label": "初期宇宙文明",
+      "startYear": 2045,
+      "endYear": 2070,
+      "certainty": "highly-speculative"
+    },
+    "theme": {
+      "primaryLayerId": "civilization",
+      "mood": "expansive",
+      "visualStyle": "clean futuristic documentary"
+    },
+    "seo": {
+      "metaTitle": "Era 2：初期宇宙文明 | Future Civilization Roadmap",
+      "metaDescription": "月氷採掘、軌道ホテル、小惑星調査ネットワーク、火星貨物物流、月面農業、宇宙法など、初期宇宙文明のマイルストーンを探ります。",
+      "keywords": [
+        "初期宇宙文明",
+        "月面採掘",
+        "軌道ホテル",
+        "火星物流",
+        "未来文明"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "era-02-lunar-ice-mining-begins",
+      "order": 1,
+      "slug": "lunar-ice-mining-begins",
+      "title": "月氷採掘が始まる",
+      "shortTitle": "月氷採掘",
+      "category": "Space",
+      "description": "月の極域付近で水氷の採掘が始まり、持続的な月面運用に必要な酸素、水、放射線シールド、ロケット推進剤を供給します。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "resource-extraction",
+        "lunar-infrastructure"
+      ],
+      "maturity": "early-industrial-deployment",
+      "timeframe": {
+        "startYear": 2045,
+        "endYear": 2055
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "月面物流の地球打ち上げへの依存が下がり、恒久的な地球外活動がより実用的で経済的に成り立ちやすくなります。",
+      "signals": [
+        "極域探査ミッションがアクセス可能な氷床を確認する",
+        "ロボット採掘システムが月夜のサイクルを越えて稼働する",
+        "推進剤デポが現地処理された水を使い始める"
+      ],
+      "implications": [
+        "月面ミッションのコスト低下",
+        "地球外での燃料生産の基盤形成",
+        "月資源の権利をめぐる新しいガバナンス課題"
+      ],
+      "image": {
+        "alt": "月氷採掘が始まる",
+        "prompts": [
+          "Clean futuristic documentary scene of lunar Ice Mining Begins, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing lunar Ice Mining Begins as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of lunar Ice Mining Begins, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring lunar Ice Mining Begins, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-lunar-ice-mining-begins.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-lunar-ice-mining-begins.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-ice-mining-begins.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-lunar-ice-mining-begins.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-ice-mining-begins.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-lunar-emergency-hospital-becomes-operational",
+      "order": 2,
+      "slug": "first-lunar-emergency-hospital-becomes-operational",
+      "title": "初の月面救急病院が稼働する",
+      "shortTitle": "月面救急病院",
+      "category": "Biology & Medicine",
+      "description": "小型の月面医療施設が、宇宙飛行士と初期入植者に外傷治療、放射線監視、遠隔医療、手術支援、緊急安定化処置を提供します。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "healthcare",
+        "emergency-systems"
+      ],
+      "maturity": "operational-outpost",
+      "timeframe": {
+        "startYear": 2045,
+        "endYear": 2055
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "月での人間の存在がより安全でレジリエントになり、ミッションリスクを下げ、より長期の滞在を可能にします。",
+      "signals": [
+        "月面居住地に専用医療モジュールが組み込まれる",
+        "ロボット手術支援が地球外利用として認証される",
+        "緊急避難プロトコルが地球帰還から現地治療へ移行する"
+      ],
+      "implications": [
+        "月面作業中の死亡リスク低下",
+        "新しい宇宙医学基準の形成",
+        "恒久的な月面定住への信頼向上"
+      ],
+      "image": {
+        "alt": "初の月面救急病院が稼働する",
+        "prompts": [
+          "Clean futuristic documentary scene of first Lunar Emergency Hospital Becomes Operational, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Lunar Emergency Hospital Becomes Operational as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Lunar Emergency Hospital Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Lunar Emergency Hospital Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-lunar-emergency-hospital-becomes-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-lunar-emergency-hospital-becomes-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-lunar-emergency-hospital-becomes-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-ai-operated-asteroid-survey-network-launches",
+      "order": 3,
+      "slug": "ai-operated-asteroid-survey-network-launches",
+      "title": "AI運用の小惑星調査ネットワークが始動する",
+      "shortTitle": "小惑星調査ネットワーク",
+      "category": "AI & Computing",
+      "description": "自律望遠鏡、探査機、AIモデルが連携し、科学、資源計画、惑星防衛のために小惑星を検出、分類、追跡します。",
+      "layerId": "technology",
+      "domains": [
+        "space",
+        "artificial-intelligence",
+        "astronomy"
+      ],
+      "maturity": "operational-network",
+      "timeframe": {
+        "startYear": 2045,
+        "endYear": 2056
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "人類は地球近傍と深宇宙の天体を継続的に把握できるようになり、安全性と経済計画の両方が向上します。",
+      "signals": [
+        "AIがスペクトルデータから小惑星の組成を分類する",
+        "分散型宇宙望遠鏡がリアルタイムの軌道更新を共有する",
+        "採掘企業と防衛機関が共有小惑星カタログを利用する"
+      ],
+      "implications": [
+        "危険天体への早期警戒",
+        "資源ミッションに適した目標選定",
+        "宇宙交通と所有権に関する新しい枠組み"
+      ],
+      "image": {
+        "alt": "AI運用の小惑星調査ネットワークが始動する",
+        "prompts": [
+          "Clean futuristic documentary scene of aI-Operated Asteroid Survey Network Launches, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing aI-Operated Asteroid Survey Network Launches as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of aI-Operated Asteroid Survey Network Launches, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring aI-Operated Asteroid Survey Network Launches, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-ai-operated-asteroid-survey-network-launches.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-ai-operated-asteroid-survey-network-launches.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-operated-asteroid-survey-network-launches.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-space-based-solar-power-pilot-sends-energy-to-earth",
+      "order": 4,
+      "slug": "space-based-solar-power-pilot-sends-energy-to-earth",
+      "title": "宇宙太陽光発電の実証機が地球へエネルギーを送る",
+      "shortTitle": "宇宙太陽光発電",
+      "category": "Energy",
+      "description": "軌道上の太陽光発電プラットフォームが連続した太陽光を集め、制御された量のエネルギーを地球上の受信施設へ送ります。",
+      "layerId": "technology",
+      "domains": [
+        "space",
+        "energy",
+        "infrastructure"
+      ],
+      "maturity": "pilot-demonstration",
+      "timeframe": {
+        "startYear": 2046,
+        "endYear": 2056
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "エネルギーインフラが惑星の外へ広がり始め、宇宙からのよりクリーンなベースロード電力への道が開かれます。",
+      "signals": [
+        "マイクロ波またはレーザー送電の安全試験が成功する",
+        "地上のレクテナ施設が地域電力網へ接続される",
+        "規制当局が限定的な軌道エネルギー伝送を承認する"
+      ],
+      "implications": [
+        "新しい再生可能エネルギー構造",
+        "軌道エネルギー安全性をめぐる議論",
+        "天候に左右される発電への依存低下"
+      ],
+      "image": {
+        "alt": "宇宙太陽光発電の実証機が地球へエネルギーを送る",
+        "prompts": [
+          "Clean futuristic documentary scene of space-Based Solar Power Pilot Sends Energy to Earth, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing space-Based Solar Power Pilot Sends Energy to Earth as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of space-Based Solar Power Pilot Sends Energy to Earth, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring space-Based Solar Power Pilot Sends Energy to Earth, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-space-based-solar-power-pilot-sends-energy-to-earth.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-space-based-solar-power-pilot-sends-energy-to-earth.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-based-solar-power-pilot-sends-energy-to-earth.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-commercial-orbital-hotel-opens",
+      "order": 5,
+      "slug": "first-commercial-orbital-hotel-opens",
+      "title": "初の商業軌道ホテルが開業する",
+      "shortTitle": "軌道ホテル",
+      "category": "Space",
+      "description": "民間運営の軌道ホテルが、富裕層の民間人や法人顧客に短期滞在、研究体験、地球を眺める観光を提供します。",
+      "layerId": "society",
+      "domains": [
+        "space",
+        "tourism",
+        "commercial-infrastructure"
+      ],
+      "maturity": "commercial-opening",
+      "timeframe": {
+        "startYear": 2046,
+        "endYear": 2057
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "宇宙は政府や宇宙飛行士だけの領域ではなく、商業目的地になります。",
+      "signals": [
+        "再使用型打ち上げコストがさらに低下する",
+        "軌道上の生命維持システムがホスピタリティ基準に到達する",
+        "民間ゲスト向けの保険と安全ルールが成熟する"
+      ],
+      "implications": [
+        "新しい高級宇宙経済",
+        "地球外生活に対する社会的想像力の拡大",
+        "軌道安全ガバナンス改善への圧力"
+      ],
+      "image": {
+        "alt": "初の商業軌道ホテルが開業する",
+        "prompts": [
+          "Clean futuristic documentary scene of first Commercial Orbital Hotel Opens, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Commercial Orbital Hotel Opens as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Commercial Orbital Hotel Opens, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Commercial Orbital Hotel Opens, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-commercial-orbital-hotel-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-commercial-orbital-hotel-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-commercial-orbital-hotel-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-commercial-orbital-hotel-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-commercial-orbital-hotel-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith",
+      "order": 6,
+      "slug": "autonomous-lunar-construction-factory-produces-bricks-from-regolith",
+      "title": "自律型月面建設工場がレゴリスからブロックを生産する",
+      "shortTitle": "月面ブロック工場",
+      "category": "Robotics",
+      "description": "月面の自律工場がレゴリスをブロック、パネル、防護構造へ加工し、居住地、道路、着陸パッド、保管施設に利用します。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "robotics",
+        "construction"
+      ],
+      "maturity": "industrial-prototype",
+      "timeframe": {
+        "startYear": 2046,
+        "endYear": 2057
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "月が独自の建設サプライチェーンを持ち始め、重い建材を地球から打ち上げる必要性が下がります。",
+      "signals": [
+        "レゴリス焼結と3Dプリントの耐久性が実証される",
+        "ロボットが居住地周辺にシールド壁を組み立てる",
+        "月面建設基準が形成され始める"
+      ],
+      "implications": [
+        "月面基地の低コスト化",
+        "インフラ成長の加速",
+        "初期の地球外製造エコシステム"
+      ],
+      "image": {
+        "alt": "自律型月面建設工場がレゴリスからブロックを生産する",
+        "prompts": [
+          "Clean futuristic documentary scene of autonomous Lunar Construction Factory Produces Bricks from Regolith, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing autonomous Lunar Construction Factory Produces Bricks from Regolith as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of autonomous Lunar Construction Factory Produces Bricks from Regolith, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring autonomous Lunar Construction Factory Produces Bricks from Regolith, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-lunar-construction-factory-produces-bricks-from-regolith.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-mars-cargo-supply-chain-becomes-routine",
+      "order": 7,
+      "slug": "mars-cargo-supply-chain-becomes-routine",
+      "title": "火星貨物サプライチェーンが定常化する",
+      "shortTitle": "火星貨物サプライチェーン",
+      "category": "Space",
+      "description": "火星への貨物ミッションが予測可能で定期的、かつ部分的に自律化され、設備、食料、予備部品、ロボット、科学ペイロードを運びます。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "logistics",
+        "mars"
+      ],
+      "maturity": "routine-cadence",
+      "timeframe": {
+        "startYear": 2047,
+        "endYear": 2058
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "火星はまれな遠征先から、管理されたサプライチェーンの目的地へ変わります。",
+      "signals": [
+        "打ち上げウィンドウが何年も前から計画される",
+        "自律貨物着陸機の着陸精度が向上する",
+        "火星地表チームが標準化された補給パッケージに依存する"
+      ],
+      "implications": [
+        "火星ミッションのリスク低下",
+        "惑星間物流企業の成長",
+        "科学的定住地の基盤形成"
+      ],
+      "image": {
+        "alt": "火星貨物サプライチェーンが定常化する",
+        "prompts": [
+          "Clean futuristic documentary scene of mars Cargo Supply Chain Becomes Routine, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing mars Cargo Supply Chain Becomes Routine as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of mars Cargo Supply Chain Becomes Routine, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring mars Cargo Supply Chain Becomes Routine, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-mars-cargo-supply-chain-becomes-routine.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-mars-cargo-supply-chain-becomes-routine.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-mars-cargo-supply-chain-becomes-routine.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-baby-born-in-low-earth-orbit",
+      "order": 8,
+      "slug": "first-baby-born-in-low-earth-orbit",
+      "title": "低地球軌道で初めて赤ちゃんが生まれる",
+      "shortTitle": "初の軌道上出生",
+      "category": "Biology & Medicine",
+      "description": "厳密に管理された医療、倫理、法的監督のもと、低地球軌道で初めて赤ちゃんが生まれます。",
+      "layerId": "society",
+      "domains": [
+        "space",
+        "healthcare",
+        "human-settlement"
+      ],
+      "maturity": "historic-first",
+      "timeframe": {
+        "startYear": 2047,
+        "endYear": 2058
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "地球外での人間の生殖は理論上の前線ではなく、現実の社会的・法的課題になります。",
+      "signals": [
+        "軌道医療施設が妊娠モニタリングを支える",
+        "生命倫理評議会が限定的な生殖研究を承認する",
+        "軌道上出生に関する市民権と後見のルールが試される"
+      ],
+      "implications": [
+        "宇宙生殖医学という新分野",
+        "出生地と市民権をめぐる法的議論",
+        "恒久的な地球外コミュニティへの真剣度向上"
+      ],
+      "image": {
+        "alt": "低地球軌道で初めて赤ちゃんが生まれる",
+        "prompts": [
+          "Clean futuristic documentary scene of first Baby Born in Low-Earth Orbit, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Baby Born in Low-Earth Orbit as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Baby Born in Low-Earth Orbit, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Baby Born in Low-Earth Orbit, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-baby-born-in-low-earth-orbit.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-baby-born-in-low-earth-orbit.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-baby-born-in-low-earth-orbit.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-orbital-debris-cleanup-network-becomes-operational",
+      "order": 9,
+      "slug": "orbital-debris-cleanup-network-becomes-operational",
+      "title": "軌道デブリ除去ネットワークが稼働する",
+      "shortTitle": "デブリ除去ネットワーク",
+      "category": "Environment",
+      "description": "自律衛星とロボット回収機が、地球周辺の主要交通レーンから危険な軌道デブリを除去し始めます。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "robotics",
+        "public-safety"
+      ],
+      "maturity": "operational-network",
+      "timeframe": {
+        "startYear": 2047,
+        "endYear": 2059
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "軌道空間は、居住施設、エネルギーシステム、観光、科学、通信にとってより安全になります。",
+      "signals": [
+        "デブリ追跡ネットワークが除去機体と統合される",
+        "ロボット捕獲システムの信頼性が実証される",
+        "衛星運用者が共同の軌道衛生プログラムに資金を出す"
+      ],
+      "implications": [
+        "衝突リスクの低減",
+        "衛星インフラ寿命の延長",
+        "軌道環境責任に関する新しいルール"
+      ],
+      "image": {
+        "alt": "軌道デブリ除去ネットワークが稼働する",
+        "prompts": [
+          "Clean futuristic documentary scene of orbital Debris Cleanup Network Becomes Operational, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing orbital Debris Cleanup Network Becomes Operational as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of orbital Debris Cleanup Network Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring orbital Debris Cleanup Network Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-orbital-debris-cleanup-network-becomes-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-orbital-debris-cleanup-network-becomes-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-orbital-debris-cleanup-network-becomes-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-moon-to-earth-cargo-launcher-tested",
+      "order": 10,
+      "slug": "moon-to-earth-cargo-launcher-tested",
+      "title": "月から地球への貨物ランチャーが試験される",
+      "shortTitle": "月面貨物ランチャー",
+      "category": "Space",
+      "description": "試作ランチャーが低エネルギーの打ち出しインフラを用いて、月から地球軌道または制御再突入へ貨物を送り出します。",
+      "layerId": "technology",
+      "domains": [
+        "space",
+        "lunar-infrastructure",
+        "logistics"
+      ],
+      "maturity": "system-test",
+      "timeframe": {
+        "startYear": 2048,
+        "endYear": 2059
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "月は、材料、燃料、サンプル、製造部品の輸出プラットフォームになり得ます。",
+      "signals": [
+        "マスドライバーまたは電磁ランチャー試験が成功する",
+        "貨物カプセルが安全な軌道制御を実証する",
+        "地球軌道側の受け取り施設が月からの輸送に備える"
+      ],
+      "implications": [
+        "月面輸出の低コスト化",
+        "新しい宇宙税関と安全ルール",
+        "月面産業の価値向上"
+      ],
+      "image": {
+        "alt": "月から地球への貨物ランチャーが試験される",
+        "prompts": [
+          "Clean futuristic documentary scene of moon-to-Earth Cargo Launcher Tested, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing moon-to-Earth Cargo Launcher Tested as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of moon-to-Earth Cargo Launcher Tested, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring moon-to-Earth Cargo Launcher Tested, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-moon-to-earth-cargo-launcher-tested.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-moon-to-earth-cargo-launcher-tested.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-moon-to-earth-cargo-launcher-tested.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-lunar-agriculture-research-station-produces-full-food-cycles",
+      "order": 11,
+      "slug": "lunar-agriculture-research-station-produces-full-food-cycles",
+      "title": "月面農業研究ステーションが完全な食料サイクルを生産する",
+      "shortTitle": "月面食料サイクル",
+      "category": "Biology & Medicine",
+      "description": "月面農業ステーションが、制御環境、リサイクルシステム、人工照明、現地適応型の作物栽培法を用いて完全な食料サイクルを実現します。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "agriculture",
+        "life-support"
+      ],
+      "maturity": "closed-loop-demonstration",
+      "timeframe": {
+        "startYear": 2048,
+        "endYear": 2060
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "地球外定住地は地球からの食料輸送への依存を減らし、長期生存能力を高めます。",
+      "signals": [
+        "閉ループ型の水と栄養システムが安定する",
+        "月面制約下で作物が安定して育つ",
+        "食料生産が居住施設の生命維持と統合される"
+      ],
+      "implications": [
+        "よりレジリエントな月面生活",
+        "新しい宇宙農業科学",
+        "有人ミッションで必要な貨物質量の削減"
+      ],
+      "image": {
+        "alt": "月面農業研究ステーションが完全な食料サイクルを生産する",
+        "prompts": [
+          "Clean futuristic documentary scene of lunar Agriculture Research Station Produces Full Food Cycles, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing lunar Agriculture Research Station Produces Full Food Cycles as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of lunar Agriculture Research Station Produces Full Food Cycles, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring lunar Agriculture Research Station Produces Full Food Cycles, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-lunar-agriculture-research-station-produces-full-food-cycles.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-lunar-agriculture-research-station-produces-full-food-cycles.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-agriculture-research-station-produces-full-food-cycles.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-permanent-space-law-court-established",
+      "order": 12,
+      "slug": "first-permanent-space-law-court-established",
+      "title": "初の恒久宇宙法廷が設立される",
+      "shortTitle": "宇宙法廷",
+      "category": "Society & Economy",
+      "description": "月面資産、軌道契約、宇宙事故、地球外市民権の主張に関する紛争を解決する恒久的な法的機関が設立されます。",
+      "layerId": "society",
+      "domains": [
+        "space",
+        "law",
+        "governance"
+      ],
+      "maturity": "institutional-formation",
+      "timeframe": {
+        "startYear": 2048,
+        "endYear": 2060
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "宇宙法は条約上の原則から、成長する宇宙経済を支える日常的な運用制度へ進化します。",
+      "signals": [
+        "商業宇宙紛争が増える",
+        "政府が専門仲裁手続きに合意する",
+        "地球外での事故に迅速な法的判断が求められる"
+      ],
+      "implications": [
+        "宇宙企業にとってより明確なルール",
+        "地球外コミュニティの法的認知",
+        "月面・軌道資産をめぐる対立の低減"
+      ],
+      "image": {
+        "alt": "初の恒久宇宙法廷が設立される",
+        "prompts": [
+          "Clean futuristic documentary scene of first Permanent Space Law Court Established, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Permanent Space Law Court Established as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Permanent Space Law Court Established, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Permanent Space Law Court Established, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-permanent-space-law-court-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-permanent-space-law-court-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-permanent-space-law-court-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-permanent-space-law-court-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-permanent-space-law-court-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-ai-mission-commanders-supervise-deep-space-logistics",
+      "order": 13,
+      "slug": "ai-mission-commanders-supervise-deep-space-logistics",
+      "title": "AIミッション司令官が深宇宙物流を監督する",
+      "shortTitle": "AIミッション司令官",
+      "category": "AI & Computing",
+      "description": "AIミッション司令官が宇宙船、居住施設、ロボット、貨物ルートのフリートを調整し、人間は戦略、倫理、例外対応を監督します。",
+      "layerId": "technology",
+      "domains": [
+        "space",
+        "artificial-intelligence",
+        "logistics"
+      ],
+      "maturity": "supervisory-deployment",
+      "timeframe": {
+        "startYear": 2049,
+        "endYear": 2061
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "深宇宙運用は手動制御だけでは複雑すぎるため、AIによる調整が文明の中核能力になります。",
+      "signals": [
+        "ミッション管制センターが自律計画エージェントを採用する",
+        "AIが複数ミッション間のスケジュール衝突を解決する",
+        "人間の運用者が透明なログを通じてAI判断を監査する"
+      ],
+      "implications": [
+        "より信頼性の高い惑星間物流",
+        "ミッションAIの新しい説明責任基準",
+        "地球から遠い場所での緊急対応の高速化"
+      ],
+      "image": {
+        "alt": "AIミッション司令官が深宇宙物流を監督する",
+        "prompts": [
+          "Clean futuristic documentary scene of aI Mission Commanders Supervise Deep-Space Logistics, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing aI Mission Commanders Supervise Deep-Space Logistics as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of aI Mission Commanders Supervise Deep-Space Logistics, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring aI Mission Commanders Supervise Deep-Space Logistics, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-ai-mission-commanders-supervise-deep-space-logistics.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-ai-mission-commanders-supervise-deep-space-logistics.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-mission-commanders-supervise-deep-space-logistics.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-private-research-station-around-mars-orbit",
+      "order": 14,
+      "slug": "first-private-research-station-around-mars-orbit",
+      "title": "火星軌道上に初の民間研究ステーションが設置される",
+      "shortTitle": "火星軌道研究ステーション",
+      "category": "Space",
+      "description": "民間研究ステーションが火星軌道で運用され、科学、通信、遠隔操作、将来の地表ミッションの中継拠点を支えます。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "research",
+        "mars"
+      ],
+      "maturity": "research-outpost",
+      "timeframe": {
+        "startYear": 2049,
+        "endYear": 2061
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "火星は、地球物流と地表探査をつなぐ半恒久的な軌道層を持つようになります。",
+      "signals": [
+        "商業クルーが軌道モジュールを維持管理する",
+        "火星地表ロボットが軌道上から遠隔操作される",
+        "研究ペイロードがステーションを経由して循環する"
+      ],
+      "implications": [
+        "火星ロボティクスの通信遅延低減",
+        "新しい官民連携科学モデル",
+        "より大規模な火星インフラの基盤"
+      ],
+      "image": {
+        "alt": "火星軌道上に初の民間研究ステーションが設置される",
+        "prompts": [
+          "Clean futuristic documentary scene of first Private Research Station Around Mars Orbit, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Private Research Station Around Mars Orbit as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Private Research Station Around Mars Orbit, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Private Research Station Around Mars Orbit, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-private-research-station-around-mars-orbit.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-private-research-station-around-mars-orbit.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-private-research-station-around-mars-orbit.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-private-research-station-around-mars-orbit.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-private-research-station-around-mars-orbit.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens",
+      "order": 15,
+      "slug": "space-tourism-becomes-accessible-to-upper-middle-class-citizens",
+      "title": "宇宙旅行がアッパーミドル層にも手の届く体験になる",
+      "shortTitle": "身近になる宇宙旅行",
+      "category": "Society & Economy",
+      "description": "軌道旅行の価格が下がり、アッパーミドル層の市民が貯蓄、融資、抽選を通じて短期宇宙旅行を体験できるようになります。",
+      "layerId": "society",
+      "domains": [
+        "space",
+        "tourism",
+        "mobility"
+      ],
+      "maturity": "early-mainstream",
+      "timeframe": {
+        "startYear": 2049,
+        "endYear": 2062
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "宇宙旅行はエリート向けの珍しい体験から、市民が目指せる移動体験へ移行し始めます。",
+      "signals": [
+        "再使用型打ち上げ運用が拡大する",
+        "短期軌道飛行の安全性が高まる",
+        "旅行事業者が分割払いと抽選プログラムを作る"
+      ],
+      "implications": [
+        "宇宙との文化的つながりが広がる",
+        "民間人向けの新しい訓練システム",
+        "公平なアクセスと安全監督への需要増加"
+      ],
+      "image": {
+        "alt": "宇宙旅行がアッパーミドル層にも手の届く体験になる",
+        "prompts": [
+          "Clean futuristic documentary scene of space Tourism Becomes Accessible to Upper-Middle-Class Citizens, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing space Tourism Becomes Accessible to Upper-Middle-Class Citizens as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of space Tourism Becomes Accessible to Upper-Middle-Class Citizens, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring space Tourism Becomes Accessible to Upper-Middle-Class Citizens, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-tourism-becomes-accessible-to-upper-middle-class-citizens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-low-pressure-lunar-gmo-greenhouses-go-operational",
+      "order": 16,
+      "slug": "low-pressure-lunar-gmo-greenhouses-go-operational",
+      "title": "低圧月面GMO温室が稼働する",
+      "shortTitle": "月面GMO温室",
+      "category": "Biology & Medicine",
+      "description": "月面温室が低圧環境と改良作物を用いて、月特有の制約下で食料を生産しながらエネルギー需要を抑えます。",
+      "layerId": "technology",
+      "domains": [
+        "space",
+        "agriculture",
+        "biotechnology"
+      ],
+      "maturity": "controlled-deployment",
+      "timeframe": {
+        "startYear": 2050,
+        "endYear": 2062
+      },
+      "impactLevel": "high",
+      "civilizationImpact": "農業が地球外環境に適応し、月面定住地の自給性向上を支えます。",
+      "signals": [
+        "低圧作物試験で収量が改善する",
+        "改良植物が特殊な湿度と放射線制御に耐える",
+        "温室が酸素と水のリサイクルと統合される"
+      ],
+      "implications": [
+        "生命維持に必要なエネルギーコストの低下",
+        "月面クルーの食料多様性向上",
+        "地球外の改変生物に対する倫理的監督"
+      ],
+      "image": {
+        "alt": "低圧月面GMO温室が稼働する",
+        "prompts": [
+          "Clean futuristic documentary scene of low-Pressure Lunar GMO Greenhouses Go Operational, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing low-Pressure Lunar GMO Greenhouses Go Operational as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of low-Pressure Lunar GMO Greenhouses Go Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring low-Pressure Lunar GMO Greenhouses Go Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-low-pressure-lunar-gmo-greenhouses-go-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-autonomous-construction-robots-begin-building-on-mars",
+      "order": 17,
+      "slug": "autonomous-construction-robots-begin-building-on-mars",
+      "title": "自律建設ロボットが火星で建設を始める",
+      "shortTitle": "火星建設ロボット",
+      "category": "Robotics",
+      "description": "大規模な有人クルーが到着する前に、自律建設ロボットが火星で道路、パッド、シェルター、ユーティリティ回廊の建設を始めます。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "robotics",
+        "construction"
+      ],
+      "maturity": "early-surface-deployment",
+      "timeframe": {
+        "startYear": 2050,
+        "endYear": 2063
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "火星開発はロボット労働から始まり、リスクを下げながら長期定住の基盤を整えます。",
+      "signals": [
+        "ロボット建設機が粉じんの多い低圧環境で稼働する",
+        "現地レゴリスが建設材料として試験される",
+        "有人ミッション前に地表インフラが建設される"
+      ],
+      "implications": [
+        "より安全な火星到着",
+        "定住準備の高速化",
+        "ロボット先行都市の新しい設計原則"
+      ],
+      "image": {
+        "alt": "自律建設ロボットが火星で建設を始める",
+        "prompts": [
+          "Clean futuristic documentary scene of autonomous Construction Robots Begin Building on Mars, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing autonomous Construction Robots Begin Building on Mars as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of autonomous Construction Robots Begin Building on Mars, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring autonomous Construction Robots Begin Building on Mars, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-autonomous-construction-robots-begin-building-on-mars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-construction-robots-begin-building-on-mars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-construction-robots-begin-building-on-mars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-orbital-weather-control-station-becomes-operational",
+      "order": 18,
+      "slug": "first-orbital-weather-control-station-becomes-operational",
+      "title": "初の軌道気象制御ステーションが稼働する",
+      "shortTitle": "軌道気象制御",
+      "category": "Physics",
+      "description": "軌道気象制御ステーションが、極端気象リスクの低減、大気エネルギーの誘導、脆弱地域の保護を目的とした制御実験を始めます。",
+      "layerId": "civilization",
+      "domains": [
+        "space",
+        "climate",
+        "planetary-systems"
+      ],
+      "maturity": "early-operation",
+      "timeframe": {
+        "startYear": 2050,
+        "endYear": 2063
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "気候対応は予測と適応から、慎重な惑星規模の介入へ拡張されます。",
+      "signals": [
+        "軌道プラットフォームが嵐のシステムをリアルタイム監視する",
+        "小規模介入試験が安全審査を通過する",
+        "国際機関が気象改変の限界を管理する"
+      ],
+      "implications": [
+        "災害被害を軽減できる可能性",
+        "重大な地政学的監督課題",
+        "新しい惑星工学倫理"
+      ],
+      "image": {
+        "alt": "初の軌道気象制御ステーションが稼働する",
+        "prompts": [
+          "Clean futuristic documentary scene of first Orbital Weather Control Station Becomes Operational, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing first Orbital Weather Control Station Becomes Operational as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of first Orbital Weather Control Station Becomes Operational, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring first Orbital Weather Control Station Becomes Operational, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-orbital-weather-control-station-becomes-operational.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-orbital-weather-control-station-becomes-operational.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-orbital-weather-control-station-becomes-operational.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs",
+      "order": 19,
+      "slug": "fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs",
+      "title": "核融合支援の自律貨物船が惑星間補給を開始する",
+      "shortTitle": "核融合貨物船",
+      "category": "Energy",
+      "description": "核融合支援の自律貨物船が、地球軌道、月、火星、産業ステーションの間で重い物資を運び始めます。",
+      "layerId": "technology",
+      "domains": [
+        "space",
+        "fusion",
+        "logistics"
+      ],
+      "maturity": "advanced-prototype",
+      "timeframe": {
+        "startYear": 2051,
+        "endYear": 2064
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "惑星間物流はより高いエネルギー能力を獲得し、より大規模で頻繁な貨物移動を可能にします。",
+      "signals": [
+        "核融合推進モジュールが長期試験を完了する",
+        "自律航法が深宇宙の移行ウィンドウに対応する",
+        "貨物船が月面・火星物流ハブとドッキングする"
+      ],
+      "implications": [
+        "重量貨物輸送の低コスト化",
+        "惑星間産業の成長",
+        "核融合動力宇宙船に対する新しい安全ルール"
+      ],
+      "image": {
+        "alt": "核融合支援の自律貨物船が惑星間補給を開始する",
+        "prompts": [
+          "Clean futuristic documentary scene of fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring fusion-Assisted Autonomous Cargo Ships Begin Interplanetary Supply Runs, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-fusion-assisted-autonomous-cargo-ships-begin-interplanetary-supply-runs.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy",
+      "order": 20,
+      "slug": "open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy",
+      "title": "開放環境での核融合点火が大規模宇宙インフラのエネルギーを可能にする",
+      "shortTitle": "開放環境の核融合点火",
+      "category": "Energy",
+      "description": "開放環境での核融合点火システムが、大規模宇宙インフラ実験、建設ヤード、エネルギー集約型の軌道運用に拡張可能な電力を提供します。",
+      "layerId": "technology",
+      "domains": [
+        "space",
+        "fusion",
+        "infrastructure"
+      ],
+      "maturity": "breakthrough-demonstration",
+      "timeframe": {
+        "startYear": 2051,
+        "endYear": 2064
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "高密度エネルギーが地球外で利用可能になることで、非常に大きな宇宙プロジェクトがより実現しやすくなります。",
+      "signals": [
+        "従来型の原子炉施設外で核融合点火が実証される",
+        "軌道建設現場がより高い電力密度を必要とする",
+        "宇宙環境向けのエネルギー安全プロトコルが成熟する"
+      ],
+      "implications": [
+        "メガストラクチャー建設への電力供給",
+        "輸送燃料への依存低下",
+        "軌道・月面産業の加速"
+      ],
+      "image": {
+        "alt": "開放環境での核融合点火が大規模宇宙インフラのエネルギーを可能にする",
+        "prompts": [
+          "Clean futuristic documentary scene of open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy, realistic space infrastructure, human-centered optimistic atmosphere, cinematic lighting, 16:9",
+          "Wide view showing open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy as part of early space civilization, spacecraft, habitats, robots, and Earth or Moon visible where appropriate, realistic, 16:9",
+          "Close-up operational scene of open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy, engineers and autonomous systems working together, grounded near-future realism, 16:9",
+          "Command center or habitat view monitoring open-Air Fusion Ignition Enables Large-Scale Space Infrastructure Energy, transparent dashboards, calm professional crew, clean futuristic documentary style, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-open-air-fusion-ignition-enables-large-scale-space-infrastructure-energy.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes",
+      "order": 21,
+      "slug": "ai-space-traffic-control-system-coordinates-earth-moon-routes",
+      "title": "AI宇宙交通管制システムが地球–月ルートを調整する",
+      "shortTitle": "AI宇宙交通管制",
+      "category": "AI & Computing",
+      "description": "AI宇宙交通管制システムは、宇宙運用、交通管制、ミッション司令、小惑星調査、閉ループ型の地球外インフラへ知能システムを拡張します。",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2055,
+        "endYear": 2059
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "AI宇宙交通管制システムによる地球–月ルート調整は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "AI システムが高リスクな業務で信頼されるようになる",
+        "人間の役割は監督と検証へ移行する",
+        "自動化がデジタル作業から物理インフラへ広がる"
+      ],
+      "implications": [
+        "専門家レベルのサービスへアクセスしやすくなる",
+        "科学的・運用上の意思決定が加速する",
+        "ガバナンスと安全基準の重要性が高まる"
+      ],
+      "image": {
+        "alt": "AI宇宙交通管制システムが地球–月ルートを調整する",
+        "prompts": [
+          "aI Space Traffic Control System Coordinates Earth-Moon Routes, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing aI Space Traffic Control System Coordinates Earth-Moon Routes, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of aI Space Traffic Control System Coordinates Earth-Moon Routes, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating aI Space Traffic Control System Coordinates Earth-Moon Routes, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ai-space-traffic-control-system-coordinates-earth-moon-routes.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems",
+      "order": 22,
+      "slug": "autonomous-ai-scientists-optimize-closed-loop-life-support-systems",
+      "title": "自律AI科学者が閉ループ生命維持システムを最適化する",
+      "shortTitle": "自律AI科学者による最適化",
+      "category": "AI & Computing",
+      "description": "自律AI科学者による閉ループ生命維持システムの最適化は、宇宙運用、交通管制、ミッション司令、小惑星調査、閉ループ型の地球外インフラへ知能システムを拡張します。",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2055,
+        "endYear": 2059
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "自律AI科学者による閉ループ生命維持システムの最適化は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "AI システムが高リスクな業務で信頼されるようになる",
+        "人間の役割は監督と検証へ移行する",
+        "自動化がデジタル作業から物理インフラへ広がる"
+      ],
+      "implications": [
+        "専門家レベルのサービスへアクセスしやすくなる",
+        "科学的・運用上の意思決定が加速する",
+        "ガバナンスと安全基準の重要性が高まる"
+      ],
+      "image": {
+        "alt": "自律AI科学者が閉ループ生命維持システムを最適化する",
+        "prompts": [
+          "autonomous AI Scientists Optimize Closed-Loop Life Support Systems, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous AI Scientists Optimize Closed-Loop Life Support Systems, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous AI Scientists Optimize Closed-Loop Life Support Systems, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous AI Scientists Optimize Closed-Loop Life Support Systems, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-ai-scientists-optimize-closed-loop-life-support-systems.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-interplanetary-quantum-communication-network-pilot-goes-live",
+      "order": 23,
+      "slug": "interplanetary-quantum-communication-network-pilot-goes-live",
+      "title": "惑星間量子通信ネットワークの実証運用が始まる",
+      "shortTitle": "惑星間量子通信ネットワーク",
+      "category": "AI & Computing",
+      "description": "惑星間量子通信ネットワークの実証運用は、宇宙運用、交通管制、ミッション司令、小惑星調査、閉ループ型の地球外インフラへ知能システムを拡張します。",
+      "layerId": "ai-computing",
+      "domains": [
+        "artificial-intelligence",
+        "automation",
+        "digital-systems"
+      ],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2056,
+        "endYear": 2060
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "惑星間量子通信ネットワークの実証運用は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "AI システムが高リスクな業務で信頼されるようになる",
+        "人間の役割は監督と検証へ移行する",
+        "自動化がデジタル作業から物理インフラへ広がる"
+      ],
+      "implications": [
+        "専門家レベルのサービスへアクセスしやすくなる",
+        "科学的・運用上の意思決定が加速する",
+        "ガバナンスと安全基準の重要性が高まる"
+      ],
+      "image": {
+        "alt": "惑星間量子通信ネットワークの実証運用が始まる",
+        "prompts": [
+          "interplanetary Quantum Communication Network Pilot Goes Live, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing interplanetary Quantum Communication Network Pilot Goes Live, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of interplanetary Quantum Communication Network Pilot Goes Live, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating interplanetary Quantum Communication Network Pilot Goes Live, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-interplanetary-quantum-communication-network-pilot-goes-live.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-interplanetary-quantum-communication-network-pilot-goes-live.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-interplanetary-quantum-communication-network-pilot-goes-live.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-orbital-maintenance-robots-service-commercial-space-stations",
+      "order": 24,
+      "slug": "orbital-maintenance-robots-service-commercial-space-stations",
+      "title": "軌道保守ロボットが商業宇宙ステーションを整備する",
+      "shortTitle": "軌道保守ロボット",
+      "category": "Robotics",
+      "description": "軌道保守ロボットによる商業宇宙ステーションの整備は、月面、軌道、火星、深宇宙での建設、保守、採掘、修理の中心に自律機械を置きます。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2056,
+        "endYear": 2060
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "軌道保守ロボットによる商業宇宙ステーション整備は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "ロボットが公共空間や産業環境で安定して稼働する",
+        "自律型フリートが都市や地球外施設をまたいで連携する",
+        "危険で反復的な作業が機械労働へ移行し始める"
+      ],
+      "implications": [
+        "物理サービスがより低コストで利用しやすくなる",
+        "危険作業にさらされる人間のリスクが低下する",
+        "インフラ拡張が従来の労働力より速く進められる"
+      ],
+      "image": {
+        "alt": "軌道保守ロボットが商業宇宙ステーションを整備する",
+        "prompts": [
+          "orbital Maintenance Robots Service Commercial Space Stations, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing orbital Maintenance Robots Service Commercial Space Stations, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of orbital Maintenance Robots Service Commercial Space Stations, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating orbital Maintenance Robots Service Commercial Space Stations, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-orbital-maintenance-robots-service-commercial-space-stations.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-orbital-maintenance-robots-service-commercial-space-stations.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-orbital-maintenance-robots-service-commercial-space-stations.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-autonomous-lunar-mining-robots-reach-continuous-operation",
+      "order": 25,
+      "slug": "autonomous-lunar-mining-robots-reach-continuous-operation",
+      "title": "自律月面採掘ロボットが連続運用に到達する",
+      "shortTitle": "自律月面採掘ロボット",
+      "category": "Robotics",
+      "description": "自律月面採掘ロボットの連続運用は、月面、軌道、火星、深宇宙での建設、保守、採掘、修理の中心に自律機械を置きます。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "early-space-deployment",
+      "timeframe": {
+        "startYear": 2057,
+        "endYear": 2061
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "自律月面採掘ロボットの連続運用は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "ロボットが公共空間や産業環境で安定して稼働する",
+        "自律型フリートが都市や地球外施設をまたいで連携する",
+        "危険で反復的な作業が機械労働へ移行し始める"
+      ],
+      "implications": [
+        "物理サービスがより低コストで利用しやすくなる",
+        "危険作業にさらされる人間のリスクが低下する",
+        "インフラ拡張が従来の労働力より速く進められる"
+      ],
+      "image": {
+        "alt": "自律月面採掘ロボットが連続運用に到達する",
+        "prompts": [
+          "autonomous Lunar Mining Robots Reach Continuous Operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing autonomous Lunar Mining Robots Reach Continuous Operation, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of autonomous Lunar Mining Robots Reach Continuous Operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating autonomous Lunar Mining Robots Reach Continuous Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-autonomous-lunar-mining-robots-reach-continuous-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions",
+      "order": 26,
+      "slug": "deep-space-repair-robots-become-standard-for-interplanetary-missions",
+      "title": "深宇宙修理ロボットが惑星間ミッションの標準になる",
+      "shortTitle": "惑星間ミッション用深宇宙修理ロボット",
+      "category": "Robotics",
+      "description": "深宇宙修理ロボットが惑星間ミッションの標準になることで、月面、軌道、火星、深宇宙での建設、保守、採掘、修理の中心に自律機械が置かれます。",
+      "layerId": "robotics",
+      "domains": [
+        "autonomous-robotics",
+        "service-robots",
+        "robot-swarms"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2057,
+        "endYear": 2061
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "深宇宙修理ロボットの標準化は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "ロボットが公共空間や産業環境で安定して稼働する",
+        "自律型フリートが都市や地球外施設をまたいで連携する",
+        "危険で反復的な作業が機械労働へ移行し始める"
+      ],
+      "implications": [
+        "物理サービスがより低コストで利用しやすくなる",
+        "危険作業にさらされる人間のリスクが低下する",
+        "インフラ拡張が従来の労働力より速く進められる"
+      ],
+      "image": {
+        "alt": "深宇宙修理ロボットが惑星間ミッションの標準になる",
+        "prompts": [
+          "deep-Space Repair Robots Become Standard for Interplanetary Missions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing deep-Space Repair Robots Become Standard for Interplanetary Missions, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of deep-Space Repair Robots Become Standard for Interplanetary Missions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating deep-Space Repair Robots Become Standard for Interplanetary Missions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-deep-space-repair-robots-become-standard-for-interplanetary-missions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-lunar-helium-3-processing-demonstration-plant-opens",
+      "order": 27,
+      "slug": "lunar-helium-3-processing-demonstration-plant-opens",
+      "title": "月面ヘリウム3処理実証プラントが開設される",
+      "shortTitle": "月面ヘリウム3処理実証",
+      "category": "Energy",
+      "description": "月面ヘリウム3処理実証プラントの開設は、高度エネルギーを初期宇宙文明の基盤に変え、軌道ステーション、月面産業、惑星間貨物、エネルギー伝送を支えます。",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2062
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "月面ヘリウム3処理実証プラントは、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "試作エネルギーシステムが持続的な実証段階に到達する",
+        "スマートグリッドが無駄を減らし信頼性を高める",
+        "エネルギーインフラが道路、建物、宇宙資産と統合され始める"
+      ],
+      "implications": [
+        "クリーンエネルギーをより拡張しやすくなる",
+        "輸送と建設の炭素集約度が下がる",
+        "将来の宇宙インフラがより経済的に現実味を帯びる"
+      ],
+      "image": {
+        "alt": "月面ヘリウム3処理実証プラントが開設される",
+        "prompts": [
+          "lunar Helium-3 Processing Demonstration Plant Opens, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lunar Helium-3 Processing Demonstration Plant Opens, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lunar Helium-3 Processing Demonstration Plant Opens, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lunar Helium-3 Processing Demonstration Plant Opens, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-lunar-helium-3-processing-demonstration-plant-opens.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-lunar-helium-3-processing-demonstration-plant-opens.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-helium-3-processing-demonstration-plant-opens.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable",
+      "order": 28,
+      "slug": "wireless-energy-transmission-between-orbital-stations-becomes-reliable",
+      "title": "軌道ステーション間のワイヤレス送電が信頼性を持つ",
+      "shortTitle": "軌道間ワイヤレス送電",
+      "category": "Energy",
+      "description": "軌道ステーション間のワイヤレス送電が信頼できるようになり、高度エネルギーは初期宇宙文明の基盤として軌道ステーション、月面産業、惑星間貨物、エネルギー伝送を支えます。",
+      "layerId": "energy",
+      "domains": [
+        "fusion-energy",
+        "electric-infrastructure",
+        "clean-energy"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2058,
+        "endYear": 2062
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "軌道ステーション間のワイヤレス送電は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "試作エネルギーシステムが持続的な実証段階に到達する",
+        "スマートグリッドが無駄を減らし信頼性を高める",
+        "エネルギーインフラが道路、建物、宇宙資産と統合され始める"
+      ],
+      "implications": [
+        "クリーンエネルギーをより拡張しやすくなる",
+        "輸送と建設の炭素集約度が下がる",
+        "将来の宇宙インフラがより経済的に現実味を帯びる"
+      ],
+      "image": {
+        "alt": "軌道ステーション間のワイヤレス送電が信頼性を持つ",
+        "prompts": [
+          "wireless Energy Transmission Between Orbital Stations Becomes Reliable, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing wireless Energy Transmission Between Orbital Stations Becomes Reliable, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of wireless Energy Transmission Between Orbital Stations Becomes Reliable, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating wireless Energy Transmission Between Orbital Stations Becomes Reliable, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-wireless-energy-transmission-between-orbital-stations-becomes-reliable.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-artificial-womb-research-supports-long-duration-space-missions",
+      "order": 29,
+      "slug": "artificial-womb-research-supports-long-duration-space-missions",
+      "title": "人工子宮研究が長期宇宙ミッションを支える",
+      "shortTitle": "人工子宮研究",
+      "category": "Biology & Medicine",
+      "description": "人工子宮研究は、医学、生殖、農業、生命維持を地球外での恒久的人間活動に適応させます。",
+      "layerId": "biology-medicine",
+      "domains": [
+        "medicine",
+        "biotechnology",
+        "human-health"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2059,
+        "endYear": 2063
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "人工子宮研究による長期宇宙ミッション支援は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "病気の検出がより早期化し、より個別化される",
+        "再生医療と遺伝子ベースの治療が広がる",
+        "閉ループ型の生物システムが宇宙居住を支える"
+      ],
+      "implications": [
+        "医療システムがより予防重視になる",
+        "人間の身体がより修復可能になる",
+        "長期宇宙生活がより現実的になる"
+      ],
+      "image": {
+        "alt": "人工子宮研究が長期宇宙ミッションを支える",
+        "prompts": [
+          "artificial Womb Research Supports Long-Duration Space Missions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Womb Research Supports Long-Duration Space Missions, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Womb Research Supports Long-Duration Space Missions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Womb Research Supports Long-Duration Space Missions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-artificial-womb-research-supports-long-duration-space-missions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-artificial-womb-research-supports-long-duration-space-missions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-artificial-womb-research-supports-long-duration-space-missions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-artificial-gravity-habitat-prototype-completes-one-year-trial",
+      "order": 30,
+      "slug": "artificial-gravity-habitat-prototype-completes-one-year-trial",
+      "title": "人工重力居住施設プロトタイプが1年間の試験を完了する",
+      "shortTitle": "人工重力居住施設プロトタイプ",
+      "category": "Physics",
+      "description": "人工重力居住施設プロトタイプの1年間試験完了は、高度物理を人工重力、放射線防護、量子時刻、航法、深宇宙観測へ応用します。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2059,
+        "endYear": 2063
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "人工重力居住施設プロトタイプの1年間試験完了は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "実験物理が再現可能な工学プロトタイプへ進む",
+        "量子システムや場を利用する技術が研究室だけの段階を離れる",
+        "高精度計測が航法と科学を向上させる"
+      ],
+      "implications": [
+        "新しいインフラ能力が実現可能になる",
+        "宇宙定住がより安全になる",
+        "将来のブレイクスルーに向けた工学的経路が明確になる"
+      ],
+      "image": {
+        "alt": "人工重力居住施設プロトタイプが1年間の試験を完了する",
+        "prompts": [
+          "artificial Gravity Habitat Prototype Completes One-Year Trial, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing artificial Gravity Habitat Prototype Completes One-Year Trial, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of artificial Gravity Habitat Prototype Completes One-Year Trial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating artificial Gravity Habitat Prototype Completes One-Year Trial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-artificial-gravity-habitat-prototype-completes-one-year-trial.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-radiation-shielding-using-magnetic-fields-demonstrated",
+      "order": 31,
+      "slug": "radiation-shielding-using-magnetic-fields-demonstrated",
+      "title": "磁場を用いた放射線シールドが実証される",
+      "shortTitle": "磁場放射線シールド",
+      "category": "Physics",
+      "description": "磁場を用いた放射線シールドの実証は、高度物理を人工重力、放射線防護、量子時刻、航法、深宇宙観測へ応用します。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2064
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "磁場を用いた放射線シールドの実証は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "実験物理が再現可能な工学プロトタイプへ進む",
+        "量子システムや場を利用する技術が研究室だけの段階を離れる",
+        "高精度計測が航法と科学を向上させる"
+      ],
+      "implications": [
+        "新しいインフラ能力が実現可能になる",
+        "宇宙定住がより安全になる",
+        "将来のブレイクスルーに向けた工学的経路が明確になる"
+      ],
+      "image": {
+        "alt": "磁場を用いた放射線シールドが実証される",
+        "prompts": [
+          "radiation Shielding Using Magnetic Fields Demonstrated, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing radiation Shielding Using Magnetic Fields Demonstrated, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of radiation Shielding Using Magnetic Fields Demonstrated, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating radiation Shielding Using Magnetic Fields Demonstrated, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-radiation-shielding-using-magnetic-fields-demonstrated.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-radiation-shielding-using-magnetic-fields-demonstrated.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-radiation-shielding-using-magnetic-fields-demonstrated.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-space-based-quantum-clock-network-improves-navigation-precision",
+      "order": 32,
+      "slug": "space-based-quantum-clock-network-improves-navigation-precision",
+      "title": "宇宙ベース量子時計ネットワークが航法精度を高める",
+      "shortTitle": "宇宙ベース量子時計ネットワーク",
+      "category": "Physics",
+      "description": "宇宙ベース量子時計ネットワークによる航法精度の向上は、高度物理を人工重力、放射線防護、量子時刻、航法、深宇宙観測へ応用します。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2060,
+        "endYear": 2064
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "宇宙ベース量子時計ネットワークによる航法精度向上は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "実験物理が再現可能な工学プロトタイプへ進む",
+        "量子システムや場を利用する技術が研究室だけの段階を離れる",
+        "高精度計測が航法と科学を向上させる"
+      ],
+      "implications": [
+        "新しいインフラ能力が実現可能になる",
+        "宇宙定住がより安全になる",
+        "将来のブレイクスルーに向けた工学的経路が明確になる"
+      ],
+      "image": {
+        "alt": "宇宙ベース量子時計ネットワークが航法精度を高める",
+        "prompts": [
+          "space-Based Quantum Clock Network Improves Navigation Precision, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space-Based Quantum Clock Network Improves Navigation Precision, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space-Based Quantum Clock Network Improves Navigation Precision, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space-Based Quantum Clock Network Improves Navigation Precision, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-space-based-quantum-clock-network-improves-navigation-precision.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-space-based-quantum-clock-network-improves-navigation-precision.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-based-quantum-clock-network-improves-navigation-precision.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-deep-space-neutrino-observatory-begins-operation",
+      "order": 33,
+      "slug": "deep-space-neutrino-observatory-begins-operation",
+      "title": "深宇宙ニュートリノ観測所が運用を開始する",
+      "shortTitle": "深宇宙ニュートリノ観測所",
+      "category": "Physics",
+      "description": "深宇宙ニュートリノ観測所の運用開始は、高度物理を人工重力、放射線防護、量子時刻、航法、深宇宙観測へ応用します。",
+      "layerId": "physics",
+      "domains": [
+        "quantum-systems",
+        "gravity",
+        "advanced-physics"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2061,
+        "endYear": 2065
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "深宇宙ニュートリノ観測所の運用開始は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "実験物理が再現可能な工学プロトタイプへ進む",
+        "量子システムや場を利用する技術が研究室だけの段階を離れる",
+        "高精度計測が航法と科学を向上させる"
+      ],
+      "implications": [
+        "新しいインフラ能力が実現可能になる",
+        "宇宙定住がより安全になる",
+        "将来のブレイクスルーに向けた工学的経路が明確になる"
+      ],
+      "image": {
+        "alt": "深宇宙ニュートリノ観測所が運用を開始する",
+        "prompts": [
+          "deep-Space Neutrino Observatory Begins Operation, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing deep-Space Neutrino Observatory Begins Operation, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of deep-Space Neutrino Observatory Begins Operation, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating deep-Space Neutrino Observatory Begins Operation, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-deep-space-neutrino-observatory-begins-operation.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-deep-space-neutrino-observatory-begins-operation.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-deep-space-neutrino-observatory-begins-operation.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon",
+      "order": 34,
+      "slug": "regolith-based-3d-printing-materials-become-standard-on-the-moon",
+      "title": "レゴリス由来の3Dプリント材料が月面標準になる",
+      "shortTitle": "レゴリス由来3Dプリント材料",
+      "category": "Materials & Manufacturing",
+      "description": "レゴリス由来の3Dプリント材料が月面標準となり、軌道上、月面、シスルナー空間での建設、修理、製造の産業基盤を作ります。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2061,
+        "endYear": 2065
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "レゴリス由来3Dプリント材料の月面標準化は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "低炭素素材と自己修復素材が商用利用に入る",
+        "積層造形が建物とインフラへ拡大する",
+        "地球では実用化しにくい素材を宇宙製造が生み出す"
+      ],
+      "implications": [
+        "建設がより低コストでクリーンになる",
+        "都市と宇宙居住地のレジリエンスが高まる",
+        "サプライチェーンが地域内生産と自動化へ移行する"
+      ],
+      "image": {
+        "alt": "レゴリス由来の3Dプリント材料が月面標準になる",
+        "prompts": [
+          "regolith-Based 3D Printing Materials Become Standard on the Moon, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing regolith-Based 3D Printing Materials Become Standard on the Moon, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of regolith-Based 3D Printing Materials Become Standard on the Moon, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating regolith-Based 3D Printing Materials Become Standard on the Moon, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-regolith-based-3d-printing-materials-become-standard-on-the-moon.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-self-healing-spacecraft-hull-materials-enter-service",
+      "order": 35,
+      "slug": "self-healing-spacecraft-hull-materials-enter-service",
+      "title": "自己修復型宇宙船外殻材料が実用化される",
+      "shortTitle": "自己修復型宇宙船外殻材料",
+      "category": "Materials & Manufacturing",
+      "description": "自己修復型宇宙船外殻材料の実用化は、軌道上、月面、シスルナー空間での建設、修理、製造の産業基盤を作ります。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2066
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "自己修復型宇宙船外殻材料の実用化は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "低炭素素材と自己修復素材が商用利用に入る",
+        "積層造形が建物とインフラへ拡大する",
+        "地球では実用化しにくい素材を宇宙製造が生み出す"
+      ],
+      "implications": [
+        "建設がより低コストでクリーンになる",
+        "都市と宇宙居住地のレジリエンスが高まる",
+        "サプライチェーンが地域内生産と自動化へ移行する"
+      ],
+      "image": {
+        "alt": "自己修復型宇宙船外殻材料が実用化される",
+        "prompts": [
+          "self-Healing Spacecraft Hull Materials Enter Service, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing self-Healing Spacecraft Hull Materials Enter Service, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of self-Healing Spacecraft Hull Materials Enter Service, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating self-Healing Spacecraft Hull Materials Enter Service, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-self-healing-spacecraft-hull-materials-enter-service.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-self-healing-spacecraft-hull-materials-enter-service.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-self-healing-spacecraft-hull-materials-enter-service.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-carbon-nanotube-space-cables-reach-industrial-scale",
+      "order": 36,
+      "slug": "carbon-nanotube-space-cables-reach-industrial-scale",
+      "title": "カーボンナノチューブ宇宙ケーブルが産業規模に到達する",
+      "shortTitle": "カーボンナノチューブ宇宙ケーブル",
+      "category": "Materials & Manufacturing",
+      "description": "カーボンナノチューブ宇宙ケーブルの産業規模化は、軌道上、月面、シスルナー空間での建設、修理、製造の産業基盤を作ります。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2062,
+        "endYear": 2066
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "カーボンナノチューブ宇宙ケーブルの産業規模化は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "低炭素素材と自己修復素材が商用利用に入る",
+        "積層造形が建物とインフラへ拡大する",
+        "地球では実用化しにくい素材を宇宙製造が生み出す"
+      ],
+      "implications": [
+        "建設がより低コストでクリーンになる",
+        "都市と宇宙居住地のレジリエンスが高まる",
+        "サプライチェーンが地域内生産と自動化へ移行する"
+      ],
+      "image": {
+        "alt": "カーボンナノチューブ宇宙ケーブルが産業規模に到達する",
+        "prompts": [
+          "carbon Nanotube Space Cables Reach Industrial Scale, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Nanotube Space Cables Reach Industrial Scale, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Nanotube Space Cables Reach Industrial Scale, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Nanotube Space Cables Reach Industrial Scale, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-carbon-nanotube-space-cables-reach-industrial-scale.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-carbon-nanotube-space-cables-reach-industrial-scale.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-carbon-nanotube-space-cables-reach-industrial-scale.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors",
+      "order": 37,
+      "slug": "vacuum-manufacturing-produces-ultra-pure-semiconductors",
+      "title": "真空製造が超高純度半導体を生産する",
+      "shortTitle": "真空製造による超高純度半導体",
+      "category": "Materials & Manufacturing",
+      "description": "真空製造による超高純度半導体の生産は、軌道上、月面、シスルナー空間での建設、修理、製造の産業基盤を作ります。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2063,
+        "endYear": 2067
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "真空製造による超高純度半導体の生産は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "低炭素素材と自己修復素材が商用利用に入る",
+        "積層造形が建物とインフラへ拡大する",
+        "地球では実用化しにくい素材を宇宙製造が生み出す"
+      ],
+      "implications": [
+        "建設がより低コストでクリーンになる",
+        "都市と宇宙居住地のレジリエンスが高まる",
+        "サプライチェーンが地域内生産と自動化へ移行する"
+      ],
+      "image": {
+        "alt": "真空製造が超高純度半導体を生産する",
+        "prompts": [
+          "vacuum Manufacturing Produces Ultra-Pure Semiconductors, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing vacuum Manufacturing Produces Ultra-Pure Semiconductors, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of vacuum Manufacturing Produces Ultra-Pure Semiconductors, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating vacuum Manufacturing Produces Ultra-Pure Semiconductors, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-vacuum-manufacturing-produces-ultra-pure-semiconductors.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-in-orbit-additive-manufacturing-facilities-become-commercial",
+      "order": 38,
+      "slug": "in-orbit-additive-manufacturing-facilities-become-commercial",
+      "title": "軌道上積層造形施設が商業化される",
+      "shortTitle": "軌道上積層造形施設",
+      "category": "Materials & Manufacturing",
+      "description": "軌道上積層造形施設の商業化は、軌道上、月面、シスルナー空間での建設、修理、製造の産業基盤を作ります。",
+      "layerId": "materials-manufacturing",
+      "domains": [
+        "advanced-materials",
+        "manufacturing",
+        "construction"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2063,
+        "endYear": 2067
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "軌道上積層造形施設の商業化は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "低炭素素材と自己修復素材が商用利用に入る",
+        "積層造形が建物とインフラへ拡大する",
+        "地球では実用化しにくい素材を宇宙製造が生み出す"
+      ],
+      "implications": [
+        "建設がより低コストでクリーンになる",
+        "都市と宇宙居住地のレジリエンスが高まる",
+        "サプライチェーンが地域内生産と自動化へ移行する"
+      ],
+      "image": {
+        "alt": "軌道上積層造形施設が商業化される",
+        "prompts": [
+          "in-Orbit Additive Manufacturing Facilities Become Commercial, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing in-Orbit Additive Manufacturing Facilities Become Commercial, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of in-Orbit Additive Manufacturing Facilities Become Commercial, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating in-Orbit Additive Manufacturing Facilities Become Commercial, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-in-orbit-additive-manufacturing-facilities-become-commercial.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-space-radiation-monitoring-grid-covers-earth-moon-space",
+      "order": 39,
+      "slug": "space-radiation-monitoring-grid-covers-earth-moon-space",
+      "title": "宇宙放射線監視グリッドが地球–月空間を覆う",
+      "shortTitle": "宇宙放射線監視グリッド",
+      "category": "Environment",
+      "description": "宇宙放射線監視グリッドが地球–月空間を覆い、環境管理を宇宙へ広げながら、炭素回収、水リサイクル、放射線監視、生態系回復を通じて地球システムも改善します。",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2064,
+        "endYear": 2068
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "宇宙放射線監視グリッドは、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "AI モデルが気候と農業の意思決定を支援する",
+        "生態系回復プロジェクトが測定可能で拡張可能になる",
+        "閉ループ型資源システムが廃棄を減らす"
+      ],
+      "implications": [
+        "気候リスクと食料リスクを管理しやすくなる",
+        "生態系回復が本格的な産業になる",
+        "宇宙居住地が持続可能な資源循環に依存する"
+      ],
+      "image": {
+        "alt": "宇宙放射線監視グリッドが地球–月空間を覆う",
+        "prompts": [
+          "space Radiation Monitoring Grid Covers Earth-Moon Space, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing space Radiation Monitoring Grid Covers Earth-Moon Space, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of space Radiation Monitoring Grid Covers Earth-Moon Space, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating space Radiation Monitoring Grid Covers Earth-Moon Space, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-space-radiation-monitoring-grid-covers-earth-moon-space.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency",
+      "order": 40,
+      "slug": "closed-loop-water-recycling-achieves-near-perfect-efficiency",
+      "title": "閉ループ水リサイクルがほぼ完全な効率に到達する",
+      "shortTitle": "閉ループ水リサイクル",
+      "category": "Environment",
+      "description": "閉ループ水リサイクルがほぼ完全な効率に到達し、環境管理を宇宙へ広げながら、炭素回収、水リサイクル、放射線監視、生態系回復を通じて地球システムも改善します。",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2064,
+        "endYear": 2068
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "閉ループ水リサイクルの高効率化は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "AI モデルが気候と農業の意思決定を支援する",
+        "生態系回復プロジェクトが測定可能で拡張可能になる",
+        "閉ループ型資源システムが廃棄を減らす"
+      ],
+      "implications": [
+        "気候リスクと食料リスクを管理しやすくなる",
+        "生態系回復が本格的な産業になる",
+        "宇宙居住地が持続可能な資源循環に依存する"
+      ],
+      "image": {
+        "alt": "閉ループ水リサイクルがほぼ完全な効率に到達する",
+        "prompts": [
+          "closed-Loop Water Recycling Achieves Near-Perfect Efficiency, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing closed-Loop Water Recycling Achieves Near-Perfect Efficiency, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of closed-Loop Water Recycling Achieves Near-Perfect Efficiency, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating closed-Loop Water Recycling Achieves Near-Perfect Efficiency, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-closed-loop-water-recycling-achieves-near-perfect-efficiency.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth",
+      "order": 41,
+      "slug": "carbon-capture-megaprojects-reverse-atmospheric-co2-growth",
+      "title": "炭素回収メガプロジェクトが大気中CO₂増加を反転させる",
+      "shortTitle": "炭素回収メガプロジェクト",
+      "category": "Environment",
+      "description": "炭素回収メガプロジェクトが大気中CO₂増加を反転させ、環境管理を宇宙へ広げながら、炭素回収、水リサイクル、放射線監視、生態系回復を通じて地球システムも改善します。",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2069
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "炭素回収メガプロジェクトは、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "AI モデルが気候と農業の意思決定を支援する",
+        "生態系回復プロジェクトが測定可能で拡張可能になる",
+        "閉ループ型資源システムが廃棄を減らす"
+      ],
+      "implications": [
+        "気候リスクと食料リスクを管理しやすくなる",
+        "生態系回復が本格的な産業になる",
+        "宇宙居住地が持続可能な資源循環に依存する"
+      ],
+      "image": {
+        "alt": "炭素回収メガプロジェクトが大気中CO₂増加を反転させる",
+        "prompts": [
+          "carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating carbon Capture Megaprojects Reverse Atmospheric CO₂ Growth, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-carbon-capture-megaprojects-reverse-atmospheric-co2-growth.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions",
+      "order": 42,
+      "slug": "ocean-ecosystem-recovery-programs-restore-major-coral-regions",
+      "title": "海洋生態系回復プログラムが主要サンゴ海域を再生する",
+      "shortTitle": "海洋生態系回復プログラム",
+      "category": "Environment",
+      "description": "海洋生態系回復プログラムが主要サンゴ海域を再生し、環境管理を宇宙へ広げながら、炭素回収、水リサイクル、放射線監視、生態系回復を通じて地球システムも改善します。",
+      "layerId": "environment",
+      "domains": [
+        "climate",
+        "ecosystem-restoration",
+        "water-systems"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2065,
+        "endYear": 2069
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "海洋生態系回復プログラムは、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "AI モデルが気候と農業の意思決定を支援する",
+        "生態系回復プロジェクトが測定可能で拡張可能になる",
+        "閉ループ型資源システムが廃棄を減らす"
+      ],
+      "implications": [
+        "気候リスクと食料リスクを管理しやすくなる",
+        "生態系回復が本格的な産業になる",
+        "宇宙居住地が持続可能な資源循環に依存する"
+      ],
+      "image": {
+        "alt": "海洋生態系回復プログラムが主要サンゴ海域を再生する",
+        "prompts": [
+          "ocean Ecosystem Recovery Programs Restore Major Coral Regions, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing ocean Ecosystem Recovery Programs Restore Major Coral Regions, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of ocean Ecosystem Recovery Programs Restore Major Coral Regions, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating ocean Ecosystem Recovery Programs Restore Major Coral Regions, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-ocean-ecosystem-recovery-programs-restore-major-coral-regions.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-lunar-property-rights-framework-receives-international-recognition",
+      "order": 43,
+      "slug": "lunar-property-rights-framework-receives-international-recognition",
+      "title": "月面所有権フレームワークが国際的に認められる",
+      "shortTitle": "月面所有権フレームワーク",
+      "category": "Society & Economy",
+      "description": "月面所有権フレームワークの国際的認知は、地球–月経済活動に必要な最初の法制度、金融制度、文化制度、保険制度を築きます。",
+      "layerId": "society-economy",
+      "domains": [
+        "social-systems",
+        "economy",
+        "public-services"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2066,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "月面所有権フレームワークの国際的認知は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "デジタル公共インフラが相互運用可能になる",
+        "自動化と宇宙サービスを中心に新しい経済システムが形成される",
+        "法制度が新しい技術的現実へ適応する"
+      ],
+      "implications": [
+        "サービスへのアクセスがより簡単でグローバルになる",
+        "宇宙商業の正当性が高まる",
+        "経済生活がよりデジタル化し、国境を越える"
+      ],
+      "image": {
+        "alt": "月面所有権フレームワークが国際的に認められる",
+        "prompts": [
+          "lunar Property Rights Framework Receives International Recognition, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing lunar Property Rights Framework Receives International Recognition, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of lunar Property Rights Framework Receives International Recognition, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating lunar Property Rights Framework Receives International Recognition, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-lunar-property-rights-framework-receives-international-recognition.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-lunar-property-rights-framework-receives-international-recognition.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-lunar-property-rights-framework-receives-international-recognition.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-interplanetary-insurance-industry-emerges",
+      "order": 44,
+      "slug": "first-interplanetary-insurance-industry-emerges",
+      "title": "初の惑星間保険産業が生まれる",
+      "shortTitle": "惑星間保険産業",
+      "category": "Society & Economy",
+      "description": "初の惑星間保険産業の出現は、地球–月経済活動に必要な最初の法制度、金融制度、文化制度、保険制度を築きます。",
+      "layerId": "society-economy",
+      "domains": [
+        "social-systems",
+        "economy",
+        "public-services"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2066,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "惑星間保険産業の出現は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "デジタル公共インフラが相互運用可能になる",
+        "自動化と宇宙サービスを中心に新しい経済システムが形成される",
+        "法制度が新しい技術的現実へ適応する"
+      ],
+      "implications": [
+        "サービスへのアクセスがより簡単でグローバルになる",
+        "宇宙商業の正当性が高まる",
+        "経済生活がよりデジタル化し、国境を越える"
+      ],
+      "image": {
+        "alt": "初の惑星間保険産業が生まれる",
+        "prompts": [
+          "first Interplanetary Insurance Industry Emerges, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Interplanetary Insurance Industry Emerges, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Interplanetary Insurance Industry Emerges, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Interplanetary Insurance Industry Emerges, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-interplanetary-insurance-industry-emerges.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-interplanetary-insurance-industry-emerges.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-interplanetary-insurance-industry-emerges.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-earth-moon-digital-currency-standard-gains-adoption",
+      "order": 45,
+      "slug": "earth-moon-digital-currency-standard-gains-adoption",
+      "title": "地球–月デジタル通貨標準が採用され始める",
+      "shortTitle": "地球–月デジタル通貨",
+      "category": "Society & Economy",
+      "description": "地球–月デジタル通貨標準の採用は、地球–月経済活動に必要な最初の法制度、金融制度、文化制度、保険制度を築きます。",
+      "layerId": "society-economy",
+      "domains": [
+        "social-systems",
+        "economy",
+        "public-services"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "地球–月デジタル通貨標準の採用は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "デジタル公共インフラが相互運用可能になる",
+        "自動化と宇宙サービスを中心に新しい経済システムが形成される",
+        "法制度が新しい技術的現実へ適応する"
+      ],
+      "implications": [
+        "サービスへのアクセスがより簡単でグローバルになる",
+        "宇宙商業の正当性が高まる",
+        "経済生活がよりデジタル化し、国境を越える"
+      ],
+      "image": {
+        "alt": "地球–月デジタル通貨標準が採用され始める",
+        "prompts": [
+          "earth-Moon Digital Currency Standard Gains Adoption, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon Digital Currency Standard Gains Adoption, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon Digital Currency Standard Gains Adoption, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon Digital Currency Standard Gains Adoption, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-earth-moon-digital-currency-standard-gains-adoption.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-earth-moon-digital-currency-standard-gains-adoption.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-earth-moon-digital-currency-standard-gains-adoption.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-permanent-lunar-settlement-reaches-1-000-residents",
+      "order": 46,
+      "slug": "first-permanent-lunar-settlement-reaches-1-000-residents",
+      "title": "初の恒久月面居住地が1,000人規模に到達する",
+      "shortTitle": "1,000人規模の恒久月面居住地",
+      "category": "Civilization",
+      "description": "初の恒久月面居住地が1,000人に達することは、地球外文明における最初の認識可能な制度、定住地、文化、緊急システムを示します。",
+      "layerId": "civilization",
+      "domains": [
+        "future-civilization",
+        "governance",
+        "institutions"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2067,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "初の恒久月面居住地が1,000人規模に到達することは、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "宇宙とテクノロジーを中心に新しい制度が形成される",
+        "恒久的な定住が計画上の前提になる",
+        "文化活動が地球の外へ広がる"
+      ],
+      "implications": [
+        "文明が地球だけのシステムを越え始める",
+        "地球外生活のための共有ルールが必要になる",
+        "人間のアイデンティティがシスルナー社会へ拡張し始める"
+      ],
+      "image": {
+        "alt": "初の恒久月面居住地が1,000人規模に到達する",
+        "prompts": [
+          "first Permanent Lunar Settlement Reaches 1,000 Residents, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Permanent Lunar Settlement Reaches 1,000 Residents, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Permanent Lunar Settlement Reaches 1,000 Residents, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Permanent Lunar Settlement Reaches 1,000 Residents, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-permanent-lunar-settlement-reaches-1-000-residents.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars",
+      "order": 47,
+      "slug": "earth-moon-trade-volume-exceeds-one-trillion-dollars",
+      "title": "地球–月貿易額が1兆ドルを超える",
+      "shortTitle": "地球–月貿易額が1兆ドル超へ",
+      "category": "Civilization",
+      "description": "地球–月貿易額が1兆ドルを超えることは、地球外文明における最初の認識可能な制度、定住地、文化、緊急システムを示します。",
+      "layerId": "civilization",
+      "domains": [
+        "future-civilization",
+        "governance",
+        "institutions"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "地球–月貿易額が1兆ドルを超えることは、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "宇宙とテクノロジーを中心に新しい制度が形成される",
+        "恒久的な定住が計画上の前提になる",
+        "文化活動が地球の外へ広がる"
+      ],
+      "implications": [
+        "文明が地球だけのシステムを越え始める",
+        "地球外生活のための共有ルールが必要になる",
+        "人間のアイデンティティがシスルナー社会へ拡張し始める"
+      ],
+      "image": {
+        "alt": "地球–月貿易額が1兆ドルを超える",
+        "prompts": [
+          "earth-Moon Trade Volume Exceeds One Trillion Dollars, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing earth-Moon Trade Volume Exceeds One Trillion Dollars, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of earth-Moon Trade Volume Exceeds One Trillion Dollars, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating earth-Moon Trade Volume Exceeds One Trillion Dollars, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-earth-moon-trade-volume-exceeds-one-trillion-dollars.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-first-space-university-opens-on-the-moon",
+      "order": 48,
+      "slug": "first-space-university-opens-on-the-moon",
+      "title": "初の宇宙大学が月に開校する",
+      "shortTitle": "月面宇宙大学",
+      "category": "Civilization",
+      "description": "初の宇宙大学が月に開校することは、地球外文明における最初の認識可能な制度、定住地、文化、緊急システムを示します。",
+      "layerId": "civilization",
+      "domains": [
+        "future-civilization",
+        "governance",
+        "institutions"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2068,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "月面での初の宇宙大学開校は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "宇宙とテクノロジーを中心に新しい制度が形成される",
+        "恒久的な定住が計画上の前提になる",
+        "文化活動が地球の外へ広がる"
+      ],
+      "implications": [
+        "文明が地球だけのシステムを越え始める",
+        "地球外生活のための共有ルールが必要になる",
+        "人間のアイデンティティがシスルナー社会へ拡張し始める"
+      ],
+      "image": {
+        "alt": "初の宇宙大学が月に開校する",
+        "prompts": [
+          "first Space University Opens on the Moon, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing first Space University Opens on the Moon, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of first Space University Opens on the Moon, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating first Space University Opens on the Moon, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-first-space-university-opens-on-the-moon.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-first-space-university-opens-on-the-moon.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-first-space-university-opens-on-the-moon.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-first-space-university-opens-on-the-moon.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-first-space-university-opens-on-the-moon.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-interplanetary-emergency-response-alliance-is-established",
+      "order": 49,
+      "slug": "interplanetary-emergency-response-alliance-is-established",
+      "title": "惑星間緊急対応アライアンスが設立される",
+      "shortTitle": "惑星間緊急対応アライアンス",
+      "category": "Civilization",
+      "description": "惑星間緊急対応アライアンスの設立は、地球外文明における最初の認識可能な制度、定住地、文化、緊急システムを示します。",
+      "layerId": "civilization",
+      "domains": [
+        "future-civilization",
+        "governance",
+        "institutions"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2069,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "惑星間緊急対応アライアンスの設立は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "宇宙とテクノロジーを中心に新しい制度が形成される",
+        "恒久的な定住が計画上の前提になる",
+        "文化活動が地球の外へ広がる"
+      ],
+      "implications": [
+        "文明が地球だけのシステムを越え始める",
+        "地球外生活のための共有ルールが必要になる",
+        "人間のアイデンティティがシスルナー社会へ拡張し始める"
+      ],
+      "image": {
+        "alt": "惑星間緊急対応アライアンスが設立される",
+        "prompts": [
+          "interplanetary Emergency Response Alliance Is Established, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing interplanetary Emergency Response Alliance Is Established, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of interplanetary Emergency Response Alliance Is Established, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating interplanetary Emergency Response Alliance Is Established, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-interplanetary-emergency-response-alliance-is-established.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-interplanetary-emergency-response-alliance-is-established.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-interplanetary-emergency-response-alliance-is-established.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    },
+    {
+      "id": "era-02-annual-earth-moon-cultural-festival-becomes-tradition",
+      "order": 50,
+      "slug": "annual-earth-moon-cultural-festival-becomes-tradition",
+      "title": "毎年恒例の地球–月文化祭が伝統になる",
+      "shortTitle": "地球–月文化祭",
+      "category": "Civilization",
+      "description": "毎年恒例の地球–月文化祭が伝統になることは、地球外文明における最初の認識可能な制度、定住地、文化、緊急システムを示します。",
+      "layerId": "civilization",
+      "domains": [
+        "future-civilization",
+        "governance",
+        "institutions"
+      ],
+      "maturity": "cislunar-adoption",
+      "timeframe": {
+        "startYear": 2069,
+        "endYear": 2070
+      },
+      "impactLevel": "very-high",
+      "civilizationImpact": "毎年恒例の地球–月文化祭は、初期宇宙文明を特徴づけるマイルストーンとなり、人類が孤立したミッションから恒久的な地球外システムへ進むことを支えます。",
+      "signals": [
+        "宇宙とテクノロジーを中心に新しい制度が形成される",
+        "恒久的な定住が計画上の前提になる",
+        "文化活動が地球の外へ広がる"
+      ],
+      "implications": [
+        "文明が地球だけのシステムを越え始める",
+        "地球外生活のための共有ルールが必要になる",
+        "人間のアイデンティティがシスルナー社会へ拡張し始める"
+      ],
+      "image": {
+        "alt": "毎年恒例の地球–月文化祭が伝統になる",
+        "prompts": [
+          "annual Earth-Moon Cultural Festival Becomes Tradition, clean futuristic documentary realism, Thai people as visible human heroes where appropriate, no text overlay, 16:9",
+          "Wide cinematic panorama showing annual Earth-Moon Cultural Festival Becomes Tradition, early space civilization across Earth orbit, the Moon, Mars logistics, lunar industry, and space institutions, optimistic realistic future, no text, 16:9",
+          "Human-centered scene of annual Earth-Moon Cultural Festival Becomes Tradition, practical advanced technology, clean scientific documentary style, no labels, 16:9",
+          "Detailed future civilization scene illustrating annual Earth-Moon Cultural Festival Becomes Tradition, soft natural light, 85mm lens look, realistic and hopeful, no text overlay, 16:9"
+        ],
+        "src": "/future-roadmap/era-02/era-02-annual-earth-moon-cultural-festival-becomes-tradition.png",
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": "16:9",
+        "mobile": {
+          "src": "/future-roadmap/era-02/mobile/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "width": 960,
+          "height": 540,
+          "quality": 78
+        },
+        "thumbnail": {
+          "src": "/future-roadmap/era-02/thumbnail/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "width": 640,
+          "height": 360,
+          "quality": 72
+        },
+        "desktop": {
+          "src": "/future-roadmap/era-02/desktop/era-02-annual-earth-moon-cultural-festival-becomes-tradition.webp",
+          "width": 1920,
+          "height": 1080,
+          "quality": 82
+        },
+        "open_graph": {
+          "src": "/images-opengraph/future-roadmap/era-02/open_graph/era-02-annual-earth-moon-cultural-festival-becomes-tradition.png",
+          "width": 1200,
+          "height": 630,
+          "quality": 82
+        }
+      }
+    }
+  ]
+}
