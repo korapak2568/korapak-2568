@@ -13,6 +13,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return withLocalizedAlternates(
     MetadataWebDevelopment[lang] ?? MetadataWebDevelopment.en,
     "/technology/",
+    lang,
   );
 }
 

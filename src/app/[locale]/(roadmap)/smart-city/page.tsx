@@ -10,11 +10,14 @@ const smartCityOgImage =
     "/images-opengraph/smart-city/hero-section/city-shaped-by-people-move.png";
 
 export async function generateMetadata(): Promise<Metadata> {
+    const headersList = await headers();
+    const lang = headersList.get("x-locale") || "en";
+
     return {
         title: "Smart City | Chorn Planet",
         description:
             "Smart City from Chorn Planet studies human flow, mobility, public space, logistics, and city systems through practical urban observation.",
-        alternates: getLocalizedAlternates("/smart-city/"),
+        alternates: getLocalizedAlternates("/smart-city/", lang),
         openGraph: {
             title: "Smart City | Chorn Planet",
             description:

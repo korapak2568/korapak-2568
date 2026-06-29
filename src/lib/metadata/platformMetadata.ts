@@ -128,7 +128,7 @@ export async function getPlatformMetadata(
   return {
     title: source.title,
     description: source.description,
-    alternates: getLocalizedAlternates(targetPath),
+    alternates: getLocalizedAlternates(targetPath, locale),
     openGraph: {
       title: openGraphTitle,
       description: source.description,

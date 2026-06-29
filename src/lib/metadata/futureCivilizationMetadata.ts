@@ -50,7 +50,7 @@ export function getFutureCivilizationMetadata(locale?: string): Metadata {
   return {
     title,
     description: manifest.description,
-    alternates: getLocalizedAlternates(targetPath),
+    alternates: getLocalizedAlternates(targetPath, locale),
     openGraph: {
       title,
       description: manifest.description,
@@ -92,7 +92,7 @@ export function getFutureCivilizationEraMetadata(
   return {
     title,
     description,
-    alternates: getLocalizedAlternates(targetPath),
+    alternates: getLocalizedAlternates(targetPath, locale),
     openGraph: {
       title,
       description,
@@ -134,7 +134,7 @@ export function getFutureCivilizationItemMetadata(
   return {
     title,
     description: item.description,
-    alternates: getLocalizedAlternates(targetPath),
+    alternates: getLocalizedAlternates(targetPath, locale),
     openGraph: {
       title,
       description: item.description,

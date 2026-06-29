@@ -68,7 +68,7 @@ export async function generateMetadata({
   return {
     title,
     description,
-    alternates: getLocalizedAlternates("/story/"),
+    alternates: getLocalizedAlternates("/story/", locale),
     openGraph: {
       title,
       description,
