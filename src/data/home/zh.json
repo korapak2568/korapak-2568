@@ -56,26 +56,26 @@
             "title": "AI 奢华项目",
             "description": "面向奢华地产、目的地叙事与未来生活方式概念的聚焦层。",
             "image": {
-              "src": "/images/ai-luxury/hero-ai-luxury-real-estate-platform.png",
+              "src": "/assets/luxury/hero-ai-luxury-real-estate-platform.png",
               "alt": "AI 奢华项目",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.ai-luxury",
               "mobile": {
-                "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+                "src": "/assets/luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+                "src": "/assets/luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+                "src": "/assets/luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
@@ -90,26 +90,26 @@
             "title": "科技平台",
             "description": "承载软件、AI、云与平台工程能力的实用空间。",
             "image": {
-              "src": "/images/features/morning-sky-optimize.webp",
+              "src": "/assets/technology/features/morning-sky-optimize.webp",
               "alt": "科技平台视觉",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.technology",
               "mobile": {
-                "src": "/images/features/mobile/morning-sky-optimize.webp",
+                "src": "/assets/technology/features/mobile/morning-sky-optimize.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images/features/thumbnail/morning-sky-optimize.webp",
+                "src": "/assets/technology/features/thumbnail/morning-sky-optimize.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images/features/desktop/morning-sky-optimize.webp",
+                "src": "/assets/technology/features/desktop/morning-sky-optimize.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82

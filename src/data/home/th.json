@@ -56,26 +56,26 @@
             "title": "โครงการเอไอลักชัวรี",
             "description": "เลเยอร์ที่โฟกัสด้านอสังหาริมทรัพย์หรู เรื่องเล่าของจุดหมายปลายทาง และแนวคิดไลฟ์สไตล์อนาคต",
             "image": {
-              "src": "/images/ai-luxury/hero-ai-luxury-real-estate-platform.png",
+              "src": "/assets/luxury/hero-ai-luxury-real-estate-platform.png",
               "alt": "โครงการเอไอลักชัวรี",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.ai-luxury",
               "mobile": {
-                "src": "/images/ai-luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
+                "src": "/assets/luxury/mobile/hero-ai-luxury-real-estate-platform.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images/ai-luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
+                "src": "/assets/luxury/thumbnail/hero-ai-luxury-real-estate-platform.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images/ai-luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
+                "src": "/assets/luxury/desktop/hero-ai-luxury-real-estate-platform.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
@@ -90,26 +90,26 @@
             "title": "แพลตฟอร์มเทคโนโลยี",
             "description": "พื้นที่เชิงปฏิบัติสำหรับซอฟต์แวร์ AI คลาวด์ และความสามารถด้านวิศวกรรมแพลตฟอร์ม",
             "image": {
-              "src": "/images/features/morning-sky-optimize.webp",
+              "src": "/assets/technology/features/morning-sky-optimize.webp",
               "alt": "ภาพแพลตฟอร์มเทคโนโลยี",
               "width": 1200,
               "height": 900,
               "aspectRatio": "4:3",
               "positionKey": "home.sections.phase-1.technology",
               "mobile": {
-                "src": "/images/features/mobile/morning-sky-optimize.webp",
+                "src": "/assets/technology/features/mobile/morning-sky-optimize.webp",
                 "width": 768,
                 "height": 576,
                 "quality": 78
               },
               "thumbnail": {
-                "src": "/images/features/thumbnail/morning-sky-optimize.webp",
+                "src": "/assets/technology/features/thumbnail/morning-sky-optimize.webp",
                 "width": 480,
                 "height": 360,
                 "quality": 72
               },
               "desktop": {
-                "src": "/images/features/desktop/morning-sky-optimize.webp",
+                "src": "/assets/technology/features/desktop/morning-sky-optimize.webp",
                 "width": 1200,
                 "height": 900,
                 "quality": 82
